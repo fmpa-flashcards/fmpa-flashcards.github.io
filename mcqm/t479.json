@@ -1,0 +1,4551 @@
+[
+ {
+  "q": "Concernant l'immunité adaptative, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Elle constitue la deuxième ligne de défense, mise en oeuvre après le franchissement de la première barrière inflammatoire",
+   "Elle est le prolongement de l'immunité innée",
+   "Elle est spécifique de l'antigène",
+   "Elle s'installe immédiatement, sans aucune latence",
+   "Elle engendre des cellules mémoire à longue durée de vie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'immunité adaptative est le deuxième bouclier protecteur, après la réaction inflammatoire.",
+   "Exact : d'après le cours, l'immunité adaptative est le prolongement de l'immunité innée.",
+   "Exact : contrairement à l'immunité innée, elle est spécifique de l'antigène.",
+   "Inexact : son installation nécessite plusieurs jours (activation, prolifération, différenciation).",
+   "Exact : elle génère des cellules mémoire quiescentes à longue durée de vie."
+  ]
+ },
+ {
+  "q": "Concernant la réponse immunitaire cellulaire spécifique, lesquelles sont exactes ?",
+  "options": [
+   "Elle est médiée par les lymphocytes T cytotoxiques CD8",
+   "Elle est dirigée contre les cellules infectées par les virus",
+   "Elle comprend plusieurs étapes de production de LT cytotoxiques",
+   "Elle aboutit à la lyse des cellules cibles",
+   "Elle ne nécessite aucune coopération avec les LT helpers CD4"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LTc CD8 sont les effecteurs de la réponse cellulaire spécifique.",
+   "Exact : elle est dirigée contre les cellules infectées, notamment par les virus.",
+   "Exact : la réponse cytotoxique comprend plusieurs étapes de production des LTc.",
+   "Exact : la phase effectrice est la lyse de la cellule cible.",
+   "Inexact : elle requiert la coopération DC-LTH1, avec sécrétion d'IL2 par le LTH1 vers le LTc."
+  ]
+ },
+ {
+  "q": "Les lymphocytes T helpers CD4 (LTH) :",
+  "options": [
+   "Ils constituent le centre de la réponse adaptative",
+   "Ils activent les cellules effectrices de l'immunité : LT cytotoxiques CD8, LB et macrophages",
+   "Ils agissent grâce aux cytokines qu'ils sécrètent",
+   "Ils reconnaissent directement l'antigène natif",
+   "Ils présentent l'antigène aux autres lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le LTH est le centre de la réponse adaptative.",
+   "Exact : les LTH effecteurs activent les LTc CD8, les LB et les macrophages.",
+   "Exact : chaque sous-population de LTH agit par les cytokines qu'elle sécrète.",
+   "Inexact : le LTH est incapable de reconnaître un antigène natif ; l'antigène doit être apprêté par une CPA.",
+   "Inexact : la présentation de l'antigène est assurée par les cellules présentatrices d'antigène (CPA)."
+  ]
+ },
+ {
+  "q": "Les grandes étapes de la réponse immunitaire adaptative sont :",
+  "options": [
+   "Capture de l'antigène dans le tissu infecté par la cellule dendritique, qui s'active et migre vers le ganglion le plus proche",
+   "Présentation de l'antigène par la cellule dendritique au LTH",
+   "Coopération cellulaire entre la cellule dendritique et le LTH, aboutissant à un clone de LTH effecteurs",
+   "Activation par les LTH effecteurs des cellules effectrices : LT cytotoxiques CD8, LB et macrophages",
+   "Phagocytose directe de l'antigène par le LTH dans le tissu infecté"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la DC capte l'antigène dans le tissu infecté, s'active et migre vers le ganglion le plus proche.",
+   "Exact : la DC présente l'antigène au LTH dans l'organe lymphoïde secondaire.",
+   "Exact : la coopération DC-LTH donne un clone de LTH effecteurs.",
+   "Exact : les LTH effecteurs organisent la réponse adaptative en activant LTc CD8, LB et macrophages.",
+   "Inexact : le LTH ne phagocyte pas ; la capture est assurée par la DC."
+  ]
+ },
+ {
+  "q": "Concernant la reconnaissance de l'antigène par le lymphocyte T helper, lesquelles sont exactes ?",
+  "options": [
+   "Le LTH est incapable de reconnaître un antigène natif",
+   "L'antigène doit être préalablement apprêté en peptides par une CPA",
+   "L'antigène est présenté au LTH par la molécule du CMH de classe II",
+   "Le TCR du LTH reconnaît le complexe peptide-CMH II",
+   "Le BCR du LTH reconnaît l'antigène natif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTH ne reconnaît pas l'antigène natif.",
+   "Exact : l'antigène doit être apprêté en peptides par une CPA avant présentation.",
+   "Exact : la CPA présente le peptide par sa molécule du CMH de classe II au TCR du LTH CD4.",
+   "Exact : le TCR spécifique reconnaît le complexe peptide-CMH II.",
+   "Inexact : le LTH n'exprime pas de BCR ; il exprime exclusivement le TCR."
+  ]
+ },
+ {
+  "q": "Les cellules présentatrices d'antigène (CPA) professionnelles sont :",
+  "options": [
+   "Les cellules dendritiques, qui sont les plus efficaces",
+   "Les macrophages",
+   "Les lymphocytes B",
+   "Les cellules épithéliales",
+   "Elles présentent l'antigène par la molécule du CMH de classe II"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les cellules dendritiques sont les CPA les plus efficaces.",
+   "Exact : les macrophages sont des CPA professionnelles.",
+   "Exact : les lymphocytes B sont des CPA professionnelles.",
+   "Inexact : les cellules épithéliales sont des CPA non professionnelles, qui ne présentent l'antigène qu'à l'occasion.",
+   "Exact : les CPA professionnelles présentent le peptide par le CMH de classe II."
+  ]
+ },
+ {
+  "q": "Les CPA non professionnelles :",
+  "options": [
+   "Comprennent les cellules épithéliales",
+   "Comprennent les cellules endothéliales vasculaires",
+   "Ne présentent l'antigène qu'à l'occasion",
+   "Comprennent les lymphocytes B",
+   "Comprennent les cellules dendritiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les cellules épithéliales sont des CPA non professionnelles.",
+   "Exact : les cellules endothéliales vasculaires sont des CPA non professionnelles.",
+   "Exact : elles ne deviennent CPA qu'à l'occasion.",
+   "Inexact : les lymphocytes B sont des CPA professionnelles.",
+   "Inexact : les cellules dendritiques sont des CPA professionnelles."
+  ]
+ },
+ {
+  "q": "L'apprêtement de l'antigène par la CPA comprend :",
+  "options": [
+   "Une dégradation protéolytique de l'antigène en peptides",
+   "L'association des peptides aux molécules du CMH",
+   "L'expression membranaire des complexes CMH-peptide",
+   "La sécrétion de l'antigène natif dans le milieu extracellulaire",
+   "La phagocytose de l'antigène par le lymphocyte T"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'antigène subit une dégradation protéolytique en peptides.",
+   "Exact : les peptides s'associent aux molécules du CMH.",
+   "Exact : les complexes CMH-peptide sont exprimés à la membrane de la CPA.",
+   "Inexact : c'est le complexe CMH-peptide, et non l'antigène natif, qui est exprimé en surface.",
+   "Inexact : la phagocytose est assurée par la CPA, non par le lymphocyte T."
+  ]
+ },
+ {
+  "q": "Concernant la présentation de l'antigène au lymphocyte T helper, lesquelles sont exactes ?",
+  "options": [
+   "La CPA présente le peptide par sa molécule du CMH de classe II",
+   "Le TCR spécifique du LTH reconnaît le complexe peptide-CMH II",
+   "Une synapse immunologique se forme entre la CPA et le LTH",
+   "La reconnaissance s'accompagne de signaux de costimulation",
+   "Le LTH CD4 reconnaît le peptide associé au CMH de classe I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la CPA apprête l'antigène et le présente par le CMH de classe II au TCR du LTH CD4.",
+   "Exact : le TCR spécifique reconnaît le complexe peptide-CMH II.",
+   "Exact : l'interaction DC-LTH forme une synapse immunologique.",
+   "Exact : la costimulation (B7-CD28, CD40-CD40L) accompagne la reconnaissance.",
+   "Inexact : le corécepteur CD4 du LTH se lie au CMH de classe II, non de classe I."
+  ]
+ },
+ {
+  "q": "La coopération cellulaire entre la cellule dendritique et le LTH :",
+  "options": [
+   "A lieu dans les organes lymphoïdes secondaires, notamment les ganglions",
+   "Nécessite la présentation du peptide par le CMH de classe II",
+   "Requiert les molécules de costimulation",
+   "Aboutit à un clone de LTH effecteurs",
+   "Se déroule dans le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la rencontre DC-LTH a lieu dans les ganglions, organes lymphoïdes secondaires.",
+   "Exact : la présentation du peptide par le CMH II au TCR est indispensable.",
+   "Exact : les molécules de costimulation consolident l'interaction.",
+   "Exact : la coopération DC-LTH aboutit à un clone de LTH effecteurs.",
+   "Inexact : le thymus est le lieu de maturation des LT, non de leur activation."
+  ]
+ },
+ {
+  "q": "Le lymphocyte T helper activé :",
+  "options": [
+   "Prolifère pour former un large clone cellulaire",
+   "Se différencie en LTH effecteurs",
+   "Se différencie en LTH mémoire quiescents à longue durée de vie",
+   "Sécrète des cytokines qui orientent la réponse immunitaire",
+   "Reste bloqué en phase G0 du cycle cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'activation aboutit à la prolifération en un large clone cellulaire.",
+   "Exact : le LTH se différencie en LTH effecteurs (TH1, TH2, TH17, Treg).",
+   "Exact : il génère aussi des cellules T mémoire à G0 et longue durée de vie.",
+   "Exact : chaque sous-population agit par les cytokines qu'elle sécrète.",
+   "Inexact : sous l'effet des signaux 1 et 2, le LTH passe de G0 à G1 et sa multiplication est initiée."
+  ]
+ },
+ {
+  "q": "Concernant le rôle central du LTH dans la réponse adaptative :",
+  "options": [
+   "Il organise la réponse adaptative en activant les cellules effectrices",
+   "Il aide le LT cytotoxique CD8 à se différencier",
+   "Il aide le lymphocyte B dans la réponse humorale",
+   "Il active les macrophages",
+   "Il assure seul la lyse des cellules infectées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LTH effecteurs organisent la RI adaptative.",
+   "Exact : le LTH1 aide la différenciation des LT cytotoxiques CD8.",
+   "Exact : le LTH2 aide le LB à proliférer et à se différencier.",
+   "Exact : le TH1 active les macrophages via l'IFNγ.",
+   "Inexact : la lyse est assurée par les LT cytotoxiques CD8 effecteurs, non par le LTH."
+  ]
+ },
+ {
+  "q": "La réponse immunitaire cellulaire spécifique se distingue de la réponse humorale par :",
+  "options": [
+   "Ses effecteurs sont des cellules : les LT cytotoxiques CD8",
+   "Elle détruit les cellules infectées plutôt que de neutraliser des pathogènes libres",
+   "Elle repose sur les anticorps sécrétés",
+   "Elle est médiée par les plasmocytes",
+   "Elle utilise des granules lytiques contenant perforine et granzymes"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : la réponse cellulaire est médiée par les LTc CD8.",
+   "Exact : elle lyse les cellules infectées, tandis que l'humorale neutralise les pathogènes libres.",
+   "Inexact : les anticorps sont les effecteurs de la réponse humorale.",
+   "Inexact : les plasmocytes sont les effecteurs de la réponse humorale.",
+   "Exact : les LTc effecteurs lysent via leurs granules de perforine et granzymes."
+  ]
+ },
+ {
+  "q": "Parmi les cellules suivantes, lesquelles participent à la réponse immunitaire cellulaire spécifique ?",
+  "options": [
+   "Les cellules dendritiques",
+   "Les LT helpers CD4",
+   "Les LT cytotoxiques CD8",
+   "Les macrophages",
+   "Les plasmocytes sécréteurs d'immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la DC initie la réponse en présentant l'antigène au LTH.",
+   "Exact : le LTH CD4 est le centre de la réponse adaptative.",
+   "Exact : le LTc CD8 est l'effecteur cytotoxique.",
+   "Exact : le macrophage est activé par le TH1 et participe à la réponse.",
+   "Inexact : les plasmocytes sont les effecteurs de la réponse humorale."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes en général :",
+  "options": [
+   "Ils représentent 20 à 30 % des globules blancs",
+   "Ils constituent 99 % des cellules de la lymphe",
+   "Au repos, LB et LT sont des cellules naïves",
+   "Au contact de l'antigène, ils se différencient en cellules effectrices et en cellules mémoire",
+   "On distingue morphologiquement les LB des LT au microscope optique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les lymphocytes représentent 20 à 30 % des GB (1500 à 4000/µl).",
+   "Exact : ils constituent 99 % des cellules de la lymphe.",
+   "Exact : au repos, LB et LT sont des cellules naïves.",
+   "Exact : au contact de l'antigène, ils se différencient en effecteurs et en cellules mémoire.",
+   "Inexact : il n'existe pas de distinction morphologique entre LB et LT ; on les distingue par leurs marqueurs."
+  ]
+ },
+ {
+  "q": "Les cellules effectrices activées par les LTH effecteurs sont :",
+  "options": [
+   "Les LT cytotoxiques CD8",
+   "Les lymphocytes B",
+   "Les macrophages",
+   "Les cellules NK",
+   "Les polynucléaires neutrophiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les LTH effecteurs activent les LT cytotoxiques CD8.",
+   "Exact : les LTH effecteurs activent les LB.",
+   "Exact : les LTH effecteurs activent les macrophages.",
+   "Inexact : les NK sont des effecteurs de l'immunité innée, non organisés par les LTH.",
+   "Inexact : les PNN appartiennent à l'immunité innée."
+  ]
+ },
+ {
+  "q": "L'activation du macrophage par le LTH1 :",
+  "options": [
+   "Fait intervenir l'IFNγ sécrété par le TH1",
+   "Augmente le pouvoir microbicide du macrophage",
+   "Participe à la lutte contre les agents pathogènes intracellulaires",
+   "Est médiée par les anticorps",
+   "Nécessite la reconnaissance du peptide-CMH I par le macrophage"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le TH1 sécrète l'IFNγ qui active les macrophages.",
+   "Exact : le macrophage activé voit son pouvoir microbicide augmenté.",
+   "Exact : cela participe à la lutte contre les agents pathogènes intracellulaires.",
+   "Inexact : l'activation du macrophage par le TH1 est cytokinique, non humorale.",
+   "Inexact : le macrophage n'est pas un lymphocyte T ; il ne reconnaît pas le peptide-CMH via un TCR."
+  ]
+ },
+ {
+  "q": "La différenciation du LT cytotoxique CD8 nécessite :",
+  "options": [
+   "L'aide du LTH1",
+   "La sécrétion d'IL2 par le LTH1 activé vers le LTc CD8",
+   "La coopération entre LTc, DC et LTH1",
+   "La formation d'une synapse immunologique DC/LTc",
+   "La sécrétion d'IL4 par le LTH2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la différenciation des LT cytotoxiques CD8 nécessite l'aide du LTH1.",
+   "Exact : le LTH1 activé sécrète de l'IL2 vers le LTc CD8.",
+   "Exact : il existe une coopération entre LTc, DC et LTH1.",
+   "Exact : une synapse immunologique DC/LTc se forme lors de la sélection clonale.",
+   "Inexact : l'IL4 est sécrétée par le TH2 pour aider les LB, non les LTc."
+  ]
+ },
+ {
+  "q": "Concernant l'aide du LTH au lymphocyte B :",
+  "options": [
+   "Le LTH2 aide le LB à proliférer et à se différencier",
+   "Les cytokines IL4, IL5 et IL6 du TH2 favorisent la différenciation du LB",
+   "Un conjugué B-TH se forme via CD40/CD40L et B7/CD28",
+   "Le LB présente l'antigène apprêté par le CMH II au LTH2",
+   "Le LTH1 sécrète de l'IL4 pour aider le LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TH2 favorise la prolifération et la différenciation des LB.",
+   "Exact : IL4, IL5 et IL6 du TH2 agissent sur le LB.",
+   "Exact : le conjugué B-TH se forme via les liaisons CD40/CD40L et B7/CD28.",
+   "Exact : le LB, en tant que CPA, présente le peptide par le CMH II au LTH2.",
+   "Inexact : l'IL4 est sécrétée par le TH2, non par le TH1."
+  ]
+ },
+ {
+  "q": "Le LTH, centre de la réponse adaptative :",
+  "options": [
+   "Il est activé par une CPA, notamment la cellule dendritique",
+   "Il prolifère en un large clone cellulaire",
+   "Il se différencie en 4 sous-populations d'effecteurs : TH1, TH2, TH17 et Treg",
+   "Il génère des cellules T mémoire à longue durée de vie",
+   "Il sécrète des anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTH CD4 est activé via une CPA, la DC étant la plus efficace.",
+   "Exact : l'activation aboutit à la prolifération en un large clone.",
+   "Exact : le LTH se différencie en TH1, TH2, TH17 et Treg.",
+   "Exact : il génère aussi des cellules T mémoire à G0 et longue durée de vie.",
+   "Inexact : les anticorps sont sécrétés par les plasmocytes dérivés des LB."
+  ]
+ },
+ {
+  "q": "Concernant la migration des cellules de la réponse adaptative :",
+  "options": [
+   "Le LTH CD4 circule dans le sang et la lymphe",
+   "La DC migre du tissu infecté vers le ganglion le plus proche",
+   "Le LTc effecteur migre par la lymphe puis le sang vers le tissu infecté",
+   "Le LTH gagne les ganglions via la circulation",
+   "Le LTc effecteur reste confiné dans le ganglion"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTH CD4 circule dans le sang et la lymphe.",
+   "Exact : la DC achemine l'antigène apprêté vers le ganglion le plus proche du site d'agression.",
+   "Exact : le LTc effecteur migre par la lymphe puis le sang vers le tissu infecté.",
+   "Exact : le LTH arrive au niveau des ganglions par la circulation.",
+   "Inexact : le LTc effecteur quitte le ganglion pour rejoindre le tissu infecté."
+  ]
+ },
+ {
+  "q": "La réponse immunitaire adaptative, prolongement de l'immunité innée :",
+  "options": [
+   "Elle est initiée après la réaction inflammatoire",
+   "Les cellules dendritiques font le lien entre immunité innée et adaptative",
+   "Elle est plus spécifique que l'immunité innée",
+   "Son installation est plus lente que celle de l'immunité innée",
+   "Elle remplace totalement l'immunité innée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : elle se met en action une fois la première barrière inflammatoire franchie.",
+   "Exact : les DC, cellules de l'inné, initient l'adaptative en présentant l'antigène.",
+   "Exact : l'adaptative est spécifique de l'antigène, l'innée est moins spécifique.",
+   "Exact : l'adaptative nécessite plusieurs jours, l'innée est immédiate.",
+   "Inexact : elle est le prolongement de l'innée, elle ne la remplace pas."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines dans la réponse adaptative cellulaire :",
+  "options": [
+   "Elles assurent l'échange intercellulaire d'informations",
+   "L'IL2 est un activateur lymphocytaire",
+   "L'IFNγ participe à l'activation des macrophages",
+   "Elles sont sécrétées exclusivement par les lymphocytes T",
+   "Le TGFβ et l'IL10 ont une activité régulatrice"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les cytokines sont les médiateurs des actions intercellulaires.",
+   "Exact : l'IL2 est décrite comme activateur lymphocytaire.",
+   "Exact : l'IFNγ du TH1 active les macrophages.",
+   "Inexact : les cytokines sont aussi sécrétées par les DC, les macrophages et d'autres cellules.",
+   "Exact : le TGFβ et l'IL10 du Treg ont une activité anti-inflammatoire et régulatrice."
+  ]
+ },
+ {
+  "q": "Le lymphocyte T naïf :",
+  "options": [
+   "Est une petite cellule au repos en phase G0",
+   "Exprime le complexe TCR-CD3",
+   "Ne reconnaît l'antigène qu'après apprêtement par une CPA",
+   "Est déjà différencié en effecteur",
+   "Circule entre le sang, la lymphe et les organes lymphoïdes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le LT naïf est une petite cellule au repos, en phase G0.",
+   "Exact : il exprime le complexe TCR-CD3 et le corécepteur CD4 ou CD8.",
+   "Exact : il ne reconnaît que le peptide apprêté et présenté par une CPA.",
+   "Inexact : la différenciation en effecteur fait suite à l'activation antigénique.",
+   "Exact : il circule entre le sang, la lymphe et les organes lymphoïdes secondaires."
+  ]
+ },
+ {
+  "q": "Concernant la spécificité de la réponse cellulaire adaptative :",
+  "options": [
+   "Chaque clone de LTc reconnaît un peptide spécifique via son TCR",
+   "La sélection clonale amplifie les LTc spécifiques de l'antigène",
+   "Tous les LTc sont activés quel que soit l'antigène",
+   "Les clones générés ont la même spécificité antigénique (réponse monoclonale)",
+   "Le TCR du LTc reconnaît le peptide présenté par la DC lors de la sélection clonale"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : chaque clone exprime un TCR de spécificité unique.",
+   "Exact : la sélection clonale amplifie les clones spécifiques.",
+   "Inexact : seuls les clones dont le TCR reconnaît l'antigène sont sélectionnés et amplifiés.",
+   "Exact : les clones issus de la prolifération ont la même spécificité antigénique.",
+   "Exact : lors de la sélection clonale, le LTc reconnaît par son TCR le peptide présenté par la DC."
+  ]
+ },
+ {
+  "q": "Les cellules dendritiques :",
+  "options": [
+   "Sont les CPA les plus efficaces",
+   "Captent l'antigène dans le tissu infecté",
+   "S'activent puis migrent vers l'organe lymphoïde secondaire le plus proche",
+   "Présentent l'antigène au LTH naïf",
+   "Présentent l'antigène natif non apprêté au LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les DC sont les CPA les plus efficaces.",
+   "Exact : la DC capte l'antigène dans le tissu infecté.",
+   "Exact : elle s'active et migre vers le ganglion le plus proche.",
+   "Exact : elle présente l'antigène au LTH CD4 naïf.",
+   "Inexact : la DC apprête l'antigène en peptides ; le LTH ne reconnaît pas l'antigène natif."
+  ]
+ },
+ {
+  "q": "Le macrophage en tant que CPA :",
+  "options": [
+   "Est une CPA professionnelle",
+   "Apprête l'antigène en peptides",
+   "Présente le peptide par le CMH de classe II au LTH CD4",
+   "Est la CPA la plus efficace",
+   "Peut être activé par le LTH1 via l'IFNγ"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le macrophage est une CPA professionnelle.",
+   "Exact : il apprête l'antigène en peptides.",
+   "Exact : il présente le peptide par le CMH II au LTH CD4.",
+   "Inexact : la CPA la plus efficace est la cellule dendritique.",
+   "Exact : le TH1 active les macrophages via l'IFNγ."
+  ]
+ },
+ {
+  "q": "Le lymphocyte B en tant que CPA :",
+  "options": [
+   "Est une CPA professionnelle",
+   "Capte l'antigène natif grâce à son BCR",
+   "Internalise l'antigène par endocytose puis l'apprête en peptides",
+   "Présente le peptide par la molécule HLA de classe II au LTH2",
+   "Présente l'antigène aux LT cytotoxiques CD8"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LB est une CPA professionnelle.",
+   "Exact : le LB capte l'antigène natif via son BCR.",
+   "Exact : l'antigène est internalisé par endocytose puis apprêté en peptides.",
+   "Exact : le LB présente le peptide par HLA II au LTH2 (synapse B-TH).",
+   "Inexact : le LB présente l'antigène au LTH2 CD4, non aux LTc CD8."
+  ]
+ },
+ {
+  "q": "Concernant les molécules du CMH de classe II :",
+  "options": [
+   "Elles présentent les peptides au LTH CD4",
+   "Elles sont reconnues par le corécepteur CD4",
+   "Elles sont exprimées par les CPA professionnelles",
+   "Elles présentent les peptides au LT cytotoxique CD8",
+   "Le complexe peptide-CMH II est reconnu par le TCR du LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le CMH II présente les peptides au LTH CD4.",
+   "Exact : le corécepteur CD4 se lie à la molécule du CMH de classe II.",
+   "Exact : les CPA professionnelles expriment le CMH de classe II.",
+   "Inexact : le LTc CD8 reconnaît le peptide associé au CMH de classe I.",
+   "Exact : le TCR du LTH reconnaît le complexe peptide-CMH II."
+  ]
+ },
+ {
+  "q": "Concernant les molécules du CMH de classe I :",
+  "options": [
+   "Elles sont reconnues par le corécepteur CD8 du LT cytotoxique",
+   "Elles présentent des peptides aux LTc CD8",
+   "Elles sont exprimées par les CPA pour activer le LTH CD4",
+   "La molécule HLA de classe I présente l'antigène au LT cytotoxique CD8",
+   "La synapse DC/LTc de la sélection clonale met en jeu le peptide-CMH II"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : le corécepteur CD8 se lie à la molécule du CMH de classe I.",
+   "Exact : le CMH I présente les peptides endogènes aux LTc CD8.",
+   "Inexact : l'activation du LTH CD4 fait intervenir le CMH de classe II.",
+   "Exact : la molécule HLA de classe I présente l'antigène au LT cytotoxique CD8.",
+   "Exact : d'après le cours, lors de la sélection clonale, le LTc reconnaît le peptide-CMH II de la DC."
+  ]
+ },
+ {
+  "q": "L'apprêtement antigénique :",
+  "options": [
+   "Est indispensable car le LTH ne reconnaît pas l'antigène natif",
+   "Comprend la dégradation protéolytique de l'antigène en peptides",
+   "S'accompagne de l'association des peptides aux molécules du CMH",
+   "Se termine par l'expression membranaire des complexes CMH-peptide",
+   "Est réalisé par le lymphocyte T lui-même"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTH est incapable de reconnaître un antigène natif.",
+   "Exact : l'antigène subit une dégradation protéolytique en peptides.",
+   "Exact : les peptides s'associent aux molécules du CMH.",
+   "Exact : les complexes CMH-peptide sont exprimés à la membrane de la CPA.",
+   "Inexact : l'apprêtement est réalisé par la CPA, non par le lymphocyte T."
+  ]
+ },
+ {
+  "q": "Concernant la synapse immunologique DC/LTH :",
+  "options": [
+   "Elle met en contact le peptide-CMH II de la DC et le TCR-CD3 du LTH",
+   "Elle permet la transduction du premier signal d'activation",
+   "Elle est consolidée par les molécules de costimulation",
+   "Elle aboutit à l'activation et à la prolifération du LTH",
+   "Elle se forme entre la DC et le lymphocyte B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la synapse met en contact le peptide-CMH II et le complexe TCR-CD3.",
+   "Exact : le CD3 transduit le premier signal à l'intérieur du LTH.",
+   "Exact : les molécules de costimulation (B7-CD28, CD40-CD40L) la consolident.",
+   "Exact : elle aboutit à l'activation, la prolifération puis la différenciation du LTH.",
+   "Inexact : la synapse DC/LTH se forme entre la DC et le LTH, non avec le LB."
+  ]
+ },
+ {
+  "q": "La cellule dendritique tissulaire :",
+  "options": [
+   "Est une cellule présentatrice d'antigène professionnelle",
+   "Capte l'antigène dans le tissu infecté",
+   "S'active au contact de l'antigène",
+   "Migre vers le ganglion lymphatique le plus proche",
+   "Reste fixée dans le tissu infecté après capture de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la DC tissulaire est une CPA professionnelle.",
+   "Exact : elle capte l'antigène dans le tissu infecté.",
+   "Exact : elle s'active au contact de l'antigène.",
+   "Exact : elle migre vers le ganglion le plus proche pour présenter l'antigène au LTH.",
+   "Inexact : après activation, elle migre vers l'organe lymphoïde secondaire."
+  ]
+ },
+ {
+  "q": "Concernant les ganglions lymphatiques dans la réponse adaptative :",
+  "options": [
+   "Ils sont des organes lymphoïdes secondaires",
+   "Ils sont le lieu de rencontre entre l'antigène et les cellules immunes",
+   "La DC y présente l'antigène au LTH naïf",
+   "La coopération DC-LTH s'y déroule",
+   "Ils sont le lieu de maturation des lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les ganglions sont des organes lymphoïdes secondaires (périphériques).",
+   "Exact : ils sont le lieu de rencontre entre antigène et cellules immunes.",
+   "Exact : la DC y présente l'antigène apprêté au LTH.",
+   "Exact : la coopération cellulaire DC-LTH s'y déroule.",
+   "Inexact : la maturation des LT a lieu dans le thymus, organe lymphoïde central."
+  ]
+ },
+ {
+  "q": "Les CPA professionnelles se caractérisent par :",
+  "options": [
+   "L'expression des molécules du CMH de classe II",
+   "L'expression des molécules de costimulation",
+   "La capacité d'apprêter l'antigène en peptides",
+   "La capacité de reconnaître l'antigène natif via un BCR",
+   "La migration vers les organes lymphoïdes secondaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : elles expriment le CMH de classe II pour présenter au LTH.",
+   "Exact : elles expriment les molécules de costimulation (B7, CD40).",
+   "Exact : elles apprêtent l'antigène en peptides.",
+   "Inexact : seul le LB, parmi les CPA, exprime un BCR reconnaissant l'antigène natif.",
+   "Exact : la DC activée migre vers l'organe lymphoïde secondaire le plus proche."
+  ]
+ },
+ {
+  "q": "Concernant la présentation de l'antigène exogène :",
+  "options": [
+   "L'antigène exogène est capté par la CPA",
+   "Il est dégradé en peptides dans la CPA",
+   "Il est présenté par la molécule du CMH de classe II",
+   "Il est reconnu par le TCR du LTH CD4",
+   "Il est présenté sous forme native au LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'antigène exogène est capté par la CPA.",
+   "Exact : il subit une dégradation protéolytique en peptides.",
+   "Exact : les peptides exogènes sont présentés par le CMH de classe II.",
+   "Exact : le complexe peptide-CMH II est reconnu par le TCR du LTH CD4.",
+   "Inexact : le LTH ne reconnaît jamais l'antigène sous forme native."
+  ]
+ },
+ {
+  "q": "Concernant la présentation de l'antigène endogène :",
+  "options": [
+   "L'antigène endogène est d'origine intracellulaire, notamment virale",
+   "Il est dégradé en peptides",
+   "Il est présenté par la molécule du CMH de classe I",
+   "Il est reconnu par le LT cytotoxique CD8",
+   "Il est présenté par le CMH de classe II au LTH CD4"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'antigène endogène provient de l'intérieur de la cellule (ex : protéines virales).",
+   "Exact : il est dégradé en peptides.",
+   "Exact : les peptides endogènes sont présentés par le CMH de classe I.",
+   "Exact : le complexe peptide-CMH I est reconnu par le LTc CD8.",
+   "Inexact : le CMH de classe II présente les peptides exogènes au LTH CD4."
+  ]
+ },
+ {
+  "q": "Le corécepteur CD4 :",
+  "options": [
+   "Est exprimé par le LTH",
+   "Se lie à la molécule du CMH de classe II",
+   "Participe à la reconnaissance du complexe peptide-CMH",
+   "Est exprimé par le LT cytotoxique",
+   "Se lie à la molécule du CMH de classe I"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le LTH exprime le corécepteur CD4.",
+   "Exact : CD4 se lie à la molécule du CMH de classe II.",
+   "Exact : il stabilise l'interaction TCR / peptide-CMH II.",
+   "Inexact : le LT cytotoxique exprime le corécepteur CD8.",
+   "Inexact : c'est CD8 qui se lie au CMH de classe I."
+  ]
+ },
+ {
+  "q": "Le corécepteur CD8 :",
+  "options": [
+   "Est exprimé par le LT cytotoxique",
+   "Se lie à la molécule du CMH de classe I",
+   "Participe à la reconnaissance du complexe peptide-CMH I par le TCR",
+   "Est exprimé par le LTH",
+   "Se lie à la molécule du CMH de classe II"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le LT cytotoxique exprime le corécepteur CD8.",
+   "Exact : CD8 se lie à la molécule du CMH de classe I.",
+   "Exact : il stabilise l'interaction TCR / peptide-CMH I.",
+   "Inexact : le LTH exprime le corécepteur CD4.",
+   "Inexact : c'est CD4 qui se lie au CMH de classe II."
+  ]
+ },
+ {
+  "q": "Concernant les étapes précoces de la réponse adaptative :",
+  "options": [
+   "La première barrière de défense est la réaction inflammatoire",
+   "La DC capte l'antigène dans le tissu infecté",
+   "La DC migre vers le ganglion le plus proche du site d'agression",
+   "Le LTH s'active, prolifère et se différencie en LTH effecteurs et mémoire",
+   "Le LTc est activé avant le LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la réaction inflammatoire est la première barrière de défense.",
+   "Exact : la DC capte l'antigène dans le tissu infecté.",
+   "Exact : elle migre vers le ganglion le plus proche du site d'agression.",
+   "Exact : le LTH s'active, prolifère et se différencie en effecteurs et mémoire.",
+   "Inexact : le LTc est activé après le LTH, grâce à l'IL2 sécrétée par le LTH1."
+  ]
+ },
+ {
+  "q": "Concernant la coopération entre la DC et le LTH :",
+  "options": [
+   "La DC présente le peptide par le CMH II au TCR du LTH CD4",
+   "Les molécules de costimulation consolident l'interaction",
+   "Le LTH activé sécrète de l'IL2",
+   "Un clone de LTH effecteurs est généré",
+   "La DC est activée par le LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la présentation peptide-CMH II / TCR-CD3 est le signal 1.",
+   "Exact : B7-CD28 et CD40-CD40L consolident le signal 1.",
+   "Exact : les signaux 1 et 2 induisent la transcription du gène de l'IL2.",
+   "Exact : la coopération DC-LTH aboutit à un clone de LTH effecteurs.",
+   "Inexact : c'est la DC qui active le LTH, et non l'inverse."
+  ]
+ },
+ {
+  "q": "L'antigène thymo-dépendant :",
+  "options": [
+   "Nécessite la coopération du LTH pour induire une réponse",
+   "Est le plus souvent de nature protéique",
+   "Nécessite un apprêtement en peptides par une CPA",
+   "Active directement le LB sans aide du LTH",
+   "Induit une réponse sans mémoire immunologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la réponse aux antigènes thymo-dépendants nécessite la coopération TH.",
+   "Exact : les antigènes thymo-dépendants les plus fréquents sont les protéines.",
+   "Exact : les protéines doivent être apprêtées en peptides par une CPA.",
+   "Inexact : l'activation directe du LB sans LTH caractérise les antigènes thymo-indépendants.",
+   "Inexact : les réponses T-dépendantes génèrent une mémoire immunologique."
+  ]
+ },
+ {
+  "q": "Concernant l'activation du LTH par la DC :",
+  "options": [
+   "Le LTH naïf rencontre la DC dans le ganglion",
+   "Le signal 1 est l'interaction peptide-CMH II / TCR-CD3",
+   "Le signal 2 est apporté par les molécules de costimulation",
+   "L'activation aboutit à la transcription du gène de l'IL2",
+   "Le LTH est activé dans le tissu infecté"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la rencontre a lieu dans le ganglion, organe lymphoïde secondaire.",
+   "Exact : le signal 1 est l'interaction peptide-CMH II / TCR-CD3.",
+   "Exact : le signal 2 est apporté par B7-CD28 et CD40-CD40L.",
+   "Exact : signaux 1 et 2 induisent la transcription du gène de l'IL2 et de son récepteur.",
+   "Inexact : l'activation du LTH a lieu dans le ganglion, non dans le tissu infecté."
+  ]
+ },
+ {
+  "q": "Les organes lymphoïdes secondaires :",
+  "options": [
+   "Comprennent les ganglions lymphatiques",
+   "Sont le lieu de rencontre entre l'antigène et les cellules immunes",
+   "Sont le lieu d'activation des lymphocytes",
+   "Comprennent le thymus",
+   "Comprennent la moelle osseuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les ganglions lymphatiques sont des organes lymphoïdes secondaires.",
+   "Exact : ils sont le lieu de rencontre entre antigène et cellules immunes.",
+   "Exact : l'activation des lymphocytes s'y déroule.",
+   "Inexact : le thymus est un organe lymphoïde central.",
+   "Inexact : la moelle osseuse est un organe lymphoïde central."
+  ]
+ },
+ {
+  "q": "Concernant le rôle des cytokines sécrétées par le LTH :",
+  "options": [
+   "Elles orientent la différenciation des LTH en sous-populations effectrices",
+   "L'IL2 active la prolifération lymphocytaire",
+   "L'IFNγ active les macrophages",
+   "L'IL4, l'IL5 et l'IL6 favorisent la différenciation des LB",
+   "Elles agissent uniquement sur le lymphocyte qui les sécrète"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : sous l'action des cytokines (DC+++), le LTH se différencie en TH1, TH2, TH17 ou Treg.",
+   "Exact : l'IL2 est un activateur lymphocytaire.",
+   "Exact : l'IFNγ du TH1 active les macrophages.",
+   "Exact : IL4, IL5 et IL6 du TH2 favorisent la prolifération et la différenciation des LB.",
+   "Inexact : les cytokines agissent de façon paracrine sur les cellules voisines (et autocrine)."
+  ]
+ },
+ {
+  "q": "La cellule dendritique, CPA la plus efficace :",
+  "options": [
+   "Capte l'antigène dans les tissus",
+   "Apprête l'antigène en peptides",
+   "Présente le peptide par le CMH II au LTH CD4",
+   "Fournit les signaux de costimulation",
+   "Présente l'antigène natif non apprêté au LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la DC capte l'antigène dans le tissu infecté.",
+   "Exact : elle apprête l'antigène en peptides.",
+   "Exact : elle présente le peptide par le CMH II au TCR du LTH CD4.",
+   "Exact : elle fournit les signaux de costimulation (B7, CD40).",
+   "Inexact : le LTH ne reconnaît que l'antigène apprêté en peptides."
+  ]
+ },
+ {
+  "q": "Concernant la reconnaissance antigénique par le LTH :",
+  "options": [
+   "Elle est spécifique du peptide présenté",
+   "Elle est restreinte par le CMH de classe II",
+   "Elle nécessite le corécepteur CD4",
+   "Elle fait intervenir les régions CDR du TCR",
+   "Elle est identique à la reconnaissance par le BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TCR reconnaît spécifiquement le peptide présenté.",
+   "Exact : la reconnaissance par le LTH est restreinte au CMH de classe II.",
+   "Exact : le corécepteur CD4 se lie au CMH II et stabilise l'interaction.",
+   "Exact : les CDR des domaines variables du TCR forment le site de liaison.",
+   "Inexact : le BCR reconnaît l'antigène natif, le TCR reconnaît le complexe peptide-CMH."
+  ]
+ },
+ {
+  "q": "Les peptides présentés au LTH :",
+  "options": [
+   "Proviennent de la dégradation protéolytique de l'antigène",
+   "Sont associés aux molécules du CMH",
+   "Sont exprimés à la membrane de la CPA",
+   "Sont reconnus par le TCR en association avec le CMH",
+   "Sont reconnus sous forme d'antigène natif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'antigène subit une dégradation protéolytique en peptides.",
+   "Exact : les peptides s'associent aux molécules du CMH.",
+   "Exact : les complexes CMH-peptide sont exprimés à la membrane.",
+   "Exact : le TCR reconnaît le peptide en association avec la molécule du CMH.",
+   "Inexact : le LTH ne reconnaît jamais l'antigène natif."
+  ]
+ },
+ {
+  "q": "Concernant la réponse immunitaire adaptative cellulaire :",
+  "options": [
+   "Elle est spécifique de l'antigène",
+   "Elle fait intervenir les lymphocytes T",
+   "Elle aboutit à la destruction des cellules infectées",
+   "Elle génère des cellules mémoire",
+   "Elle est non spécifique et immédiate"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : elle est spécifique de l'antigène.",
+   "Exact : elle fait intervenir les lymphocytes T (LTH et LTc).",
+   "Exact : les LTc effecteurs lysent les cellules infectées.",
+   "Exact : elle génère des cellules T mémoire à longue durée de vie.",
+   "Inexact : la non-spécificité et l'immédiateté caractérisent l'immunité innée."
+  ]
+ },
+ {
+  "q": "Le LTH CD4 naïf :",
+  "options": [
+   "Circule dans le sang et la lymphe",
+   "Gagne les ganglions lymphatiques",
+   "Exprime le complexe TCR-CD3 et le corécepteur CD4",
+   "Est activé par la DC présentant le peptide-CMH II",
+   "Est déjà capable de lyser les cellules infectées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTH CD4 circule dans le sang et la lymphe.",
+   "Exact : il arrive au niveau des ganglions.",
+   "Exact : il exprime le TCR-CD3 et le corécepteur CD4.",
+   "Exact : il est activé par la DC via les 4 signaux.",
+   "Inexact : la lyse est assurée par le LT cytotoxique CD8 effecteur, non par le LTH."
+  ]
+ },
+ {
+  "q": "Le TCR (récepteur du lymphocyte T à l'antigène) :",
+  "options": [
+   "Est la molécule de reconnaissance de l'antigène du lymphocyte T",
+   "Est une molécule membranaire exclusive du lymphocyte T",
+   "N'existe pas sous forme soluble",
+   "Est un hétérodimère d'une chaîne α et d'une chaîne β dans 90 % des cas",
+   "Est exprimé par les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TCR est la molécule de reconnaissance de l'antigène.",
+   "Exact : c'est une molécule membranaire du LT exclusivement.",
+   "Exact : le TCR n'a pas de forme soluble.",
+   "Exact : le TCR αβ est exprimé par 90 % des LT.",
+   "Inexact : les LB expriment le BCR, non le TCR."
+  ]
+ },
+ {
+  "q": "Les deux formes du TCR :",
+  "options": [
+   "Le TCR αβ, exprimé par 90 % des LT",
+   "Le TCR γδ, exprimé par 10 % des LT",
+   "Le TCR s'associe au CD3 à la membrane",
+   "Le TCR soluble sécrété par le LT activé",
+   "Le TCR γδ est la forme majoritaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le TCR αβ (chaînes α et β) concerne 90 % des LT.",
+   "Exact : le TCR γδ (chaînes γ et δ) concerne 10 % des LT.",
+   "Exact : le TCR s'associe au CD3 et forme le complexe TCR-CD3.",
+   "Inexact : le TCR n'existe pas sous forme soluble.",
+   "Inexact : la forme majoritaire est le TCR αβ (90 %)."
+  ]
+ },
+ {
+  "q": "Chaque chaîne du TCR comprend :",
+  "options": [
+   "Une région extracellulaire",
+   "Une région transmembranaire",
+   "Une région cytoplasmique courte",
+   "Deux domaines extracellulaires : un variable V et un constant C",
+   "Une région cytoplasmique longue à activité enzymatique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : chaque chaîne possède une région extracellulaire.",
+   "Exact : chaque chaîne possède une région transmembranaire.",
+   "Exact : la région cytoplasmique est courte.",
+   "Exact : la région extracellulaire comprend un domaine variable V et un domaine constant C.",
+   "Inexact : la région cytoplasmique est courte ; la transduction est assurée par le CD3."
+  ]
+ },
+ {
+  "q": "Le domaine variable V du TCR :",
+  "options": [
+   "Comprend 3 régions hypervariables ou CDR",
+   "Les CDR forment le site de liaison avec l'antigène",
+   "Reconnaît le complexe peptide-CMH",
+   "Est identique sur tous les lymphocytes T",
+   "Ne comprend qu'une seule région CDR"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le domaine V comprend 3 régions hypervariables (CDR).",
+   "Exact : les CDR forment le site de liaison avec l'antigène.",
+   "Exact : les CDR reconnaissent le complexe peptide-CMH.",
+   "Inexact : le domaine V varie d'un clone à l'autre (diversité du répertoire).",
+   "Inexact : il comprend 3 régions CDR."
+  ]
+ },
+ {
+  "q": "Le complexe TCR-CD3 :",
+  "options": [
+   "Le TCR s'associe au CD3 à la membrane du LT",
+   "Le CD3 est formé de 3 dimères : γε, δε, ζζ",
+   "Sa formule est αβ:γεδε2ζ dans 90 % des cas",
+   "Le CD3 permet la transduction du premier signal à l'intérieur du LTH",
+   "Le CD3 reconnaît directement l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TCR s'associe au CD3 et forme le complexe TCR-CD3.",
+   "Exact : le CD3 est formé de 3 dimères : γε, δε, ζζ.",
+   "Exact : la formule du complexe est αβ:γεδε2ζ (90 %).",
+   "Exact : le CD3 transduit le premier signal à l'intérieur du LTH.",
+   "Inexact : la reconnaissance est assurée par le TCR ; le CD3 assure la transduction."
+  ]
+ },
+ {
+  "q": "Les rôles du complexe TCR-CD3 sont :",
+  "options": [
+   "La reconnaissance du peptide-CMH par les CDR des domaines variables du TCR",
+   "L'activation du LTH",
+   "La transduction du premier signal via le CD3",
+   "La sécrétion d'anticorps",
+   "La présentation de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les CDR du TCR reconnaissent le complexe peptide-CMH.",
+   "Exact : le complexe permet l'activation du LTH.",
+   "Exact : le CD3 transduit le premier signal.",
+   "Inexact : les anticorps sont sécrétés par les plasmocytes.",
+   "Inexact : la présentation est assurée par les CPA."
+  ]
+ },
+ {
+  "q": "Le motif ITAM :",
+  "options": [
+   "Signifie Immunoreceptor Tyrosine-based Activation Motif",
+   "Est un motif d'activation de l'immuno-récepteur via une tyrosine",
+   "Est porté par les chaînes du complexe CD3",
+   "Participe à la transduction du premier signal",
+   "Est un motif d'inhibition de l'activation lymphocytaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : ITAM = Immunoreceptor Tyrosine-based Activation Motif.",
+   "Exact : c'est un motif d'activation via une tyrosine.",
+   "Exact : les chaînes du CD3 portent des motifs ITAM.",
+   "Exact : ils participent à la transduction du premier signal.",
+   "Inexact : ITAM est un motif d'activation, non d'inhibition."
+  ]
+ },
+ {
+  "q": "Le premier signal d'activation du lymphocyte T :",
+  "options": [
+   "Résulte de l'interaction peptide-CMH II / TCR-CD3",
+   "Est transduit par le CD3 à l'intérieur du LTH",
+   "Fait intervenir les motifs ITAM",
+   "Suffit à lui seul à activer pleinement le LTH",
+   "Nécessite d'être consolidé par le signal 2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le signal 1 est l'interaction cellulaire DC/LTH : peptide-CMH II / TCR-CD3.",
+   "Exact : le signal 1 est transduit par le CD3 à l'intérieur du LTH.",
+   "Exact : la transduction fait intervenir les motifs ITAM du CD3.",
+   "Inexact : le signal 1 seul est insuffisant ; il doit être consolidé par le signal 2.",
+   "Exact : le signal 2 (costimulation) consolide le signal 1."
+  ]
+ },
+ {
+  "q": "Le deuxième signal d'activation (costimulation) :",
+  "options": [
+   "Consolide le signal 1",
+   "Fait intervenir la liaison B7 / CD28",
+   "Fait intervenir la liaison CD40 / CD40L",
+   "Induit la transcription du gène de l'IL2 et du gène de son récepteur",
+   "Est apporté par la liaison du TCR au complexe peptide-CMH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le signal 2 consolide le signal 1.",
+   "Exact : l'interaction DC/LTH fait intervenir B7 (DC) / CD28 (LTH).",
+   "Exact : l'interaction fait intervenir CD40 / CD40L.",
+   "Exact : signaux 1+2 induisent la transcription du gène de l'IL2 et du gène du récepteur de l'IL2 (α IL2R).",
+   "Inexact : la liaison TCR / peptide-CMH constitue le signal 1, non le signal 2."
+  ]
+ },
+ {
+  "q": "Les molécules de costimulation :",
+  "options": [
+   "B7 sur la DC se lie à CD28 sur le LTH",
+   "CD40 sur la DC se lie à CD40L sur le LTH",
+   "CD28 appartient à la famille des molécules de costimulation du LT",
+   "CD40L est aussi appelé CD154",
+   "Le TCR est une molécule de costimulation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : B7 (DC) se lie à CD28 (LTH).",
+   "Exact : CD40 se lie à CD40L.",
+   "Exact : CD28 appartient à la famille des molécules de costimulation.",
+   "Exact : CD40L est aussi désigné CD154.",
+   "Inexact : le TCR est le récepteur de l'antigène, apportant le signal 1."
+  ]
+ },
+ {
+  "q": "L'IL2 :",
+  "options": [
+   "Est un activateur lymphocytaire",
+   "Son gène est transcrit après les signaux 1 et 2",
+   "Se fixe sur son récepteur à la surface du LTH",
+   "Sa fixation active une kinase mTOR",
+   "Inhibe la prolifération du LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL2 est décrite comme activateur lymphocytaire.",
+   "Exact : les signaux 1+2 induisent la transcription du gène de l'IL2.",
+   "Exact : l'IL2 se fixe sur son récepteur (signal 3).",
+   "Exact : la fixation de l'IL2 active la kinase mTOR.",
+   "Inexact : l'IL2 stimule la prolifération lymphocytaire, elle ne l'inhibe pas."
+  ]
+ },
+ {
+  "q": "Le troisième signal d'activation :",
+  "options": [
+   "Correspond à la fixation de l'IL2 sur son récepteur",
+   "Active la kinase mTOR (mammalian target of rapamycin)",
+   "Fait passer le LTH de la phase G1 à la phase S",
+   "Correspond à la liaison B7/CD28",
+   "Initie la synthèse d'ADN en phase S"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le signal 3 est la fixation de l'IL2 sur son récepteur.",
+   "Exact : il active la kinase mTOR.",
+   "Exact : le LTH passe de G1 à S.",
+   "Inexact : la liaison B7/CD28 constitue le signal 2.",
+   "Exact : la phase S est la phase de synthèse d'ADN."
+  ]
+ },
+ {
+  "q": "Le quatrième signal d'activation :",
+  "options": [
+   "Correspond à la duplication et à la synthèse d'acides nucléiques",
+   "Utilise les bases puriques et pyrimidiques",
+   "Fait passer le LTH de la phase S à la phase M (mitose)",
+   "Aboutit à la multiplication et à la formation d'un clone",
+   "Correspond à la fixation de l'IL2 sur son récepteur"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le signal 4 est la duplication et la synthèse d'acides nucléiques.",
+   "Exact : la synthèse utilise les bases puriques et pyrimidiques.",
+   "Exact : le LTH passe de la phase S à M (mitose).",
+   "Exact : il aboutit à la multiplication et à la formation d'un clone.",
+   "Inexact : la fixation de l'IL2 sur son récepteur constitue le signal 3."
+  ]
+ },
+ {
+  "q": "À l'issue des quatre signaux d'activation, le LTH donne :",
+  "options": [
+   "Des cellules effectrices TH1",
+   "Des cellules effectrices TH2",
+   "Des cellules effectrices TH17 et Treg",
+   "Des cellules T mémoire quiescentes en G0 à longue durée de vie",
+   "Des plasmocytes sécréteurs d'anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le clone comprend des cellules effectrices TH1.",
+   "Exact : le clone comprend des cellules effectrices TH2.",
+   "Exact : le clone comprend des TH17 et des Treg.",
+   "Exact : le clone comprend des cellules T mémoire à G0 et longue durée de vie.",
+   "Inexact : les plasmocytes dérivent des lymphocytes B, non des LTH."
+  ]
+ },
+ {
+  "q": "Concernant le cycle cellulaire du LTH activé :",
+  "options": [
+   "Les signaux 1 et 2 font passer le LTH de G0 à G1",
+   "Le signal 3 fait passer le LTH de G1 à S via la kinase mTOR",
+   "Le signal 4 fait passer le LTH de S à M",
+   "Le LTH naïf est quiescent en phase G0",
+   "Le LTH activé reste bloqué en phase G0"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : signaux 1+2 : passage de G0 à G1, initiation de la multiplication.",
+   "Exact : signal 3 (IL2/mTOR) : passage de G1 à S.",
+   "Exact : signal 4 : passage de S à M (mitose).",
+   "Exact : le LTH naïf est une cellule quiescente en G0.",
+   "Inexact : le LTH activé progresse dans le cycle jusqu'à la mitose."
+  ]
+ },
+ {
+  "q": "La transduction du premier signal :",
+  "options": [
+   "Est assurée par le CD3",
+   "Fait intervenir les motifs ITAM",
+   "A lieu à l'intérieur du LTH",
+   "Est assurée par le TCR seul",
+   "Déclenche l'activation du LTH en coopération avec le signal 2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le CD3 transduit le premier signal à l'intérieur du LTH.",
+   "Exact : la transduction fait intervenir les motifs ITAM.",
+   "Exact : la transduction a lieu à l'intérieur du LTH.",
+   "Inexact : le TCR assure la reconnaissance ; la transduction est assurée par le CD3 associé.",
+   "Exact : signaux 1 et 2 coopèrent pour activer le LTH."
+  ]
+ },
+ {
+  "q": "Concernant l'expression du récepteur de l'IL2 :",
+  "options": [
+   "Le gène du récepteur de l'IL2 (α IL2R) est transcrit après les signaux 1 et 2",
+   "L'IL2 se fixe sur son récepteur pour délivrer le signal 3",
+   "Le récepteur de l'IL2 est exprimé par le LTH activé",
+   "Le récepteur de l'IL2 est exprimé constitutivement par le LTH naïf",
+   "La fixation de l'IL2 active la kinase mTOR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les signaux 1+2 induisent la transcription du gène du récepteur de l'IL2.",
+   "Exact : la fixation de l'IL2 sur son récepteur constitue le signal 3.",
+   "Exact : le récepteur est exprimé par le LTH activé.",
+   "Inexact : le récepteur de l'IL2 est induit après activation, non exprimé par le LTH naïf.",
+   "Exact : la fixation de l'IL2 active la kinase mTOR (passage G1-S)."
+  ]
+ },
+ {
+  "q": "Le complexe TCR-CD3 du LTH CD4 :",
+  "options": [
+   "Reconnaît le peptide présenté par le CMH de classe II",
+   "Est exprimé à la membrane du LTH",
+   "S'associe au corécepteur CD4 lors de la reconnaissance",
+   "Transduit le premier signal d'activation",
+   "Reconnaît l'antigène natif soluble"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TCR du LTH reconnaît le peptide-CMH II.",
+   "Exact : le complexe TCR-CD3 est membranaire.",
+   "Exact : le corécepteur CD4 se lie au CMH II lors de la reconnaissance.",
+   "Exact : le CD3 transduit le premier signal.",
+   "Inexact : le TCR ne reconnaît pas l'antigène natif soluble."
+  ]
+ },
+ {
+  "q": "Concernant les dimères du CD3 :",
+  "options": [
+   "Le CD3 est formé de 3 dimères",
+   "Les dimères sont γε, δε et ζζ",
+   "Ils portent des motifs ITAM",
+   "Ils assurent la transduction du signal",
+   "Le CD3 est formé d'un seul dimère ζζ"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le CD3 est formé de 3 dimères.",
+   "Exact : les dimères sont γε, δε et ζζ.",
+   "Exact : les chaînes du CD3 portent des motifs ITAM.",
+   "Exact : le CD3 assure la transduction du premier signal.",
+   "Inexact : le CD3 comprend 3 dimères : γε, δε et ζζ."
+  ]
+ },
+ {
+  "q": "L'anergie du lymphocyte T :",
+  "options": [
+   "Peut résulter d'un signal 1 sans signal 2 de costimulation",
+   "Correspond à un état d'inactivation fonctionnelle du LT",
+   "Est un mécanisme de tolérance périphérique",
+   "Résulte d'une costimulation excessive",
+   "Concerne le LTH activé par la DC avec costimulation"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : un signal 1 isolé, sans costimulation, conduit à l'anergie.",
+   "Exact : l'anergie est un état d'inactivation fonctionnelle.",
+   "Exact : c'est un mécanisme de tolérance périphérique.",
+   "Inexact : c'est l'absence de costimulation, non son excès, qui induit l'anergie.",
+   "Inexact : avec les deux signaux, le LTH est pleinement activé."
+  ]
+ },
+ {
+  "q": "Concernant la liaison B7-CD28 :",
+  "options": [
+   "B7 est exprimée par la cellule dendritique",
+   "CD28 est exprimé par le LTH",
+   "Elle constitue un signal de costimulation (signal 2)",
+   "Elle consolide le signal 1",
+   "Elle est apportée par le complexe peptide-CMH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : B7 est exprimée par la CPA (DC).",
+   "Exact : CD28 est exprimé par le LTH.",
+   "Exact : B7-CD28 est une liaison de costimulation (signal 2).",
+   "Exact : le signal 2 consolide le signal 1.",
+   "Inexact : le complexe peptide-CMH apporte le signal 1 via le TCR."
+  ]
+ },
+ {
+  "q": "Concernant la liaison CD40-CD40L :",
+  "options": [
+   "CD40 est exprimée par la CPA",
+   "CD40L est induit sur le LTH",
+   "Elle participe au signal 2 de costimulation",
+   "Elle participe à la formation du conjugué entre les cellules",
+   "Elle constitue le premier signal d'activation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CD40 est exprimée par la CPA.",
+   "Exact : CD40L (CD154) est induit sur le LTH activé.",
+   "Exact : CD40-CD40L participe au signal 2 de costimulation.",
+   "Exact : elle participe à la formation du conjugué cellulaire.",
+   "Inexact : le premier signal est l'interaction peptide-CMH / TCR-CD3."
+  ]
+ },
+ {
+  "q": "La prolifération du LTH :",
+  "options": [
+   "Est initiée après les signaux 1 et 2",
+   "Nécessite la transcription du gène de l'IL2",
+   "Est amplifiée par la fixation de l'IL2 sur son récepteur",
+   "Aboutit à la formation d'un large clone cellulaire",
+   "A lieu dans le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les signaux 1 et 2 initient la multiplication (passage G0-G1).",
+   "Exact : la transcription du gène de l'IL2 est induite par les signaux 1 et 2.",
+   "Exact : l'IL2 (signal 3) amplifie la prolifération via mTOR.",
+   "Exact : la prolifération aboutit à un large clone cellulaire.",
+   "Inexact : la prolifération clonale a lieu dans les organes lymphoïdes secondaires, non dans le thymus."
+  ]
+ },
+ {
+  "q": "Concernant le TCR γδ :",
+  "options": [
+   "Il est exprimé par 10 % des lymphocytes T",
+   "C'est un hétérodimère de chaînes γ et δ",
+   "Il s'associe au CD3",
+   "Il est la forme majoritaire du TCR",
+   "Il existe sous forme soluble dans le sérum"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le TCR γδ est exprimé par 10 % des LT.",
+   "Exact : il est composé d'une chaîne γ et d'une chaîne δ.",
+   "Exact : il s'associe au CD3 comme le TCR αβ.",
+   "Inexact : la forme majoritaire est le TCR αβ (90 %).",
+   "Inexact : le TCR n'existe pas sous forme soluble."
+  ]
+ },
+ {
+  "q": "Les régions CDR du TCR :",
+  "options": [
+   "Sont au nombre de 3 par domaine variable",
+   "Forment le site de liaison avec l'antigène",
+   "Sont des régions hypervariables",
+   "Assurent la reconnaissance du complexe peptide-CMH",
+   "Sont situées dans la région transmembranaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le domaine V comprend 3 régions hypervariables (CDR).",
+   "Exact : les CDR forment le site de liaison avec l'antigène.",
+   "Exact : les CDR sont des régions hypervariables.",
+   "Exact : elles assurent la reconnaissance du complexe peptide-CMH.",
+   "Inexact : les CDR sont situées dans le domaine variable extracellulaire."
+  ]
+ },
+ {
+  "q": "Le passage de G0 à G1 du LTH :",
+  "options": [
+   "Résulte des signaux 1 et 2",
+   "S'accompagne de la transcription du gène de l'IL2",
+   "S'accompagne de la transcription du gène du récepteur de l'IL2",
+   "Initie la multiplication du LTH",
+   "Nécessite la fixation préalable de l'IL2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les signaux 1 et 2 font passer le LTH de G0 à G1.",
+   "Exact : ils induisent la transcription du gène de l'IL2.",
+   "Exact : ils induisent la transcription du gène du récepteur de l'IL2 (α IL2R).",
+   "Exact : le passage en G1 initie la multiplication du LTH.",
+   "Inexact : la fixation de l'IL2 (signal 3) fait passer de G1 à S, après le passage en G1."
+  ]
+ },
+ {
+  "q": "La kinase mTOR :",
+  "options": [
+   "Est activée par la fixation de l'IL2 sur son récepteur",
+   "Son nom signifie mammalian target of rapamycin",
+   "Permet le passage du LTH de G1 à S",
+   "Intervient dans le signal 3",
+   "Intervient dans le signal 1"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la fixation de l'IL2 active la kinase mTOR.",
+   "Exact : mTOR = mammalian target of rapamycin.",
+   "Exact : elle permet le passage de G1 à S.",
+   "Exact : elle intervient dans le signal 3.",
+   "Inexact : le signal 1 est transduit par le CD3 via les ITAM."
+  ]
+ },
+ {
+  "q": "Concernant la spécificité du TCR :",
+  "options": [
+   "Chaque LT exprime un TCR de spécificité unique",
+   "Le répertoire des TCR est généré avant la rencontre avec l'antigène",
+   "La sélection thymique élimine les TCR autoréactifs",
+   "Tous les LT d'un individu expriment le même TCR",
+   "Le TCR reconnaît le peptide-CMH correspondant à sa spécificité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : chaque clone exprime un TCR de spécificité unique.",
+   "Exact : le répertoire est généré dans le thymus avant tout contact antigénique.",
+   "Exact : la sélection négative élimine les thymocytes autoréactifs.",
+   "Inexact : chaque clone exprime un TCR différent (diversité du répertoire).",
+   "Exact : le TCR ne reconnaît que le complexe peptide-CMH de sa spécificité."
+  ]
+ },
+ {
+  "q": "Le CD3 :",
+  "options": [
+   "Est associé au TCR à la membrane du LT",
+   "Est formé des dimères γε, δε et ζζ",
+   "Transduit le premier signal d'activation",
+   "Reconnaît l'antigène à la place du TCR",
+   "Est exprimé par les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le TCR s'associe au CD3 à la membrane.",
+   "Exact : le CD3 est formé de 3 dimères : γε, δε, ζζ.",
+   "Exact : le CD3 transduit le premier signal.",
+   "Inexact : la reconnaissance est assurée par le TCR.",
+   "Inexact : le CD3 est spécifique du lymphocyte T."
+  ]
+ },
+ {
+  "q": "Concernant l'activation du LTH en 4 signaux :",
+  "options": [
+   "Le signal 1 est l'interaction cellulaire DC/LTH : peptide-CMH II / TCR-CD3",
+   "Le signal 2 est la costimulation : B7/CD28 et CD40/CD40L",
+   "Le signal 3 est la fixation de l'IL2 sur son récepteur avec activation de mTOR",
+   "Le signal 4 est la duplication de l'ADN et la mitose",
+   "Le signal 2 est la fixation de l'IL2 sur son récepteur"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : signal 1 = peptide-CMH II / TCR-CD3, transduit par CD3.",
+   "Exact : signal 2 = costimulation B7-CD28 et CD40-CD40L.",
+   "Exact : signal 3 = IL2 sur son récepteur, mTOR, passage G1-S.",
+   "Exact : signal 4 = duplication des acides nucléiques, passage S-M, clone.",
+   "Inexact : la fixation de l'IL2 constitue le signal 3."
+  ]
+ },
+ {
+  "q": "L'IL2, activateur lymphocytaire :",
+  "options": [
+   "Est sécrétée par le LTH activé",
+   "Agit de façon autocrine sur le LTH",
+   "Stimule la prolifération du LTH",
+   "Est sécrétée par le LTH1 vers le LTc CD8 lors de la coopération",
+   "Inhibe la différenciation du LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTH activé sécrète de l'IL2.",
+   "Exact : l'IL2 agit de façon autocrine sur le LTH qui l'a sécrétée.",
+   "Exact : l'IL2 stimule la prolifération lymphocytaire.",
+   "Exact : lors de la coopération, le LTH1 sécrète de l'IL2 vers le LTc CD8.",
+   "Inexact : l'IL2 favorise la prolifération et participe à la différenciation."
+  ]
+ },
+ {
+  "q": "Concernant le récepteur de l'antigène du LT :",
+  "options": [
+   "C'est le TCR",
+   "Il est membranaire et non soluble",
+   "Il est associé au CD3 pour la transduction du signal",
+   "C'est le BCR",
+   "Il reconnaît le complexe peptide-CMH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le récepteur de l'antigène du LT est le TCR.",
+   "Exact : le TCR est exclusivement membranaire, sans forme soluble.",
+   "Exact : le TCR s'associe au CD3 qui transduit le signal.",
+   "Inexact : le BCR est le récepteur du lymphocyte B.",
+   "Exact : le TCR reconnaît le complexe peptide-CMH."
+  ]
+ },
+ {
+  "q": "La région extracellulaire du TCR :",
+  "options": [
+   "Comprend un domaine variable V et un domaine constant C",
+   "Le domaine V comprend 3 régions hypervariables CDR",
+   "Les CDR forment le site de liaison avec l'antigène",
+   "Comprend une région cytoplasmique longue",
+   "Est ancrée par la région transmembranaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la région extracellulaire comprend un domaine V et un domaine C.",
+   "Exact : le domaine V comprend 3 CDR.",
+   "Exact : les CDR forment le site de liaison avec l'antigène.",
+   "Inexact : la région cytoplasmique du TCR est courte.",
+   "Exact : la région transmembranaire ancre le TCR à la membrane."
+  ]
+ },
+ {
+  "q": "Concernant la coopération cellulaire DC-LTH :",
+  "options": [
+   "Elle nécessite le contact peptide-CMH II / TCR-CD3",
+   "Elle nécessite les signaux de costimulation",
+   "Elle induit la transcription des gènes de l'IL2 et de son récepteur",
+   "Elle aboutit à un clone de LTH effecteurs",
+   "Elle aboutit directement à la lyse des cellules infectées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le signal 1 est le contact peptide-CMH II / TCR-CD3.",
+   "Exact : le signal 2 de costimulation est requis.",
+   "Exact : les signaux 1+2 induisent la transcription de l'IL2 et de son récepteur.",
+   "Exact : la coopération aboutit à un clone de LTH effecteurs.",
+   "Inexact : la lyse est assurée ultérieurement par les LTc effecteurs."
+  ]
+ },
+ {
+  "q": "Le LTH effecteur :",
+  "options": [
+   "Est issu de la différenciation du LTH activé sous l'action des cytokines",
+   "Agit par les cytokines qu'il sécrète",
+   "Active les cellules effectrices de l'immunité",
+   "Sécrète des anticorps",
+   "Comprend les sous-populations TH1, TH2, TH17 et Treg"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : sous l'action des cytokines, le LTH se différencie en effecteurs.",
+   "Exact : chaque sous-population agit par les cytokines sécrétées.",
+   "Exact : les LTH effecteurs activent LTc CD8, LB et macrophages.",
+   "Inexact : les anticorps sont sécrétés par les plasmocytes.",
+   "Exact : les 4 sous-populations sont TH1, TH2, TH17 et Treg."
+  ]
+ },
+ {
+  "q": "Les signaux d'activation du LTH dans l'ordre chronologique sont :",
+  "options": [
+   "Signal 1 : interaction peptide-CMH II / TCR-CD3",
+   "Signal 2 : costimulation B7-CD28 et CD40-CD40L",
+   "Signal 3 : fixation de l'IL2 sur son récepteur, activation de mTOR, passage G1 vers S",
+   "Signal 4 : duplication de l'ADN, passage S vers M, formation du clone",
+   "Signal 1 : fixation de l'IL2 sur son récepteur"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le signal 1 est l'interaction peptide-CMH II / TCR-CD3.",
+   "Exact : le signal 2 est la costimulation.",
+   "Exact : le signal 3 est la fixation de l'IL2 (mTOR, G1-S).",
+   "Exact : le signal 4 est la duplication et la mitose (S-M).",
+   "Inexact : la fixation de l'IL2 est le signal 3, non le signal 1."
+  ]
+ },
+ {
+  "q": "Concernant la phase G1 du LTH activé :",
+  "options": [
+   "Le LTH y entre après les signaux 1 et 2",
+   "L'IL2 s'y fixe sur son récepteur pour le faire passer en phase S",
+   "La transcription du gène de l'IL2 a lieu en amont",
+   "Le LTH naïf quiescent est en phase G0",
+   "Le LTH activé reste en phase G0"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les signaux 1 et 2 font passer le LTH de G0 à G1.",
+   "Exact : le signal 3 (IL2) fait passer de G1 à S.",
+   "Exact : le gène de l'IL2 est transcrit après les signaux 1 et 2.",
+   "Exact : le LTH naïf est quiescent en G0.",
+   "Inexact : le LTH activé quitte G0 pour entrer dans le cycle."
+  ]
+ },
+ {
+  "q": "La mitose du LTH :",
+  "options": [
+   "Fait suite à la duplication de l'ADN (signal 4)",
+   "Utilise les bases puriques et pyrimidiques pour la synthèse d'acides nucléiques",
+   "Aboutit à la formation d'un clone de cellules filles",
+   "A lieu pendant le signal 2",
+   "Produit des cellules effectrices et des cellules mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la mitose (phase M) fait suite à la duplication (signal 4).",
+   "Exact : la synthèse d'acides nucléiques utilise les bases puriques et pyrimidiques.",
+   "Exact : elle aboutit à un clone de cellules filles identiques.",
+   "Inexact : la mitose correspond au signal 4, après les signaux 1 à 3.",
+   "Exact : le clone comprend des effecteurs et des cellules T mémoire."
+  ]
+ },
+ {
+  "q": "Concernant le clone de LTH :",
+  "options": [
+   "Il est issu de la prolifération du LTH activé",
+   "Il comprend des cellules effectrices",
+   "Il comprend des cellules T mémoire à longue durée de vie",
+   "Toutes ses cellules ont la même spécificité antigénique",
+   "Il comprend des plasmocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le clone est issu de la prolifération du LTH activé.",
+   "Exact : il comprend des cellules effectrices (TH1, TH2, TH17, Treg).",
+   "Exact : il comprend des cellules T mémoire à G0 et longue durée de vie.",
+   "Exact : les cellules du clone ont la même spécificité antigénique.",
+   "Inexact : les plasmocytes dérivent des LB, non des LTH."
+  ]
+ },
+ {
+  "q": "Les cellules T mémoire :",
+  "options": [
+   "Sont générées lors de l'activation du LTH",
+   "Sont quiescentes en phase G0",
+   "Ont une longue durée de vie",
+   "Permettent une réponse secondaire plus rapide",
+   "Sont des cellules effectrices à courte durée de vie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'activation génère des effecteurs et des cellules T mémoire.",
+   "Exact : les cellules mémoire sont quiescentes en G0.",
+   "Exact : elles ont une longue durée de vie.",
+   "Exact : elles permettent une réponse secondaire plus rapide et plus intense.",
+   "Inexact : les cellules mémoire sont distinctes des effecteurs à courte durée de vie."
+  ]
+ },
+ {
+  "q": "Les molécules de surface du lymphocyte T comprennent :",
+  "options": [
+   "Le complexe TCR/CD3",
+   "Les corécepteurs CD4 et CD8",
+   "Les molécules de costimulation de la famille CD28",
+   "CD40L (CD154)",
+   "Le BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LT exprime le complexe TCR/CD3.",
+   "Exact : le LT exprime le corécepteur CD4 ou CD8.",
+   "Exact : il exprime les molécules de costimulation de la famille CD28.",
+   "Exact : il exprime CD40L (CD154) après activation.",
+   "Inexact : le BCR est le récepteur du lymphocyte B."
+  ]
+ },
+ {
+  "q": "Le corécepteur du LTH :",
+  "options": [
+   "C'est la molécule CD4",
+   "Il se lie à la molécule du CMH de classe II",
+   "Il participe à la reconnaissance du complexe peptide-CMH II",
+   "C'est la molécule CD8",
+   "Il se lie à la molécule du CMH de classe I"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le LTH exprime le corécepteur CD4.",
+   "Exact : CD4 se lie au CMH de classe II.",
+   "Exact : il participe à la reconnaissance du peptide-CMH II.",
+   "Inexact : CD8 est le corécepteur du LT cytotoxique.",
+   "Inexact : c'est CD8 qui se lie au CMH de classe I."
+  ]
+ },
+ {
+  "q": "Le corécepteur du LT cytotoxique :",
+  "options": [
+   "C'est la molécule CD8",
+   "Il se lie à la molécule du CMH de classe I",
+   "Il participe à la reconnaissance du complexe peptide-CMH I",
+   "C'est la molécule CD4",
+   "Il se lie à la molécule du CMH de classe II"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le LTc exprime le corécepteur CD8.",
+   "Exact : CD8 se lie au CMH de classe I.",
+   "Exact : il participe à la reconnaissance du peptide-CMH I.",
+   "Inexact : CD4 est le corécepteur du LTH.",
+   "Inexact : c'est CD4 qui se lie au CMH de classe II."
+  ]
+ },
+ {
+  "q": "Concernant la formule du complexe TCR-CD3 :",
+  "options": [
+   "Elle est αβ:γεδε2ζ dans 90 % des cas",
+   "Le TCR αβ est associé aux dimères γε, δε et ζζ du CD3",
+   "Le CD3 comprend deux chaînes ζ",
+   "Les 90 % désignent la forme TCR γδ du complexe",
+   "Le TCR γδ ne s'associe jamais au CD3"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la formule est αβ:γεδε2ζ dans 90 % des cas.",
+   "Exact : le TCR αβ s'associe aux dimères γε, δε et ζζ.",
+   "Exact : le dimère ζζ apporte deux chaînes ζ.",
+   "Inexact : les 90 % désignent la forme TCR αβ.",
+   "Inexact : le TCR γδ s'associe également au CD3."
+  ]
+ },
+ {
+  "q": "La reconnaissance du peptide-CMH par le LT :",
+  "options": [
+   "Est assurée par les CDR des domaines variables du TCR",
+   "Est spécifique du peptide",
+   "Est restreinte par la molécule du CMH",
+   "Nécessite le corécepteur CD4 ou CD8",
+   "Est assurée par le CD3"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les CDR des domaines variables du TCR reconnaissent le peptide-CMH.",
+   "Exact : la reconnaissance est spécifique du peptide.",
+   "Exact : elle est restreinte par la molécule du CMH.",
+   "Exact : le corécepteur CD4 ou CD8 stabilise l'interaction.",
+   "Inexact : le CD3 assure la transduction, non la reconnaissance."
+  ]
+ },
+ {
+  "q": "Concernant l'activation du lymphocyte T :",
+  "options": [
+   "Elle nécessite le signal 1 (TCR) et le signal 2 (costimulation)",
+   "Le signal 1 seul conduit à l'anergie",
+   "Elle aboutit à la prolifération clonale",
+   "Elle aboutit à la différenciation en effecteurs et en cellules mémoire",
+   "Le signal 2 seul suffit à activer le LT"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'activation requiert signal 1 et signal 2.",
+   "Exact : un signal 1 sans costimulation induit l'anergie.",
+   "Exact : l'activation aboutit à la prolifération clonale.",
+   "Exact : elle aboutit à des effecteurs et des cellules mémoire.",
+   "Inexact : le signal 2 consolide le signal 1 mais ne suffit pas seul."
+  ]
+ },
+ {
+  "q": "Les CPA fournissent au LTH :",
+  "options": [
+   "Le peptide antigénique associé au CMH de classe II",
+   "Les molécules de costimulation B7 et CD40",
+   "Des cytokines orientant sa différenciation",
+   "L'antigène natif non apprêté",
+   "Le signal 1 via le complexe peptide-CMH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la CPA présente le peptide par le CMH II.",
+   "Exact : la CPA exprime B7 et CD40 (costimulation).",
+   "Exact : les cytokines de la DC orientent la différenciation du LTH.",
+   "Inexact : le LTH ne reconnaît pas l'antigène natif ; il doit être apprêté.",
+   "Exact : le complexe peptide-CMH apporte le signal 1."
+  ]
+ },
+ {
+  "q": "Concernant le rôle de la cellule dendritique dans l'initiation de l'immunité adaptative :",
+  "options": [
+   "Elle capte l'antigène dans le tissu infecté",
+   "Elle migre vers l'organe lymphoïde secondaire le plus proche",
+   "Elle présente l'antigène au LTH naïf",
+   "Elle est la CPA la plus efficace",
+   "Elle lyse directement les cellules infectées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la DC capte l'antigène dans le tissu infecté.",
+   "Exact : elle migre vers le ganglion le plus proche.",
+   "Exact : elle présente l'antigène au LTH CD4 naïf.",
+   "Exact : la DC est la CPA la plus efficace.",
+   "Inexact : la lyse est assurée par les LT cytotoxiques effecteurs."
+  ]
+ },
+ {
+  "q": "Le LTH CD4 :",
+  "options": [
+   "Est le centre de la réponse adaptative",
+   "Est activé par une CPA via 4 signaux",
+   "Prolifère en un large clone cellulaire",
+   "Se différencie en effecteurs TH1, TH2, TH17 et Treg",
+   "Exprime le TCR γδ dans 90 % des cas"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTH est le centre de la réponse adaptative.",
+   "Exact : son activation fait intervenir 4 signaux.",
+   "Exact : il prolifère en un large clone cellulaire.",
+   "Exact : il se différencie en TH1, TH2, TH17 et Treg.",
+   "Inexact : 90 % des LT expriment le TCR αβ."
+  ]
+ },
+ {
+  "q": "Concernant la réponse cellulaire des LT helpers :",
+  "options": [
+   "Elle comprend l'activation et la prolifération du LTH",
+   "Elle comprend la différenciation en sous-populations effectrices",
+   "Elle génère des cellules T mémoire",
+   "Elle est initiée par la coopération avec la cellule dendritique",
+   "Elle comprend la sécrétion d'anticorps par le LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la réponse comprend activation et prolifération du LTH.",
+   "Exact : elle comprend la différenciation en TH1, TH2, TH17, Treg.",
+   "Exact : elle génère des cellules T mémoire.",
+   "Exact : elle est initiée par la coopération DC-LTH.",
+   "Inexact : le LTH ne sécrète pas d'anticorps ; ce sont les plasmocytes."
+  ]
+ },
+ {
+  "q": "La différenciation du LTH activé :",
+  "options": [
+   "S'effectue sous l'action des cytokines, notamment celles de la DC",
+   "Donne 4 sous-populations d'effecteurs : TH1, TH2, TH17 et Treg",
+   "Chaque sous-population agit par les cytokines qu'elle sécrète",
+   "Est indépendante des cytokines",
+   "Donne des plasmocytes sécréteurs d'anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : sous l'action des cytokines (DC+++), le LTH se différencie.",
+   "Exact : les 4 sous-populations sont TH1, TH2, TH17 et Treg.",
+   "Exact : chaque sous-population agit par les cytokines qu'elle sécrète.",
+   "Inexact : la différenciation est orientée par les cytokines.",
+   "Inexact : les plasmocytes dérivent des LB."
+  ]
+ },
+ {
+  "q": "Le TH1 : cytokines et inflammation",
+  "options": [
+   "Sécrète l'IL2, l'IFNγ et le TNFβ",
+   "Active les macrophages",
+   "Induit les phénomènes inflammatoires",
+   "Induit l'hypersensibilité retardée (HSR)",
+   "Sécrète l'IL4 et l'IL5"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TH1 sécrète IL2, IFNγ et TNFβ.",
+   "Exact : le TH1 active les macrophages.",
+   "Exact : le TH1 induit les phénomènes inflammatoires.",
+   "Exact : le TH1 induit l'hypersensibilité retardée.",
+   "Inexact : l'IL4 et l'IL5 sont sécrétées par le TH2."
+  ]
+ },
+ {
+  "q": "Le TH1 : cibles pathogeniques",
+  "options": [
+   "Participe à la différenciation des LT cytotoxiques CD8",
+   "Lutte contre les virus",
+   "Lutte contre les agents pathogènes intracellulaires",
+   "Favorise la prolifération et la différenciation des LB",
+   "Lutte contre les helminthes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le TH1 participe à la différenciation des LT cytotoxiques CD8.",
+   "Exact : le LTH1 lutte contre les virus.",
+   "Exact : le LTH1 lutte contre les agents pathogènes intracellulaires.",
+   "Inexact : l'aide aux LB est assurée par le TH2.",
+   "Inexact : la lutte contre les helminthes relève du TH2."
+  ]
+ },
+ {
+  "q": "Le TH2 :",
+  "options": [
+   "Sécrète l'IL4, l'IL5, l'IL6 et l'IL10",
+   "Favorise la prolifération des LB",
+   "Favorise la différenciation des LB",
+   "Lutte contre les infections parasitaires à helminthes (vers)",
+   "Sécrète l'IFNγ"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TH2 sécrète IL4, IL5, IL6 et IL10.",
+   "Exact : le TH2 favorise la prolifération des LB.",
+   "Exact : le TH2 favorise la différenciation des LB.",
+   "Exact : le LTH2 lutte contre les helminthes.",
+   "Inexact : l'IFNγ est sécrété par le TH1."
+  ]
+ },
+ {
+  "q": "Le TH17 : cytokine et inflammation",
+  "options": [
+   "Sécrète l'IL17",
+   "Possède une activité pro-inflammatoire",
+   "Est impliqué dans les maladies auto-immunes",
+   "Est impliqué dans les inflammations chroniques",
+   "Sécrète le TGFβ et l'IL10"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TH17 sécrète l'IL17.",
+   "Exact : le TH17 possède une activité pro-inflammatoire.",
+   "Exact : il est impliqué dans les maladies auto-immunes.",
+   "Exact : il est impliqué dans les inflammations chroniques.",
+   "Inexact : le TGFβ et l'IL10 sont sécrétés par le Treg."
+  ]
+ },
+ {
+  "q": "Le TH17 : cibles pathogeniques",
+  "options": [
+   "Lutte contre les bactéries extracellulaires",
+   "Lutte contre les mycoses",
+   "Sécrète l'IL17",
+   "A une activité anti-inflammatoire",
+   "Induit la tolérance"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le LTH17 lutte contre les bactéries extracellulaires.",
+   "Exact : le LTH17 lutte contre les mycoses.",
+   "Exact : le TH17 sécrète l'IL17.",
+   "Inexact : le TH17 est pro-inflammatoire ; l'activité anti-inflammatoire relève du Treg.",
+   "Inexact : la tolérance est induite par le Treg."
+  ]
+ },
+ {
+  "q": "Le Treg (régulateur) :",
+  "options": [
+   "Sécrète le TGFβ et l'IL10",
+   "Régule l'activation des LT effecteurs",
+   "Possède une activité anti-inflammatoire",
+   "Induit la tolérance",
+   "Sécrète l'IL17"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le Treg sécrète TGFβ et IL10.",
+   "Exact : le Treg régule l'activation des LT effecteurs.",
+   "Exact : le Treg possède une activité anti-inflammatoire.",
+   "Exact : le Treg induit la tolérance.",
+   "Inexact : l'IL17 est sécrétée par le TH17."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines du TH1 :",
+  "options": [
+   "L'IL2 est un activateur lymphocytaire",
+   "L'IFNγ active les macrophages",
+   "Le TNFβ participe aux phénomènes inflammatoires",
+   "L'IL4 est sécrétée par le TH1",
+   "L'IFNγ participe à l'hypersensibilité retardée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'IL2 est un activateur lymphocytaire.",
+   "Exact : l'IFNγ active les macrophages.",
+   "Exact : le TNFβ participe aux phénomènes inflammatoires.",
+   "Inexact : l'IL4 est sécrétée par le TH2.",
+   "Exact : le TH1, via l'IFNγ et les macrophages, induit l'HSR."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines du TH2 :",
+  "options": [
+   "L'IL4 favorise la différenciation des LB",
+   "L'IL5 participe à la réponse contre les helminthes",
+   "L'IL6 est sécrétée par le TH2",
+   "L'IL10 a une activité régulatrice",
+   "L'IFNγ est sécrété par le TH2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL4 du TH2 favorise la différenciation des LB.",
+   "Exact : l'IL5 participe à la lutte contre les helminthes.",
+   "Exact : l'IL6 est sécrétée par le TH2.",
+   "Exact : l'IL10 possède une activité régulatrice.",
+   "Inexact : l'IFNγ est sécrété par le TH1."
+  ]
+ },
+ {
+  "q": "L'hypersensibilité retardée (HSR) :",
+  "options": [
+   "Est induite par le TH1",
+   "Fait intervenir l'IFNγ et l'activation des macrophages",
+   "Est une hypersensibilité de type IV",
+   "Est médiée par les IgE",
+   "Se manifeste en quelques minutes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le TH1 induit l'hypersensibilité retardée.",
+   "Exact : elle fait intervenir l'IFNγ et les macrophages activés.",
+   "Exact : l'HSR est l'hypersensibilité de type IV, à médiation cellulaire.",
+   "Inexact : les IgE médient l'hypersensibilité immédiate (type I).",
+   "Inexact : l'HSR est retardée (48 à 72 heures)."
+  ]
+ },
+ {
+  "q": "Concernant la lutte contre les agents pathogènes intracellulaires :",
+  "options": [
+   "Elle fait intervenir le TH1",
+   "L'IFNγ active les macrophages infectés",
+   "Les LT cytotoxiques CD8 lysent les cellules infectées",
+   "Elle fait intervenir le TH2",
+   "Elle repose sur les anticorps neutralisants"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le LTH1 lutte contre les agents pathogènes intracellulaires.",
+   "Exact : l'IFNγ du TH1 active les macrophages.",
+   "Exact : les LTc CD8 lysent les cellules infectées.",
+   "Inexact : le TH2 lutte contre les helminthes et aide les LB.",
+   "Inexact : les anticorps neutralisent les pathogènes extracellulaires libres."
+  ]
+ },
+ {
+  "q": "Concernant la lutte contre les helminthes :",
+  "options": [
+   "Elle fait intervenir le TH2",
+   "L'IL4, l'IL5 et l'IL6 y participent",
+   "Les LB et les IgE y contribuent",
+   "Elle fait intervenir le TH1",
+   "Elle fait intervenir le TH17"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le LTH2 lutte contre les infections parasitaires à helminthes.",
+   "Exact : IL4, IL5 et IL6 sont sécrétées par le TH2.",
+   "Exact : l'aide du TH2 aux LB favorise la production d'IgE anti-helminthes.",
+   "Inexact : le TH1 lutte contre les virus et les pathogènes intracellulaires.",
+   "Inexact : le TH17 lutte contre les bactéries extracellulaires et les mycoses."
+  ]
+ },
+ {
+  "q": "Les maladies auto-immunes :",
+  "options": [
+   "Peuvent impliquer le TH17 pro-inflammatoire",
+   "Résultent d'un défaut de tolérance",
+   "Peuvent impliquer un défaut de régulation par les Treg",
+   "Sont prévenues par l'activité du Treg",
+   "Sont dues à un excès d'activité des Treg"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TH17 pro-inflammatoire est impliqué dans les maladies auto-immunes.",
+   "Exact : l'auto-immunité résulte d'un défaut de tolérance au soi.",
+   "Exact : un défaut de régulation par les Treg favorise l'auto-immunité.",
+   "Exact : le Treg, par son activité anti-inflammatoire, prévient l'auto-immunité.",
+   "Inexact : c'est le défaut, non l'excès, de régulation qui favorise l'auto-immunité."
+  ]
+ },
+ {
+  "q": "Le Treg dans la résolution de la réponse cytotoxique :",
+  "options": [
+   "Induit la mort des LTc activés par action fratricide",
+   "Participe au retour au silence de la réponse immunitaire",
+   "Sécrète le TGFβ et l'IL10",
+   "Amplifie la prolifération des LTc",
+   "Induit la tolérance"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le LTc activé meurt par action fratricide du LTreg.",
+   "Exact : cela permet le retour au silence de la réponse immunitaire.",
+   "Exact : le Treg sécrète TGFβ et IL10.",
+   "Inexact : le Treg régule et freine l'activation, il ne l'amplifie pas.",
+   "Exact : le Treg induit la tolérance."
+  ]
+ },
+ {
+  "q": "Concernant l'équilibre TH1/TH2 :",
+  "options": [
+   "Le TH1 lutte contre les virus et les pathogènes intracellulaires",
+   "Le TH2 lutte contre les helminthes et aide les LB",
+   "L'IFNγ du TH1 inhibe la différenciation TH2",
+   "L'IL4 du TH2 inhibe la différenciation TH1",
+   "Le TH1 et le TH2 sécrètent les mêmes cytokines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TH1 lutte contre virus et pathogènes intracellulaires.",
+   "Exact : le TH2 lutte contre les helminthes et aide les LB.",
+   "Exact : l'IFNγ inhibe la voie TH2 (régulation croisée).",
+   "Exact : l'IL4 inhibe la voie TH1 (régulation croisée).",
+   "Inexact : TH1 (IL2, IFNγ, TNFβ) et TH2 (IL4, IL5, IL6, IL10) ont des profils distincts."
+  ]
+ },
+ {
+  "q": "L'origine des lymphocytes T :",
+  "options": [
+   "Ils naissent dans la moelle osseuse à partir des CSH",
+   "Les pro-thymocytes gagnent le thymus par voie sanguine",
+   "Ils prolifèrent et se différencient dans le thymus",
+   "Ils naissent dans le thymus",
+   "Ils maturent dans les ganglions"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les LT naissent dans la moelle osseuse (CSH vers CSL vers pro-thymocyte).",
+   "Exact : le pro-thymocyte gagne le thymus par voie sanguine.",
+   "Exact : le thymocyte prolifère et se différencie dans le thymus.",
+   "Inexact : les LT naissent dans la moelle osseuse et maturent dans le thymus.",
+   "Inexact : les ganglions sont le lieu d'activation, non de maturation."
+  ]
+ },
+ {
+  "q": "Le thymocyte précoce double négatif (DN) :",
+  "options": [
+   "N'exprime ni CD4 ni CD8",
+   "N'exprime pas le complexe TCR-CD3",
+   "Est le stade le plus précoce dans le thymus",
+   "Exprime déjà le TCR αβ",
+   "Est un thymocyte mature"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le DN n'exprime ni CD4 ni CD8.",
+   "Exact : le DN n'exprime pas le complexe TCR-CD3.",
+   "Exact : c'est le stade le plus précoce du développement thymique.",
+   "Inexact : le TCR est exprimé au stade double positif.",
+   "Inexact : le DN est un stade immature précoce."
+  ]
+ },
+ {
+  "q": "Le thymocyte intermédiaire double positif (DP) :",
+  "options": [
+   "Exprime à la fois CD4 et CD8",
+   "Exprime le TCR",
+   "Subit la sélection thymique positive",
+   "Seuls les LT dont le TCR reconnaît le CMH du soi survivent à la sélection positive",
+   "Est le stade final de la maturation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le DP exprime CD4 et CD8 (double positif).",
+   "Exact : le DP exprime le TCR, ce qui permet la sélection thymique.",
+   "Exact : le DP subit la sélection positive du répertoire antigénique.",
+   "Exact : seuls les LT dont le TCR reconnaît le CMH du soi survivent.",
+   "Inexact : le stade final est le thymocyte mature simple positif."
+  ]
+ },
+ {
+  "q": "La sélection positive thymique :",
+  "options": [
+   "A lieu au stade double positif",
+   "Sélectionne les LT dont le TCR reconnaît le CMH du soi",
+   "Assure la restriction au CMH du soi",
+   "Élimine les LT autoréactifs",
+   "A lieu au stade simple positif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la sélection positive a lieu au stade double positif.",
+   "Exact : seuls les TCR reconnaissant le CMH du soi survivent.",
+   "Exact : elle assure la restriction du répertoire au CMH du soi.",
+   "Inexact : l'élimination des autoréactifs est le rôle de la sélection négative.",
+   "Inexact : la sélection positive a lieu au stade DP, non SP."
+  ]
+ },
+ {
+  "q": "La sélection négative thymique :",
+  "options": [
+   "A lieu au stade simple positif immature",
+   "Élimine les LT qui réagissent trop fortement avec le CMH du soi",
+   "Élimine les LT autoréactifs par apoptose",
+   "Assure la tolérance centrale",
+   "Sélectionne positivement les LT reconnaissant le CMH du soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la sélection négative a lieu au stade simple positif immature.",
+   "Exact : les LT réagissant trop avec le CMH sont éliminés.",
+   "Exact : les thymocytes autoréactifs meurent par apoptose.",
+   "Exact : elle assure la tolérance centrale au soi.",
+   "Inexact : la reconnaissance du CMH du soi est sélectionnée positivement au stade DP."
+  ]
+ },
+ {
+  "q": "Concernant la maturation thymique :",
+  "options": [
+   "95 % des thymocytes meurent dans le thymus par apoptose",
+   "5 % des thymocytes arrivent à maturité",
+   "Les LT matures quittent le thymus pour la périphérie",
+   "Tous les thymocytes survivent à la sélection",
+   "La maturation a lieu dans la moelle osseuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 95 % des thymocytes meurent dans le thymus par apoptose.",
+   "Exact : 5 % des thymocytes éduqués arrivent à maturité.",
+   "Exact : les LT matures quittent le thymus pour le sang et la lymphe.",
+   "Inexact : 95 % meurent par apoptose lors de la sélection.",
+   "Inexact : la maturation des LT a lieu dans le thymus."
+  ]
+ },
+ {
+  "q": "Les lymphocytes T matures quittant le thymus :",
+  "options": [
+   "Comprennent les LTH CD4 (30 à 50 %)",
+   "Comprennent les LT cytotoxiques CD8 (20 à 35 %)",
+   "Sont des cellules simples positives",
+   "Gagnent le sang et la lymphe",
+   "Sont tous des LT cytotoxiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les CD4 helpers représentent 30 à 50 % des LT.",
+   "Exact : les CD8 cytotoxiques représentent 20 à 35 % des LT.",
+   "Exact : les LT matures sont simples positifs (CD4+ ou CD8+).",
+   "Exact : ils quittent le thymus pour la périphérie (sang, lymphe).",
+   "Inexact : on distingue les CD4 helpers et les CD8 cytotoxiques."
+  ]
+ },
+ {
+  "q": "Le thymus :",
+  "options": [
+   "Est un organe lymphoïde central",
+   "Est le lieu de maturation des lymphocytes T",
+   "Est le lieu de la sélection thymique positive et négative",
+   "Est le lieu d'activation des LT par l'antigène",
+   "Est un organe lymphoïde secondaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le thymus est un organe lymphoïde central (primaire).",
+   "Exact : c'est le lieu de maturation des lymphocytes T.",
+   "Exact : les sélections positive et négative s'y déroulent.",
+   "Inexact : l'activation a lieu dans les organes lymphoïdes secondaires.",
+   "Inexact : le thymus est un organe lymphoïde central, non secondaire."
+  ]
+ },
+ {
+  "q": "Le passage du stade double positif au stade simple positif :",
+  "options": [
+   "Résulte de la sélection positive",
+   "Le thymocyte conserve soit CD4 soit CD8",
+   "Le thymocyte devient CD4+ ou CD8+",
+   "Le TCR est perdu à ce stade",
+   "Tous les DP deviennent des CD8+"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les survivants de la sélection positive deviennent simples positifs.",
+   "Exact : le thymocyte conserve soit CD4, soit CD8.",
+   "Exact : le thymocyte immature est simple positif CD4+ ou CD8+.",
+   "Inexact : le TCR reste exprimé.",
+   "Inexact : les SP sont CD4+ ou CD8+."
+  ]
+ },
+ {
+  "q": "L'apoptose thymique :",
+  "options": [
+   "Élimine 95 % des thymocytes",
+   "Élimine les thymocytes non sélectionnés positivement",
+   "Élimine les thymocytes autoréactifs",
+   "Est un mécanisme de la tolérance centrale",
+   "Élimine les LT matures en périphérie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 95 % des thymocytes meurent par apoptose.",
+   "Exact : les thymocytes ne reconnaissant pas le CMH du soi meurent.",
+   "Exact : les thymocytes autoréactifs sont éliminés par apoptose.",
+   "Exact : c'est un mécanisme de la tolérance centrale.",
+   "Inexact : l'apoptose thymique a lieu dans le thymus, non en périphérie."
+  ]
+ },
+ {
+  "q": "Concernant la tolérance centrale :",
+  "options": [
+   "Elle est assurée par la sélection négative thymique",
+   "Elle élimine les LT autoréactifs",
+   "Elle repose sur l'apoptose des thymocytes autoréactifs",
+   "Elle est assurée par les Treg en périphérie",
+   "Elle concerne les lymphocytes B dans la moelle osseuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la sélection négative thymique assure la tolérance centrale.",
+   "Exact : elle élimine les LT autoréactifs.",
+   "Exact : les thymocytes autoréactifs meurent par apoptose.",
+   "Inexact : les Treg assurent la tolérance périphérique.",
+   "Inexact : il s'agit ici de la tolérance centrale des lymphocytes T."
+  ]
+ },
+ {
+  "q": "Le pro-thymocyte :",
+  "options": [
+   "Dérive de la cellule souche lymphoïde dans la moelle osseuse",
+   "Gagne le thymus par voie sanguine",
+   "Se différencie en thymocyte dans le thymus",
+   "Exprime d'emblée le TCR αβ",
+   "Est une cellule mature"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le pro-thymocyte dérive de la CSL dans la moelle osseuse.",
+   "Exact : il gagne le thymus par voie sanguine.",
+   "Exact : il prolifère et se différencie en thymocyte dans le thymus.",
+   "Inexact : le TCR est acquis au stade double positif.",
+   "Inexact : le pro-thymocyte est un précurseur immature."
+  ]
+ },
+ {
+  "q": "La moelle osseuse dans la lymphopoïèse T :",
+  "options": [
+   "Est le lieu de naissance des LT",
+   "Produit les cellules souches hématopoïétiques",
+   "Les pro-thymocytes en sont issus",
+   "Est le lieu de maturation des LT",
+   "Est un organe lymphoïde secondaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les LT naissent dans la moelle osseuse.",
+   "Exact : elle produit les CSH à l'origine des lignées lymphoïdes.",
+   "Exact : les pro-thymocytes quittent la moelle pour le thymus.",
+   "Inexact : la maturation des LT a lieu dans le thymus.",
+   "Inexact : la moelle osseuse est un organe lymphoïde central."
+  ]
+ },
+ {
+  "q": "Concernant les pourcentages de LT en périphérie :",
+  "options": [
+   "Les LTH CD4 représentent 30 à 50 % des LT",
+   "Les LTc CD8 représentent 20 à 35 % des LT",
+   "Les CD4 sont plus nombreux que les CD8",
+   "Les CD8 sont plus nombreux que les CD4",
+   "Le rapport CD4/CD8 est normalement supérieur à 1"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les CD4 représentent 30 à 50 % des LT.",
+   "Exact : les CD8 représentent 20 à 35 % des LT.",
+   "Exact : les CD4 sont plus nombreux que les CD8.",
+   "Inexact : les CD8 (20-35 %) sont moins nombreux que les CD4 (30-50 %).",
+   "Exact : le rapport CD4/CD8 est normalement supérieur à 1."
+  ]
+ },
+ {
+  "q": "Le cortex et la médullaire du thymus :",
+  "options": [
+   "La maturation du thymocyte progresse du cortex vers la médullaire",
+   "La sélection positive a lieu dans le cortex",
+   "La sélection négative se poursuit dans la médullaire",
+   "Les thymocytes matures quittent le thymus depuis la médullaire",
+   "La maturation est terminée dans le cortex"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le thymocyte progresse du cortex vers la médullaire.",
+   "Exact : la sélection positive a lieu dans le cortex.",
+   "Exact : la sélection négative se poursuit dans la médullaire.",
+   "Exact : les thymocytes matures quittent le thymus depuis la médullaire.",
+   "Inexact : la maturation s'achève avec la sortie des thymocytes matures."
+  ]
+ },
+ {
+  "q": "Sous l'action des cytokines, le LTH activé se différencie en :",
+  "options": [
+   "TH1 sécrétant IL2, IFNγ et TNFβ",
+   "TH2 sécrétant IL4, IL5, IL6 et IL10",
+   "TH17 sécrétant IL17",
+   "Treg sécrétant TGFβ et IL10",
+   "Plasmocytes sécréteurs d'IgG"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TH1 sécrète IL2, IFNγ et TNFβ.",
+   "Exact : le TH2 sécrète IL4, IL5, IL6 et IL10.",
+   "Exact : le TH17 sécrète l'IL17.",
+   "Exact : le Treg sécrète TGFβ et IL10.",
+   "Inexact : les plasmocytes dérivent des lymphocytes B."
+  ]
+ },
+ {
+  "q": "Concernant l'action des TH effecteurs :",
+  "options": [
+   "Le TH1 active les macrophages",
+   "Le TH2 aide les LB",
+   "Le TH17 est pro-inflammatoire",
+   "Le Treg régule les LT effecteurs",
+   "Le TH1 aide les LB à produire des IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TH1 active les macrophages via l'IFNγ.",
+   "Exact : le TH2 favorise la prolifération et la différenciation des LB.",
+   "Exact : le TH17 possède une activité pro-inflammatoire.",
+   "Exact : le Treg régule l'activation des LT effecteurs.",
+   "Inexact : l'aide aux LB est assurée par le TH2."
+  ]
+ },
+ {
+  "q": "Les cytokines pro-inflammatoires :",
+  "options": [
+   "L'IFNγ du TH1",
+   "Le TNFβ du TH1",
+   "L'IL17 du TH17",
+   "L'IL10 du Treg",
+   "Le TGFβ du Treg"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'IFNγ du TH1 est pro-inflammatoire.",
+   "Exact : le TNFβ du TH1 participe aux phénomènes inflammatoires.",
+   "Exact : l'IL17 du TH17 est pro-inflammatoire.",
+   "Inexact : l'IL10 est anti-inflammatoire et régulatrice.",
+   "Inexact : le TGFβ est régulateur et tolérogène."
+  ]
+ },
+ {
+  "q": "Les cytokines régulatrices :",
+  "options": [
+   "Le TGFβ du Treg",
+   "L'IL10 du Treg et du TH2",
+   "Elles freinent l'activation des LT effecteurs",
+   "Elles induisent la tolérance",
+   "L'IL17"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TGFβ du Treg est une cytokine régulatrice.",
+   "Exact : l'IL10 (Treg, TH2) a une activité régulatrice.",
+   "Exact : elles freinent l'activation des LT effecteurs.",
+   "Exact : elles induisent la tolérance.",
+   "Inexact : l'IL17 est pro-inflammatoire (TH17)."
+  ]
+ },
+ {
+  "q": "Concernant le rôle du LTH1 dans la réponse cytotoxique :",
+  "options": [
+   "Le LTH1 est issu de la différenciation du LTH activé",
+   "Le LTH1 activé sécrète de l'IL2 vers le LTc CD8",
+   "L'IL2 stimule l'activation et la prolifération du LTc",
+   "Le LTH1 lyse directement les cellules infectées",
+   "Le LTH1 sécrète de l'IFNγ qui active les macrophages"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le LTH activé se différencie en LTH1 effecteur.",
+   "Exact : le LTH1 activé sécrète de l'IL2 vers le LTc CD8.",
+   "Exact : l'IL2 stimule l'activation et la prolifération clonale du LTc.",
+   "Inexact : la lyse est assurée par le LTc effecteur.",
+   "Exact : le TH1 sécrète l'IFNγ qui active les macrophages."
+  ]
+ },
+ {
+  "q": "La différenciation des LT cytotoxiques :",
+  "options": [
+   "Nécessite l'aide du LTH1",
+   "Est stimulée par l'IL2",
+   "Fait suite à la sélection clonale du LTc",
+   "Aboutit à des LTc effecteurs et des LTc mémoire",
+   "Est indépendante de la DC"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la différenciation des LTc nécessite l'aide du LTH1.",
+   "Exact : l'IL2 du LTH1 stimule le LTc.",
+   "Exact : elle fait suite à la sélection clonale du LTc.",
+   "Exact : elle donne des LTc effecteurs et des LTc mémoire.",
+   "Inexact : la DC présente l'antigène et forme une synapse immunologique avec le LTc."
+  ]
+ },
+ {
+  "q": "Concernant les LTH effecteurs :",
+  "options": [
+   "Ils sont issus d'un clone de LTH activés",
+   "Ils organisent la réponse adaptative",
+   "Ils activent les LTc CD8, les LB et les macrophages",
+   "Ils agissent par les cytokines sécrétées",
+   "Ils phagocytent les pathogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LTH effecteurs sont issus du clone de LTH activés.",
+   "Exact : ils organisent la réponse immunitaire adaptative.",
+   "Exact : ils activent les LTc CD8, les LB et les macrophages.",
+   "Exact : chaque sous-population agit par les cytokines sécrétées.",
+   "Inexact : la phagocytose est assurée par les macrophages et les DC."
+  ]
+ },
+ {
+  "q": "Le LTH mémoire :",
+  "options": [
+   "Est généré lors de la réponse primaire",
+   "Est quiescent en phase G0",
+   "A une longue durée de vie",
+   "Permet une réponse secondaire plus rapide et plus intense",
+   "Est une cellule effectrice à courte durée de vie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTH mémoire est généré lors de la réponse primaire.",
+   "Exact : il est quiescent en phase G0.",
+   "Exact : il a une longue durée de vie.",
+   "Exact : il permet une réponse secondaire plus rapide et plus intense.",
+   "Inexact : les cellules mémoire sont distinctes des effecteurs à courte durée de vie."
+  ]
+ },
+ {
+  "q": "Concernant la réponse secondaire cellulaire :",
+  "options": [
+   "Elle fait intervenir les LT mémoire",
+   "Elle est plus rapide que la réponse primaire",
+   "Elle est plus intense que la réponse primaire",
+   "Elle nécessite une nouvelle différenciation à partir de LT naïfs",
+   "Elle fait intervenir uniquement les LB mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la réponse secondaire fait intervenir les LT mémoire.",
+   "Exact : elle est plus rapide que la réponse primaire.",
+   "Exact : elle est plus intense que la réponse primaire.",
+   "Inexact : elle repose sur les cellules mémoire préexistantes.",
+   "Inexact : les LT mémoire y participent également."
+  ]
+ },
+ {
+  "q": "Les 4 sous-populations de LTH effecteurs se distinguent par :",
+  "options": [
+   "Les cytokines qu'elles sécrètent",
+   "Leurs fonctions effectrices",
+   "Les pathogènes qu'elles combattent",
+   "Leur TCR",
+   "Leur corécepteur CD4"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : chaque sous-population agit par les cytokines sécrétées.",
+   "Exact : elles ont des fonctions effectrices distinctes.",
+   "Exact : elles combattent des pathogènes différents (virus, helminthes, bactéries...).",
+   "Inexact : le TCR varie selon le clone, non selon la sous-population.",
+   "Inexact : toutes les sous-populations expriment CD4."
+  ]
+ },
+ {
+  "q": "L'acquisition du TCR :",
+  "options": [
+   "A lieu dans le thymus",
+   "Survient au stade double positif",
+   "Permet la sélection thymique du répertoire",
+   "A lieu dans la moelle osseuse",
+   "Précède la sortie du thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le TCR est acquis dans le thymus.",
+   "Exact : il est exprimé au stade double positif.",
+   "Exact : il permet aux cellules DP de subir la sélection thymique.",
+   "Inexact : le TCR est acquis dans le thymus, au stade DP.",
+   "Exact : l'acquisition du TCR précède la maturation et la sortie du thymus."
+  ]
+ },
+ {
+  "q": "Le thymocyte double négatif :",
+  "options": [
+   "N'exprime ni CD4 ni CD8",
+   "N'exprime pas le complexe TCR-CD3",
+   "Prolifère dans le thymus",
+   "Exprime le TCR γδ",
+   "Est sélectionné positivement"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le DN n'exprime ni CD4 ni CD8.",
+   "Exact : le DN n'exprime pas le complexe TCR-CD3.",
+   "Exact : le thymocyte prolifère dans le thymus.",
+   "Inexact : le TCR n'est pas encore exprimé à ce stade.",
+   "Inexact : la sélection positive a lieu au stade double positif."
+  ]
+ },
+ {
+  "q": "Le thymocyte simple positif immature :",
+  "options": [
+   "Exprime CD4 ou CD8",
+   "Exprime le complexe TCR-CD3",
+   "Subit la sélection négative",
+   "Est éliminé s'il réagit trop avec le CMH du soi",
+   "Est le stade de la sélection positive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : il est simple positif CD4+ ou CD8+.",
+   "Exact : il exprime le complexe TCR-CD3.",
+   "Exact : il subit la sélection négative.",
+   "Exact : les LT réagissant trop avec le CMH sont éliminés.",
+   "Inexact : la sélection positive a lieu au stade double positif."
+  ]
+ },
+ {
+  "q": "Le thymocyte mature :",
+  "options": [
+   "Est simple positif CD4+ ou CD8+",
+   "A survécu aux sélections positive et négative",
+   "Quitte le thymus pour la périphérie",
+   "Ne fait partie que des 5 % de survivants",
+   "Reste dans le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le thymocyte mature est simple positif.",
+   "Exact : il a survécu aux deux sélections.",
+   "Exact : il quitte le thymus pour la périphérie.",
+   "Exact : seuls 5 % des thymocytes arrivent à maturité.",
+   "Inexact : les thymocytes matures quittent le thymus pour le sang et la lymphe."
+  ]
+ },
+ {
+  "q": "Concernant la diversité du répertoire T :",
+  "options": [
+   "Elle est générée par réarrangement des gènes du TCR",
+   "La sélection positive conserve les TCR reconnaissant le CMH du soi",
+   "La sélection négative élimine les TCR autoréactifs",
+   "95 % des thymocytes sont éliminés",
+   "Tous les réarrangements sont conservés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la diversité est générée par réarrangement des gènes du TCR.",
+   "Exact : la sélection positive conserve les TCR restreints au CMH du soi.",
+   "Exact : la sélection négative élimine les TCR autoréactifs.",
+   "Exact : 95 % des thymocytes meurent par apoptose.",
+   "Inexact : 95 % des thymocytes sont éliminés lors de la sélection."
+  ]
+ },
+ {
+  "q": "Les organes lymphoïdes centraux :",
+  "options": [
+   "Comprennent le thymus",
+   "Comprennent la moelle osseuse",
+   "Sont le lieu de maturation des lymphocytes",
+   "Sont le lieu d'activation des lymphocytes",
+   "Comprennent les ganglions"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le thymus est un organe lymphoïde central.",
+   "Exact : la moelle osseuse est un organe lymphoïde central.",
+   "Exact : ils sont le lieu de maturation des lymphocytes.",
+   "Inexact : l'activation a lieu dans les organes lymphoïdes secondaires.",
+   "Inexact : les ganglions sont des organes lymphoïdes secondaires."
+  ]
+ },
+ {
+  "q": "Concernant le rôle du thymus dans la réponse cellulaire :",
+  "options": [
+   "Il produit les LT CD4 et CD8 naïfs",
+   "Il assure la tolérance centrale des LT",
+   "Il éduque le répertoire des TCR",
+   "Il active les LTc contre les virus",
+   "Il est le lieu de la réponse cytotoxique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le thymus produit les LT CD4 et CD8 naïfs.",
+   "Exact : la sélection négative y assure la tolérance centrale.",
+   "Exact : les sélections positive et négative y éduquent le répertoire.",
+   "Inexact : l'activation a lieu dans les ganglions.",
+   "Inexact : la réponse cytotoxique se déroule en périphérie."
+  ]
+ },
+ {
+  "q": "La sélection thymique :",
+  "options": [
+   "Comprend une sélection positive au stade DP",
+   "Comprend une sélection négative au stade SP immature",
+   "Élimine 95 % des thymocytes par apoptose",
+   "Garantit un répertoire T tolérant au soi et restreint au CMH du soi",
+   "Conserve tous les thymocytes produits"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la sélection positive a lieu au stade double positif.",
+   "Exact : la sélection négative a lieu au stade simple positif immature.",
+   "Exact : 95 % des thymocytes meurent par apoptose.",
+   "Exact : elle garantit tolérance au soi et restriction au CMH du soi.",
+   "Inexact : 95 % des thymocytes sont éliminés."
+  ]
+ },
+ {
+  "q": "Concernant les LT γδ :",
+  "options": [
+   "Ils expriment le TCR γδ",
+   "Ils représentent 10 % des LT",
+   "Ils s'associent au CD3",
+   "Ils représentent 90 % des LT",
+   "Ils sont majoritaires dans le sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : ils expriment le TCR γδ.",
+   "Exact : ils représentent 10 % des LT.",
+   "Exact : le TCR γδ s'associe au CD3.",
+   "Inexact : 90 % des LT expriment le TCR αβ.",
+   "Inexact : les LT γδ sont minoritaires."
+  ]
+ },
+ {
+  "q": "Le développement du lymphocyte T en résumé :",
+  "options": [
+   "Moelle osseuse : CSH vers CSL vers pro-thymocyte",
+   "Thymus : DN vers DP vers SP immature vers SP mature",
+   "Sélection positive : reconnaissance du CMH du soi",
+   "Sélection négative : élimination des autoréactifs",
+   "Maturation dans les ganglions lymphatiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la lignée T naît dans la moelle osseuse.",
+   "Exact : le développement thymique suit DN, DP, SP immature, SP mature.",
+   "Exact : la sélection positive retient les TCR reconnaissant le CMH du soi.",
+   "Exact : la sélection négative élimine les autoréactifs.",
+   "Inexact : la maturation a lieu dans le thymus ; les ganglions sont le lieu d'activation."
+  ]
+ },
+ {
+  "q": "Les étapes de la réponse T cytotoxique lors d'une infection virale :",
+  "options": [
+   "La DC capte l'Ag viral dans le tissu infecté, s'active et migre vers le ganglion le plus proche",
+   "La DC présente l'Ag au LTH CD4 naïf",
+   "Le LTH s'active, prolifère et se différencie en LTH1 effecteurs et mémoire",
+   "Le LTc est activé avant toute intervention du LTH",
+   "La sélection clonale du LTc fait intervenir la coopération LTc-DC-LTH1"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la DC capte l'Ag viral, s'active et migre vers le ganglion le plus proche.",
+   "Exact : la DC présente l'Ag au LTH CD4 naïf.",
+   "Exact : le LTH se différencie en LTH1 effecteurs et LTH1 mémoire.",
+   "Inexact : le LTc est activé après le LTH, grâce à l'IL2 du LTH1.",
+   "Exact : la sélection clonale repose sur la coopération LTc-DC-LTH1."
+  ]
+ },
+ {
+  "q": "La sélection clonale du LTc :",
+  "options": [
+   "Le LTc reconnaît par son TCR le peptide-CMH présenté par la DC",
+   "Une synapse immunologique DC/LTc se forme",
+   "Le LTH1 activé sécrète de l'IL2 vers le LTc CD8",
+   "Elle aboutit à l'activation et à la prolifération en clone du LTc",
+   "Elle a lieu dans le tissu infecté"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTc reconnaît par son TCR le peptide-CMH de la DC.",
+   "Exact : une synapse immunologique DC/LTc se forme.",
+   "Exact : le LTH1 activé sécrète de l'IL2 vers le LTc CD8.",
+   "Exact : elle aboutit à l'activation et à la prolifération en clone du LTc.",
+   "Inexact : la sélection clonale a lieu dans le ganglion, non dans le tissu infecté."
+  ]
+ },
+ {
+  "q": "Après la sélection clonale, le LTc :",
+  "options": [
+   "S'active et prolifère en clone",
+   "Se différencie en LTc effecteur",
+   "Se différencie en LTc mémoire",
+   "Forme des granules lytiques contenant perforine et granzymes",
+   "Se différencie en plasmocyte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTc s'active et prolifère en clone.",
+   "Exact : il se différencie en LTc effecteur.",
+   "Exact : il se différencie en LTc mémoire.",
+   "Exact : le LTc effecteur forme des granules lytiques (perforine, granzymes).",
+   "Inexact : les plasmocytes dérivent des lymphocytes B."
+  ]
+ },
+ {
+  "q": "Le LTc effecteur :",
+  "options": [
+   "Contient des granules lytiques",
+   "Les granules renferment perforine et granzymes",
+   "Migre par la lymphe puis le sang vers le tissu infecté",
+   "Reconnaît la cellule cible infectée",
+   "Sécrète des anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTc effecteur contient des granules lytiques.",
+   "Exact : les granules renferment perforine et granzymes.",
+   "Exact : il migre par la lymphe puis le sang vers le tissu infecté.",
+   "Exact : il reconnaît la cellule cible dans le tissu infecté.",
+   "Inexact : les anticorps sont sécrétés par les plasmocytes."
+  ]
+ },
+ {
+  "q": "La migration du LTc effecteur :",
+  "options": [
+   "Se fait par la lymphe puis le sang",
+   "Le conduit vers le tissu infecté",
+   "Précède la phase effectrice de lyse",
+   "Se fait vers le thymus",
+   "A lieu avant sa différenciation"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le LTc effecteur migre par la lymphe puis le sang.",
+   "Exact : il gagne le tissu infecté.",
+   "Exact : la migration précède la phase effectrice de lyse.",
+   "Inexact : le LTc migre vers le tissu infecté, non vers le thymus.",
+   "Inexact : la migration suit la différenciation en LTc effecteur."
+  ]
+ },
+ {
+  "q": "La phase effectrice : lyse de la cellule cible :",
+  "options": [
+   "Le LTc effecteur reconnaît la cellule cible",
+   "Un conjugué LTc effecteur / cellule cible se forme",
+   "L'attaque membranaire fait intervenir perforines et granzymes",
+   "La cellule cible meurt par apoptose",
+   "La cellule cible meurt par nécrose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTc effecteur reconnaît la cellule cible.",
+   "Exact : un conjugué LTc effecteur / cellule cible se forme.",
+   "Exact : l'attaque membranaire fait intervenir perforines et granzymes.",
+   "Exact : la cellule cible meurt par apoptose.",
+   "Inexact : la cellule cible meurt par apoptose, non par nécrose."
+  ]
+ },
+ {
+  "q": "Concernant la perforine :",
+  "options": [
+   "Est contenue dans les granules lytiques du LTc",
+   "Participe à l'attaque membranaire de la cellule cible",
+   "Forme des pores dans la membrane de la cellule cible",
+   "Est sécrétée par le LTH1",
+   "Permet l'entrée des granzymes dans la cellule cible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la perforine est contenue dans les granules lytiques du LTc.",
+   "Exact : elle participe à l'attaque membranaire.",
+   "Exact : la perforine polymérise et forme des pores membranaires.",
+   "Inexact : la perforine est produite par le LTc effecteur (et les NK).",
+   "Exact : les pores permettent l'entrée des granzymes dans la cible."
+  ]
+ },
+ {
+  "q": "Concernant les granzymes :",
+  "options": [
+   "Sont contenus dans les granules lytiques du LTc",
+   "Pénètrent dans la cellule cible grâce à la perforine",
+   "Déclenchent l'apoptose de la cellule cible",
+   "Sont des anticorps cytotoxiques",
+   "Sont sécrétés par les LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les granzymes sont contenus dans les granules lytiques.",
+   "Exact : ils pénètrent dans la cible via les pores de perforine.",
+   "Exact : les granzymes, protéases, déclenchent l'apoptose.",
+   "Inexact : les granzymes sont des protéases, non des anticorps.",
+   "Inexact : ils sont produits par les LTc (et les NK)."
+  ]
+ },
+ {
+  "q": "Le LTc, véritable tueur en série (serial killer) :",
+  "options": [
+   "Se détache de la cellule cible après l'attaque",
+   "Se lie ensuite à une autre cellule infectée",
+   "Peut lyser successivement plusieurs cellules cibles",
+   "Meurt après la lyse d'une seule cellule",
+   "La cellule cible meurt par apoptose peu après la dissociation du LTc"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le LTc se détache de la cellule cible après l'attaque.",
+   "Exact : il se lie ensuite à une autre cellule infectée.",
+   "Exact : un même LTc peut tuer plusieurs cibles successivement.",
+   "Inexact : le LTc survit à la lyse et enchaîne les cibles.",
+   "Exact : la cible meurt par apoptose peu après la dissociation."
+  ]
+ },
+ {
+  "q": "La fin de la réponse cytotoxique :",
+  "options": [
+   "À la disparition de l'Ag viral, les LTc activés meurent",
+   "La mort des LTc est induite par activation (AICD)",
+   "Le LTreg exerce une action fratricide sur les LTc",
+   "La réponse immunitaire retourne au silence",
+   "Les LTc effecteurs persistent indéfiniment"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : à la disparition de l'Ag, les LTc activés meurent.",
+   "Exact : il s'agit d'une mort induite par activation (AICD).",
+   "Exact : le LTreg exerce une action fratricide sur les LTc.",
+   "Exact : la réponse immunitaire retourne au silence.",
+   "Inexact : les LTc activés meurent par AICD ; seuls les LTc mémoire persistent."
+  ]
+ },
+ {
+  "q": "L'AICD (mort cellulaire induite par activation) :",
+  "options": [
+   "Élimine les LTc activés en fin de réponse",
+   "Fait intervenir l'action fratricide du LTreg",
+   "Permet le retour au silence de la réponse immunitaire",
+   "Élimine les LTc mémoire",
+   "Fait proliférer les LTc"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'AICD élimine les LTc activés en fin de réponse.",
+   "Exact : elle fait intervenir l'action fratricide du LTreg.",
+   "Exact : elle permet le retour au silence de la réponse.",
+   "Inexact : les LTc mémoire persistent pour la réponse secondaire.",
+   "Inexact : l'AICD est une mort cellulaire, non une prolifération."
+  ]
+ },
+ {
+  "q": "Le conjugué LTc effecteur / cellule cible :",
+  "options": [
+   "Résulte de la reconnaissance de la cellule cible par le LTc",
+   "Permet la libération polarisée des granules lytiques vers la cible",
+   "Précède l'attaque membranaire",
+   "Est permanent jusqu'à la mort du LTc",
+   "Permet une lyse spécifique de la cellule infectée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le conjugué résulte de la reconnaissance de la cible.",
+   "Exact : les granules sont libérés de façon polarisée vers la cible.",
+   "Exact : le conjugué précède l'attaque membranaire.",
+   "Inexact : le LTc se détache après l'attaque (serial killer).",
+   "Exact : le conjugué permet une lyse spécifique de la cellule infectée."
+  ]
+ },
+ {
+  "q": "Concernant la spécificité de la lyse par le LTc :",
+  "options": [
+   "Seules les cellules présentant le peptide reconnu sont lysées",
+   "La reconnaissance fait intervenir le TCR du LTc",
+   "Les cellules saines ne présentant pas le peptide sont épargnées",
+   "Toutes les cellules du tissu infecté sont lysées",
+   "La lyse est non spécifique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : seules les cellules présentant le peptide sont lysées.",
+   "Exact : la reconnaissance fait intervenir le TCR du LTc.",
+   "Exact : les cellules saines sont épargnées.",
+   "Inexact : la lyse est spécifique des cellules présentant l'antigène.",
+   "Inexact : la lyse par le LTc est spécifique."
+  ]
+ },
+ {
+  "q": "Les granules lytiques du LTc :",
+  "options": [
+   "Se forment lors de la différenciation en LTc effecteur",
+   "Contiennent la perforine",
+   "Contiennent les granzymes",
+   "Sont libérés au niveau du conjugué avec la cellule cible",
+   "Contiennent des anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les granules se forment lors de la différenciation en effecteur.",
+   "Exact : ils contiennent la perforine.",
+   "Exact : ils contiennent les granzymes.",
+   "Exact : ils sont libérés au niveau du conjugué LTc / cellule cible.",
+   "Inexact : les granules contiennent perforine et granzymes, non des anticorps."
+  ]
+ },
+ {
+  "q": "La réponse T cytotoxique en résumé :",
+  "options": [
+   "Initiation : DC vers LTH CD4 dans le ganglion",
+   "Amplification : IL2 du LTH1 vers activation et prolifération clonale du LTc",
+   "Différenciation : LTc effecteurs à granules lytiques et LTc mémoire",
+   "Phase effectrice : lyse des cellules infectées dans le tissu",
+   "Résolution : persistance indéfinie des LTc effecteurs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'initiation est DC vers LTH CD4 dans le ganglion.",
+   "Exact : l'IL2 du LTH1 amplifie l'activation clonale du LTc.",
+   "Exact : la différenciation donne effecteurs et mémoire.",
+   "Exact : la phase effectrice lyse les cellules infectées dans le tissu.",
+   "Inexact : les LTc activés meurent par AICD ; seuls les mémoire persistent."
+  ]
+ },
+ {
+  "q": "Concernant la coopération entre LTc, DC et LTH1 :",
+  "options": [
+   "La DC présente l'antigène au LTH CD4 naïf",
+   "Le LTH se différencie en LTH1 effecteur",
+   "Le LTH1 sécrète de l'IL2 vers le LTc CD8",
+   "Une synapse immunologique DC/LTc se forme",
+   "Le LTc active le LTH1"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la DC présente l'Ag au LTH CD4 naïf.",
+   "Exact : le LTH se différencie en LTH1 effecteur.",
+   "Exact : le LTH1 activé sécrète de l'IL2 vers le LTc CD8.",
+   "Exact : une synapse immunologique DC/LTc se forme.",
+   "Inexact : c'est le LTH1 qui aide le LTc, et non l'inverse."
+  ]
+ },
+ {
+  "q": "L'IL2 dans la réponse cytotoxique :",
+  "options": [
+   "Est sécrétée par le LTH1 activé",
+   "Agit sur le LTc CD8",
+   "Stimule l'activation du LTc",
+   "Stimule la prolifération clonale du LTc",
+   "Est sécrétée par le LTc vers le LTH1"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL2 est sécrétée par le LTH1 activé.",
+   "Exact : elle agit sur le LTc CD8.",
+   "Exact : elle stimule l'activation du LTc.",
+   "Exact : elle stimule sa prolifération en clone.",
+   "Inexact : l'IL2 va du LTH1 vers le LTc."
+  ]
+ },
+ {
+  "q": "La synapse immunologique DC/LTc :",
+  "options": [
+   "Se forme lors de la sélection clonale du LTc",
+   "Met en jeu le TCR du LTc et le peptide-CMH de la DC",
+   "S'accompagne de la coopération du LTH1",
+   "A lieu dans le tissu infecté",
+   "Aboutit à l'activation du LTc"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : elle se forme lors de la sélection clonale du LTc.",
+   "Exact : elle met en jeu le TCR du LTc et le peptide-CMH de la DC.",
+   "Exact : la coopération du LTH1 (IL2) l'accompagne.",
+   "Inexact : elle se forme dans le ganglion, lors de la sélection clonale.",
+   "Exact : elle aboutit à l'activation du LTc."
+  ]
+ },
+ {
+  "q": "Concernant les LTc mémoire :",
+  "options": [
+   "Ils sont générés lors de la différenciation du LTc",
+   "Ils persistent après la disparition de l'antigène",
+   "Ils permettent une réponse secondaire plus rapide",
+   "Ils meurent par AICD en fin de réponse primaire",
+   "Ils contiennent des granules lytiques préformés"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les LTc mémoire sont générés lors de la différenciation.",
+   "Exact : ils persistent après la disparition de l'antigène.",
+   "Exact : ils permettent une réponse secondaire plus rapide.",
+   "Inexact : ce sont les LTc activés effecteurs qui meurent par AICD.",
+   "Inexact : les granules lytiques caractérisent les LTc effecteurs."
+  ]
+ },
+ {
+  "q": "L'apoptose de la cellule cible :",
+  "options": [
+   "Résulte de l'attaque par perforines et granzymes",
+   "Survient peu après la dissociation du LTc",
+   "Est une mort cellulaire programmée",
+   "S'accompagne d'une réaction inflammatoire majeure",
+   "Évite la dissémination du virus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : perforines et granzymes induisent l'apoptose de la cible.",
+   "Exact : la cible meurt par apoptose peu après la dissociation du LTc.",
+   "Exact : l'apoptose est une mort cellulaire programmée.",
+   "Inexact : l'apoptose est une mort propre, peu inflammatoire, contrairement à la nécrose.",
+   "Exact : la lyse précoce limite la réplication et la dissémination virale."
+  ]
+ },
+ {
+  "q": "Concernant les cellules NK par rapport aux LTc :",
+  "options": [
+   "Les NK appartiennent à l'immunité innée",
+   "Les NK n'expriment pas de TCR",
+   "Les LTc appartiennent à l'immunité adaptative",
+   "Les LTc reconnaissent l'antigène via leur TCR",
+   "Les NK et les LTc utilisent le même récepteur antigénique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les NK sont des cellules de l'immunité innée.",
+   "Exact : les NK n'expriment pas de TCR (CD16+, CD56+).",
+   "Exact : les LTc appartiennent à l'immunité adaptative.",
+   "Exact : les LTc reconnaissent l'antigène via leur TCR.",
+   "Inexact : les NK utilisent des récepteurs activateurs/inhibiteurs (KAR, KIR), non un TCR."
+  ]
+ },
+ {
+  "q": "L'ADCC (cytotoxicité cellulaire dépendante des anticorps) :",
+  "options": [
+   "Fait intervenir les anticorps",
+   "Fait intervenir les cellules NK via le CD16 (FcγRIII)",
+   "Aboutit à la lyse de la cellule cible opsonisée",
+   "Est un mécanisme effecteur de la réponse humorale",
+   "Est assurée par les LT cytotoxiques CD8"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'ADCC est dépendante des anticorps.",
+   "Exact : les NK reconnaissent les Ac via le CD16 (FcγRIII).",
+   "Exact : elle aboutit à la lyse de la cellule cible.",
+   "Exact : c'est un mécanisme effecteur impliquant les anticorps.",
+   "Inexact : l'ADCC est médiée par les NK, non par les LTc."
+  ]
+ },
+ {
+  "q": "Concernant la lyse par les NK :",
+  "options": [
+   "Les NK contiennent des granules de perforine et granzymes",
+   "Les récepteurs KAR reconnaissent les cellules stressées",
+   "Les récepteurs KIR inhibent la lyse en présence du CMH I du soi",
+   "Les NK nécessitent une sensibilisation préalable par l'antigène",
+   "Les NK expriment le CD16 et le CD56"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les NK (LGL) contiennent des granules cytotoxiques.",
+   "Exact : les KAR reconnaissent les molécules des cellules stressées.",
+   "Exact : les KIR inhibent la lyse face au CMH I du soi.",
+   "Inexact : les NK sont des effecteurs de l'inné, actifs sans sensibilisation préalable.",
+   "Exact : les NK expriment CD16, CD2 et CD56."
+  ]
+ },
+ {
+  "q": "La réponse cytotoxique antivirale :",
+  "options": [
+   "Détruit les cellules infectées par le virus",
+   "Empêche la réplication virale intracellulaire",
+   "Fait intervenir les LTc CD8 spécifiques",
+   "Neutralise les virions libres dans le sang",
+   "Repose sur les anticorps neutralisants"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : elle détruit les cellules infectées par le virus.",
+   "Exact : la lyse des cellules infectées bloque la réplication virale.",
+   "Exact : elle fait intervenir les LTc CD8 spécifiques.",
+   "Inexact : la neutralisation des virions libres relève des anticorps (RI humorale).",
+   "Inexact : la réponse cytotoxique est cellulaire, non humorale."
+  ]
+ },
+ {
+  "q": "Concernant les étapes de production des LTc :",
+  "options": [
+   "Activation du LTH CD4 naïf par la DC",
+   "Différenciation du LTH en LTH1 effecteurs et mémoire",
+   "Sélection clonale du LTc avec coopération DC-LTH1",
+   "Prolifération clonale et différenciation du LTc",
+   "Production directe de LTc par la DC sans LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la DC active le LTH CD4 naïf.",
+   "Exact : le LTH se différencie en LTH1 effecteurs et mémoire.",
+   "Exact : la sélection clonale repose sur la coopération DC-LTH1.",
+   "Exact : le LTc prolifère en clone puis se différencie.",
+   "Inexact : la production des LTc nécessite l'aide du LTH1 (IL2)."
+  ]
+ },
+ {
+  "q": "Le LTH1 effecteur dans la réponse cytotoxique :",
+  "options": [
+   "Est issu du LTH CD4 naïf activé par la DC",
+   "Sécrète de l'IL2",
+   "Sécrète de l'IFNγ et du TNFβ",
+   "Aide l'activation du LTc CD8",
+   "Lyse directement les cellules infectées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTH1 est issu du LTH CD4 naïf activé.",
+   "Exact : le LTH1 sécrète de l'IL2 vers le LTc.",
+   "Exact : le TH1 sécrète IFNγ et TNFβ.",
+   "Exact : le LTH1 aide l'activation du LTc CD8.",
+   "Inexact : la lyse est assurée par le LTc effecteur."
+  ]
+ },
+ {
+  "q": "Concernant la reconnaissance de la cellule cible par le LTc effecteur :",
+  "options": [
+   "Elle fait intervenir le TCR du LTc",
+   "Elle conduit à la formation d'un conjugué",
+   "Elle déclenche la libération des granules lytiques",
+   "Elle est spécifique du peptide présenté",
+   "Elle fait intervenir le BCR du LTc"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la reconnaissance fait intervenir le TCR du LTc.",
+   "Exact : elle conduit au conjugué LTc / cellule cible.",
+   "Exact : elle déclenche la libération des granules lytiques.",
+   "Exact : la reconnaissance est spécifique du peptide présenté.",
+   "Inexact : le LTc n'exprime pas de BCR."
+  ]
+ },
+ {
+  "q": "Les mécanismes de lyse de la cellule cible :",
+  "options": [
+   "L'attaque membranaire par la perforine",
+   "La pénétration des granzymes",
+   "L'induction de l'apoptose",
+   "La phagocytose de la cellule cible par le LTc",
+   "La sécrétion d'anticorps par le LTc"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la perforine attaque la membrane de la cible.",
+   "Exact : les granzymes pénètrent dans la cellule cible.",
+   "Exact : granzymes et perforine induisent l'apoptose.",
+   "Inexact : le LTc ne phagocyte pas ; il induit l'apoptose.",
+   "Inexact : le LTc ne sécrète pas d'anticorps."
+  ]
+ },
+ {
+  "q": "Après la disparition de l'antigène viral :",
+  "options": [
+   "Les LTc activés meurent par AICD",
+   "Le LTreg exerce une action fratricide",
+   "La réponse immunitaire retourne au silence",
+   "Les LTc mémoire persistent",
+   "Les LTc effecteurs continuent à proliférer"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LTc activés meurent par AICD.",
+   "Exact : le LTreg exerce une action fratricide.",
+   "Exact : la réponse immunitaire retourne au silence.",
+   "Exact : les LTc mémoire persistent.",
+   "Inexact : sans antigène, les effecteurs meurent ; seuls les mémoire persistent."
+  ]
+ },
+ {
+  "q": "Le retour au silence de la réponse immunitaire :",
+  "options": [
+   "Fait suite à la disparition de l'antigène",
+   "Fait intervenir la mort des LTc activés par AICD",
+   "Fait intervenir l'action régulatrice du LTreg",
+   "Préserve les cellules mémoire",
+   "Élimine les cellules mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : il fait suite à la disparition de l'antigène.",
+   "Exact : les LTc activés meurent par AICD.",
+   "Exact : le LTreg participe à la régulation.",
+   "Exact : les cellules mémoire sont préservées.",
+   "Inexact : les cellules mémoire sont préservées pour la réponse secondaire."
+  ]
+ },
+ {
+  "q": "Concernant la coopération cellulaire dans la réponse adaptative :",
+  "options": [
+   "La DC coopère avec le LTH pour l'activer",
+   "Le LTH coopère avec le LTc via l'IL2",
+   "Le LTH coopère avec le LB via les cytokines et le contact CD40/CD40L",
+   "Le LTH coopère avec le macrophage via l'IFNγ",
+   "Chaque cellule agit isolément sans coopération"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la coopération DC-LTH active le LTH.",
+   "Exact : le LTH1 aide le LTc via l'IL2.",
+   "Exact : le LTH2 aide le LB (cytokines, CD40/CD40L, B7/CD28).",
+   "Exact : le TH1 active le macrophage via l'IFNγ.",
+   "Inexact : la réponse adaptative résulte de la coopération entre ces populations."
+  ]
+ },
+ {
+  "q": "La réponse immunitaire adaptative cellulaire en résumé :",
+  "options": [
+   "Centre : le LTH CD4 activé par la DC",
+   "Effecteurs : les LT cytotoxiques CD8",
+   "Aide : l'IL2 du LTH1 pour le LTc",
+   "Cibles : les cellules infectées, lysées par apoptose",
+   "Effecteurs : les plasmocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTH CD4 est le centre de la réponse adaptative.",
+   "Exact : les LTc CD8 sont les effecteurs cytotoxiques.",
+   "Exact : l'IL2 du LTH1 aide l'activation du LTc.",
+   "Exact : les cellules infectées sont lysées par apoptose.",
+   "Inexact : les plasmocytes sont les effecteurs de la réponse humorale."
+  ]
+ },
+ {
+  "q": "Concernant les signaux entre DC et LTH :",
+  "options": [
+   "Signal 1 : peptide-CMH II / TCR-CD3",
+   "Signal 2 : B7-CD28 et CD40-CD40L",
+   "Ces signaux induisent la transcription de l'IL2 et de son récepteur",
+   "Le LTH passe de G0 à G1",
+   "Signal 3 : interaction peptide-CMH II / TCR-CD3"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le signal 1 est peptide-CMH II / TCR-CD3.",
+   "Exact : le signal 2 est la costimulation.",
+   "Exact : ils induisent la transcription de l'IL2 et de l'α IL2R.",
+   "Exact : le LTH passe de G0 à G1.",
+   "Inexact : l'interaction peptide-CMH II / TCR-CD3 est le signal 1."
+  ]
+ },
+ {
+  "q": "Concernant les signaux entre LTH et LTc :",
+  "options": [
+   "Le LTH1 sécrète de l'IL2 vers le LTc",
+   "L'IL2 active et fait proliférer le LTc",
+   "Une synapse immunologique DC/LTc accompagne cette coopération",
+   "Le LTc sécrète de l'IL2 vers le LTH1",
+   "Le contact est inutile, seule l'IL2 compte"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le LTH1 activé sécrète de l'IL2 vers le LTc CD8.",
+   "Exact : l'IL2 active et fait proliférer le LTc en clone.",
+   "Exact : la synapse immunologique DC/LTc accompagne la coopération.",
+   "Inexact : l'IL2 va du LTH1 vers le LTc.",
+   "Inexact : la synapse immunologique DC/LTc participe à l'activation."
+  ]
+ },
+ {
+  "q": "Les cellules de l'immunité adaptative :",
+  "options": [
+   "Les LT helpers CD4",
+   "Les LT cytotoxiques CD8",
+   "Les lymphocytes B",
+   "Les cellules dendritiques présentatrices",
+   "Les polynucléaires neutrophiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LTH CD4 sont des cellules de l'immunité adaptative.",
+   "Exact : les LTc CD8 en font partie.",
+   "Exact : les LB en font partie.",
+   "Exact : les DC initient la réponse adaptative.",
+   "Inexact : les PNN appartiennent à l'immunité innée."
+  ]
+ },
+ {
+  "q": "Concernant la médiation cellulaire :",
+  "options": [
+   "Elle est assurée par les lymphocytes T",
+   "Le LTc en est l'effecteur cytotoxique",
+   "Le LTH en est l'organisateur",
+   "Elle est assurée par les anticorps",
+   "Elle détruit les cellules infectées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la médiation cellulaire est assurée par les LT.",
+   "Exact : le LTc CD8 est l'effecteur cytotoxique.",
+   "Exact : le LTH CD4 est le centre organisateur.",
+   "Inexact : les anticorps médient la réponse humorale.",
+   "Exact : elle aboutit à la destruction des cellules infectées."
+  ]
+ },
+ {
+  "q": "La réponse immunitaire spécifique :",
+  "options": [
+   "Elle est dirigée contre un antigène précis",
+   "Elle fait intervenir des clones de lymphocytes spécifiques",
+   "Elle génère une mémoire immunologique",
+   "Elle est identique quel que soit l'antigène",
+   "Elle est non spécifique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : elle est spécifique de l'antigène.",
+   "Exact : elle fait intervenir des clones spécifiques.",
+   "Exact : elle génère une mémoire immunologique.",
+   "Inexact : elle est spécifique de chaque antigène.",
+   "Inexact : la non-spécificité caractérise l'immunité innée."
+  ]
+ },
+ {
+  "q": "Concernant le CMH dans la réponse cellulaire :",
+  "options": [
+   "Le CMH II présente au LTH CD4",
+   "Le CMH I est reconnu par le LTc CD8",
+   "Le CD4 se lie au CMH II",
+   "Le CD8 se lie au CMH I",
+   "Le CMH II présente au LTc CD8"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le CMH II présente les peptides au LTH CD4.",
+   "Exact : le CMH I est reconnu par le LTc CD8.",
+   "Exact : le corécepteur CD4 se lie au CMH II.",
+   "Exact : le corécepteur CD8 se lie au CMH I.",
+   "Inexact : le LTc CD8 reconnaît le CMH de classe I."
+  ]
+ },
+ {
+  "q": "Les lymphocytes T cytotoxiques :",
+  "options": [
+   "Expriment le corécepteur CD8",
+   "Expriment le complexe TCR-CD3",
+   "Se différencient en effecteurs à granules lytiques",
+   "Détruisent les cellules infectées par apoptose",
+   "Représentent 30 à 50 % des LT en périphérie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LTc expriment le corécepteur CD8.",
+   "Exact : ils expriment le complexe TCR-CD3.",
+   "Exact : les effecteurs forment des granules lytiques.",
+   "Exact : ils détruisent les cellules infectées par apoptose.",
+   "Inexact : les LTc CD8 représentent 20 à 35 % ; les 30-50 % correspondent aux CD4."
+  ]
+ },
+ {
+  "q": "Les lymphocytes T helpers :",
+  "options": [
+   "Expriment le corécepteur CD4",
+   "Expriment le complexe TCR-CD3",
+   "Sont le centre de la réponse adaptative",
+   "Représentent 30 à 50 % des LT en périphérie",
+   "Lysent directement les cellules infectées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LTH expriment le corécepteur CD4.",
+   "Exact : ils expriment le complexe TCR-CD3.",
+   "Exact : ils sont le centre de la réponse adaptative.",
+   "Exact : ils représentent 30 à 50 % des LT.",
+   "Inexact : la lyse est assurée par les LTc CD8."
+  ]
+ },
+ {
+  "q": "Concernant l'initiation de l'immunité adaptative :",
+  "options": [
+   "Elle fait suite au franchissement de la réaction inflammatoire",
+   "La DC capte l'antigène dans le tissu",
+   "La DC migre vers l'organe lymphoïde secondaire",
+   "Le LTH naïf est activé dans le ganglion",
+   "Le LTc naïf est activé dans le tissu infecté"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : elle se met en action une fois la première barrière franchie.",
+   "Exact : la DC capte l'antigène dans le tissu infecté.",
+   "Exact : elle migre vers l'organe lymphoïde secondaire le plus proche.",
+   "Exact : le LTH naïf est activé dans le ganglion.",
+   "Inexact : le LTc est activé dans le ganglion lors de la sélection clonale."
+  ]
+ },
+ {
+  "q": "La prolifération clonale :",
+  "options": [
+   "Concerne le LTH après les 4 signaux",
+   "Concerne le LTc après la sélection clonale",
+   "Amplifie les clones spécifiques de l'antigène",
+   "Produit des effecteurs et des cellules mémoire",
+   "Concerne tous les lymphocytes indistinctement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LTH prolifère après les 4 signaux.",
+   "Exact : le LTc prolifère après la sélection clonale.",
+   "Exact : elle amplifie les clones spécifiques de l'antigène.",
+   "Exact : elle produit des effecteurs et des cellules mémoire.",
+   "Inexact : seuls les clones spécifiques de l'antigène prolifèrent."
+  ]
+ },
+ {
+  "q": "Concernant la différenciation lymphocytaire :",
+  "options": [
+   "Le LTH se différencie en TH1, TH2, TH17, Treg et mémoire",
+   "Le LTc se différencie en effecteur et mémoire",
+   "La différenciation est orientée par les cytokines",
+   "La différenciation a lieu avant l'activation",
+   "Le LB se différencie en plasmocyte et LB mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le LTH donne TH1, TH2, TH17, Treg et mémoire.",
+   "Exact : le LTc donne effecteurs et mémoire.",
+   "Exact : les cytokines (DC+++) orientent la différenciation.",
+   "Inexact : la différenciation fait suite à l'activation et à la prolifération.",
+   "Exact : le LB se différencie en plasmocytes et LB mémoire."
+  ]
+ },
+ {
+  "q": "Les effecteurs de l'immunité adaptative cellulaire :",
+  "options": [
+   "Les LT cytotoxiques CD8 effecteurs",
+   "Les macrophages activés par le TH1",
+   "Les LTH1 pro-inflammatoires",
+   "Les anticorps",
+   "Le complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les LTc CD8 effecteurs sont les effecteurs cytotoxiques.",
+   "Exact : les macrophages activés par le TH1 y participent.",
+   "Exact : les LTH1 orchestrent la réponse cellulaire.",
+   "Inexact : les anticorps sont les effecteurs de l'immunité humorale.",
+   "Inexact : le complément appartient à l'immunité innée."
+  ]
+ },
+ {
+  "q": "Concernant la lutte antivirale :",
+  "options": [
+   "Les LTc lysent les cellules infectées",
+   "Le TH1 aide la différenciation des LTc",
+   "L'IFNγ active les macrophages",
+   "Les anticorps neutralisent les virus libres",
+   "Les LTc neutralisent les virus libres"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LTc lysent les cellules infectées.",
+   "Exact : le TH1 aide la différenciation des LTc CD8.",
+   "Exact : l'IFNγ du TH1 active les macrophages.",
+   "Exact : les anticorps neutralisent les virions libres.",
+   "Inexact : les LTc lysent les cellules infectées ; la neutralisation relève des anticorps."
+  ]
+ },
+ {
+  "q": "La mémoire immunologique cellulaire :",
+  "options": [
+   "Est portée par les LT mémoire",
+   "Les LT mémoire sont quiescents en G0",
+   "Ils ont une longue durée de vie",
+   "Ils permettent une réponse secondaire rapide",
+   "Elle est portée par les plasmocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la mémoire cellulaire est portée par les LT mémoire.",
+   "Exact : les LT mémoire sont quiescents en G0.",
+   "Exact : ils ont une longue durée de vie.",
+   "Exact : ils permettent une réponse secondaire plus rapide.",
+   "Inexact : les plasmocytes sont des effecteurs à courte durée de vie."
+  ]
+ },
+ {
+  "q": "Concernant la tolérance :",
+  "options": [
+   "La sélection négative thymique élimine les LT autoréactifs",
+   "Le Treg induit la tolérance en périphérie",
+   "Le Treg sécrète TGFβ et IL10",
+   "La tolérance évite les réactions contre le soi",
+   "La sélection positive élimine les LT autoréactifs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la sélection négative élimine les LT autoréactifs.",
+   "Exact : le Treg induit la tolérance en périphérie.",
+   "Exact : le Treg sécrète TGFβ et IL10.",
+   "Exact : la tolérance évite les réactions contre le soi.",
+   "Inexact : c'est la sélection négative qui élimine les autoréactifs."
+  ]
+ },
+ {
+  "q": "Les cytokines de l'immunité adaptative cellulaire :",
+  "options": [
+   "L'IL2 : activateur et facteur de prolifération lymphocytaire",
+   "L'IFNγ : activation des macrophages",
+   "L'IL17 : inflammation",
+   "Le TGFβ et l'IL10 : régulation et tolérance",
+   "L'IL4 : activation des macrophages"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL2 est un activateur lymphocytaire.",
+   "Exact : l'IFNγ active les macrophages.",
+   "Exact : l'IL17 est pro-inflammatoire.",
+   "Exact : TGFβ et IL10 sont régulateurs et tolérogènes.",
+   "Inexact : l'IL4 (TH2) favorise la différenciation des LB."
+  ]
+ },
+ {
+  "q": "Concernant la réponse immunitaire cellulaire spécifique et l'humorale :",
+  "options": [
+   "La cellulaire est médiée par les LTc CD8",
+   "L'humorale est médiée par les LB et les anticorps",
+   "Les deux nécessitent l'aide du LTH CD4",
+   "La cellulaire détruit les cellules infectées",
+   "L'humorale détruit les cellules infectées par les LTc"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la réponse cellulaire est médiée par les LTc CD8.",
+   "Exact : la réponse humorale est médiée par les LB et les anticorps.",
+   "Exact : les deux réponses nécessitent l'aide du LTH CD4.",
+   "Exact : la cellulaire détruit les cellules infectées.",
+   "Inexact : l'humorale agit via les anticorps, non via les LTc."
+  ]
+ },
+ {
+  "q": "L'immunité adaptative cellulaire en résumé :",
+  "options": [
+   "2e ligne de défense, prolongement de l'immunité innée",
+   "Initiée par la DC qui présente l'Ag au LTH CD4 dans le ganglion",
+   "Organisée par le LTH, centre de la réponse adaptative",
+   "Effecteurs : LTc CD8 qui lysent les cellules infectées par apoptose",
+   "Médiée par les anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : c'est la 2e ligne, prolongement de l'innée.",
+   "Exact : la DC présente l'Ag au LTH CD4 dans le ganglion.",
+   "Exact : le LTH est le centre de la réponse adaptative.",
+   "Exact : les LTc CD8 lysent les cellules infectées par apoptose.",
+   "Inexact : elle est médiée par les cellules (LTc), non par les anticorps."
+  ]
+ }
+]

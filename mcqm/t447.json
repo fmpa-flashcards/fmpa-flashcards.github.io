@@ -1,0 +1,4565 @@
+[
+ {
+  "q": "Concernant la taxonomie et la morphologie de Neisseria meningitidis, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est un diplocoque à Gram négatif (DCGN)",
+   "Au microscope, il prend l'aspect de « grains de café » disposés en 8",
+   "C'est un bacille à Gram négatif",
+   "C'est une bactérie strictement humaine",
+   "C'est un cocci à Gram positif"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : le méningocoque est un diplocoque à Gram négatif (DCGN).",
+   "Vrai : les diplocoques sont associés par paire, en 8, aspect en « grains de café ».",
+   "Faux : il n'est pas bacillaire mais coccoïde.",
+   "Vrai : le réservoir est strictement humain, il colonise le rhinopharynx.",
+   "Faux : ce n'est pas un cocci à Gram positif."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les caractères bactériologiques du méningocoque, lesquelles sont exactes ?",
+  "options": [
+   "C'est une bactérie aérobie stricte",
+   "C'est une bactérie très fragile et exigeante",
+   "La primoculture nécessite un milieu enrichi au sang",
+   "Elle pousse à 36 ± 1 °C en atmosphère enrichie en CO2 et humide",
+   "Elle résiste bien au froid et à la dessiccation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Neisseria meningitidis est un aérobie strict.",
+   "Vrai : le méningocoque est décrit comme un germe fragile et exigeant.",
+   "Vrai : la primoculture se fait sur milieux enrichis au sang (sang cuit/chocolat).",
+   "Vrai : incubation à 36 ± 1 °C, atmosphère humide riche en CO2.",
+   "Faux : c'est un germe extrêmement fragile ; il faut éviter son exposition au froid."
+  ]
+ },
+ {
+  "q": "À propos des colonies de Neisseria meningitidis en culture, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles apparaissent en 24 à 48 h d'incubation",
+   "Elles sont lisses, bombées, grises à transparentes",
+   "Les souches pathogènes donnent des colonies pigmentées en jaune",
+   "Elles sont oxydase positives",
+   "Elles sont catalase positives"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les colonies sont obtenues en 24 à 48 h.",
+   "Vrai : colonies lisses, bombées, grises à transparentes.",
+   "Faux : les colonies pigmentées en jaune correspondent aux Neisseria « non pathogènes » (flava, subflava, perflava).",
+   "Vrai : le méningocoque est oxydase +.",
+   "Vrai : le méningocoque est catalase +."
+  ]
+ },
+ {
+  "q": "Concernant la capsule de Neisseria meningitidis, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une capsule polysaccharidique à effet antiphagocytaire",
+   "Les sérogroupes les plus fréquents sont A, B, C, Y et W135",
+   "Les polysaccharides des groupes A, C, Y et W135 sont immunogènes et ont permis des vaccins",
+   "Le polysaccharide du groupe B est très peu immunogène, sans vaccin polysaccharidique",
+   "La capsule possède des antigènes protéiques de paroi servant de marqueurs épidémiologiques (types, sous-types)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la capsule polysaccharidique protège de la phagocytose.",
+   "Vrai : les sérogroupes A, B, C, Y et W135 sont les plus fréquents et à l'origine des épidémies.",
+   "Vrai : les vaccins mono-, di- et tétravalents utilisent ces polysaccharides immunogènes.",
+   "Vrai : le polysaccharide B est très peu immunogène, d'où l'absence de vaccin correspondant.",
+   "Faux : ce sont les antigènes protéiques de surface (et non la capsule) qui définissent types et sous-types, marqueurs épidémiologiques."
+  ]
+ },
+ {
+  "q": "Parmi les facteurs de virulence du méningocoque, lesquels sont exacts ?",
+  "options": [
+   "Les pili (fimbriae) de surface favorisent l'adhésion aux cellules oropharyngées",
+   "L'IgA protéase dégrade les IgA sécrétoires et permet d'échapper à l'immunité locale",
+   "Le lipo-oligosaccharide (LOS) est une endotoxine responsable du choc septique",
+   "La capsule polysaccharidique confère une résistance à la phagocytose",
+   "La toxine diphtérique est le principal facteur de virulence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les pili assurent l'adhésion aux cellules oropharyngées.",
+   "Vrai : l'IgA protéase dégrade les IgA S, échappant à l'immunité muqueuse.",
+   "Vrai : le LOS (équivalent de l'Ag O) est l'endotoxine à l'origine du choc septique.",
+   "Vrai : la capsule est antiphagocytaire.",
+   "Faux : le méningocoque ne produit pas de toxine diphtérique."
+  ]
+ },
+ {
+  "q": "Concernant l'identification biochimique de Neisseria meningitidis, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle fait appel à la galerie Api NH (Neisseria et Haemophilus)",
+   "Le méningocoque utilise le glucose",
+   "Le méningocoque utilise le maltose",
+   "Le méningocoque possède une gamma-glutamyl-transférase (γGT) positive",
+   "Le gonocoque se distingue par l'utilisation du maltose en plus du glucose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'identification biochimique utilise la galerie Api NH.",
+   "Vrai : N. meningitidis est glucose +.",
+   "Vrai : N. meningitidis est maltose +.",
+   "Vrai : le méningocoque est γGT +.",
+   "Faux : c'est le gonocoque qui n'utilise que le glucose ; le méningocoque utilise glucose ET maltose."
+  ]
+ },
+ {
+  "q": "Concernant l'épidémiologie de Neisseria meningitidis, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La bactérie est strictement humaine et colonise le rhinopharynx",
+   "La transmission est interhumaine directe par voie aérienne (gouttelettes de Pflügge)",
+   "L'enfant et l'adulte jeune non immunisés sont les plus réceptifs",
+   "En Afrique intertropicale, le sérogroupe A est prévalent",
+   "Le portage nasopharyngé n'existe pas chez l'homme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réservoir strictement humain, colonisation du rhinopharynx.",
+   "Vrai : transmission aérienne directe par les gouttelettes de Pflügge.",
+   "Vrai : l'enfant et l'adulte jeune non immunisés sont les plus réceptifs.",
+   "Vrai : le sérogroupe A est prévalent en Afrique (zone intertropicale).",
+   "Faux : le portage rhinopharyngé existe et varie selon l'âge, les populations et les saisons."
+  ]
+ },
+ {
+  "q": "À propos de la répartition et de l'expression de la maladie méningococcique, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La maladie est endémique dans les pays en voie de développement",
+   "Les cas sporadiques concernent surtout le sérogroupe B dans les pays industrialisés",
+   "Les épidémies (groupes A, C, Y, W) surviennent dans les zones intertropicales et les collectivités",
+   "Les sérogroupes B et A sont retrouvés en Europe et au Maroc",
+   "Le méningocoque ne provoque que des cas sporadiques, jamais d'épidémies"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la maladie est endémique dans les pays en voie de développement.",
+   "Vrai : le sérogroupe B donne surtout des cas sporadiques dans les pays industrialisés.",
+   "Vrai : les épidémies concernent les groupes A, C, Y et W en zones intertropicales et collectivités.",
+   "Vrai : les sérogroupes B (et A) sont présents en Europe et au Maroc.",
+   "Faux : le méningocoque est à l'origine d'épidémies, notamment en Afrique intertropicale."
+  ]
+ },
+ {
+  "q": "Concernant la physiopathologie de l'infection à méningocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle débute par une rhino-pharyngite souvent inaperçue",
+   "La dissémination vers les méninges se fait par voie hématogène",
+   "La phase d'état s'accompagne d'une hyperleucocytose à polynucléaires neutrophiles",
+   "La CRP et la procalcitonine sont très élevées",
+   "Le LCR est toujours clair avec une formule lymphocytaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le début est une rhino-pharyngite souvent inaperçue.",
+   "Vrai : la phase d'invasion est une dissémination hématogène vers les méninges.",
+   "Vrai : hyperleucocytose à neutrophiles à la phase d'état.",
+   "Vrai : CRP et procalcitonine très élevées.",
+   "Faux : dans les méningites cérébrospinales typiques, le LCR est trouble à purulent avec prédominance neutrophile."
+  ]
+ },
+ {
+  "q": "Devant un tableau de méningite cérébrospinale typique à méningocoque, lesquels de ces signes sont retrouvés ?",
+  "options": [
+   "Fièvre à 39 voire 40 °C",
+   "Céphalées et photophobie",
+   "Vomissements en jet",
+   "Raideur de la nuque",
+   "Hypothermie et bradycardie isolées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la méningite typique s'accompagne d'une fièvre élevée (39-40 °C).",
+   "Vrai : céphalées et photophobie sont classiques.",
+   "Vrai : les vomissements en jet sont caractéristiques.",
+   "Vrai : la raideur de la nuque traduit le syndrome méningé.",
+   "Faux : le tableau est un syndrome infectieux fébrile sévère, pas une hypothermie."
+  ]
+ },
+ {
+  "q": "Concernant la méningococcémie (septicémie à méningocoque), lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une urgence diagnostique, thérapeutique et prophylactique absolue",
+   "Elle se traduit par un syndrome infectieux sévère (sepsis) avec altération de l'état général",
+   "Le purpura vasculaire (purpura fulminans) est riche en microbes",
+   "Elle met en jeu le pronostic vital",
+   "C'est une forme bénigne qui ne nécessite pas de traitement urgent"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'infection méningococcique est une urgence absolue sur les plans diagnostique, thérapeutique et prophylactique.",
+   "Vrai : sepsis sévère avec altération de l'état général.",
+   "Vrai : le purpura vasculaire est riche en microbes.",
+   "Vrai : le pronostic vital est mis en jeu.",
+   "Faux : c'est une forme gravissime, jamais bénigne."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements bactériologiques dans une infection méningococcique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le LCR est prélevé par ponction lombaire en L4/L5 ou L5/S1",
+   "Le sang est prélevé pour hémoculture (10 à 20 mL dans un bouillon d'hémoculture aérobie)",
+   "L'écouvillonnage des lésions purpuriques est un prélèvement utile",
+   "L'écouvillonnage de la gorge est possible",
+   "Le LCR doit être transporté lentement à froid pour améliorer la culture"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le LCR se prélève par ponction lombaire en L4/L5 ou L5/S1.",
+   "Vrai : 10 à 20 mL de sang dans un bouillon d'hémoculture aérobie.",
+   "Vrai : les lésions purpuriques (riches en microbes) peuvent être écouvillonnées.",
+   "Vrai : un écouvillonnage de gorge peut être réalisé.",
+   "Faux : le méningocoque étant très fragile, le transport doit être rapide au laboratoire en évitant l'exposition au froid."
+  ]
+ },
+ {
+  "q": "Dans l'examen cytobactériologique du LCR d'une méningite cérébrospinale typique, lesquels de ces éléments sont retrouvés ?",
+  "options": [
+   "Un LCR trouble à purulent, d'aspect en « eau de riz »",
+   "Une numération leucocytaire généralement supérieure à 1000 éléments/mm³",
+   "Une formule leucocytaire à prédominance de granulocytes neutrophiles",
+   "Au Gram : des diplocoques à Gram négatif en « grains de café », intra- ou extracellulaires",
+   "Un LCR clair à prédominance lymphocytaire systématique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le LCR est trouble à purulent, aspect en « eau de riz ».",
+   "Vrai : numération généralement > 1000 GB/mm³ de LCR.",
+   "Vrai : prédominance de granulocytes neutrophiles.",
+   "Vrai : le Gram montre des diplocoques Gram négatif en « grains de café », intra- ou extracellulaires.",
+   "Faux : c'est un LCR purulent à neutrophiles, non clair lymphocytaire."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic immunologique (recherche d'antigènes solubles) du méningocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La technique la plus utilisée est l'agglutination au latex",
+   "Elle est indiquée dans les méningites « décapitées » par l'antibiothérapie",
+   "Elle permet le sérogroupage",
+   "Elle est utile quand l'examen direct est négatif",
+   "Elle ne peut être réalisée que dans le LCR, jamais dans le sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'agglutination au latex est la technique la plus utilisée.",
+   "Vrai : indiquée dans les méningites décapitées par l'antibiothérapie.",
+   "Vrai : elle permet le sérogroupage.",
+   "Vrai : elle est utile quand l'examen direct est négatif.",
+   "Faux : la recherche d'antigènes peut aussi se faire dans le sang."
+  ]
+ },
+ {
+  "q": "Concernant le traitement antibiotique de l'infection méningococcique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le traitement repose sur une céphalosporine de 3e génération (céfotaxime ou ceftriaxone)",
+   "L'antibiogramme est inutile en routine car le traitement est standardisé",
+   "En cas de contre-indication aux C3G, on peut utiliser phénicolés ou cotrimoxazole",
+   "Le méningocoque est sensible à la pénicilline G",
+   "La spiramycine n'a aucune activité sur le méningocoque"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les C3G (céfotaxime, ceftriaxone) sont le traitement de référence.",
+   "Vrai : l'antibiogramme est inutile en routine, le traitement étant standardisé.",
+   "Vrai : phénicolés ou cotrimoxazole en cas de contre-indication aux C3G.",
+   "Vrai : le méningocoque est sensible à la pénicilline G.",
+   "Faux : la spiramycine est également active sur le méningocoque."
+  ]
+ },
+ {
+  "q": "À propos des résistances du méningocoque aux antibiotiques, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Il existe des souches de sensibilité diminuée à l'ampicilline",
+   "Il existe des souches productrices de bêta-lactamase",
+   "Les souches bêta-lactamase + sont détectées par le test à la céphalosporine chromogène",
+   "Le méningocoque est naturellement résistant à toutes les bêta-lactamines",
+   "La résistance aux C3G est la règle en pratique courante"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : des souches de sensibilité diminuée à l'ampicilline existent.",
+   "Vrai : des souches bêta-lactamase + existent.",
+   "Vrai : leur détection utilise le test à la céphalosporine chromogène.",
+   "Faux : le méningocoque est habituellement sensible à la pénicilline G.",
+   "Faux : les C3G restent le traitement standardisé, la résistance n'est pas la règle."
+  ]
+ },
+ {
+  "q": "Concernant la chimio-prophylaxie de l'entourage d'un cas de méningite à méningocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle concerne l'entourage très proche du malade (famille, soignants, camarades)",
+   "La ceftriaxone est recommandée en une injection IM de 250 mg",
+   "La ciprofloxacine est recommandée en un comprimé de 500 mg",
+   "Le schéma doit être précis et le personnel de laboratoire y est éligible",
+   "La chimio-prophylaxie est inutile car la maladie n'est pas contagieuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'entourage très proche (famille, soignants, camarades) doit être traité.",
+   "Vrai : ceftriaxone, 1 injection IM de 250 mg.",
+   "Vrai : ciprofloxacine, 1 comprimé de 500 mg.",
+   "Vrai : schéma précis ; le personnel hospitalier et des laboratoires est concerné.",
+   "Faux : la maladie est contagieuse (transmission aérienne), la prophylaxie est indispensable."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination contre le méningocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les vaccins sont à base de polysaccharides capsulaires purifiés",
+   "Il existe des vaccins monovalents (groupe A, groupe C)",
+   "Il existe un vaccin bivalent (groupes A + C)",
+   "Il existe un vaccin tétravalent (groupes A + C + Y + W135)",
+   "Ces vaccins sont très immunogènes avant l'âge de 2 ans"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les vaccins utilisent des polysaccharides capsulaires purifiés.",
+   "Vrai : vaccins monovalents groupe A ou groupe C.",
+   "Vrai : vaccin bivalent A + C.",
+   "Vrai : vaccin tétravalent A + C + Y + W135.",
+   "Faux : ces vaccins sont peu immunogènes avant l'âge de 2 ans."
+  ]
+ },
+ {
+  "q": "Concernant les indications de la vaccination antiméningococcique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Contexte d'épidémie de méningite cérébrospinale",
+   "Voyage en zone à risque (Hajj/Omra, Afrique intertropicale)",
+   "La vaccination est efficace et bien tolérée",
+   "Elle est recommandée systématiquement avant l'âge de 2 mois avec ces vaccins polysaccharidiques",
+   "Les mesures générales (lutte contre la promiscuité, toux responsable) complètent la prévention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'épidémie de MCS est une indication vaccinale.",
+   "Vrai : le voyage en zone à risque (Hajj/Omra, Afrique intertropicale) est une indication.",
+   "Vrai : les vaccins sont efficaces et bien tolérés.",
+   "Faux : ils sont peu immunogènes avant 2 ans ; le nourrisson n'est pas la cible de ces vaccins polysaccharidiques.",
+   "Vrai : lutte contre la promiscuité et comportement responsable complètent la prévention."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'immunité contre le méningocoque, lesquelles sont exactes ?",
+  "options": [
+   "Les IgG anti-capsulaires sériques sont bactéricides",
+   "Les IgA sécrétoires spécifiques protègent les muqueuses",
+   "La réceptivité concerne surtout l'enfant et l'adulte jeune non immunisés",
+   "L'immunité naturelle est acquise dès la naissance et définitive",
+   "La capsule polysaccharidique est l'antigène cible des anticorps protecteurs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les IgG anti-capsulaires sériques sont bactéricides.",
+   "Vrai : les IgA S spécifiques assurent l'immunité muqueuse.",
+   "Vrai : l'enfant et l'adulte jeune non immunisés sont les plus réceptifs.",
+   "Faux : l'immunité n'est pas innée dès la naissance ; elle s'acquiert (infection, vaccination).",
+   "Vrai : les anticorps protecteurs sont dirigés contre la capsule."
+  ]
+ },
+ {
+  "q": "Concernant les autres espèces du genre Neisseria, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Neisseria flava, N. subflava et N. perflava donnent des colonies pigmentées en jaune",
+   "Ce sont des bactéries non exigeantes, commensales du rhinopharynx humain",
+   "Elles peuvent donner des infections respiratoires, génitales voire des méningites",
+   "Neisseria lactamica est l'espèce la plus impliquée et un diagnostic différentiel du méningocoque (Api NH)",
+   "Toutes les espèces de Neisseria autres que N. meningitidis sont totalement non pathogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les Neisseria « non pathogènes » donnent des colonies pigmentées en jaune.",
+   "Vrai : ce sont des espèces non exigeantes, commensales du rhinopharynx.",
+   "Vrai : elles peuvent occasionnellement donner des infections respiratoires, génitales ou des méningites.",
+   "Vrai : N. lactamica est l'espèce la plus impliquée ; le diagnostic différentiel se fait par Api NH.",
+   "Faux : elles peuvent être opportunistes et donner des infections."
+  ]
+ },
+ {
+  "q": "À propos de Neisseria meningitidis, laquelle de ces associations sérogroupe / épidémiologie est exacte ?",
+  "options": [
+   "Le sérogroupe A est prévalent en Afrique intertropicale",
+   "Le sérogroupe B donne surtout des cas sporadiques dans les pays industrialisés",
+   "Les sérogroupes A, C, Y et W sont à l'origine d'épidémies en zones intertropicales et collectivités",
+   "Les voyages favorisent la diffusion de tous les sérogroupes",
+   "Le sérogroupe X est le principal sérogroupe épidémique au Maroc"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le sérogroupe A est prévalent en Afrique.",
+   "Vrai : le sérogroupe B est responsable de cas sporadiques dans les pays industrialisés.",
+   "Vrai : A, C, Y et W sont les sérogroupes épidémiques des zones intertropicales et des collectivités.",
+   "Vrai : les voyages favorisent la diffusion de tous les sérogroupes.",
+   "Faux : au Maroc ce sont les sérogroupes B et A qui sont retrouvés."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic direct de la méningite à méningocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La coloration de Gram du LCR est obligatoire",
+   "La coloration MGG ou au bleu de méthylène est très intéressante",
+   "On recherche les polynucléaires et les diplocoques Gram négatif en « grains de café »",
+   "Les bactéries peuvent être intra- ou extracellulaires",
+   "L'examen direct est toujours positif même après antibiothérapie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la coloration de Gram est obligatoire.",
+   "Vrai : le MGG ou le bleu de méthylène sont très intéressants.",
+   "Vrai : on recherche les polynucléaires et les diplocoques Gram négatif en « grains de café ».",
+   "Vrai : les diplocoques peuvent être intra- ou extracellulaires.",
+   "Faux : l'antibiothérapie peut « décapiter » la méningite et négativer l'examen direct, d'où l'intérêt de la recherche d'antigènes."
+  ]
+ },
+ {
+  "q": "Un patient présente un purpura fulminans fébrile. Concernant la conduite diagnostique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Il s'agit d'une urgence absolue, maladie à déclaration obligatoire (MADO)",
+   "Le LCR, le sang (hémoculture) et l'écouvillonnage des lésions purpuriques sont des prélèvements indiqués",
+   "Le Gram du LCR peut montrer des diplocoques Gram négatif en grains de café",
+   "La recherche d'antigènes solubles par agglutination au latex est utile",
+   "On attend les résultats de la culture avant de débuter le traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infection méningococcique = urgence absolue et MADO.",
+   "Vrai : LCR, sang pour hémoculture et écouvillonnage des lésions purpuriques sont indiqués.",
+   "Vrai : le Gram montre des diplocoques Gram négatif en « grains de café ».",
+   "Vrai : l'agglutination au latex (antigènes solubles) est utile, surtout si examen direct négatif.",
+   "Faux : le traitement antibiotique ne doit pas attendre la culture ; c'est une urgence thérapeutique."
+  ]
+ },
+ {
+  "q": "Concernant la culture du méningocoque et son identification, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'isolement se fait sur gélose au sang cuit (chocolat) ± additionnée de polyvitamines",
+   "L'identification immunologique détermine les sérogroupes capsulaires par agglutination sur lame",
+   "Les sérogroupes recherchés sont A, B, C, Y et W135",
+   "La galerie Api NH permet l'identification biochimique",
+   "Le méningocoque pousse facilement sur gélose ordinaire sans enrichissement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : isolement sur gélose au sang cuit ± polyvitamines.",
+   "Vrai : le sérogroupage capsulaire se fait par agglutination sur lame.",
+   "Vrai : les sérogroupes recherchés sont A, B, C, Y et W135.",
+   "Vrai : la galerie Api NH est utilisée pour l'identification biochimique.",
+   "Faux : le méningocoque est exigeant et ne pousse pas sur gélose ordinaire."
+  ]
+ },
+ {
+  "q": "Parmi les mesures générales de prévention de l'infection méningococcique, lesquelles sont exactes ?",
+  "options": [
+   "Lutte contre la promiscuité et la précarité",
+   "Lutte contre le stress et le froid",
+   "Comportement responsable lors de la toux et des éternuements",
+   "Isolement strict et définitif de tous les porteurs sains asymptomatiques",
+   "Dépistage systématique de toute la population par écouvillonnage nasopharyngé"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la lutte contre la promiscuité et la précarité fait partie de la prévention.",
+   "Vrai : la lutte contre le stress et le froid est recommandée.",
+   "Vrai : un comportement responsable (toux, éternuements) limite la transmission respiratoire.",
+   "Faux : le portage sain est fréquent et ne fait pas l'objet d'un isolement strict.",
+   "Faux : il n'y a pas de dépistage systématique de la population."
+  ]
+ },
+ {
+  "q": "Concernant le lipo-oligosaccharide (LOS) du méningocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est l'équivalent de l'antigène O des bacilles à Gram négatif",
+   "C'est une endotoxine",
+   "Il est responsable du choc septique",
+   "C'est une exotoxine de type AB sécrétée dans le milieu",
+   "Il est localisé dans la membrane externe"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le LOS correspond à l'Ag O des BGN.",
+   "Vrai : le LOS est une endotoxine.",
+   "Vrai : l'endotoxine est responsable du choc septique.",
+   "Faux : ce n'est pas une exotoxine AB ; c'est une endotoxine membranaire.",
+   "Vrai : le LOS est un constituant de la membrane externe."
+  ]
+ },
+ {
+  "q": "Un nourrisson présente une méningite purulente. Le Gram du LCR montre des diplocoques Gram négatif en grains de café. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le diagnostic évoqué en premier est une méningite à Neisseria meningitidis",
+   "Le traitement de première intention est une C3G (céfotaxime ou ceftriaxone)",
+   "L'entourage proche doit recevoir une chimio-prophylaxie (ceftriaxone ou ciprofloxacine)",
+   "Il s'agit d'une maladie à déclaration obligatoire",
+   "Le traitement peut attendre l'identification du sérogroupe capsulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les diplocoques Gram négatif en grains de café orientent vers le méningocoque.",
+   "Vrai : les C3G sont le traitement de référence.",
+   "Vrai : la chimio-prophylaxie de l'entourage proche est obligatoire.",
+   "Vrai : l'infection méningococcique est une MADO.",
+   "Faux : le traitement est une urgence et ne doit pas attendre le sérogroupage."
+  ]
+ },
+ {
+  "q": "Concernant les sérogroupes du méningocoque et les vaccins, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le vaccin tétravalent couvre les sérogroupes A, C, Y et W135",
+   "Le vaccin bivalent couvre les sérogroupes A et C",
+   "Les vaccins monovalents concernent le groupe A ou le groupe C",
+   "Il n'existe pas de vaccin polysaccharidique contre le sérogroupe B car son polysaccharide est peu immunogène",
+   "Le vaccin tétravalent couvre aussi le sérogroupe B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le vaccin tétravalent associe A + C + Y + W135.",
+   "Vrai : le vaccin bivalent associe A + C.",
+   "Vrai : vaccins monovalents groupe A ou groupe C.",
+   "Vrai : le polysaccharide B étant peu immunogène, il n'y a pas de vaccin polysaccharidique B.",
+   "Faux : le tétravalent ne couvre pas le sérogroupe B."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la fragilité du méningocoque, lesquelles sont exactes ?",
+  "options": [
+   "C'est une bactérie extrêmement fragile",
+   "Le transport des prélèvements au laboratoire doit être rapide",
+   "Il faut éviter l'exposition des prélèvements au froid",
+   "Un milieu de transport peut être utilisé en complément",
+   "La bactérie survit plusieurs jours sur les surfaces inertes à température ambiante"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le méningocoque est extrêmement fragile.",
+   "Vrai : le transport rapide au laboratoire est impératif.",
+   "Vrai : il faut éviter l'exposition au froid.",
+   "Vrai : un milieu de transport peut être utilisé.",
+   "Faux : sa fragilité ne lui permet pas de survivre durablement dans l'environnement."
+  ]
+ },
+ {
+  "q": "Concernant la méningite « décapitée » par l'antibiothérapie, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'examen direct du LCR peut être négatif",
+   "La recherche d'antigènes solubles par agglutination au latex reste utile",
+   "La culture peut rester négative",
+   "Le diagnostic biologique devient alors essentiellement immunologique et moléculaire (PCR)",
+   "Toute recherche diagnostique devient impossible après antibiothérapie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'antibiothérapie peut négativer l'examen direct.",
+   "Vrai : la recherche d'antigènes solubles (latex) reste indiquée.",
+   "Vrai : la culture peut être négativée par l'antibiothérapie.",
+   "Vrai : le diagnostic repose alors sur l'immunologie et la biologie moléculaire (PCR).",
+   "Faux : le diagnostic reste possible par antigènes et PCR."
+  ]
+ },
+ {
+  "q": "À propos du purpura fulminans à méningocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est la traduction clinique d'une méningococcémie grave",
+   "Le purpura est vasculaire et riche en microbes",
+   "Il s'accompagne d'un syndrome infectieux sévère avec altération de l'état général",
+   "L'écouvillonnage des lésions purpuriques peut fournir le diagnostic",
+   "C'est un signe de bon pronostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le purpura fulminans traduit une méningococcémie gravissime.",
+   "Vrai : le purpura vasculaire est riche en microbes.",
+   "Vrai : sepsis sévère avec altération de l'état général.",
+   "Vrai : l'écouvillonnage des lésions purpuriques est un prélèvement utile.",
+   "Faux : c'est un signe de gravité mettant en jeu le pronostic vital."
+  ]
+ },
+ {
+  "q": "Concernant l'IgA protéase du méningocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle dégrade les IgA sécrétoires",
+   "Elle permet à la bactérie d'échapper à l'immunité locale des muqueuses",
+   "C'est un facteur de virulence partagé avec le gonocoque et H. influenzae",
+   "C'est une endotoxine responsable du choc septique",
+   "Elle est la cible des vaccins polysaccharidiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'IgA protéase dégrade les IgA S.",
+   "Vrai : elle permet d'échapper à l'immunité muqueuse locale.",
+   "Vrai : le gonocoque et H. influenzae possèdent aussi une IgA protéase.",
+   "Faux : l'endotoxine est le LOS, pas l'IgA protéase.",
+   "Faux : les vaccins ciblent les polysaccharides capsulaires, pas l'IgA protéase."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le portage du méningocoque, lesquelles sont exactes ?",
+  "options": [
+   "Le portage est rhinopharyngé",
+   "Il varie selon l'âge, les populations et les saisons",
+   "Le portage peut exister sans maladie",
+   "Tous les porteurs développent systématiquement une méningite",
+   "La transmission se fait à partir du portage par voie aérienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le méningocoque colonise le rhinopharynx.",
+   "Vrai : le portage varie selon l'âge, les populations et les saisons.",
+   "Vrai : le portage asymptomatique est fréquent, la maladie rare.",
+   "Faux : seule une minorité des porteurs développe une infection invasive.",
+   "Vrai : la transmission aérienne se fait à partir des porteurs."
+  ]
+ },
+ {
+  "q": "Concernant les examens complémentaires dans la méningite à méningocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le LCR est trouble avec plus de 1000 leucocytes/mm³ à prédominance neutrophile",
+   "La CRP et la procalcitonine sont très élevées",
+   "Le Gram du LCR est obligatoire",
+   "La PCR peut détecter le génome bactérien",
+   "La glycorachie est toujours normale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : LCR trouble, >1000 GB/mm³, neutrophiles.",
+   "Vrai : CRP et procalcitonine très élevées.",
+   "Vrai : la coloration de Gram du LCR est obligatoire.",
+   "Vrai : la biologie moléculaire (PCR) peut détecter le génome.",
+   "Faux : dans les méningites bactériennes, la glycorachie est habituellement diminuée."
+  ]
+ },
+ {
+  "q": "Un cas de méningite à méningocoque sérogroupe A est confirmé dans une collectivité. Lesquelles de ces mesures sont exactes ?",
+  "options": [
+   "Chimio-prophylaxie de l'entourage proche par ceftriaxone ou ciprofloxacine",
+   "La vaccination peut être indiquée en contexte d'épidémie",
+   "Le vaccin utilisé peut être monovalent (groupe A), bivalent (A+C) ou tétravalent (A+C+Y+W135)",
+   "La déclaration obligatoire doit être faite",
+   "Aucune mesure n'est nécessaire pour les contacts car la contagiosité est nulle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : chimio-prophylaxie de l'entourage proche.",
+   "Vrai : la vaccination est indiquée en contexte d'épidémie.",
+   "Vrai : les vaccins disponibles couvrent le groupe A (mono, bi ou tétravalent).",
+   "Vrai : l'infection méningococcique est à déclaration obligatoire.",
+   "Faux : la contagiosité existe (transmission aérienne), les mesures sont indispensables."
+  ]
+ },
+ {
+  "q": "Concernant les caractères différentiels entre méningocoque et gonocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les deux sont des diplocoques à Gram négatif en « grains de café », oxydase +",
+   "Le méningocoque utilise le glucose et le maltose ; le gonocoque n'utilise que le glucose",
+   "Le méningocoque est γGT +",
+   "Le méningocoque est l'agent de la méningite cérébrospinale, le gonocoque celui d'une IST",
+   "Le gonocoque est catalase - alors que le méningocoque est catalase +"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les deux sont des DCGN en grains de café, oxydase +.",
+   "Vrai : méningocoque glucose +/maltose +, gonocoque glucose + seul.",
+   "Vrai : le méningocoque est γGT +.",
+   "Vrai : méningocoque = MCS, gonocoque = IST.",
+   "Faux : le gonocoque est aussi catalase +."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les colonies des Neisseria pathogènes, lesquelles sont exactes ?",
+  "options": [
+   "Les colonies de N. meningitidis et N. gonorrhoeae sont grises",
+   "Les colonies des Neisseria commensales sont souvent pigmentées en jaune",
+   "Les colonies du méningocoque sont lisses, bombées, grises à transparentes",
+   "Les colonies de Neisseria flava sont grises et non pigmentées",
+   "Les deux espèces pathogènes donnent des colonies grises en 24 à 48 h"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les Neisseria pathogènes donnent des colonies grises.",
+   "Vrai : les Neisseria non pathogènes donnent des colonies pigmentées en jaune.",
+   "Vrai : colonies du méningocoque lisses, bombées, grises à transparentes.",
+   "Faux : N. flava donne des colonies pigmentées en jaune.",
+   "Vrai : colonies grises en 24 à 48 h pour les deux espèces pathogènes."
+  ]
+ },
+ {
+  "q": "Concernant l'hémoculture dans l'infection méningococcique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle est indiquée devant une méningococcémie ou un syndrome infectieux sévère",
+   "Le prélèvement est de 10 à 20 mL de sang dans un bouillon d'hémoculture aérobie",
+   "Le méningocoque étant aérobie strict, le flacon aérobie est adapté",
+   "Elle est inutile car la bactériémie n'existe jamais",
+   "Le transport au laboratoire doit être rapide en évitant le froid"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'hémoculture est indiquée dans les formes septicémiques.",
+   "Vrai : 10 à 20 mL de sang dans un bouillon d'hémoculture aérobie.",
+   "Vrai : le méningocoque étant aérobie strict, le milieu aérobie convient.",
+   "Faux : la méningococcémie est justement une septicémie à méningocoque.",
+   "Vrai : transport rapide, en évitant le froid (germe fragile)."
+  ]
+ },
+ {
+  "q": "À propos des vaccins antiméningococciques polysaccharidiques, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils sont efficaces et bien tolérés",
+   "Ils sont peu immunogènes avant l'âge de 2 ans",
+   "Ils existent en formes monovalente, bivalente et tétravalente",
+   "Ils sont indiqués lors d'épidémies et de voyages en zone à risque",
+   "Ils protègent contre tous les sérogroupes y compris le sérogroupe B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : vaccins efficaces et bien tolérés.",
+   "Vrai : peu immunogènes avant 2 ans.",
+   "Vrai : formes mono-, bi- et tétravalentes.",
+   "Vrai : indications = épidémies et voyages en zone à risque (Hajj/Omra, Afrique intertropicale).",
+   "Faux : ils ne couvrent pas le sérogroupe B (polysaccharide peu immunogène)."
+  ]
+ },
+ {
+  "q": "Concernant la place de la biologie moléculaire dans le diagnostic méningococcique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La PCR permet de détecter le génome de Neisseria meningitidis",
+   "Elle est utile quand l'examen direct est négatif (méningite décapitée)",
+   "Elle peut être réalisée sur le LCR",
+   "Elle remplace systématiquement la culture pour le sérogroupage",
+   "Elle est mentionnée comme méthode de mise en évidence des acides nucléiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la PCR détecte le génome bactérien.",
+   "Vrai : utile quand l'examen direct est négatif.",
+   "Vrai : elle peut être réalisée sur le LCR.",
+   "Faux : la culture reste nécessaire (isolement, sérogroupage par agglutination).",
+   "Vrai : le diagnostic direct comprend la mise en évidence des acides nucléiques."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes sur Neisseria meningitidis, lesquelles sont exactes ?",
+  "options": [
+   "C'est l'agent des méningites cérébrospinales et des méningococcémies",
+   "C'est une urgence absolue diagnostique, thérapeutique et prophylactique",
+   "C'est une maladie à déclaration obligatoire (MADO)",
+   "Le réservoir est animal avec transmission vectorielle",
+   "La maladie débute par une rhino-pharyngite souvent inaperçue"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : agent des MCS et des méningococcémies.",
+   "Vrai : urgence absolue sur les trois plans.",
+   "Vrai : MADO.",
+   "Faux : le réservoir est strictement humain, transmission aérienne directe.",
+   "Vrai : début par une rhino-pharyngite souvent inaperçue."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes protéiques de surface du méningocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils définissent des types et sous-types",
+   "Ils servent de marqueurs épidémiologiques",
+   "Ils favorisent l'adhésion et l'invasion des cellules",
+   "Ce sont des polysaccharides capsulaires",
+   "Ils remplacent la capsule dans la définition des sérogroupes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les Ag protéiques définissent types et sous-types.",
+   "Vrai : ce sont des marqueurs épidémiologiques.",
+   "Vrai : ils favorisent l'adhésion et l'invasion cellulaires.",
+   "Faux : les polysaccharides définissent les sérogroupes (A, B, C, Y, W135).",
+   "Faux : les sérogroupes sont définis par la capsule polysaccharidique."
+  ]
+ },
+ {
+  "q": "Un étudiant affirme : « le méningocoque est non exigeant et pousse sur gélose ordinaire ». Lesquelles de ces corrections sont exactes ?",
+  "options": [
+   "Le méningocoque est exigeant : primoculture sur milieu enrichi au sang",
+   "Il nécessite une atmosphère enrichie en CO2 et humide",
+   "L'incubation se fait à 36 ± 1 °C",
+   "Des polyvitamines peuvent être ajoutées au milieu (sang cuit/chocolat)",
+   "L'affirmation de l'étudiant est correcte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : germe exigeant, milieu enrichi au sang en primoculture.",
+   "Vrai : atmosphère enrichie en CO2 et humide requise.",
+   "Vrai : incubation à 36 ± 1 °C.",
+   "Vrai : la gélose au sang cuit peut être additionnée de polyvitamines.",
+   "Faux : l'affirmation est incorrecte, le méningocoque est exigeant."
+  ]
+ },
+ {
+  "q": "Parmi les éléments du diagnostic biologique direct du méningocoque, lesquels sont exacts ?",
+  "options": [
+   "Mise en évidence de la bactérie par examen direct et culture",
+   "Recherche d'antigènes (agglutination au latex)",
+   "Mise en évidence des acides nucléiques (PCR)",
+   "Recherche systématique d'anticorps sériques en phase aiguë",
+   "Sérogroupage capsulaire par agglutination sur lame à partir de la culture"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : examen direct et culture = diagnostic direct.",
+   "Vrai : recherche d'antigènes par agglutination au latex.",
+   "Vrai : mise en évidence des acides nucléiques.",
+   "Faux : le diagnostic est essentiellement direct ; la sérologie n'est pas l'examen de référence en phase aiguë.",
+   "Vrai : sérogroupage par agglutination sur lame (A, B, C, Y, W135)."
+  ]
+ },
+ {
+  "q": "Concernant les formes cliniques de l'infection à méningocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Méningite cérébrospinale : fièvre, céphalées, photophobie, vomissements en jet, raideur nucale",
+   "Méningococcémie : sepsis sévère avec purpura vasculaire (purpura fulminans)",
+   "Rhino-pharyngite initiale souvent inaperçue",
+   "Arthrite septique isolée comme seule manifestation possible",
+   "Les deux formes peuvent coexister chez le même patient"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : tableau typique de la MCS.",
+   "Vrai : la méningococcémie donne un purpura fulminans.",
+   "Vrai : la rhino-pharyngite initiale est souvent inaperçue.",
+   "Faux : l'arthrite isolée n'est pas décrite comme forme clinique principale du méningocoque.",
+   "Vrai : méningite et méningococcémie peuvent coexister."
+  ]
+ },
+ {
+  "q": "À propos de la transmission du méningocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Transmission interhumaine directe",
+   "Voie aérienne par les gouttelettes de Pflügge",
+   "La bactérie étant très fragile, la transmission nécessite un contact proche",
+   "Transmission par vecteur arthropode",
+   "Transmission hydrique par eau contaminée"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : transmission interhumaine directe.",
+   "Vrai : voie aérienne, gouttelettes de Pflügge.",
+   "Vrai : la fragilité du germe impose un contact proche pour la transmission.",
+   "Faux : pas de vecteur arthropode.",
+   "Faux : pas de transmission hydrique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le sérogroupage du méningocoque, lesquelles sont exactes ?",
+  "options": [
+   "Il se fait par agglutination sur lame à partir de la culture",
+   "Les sérogroupes recherchés sont A, B, C, Y et W135",
+   "Il peut aussi être réalisé par recherche d'antigènes solubles (latex)",
+   "Il repose sur les antigènes protéiques de la paroi",
+   "Il est indispensable avant de débuter l'antibiothérapie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : agglutination sur lame à partir de la culture.",
+   "Vrai : sérogroupes A, B, C, Y, W135.",
+   "Vrai : la recherche d'antigènes solubles permet aussi le sérogroupage.",
+   "Faux : le sérogroupage repose sur la capsule polysaccharidique, pas sur les Ag protéiques.",
+   "Faux : le traitement est urgent et ne doit pas attendre le sérogroupage."
+  ]
+ },
+ {
+  "q": "Concernant le traitement probabiliste d'une méningite purulente à diplocoques Gram négatif, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Une C3G (céfotaxime ou ceftriaxone) doit être débutée en urgence",
+   "L'antibiogramme n'est pas nécessaire en routine",
+   "En cas de contre-indication aux C3G, phénicolés ou cotrimoxazole peuvent être utilisés",
+   "La dexaméthasone est le traitement antibiotique de référence",
+   "Le traitement ne doit débuter qu'après le résultat de la culture"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : C3G en urgence devant ce tableau.",
+   "Vrai : l'antibiogramme est inutile en routine, traitement standardisé.",
+   "Vrai : phénicolés ou cotrimoxazole si contre-indication aux C3G.",
+   "Faux : la dexaméthasone n'est pas un antibiotique.",
+   "Faux : le traitement est une urgence, sans attendre la culture."
+  ]
+ },
+ {
+  "q": "Un voyageur se rend au Hajj. Concernant la prévention méningococcique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La vaccination est indiquée avant un voyage en zone à risque",
+   "Le vaccin tétravalent (A+C+Y+W135) est adapté à cette indication",
+   "Les vaccins sont à base de polysaccharides capsulaires purifiés",
+   "La chimio-prophylaxie par ciprofloxacine est le substitut systématique du vaccin",
+   "Les mesures d'hygiène (toux, éternuements) complètent la prévention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le voyage en zone à risque (Hajj/Omra) est une indication vaccinale.",
+   "Vrai : le tétravalent A+C+Y+W135 couvre les sérogroupes à risque.",
+   "Vrai : vaccins à base de polysaccharides capsulaires purifiés.",
+   "Faux : la chimio-prophylaxie est réservée à l'entourage d'un cas, pas au voyageur.",
+   "Vrai : les mesures d'hygiène complètent la prévention."
+  ]
+ },
+ {
+  "q": "Concernant les milieux de culture du méningocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Gélose au sang cuit (chocolat) en primoculture",
+   "Addition possible de polyvitamines",
+   "Atmosphère humide et riche en CO2",
+   "Incubation à 36 ± 1 °C pendant 24 à 48 h",
+   "Gélose nutritive ordinaire suffisante en primoculture"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la gélose au sang cuit (chocolat) est le milieu de primoculture.",
+   "Vrai : addition possible de polyvitamines.",
+   "Vrai : atmosphère humide riche en CO2 requise.",
+   "Vrai : 36 ± 1 °C, 24 à 48 h.",
+   "Faux : la gélose ordinaire ne convient pas à ce germe exigeant."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles décrivent correctement le LCR d'une méningite à méningocoque ?",
+  "options": [
+   "Aspect trouble à purulent (« eau de riz »)",
+   "Leucocytes généralement > 1000/mm³",
+   "Prédominance de polynucléaires neutrophiles",
+   "Présence possible de diplocoques Gram négatif intra- et extracellulaires",
+   "Aspect clair avec hypoglycorachie isolée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : LCR trouble à purulent, aspect en « eau de riz ».",
+   "Vrai : > 1000 GB/mm³ en général.",
+   "Vrai : prédominance neutrophile.",
+   "Vrai : diplocoques Gram négatif intra- ou extracellulaires au Gram.",
+   "Faux : le LCR est trouble purulent, non clair."
+  ]
+ },
+ {
+  "q": "Concernant la déclaration et la surveillance de l'infection méningococcique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une maladie à déclaration obligatoire (MADO)",
+   "Les types et sous-types (Ag protéiques) servent de marqueurs épidémiologiques",
+   "La surveillance permet de détecter les épidémies (groupes A, C, Y, W)",
+   "Les voyages favorisent la diffusion des sérogroupes, justifiant la surveillance",
+   "Aucune surveillance n'est nécessaire car la maladie a disparu"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : MADO.",
+   "Vrai : types et sous-types = marqueurs épidémiologiques.",
+   "Vrai : la surveillance détecte les épidémies.",
+   "Vrai : les voyages diffusent les sérogroupes.",
+   "Faux : la maladie persiste (endémie, épidémies, cas sporadiques)."
+  ]
+ },
+ {
+  "q": "Un laboratoire reçoit un LCR trouble. Le Gram montre des diplocoques Gram négatif. Lesquelles de ces démarches sont exactes ?",
+  "options": [
+   "Ensemencement sur gélose au sang cuit + polyvitamines, 36 ± 1 °C, CO2, 24-48 h",
+   "Identification biochimique par galerie Api NH (glucose +, maltose +, γGT +)",
+   "Sérogroupage capsulaire par agglutination sur lame (A, B, C, Y, W135)",
+   "Recherche d'antigènes solubles par agglutination au latex si besoin",
+   "Attendre 7 jours d'incubation sur gélose ordinaire avant de conclure"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ensemencement sur milieu enrichi dans les conditions adaptées.",
+   "Vrai : Api NH avec glucose +, maltose +, γGT +.",
+   "Vrai : sérogroupage par agglutination sur lame.",
+   "Vrai : le latex est utile (sérogroupage, examen direct négatif).",
+   "Faux : la culture se lit en 24 à 48 h sur milieu enrichi, pas 7 jours sur gélose ordinaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la physiopathologie, lesquelles sont exactes ?",
+  "options": [
+   "Les pili permettent l'adhésion aux cellules oropharyngées",
+   "L'IgA protéase protège la bactérie de l'immunité muqueuse",
+   "Le LOS, en tant qu'endotoxine, peut provoquer un choc septique",
+   "La capsule s'oppose à la phagocytose",
+   "La dissémination méningée se fait par voie lymphatique exclusive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les pili assurent l'adhésion oropharyngée.",
+   "Vrai : l'IgA protéase dégrade les IgA S.",
+   "Vrai : le LOS est l'endotoxine du choc septique.",
+   "Vrai : la capsule est antiphagocytaire.",
+   "Faux : la dissémination vers les méninges est hématogène."
+  ]
+ },
+ {
+  "q": "Concernant l'épidémiologie descriptive du méningocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le monde entier est concerné, notamment la zone intertropicale",
+   "Le sérogroupe B (et A) prédomine en Europe et au Maroc",
+   "Le sérogroupe A est prévalent en Afrique",
+   "Les collectivités favorisent les épidémies (groupes A, C, Y, W)",
+   "La maladie est strictement limitée à l'Afrique intertropicale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le monde entier est concerné, surtout la zone intertropicale.",
+   "Vrai : sérogroupes B (et A) en Europe et au Maroc.",
+   "Vrai : sérogroupe A prévalent en Afrique.",
+   "Vrai : les collectivités favorisent les épidémies.",
+   "Faux : la maladie existe dans le monde entier, y compris les pays industrialisés (cas sporadiques B)."
+  ]
+ },
+ {
+  "q": "Concernant la taxonomie et la morphologie de Neisseria gonorrhoeae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est un diplocoque à Gram négatif (DCGN)",
+   "Il prend l'aspect de « grains de café »",
+   "C'est l'agent d'une infection sexuellement transmissible",
+   "C'est un bacille à Gram positif",
+   "C'est une bactérie à réservoir strictement humain"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le gonocoque est un diplocoque à Gram négatif.",
+   "Vrai : aspect en « grains de café ».",
+   "Vrai : le gonocoque est l'agent d'une IST.",
+   "Faux : ce n'est pas un bacille à Gram positif.",
+   "Vrai : bactérie hôte stricte des muqueuses génitales de l'homme."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'épidémiologie du gonocoque, lesquelles sont exactes ?",
+  "options": [
+   "Le réservoir est constitué des muqueuses des voies génitales de l'homme",
+   "Il n'existe pas de portage sain, mais des formes asymptomatiques surtout chez la femme",
+   "Les formes asymptomatiques favorisent la dissémination de l'infection",
+   "Le gonocoque est souvent co-transmis avec Chlamydia trachomatis",
+   "Le réservoir principal est animal"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réservoir = muqueuses génitales humaines.",
+   "Vrai : pas de portage sain, mais formes asymptomatiques surtout féminines.",
+   "Vrai : les formes asymptomatiques favorisent la dissémination.",
+   "Vrai : co-transmission fréquente avec Chlamydia trachomatis.",
+   "Faux : le réservoir est strictement humain."
+  ]
+ },
+ {
+  "q": "Concernant la transmission du gonocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Transmission essentiellement directe par voie vénérienne (sexuelle)",
+   "Transmission périnatale : le nouveau-né est contaminé lors de l'accouchement",
+   "La contamination périnatale peut donner une ophtalmie purulente du nouveau-né",
+   "Transmission aérienne par gouttelettes",
+   "Transmission par vecteur"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : transmission essentiellement sexuelle directe.",
+   "Vrai : contamination périnatale lors de l'accouchement.",
+   "Vrai : risque d'ophtalmie purulente du nouveau-né.",
+   "Faux : pas de transmission aérienne (c'est le mode du méningocoque).",
+   "Faux : pas de transmission vectorielle."
+  ]
+ },
+ {
+  "q": "Concernant l'immunité après infection gonococcique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La maladie n'est pas immunisante",
+   "Les réinfections sont possibles",
+   "La mise au point d'un vaccin est difficile du fait de la grande variabilité antigénique",
+   "L'infection confère une immunité définitive",
+   "Il existe un vaccin polysaccharidique tétravalent efficace"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la gonococcie n'est pas immunisante.",
+   "Vrai : les réinfections sont possibles.",
+   "Vrai : la variabilité antigénique complique la mise au point d'un vaccin.",
+   "Faux : aucune immunité durable n'est acquise.",
+   "Faux : il n'existe pas de vaccin contre le gonocoque."
+  ]
+ },
+ {
+  "q": "Chez l'homme, l'infection gonococcique se traduit classiquement par lesquelles de ces manifestations ?",
+  "options": [
+   "Une urétrite antérieure le plus souvent aiguë",
+   "Un écoulement purulent",
+   "Des brûlures mictionnelles",
+   "Une blennorragie",
+   "Une méningite cérébrospinale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : urétrite antérieure aiguë chez l'homme.",
+   "Vrai : écoulement purulent caractéristique.",
+   "Vrai : brûlures mictionnelles associées.",
+   "Vrai : la blennorragie est le nom de l'urétrite gonococcique.",
+   "Faux : la méningite est l'apanage du méningocoque."
+  ]
+ },
+ {
+  "q": "Chez la femme, l'infection gonococcique se caractérise par lesquelles de ces propositions ?",
+  "options": [
+   "Une infection souvent inaperçue (asymptomatique)",
+   "Parfois une cervicite avec leucorrhées",
+   "Les formes non traitées sont source de complications",
+   "Un tableau toujours bruyant avec écoulement purulent franc",
+   "Les formes asymptomatiques favorisent la dissémination"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'infection est souvent inaperçue chez la femme.",
+   "Vrai : parfois cervicite + leucorrhées.",
+   "Vrai : les formes non traitées se compliquent.",
+   "Faux : le tableau est le plus souvent discret ou asymptomatique.",
+   "Vrai : les formes asymptomatiques favorisent la dissémination."
+  ]
+ },
+ {
+  "q": "Parmi les facteurs de pathogénicité du gonocoque, lesquels sont exacts ?",
+  "options": [
+   "Les fimbriae interviennent dans l'adhésion aux cellules épithéliales",
+   "Les protéines de la membrane externe interviennent dans l'adhésion et l'invasion",
+   "Ces protéines subissent des variations antigéniques qui compliquent la vaccination",
+   "L'IgA protéase permet d'échapper à l'immunité spécifique locale",
+   "La capsule polysaccharidique de groupe B est le principal facteur de virulence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les fimbriae assurent l'adhésion.",
+   "Vrai : les protéines de membrane externe participent à l'adhésion et l'invasion.",
+   "Vrai : leurs variations antigéniques compliquent la mise au point d'un vaccin.",
+   "Vrai : l'IgA protéase clive les IgA S.",
+   "Faux : c'est un facteur du méningocoque, pas du gonocoque."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements pour le diagnostic de la gonococcie, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Deux écouvillons séparés : l'un pour l'examen direct, l'autre pour la culture",
+   "Premier jet d'urine chez l'homme",
+   "Au minimum une lame pour la coloration de Gram",
+   "Le diagnostic est essentiellement direct",
+   "Le prélèvement sanguin veineux est le prélèvement de choix dans les formes génitales"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : deux écouvillons séparés (examen direct et culture).",
+   "Vrai : le premier jet d'urine est utilisé chez l'homme.",
+   "Vrai : au minimum une lame pour le Gram.",
+   "Vrai : c'est essentiellement un diagnostic direct.",
+   "Faux : les prélèvements sont locaux (pus, sécrétions), pas sanguins dans les formes génitales."
+  ]
+ },
+ {
+  "q": "Selon la clinique, la nature des prélèvements pour le gonocoque comprend lesquels des éléments suivants ?",
+  "options": [
+   "Pus et sécrétions endocervicales (femme) et urétrales (homme)",
+   "Prélèvements rectaux et pharyngés (femme et homme)",
+   "Prélèvements oculaires et cutanés chez le nouveau-né",
+   "Liquide articulaire dans les formes invasives",
+   "Ponction lombaire systématique dans les urétrites simples"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : endocervical (F) et urétral (H).",
+   "Vrai : rectal et pharyngé (F et H).",
+   "Vrai : oculaire et cutané chez le nouveau-né.",
+   "Vrai : liquide articulaire dans les formes invasives.",
+   "Faux : la ponction lombaire n'a pas de place dans les urétrites simples."
+  ]
+ },
+ {
+  "q": "Concernant le transport des prélèvements pour le gonocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le gonocoque est un germe fragile",
+   "Le prélèvement doit idéalement être réalisé au laboratoire",
+   "Sinon, un milieu de transport approprié doit être utilisé",
+   "Le germe résiste plusieurs jours à température ambiante sans milieu de transport",
+   "L'exposition au froid améliore la viabilité du gonocoque"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le gonocoque est un germe fragile.",
+   "Vrai : le prélèvement doit être réalisé au laboratoire si possible.",
+   "Vrai : sinon utiliser un milieu de transport approprié.",
+   "Faux : sa fragilité impose des conditions de transport strictes.",
+   "Faux : le froid est délétère pour ce germe fragile."
+  ]
+ },
+ {
+  "q": "Concernant l'examen direct (Gram) dans la gonococcie, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "On observe des diplocoques à Gram négatif en « grains de café »",
+   "Les diplocoques peuvent être intra- et extracellulaires",
+   "La sensibilité du Gram chez l'homme est de 98 %",
+   "La sensibilité chez la femme est au mieux de 50 %",
+   "Le Gram est inutile car le gonocoque est à Gram positif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : diplocoques Gram négatif en « grains de café ».",
+   "Vrai : localisation intra- et extracellulaire.",
+   "Vrai : sensibilité du Gram de 98 % chez l'homme.",
+   "Vrai : sensibilité au mieux de 50 % chez la femme.",
+   "Faux : le gonocoque est à Gram négatif et le Gram est l'examen de base."
+  ]
+ },
+ {
+  "q": "Concernant la culture du gonocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est un germe fragile et exigeant",
+   "L'isolement nécessite des milieux enrichis (gélose sang cuit + polyvitamines)",
+   "L'incubation requiert température, humidité et CO2 adéquats pendant 24 à 48 h",
+   "Des conditions de prélèvement idéales sont nécessaires",
+   "La culture pousse facilement sur gélose ordinaire à l'air ambiant"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : germe fragile et exigeant.",
+   "Vrai : milieux enrichis (sang cuit + polyvitamines).",
+   "Vrai : incubation 24-48 h en conditions de température, humidité et CO2 adéquates.",
+   "Vrai : des conditions de prélèvement idéales sont requises.",
+   "Faux : il ne pousse pas sur gélose ordinaire à l'air ambiant."
+  ]
+ },
+ {
+  "q": "Concernant l'identification du gonocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'identification spécifique fait appel aux caractères biochimiques (galerie Api NH)",
+   "Le gonocoque utilise le glucose mais pas le maltose",
+   "La mise en évidence des antigènes par ELISA est performante et rapide (2 h)",
+   "La biologie moléculaire (PCR, sondes d'hybridation) a été développée",
+   "Le gonocoque se distingue du méningocoque par une oxydase négative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : identification par caractères biochimiques (Api NH).",
+   "Vrai : le gonocoque est glucose + et maltose − (à la différence du méningocoque).",
+   "Vrai : l'ELISA antigénique est performante, résultat en 2 h.",
+   "Vrai : PCR et sondes d'hybridation développées.",
+   "Faux : le gonocoque est oxydase positif comme le méningocoque."
+  ]
+ },
+ {
+  "q": "Concernant la sensibilité du gonocoque aux antibiotiques, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'antibiogramme par diffusion en gélose est ininterprétable",
+   "La surveillance de la sensibilité est assurée par des laboratoires spécialisés",
+   "Les techniques utilisées sont la dilution, les bandelettes CMI (E-test) et la biologie moléculaire",
+   "Le gonocoque est sensible à la pénicilline G sauf souche BLNAR ou bêta-lactamase +",
+   "L'antibiogramme classique par diffusion est la méthode de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la diffusion en gélose donne des résultats ininterprétables.",
+   "Vrai : la surveillance est assurée par des laboratoires spécialisés.",
+   "Vrai : dilution, E-test (CMI) et biologie moléculaire.",
+   "Vrai : sensible à la pénicilline G sauf BLNAR ou BL+.",
+   "Faux : la diffusion classique n'est pas interprétable pour le gonocoque."
+  ]
+ },
+ {
+  "q": "À propos des résistances du gonocoque à la pénicilline G, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "BLNAR : bêta-lactamase négative, résistance par modification des PLP",
+   "La résistance BLNAR est recherchée par les disques KF ou CF",
+   "Bêta-lactamase + : plasmide codant une pénicillinase",
+   "La production de bêta-lactamase est détectée par le test à la céfinase",
+   "Le gonocoque est naturellement résistant à tous les antibiotiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : BLNAR = résistance à l'ampicilline par modification des PLP, sans bêta-lactamase.",
+   "Vrai : disques KF (céfalotine) ou CF pour dépister BLNAR.",
+   "Vrai : la bêta-lactamase + est d'origine plasmidique (pénicillinase).",
+   "Vrai : test à la céfinase pour détecter la bêta-lactamase.",
+   "Faux : le gonocoque reste sensible à plusieurs antibiotiques."
+  ]
+ },
+ {
+  "q": "Concernant le traitement des infections gonococciques (recommandations OMS), lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le traitement est standardisé par l'OMS",
+   "Les céphalosporines de 3e génération sont en première ligne",
+   "La spectinomycine 2 g en IM est une option",
+   "Les fluoroquinolones sont utilisables mais la résistance est croissante",
+   "Les phénicolés sont dénués de toxicité et utilisables sans précaution"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : traitement standardisé par l'OMS.",
+   "Vrai : les C3G sont en première ligne.",
+   "Vrai : spectinomycine 2 g en IM.",
+   "Vrai : fluoroquinolones possibles mais résistance en augmentation.",
+   "Faux : les phénicolés ont une toxicité à prendre en compte."
+  ]
+ },
+ {
+  "q": "Parmi les antibiotiques suivants, lesquels sont actifs sur le gonocoque selon le cours ?",
+  "options": [
+   "Les céphalosporines de 3e génération",
+   "La spectinomycine",
+   "Les cyclines",
+   "Les phénicolés (avec précaution du fait de leur toxicité)",
+   "La vancomycine en première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les C3G sont le traitement de première ligne OMS.",
+   "Vrai : la spectinomycine 2 g IM est recommandée.",
+   "Vrai : les cyclines sont très actives.",
+   "Vrai : les phénicolés sont actifs mais toxiques.",
+   "Faux : la vancomycine n'est pas indiquée dans la gonococcie."
+  ]
+ },
+ {
+  "q": "Concernant la prévention de la gonococcie, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Lutte contre les IST : éducation, information, sensibilisation",
+   "Usage de préservatifs",
+   "Limitation des partenaires",
+   "Dépistage et traitement des patients et de leurs partenaires",
+   "Vaccination systématique par un vaccin polysaccharidique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : éducation et sensibilisation sur les IST.",
+   "Vrai : l'usage de préservatifs est recommandé.",
+   "Vrai : limitation des partenaires.",
+   "Vrai : dépistage et traitement des patients et partenaires.",
+   "Faux : il n'existe pas de vaccin contre le gonocoque."
+  ]
+ },
+ {
+  "q": "Un homme présente une urétrite aiguë avec écoulement purulent. Le Gram montre des diplocoques Gram négatif intracellulaires en grains de café. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le diagnostic de blennorragie (gonococcie) est très probable (sensibilité du Gram de 98 % chez l'homme)",
+   "La culture doit être réalisée sur milieu enrichi (sang cuit + polyvitamines)",
+   "Il faut rechercher une co-infection à Chlamydia trachomatis",
+   "Le traitement repose sur une C3G selon les recommandations OMS",
+   "Le partenaire sexuel ne nécessite aucun dépistage ni traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le tableau et le Gram (98 % de sensibilité chez l'homme) orientent vers la gonococcie.",
+   "Vrai : culture sur milieu enrichi.",
+   "Vrai : la co-transmission avec Chlamydia trachomatis est fréquente.",
+   "Vrai : C3G en première ligne (traitement OMS standardisé).",
+   "Faux : le dépistage et le traitement des partenaires sont indispensables."
+  ]
+ },
+ {
+  "q": "Une femme enceinte présente une cervicite à gonocoque non traitée. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'infection peut être asymptomatique ou se traduire par une cervicite avec leucorrhées",
+   "Le nouveau-né peut être contaminé lors de l'accouchement",
+   "La contamination néonatale peut provoquer une ophtalmie purulente",
+   "Les prélèvements possibles incluent l'endocol, le rectum et le pharynx",
+   "La césarienne systématique est le seul moyen de prévention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infection souvent inaperçue ou cervicite avec leucorrhées.",
+   "Vrai : contamination périnatale lors de l'accouchement.",
+   "Vrai : risque d'ophtalmie purulente du nouveau-né.",
+   "Vrai : prélèvements endocervical, rectal et pharyngé possibles.",
+   "Faux : la prévention repose sur le dépistage et le traitement, pas sur la césarienne systématique."
+  ]
+ },
+ {
+  "q": "Concernant les formes invasives de la gonococcie, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le liquide articulaire est le prélèvement indiqué devant une arthrite",
+   "Le sang (hémoculture) est indiqué devant un sepsis",
+   "L'ophtalmie purulente du nouveau-né est une forme à prélèvement oculaire",
+   "Les formes invasives n'existent pas",
+   "Le LCR est le prélèvement de choix dans les formes articulaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : liquide articulaire dans les formes invasives articulaires.",
+   "Vrai : hémoculture devant un sepsis.",
+   "Vrai : prélèvement oculaire dans l'ophtalmie du nouveau-né.",
+   "Faux : des formes invasives (articulaires, septicémiques) existent.",
+   "Faux : le LCR n'est pas le prélèvement des formes articulaires."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le diagnostic biologique du gonocoque, lesquelles sont exactes ?",
+  "options": [
+   "Le Gram est l'examen de première intention (au minimum une lame)",
+   "La culture nécessite un germe viable : conditions de prélèvement et de transport idéales",
+   "L'ELISA antigénique donne un résultat rapide en 2 heures",
+   "La PCR et les sondes d'hybridation sont des méthodes développées",
+   "La sérologie est l'examen de référence du diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le Gram est l'examen de base.",
+   "Vrai : la culture exige un germe viable (germe fragile).",
+   "Vrai : ELISA performante et rapide (2 h).",
+   "Vrai : PCR et sondes d'hybridation développées.",
+   "Faux : le diagnostic est essentiellement direct, pas sérologique."
+  ]
+ },
+ {
+  "q": "Concernant les caractères bactériologiques communs aux deux Neisseria pathogènes, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Diplocoques à Gram négatif en « grains de café »",
+   "Oxydase positifs",
+   "Catalase positifs",
+   "Germes fragiles et exigeants (milieux enrichis, CO2)",
+   "Bacilles à Gram négatif mobiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : DCGN en grains de café pour les deux espèces.",
+   "Vrai : oxydase + pour les deux.",
+   "Vrai : catalase + pour les deux.",
+   "Vrai : germes fragiles et exigeants.",
+   "Faux : ce sont des cocci immobiles, pas des bacilles mobiles."
+  ]
+ },
+ {
+  "q": "Un patient présente une urétrite à gonocoque avec une souche bêta-lactamase +. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La souche produit une pénicillinase d'origine plasmidique",
+   "La pénicilline G est inefficace",
+   "Le test à la céfinase permet de détecter cette bêta-lactamase",
+   "Une C3G reste une option thérapeutique selon les recommandations OMS",
+   "L'amoxicilline seule est le traitement de choix"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la bêta-lactamase est une pénicillinase codée par un plasmide.",
+   "Vrai : la pénicilline G est inefficace sur ces souches.",
+   "Vrai : détection par le test à la céfinase.",
+   "Vrai : les C3G sont le traitement de première ligne OMS.",
+   "Faux : l'amoxicilline seule est inefficace sur une souche BL+."
+  ]
+ },
+ {
+  "q": "Concernant la co-infection gonocoque / Chlamydia trachomatis, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le gonocoque est souvent co-transmis avec Chlamydia trachomatis",
+   "La recherche des deux germes est souvent associée (PCR, sondes)",
+   "Chlamydia trachomatis est décrite comme une bactérie très exigeante",
+   "Les deux infections sont des IST à dépister chez les partenaires",
+   "Chlamydia trachomatis est un diplocoque à Gram négatif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : co-transmission fréquente des deux IST.",
+   "Vrai : la recherche est souvent associée.",
+   "Vrai : Chlamydia trachomatis est une bactérie très exigeante.",
+   "Vrai : les deux sont des IST nécessitant dépistage des partenaires.",
+   "Faux : Chlamydia n'est pas un diplocoque à Gram négatif."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles concernent le gonocoque comme « indicateur des IST » ?",
+  "options": [
+   "Le gonocoque est décrit comme la partie visible des IST",
+   "Sa mise en évidence doit faire rechercher d'autres IST (Chlamydia)",
+   "Le dépistage et le traitement des partenaires sont indispensables",
+   "L'éducation et la sensibilisation font partie de la lutte",
+   "Le gonocoque ne se transmet que par voie aérienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le gonocoque est l'indicateur (partie visible) des IST.",
+   "Vrai : il faut rechercher les IST associées, notamment Chlamydia.",
+   "Vrai : dépistage et traitement des partenaires.",
+   "Vrai : éducation et sensibilisation.",
+   "Faux : la transmission est sexuelle, non aérienne."
+  ]
+ },
+ {
+  "q": "Concernant l'examen au bleu de méthylène (BM) dans la gonococcie, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Il peut être utilisé en complément du Gram pour l'examen direct",
+   "Il permet de visualiser les diplocoques en grains de café",
+   "Il remplace la culture pour l'identification définitive",
+   "Il s'agit d'un examen direct rapide",
+   "Il permet de déterminer la sensibilité aux antibiotiques"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : le bleu de méthylène complète le Gram pour l'examen direct.",
+   "Vrai : il visualise les diplocoques en grains de café.",
+   "Faux : il ne remplace pas la culture pour l'identification.",
+   "Vrai : c'est un examen direct rapide.",
+   "Faux : il ne renseigne pas sur la sensibilité aux antibiotiques."
+  ]
+ },
+ {
+  "q": "Un laboratoire isole un diplocoque à Gram négatif, oxydase +, glucose +, maltose −. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le profil biochimique oriente vers Neisseria gonorrhoeae",
+   "Le méningocoque est écarté car il est maltose +",
+   "La galerie Api NH permet cette identification",
+   "Le sérogroupage capsulaire A, B, C, Y, W135 est l'étape suivante",
+   "Ce profil est celui d'Haemophilus influenzae"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : glucose + / maltose − oriente vers le gonocoque.",
+   "Vrai : le méningocoque est glucose + et maltose +, donc écarté.",
+   "Vrai : la galerie Api NH est utilisée.",
+   "Faux : le sérogroupage capsulaire concerne le méningocoque, pas le gonocoque.",
+   "Faux : H. influenzae est un bacille/coccobacille exigeant en facteurs X et V."
+  ]
+ },
+ {
+  "q": "Concernant les milieux de culture du gonocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Gélose au sang cuit additionnée de polyvitamines",
+   "Incubation à température, humidité et CO2 adéquats",
+   "Lecture en 24 à 48 heures",
+   "Milieu de transport approprié si le prélèvement n'est pas fait au laboratoire",
+   "Bouillon nutritif ordinaire à l'air ambiant suffisant"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : gélose sang cuit + polyvitamines.",
+   "Vrai : température, humidité et CO2 adéquats.",
+   "Vrai : lecture en 24 à 48 h.",
+   "Vrai : milieu de transport si besoin.",
+   "Faux : le bouillon ordinaire ne convient pas à ce germe exigeant."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes sur la gonococcie, lesquelles sont exactes ?",
+  "options": [
+   "C'est une IST due à Neisseria gonorrhoeae",
+   "La maladie n'est pas immunisante et les réinfections sont possibles",
+   "Le diagnostic est essentiellement direct (Gram, culture, antigènes, PCR)",
+   "Le traitement est standardisé par l'OMS (C3G en première ligne)",
+   "Il existe un vaccin efficace largement utilisé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IST à N. gonorrhoeae.",
+   "Vrai : maladie non immunisante, réinfections possibles.",
+   "Vrai : diagnostic essentiellement direct.",
+   "Vrai : traitement OMS standardisé, C3G en première ligne.",
+   "Faux : il n'existe pas de vaccin contre le gonocoque."
+  ]
+ },
+ {
+  "q": "Concernant la résistance du gonocoque aux fluoroquinolones, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les fluoroquinolones font partie des options thérapeutiques OMS",
+   "La résistance aux fluoroquinolones est en augmentation",
+   "Cette résistance croissante limite leur utilisation",
+   "Les fluoroquinolones sont totalement inefficaces d'emblée",
+   "La surveillance de la sensibilité utilise dilution, E-test et biologie moléculaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les FQ sont une option du traitement OMS.",
+   "Vrai : la résistance est en augmentation (! Rce en ↑).",
+   "Vrai : cette résistance croissante limite leur place.",
+   "Faux : elles restent une option, la résistance n'est pas universelle.",
+   "Vrai : la surveillance utilise dilution, E-test et biologie moléculaire."
+  ]
+ },
+ {
+  "q": "Un homme consulte pour brûlures mictionnelles et écoulement purulent. Lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le tableau évoque une blennorragie (urétrite gonococcique)",
+   "Le premier jet d'urine et l'écouvillonnage urétral sont des prélèvements adaptés",
+   "Le Gram a une sensibilité de 98 % chez l'homme",
+   "Une co-infection à Chlamydia trachomatis doit être recherchée",
+   "Le diagnostic repose sur la sérologie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le tableau est celui d'une blennorragie.",
+   "Vrai : premier jet d'urine et écouvillonnage urétral.",
+   "Vrai : sensibilité du Gram de 98 % chez l'homme.",
+   "Vrai : recherche de Chlamydia associée.",
+   "Faux : le diagnostic est direct, non sérologique."
+  ]
+ },
+ {
+  "q": "Concernant Neisseria gonorrhoeae et la grossesse, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'infection maternelle peut contaminer le nouveau-né lors de l'accouchement",
+   "L'ophtalmie purulente du nouveau-né est une complication à redouter",
+   "Le dépistage et le traitement de la mère préviennent la contamination",
+   "L'infection est toujours symptomatique chez la femme enceinte",
+   "Le prélèvement oculaire du nouveau-né permet le diagnostic de l'ophtalmie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : contamination périnatale lors de l'accouchement.",
+   "Vrai : ophtalmie purulente du nouveau-né.",
+   "Vrai : le traitement maternel prévient la contamination.",
+   "Faux : l'infection est souvent asymptomatique chez la femme.",
+   "Vrai : le prélèvement oculaire permet le diagnostic."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les Neisseria pathogènes, lesquelles sont exactes ?",
+  "options": [
+   "N. meningitidis : agent de méningites cérébrospinales et de méningococcémies",
+   "N. gonorrhoeae : agent d'IST (blennorragie)",
+   "Les deux espèces donnent des colonies grises",
+   "Les deux espèces sont des DCGN oxydase +",
+   "N. meningitidis est l'agent du chancre mou"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : N. meningitidis = MCS et méningococcémies.",
+   "Vrai : N. gonorrhoeae = IST.",
+   "Vrai : colonies grises pour les deux espèces pathogènes.",
+   "Vrai : DCGN oxydase + pour les deux.",
+   "Faux : le chancre mou est dû à Haemophilus ducreyi."
+  ]
+ },
+ {
+  "q": "Concernant la spectinomycine dans la gonococcie, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle est citée parmi les antibiotiques très actifs sur le gonocoque",
+   "La posologie recommandée est de 2 g en IM",
+   "Elle fait partie du traitement standardisé OMS",
+   "Elle est inactive sur le gonocoque",
+   "Elle s'administre par voie orale en une prise unique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la spectinomycine est très active sur le gonocoque.",
+   "Vrai : posologie de 2 g en IM.",
+   "Vrai : elle fait partie du traitement OMS standardisé.",
+   "Faux : elle est active, non inactive.",
+   "Faux : elle s'administre en IM, pas per os."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les cyclines et le gonocoque, lesquelles sont exactes ?",
+  "options": [
+   "Les cyclines sont décrites comme très actives sur le gonocoque",
+   "Elles sont aussi actives sur Chlamydia trachomatis, fréquemment co-transmise",
+   "Elles sont contre-indiquées chez la femme enceinte",
+   "Elles constituent le traitement de première ligne OMS de la gonococcie",
+   "Elles sont totalement inactives sur le gonocoque"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les cyclines sont très actives sur le gonocoque.",
+   "Vrai : elles couvrent aussi Chlamydia, souvent co-transmise.",
+   "Vrai : les cyclines sont contre-indiquées pendant la grossesse.",
+   "Faux : la première ligne OMS repose sur les C3G.",
+   "Faux : elles sont actives, non inactives."
+  ]
+ },
+ {
+  "q": "Concernant le phénotype BLNAR du gonocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "BLNAR signifie bêta-lactamase négative avec résistance à l'ampicilline",
+   "Le mécanisme est une modification des PLP (protéines liant la pénicilline)",
+   "Le dépistage utilise les disques de céfalotine (KF) ou céfoxitine (CF)",
+   "C'est une résistance d'origine plasmidique codant une pénicillinase",
+   "La pénicilline G reste pleinement active sur ces souches"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : BLNAR = bêta-lactamase négative, ampicilline-résistant.",
+   "Vrai : mécanisme = modification des PLP.",
+   "Vrai : dépistage par disques KF ou CF.",
+   "Faux : c'est le phénotype BL+ qui est plasmidique (pénicillinase).",
+   "Faux : la pénicilline G est inefficace sur les souches BLNAR."
+  ]
+ },
+ {
+  "q": "Un laboratoire reçoit un écouvillon urétral pour suspicion de gonococcie. Lesquelles de ces démarches sont exactes ?",
+  "options": [
+   "Réaliser un examen direct : Gram (et bleu de méthylène) à la recherche de DCGN en grains de café",
+   "Ensemencer le second écouvillon sur gélose au sang cuit + polyvitamines",
+   "Incuber 24 à 48 h en atmosphère humide riche en CO2",
+   "Identifier la souche par galerie Api NH",
+   "Réaliser systématiquement un antibiogramme par diffusion comme pour les entérobactéries"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : examen direct (Gram ± BM) en premier.",
+   "Vrai : culture du second écouvillon sur milieu enrichi.",
+   "Vrai : incubation 24-48 h, CO2, humidité.",
+   "Vrai : identification par Api NH.",
+   "Faux : la diffusion en gélose est ininterprétable pour le gonocoque."
+  ]
+ },
+ {
+  "q": "Concernant les localisations extra-génitales de la gonococcie, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Localisation pharyngée possible (prélèvement pharyngé)",
+   "Localisation rectale possible (prélèvement rectal)",
+   "Localisation oculaire du nouveau-né (ophtalmie purulente)",
+   "Localisation articulaire dans les formes invasives (liquide articulaire)",
+   "Localisation méningée typique avec LCR purulent"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le pharynx peut être colonisé/infecté.",
+   "Vrai : localisation rectale possible.",
+   "Vrai : ophtalmie purulente du nouveau-né.",
+   "Vrai : arthrite septique dans les formes invasives.",
+   "Faux : la méningite purulente est l'apanage du méningocoque."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la lutte contre la gonococcie, lesquelles sont exactes ?",
+  "options": [
+   "L'éducation et la sensibilisation sur les IST sont essentielles",
+   "L'usage de préservatifs réduit la transmission",
+   "Le dépistage et le traitement des partenaires interrompent la chaîne de transmission",
+   "La limitation des partenaires est recommandée",
+   "La vaccination de masse est la mesure principale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : éducation, information, sensibilisation.",
+   "Vrai : les préservatifs protègent.",
+   "Vrai : traiter les partenaires est indispensable.",
+   "Vrai : limitation des partenaires.",
+   "Faux : il n'existe pas de vaccin contre le gonocoque."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic différentiel entre urétrite gonococcique et urétrite à Chlamydia, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les deux sont des IST fréquemment co-transmises",
+   "Le Gram montre des DCGN dans la gonococcie mais pas dans la chlamydiose",
+   "La recherche des deux germes est souvent associée (PCR)",
+   "Le gonocoque est cultivable sur milieu enrichi ; Chlamydia est très exigeante",
+   "Le Gram permet de visualiser Chlamydia trachomatis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : co-transmission fréquente des deux IST.",
+   "Vrai : DCGN au Gram dans la gonococcie uniquement.",
+   "Vrai : recherche associée des deux germes.",
+   "Vrai : gonocoque cultivable sur milieu enrichi ; Chlamydia très exigeante.",
+   "Faux : Chlamydia n'est pas visible au Gram (bactérie intracellulaire obligatoire)."
+  ]
+ },
+ {
+  "q": "Un patient traité pour gonococcie revient avec les mêmes symptômes un mois plus tard. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Une réinfection est possible car la maladie n'est pas immunisante",
+   "Il faut vérifier le traitement du (des) partenaire(s)",
+   "Une résistance (BLNAR, BL+, FQ) peut être en cause",
+   "La surveillance de la sensibilité relève de laboratoires spécialisés",
+   "Une récidive est impossible après un traitement bien conduit"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la gonococcie n'est pas immunisante, les réinfections sont possibles.",
+   "Vrai : le non-traitement du partenaire explique les réinfections.",
+   "Vrai : les résistances (BLNAR, BL+, FQ) sont possibles.",
+   "Vrai : la surveillance par dilution/E-test relève de laboratoires spécialisés.",
+   "Faux : les réinfections sont possibles."
+  ]
+ },
+ {
+  "q": "Concernant les caractères culturaux du gonocoque, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Colonies grises en 24 à 48 h",
+   "Oxydase positives",
+   "Catalase positives",
+   "Pousse sur gélose au sang cuit additionnée de polyvitamines",
+   "Colonies pigmentées en jaune caractéristiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : colonies grises en 24-48 h.",
+   "Vrai : oxydase +.",
+   "Vrai : catalase +.",
+   "Vrai : gélose sang cuit + polyvitamines.",
+   "Faux : les colonies jaunes pigmentées sont celles des Neisseria commensales."
+  ]
+ },
+ {
+  "q": "Parmi les antibiotiques suivants, lesquels NE sont PAS recommandés dans le traitement OMS de la gonococcie ?",
+  "options": [
+   "La vancomycine",
+   "La pénicilline G seule en cas de souche BL+",
+   "Les aminosides en monothérapie",
+   "Les C3G (recommandées en première ligne)",
+   "La spectinomycine 2 g IM (recommandée)"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la vancomycine n'a pas de place dans la gonococcie.",
+   "Vrai : la pénicilline G est inefficace sur les souches BL+.",
+   "Vrai : les aminosides en monothérapie ne sont pas recommandés.",
+   "Faux : les C3G sont recommandées en première ligne.",
+   "Faux : la spectinomycine est recommandée."
+  ]
+ },
+ {
+  "q": "Concernant l'épidémiologie de la gonococcie, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une IST dont le gonocoque est l'agent",
+   "Il n'y a pas de portage sain mais des formes asymptomatiques surtout féminines",
+   "Ces formes asymptomatiques favorisent la dissémination",
+   "La transmission est essentiellement sexuelle directe",
+   "C'est une zoonose à réservoir animal"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IST à N. gonorrhoeae.",
+   "Vrai : pas de portage sain, formes asymptomatiques surtout chez la femme.",
+   "Vrai : elles favorisent la dissémination.",
+   "Vrai : transmission sexuelle directe.",
+   "Faux : le réservoir est strictement humain."
+  ]
+ },
+ {
+  "q": "Un couple est pris en charge pour gonococcie. Lesquelles de ces attitudes sont exactes ?",
+  "options": [
+   "Traiter les deux partenaires",
+   "Rechercher une co-infection à Chlamydia trachomatis",
+   "Conseiller l'usage de préservatifs",
+   "Proposer une éducation sur les IST",
+   "Ne traiter que le partenaire symptomatique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les deux partenaires doivent être traités.",
+   "Vrai : rechercher Chlamydia, souvent co-transmise.",
+   "Vrai : conseiller les préservatifs.",
+   "Vrai : éducation sur les IST.",
+   "Faux : le partenaire asymptomatique doit aussi être traité."
+  ]
+ },
+ {
+  "q": "Concernant la place de l'ELISA dans le diagnostic de la gonococcie, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle met en évidence les antigènes du gonocoque dans le prélèvement",
+   "C'est une technique performante",
+   "Le résultat est rapide, en 2 heures",
+   "Elle remplace la culture pour l'étude de la sensibilité aux antibiotiques",
+   "Elle détecte les anticorps sériques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : mise en évidence des antigènes dans le prélèvement pathologique.",
+   "Vrai : technique performante.",
+   "Vrai : résultat rapide en 2 h.",
+   "Faux : elle ne remplace pas la culture pour la sensibilité.",
+   "Faux : c'est une détection d'antigènes, pas d'anticorps."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la biologie moléculaire du gonocoque, lesquelles sont exactes ?",
+  "options": [
+   "La PCR et les sondes d'hybridation ont été développées",
+   "La recherche du gonocoque est souvent associée à celle de Chlamydia",
+   "Elles permettent un diagnostic sans culture",
+   "Elles remplacent l'examen direct au Gram en urgence",
+   "Elles sont inutiles dans la gonococcie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PCR et sondes d'hybridation développées.",
+   "Vrai : recherche souvent associée à Chlamydia.",
+   "Vrai : diagnostic possible sans culture.",
+   "Faux : le Gram reste l'examen direct de première intention.",
+   "Faux : elles sont utiles, notamment pour le diagnostic."
+  ]
+ },
+ {
+  "q": "Concernant les complications des gonococcies non traitées chez la femme, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les formes non traitées sont source de complications",
+   "L'infection peut rester longtemps inaperçue",
+   "Le dépistage permet d'éviter ces complications",
+   "Toute infection génitale féminine évolue vers une méningite",
+   "Le traitement des partenaires prévient les réinfections"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les formes non traitées se compliquent.",
+   "Vrai : l'infection est souvent inaperçue chez la femme.",
+   "Vrai : le dépistage prévient les complications.",
+   "Faux : il n'y a pas d'évolution méningée.",
+   "Vrai : traiter les partenaires prévient les réinfections."
+  ]
+ },
+ {
+  "q": "Un examen direct d'un prélèvement urétral montre des diplocoques Gram négatif extracellulaires uniquement. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'aspect en grains de café oriente vers un Neisseria pathogène",
+   "La localisation peut être intra- ou extracellulaire",
+   "La culture sur milieu enrichi confirmera le diagnostic",
+   "L'identification par Api NH distinguera gonocoque et méningocoque",
+   "Un résultat extracellulaire exclut formellement le gonocoque"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les DCGN en grains de café orientent vers Neisseria.",
+   "Vrai : les diplocoques peuvent être intra- ou extracellulaires.",
+   "Vrai : la culture confirme le diagnostic.",
+   "Vrai : Api NH distingue les deux espèces (maltose).",
+   "Faux : la forme extracellulaire n'exclut pas le gonocoque."
+  ]
+ },
+ {
+  "q": "Concernant la sensibilité du Gram dans la gonococcie, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle est de 98 % chez l'homme",
+   "Elle est au mieux de 50 % chez la femme",
+   "Cette différence justifie la culture systématique chez la femme",
+   "Elle est de 100 % dans tous les prélèvements",
+   "Le Gram est inutile chez la femme"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : 98 % de sensibilité chez l'homme.",
+   "Vrai : au mieux 50 % chez la femme.",
+   "Vrai : d'où l'importance de la culture chez la femme.",
+   "Faux : la sensibilité n'est pas de 100 %.",
+   "Faux : le Gram reste utile mais moins sensible chez la femme."
+  ]
+ },
+ {
+  "q": "Parmi les mesures suivantes, lesquelles font partie de la prévention des IST à gonocoque ?",
+  "options": [
+   "Information et sensibilisation sur les IST",
+   "Usage de préservatifs",
+   "Dépistage et traitement des patients et partenaires",
+   "Limitation des partenaires",
+   "Chimio-prophylaxie systématique de la population par C3G"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : information et sensibilisation.",
+   "Vrai : préservatifs.",
+   "Vrai : dépistage et traitement des patients/partenaires.",
+   "Vrai : limitation des partenaires.",
+   "Faux : pas de chimio-prophylaxie systématique de la population."
+  ]
+ },
+ {
+  "q": "Concernant le gonocoque et les antibiotiques, lesquelles de ces associations sont exactes ?",
+  "options": [
+   "C3G : traitement de première ligne OMS",
+   "Spectinomycine 2 g IM : alternative recommandée",
+   "Fluoroquinolones : résistance en augmentation, place limitée",
+   "Phénicolés : actifs mais toxiques",
+   "Glycopeptides : traitement de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : C3G en première ligne.",
+   "Vrai : spectinomycine 2 g IM.",
+   "Vrai : FQ, résistance croissante.",
+   "Vrai : phénicolés actifs mais toxiques.",
+   "Faux : les glycopeptides n'ont pas de place ici."
+  ]
+ },
+ {
+  "q": "Une patiente présente des leucorrhées avec cervicite. Le Gram est négatif. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Un Gram négatif n'exclut pas la gonococcie chez la femme (sensibilité ≤ 50 %)",
+   "La culture sur milieu enrichi est indispensable",
+   "L'ELISA antigénique ou la PCR peuvent aider au diagnostic",
+   "Une co-infection à Chlamydia doit être recherchée",
+   "Le diagnostic de gonococcie est définitivement écarté"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la sensibilité du Gram est au mieux de 50 % chez la femme.",
+   "Vrai : la culture est indispensable.",
+   "Vrai : ELISA (2 h) ou PCR utiles.",
+   "Vrai : rechercher Chlamydia, souvent co-transmise.",
+   "Faux : un Gram négatif n'écarte pas le diagnostic."
+  ]
+ },
+ {
+  "q": "Concernant la taxonomie d'Haemophilus influenzae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ordre des Pasteurellales",
+   "Famille des Pasteurellaceae",
+   "Genre Haemophilus, espèce H. influenzae",
+   "Famille des Neisseriaceae",
+   "Ordre des Enterobacterales"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ordre des Pasteurellales.",
+   "Vrai : famille des Pasteurellaceae.",
+   "Vrai : genre Haemophilus, espèce H. influenzae.",
+   "Faux : les Neisseriaceae regroupent les Neisseria.",
+   "Faux : les Enterobacterales regroupent les entérobactéries."
+  ]
+ },
+ {
+  "q": "Parmi les caractères bactériologiques d'H. influenzae, lesquels sont exacts ?",
+  "options": [
+   "Petits bacilles ou coccobacilles à Gram négatif avec un polymorphisme important",
+   "Bactéries immobiles et non sporulées",
+   "Parfois capsulées",
+   "Aérobies et anaérobies facultatifs",
+   "Cocci à Gram positif en chaînettes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : petits bacilles/coccobacilles G- polymorphes (formes longues).",
+   "Vrai : immobiles, non sporulés.",
+   "Vrai : parfois capsulés.",
+   "Vrai : aérobies et anaérobies facultatifs.",
+   "Faux : ce ne sont pas des cocci à Gram positif en chaînettes."
+  ]
+ },
+ {
+  "q": "Concernant les exigences de culture d'H. influenzae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La croissance exige les facteurs X et V",
+   "Le facteur X correspond à l'hémine",
+   "Le facteur V correspond au NAD (nicotinamide adénine dinucléotide)",
+   "Ces facteurs sont apportés par le sang (globules rouges)",
+   "La bactérie pousse sur gélose nutritive ordinaire sans facteurs de croissance"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : exigence en facteurs X et V.",
+   "Vrai : facteur X = hémine.",
+   "Vrai : facteur V = NAD.",
+   "Vrai : ces facteurs sont présents dans les globules rouges.",
+   "Faux : c'est une bactérie exigeante qui nécessite ces facteurs."
+  ]
+ },
+ {
+  "q": "Concernant les milieux de culture d'H. influenzae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La gélose au sang cuit (gélose chocolat) est le milieu de référence",
+   "Pour les prélèvements poly-microbiens, on utilise des milieux sélectifs additionnés d'antibiotiques (bacitracine, vancomycine)",
+   "L'incubation se fait à 35-37 °C en atmosphère riche en CO2",
+   "La gélose au sang frais suffit car elle libère le facteur V",
+   "La température optimale est de 34-37 °C"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la gélose au sang cuit (chocolat) apporte les facteurs X et V.",
+   "Vrai : milieux sélectifs + ATB (bacitracine, vancomycine) pour les prélèvements poly-microbiens.",
+   "Vrai : incubation à 35-37 °C en atmosphère riche en CO2.",
+   "Faux : le sang frais apporte l'hémine (X) mais le NAD (V) est thermolabile ; le sang cuit libère les deux.",
+   "Vrai : température optimale de 34-37 °C."
+  ]
+ },
+ {
+  "q": "À propos des colonies d'H. influenzae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les souches capsulées donnent des colonies volumineuses, muqueuses, bombées",
+   "Les souches non capsulées donnent des colonies lisses, plus petites",
+   "Les colonies des souches capsulées ont tendance à s'étaler",
+   "Les colonies non capsulées sont difficiles à prélever",
+   "Toutes les souches donnent des colonies pigmentées en jaune"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : souches capsulées = colonies volumineuses, muqueuses, bombées.",
+   "Vrai : souches non capsulées = colonies lisses, plus petites.",
+   "Vrai : les colonies capsulées ont tendance à s'étaler.",
+   "Vrai : les colonies non capsulées sont difficiles à prélever.",
+   "Faux : la pigmentation jaune concerne les Neisseria commensales."
+  ]
+ },
+ {
+  "q": "Concernant les caractères antigéniques d'H. influenzae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Certaines souches possèdent une capsule polysaccharidique définissant 6 sérotypes (a à f)",
+   "Chaque type capsulaire a une spécificité antigénique sans réactions croisées",
+   "Le sérotype b est le plus important et le plus fréquent",
+   "Le polysaccharide capsulaire du type b est le polyribosyl-ribitol phosphate (PRP)",
+   "Le sérotype b est le moins virulent"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 6 sérotypes capsulaires a, b, c, d, e, f.",
+   "Vrai : chaque type a sa spécificité sans réactions croisées.",
+   "Vrai : le sérotype b est le plus important.",
+   "Vrai : le PRP est le polysaccharide du type b.",
+   "Faux : le sérotype b est le plus virulent."
+  ]
+ },
+ {
+  "q": "Parmi les facteurs de virulence d'H. influenzae, lesquels sont exacts ?",
+  "options": [
+   "Le polysaccharide capsulaire, responsable de la résistance à la phagocytose",
+   "Les pili, impliqués dans l'adhésion",
+   "L'IgA protéase",
+   "La toxine pertussique",
+   "Le lipo-oligosaccharide endotoxinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la capsule confère la résistance à la phagocytose.",
+   "Vrai : les pili assurent l'adhésion.",
+   "Vrai : l'IgA protéase est un facteur de virulence.",
+   "Faux : la toxine pertussique est produite par Bordetella pertussis.",
+   "Faux : le LOS endotoxinique est un facteur du méningocoque."
+  ]
+ },
+ {
+  "q": "Concernant l'épidémiologie d'H. influenzae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le réservoir est le portage oropharyngé et des muqueuses",
+   "La transmission est interhumaine par voie aérienne",
+   "Le nouveau-né peut être contaminé au moment de l'accouchement",
+   "Les sujets fragiles (enfant, sujet âgé, immunodéprimé) sont les plus réceptifs",
+   "Le réservoir est tellurique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : portage oropharyngé et des muqueuses.",
+   "Vrai : transmission aérienne interhumaine.",
+   "Vrai : contamination possible du nouveau-né à l'accouchement.",
+   "Vrai : enfant, sujet âgé et immunodéprimé plus réceptifs.",
+   "Faux : le réservoir est humain, non tellurique."
+  ]
+ },
+ {
+  "q": "Parmi les facteurs favorisant les infections à H. influenzae, lesquels sont exacts ?",
+  "options": [
+   "Une co-infection bactérienne ou virale",
+   "Le tabagisme",
+   "La pollution",
+   "La bronchite chronique",
+   "L'exposition au froid sec uniquement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les co-infections favorisent l'infection.",
+   "Vrai : le tabagisme est un facteur favorisant.",
+   "Vrai : la pollution favorise les infections.",
+   "Vrai : la bronchite chronique est un facteur favorisant.",
+   "Faux : ce facteur n'est pas décrit comme tel pour H. influenzae."
+  ]
+ },
+ {
+  "q": "Concernant les infections invasives à H. influenzae de type b (Hib) chez l'enfant, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les méningites : syndrome méningé fébrile (céphalées, vomissements, photophobie, raideur nucale)",
+   "La mortalité des méningites est de 2 à 6 % avec des séquelles neurologiques possibles malgré le traitement",
+   "L'épiglottite, grave avec difficultés respiratoires",
+   "Les états septicémiques : arthrite, péricardite",
+   "Les infections invasives à Hib sont bénignes et sans séquelles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : méningites avec syndrome méningé fébrile.",
+   "Vrai : 2 à 6 % de mortalité, séquelles neurologiques possibles.",
+   "Vrai : l'épiglottite à Hib est grave (détresse respiratoire).",
+   "Vrai : arthrite, péricardite et autres états septicémiques.",
+   "Faux : ce sont des infections graves avec mortalité et séquelles."
+  ]
+ },
+ {
+  "q": "Parmi les infections ORL et respiratoires à H. influenzae, lesquelles sont exactes ?",
+  "options": [
+   "Otite moyenne aiguë",
+   "Sinusites",
+   "Conjonctivites",
+   "Pneumonies",
+   "Méningites à liquide clair lymphocytaire systématiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : otite moyenne aiguë.",
+   "Vrai : sinusites.",
+   "Vrai : conjonctivites.",
+   "Vrai : pneumonies.",
+   "Faux : les méningites à Hib sont purulentes, non à liquide clair."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements pour le diagnostic d'H. influenzae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Produits mono-microbiens par ponction : LCR, liquides articulaires, pleural, hémoculture",
+   "Produits poly-microbiens : sécrétions bronchiques, prélèvements ORL",
+   "Il faut éviter la contamination par la flore saprophyte pour les prélèvements ORL",
+   "C'est une bactérie fragile : transport rapide au laboratoire",
+   "Le prélèvement de selles est le prélèvement de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : LCR, liquides articulaires, pleural, hémoculture.",
+   "Vrai : sécrétions bronchiques, prélèvements ORL.",
+   "Vrai : éviter la contamination par la flore saprophyte.",
+   "Vrai : bactérie fragile, transport rapide.",
+   "Faux : les selles ne sont pas un prélèvement pour H. influenzae."
+  ]
+ },
+ {
+  "q": "À l'examen microscopique d'un produit pathologique, H. influenzae se présente comme lesquels des éléments suivants ?",
+  "options": [
+   "Petits bacilles à Gram négatif",
+   "Souvent coccobacillaire",
+   "Aspect parfois plus long, filamenteux",
+   "Bactérie immobile et non sporulée",
+   "Diplocoques à Gram positif en grains de café"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : petits bacilles à Gram négatif.",
+   "Vrai : souvent coccobacillaire.",
+   "Vrai : aspect parfois filamenteux (polymorphisme).",
+   "Vrai : immobile, non sporulé.",
+   "Faux : cet aspect correspond aux Neisseria."
+  ]
+ },
+ {
+  "q": "Concernant l'identification d'H. influenzae par la mise en évidence de l'exigence en facteurs X et V, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Technique des disques : culture par inondation sur gélose Mueller-Hinton avec disques d'hémine et de NAD",
+   "Technique des cultures comparées sur 4 milieux à composition variable en facteurs X et V",
+   "Technique du satellitisme : pousse autour d'une souche de Staphylococcus aureus productrice de NAD sur gélose au sang frais",
+   "La galerie Api NH peut être utilisée pour l'identification biochimique",
+   "L'exigence en facteurs X et V n'a aucun intérêt diagnostique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : disques d'hémine et de NAD sur Mueller-Hinton.",
+   "Vrai : cultures comparées sur 4 milieux.",
+   "Vrai : satellitisme autour de S. aureus sur gélose au sang frais (source d'hémine).",
+   "Vrai : galerie Api NH pour l'identification biochimique.",
+   "Faux : c'est au contraire la base de l'identification."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic immunologique d'H. influenzae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Il repose sur la recherche d'antigènes solubles polysaccharidiques",
+   "C'est un diagnostic rapide",
+   "Il peut être réalisé directement dans le LCR, le sérum ou les urines",
+   "Il est utile en cas de méningite, de septicémie ou d'infection pulmonaire",
+   "Il repose sur la mise en évidence d'anticorps anti-PRP en phase aiguë"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : recherche d'Ag solubles polysaccharidiques.",
+   "Vrai : diagnostic rapide.",
+   "Vrai : LCR, sérum ou urines.",
+   "Vrai : méningite, septicémie, infection pulmonaire.",
+   "Faux : la recherche d'anticorps anti-PRP n'est envisagée que pour le contrôle de la réponse vaccinale, pas le diagnostic en phase aiguë."
+  ]
+ },
+ {
+  "q": "Concernant la sensibilité naturelle d'H. influenzae aux antibiotiques, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Résistance naturelle aux macrolides à 16 atomes (spiramycine, josamycine)",
+   "Résistance naturelle à la bacitracine",
+   "Résistance naturelle à l'oxacilline et aux glycopeptides",
+   "Sensibilité modérée aux macrolides à 14 et 15 atomes (érythromycine)",
+   "Résistance naturelle aux céphalosporines de 3e génération"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : résistance naturelle aux macrolides à 16 atomes.",
+   "Vrai : résistance naturelle à la bacitracine.",
+   "Vrai : résistance naturelle à l'oxacilline et aux glycopeptides.",
+   "Vrai : sensibilité modérée aux macrolides à 14-15 atomes.",
+   "Faux : H. influenzae est habituellement sensible aux C3G, sans résistance naturelle."
+  ]
+ },
+ {
+  "q": "Concernant les résistances acquises d'H. influenzae à l'ampicilline, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Production de bêta-lactamases plasmidiques de type TEM1",
+   "Résistance sans production de bêta-lactamase par diminution d'affinité des PLP3",
+   "Résistance possible par imperméabilité",
+   "Le mécillinam est le traitement de choix des souches résistantes",
+   "H. influenzae ne développe jamais de résistance à l'ampicilline"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : bêta-lactamases plasmidiques de type TEM1.",
+   "Vrai : diminution d'affinité des PLP3 sans bêta-lactamase.",
+   "Vrai : l'imperméabilité est un autre mécanisme.",
+   "Faux : H. influenzae est naturellement résistant au mécillinam.",
+   "Faux : des résistances acquises à l'ampicilline existent."
+  ]
+ },
+ {
+  "q": "Concernant le traitement des infections à H. influenzae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Du fait de la prévalence des souches productrices de bêta-lactamases, l'amoxicilline + acide clavulanique est un traitement de première intention",
+   "Les céphalosporines de 2e ou 3e génération sont utilisées selon la localisation",
+   "Les aminosides, fluoroquinolones, triméthoprime, tétracyclines et chloramphénicol sont habituellement actifs",
+   "La spiramycine est le traitement de référence",
+   "L'oxacilline est indiquée en première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : amoxicilline + acide clavulanique en première intention.",
+   "Vrai : C2G ou C3G selon la localisation.",
+   "Vrai : ces antibiotiques sont habituellement actifs.",
+   "Faux : H. influenzae est naturellement résistant à la spiramycine (macrolide à 16 atomes).",
+   "Faux : résistance naturelle à l'oxacilline."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination contre H. influenzae de type b (Hib), lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle repose sur le polysaccharide de type b (PRP : polyribosyl-ribitol phosphate)",
+   "Elle est administrée avant l'âge de 6 mois avec un rappel à 18 mois",
+   "Elle confère une immunité à long terme chez plus de 90 % des enfants vaccinés",
+   "Elle est obligatoire au Maroc",
+   "Elle protège contre les 6 sérotypes (a à f)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : vaccin à base du PRP.",
+   "Vrai : vaccination avant 6 mois, rappel à 18 mois.",
+   "Vrai : immunité à long terme chez plus de 90 % des enfants.",
+   "Vrai : vaccin obligatoire au Maroc.",
+   "Faux : elle ne concerne que les infections à Hib (type b)."
+  ]
+ },
+ {
+  "q": "Un enfant de 3 ans présente une épiglottite fébrile avec détresse respiratoire. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "H. influenzae de type b est l'agent classiquement en cause",
+   "C'est une infection grave",
+   "Le diagnostic repose sur la culture (gélose chocolat) et la recherche d'antigènes solubles",
+   "La vaccination Hib prévient cette infection",
+   "L'amoxicilline seule est toujours suffisante quel que soit le contexte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'épiglottite de l'enfant est classiquement due à Hib.",
+   "Vrai : c'est une infection grave (difficultés respiratoires).",
+   "Vrai : culture sur gélose chocolat et antigènes solubles.",
+   "Vrai : la vaccination Hib est préventive.",
+   "Faux : le traitement tient compte des résistances (amoxicilline + clavulanate ou C2G/C3G)."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic indirect d'H. influenzae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Il n'existe pas de test de diagnostic indirect en pratique courante",
+   "La recherche d'anticorps anti-polysaccharides de type b (anti-PRP) n'est envisagée que pour contrôler la réponse vaccinale",
+   "La sérologie est l'examen de référence du diagnostic",
+   "Le diagnostic repose sur les méthodes directes (culture, antigènes)",
+   "Le Widal est l'examen de choix"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : pas de test indirect en pratique courante.",
+   "Vrai : les anti-PRP servent au contrôle de la réponse vaccinale.",
+   "Faux : le diagnostic est direct, non sérologique.",
+   "Vrai : culture et recherche d'antigènes.",
+   "Faux : le Widal concerne la fièvre typhoïde."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur H. influenzae, lesquelles sont exactes ?",
+  "options": [
+   "Le genre Haemophilus comporte une vingtaine d'espèces dont quelques-unes pathogènes pour l'homme",
+   "H. influenzae est responsable de la majeure partie des infections humaines liées à ce genre",
+   "H. ducreyi est responsable du chancre mou",
+   "Toutes les espèces d'Haemophilus sont pathogènes pour l'homme",
+   "H. influenzae exige l'hémine et/ou le NAD apportés par le sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : une vingtaine d'espèces, quelques-unes pathogènes.",
+   "Vrai : H. influenzae = majeure partie des infections du genre.",
+   "Vrai : H. ducreyi = chancre mou.",
+   "Faux : seules quelques espèces sont pathogènes.",
+   "Vrai : exigence en hémine et/ou NAD."
+  ]
+ },
+ {
+  "q": "Concernant la technique du satellitisme pour H. influenzae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle utilise une gélose au sang frais comme source d'hémine (facteur X)",
+   "Une souche de Staphylococcus aureus productrice de NAD (facteur V) est ensemencée",
+   "On observe la pousse d'H. influenzae autour de la souche de S. aureus",
+   "Elle met en évidence l'exigence en facteurs X et V",
+   "Elle utilise des disques d'antibiotiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la gélose au sang frais apporte l'hémine.",
+   "Vrai : S. aureus fournit le NAD dans le milieu.",
+   "Vrai : satellitisme = pousse autour de la souche de S. aureus.",
+   "Vrai : elle démontre l'exigence en facteurs X et V.",
+   "Faux : pas de disques d'antibiotiques dans cette technique."
+  ]
+ },
+ {
+  "q": "Un LCR d'enfant montre à l'examen direct des coccobacilles à Gram négatif. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "H. influenzae est un diagnostic à évoquer (petits bacilles/coccobacilles G-)",
+   "La culture sur gélose chocolat en atmosphère CO2 est indiquée",
+   "La recherche d'antigènes solubles (latex) peut orienter rapidement",
+   "Le sérotype b est le plus virulent et le plus fréquent dans les formes invasives",
+   "L'aspect en grains de café confirme H. influenzae"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les coccobacilles G- évoquent H. influenzae.",
+   "Vrai : gélose chocolat, 35-37 °C, CO2.",
+   "Vrai : les antigènes solubles donnent un diagnostic rapide.",
+   "Vrai : le sérotype b est le plus virulent.",
+   "Faux : les grains de café correspondent aux Neisseria, pas à H. influenzae."
+  ]
+ },
+ {
+  "q": "Concernant les milieux sélectifs pour H. influenzae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils sont utilisés pour les prélèvements poly-microbiens",
+   "Ils sont additionnés d'antibiotiques comme la bacitracine ou la vancomycine",
+   "H. influenzae est naturellement résistant à la bacitracine et aux glycopeptides",
+   "Ils sont inutiles car H. influenzae pousse sur tous les milieux",
+   "La gélose chocolat reste la base de ces milieux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : milieux sélectifs pour prélèvements poly-microbiens.",
+   "Vrai : addition de bacitracine, vancomycine.",
+   "Vrai : résistance naturelle à la bacitracine et aux glycopeptides, d'où leur usage sélectif.",
+   "Faux : H. influenzae est exigeant et ne pousse pas partout.",
+   "Vrai : la gélose chocolat est la base."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes sur la physiopathologie d'H. influenzae, lesquelles sont exactes ?",
+  "options": [
+   "L'invasion de la muqueuse est facilitée par l'IgA protéase",
+   "Une souche virulente chez un sujet fragile provoque une infection invasive",
+   "Une souche peu virulente chez un sujet immunocompétent est généralement contrôlée",
+   "La capsule s'oppose à la phagocytose",
+   "L'infection est toujours invasive quel que soit le terrain"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'IgA protéase facilite l'invasion muqueuse.",
+   "Vrai : souche virulente + sujet fragile = infection invasive.",
+   "Vrai : sujet immunocompétent + souche peu virulente = contrôle.",
+   "Vrai : la capsule est antiphagocytaire.",
+   "Faux : l'expression dépend de la virulence et du terrain."
+  ]
+ },
+ {
+  "q": "Concernant H. influenzae et les méningites de l'enfant, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le tableau est un syndrome méningé fébrile",
+   "La mortalité est de 2 à 6 % malgré le traitement",
+   "Des séquelles neurologiques sont possibles",
+   "Le sérotype b est le plus souvent en cause dans les formes invasives",
+   "Ces méningites à Hib surviennent surtout chez l'adulte jeune"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : syndrome méningé fébrile.",
+   "Vrai : 2 à 6 % de mortalité.",
+   "Vrai : séquelles neurologiques possibles.",
+   "Vrai : Hib = formes invasives de l'enfant.",
+   "Faux : ce sont des infections invasives du petit enfant, pas de l'adulte jeune."
+  ]
+ },
+ {
+  "q": "Concernant Haemophilus ducreyi, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ordre des Pasteurellales, famille des Pasteurellaceae, genre Haemophilus",
+   "C'est une bactérie pathogène spécifique, responsable du chancre mou",
+   "Le chancre mou est une infection sexuellement transmissible",
+   "C'est un cocci à Gram positif",
+   "Il appartient au genre Neisseria"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : Pasteurellales, Pasteurellaceae, Haemophilus, espèce H. ducreyi.",
+   "Vrai : bactérie pathogène spécifique du chancre mou.",
+   "Vrai : le chancre mou est une IST.",
+   "Faux : c'est un petit bacille à Gram négatif.",
+   "Faux : il appartient au genre Haemophilus."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'épidémiologie du chancre mou, lesquelles sont exactes ?",
+  "options": [
+   "Maladie de distribution mondiale, en actuelle recrudescence",
+   "Nette prédominance masculine : neuf hommes pour une femme",
+   "Existence possible de formes inapparentes chez la femme",
+   "Le diagnostic est difficile chez la femme",
+   "Maladie à transmission vectorielle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : distribution mondiale, recrudescence actuelle.",
+   "Vrai : prédominance masculine (9 hommes pour 1 femme).",
+   "Vrai : formes inapparentes possibles chez la femme.",
+   "Vrai : diagnostic difficile chez la femme.",
+   "Faux : c'est une IST, non une maladie vectorielle."
+  ]
+ },
+ {
+  "q": "Concernant les caractères bactériologiques d'H. ducreyi, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Petit bacille à Gram négatif",
+   "Exigeant en hémine (facteur X)",
+   "Culture difficile",
+   "Oxydase positif et catalase négatif",
+   "Fermente le glucose et le maltose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : petit bacille à Gram négatif.",
+   "Vrai : exigeant en hémine (facteur X).",
+   "Vrai : culture difficile.",
+   "Vrai : oxydase +, catalase −.",
+   "Faux : H. ducreyi ne fermente pas les sucres."
+  ]
+ },
+ {
+  "q": "Cliniquement, le chancre mou se traduit par lesquels des éléments suivants ?",
+  "options": [
+   "Une ulcération génitale douloureuse",
+   "Une ulcération recouverte d'un enduit purulent",
+   "Une adénopathie associée ou non",
+   "Une ulcération génitale indolore à base indurée",
+   "Une éruption morbilliforme généralisée"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ulcération génitale douloureuse.",
+   "Vrai : enduit purulent recouvrant l'ulcération.",
+   "Vrai : adénopathie associée ou non.",
+   "Faux : l'indolence et l'induration évoquent le chancre syphilitique.",
+   "Faux : pas d'éruption morbilliforme."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic direct du chancre mou, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le prélèvement se fait par grattage du chancre",
+   "La ponction de l'adénopathie se fait avant fistulisation",
+   "C'est un germe fragile : le transport au laboratoire doit être rapide",
+   "À l'examen microscopique : petits BGN en chaînettes parallèles (aspect en « chaîne de vélo »)",
+   "Le prélèvement de choix est l'hémoculture"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : grattage du chancre.",
+   "Vrai : ponction de l'adénopathie avant fistulisation.",
+   "Vrai : germe fragile, transport rapide.",
+   "Vrai : chaînettes parallèles, aspect en « chaîne de vélo ».",
+   "Faux : le diagnostic est local, pas par hémoculture."
+  ]
+ },
+ {
+  "q": "Concernant la culture d'H. ducreyi, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La culture est difficile",
+   "Le germe est exigeant en hémine (facteur X)",
+   "Les milieux riches en sang sont incubés à 35 °C en atmosphère humide à 10 % de CO2",
+   "Les colonies sont petites, blanc grisâtre, à collerette transparente et bords rugueux, en 2 à 5 jours",
+   "La culture pousse en 24 h sur gélose ordinaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : culture difficile.",
+   "Vrai : exigeant en hémine (facteur X).",
+   "Vrai : milieux riches en sang, 35 °C, humide, 10 % CO2.",
+   "Vrai : petites colonies blanc grisâtre à collerette transparente, bords rugueux, en 2 à 5 jours.",
+   "Faux : pas de pousse rapide sur gélose ordinaire."
+  ]
+ },
+ {
+  "q": "Concernant l'identification biochimique d'H. ducreyi, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle est difficile car le germe ne pousse pas sur les milieux de routine des tests biochimiques",
+   "H. ducreyi ne fermente pas les sucres",
+   "Oxydase +, catalase −, exigence en facteur X",
+   "L'identification repose essentiellement sur l'examen direct et l'aspect des colonies",
+   "La galerie Api NH donne toujours une identification formelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : identification biochimique difficile.",
+   "Vrai : pas de fermentation des sucres.",
+   "Vrai : oxydase +, catalase −, facteur X requis.",
+   "Vrai : diagnostic sur l'examen direct et l'aspect des colonies.",
+   "Faux : l'identification biochimique est difficile en pratique."
+  ]
+ },
+ {
+  "q": "Concernant le traitement du chancre mou, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le traitement minute repose sur la ciprofloxacine, la ceftriaxone ou l'azithromycine",
+   "L'association amoxicilline + acide clavulanique nécessite 7 à 14 jours de traitement",
+   "Le cotrimoxazole nécessite 7 à 14 jours de traitement",
+   "La pénicilline G est le traitement minute de référence",
+   "Aucun traitement n'est efficace"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : traitement minute = ciprofloxacine, ceftriaxone ou azithromycine.",
+   "Vrai : amoxicilline + clavulanate sur 7 à 14 jours.",
+   "Vrai : cotrimoxazole sur 7 à 14 jours.",
+   "Faux : la pénicilline G n'est pas le traitement minute.",
+   "Faux : plusieurs traitements sont efficaces."
+  ]
+ },
+ {
+  "q": "Un patient présente une ulcération génitale douloureuse à enduit purulent avec adénopathie. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le diagnostic de chancre mou à H. ducreyi est à évoquer",
+   "Le grattage du chancre permet l'examen direct (chaînettes en « chaîne de vélo »)",
+   "Le traitement minute par azithromycine est une option",
+   "Les partenaires sexuels doivent être pris en charge",
+   "L'ulcération indolore indurée est typique du chancre mou"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ulcération douloureuse + adénopathie = chancre mou.",
+   "Vrai : grattage et examen direct.",
+   "Vrai : azithromycine en traitement minute.",
+   "Vrai : prise en charge des partenaires (IST).",
+   "Faux : l'ulcération du chancre mou est douloureuse, non indolore indurée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles distinguent H. ducreyi d'H. influenzae ?",
+  "options": [
+   "H. ducreyi est responsable du chancre mou, H. influenzae d'infections respiratoires et invasives",
+   "H. ducreyi exige uniquement le facteur X (hémine)",
+   "H. ducreyi ne fermente pas les sucres",
+   "Les deux appartiennent au genre Haemophilus (famille Pasteurellaceae)",
+   "H. ducreyi est un diplocoque à Gram négatif en grains de café"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : chancre mou vs infections respiratoires/invasives.",
+   "Vrai : H. ducreyi exige l'hémine (facteur X).",
+   "Vrai : pas de fermentation des sucres.",
+   "Vrai : même genre et même famille.",
+   "Faux : H. ducreyi est un petit bacille, pas un diplocoque en grains de café."
+  ]
+ },
+ {
+  "q": "Concernant Bordetella pertussis, agent de la coqueluche, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est un petit coccobacille à Gram négatif",
+   "C'est une bactérie aérobie stricte, immobile et capsulée",
+   "C'est une bactérie exigeante",
+   "C'est un bacille à Gram positif sporulé",
+   "C'est un mycoplasme sans paroi"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : petit coccobacille à Gram négatif.",
+   "Vrai : aérobie strict, immobile, capsulé.",
+   "Vrai : germe exigeant.",
+   "Faux : ni Gram positif ni sporulé.",
+   "Faux : ce n'est pas un mycoplasme."
+  ]
+ },
+ {
+  "q": "Concernant la culture de Bordetella pertussis, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle se fait sur milieu de Bordet-Gengou (gélose au sang)",
+   "Les colonies ont un aspect en « goutte de mercure »",
+   "C'est une culture difficile et lente",
+   "La PCR est devenue la méthode de référence du diagnostic",
+   "La bactérie pousse facilement sur gélose ordinaire en 24 h"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : milieu de Bordet-Gengou.",
+   "Vrai : colonies en « goutte de mercure ».",
+   "Vrai : culture difficile et lente.",
+   "Vrai : la PCR est la méthode de référence.",
+   "Faux : germe exigeant, pas de pousse facile sur gélose ordinaire."
+  ]
+ },
+ {
+  "q": "Parmi les facteurs de virulence de Bordetella pertussis, lesquels sont exacts ?",
+  "options": [
+   "La toxine pertussique (ADP-ribosylation)",
+   "L'adénylate cyclase",
+   "La cytotoxine trachéale",
+   "L'hémagglutinine filamenteuse et la pertactine (adhésines)",
+   "La toxine diphtérique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la toxine pertussique est le facteur majeur.",
+   "Vrai : l'adénylate cyclase est une toxine.",
+   "Vrai : la cytotoxine trachéale détruit l'épithélium cilié.",
+   "Vrai : hémagglutinine filamenteuse et pertactine = adhésines.",
+   "Faux : la toxine diphtérique est produite par Corynebacterium diphtheriae."
+  ]
+ },
+ {
+  "q": "Concernant la toxine pertussique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une toxine de type AB à activité ADP-ribosyltransférase",
+   "Elle est responsable de l'hyperleucocytose à lymphocytes",
+   "Elle perturbe la signalisation cellulaire",
+   "C'est une endotoxine de type lipo-oligosaccharide",
+   "Elle est la cible des anticorps vaccinaux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : toxine AB, ADP-ribosylation.",
+   "Vrai : elle provoque une lymphocytose sanguine.",
+   "Vrai : elle perturbe la signalisation cellulaire.",
+   "Faux : ce n'est pas une endotoxine LOS.",
+   "Vrai : les vaccins acellulaires contiennent la toxine pertussique détoxifiée."
+  ]
+ },
+ {
+  "q": "Cliniquement, la coqueluche typique de l'enfant se traduit par lesquels des éléments suivants ?",
+  "options": [
+   "Une phase catarrhale initiale",
+   "Une toux quinteuse avec reprise inspiratoire bruyante (« chant du coq »)",
+   "Des vomissements post-quinteux",
+   "Une hyperleucocytose à prédominance lymphocytaire",
+   "Une éruption purpurique fulminante"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la phase catarrhale précède les quintes.",
+   "Vrai : quintes avec reprise inspiratoire (« chant du coq »).",
+   "Vrai : vomissements après les quintes.",
+   "Vrai : hyperleucocytose lymphocytaire.",
+   "Faux : le purpura fulminans est méningococcique."
+  ]
+ },
+ {
+  "q": "Concernant la coqueluche du nourrisson, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les formes du nourrisson de moins de 6 mois peuvent être malignes",
+   "Des apnées et des bradycardies peuvent survenir",
+   "La toux quinteuse typique peut être absente",
+   "C'est toujours une forme bénigne",
+   "L'hospitalisation est souvent nécessaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : formes malignes chez le nourrisson < 6 mois.",
+   "Vrai : apnées et bradycardies possibles.",
+   "Vrai : la quinte typique peut manquer chez le nourrisson.",
+   "Faux : ce sont des formes graves.",
+   "Vrai : l'hospitalisation est souvent nécessaire."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic biologique de la coqueluche, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La PCR nasopharyngée est la méthode de référence",
+   "La culture sur milieu de Bordet-Gengou est possible mais difficile",
+   "La sérologie est utile à distance (formes tardives)",
+   "L'hyperleucocytose lymphocytaire est un argument d'orientation",
+   "Le Gram du LCR est l'examen de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la PCR est la méthode de référence.",
+   "Vrai : la culture est possible mais difficile.",
+   "Vrai : la sérologie aide dans les formes tardives.",
+   "Vrai : la lymphocytose oriente le diagnostic.",
+   "Faux : le LCR n'a pas de place dans la coqueluche."
+  ]
+ },
+ {
+  "q": "Concernant le traitement antibiotique de la coqueluche, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les macrolides (azithromycine) sont le traitement de référence",
+   "L'antibiotique est surtout efficace en phase catarrhale, avant les quintes",
+   "En phase quinteuse, les toxines sont déjà libérées et l'antibiotique n'agit plus sur les symptômes",
+   "Le traitement vise aussi à réduire la contagiosité",
+   "Les C3G sont le traitement de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les macrolides (azithromycine) sont la référence.",
+   "Vrai : efficacité maximale en phase catarrhale.",
+   "Vrai : en phase quinteuse, les toxines déjà fixées rendent l'antibiotique peu symptomatique.",
+   "Vrai : l'antibiotique réduit la contagiosité.",
+   "Faux : ce sont les macrolides, pas les C3G."
+  ]
+ },
+ {
+  "q": "Concernant la prévention de la coqueluche, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La vaccination anticoquelucheuse (vaccin acellulaire) fait partie du calendrier vaccinal",
+   "La coqueluche est une maladie à déclaration obligatoire",
+   "Une chimioprophylaxie par macrolide est indiquée pour l'entourage proche",
+   "L'éviction scolaire est recommandée en phase contagieuse",
+   "Aucune prévention n'existe"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la vaccination anticoquelucheuse est au calendrier vaccinal.",
+   "Vrai : maladie à déclaration obligatoire.",
+   "Vrai : chimioprophylaxie macrolide de l'entourage.",
+   "Vrai : éviction en phase contagieuse.",
+   "Faux : vaccin et chimioprophylaxie existent."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la transmission de la coqueluche, lesquelles sont exactes ?",
+  "options": [
+   "Transmission interhumaine directe par voie aérienne",
+   "La contagiosité est maximale en phase catarrhale",
+   "Le réservoir est strictement humain",
+   "Transmission par l'eau contaminée",
+   "Transmission vectorielle"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : transmission aérienne interhumaine directe.",
+   "Vrai : contagiosité maximale en phase catarrhale.",
+   "Vrai : réservoir strictement humain.",
+   "Faux : pas de transmission hydrique.",
+   "Faux : pas de transmission vectorielle."
+  ]
+ },
+ {
+  "q": "Concernant le vaccin anticoquelucheux, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le vaccin actuel est acellulaire (anatoxine pertussique, hémagglutinine filamenteuse, pertactine)",
+   "Il fait partie des vaccins du nourrisson (avant 6 mois)",
+   "Des rappels sont prévus dans l'enfance et à l'adolescence",
+   "Il confère une immunité définitive à vie après une seule dose",
+   "La vaccination de l'entourage du nouveau-né (cocooning) est recommandée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : vaccin acellulaire avec les antigènes purifiés.",
+   "Vrai : vaccination du nourrisson.",
+   "Vrai : rappels enfance et adolescence.",
+   "Faux : l'immunité n'est pas définitive, d'où les rappels.",
+   "Vrai : la stratégie du cocooning protège le nouveau-né."
+  ]
+ },
+ {
+  "q": "Un nourrisson de 2 mois présente des quintes de toux avec cyanose. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La coqueluche est le diagnostic à évoquer en premier",
+   "La NFS peut montrer une hyperleucocytose lymphocytaire",
+   "La PCR nasopharyngée confirme le diagnostic",
+   "L'azithromycine est le traitement antibiotique de référence",
+   "Il s'agit d'une urgence sans gravité particulière"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : quintes + cyanose chez le nourrisson = coqueluche.",
+   "Vrai : hyperleucocytose à lymphocytes.",
+   "Vrai : la PCR confirme.",
+   "Vrai : azithromycine en première intention.",
+   "Faux : c'est une forme potentiellement grave (apnées)."
+  ]
+ },
+ {
+  "q": "Concernant les diagnostics différentiels de la coqueluche, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les infections virales respiratoires (VRS, adénovirus)",
+   "Bordetella parapertussis (formes atténuées)",
+   "Mycoplasma pneumoniae",
+   "Le reflux gastro-œsophagien chez le nourrisson",
+   "La méningite à méningocoque"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les viroses respiratoires peuvent mimer une toux quinteuse.",
+   "Vrai : B. parapertussis donne des formes atténuées.",
+   "Vrai : Mycoplasma pneumoniae donne des toux prolongées.",
+   "Vrai : le RGO peut provoquer des quintes chez le nourrisson.",
+   "Faux : la méningite ne se traduit pas par une toux quinteuse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur Bordetella pertussis, lesquelles sont exactes ?",
+  "options": [
+   "C'est un germe exigeant à culture difficile",
+   "La toxine pertussique est son principal facteur de virulence",
+   "L'infection est strictement humaine à transmission aérienne",
+   "La maladie est à déclaration obligatoire",
+   "Le traitement de référence est la pénicilline G"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : germe exigeant, culture difficile.",
+   "Vrai : la toxine pertussique est le facteur majeur.",
+   "Vrai : réservoir humain, transmission aérienne.",
+   "Vrai : maladie à déclaration obligatoire.",
+   "Faux : ce sont les macrolides, pas la pénicilline G."
+  ]
+ },
+ {
+  "q": "Concernant la phase catarrhale de la coqueluche, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est la phase la plus contagieuse",
+   "Le tableau est celui d'une rhinopharyngite banale",
+   "C'est la phase où l'antibiotique est le plus efficace",
+   "Elle précède la phase quinteuse",
+   "Les quintes typiques sont déjà présentes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : contagiosité maximale en phase catarrhale.",
+   "Vrai : tableau de rhinopharyngite banale.",
+   "Vrai : l'antibiotique est efficace avant la fixation des toxines.",
+   "Vrai : elle précède les quintes.",
+   "Faux : les quintes définissent la phase suivante."
+  ]
+ },
+ {
+  "q": "Un cas de coqueluche est confirmé en collectivité d'enfants. Lesquelles de ces mesures sont exactes ?",
+  "options": [
+   "Chimioprophylaxie par macrolide de l'entourage proche",
+   "Vérification du statut vaccinal des contacts",
+   "Déclaration obligatoire de la maladie",
+   "Éviction des cas en phase contagieuse",
+   "Vaccination par le BCG des contacts"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : chimioprophylaxie macrolide de l'entourage.",
+   "Vrai : vérifier et mettre à jour la vaccination.",
+   "Vrai : maladie à déclaration obligatoire.",
+   "Vrai : éviction en phase contagieuse.",
+   "Faux : le BCG est le vaccin antituberculeux, sans rapport."
+  ]
+ },
+ {
+  "q": "Concernant l'immunité après coqueluche, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'infection naturelle ne confère pas une immunité définitive",
+   "La vaccination ne confère pas une immunité définitive, d'où les rappels",
+   "Les anticorps dirigés contre la toxine pertussique sont protecteurs",
+   "L'immunité est définitive après une seule infection",
+   "Le nourrisson est protégé durablement par les anticorps maternels"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'immunité post-infectieuse n'est pas définitive.",
+   "Vrai : l'immunité vaccinale décline, d'où les rappels.",
+   "Vrai : les anticorps anti-toxine pertussique sont protecteurs.",
+   "Faux : pas d'immunité définitive après une infection.",
+   "Faux : la protection maternelle est transitoire et insuffisante."
+  ]
+ },
+ {
+  "q": "Parmi les examens suivants, lesquels sont utiles devant une suspicion de coqueluche ?",
+  "options": [
+   "La PCR nasopharyngée",
+   "La NFS (hyperleucocytose lymphocytaire)",
+   "La culture sur milieu de Bordet-Gengou",
+   "La sérologie dans les formes tardives",
+   "L'examen cytobactériologique du LCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la PCR est la méthode de référence.",
+   "Vrai : la NFS oriente (lymphocytose).",
+   "Vrai : la culture est possible.",
+   "Vrai : la sérologie aide dans les formes tardives.",
+   "Faux : le LCR n'a pas de place dans la coqueluche."
+  ]
+ },
+ {
+  "q": "Concernant Branhamella catarrhalis (Moraxella catarrhalis), lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ce sont des diplocoques vrais (en 8) à Gram négatif",
+   "Elle est aussi appelée Moraxella catarrhalis (famille Moraxellaceae)",
+   "Son habitat est les fosses nasales de l'homme",
+   "C'est un bacille à Gram positif",
+   "Elle est proche des Neisseria"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : diplocoques vrais en 8, Gram négatif.",
+   "Vrai : aussi appelée Moraxella catarrhalis.",
+   "Vrai : habitat = fosses nasales humaines.",
+   "Faux : c'est un diplocoque à Gram négatif.",
+   "Vrai : elle est plus proche des Neisseria."
+  ]
+ },
+ {
+  "q": "Parmi les infections dues à Branhamella catarrhalis, lesquelles sont exactes ?",
+  "options": [
+   "Sinusites et otites moyennes aiguës",
+   "Infections ou surinfections respiratoires, notamment sur BPCO",
+   "Complications possibles : septicémie, arthrite, méningite, endocardite",
+   "Méningites cérébrospinales épidémiques",
+   "Chancre mou"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sinusites et otites moyennes aiguës.",
+   "Vrai : surinfections respiratoires, surtout sur BPCO.",
+   "Vrai : septicémie, arthrite, méningite, endocardite possibles.",
+   "Faux : les méningites épidémiques sont méningococciques.",
+   "Faux : le chancre mou est dû à H. ducreyi."
+  ]
+ },
+ {
+  "q": "Concernant la sensibilité aux antibiotiques de Branhamella catarrhalis, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "90 % des souches résistent aux pénicillines par production de bêta-lactamase",
+   "Les C3G sont régulièrement actives",
+   "La pénicilline G est le traitement de choix",
+   "L'amoxicilline seule est constamment efficace",
+   "La résistance aux pénicillines est exceptionnelle"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : 90 % de résistance aux pénicillines par bêta-lactamase.",
+   "Vrai : les C3G sont régulièrement actives.",
+   "Faux : la pénicilline G est inefficace (BL+).",
+   "Faux : l'amoxicilline seule est inefficace sur les souches BL+.",
+   "Faux : la résistance est la règle (90 %)."
+  ]
+ },
+ {
+  "q": "Un patient BPCO présente une surinfection bronchique à diplocoques Gram négatif, oxydase +. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Branhamella catarrhalis est un diagnostic à évoquer",
+   "C'est un commensal des fosses nasales pouvant surinfecter les BPCO",
+   "La production de bêta-lactamase (90 %) contre-indique l'amoxicilline seule",
+   "Les C3G sont régulièrement actives",
+   "Le méningocoque est le diagnostic le plus probable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : diplocoques G- oxydase + sur BPCO = B. catarrhalis.",
+   "Vrai : commensal nasal, surinfections respiratoires.",
+   "Vrai : 90 % BL+, amoxicilline seule inefficace.",
+   "Vrai : C3G régulièrement actives.",
+   "Faux : le méningocoque n'est pas un agent de surinfection BPCO."
+  ]
+ },
+ {
+  "q": "Concernant le genre Moraxella, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ce sont des bactéries asaccharolytiques",
+   "Le genre regroupe des cocci à Gram négatif et des coccobacilles à Gram négatif",
+   "Moraxella lacunata, M. nonliquefaciens sont des agents de conjonctivites, sinusites, trachéites, otites",
+   "Ce sont des commensaux des animaux à sang chaud",
+   "Moraxella bovis est l'agent de la méningite cérébrospinale humaine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bactéries asaccharolytiques.",
+   "Vrai : cohabitation de CG- et coccobacilles G-.",
+   "Vrai : M. lacunata, M. nonliquefaciens = conjonctivites, sinusites, trachéites, otites.",
+   "Vrai : commensaux des animaux à sang chaud.",
+   "Faux : M. bovis donne la kératoconjonctivite bovine, pas la méningite humaine."
+  ]
+ },
+ {
+  "q": "Concernant Kingella kingae et Eikenella corrodens, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ce sont des diplocoques à Gram négatif très fastidieux",
+   "Ce sont des commensaux des voies aériennes supérieures",
+   "Elles appartiennent au groupe AACCEK",
+   "Elles sont impliquées dans des endocardites à hémocultures faussement négatives",
+   "Ce sont des bactéries non exigeantes à pousse rapide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : diplocoques G- très fastidieux.",
+   "Vrai : commensaux des VAS.",
+   "Vrai : groupe AACCEK.",
+   "Vrai : endocardites à hémocultures « négatives ».",
+   "Faux : ce sont des germes très fastidieux, exigeants."
+  ]
+ },
+ {
+  "q": "Devant une endocardite à hémocultures négatives, lesquelles de ces propositions concernant le groupe AACCEK sont exactes ?",
+  "options": [
+   "AACCEK désigne des agents d'endocardites à hémocultures « négatives »",
+   "Kingella kingae et Eikenella corrodens en font partie",
+   "Il faut repiquer systématiquement sur milieux riches + vitamines",
+   "Les automates d'hémoculture et la biologie moléculaire aident au diagnostic",
+   "Les hémocultures négatives excluent formellement l'endocardite"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : AACCEK = agents d'endocardites à hémocultures négatives.",
+   "Vrai : Kingella kingae, Eikenella corrodens.",
+   "Vrai : repiquage sur milieux riches + vitamines.",
+   "Vrai : automates et biologie moléculaire utiles.",
+   "Faux : des endocardites à hémocultures négatives existent (germes fastidieux)."
+  ]
+ },
+ {
+  "q": "Concernant les Neisseria commensales du rhinopharynx, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Neisseria flava, N. subflava, N. perflava donnent des colonies pigmentées en jaune",
+   "Ce sont des espèces non exigeantes",
+   "Neisseria lactamica est l'espèce la plus impliquée en pathologie",
+   "Elles peuvent donner des infections respiratoires, génitales voire des méningites",
+   "Elles sont toutes strictement non pathogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : colonies pigmentées en jaune.",
+   "Vrai : espèces non exigeantes.",
+   "Vrai : N. lactamica est la plus impliquée.",
+   "Vrai : infections respiratoires, génitales, méningites possibles.",
+   "Faux : elles peuvent être opportunistes."
+  ]
+ },
+ {
+  "q": "Un laboratoire isole des colonies jaunes pigmentées, diplocoques Gram négatif, oxydase +. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Il s'agit probablement d'une Neisseria commensale (flava, subflava, perflava)",
+   "Les Neisseria pathogènes donnent des colonies grises, non pigmentées",
+   "La galerie Api NH permet l'identification d'espèce",
+   "Neisseria lactamica est un diagnostic différentiel du méningocoque",
+   "Des colonies jaunes signent toujours une contamination sans signification"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : colonies jaunes = Neisseria commensales.",
+   "Vrai : les espèces pathogènes donnent des colonies grises.",
+   "Vrai : Api NH pour l'identification.",
+   "Vrai : N. lactamica = diagnostic différentiel (Api NH).",
+   "Faux : elles peuvent être impliquées en pathologie (N. lactamica)."
+  ]
+ },
+ {
+  "q": "Concernant la galerie Api NH, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une galerie d'identification biochimique pour Neisseria et Haemophilus",
+   "Elle permet de distinguer N. meningitidis (glucose +, maltose +) de N. gonorrhoeae (glucose + seul)",
+   "Elle met en évidence la γGT du méningocoque",
+   "C'est une technique de biologie moléculaire",
+   "Elle permet l'identification des Moraxella"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : galerie Api NH = Neisseria et Haemophilus.",
+   "Vrai : distinction méningocoque/gonocoque par le maltose.",
+   "Vrai : γGT + pour le méningocoque.",
+   "Faux : c'est une galerie biochimique, pas moléculaire.",
+   "Vrai : le diagnostic des Moraxella est idem Neisseria (Api NH)."
+  ]
+ },
+ {
+  "q": "Parmi les milieux suivants, lesquels conviennent à la primoculture des germes exigeants (Neisseria, Haemophilus) ?",
+  "options": [
+   "La gélose au sang cuit (chocolat)",
+   "La gélose au sang cuit additionnée de polyvitamines",
+   "Les milieux sélectifs additionnés d'antibiotiques pour les prélèvements poly-microbiens",
+   "La gélose nutritive ordinaire",
+   "Le milieu de Bordet-Gengou pour Bordetella pertussis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la gélose chocolat est le milieu de référence.",
+   "Vrai : addition de polyvitamines pour les Neisseria.",
+   "Vrai : milieux sélectifs + ATB pour prélèvements poly-microbiens.",
+   "Faux : la gélose ordinaire ne convient pas aux germes exigeants.",
+   "Vrai : Bordet-Gengou pour B. pertussis."
+  ]
+ },
+ {
+  "q": "Concernant les conditions d'incubation des Neisseria pathogènes, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Température de 36 ± 1 °C",
+   "Atmosphère humide",
+   "Atmosphère enrichie en CO2",
+   "Durée de 24 à 48 h",
+   "Incubation à 20 °C à l'air ambiant"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 36 ± 1 °C.",
+   "Vrai : atmosphère humide.",
+   "Vrai : atmosphère enrichie en CO2.",
+   "Vrai : 24 à 48 h.",
+   "Faux : ni la température ni l'atmosphère ne conviennent."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les germes fragiles et exigeants, lesquelles sont exactes ?",
+  "options": [
+   "Le méningocoque et le gonocoque sont des germes fragiles et exigeants",
+   "H. influenzae et H. ducreyi sont des germes fragiles et exigeants",
+   "Le transport des prélèvements au laboratoire doit être rapide",
+   "Il faut éviter l'exposition des prélèvements au froid",
+   "Ces germes survivent longtemps dans l'environnement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : méningocoque et gonocoque fragiles et exigeants.",
+   "Vrai : H. influenzae et H. ducreyi fragiles et exigeants.",
+   "Vrai : transport rapide au laboratoire.",
+   "Vrai : éviter l'exposition au froid.",
+   "Faux : leur fragilité limite leur survie environnementale."
+  ]
+ },
+ {
+  "q": "Concernant les examens directs des DCGN, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La coloration de Gram est obligatoire",
+   "Le bleu de méthylène et le MGG sont intéressants",
+   "L'aspect en « grains de café » est caractéristique",
+   "Les diplocoques peuvent être intra- ou extracellulaires",
+   "Le Gram permet de distinguer le méningocoque du gonocoque"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le Gram est obligatoire.",
+   "Vrai : BM et MGG très intéressants.",
+   "Vrai : aspect en grains de café.",
+   "Vrai : localisation intra- ou extracellulaire.",
+   "Faux : le Gram ne distingue pas les deux espèces (culture/biochimie nécessaire)."
+  ]
+ },
+ {
+  "q": "Un LCR trouble montre au Gram des diplocoques Gram négatif en grains de café. La culture sur gélose chocolat donne des colonies grises, glucose +, maltose +, γGT +. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le diagnostic est une méningite à Neisseria meningitidis",
+   "Le sérogroupage capsulaire par agglutination sur lame est indiqué",
+   "Le traitement repose sur une C3G en urgence",
+   "La chimio-prophylaxie de l'entourage est indiquée",
+   "Le profil biochimique oriente vers le gonocoque"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : DCGN + maltose + = méningocoque.",
+   "Vrai : sérogroupage A, B, C, Y, W135.",
+   "Vrai : C3G en urgence.",
+   "Vrai : chimio-prophylaxie de l'entourage.",
+   "Faux : le gonocoque est maltose −."
+  ]
+ },
+ {
+  "q": "Un écouvillon urétral montre au Gram des DCGN en grains de café, glucose +, maltose −. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le diagnostic est une gonococcie",
+   "Le profil glucose + / maltose − distingue le gonocoque du méningocoque",
+   "La recherche de Chlamydia trachomatis est souvent associée",
+   "Le traitement OMS repose sur les C3G",
+   "Le sérogroupage capsulaire A, B, C, Y, W135 est indiqué"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : DCGN + glucose +/maltose − = gonocoque.",
+   "Vrai : le méningocoque est maltose +.",
+   "Vrai : recherche associée de Chlamydia.",
+   "Vrai : C3G en première ligne OMS.",
+   "Faux : le sérogroupage concerne le méningocoque."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes solubles dans les méningites bactériennes, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'agglutination au latex est la technique la plus utilisée",
+   "Elle détecte les polysaccharides capsulaires (méningocoque, Hib)",
+   "Elle est utile dans les méningites décapitées par l'antibiothérapie",
+   "Elle permet le sérogroupage",
+   "Elle nécessite toujours une culture positive préalable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'agglutination au latex est la plus utilisée.",
+   "Vrai : détection des Ag capsulaires (méningocoque, Hib).",
+   "Vrai : indiquée si méningite décapitée.",
+   "Vrai : elle permet le sérogroupage.",
+   "Faux : elle est justement utile quand la culture est négative."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles concernent Haemophilus parainfluenzae et les espèces apparentées ?",
+  "options": [
+   "Le genre Haemophilus comporte une vingtaine d'espèces",
+   "Quelques espèces seulement sont pathogènes pour l'homme",
+   "H. influenzae est responsable de la majeure partie des infections humaines du genre",
+   "Toutes les espèces exigent l'hémine et/ou le NAD pour leur culture",
+   "H. ducreyi est l'espèce la plus fréquente en pathologie respiratoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : une vingtaine d'espèces.",
+   "Vrai : quelques-unes pathogènes.",
+   "Vrai : H. influenzae = majeure partie des infections.",
+   "Vrai : exigence en hémine et/ou NAD caractéristique du genre.",
+   "Faux : H. ducreyi est l'agent du chancre mou, pas des infections respiratoires."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination dans les infections à germes exigeants, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Vaccin Hib (PRP) : avant 6 mois + rappel à 18 mois, obligatoire au Maroc",
+   "Vaccins antiméningococciques polysaccharidiques : mono, bi et tétravalents",
+   "Vaccin anticoquelucheux acellulaire au calendrier vaccinal",
+   "Il existe un vaccin efficace contre le gonocoque",
+   "Les vaccins antiméningococciques sont peu immunogènes avant 2 ans"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : vaccin Hib, schéma et obligation au Maroc.",
+   "Vrai : vaccins méningococciques mono/bi/tétravalents.",
+   "Vrai : vaccin anticoquelucheux acellulaire.",
+   "Faux : pas de vaccin contre le gonocoque.",
+   "Vrai : peu immunogènes avant 2 ans."
+  ]
+ },
+ {
+  "q": "Un enfant non vacciné présente une méningite purulente à coccobacilles Gram négatif. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "H. influenzae de type b est à évoquer en premier",
+   "La culture sur gélose chocolat et la recherche d'antigènes solubles confirment",
+   "Le traitement fait appel à une C3G ou à l'amoxicilline + acide clavulanique",
+   "La vaccination Hib aurait pu prévenir cette infection",
+   "Le tableau évoque d'emblée le méningocoque"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : coccobacilles G- chez l'enfant non vacciné = Hib.",
+   "Vrai : gélose chocolat et antigènes solubles.",
+   "Vrai : C3G ou amoxicilline + clavulanate.",
+   "Vrai : la vaccination Hib est préventive.",
+   "Faux : le méningocoque donne des diplocoques, pas des coccobacilles."
+  ]
+ },
+ {
+  "q": "Concernant les déclarations obligatoires parmi ces infections, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'infection méningococcique invasive est à déclaration obligatoire (MADO)",
+   "La coqueluche est à déclaration obligatoire",
+   "La surveillance épidémiologique permet de détecter les épidémies",
+   "La gonococcie est à déclaration obligatoire au même titre que la méningococcie",
+   "Le chancre mou est une MADO"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : infection méningococcique = MADO.",
+   "Vrai : coqueluche = maladie à déclaration obligatoire.",
+   "Vrai : la surveillance détecte les épidémies.",
+   "Faux : la gonococcie n'est pas décrite comme MADO dans le cours.",
+   "Faux : le chancre mou n'est pas une MADO."
+  ]
+ },
+ {
+  "q": "Parmi les antibiotiques suivants, lesquels sont actifs sur H. influenzae selon le cours ?",
+  "options": [
+   "L'association amoxicilline + acide clavulanique",
+   "Les céphalosporines de 2e et 3e génération",
+   "Les fluoroquinolones",
+   "Le triméthoprime et les tétracyclines",
+   "La spiramycine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : amoxicilline + clavulanate en première intention.",
+   "Vrai : C2G/C3G selon la localisation.",
+   "Vrai : les FQ sont habituellement actives.",
+   "Vrai : triméthoprime et tétracyclines actifs.",
+   "Faux : résistance naturelle à la spiramycine (macrolide à 16 atomes)."
+  ]
+ },
+ {
+  "q": "Concernant les IgA protéases bactériennes, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Neisseria meningitidis produit une IgA protéase",
+   "Neisseria gonorrhoeae produit une IgA protéase",
+   "Haemophilus influenzae produit une IgA protéase",
+   "Elles dégradent les IgA sécrétoires et favorisent l'échappement à l'immunité locale",
+   "Elles sont des endotoxines responsables du choc septique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le méningocoque possède une IgA protéase.",
+   "Vrai : le gonocoque possède une IgA protéase.",
+   "Vrai : H. influenzae possède une IgA protéase.",
+   "Vrai : dégradation des IgA S, échappement à l'immunité muqueuse.",
+   "Faux : l'endotoxine est le LOS, pas l'IgA protéase."
+  ]
+ },
+ {
+  "q": "Un patient présente une conjonctivite purulente à coccobacilles Gram négatif. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Moraxella (M. lacunata) est un agent de conjonctivite",
+   "H. influenzae peut donner des conjonctivites",
+   "Le gonocoque peut donner une ophtalmie purulente chez le nouveau-né",
+   "La culture sur milieux enrichis aide au diagnostic",
+   "Le diagnostic est toujours clinique sans bactériologie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Moraxella = conjonctivites.",
+   "Vrai : H. influenzae = conjonctivites.",
+   "Vrai : ophtalmie purulente gonococcique du nouveau-né.",
+   "Vrai : milieux enrichis pour ces germes exigeants.",
+   "Faux : la bactériologie (examen direct, culture) est utile."
+  ]
+ },
+ {
+  "q": "Concernant les caractères communs aux Neisseria et aux Haemophilus, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ce sont des germes exigeants (milieux enrichis, facteurs de croissance)",
+   "La galerie Api NH sert à l'identification des deux genres",
+   "Les deux genres possèdent des espèces à IgA protéase",
+   "Les deux genres sont des bacilles à Gram positif",
+   "Les deux genres comprennent des espèces strictement humaines pathogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : germes exigeants tous deux.",
+   "Vrai : Api NH = Neisseria et Haemophilus.",
+   "Vrai : IgA protéase chez méningocoque, gonocoque et H. influenzae.",
+   "Faux : ce sont des Gram négatif (cocci et coccobacilles).",
+   "Vrai : espèces pathogènes strictement humaines."
+  ]
+ },
+ {
+  "q": "Concernant le traitement minute du chancre mou, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La ciprofloxacine en dose unique est une option",
+   "La ceftriaxone en dose unique est une option",
+   "L'azithromycine en dose unique est une option",
+   "Un traitement de 7 à 14 jours est nécessaire avec l'amoxicilline + acide clavulanique",
+   "La pénicilline G en dose unique est le traitement minute de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ciprofloxacine en traitement minute.",
+   "Vrai : ceftriaxone en traitement minute.",
+   "Vrai : azithromycine en traitement minute.",
+   "Vrai : 7 à 14 jours avec amoxicilline + clavulanate.",
+   "Faux : la pénicilline G n'est pas le traitement minute."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les sérotypes d'H. influenzae, lesquelles sont exactes ?",
+  "options": [
+   "Il existe 6 sérotypes capsulaires, de a à f",
+   "Le sérotype b est le plus important et le plus virulent",
+   "Le PRP est le polysaccharide capsulaire du type b",
+   "Le vaccin Hib cible le sérotype b",
+   "Le sérotype b est le moins fréquent des sérotypes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 6 sérotypes a, b, c, d, e, f.",
+   "Vrai : le type b est le plus important.",
+   "Vrai : PRP = polyribosyl-ribitol phosphate.",
+   "Vrai : le vaccin cible Hib.",
+   "Faux : le type b est le plus fréquent et le plus important."
+  ]
+ },
+ {
+  "q": "Concernant la place de la PCR dans ces infections, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La PCR détecte le génome du méningocoque (diagnostic direct)",
+   "La PCR et les sondes d'hybridation sont développées pour le gonocoque",
+   "La PCR nasopharyngée est la méthode de référence pour la coqueluche",
+   "La PCR remplace la culture pour le sérogroupage capsulaire du méningocoque",
+   "La PCR est inutile dans les infections à germes exigeants"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : mise en évidence des acides nucléiques du méningocoque.",
+   "Vrai : PCR et sondes pour le gonocoque.",
+   "Vrai : PCR = référence pour la coqueluche.",
+   "Faux : le sérogroupage se fait par agglutination sur lame après culture.",
+   "Faux : la PCR est utile dans ces infections."
+  ]
+ },
+ {
+  "q": "Un adolescent présente une toux quinteuse depuis 3 semaines avec reprise inspiratoire. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La coqueluche est le diagnostic à évoquer",
+   "La PCR nasopharyngée est l'examen de confirmation",
+   "L'azithromycine reste indiquée pour réduire la contagiosité",
+   "La sérologie peut aider à ce stade tardif",
+   "Une C3G est le traitement de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : toux quinteuse + reprise inspiratoire = coqueluche.",
+   "Vrai : la PCR confirme.",
+   "Vrai : macrolide pour réduire la contagiosité.",
+   "Vrai : la sérologie est utile dans les formes tardives.",
+   "Faux : ce sont les macrolides, pas les C3G."
+  ]
+ },
+ {
+  "q": "Concernant les otites moyennes aiguës de l'enfant, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "H. influenzae (souches non capsulées) est un agent fréquent",
+   "Branhamella catarrhalis peut être en cause",
+   "Moraxella peut donner des otites",
+   "Le méningocoque est l'agent principal des OMA",
+   "Le pneumocoque est aussi un agent classique d'OMA"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : H. influenzae non capsulé = OMA.",
+   "Vrai : B. catarrhalis = OMA.",
+   "Vrai : Moraxella = otites.",
+   "Faux : le méningocoque n'est pas un agent d'OMA.",
+   "Vrai : le pneumocoque est un agent classique d'OMA."
+  ]
+ },
+ {
+  "q": "Parmi les mesures suivantes, lesquelles s'appliquent à l'entourage d'un cas de méningite à méningocoque ?",
+  "options": [
+   "Chimio-prophylaxie par ceftriaxone 250 mg IM en une injection",
+   "Chimio-prophylaxie par ciprofloxacine 500 mg en un comprimé",
+   "Information de la famille, des soignants et des camarades proches",
+   "Vaccination en cas d'épidémie",
+   "Aucune mesure, la maladie n'étant pas contagieuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ceftriaxone 250 mg IM unique.",
+   "Vrai : ciprofloxacine 500 mg unique.",
+   "Vrai : entourage très proche concerné.",
+   "Vrai : vaccination en contexte épidémique.",
+   "Faux : la maladie est contagieuse, les mesures sont obligatoires."
+  ]
+ },
+ {
+  "q": "Concernant les résistances croisées et les phénotypes BLNAR/BL+, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le phénotype BLNAR du gonocoque est lié à une modification des PLP",
+   "Le phénotype BL+ du gonocoque est lié à une pénicillinase plasmidique",
+   "H. influenzae peut produire des bêta-lactamases TEM1 plasmidiques",
+   "Le test à la céfinase détecte la bêta-lactamase du gonocoque",
+   "Le méningocoque ne présente jamais de résistance aux bêta-lactamines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : BLNAR = modification des PLP.",
+   "Vrai : BL+ = pénicillinase plasmidique.",
+   "Vrai : H. influenzae = BL TEM1 plasmidiques.",
+   "Vrai : test à la céfinase pour le gonocoque BL+.",
+   "Faux : le méningocoque peut avoir une sensibilité diminuée ou être BL+."
+  ]
+ },
+ {
+  "q": "Une femme présente une infection génitale à H. ducreyi. Lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le chancre mou est une IST à déclaration non obligatoire",
+   "Le diagnostic peut être difficile chez la femme (formes inapparentes)",
+   "Le traitement minute par ciprofloxacine, ceftriaxone ou azithromycine est possible",
+   "Le partenaire doit être pris en charge",
+   "L'ulcération est typiquement indolore et indurée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le chancre mou est une IST.",
+   "Vrai : diagnostic difficile chez la femme.",
+   "Vrai : traitement minute possible.",
+   "Vrai : prise en charge du partenaire.",
+   "Faux : l'ulcération du chancre mou est douloureuse, non indurée."
+  ]
+ },
+ {
+  "q": "Concernant les milieux enrichis en sang, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La gélose au sang cuit (chocolat) libère l'hémine et le NAD nécessaires à H. influenzae",
+   "La gélose au sang cuit additionnée de polyvitamines convient aux Neisseria",
+   "La gélose au sang frais apporte l'hémine pour le satellitisme",
+   "Le milieu de Bordet-Gengou est une gélose au sang pour B. pertussis",
+   "La gélose au sang cuit ne contient aucun facteur de croissance"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le sang cuit libère hémine (X) et NAD (V).",
+   "Vrai : sang cuit + polyvitamines pour les Neisseria.",
+   "Vrai : le sang frais apporte l'hémine (satellitisme).",
+   "Vrai : Bordet-Gengou = gélose au sang pour B. pertussis.",
+   "Faux : elle est riche en facteurs de croissance."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes, lesquelles résument correctement les germes exigeants de ce chapitre ?",
+  "options": [
+   "Neisseria meningitidis : DCGN, méningites et purpura fulminans, vaccin polysaccharidique",
+   "Neisseria gonorrhoeae : DCGN, IST, traitement OMS par C3G, pas de vaccin",
+   "Haemophilus influenzae : coccobacille G-, facteurs X et V, vaccin Hib",
+   "Bordetella pertussis : coccobacille G-, coqueluche, macrolides, vaccin acellulaire",
+   "Tous ces germes sont des bacilles à Gram positif non exigeants"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : résumé correct du méningocoque.",
+   "Vrai : résumé correct du gonocoque.",
+   "Vrai : résumé correct d'H. influenzae.",
+   "Vrai : résumé correct de B. pertussis.",
+   "Faux : ce sont des Gram négatif exigeants."
+  ]
+ }
+]

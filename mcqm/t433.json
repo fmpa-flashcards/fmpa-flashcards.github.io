@@ -1,0 +1,4382 @@
+[
+ {
+  "q": "Concernant la définition d'un antibiotique, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "C'est une substance d'origine naturelle, hémi-synthétique ou synthétique",
+   "Il agit à très faible concentration sur les bactéries",
+   "Il présente une toxicité sélective vis-à-vis de l'hôte",
+   "Il doit obligatoirement être d'origine strictement naturelle",
+   "Il possède une cible d'action très spécifique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "L'antibiotique peut être naturel, hémi-synthétique ou synthétique.",
+   "Les antibiotiques agissent à très faibles doses.",
+   "La toxicité sélective (tuer la bactérie sans nuire à l'hôte) définit l'antibiotique.",
+   "Faux : la définition inclut aussi les substances hémi-synthétiques et synthétiques.",
+   "L'action est très spécifique car dirigée contre une cible bactérienne précise."
+  ]
+ },
+ {
+  "q": "À propos des effets d'un antibiotique sur une bactérie, quelles affirmations sont vraies ?",
+  "options": [
+   "L'effet bactériostatique correspond à l'inhibition de la croissance bactérienne",
+   "L'effet bactéricide correspond à la destruction de la bactérie",
+   "L'effet nul traduit une résistance de la bactérie vis-à-vis de l'antibiotique",
+   "L'effet bactériostatique signifie que l'antibiotique tue la bactérie",
+   "Un antibiotique bactéricide inhibe seulement la multiplication sans détruire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le bactériostatique inhibe la croissance bactérienne.",
+   "Le bactéricide détruit la bactérie.",
+   "Un effet nul signifie que la bactérie est résistante à l'antibiotique.",
+   "Faux : tuer la bactérie définit l'effet bactéricide, pas bactériostatique.",
+   "Faux : le bactéricide détruit la bactérie, il ne se limite pas à inhiber."
+  ]
+ },
+ {
+  "q": "Pour qu'un antibiotique soit actif, trois conditions doivent être réunies. Lesquelles ?",
+  "options": [
+   "Posséder une cible bactérienne spécifique",
+   "Accéder à cette cible sous forme active",
+   "Interagir efficacement avec la cible en l'inactivant",
+   "Être obligatoirement administré par voie injectable",
+   "Agir uniquement sur des bactéries en phase stationnaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'antibiotique doit disposer d'une cible bactérienne spécifique.",
+   "Il doit atteindre sa cible sous forme active.",
+   "Il doit interagir efficacement avec la cible et l'inactiver.",
+   "Faux : la voie d'administration n'est pas une condition d'action.",
+   "Faux : la plupart des antibiotiques agissent sur des bactéries en multiplication."
+  ]
+ },
+ {
+  "q": "Si l'une des trois conditions d'action d'un antibiotique n'est pas remplie, quelles conclusions peut-on en tirer ?",
+  "options": [
+   "La bactérie est résistante à l'antibiotique",
+   "Aucune des conditions restantes ne peut compenser celle qui manque",
+   "L'antibiotique devient automatiquement toxique pour l'hôte",
+   "La bactérie est sensible mais à dose plus élevée",
+   "L'antibiotique change de spectre d'activité"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "D'après le cours, si une condition n'est pas remplie, la bactérie est résistante.",
+   "Les trois conditions sont toutes nécessaires ; il n'y a pas de compensation.",
+   "Faux : la toxicité pour l'hôte n'est pas liée aux conditions d'action.",
+   "Faux : le non-respect d'une condition définit la résistance, pas une sensibilité dose-dépendante.",
+   "Faux : le spectre n'est pas modifié par le non-respect des conditions."
+  ]
+ },
+ {
+  "q": "Quels sont les deux grands lieux d'action des antibiotiques ?",
+  "options": [
+   "La paroi bactérienne",
+   "Le cytoplasme bactérien",
+   "Le noyau de la cellule eucaryote",
+   "La membrane mitochondriale",
+   "La capsule uniquement"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La paroi est l'un des deux grands lieux d'action.",
+   "Le cytoplasme est l'autre grand lieu d'action.",
+   "Faux : les antibiotiques n'agissent pas sur le noyau eucaryote.",
+   "Faux : les bactéries ne possèdent pas de mitochondries.",
+   "Faux : la capsule n'est pas un lieu d'action des antibiotiques."
+  ]
+ },
+ {
+  "q": "Parmi les cibles suivantes, lesquelles correspondent aux cinq modes d'action des antibiotiques décrits dans le cours ?",
+  "options": [
+   "La synthèse du peptidoglycane de la paroi",
+   "Les enveloppes membranaires",
+   "La synthèse des protéines",
+   "La synthèse des acides nucléiques",
+   "La synthèse de la capsule polysaccharidique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "La synthèse du peptidoglycane est une cible majeure.",
+   "L'altération des enveloppes membranaires est un mode d'action.",
+   "La synthèse protéique (ribosomes) est une cible classique.",
+   "La synthèse des acides nucléiques est visée par plusieurs familles.",
+   "Faux : la capsule n'est pas l'une des cinq cibles décrites ; le 5e mode est le métabolisme intermédiaire."
+  ]
+ },
+ {
+  "q": "Concernant le spectre d'activité d'un antibiotique, quelles propositions sont exactes ?",
+  "options": [
+   "Il est défini par la liste des espèces sur lesquelles l'antibiotique est susceptible d'être actif",
+   "Un spectre large signifie une action théorique sur la majorité des espèces pathogènes à Gram + et à Gram -",
+   "Un spectre étroit correspond à une action plus limitée",
+   "Le spectre large garantit l'efficacité clinique dans toutes les infections",
+   "Le spectre est identique pour tous les antibiotiques d'une même famille sans exception"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le spectre est défini par la liste des espèces sensibles.",
+   "Le spectre large couvre théoriquement Gram + et Gram -.",
+   "Le spectre étroit ou très étroit a une action plus limitée.",
+   "Faux : le spectre donne une probabilité de succès, pas une garantie.",
+   "Faux : au sein d'une famille, le spectre varie selon les groupes et sous-groupes."
+  ]
+ },
+ {
+  "q": "Le spectre d'activité d'un antibiotique intègre trois types de données. Lesquelles ?",
+  "options": [
+   "L'activité in vitro déterminée au laboratoire sur des isolats cliniques récents",
+   "La présence d'éventuels mécanismes de résistance acquise",
+   "Les données pharmacocinétiques et pharmacodynamiques",
+   "La couleur des colonies bactériennes sur gélose",
+   "Le prix de l'antibiotique sur le marché"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'activité in vitro sur isolats cliniques récents est intégrée.",
+   "Les mécanismes de résistance acquise modifient le spectre.",
+   "Les données PK/PD conditionnent l'activité réelle.",
+   "Faux : la couleur des colonies n'intervient pas dans le spectre.",
+   "Faux : le prix n'a aucun rapport avec le spectre d'activité."
+  ]
+ },
+ {
+  "q": "À propos du spectre d'activité, quelles affirmations sont vraies ?",
+  "options": [
+   "Il figure dans les mentions légales du Résumé des Caractéristiques du Produit (AMM)",
+   "Il situe la probabilité globale de succès d'un traitement selon les bactéries impliquées",
+   "Il fait l'objet d'une réactualisation régulière en raison des variations épidémiologiques des résistances",
+   "Il est fixé une fois pour toutes lors de la mise sur le marché",
+   "Il ne tient compte que des données cliniques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le spectre figure dans le RCP/AMM (VIDAL).",
+   "Il situe la probabilité globale de succès du traitement.",
+   "Il est réactualisé régulièrement face à l'évolution des résistances.",
+   "Faux : il est réactualisé régulièrement, pas fixé définitivement.",
+   "Faux : il intègre aussi l'activité in vitro, les résistances et les données PK/PD."
+  ]
+ },
+ {
+  "q": "Concernant les principes de classification des antibiotiques, quelles propositions sont exactes ?",
+  "options": [
+   "Les antibiotiques d'une même famille partagent une même structure chimique de base",
+   "Cette structure commune leur confère un même mécanisme d'action antibactérienne",
+   "La classification peut aussi tenir compte de l'origine et du spectre",
+   "Chaque antibiotique constitue à lui seul une famille",
+   "Le mode d'action n'intervient jamais dans la classification"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Une famille partage la même structure chimique de base.",
+   "Cette structure commune confère le même mécanisme d'action.",
+   "L'origine, le mode d'action et le spectre sont des critères de classification.",
+   "Faux : une famille regroupe plusieurs antibiotiques apparentés.",
+   "Faux : le mode d'action est l'un des principes de classification."
+  ]
+ },
+ {
+  "q": "Une famille d'antibiotiques peut être subdivisée en groupes et sous-groupes. Sur quels critères ?",
+  "options": [
+   "En fonction de leur spectre d'activité",
+   "Pour les différencier par leurs propriétés pharmacologiques",
+   "En fonction de la couleur des comprimés",
+   "Selon l'année de découverte uniquement",
+   "Selon le laboratoire fabricant"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les groupes se distinguent par leur spectre d'activité.",
+   "Les propriétés pharmacologiques différencient groupes et sous-groupes.",
+   "Faux : la présentation galénique n'est pas un critère.",
+   "Faux : l'année de découverte n'est pas un critère de subdivision.",
+   "Faux : le fabricant n'intervient pas dans la classification."
+  ]
+ },
+ {
+  "q": "Parmi les familles d'antibiotiques suivantes, lesquelles agissent sur la synthèse du peptidoglycane ?",
+  "options": [
+   "Les bêtalactamines",
+   "Les glycopeptides",
+   "La fosfomycine",
+   "Les aminosides",
+   "Les quinolones"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les bêtalactamines inhibent la synthèse du peptidoglycane.",
+   "Les glycopeptides bloquent l'élongation du peptidoglycane.",
+   "La fosfomycine inhibe la phase cytoplasmique de synthèse du peptidoglycane.",
+   "Faux : les aminosides agissent sur la synthèse des protéines (30S).",
+   "Faux : les quinolones agissent sur la synthèse des acides nucléiques."
+  ]
+ },
+ {
+  "q": "Quelles familles d'antibiotiques agissent sur la synthèse des protéines ?",
+  "options": [
+   "Les aminosides",
+   "Les macrolides-lincosamides-streptogramines-kétolides (MLSK)",
+   "Les tétracyclines",
+   "Le chloramphénicol (phénicolés)",
+   "Les sulfamides"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les aminosides se fixent sur la sous-unité 30S du ribosome.",
+   "Les MLSK se lient à la sous-unité 50S.",
+   "Les tétracyclines se fixent sur la sous-unité 30S.",
+   "Le chloramphénicol se fixe sur la sous-unité 50S.",
+   "Faux : les sulfamides agissent sur le métabolisme intermédiaire (folates)."
+  ]
+ },
+ {
+  "q": "Quelles familles agissent sur la synthèse des acides nucléiques ?",
+  "options": [
+   "Les quinolones et fluoroquinolones",
+   "Les rifamycines (rifampicine)",
+   "Les nitro-imidazolés",
+   "Les nitrofuranes",
+   "Les macrolides"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les quinolones inhibent les topoisomérases (gyrase).",
+   "La rifampicine bloque la transcription via l'ARN-polymérase.",
+   "Les nitro-imidazolés provoquent des coupures de l'ADN.",
+   "Les nitrofuranes ont pour cible principale l'ADN.",
+   "Faux : les macrolides agissent sur la synthèse des protéines (50S)."
+  ]
+ },
+ {
+  "q": "Quelle(s) famille(s) agissent par altération des enveloppes membranaires ?",
+  "options": [
+   "Les polymyxines",
+   "La daptomycine",
+   "Les sulfamides",
+   "Les glycopeptides",
+   "Les aminosides"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les polymyxines ciblent la membrane cellulaire.",
+   "La daptomycine provoque une dépolarisation membranaire.",
+   "Faux : les sulfamides agissent sur le métabolisme intermédiaire.",
+   "Faux : les glycopeptides agissent sur la synthèse du peptidoglycane.",
+   "Faux : les aminosides agissent sur la synthèse des protéines."
+  ]
+ },
+ {
+  "q": "Concernant les antibiotiques agissant sur le métabolisme intermédiaire, quelles propositions sont exactes ?",
+  "options": [
+   "Les sulfamides et le triméthoprime inactivent des enzymes de la synthèse des purines et de certains acides aminés essentiels",
+   "Les sulfamides inhibent la dihydroptéroate synthétase",
+   "Le triméthoprime inhibe la dihydrofolate réductase",
+   "Les quinolones",
+   "Les bêtalactamines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Sulfamides et triméthoprime bloquent la voie de synthèse des folates, précurseurs des purines.",
+   "Les sulfamides inhibent la dihydroptéroate synthétase.",
+   "Le triméthoprime inhibe la dihydrofolate réductase.",
+   "Faux : les quinolones agissent sur les acides nucléiques.",
+   "Faux : les bêtalactamines agissent sur le peptidoglycane."
+  ]
+ },
+ {
+  "q": "Concernant les oxazolidinones, quelles propositions sont exactes ?",
+  "options": [
+   "Le linézolide en est le représentant cité dans le cours",
+   "Le linézolide inhibe la synthèse protéique en se liant au site P de la sous-unité 50S",
+   "Le linézolide empêche la formation du complexe d'initiation",
+   "La vancomycine est une oxazolidinone",
+   "La gentamicine est une oxazolidinone"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le linézolide (Zyvoxid) est l'oxazolidinone citée dans le cours.",
+   "Le linézolide se lie au site P de la sous-unité ribosomale 50S.",
+   "Il empêche la formation du complexe d'initiation, arrêtant la synthèse avant son début.",
+   "Faux : la vancomycine est un glycopeptide.",
+   "Faux : la gentamicine est un aminoside."
+  ]
+ },
+ {
+  "q": "Parmi les molécules suivantes, lesquelles sont citées comme antituberculeux dans le cours ?",
+  "options": [
+   "La rifamycine",
+   "L'isoniazide",
+   "Le pyrazinamide",
+   "L'amoxicilline",
+   "La ciprofloxacine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La rifamycine est citée parmi les antituberculeux.",
+   "L'isoniazide est un antituberculeux majeur.",
+   "Le pyrazinamide fait partie des antituberculeux.",
+   "Faux : l'amoxicilline est une aminopénicilline, pas un antituberculeux.",
+   "Faux : la ciprofloxacine est une fluoroquinolone."
+  ]
+ },
+ {
+  "q": "Quelles autres molécules antituberculeuses sont citées dans le cours ?",
+  "options": [
+   "L'éthambutol",
+   "L'éthionamide",
+   "Le PAS (acide para-aminosalicylique)",
+   "La cyclosérine",
+   "La pénicilline G"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "L'éthambutol est cité comme antituberculeux.",
+   "L'éthionamide fait partie des antituberculeux.",
+   "Le PAS est cité parmi les antituberculeux.",
+   "La cyclosérine est citée comme antituberculeux.",
+   "Faux : la pénicilline G est une bêtalactamine du groupe des pénames."
+  ]
+ },
+ {
+  "q": "Le choix d'un antibiotique repose sur plusieurs critères. Lesquels sont cités dans le cours ?",
+  "options": [
+   "Des critères bactériologiques : identification précise et profil de sensibilité de la bactérie",
+   "Des critères pharmacologiques : spectre, absorption, diffusion, élimination, toxicité",
+   "Des critères épidémiologiques : écologie bactérienne",
+   "Des critères individuels : âge, grossesse, pathologies sous-jacentes, degré d'urgence",
+   "Le seul critère du prix de l'antibiotique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les critères bactériologiques (nombre d'espèces, identification, sensibilité) guident le choix.",
+   "Les critères pharmacologiques de l'antibiotique sont pris en compte.",
+   "L'écologie bactérienne (critères épidémiologiques) intervient.",
+   "Les critères individuels du patient (âge, grossesse, urgence...) sont considérés.",
+   "Faux : le prix n'est pas cité comme critère de choix."
+  ]
+ },
+ {
+  "q": "Concernant les antibiotiques bactéricides cités dans le cours, quelles propositions sont exactes ?",
+  "options": [
+   "Les bêtalactamines sont bactéricides",
+   "Les aminosides sont bactéricides rapides et profonds",
+   "Les quinolones et fluoroquinolones sont bactéricides",
+   "La rifampicine est bactéricide même sur les bactéries au repos",
+   "Les macrolides sont bactéricides"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les bêtalactamines ont un effet bactéricide temps-dépendant.",
+   "Les aminosides sont bactéricides rapides avec effet post-antibiotique.",
+   "Les quinolones/fluoroquinolones sont bactéricides.",
+   "La rifampicine est bactéricide même sur les bactéries au repos.",
+   "Faux : les macrolides (MLSK) sont bactériostatiques."
+  ]
+ },
+ {
+  "q": "Concernant les antibiotiques bactériostatiques cités dans le cours, quelles propositions sont exactes ?",
+  "options": [
+   "Les macrolides et apparentés (MLSK) sont bactériostatiques",
+   "Les tétracyclines sont bactériostatiques",
+   "Le chloramphénicol est bactériostatique",
+   "L'acide fusidique est bactériostatique",
+   "Les polymyxines sont bactériostatiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les MLSK sont des antibiotiques bactériostatiques.",
+   "Les tétracyclines ont un effet bactériostatique.",
+   "Le chloramphénicol est bactériostatique.",
+   "L'acide fusidique est bactériostatique.",
+   "Faux : les polymyxines sont bactéricides très rapides."
+  ]
+ },
+ {
+  "q": "À propos de la pénétration des antibiotiques jusqu'à leur cible, quelles affirmations sont vraies ?",
+  "options": [
+   "La cible des bêtalactamines (PLP) fait que la paroi est le seul obstacle à franchir",
+   "Les glycopeptides traversent facilement la paroi des bactéries à Gram +",
+   "Les glycopeptides sont inactifs sur les Gram - car leur grande taille empêche le passage par les porines",
+   "La fosfomycine, petite molécule, franchit les porines et le peptidoglycane",
+   "Tous les antibiotiques traversent librement la membrane externe des Gram -"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Pour les bêtalactamines, la paroi est le seul obstacle avant les PLP.",
+   "La pénétration des glycopeptides est facile chez les Gram +.",
+   "Leur poids moléculaire (1500-2000 Da) les empêche de traverser les porines des Gram -.",
+   "La fosfomycine franchit porines et peptidoglycane grâce à sa petite taille.",
+   "Faux : la membrane externe des Gram - est une barrière sélective."
+  ]
+ },
+ {
+  "q": "La synthèse du peptidoglycane comporte trois phases. Quelles propositions les décrivent correctement ?",
+  "options": [
+   "Phase intracytoplasmique : synthèse d'UDP-acétylmuramyl pentapeptide terminé par D-alanyl-D-alanine",
+   "Phase membranaire : polymère d'acétylglucosamine et d'UDP-acétylmuramyl-dipeptide",
+   "Phase pariétale : polymérisation par transpeptidase et transglycosylase, régulée par une carboxypeptidase",
+   "Phase nucléaire : assemblage du peptidoglycane dans le nucléoïde",
+   "Phase capsulaire : polymérisation au niveau de la capsule"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La phase intracytoplasmique produit l'UDP-acétylmuramyl pentapeptide terminé par D-Ala-D-Ala.",
+   "La phase membranaire forme le polymère d'acétylglucosamine et d'UDP-acétylmuramyl-dipeptide.",
+   "La phase pariétale assure la polymérisation via transpeptidase/transglycosylase.",
+   "Faux : il n'existe pas de phase nucléaire de synthèse du peptidoglycane.",
+   "Faux : la capsule n'est pas un lieu de synthèse du peptidoglycane."
+  ]
+ },
+ {
+  "q": "Concernant les PLP (Protéines Liant la Pénicilline), quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des enzymes impliquées dans l'assemblage du peptidoglycane",
+   "Elles comprennent des glycosyltransférases, transpeptidases et carboxypeptidases",
+   "Elles émergent sur la face externe de la membrane cytoplasmique",
+   "Leur nombre et leur nature varient selon les espèces bactériennes",
+   "Ce sont des protéines cytoplasmiques solubles sans rapport avec la paroi"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les PLP sont les enzymes d'assemblage du peptidoglycane.",
+   "Elles regroupent glycosyltransférases, transpeptidases et carboxypeptidases.",
+   "Elles émergent sur la face externe de la membrane cytoplasmique.",
+   "Leur nombre et leur nature varient selon les espèces.",
+   "Faux : elles sont membranaires et directement liées à la synthèse pariétale."
+  ]
+ },
+ {
+  "q": "Concernant la famille des bêtalactamines, quelles propositions sont exactes ?",
+  "options": [
+   "Elles ont en commun le noyau bêtalactame",
+   "Elles sont divisées en 4 groupes dans le cours",
+   "Le groupe I comprend les pénames, les carbapénèmes et les oxapénames",
+   "Le groupe III correspond au monobactam (aztréonam)",
+   "Elles partagent un cycle macrolide à 14 chaînons"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Le noyau bêtalactame est le point commun structural de la famille.",
+   "Le cours distingue 4 groupes de bêtalactamines.",
+   "Le groupe I regroupe pénames, carbapénèmes et oxapénames (clavam).",
+   "Le groupe III est le monobactam représenté par l'aztréonam.",
+   "Faux : le cycle macrolide caractérise les macrolides, pas les bêtalactamines."
+  ]
+ },
+ {
+  "q": "Parmi les molécules suivantes, lesquelles appartiennent au groupe des pénames (pénicillines) ?",
+  "options": [
+   "La pénicilline G",
+   "Les pénicillines M (anti-staphylococciques)",
+   "Les pénicillines A à large spectre",
+   "L'imipénème",
+   "L'aztréonam"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La pénicilline G est le chef de file des pénames.",
+   "Les pénicillines M appartiennent aux pénames.",
+   "Les pénicillines A (large spectre) sont des pénames.",
+   "Faux : l'imipénème est un carbapénème.",
+   "Faux : l'aztréonam est un monobactam."
+  ]
+ },
+ {
+  "q": "Concernant les pénicillines A (pénicillines à large spectre), quelles propositions sont exactes ?",
+  "options": [
+   "Elles comprennent les aminopénicillines",
+   "Elles comprennent les carboxy-pénicillines et les uréidopénicillines",
+   "Les amidino-pénicillines en font partie",
+   "Le sulbactam et le tazobactam sont cités avec les pénicillines A",
+   "La pénicilline G est une pénicilline A"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les aminopénicillines sont des pénicillines A.",
+   "Les carboxy-pénicillines et uréidopénicillines sont des pénicillines A.",
+   "Les amidino-pénicillines appartiennent aux pénicillines A.",
+   "Sulbactam et tazobactam sont cités dans ce groupe.",
+   "Faux : la pénicilline G est une pénicilline naturelle à spectre étroit."
+  ]
+ },
+ {
+  "q": "À propos des carbapénèmes et des oxapénames, quelles affirmations sont vraies ?",
+  "options": [
+   "L'imipénème est le carbapénème cité dans le cours",
+   "Les carbapénèmes appartiennent au groupe I des bêtalactamines",
+   "L'acide clavulanique est un oxapéname (clavam) du groupe I",
+   "L'acide clavulanique est une céphalosporine de 3e génération",
+   "L'imipénème est un monobactam"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'imipénème est cité comme carbapénème.",
+   "Les carbapénèmes font partie du groupe I.",
+   "L'acide clavulanique (oxapéname/clavam) appartient au groupe I.",
+   "Faux : l'acide clavulanique n'est pas une céphalosporine.",
+   "Faux : l'imipénème est un carbapénème, le monobactam est l'aztréonam."
+  ]
+ },
+ {
+  "q": "Concernant le groupe II des bêtalactamines (céphèmes), quelles propositions sont exactes ?",
+  "options": [
+   "Il comprend les céphalosporines, divisées en quatre générations",
+   "Le céfotaxime et la ceftazidime sont des céphalosporines citées",
+   "Les céphamycines (céfoxitine) en font partie",
+   "Le lamoxactam est un oxacéphem de ce groupe",
+   "L'aztréonam appartient au groupe II"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Le groupe II comprend les céphalosporines en quatre générations.",
+   "Céfotaxime et ceftazidime sont cités comme exemples.",
+   "Les céphamycines (céfoxitine) appartiennent au groupe II.",
+   "Le lamoxactam (oxacéphem) fait partie du groupe II.",
+   "Faux : l'aztréonam est un monobactam du groupe III."
+  ]
+ },
+ {
+  "q": "Quelles propositions concernant les associations citées dans le cours sont exactes ?",
+  "options": [
+   "L'association ceftazidime/avibactam est citée parmi les bêtalactamines",
+   "L'association ceftolozane/tazobactam est citée parmi les bêtalactamines",
+   "Le ceftolozane est une céphalosporine citée dans le cours",
+   "L'avibactam est une pénicilline du groupe I",
+   "Le tazobactam est une céphalosporine de 4e génération"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Ceftazidime/avibactam est cité dans le cours.",
+   "Ceftolozane/tazobactam est cité dans le cours.",
+   "Le ceftolozane est cité parmi les céphalosporines.",
+   "Faux : l'avibactam n'est pas une pénicilline.",
+   "Faux : le tazobactam n'est pas une céphalosporine."
+  ]
+ },
+ {
+  "q": "Concernant le mode d'action des bêtalactamines, quelles propositions sont exactes ?",
+  "options": [
+   "Elles présentent une analogie structurale avec le D-alanyl-D-alanine",
+   "Elles se fixent aux PLP en formant un complexe covalent",
+   "L'effet dépend de l'affinité envers les PLP, en particulier la cible essentielle",
+   "Il existe une relation entre la concentration d'antibiotique et le nombre de PLP inhibées",
+   "Elles se complexent directement avec les D-Ala-D-Ala des précurseurs émergents"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "L'analogie structurale avec le D-Ala-D-Ala explique leur fixation aux PLP.",
+   "La fixation aux PLP forme un complexe covalent.",
+   "L'effet dépend de l'affinité pour les PLP, surtout la cible essentielle.",
+   "Plus la concentration augmente, plus le nombre de PLP inhibées augmente.",
+   "Faux : ce mécanisme de complexation directe est celui des glycopeptides."
+  ]
+ },
+ {
+  "q": "À propos de l'activité bactéricide des bêtalactamines, quelles affirmations sont vraies ?",
+  "options": [
+   "Elles n'agissent que sur les bactéries en phase de multiplication",
+   "Elles provoquent une altération pariétale avec activation des autolysines",
+   "Leur bactéricidie est temps-dépendante",
+   "Elles sont bactéricides même sur les bactéries au repos",
+   "Leur bactéricidie est concentration-dépendante"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les bêtalactamines n'agissent que sur les bactéries en multiplication.",
+   "L'altération pariétale s'accompagne d'une activation des autolysines.",
+   "Leur effet bactéricide est temps-dépendant.",
+   "Faux : elles sont inactives sur les bactéries au repos.",
+   "Faux : la bactéricidie concentration-dépendante caractérise les polymyxines, pas les bêtalactamines."
+  ]
+ },
+ {
+  "q": "Concernant la pénétration des bêtalactamines chez les bactéries à Gram +, quelles propositions sont exactes ?",
+  "options": [
+   "La paroi est le seul obstacle avant d'atteindre les PLP",
+   "La pénétration à travers le peptidoglycane est aisée",
+   "Enterococcus faecalis fait exception à cette pénétration aisée",
+   "Le passage se fait obligatoirement par les porines",
+   "La membrane externe constitue la barrière principale"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Chez les Gram +, la paroi est le seul obstacle vers les PLP.",
+   "Le peptidoglycane est traversé aisément par les bêtalactamines.",
+   "E. faecalis est cité comme exception.",
+   "Faux : les porines concernent la membrane externe des Gram -.",
+   "Faux : les Gram + ne possèdent pas de membrane externe."
+  ]
+ },
+ {
+  "q": "Concernant la pénétration des bêtalactamines chez les bacilles à Gram -, quelles propositions sont exactes ?",
+  "options": [
+   "Les bêtalactamines hydrophiles de moins de 600 Da passent passivement par les porines",
+   "La vitesse de passage dépend de la taille, de l'hydrophilie et de la charge électrique",
+   "Les bêtalactamines lipophiles ont un passage marginal à travers la bicouche lipidique de la membrane externe",
+   "Toutes les bêtalactamines traversent librement la membrane externe quelle que soit leur taille",
+   "Les porines sont des canaux de la membrane cytoplasmique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les bêtalactamines hydrophiles < 600 Da empruntent les porines.",
+   "Taille, hydrophilie et charge électrique conditionnent la vitesse de passage.",
+   "Les molécules lipophiles traversent marginalement la bicouche lipidique.",
+   "Faux : la membrane externe est une barrière sélective.",
+   "Faux : les porines sont des canaux de la membrane externe, pas cytoplasmique."
+  ]
+ },
+ {
+  "q": "Quels facteurs diminuent la pénétration intracellulaire des bêtalactamines chez les Gram - ?",
+  "options": [
+   "Un système d'efflux actif",
+   "La présence de bêtalactamases (blasé)",
+   "La liaison aux PLP qui retient l'antibiotique",
+   "Une augmentation du nombre de porines",
+   "Une diminution de la taille moléculaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'efflux actif diminue la concentration intracellulaire.",
+   "Les bêtalactamases dégradent l'antibiotique (mentionné comme 'blase').",
+   "La liaison aux PLP participe à la diminution de la fraction libre.",
+   "Faux : plus de porines faciliterait au contraire le passage.",
+   "Faux : une plus petite taille faciliterait le passage par les porines."
+  ]
+ },
+ {
+  "q": "Concernant les monobactams, quelles propositions sont exactes ?",
+  "options": [
+   "L'aztréonam est le monobactam cité dans le cours",
+   "Ils constituent le groupe III des bêtalactamines",
+   "L'aztréonam est un carbapénème",
+   "Ils appartiennent au groupe I avec les pénames",
+   "L'imipénème est un monobactam"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "L'aztréonam est le monobactam cité.",
+   "Les monobactams forment le groupe III.",
+   "Faux : l'aztréonam n'est pas un carbapénème.",
+   "Faux : le groupe I regroupe pénames, carbapénèmes et oxapénames.",
+   "Faux : l'imipénème est un carbapénème."
+  ]
+ },
+ {
+  "q": "À propos des céphalosporines citées dans le cours, quelles affirmations sont vraies ?",
+  "options": [
+   "Elles sont divisées en quatre générations",
+   "Le céfotaxime est cité comme exemple",
+   "La ceftazidime est citée comme exemple",
+   "Le ceftolozane est cité comme exemple",
+   "Elles appartiennent au groupe I des bêtalactamines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Le cours distingue quatre générations de céphalosporines.",
+   "Le céfotaxime est cité.",
+   "La ceftazidime est citée.",
+   "Le ceftolozane est cité.",
+   "Faux : les céphalosporines appartiennent au groupe II (céphèmes)."
+  ]
+ },
+ {
+  "q": "Concernant le spectre des différentes pénicillines, quelles propositions sont exactes ?",
+  "options": [
+   "Les pénicillines A sont des pénicillines à large spectre",
+   "La pénicilline G a un spectre plus étroit que les pénicillines A",
+   "Les uréidopénicillines et carboxy-pénicillines sont des pénicillines A",
+   "Toutes les pénicillines ont un spectre identique",
+   "La pénicilline G est active sur la majorité des Gram -"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les pénicillines A sont qualifiées de pénicillines à large spectre.",
+   "La pénicilline G a un spectre plus étroit que les pénicillines A.",
+   "Uréido et carboxy-pénicillines font partie des pénicillines A.",
+   "Faux : le spectre diffère selon les sous-groupes.",
+   "Faux : la pénicilline G a un spectre étroit, surtout Gram +."
+  ]
+ },
+ {
+  "q": "À propos du sulbactam, du tazobactam et de l'acide clavulanique, quelles propositions sont exactes ?",
+  "options": [
+   "Le sulbactam est cité avec les pénicillines A",
+   "Le tazobactam est cité avec les pénicillines A et en association avec le ceftolozane",
+   "L'acide clavulanique est un oxapéname (clavam) du groupe I",
+   "Ce sont des céphalosporines de 3e génération",
+   "L'acide clavulanique est un aminoside"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le sulbactam est cité dans le groupe des pénicillines A.",
+   "Le tazobactam est cité avec les pénicillines A et dans l'association ceftolozane/tazobactam.",
+   "L'acide clavulanique est un oxapéname du groupe I.",
+   "Faux : ce ne sont pas des céphalosporines.",
+   "Faux : l'acide clavulanique n'est pas un aminoside."
+  ]
+ },
+ {
+  "q": "Concernant la céfoxitine et le lamoxactam, quelles affirmations sont vraies ?",
+  "options": [
+   "La céfoxitine est une céphamycine du groupe II",
+   "Le lamoxactam est un oxacéphem du groupe II",
+   "La céfoxitine est une pénicilline M",
+   "Le lamoxactam est un monobactam",
+   "La céfoxitine appartient au groupe I"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La céfoxitine est citée comme céphamycine du groupe II.",
+   "Le lamoxactam est cité comme oxacéphem du groupe II.",
+   "Faux : la céfoxitine n'est pas une pénicilline M.",
+   "Faux : le lamoxactam n'est pas un monobactam (c'est l'aztréonam).",
+   "Faux : la céfoxitine appartient au groupe II, pas au groupe I."
+  ]
+ },
+ {
+  "q": "Pourquoi les bêtalactamines sont-elles inactives sur les bactéries au repos ?",
+  "options": [
+   "Parce qu'elles n'agissent que sur les bactéries en phase de multiplication",
+   "Parce que la synthèse du peptidoglycane est arrêtée au repos",
+   "Parce qu'elles nécessitent des PLP actives en cours d'assemblage pariétal",
+   "Parce qu'elles sont détruites par les autolysines au repos",
+   "Parce qu'elles ne pénètrent que par les porines des bactéries au repos"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les bêtalactamines n'agissent que sur les bactéries en multiplication.",
+   "Au repos, la synthèse du peptidoglycane est interrompue.",
+   "Les PLP ne sont actives qu'en cours d'assemblage pariétal.",
+   "Faux : les autolysines sont activées par l'action des bêtalactamines, pas l'inverse.",
+   "Faux : la pénétration n'est pas liée à la phase de croissance de cette façon."
+  ]
+ },
+ {
+  "q": "Concernant l'effet des bêtalactamines sur la paroi, quelles propositions sont exactes ?",
+  "options": [
+   "Elles provoquent une altération pariétale",
+   "Elles entraînent une activation des autolysines bactériennes",
+   "L'inhibition des PLP bloque l'assemblage du peptidoglycane",
+   "Elles renforcent la paroi bactérienne",
+   "Elles inhibent la synthèse des acides mycoliques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'action sur les PLP altère la paroi.",
+   "L'altération pariétale s'accompagne d'une activation des autolysines.",
+   "Le blocage des PLP interrompt l'assemblage du peptidoglycane.",
+   "Faux : elles fragilisent la paroi, elles ne la renforcent pas.",
+   "Faux : les acides mycoliques sont la cible de l'isoniazide, pas des bêtalactamines."
+  ]
+ },
+ {
+  "q": "À propos de la relation entre concentration d'antibiotique et PLP, quelles affirmations sont vraies ?",
+  "options": [
+   "L'effet des bêtalactamines dépend de l'affinité envers les PLP",
+   "La cible essentielle (PLP critique) conditionne l'effet bactéricide",
+   "Il existe une relation entre la concentration d'antibiotique et le nombre de PLP inhibées",
+   "Toutes les PLP ont la même affinité pour toutes les bêtalactamines",
+   "La concentration n'influence pas le nombre de PLP inhibées"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'effet dépend de l'affinité envers les PLP.",
+   "L'affinité pour la cible essentielle est déterminante.",
+   "Plus la concentration augmente, plus de PLP sont inhibées.",
+   "Faux : l'affinité varie selon les PLP et les molécules.",
+   "Faux : la relation concentration/nombre de PLP inhibées est décrite dans le cours."
+  ]
+ },
+ {
+  "q": "Quelles différences existe-t-il entre les quatre groupes de bêtalactamines du cours ?",
+  "options": [
+   "Le groupe I regroupe pénames, carbapénèmes et oxapénames",
+   "Le groupe II regroupe les céphèmes (céphalosporines, céphamycines, oxacéphems)",
+   "Le groupe III correspond au monobactam (aztréonam)",
+   "Le groupe IV correspond aux glycopeptides",
+   "Le groupe I ne contient que les pénicillines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le groupe I comprend pénames, carbapénèmes et oxapénames.",
+   "Le groupe II comprend les céphèmes.",
+   "Le groupe III est le monobactam.",
+   "Faux : les glycopeptides forment une famille distincte, pas un groupe de bêtalactamines.",
+   "Faux : le groupe I contient aussi carbapénèmes et oxapénames."
+  ]
+ },
+ {
+  "q": "Concernant Enterococcus faecalis et les bêtalactamines, quelle particularité est citée ?",
+  "options": [
+   "La pénétration des bêtalactamines à travers son peptidoglycane n'est pas aisée",
+   "Il constitue une exception à la pénétration aisée chez les Gram +",
+   "Il est naturellement résistant à toutes les bêtalactamines par imperméabilité totale",
+   "Sa paroi ne contient pas de peptidoglycane",
+   "Les PLP d'E. faecalis sont situées dans le cytoplasme"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "E. faecalis est cité comme exception à la pénétration aisée.",
+   "Chez les autres Gram +, la pénétration à travers le PG est aisée.",
+   "Faux : le cours mentionne seulement une pénétration non aisée, pas une imperméabilité totale.",
+   "Faux : sa paroi contient du peptidoglycane.",
+   "Faux : les PLP émergent sur la face externe de la membrane cytoplasmique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives aux bêtalactamines hydrophiles, lesquelles sont exactes ?",
+  "options": [
+   "Elles ont un poids moléculaire inférieur à 600 Da",
+   "Elles passent passivement par les porines de la membrane externe des Gram -",
+   "Leur vitesse de passage dépend de leur charge électrique",
+   "Elles traversent la membrane externe par diffusion lipidique majoritaire",
+   "Elles sont toutes inactives sur les bacilles à Gram -"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les bêtalactamines hydrophiles citées ont un PM < 600 Da.",
+   "Elles empruntent passivement les porines.",
+   "La charge électrique influence la vitesse de passage.",
+   "Faux : la diffusion lipidique marginale concerne les molécules lipophiles.",
+   "Faux : beaucoup sont actives sur les Gram - via les porines."
+  ]
+ },
+ {
+  "q": "Concernant les bêtalactamines lipophiles chez les Gram -, quelles propositions sont exactes ?",
+  "options": [
+   "Leur passage à travers la bicouche lipidique de la membrane externe est marginal",
+   "Elles empruntent majoritairement les porines comme les hydrophiles",
+   "La membrane externe des Gram - limite leur pénétration",
+   "Elles traversent facilement la membrane externe",
+   "Leur pénétration ne dépend pas de leurs propriétés physico-chimiques"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Le passage des lipophiles par la bicouche lipidique est marginal.",
+   "La membrane externe limite leur pénétration.",
+   "Faux : ce sont les hydrophiles < 600 Da qui empruntent les porines.",
+   "Faux : leur passage est décrit comme marginal.",
+   "Faux : taille, hydrophilie et charge conditionnent la pénétration."
+  ]
+ },
+ {
+  "q": "Quelles propositions résument correctement le mode d'action des bêtalactamines ?",
+  "options": [
+   "Analogie structurale avec le D-alanyl-D-alanine puis fixation covalente aux PLP",
+   "Inhibition de la polymérisation pariétale du peptidoglycane",
+   "Action uniquement sur les bactéries en multiplication, bactéricidie temps-dépendante",
+   "Complexation directe des précurseurs D-Ala-D-Ala émergents",
+   "Inhibition de la phase cytoplasmique via analogie avec le phosphoénolpyruvate"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Analogie D-Ala-D-Ala et fixation covalente aux PLP : mécanisme des bêtalactamines.",
+   "L'inhibition des PLP bloque la polymérisation pariétale.",
+   "Action sur bactéries en multiplication, bactéricidie temps-dépendante.",
+   "Faux : la complexation directe des précurseurs est le mécanisme des glycopeptides.",
+   "Faux : l'analogie avec le phosphoénolpyruvate est le mécanisme de la fosfomycine."
+  ]
+ },
+ {
+  "q": "Concernant les PLP comme cibles des bêtalactamines, quelles affirmations sont vraies ?",
+  "options": [
+   "Ce sont des enzymes d'assemblage du peptidoglycane situées à la face externe de la membrane cytoplasmique",
+   "Leur nombre et leur nature varient selon les espèces bactériennes",
+   "L'affinité des bêtalactamines pour les PLP conditionne leur effet",
+   "Toutes les bactéries possèdent exactement les mêmes PLP",
+   "Les PLP sont des cibles cytoplasmiques solubles"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les PLP émergent sur la face externe de la membrane cytoplasmique.",
+   "Nombre et nature des PLP varient selon les espèces.",
+   "L'effet dépend de l'affinité envers les PLP.",
+   "Faux : les PLP varient selon les espèces.",
+   "Faux : les PLP sont membranaires, pas cytoplasmiques solubles."
+  ]
+ },
+ {
+  "q": "Concernant les glycopeptides cités dans le cours, quelles propositions sont exactes ?",
+  "options": [
+   "La vancomycine et la teicoplanine en sont les représentants",
+   "Leur poids moléculaire est de 1500 à 2000 Da",
+   "La teicoplanine est plutôt un lipoglycopeptide",
+   "La vancomycine est une bêtalactamine",
+   "La teicoplanine est un aminoside"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vancomycine et teicoplanine sont les glycopeptides cités.",
+   "Leur PM est de 1500-2000 Da.",
+   "La teicoplanine est qualifiée de lipoglycopeptide.",
+   "Faux : la vancomycine n'est pas une bêtalactamine.",
+   "Faux : la teicoplanine n'est pas un aminoside."
+  ]
+ },
+ {
+  "q": "À propos du mode d'action des glycopeptides, quelles affirmations sont vraies ?",
+  "options": [
+   "Ils se complexent avec les D-Ala-D-Ala des précurseurs du peptidoglycane",
+   "Cette complexation a lieu lorsque les précurseurs émergent de la membrane cytoplasmique",
+   "Ils inhibent ainsi l'élongation du peptidoglycane",
+   "Ils se fixent directement sur les PLP comme les bêtalactamines",
+   "Ils inhibent la phase cytoplasmique via le phosphoénolpyruvate"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les glycopeptides se complexent avec les D-Ala-D-Ala des précurseurs.",
+   "La complexation survient à l'émergence des précurseurs de la membrane cytoplasmique.",
+   "Il en résulte une inhibition de l'élongation du peptidoglycane.",
+   "Faux : la fixation directe aux PLP est le mécanisme des bêtalactamines.",
+   "Faux : l'analogie avec le phosphoénolpyruvate est le mécanisme de la fosfomycine."
+  ]
+ },
+ {
+  "q": "Concernant la pénétration des glycopeptides, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est facile chez les bactéries à Gram +",
+   "Leur grande taille empêche la traversée des porines des Gram -",
+   "Ils sont inactifs sur les Gram -",
+   "Ils traversent facilement les porines des Gram -",
+   "Ils sont actifs sur les bacilles à Gram - grâce à leur petite taille"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La pénétration est facile chez les Gram +.",
+   "Leur PM (1500-2000 Da) empêche le passage par les porines.",
+   "Ils sont donc inactifs sur les Gram -.",
+   "Faux : leur grande taille les empêche de traverser les porines.",
+   "Faux : ils sont inactifs sur les Gram - du fait de leur grande taille."
+  ]
+ },
+ {
+  "q": "À propos de l'effet des glycopeptides, quelles affirmations sont vraies ?",
+  "options": [
+   "Leur bactéricidie est lente",
+   "Leur mécanisme de lyse est méconnu",
+   "Ils sont bactéricides très rapides et concentration-dépendants",
+   "Ils sont bactériostatiques",
+   "Ils n'agissent que sur les bactéries en phase stationnaire"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les glycopeptides ont une bactéricidie lente.",
+   "Le mécanisme de lyse reste méconnu selon le cours.",
+   "Faux : la bactéricidie très rapide concentration-dépendante caractérise les polymyxines.",
+   "Faux : les glycopeptides sont bactéricides (lents), pas bactériostatiques.",
+   "Faux : le cours ne restreint pas leur action à la phase stationnaire."
+  ]
+ },
+ {
+  "q": "Quelle différence fondamentale distingue le mode d'action des glycopeptides de celui des bêtalactamines ?",
+  "options": [
+   "Les glycopeptides se complexent avec le substrat (D-Ala-D-Ala) et non avec l'enzyme",
+   "Les bêtalactamines se fixent sur les enzymes (PLP)",
+   "Les deux se fixent de façon identique sur les PLP",
+   "Les glycopeptides inhibent la pyruvyltransférase cytoplasmique",
+   "Les bêtalactamines se complexent avec les précurseurs émergents"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les glycopeptides capturent le substrat D-Ala-D-Ala des précurseurs.",
+   "Les bêtalactamines se fixent sur les enzymes PLP.",
+   "Faux : leurs modes de fixation sont différents (substrat vs enzyme).",
+   "Faux : l'inhibition de la pyruvyltransférase est le mécanisme de la fosfomycine.",
+   "Faux : la complexation des précurseurs est le fait des glycopeptides."
+  ]
+ },
+ {
+  "q": "Concernant la fosfomycine, quelles propositions sont exactes ?",
+  "options": [
+   "C'est une petite molécule qui franchit les porines et le peptidoglycane",
+   "Elle inhibe la phase cytoplasmique de synthèse du peptidoglycane",
+   "Elle présente une analogie avec le phosphoénolpyruvate, substrat de la pyruvyltransférase",
+   "Elle est bactéricide",
+   "C'est un glycopeptide de haut poids moléculaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Sa petite taille lui permet de franchir porines et peptidoglycane.",
+   "Elle inhibe la phase cytoplasmique de synthèse du PG.",
+   "L'analogie avec le phosphoénolpyruvate explique son action sur la pyruvyltransférase.",
+   "La fosfomycine est bactéricide.",
+   "Faux : c'est une petite molécule, pas un glycopeptide."
+  ]
+ },
+ {
+  "q": "À propos de la cible enzymatique de la fosfomycine, quelles affirmations sont vraies ?",
+  "options": [
+   "Elle inhibe la pyruvyltransférase de la phase cytoplasmique",
+   "Le phosphoénolpyruvate est le substrat naturel de cette enzyme",
+   "La fosfomycine agit par analogie structurale avec ce substrat",
+   "Elle inhibe les transpeptidases pariétales comme les bêtalactamines",
+   "Elle se complexe avec les D-Ala-D-Ala comme les glycopeptides"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La fosfomycine inhibe la pyruvyltransférase (phosphoénolpyruvate transférase).",
+   "Le phosphoénolpyruvate est le substrat de cette enzyme.",
+   "L'analogie structurale avec le substrat fonde son mécanisme.",
+   "Faux : l'inhibition des transpeptidases est le fait des bêtalactamines.",
+   "Faux : la complexation D-Ala-D-Ala est le fait des glycopeptides."
+  ]
+ },
+ {
+  "q": "Concernant les dérivés de l'acide isonicotinique (isoniazide, pyrazinamide, éthionamide, prothionamide), quelles propositions sont exactes ?",
+  "options": [
+   "Ils bloquent par analogie structurale avec le NAD les enzymes de biogenèse des acides mycoliques",
+   "Ils inhibent la formation de l'arabinogalactane",
+   "L'isoniazide et le pyrazinamide sont des antituberculeux",
+   "Ils inhibent la synthèse du peptidoglycane via les PLP",
+   "Ils agissent sur la membrane cytoplasmique comme les polymyxines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'analogie avec le NAD bloque les enzymes de biogenèse des acides mycoliques.",
+   "Ils inhibent la formation de l'arabinogalactane.",
+   "Isoniazide et pyrazinamide sont des antituberculeux.",
+   "Faux : ils n'agissent pas sur les PLP du peptidoglycane.",
+   "Faux : ils n'altèrent pas la membrane comme les polymyxines."
+  ]
+ },
+ {
+  "q": "Concernant l'éthambutol, quelles propositions sont exactes ?",
+  "options": [
+   "Il inhibe des arabinosyl-transférases",
+   "Il est bactéricide",
+   "C'est un antituberculeux",
+   "Il inhibe la synthèse du peptidoglycane",
+   "Il se fixe sur la sous-unité 30S du ribosome"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'éthambutol inhibe les arabinosyl-transférases.",
+   "Il est décrit comme bactéricide.",
+   "C'est un antituberculeux cité dans le cours.",
+   "Faux : il n'agit pas sur le peptidoglycane.",
+   "Faux : la fixation sur la 30S est le fait des aminosides/tétracyclines."
+  ]
+ },
+ {
+  "q": "Parmi les antibiotiques agissant sur la paroi des mycobactéries, lesquels sont cités ?",
+  "options": [
+   "L'isoniazide, actif sur la biogenèse des acides mycoliques",
+   "Le pyrazinamide",
+   "L'éthionamide et le prothionamide",
+   "L'éthambutol, inhibiteur des arabinosyl-transférases",
+   "La pénicilline G"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "L'isoniazide bloque les enzymes de biogenèse des acides mycoliques.",
+   "Le pyrazinamide est cité parmi ces dérivés.",
+   "Éthionamide et prothionamide sont cités.",
+   "L'éthambutol inhibe les arabinosyl-transférases.",
+   "Faux : la pénicilline G n'agit pas sur les mycobactéries de cette façon."
+  ]
+ },
+ {
+  "q": "Quelles propositions comparent correctement les trois inhibiteurs de la synthèse du peptidoglycane ?",
+  "options": [
+   "Les bêtalactamines se fixent sur les PLP (enzymes)",
+   "Les glycopeptides se complexent avec les D-Ala-D-Ala (substrat)",
+   "La fosfomycine inhibe la phase cytoplasmique précoce (pyruvyltransférase)",
+   "Les trois se fixent sur les PLP",
+   "Les trois inhibent la phase cytoplasmique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Bêtalactamines : fixation sur les enzymes PLP.",
+   "Glycopeptides : complexation du substrat D-Ala-D-Ala.",
+   "Fosfomycine : inhibition cytoplasmique précoce.",
+   "Faux : seuls les bêtalactamines se fixent sur les PLP.",
+   "Faux : seule la fosfomycine agit sur la phase cytoplasmique."
+  ]
+ },
+ {
+  "q": "Concernant la phase intracytoplasmique de synthèse du peptidoglycane, quelles enzymes sont citées ?",
+  "options": [
+   "La phosphoénolpyruvate transférase",
+   "La racémase",
+   "La synthétase",
+   "La transpeptidase",
+   "La transglycosylase"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La phosphoénolpyruvate transférase intervient dans la phase intracytoplasmique.",
+   "La racémase est citée pour cette phase.",
+   "La synthétase est citée pour cette phase.",
+   "Faux : la transpeptidase agit dans la phase pariétale.",
+   "Faux : la transglycosylase agit dans la phase pariétale."
+  ]
+ },
+ {
+  "q": "À propos des enzymes de la phase pariétale du peptidoglycane, quelles propositions sont exactes ?",
+  "options": [
+   "La transpeptidase assure la polymérisation",
+   "La transglycosylase assure la polymérisation",
+   "La carboxypeptidase régule la polymérisation",
+   "La pyruvyltransférase assure la polymérisation pariétale",
+   "La racémase régule la phase pariétale"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La transpeptidase polymérise dans la phase pariétale.",
+   "La transglycosylase polymérise dans la phase pariétale.",
+   "La carboxypeptidase régule cette polymérisation.",
+   "Faux : la pyruvyltransférase agit dans la phase cytoplasmique.",
+   "Faux : la racémase agit dans la phase intracytoplasmique."
+  ]
+ },
+ {
+  "q": "Concernant la teicoplanine, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un glycopeptide cité dans le cours",
+   "Elle est qualifiée plutôt de lipoglycopeptide",
+   "Elle partage le mécanisme d'action de la vancomycine",
+   "C'est une céphalosporine de 4e génération",
+   "C'est un aminoside"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La teicoplanine est citée parmi les glycopeptides.",
+   "Le cours la qualifie plutôt de lipoglycopeptide.",
+   "Elle partage le mécanisme des glycopeptides (complexation D-Ala-D-Ala).",
+   "Faux : ce n'est pas une céphalosporine.",
+   "Faux : ce n'est pas un aminoside."
+  ]
+ },
+ {
+  "q": "Pourquoi les glycopeptides sont-ils inactifs sur les bactéries à Gram - ?",
+  "options": [
+   "À cause de leur poids moléculaire élevé (1500-2000 Da)",
+   "Parce que leur grande taille les empêche de traverser les porines",
+   "Parce que leur cible D-Ala-D-Ala est absente chez les Gram -",
+   "Parce qu'ils sont détruits par la membrane externe",
+   "Parce qu'ils ne se fixent pas aux PLP des Gram -"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Leur PM de 1500-2000 Da est trop élevé pour les porines.",
+   "La grande taille empêche la traversée des porines de la membrane externe.",
+   "Faux : les précurseurs D-Ala-D-Ala existent aussi chez les Gram -.",
+   "Faux : ils ne sont pas détruits, ils ne pénètrent pas.",
+   "Faux : les glycopeptides ne ciblent pas les PLP."
+  ]
+ },
+ {
+  "q": "À propos de la bactéricidie des inhibiteurs du peptidoglycane, quelles affirmations sont vraies ?",
+  "options": [
+   "Les bêtalactamines ont une bactéricidie temps-dépendante",
+   "Les glycopeptides ont une bactéricidie lente",
+   "La fosfomycine est bactéricide",
+   "Les glycopeptides ont une bactéricidie très rapide concentration-dépendante",
+   "Les bêtalactamines sont bactériostatiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La bactéricidie des bêtalactamines est temps-dépendante.",
+   "Celle des glycopeptides est lente.",
+   "La fosfomycine est bactéricide.",
+   "Faux : la bactéricidie très rapide concentration-dépendante est celle des polymyxines.",
+   "Faux : les bêtalactamines sont bactéricides."
+  ]
+ },
+ {
+  "q": "Concernant la phase membranaire de synthèse du peptidoglycane, quelles propositions sont exactes ?",
+  "options": [
+   "Elle forme un polymère d'acétylglucosamine",
+   "Elle fait intervenir l'UDP-acétylmuramyl-dipeptide",
+   "Elle est inhibée par la fosfomycine",
+   "Elle est le siège de l'action des bêtalactamines sur les PLP",
+   "Elle produit l'UDP-acétylmuramyl pentapeptide"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La phase membranaire forme le polymère d'acétylglucosamine.",
+   "L'UDP-acétylmuramyl-dipeptide y intervient.",
+   "Faux : la fosfomycine inhibe la phase cytoplasmique.",
+   "Faux : les PLP agissent dans la phase pariétale.",
+   "Faux : l'UDP-acétylmuramyl pentapeptide est produit dans la phase intracytoplasmique."
+  ]
+ },
+ {
+  "q": "Concernant la phase intracytoplasmique de synthèse du peptidoglycane, quelles propositions sont exactes ?",
+  "options": [
+   "Elle produit l'UDP-acétylmuramyl pentapeptide terminé par le D-alanyl-D-alanine",
+   "La phosphoénolpyruvate transférase y intervient",
+   "C'est la phase inhibée par la fosfomycine",
+   "Elle produit le polymère d'acétylglucosamine",
+   "Elle est le siège de l'action des bêtalactamines sur les PLP"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La phase intracytoplasmique produit l'UDP-acétylmuramyl pentapeptide terminé par D-Ala-D-Ala.",
+   "La phosphoénolpyruvate transférase y intervient.",
+   "La fosfomycine inhibe cette phase cytoplasmique.",
+   "Faux : le polymère d'acétylglucosamine relève de la phase membranaire.",
+   "Faux : les PLP agissent dans la phase pariétale."
+  ]
+ },
+ {
+  "q": "À propos de l'isoniazide, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un dérivé de l'acide isonicotinique",
+   "Il bloque par analogie structurale avec le NAD les enzymes de biogenèse des acides mycoliques",
+   "C'est un antituberculeux",
+   "Il se fixe sur les PLP comme les bêtalactamines",
+   "Il inhibe la dihydrofolate réductase"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'isoniazide est un dérivé de l'acide isonicotinique.",
+   "L'analogie avec le NAD bloque les enzymes de biogenèse des acides mycoliques.",
+   "C'est un antituberculeux majeur.",
+   "Faux : il ne se fixe pas sur les PLP.",
+   "Faux : la dihydrofolate réductase est la cible du triméthoprime."
+  ]
+ },
+ {
+  "q": "Concernant l'arabinogalactane et les antituberculeux, quelles affirmations sont vraies ?",
+  "options": [
+   "Les dérivés de l'acide isonicotinique inhibent la formation de l'arabinogalactane",
+   "L'éthambutol inhibe des arabinosyl-transférases impliquées dans sa synthèse",
+   "L'arabinogalactane est un constituant de la paroi des mycobactéries",
+   "L'arabinogalactane est la cible des bêtalactamines",
+   "L'arabinogalactane est synthétisé par les PLP"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les dérivés isonicotiniques inhibent la formation de l'arabinogalactane.",
+   "L'éthambutol inhibe les arabinosyl-transférases.",
+   "L'arabinogalactane est un constituant pariétal des mycobactéries.",
+   "Faux : les bêtalactamines ciblent le peptidoglycane.",
+   "Faux : l'arabinogalactane n'est pas synthétisé par les PLP."
+  ]
+ },
+ {
+  "q": "Quelles propositions distinguent correctement fosfomycine et glycopeptides ?",
+  "options": [
+   "La fosfomycine est une petite molécule, les glycopeptides ont un PM de 1500-2000 Da",
+   "La fosfomycine franchit les porines, les glycopeptides ne le peuvent pas",
+   "La fosfomycine inhibe la phase cytoplasmique, les glycopeptides l'élongation pariétale",
+   "Les deux se complexent avec les D-Ala-D-Ala",
+   "Les deux inhibent la pyruvyltransférase"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La fosfomycine est petite ; les glycopeptides sont volumineux.",
+   "La petite taille permet à la fosfomycine de franchir les porines.",
+   "Fosfomycine : phase cytoplasmique ; glycopeptides : élongation pariétale.",
+   "Faux : seule la complexation D-Ala-D-Ala est le fait des glycopeptides.",
+   "Faux : seule la fosfomycine inhibe la pyruvyltransférase."
+  ]
+ },
+ {
+  "q": "Concernant le pyrazinamide et l'éthionamide, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des dérivés de l'acide isonicotinique cités dans le cours",
+   "Ils bloquent par analogie avec le NAD les enzymes de biogenèse des acides mycoliques",
+   "Ce sont des antituberculeux",
+   "Ce sont des céphalosporines",
+   "Ils inhibent la synthèse des protéines sur la sous-unité 30S"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Pyrazinamide et éthionamide sont des dérivés isonicotiniques cités.",
+   "Ils agissent par analogie avec le NAD sur les acides mycoliques.",
+   "Ce sont des antituberculeux.",
+   "Faux : ce ne sont pas des céphalosporines.",
+   "Faux : ils n'agissent pas sur le ribosome 30S."
+  ]
+ },
+ {
+  "q": "À propos des cibles pariétales des antibiotiques, quelles affirmations sont vraies ?",
+  "options": [
+   "Les bêtalactamines ciblent les PLP (transpeptidases, glycosyltransférases)",
+   "Les glycopeptides ciblent les précurseurs D-Ala-D-Ala du peptidoglycane",
+   "La fosfomycine cible la pyruvyltransférase cytoplasmique",
+   "L'isoniazide cible les enzymes de biogenèse des acides mycoliques",
+   "Les polymyxines ciblent les PLP"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les bêtalactamines inhibent les PLP.",
+   "Les glycopeptides capturent les D-Ala-D-Ala.",
+   "La fosfomycine inhibe la pyruvyltransférase.",
+   "L'isoniazide bloque la biogenèse des acides mycoliques.",
+   "Faux : les polymyxines ciblent la membrane cellulaire."
+  ]
+ },
+ {
+  "q": "Concernant la vancomycine, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un glycopeptide",
+   "Elle traverse facilement la paroi des Gram +",
+   "Elle est inactive sur les Gram - du fait de sa grande taille",
+   "Sa bactéricidie est lente",
+   "C'est une bêtalactamine à spectre large"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "La vancomycine est un glycopeptide.",
+   "Sa pénétration est facile chez les Gram +.",
+   "Sa taille l'empêche de traverser les porines des Gram -.",
+   "Sa bactéricidie est lente.",
+   "Faux : ce n'est pas une bêtalactamine."
+  ]
+ },
+ {
+  "q": "Quelles propositions résument correctement les antibiotiques inhibiteurs de la synthèse du peptidoglycane et de la paroi mycobactérienne ?",
+  "options": [
+   "Bêtalactamines, glycopeptides et fosfomycine inhibent la synthèse du peptidoglycane",
+   "Isoniazide et éthambutol agissent sur la paroi des mycobactéries (acides mycoliques, arabinogalactane)",
+   "Les trois inhibiteurs du peptidoglycane sont bactéricides",
+   "Les aminosides inhibent la synthèse du peptidoglycane",
+   "Les quinolones inhibent la synthèse du peptidoglycane"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Bêtalactamines, glycopeptides et fosfomycine : les 3 cités pour le PG.",
+   "Isoniazide/éthambutol agissent sur la paroi mycobactérienne.",
+   "Les trois sont bactéricides (temps-dépendant, lent, fosfomycine).",
+   "Faux : les aminosides agissent sur les protéines.",
+   "Faux : les quinolones agissent sur les acides nucléiques."
+  ]
+ },
+ {
+  "q": "Concernant les polymyxines, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des polypeptides cycliques",
+   "Leur cible est la membrane cellulaire",
+   "Le sulfate de colistine (colistine) en fait partie",
+   "Ce sont des bêtalactamines",
+   "Ce sont des glycopeptides"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les polymyxines sont des polypeptides cycliques.",
+   "Leur cible est la membrane cellulaire.",
+   "Le sulfate de colistine cationique est cité.",
+   "Faux : ce ne sont pas des bêtalactamines.",
+   "Faux : ce ne sont pas des glycopeptides."
+  ]
+ },
+ {
+  "q": "À propos du mode d'action des polymyxines, quelles affirmations sont vraies ?",
+  "options": [
+   "Il débute par une interaction électrostatique avec les composés de la membrane externe des BGN",
+   "Il entraîne une augmentation de la perméabilité membranaire",
+   "Il aboutit à la mort cellulaire",
+   "Il repose sur l'inhibition des PLP",
+   "Il repose sur la fixation au ribosome 30S"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'interaction électrostatique initiale concerne la membrane externe des BGN.",
+   "La perméabilité membranaire augmente.",
+   "Il en résulte la mort cellulaire.",
+   "Faux : les PLP sont les cibles des bêtalactamines.",
+   "Faux : le ribosome 30S est la cible des aminosides."
+  ]
+ },
+ {
+  "q": "Concernant l'activité des polymyxines, quelles propositions sont exactes ?",
+  "options": [
+   "Elles ont une activité anti-endotoxine",
+   "Leur action est très rapide",
+   "Leur bactéricidie est concentration-dépendante",
+   "Leur diffusion est médiocre",
+   "Elles ont une bactéricidie lente comme les glycopeptides"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "L'activité anti-endotoxine est citée.",
+   "Leur action est très rapide.",
+   "La bactéricidie est concentration-dépendante.",
+   "Leur diffusion est médiocre.",
+   "Faux : la bactéricidie lente caractérise les glycopeptides."
+  ]
+ },
+ {
+  "q": "À propos de l'intérêt clinique des polymyxines en association, quelle proposition est exacte avec ses justifications ?",
+  "options": [
+   "Leur mécanisme peut être synergique avec des antibiotiques apparaissant résistants sur l'antibiogramme",
+   "Il est intéressant de tester les associations avec la colistine",
+   "Les polymyxines sont toujours utilisées seules car toute association est antagoniste",
+   "La colistine n'a aucun intérêt en association",
+   "Les polymyxines potentialisent les glycopeptides sur les Gram -"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Le mécanisme des polymyxines peut être synergique avec des ATB apparaissant résistants.",
+   "Le cours recommande de tester les associations avec la colistine.",
+   "Faux : la synergie est décrite, pas un antagonisme systématique.",
+   "Faux : l'intérêt des associations avec la colistine est souligné.",
+   "Faux : le cours ne décrit pas cette potentialisation spécifique."
+  ]
+ },
+ {
+  "q": "Concernant la daptomycine, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un glycolipopeptide cyclique (CUBICIN)",
+   "Elle n'est active que sur les bactéries à Gram +",
+   "Elle provoque une dépolarisation membranaire avec fuite de potassium",
+   "C'est une bêtalactamine",
+   "Elle est active sur les bacilles à Gram -"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La daptomycine est un glycolipopeptide cyclique.",
+   "Elle n'est active que sur les BGP.",
+   "Elle provoque dépolarisation membranaire et fuite de potassium.",
+   "Faux : ce n'est pas une bêtalactamine.",
+   "Faux : elle est inactive sur les Gram -."
+  ]
+ },
+ {
+  "q": "À propos des conséquences de l'action de la daptomycine, quelles affirmations sont vraies ?",
+  "options": [
+   "Arrêt de la synthèse des protéines",
+   "Arrêt de la synthèse de l'ADN et de l'ARN",
+   "Activité sur les bactéries en phase stationnaire",
+   "Inhibition des PLP",
+   "Fixation sur la sous-unité 50S du ribosome"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La dépolarisation entraîne l'arrêt de la synthèse protéique.",
+   "Les synthèses d'ADN et d'ARN sont aussi arrêtées.",
+   "Elle est active sur les bactéries en phase stationnaire.",
+   "Faux : elle n'inhibe pas les PLP.",
+   "Faux : elle ne se fixe pas sur la 50S."
+  ]
+ },
+ {
+  "q": "Quelle particularité distingue la daptomycine des bêtalactamines concernant la phase de croissance ?",
+  "options": [
+   "La daptomycine est active sur les bactéries en phase stationnaire",
+   "Les bêtalactamines n'agissent que sur les bactéries en multiplication",
+   "Les deux sont inactives en phase stationnaire",
+   "La daptomycine n'agit qu'en phase de multiplication",
+   "Les bêtalactamines sont actives en phase stationnaire"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La daptomycine est active même en phase stationnaire.",
+   "Les bêtalactamines exigent des bactéries en multiplication.",
+   "Faux : la daptomycine est active en phase stationnaire.",
+   "Faux : elle est active en phase stationnaire.",
+   "Faux : les bêtalactamines sont inactives au repos."
+  ]
+ },
+ {
+  "q": "Concernant le spectre de la daptomycine et des polymyxines, quelles propositions sont exactes ?",
+  "options": [
+   "La daptomycine n'est active que sur les Gram +",
+   "Les polymyxines ciblent la membrane externe des bacilles à Gram -",
+   "La daptomycine est inactive sur les Gram -",
+   "Les polymyxines sont inactives sur les Gram -",
+   "La daptomycine est active sur les Gram - et les Gram +"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La daptomycine n'est active que sur les BGP.",
+   "Les polymyxines interagissent avec la membrane externe des BGN.",
+   "La daptomycine est inactive sur les Gram -.",
+   "Faux : les polymyxines sont actives sur les BGN.",
+   "Faux : la daptomycine n'est active que sur les Gram +."
+  ]
+ },
+ {
+  "q": "À propos de la rapidité d'action, quelles comparaisons sont exactes ?",
+  "options": [
+   "Les polymyxines ont une bactéricidie très rapide",
+   "Les glycopeptides ont une bactéricidie lente",
+   "Les bêtalactamines ont une bactéricidie temps-dépendante",
+   "Les polymyxines ont une bactéricidie lente",
+   "Les glycopeptides ont une bactéricidie très rapide"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La bactéricidie des polymyxines est très rapide.",
+   "Celle des glycopeptides est lente.",
+   "Celle des bêtalactamines est temps-dépendante.",
+   "Faux : les polymyxines sont très rapides, pas lentes.",
+   "Faux : les glycopeptides sont lents, pas très rapides."
+  ]
+ },
+ {
+  "q": "Concernant la nature chimique des polymyxines citées, quelles propositions sont exactes ?",
+  "options": [
+   "Le méthane sulfonate est une forme anionique citée",
+   "Le sulfate de colistine est une forme cationique citée",
+   "Ce sont des polypeptides cycliques",
+   "Ce sont des macrolides",
+   "Ce sont des quinolones"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le méthane sulfonate anionique est cité.",
+   "Le sulfate de colistine cationique est cité.",
+   "Les polymyxines sont des polypeptides cycliques.",
+   "Faux : ce ne sont pas des macrolides.",
+   "Faux : ce ne sont pas des quinolones."
+  ]
+ },
+ {
+  "q": "Pourquoi les polymyxines sont-elles actives sur les bacilles à Gram - ?",
+  "options": [
+   "Parce que leur cible est la membrane externe des BGN",
+   "Grâce à l'interaction électrostatique initiale avec les composés de la membrane externe",
+   "Parce qu'elles traversent les porines comme les bêtalactamines hydrophiles",
+   "Parce qu'elles inhibent les PLP des Gram -",
+   "Parce qu'elles se complexent avec les D-Ala-D-Ala"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La cible des polymyxines est la membrane des BGN.",
+   "L'interaction électrostatique initiale se fait avec la membrane externe des BGN.",
+   "Faux : leur mécanisme ne repose pas sur les porines.",
+   "Faux : les PLP sont les cibles des bêtalactamines.",
+   "Faux : la complexation D-Ala-D-Ala est le fait des glycopeptides."
+  ]
+ },
+ {
+  "q": "Concernant la diffusion des polymyxines, quelles propositions sont exactes ?",
+  "options": [
+   "Leur diffusion est médiocre",
+   "Elles ont une activité anti-endotoxine très rapide",
+   "Elles diffusent parfaitement dans tous les tissus",
+   "Leur diffusion médiocre limite leur utilisation",
+   "Elles traversent la barrière hémato-encéphalique sans restriction"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Le cours précise que leur diffusion est médiocre.",
+   "L'activité anti-endotoxine est très rapide.",
+   "Faux : leur diffusion est décrite comme médiocre.",
+   "Faux : le cours ne tire pas cette conclusion d'utilisation.",
+   "Faux : rien dans le cours ne l'affirme."
+  ]
+ },
+ {
+  "q": "À propos de la fuite de potassium provoquée par la daptomycine, quelles affirmations sont vraies ?",
+  "options": [
+   "Elle résulte de la dépolarisation membranaire",
+   "Elle s'accompagne d'un arrêt de la synthèse des protéines, de l'ADN et de l'ARN",
+   "Elle est responsable de l'activité sur les Gram -",
+   "Elle résulte de l'inhibition des PLP",
+   "Elle s'accompagne d'une inhibition de la synthèse du peptidoglycane"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La daptomycine provoque une dépolarisation avec fuite de potassium.",
+   "Il en résulte l'arrêt des synthèses de protéines, ADN et ARN.",
+   "Faux : la daptomycine est inactive sur les Gram -.",
+   "Faux : elle n'inhibe pas les PLP.",
+   "Faux : elle n'inhibe pas la synthèse du peptidoglycane."
+  ]
+ },
+ {
+  "q": "Quelles propositions comparent correctement polymyxines et daptomycine ?",
+  "options": [
+   "Les deux altèrent les enveloppes membranaires",
+   "Les polymyxines ciblent les BGN, la daptomycine les BGP",
+   "Les polymyxines ont une bactéricidie très rapide concentration-dépendante",
+   "Les deux inhibent la synthèse du peptidoglycane",
+   "Les deux se fixent sur la sous-unité 30S"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les deux familles altèrent les enveloppes membranaires.",
+   "Polymyxines : BGN ; daptomycine : BGP uniquement.",
+   "La bactéricidie des polymyxines est très rapide et concentration-dépendante.",
+   "Faux : aucune des deux n'inhibe le peptidoglycane.",
+   "Faux : aucune ne se fixe sur la 30S."
+  ]
+ },
+ {
+  "q": "Concernant l'activité anti-endotoxine des polymyxines, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est décrite comme très rapide",
+   "Elle est liée à l'interaction avec la membrane externe des BGN",
+   "Elle est plus lente que celle des glycopeptides",
+   "Elle n'existe pas",
+   "Elle est liée à l'inhibition de la synthèse protéique"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "L'activité anti-endotoxine est très rapide.",
+   "Elle découle de l'interaction avec la membrane externe des BGN (endotoxine = LPS).",
+   "Faux : elle est très rapide, et les glycopeptides n'ont pas cette activité.",
+   "Faux : elle est explicitement citée dans le cours.",
+   "Faux : elle est liée à l'action membranaire, pas ribosomale."
+  ]
+ },
+ {
+  "q": "À propos des deux familles altérant les enveloppes, quelles affirmations sont vraies ?",
+  "options": [
+   "Les polymyxines augmentent la perméabilité membranaire jusqu'à la mort cellulaire",
+   "La daptomycine dépolarise la membrane avec fuite de potassium",
+   "La daptomycine reste active en phase stationnaire",
+   "Les polymyxines inhibent la transcription",
+   "La daptomycine inhibe les topoisomérases"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les polymyxines augmentent la perméabilité membranaire.",
+   "La daptomycine dépolarise la membrane (fuite K+).",
+   "Elle est active en phase stationnaire.",
+   "Faux : les polymyxines n'inhibent pas la transcription.",
+   "Faux : la daptomycine n'inhibe pas les topoisomérases."
+  ]
+ },
+ {
+  "q": "Quelles propositions concernant la colistine sont exactes ?",
+  "options": [
+   "Le sulfate de colistine est une polymyxine cationique",
+   "Il est intéressant de tester les associations avec la colistine",
+   "Son mécanisme peut être synergique avec des ATB apparaissant résistants",
+   "La colistine est un glycopeptide",
+   "La colistine inhibe la synthèse des folates"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le sulfate de colistine cationique est une polymyxine.",
+   "Le cours recommande de tester les associations avec la colistine.",
+   "La synergie avec des ATB apparaissant résistants est décrite.",
+   "Faux : la colistine n'est pas un glycopeptide.",
+   "Faux : elle n'agit pas sur les folates."
+  ]
+ },
+ {
+  "q": "Concernant la sélectivité d'action polymyxines/daptomycine, quelles propositions sont exactes ?",
+  "options": [
+   "La daptomycine n'est active que sur les bactéries à Gram +",
+   "Les polymyxines agissent sur les bacilles à Gram -",
+   "La daptomycine est inactive sur les bacilles à Gram -",
+   "Les polymyxines sont inactives sur les bacilles à Gram -",
+   "La daptomycine traverse les porines des Gram -"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La daptomycine n'est active que sur les BGP.",
+   "Les polymyxines ciblent la membrane externe des BGN.",
+   "La daptomycine est inactive sur les Gram -.",
+   "Faux : les polymyxines sont actives sur les BGN.",
+   "Faux : la daptomycine n'agit pas sur les Gram -."
+  ]
+ },
+ {
+  "q": "À propos du caractère bactéricide des agents des enveloppes, quelles affirmations sont vraies ?",
+  "options": [
+   "Les polymyxines sont bactéricides très rapides",
+   "La daptomycine interrompt les synthèses vitales après dépolarisation",
+   "Les polymyxines sont bactériostatiques",
+   "La daptomycine est bactériostatique",
+   "Les deux sont bactériostatiques temps-dépendants"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les polymyxines ont une bactéricidie très rapide.",
+   "La daptomycine arrête protéines/ADN/ARN après dépolarisation.",
+   "Faux : les polymyxines sont bactéricides.",
+   "Faux : la daptomycine provoque la mort cellulaire.",
+   "Faux : elles ne sont pas bactériostatiques."
+  ]
+ },
+ {
+  "q": "Quelles propositions résument les deux modes d'altération des enveloppes du cours ?",
+  "options": [
+   "Polymyxines : interaction électrostatique puis hyperperméabilité membranaire des BGN",
+   "Daptomycine : dépolarisation membranaire avec fuite de potassium (BGP)",
+   "Polymyxines : inhibition de la synthèse du peptidoglycane",
+   "Daptomycine : fixation sur les PLP",
+   "Les deux : inhibition de la dihydrofolate réductase"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Polymyxines : interaction électrostatique puis perméabilité accrue.",
+   "Daptomycine : dépolarisation et fuite de potassium.",
+   "Faux : les polymyxines n'inhibent pas le peptidoglycane.",
+   "Faux : la daptomycine ne se fixe pas sur les PLP.",
+   "Faux : aucune n'inhibe la dihydrofolate réductase (cible du triméthoprime)."
+  ]
+ },
+ {
+  "q": "Concernant la synergie des polymyxines, quelles propositions sont exactes ?",
+  "options": [
+   "Leur mécanisme peut être synergique avec des antibiotiques apparaissant résistants sur l'antibiogramme",
+   "L'hyperperméabilité membranaire peut favoriser l'action d'autres ATB",
+   "Toute association avec les polymyxines est antagoniste",
+   "La synergie ne concerne que les glycopeptides",
+   "Les polymyxines ne sont jamais utilisées en association"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La synergie avec des ATB apparaissant résistants est décrite.",
+   "L'augmentation de perméabilité favorise l'accès d'autres ATB.",
+   "Faux : la synergie est décrite, pas l'antagonisme.",
+   "Faux : le cours ne limite pas la synergie aux glycopeptides.",
+   "Faux : l'intérêt des associations avec la colistine est souligné."
+  ]
+ },
+ {
+  "q": "À propos de la daptomycine (CUBICIN), quelles affirmations sont vraies ?",
+  "options": [
+   "C'est un glycolipopeptide cyclique",
+   "Elle est active uniquement sur les Gram +",
+   "Elle agit même en phase stationnaire",
+   "C'est une polymyxine",
+   "Elle inhibe la synthèse du peptidoglycane"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La daptomycine est un glycolipopeptide cyclique.",
+   "Elle n'est active que sur les BGP.",
+   "Elle reste active en phase stationnaire.",
+   "Faux : ce n'est pas une polymyxine.",
+   "Faux : elle altère la membrane, pas le peptidoglycane."
+  ]
+ },
+ {
+  "q": "Quelles différences y a-t-il entre l'action des polymyxines et celle des bêtalactamines ?",
+  "options": [
+   "Les polymyxines ciblent la membrane, les bêtalactamines les PLP du peptidoglycane",
+   "Les polymyxines sont concentration-dépendantes très rapides, les bêtalactamines temps-dépendantes",
+   "Les polymyxines agissent sur les BGN, les bêtalactamines sur Gram + et Gram -",
+   "Les deux ciblent les PLP",
+   "Les deux sont temps-dépendantes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Membrane vs PLP : cibles différentes.",
+   "Cinétique : concentration-dépendante très rapide vs temps-dépendante.",
+   "Spectre : BGN pour polymyxines ; large pour bêtalactamines.",
+   "Faux : les polymyxines ne ciblent pas les PLP.",
+   "Faux : les polymyxines sont concentration-dépendantes."
+  ]
+ },
+ {
+  "q": "Concernant les enveloppes comme cibles, quelles propositions sont exactes ?",
+  "options": [
+   "La membrane externe des BGN est la cible initiale des polymyxines",
+   "La membrane cytoplasmique est dépolarisée par la daptomycine",
+   "L'altération des enveloppes est l'un des cinq modes d'action",
+   "Les enveloppes sont la cible des aminosides",
+   "Les enveloppes sont la cible des quinolones"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les polymyxines interagissent d'abord avec la membrane externe des BGN.",
+   "La daptomycine dépolarise la membrane.",
+   "L'altération des enveloppes est l'un des cinq modes.",
+   "Faux : les aminosides ciblent le ribosome 30S.",
+   "Faux : les quinolones ciblent les topoisomérases."
+  ]
+ },
+ {
+  "q": "À propos de la mort cellulaire induite par les polymyxines, quelles affirmations sont vraies ?",
+  "options": [
+   "Elle fait suite à l'augmentation de la perméabilité membranaire",
+   "Elle est très rapide",
+   "Elle résulte d'une interaction électrostatique initiale",
+   "Elle résulte de l'inhibition de la synthèse protéique",
+   "Elle est lente comme celle des glycopeptides"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'hyperperméabilité membranaire conduit à la mort cellulaire.",
+   "L'action est très rapide.",
+   "Tout débute par l'interaction électrostatique.",
+   "Faux : ce n'est pas une inhibition de la synthèse protéique.",
+   "Faux : elle est très rapide, contrairement aux glycopeptides."
+  ]
+ },
+ {
+  "q": "Concernant les aminosides cités dans le cours, quelles propositions sont exactes ?",
+  "options": [
+   "La gentamicine en est un représentant",
+   "La tobramycine en est un représentant",
+   "L'amikacine en est un représentant",
+   "La vancomycine est un aminoside",
+   "La doxycycline est un aminoside"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La gentamicine est citée comme aminoside.",
+   "La tobramycine est citée comme aminoside.",
+   "L'amikacine est citée comme aminoside.",
+   "Faux : la vancomycine est un glycopeptide.",
+   "Faux : la doxycycline est une cycline."
+  ]
+ },
+ {
+  "q": "À propos de la nature chimique des aminosides, quelles affirmations sont vraies ?",
+  "options": [
+   "Ce sont des polycations",
+   "Ils se concentrent dans l'environnement immédiat des bactéries",
+   "Ce sont des polypeptides cycliques",
+   "Ce sont des macrolides",
+   "Ce sont des quinolones"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les aminosides sont des polycations.",
+   "Ils se concentrent dans l'environnement immédiat des bactéries.",
+   "Faux : les polypeptides cycliques sont les polymyxines.",
+   "Faux : ce ne sont pas des macrolides.",
+   "Faux : ce ne sont pas des quinolones."
+  ]
+ },
+ {
+  "q": "Concernant la pénétration des aminosides chez les Gram -, quelles propositions sont exactes ?",
+  "options": [
+   "Le passage par les porines est rapide",
+   "La traversée du peptidoglycane est aisée",
+   "La traversée de la membrane cytoplasmique utilise des systèmes de transport actifs",
+   "Le transport membranaire comporte deux phases énergie-dépendantes (EDP I et EDP II)",
+   "La pénétration est purement passive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Le passage par les porines des GN est rapide.",
+   "La traversée du PG est aisée.",
+   "La membrane cytoplasmique est traversée par transport actif.",
+   "Les deux phases EDP I et EDP II sont énergie-dépendantes.",
+   "Faux : le transport membranaire est actif, pas purement passif."
+  ]
+ },
+ {
+  "q": "Pourquoi les bactéries anaérobies strictes sont-elles peu ou pas sensibles aux aminosides ?",
+  "options": [
+   "Parce que la pénétration membranaire des aminosides est énergie-dépendante",
+   "Parce que les systèmes de transport EDP I et EDP II nécessitent de l'énergie (respiration)",
+   "Parce que les anaérobies ne produisent pas l'énergie requise pour ce transport actif",
+   "Parce que les aminosides sont détruits par les anaérobies",
+   "Parce que les anaérobies ne possèdent pas de ribosomes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La traversée membranaire est énergie-dépendante.",
+   "Les systèmes EDP I et EDP II requièrent de l'énergie.",
+   "Les anaérobies strictes ou aéro-tolérants fournissent peu ou pas cette énergie.",
+   "Faux : ils ne détruisent pas les aminosides.",
+   "Faux : les anaérobies possèdent des ribosomes."
+  ]
+ },
+ {
+  "q": "Concernant la cible ribosomale des aminosides, quelles propositions sont exactes ?",
+  "options": [
+   "Ils se fixent sur l'ARN ribosomal 16S",
+   "Ils se fixent sur la sous-unité 30S du ribosome",
+   "Ils se fixent sur la sous-unité 50S du ribosome",
+   "Ils se fixent sur l'ARN 23S",
+   "Ils se fixent sur les PLP"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les aminosides se fixent sur l'ARNr 16S.",
+   "La cible est la sous-unité 30S du ribosome.",
+   "Faux : la 50S est la cible des MLSK et du chloramphénicol.",
+   "Faux : l'ARN 23S est la cible des MLSK.",
+   "Faux : les PLP sont les cibles des bêtalactamines."
+  ]
+ },
+ {
+  "q": "À propos du mode d'action des aminosides sur la synthèse protéique, quelles affirmations sont vraies ?",
+  "options": [
+   "Ils altèrent toutes les étapes de la synthèse protéique",
+   "Ils altèrent donc les protéines membranaires",
+   "Ils inhibent l'élongation de la chaîne peptidique",
+   "Ils bloquent l'assemblage des sous-unités 30S et 50S",
+   "Ils empêchent la formation du complexe d'initiation au site P de la 50S"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La fixation sur la 30S altère toutes les étapes de la synthèse protéique.",
+   "Les protéines membranaires sont donc altérées.",
+   "L'élongation de la chaîne peptidique est inhibée.",
+   "Faux : le blocage de l'assemblage 30S/50S est le fait du kétolide.",
+   "Faux : l'inhibition du complexe d'initiation est le fait du linézolide."
+  ]
+ },
+ {
+  "q": "Concernant l'effet des aminosides, quelles propositions sont exactes ?",
+  "options": [
+   "Leur bactéricidie est rapide et profonde",
+   "Ils présentent un effet post-antibiotique",
+   "Ils sont bactériostatiques",
+   "Ils sont bactéricides lents",
+   "Ils n'ont aucun effet post-antibiotique"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La bactéricidie des aminosides est rapide et profonde.",
+   "L'effet post-antibiotique est décrit.",
+   "Faux : les aminosides sont bactéricides.",
+   "Faux : leur bactéricidie est rapide, pas lente.",
+   "Faux : l'effet post-antibiotique est une caractéristique citée."
+  ]
+ },
+ {
+  "q": "Quelles propositions distinguent les aminosides des autres inhibiteurs de la synthèse protéique ?",
+  "options": [
+   "Les aminosides sont bactéricides, les MLSK/tétracyclines/chloramphénicol sont bactériostatiques",
+   "Les aminosides se fixent sur la 30S (ARN 16S), les MLSK sur la 50S (ARN 23S)",
+   "Les aminosides ont un effet post-antibiotique",
+   "Les aminosides sont bactériostatiques comme les MLSK",
+   "Les aminosides se fixent sur la 50S comme les macrolides"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Aminosides bactéricides vs autres inhibiteurs bactériostatiques.",
+   "Cibles : 30S/16S pour aminosides, 50S/23S pour MLSK.",
+   "L'effet post-antibiotique caractérise les aminosides.",
+   "Faux : les aminosides sont bactéricides.",
+   "Faux : les aminosides se fixent sur la 30S."
+  ]
+ },
+ {
+  "q": "À propos de la pénétration des aminosides, quelles affirmations sont vraies ?",
+  "options": [
+   "Le passage par les porines des Gram - est rapide",
+   "La traversée du peptidoglycane est aisée",
+   "La traversée membranaire nécessite deux phases de transport actif énergie-dépendant",
+   "La pénétration est indépendante de l'énergie bactérienne",
+   "Les anaérobies strictes sont très sensibles aux aminosides"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Passage rapide par les porines des GN.",
+   "Traversée aisée du PG.",
+   "Transport membranaire en deux phases EDP I et EDP II.",
+   "Faux : le transport est énergie-dépendant.",
+   "Faux : les anaérobies strictes sont peu ou pas sensibles."
+  ]
+ },
+ {
+  "q": "Concernant les systèmes EDP I et EDP II, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des systèmes de transport actifs des aminosides à travers la membrane cytoplasmique",
+   "Ils sont énergie-dépendants",
+   "Ils expliquent la faible sensibilité des anaérobies strictes aux aminosides",
+   "Ce sont des porines de la membrane externe",
+   "Ils transportent les bêtalactamines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "EDP I et EDP II transportent activement les aminosides.",
+   "Ces systèmes sont énergie-dépendants.",
+   "D'où la faible sensibilité des anaérobies.",
+   "Faux : ce ne sont pas des porines.",
+   "Faux : ils transportent les aminosides, pas les bêtalactamines."
+  ]
+ },
+ {
+  "q": "Quelles affirmations concernant la fixation des aminosides sont exactes ?",
+  "options": [
+   "Elle se fait sur l'ARN ribosomal 16S de la sous-unité 30S",
+   "Elle altère toutes les étapes de la synthèse protéique",
+   "Elle est irréversible et covalente comme celle des bêtalactamines sur les PLP",
+   "Elle se fait sur l'ARN 23S de la 50S",
+   "Elle bloque la transcription de l'ADN"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Fixation sur l'ARNr 16S de la 30S.",
+   "Toutes les étapes de la synthèse protéique sont altérées.",
+   "Faux : le cours ne décrit pas de liaison covalente irréversible pour les aminosides.",
+   "Faux : l'ARN 23S de la 50S est la cible des MLSK.",
+   "Faux : les aminosides n'agissent pas sur la transcription."
+  ]
+ },
+ {
+  "q": "À propos de l'effet post-antibiotique des aminosides, quelles propositions sont exactes ?",
+  "options": [
+   "Il s'agit d'une persistance de l'effet antibactérien après l'élimination de l'antibiotique",
+   "Il est décrit pour les aminosides dans le cours",
+   "Il est décrit pour les bêtalactamines dans le cours",
+   "Les aminosides n'ont pas d'effet post-antibiotique",
+   "Il s'agit d'une résistance acquise après traitement"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "L'effet post-antibiotique est la persistance de l'effet après disparition de l'ATB.",
+   "Il est cité pour les aminosides.",
+   "Faux : il n'est pas décrit pour les bêtalactamines dans le cours.",
+   "Faux : les aminosides présentent cet effet.",
+   "Faux : ce n'est pas une résistance acquise."
+  ]
+ },
+ {
+  "q": "Concernant le caractère polycationique des aminosides, quelles propositions sont exactes ?",
+  "options": [
+   "Il explique leur concentration dans l'environnement immédiat des bactéries",
+   "Il favorise l'interaction initiale avec les surfaces bactériennes chargées",
+   "Il explique leur passage par les porines",
+   "Il les rend lipophiles",
+   "Il explique leur activité sur les anaérobies"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les polycations se concentrent près des bactéries.",
+   "La charge positive favorise l'interaction avec les surfaces bactériennes.",
+   "Faux : le passage par les porines n'est pas expliqué par ce caractère.",
+   "Faux : polycationique ne signifie pas lipophile.",
+   "Faux : les anaérobies sont peu sensibles malgré ce caractère."
+  ]
+ },
+ {
+  "q": "Quelles propositions résument correctement le mode d'action des aminosides ?",
+  "options": [
+   "Polycations se concentrant près des bactéries",
+   "Pénétration rapide par porines puis transport actif EDP I/EDP II",
+   "Fixation sur l'ARN 16S de la 30S altérant toutes les étapes de la synthèse protéique",
+   "Fixation sur l'ARN 23S de la 50S",
+   "Inhibition de la dihydrofolate réductase"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les aminosides sont des polycations.",
+   "Porines puis transport actif en deux phases.",
+   "Fixation 16S/30S avec altération globale de la synthèse protéique.",
+   "Faux : l'ARN 23S/50S est la cible des MLSK.",
+   "Faux : la dihydrofolate réductase est la cible du triméthoprime."
+  ]
+ },
+ {
+  "q": "À propos des protéines membranaires et des aminosides, quelles affirmations sont vraies ?",
+  "options": [
+   "L'altération de toutes les étapes de la synthèse protéique touche les protéines membranaires",
+   "Cette altération contribue à l'effet bactéricide rapide et profond",
+   "Les aminosides protègent les protéines membranaires",
+   "Les aminosides n'affectent que les protéines cytoplasmiques",
+   "L'effet sur les protéines membranaires est sans conséquence"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Toutes les étapes étant altérées, les protéines membranaires le sont aussi.",
+   "Cela participe à la bactéricidie rapide et profonde.",
+   "Faux : les aminosides altèrent, ils ne protègent pas.",
+   "Faux : toutes les étapes sont altérées, pas seulement les cytoplasmiques.",
+   "Faux : cette altération contribue à l'effet bactéricide."
+  ]
+ },
+ {
+  "q": "Concernant la sensibilité des bactéries aux aminosides selon leur métabolisme, quelles propositions sont exactes ?",
+  "options": [
+   "Les bactéries aérobies fournissent l'énergie nécessaire au transport EDP I/EDP II",
+   "Les anaérobies strictes sont peu ou pas sensibles",
+   "Les bactéries aéro-tolérantes sont peu ou pas sensibles",
+   "Les anaérobies strictes sont très sensibles aux aminosides",
+   "Le métabolisme énergétique n'influence pas la sensibilité aux aminosides"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le transport actif requiert l'énergie du métabolisme aérobie.",
+   "Les anaérobies strictes sont peu ou pas sensibles.",
+   "Les aéro-tolérants sont peu ou pas sensibles.",
+   "Faux : les anaérobies strictes sont peu ou pas sensibles.",
+   "Faux : le métabolisme conditionne la pénétration énergie-dépendante."
+  ]
+ },
+ {
+  "q": "Quelles différences existe-t-il entre aminosides et bêtalactamines ?",
+  "options": [
+   "Les aminosides ciblent le ribosome 30S, les bêtalactamines les PLP",
+   "Les aminosides sont bactéricides rapides, les bêtalactamines temps-dépendantes",
+   "Les aminosides nécessitent un transport actif énergie-dépendant, pas les bêtalactamines",
+   "Les deux ciblent le ribosome 30S",
+   "Les deux sont bactériostatiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Ribosome 30S vs PLP : cibles différentes.",
+   "Bactéricidie rapide vs temps-dépendante.",
+   "Transport actif EDP pour les aminosides uniquement.",
+   "Faux : les bêtalactamines ne ciblent pas le ribosome.",
+   "Faux : les deux sont bactéricides."
+  ]
+ },
+ {
+  "q": "À propos de la gentamicine, de la tobramycine et de l'amikacine, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont trois aminosides cités dans le cours",
+   "Ils partagent le même mécanisme d'action (fixation 16S/30S)",
+   "Ils sont bactéricides rapides avec effet post-antibiotique",
+   "Ce sont trois glycopeptides",
+   "Ce sont trois fluoroquinolones"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Gentamicine, tobramycine, amikacine : aminosides cités.",
+   "Même mécanisme : fixation sur l'ARN 16S de la 30S.",
+   "Bactéricidie rapide et effet post-antibiotique.",
+   "Faux : ce ne sont pas des glycopeptides.",
+   "Faux : ce ne sont pas des fluoroquinolones."
+  ]
+ },
+ {
+  "q": "Concernant l'élongation de la chaîne peptidique et les aminosides, quelles affirmations sont vraies ?",
+  "options": [
+   "Les aminosides inhibent l'élongation de la chaîne peptidique",
+   "Cette inhibition s'ajoute à l'altération de toutes les étapes de la synthèse protéique",
+   "Les aminosides stimulent l'élongation",
+   "L'élongation n'est pas affectée par les aminosides",
+   "Seule l'initiation est affectée"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "L'inhibition de l'élongation est citée dans le récapitulatif.",
+   "Elle s'inscrit dans l'altération globale de la synthèse protéique.",
+   "Faux : les aminosides inhibent, ils ne stimulent pas.",
+   "Faux : l'élongation est affectée.",
+   "Faux : toutes les étapes sont altérées, pas seulement l'initiation."
+  ]
+ },
+ {
+  "q": "Quelles propositions concernant la traversée du peptidoglycane par les aminosides sont exactes ?",
+  "options": [
+   "Elle est aisée",
+   "Elle précède le transport actif à travers la membrane cytoplasmique",
+   "Elle est impossible chez les Gram +",
+   "Elle se fait par les porines",
+   "Elle nécessite de l'énergie (EDP I/EDP II)"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La traversée du PG est décrite comme aisée.",
+   "Elle précède le transport actif membranaire.",
+   "Faux : elle est aisée, pas impossible.",
+   "Faux : les porines sont dans la membrane externe des Gram -.",
+   "Faux : le transport énergie-dépendant concerne la membrane cytoplasmique."
+  ]
+ },
+ {
+  "q": "À propos du spectre d'activité des aminosides, quelles affirmations peut-on déduire du cours ?",
+  "options": [
+   "Leur pénétration rapide par les porines des Gram - suggère une activité sur ces bactéries",
+   "Les anaérobies strictes en sont exclus du fait du transport énergie-dépendant",
+   "Ils sont actifs sur les anaérobies strictes",
+   "Ils sont inactifs sur les Gram -",
+   "Leur spectre est limité aux Gram +"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Le passage rapide par les porines des GN indique une activité sur Gram -.",
+   "Les anaérobies sont peu ou pas sensibles.",
+   "Faux : les anaérobies strictes sont peu ou pas sensibles.",
+   "Faux : ils pénètrent bien chez les Gram -.",
+   "Faux : rien n'indique une limitation aux Gram +."
+  ]
+ },
+ {
+  "q": "Concernant la fixation des aminosides au ribosome, quelles propositions sont exactes ?",
+  "options": [
+   "La cible moléculaire précise est l'ARN ribosomal 16S",
+   "La cible structurale est la sous-unité 30S",
+   "La fixation altère toutes les étapes de la synthèse protéique",
+   "La cible est l'ARN 23S de la 50S",
+   "La cible est l'ADN gyrase"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Cible moléculaire : ARNr 16S.",
+   "Cible structurale : sous-unité 30S.",
+   "Conséquence : altération de toutes les étapes.",
+   "Faux : 23S/50S est la cible des MLSK.",
+   "Faux : l'ADN gyrase est la cible des quinolones."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sur la rapidité d'action des aminosides sont vraies ?",
+  "options": [
+   "Leur bactéricidie est qualifiée de rapide et profonde",
+   "Elle s'oppose à la bactéricidie lente des glycopeptides",
+   "Elle est comparable à la bactéricidie très rapide des polymyxines",
+   "Leur bactéricidie est lente",
+   "Ils sont bactériostatiques"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Bactéricidie rapide et profonde des aminosides.",
+   "Elle contraste avec la bactéricidie lente des glycopeptides.",
+   "Faux : le cours ne fait pas cette comparaison.",
+   "Faux : leur bactéricidie est rapide.",
+   "Faux : ils sont bactéricides."
+  ]
+ },
+ {
+  "q": "À propos des aminosides et des protéines membranaires, quelles propositions sont exactes ?",
+  "options": [
+   "L'altération de la synthèse protéique affecte les protéines membranaires",
+   "Les protéines membranaires altérées participent à l'effet bactéricide",
+   "Les aminosides épargnent sélectivement les protéines membranaires",
+   "Seules les protéines ribosomales sont altérées",
+   "L'effet sur les protéines membranaires explique l'effet post-antibiotique"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Toutes les étapes étant altérées, les protéines membranaires le sont.",
+   "Cela contribue à la bactéricidie rapide et profonde.",
+   "Faux : aucune épargne sélective n'est décrite.",
+   "Faux : toutes les étapes de la synthèse sont altérées.",
+   "Faux : le cours ne fait pas ce lien explicatif."
+  ]
+ },
+ {
+  "q": "Quelles propositions résument les particularités pharmacodynamiques des aminosides ?",
+  "options": [
+   "Bactéricidie rapide et profonde",
+   "Effet post-antibiotique",
+   "Activité dépendante du transport actif énergie-dépendant (donc du métabolisme aérobie)",
+   "Bactériostase pure sans effet post-antibiotique",
+   "Activité indépendante de la phase de croissance"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Bactéricidie rapide et profonde.",
+   "Effet post-antibiotique décrit.",
+   "Le transport EDP énergie-dépendant lie l'activité au métabolisme.",
+   "Faux : ils sont bactéricides avec effet post-antibiotique.",
+   "Faux : l'activité dépend du métabolisme énergétique."
+  ]
+ },
+ {
+  "q": "Concernant le groupe MLSK, quelles propositions sont exactes ?",
+  "options": [
+   "Il regroupe macrolides, lincosamides, streptogramines et kétolides",
+   "Ce sont des antibiotiques chimiquement différents",
+   "Ils partagent une similitude de mécanisme d'action",
+   "Ce sont des antibiotiques chimiquement identiques",
+   "Ils ont des mécanismes d'action totalement différents"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "MLSK = macrolides, lincosamides, streptogramines, kétolides.",
+   "Ils sont chimiquement différents.",
+   "Ils partagent le même mécanisme d'action.",
+   "Faux : ils sont chimiquement différents.",
+   "Faux : leurs mécanismes sont similaires."
+  ]
+ },
+ {
+  "q": "À propos de la cible ribosomale des MLSK, quelles affirmations sont vraies ?",
+  "options": [
+   "Ils se lient à l'ARN 23S de la sous-unité 50S",
+   "La liaison se fait au site P du ribosome",
+   "La liaison est réversible",
+   "Ils se fixent sur l'ARN 16S de la 30S",
+   "Ils se fixent sur les PLP"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Cible : ARN 23S de la sous-unité 50S.",
+   "Site de liaison : site P.",
+   "La liaison est réversible.",
+   "Faux : 16S/30S est la cible des aminosides et tétracyclines.",
+   "Faux : les PLP sont les cibles des bêtalactamines."
+  ]
+ },
+ {
+  "q": "Concernant l'effet des MLSK sur la synthèse protéique, quelles propositions sont exactes ?",
+  "options": [
+   "Ils inhibent la transpeptidation",
+   "Ils inhibent la translocation",
+   "Ils inhibent l'élongation de la chaîne peptidique",
+   "Ils stimulent la transpeptidation",
+   "Ils bloquent la réplication de l'ADN"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "L'inhibition de la transpeptidation est décrite.",
+   "L'inhibition de la translocation est décrite.",
+   "Faux : l'inhibition de l'élongation est attribuée aux aminosides dans le récapitulatif.",
+   "Faux : ils inhibent, ils ne stimulent pas.",
+   "Faux : ils n'agissent pas sur la réplication de l'ADN."
+  ]
+ },
+ {
+  "q": "À propos du kétolide (télithromycine), quelles affirmations sont vraies ?",
+  "options": [
+   "C'est un kétolide appartenant au groupe MLSK",
+   "Il bloque l'assemblage des sous-unités 30S et 50S",
+   "Il partage la similitude de mécanisme d'action des MLSK",
+   "C'est un aminoside",
+   "Il se fixe sur l'ARN 16S"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La télithromycine est le kétolide cité.",
+   "Elle bloque l'assemblage des sous-unités 30S et 50S.",
+   "Elle appartient au groupe MLSK.",
+   "Faux : ce n'est pas un aminoside.",
+   "Faux : les MLSK se lient à l'ARN 23S de la 50S."
+  ]
+ },
+ {
+  "q": "Concernant l'effet global des MLSK, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des antibiotiques bactériostatiques",
+   "Leur liaison au ribosome est réversible",
+   "Ce sont des antibiotiques bactéricides",
+   "Leur liaison au ribosome est covalente et irréversible",
+   "Ils ont un effet post-antibiotique marqué comme les aminosides"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les MLSK sont bactériostatiques.",
+   "Leur liaison à l'ARN 23S est réversible.",
+   "Faux : ils sont bactériostatiques, pas bactéricides.",
+   "Faux : la liaison est réversible, pas covalente irréversible.",
+   "Faux : l'effet post-antibiotique est décrit pour les aminosides."
+  ]
+ },
+ {
+  "q": "Quelles différences distinguent les MLSK des aminosides ?",
+  "options": [
+   "Les MLSK sont bactériostatiques, les aminosides bactéricides",
+   "Les MLSK se lient à la 50S (ARN 23S), les aminosides à la 30S (ARN 16S)",
+   "La liaison des MLSK est réversible",
+   "Les deux sont bactéricides",
+   "Les deux se lient à la 30S"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Bactériostatiques vs bactéricides.",
+   "50S/23S vs 30S/16S.",
+   "Liaison réversible des MLSK.",
+   "Faux : les MLSK sont bactériostatiques.",
+   "Faux : les MLSK se lient à la 50S."
+  ]
+ },
+ {
+  "q": "À propos du site P du ribosome, quelles propositions sont exactes ?",
+  "options": [
+   "Les MLSK s'y lient via l'ARN 23S de la 50S",
+   "Le linézolide s'y lie également (site P de la 50S)",
+   "Le chloramphénicol s'y lie",
+   "Les aminosides s'y lient",
+   "Les tétracyclines s'y lient"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les MLSK se lient au site P (ARN 23S, 50S).",
+   "Le linézolide se lie aussi au site P de la 50S.",
+   "Faux : le chloramphénicol se lie au site A de la 50S.",
+   "Faux : les aminosides se fixent sur la 30S.",
+   "Faux : les tétracyclines agissent au site A de la 30S."
+  ]
+ },
+ {
+  "q": "Concernant la transpeptidation et la translocation ribosomales, quels antibiotiques les inhibent selon le cours ?",
+  "options": [
+   "Les macrolides et apparentés (MLSK) inhibent la transpeptidation",
+   "Les macrolides et apparentés (MLSK) inhibent la translocation",
+   "Les MLSK se lient de façon réversible à l'ARN 23S de la 50S",
+   "Les quinolones inhibent la transpeptidation",
+   "Les sulfamides inhibent la translocation"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les MLSK inhibent la transpeptidation.",
+   "Les MLSK inhibent la translocation.",
+   "Liaison réversible à l'ARN 23S de la 50S (site P).",
+   "Faux : les quinolones agissent sur l'ADN.",
+   "Faux : les sulfamides agissent sur les folates."
+  ]
+ },
+ {
+  "q": "À propos des lincosamides et des streptogramines, quelles propositions sont exactes ?",
+  "options": [
+   "Elles appartiennent au groupe MLSK",
+   "Elles partagent le mécanisme d'action des macrolides (liaison 23S/50S)",
+   "Elles sont bactériostatiques comme les autres MLSK",
+   "Elles se fixent sur la sous-unité 30S",
+   "Elles inhibent l'ADN gyrase"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Lincosamides et streptogramines font partie des MLSK.",
+   "Similitude de mécanisme : liaison à l'ARN 23S de la 50S.",
+   "Les MLSK sont bactériostatiques.",
+   "Faux : la 30S est la cible des aminosides/tétracyclines.",
+   "Faux : l'ADN gyrase est la cible des quinolones."
+  ]
+ },
+ {
+  "q": "Quelles propositions comparent correctement MLSK et tétracyclines ?",
+  "options": [
+   "Les deux sont bactériostatiques",
+   "Les MLSK se lient à la 50S (ARN 23S), les tétracyclines à la 30S",
+   "Les MLSK inhibent transpeptidation/translocation, les tétracyclines la fixation au site A",
+   "Les deux se lient à la 50S",
+   "Les tétracyclines sont bactéricides et les MLSK bactériostatiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "MLSK et tétracyclines sont bactériostatiques.",
+   "50S/23S pour MLSK, 30S pour tétracyclines.",
+   "Mécanismes distincts au sein de la synthèse protéique.",
+   "Faux : les tétracyclines se fixent sur la 30S.",
+   "Faux : les tétracyclines sont bactériostatiques."
+  ]
+ },
+ {
+  "q": "Concernant la réversibilité de la liaison des MLSK, quelles affirmations sont vraies ?",
+  "options": [
+   "La liaison à l'ARN 23S est réversible",
+   "Cette réversibilité est cohérente avec l'effet bactériostatique",
+   "La liaison est covalente et irréversible",
+   "La réversibilité explique la bactéricidie",
+   "Les MLSK se lient de façon irréversible comme les bêtalactamines aux PLP"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La liaison des MLSK à l'ARN 23S est réversible.",
+   "La réversibilité cadre avec un effet bactériostatique.",
+   "Faux : la liaison est réversible, pas covalente irréversible.",
+   "Faux : les MLSK sont bactériostatiques.",
+   "Faux : la liaison covalente irréversible concerne les bêtalactamines/PLP."
+  ]
+ },
+ {
+  "q": "À propos du kétolide et de l'assemblage ribosomal, quelles propositions sont exactes ?",
+  "options": [
+   "La télithromycine bloque l'assemblage des sous-unités 30S et 50S",
+   "C'est une particularité du kétolide au sein des MLSK",
+   "Tous les MLSK bloquent l'assemblage des sous-unités",
+   "La télithromycine est un aminoside",
+   "Le blocage de l'assemblage concerne les quinolones"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Le kétolide bloque l'assemblage 30S/50S.",
+   "C'est une particularité citée pour la télithromycine.",
+   "Faux : c'est spécifique au kétolide, pas à tous les MLSK.",
+   "Faux : la télithromycine est un kétolide.",
+   "Faux : les quinolones agissent sur l'ADN."
+  ]
+ },
+ {
+  "q": "Quelles propositions résument correctement le groupe MLSK ?",
+  "options": [
+   "Antibiotiques chimiquement différents mais de mécanisme similaire",
+   "Liaison réversible à l'ARN 23S de la 50S au site P",
+   "Inhibition de la transpeptidation et de la translocation",
+   "Effet bactériostatique",
+   "Fixation sur l'ARN 16S de la 30S"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Diversité chimique, unité de mécanisme.",
+   "Liaison réversible 23S/50S au site P.",
+   "Inhibition transpeptidation et translocation.",
+   "Les MLSK sont bactériostatiques.",
+   "Faux : 16S/30S est la cible des aminosides."
+  ]
+ },
+ {
+  "q": "Concernant les macrolides au sens strict, quelles propositions sont exactes ?",
+  "options": [
+   "Ils appartiennent au groupe MLSK",
+   "Ils se lient à l'ARN 23S de la sous-unité 50S",
+   "Ils inhibent la transpeptidation et la translocation",
+   "Ils se fixent sur la sous-unité 30S",
+   "Ils sont bactéricides"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les macrolides font partie des MLSK.",
+   "Liaison à l'ARN 23S de la 50S.",
+   "Inhibition de la transpeptidation et de la translocation.",
+   "Faux : la 30S est la cible des aminosides/tétracyclines.",
+   "Faux : les macrolides sont bactériostatiques."
+  ]
+ },
+ {
+  "q": "À propos de la cible commune des MLSK, du chloramphénicol et du linézolide, quelles affirmations sont vraies ?",
+  "options": [
+   "Les trois agissent sur la sous-unité 50S du ribosome",
+   "Les MLSK et le linézolide se lient au site P de la 50S",
+   "Le chloramphénicol se lie au site A de la 50S",
+   "Les trois se lient à la sous-unité 30S",
+   "Les trois inhibent la synthèse du peptidoglycane"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "MLSK, chloramphénicol et linézolide ciblent la 50S.",
+   "MLSK et linézolide : site P de la 50S.",
+   "Chloramphénicol : site A de la 50S.",
+   "Faux : ils agissent sur la 50S, pas la 30S.",
+   "Faux : ils inhibent la synthèse protéique."
+  ]
+ },
+ {
+  "q": "Quelles propositions distinguent le site P du site A au niveau de la 50S ?",
+  "options": [
+   "Les MLSK et le linézolide se lient au site P",
+   "Le chloramphénicol se lie au site A",
+   "Le site P et le site A sont tous deux sur la sous-unité 50S pour ces ATB",
+   "Les MLSK se lient au site A",
+   "Le chloramphénicol se lie au site P"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "MLSK et linézolide : site P de la 50S.",
+   "Chloramphénicol : site A de la 50S.",
+   "Les deux sites concernés sont sur la 50S.",
+   "Faux : les MLSK se lient au site P.",
+   "Faux : le chloramphénicol se lie au site A."
+  ]
+ },
+ {
+  "q": "Concernant l'effet des MLSK sur les différentes phases de la synthèse protéique, quelles propositions sont exactes ?",
+  "options": [
+   "Ils inhibent la transpeptidation (formation des liaisons peptidiques)",
+   "Ils inhibent la translocation (déplacement sur le ribosome)",
+   "Le kétolide bloque en plus l'assemblage des sous-unités",
+   "Ils inhibent la fixation des aminoacyl-tRNA au site A de la 30S",
+   "Ils empêchent la formation du complexe d'initiation au site P de la 50S"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inhibition de la transpeptidation.",
+   "Inhibition de la translocation.",
+   "Le kétolide bloque l'assemblage 30S/50S.",
+   "Faux : c'est le mécanisme des tétracyclines.",
+   "Faux : c'est le mécanisme du linézolide."
+  ]
+ },
+ {
+  "q": "À propos de la classification des MLSK parmi les inhibiteurs de la synthèse protéique, quelles affirmations sont vraies ?",
+  "options": [
+   "Ils forment avec aminosides, tétracyclines, chloramphénicol, acide fusidique et linézolide ce groupe",
+   "Ils s'en distinguent par leur effet bactériostatique et leur liaison réversible à la 50S",
+   "Ils sont les seuls inhibiteurs de la synthèse protéique",
+   "Ils sont bactéricides comme les aminosides",
+   "Ils se fixent sur la 30S comme les tétracyclines"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les MLSK font partie des inhibiteurs de la synthèse protéique.",
+   "Bactériostatiques, liaison réversible à la 50S.",
+   "Faux : il existe plusieurs autres inhibiteurs.",
+   "Faux : les MLSK sont bactériostatiques.",
+   "Faux : ils se fixent sur la 50S."
+  ]
+ },
+ {
+  "q": "Concernant les streptogramines, quelles propositions sont exactes ?",
+  "options": [
+   "Elles appartiennent au groupe MLSK",
+   "Elles partagent la liaison à l'ARN 23S de la 50S",
+   "Elles sont chimiquement différentes des macrolides",
+   "Elles se fixent sur l'ARN 16S",
+   "Elles sont des bêtalactamines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les streptogramines font partie des MLSK.",
+   "Similitude de mécanisme : ARN 23S/50S.",
+   "Diversité chimique au sein du groupe.",
+   "Faux : l'ARN 16S est la cible des aminosides.",
+   "Faux : ce ne sont pas des bêtalactamines."
+  ]
+ },
+ {
+  "q": "À propos de l'ARN 23S comme cible, quels antibiotiques s'y lient ?",
+  "options": [
+   "Les macrolides et apparentés (MLSK)",
+   "Le chloramphénicol s'y lie aussi (site A de la 50S)",
+   "Le linézolide s'y lie aussi (site P de la 50S)",
+   "Les aminosides",
+   "Les tétracyclines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les MLSK se lient à l'ARN 23S.",
+   "Le chloramphénicol se lie au site A de la 50S (ARN 23S).",
+   "Le linézolide se lie au site P de la 50S.",
+   "Faux : les aminosides se lient à l'ARN 16S.",
+   "Faux : les tétracyclines se fixent sur la 30S."
+  ]
+ },
+ {
+  "q": "Quelles propositions comparent MLSK et chloramphénicol ?",
+  "options": [
+   "Les deux ciblent la sous-unité 50S",
+   "Les MLSK se lient au site P, le chloramphénicol au site A",
+   "Les deux sont bactériostatiques",
+   "Les deux se lient à la 30S",
+   "Le chloramphénicol est bactéricide"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "50S : cible commune.",
+   "Site P pour MLSK, site A pour chloramphénicol.",
+   "Les deux sont bactériostatiques.",
+   "Faux : ils ciblent la 50S.",
+   "Faux : le chloramphénicol est bactériostatique."
+  ]
+ },
+ {
+  "q": "Concernant la bactériostase des MLSK, quelles affirmations sont vraies ?",
+  "options": [
+   "Elle résulte de l'inhibition de la transpeptidation et de la translocation",
+   "Elle est liée au caractère réversible de la liaison ribosomale",
+   "Elle signifie une destruction de la bactérie",
+   "Elle est identique à la bactéricidie",
+   "Elle résulte de l'inhibition de l'ADN gyrase"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "L'inhibition de la synthèse protéique bloque la croissance.",
+   "La liaison réversible cadre avec la bactériostase.",
+   "Faux : la bactériostase inhibe la croissance sans tuer.",
+   "Faux : bactériostase et bactéricidie sont distinctes.",
+   "Faux : l'ADN gyrase est la cible des quinolones."
+  ]
+ },
+ {
+  "q": "À propos des kétolides, quelles propositions sont exactes ?",
+  "options": [
+   "La télithromycine est le kétolide cité",
+   "Elle bloque l'assemblage des sous-unités 30S et 50S",
+   "Les kétolides appartiennent au groupe MLSK",
+   "La télithromycine est une tétracycline",
+   "Les kétolides se fixent sur les PLP"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La télithromycine est citée comme kétolide.",
+   "Elle bloque l'assemblage 30S/50S.",
+   "Les kétolides font partie des MLSK.",
+   "Faux : ce n'est pas une tétracycline.",
+   "Faux : les PLP sont les cibles des bêtalactamines."
+  ]
+ },
+ {
+  "q": "Quelles propositions résument les inhibiteurs de la 50S cités dans le cours ?",
+  "options": [
+   "MLSK : liaison réversible à l'ARN 23S, site P, bactériostatiques",
+   "Chloramphénicol : site A de la 50S, bactériostatique",
+   "Linézolide : site P de la 50S, bloque le complexe d'initiation",
+   "Aminosides : site P de la 50S",
+   "Tétracyclines : site A de la 50S"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "MLSK : 23S/50S site P, réversible, bactériostatiques.",
+   "Chloramphénicol : site A 50S, bactériostatique.",
+   "Linézolide : site P 50S, anti-initiation.",
+   "Faux : les aminosides ciblent la 30S.",
+   "Faux : les tétracyclines ciblent la 30S."
+  ]
+ },
+ {
+  "q": "Concernant les similitudes au sein des MLSK, quelles affirmations sont vraies ?",
+  "options": [
+   "Malgré des structures chimiques différentes, le mécanisme d'action est similaire",
+   "La cible commune est l'ARN 23S de la sous-unité 50S",
+   "L'effet commun est bactériostatique",
+   "Les structures chimiques sont identiques",
+   "Les mécanismes d'action sont tous différents"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Diversité chimique, unité mécanistique.",
+   "Cible commune : ARN 23S/50S.",
+   "Effet commun : bactériostase.",
+   "Faux : les structures sont différentes.",
+   "Faux : les mécanismes sont similaires."
+  ]
+ },
+ {
+  "q": "Concernant les tétracyclines citées (dont minocycline et doxycycline), quelles propositions sont exactes ?",
+  "options": [
+   "La minocycline et la doxycycline sont citées dans le cours",
+   "Elles ont un large spectre incluant des bactéries intracellulaires",
+   "Elles traversent la membrane cytoplasmique par les porines ou la bicouche phospholipidique",
+   "Ce sont des bêtalactamines",
+   "Elles ont un spectre très étroit limité aux Gram +"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Minocycline et doxycycline sont citées.",
+   "Large spectre y compris bactéries intracellulaires.",
+   "Pénétration par porines ou bicouche, diffusion passive et transport actif.",
+   "Faux : ce ne sont pas des bêtalactamines.",
+   "Faux : leur spectre est large."
+  ]
+ },
+ {
+  "q": "À propos de la pénétration des tétracyclines, quelles affirmations sont vraies ?",
+  "options": [
+   "Elles traversent la membrane cytoplasmique par les porines",
+   "Elles peuvent traverser la bicouche des phospholipides",
+   "La pénétration se fait par diffusion passive mais aussi par transport actif",
+   "Elles ne pénètrent pas dans les cellules eucaryotes",
+   "Elles sont inactives sur les bactéries intracellulaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Passage possible par les porines.",
+   "Traversée possible de la bicouche phospholipidique.",
+   "Diffusion passive et transport actif.",
+   "Faux : leur activité sur les intracellulaires implique une pénétration cellulaire.",
+   "Faux : elles sont actives sur les bactéries intracellulaires."
+  ]
+ },
+ {
+  "q": "Concernant le mode d'action des tétracyclines, quelles propositions sont exactes ?",
+  "options": [
+   "Elles se fixent de façon réversible à la sous-unité 30S",
+   "Elles empêchent l'attachement des aminoacyl-tRNA au site A du ribosome",
+   "Elles inhibent l'addition d'acides aminés au peptide (élongation)",
+   "Elles se fixent sur la sous-unité 50S",
+   "Elles inhibent la transpeptidation au site P de la 50S"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Fixation réversible sur la 30S.",
+   "Blocage de l'attachement des aminoacyl-tRNA au site A.",
+   "Inhibition de l'élongation peptidique.",
+   "Faux : la 50S est la cible des MLSK.",
+   "Faux : c'est le mécanisme des MLSK."
+  ]
+ },
+ {
+  "q": "À propos de l'effet des tétracyclines, quelles affirmations sont vraies ?",
+  "options": [
+   "Elles sont bactériostatiques",
+   "La glycylcycline est citée avec les tétracyclines",
+   "Elles sont bactéricides",
+   "Elles ont une bactéricidie temps-dépendante",
+   "Elles sont bactéricides concentration-dépendantes"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les tétracyclines sont bactériostatiques.",
+   "La glycylcycline est citée avec les tétracyclines.",
+   "Faux : elles sont bactériostatiques.",
+   "Faux : la bactéricidie temps-dépendante concerne les bêtalactamines.",
+   "Faux : la bactéricidie concentration-dépendante concerne les polymyxines."
+  ]
+ },
+ {
+  "q": "Quelles différences distinguent tétracyclines et aminosides ?",
+  "options": [
+   "Les tétracyclines sont bactériostatiques, les aminosides bactéricides",
+   "Les tétracyclines bloquent la fixation au site A de la 30S, les aminosides altèrent globalement la synthèse via l'ARN 16S",
+   "Les deux se fixent sur la 30S mais avec des conséquences différentes",
+   "Les deux sont bactéricides",
+   "Les tétracyclines se fixent sur la 50S"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Bactériostatiques vs bactéricides.",
+   "Mécanismes distincts sur la même sous-unité 30S.",
+   "Même sous-unité cible, effets différents.",
+   "Faux : les tétracyclines sont bactériostatiques.",
+   "Faux : elles se fixent sur la 30S."
+  ]
+ },
+ {
+  "q": "Concernant le site A du ribosome, quels antibiotiques y agissent selon le cours ?",
+  "options": [
+   "Les tétracyclines au site A de la 30S",
+   "Le chloramphénicol au site A de la 50S",
+   "Les MLSK au site A de la 50S",
+   "Le linézolide au site A de la 50S",
+   "Les aminosides au site A de la 30S"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Tétracyclines : site A de la 30S.",
+   "Chloramphénicol : site A de la 50S.",
+   "Faux : les MLSK agissent au site P de la 50S.",
+   "Faux : le linézolide agit au site P de la 50S.",
+   "Faux : les aminosides se fixent sur l'ARN 16S sans spécificité de site A citée."
+  ]
+ },
+ {
+  "q": "À propos du chloramphénicol (phénicolés), quelles propositions sont exactes ?",
+  "options": [
+   "Il s'attache à la sous-unité 50S au site A",
+   "Il inhibe la phase d'élongation",
+   "Il empêche l'attachement des aminoacyl-tRNA au site A du ribosome",
+   "Il est bactériostatique",
+   "Il se fixe sur la sous-unité 30S"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Attachement à la 50S au site A.",
+   "Inhibition de la phase d'élongation.",
+   "Blocage de l'attachement des aminoacyl-tRNA au site A.",
+   "Le chloramphénicol est bactériostatique.",
+   "Faux : il se fixe sur la 50S, pas la 30S."
+  ]
+ },
+ {
+  "q": "Quelles propositions distinguent chloramphénicol et tétracyclines ?",
+  "options": [
+   "Le chloramphénicol se fixe sur la 50S, les tétracyclines sur la 30S",
+   "Les deux empêchent l'attachement des aminoacyl-tRNA au site A",
+   "Les deux sont bactériostatiques",
+   "Les deux se fixent sur la 30S",
+   "Le chloramphénicol est bactéricide"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "50S vs 30S : sous-unités différentes.",
+   "Même conséquence fonctionnelle au site A.",
+   "Les deux sont bactériostatiques.",
+   "Faux : le chloramphénicol se fixe sur la 50S.",
+   "Faux : il est bactériostatique."
+  ]
+ },
+ {
+  "q": "Concernant l'acide fusidique, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un antibiotique hydrophobe",
+   "Il n'est actif que sur les bactéries à Gram +",
+   "Il inhibe la phase d'élongation des synthèses protéiques",
+   "Il est bactériostatique",
+   "Il se fixe sur la sous-unité 30S"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "L'acide fusidique est hydrophobe.",
+   "Actif seulement sur les BGP.",
+   "Inhibiteur de la phase d'élongation.",
+   "Il est bactériostatique.",
+   "Faux : le cours ne cite pas de fixation sur la 30S."
+  ]
+ },
+ {
+  "q": "À propos de la sélectivité de l'acide fusidique, quelles affirmations sont vraies ?",
+  "options": [
+   "Son caractère hydrophobe limite son spectre aux Gram +",
+   "Il est inactif sur les Gram -",
+   "Il est actif sur les Gram - comme les polymyxines",
+   "Son spectre est large (Gram + et Gram -)",
+   "Il traverse les porines des Gram -"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Hydrophobe : actif seulement sur les BGP.",
+   "Inactif sur les Gram -.",
+   "Faux : les polymyxines ciblent les BGN, pas l'acide fusidique.",
+   "Faux : son spectre est limité aux Gram +.",
+   "Faux : il ne traverse pas les porines des Gram -."
+  ]
+ },
+ {
+  "q": "Concernant le linézolide (oxazolidinones, Zyvoxid), quelles propositions sont exactes ?",
+  "options": [
+   "Il se lie au site P de la sous-unité ribosomale 50S",
+   "Il empêche la formation du complexe d'initiation",
+   "Il arrête la synthèse des protéines avant qu'elle ne commence",
+   "Il est bactéricide sur les streptocoques",
+   "Il se fixe sur la sous-unité 30S"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Liaison au site P de la 50S.",
+   "Blocage de la formation du complexe d'initiation.",
+   "Arrêt de la synthèse avant son début.",
+   "Bactéricide sur les streptocoques.",
+   "Faux : il se lie à la 50S."
+  ]
+ },
+ {
+  "q": "Quelle originalité présente le mécanisme du linézolide par rapport aux autres inhibiteurs de la synthèse protéique ?",
+  "options": [
+   "Il agit avant le début de la synthèse en bloquant le complexe d'initiation",
+   "Les autres inhibiteurs agissent sur l'élongation, la transpeptidation ou la translocation",
+   "Il est le seul à se lier au site P de la 50S",
+   "Il inhibe la transcription",
+   "Il inhibe la réplication de l'ADN"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Le linézolide bloque l'initiation, avant le début.",
+   "Les autres agissent en cours de synthèse.",
+   "Faux : les MLSK se lient aussi au site P de la 50S.",
+   "Faux : il n'inhibe pas la transcription.",
+   "Faux : il n'inhibe pas la réplication."
+  ]
+ },
+ {
+  "q": "À propos de l'effet du linézolide, quelles affirmations sont vraies ?",
+  "options": [
+   "Il est bactéricide sur les streptocoques",
+   "Il inhibe la synthèse protéique au stade de l'initiation",
+   "Il est bactériostatique sur toutes les bactéries sans exception",
+   "Il est bactéricide temps-dépendant comme les bêtalactamines",
+   "Il n'a aucun effet bactéricide"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Bactéricide sur les streptocoques selon le cours.",
+   "Blocage au stade de l'initiation.",
+   "Faux : il est bactéricide sur les streptocoques.",
+   "Faux : le cours ne décrit pas cette pharmacodynamie.",
+   "Faux : il est bactéricide sur les streptocoques."
+  ]
+ },
+ {
+  "q": "Quelles propositions comparent correctement les inhibiteurs de l'élongation ?",
+  "options": [
+   "Les tétracyclines bloquent la fixation des aminoacyl-tRNA au site A de la 30S",
+   "Le chloramphénicol bloque l'attachement au site A de la 50S",
+   "L'acide fusidique inhibe la phase d'élongation",
+   "Les trois sont bactériostatiques",
+   "Les trois sont bactéricides"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Tétracyclines : site A de la 30S.",
+   "Chloramphénicol : site A de la 50S.",
+   "Acide fusidique : inhibiteur de l'élongation.",
+   "Les trois sont bactériostatiques.",
+   "Faux : ils sont bactériostatiques."
+  ]
+ },
+ {
+  "q": "Concernant la doxycycline et la minocycline, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des cyclines citées dans le cours",
+   "Elles partagent le mécanisme des tétracyclines (30S, site A)",
+   "Elles sont bactériostatiques",
+   "Ce sont des aminosides",
+   "Elles inhibent l'ADN gyrase"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Doxycycline et minocycline sont des cyclines.",
+   "Même mécanisme : fixation 30S, blocage site A.",
+   "Effet bactériostatique.",
+   "Faux : ce ne sont pas des aminosides.",
+   "Faux : elles n'inhibent pas l'ADN gyrase."
+  ]
+ },
+ {
+  "q": "À propos de la fixation réversible des tétracyclines, quelles affirmations sont vraies ?",
+  "options": [
+   "La fixation à la 30S est réversible",
+   "Cette réversibilité est cohérente avec l'effet bactériostatique",
+   "La fixation est covalente et irréversible",
+   "La réversibilité concerne aussi les MLSK (ARN 23S)",
+   "Aucun inhibiteur de la synthèse protéique n'a de liaison réversible"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "La fixation des tétracyclines est réversible.",
+   "Cohérent avec la bactériostase.",
+   "Faux : la fixation est réversible, pas covalente.",
+   "Faux : cette option est vraie — les MLSK aussi ont une liaison réversible.",
+   "Faux : tétracyclines et MLSK ont des liaisons réversibles."
+  ]
+ },
+ {
+  "q": "Quelles propositions distinguent le linézolide des MLSK ?",
+  "options": [
+   "Le linézolide bloque le complexe d'initiation, les MLSK la transpeptidation/translocation",
+   "Les deux se lient au site P de la 50S",
+   "Le linézolide est bactéricide sur les streptocoques, les MLSK sont bactériostatiques",
+   "Le linézolide se lie à la 30S",
+   "Les MLSK bloquent le complexe d'initiation"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Initiation vs élongation : stades différents.",
+   "Site P de la 50S : cible commune.",
+   "Bactéricide sur streptocoques vs bactériostatiques.",
+   "Faux : le linézolide se lie à la 50S.",
+   "Faux : les MLSK inhibent transpeptidation/translocation."
+  ]
+ },
+ {
+  "q": "Concernant le spectre des tétracyclines, quelles propositions sont exactes ?",
+  "options": [
+   "Il est large",
+   "Il inclut des bactéries intracellulaires",
+   "Il est étroit et limité aux Gram +",
+   "Il exclut les bactéries intracellulaires",
+   "Il est identique à celui des glycopeptides"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Le spectre des tétracyclines est large.",
+   "Il inclut les bactéries intracellulaires.",
+   "Faux : il est large, pas étroit.",
+   "Faux : les intracellulaires sont incluses.",
+   "Faux : les glycopeptides sont limités aux Gram +."
+  ]
+ },
+ {
+  "q": "À propos des phénicolés, quelles affirmations sont vraies ?",
+  "options": [
+   "Le chloramphénicol en est le représentant cité",
+   "Il se fixe sur la 50S au site A",
+   "Il est bactériostatique",
+   "Les phénicolés se fixent sur la 30S",
+   "Le chloramphénicol est bactéricide"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le chloramphénicol est le phénicolé cité.",
+   "Fixation 50S au site A.",
+   "Effet bactériostatique.",
+   "Faux : il se fixe sur la 50S.",
+   "Faux : il est bactériostatique."
+  ]
+ },
+ {
+  "q": "Quelles propositions résument les inhibiteurs de la synthèse protéique du cours ?",
+  "options": [
+   "Aminosides : 30S/ARN 16S, bactéricides",
+   "MLSK : 50S/ARN 23S site P, bactériostatiques",
+   "Tétracyclines : 30S site A, bactériostatiques",
+   "Chloramphénicol : 50S site A, bactériostatique",
+   "Linézolide : 30S site P, bactéricide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Aminosides : 30S/16S, bactéricides rapides.",
+   "MLSK : 50S/23S site P, bactériostatiques.",
+   "Tétracyclines : 30S site A, bactériostatiques.",
+   "Chloramphénicol : 50S site A, bactériostatique.",
+   "Faux : le linézolide se lie à la 50S (site P)."
+  ]
+ },
+ {
+  "q": "Concernant l'acide fusidique et le linézolide, quelles différences sont exactes ?",
+  "options": [
+   "L'acide fusidique inhibe l'élongation, le linézolide bloque l'initiation",
+   "L'acide fusidique est bactériostatique, le linézolide est bactéricide sur les streptocoques",
+   "L'acide fusidique n'est actif que sur les Gram +, le linézolide se lie à la 50S",
+   "Les deux inhibent l'initiation",
+   "Les deux sont bactéricides"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Élongation vs initiation.",
+   "Bactériostatique vs bactéricide sur streptocoques.",
+   "Spectre Gram + vs cible 50S.",
+   "Faux : seul le linézolide bloque l'initiation.",
+   "Faux : l'acide fusidique est bactériostatique."
+  ]
+ },
+ {
+  "q": "À propos du site A de la 30S, quelles propositions sont exactes ?",
+  "options": [
+   "Les tétracyclines empêchent l'attachement des aminoacyl-tRNA à ce site",
+   "Ce blocage inhibe l'addition d'acides aminés au peptide",
+   "Le chloramphénicol agit à ce site",
+   "Les aminosides agissent à ce site",
+   "Les MLSK agissent à ce site"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les tétracyclines bloquent le site A de la 30S.",
+   "L'élongation peptidique est inhibée.",
+   "Faux : le chloramphénicol agit au site A de la 50S.",
+   "Faux : les aminosides se fixent sur l'ARN 16S sans cette spécificité.",
+   "Faux : les MLSK agissent au site P de la 50S."
+  ]
+ },
+ {
+  "q": "Quelles affirmations concernant la glycylcycline sont vraies ?",
+  "options": [
+   "Elle est citée avec les tétracyclines dans le cours",
+   "Elle partage la cible ribosomale 30S",
+   "C'est une bêtalactamine",
+   "C'est un glycopeptide",
+   "Elle inhibe la synthèse du peptidoglycane"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La glycylcycline est citée avec les tétracyclines.",
+   "Même famille : cible 30S.",
+   "Faux : ce n'est pas une bêtalactamine.",
+   "Faux : ce n'est pas un glycopeptide.",
+   "Faux : elle agit sur la synthèse protéique."
+  ]
+ },
+ {
+  "q": "Concernant les effets des inhibiteurs de la synthèse protéique, quelles propositions sont exactes ?",
+  "options": [
+   "Seuls les aminosides sont bactéricides parmi eux",
+   "Le linézolide est bactéricide sur les streptocoques",
+   "MLSK, tétracyclines, chloramphénicol et acide fusidique sont bactériostatiques",
+   "Tous sont bactéricides",
+   "Tous sont bactériostatiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les aminosides sont les bactéricides du groupe.",
+   "Le linézolide est bactéricide sur les streptocoques.",
+   "MLSK, tétracyclines, chloramphénicol, acide fusidique : bactériostatiques.",
+   "Faux : la plupart sont bactériostatiques.",
+   "Faux : aminosides (et linézolide sur streptocoques) sont bactéricides."
+  ]
+ },
+ {
+  "q": "À propos de la pénétration intracellulaire des tétracyclines, quel intérêt en découle ?",
+  "options": [
+   "Une activité sur les bactéries intracellulaires",
+   "Un large spectre d'activité",
+   "Une activité limitée aux bactéries extracellulaires",
+   "Un spectre étroit",
+   "Une inactivité sur les Gram -"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La pénétration cellulaire permet l'activité sur les intracellulaires.",
+   "D'où un large spectre.",
+   "Faux : elles sont actives sur les intracellulaires.",
+   "Faux : leur spectre est large.",
+   "Faux : rien ne l'indique dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant le spectre des quinolones, quelles propositions sont exactes ?",
+  "options": [
+   "Les quinolones sont actives sur les bacilles à Gram -",
+   "Les fluoroquinolones sont à spectre large",
+   "Les quinolones sont à spectre large incluant les Gram +",
+   "Les fluoroquinolones sont à spectre étroit",
+   "Les quinolones sont inactives sur les Gram -"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les quinolones sont actives sur les BGN.",
+   "Les fluoroquinolones ont un spectre large.",
+   "Faux : le cours attribue le spectre large aux fluoroquinolones.",
+   "Faux : les FQ sont à spectre large.",
+   "Faux : les quinolones sont actives sur les BGN."
+  ]
+ },
+ {
+  "q": "À propos de la pénétration des quinolones, quelles affirmations sont vraies ?",
+  "options": [
+   "Elle se fait par un mécanisme passif, non saturable et rapide",
+   "Ces petites molécules hydrophiles empruntent les porines chez les Gram -",
+   "Elles traversent le peptidoglycane et la membrane cytoplasmique",
+   "Il existe un système d'efflux à bas niveau",
+   "La pénétration est lente et saturable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Pénétration passive, non saturable, rapide (minutes).",
+   "Petites molécules hydrophiles via les porines.",
+   "Traversée du PG et de la membrane cytoplasmique.",
+   "Un efflux à bas niveau existe.",
+   "Faux : la pénétration est rapide et non saturable."
+  ]
+ },
+ {
+  "q": "Concernant les cibles des quinolones, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont les enzymes de régulation du surenroulement de l'hélice d'ADN : les topoisomérases",
+   "La topoisomérase de type II est l'ADN-gyrase",
+   "La topoisomérase de type IV est composée de 2 parE et 2 parC",
+   "La cible est l'ARN-polymérase",
+   "La cible est le ribosome 30S"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Cibles : topoisomérases du surenroulement de l'ADN.",
+   "Type II = ADN-gyrase.",
+   "Type IV = 2 parE + 2 parC.",
+   "Faux : l'ARN-polymérase est la cible de la rifampicine.",
+   "Faux : le ribosome 30S est la cible des aminosides."
+  ]
+ },
+ {
+  "q": "À propos de l'ADN-gyrase, quelles affirmations sont vraies ?",
+  "options": [
+   "Elle est formée de 2 sous-unités A et 2 sous-unités B",
+   "Elle réalise des coupures transitoires suivies d'un recollage des deux brins",
+   "La quinolone forme un complexe ternaire irréversible Q-ADN-gyrase",
+   "Ce complexe inhibe l'enzyme et empêche la réparation de l'ADN donc sa réplication",
+   "Elle est formée de 2 parE et 2 parC"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "L'ADN-gyrase : 2 sous-unités A + 2 B.",
+   "Coupures transitoires puis recollage des brins.",
+   "Complexe ternaire irréversible quinolone-ADN-gyrase.",
+   "Blocage de la réparation et de la réplication de l'ADN.",
+   "Faux : 2 parE + 2 parC = topoisomérase IV."
+  ]
+ },
+ {
+  "q": "Concernant l'effet des quinolones/fluoroquinolones, quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont bactéricides",
+   "Elles inhibent la réplication de l'ADN",
+   "Elles antagonisent la sous-unité A de la gyrase",
+   "Elles sont bactériostatiques",
+   "Elles inhibent la transcription"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Quinolones et FQ sont bactéricides.",
+   "Elles inhibent la réplication de l'ADN.",
+   "Antagonisme de la sous-unité A de la gyrase (récapitulatif).",
+   "Faux : elles sont bactéricides.",
+   "Faux : la transcription est bloquée par la rifampicine."
+  ]
+ },
+ {
+  "q": "Quelles propositions distinguent topoisomérase II et topoisomérase IV ?",
+  "options": [
+   "La type II (ADN-gyrase) : 2 sous-unités A et 2 sous-unités B",
+   "La type IV : 2 parE et 2 parC",
+   "Les deux sont des cibles des quinolones avec le même mécanisme",
+   "La type II est l'ARN-polymérase",
+   "La type IV est le ribosome 50S"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Type II : 2A + 2B.",
+   "Type IV : 2 parE + 2 parC.",
+   "Même mécanisme d'inhibition par les quinolones.",
+   "Faux : la type II est l'ADN-gyrase.",
+   "Faux : la type IV est une topoisomérase."
+  ]
+ },
+ {
+  "q": "Concernant la rifampicine (rifamycines), quelles propositions sont exactes ?",
+  "options": [
+   "Elle se lie à la sous-unité bêta de l'ARN-polymérase bactérienne",
+   "Elle bloque la transcription de l'ADN en ARN-messagers",
+   "Elle est bactéricide même sur les bactéries au repos",
+   "Elle se lie à l'ADN-gyrase",
+   "Elle est bactériostatique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Liaison à la sous-unité β de l'ARN-polymérase.",
+   "Blocage de la transcription ADN → ARNm.",
+   "Bactéricide même au repos.",
+   "Faux : l'ADN-gyrase est la cible des quinolones.",
+   "Faux : elle est bactéricide."
+  ]
+ },
+ {
+  "q": "À propos du spectre de la rifampicine, quelles affirmations sont vraies ?",
+  "options": [
+   "La rifamycine SV est active sur les BGP et cocci à Gram -",
+   "La rifampicine a un spectre plus large",
+   "La rifampicine est active en intracellulaire",
+   "La rifampicine est inactive en intracellulaire",
+   "La rifamycine SV a le spectre le plus large"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Rifamycine SV : BGP et cocci GN.",
+   "La rifampicine a un spectre plus large.",
+   "Active en intracellulaire, anti-bacillaire.",
+   "Faux : elle est active en intracellulaire.",
+   "Faux : c'est la rifampicine qui a le spectre le plus large."
+  ]
+ },
+ {
+  "q": "Quelle particularité la rifampicine partage-t-elle avec la daptomycine mais pas avec les bêtalactamines ?",
+  "options": [
+   "Elle est bactéricide même sur les bactéries au repos / en phase stationnaire",
+   "Les bêtalactamines n'agissent que sur les bactéries en multiplication",
+   "Les trois sont inactives en phase stationnaire",
+   "La rifampicine n'agit qu'en phase de multiplication",
+   "La daptomycine n'agit qu'en phase de multiplication"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Rifampicine : bactéricide même au repos ; daptomycine : active en phase stationnaire.",
+   "Les bêtalactamines exigent la multiplication.",
+   "Faux : rifampicine et daptomycine sont actives au repos/stationnaire.",
+   "Faux : elle est bactéricide même au repos.",
+   "Faux : elle est active en phase stationnaire."
+  ]
+ },
+ {
+  "q": "Concernant les nitro-imidazolés, quelles propositions sont exactes ?",
+  "options": [
+   "La pénétration se fait par simple diffusion",
+   "Ils sont activés par la réduction de leur groupement NO2",
+   "Seules les anaérobies et quelques micro-aérophiles peuvent réaliser cette réduction",
+   "Ils sont activés par oxydation du groupement NO2",
+   "Ils pénètrent par transport actif énergie-dépendant"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Pénétration par simple diffusion.",
+   "Activation par réduction du NO2.",
+   "Seules anaérobies et micro-aérophiles (H. pylori, Campylobacter, G. vaginalis) réduisent.",
+   "Faux : c'est une réduction, pas une oxydation.",
+   "Faux : la pénétration est par simple diffusion."
+  ]
+ },
+ {
+  "q": "À propos du mode d'action des nitro-imidazolés, quelles affirmations sont vraies ?",
+  "options": [
+   "Les dérivés réduits se fixent sur l'ADN",
+   "La fixation est suivie d'une oxydation puis d'une coupure des brins d'ADN",
+   "Ils provoquent le déroulement de l'ADN",
+   "Ils sont bactéricides",
+   "Ils inhibent la synthèse du peptidoglycane"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les dérivés réduits se fixent sur l'ADN.",
+   "Oxydation suivie de coupure des brins.",
+   "Coupures et déroulement de l'ADN.",
+   "Les nitro-imidazolés sont bactéricides.",
+   "Faux : leur cible est l'ADN."
+  ]
+ },
+ {
+  "q": "Quelles bactéries peuvent activer les nitro-imidazolés par réduction du NO2 ?",
+  "options": [
+   "Les anaérobies",
+   "Helicobacter pylori (micro-aérophile)",
+   "Campylobacter spp (micro-aérophile)",
+   "Gardnerella vaginalis (micro-aérophile)",
+   "Toutes les bactéries aérobies strictes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les anaérobies réduisent le NO2.",
+   "H. pylori est cité comme micro-aérophile capable.",
+   "Campylobacter spp est cité.",
+   "G. vaginalis est citée.",
+   "Faux : seules anaérobies et quelques micro-aérophiles le peuvent."
+  ]
+ },
+ {
+  "q": "Concernant les nitrofuranes, quelles propositions sont exactes ?",
+  "options": [
+   "La furazolidone, le nifuroxazide et la nitrofurantoïne en sont des représentants",
+   "Ils sont réservés aux infections intestinales et urinaires",
+   "Leur action est apparentée à celle des imidazolés",
+   "Le groupement NO2 est réduit par les nitro-réductases des bactéries aérobies",
+   "Ils inhibent la synthèse du peptidoglycane"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Furazolidone, nifuroxazide, nitrofurantoïne cités.",
+   "Réservés aux infections intestinales et urinaires.",
+   "Action apparentée aux imidazolés.",
+   "Réduction du NO2 par les nitro-réductases (aérobies).",
+   "Faux : leur cible principale est l'ADN."
+  ]
+ },
+ {
+  "q": "À propos de l'effet des nitrofuranes sur l'ADN, quelles affirmations sont vraies ?",
+  "options": [
+   "Les dérivés réduits se fixent sur l'ADN",
+   "Ils provoquent des coupures et des mutations des brins d'ADN",
+   "L'effet est bactériostatique ou bactéricide selon la dose",
+   "Ils inhibent la dihydroptéroate synthétase",
+   "Ils sont toujours bactéricides quelle que soit la dose"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les dérivés réduits se fixent sur l'ADN.",
+   "Coupures et mutations des brins.",
+   "Bactériostase ou bactéricidie selon la dose.",
+   "Faux : c'est la cible des sulfamides.",
+   "Faux : l'effet dépend de la dose."
+  ]
+ },
+ {
+  "q": "Concernant la novobiocine, quelles propositions sont exactes ?",
+  "options": [
+   "Elle inhibe la réplication de l'ADN",
+   "Elle appartient aux antibiotiques agissant sur les acides nucléiques",
+   "Elle inhibe la synthèse du peptidoglycane",
+   "C'est un aminoside",
+   "Elle se fixe sur la 30S"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La novobiocine inhibe la réplication de l'ADN.",
+   "Elle est classée avec les ATB des acides nucléiques.",
+   "Faux : elle n'agit pas sur le peptidoglycane.",
+   "Faux : ce n'est pas un aminoside.",
+   "Faux : elle ne se fixe pas sur la 30S."
+  ]
+ },
+ {
+  "q": "Quelles propositions résument les antibiotiques agissant sur les acides nucléiques ?",
+  "options": [
+   "Quinolones/FQ : inhibition de la réplication via gyrase/topoisomérase IV, bactéricides",
+   "Rifampicine : blocage de la transcription via l'ARN-polymérase, bactéricide",
+   "Nitro-imidazolés : coupures des brins d'ADN après réduction du NO2, bactéricides",
+   "Nitrofuranes : cible ADN, effet dose-dépendant",
+   "Novobiocine : inhibition de la synthèse protéique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Quinolones : gyrase/topoisomérase IV, bactéricides.",
+   "Rifampicine : ARN-polymérase, blocage transcription.",
+   "Nitro-imidazolés : coupures d'ADN, bactéricides.",
+   "Nitrofuranes : cible ADN, effet selon la dose.",
+   "Faux : la novobiocine inhibe la réplication de l'ADN."
+  ]
+ },
+ {
+  "q": "Concernant les sulfamides et le triméthoprime, quelles propositions sont exactes ?",
+  "options": [
+   "Les sulfamides inhibent la dihydroptéroate synthétase",
+   "Le triméthoprime inhibe la dihydrofolate réductase",
+   "Utilisés seuls, ils sont bactériostatiques",
+   "L'association des deux est bactéricide",
+   "Les sulfamides inhibent la dihydrofolate réductase"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Sulfamides : inhibition de la dihydroptéroate synthétase.",
+   "Triméthoprime : inhibition de la dihydrofolate réductase.",
+   "Seuls : effet bactériostatique.",
+   "Associés : effet bactéricide.",
+   "Faux : la dihydrofolate réductase est inhibée par le triméthoprime."
+  ]
+ },
+ {
+  "q": "À propos de la voie des folates, quelles affirmations sont vraies ?",
+  "options": [
+   "Les sulfamides et le triméthoprime inactivent des enzymes de cette voie",
+   "Cette voie aboutit à la synthèse des purines et de certains acides aminés essentiels",
+   "Le blocage séquentiel de deux enzymes explique la bactéricidie de l'association",
+   "Les sulfamides inhibent l'ADN-gyrase",
+   "Le triméthoprime inhibe les PLP"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les deux molécules inactivent des enzymes de la voie des folates.",
+   "La voie fournit purines et acides aminés essentiels.",
+   "Le double blocage séquentiel rend l'association bactéricide.",
+   "Faux : l'ADN-gyrase est la cible des quinolones.",
+   "Faux : les PLP sont les cibles des bêtalactamines."
+  ]
+ },
+ {
+  "q": "Quelle originalité présente l'association sulfamides-triméthoprime ?",
+  "options": [
+   "Chaque molécule seule est bactériostatique",
+   "L'association des deux est bactéricide",
+   "Les deux inhibent la même enzyme",
+   "L'association reste bactériostatique",
+   "Chaque molécule seule est bactéricide"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Seuls : bactériostase.",
+   "Associés : bactéricidie.",
+   "Faux : elles inhibent deux enzymes différentes et séquentielles.",
+   "Faux : l'association est bactéricide.",
+   "Faux : seuls, ils sont bactériostatiques."
+  ]
+ },
+ {
+  "q": "Concernant la CMI, quelles propositions sont exactes ?",
+  "options": [
+   "C'est la plus faible concentration d'antibiotique ne permettant pas une croissance visible",
+   "Elle est mesurée sur une population bactérienne initiale standardisée",
+   "C'est le paramètre avec la meilleure corrélation clinique, le plus utilisé",
+   "C'est la concentration qui tue 99,99 % de la population",
+   "Elle se mesure uniquement en milieu liquide"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "CMI : plus faible concentration sans croissance visible.",
+   "Mesurée sur une population bactérienne initiale.",
+   "Meilleure corrélation clinique : la plus utilisée.",
+   "Faux : tuer 99,99 % définit la CMB.",
+   "Faux : elle se détermine aussi en milieu gélosé et par E-test."
+  ]
+ },
+ {
+  "q": "Concernant la CMB, quelles propositions sont exactes ?",
+  "options": [
+   "C'est la plus faible concentration laissant subsister moins de 0,01 % de la population initiale",
+   "Elle correspond à la destruction de 99,99 % de la population bactérienne initiale",
+   "C'est la concentration qui inhibe la croissance visible",
+   "Elle est toujours inférieure à la CMI",
+   "Elle se confond avec la CMI"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "CMB : moins de 0,01 % de survivants.",
+   "Soit 99,99 % de bactéries tuées.",
+   "Faux : l'inhibition de la croissance visible définit la CMI.",
+   "Faux : la CMB est supérieure ou égale à la CMI.",
+   "Faux : CMI et CMB sont deux paramètres distincts."
+  ]
+ },
+ {
+  "q": "À propos du rapport CMB/CMI, quelles affirmations sont vraies ?",
+  "options": [
+   "Un rapport CMB < 32 x CMI traduit une action bactéricide",
+   "Un rapport CMB > 32 x CMI traduit une action bactériostatique",
+   "Un rapport CMB < 32 x CMI traduit une action bactériostatique",
+   "Le rapport CMB/CMI n'a aucune signification",
+   "Un rapport CMB > 32 x CMI traduit une action bactéricide"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "CMB < 32×CMI : destruction, effet bactéricide.",
+   "CMB > 32×CMI : inhibition, effet bactériostatique.",
+   "Faux : c'est l'inverse.",
+   "Faux : ce rapport distingue bactéricidie et bactériostase.",
+   "Faux : c'est l'inverse."
+  ]
+ },
+ {
+  "q": "Concernant la détermination de la CMI/CMB, quelles méthodes sont citées ?",
+  "options": [
+   "La détermination directe en milieu liquide",
+   "La détermination directe en milieu gélosé",
+   "Le E-test",
+   "La détermination indirecte par l'antibiogramme",
+   "La PCR en temps réel"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Méthode directe en milieu liquide.",
+   "Méthode directe en milieu gélosé.",
+   "Le E-test est cité.",
+   "L'antibiogramme est la méthode indirecte.",
+   "Faux : la PCR n'est pas citée pour la CMI/CMB."
+  ]
+ },
+ {
+  "q": "À propos des concentrations critiques, quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont définies en fonction de critères pharmacocinétiques et pharmacodynamiques",
+   "Elles tiennent compte de la répartition des populations sauvages par espèce",
+   "Elles intègrent l'expérience clinique (relation CMI/guérison clinique et succès microbiologique)",
+   "Elles sont identiques pour toutes les espèces bactériennes",
+   "Elles ne dépendent que de la posologie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Critères PK/PD : posologie standard/forte posologie.",
+   "Répartition des populations sauvages : concentrations critiques par espèce.",
+   "Expérience clinique : CMI/guérison et succès microbiologique.",
+   "Faux : elles sont définies par espèce.",
+   "Faux : elles intègrent aussi les populations sauvages et la clinique."
+  ]
+ },
+ {
+  "q": "Concernant la catégorisation clinique S (sensible), quelles propositions sont exactes ?",
+  "options": [
+   "Il n'y a pas de résistance naturelle de l'espèce",
+   "La CMI est basse, inférieure ou égale à la concentration critique inférieure (c)",
+   "Aucun mécanisme de résistance acquis n'interfère (lecture interprétative)",
+   "La CMI est élevée, supérieure à la concentration critique supérieure (C)",
+   "Le succès thérapeutique est imprévisible"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Pas de résistance naturelle de l'espèce.",
+   "CMI basse ≤ c.",
+   "Pas de mécanisme acquis interférant.",
+   "Faux : cela définit la catégorie R.",
+   "Faux : en catégorie S, la probabilité de succès est forte."
+  ]
+ }
+]

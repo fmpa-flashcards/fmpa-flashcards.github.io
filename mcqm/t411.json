@@ -1,0 +1,4402 @@
+[
+ {
+  "q": "Concernant l'agent de la cryptosporidiose, lesquelles sont exactes ?",
+  "options": [
+   "Il appartient au genre Cryptosporidium",
+   "C'est un champignon opportuniste",
+   "C'est une bactérie sporulante",
+   "C'est un helminthe intestinal",
+   "C'est un protozoaire appartenant au groupe des coccidies"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "L'agent pathogène est bien du genre Cryptosporidium.",
+   "Ce n'est pas un champignon.",
+   "Ce n'est pas une bactérie.",
+   "Ce n'est pas un helminthe mais un protozoaire.",
+   "La cryptosporidiose est due à un protozoaire coccidie."
+  ]
+ },
+ {
+  "q": "À propos des espèces de Cryptosporidium pathogènes pour l'homme, quelles affirmations sont vraies ?",
+  "options": [
+   "Cryptosporidium muris est l'espèce dominante chez l'homme",
+   "Cryptosporidium hominis infecte uniquement l'homme",
+   "Cryptosporidium parvum parasite l'homme et plusieurs espèces de mammifères",
+   "Cryptosporidium parvum n'infecte que les reptiles",
+   "Cryptosporidium hominis est un helminthe"
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "C. muris n'est pas l'espèce dominante en pathologie humaine.",
+   "C. hominis est strictement humain selon le cours.",
+   "C. parvum a un spectre d'hôtes large : homme et mammifères.",
+   "C. parvum infecte l'homme et les mammifères, pas seulement les reptiles.",
+   "C. hominis est un protozoaire, pas un helminthe."
+  ]
+ },
+ {
+  "q": "Concernant l'oocyste de Cryptosporidium, lesquelles sont exactes ?",
+  "options": [
+   "Sa taille est variable",
+   "Il contient 4 sporozoïtes nus",
+   "Sa forme est sphérique à elliptique",
+   "Il contient 8 sporozoïtes entourés chacun d'une coque",
+   "Il est parfaitement rond et de taille constante"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Sa taille est variable.",
+   "Il renferme 4 sporozoïtes dits « nus ».",
+   "L'oocyste est décrit comme sphérique à elliptique.",
+   "Il n'y a que 4 sporozoïtes, sans coque individuelle.",
+   "La forme et la taille ne sont pas constantes."
+  ]
+ },
+ {
+  "q": "À propos de la localisation tissulaire de Cryptosporidium, quelles propositions sont vraies ?",
+  "options": [
+   "Il occupe une position très particulière dans la cellule épithéliale",
+   "Il se situe en zone apicale de la cellule",
+   "Il ne se trouve jamais en profondeur",
+   "Il envahit le noyau des entérocytes",
+   "Il se localise dans la lamina propria"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La localisation est très particulière : intracellulaire apicale.",
+   "Le parasite siège en zone apicale de l'entérocyte.",
+   "Il n'est jamais retrouvé en profondeur.",
+   "Il n'envahit pas le noyau.",
+   "Il ne siège pas dans la lamina propria."
+  ]
+ },
+ {
+  "q": "Le parasite est dit intracellulaire mais extracytoplasmique : lesquelles sont exactes ?",
+  "options": [
+   "Il se multiplie librement dans la lumière intestinale",
+   "Il se développe dans la cellule épithéliale en zone apicale",
+   "Cette topographie est caractéristique du genre Cryptosporidium",
+   "Il est strictement extracellulaire",
+   "Il reste séparé du cytoplasme par une membrane"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Il ne se multiplie pas librement dans la lumière.",
+   "Le développement est intracellulaire, en zone apicale.",
+   "Cette localisation est typique de Cryptosporidium.",
+   "Il n'est pas strictement extracellulaire.",
+   "Le parasite est extracytoplasmique (séparé du cytoplasme)."
+  ]
+ },
+ {
+  "q": "Concernant les oocystes excrétés dans les selles, lesquelles sont exactes ?",
+  "options": [
+   "Ils nécessitent une maturation de plusieurs semaines dans le sol",
+   "Ils sont dépourvus de pouvoir infectant à l'émission",
+   "La sporulation s'achève obligatoirement dans le milieu extérieur",
+   "Ils sont directement infectants dès l'émission",
+   "Ils sont excrétés déjà sporulés"
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Aucune maturation externe n'est requise.",
+   "Ils sont infectants dès l'émission.",
+   "La sporulation est déjà achevée à l'émission.",
+   "Ils sont donc immédiatement infectants.",
+   "Les oocystes sont excrétés sous forme sporulée."
+  ]
+ },
+ {
+  "q": "Quelles conséquences découlent du fait que les oocystes sont sporulés à l'émission ?",
+  "options": [
+   "Les oocystes frais sont inoffensifs",
+   "La transmission interhumaine directe est possible",
+   "Les selles sont immédiatement contaminantes",
+   "Il faut 10 jours de maturation dans le sol",
+   "Aucune maturation externe n'est requise avant la contamination"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Les oocystes frais sont infectants.",
+   "La transmission directe interhumaine est possible.",
+   "Les selles fraîches sont d'emblée contaminantes.",
+   "Aucun délai de maturation n'est requis.",
+   "La sporulation étant achevée, aucune maturation n'est nécessaire."
+  ]
+ },
+ {
+  "q": "À propos de la résistance des oocystes dans l'environnement, quelles affirmations sont vraies ?",
+  "options": [
+   "Ils survivent environ 6 mois à une température de 20 °C",
+   "Leur survie se compte en plusieurs mois",
+   "Ils survivent environ 3 mois à 30 °C",
+   "Ils sont inactivés dès 37 °C",
+   "Ils sont détruits en quelques heures à température ambiante"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La survie est d'environ 6 mois à 20 °C.",
+   "La survie environnementale est longue (plusieurs mois).",
+   "Elle est d'environ 3 mois à 30 °C.",
+   "Ils résistent bien au-delà de 37 °C.",
+   "Ils ne sont pas détruits en quelques heures."
+  ]
+ },
+ {
+  "q": "Concernant l'action de la chaleur sur les oocystes de Cryptosporidium, lesquelles sont exactes ?",
+  "options": [
+   "Ils survivent à une pasteurisation à 70 °C",
+   "La congélation domestique les détruit systématiquement",
+   "Ils résistent à une ébullition prolongée",
+   "Ils sont tués à 70 °C",
+   "Un chauffage à 70 °C les inactive"
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Ils ne survivent pas à 70 °C.",
+   "La congélation ne les détruit pas systématiquement.",
+   "Ils ne résistent pas à l'ébullition.",
+   "70 °C est la température létale citée dans le cours.",
+   "Le chauffage à 70 °C inactive les oocystes."
+  ]
+ },
+ {
+  "q": "À propos de la dessiccation, quelles propositions sont exactes ?",
+  "options": [
+   "La dessiccation permet de tuer les oocystes",
+   "Ils résistent indéfiniment à la sécheresse",
+   "L'humidité les inactive rapidement",
+   "La dessiccation n'a aucun effet sur leur viabilité",
+   "100 % des oocystes sont inactifs au bout de 4 heures de dessiccation"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "La dessiccation est un moyen de détruire les oocystes.",
+   "Ils ne résistent pas indéfiniment au sec.",
+   "C'est la sécheresse, et non l'humidité, qui les inactive.",
+   "La dessiccation a un effet létal démontré.",
+   "Après 4 h de dessiccation, 100 % sont inactifs."
+  ]
+ },
+ {
+  "q": "Concernant la résistance au chlore, lesquelles sont vraies ?",
+  "options": [
+   "Les oocystes de Cryptosporidium résistent au chlore",
+   "Ils sont sensibles aux doses usuelles de chlore",
+   "La chloration de l'eau aux doses usuelles ne les élimine pas totalement",
+   "Cette résistance explique des épidémies hydriques malgré le traitement de l'eau",
+   "L'eau chlorée est toujours exempte d'oocystes"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "La résistance au chlore est une caractéristique majeure.",
+   "Ils ne sont pas sensibles aux doses usuelles.",
+   "La chloration usuelle ne garantit pas leur élimination.",
+   "D'où des épidémies d'origine hydrique malgré la chloration.",
+   "L'eau chlorée n'est pas toujours sûre."
+  ]
+ },
+ {
+  "q": "Quelles mesures découlent de la résistance des oocystes (chlore, environnement) ?",
+  "options": [
+   "Le chlore élimine systématiquement tout risque",
+   "La chloration seule est insuffisante pour sécuriser l'eau",
+   "L'ébullition de l'eau est une mesure efficace",
+   "Aucune précaution hydrique n'est nécessaire",
+   "La filtration fine retient les oocystes"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Le chlore ne supprime pas le risque.",
+   "La résistance au chlore impose d'autres procédés.",
+   "La chaleur (70 °C et plus) inactive les oocystes.",
+   "Des précautions hydriques sont indispensables.",
+   "Leur taille (4-6 µm) permet de les retenir par filtration."
+  ]
+ },
+ {
+  "q": "Sur le plan épidémiologique, la cryptosporidiose : lesquelles sont exactes ?",
+  "options": [
+   "Elle est limitée aux zones tropicales",
+   "C'est une parasitose cosmopolite",
+   "On la rencontre sur tous les continents",
+   "Elle est absente des pays tempérés",
+   "Elle n'existe qu'en Afrique"
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Elle n'est pas limitée aux tropiques.",
+   "La répartition est cosmopolite.",
+   "On la retrouve sur tous les continents.",
+   "Elle existe aussi en régions tempérées (1-2 % des diarrhées).",
+   "Elle n'est pas limitée à l'Afrique."
+  ]
+ },
+ {
+  "q": "Concernant le réservoir de Cryptosporidium, quelles affirmations sont vraies ?",
+  "options": [
+   "Il n'existe aucun réservoir animal",
+   "Les oiseaux sont les seuls hôtes",
+   "Le bétail constitue un réservoir (veaux, chevreaux, porcelets)",
+   "L'homme fait partie du réservoir",
+   "Les poissons sont le principal réservoir"
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Il existe un réservoir animal.",
+   "Les oiseaux ne sont pas les seuls hôtes.",
+   "Le bétail jeune (veaux, chevreaux, porcelets) est un réservoir important.",
+   "L'homme est un réservoir.",
+   "Les poissons ne sont pas le réservoir."
+  ]
+ },
+ {
+  "q": "Quelles implications pratiques découlent du réservoir animal ?",
+  "options": [
+   "Les animaux ne présentent aucun risque",
+   "Le personnel d'élevage est particulièrement exposé",
+   "Éviter le contact étroit avec les jeunes veaux diarrhéiques",
+   "La viande bien cuite transmet la cryptosporidiose",
+   "Se laver les mains après tout contact avec les animaux"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Les animaux constituent un risque réel.",
+   "Les éleveurs et vétérinaires sont une population exposée.",
+   "Les veaux nouveau-nés diarrhéiques sont très contaminants.",
+   "La transmission est oro-fécale, pas par la viande cuite.",
+   "L'hygiène des mains après contact animal est essentielle."
+  ]
+ },
+ {
+  "q": "Chez l'immunocompétent, la place de la cryptosporidiose dans les diarrhées : lesquelles sont exactes ?",
+  "options": [
+   "Environ 1 à 2 % des diarrhées dans les régions tempérées",
+   "Environ 5 % des diarrhées dans les pays chauds en voie de développement",
+   "Une parasitose rare dans les pays en développement",
+   "La majorité des diarrhées de l'immunocompétent",
+   "Une parasitose inexistante chez l'enfant"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Environ 1 à 2 % en régions tempérées.",
+   "Environ 5 % des diarrhées en pays chauds en développement.",
+   "Elle est fréquente, non rare, dans ces pays.",
+   "Elle ne cause pas la majorité des diarrhées.",
+   "Elle touche surtout les enfants."
+  ]
+ },
+ {
+  "q": "Chez les patients infectés par le VIH, lesquelles sont vraies ?",
+  "options": [
+   "Elle ne touche jamais les patients VIH",
+   "La cryptosporidiose est responsable d'environ 20 à 30 % des diarrhées",
+   "Elle est exceptionnelle chez l'immunodéprimé",
+   "Sa fréquence est identique chez l'immunocompétent et l'immunodéprimé",
+   "C'est une parasitose opportuniste majeure du SIDA"
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Les patients VIH sont particulièrement touchés.",
+   "20 à 30 % des diarrhées des patients VIH lui sont attribuées.",
+   "Elle est fréquente, non exceptionnelle, chez l'ID.",
+   "La fréquence est bien plus élevée chez l'ID.",
+   "C'est une grande parasitose opportuniste du SIDA."
+  ]
+ },
+ {
+  "q": "Concernant la contamination, quelles propositions sont exactes ?",
+  "options": [
+   "L'ingestion d'oocystes avec l'eau ou les aliments contaminés",
+   "La transmission interhumaine",
+   "Le contact direct homme/animal",
+   "La piqûre de moustique",
+   "La contamination se fait par voie orale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "L'eau et les aliments souillés sont des sources classiques.",
+   "La transmission interhumaine existe.",
+   "Le contact direct avec l'homme ou l'animal infecté transmet.",
+   "Il n'y a pas de vecteur arthropode.",
+   "La voie de contamination est orale."
+  ]
+ },
+ {
+  "q": "À propos des collectivités d'enfants, lesquelles sont exactes ?",
+  "options": [
+   "Les enfants ne transmettent pas la parasitose",
+   "Aucun risque particulier en collectivité",
+   "L'hygiène des mains du personnel est essentielle",
+   "Des épidémies de cryptosporidiose surviennent en crèches",
+   "La transmission interhumaine y est favorisée par les mains sales"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Les enfants participent à la transmission.",
+   "Le risque en collectivité est réel.",
+   "L'hygiène des mains est la mesure clé.",
+   "Les crèches sont des lieux classiques d'épidémies.",
+   "Les oocystes sporulés favorisent la transmission directe."
+  ]
+ },
+ {
+  "q": "La cryptosporidiose du voyageur : lesquelles sont vraies ?",
+  "options": [
+   "C'est une cause possible de diarrhée du voyageur",
+   "Les crudités lavées à l'eau locale sont sans risque",
+   "La glace fabriquée avec une eau douteuse est à éviter",
+   "Aucune précaution alimentaire n'est utile en voyage",
+   "L'eau en bouteille capsulée réduit le risque"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Cryptosporidium est un agent de diarrhée du voyageur.",
+   "Les crudités lavées à l'eau contaminée sont à risque.",
+   "La glace peut véhiculer des oocystes.",
+   "Les précautions alimentaires et hydriques sont utiles.",
+   "L'eau capsulée limite l'exposition hydrique."
+  ]
+ },
+ {
+  "q": "Concernant l'incubation de la cryptosporidiose, lesquelles sont exactes ?",
+  "options": [
+   "Les symptômes apparaissent environ une semaine après la contamination",
+   "L'incubation est de quelques heures",
+   "L'incubation est de plusieurs mois",
+   "La durée d'incubation est d'environ 7 jours ± 2 jours",
+   "L'incubation est toujours supérieure à un mois"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Les signes débutent donc environ une semaine après l'exposition.",
+   "Ce n'est pas une incubation de quelques heures.",
+   "Ce n'est pas une incubation de plusieurs mois.",
+   "L'incubation est de 7 ± 2 jours.",
+   "Elle n'excède pas un mois."
+  ]
+ },
+ {
+  "q": "Chez l'immunocompétent, le tableau clinique : quelles affirmations sont vraies ?",
+  "options": [
+   "L'infection touche surtout les enfants",
+   "Elle se manifeste par une constipation isolée",
+   "Elle touche surtout les personnes âgées",
+   "Elle donne une gastro-entérite avec diarrhée, fièvre et vomissements",
+   "Un amaigrissement peut s'observer"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Les enfants sont la population la plus touchée.",
+   "Le symptôme principal est la diarrhée, pas la constipation.",
+   "Ce ne sont pas les personnes âgées qui sont surtout touchées.",
+   "Le tableau est celui d'une gastro-entérite fébrile avec diarrhée et vomissements.",
+   "L'amaigrissement fait partie du tableau."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution chez l'immunocompétent, lesquelles sont exactes ?",
+  "options": [
+   "Un traitement antiparasitaire est toujours indispensable",
+   "La guérison est spontanée après environ 10 jours",
+   "L'évolution est toujours chronique",
+   "Des rechutes transitoires sont possibles",
+   "La guérison est systématique en 48 heures"
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Aucun traitement curatif spécifique n'est requis.",
+   "La guérison spontanée survient en une dizaine de jours.",
+   "L'évolution n'est pas chronique chez l'IC.",
+   "Des rechutes transitoires peuvent survenir.",
+   "La guérison prend une dizaine de jours, pas 48 h."
+  ]
+ },
+ {
+  "q": "Parmi les séquelles possibles chez l'immunocompétent, lesquelles sont exactes ?",
+  "options": [
+   "Aucune séquelle n'est possible",
+   "Un impact nutritionnel et sur la croissance",
+   "Des séquelles extra-digestives",
+   "Des séquelles exclusivement neurologiques",
+   "Des séquelles intestinales"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Des séquelles sont possibles.",
+   "Le retentissement nutritionnel et sur la croissance est noté.",
+   "Des séquelles extra-digestives sont possibles.",
+   "Elles ne sont pas exclusivement neurologiques.",
+   "Des séquelles intestinales sont décrites."
+  ]
+ },
+ {
+  "q": "Chez l'immunodéprimé, le tableau digestif : quelles propositions sont vraies ?",
+  "options": [
+   "Diarrhée cholériforme sévère et persistante",
+   "Déshydratation sévère",
+   "Malabsorption chronique",
+   "Diarrhée bénigne et transitoire",
+   "Constipation opiniâtre"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La diarrhée est cholériforme, sévère et persistante.",
+   "La déshydratation peut être sévère.",
+   "Une malabsorption chronique s'installe.",
+   "Le tableau n'est ni bénin ni transitoire.",
+   "C'est une diarrhée, pas une constipation."
+  ]
+ },
+ {
+  "q": "Parmi les signes associés chez l'immunodéprimé, lesquels sont exacts ?",
+  "options": [
+   "Absence de tout signe digestif",
+   "Douleurs abdominales",
+   "Prise de poids",
+   "Vomissements",
+   "Perte de poids importante"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Les signes digestifs sont au premier plan.",
+   "Les douleurs abdominales sont fréquentes.",
+   "On observe un amaigrissement, pas une prise de poids.",
+   "Les vomissements font partie du tableau.",
+   "La perte de poids est importante."
+  ]
+ },
+ {
+  "q": "Concernant le lien avec le statut immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "La restauration immunitaire améliore le pronostic",
+   "Le taux de CD4 n'influence pas la maladie",
+   "La durée et la sévérité des symptômes sont en relation avec le taux de lymphocytes CD4",
+   "Les formes graves surviennent quand les CD4 sont normaux",
+   "Plus les CD4 sont bas, plus l'atteinte est sévère"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "La reconstitution immunitaire est un facteur de bon pronostic.",
+   "Le taux de CD4 influence directement la maladie.",
+   "La sévérité est corrélée au taux de CD4.",
+   "Les formes graves surviennent sur terrain très immunodéprimé.",
+   "L'effondrement des CD4 expose aux formes graves."
+  ]
+ },
+ {
+  "q": "Parmi les formes extra-intestinales chez l'immunodéprimé, lesquelles sont décrites ?",
+  "options": [
+   "Atteinte biliaire dans environ 30 % des cas",
+   "Cholangite sclérosante",
+   "Sténose papillaire",
+   "Cholécystite",
+   "Atteinte exclusivement colique sans forme extra-intestinale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "L'atteinte biliaire concerne environ 30 % des cas.",
+   "La cholangite sclérosante fait partie du spectre.",
+   "La sténose de la papille est décrite.",
+   "La cholécystite est une forme extra-intestinale.",
+   "Des formes extra-intestinales existent bel et bien."
+  ]
+ },
+ {
+  "q": "Un ictère cholestatique chez un patient VIH avec diarrhée chronique : lesquelles sont exactes ?",
+  "options": [
+   "Une atteinte biliaire est impossible",
+   "Une sténose papillaire est une complication décrite",
+   "L'atteinte biliaire concerne environ 30 % des cas chez l'ID",
+   "Il peut traduire une cholangite à Cryptosporidium",
+   "Seule la lithiase peut expliquer un ictère"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "L'atteinte biliaire est bien décrite.",
+   "La sténose papillaire est une complication classique.",
+   "L'atteinte biliaire est fréquente (30 % des cas).",
+   "La cholangite cryptosporidienne donne un tableau cholestatique.",
+   "Les causes parasitaires doivent être évoquées."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution chez l'immunodéprimé non traité, lesquelles sont vraies ?",
+  "options": [
+   "L'évolution est grave en l'absence de traitement",
+   "La guérison spontanée est constante",
+   "L'évolution est toujours bénigne",
+   "Il n'y a aucune mortalité",
+   "Le risque de décès est important dans les 3 à 6 mois"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Sans traitement, l'évolution est grave.",
+   "La guérison spontanée n'est pas la règle.",
+   "L'évolution n'est pas bénigne.",
+   "La mortalité est importante.",
+   "Le décès peut survenir dans un délai de 3 à 6 mois."
+  ]
+ },
+ {
+  "q": "Pour le diagnostic parasitologique, lesquelles sont exactes ?",
+  "options": [
+   "Le diagnostic repose uniquement sur la sérologie",
+   "Les techniques de concentration sont utiles quand les oocystes sont peu nombreux",
+   "Mise en évidence des oocystes dans l'examen parasitologique des selles",
+   "Les biopsies intestinales peuvent montrer le parasite",
+   "L'hémoculture est positive"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "La sérologie n'est pas la méthode diagnostique.",
+   "La concentration augmente la sensibilité quand les oocystes sont rares.",
+   "Le diagnostic repose sur la mise en évidence des oocystes dans les selles.",
+   "Les biopsies intestinales sont contributives.",
+   "L'hémoculture n'a aucun intérêt."
+  ]
+ },
+ {
+  "q": "Concernant la coloration de Ziehl-Neelsen, quelles affirmations sont vraies ?",
+  "options": [
+   "La contre-coloration est jaune",
+   "La contre-coloration est verte",
+   "Le parasite apparaît en rouge",
+   "Le parasite apparaît en bleu",
+   "C'est la technique de référence (+++) pour le diagnostic"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "La contre-coloration n'est pas jaune.",
+   "Le fond de contre-coloration est vert.",
+   "Les oocystes acido-alcoolo-résistants apparaissent en rouge.",
+   "Ils n'apparaissent pas en bleu.",
+   "Le Ziehl-Neelsen est la technique de référence (+++)."
+  ]
+ },
+ {
+  "q": "Parmi les autres techniques diagnostiques, lesquelles sont exactes ?",
+  "options": [
+   "PCR (+)",
+   "Coloration au Giemsa (+)",
+   "Aucune technique immunologique n'est disponible",
+   "Test immunochromatographique sur bandelette (+)",
+   "Immunofluorescence directe : technique très utile (++)"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "La PCR est contributive (+).",
+   "Le Giemsa est utilisable (+).",
+   "Des techniques immunologiques existent.",
+   "Le test sur bandelette est un test rapide (+).",
+   "L'immunofluorescence directe est cotée (++)."
+  ]
+ },
+ {
+  "q": "À propos de l'immunofluorescence directe, lesquelles sont exactes ?",
+  "options": [
+   "Elle est moins sensible que l'examen direct simple",
+   "Elle détecte les oocystes dans les selles",
+   "Elle utilise des anticorps marqués à la fluorescéine",
+   "Elle ne détecte que les bactéries",
+   "Elle est cotée (++) dans le cours"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Elle est plus sensible que l'examen direct.",
+   "L'IF directe met en évidence les oocystes fécaux.",
+   "Des anticorps fluorescents spécifiques sont utilisés.",
+   "Elle détecte les parasites, pas seulement les bactéries.",
+   "C'est une technique très utile (++)."
+  ]
+ },
+ {
+  "q": "Concernant le test immunochromatographique sur bandelette, lesquelles sont vraies ?",
+  "options": [
+   "Il est coté (+) dans le cours",
+   "Il détecte les antigènes de Cryptosporidium dans les selles",
+   "C'est un test rapide utilisable au lit du malade",
+   "Il remplace la PCR dans tous les cas",
+   "Il ne détecte que des anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Il est mentionné comme technique contributive (+).",
+   "La bandelette détecte les antigènes parasitaires.",
+   "C'est un test rapide de diagnostic.",
+   "Il ne remplace pas la PCR systématiquement.",
+   "Il détecte des antigènes, pas des anticorps."
+  ]
+ },
+ {
+  "q": "Concernant la PCR, quelles propositions sont exactes ?",
+  "options": [
+   "Elle permet le génotypage (distinguer C. hominis de C. parvum)",
+   "Elle est sans intérêt diagnostique",
+   "Le génotypage a un intérêt épidémiologique",
+   "Elle est moins sensible que l'examen direct",
+   "Elle permet le diagnostic de la cryptosporidiose"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Elle permet de distinguer les espèces et génotypes.",
+   "Elle a un intérêt diagnostique réel.",
+   "Cette distinction aide à identifier la source (humaine ou zoonotique).",
+   "Elle est plus sensible que la microscopie.",
+   "La PCR est une technique diagnostique (+)."
+  ]
+ },
+ {
+  "q": "À propos du traitement de la cryptosporidiose, lesquelles sont exactes ?",
+  "options": [
+   "L'albendazole est le traitement curatif de référence",
+   "Le métronidazole guérit constamment la cryptosporidiose",
+   "Aucune thérapeutique curative n'est efficace sur le plan parasitologique",
+   "Aucune thérapeutique curative n'est efficace sur le plan clinique",
+   "Le cotrimoxazole est curatif"
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "L'albendazole n'est pas le traitement de référence.",
+   "Le métronidazole n'est pas curatif.",
+   "Ni sur le plan parasitologique.",
+   "Selon le cours, aucun traitement curatif n'est efficace cliniquement.",
+   "Le cotrimoxazole n'est pas curatif de la cryptosporidiose."
+  ]
+ },
+ {
+  "q": "Concernant la prise en charge symptomatique, quelles affirmations sont vraies ?",
+  "options": [
+   "Le traitement symptomatique est essentiel",
+   "Une antibiothérapie curative systématique est recommandée",
+   "Il faut s'abstenir de toute réhydratation",
+   "La réhydratation est la base de la prise en charge",
+   "Le rétablissement de l'équilibre hydro-électrolytique est primordial"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "L'importance du traitement symptomatique est soulignée.",
+   "Aucune antibiothérapie curative n'est validée.",
+   "La réhydratation ne doit pas être omise.",
+   "La réhydratation (orale ou IV) est la pierre angulaire.",
+   "La correction hydro-électrolytique est indispensable."
+  ]
+ },
+ {
+  "q": "Pour la prophylaxie, lesquelles sont exactes ?",
+  "options": [
+   "L'hygiène alimentaire et hydrique est essentielle",
+   "Il faut informer sur le danger des mains sales",
+   "Aucune mesure préventive n'est possible",
+   "L'assainissement du milieu est nécessaire",
+   "C'est une maladie liée au péril fécal"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "L'hygiène alimentaire et hydrique prévient la contamination.",
+   "L'éducation sur l'hygiène des mains est une mesure clé.",
+   "Des mesures préventives efficaces existent.",
+   "L'assainissement du milieu fait partie de la prévention.",
+   "La transmission est liée au péril fécal."
+  ]
+ },
+ {
+  "q": "Un enfant de 3 ans présente une gastro-entérite fébrile avec diarrhée guérissant en 10 jours : lesquelles sont exactes ?",
+  "options": [
+   "L'examen des selles avec coloration de Ziehl-Neelsen est indiqué",
+   "L'évolution est spontanément favorable chez l'immunocompétent",
+   "Évoquer en premier une cryptosporidiose",
+   "Un traitement antiparasitaire curatif est indispensable",
+   "La réhydratation est la base de la prise en charge"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Le Ziehl-Neelsen est la technique de référence.",
+   "La guérison spontanée en ~10 jours est la règle chez l'IC.",
+   "Le tableau est typique de la cryptosporidiose de l'enfant.",
+   "Aucun traitement curatif efficace n'existe.",
+   "Le traitement est symptomatique, par réhydratation."
+  ]
+ },
+ {
+  "q": "Patient VIH avec CD4 à 30/mm3 et diarrhée aqueuse chronique : lesquelles sont exactes ?",
+  "options": [
+   "Aucun examen parasitologique n'est utile",
+   "Évaluer une éventuelle atteinte biliaire",
+   "Rechercher les oocystes et les spores dans les selles",
+   "Le diagnostic est purement clinique",
+   "Évoquer une cryptosporidiose ou une microsporidiose"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "L'examen parasitologique est indispensable.",
+   "L'atteinte biliaire (30 % des cas) doit être recherchée.",
+   "L'examen des selles avec colorations spéciales est indiqué.",
+   "Le diagnostic repose sur la mise en évidence du parasite.",
+   "Ces deux parasitoses sont les grandes causes de diarrhée chronique du SIDA."
+  ]
+ },
+ {
+  "q": "Concernant les sporozoïtes de Cryptosporidium, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont au nombre de 8",
+   "Ils sont au nombre de 4 par oocyste",
+   "Ils sont dits « nus »",
+   "L'oocyste ne comporte pas de sporocystes",
+   "Chaque sporozoïte est enfermé dans un sporocyste"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Ils ne sont pas au nombre de 8.",
+   "L'oocyste renferme 4 sporozoïtes.",
+   "Les sporozoïtes sont qualifiés de « nus ».",
+   "Il n'y a pas de sporocystes chez Cryptosporidium.",
+   "Aucun sporocyste ne les enferme."
+  ]
+ },
+ {
+  "q": "Quelle différence entre les oocystes de Cryptosporidium et d'Isospora ?",
+  "options": [
+   "L'oocyste d'Isospora nécessite une sporogonie externe",
+   "Cryptosporidium forme 2 sporocystes",
+   "Les deux oocystes sont morphologiquement identiques",
+   "L'oocyste de Cryptosporidium est sporulé dès l'émission",
+   "Cryptosporidium ne forme pas de sporocystes, Isospora en forme 2"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Ceux d'Isospora mûrissent dans le milieu extérieur.",
+   "Cryptosporidium ne forme pas de sporocystes.",
+   "Leurs oocystes sont morphologiquement différents.",
+   "Les oocystes de Cryptosporidium sont sporulés à l'émission.",
+   "Isospora forme 2 sporocystes, pas Cryptosporidium."
+  ]
+ },
+ {
+  "q": "Concernant la taille des formes parasitaires, lesquelles sont exactes ?",
+  "options": [
+   "Les oocystes de Cryptosporidium sont petits (4 à 6 µm)",
+   "Les spores de microsporidies sont minuscules (1 à 3 µm)",
+   "Les oocystes d'Isospora sont plus grands et allongés (20 à 30 µm)",
+   "La taille aide à l'identification microscopique",
+   "Les trois ont exactement la même taille"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les oocystes de Cryptosporidium mesurent 4-6 µm.",
+   "Les spores de microsporidies sont de très petite taille.",
+   "Ceux d'Isospora sont nettement plus grands et allongés.",
+   "La taille est un critère d'orientation diagnostique.",
+   "Les tailles sont différentes."
+  ]
+ },
+ {
+  "q": "La cryptosporidiose ne s'accompagne pas d'hyperéosinophilie : lesquelles sont exactes ?",
+  "options": [
+   "La cryptosporidiose ne donne pas d'éosinophilie sanguine",
+   "Les cristaux de Charcot-Leyden dans les selles orientent vers l'isosporose",
+   "L'isosporose peut donner une hyperéosinophilie modérée",
+   "Les microsporidioses donnent une éosinophilie massive",
+   "Toutes les parasitoses digestives donnent une éosinophilie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La cryptosporidiose n'entraîne pas d'hyperéosinophilie.",
+   "Les cristaux de Charcot-Leyden traduisent cette éosinophilie.",
+   "L'isosporose est une des rares protozooses avec éosinophilie.",
+   "Les microsporidioses ne donnent pas d'éosinophilie massive.",
+   "Toutes les parasitoses ne donnent pas d'éosinophilie."
+  ]
+ },
+ {
+  "q": "À propos des épidémies hydriques, lesquelles sont exactes ?",
+  "options": [
+   "La filtration fine (< 1 micron) retient les oocystes",
+   "L'eau embouteillée est toujours contaminée",
+   "L'ébullition de l'eau est inefficace",
+   "La résistance au chlore explique des épidémies hydriques de cryptosporidiose",
+   "L'épidémie de Milwaukee en 1993 est l'exemple historique"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Les oocystes (4-6 µm) sont retenus par filtration fine.",
+   "L'eau embouteillée capsulée n'est pas systématiquement contaminée.",
+   "L'ébullition inactive les oocystes.",
+   "La résistance au chlore est à l'origine d'épidémies hydriques.",
+   "Milwaukee 1993 : plus grande épidémie hydrique documentée."
+  ]
+ },
+ {
+  "q": "Concernant la baignade en piscine, lesquelles sont exactes ?",
+  "options": [
+   "Le chlore élimine systématiquement tout risque",
+   "Les oocystes résistent au chlore des piscines",
+   "La baignade peut être contaminante",
+   "Il ne faut pas se baigner en cas de diarrhée",
+   "L'eau de piscine chlorée est toujours sûre"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Le chlore ne supprime pas tout risque.",
+   "La résistance au chlore concerne aussi les piscines.",
+   "L'ingestion d'eau de piscine peut contaminer.",
+   "L'éviction des baigneurs diarrhéiques est recommandée.",
+   "L'eau chlorée n'est pas toujours sûre."
+  ]
+ },
+ {
+  "q": "Devant une diarrhée chronique au stade SIDA, lesquelles sont exactes ?",
+  "options": [
+   "L'examen parasitologique des selles avec colorations spéciales est indiqué",
+   "Répéter les examens si la suspicion est forte malgré une négativité",
+   "La cause est toujours virale",
+   "Rechercher Cryptosporidium, Isospora et les microsporidies",
+   "Un seul examen direct suffit toujours"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Les colorations spéciales (ZN, trichrome) sont nécessaires.",
+   "L'émission peut être discontinue : il faut répéter.",
+   "Les causes parasitaires sont fréquentes.",
+   "Ce sont les trois parasitoses à évoquer.",
+   "Un examen unique ne suffit pas toujours."
+  ]
+ },
+ {
+  "q": "La cryptosporidiose intestinale chronique définit le stade SIDA : lesquelles sont exactes ?",
+  "options": [
+   "L'isosporose intestinale chronique (> 1 mois) définit aussi le stade SIDA",
+   "Ce sont des infections opportunistes",
+   "Elles définissent le SIDA quel que soit le terrain immunitaire",
+   "La cryptosporidiose intestinale chronique (> 1 mois) définit le stade SIDA",
+   "Elles n'ont aucun lien avec le SIDA"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "L'isosporose chronique > 1 mois l'est également.",
+   "Ce sont des infections opportunistes du déficit immunitaire.",
+   "C'est la chronicité sur terrain ID qui définit le stade.",
+   "La cryptosporidiose chronique > 1 mois est classant SIDA.",
+   "Le lien avec le SIDA est établi."
+  ]
+ },
+ {
+  "q": "Concernant la cuisson des aliments, lesquelles sont exactes ?",
+  "options": [
+   "Les aliments crus sont toujours sûrs",
+   "Les aliments bien cuits sont sûrs",
+   "Les crudités lavées à l'eau contaminée sont à risque",
+   "La cuisson n'a aucun effet sur les oocystes",
+   "La cuisson détruit les oocystes, tués à 70 °C"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Les aliments crus peuvent être contaminants.",
+   "Les aliments bien cuits ne transmettent pas.",
+   "Le lavage à l'eau contaminée ne sécurise pas les crudités.",
+   "La cuisson a un effet létal démontré.",
+   "70 °C inactive les oocystes : la cuisson protège."
+  ]
+ },
+ {
+  "q": "À propos du lavage des mains, lesquelles sont exactes ?",
+  "options": [
+   "L'hygiène des mains est inutile",
+   "Seule la qualité de l'eau compte",
+   "Les mains sales sont un mode de contamination reconnu",
+   "Le lavage des mains avant les repas protège",
+   "Le lavage des mains après les selles prévient la transmission"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "L'hygiène des mains est une mesure essentielle.",
+   "L'eau et les mains sont deux voies à contrôler.",
+   "Le péril fécal passe par les mains sales.",
+   "Le lavage avant les repas est une mesure barrière.",
+   "L'hygiène des mains après les selles limite la transmission."
+  ]
+ },
+ {
+  "q": "Synthèse sur la cryptosporidiose : lesquelles sont exactes ?",
+  "options": [
+   "Oocystes sporulés directement infectants dès l'émission",
+   "Résistance au chlore et longue survie dans l'environnement",
+   "Helminthe à transmission vectorielle",
+   "Protozoaire coccidie du genre Cryptosporidium",
+   "Aucun traitement curatif efficace ; traitement symptomatique"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Les oocystes sporulés sont d'emblée infectants.",
+   "La résistance au chlore et la survie prolongée sont caractéristiques.",
+   "Ce n'est ni un helminthe ni une parasitose vectorielle.",
+   "L'agent est un protozoaire coccidie.",
+   "Seul le traitement symptomatique (réhydratation) est validé."
+  ]
+ },
+ {
+  "q": "Concernant l'agent de l'isosporose, lesquelles sont exactes ?",
+  "options": [
+   "C'est une coccidiose intestinale",
+   "L'isosporose est due à Isospora belli",
+   "Elle est due à Entamoeba histolytica",
+   "Elle est due à Giardia intestinalis",
+   "C'est une helminthiase"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "C'est bien une coccidiose intestinale.",
+   "L'agent est Isospora belli (Cystoisospora belli).",
+   "Ce n'est pas une amibiase.",
+   "Ce n'est pas une giardiase.",
+   "Ce n'est pas un helminthe."
+  ]
+ },
+ {
+  "q": "À propos de la spécificité d'hôte d'Isospora belli, quelles affirmations sont vraies ?",
+  "options": [
+   "L'homme est le seul hôte",
+   "C'est un parasite des oiseaux",
+   "C'est une zoonose à réservoir bovin",
+   "C'est un parasite spécifique des cellules intestinales de l'homme",
+   "Le porc est le réservoir principal"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Il n'y a pas de réservoir animal connu.",
+   "Ce n'est pas un parasite aviaire.",
+   "Ce n'est pas une zoonose bovine.",
+   "Isospora belli est spécifique de l'homme.",
+   "Le porc n'est pas le réservoir."
+  ]
+ },
+ {
+  "q": "Concernant la répartition géographique de l'isosporose, lesquelles sont exactes ?",
+  "options": [
+   "Elle est absente des tropiques",
+   "Sa répartition est uniformément cosmopolite",
+   "Elle est rare dans les régions tempérées",
+   "Elle est limitée à l'Europe",
+   "Elle est fréquente dans les régions tropicales et subtropicales"
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Elle n'est pas absente des tropiques.",
+   "La répartition n'est pas uniforme.",
+   "Elle est rare en régions tempérées.",
+   "Elle n'est pas limitée à l'Europe.",
+   "Elle est fréquente en zones tropicales et subtropicales."
+  ]
+ },
+ {
+  "q": "À propos de l'oocyste d'Isospora belli, quelles propositions sont vraies ?",
+  "options": [
+   "Une extrémité est effilée, l'autre arrondie",
+   "Sa forme est elliptique, allongée et asymétrique",
+   "Sa membrane est mince et réfringente",
+   "Il est parfaitement sphérique",
+   "Sa paroi est épaisse et opaque"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'asymétrie se traduit par une extrémité effilée et une arrondie.",
+   "L'oocyste est elliptique, allongé, asymétrique.",
+   "La membrane est mince et réfringente.",
+   "Il n'est pas sphérique.",
+   "La paroi n'est ni épaisse ni opaque."
+  ]
+ },
+ {
+  "q": "Concernant l'oocyste au moment de son émission, lesquelles sont exactes ?",
+  "options": [
+   "Il n'est pas sporulé à l'émission",
+   "La maturation (sporogonie) se poursuit à l'extérieur",
+   "Il contient déjà 8 sporozoïtes à l'émission",
+   "Le sporoblaste est une forme adulte du parasite",
+   "Il contient à l'intérieur une cellule sphérique : le sporoblaste"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "L'oocyste n'est pas encore sporulé.",
+   "La sporogonie s'achève dans le milieu extérieur.",
+   "Les sporozoïtes ne sont pas encore individualisés.",
+   "Le sporoblaste est une forme immature.",
+   "À l'émission, on observe le sporoblaste sphérique."
+  ]
+ },
+ {
+  "q": "À propos de la sporogonie externe d'Isospora, lesquelles sont exactes ?",
+  "options": [
+   "L'oocyste mûr contient donc 8 sporozoïtes au total",
+   "Elle aboutit à l'individualisation de 2 sporocystes",
+   "Un seul sporocyste est formé",
+   "Chaque sporocyste contient 4 sporozoïtes",
+   "La maturation est immédiate et interne"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Soit 8 sporozoïtes par oocyste mûr.",
+   "La sporogonie produit 2 sporocystes.",
+   "Il se forme 2 sporocystes, pas un seul.",
+   "Chaque sporocyste renferme 4 sporozoïtes.",
+   "La maturation est externe, non immédiate."
+  ]
+ },
+ {
+  "q": "Quelle conséquence de la sporogonie externe sur la contagiosité ?",
+  "options": [
+   "Un délai de maturation externe est nécessaire",
+   "Le péril fécal reste le mode de transmission",
+   "Les selles sont immédiatement infectantes comme pour Cryptosporidium",
+   "Les selles fraîches ne sont pas immédiatement contaminantes",
+   "Aucune maturation n'est requise"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "La sporogonie externe prend un délai.",
+   "La transmission reste oro-fécale.",
+   "Contrairement à Cryptosporidium, pas de contagiosité immédiate.",
+   "L'oocyste non sporulé n'est pas infectant d'emblée.",
+   "Une maturation externe est requise."
+  ]
+ },
+ {
+  "q": "Concernant le cycle schizogonique d'Isospora, lesquelles sont exactes ?",
+  "options": [
+   "Les trophozoïtes se transforment en schizontes",
+   "Il n'existe pas de phase asexuée",
+   "Les mérozoïtes gagnent de nouvelles cellules intestinales",
+   "Les schizontes éclatent et libèrent des mérozoïtes",
+   "C'est la reproduction asexuée du parasite"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Les trophozoïtes évoluent en schizontes.",
+   "La phase asexuée existe bel et bien.",
+   "Les mérozoïtes colonisent de nouveaux entérocytes.",
+   "L'éclatement des schizontes libère les mérozoïtes.",
+   "La schizogonie est la phase asexuée."
+  ]
+ },
+ {
+  "q": "À propos du cycle sporogonique (reproduction sexuée), quelles affirmations sont vraies ?",
+  "options": [
+   "Les mérozoïtes subissent une différenciation sexuée",
+   "La fécondation aboutit à la formation d'un oocyste",
+   "L'oocyste devient infestant dans le milieu extérieur",
+   "La reproduction est uniquement asexuée",
+   "Ils donnent des gamètes mâles et femelles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "La différenciation sexuée concerne les mérozoïtes.",
+   "La fécondation forme l'oocyste.",
+   "L'oocyste devient infestant après sporogonie externe.",
+   "Il existe une reproduction sexuée.",
+   "Des gamètes mâles et femelles sont produits."
+  ]
+ },
+ {
+  "q": "Concernant le réservoir et la transmission de l'isosporose, lesquelles sont exactes ?",
+  "options": [
+   "Les mains sales après contact avec une personne infectée transmettent",
+   "La contamination est liée au péril fécal",
+   "La piqûre d'insecte est le mode de transmission",
+   "Le réservoir est l'homme",
+   "Elle se fait par ingestion d'eau ou d'aliments souillés"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "La transmission directe par les mains sales existe.",
+   "Le péril fécal est le mode de transmission.",
+   "Il n'y a pas de transmission vectorielle.",
+   "L'homme est le seul réservoir.",
+   "L'eau et les aliments souillés sont contaminants."
+  ]
+ },
+ {
+  "q": "À propos de l'engrais humain, lesquelles sont exactes ?",
+  "options": [
+   "Les engrais chimiques transmettent l'isosporose",
+   "L'utilisation agricole de l'engrais humain favorise la transmission",
+   "L'épandage de matières fécales non traitées est un facteur de risque",
+   "L'agriculture n'intervient pas dans la transmission",
+   "Le traitement des matières fécales réduit le risque"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Les engrais chimiques ne transmettent pas.",
+   "L'engrais humain est un facteur épidémiologique favorisant.",
+   "Les matières fécales non traitées entretiennent le cycle.",
+   "L'agriculture intervient via l'engrais humain.",
+   "Le traitement des excréta limite la transmission."
+  ]
+ },
+ {
+  "q": "Concernant la prévalence en zone tropicale, quelles affirmations sont vraies ?",
+  "options": [
+   "Environ 1 % chez les immunocompétents",
+   "La prévalence est identique chez l'IC et l'ID",
+   "Elle est plus fréquente chez l'IC que chez l'ID",
+   "Elle est inexistante en zone tropicale",
+   "Environ 10 % chez les immunodéprimés"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "La prévalence est d'environ 1 % chez l'IC en zone tropicale.",
+   "La prévalence est plus élevée chez l'ID.",
+   "C'est l'inverse : l'ID est plus touché.",
+   "Elle est fréquente en zone tropicale.",
+   "Elle atteint environ 10 % chez l'ID."
+  ]
+ },
+ {
+  "q": "À propos de l'incubation de l'isosporose, lesquelles sont exactes ?",
+  "options": [
+   "L'incubation dure 3 semaines",
+   "Elle dure 5 à 6 jours",
+   "Les symptômes sont immédiats après l'ingestion",
+   "L'incubation est silencieuse",
+   "L'incubation dure plusieurs mois"
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Elle ne dure pas 3 semaines.",
+   "Sa durée est de 5 à 6 jours.",
+   "Les symptômes ne sont pas immédiats.",
+   "L'incubation est asymptomatique.",
+   "Elle ne dure pas plusieurs mois."
+  ]
+ },
+ {
+  "q": "Chez l'immunocompétent, le tableau de l'isosporose : lesquelles sont exactes ?",
+  "options": [
+   "Entérite avec diarrhée aiguë",
+   "Guérison en quelques semaines",
+   "Diarrhée fébrile avec signes digestifs",
+   "Infection toujours asymptomatique",
+   "Diarrhée chronique d'emblée"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le tableau est une entérite aiguë diarrhéique.",
+   "L'évolution est favorable en quelques semaines.",
+   "La diarrhée s'accompagne de fièvre et de signes digestifs.",
+   "L'infection est symptomatique.",
+   "La chronicité d'emblée n'est pas la règle chez l'IC."
+  ]
+ },
+ {
+  "q": "Chez l'immunodéprimé, lesquelles caractérisent l'isosporose ?",
+  "options": [
+   "Diarrhées persistantes pendant plusieurs mois",
+   "Syndrome de malabsorption",
+   "Déshydratation et amaigrissement",
+   "Guérison spontanée en 48 heures",
+   "Diarrhées parfois glairo-sanglantes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "La diarrhée persiste plusieurs mois.",
+   "Un syndrome de malabsorption s'installe.",
+   "Déshydratation et amaigrissement sont marqués.",
+   "La guérison spontanée rapide n'est pas la règle.",
+   "Elle peut être glairo-sanglante."
+  ]
+ },
+ {
+  "q": "Une diarrhée glairo-sanglante chez un immunodéprimé : lesquelles sont exactes ?",
+  "options": [
+   "Elle doit aussi faire évoquer une amibiase ou une shigellose",
+   "Elle est sans signification diagnostique",
+   "Elle est typique de la cryptosporidiose",
+   "Elle peut s'observer dans l'isosporose de l'ID",
+   "Elle impose d'évoquer une cause parasitaire ou bactérienne invasive"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Le diagnostic différentiel inclut amibiase et shigellose.",
+   "Elle a une signification diagnostique.",
+   "La cryptosporidiose donne une diarrhée aqueuse.",
+   "L'isosporose de l'ID peut être glairo-sanglante.",
+   "Une cause invasive doit être recherchée."
+  ]
+ },
+ {
+  "q": "Parmi les formes extra-intestinales de l'isosporose, lesquelles sont décrites ?",
+  "options": [
+   "Elles sont fréquentes et graves",
+   "Méningites",
+   "Elles sont rares",
+   "Cholécystites",
+   "Cholangites"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Elles ne sont ni fréquentes ni graves.",
+   "Il n'y a pas de méningite décrite.",
+   "Les formes extra-intestinales sont rares.",
+   "Des cholécystites sont décrites.",
+   "Des cholangites sont décrites."
+  ]
+ },
+ {
+  "q": "L'isosporose peut être inaugurale du stade SIDA : lesquelles sont exactes ?",
+  "options": [
+   "Elle est sans lien avec le VIH",
+   "C'est une infection opportuniste",
+   "Elle peut révéler le stade SIDA",
+   "Elle signe toujours une immunocompétence",
+   "Elle n'atteint jamais les patients VIH"
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Le lien avec le VIH est établi.",
+   "L'isosporose est une parasitose opportuniste.",
+   "Elle peut être inaugurale du SIDA.",
+   "Elle ne signe pas une immunocompétence.",
+   "Les patients VIH sont une population à risque."
+  ]
+ },
+ {
+  "q": "Concernant l'éosinophilie dans l'isosporose, quelles affirmations sont vraies ?",
+  "options": [
+   "On retrouve des cristaux de Charcot-Leyden dans les selles",
+   "L'éosinophilie est massive et constante",
+   "C'est l'une des rares protozooses donnant une hyperéosinophilie",
+   "L'isosporose donne une hyperéosinophilie sanguine modérée",
+   "Les protozooses ne donnent jamais d'éosinophilie"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Les cristaux de Charcot-Leyden en sont la traduction fécale.",
+   "L'éosinophilie est modérée, non massive.",
+   "Peu de protozooses donnent une éosinophilie.",
+   "Une hyperéosinophilie modérée est décrite.",
+   "L'isosporose est une exception parmi les protozooses."
+  ]
+ },
+ {
+  "q": "Hyperéosinophilie modérée et diarrhée chronique chez un patient VIH revenant des tropiques : lesquelles sont exactes ?",
+  "options": [
+   "Répéter les examens de selles car l'émission est discontinue",
+   "Rechercher les cristaux de Charcot-Leyden dans les selles",
+   "La cryptosporidiose donne typiquement une éosinophilie",
+   "Évoquer en premier une isosporose",
+   "Un examen négatif unique élimine l'isosporose"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "L'émission discontinue impose de répéter les examens.",
+   "Les cristaux de Charcot-Leyden confortent l'orientation.",
+   "La cryptosporidiose ne donne pas d'éosinophilie.",
+   "L'association oriente vers l'isosporose.",
+   "Un examen unique ne suffit pas à éliminer le diagnostic."
+  ]
+ },
+ {
+  "q": "À propos des cristaux de Charcot-Leyden, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont sans signification diagnostique",
+   "Ils sont pathognomoniques de l'amibiase",
+   "On les recherche dans les selles",
+   "Ils dérivent des polynucléaires éosinophiles",
+   "Ils témoignent d'une réaction à éosinophiles"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Ils ont une valeur d'orientation.",
+   "Ils ne sont pas pathognomoniques de l'amibiase.",
+   "Leur recherche se fait dans les selles.",
+   "Ce sont des cristaux issus des granulations éosinophiles.",
+   "Ils traduisent l'hyperéosinophilie locale."
+  ]
+ },
+ {
+  "q": "Pour le diagnostic parasitologique de l'isosporose, lesquelles sont exactes ?",
+  "options": [
+   "Mise en évidence des oocystes avec ou sans coloration",
+   "Colorations possibles : auramine, Ziehl-Neelsen",
+   "Examen parasitologique des selles",
+   "Examen direct puis concentration par la méthode de Ritchie",
+   "L'examen des urines est l'examen de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les oocystes sont visibles avec ou sans coloration.",
+   "L'auramine et le Ziehl-Neelsen sont utilisables.",
+   "Le diagnostic repose sur l'examen des selles.",
+   "La méthode de Ritchie concentre les oocystes.",
+   "Les urines ne sont pas l'examen de référence."
+  ]
+ },
+ {
+  "q": "Concernant la méthode de Ritchie, quelles affirmations sont vraies ?",
+  "options": [
+   "Elle est réservée aux hémoparasites",
+   "Elle améliore la détection des oocystes rares",
+   "C'est une technique de concentration des selles",
+   "C'est une coloration",
+   "Elle est utilisée après l'examen direct"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Elle s'applique aux selles, pas aux hémoparasites.",
+   "Elle augmente la sensibilité pour les oocystes peu nombreux.",
+   "Ritchie est une méthode de concentration.",
+   "Ce n'est pas une coloration.",
+   "Elle complète l'examen direct."
+  ]
+ },
+ {
+  "q": "À propos de la coloration à l'auramine, lesquelles sont exactes ?",
+  "options": [
+   "C'est la coloration de référence des microsporidies",
+   "Les oocystes apparaissent fluorescents",
+   "C'est une coloration fluorescente des oocystes",
+   "Elle est inutilisable en parasitologie",
+   "C'est une alternative au Ziehl-Neelsen"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "La référence des microsporidies est le trichrome.",
+   "Les oocystes y apparaissent fluorescents.",
+   "L'auramine est une coloration fluorescente.",
+   "Elle est utilisable en parasitologie.",
+   "Elle peut remplacer le Ziehl-Neelsen."
+  ]
+ },
+ {
+  "q": "Concernant l'émission des oocystes d'Isospora, lesquelles sont exactes ?",
+  "options": [
+   "Les oocystes sont émis environ 20 jours après la contamination",
+   "Il faut répéter les examens",
+   "L'émission est discontinue dans les selles",
+   "Un seul examen négatif élimine le diagnostic",
+   "L'émission est continue et abondante"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le délai d'émission est d'environ 20 jours.",
+   "La répétition des examens est nécessaire.",
+   "L'émission fécale est discontinue.",
+   "Un examen unique ne permet pas d'éliminer.",
+   "L'émission n'est ni continue ni abondante."
+  ]
+ },
+ {
+  "q": "Un examen de selles négatif au 10e jour après un contage : lesquelles sont exactes ?",
+  "options": [
+   "L'examen peut être faussement négatif car trop précoce",
+   "Le diagnostic d'isosporose est définitivement éliminé",
+   "Les oocystes n'apparaissent que vers le 20e jour",
+   "Le délai d'émission n'a aucune importance",
+   "Il faut répéter l'examen ultérieurement"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Un examen trop précoce est faussement négatif.",
+   "Le diagnostic n'est pas éliminé.",
+   "Le délai d'émission est d'environ 20 jours.",
+   "Le délai a une importance diagnostique.",
+   "La répétition est indispensable."
+  ]
+ },
+ {
+  "q": "Concernant la biopsie jéjunale, quelles affirmations sont vraies ?",
+  "options": [
+   "La biopsie colique est plus rentable",
+   "Elle est surtout utile quand les selles sont négatives",
+   "Elle peut contribuer au diagnostic d'isosporose",
+   "Elle montre les formes tissulaires intracellulaires",
+   "Elle remplace l'examen des selles"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "C'est la biopsie jéjunale, pas colique, qui est citée.",
+   "Elle est indiquée en cas de selles négatives.",
+   "La biopsie jéjunale est un examen contributif.",
+   "Elle visualise les formes tissulaires.",
+   "Elle ne remplace pas l'examen des selles."
+  ]
+ },
+ {
+  "q": "À propos de la membrane de l'oocyste d'Isospora, lesquelles sont exactes ?",
+  "options": [
+   "L'oocyste est visible en microscopie optique",
+   "Elle est épaisse et opaque",
+   "La réfringence aide à sa reconnaissance en examen direct",
+   "Elle est mince et réfringente",
+   "L'oocyste est invisible en microscopie optique"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "L'oocyste est visible au microscope optique.",
+   "Elle n'est ni épaisse ni opaque.",
+   "La réfringence facilite le repérage.",
+   "La membrane est mince et réfringente.",
+   "Il est bien visible en microscopie."
+  ]
+ },
+ {
+  "q": "Concernant le traitement de l'isosporose chez l'immunocompétent, lesquelles sont exactes ?",
+  "options": [
+   "La posologie est de 800 mg + 160 mg par jour",
+   "La durée du traitement est de 10 jours",
+   "La pénicilline G est le traitement de référence",
+   "Le cotrimoxazole est le traitement de première intention",
+   "Aucun traitement n'est efficace"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "La posologie est de 800/160 mg par jour.",
+   "La durée est de 10 jours chez l'IC.",
+   "La pénicilline n'a pas d'activité.",
+   "Le cotrimoxazole (sulfaméthoxazole-triméthoprime) est indiqué.",
+   "Le cotrimoxazole est efficace."
+  ]
+ },
+ {
+  "q": "À propos du cotrimoxazole, quelles affirmations sont vraies ?",
+  "options": [
+   "C'est l'association sulfaméthoxazole + triméthoprime",
+   "Son action est antifolinique",
+   "Il est curatif de la cryptosporidiose",
+   "La posologie chez l'IC est de 800/160 mg/j pendant 10 jours",
+   "Il est efficace sur Isospora belli"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Le cotrimoxazole associe sulfaméthoxazole et triméthoprime.",
+   "Il bloque la synthèse des folates.",
+   "Il n'est pas curatif de la cryptosporidiose.",
+   "La posologie de l'IC est bien 800/160 mg/j pendant 10 j.",
+   "Il est actif sur Isospora belli."
+  ]
+ },
+ {
+  "q": "Concernant le traitement chez l'immunodéprimé, lesquelles sont exactes ?",
+  "options": [
+   "Suivi d'une deuxième cure de 10 jours à demi-posologie",
+   "Puis traitement d'entretien à 400 + 80 mg/j 3 fois par semaine",
+   "Traitement uniquement symptomatique",
+   "Arrêt du traitement après la première cure",
+   "Même traitement initial que chez l'immunocompétent"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Une deuxième cure de 10 jours à demi-dose suit.",
+   "Un entretien 400/80 mg 3x/semaine est instauré.",
+   "Le traitement est étiologique, pas seulement symptomatique.",
+   "L'arrêt après une cure expose aux rechutes.",
+   "La cure initiale est identique à celle de l'IC."
+  ]
+ },
+ {
+  "q": "Le schéma thérapeutique de l'ID (cures + entretien) : lesquelles sont exactes ?",
+  "options": [
+   "La deuxième cure dure 10 jours à demi-posologie",
+   "La cure initiale dure 10 jours",
+   "L'entretien est de 400/80 mg 3 fois par semaine",
+   "Une cure unique suffit chez l'ID",
+   "Le schéma prévient les rechutes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Deuxième cure : 10 jours à demi-dose.",
+   "Première cure : 10 jours à pleine dose.",
+   "Entretien : 400/80 mg trois fois par semaine.",
+   "Une cure unique est insuffisante chez l'ID.",
+   "Ce schéma prolongé prévient les rechutes fréquentes."
+  ]
+ },
+ {
+  "q": "Concernant les alternatives au cotrimoxazole, quelles affirmations sont vraies ?",
+  "options": [
+   "La pyriméthamine est une alternative",
+   "Le métronidazole est le traitement de première intention",
+   "L'albendazole est le traitement de première intention",
+   "Il n'existe aucune alternative au cotrimoxazole",
+   "La ciprofloxacine est une alternative"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "La pyriméthamine est l'autre alternative.",
+   "Le métronidazole n'est pas le traitement de référence.",
+   "L'albendazole n'est pas indiqué en première intention.",
+   "Deux alternatives existent.",
+   "La ciprofloxacine est citée en alternative."
+  ]
+ },
+ {
+  "q": "À propos de la ciprofloxacine, lesquelles sont exactes ?",
+  "options": [
+   "Elle est une alternative au cotrimoxazole dans l'isosporose",
+   "Elle n'a aucune activité sur Isospora",
+   "La pyriméthamine est une autre alternative",
+   "C'est un antibiotique de la famille des fluoroquinolones",
+   "Elle est le traitement de première intention"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Elle est proposée en alternative au cotrimoxazole.",
+   "Elle a une activité sur Isospora.",
+   "La pyriméthamine est l'autre alternative citée.",
+   "La ciprofloxacine est une fluoroquinolone.",
+   "La première intention reste le cotrimoxazole."
+  ]
+ },
+ {
+  "q": "Concernant la pyriméthamine, lesquelles sont exactes ?",
+  "options": [
+   "C'est un antiparasitaire antifolinique",
+   "C'est le traitement de première intention devant le cotrimoxazole",
+   "Elle s'utilise en cas d'intolérance au cotrimoxazole",
+   "Elle est une alternative thérapeutique dans l'isosporose",
+   "Elle est inactive sur Isospora"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "La pyriméthamine est un antifolinique.",
+   "La première intention reste le cotrimoxazole.",
+   "Elle est utile en cas d'intolérance au cotrimoxazole.",
+   "Elle est citée comme alternative.",
+   "Elle est active sur Isospora."
+  ]
+ },
+ {
+  "q": "Pour la prévention de l'isosporose, lesquelles sont exactes ?",
+  "options": [
+   "Mêmes mesures que pour les autres coccidioses",
+   "Lutte contre le péril fécal",
+   "Éviter l'engrais humain non traité",
+   "Aucune prévention n'est possible",
+   "Hygiène des mains"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "La prévention est commune aux coccidioses.",
+   "Le péril fécal est la cible principale.",
+   "L'engrais humain non traité doit être évité.",
+   "Des mesures préventives efficaces existent.",
+   "L'hygiène des mains est essentielle."
+  ]
+ },
+ {
+  "q": "Comparaison des traitements des trois parasitoses : lesquelles sont exactes ?",
+  "options": [
+   "Microsporidiose à Encephalitozoon : albendazole",
+   "Les trois se traitent par le même médicament",
+   "Microsporidiose à E. bieneusi : fumagilline",
+   "Cryptosporidiose : pas de traitement curatif efficace",
+   "Isosporose : cotrimoxazole"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "L'albendazole est indiqué pour Encephalitozoon.",
+   "Chaque parasitose a son traitement propre.",
+   "La fumagilline est indiquée pour E. bieneusi.",
+   "Aucun curatif n'est validé pour la cryptosporidiose.",
+   "Le cotrimoxazole traite l'isosporose."
+  ]
+ },
+ {
+  "q": "Synthèse sur l'isosporose : lesquelles sont exactes ?",
+  "options": [
+   "Coccidiose intestinale à Isospora belli, spécifique de l'homme",
+   "Traitement de référence : fumagilline",
+   "Oocyste allongé asymétrique, sporogonie externe",
+   "Traitement : cotrimoxazole",
+   "Hyperéosinophilie modérée possible avec cristaux de Charcot-Leyden"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Isospora belli est spécifique de l'homme.",
+   "La fumagilline concerne les microsporidies, pas l'isosporose.",
+   "L'oocyste est allongé, asymétrique, à maturation externe.",
+   "Le cotrimoxazole est le traitement.",
+   "L'éosinophilie modérée est une particularité."
+  ]
+ },
+ {
+  "q": "Concernant la nature des microsporidies, lesquelles sont exactes ?",
+  "options": [
+   "Enterocytozoon bieneusi est l'espèce la plus fréquente",
+   "Ce sont des protistes parasites",
+   "Leur développement est intracellulaire",
+   "Ce sont des bactéries",
+   "Ce sont des helminthes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "E. bieneusi est l'espèce la plus fréquente (++).",
+   "Les microsporidies sont des protistes parasites.",
+   "Elles se développent à l'intérieur des cellules.",
+   "Ce ne sont pas des bactéries.",
+   "Ce ne sont pas des helminthes."
+  ]
+ },
+ {
+  "q": "Parmi les espèces de microsporidies citées, lesquelles sont exactes ?",
+  "options": [
+   "Plasmodium falciparum",
+   "Encephalitozoon intestinalis",
+   "Encephalitozoon hellem",
+   "Enterocytozoon bieneusi",
+   "Toxoplasma gondii"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Plasmodium n'est pas une microsporidie.",
+   "E. intestinalis est une espèce disséminée.",
+   "E. hellem est une espèce disséminée.",
+   "E. bieneusi est l'espèce dominante.",
+   "Toxoplasma n'est pas une microsporidie."
+  ]
+ },
+ {
+  "q": "À propos du tropisme d'Enterocytozoon bieneusi, quelles affirmations sont vraies ?",
+  "options": [
+   "Il est strictement pulmonaire",
+   "Il atteint l'épithélium de l'intestin grêle",
+   "Il se dissémine dans tout l'organisme",
+   "Il atteint aussi les voies biliaires",
+   "C'est l'espèce la plus fréquente (++)"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Il n'est pas strictement pulmonaire.",
+   "E. bieneusi parasite l'épithélium intestinal.",
+   "Il ne se dissémine pas dans tout l'organisme.",
+   "Les voies biliaires sont aussi atteintes.",
+   "C'est l'espèce la plus fréquente."
+  ]
+ },
+ {
+  "q": "Concernant les espèces du genre Encephalitozoon, lesquelles sont exactes ?",
+  "options": [
+   "Les atteintes concernent l'intestin, le rein, les voies urinaires et le poumon",
+   "Elles restent strictement intestinales",
+   "Encephalitozoon intestinalis et E. hellem se disséminent dans l'organisme",
+   "La dissémination touche surtout les immunodéprimés",
+   "Il n'y a jamais d'atteinte rénale"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Intestin, rein, voies urinaires et poumon sont atteints.",
+   "Elles ne restent pas strictement intestinales.",
+   "Les Encephalitozoon ont un pouvoir disséminant.",
+   "La dissémination concerne surtout les ID.",
+   "L'atteinte rénale est caractéristique."
+  ]
+ },
+ {
+  "q": "À propos de la spore des microsporidies, quelles propositions sont vraies ?",
+  "options": [
+   "C'est une spore de résistance",
+   "Il n'existe pas de forme de résistance",
+   "Elle contient plusieurs noyaux géants",
+   "Elle comprend un filament polaire",
+   "Le filament polaire est enroulé à l'intérieur de la spore"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "La spore est la forme de résistance.",
+   "La forme de résistance existe : la spore.",
+   "Elle ne contient pas plusieurs noyaux géants.",
+   "Le filament polaire est l'organite caractéristique.",
+   "Il est enroulé dans la spore."
+  ]
+ },
+ {
+  "q": "Concernant le filament polaire, lesquelles sont exactes ?",
+  "options": [
+   "Il s'évagine pour injecter le contenu infectant (sporoplasme)",
+   "C'est un flagelle locomoteur",
+   "Il permet l'inoculation de la cellule hôte",
+   "Il est caractéristique des microsporidies",
+   "Il est absent des spores"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Son évagination injecte le sporoplasme.",
+   "Ce n'est pas un flagelle locomoteur.",
+   "Le filament polaire sert à pénétrer la cellule hôte.",
+   "C'est l'organite distinctif des microsporidies.",
+   "Il est présent dans la spore."
+  ]
+ },
+ {
+  "q": "Quelle différence entre la spore des microsporidies et l'oocyste des coccidies ?",
+  "options": [
+   "Les deux sont des formes végétatives",
+   "La spore possède un filament polaire",
+   "L'oocyste possède un filament polaire",
+   "La forme de résistance des coccidies est l'oocyste",
+   "La forme de résistance des microsporidies est la spore"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Ce sont des formes de résistance, pas végétatives.",
+   "Le filament polaire est propre à la spore.",
+   "L'oocyste n'a pas de filament polaire.",
+   "Les coccidies résistent sous forme d'oocyste.",
+   "Les microsporidies résistent sous forme de spore."
+  ]
+ },
+ {
+  "q": "Concernant la phase métrogonique, lesquelles sont exactes ?",
+  "options": [
+   "Elle se déroule dans le milieu extérieur",
+   "Elle produit des formes végétatives (mérontes)",
+   "C'est une phase sexuée",
+   "Elle se déroule dans les cellules entérocytaires",
+   "C'est la phase de multiplication asexuée"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Elle est intracellulaire, pas externe.",
+   "Elle génère les formes végétatives.",
+   "Ce n'est pas une phase sexuée.",
+   "Elle a lieu dans les entérocytes.",
+   "La phase métrogonique est la multiplication asexuée."
+  ]
+ },
+ {
+  "q": "À propos de la phase sporogonique, quelles affirmations sont vraies ?",
+  "options": [
+   "La sporogonie est une multiplication asexuée",
+   "Elles sont disséminées dans le milieu extérieur",
+   "Les spores ne sont jamais éliminées",
+   "Elle conduit à la formation de spores",
+   "Les spores sont éliminées dans les selles ou les urines"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "La sporogonie fait suite à la phase asexuée et forme les spores.",
+   "Elles contaminent le milieu extérieur.",
+   "Les spores sont bien éliminées.",
+   "La sporogonie produit les spores.",
+   "Les spores sont excrétées dans selles et urines."
+  ]
+ },
+ {
+  "q": "Chez l'immunodéprimé, la clinique des microsporidioses : lesquelles sont exactes ?",
+  "options": [
+   "Stéatorrhée et malabsorption",
+   "Troubles hydro-électrolytiques",
+   "Infection toujours asymptomatique",
+   "Atteintes rénale et pulmonaire possibles",
+   "Aucun trouble digestif"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Stéatorrhée et malabsorption traduisent l'atteinte intestinale.",
+   "Les troubles hydro-électrolytiques sont au premier plan.",
+   "L'infection est symptomatique chez l'ID.",
+   "Les atteintes rénale et pulmonaire complètent le tableau.",
+   "Les troubles digestifs dominent."
+  ]
+ },
+ {
+  "q": "Concernant la stéatorrhée, quelles propositions sont vraies ?",
+  "options": [
+   "Elle traduit une malabsorption des graisses",
+   "Elle est due à l'atteinte de l'épithélium intestinal",
+   "Elle est pathognomonique des microsporidioses",
+   "Elle aggrave la dénutrition",
+   "Elle complique les microsporidioses intestinales de l'ID"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "La stéatorrhée signe la malabsorption lipidique.",
+   "L'atteinte entérocytaire explique la malabsorption.",
+   "Elle n'est pas pathognomonique.",
+   "Elle participe à la dénutrition.",
+   "Elle s'observe dans les formes intestinales de l'ID."
+  ]
+ },
+ {
+  "q": "À propos de l'atteinte rénale, lesquelles sont exactes ?",
+  "options": [
+   "Enterocytozoon bieneusi est le principal agent d'atteinte rénale",
+   "Aucune atteinte rénale n'est décrite",
+   "L'examen des urines est contributif au diagnostic",
+   "L'atteinte rénale s'observe avec les Encephalitozoon",
+   "Les spores sont éliminées dans les urines"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "E. bieneusi est surtout intestinal et biliaire.",
+   "L'atteinte rénale est bien décrite.",
+   "La recherche de spores urinaires est utile.",
+   "Encephalitozoon donne des atteintes rénales.",
+   "Les spores sont excrétées dans les urines."
+  ]
+ },
+ {
+  "q": "Concernant l'atteinte pulmonaire, quelles affirmations sont vraies ?",
+  "options": [
+   "Encephalitozoon hellem peut atteindre le poumon",
+   "Enterocytozoon bieneusi est le principal agent des atteintes pulmonaires",
+   "L'atteinte pulmonaire est toujours isolée",
+   "La dissémination touche surtout les immunodéprimés",
+   "La dissémination concerne l'intestin, le rein, les voies urinaires et le poumon"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "E. hellem a un tropisme pulmonaire.",
+   "E. bieneusi est surtout digestif et biliaire.",
+   "L'atteinte pulmonaire s'intègre à une dissémination.",
+   "Elle survient sur terrain immunodéprimé.",
+   "La dissémination est multiviscérale."
+  ]
+ },
+ {
+  "q": "Pour le diagnostic des microsporidioses, lesquelles sont exactes ?",
+  "options": [
+   "PCR",
+   "Hémoculture",
+   "Coloration des frottis fécaux par les techniques de trichrome",
+   "Il repose sur la mise en évidence des spores",
+   "Immunofluorescence directe"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "La PCR permet le diagnostic et la différenciation.",
+   "L'hémoculture n'a aucun intérêt.",
+   "Le trichrome sur frottis fécaux est la technique citée.",
+   "Le diagnostic est la mise en évidence des spores.",
+   "L'IF directe est contributive."
+  ]
+ },
+ {
+  "q": "À propos de la coloration au trichrome, lesquelles sont exactes ?",
+  "options": [
+   "C'est la technique de référence pour les oocystes de Cryptosporidium",
+   "Elle révèle les spores sur les frottis fécaux",
+   "Le Ziehl-Neelsen est la référence pour Cryptosporidium",
+   "Les spores, minuscules, y apparaissent bien contrastées",
+   "Le trichrome est inutile en parasitologie"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "La référence pour Cryptosporidium est le Ziehl-Neelsen.",
+   "Le trichrome colore les spores fécales.",
+   "Le ZN est bien la technique de référence (+++).",
+   "Sa petite taille rend les colorations spéciales nécessaires.",
+   "Le trichrome est utile pour les microsporidies."
+  ]
+ },
+ {
+  "q": "Concernant la microscopie électronique, quelles affirmations sont vraies ?",
+  "options": [
+   "Elle visualise l'ultrastructure des spores (filament polaire)",
+   "La PCR est une alternative pour différencier les espèces",
+   "Elle est réalisable au lit du malade",
+   "Elle permet la différenciation des espèces de microsporidies",
+   "L'examen direct suffit à différencier les espèces"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Elle montre l'ultrastructure sporale.",
+   "La PCR permet aussi cette différenciation.",
+   "Ce n'est pas un examen de chevet.",
+   "La microscopie électronique différencie les espèces.",
+   "L'examen direct ne différencie pas les espèces."
+  ]
+ },
+ {
+  "q": "À propos du traitement d'Enterocytozoon bieneusi, lesquelles sont exactes ?",
+  "options": [
+   "Aucun traitement n'existe",
+   "La fumagilline (Flisint) est le traitement indiqué",
+   "Le traitement dépend de l'espèce en cause",
+   "Le cotrimoxazole traite E. bieneusi",
+   "L'albendazole est le traitement de cette espèce"
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Un traitement existe : la fumagilline.",
+   "La fumagilline (Flisint) traite E. bieneusi.",
+   "D'où l'importance d'identifier l'espèce.",
+   "Le cotrimoxazole n'est pas indiqué.",
+   "L'albendazole concerne les Encephalitozoon."
+  ]
+ },
+ {
+  "q": "Concernant le traitement des Encephalitozoon, quelles propositions sont vraies ?",
+  "options": [
+   "L'albendazole (Zentel) est le traitement indiqué",
+   "La différenciation d'espèce guide le traitement",
+   "Il est actif sur E. intestinalis et E. hellem",
+   "Le métronidazole est le traitement de référence",
+   "La fumagilline est le traitement des Encephalitozoon"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'albendazole (Zentel) est le traitement.",
+   "L'identification de l'espèce conditionne le choix.",
+   "Il est actif sur les deux espèces d'Encephalitozoon.",
+   "Le métronidazole n'est pas indiqué.",
+   "La fumagilline concerne E. bieneusi."
+  ]
+ },
+ {
+  "q": "Fumagilline versus albendazole : lesquelles sont exactes ?",
+  "options": [
+   "Le choix du traitement dépend de l'espèce identifiée",
+   "Albendazole pour les Encephalitozoon",
+   "La fumagilline traite les Encephalitozoon",
+   "Les deux médicaments sont interchangeables",
+   "Fumagilline pour Enterocytozoon bieneusi"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "L'identification d'espèce est donc indispensable.",
+   "L'albendazole est spécifique des Encephalitozoon.",
+   "La fumagilline ne traite pas les Encephalitozoon.",
+   "Ils ne sont pas interchangeables.",
+   "La fumagilline est spécifique d'E. bieneusi."
+  ]
+ },
+ {
+  "q": "À propos de l'albendazole, lesquelles sont exactes ?",
+  "options": [
+   "Il traite E. bieneusi en première intention",
+   "Il est actif sur Encephalitozoon intestinalis et hellem",
+   "Son indication ici découle de l'identification d'espèce",
+   "C'est un antihelminthique (Zentel)",
+   "Il est sans effet sur les microsporidies"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "E. bieneusi relève de la fumagilline.",
+   "Il est actif sur les Encephalitozoon.",
+   "L'espèce en cause guide la prescription.",
+   "L'albendazole est commercialisé comme Zentel.",
+   "Il est actif sur les microsporidies du genre Encephalitozoon."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution chez l'immunodéprimé, quelles affirmations sont vraies ?",
+  "options": [
+   "Les rechutes n'existent pas",
+   "Le traitement est toujours définitif en une cure",
+   "Les rechutes sont fréquentes",
+   "La restauration immunitaire améliore le pronostic",
+   "Elles justifient un traitement prolongé ou d'entretien"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Les rechutes existent.",
+   "Une cure unique n'est pas toujours définitive.",
+   "Les rechutes sont fréquentes chez l'ID.",
+   "La reconstitution immunitaire est un facteur favorable.",
+   "Un traitement prolongé est souvent nécessaire."
+  ]
+ },
+ {
+  "q": "Pour la prophylaxie des microsporidioses, lesquelles sont exactes ?",
+  "options": [
+   "Il existe une vaccination efficace",
+   "Les règles hygiéno-diététiques sont la base",
+   "L'eau et les aliments sains protègent",
+   "Aucune prévention n'est possible",
+   "L'hygiène des mains est essentielle"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Il n'existe pas de vaccin.",
+   "La prophylaxie est hygiéno-diététique.",
+   "L'eau et les aliments sains limitent l'exposition.",
+   "La prévention par l'hygiène est possible.",
+   "L'hygiène des mains est une mesure clé."
+  ]
+ },
+ {
+  "q": "Les spores peuvent être éliminées dans les urines : lesquelles sont exactes ?",
+  "options": [
+   "L'examen des urines n'a aucun intérêt",
+   "L'atteinte rénale explique l'élimination urinaire des spores",
+   "Seules les selles contiennent des spores",
+   "La recherche de spores dans les urines est contributive",
+   "Les urines ne sont jamais contaminées"
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "L'examen urinaire a un intérêt.",
+   "L'atteinte rénale à Encephalitozoon explique la sporurie.",
+   "Les urines peuvent aussi contenir des spores.",
+   "L'examen des urines participe au diagnostic.",
+   "Les urines peuvent être contaminées."
+  ]
+ },
+ {
+  "q": "Synthèse sur les microsporidies : lesquelles sont exactes ?",
+  "options": [
+   "E. bieneusi (intestin, voies biliaires) et Encephalitozoon (dissémination)",
+   "Protistes intracellulaires à spore de résistance",
+   "Diagnostic : spores (trichrome, IF directe, PCR, microscopie électronique)",
+   "Traitement : fumagilline ou albendazole selon l'espèce",
+   "Helminthes à transmission vectorielle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les tropismes diffèrent selon l'espèce.",
+   "Ce sont des protistes à développement intracellulaire.",
+   "Le diagnostic repose sur la mise en évidence des spores.",
+   "Le traitement est guidé par l'espèce.",
+   "Ce ne sont ni des helminthes ni des parasitoses vectorielles."
+  ]
+ },
+ {
+  "q": "Les coccidies appartiennent au phylum des Apicomplexa : lesquelles sont exactes ?",
+  "options": [
+   "Le complexe apical est caractéristique du phylum",
+   "Les Apicomplexa sont des helminthes",
+   "Les coccidioses du cours sont : cryptosporidiose, isosporose, microsporidioses",
+   "Cryptosporidium et Isospora sont des Apicomplexa",
+   "Plasmodium n'est pas un Apicomplexa"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Le complexe apical définit les Apicomplexa.",
+   "Ce ne sont pas des helminthes.",
+   "Ce sont les trois parasitoses traitées dans ce cours.",
+   "Les coccidies en font partie.",
+   "Plasmodium est aussi un Apicomplexa."
+  ]
+ },
+ {
+  "q": "Concernant la sporulation des oocystes, lesquelles sont exactes ?",
+  "options": [
+   "Isospora nécessite une sporogonie externe",
+   "Les selles fraîches d'isosporose ne sont pas immédiatement contaminantes",
+   "Seul Cryptosporidium a des oocystes sporulés dès l'émission",
+   "Aucun n'est sporulé à l'émission",
+   "Les deux sont sporulés à l'émission"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Isospora mûrit dans le milieu extérieur.",
+   "D'où un délai avant la contagiosité des selles.",
+   "Cryptosporidium est sporulé d'emblée.",
+   "Cryptosporidium est sporulé à l'émission.",
+   "Ils ne sont pas tous deux sporulés."
+  ]
+ },
+ {
+  "q": "Nombre de sporozoïtes par oocyste mûr : lesquelles sont exactes ?",
+  "options": [
+   "Isospora : 8 sporozoïtes par oocyste mûr (2 sporocystes x 4)",
+   "Cryptosporidium : 4 sporozoïtes par oocyste",
+   "Cryptosporidium : 8 sporozoïtes",
+   "Le nombre de sporozoïtes aide au diagnostic différentiel",
+   "Isospora : 4 sporozoïtes"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Celui d'Isospora en contient 8 répartis en 2 sporocystes.",
+   "L'oocyste de Cryptosporidium contient 4 sporozoïtes nus.",
+   "Cryptosporidium n'a que 4 sporozoïtes.",
+   "C'est un critère morphologique distinctif.",
+   "Isospora en a 8, pas 4."
+  ]
+ },
+ {
+  "q": "À propos des sporocystes, quelles affirmations sont vraies ?",
+  "options": [
+   "Les deux forment des sporocystes",
+   "Aucun ne forme de sporocyste",
+   "Isospora forme 2 sporocystes",
+   "La présence de sporocystes oriente vers Isospora",
+   "Cryptosporidium ne forme pas de sporocystes"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Cryptosporidium ne forme pas de sporocystes.",
+   "Isospora en forme.",
+   "La sporogonie d'Isospora produit 2 sporocystes.",
+   "C'est un critère de distinction.",
+   "Cryptosporidium a des sporozoïtes nus, sans sporocyste."
+  ]
+ },
+ {
+  "q": "Cyclospora cayetanensis : lesquelles sont exactes ?",
+  "options": [
+   "Elle est en tout point identique à Cryptosporidium",
+   "Elle donne des diarrhées hydriques, notamment chez le voyageur",
+   "Elle se traite par cotrimoxazole",
+   "C'est une coccidie à oocyste non sporulé à l'émission",
+   "Elle ne touche que les animaux"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Elle diffère de Cryptosporidium (taille, sporulation, traitement).",
+   "Elle cause des diarrhées hydriques du voyageur.",
+   "Le cotrimoxazole est son traitement.",
+   "Cyclospora est une coccidie à maturation externe.",
+   "Elle touche l'homme."
+  ]
+ },
+ {
+  "q": "Eimeria : lesquelles sont exactes ?",
+  "options": [
+   "Elle se traite par cotrimoxazole chez l'homme",
+   "C'est une cause majeure de diarrhée humaine",
+   "Elle n'infecte pas l'homme",
+   "Les coccidioses humaines du cours sont Cryptosporidium, Isospora et les microsporidies",
+   "C'est une coccidie des animaux"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Aucun traitement humain n'est indiqué.",
+   "Elle ne cause pas de diarrhée humaine.",
+   "Elle n'est pas pathogène pour l'homme.",
+   "Les trois parasitoses humaines du cours sont citées.",
+   "Eimeria est une coccidie vétérinaire."
+  ]
+ },
+ {
+  "q": "Toxoplasma gondii : lesquelles sont exactes ?",
+  "options": [
+   "Il n'est pas traité dans ce cours sur les coccidioses intestinales",
+   "Il donne typiquement une diarrhée cholériforme",
+   "Sa transmission principale est différente (viande, chat)",
+   "Il se diagnostique par des oocystes dans les selles humaines",
+   "C'est une coccidie (Apicomplexa)"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Ce cours traite les coccidioses intestinales.",
+   "Il ne donne pas de diarrhée cholériforme.",
+   "La contamination se fait par la viande et les oocystes félins.",
+   "L'homme n'émet pas d'oocystes dans ses selles.",
+   "Toxoplasma est bien une coccidie."
+  ]
+ },
+ {
+  "q": "Sarcocystis : lesquelles sont exactes ?",
+  "options": [
+   "C'est une coccidie à transmission par viande insuffisamment cuite",
+   "Elle fait partie des coccidioses intestinales humaines",
+   "Elle se transmet par piqûre de moustique",
+   "Elle peut donner une entérite chez l'homme",
+   "Elle est identique à Isospora en tout point"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Sarcocystis se transmet par la viande contaminée.",
+   "C'est une coccidiose intestinale humaine.",
+   "Il n'y a pas de transmission vectorielle.",
+   "L'homme peut développer une sarcosporidiose intestinale.",
+   "Elle diffère d'Isospora (cycle, morphologie)."
+  ]
+ },
+ {
+  "q": "Comparaison des incubations : lesquelles sont exactes ?",
+  "options": [
+   "Les symptômes sont immédiats après l'ingestion",
+   "Cryptosporidiose : incubation de 7 jours ± 2 jours",
+   "Les deux ont une incubation de plusieurs mois",
+   "L'incubation de la cryptosporidiose est silencieuse pendant un mois",
+   "Isosporose : incubation silencieuse de 5 à 6 jours"
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Les symptômes ne sont pas immédiats.",
+   "L'incubation de la cryptosporidiose est de 7 ± 2 jours.",
+   "Aucune n'a une incubation de plusieurs mois.",
+   "Elle est d'une semaine environ.",
+   "Celle de l'isosporose est de 5-6 jours, silencieuse."
+  ]
+ },
+ {
+  "q": "Comparaison de l'évolution chez l'immunocompétent : lesquelles sont exactes ?",
+  "options": [
+   "Cryptosporidiose : guérison spontanée en environ 10 jours",
+   "Aucune ne guérit spontanément",
+   "Isosporose : guérison en quelques semaines",
+   "Les deux guérissent spontanément chez l'IC",
+   "Les deux sont chroniques chez l'IC"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "La cryptosporidiose guérit en ~10 jours.",
+   "La guérison spontanée est la règle.",
+   "L'isosporose guérit en quelques semaines.",
+   "L'évolution est spontanément favorable dans les deux cas.",
+   "Elles ne sont pas chroniques chez l'IC."
+  ]
+ },
+ {
+  "q": "Comparaison des tableaux chez l'immunodéprimé : lesquelles sont exactes ?",
+  "options": [
+   "Les trois peuvent être graves chez l'ID",
+   "Cryptosporidiose : diarrhée cholériforme sévère et persistante",
+   "Isosporose : diarrhée persistante parfois glairo-sanglante",
+   "Microsporidiose : diarrhée avec malabsorption et stéatorrhée",
+   "Les trois donnent une constipation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les trois sont des infections opportunistes graves.",
+   "La diarrhée cholériforme caractérise la cryptosporidiose de l'ID.",
+   "L'isosporose de l'ID peut être glairo-sanglante.",
+   "La malabsorption avec stéatorrhée caractérise les microsporidioses.",
+   "Ce sont des diarrhées, pas des constipations."
+  ]
+ },
+ {
+  "q": "Comparaison des atteintes biliaires : lesquelles sont exactes ?",
+  "options": [
+   "Cryptosporidium donne des cholangites chez l'ID (30 % des cas)",
+   "Enterocytozoon bieneusi peut atteindre les voies biliaires",
+   "Seule la lithiase explique les cholangites",
+   "Isospora donne rarement des cholangites ou cholécystites",
+   "Aucune coccidiose n'atteint les voies biliaires"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "L'atteinte biliaire à Cryptosporidium concerne 30 % des cas.",
+   "E. bieneusi atteint l'épithélium des voies biliaires.",
+   "Les parasitoses sont des causes de cholangite.",
+   "Les formes biliaires de l'isosporose sont rares.",
+   "Les atteintes biliaires parasitaires existent."
+  ]
+ },
+ {
+  "q": "Comparaison des réservoirs : lesquelles sont exactes ?",
+  "options": [
+   "Microsporidies : transmission oro-fécale, surtout symptomatiques chez l'ID",
+   "Isospora belli : homme uniquement",
+   "Isospora : réservoir bovin",
+   "Cryptosporidium : aucun réservoir animal",
+   "Cryptosporidium : homme et bétail"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Les microsporidioses touchent surtout les ID.",
+   "Isospora est strictement humain.",
+   "Le bétail n'est pas le réservoir d'Isospora.",
+   "Le bétail est un réservoir de Cryptosporidium.",
+   "Le réservoir de Cryptosporidium est humain et animal."
+  ]
+ },
+ {
+  "q": "Comparaison des spectres d'hôtes : lesquelles sont exactes ?",
+  "options": [
+   "Isospora belli est spécifique de l'homme",
+   "Cryptosporidium hominis infecte uniquement l'homme",
+   "Isospora belli infecte le bétail",
+   "Tous les coccidioses ont exactement le même spectre d'hôtes",
+   "Cryptosporidium parvum infecte l'homme et les mammifères"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Isospora est spécifique de l'homme.",
+   "C. hominis est strictement humain.",
+   "Le bétail n'est pas infecté par Isospora.",
+   "Les spectres d'hôtes diffèrent selon l'espèce.",
+   "C. parvum a un spectre large."
+  ]
+ },
+ {
+  "q": "Devant une diarrhée aiguë fébrile chez un enfant en pays tropical : lesquelles sont exactes ?",
+  "options": [
+   "L'examen parasitologique des selles est indiqué",
+   "La réhydratation est la base de la prise en charge",
+   "Évoquer une cryptosporidiose ou une isosporose",
+   "Un traitement curatif spécifique est toujours indispensable",
+   "Aucun examen n'est utile"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'examen des selles avec colorations est indiqué.",
+   "La réhydratation est essentielle.",
+   "Les deux coccidioses donnent ce tableau.",
+   "La cryptosporidiose n'a pas de curatif validé.",
+   "L'examen parasitologique est utile."
+  ]
+ },
+ {
+  "q": "Un patient VIH avec diarrhée chronique et amaigrissement : la démarche diagnostique, lesquelles sont exactes ?",
+  "options": [
+   "Répéter les examens en cas de négativité",
+   "Examen parasitologique des selles avec colorations spéciales",
+   "Recherche de Cryptosporidium, Isospora et microsporidies",
+   "Se contenter d'un examen direct unique",
+   "Ne jamais évoquer une parasitose"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'émission discontinue impose des répétitions.",
+   "Les colorations spéciales (ZN, trichrome) sont nécessaires.",
+   "Les trois parasitoses doivent être recherchées.",
+   "Un examen unique est insuffisant.",
+   "Les parasitoses sont des causes majeures."
+  ]
+ },
+ {
+  "q": "Concernant la position apicale de Cryptosporidium, lesquelles sont exactes ?",
+  "options": [
+   "Elle est caractéristique du genre Cryptosporidium",
+   "Le parasite envahit le noyau",
+   "Le parasite est intracellulaire mais extracytoplasmique",
+   "Elle est visible en microscopie électronique",
+   "Il se développe dans la lumière intestinale uniquement"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "La localisation apicale est typique.",
+   "Le noyau n'est pas envahi.",
+   "Le parasite est intracellulaire, extracytoplasmique.",
+   "L'ultrastructure confirme cette topographie.",
+   "Le développement est intracellulaire."
+  ]
+ },
+ {
+  "q": "Ziehl-Neelsen, auramine, trichrome : lesquelles sont exactes ?",
+  "options": [
+   "L'auramine est une alternative fluorescente pour les oocystes",
+   "La coloration de Gram est la référence commune",
+   "Le Ziehl-Neelsen est la référence pour Cryptosporidium",
+   "Le trichrome est utilisé pour les spores de microsporidies",
+   "Aucune coloration n'est utile pour ces parasitoses"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "L'auramine est une coloration fluorescente alternative.",
+   "La coloration de Gram n'est pas la référence.",
+   "Le ZN est la technique de référence (+++).",
+   "Le trichrome révèle les spores.",
+   "Les colorations spéciales sont essentielles."
+  ]
+ },
+ {
+  "q": "La PCR dans les coccidioses : lesquelles sont exactes ?",
+  "options": [
+   "Elle détecte Cryptosporidium, Isospora et les microsporidies",
+   "Elle remplace toujours l'examen microscopique",
+   "Elle est sans intérêt",
+   "Elle permet le génotypage et la différenciation d'espèces",
+   "Elle est plus sensible que l'examen direct"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "La PCR s'applique aux trois parasitoses.",
+   "Elle complète sans toujours remplacer la microscopie.",
+   "Elle a un intérêt diagnostique réel.",
+   "Le génotypage distingue espèces et souches.",
+   "Sa sensibilité dépasse celle de la microscopie."
+  ]
+ },
+ {
+  "q": "Le test immunochromatographique sur bandelette : lesquelles sont exactes ?",
+  "options": [
+   "Il est utilisable en zone d'endémie sans laboratoire équipé",
+   "Il ne détecte que des anticorps",
+   "Il remplace la PCR dans tous les cas",
+   "C'est un test rapide",
+   "Il détecte les antigènes de Cryptosporidium dans les selles"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Il est adapté aux structures peu équipées.",
+   "Il détecte des antigènes, pas des anticorps.",
+   "Il ne remplace pas la PCR systématiquement.",
+   "C'est un test de diagnostic rapide.",
+   "La bandelette détecte les antigènes parasitaires."
+  ]
+ },
+ {
+  "q": "Traitement comparé des trois parasitoses : lesquelles sont exactes ?",
+  "options": [
+   "Microsporidiose à Encephalitozoon : albendazole",
+   "Microsporidiose à E. bieneusi : fumagilline",
+   "Isosporose : cotrimoxazole",
+   "Cryptosporidiose : pas de traitement curatif efficace",
+   "Un traitement unique et commun aux trois"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "L'albendazole traite les Encephalitozoon.",
+   "La fumagilline traite E. bieneusi.",
+   "Le cotrimoxazole est le traitement de l'isosporose.",
+   "Aucun curatif n'est validé pour la cryptosporidiose.",
+   "Chaque parasitose a son traitement propre."
+  ]
+ },
+ {
+  "q": "La réhydratation dans la cryptosporidiose : lesquelles sont exactes ?",
+  "options": [
+   "La correction des troubles hydro-électrolytiques est essentielle",
+   "Les solutés de réhydratation orale sont recommandés",
+   "La réhydratation orale est la base du traitement",
+   "La réhydratation est contre-indiquée",
+   "Seule l'antibiothérapie compte"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'équilibre hydro-électrolytique doit être restauré.",
+   "Les SRO sont le traitement de première ligne.",
+   "La réhydratation est la pierre angulaire.",
+   "La réhydratation n'est pas contre-indiquée.",
+   "Aucune antibiothérapie curative n'est validée."
+  ]
+ },
+ {
+  "q": "Le péril fécal, dénominateur commun : lesquelles sont exactes ?",
+  "options": [
+   "L'assainissement du milieu est une mesure commune",
+   "L'hygiène des mains est une mesure commune",
+   "L'eau et les aliments sains protègent des trois",
+   "Les trois parasitoses sont liées au péril fécal",
+   "Aucune mesure d'hygiène n'est efficace"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "L'assainissement du milieu est une mesure partagée.",
+   "L'hygiène des mains prévient les trois.",
+   "L'eau et les aliments sains protègent.",
+   "Le péril fécal est le mode de transmission commun.",
+   "Les mesures d'hygiène sont efficaces."
+  ]
+ },
+ {
+  "q": "Synthèse diagnostique : lesquelles sont exactes ?",
+  "options": [
+   "Il faut répéter les examens si la suspicion est forte",
+   "Les colorations spéciales sont choisies selon le parasite suspecté",
+   "Un examen unique suffit toujours",
+   "L'examen parasitologique des selles est l'examen de base commun",
+   "Les techniques de concentration aident quand les formes sont rares"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "La répétition compense l'émission discontinue.",
+   "ZN, auramine, trichrome selon l'orientation.",
+   "Un examen unique ne suffit pas toujours.",
+   "L'examen des selles est le point de départ.",
+   "La concentration augmente la sensibilité."
+  ]
+ },
+ {
+  "q": "Synthèse sur les formes de résistance : lesquelles sont exactes ?",
+  "options": [
+   "Les trois formes sont détruites par la chaleur (70 °C pour les oocystes)",
+   "Aucune forme de résistance n'existe",
+   "Cryptosporidium : oocyste résistant au chlore, sporulé à l'émission",
+   "Microsporidies : spore à filament polaire",
+   "Isospora : oocyste à sporogonie externe"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "La chaleur inactive ces formes de résistance.",
+   "Des formes de résistance existent pour les trois.",
+   "L'oocyste de Cryptosporidium résiste au chlore.",
+   "La spore porte le filament polaire.",
+   "Celui d'Isospora mûrit à l'extérieur."
+  ]
+ },
+ {
+  "q": "Cryptosporidium est une zoonose : lesquelles sont exactes ?",
+  "options": [
+   "Aucune transmission animal-homme n'existe",
+   "L'isosporose n'est pas une zoonose (homme seul)",
+   "Les veaux diarrhéiques excrètent massivement des oocystes",
+   "La cryptosporidiose à C. parvum est une zoonose",
+   "L'isosporose se transmet par le bétail"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "La transmission zoonotique existe.",
+   "Isospora belli est strictement humain.",
+   "Les jeunes bovins diarrhéiques sont très excréteurs.",
+   "C. parvum se transmet de l'animal à l'homme.",
+   "Le bétail n'est pas un réservoir d'Isospora."
+  ]
+ },
+ {
+  "q": "Le génotype bovin de Cryptosporidium parvum : lesquelles sont exactes ?",
+  "options": [
+   "Il infecte les bovins",
+   "Il infecte aussi l'homme",
+   "Le génotypage n'a aucun intérêt épidémiologique",
+   "La PCR permet de le distinguer du génotype humain",
+   "Il n'infecte jamais l'homme"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Le génotype bovin circule chez les bovins.",
+   "Il est zoonotique pour l'homme.",
+   "Le génotypage aide à retrouver la source.",
+   "La PCR distingue les génotypes.",
+   "Il infecte l'homme."
+  ]
+ },
+ {
+  "q": "L'exkystement des oocystes de Cryptosporidium : lesquelles sont exactes ?",
+  "options": [
+   "Il a lieu dans l'intestin grêle",
+   "Les sporozoïtes restent dans la lumière sans envahir les cellules",
+   "Ils gagnent la bordure en brosse des cellules",
+   "Il a lieu dans l'estomac",
+   "Les sporozoïtes libérés envahissent les entérocytes"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "L'exkystement se produit dans l'intestin grêle.",
+   "L'invasion cellulaire est la règle.",
+   "Ils s'installent en zone apicale (bordure en brosse).",
+   "L'estomac n'est pas le site d'exkystement.",
+   "Les sporozoïtes pénètrent les entérocytes."
+  ]
+ },
+ {
+  "q": "Les oocystes à paroi fine de Cryptosporidium : lesquelles sont exactes ?",
+  "options": [
+   "Il n'existe pas d'autoinfection",
+   "L'autoinfection explique la chronicité chez l'immunodéprimé",
+   "Ils permettent une autoinfection",
+   "Tous les oocystes sont excrétés dans les selles",
+   "Les oocystes excrétés sont à paroi épaisse"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "L'autoinfection existe.",
+   "Ils s'exkystent in situ : autoinfection.",
+   "Une partie des oocystes a une paroi fine.",
+   "Les oocystes à paroi fine restent dans l'intestin.",
+   "D'où la persistance chez l'ID."
+  ]
+ },
+ {
+  "q": "La diarrhée de la cryptosporidiose : lesquelles sont exactes ?",
+  "options": [
+   "Elle est typiquement glairo-sanglante",
+   "Elle est typiquement non sanglante",
+   "Elle peut être cholériforme chez l'ID",
+   "Elle est aqueuse",
+   "Elle est toujours sanglante"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Elle n'est pas glairo-sanglante.",
+   "Elle n'est pas sanglante en général.",
+   "Chez l'ID elle peut être cholériforme.",
+   "La diarrhée cryptosporidienne est aqueuse.",
+   "Le sang n'est pas typique."
+  ]
+ },
+ {
+  "q": "La sténose papillaire à Cryptosporidium : lesquelles sont exactes ?",
+  "options": [
+   "Elle peut relever d'une sphinctérotomie endoscopique",
+   "Elle s'intègre à l'atteinte biliaire (30 % des cas chez l'ID)",
+   "Aucun geste endoscopique n'est utile",
+   "Elle est toujours d'origine lithiasique",
+   "Elle se visualise en cholangiographie"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "La sphinctérotomie endoscopique peut la lever.",
+   "Elle fait partie du spectre biliaire.",
+   "Le geste endoscopique est utile.",
+   "Elle est parasitaire, non lithiasique.",
+   "La cholangiographie montre la sténose papillaire."
+  ]
+ },
+ {
+  "q": "La cholécystite à Cryptosporidium : lesquelles sont exactes ?",
+  "options": [
+   "Elle survient chez l'immunodéprimé",
+   "Elle est souvent acalculeuse",
+   "Elle fait partie des formes extra-intestinales",
+   "Elle est toujours lithiasique",
+   "Elle n'existe pas"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Elle touche les patients immunodéprimés.",
+   "La cholécystite cryptosporidienne est typiquement acalculeuse.",
+   "C'est une forme extra-intestinale.",
+   "Elle n'est pas lithiasique.",
+   "Elle est bien décrite."
+  ]
+ },
+ {
+  "q": "L'atteinte respiratoire à Cryptosporidium : lesquelles sont exactes ?",
+  "options": [
+   "Elle est la manifestation la plus fréquente",
+   "Elle est plus fréquente que l'atteinte digestive",
+   "Elle est possible mais rare",
+   "Elle survient chez l'immunodéprimé",
+   "Elle n'existe jamais"
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "L'atteinte digestive reste prédominante.",
+   "Le tube digestif est le site principal.",
+   "Une localisation respiratoire est décrite, rare.",
+   "Elle concerne les patients très immunodéprimés.",
+   "Elle existe, bien que rare."
+  ]
+ },
+ {
+  "q": "Le Ziehl-Neelsen modifié : lesquelles sont exactes ?",
+  "options": [
+   "Les oocystes sont partiellement acido-alcoolo-résistants",
+   "Les oocystes ne sont pas du tout acido-résistants",
+   "C'est une variante utilisée pour les oocystes",
+   "C'est la coloration de Gram modifiée",
+   "Ils apparaissent en rouge sur fond vert"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "L'acido-alcoolo-résistance est partielle.",
+   "Ils sont partiellement acido-résistants.",
+   "Le ZN modifié est adapté aux oocystes.",
+   "Ce n'est pas une variante du Gram.",
+   "D'où la coloration rouge sur fond vert."
+  ]
+ },
+ {
+  "q": "La détection d'antigènes dans les selles : lesquelles sont exactes ?",
+  "options": [
+   "Ces tests détectent des antigènes parasitaires",
+   "La détection par ELISA est possible",
+   "Aucun test antigénique n'existe",
+   "Ils détectent des anticorps sériques",
+   "Le test immunochromatographique sur bandelette est un test rapide"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Ce sont des détections d'antigènes.",
+   "L'ELISA copro-antigénique existe.",
+   "Des tests antigéniques existent.",
+   "Ils ne détectent pas des anticorps.",
+   "La bandelette est un test rapide."
+  ]
+ },
+ {
+  "q": "Cryptosporidiose et dénutrition de l'enfant : lesquelles sont exactes ?",
+  "options": [
+   "L'amaigrissement fait partie du tableau",
+   "Les infections répétées altèrent la croissance",
+   "Aucun retentissement nutritionnel n'existe",
+   "Le retentissement nutritionnel est une séquelle reconnue",
+   "La croissance n'est jamais affectée"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "L'amaigrissement est un signe du tableau.",
+   "Les épisodes répétés freinent la croissance.",
+   "Le retentissement nutritionnel est réel.",
+   "L'impact nutritionnel est une séquelle décrite.",
+   "La croissance peut être affectée."
+  ]
+ },
+ {
+  "q": "Les épidémies d'origine alimentaire : lesquelles sont exactes ?",
+  "options": [
+   "Les aliments ne transmettent jamais",
+   "Des épidémies alimentaires de cryptosporidiose sont décrites",
+   "Le lait cru peut être une source de contamination",
+   "La transmission est exclusivement hydrique",
+   "Les aliments souillés par des oocystes transmettent"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Les aliments peuvent transmettre.",
+   "Des toxi-infections alimentaires sont documentées.",
+   "Le lait non pasteurisé est une source possible.",
+   "La transmission n'est pas qu'hydrique.",
+   "L'aliment souillé est une voie reconnue."
+  ]
+ },
+ {
+  "q": "Des épidémies nosocomiales de cryptosporidiose : lesquelles sont exactes ?",
+  "options": [
+   "Elles sont décrites, notamment en pédiatrie",
+   "La transmission interhumaine par les mains en est le moteur",
+   "Le milieu hospitalier est sans risque",
+   "Aucune épidémie nosocomiale n'est décrite",
+   "L'hygiène des mains du personnel est la mesure clé"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Des cas nosocomiaux sont rapportés.",
+   "Les mains sales véhiculent les oocystes.",
+   "Le risque nosocomial existe.",
+   "Des épidémies nosocomiales sont décrites.",
+   "L'hygiène des mains prévient ces épidémies."
+  ]
+ },
+ {
+  "q": "L'ozonation et les UV contre les oocystes : lesquelles sont exactes ?",
+  "options": [
+   "L'ozonation inactive les oocystes",
+   "Aucun procédé ne les inactive",
+   "Le chlore seul garantit une eau sûre",
+   "Les rayonnements UV inactivent les oocystes",
+   "La chloration seule est insuffisante"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "L'ozone est efficace sur les oocystes.",
+   "Plusieurs procédés sont efficaces.",
+   "Le chlore ne garantit pas la sécurité.",
+   "Les UV les inactivent.",
+   "Le chlore seul ne suffit pas."
+  ]
+ },
+ {
+  "q": "La trithérapie antirétrovirale dans la cryptosporidiose de l'ID : lesquelles sont exactes ?",
+  "options": [
+   "La restauration immunitaire améliore le pronostic",
+   "Elle s'associe à la réhydratation",
+   "Elle est inutile",
+   "C'est le pilier de la prise en charge chez le patient VIH",
+   "Elle aggrave la parasitose"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "La reconstitution immunitaire est décisive.",
+   "Il s'associe au traitement symptomatique.",
+   "Elle est utile, non inutile.",
+   "Le traitement antirétroviral est fondamental.",
+   "Elle n'aggrave pas la parasitose."
+  ]
+ },
+ {
+  "q": "Le seuil de CD4 et la gravité : lesquelles sont exactes ?",
+  "options": [
+   "Les CD4 élevés aggravent la maladie",
+   "Un taux de CD4 conservé est un facteur de bon pronostic",
+   "Le taux de CD4 n'a aucune valeur pronostique",
+   "Les formes graves surviennent surtout quand les CD4 sont effondrés (< 100/mm3)",
+   "La sévérité est corrélée au taux de CD4"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Les CD4 élevés n'aggravent pas.",
+   "Des CD4 conservés sont protecteurs.",
+   "Le taux de CD4 a une valeur pronostique.",
+   "L'effondrement des CD4 expose aux formes graves.",
+   "La corrélation sévérité-CD4 est établie."
+  ]
+ },
+ {
+  "q": "La nitazoxanide dans la cryptosporidiose : lesquelles sont exactes ?",
+  "options": [
+   "Elle n'est pas citée comme traitement de référence dans ce cours",
+   "Le traitement du cours repose sur la réhydratation",
+   "Elle guérit constamment les formes de l'immunodéprimé",
+   "C'est le traitement curatif validé du cours",
+   "Le cours retient l'absence de thérapeutique curative efficace"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Le cours ne la cite pas comme référence.",
+   "La réhydratation est la base retenue.",
+   "Elle ne guérit pas constamment les formes de l'ID.",
+   "Aucun curatif n'est validé dans le cours.",
+   "L'absence de curatif efficace est la position du cours."
+  ]
+ },
+ {
+  "q": "La paromomycine dans la cryptosporidiose : lesquelles sont exactes ?",
+  "options": [
+   "C'est le traitement curatif de référence",
+   "Son efficacité est limitée et non validée comme curatif",
+   "Le cours recommande le traitement symptomatique",
+   "Elle guérit tous les cas",
+   "Ce n'est pas le traitement curatif de référence du cours"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Aucun curatif de référence n'est retenu.",
+   "Son efficacité reste limitée.",
+   "Le traitement symptomatique est recommandé.",
+   "Elle ne guérit pas tous les cas.",
+   "La paromomycine n'est pas la référence du cours."
+  ]
+ },
+ {
+  "q": "L'oocyste d'Isospora à l'émission est immature : lesquelles sont exactes ?",
+  "options": [
+   "Les selles ne sont contaminantes qu'après maturation",
+   "Il contient un sporoblaste et n'est pas infectant",
+   "La sporogonie externe prend quelques jours",
+   "Aucune maturation externe n'est nécessaire",
+   "Il est immédiatement infectant"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La contagiosité est différée.",
+   "L'oocyste émis est immature (sporoblaste).",
+   "La maturation externe prend quelques jours.",
+   "Une maturation externe est nécessaire.",
+   "Il n'est pas immédiatement infectant."
+  ]
+ },
+ {
+  "q": "La biopsie jéjunale dans l'isosporose : lesquelles sont exactes ?",
+  "options": [
+   "Elle est utile quand les examens de selles sont négatifs",
+   "Elle n'apporte jamais rien",
+   "Elle visualise les formes intracellulaires du parasite",
+   "Elle peut montrer une atrophie villositaire",
+   "Elle est l'examen de première intention"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Elle complète les selles négatives.",
+   "Elle est contributive.",
+   "Les stades tissulaires y sont visibles.",
+   "L'atrophie villositaire est décrite.",
+   "L'examen des selles reste premier."
+  ]
+ },
+ {
+  "q": "Les formes disséminées d'isosporose : lesquelles sont exactes ?",
+  "options": [
+   "La dissémination multiviscérale est la règle",
+   "La méningite est fréquente",
+   "Aucune forme extra-intestinale n'existe",
+   "Elles sont exceptionnelles",
+   "Des cholangites et cholécystites sont rarement décrites"
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "La dissémination n'est pas la règle.",
+   "La méningite n'est pas décrite.",
+   "Des formes extra-intestinales rares existent.",
+   "La dissémination est exceptionnelle.",
+   "Seules de rares formes biliaires sont décrites."
+  ]
+ },
+ {
+  "q": "Le cotrimoxazole en prophylaxie anti-Pneumocystis : lesquelles sont exactes ?",
+  "options": [
+   "La prophylaxie est sans intérêt",
+   "Les patients sous prophylaxie font moins d'isosporose",
+   "Il favorise l'isosporose",
+   "Il protège aussi contre Isospora belli",
+   "Il n'a aucun effet sur Isospora"
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "La prophylaxie a un intérêt.",
+   "D'où une incidence réduite sous prophylaxie.",
+   "Il ne favorise pas l'isosporose.",
+   "Le TMP-SMX prévient aussi l'isosporose.",
+   "Il est actif sur Isospora."
+  ]
+ },
+ {
+  "q": "La pyriméthamine et l'acide folinique : lesquelles sont exactes ?",
+  "options": [
+   "Elle est dénuée de toxicité",
+   "La pyriméthamine est un antifolinique",
+   "Elle est une alternative au cotrimoxazole dans l'isosporose",
+   "Elle stimule la synthèse des folates",
+   "Une supplémentation en acide folinique limite sa toxicité hématologique"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Elle a une toxicité hématologique.",
+   "La pyriméthamine bloque la synthèse des folates.",
+   "C'est une alternative citée dans l'isosporose.",
+   "Elle inhibe, non stimule, la voie des folates.",
+   "L'acide folinique prévient la toxicité médullaire."
+  ]
+ },
+ {
+  "q": "Ciprofloxacine versus cotrimoxazole dans l'isosporose : lesquelles sont exactes ?",
+  "options": [
+   "La ciprofloxacine est moins efficace que le cotrimoxazole",
+   "Le cotrimoxazole reste le traitement de première intention",
+   "La ciprofloxacine est une alternative en cas d'intolérance",
+   "La ciprofloxacine est plus efficace que le cotrimoxazole",
+   "La ciprofloxacine est le traitement de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Son efficacité est inférieure à celle du TMP-SMX.",
+   "Le cotrimoxazole est la première intention.",
+   "Elle est une alternative de recours.",
+   "Elle n'est pas plus efficace.",
+   "Elle n'est pas la première intention."
+  ]
+ },
+ {
+  "q": "La durée de l'entretien dans l'isosporose de l'ID : lesquelles sont exactes ?",
+  "options": [
+   "Il se poursuit tant que dure l'immunodépression",
+   "Il prévient les rechutes",
+   "La posologie est de 400 + 80 mg trois fois par semaine",
+   "Une cure unique suffit",
+   "Il est arrêté dès l'amélioration clinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'entretien dure tant que persiste le déficit immunitaire.",
+   "Il a pour but de prévenir les rechutes.",
+   "La posologie d'entretien est bien 400/80 mg 3x/sem.",
+   "Une cure unique est insuffisante.",
+   "L'arrêt précoce expose aux rechutes."
+  ]
+ },
+ {
+  "q": "La fièvre dans l'isosporose : lesquelles sont exactes ?",
+  "options": [
+   "Seule la cryptosporidiose donne de la fièvre",
+   "La fièvre élimine le diagnostic",
+   "La diarrhée de l'IC est fébrile",
+   "L'isosporose est toujours apyrétique",
+   "La fièvre fait partie des signes digestifs généraux"
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Les deux parasitoses peuvent être fébriles.",
+   "La fièvre n'élimine pas le diagnostic.",
+   "Le tableau de l'IC comporte une fièvre.",
+   "L'isosporose n'est pas toujours apyrétique.",
+   "La fièvre accompagne les signes digestifs."
+  ]
+ },
+ {
+  "q": "Les douleurs abdominales dans l'isosporose : lesquelles sont exactes ?",
+  "options": [
+   "Elles n'existent que dans la cryptosporidiose",
+   "Les douleurs éliminent le diagnostic",
+   "Elles font partie des signes digestifs de l'IC",
+   "Le tableau digestif est purement diarrhéique sans douleur",
+   "Elles accompagnent la diarrhée aiguë"
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Les deux parasitoses donnent des douleurs.",
+   "Elles n'éliminent pas le diagnostic.",
+   "Les signes digestifs incluent des douleurs.",
+   "Le tableau n'est pas purement diarrhéique.",
+   "Elles accompagnent la diarrhée."
+  ]
+ },
+ {
+  "q": "La spore est la forme infectante des microsporidies : lesquelles sont exactes ?",
+  "options": [
+   "La spore de résistance est la forme infectante",
+   "Elle est éliminée dans les selles et les urines",
+   "L'ingestion est le mode de contamination principal",
+   "Aucune forme n'est infectante",
+   "La forme végétative est la forme de dissémination externe"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La spore est la forme de résistance et d'infection.",
+   "Elle est excrétée dans selles et urines.",
+   "La contamination est oro-fécale.",
+   "La spore est infectante.",
+   "Les formes végétatives sont intracellulaires."
+  ]
+ },
+ {
+  "q": "La kératoconjonctivite à Encephalitozoon hellem : lesquelles sont exactes ?",
+  "options": [
+   "Aucune atteinte oculaire n'est décrite",
+   "Le diagnostic repose sur la mise en évidence des spores",
+   "Elle survient chez l'immunodéprimé",
+   "E. hellem est strictement intestinal",
+   "E. hellem peut donner une kératoconjonctivite"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "L'atteinte oculaire existe.",
+   "Les spores sont recherchées dans les prélèvements.",
+   "Elle touche les patients immunodéprimés.",
+   "E. hellem est une espèce disséminée.",
+   "La kératoconjonctivite à E. hellem est décrite."
+  ]
+ },
+ {
+  "q": "L'ère des antirétroviraux et les microsporidioses : lesquelles sont exactes ?",
+  "options": [
+   "Les microsporidioses ont disparu",
+   "La restauration immunitaire réduit les rechutes",
+   "Les antirétroviraux sont sans effet",
+   "La prévalence a chuté avec les trithérapies",
+   "La prévalence a augmenté"
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Elles n'ont pas disparu.",
+   "La reconstitution immunitaire limite les rechutes.",
+   "Les antirétroviraux ont un effet majeur.",
+   "L'ART a fait chuter la prévalence.",
+   "La prévalence a diminué."
+  ]
+ },
+ {
+  "q": "La toxicité de la fumagilline : lesquelles sont exactes ?",
+  "options": [
+   "Elle expose à des effets hématologiques (thrombopénie, neutropénie)",
+   "Elle est dénuée de toxicité",
+   "Elle est réservée à E. bieneusi malgré cette toxicité",
+   "Une surveillance de la numération est nécessaire",
+   "Elle peut être utilisée sans surveillance"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "La toxicité hématologique est connue.",
+   "Elle n'est pas dénuée de toxicité.",
+   "Elle reste indiquée pour E. bieneusi.",
+   "La NFS doit être surveillée.",
+   "Une surveillance est indispensable."
+  ]
+ },
+ {
+  "q": "Le trichrome modifié de Weber : lesquelles sont exactes ?",
+  "options": [
+   "Il est inutile",
+   "C'est une technique de coloration des spores sur frottis fécaux",
+   "C'est la référence pour Cryptosporidium",
+   "Les spores y apparaissent bien contrastées",
+   "C'est la technique citée pour les microsporidies"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Il est utile.",
+   "Le trichrome modifié colore les spores fécales.",
+   "La référence de Cryptosporidium est le ZN.",
+   "Le contraste facilite leur repérage.",
+   "C'est la technique du cours pour les microsporidies."
+  ]
+ },
+ {
+  "q": "Les spores de microsporidies et le Gram : lesquelles sont exactes ?",
+  "options": [
+   "Les spores sont Gram-positives",
+   "Le Gram est la technique de référence",
+   "Le Gram ne les colore jamais",
+   "Le Gram peut aider à les visualiser",
+   "Elles sont Gram-négatives"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Les spores retiennent le cristal violet.",
+   "La référence reste le trichrome.",
+   "Le Gram les colore.",
+   "Le Gram peut les mettre en évidence.",
+   "Elles ne sont pas Gram-négatives."
+  ]
+ },
+ {
+  "q": "La paroi de l'oocyste de Cryptosporidium : lesquelles sont exactes ?",
+  "options": [
+   "Les oocystes excrétés ont une paroi épaisse",
+   "Cette paroi explique leur résistance dans l'environnement",
+   "La paroi est toujours fine",
+   "Il n'y a pas de paroi",
+   "Une minorité a une paroi fine (autoinfection)"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Les oocystes fécaux sont à paroi épaisse.",
+   "D'où leur grande résistance.",
+   "La paroi n'est pas toujours fine.",
+   "Une paroi existe.",
+   "Les formes à paroi fine permettent l'autoinfection."
+  ]
+ },
+ {
+  "q": "Cyclospora versus Isospora : lesquelles sont exactes ?",
+  "options": [
+   "Ceux d'Isospora sont plus grands (20-30 µm) et allongés",
+   "Les deux ont des oocystes non sporulés à l'émission",
+   "Les oocystes de Cyclospora sont plus petits (8-10 µm) et ronds",
+   "Ils sont morphologiquement identiques",
+   "Les deux se traitent par cotrimoxazole"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Isospora : grands oocystes allongés de 20-30 µm.",
+   "La maturation externe est commune.",
+   "Cyclospora : petits oocystes ronds de 8-10 µm.",
+   "Ils sont morphologiquement distincts.",
+   "Le TMP-SMX traite les deux."
+  ]
+ },
+ {
+  "q": "Devant une diarrhée aqueuse chronique chez l'ID, le diagnostic différentiel parasitaire : lesquelles sont exactes ?",
+  "options": [
+   "Cyclospora cayetanensis",
+   "Cryptosporidium",
+   "Aucun parasite n'est à évoquer",
+   "Microsporidies",
+   "Isospora belli"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Cyclospora est un diagnostic différentiel.",
+   "Cryptosporidium est une cause majeure.",
+   "Les parasitoses sont au premier plan.",
+   "Les microsporidies sont à rechercher.",
+   "Isospora donne des diarrhées persistantes."
+  ]
+ },
+ {
+  "q": "Les trois parasitoses du cours : point commun diagnostique, lesquelles sont exactes ?",
+  "options": [
+   "La concentration augmente la sensibilité",
+   "Des colorations spéciales sont souvent nécessaires",
+   "Aucun examen parasitologique n'est utile",
+   "Le diagnostic repose sur l'examen des selles",
+   "Le diagnostic est uniquement sérologique"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "La concentration aide pour les formes rares.",
+   "ZN, trichrome, auramine selon le parasite.",
+   "L'examen parasitologique est indispensable.",
+   "L'examen coprologique est central.",
+   "La sérologie n'est pas l'outil diagnostique."
+  ]
+ },
+ {
+  "q": "Les trois parasitoses du cours : point commun thérapeutique, lesquelles sont exactes ?",
+  "options": [
+   "Aucun traitement n'existe pour les trois",
+   "La réhydratation est utile dans les trois",
+   "La cryptosporidiose n'a pas de curatif validé",
+   "L'isosporose et les microsporidioses ont un traitement étiologique",
+   "Un traitement unique guérit les trois"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Des traitements existent.",
+   "Le support hydro-électrolytique est commun.",
+   "Aucun curatif n'est validé pour Cryptosporidium.",
+   "Cotrimoxazole, fumagilline, albendazole sont étiologiques.",
+   "Il n'y a pas de traitement unique."
+  ]
+ },
+ {
+  "q": "Les trois parasitoses du cours : point commun préventif, lesquelles sont exactes ?",
+  "options": [
+   "L'hygiène des mains",
+   "L'assainissement du milieu",
+   "La lutte contre le péril fécal",
+   "L'eau et les aliments sains",
+   "La vaccination"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "L'hygiène des mains est essentielle.",
+   "L'assainissement est une mesure partagée.",
+   "Le péril fécal est le dénominateur commun.",
+   "L'eau et les aliments sains protègent.",
+   "Il n'existe pas de vaccin."
+  ]
+ },
+ {
+  "q": "Question de synthèse : les oocystes, lesquelles sont exactes ?",
+  "options": [
+   "Cryptosporidium : oocyste sporulé à l'émission, 4 sporozoïtes nus",
+   "Isospora : membrane mince et réfringente, forme allongée asymétrique",
+   "Isospora : oocyste non sporulé à l'émission, 2 sporocystes de 4 sporozoïtes",
+   "Les deux oocystes sont identiques",
+   "Cryptosporidium : oocyste résistant au chlore"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "L'oocyste de Cryptosporidium est sporulé d'emblée.",
+   "La morphologie d'Isospora est typique.",
+   "Celui d'Isospora mûrit à l'extérieur en 2 sporocystes.",
+   "Les oocystes sont bien distincts.",
+   "La résistance au chlore est caractéristique."
+  ]
+ },
+ {
+  "q": "Question de synthèse : les cycles, lesquelles sont exactes ?",
+  "options": [
+   "Aucun n'a de phase asexuée",
+   "Isospora : schizogonie (asexuée) puis sporogonie (sexuée)",
+   "Les trois ont une phase sexuée obligatoire",
+   "Microsporidies : phase métrogonique puis sporogonique",
+   "Cryptosporidium : oocystes sporulés sans sporogonie externe"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Des phases asexuées existent.",
+   "Isospora a deux phases : schizogonique et sporogonique.",
+   "Les microsporidies n'ont pas de phase sexuée décrite.",
+   "Les microsporidies ont phases métrogonique et sporogonique.",
+   "Cryptosporidium est sporulé sans maturation externe."
+  ]
+ },
+ {
+  "q": "Question de synthèse : les traitements, lesquelles sont exactes ?",
+  "options": [
+   "Isosporose de l'ID : cures prolongées + entretien",
+   "Cryptosporidiose : cotrimoxazole curatif",
+   "E. bieneusi : fumagilline ; Encephalitozoon : albendazole",
+   "Cryptosporidiose : traitement symptomatique (réhydratation)",
+   "Isosporose : cotrimoxazole 800/160 mg/j pendant 10 jours chez l'IC"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "L'ID nécessite cures répétées et entretien.",
+   "Le cotrimoxazole n'est pas curatif de la cryptosporidiose.",
+   "Le traitement des microsporidioses dépend de l'espèce.",
+   "La réhydratation est la base pour Cryptosporidium.",
+   "Le schéma de l'IC est bien 800/160 mg/j 10 jours."
+  ]
+ },
+ {
+  "q": "Question de synthèse : l'immunodéprimé, lesquelles sont exactes ?",
+  "options": [
+   "Microsporidioses : malabsorption, stéatorrhée, atteintes rénale et pulmonaire",
+   "Isosporose : diarrhée persistante des mois, parfois glairo-sanglante",
+   "L'évolution est toujours bénigne chez l'ID",
+   "Cryptosporidiose : diarrhée cholériforme, atteinte biliaire dans 30 % des cas",
+   "La sévérité est liée au taux de CD4"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Le spectre des microsporidioses est large.",
+   "La persistance sur des mois caractérise l'isosporose de l'ID.",
+   "L'évolution peut être mortelle.",
+   "Le tableau cholériforme et biliaire est typique.",
+   "Le taux de CD4 conditionne la gravité."
+  ]
+ },
+ {
+  "q": "Question de synthèse : le diagnostic, lesquelles sont exactes ?",
+  "options": [
+   "Isospora : direct + Ritchie, auramine ou ZN, répéter les examens",
+   "Cryptosporidium : Ziehl-Neelsen (+++), IF directe (++), PCR, bandelette",
+   "Microsporidies : trichrome, IF directe, PCR, microscopie électronique",
+   "Éosinophilie et cristaux de Charcot-Leyden : orientation vers l'isosporose",
+   "Un examen unique suffit toujours"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Le diagnostic d'isosporose impose concentration et répétition.",
+   "Les techniques de la cryptosporidiose sont hiérarchisées.",
+   "Les spores se cherchent par trichrome, IF, PCR.",
+   "L'éosinophilie oriente vers l'isosporose.",
+   "La répétition est souvent nécessaire."
+  ]
+ },
+ {
+  "q": "Dernière synthèse : la prévention des coccidioses, lesquelles sont exactes ?",
+  "options": [
+   "Assainissement du milieu",
+   "Hygiène alimentaire et hydrique",
+   "Information sur le danger des mains sales",
+   "Éviction de l'engrais humain non traité",
+   "Aucune mesure n'est efficace contre ces parasitoses"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "L'assainissement du milieu est une mesure de fond.",
+   "L'eau et les aliments sains préviennent.",
+   "L'éducation à l'hygiène des mains est fondamentale.",
+   "L'engrais humain est un facteur de risque.",
+   "Les mesures hygiéniques sont efficaces."
+  ]
+ },
+ {
+  "q": "La nomenclature d'Isospora belli : lesquelles sont exactes ?",
+  "options": [
+   "Isospora belli est une bactérie",
+   "Isospora belli est aussi appelé Cystoisospora belli",
+   "Cystoisospora belli est le nom taxonomique actuel",
+   "Cystoisospora est un helminthe",
+   "Le nom n'a jamais changé"
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "C'est un protozoaire, pas une bactérie.",
+   "Le nom actuel est Cystoisospora belli.",
+   "La reclassification taxonomique est admise.",
+   "Ce n'est pas un helminthe.",
+   "Le nom a été révisé."
+  ]
+ },
+ {
+  "q": "Cryptosporidium hominis est anthroponotique : lesquelles sont exactes ?",
+  "options": [
+   "Sa transmission est anthroponotique (homme-homme)",
+   "C. hominis infecte les poissons",
+   "C. hominis ne circule que chez l'homme",
+   "Les bovins sont le réservoir de C. hominis",
+   "C. hominis est une zoonose à réservoir bovin"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "La transmission est interhumaine.",
+   "Les poissons ne sont pas concernés.",
+   "L'homme est le seul hôte de C. hominis.",
+   "Les bovins hébergent C. parvum, pas C. hominis.",
+   "Ce n'est pas une zoonose."
+  ]
+ },
+ {
+  "q": "La biopsie duodénale dans la cryptosporidiose : lesquelles sont exactes ?",
+  "options": [
+   "L'endoscopie haute peut être contributive chez l'ID",
+   "Elle peut montrer le parasite en position apicale",
+   "Elle est utile quand les selles sont négatives",
+   "Seule la biopsie colique est utile",
+   "La biopsie est inutile"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La fibroscopie haute aide au diagnostic chez l'ID.",
+   "L'histologie montre les formes apicales.",
+   "Elle complète des selles négatives.",
+   "C'est le duodénum/jéjunum qui est concerné.",
+   "Elle est contributive."
+  ]
+ },
+ {
+  "q": "Existe-t-il un vaccin contre la cryptosporidiose ?",
+  "options": [
+   "Un vaccin efficace est disponible",
+   "Il n'existe pas de vaccin",
+   "La prévention repose sur l'hygiène",
+   "La vaccination est la mesure principale",
+   "L'immunité vaccinale est durable"
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Aucun vaccin efficace n'est disponible.",
+   "Aucun vaccin n'existe contre Cryptosporidium.",
+   "Seules les mesures d'hygiène préviennent.",
+   "La vaccination n'est pas une mesure.",
+   "Il n'y a pas d'immunité vaccinale."
+  ]
+ },
+ {
+  "q": "Les mérozoïtes d'Isospora : lesquelles sont exactes ?",
+  "options": [
+   "Ils poursuivent le cycle schizogonique ou se différencient en gamètes",
+   "Ils envahissent de nouveaux entérocytes",
+   "Ils se forment dans le milieu extérieur",
+   "Ce sont des formes sexuées",
+   "Ils sont libérés par l'éclatement des schizontes"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Ils continuent la schizogonie ou entrent en sporogonie.",
+   "Ils colonisent de nouvelles cellules intestinales.",
+   "Ils se forment dans l'entérocyte.",
+   "Ce sont des formes asexuées.",
+   "L'éclatement des schizontes libère les mérozoïtes."
+  ]
+ },
+ {
+  "q": "Les gamètes d'Isospora : lesquelles sont exactes ?",
+  "options": [
+   "La différenciation sexuée concerne les mérozoïtes",
+   "La reproduction sexuée n'existe pas",
+   "Les microgamétocytes produisent des microgamètes",
+   "La fécondation donne un zygote qui évolue en oocyste",
+   "Il n'y a pas de gamètes"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Les mérozoïtes subissent la différenciation sexuée.",
+   "La reproduction sexuée existe (sporogonie).",
+   "Des gamètes mâles et femelles sont produits.",
+   "La fécondation forme l'oocyste.",
+   "Des gamètes existent."
+  ]
+ },
+ {
+  "q": "La taille de l'oocyste d'Isospora : lesquelles sont exactes ?",
+  "options": [
+   "Cette grande taille aide à l'identification",
+   "Il mesure 4 à 6 µm",
+   "Il est invisible au microscope optique",
+   "Il est bien plus grand que celui de Cryptosporidium (4-6 µm)",
+   "Il mesure 20 à 30 µm de long"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "La taille est un critère distinctif.",
+   "Il ne mesure pas 4-6 µm.",
+   "Il est visible au microscope optique.",
+   "Il est nettement plus grand que celui de Cryptosporidium.",
+   "L'oocyste mesure 20-30 µm de long."
+  ]
+ },
+ {
+  "q": "Encephalitozoon intestinalis : lesquelles sont exactes ?",
+  "options": [
+   "Il est traité en première intention par fumagilline",
+   "Il peut disséminer au rein et aux voies urinaires",
+   "Il donne une diarrhée chronique chez l'immunodéprimé",
+   "Il est strictement asymptomatique",
+   "Il est traité par albendazole"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "La fumagilline concerne E. bieneusi.",
+   "La dissémination rénale et urinaire est caractéristique.",
+   "E. intestinalis cause des diarrhées chroniques de l'ID.",
+   "Il est symptomatique chez l'ID.",
+   "L'albendazole est son traitement."
+  ]
+ },
+ {
+  "q": "La recherche de spores dans les urines : lesquelles sont exactes ?",
+  "options": [
+   "Les urines peuvent contenir des spores d'Encephalitozoon",
+   "Elle est indiquée devant une atteinte rénale",
+   "Les urines ne sont jamais examinées",
+   "Elle complète l'examen des selles",
+   "Seules les selles sont utiles au diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Encephalitozoon s'élimine dans les urines.",
+   "La sporurie oriente vers une atteinte rénale.",
+   "Les urines sont examinées.",
+   "Selles et urines sont complémentaires.",
+   "Les urines sont aussi utiles."
+  ]
+ },
+ {
+  "q": "Voyageur de retour des tropiques avec diarrhée aqueuse : lesquelles sont exactes ?",
+  "options": [
+   "Aucun examen n'est utile",
+   "Le traitement symptomatique (réhydratation) est premier",
+   "Une antibiothérapie systématique est indispensable",
+   "Évoquer cryptosporidiose, isosporose et Cyclospora",
+   "L'examen parasitologique des selles avec colorations est indiqué"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "L'examen parasitologique est indispensable.",
+   "La réhydratation est la base.",
+   "Aucune antibiothérapie systématique n'est validée.",
+   "Ce sont les coccidioses du voyageur.",
+   "Les colorations spéciales sont nécessaires."
+  ]
+ },
+ {
+  "q": "Épidémie de diarrhée en crèche : lesquelles sont exactes ?",
+  "options": [
+   "Renforcer l'hygiène des mains du personnel",
+   "Aucune mesure n'est utile",
+   "Évoquer en premier Cryptosporidium",
+   "Évincer temporairement les enfants diarrhéiques",
+   "Fermer définitivement la crèche"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "L'hygiène des mains est la mesure clé.",
+   "Des mesures sont utiles.",
+   "Cryptosporidium est le premier suspect.",
+   "L'éviction des cas limite la transmission.",
+   "Une fermeture définitive n'est pas requise."
+  ]
+ },
+ {
+  "q": "Patient VIH avec diarrhée chronique et cholestase : lesquelles sont exactes ?",
+  "options": [
+   "Seule la lithiase peut expliquer la cholestase",
+   "L'échographie hépatique est indiquée",
+   "Une sténose papillaire est une complication possible",
+   "Aucun bilan n'est nécessaire",
+   "Évoquer une atteinte biliaire à Cryptosporidium"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Les causes parasitaires doivent être évoquées.",
+   "L'imagerie biliaire est indiquée.",
+   "La sténose papillaire est décrite.",
+   "Un bilan est nécessaire.",
+   "L'atteinte biliaire concerne 30 % des cas."
+  ]
+ },
+ {
+  "q": "L'examen direct à l'état frais dans l'isosporose : lesquelles sont exactes ?",
+  "options": [
+   "L'examen direct est toujours négatif",
+   "Il peut montrer les oocystes",
+   "Les oocystes sont invisibles à l'état frais",
+   "Il est complété par la concentration de Ritchie",
+   "La membrane mince et réfringente aide au repérage"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "L'examen direct peut être positif.",
+   "Les oocystes sont visibles à l'état frais.",
+   "Ils sont visibles à l'état frais.",
+   "La concentration de Ritchie augmente le rendement.",
+   "La réfringence facilite leur reconnaissance."
+  ]
+ },
+ {
+  "q": "La tolérance du cotrimoxazole : lesquelles sont exactes ?",
+  "options": [
+   "Il est dénué de tout effet indésirable",
+   "Des effets cutanés sont possibles",
+   "Le traitement est en général bien toléré",
+   "Il est contre-indiqué chez tous les patients",
+   "Une surveillance clinique est utile"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Des effets indésirables existent.",
+   "Des toxidermies sont possibles.",
+   "La tolérance est généralement bonne.",
+   "Il n'est pas contre-indiqué chez tous.",
+   "Une surveillance est recommandée."
+  ]
+ },
+ {
+  "q": "Les précautions hydriques en zone d'endémie : lesquelles sont exactes ?",
+  "options": [
+   "Aucune précaution n'est nécessaire",
+   "L'eau du robinet est toujours sûre en zone tropicale",
+   "Le chlore seul ne suffit pas toujours",
+   "Éviter les glaçons d'origine douteuse",
+   "Faire bouillir l'eau de boisson"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Des précautions sont nécessaires.",
+   "L'eau du robinet n'est pas toujours sûre.",
+   "La résistance au chlore impose la vigilance.",
+   "La glace peut véhiculer des oocystes.",
+   "L'ébullition inactive les oocystes."
+  ]
+ },
+ {
+  "q": "Synthèse sur les espèces et leurs hôtes : lesquelles sont exactes ?",
+  "options": [
+   "C. hominis : homme seul ; C. parvum : homme et mammifères ; I. belli : homme seul",
+   "C. hominis infecte les bovins",
+   "E. bieneusi est l'espèce la plus fréquente des microsporidioses",
+   "Toutes les espèces ont exactement le même réservoir",
+   "E. hellem est une espèce disséminée (œil, poumon, rein)"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Les spectres d'hôtes sont bien distincts.",
+   "C. hominis est strictement humain.",
+   "E. bieneusi domine les microsporidioses.",
+   "Les réservoirs diffèrent selon l'espèce.",
+   "E. hellem dissémine (kératoconjonctivite, poumon, rein)."
+  ]
+ }
+]

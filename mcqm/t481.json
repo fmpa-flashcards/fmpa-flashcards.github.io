@@ -1,0 +1,4580 @@
+[
+ {
+  "q": "Parmi les propositions suivantes concernant la tolérance immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "La tolérance est un état de non-réponse spécifique vis-à-vis d'un antigène donné",
+   "La tolérance est une immunodépression généralisée touchant toutes les réponses immunitaires",
+   "Une dose antigénique trop faible ou trop élevée peut induire un état de tolérance",
+   "Seule la dose antigénique optimale induit une réponse immunitaire efficace",
+   "La tolérance est toujours un phénomène irréversible une fois établie"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la tolérance est une non-réponse spécifique d'un antigène, le reste du système reste compétent.",
+   "Faux : contrairement à l'immunodéficience, la tolérance n'abolit pas les autres réponses immunitaires.",
+   "Exact : doses infra-optimales (ignorance) ou supra-optimales (épuisement/délétion) favorisent la tolérance.",
+   "Exact : la courbe dose-réponse est en cloche, seule la dose optimale déclenche une réponse immunitaire.",
+   "Faux : certaines tolérances périphériques (anergie) peuvent être levées, par exemple par l'IL-2."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la tolérance centrale, lesquelles sont exactes ?",
+  "options": [
+   "Elle résulte de l'élimination des lymphocytes auto-réactifs au cours de leur maturation",
+   "Elle se met en place dans le thymus pour les lymphocytes T",
+   "Elle se met en place dans la moelle osseuse pour les lymphocytes B",
+   "Elle concerne les lymphocytes matures circulant dans les organes lymphoïdes secondaires",
+   "Elle repose sur la délétion clonale des clones reconnaissant fortement les auto-antigènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la tolérance centrale élimine les clones auto-réactifs pendant la maturation.",
+   "Exact : la sélection négative thymique purge le répertoire T des clones auto-réactifs.",
+   "Exact : la moelle osseuse est le site de la tolérance centrale des lymphocytes B.",
+   "Faux : les lymphocytes matures des organes secondaires relèvent de la tolérance périphérique.",
+   "Exact : la délétion clonale par apoptose élimine les clones à forte affinité pour le soi."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la tolérance périphérique, lesquelles sont exactes ?",
+  "options": [
+   "Elle contrôle les lymphocytes auto-réactifs ayant échappé à la sélection centrale",
+   "Elle fait intervenir l'anergie, la délétion et la suppression par les lymphocytes T régulateurs",
+   "Elle est inutile car la sélection centrale élimine la totalité des clones auto-réactifs",
+   "Elle peut être induite par la présentation d'un antigène en l'absence de signaux de costimulation",
+   "L'injection intra-thymique d'un antigène est une application médicale visant à induire une tolérance"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : la tolérance périphérique est le filet de sécurité après la sélection centrale imparfaite.",
+   "Exact : anergie, délétion périphérique et suppression active par les Treg sont ses trois mécanismes.",
+   "Faux : la sélection centrale laisse échapper des clones auto-réactifs, d'où la nécessité d'un contrôle périphérique.",
+   "Exact : un signal 1 (TCR) sans signal 2 (costimulation) conduit à l'anergie plutôt qu'à l'activation.",
+   "Exact : l'injection intra-thymique de l'antigène est proposée pour induire une tolérance en cas d'auto-immunité."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les facteurs influençant la tolérance, lesquelles sont exactes ?",
+  "options": [
+   "La voie d'administration modifie la nature de la réponse : la voie veineuse adresse l'antigène à la rate",
+   "La voie sous-cutanée adresse l'antigène aux ganglions lymphatiques locaux",
+   "Un même antigène introduit par deux voies différentes induit toujours une réponse identique",
+   "La voie orale favorise classiquement l'induction d'une tolérance (tolérance orale)",
+   "La nature physico-chimique de l'antigène n'influence pas l'induction d'une tolérance"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : l'antigène injecté par voie veineuse est filtré par la rate.",
+   "Exact : la voie sous-cutanée draine vers les ganglions lymphatiques régionaux.",
+   "Faux : la voie d'administration conditionne le type de réponse obtenue pour un même antigène.",
+   "Exact : l'exposition orale aux antigènes induit préférentiellement une tolérance médiée par les Treg.",
+   "Faux : taille, complexité et solubilité de l'antigène modulent son immunogénicité et la tolérance."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la rupture de tolérance, lesquelles sont exactes ?",
+  "options": [
+   "Elle peut conduire à des maladies auto-immunes par activation de lymphocytes auto-réactifs",
+   "Les lymphocytes Th17 à activité pro-inflammatoire sont impliqués dans des maladies auto-immunes",
+   "La production d'auto-anticorps par des lymphocytes B auto-réactifs en est une conséquence possible",
+   "Elle est systématiquement provoquée par toute vaccination",
+   "Un déficit en lymphocytes T régulateurs favorise la rupture de tolérance"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la levée de la tolérance vis-à-vis du soi définit l'auto-immunité.",
+   "Exact : les Th17 pro-inflammatoires participent aux maladies auto-immunes et inflammations chroniques.",
+   "Exact : les LB auto-réactifs échappant au contrôle produisent des auto-anticorps pathogènes.",
+   "Faux : la vaccination induit une réponse contre l'antigène vaccinal sans rompre la tolérance au soi.",
+   "Exact : les Treg maintiennent la tolérance périphérique ; leur déficit expose à l'auto-immunité."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la tolérance fœto-maternelle, lesquelles sont exactes ?",
+  "options": [
+   "Le fœtus exprime des antigènes paternels allogéniques tolérés par la mère",
+   "Les lymphocytes T régulateurs participent au maintien de cette tolérance",
+   "Le placenta constitue une barrière limitant le contact immunitaire materno-fœtal",
+   "La grossesse s'accompagne d'une immunodépression généralisée de la mère",
+   "La tolérance fœto-maternelle est un exemple physiologique de tolérance périphérique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le fœtus semi-allogénique exprime des allo-antigènes paternels.",
+   "Exact : l'expansion des Treg maternels est essentielle à la tolérance du fœtus.",
+   "Exact : le placenta limite les échanges cellulaires et module la réponse immunitaire locale.",
+   "Faux : la mère reste immunocompétente ; la tolérance est locale et spécifique, non générale.",
+   "Exact : c'est une tolérance acquise, spécifique et réversible, donc périphérique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la tolérance des lymphocytes B auto-réactifs, lesquelles sont exactes ?",
+  "options": [
+   "La délétion clonale dans la moelle osseuse élimine les clones B fortement auto-réactifs",
+   "L'anergie rend non fonctionnels certains lymphocytes B auto-réactifs en périphérie",
+   "L'édition du récepteur (receptor editing) peut modifier la spécificité d'un BCR auto-réactif",
+   "Tous les lymphocytes B auto-réactifs sont systématiquement éliminés avant la sortie médullaire",
+   "Les lymphocytes B auto-réactifs anergiques ont une durée de vie prolongée"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la sélection négative médullaire élimine par apoptose les clones à forte auto-réactivité.",
+   "Exact : l'anergie périphérique inactive fonctionnellement les LB auto-réactifs survivants.",
+   "Exact : le réarrangement secondaire des chaînes légères peut corriger une spécificité auto-réactive.",
+   "Faux : une fraction échappe à la sélection centrale et relève des mécanismes périphériques.",
+   "Faux : les LB anergiques ont une durée de vie courte et sont exclus des follicules."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la tolérance en transplantation, lesquelles sont exactes ?",
+  "options": [
+   "La compatibilité HLA entre donneur et receveur limite le risque de rejet",
+   "Le rejet traduit l'absence de tolérance vis-à-vis des allo-antigènes du greffon",
+   "L'induction d'une tolérance spécifique du greffon est un objectif thérapeutique",
+   "Les immunosuppresseurs induisent une tolérance spécifique et définitive du greffon",
+   "Les lymphocytes T régulateurs spécifiques du donneur favorisent la tolérance du greffon"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la compatibilité tissulaire (HLA) est vérifiée avant toute greffe d'organe.",
+   "Exact : le rejet est une réponse immunitaire dirigée contre les allo-antigènes du greffon.",
+   "Exact : obtenir une tolérance spécifique éviterait l'immunosuppression au long cours.",
+   "Faux : les immunosuppresseurs dépriment globalement l'immunité sans induire de tolérance spécifique.",
+   "Exact : les Treg allo-spécifiques sont des médiateurs clés de la tolérance en transplantation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'induction expérimentale de tolérance, lesquelles sont exactes ?",
+  "options": [
+   "L'injection intra-thymique d'un antigène peut induire une tolérance vis-à-vis de cet antigène",
+   "La tolérance est un phénomène spécifique de l'antigène utilisé pour l'induire",
+   "De fortes doses d'antigène soluble favorisent la tolérance par épuisement des clones spécifiques",
+   "L'administration d'un antigène avec un adjuvant puissant favorise la tolérance",
+   "La tolérance induite protège également contre des antigènes non apparentés"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'exposition thymique à l'antigène induit une tolérance utilisée en auto-immunité.",
+   "Exact : la non-réponse ne concerne que l'antigène tolérogène, pas les autres antigènes.",
+   "Exact : les fortes doses de soluble conduisent à la délétion ou à l'épuisement des clones réactifs.",
+   "Faux : l'adjuvant fournit les signaux de danger qui rompent la tolérance et favorisent l'activation.",
+   "Faux : la tolérance est strictement spécifique de l'antigène ; les autres réponses restent intactes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la tolérance orale, lesquelles sont exactes ?",
+  "options": [
+   "Elle permet de ne pas répondre aux antigènes alimentaires et au microbiote",
+   "Elle fait intervenir des lymphocytes T régulateurs induits au niveau intestinal",
+   "Les cellules dendritiques tolérogènes de la muqueuse participent à son induction",
+   "Elle repose sur une délétion massive de tous les lymphocytes de la muqueuse",
+   "De faibles doses d'antigène oral favorisent préférentiellement les Treg"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la muqueuse intestinale tolère en permanence antigènes alimentaires et microbiote.",
+   "Exact : l'induction de Treg (notamment producteurs d'IL-10 et de TGF-bêta) est centrale.",
+   "Exact : les DC tolérogènes présentent l'antigène dans un contexte non inflammatoire.",
+   "Faux : il s'agit d'une régulation active spécifique, non d'une délétion lymphocytaire massive.",
+   "Exact : les faibles doses orales induisent préférentiellement des Treg, les fortes doses l'anergie/délétion."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les applications médicales de la tolérance, lesquelles sont exactes ?",
+  "options": [
+   "La désensibilisation allergénique vise à induire une tolérance vis-à-vis de l'allergène",
+   "En auto-immunité, l'induction d'une tolérance spécifique est une piste thérapeutique",
+   "La sérothérapie (immunisation passive) induit une tolérance durable",
+   "Les protocoles de tolérance en transplantation visent à se passer d'immunosuppresseurs",
+   "La vaccination repose sur l'induction d'une tolérance vis-à-vis de l'agent vaccinal"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : l'immunothérapie allergénique induit des Treg et des IgG4 bloquants contre l'allergène.",
+   "Exact : restaurer la tolérance au soi est l'objectif des thérapies tolérogènes en auto-immunité.",
+   "Faux : la sérothérapie apporte des anticorps préformés de courte durée sans induire de tolérance.",
+   "Exact : une tolérance opérationnelle du greffon permettrait l'arrêt de l'immunosuppression.",
+   "Faux : la vaccination induit une mémoire immunitaire protectrice, l'inverse d'une tolérance."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la spécificité de la tolérance, lesquelles sont exactes ?",
+  "options": [
+   "Un sujet tolérant à un antigène répond normalement aux autres antigènes",
+   "La tolérance résulte d'une inactivation spécifique des clones lymphocytaires concernés",
+   "La tolérance s'accompagne d'une disparition totale des anticorps circulants",
+   "La tolérance peut être transférée expérimentalement par des lymphocytes T régulateurs",
+   "La tolérance est un état passif lié à l'absence de rencontre avec l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : la tolérance est antigène-spécifique, le reste du répertoire reste fonctionnel.",
+   "Exact : délétion, anergie ou suppression ciblent uniquement les clones spécifiques de l'antigène.",
+   "Faux : seuls les anticorps dirigés contre l'antigène toléré font défaut.",
+   "Exact : le transfert adoptif de Treg transmet la tolérance, preuve de la suppression active.",
+   "Faux : l'ignorance (non-rencontre) diffère de la tolérance, qui est un état actif de non-réponse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la sélection thymique, lesquelles sont exactes ?",
+  "options": [
+   "Environ 95 % des thymocytes meurent par apoptose au cours de la sélection",
+   "La sélection positive retient les thymocytes reconnaissant les molécules du CMH du soi",
+   "La sélection négative élimine les thymocytes fortement auto-réactifs",
+   "Tous les thymocytes produits achèvent leur maturation et gagnent la périphérie",
+   "La sélection thymique façonne un répertoire T tolérant au soi et restreint au CMH du soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la sélection thymique est très stringente, la grande majorité des thymocytes est éliminée.",
+   "Exact : seuls les clones reconnaissant le CMH propre reçoivent le signal de survie.",
+   "Exact : les clones à forte affinité pour les complexes auto-antigène–CMH sont délétés par apoptose.",
+   "Faux : seule une minorité (environ 5 %) survit aux deux sélections.",
+   "Exact : double objectif : restriction au CMH du soi et tolérance vis-à-vis des auto-antigènes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'apoptose des lymphocytes, lesquelles sont exactes ?",
+  "options": [
+   "L'apoptose est une mort cellulaire programmée sans réaction inflammatoire",
+   "Les corps apoptotiques sont éliminés par phagocytose sans libération de contenu pro-inflammatoire",
+   "Les lymphocytes B naïfs qui ne rencontrent pas d'antigène meurent par apoptose",
+   "L'apoptose des lymphocytes effecteurs participe au retour au silence de la réponse immunitaire",
+   "L'apoptose et la nécrose sont deux modalités identiques de mort cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'apoptose est propre et silencieuse, contrairement à la nécrose inflammatoire.",
+   "Exact : la phagocytose rapide des corps apoptotiques évite toute inflammation.",
+   "Exact : le LB naïf non stimulé a une durée de vie courte et meurt par apoptose.",
+   "Exact : la contraction de la réponse immunitaire repose sur l'apoptose massive des effecteurs.",
+   "Faux : la nécrose libère des signaux de danger pro-inflammatoires, pas l'apoptose."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la délétion clonale, lesquelles sont exactes ?",
+  "options": [
+   "Elle élimine par apoptose les clones lymphocytaires auto-réactifs",
+   "Elle intervient dans la tolérance centrale thymique et médullaire",
+   "Elle peut aussi éliminer en périphérie des clones activés de façon excessive",
+   "Elle conserve intacts tous les clones spécifiques des antigènes étrangers",
+   "Elle repose sur l'activation des caspases effectrices"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la délétion clonale supprime physiquement les clones dangereux par apoptose.",
+   "Exact : thymus (LT) et moelle osseuse (LB) sont les sites de la délétion centrale.",
+   "Exact : la délétion périphérique (AICD) élimine les effecteurs après la réponse.",
+   "Faux : les clones spécifiques du non-soi sont sélectionnés positivement et conservés.",
+   "Exact : la cascade des caspases exécute le programme apoptotique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le rôle d'AIRE dans la tolérance centrale, lesquelles sont exactes ?",
+  "options": [
+   "AIRE permet l'expression ectopique d'auto-antigènes tissulaires dans le thymus",
+   "Cette expression expose les thymocytes en développement aux auto-antigènes périphériques",
+   "Les thymocytes fortement réactifs à ces auto-antigènes sont éliminés",
+   "Une mutation d'AIRE provoque une polyendocrinopathie auto-immune",
+   "AIRE est un facteur de transcription exprimé par les lymphocytes T matures"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : AIRE fait exprimer par les cellules épithéliales thymiques des antigènes tissulaires.",
+   "Exact : cette présentation ectopique teste les thymocytes contre le soi périphérique.",
+   "Exact : la reconnaissance forte déclenche la délétion clonale des auto-réactifs.",
+   "Exact : le syndrome APECED résulte d'un défaut d'AIRE et d'une tolérance centrale défaillante.",
+   "Faux : AIRE s'exprime dans les cellules épithéliales médullaires du thymus, pas dans les LT."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la maturation des lymphocytes B et la tolérance, lesquelles sont exactes ?",
+  "options": [
+   "Les lymphocytes B fortement auto-réactifs sont éliminés par apoptose dans la moelle osseuse",
+   "Le réarrangement secondaire des chaînes légères peut corriger une auto-réactivité (receptor editing)",
+   "Les lymphocytes B faiblement auto-réactifs peuvent être rendus anergiques en périphérie",
+   "Tous les lymphocytes B quittant la moelle osseuse sont dépourvus de toute auto-réactivité",
+   "La moelle osseuse est un organe lymphoïde central pour la lignée B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la sélection négative médullaire délette les clones B fortement auto-réactifs.",
+   "Exact : l'édition du récepteur remplace une chaîne légère auto-réactive par une nouvelle.",
+   "Exact : l'anergie périphérique inactive les LB faiblement auto-réactifs survivants.",
+   "Faux : une fraction de clones auto-réactifs gagne la périphérie sous contrôle des mécanismes périphériques.",
+   "Exact : la moelle osseuse assure production et maturation centrale des lymphocytes B."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'apoptose dans la contraction de la réponse immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "Après élimination de l'antigène, la majorité des lymphocytes effecteurs meurt par apoptose",
+   "Cette contraction concerne 90 à 95 % des lymphocytes T effecteurs générés",
+   "Les lymphocytes survivants à la contraction constituent le pool des cellules mémoires",
+   "La contraction est un phénomène pathologique traduisant un épuisement immunitaire",
+   "La protéine pro-apoptotique Bim participe à l'élimination des effecteurs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la disparition de l'antigène déclenche l'apoptose massive des effecteurs activés.",
+   "Exact : seule une petite fraction (5 à 10 %) survit et devient mémoire.",
+   "Exact : les survivants quiescents forment la mémoire immunologique protectrice.",
+   "Faux : la contraction est physiologique et protège de l'immunopathologie.",
+   "Exact : l'équilibre Bim/Bcl-2 contrôle la survie des lymphocytes activés."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la mort cellulaire induite par activation (AICD), lesquelles sont exactes ?",
+  "options": [
+   "L'AICD élimine les lymphocytes T activés de façon répétée via l'axe Fas/FasL",
+   "Elle participe au retour au silence de la réponse immunitaire après clairance de l'antigène",
+   "Les lymphocytes T régulateurs peuvent induire l'AICD des lymphocytes T cytotoxiques activés",
+   "Un défaut de Fas (CD95) expose à un syndrome lymphoprolifératif avec auto-immunité (ALPS)",
+   "L'AICD concerne exclusivement les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la restimulation des LT activés déclenche l'apoptose via Fas et son ligand.",
+   "Exact : l'AICD est un mécanisme majeur de la contraction post-réponse.",
+   "Exact : l'action fratricide des LTreg induit la mort des LTc activés (AICD).",
+   "Exact : les mutations de Fas/FasL causent le syndrome ALPS.",
+   "Faux : l'AICD concerne principalement les lymphocytes T activés."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les signaux de survie des lymphocytes, lesquelles sont exactes ?",
+  "options": [
+   "L'IL-7 est essentielle à la survie et à l'homéostasie des lymphocytes T naïfs et mémoires",
+   "L'IL-15 soutient la survie et le renouvellement des lymphocytes T CD8 mémoires",
+   "La protéine anti-apoptotique Bcl-2 favorise la survie des lymphocytes mémoires",
+   "Les lymphocytes effecteurs survivent indéfiniment sans signaux cytokiniques",
+   "Le sevrage en cytokines de survie déclenche l'apoptose des effecteurs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'IL-7 est la cytokine de survie homéostatique des LT naïfs et mémoires.",
+   "Exact : l'IL-15 maintient le pool des LT CD8 mémoires par prolifération homéostatique.",
+   "Exact : Bcl-2 protège les cellules mémoires de l'apoptose et assure leur longévité.",
+   "Faux : les effecteurs dépendent des cytokines de survie et meurent après leur sevrage.",
+   "Exact : la chute des cytokines après la réponse précipite l'apoptose des effecteurs."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la sélection des lymphocytes T cytotoxiques, lesquelles sont exactes ?",
+  "options": [
+   "Les LTc reconnaissent le peptide présenté par le CMH de classe I de la cellule cible",
+   "Après la réponse, les LTc activés en excès sont éliminés notamment par AICD",
+   "Les LTc mémoires survivent à la contraction et assurent une réponse secondaire rapide",
+   "Les LTc effecteurs tuent par perforine et granzymes puis meurent par apoptose",
+   "Les LTc activés persistent indéfiniment en grand nombre après l'infection"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le TCR du LTc CD8 reconnaît le complexe peptide–CMH I.",
+   "Exact : la contraction élimine la majorité des LTc activés après clairance virale.",
+   "Exact : les LTc mémoires survivants garantissent une cytotoxicité secondaire accélérée.",
+   "Faux : c'est la cellule cible qui meurt par apoptose ; le LTc (serial killer) passe à une autre cible.",
+   "Faux : leur nombre chute massivement par apoptose après la réponse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'élimination des lymphocytes auto-réactifs, lesquelles sont exactes ?",
+  "options": [
+   "La délétion centrale élimine les clones à forte affinité pour les auto-antigènes",
+   "L'anergie inactive les clones auto-réactifs de faible affinité en périphérie",
+   "Les lymphocytes T régulateurs suppriment les effecteurs auto-réactifs résiduels",
+   "Aucun lymphocyte auto-réactif ne persiste chez un individu sain",
+   "La complémentarité de ces mécanismes explique la rareté des maladies auto-immunes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la sélection négative purge les clones fortement auto-réactifs.",
+   "Exact : l'anergie neutralise fonctionnellement les clones faiblement auto-réactifs.",
+   "Exact : la suppression active par les Treg contrôle les échappés.",
+   "Faux : des clones auto-réactifs persistent mais restent contrôlés chez le sujet sain.",
+   "Exact : la redondance délétion/anergie/suppression rend l'auto-immunité exceptionnelle."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'anergie lymphocytaire, lesquelles sont exactes ?",
+  "options": [
+   "L'anergie est un état de non-réponse fonctionnelle d'un lymphocyte vivant",
+   "Elle résulte de la reconnaissance antigénique sans signaux de costimulation (signal 1 sans signal 2)",
+   "Le lymphocyte anergique ne prolifère pas et ne produit pas d'IL-2 lors d'une restimulation",
+   "L'anergie est synonyme de délétion clonale",
+   "L'apport exogène d'IL-2 peut lever l'anergie d'un lymphocyte T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la cellule anergique survit mais reste fonctionnellement silencieuse.",
+   "Exact : le TCR engagé sans CD28/B7 conduit à l'anergie plutôt qu'à l'activation.",
+   "Exact : le défaut de production d'IL-2 caractérise l'état anergique.",
+   "Faux : la délétion supprime la cellule, l'anergie la conserve inactive.",
+   "Exact : l'IL-2 exogène restaure la capacité proliférative des LT anergiques."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les signaux d'activation du lymphocyte T, lesquelles sont exactes ?",
+  "options": [
+   "Le signal 1 correspond à la reconnaissance du complexe peptide–CMH par le TCR",
+   "Le signal 2 correspond à l'engagement des molécules de costimulation (B7/CD28)",
+   "Le signal 1 associé au signal 2 induit la transcription du gène de l'IL-2 et de son récepteur",
+   "Le signal 1 isolé, sans signal 2, conduit à l'anergie",
+   "Le lymphocyte T s'active pleinement avec le seul signal 1"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'engagement du TCR fournit la spécificité antigénique (signal 1).",
+   "Exact : l'interaction DC (B7, CD40) / LT (CD28, CD40L) consolide le signal 1.",
+   "Exact : les signaux 1+2 déclenchent la synthèse d'IL-2 et l'expression du CD25 (IL-2Rα).",
+   "Exact : sans costimulation, la reconnaissance antigénique rend le LT anergique.",
+   "Faux : le signal 1 seul est insuffisant et tolérogène."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le couple B7/CD28, lesquelles sont exactes ?",
+  "options": [
+   "B7-1 (CD80) et B7-2 (CD86) sont exprimés par les cellules dendritiques activées",
+   "CD28 est exprimé constitutivement par les lymphocytes T naïfs",
+   "L'interaction B7/CD28 fournit le second signal d'activation du lymphocyte T",
+   "CTLA-4 entre en compétition avec CD28 pour la liaison à B7 avec une affinité supérieure",
+   "Le blocage de CD28 favorise l'activation lymphocytaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les DC matures surexpriment CD80/CD86 pour costimuler les LT.",
+   "Exact : CD28 est présent sur les LT naïfs en attente du signal 2.",
+   "Exact : B7/CD28 est la voie de costimulation prototypique du signal 2.",
+   "Exact : CTLA-4 capte B7 avec une avidité supérieure et prive CD28 de son ligand.",
+   "Faux : sans CD28, le signal 2 manque et le LT devient anergique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le couple CD40/CD40L, lesquelles sont exactes ?",
+  "options": [
+   "CD40 est exprimé par les lymphocytes B et les cellules dendritiques",
+   "CD40L (CD154) est exprimé par les lymphocytes T helper activés",
+   "L'interaction CD40/CD40L est indispensable à la formation du centre germinatif",
+   "Un déficit en CD40L (syndrome hyper-IgM lié à l'X) abolit la commutation de classe",
+   "Le couple CD40/CD40L est un signal inhibiteur de la réponse immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CD40 est présent sur les LB, les DC et les macrophages.",
+   "Exact : le LT activé exprime CD40L pour aider le LB.",
+   "Exact : sans CD40/CD40L, pas de centre germinatif ni de mémoire B.",
+   "Exact : le défaut de CD40L empêche la coopération T-B et la commutation isotypique.",
+   "Faux : CD40/CD40L est un signal activateur majeur de la coopération T-B."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'anergie des lymphocytes B, lesquelles sont exactes ?",
+  "options": [
+   "Les LB auto-réactifs exposés chroniquement à un auto-antigène soluble deviennent anergiques",
+   "Le LB anergique exprime son BCR mais ne répond pas à sa stimulation",
+   "Les LB anergiques sont exclus des follicules et ont une durée de vie courte",
+   "L'anergie B est un mécanisme de tolérance périphérique",
+   "Tous les LB anergiques se différencient en plasmocytes à longue vie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'exposition chronique à un auto-antigène soluble soluble induit l'anergie B.",
+   "Exact : le BCR reste exprimé mais son signalisation est désensibilisée.",
+   "Exact : l'exclusion folliculaire et la mort précoce limitent leur dangerosité.",
+   "Exact : l'anergie B complète la délétion centrale pour les auto-réactifs.",
+   "Faux : les LB anergiques ne se différencient pas en plasmocytes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la présentation antigénique tolérogène, lesquelles sont exactes ?",
+  "options": [
+   "Une cellule dendritique immature présentant un antigène sans costimulation induit la tolérance",
+   "L'absence de signaux de danger favorise une présentation tolérogène",
+   "Les cellules dendritiques tolérogènes favorisent l'induction de lymphocytes T régulateurs",
+   "Toute présentation antigénique par une cellule dendritique conduit à l'activation",
+   "Les signaux de danger (PAMP, cytokines inflammatoires) orientent vers l'activation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : DC immature + antigène sans B7 = anergie ou induction de Treg.",
+   "Exact : sans signaux de danger, la présentation reste tolérogène.",
+   "Exact : les DC tolérogènes convertissent les LT naïfs en Treg induits.",
+   "Faux : le contexte (maturation de la DC) décide entre activation et tolérance.",
+   "Exact : PAMP et cytokines inflammatoires maturent la DC et autorisent l'activation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les différences entre anergie et délétion, lesquelles sont exactes ?",
+  "options": [
+   "L'anergie conserve le lymphocyte vivant mais fonctionnellement inactif",
+   "La délétion supprime physiquement le clone par apoptose",
+   "L'anergie est potentiellement réversible, la délétion est définitive",
+   "L'anergie et la délétion participent toutes deux à la tolérance périphérique",
+   "L'anergie concerne uniquement les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la cellule anergique survit dans un état de non-réponse.",
+   "Exact : la délétion élimine le clone par mort apoptotique.",
+   "Exact : l'IL-2 peut lever l'anergie, rien ne restaure un clone délété.",
+   "Exact : les deux mécanismes purgent la périphérie des auto-réactifs.",
+   "Faux : l'anergie concerne les lymphocytes T comme les lymphocytes B."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la signalisation inhibitrice, lesquelles sont exactes ?",
+  "options": [
+   "CTLA-4 transmet un signal inhibiteur qui limite l'activation du lymphocyte T",
+   "PD-1 engagé par PD-L1 freine l'activation des lymphocytes T dans les tissus",
+   "Les récepteurs inhibiteurs contribuent au maintien de la tolérance périphérique",
+   "L'expression des récepteurs inhibiteurs est constitutive et invariable",
+   "Le blocage thérapeutique de ces récepteurs peut déclencher des effets auto-immuns"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : CTLA-4 délivre un signal négatif qui contrecarre CD28.",
+   "Exact : l'axe PD-1/PD-L1 éteint les LT activés au niveau tissulaire.",
+   "Exact : ces checkpoints préviennent l'activation excessive et l'auto-immunité.",
+   "Faux : leur expression est induite par l'activation (rétrocontrôle).",
+   "Exact : les anti-CTLA-4 et anti-PD-1 exposent à des toxicités auto-immunes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le rôle de l'IL-2 dans la régulation, lesquelles sont exactes ?",
+  "options": [
+   "L'IL-2 est le facteur de croissance autocrine des lymphocytes T activés",
+   "Le récepteur de haute affinité à l'IL-2 (CD25) est induit après les signaux 1 et 2",
+   "Les lymphocytes T régulateurs consomment l'IL-2 via leur CD25 constitutif, privant les effecteurs",
+   "Un défaut de signalisation IL-2 compromet le développement des Treg",
+   "L'IL-2 inhibe la prolifération des lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LT activé produit l'IL-2 qui stimule sa propre expansion.",
+   "Exact : l'expression de la chaîne alpha (CD25) suit l'activation.",
+   "Exact : la captation compétitive de l'IL-2 par les Treg est un mécanisme suppresseur.",
+   "Exact : l'IL-2 est indispensable à l'homéostasie des Treg ; son défaut favorise l'auto-immunité.",
+   "Faux : l'IL-2 est le principal facteur de prolifération des LT."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la synapse immunologique et sa régulation, lesquelles sont exactes ?",
+  "options": [
+   "La synapse organise le contact entre le lymphocyte T et la cellule présentatrice",
+   "La durée et l'intensité du contact conditionnent l'issue activation versus anergie",
+   "Les molécules de costimulation et d'inhibition sont recrutées au niveau de la synapse",
+   "CTLA-4 est recruté à la synapse après activation pour limiter la réponse",
+   "La synapse immunologique est une structure propre aux lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la synapse concentre TCR, costimulateurs et molécules d'adhésion.",
+   "Exact : un contact bref ou sans costimulation oriente vers l'anergie.",
+   "Exact : CD28 puis CTLA-4/PD-1 s'y succèdent pour activer puis freiner.",
+   "Exact : le recrutement tardif de CTLA-4 assure le rétrocontrôle négatif.",
+   "Faux : la synapse immunologique concerne d'abord le contact LT–CPA."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la régulation de l'activation B, lesquelles sont exactes ?",
+  "options": [
+   "Le pontage de plusieurs BCR par un antigène répétitif peut activer le LB sans aide T",
+   "Le récepteur inhibiteur FcγRIIb freine l'activation du LB en présence d'IgG",
+   "La coligation BCR–FcγRIIb par un complexe immun constitue un rétrocontrôle négatif",
+   "Les LB ne possèdent aucun récepteur régulateur de leur activation",
+   "Un défaut de FcγRIIb prédispose aux maladies auto-immunes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les antigènes TI-2 activent le LB par pontage multivalent des BCR.",
+   "Exact : FcγRIIb transmet un signal inhibiteur qui limite l'activation B.",
+   "Exact : les complexes immuns IgG engagent simultanément BCR et FcγRIIb pour éteindre la réponse.",
+   "Faux : les LB expriment plusieurs récepteurs modulateurs dont FcγRIIb.",
+   "Exact : la perte de ce frein favorise la production d'auto-anticorps."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le phénotype des lymphocytes T régulateurs, lesquelles sont exactes ?",
+  "options": [
+   "Les Treg naturels sont des lymphocytes T CD4+ exprimant fortement CD25",
+   "Le facteur de transcription Foxp3 est le marqueur maître des Treg",
+   "Les Treg expriment constitutivement CTLA-4",
+   "Les Treg sont des lymphocytes T CD8 cytotoxiques",
+   "Tous les lymphocytes T CD4+ expriment Foxp3"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le phénotype CD4+CD25high définit les Treg naturels.",
+   "Exact : Foxp3 programme le développement et la fonction suppressive des Treg.",
+   "Exact : l'expression constitutive de CTLA-4 participe à leur fonction régulatrice.",
+   "Faux : les Treg sont CD4+, distincts des LTc CD8+.",
+   "Faux : Foxp3 est restreint aux Treg, pas à l'ensemble des CD4+."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les cytokines produites par les Treg, lesquelles sont exactes ?",
+  "options": [
+   "Les Treg sécrètent du TGF-bêta aux propriétés immunosuppressives",
+   "Les Treg sécrètent de l'IL-10 aux propriétés anti-inflammatoires",
+   "Les Treg sécrètent de l'IL-2 en grande quantité pour stimuler les effecteurs",
+   "Les Treg sécrètent de l'IFN-gamma pro-inflammatoire",
+   "Le TGF-bêta et l'IL-10 inhibent l'activation des lymphocytes T effecteurs"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : le TGF-bêta est une cytokine suppressive majeure des Treg.",
+   "Exact : l'IL-10 exerce une activité anti-inflammatoire puissante.",
+   "Faux : les Treg consomment l'IL-2 mais n'en produisent pas.",
+   "Faux : l'IFN-gamma est produit par les Th1, pas par les Treg.",
+   "Exact : ces deux cytokines freinent l'activation et la prolifération des effecteurs."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les fonctions des lymphocytes T régulateurs, lesquelles sont exactes ?",
+  "options": [
+   "Les Treg régulent l'activation des lymphocytes T effecteurs",
+   "Les Treg exercent une activité anti-inflammatoire",
+   "Les Treg induisent et maintiennent la tolérance périphérique",
+   "Les Treg stimulent la différenciation des lymphocytes T cytotoxiques",
+   "Les Treg préviennent les réponses auto-immunes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la suppression des effecteurs est la fonction cardinale des Treg.",
+   "Exact : via IL-10 et TGF-bêta, ils limitent l'inflammation.",
+   "Exact : ils sont les gardiens de la tolérance vis-à-vis du soi et des antigènes inoffensifs.",
+   "Faux : ils freinent au contraire la différenciation des effecteurs.",
+   "Exact : leur déficit ou dysfonction expose à l'auto-immunité."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les Treg naturels et induits, lesquelles sont exactes ?",
+  "options": [
+   "Les Treg naturels (nTreg) se développent dans le thymus",
+   "Les Treg induits (iTreg) se différencient en périphérie à partir de LT naïfs",
+   "Le TGF-bêta favorise la conversion périphérique en iTreg via l'induction de Foxp3",
+   "Les lymphocytes Tr1, producteurs d'IL-10, sont une population régulatrice induite",
+   "Il n'existe qu'une seule population homogène de lymphocytes T régulateurs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les nTreg sont sélectionnés dans le thymus sur reconnaissance du soi.",
+   "Exact : en périphérie, un contexte tolérogène convertit des CD4 naïfs en iTreg.",
+   "Exact : le TGF-bêta induit Foxp3 et la différenciation régulatrice périphérique.",
+   "Exact : les Tr1 sécrètent de l'IL-10 et suppriment les réponses inflammatoires.",
+   "Faux : Treg naturels, induits, Tr1 et Th3 forment un ensemble hétérogène."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les mécanismes suppresseurs des Treg, lesquelles sont exactes ?",
+  "options": [
+   "La sécrétion de TGF-bêta et d'IL-10 inhibe les lymphocytes effecteurs",
+   "La captation de l'IL-2 par le CD25 des Treg prive les effecteurs de ce facteur de croissance",
+   "L'interaction CTLA-4 (Treg) / B7 (cellule dendritique) réduit la costimulation",
+   "Les Treg peuvent éliminer les effecteurs par cytotoxicité (granzyme/perforine)",
+   "Les Treg agissent uniquement à distance par cytokines sans aucun contact cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les cytokines suppressives sont un bras majeur de la régulation.",
+   "Exact : la consommation compétitive d'IL-2 affame les LT effecteurs.",
+   "Exact : CTLA-4 des Treg dépouille les DC de B7 et les rend tolérogènes.",
+   "Exact : certains Treg tuent les effecteurs ou les CPA par granzyme/perforine.",
+   "Faux : suppression par contact et par cytokines coopèrent."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le syndrome IPEX, lesquelles sont exactes ?",
+  "options": [
+   "Il résulte d'une mutation du gène FOXP3",
+   "Il se traduit par un déficit fonctionnel des lymphocytes T régulateurs",
+   "Il provoque des atteintes auto-immunes précoces multiviscérales",
+   "Il s'accompagne d'une hyperproduction d'anticorps dirigés contre le soi",
+   "Il est dû à un excès de lymphocytes T régulateurs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : FOXP3 muté abolit le programme régulateur.",
+   "Exact : sans Foxp3 fonctionnel, les Treg ne se développent pas.",
+   "Exact : entéropathie, diabète de type 1 et eczéma précoces caractérisent l'IPEX.",
+   "Exact : la perte du contrôle Treg libère les LB auto-réactifs.",
+   "Faux : c'est l'absence de Treg fonctionnels qui cause la maladie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les Treg et la grossesse, lesquelles sont exactes ?",
+  "options": [
+   "Les Treg maternels s'expandent au cours de la grossesse",
+   "Ils participent à la tolérance du fœtus semi-allogénique",
+   "Un déficit en Treg est associé aux fausses couches à répétition et à la prééclampsie",
+   "La grossesse s'accompagne d'une élimination totale des Treg maternels",
+   "Les Treg fœtaux suppriment l'immunité maternelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'expansion des Treg est un phénomène constant de la gestation.",
+   "Exact : ils préviennent le rejet du fœtus exprimant des antigènes paternels.",
+   "Exact : l'insuffisance régulatrice compromet la tolérance fœto-maternelle.",
+   "Faux : les Treg augmentent, ils ne disparaissent pas.",
+   "Faux : c'est la régulation maternelle qui tolère le fœtus."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les Treg et le cancer, lesquelles sont exactes ?",
+  "options": [
+   "Les tumeurs recrutent des Treg qui freinent la réponse anti-tumorale",
+   "L'infiltration tumorale par les Treg est souvent de mauvais pronostic",
+   "La déplétion des Treg peut restaurer une immunité anti-tumorale",
+   "Les Treg détruisent directement les cellules tumorales",
+   "Les inhibiteurs de checkpoints agissent en stimulant les Treg"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le microenvironnement tumoral attire les Treg suppresseurs.",
+   "Exact : un ratio Treg/effecteurs élevé corrèle avec l'échappement tumoral.",
+   "Exact : lever la suppression Treg réveille les effecteurs anti-tumoraux.",
+   "Faux : les Treg protègent la tumeur au lieu de la détruire.",
+   "Faux : les anti-CTLA-4/anti-PD-1 libèrent les effecteurs, ils ne stimulent pas les Treg."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les Treg et l'auto-immunité, lesquelles sont exactes ?",
+  "options": [
+   "Un déficit quantitatif ou qualitatif en Treg favorise les maladies auto-immunes",
+   "Des anomalies des Treg sont décrites dans le diabète de type 1 et la polyarthrite rhumatoïde",
+   "Le transfert de Treg est une piste thérapeutique en auto-immunité",
+   "Les maladies auto-immunes résultent d'un excès de Treg",
+   "L'IL-2 à faible dose peut expandre sélectivement les Treg"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la perte du contrôle régulateur libère les clones auto-réactifs.",
+   "Exact : des défauts Treg sont documentés dans plusieurs maladies auto-immunes.",
+   "Exact : la thérapie cellulaire par Treg est à l'étude.",
+   "Faux : c'est le défaut de Treg qui expose à l'auto-immunité.",
+   "Exact : les Treg, très sensibles à l'IL-2 via CD25, sont préférentiellement expansés."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'homéostasie des Treg, lesquelles sont exactes ?",
+  "options": [
+   "Les Treg dépendent de l'IL-2 pour leur survie et leur fonction",
+   "Les Treg représentent environ 5 à 10 % des lymphocytes T CD4+ circulants",
+   "Les Treg naïfs expriment constitutivement la chaîne alpha du récepteur à l'IL-2 (CD25)",
+   "Les Treg prolifèrent indépendamment de toute cytokine",
+   "Un apport d'IL-2 favorise le maintien du pool des Treg"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'IL-2 est la cytokine de survie indispensable des Treg.",
+   "Exact : cette proportion définit le compartiment régulateur physiologique.",
+   "Exact : le CD25 constitutif rend les Treg très sensibles à l'IL-2.",
+   "Faux : sans IL-2, les Treg déclinent rapidement.",
+   "Exact : l'IL-2 soutient l'expansion et la fonction suppressive des Treg."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'action fratricide des Treg, lesquelles sont exactes ?",
+  "options": [
+   "Après clairance virale, les LTc activés peuvent mourir par action des LTreg",
+   "Cette mort des LTc activés correspond à une mort induite par activation (AICD)",
+   "Elle participe au retour au silence de la réponse immunitaire cytotoxique",
+   "Les Treg protègent les LTc activés de l'apoptose",
+   "Ce mécanisme prévient la persistance d'effecteurs potentiellement immunopathologiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les LTreg induisent la mort des LTc activés une fois l'antigène éliminé.",
+   "Exact : cette élimination est une forme d'AICD médiée par les Treg.",
+   "Exact : elle contribue à la contraction et au silence post-réponse.",
+   "Faux : les Treg provoquent au contraire leur élimination.",
+   "Exact : supprimer les effecteurs résiduels limite les dégâts tissulaires."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les lymphocytes Tr1, lesquelles sont exactes ?",
+  "options": [
+   "Les Tr1 sont des lymphocytes T régulateurs induits producteurs d'IL-10",
+   "Ils se différencient en périphérie sous l'influence de l'IL-10 et de DC tolérogènes",
+   "Ils suppriment les réponses inflammatoires notamment au niveau muqueux",
+   "Ils expriment Foxp3 de façon constitutive comme les nTreg",
+   "Ils participent à la tolérance orale et à la régulation anti-parasitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la production massive d'IL-10 définit les Tr1.",
+   "Exact : l'environnement tolérogène (IL-10, DC immatures) les induit.",
+   "Exact : ils contrôlent l'inflammation intestinale et les réponses excessives.",
+   "Faux : les Tr1 sont Foxp3-négatifs, distincts des Treg classiques.",
+   "Exact : ils sont impliqués dans la tolérance muqueuse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les lymphocytes Th3, lesquelles sont exactes ?",
+  "options": [
+   "Les Th3 sont des lymphocytes régulateurs induits producteurs de TGF-bêta",
+   "Ils participent à la tolérance orale aux antigènes alimentaires",
+   "Le TGF-bêta qu'ils produisent inhibe les réponses inflammatoires",
+   "Ils sont les principaux producteurs d'IFN-gamma",
+   "Ils dérivent de lymphocytes T CD4 naïfs exposés à l'antigène en contexte tolérogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la sécrétion de TGF-bêta caractérise les Th3.",
+   "Exact : ils ont été décrits dans les modèles de tolérance orale.",
+   "Exact : le TGF-bêta supprime l'activation des effecteurs.",
+   "Faux : l'IFN-gamma est la cytokine signature des Th1.",
+   "Exact : comme les autres iTreg, ils naissent en périphérie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant CTLA-4 et les Treg, lesquelles sont exactes ?",
+  "options": [
+   "CTLA-4 est exprimé constitutivement par les Treg",
+   "CTLA-4 entre en compétition avec CD28 pour la liaison aux molécules B7",
+   "Par CTLA-4, les Treg réduisent l'expression de B7 sur les cellules dendritiques",
+   "Cette action rend les cellules dendritiques moins aptes à activer les LT naïfs",
+   "CTLA-4 est un récepteur activateur des lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : contrairement aux effecteurs, les Treg expriment CTLA-4 en permanence.",
+   "Exact : CTLA-4 lie B7 avec une affinité supérieure à CD28.",
+   "Exact : la trans-endocytose de B7 par CTLA-4 dépouille les DC.",
+   "Exact : des DC appauvries en B7 deviennent tolérogènes.",
+   "Faux : CTLA-4 délivre un signal inhibiteur."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les Treg et les infections, lesquelles sont exactes ?",
+  "options": [
+   "Les Treg limitent l'immunopathologie au cours des infections",
+   "Un excès de Treg peut favoriser la persistance de certains pathogènes",
+   "Les Treg sont indispensables à l'élimination des virus",
+   "Dans les infections chroniques, les Treg contribuent à l'épuisement des effecteurs",
+   "Les Treg n'interviennent que dans l'auto-immunité"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : ils préviennent les dégâts tissulaires liés à une réponse excessive.",
+   "Exact : une suppression trop marquée compromet la clairance microbienne.",
+   "Faux : ce sont les effecteurs qui éliminent les pathogènes, freinés par les Treg.",
+   "Exact : avec PD-1, ils participent à l'exhaustion des LT en infection chronique.",
+   "Faux : leur rôle régulateur s'exerce aussi dans l'infection et l'inflammation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'induction des iTreg, lesquelles sont exactes ?",
+  "options": [
+   "Les cellules dendritiques tolérogènes favorisent la différenciation en iTreg",
+   "Le TGF-bêta induit l'expression de Foxp3 dans les LT CD4 naïfs",
+   "L'acide rétinoïque potentialise l'induction des iTreg au niveau muqueux",
+   "L'IL-6 associée au TGF-bêta oriente vers les Th17 plutôt que vers les iTreg",
+   "Tout contexte inflammatoire induit des iTreg"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : DC immatures et environnement non inflammatoire génèrent des iTreg.",
+   "Exact : le TGF-bêta est le facteur clé de la conversion Foxp3+.",
+   "Exact : l'acide rétinoïque des DC intestinales favorise les iTreg.",
+   "Exact : l'IL-6 bascule la différenciation TGF-bêta-dépendante vers Th17.",
+   "Faux : l'inflammation oriente vers les effecteurs, pas vers les régulateurs."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les Treg et l'allergie, lesquelles sont exactes ?",
+  "options": [
+   "Les Treg contrôlent les réponses Th2 dirigées contre les allergènes",
+   "La désensibilisation allergénique s'accompagne d'une induction de Treg spécifiques",
+   "Les Treg induits produisent de l'IL-10 qui freine la production d'IgE",
+   "Un déficit en Treg favorise les manifestations allergiques",
+   "Les Treg stimulent la dégranulation des mastocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les Treg répriment les réponses Th2 anti-allergènes.",
+   "Exact : l'immunothérapie allergénique induit des Treg et des IgG4 bloquants.",
+   "Exact : l'IL-10 inhibe la commutation vers les IgE.",
+   "Exact : l'insuffisance régulatrice expose à l'atopie.",
+   "Faux : les Treg inhibent au contraire l'activation des mastocytes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la suppression par contact des Treg, lesquelles sont exactes ?",
+  "options": [
+   "Les Treg expriment des molécules membranaires suppressives (CTLA-4, LAG-3)",
+   "Le contact Treg–cellule dendritique module la fonction présentatrice",
+   "Les Treg peuvent tuer des cellules cibles par la voie granzyme/perforine",
+   "La suppression par les Treg nécessite toujours la sécrétion de cytokines",
+   "La molécule CD39/CD73 des Treg génère de l'adénosine immunosuppressive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : CTLA-4 et LAG-3 membranaires participent à la suppression.",
+   "Exact : les Treg rendent les DC tolérogènes par contact.",
+   "Exact : la cytotoxicité Treg élimine effecteurs et CPA.",
+   "Faux : la suppression par contact est indépendante des cytokines.",
+   "Exact : l'adénosine produite inhibe les LT effecteurs via leurs récepteurs."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les Treg dans les muqueuses, lesquelles sont exactes ?",
+  "options": [
+   "Les Treg intestinaux maintiennent la tolérance vis-à-vis du microbiote",
+   "Ils préviennent les colites inflammatoires expérimentales",
+   "Leur induction dépend des DC CD103+ et de l'acide rétinoïque",
+   "Les muqueuses sont dépourvues de lymphocytes T régulateurs",
+   "Un défaut de Treg muqueux expose aux maladies inflammatoires chroniques intestinales"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la tolérance au microbiote repose sur les Treg intestinaux.",
+   "Exact : le transfert de Treg protège des modèles de colite.",
+   "Exact : les DC CD103+ tolérogènes orchestrent cette induction.",
+   "Faux : les muqueuses sont riches en Treg.",
+   "Exact : l'insuffisance régulatrice favorise les MICI."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le suivi biologique des Treg, lesquelles sont exactes ?",
+  "options": [
+   "La cytométrie en flux permet de quantifier les LT CD4+CD25highFoxp3+",
+   "Une diminution des Treg circulants peut accompagner les poussées auto-immunes",
+   "L'expression de Foxp3 est mesurée en intracellulaire en cytométrie",
+   "Le dosage des Treg repose sur le dosage pondéral des immunoglobulines",
+   "Une expansion des Treg peut être observée dans certains cancers"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : ce phénotype identifie les Treg en cytométrie.",
+   "Exact : la baisse relative des Treg corrèle avec l'activité auto-immune.",
+   "Exact : Foxp3 étant nucléaire, sa détection est intracellulaire.",
+   "Faux : le dosage des Ig explore l'immunité humorale, pas les Treg.",
+   "Exact : les tumeurs peuvent expandre les Treg suppresseurs."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les stratégies thérapeutiques ciblant les Treg, lesquelles sont exactes ?",
+  "options": [
+   "L'IL-2 à faible dose est utilisée pour expandre les Treg en auto-immunité",
+   "La thérapie cellulaire par Treg expansés ex vivo est à l'étude en transplantation",
+   "La déplétion des Treg est explorée en immunothérapie anti-tumorale",
+   "L'administration d'anti-CTLA-4 vise à stimuler les Treg",
+   "Les inhibiteurs de mTOR (sirolimus) épargnent relativement les Treg"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les faibles doses d'IL-2 expandent préférentiellement les Treg CD25+.",
+   "Exact : l'infusion de Treg vise la tolérance du greffon.",
+   "Exact : lever la suppression Treg potentialise l'immunité anti-tumorale.",
+   "Faux : les anti-CTLA-4 libèrent les effecteurs du frein régulateur.",
+   "Exact : le sirolimus favorise les Treg au détriment des effecteurs."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les Treg et la vaccination, lesquelles sont exactes ?",
+  "options": [
+   "Un excès de Treg au moment vaccinal peut atténuer la réponse immunitaire",
+   "Certains adjuvants limitent l'induction de Treg pour favoriser l'immunogénicité",
+   "Les vaccins vivants induisent systématiquement une tolérance par les Treg",
+   "La mémoire immunitaire vaccinale persiste malgré la présence des Treg",
+   "Les Treg empêchent toute réponse vaccinale"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : une suppression excessive réduit l'expansion des effecteurs vaccinaux.",
+   "Exact : l'adjuvant oriente vers l'activation en limitant la régulation.",
+   "Faux : les vaccins vivants induisent une forte immunité, pas une tolérance.",
+   "Exact : la régulation n'abolit pas l'établissement de la mémoire.",
+   "Faux : la régulation module sans abolir la réponse vaccinale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la plasticité des Treg, lesquelles sont exactes ?",
+  "options": [
+   "En contexte fortement inflammatoire, des Treg peuvent perdre Foxp3 (ex-Treg)",
+   "Les ex-Treg peuvent acquérir des fonctions effectrices pro-inflammatoires",
+   "L'IL-6 et l'IL-1 favorisent l'instabilité des Treg",
+   "Le phénotype Treg est absolument irréversible en toutes circonstances",
+   "La stabilité des Treg repose sur la déméthylation de la région TSDR de FOXP3"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'inflammation peut déstabiliser le programme Foxp3.",
+   "Exact : les ex-Treg peuvent produire IL-17 ou IFN-gamma.",
+   "Exact : ces cytokines pro-inflammatoires compromettent la stabilité régulatrice.",
+   "Faux : une plasticité existe, surtout pour les iTreg.",
+   "Exact : la déméthylation du TSDR verrouille l'expression stable de Foxp3."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les Treg CD8+, lesquelles sont exactes ?",
+  "options": [
+   "Il existe des populations régulatrices au sein des lymphocytes T CD8+",
+   "Elles peuvent supprimer les réponses effectrices par contact ou cytokines",
+   "Elles sont aussi nombreuses que les Treg CD4+ en conditions physiologiques",
+   "Elles participent à la tolérance périphérique dans certains modèles",
+   "Les CD8 régulateurs produisent exclusivement de la perforine cytotoxique"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : des CD8 suppresseurs (Qa-1 restreints, CD8+CD28-) sont décrits.",
+   "Exact : leurs mécanismes recoupent ceux des Treg CD4+.",
+   "Faux : elles sont minoritaires par rapport aux Treg CD4+.",
+   "Exact : elles contribuent au contrôle périphérique dans plusieurs modèles.",
+   "Faux : elles exercent une suppression, pas une cytotoxicité effectrice classique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le rôle des Treg dans l'hypersensibilité retardée, lesquelles sont exactes ?",
+  "options": [
+   "Les Treg limitent l'intensité de l'hypersensibilité retardée médiée par les Th1",
+   "Un déficit en Treg aggrave les réactions d'hypersensibilité de type IV",
+   "Les Treg favorisent l'hypersensibilité retardée",
+   "L'IL-10 des Treg inhibe l'activation macrophagique de l'HSR",
+   "La tuberculine (IDR) est totalement indépendante de la régulation Treg"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : les Treg freinent les effecteurs Th1 de l'HSR.",
+   "Exact : sans frein régulateur, la réaction granulomateuse s'exagère.",
+   "Faux : les Treg répriment l'HSR, ils ne la favorisent pas.",
+   "Exact : l'IL-10 bloque l'activation des macrophages effecteurs.",
+   "Faux : comme toute réponse Th1, l'IDR est modulée par les Treg."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'interleukine-10, lesquelles sont exactes ?",
+  "options": [
+   "L'IL-10 est une cytokine anti-inflammatoire majeure",
+   "Elle est produite par les Treg, les Th2 et les macrophages activés",
+   "Elle inhibe la production de cytokines pro-inflammatoires par les macrophages",
+   "Elle stimule la différenciation des lymphocytes Th1",
+   "Elle réduit l'expression des molécules du CMH de classe II sur les monocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'IL-10 est la cytokine anti-inflammatoire prototypique.",
+   "Exact : ces trois sources contribuent au pool d'IL-10 régulatrice.",
+   "Exact : elle éteint la production de TNF-alpha, IL-1 et IL-6.",
+   "Faux : elle inhibe au contraire la voie Th1.",
+   "Exact : elle diminue la présentation antigénique monocytaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le TGF-bêta, lesquelles sont exactes ?",
+  "options": [
+   "Le TGF-bêta inhibe la prolifération des lymphocytes T et B",
+   "Il favorise la différenciation des lymphocytes T régulateurs induits",
+   "Il possède une activité anti-inflammatoire et tolérogène",
+   "Il stimule la prolifération des lymphocytes effecteurs",
+   "En excès chronique, il favorise la fibrose tissulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le TGF-bêta est un puissant inhibiteur de la prolifération lymphocytaire.",
+   "Exact : il induit Foxp3 et la conversion en iTreg.",
+   "Exact : il est central dans la tolérance périphérique et muqueuse.",
+   "Faux : il freine les effecteurs au lieu de les stimuler.",
+   "Exact : son excès chronique active les fibroblastes et la fibrogenèse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la régulation croisée Th1/Th2, lesquelles sont exactes ?",
+  "options": [
+   "L'IFN-gamma produit par les Th1 inhibe la différenciation Th2",
+   "L'IL-4 et l'IL-10 produites dans la voie Th2 inhibent la différenciation Th1",
+   "Cette inhibition réciproque polarise la réponse immunitaire",
+   "Les voies Th1 et Th2 se stimulent mutuellement",
+   "La polarisation Th1/Th2 participe à la régulation de l'intensité inflammatoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'IFN-gamma bloque la voie Th2.",
+   "Exact : IL-4 et IL-10 freinent la voie Th1.",
+   "Exact : cette antagonisme verrouille la polarisation choisie.",
+   "Faux : elles s'inhibent réciproquement, elles ne se stimulent pas.",
+   "Exact : l'équilibre Th1/Th2 module le profil inflammatoire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les cytokines pro-inflammatoires, lesquelles sont exactes ?",
+  "options": [
+   "L'IL-1, l'IL-6 et le TNF-alpha sont des cytokines pro-inflammatoires majeures",
+   "Elles sont principalement produites par les macrophages activés",
+   "Elles favorisent la fièvre, la phase aiguë et le recrutement leucocytaire",
+   "Leur blocage thérapeutique (anti-TNF) est utilisé dans les maladies inflammatoires",
+   "Elles exercent une activité immunosuppressive comparable à l'IL-10"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : ce trio initie et amplifie l'inflammation.",
+   "Exact : le macrophage activé en est la source principale.",
+   "Exact : fièvre, CRP et chimiotactisme en sont les effets systémiques.",
+   "Exact : les anti-TNF sont des biothérapies de référence.",
+   "Faux : elles sont pro-inflammatoires, à l'opposé de l'IL-10."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'IL-35, lesquelles sont exactes ?",
+  "options": [
+   "L'IL-35 est une cytokine immunosuppressive produite par les Treg",
+   "Elle inhibe la prolifération des lymphocytes T effecteurs",
+   "Elle favorise la conversion de LT naïfs en cellules régulatrices (iTr35)",
+   "Elle est une cytokine pro-inflammatoire de la famille de l'IL-17",
+   "Elle participe au maintien de la tolérance périphérique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'IL-35 (EBI3/p35) est sécrétée par les Treg.",
+   "Exact : elle bloque l'expansion des effecteurs.",
+   "Exact : elle induit des régulateurs producteurs d'IL-35.",
+   "Faux : elle est anti-inflammatoire, sans lien avec l'IL-17.",
+   "Exact : elle complète IL-10 et TGF-bêta dans la suppression."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les cytokines et la commutation de classe, lesquelles sont exactes ?",
+  "options": [
+   "Les cytokines orientent la commutation isotypique sous l'action du centre germinatif",
+   "L'IL-4 favorise la commutation vers les IgE",
+   "L'IFN-gamma favorise la commutation vers certaines sous-classes d'IgG",
+   "Le TGF-bêta favorise la commutation vers les IgA",
+   "La commutation de classe est indépendante de tout signal cytokinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le contexte cytokinique détermine l'isotype produit.",
+   "Exact : l'IL-4 (Th2) dirige la commutation IgE.",
+   "Exact : l'IFN-gamma (Th1) oriente vers les IgG opsonisantes.",
+   "Exact : le TGF-bêta dirige la commutation muqueuse IgA.",
+   "Faux : sans cytokines, la commutation isotypique n'a pas lieu."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'IL-4 comme cytokine régulatrice, lesquelles sont exactes ?",
+  "options": [
+   "L'IL-4 est produite par les lymphocytes Th2",
+   "Elle favorise la prolifération et la différenciation des lymphocytes B",
+   "Elle inhibe la différenciation des lymphocytes Th1",
+   "Elle stimule la différenciation des Th1 producteurs d'IFN-gamma",
+   "Elle participe à la défense contre les helminthes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'IL-4 est la cytokine signature des Th2.",
+   "Exact : elle est le facteur de croissance et de différenciation des LB.",
+   "Exact : elle antagonise la polarisation Th1.",
+   "Faux : elle s'oppose à la voie Th1/IFN-gamma.",
+   "Exact : la réponse Th2/IL-4 lutte contre les parasitoses à helminthes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le rôle régulateur des cytokines sur les macrophages, lesquelles sont exactes ?",
+  "options": [
+   "L'IFN-gamma active les macrophages et leurs fonctions microbicides",
+   "L'IL-10 désactive les macrophages et réduit leur production de TNF-alpha",
+   "Le TGF-bêta inhibe l'activation macrophagique",
+   "Toutes les cytokines activent indistinctement les macrophages",
+   "L'équilibre IFN-gamma/IL-10 règle le niveau d'activation macrophagique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'IFN-gamma est l'activateur majeur des macrophages.",
+   "Exact : l'IL-10 éteint les fonctions pro-inflammatoires macrophagiques.",
+   "Exact : le TGF-bêta freine l'activation des phagocytes.",
+   "Faux : les cytokines ont des effets opposés selon leur nature.",
+   "Exact : ce rapport détermine l'intensité de la réponse innée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les chimiokines, lesquelles sont exactes ?",
+  "options": [
+   "Les chimiokines dirigent la migration des leucocytes vers les sites inflammatoires",
+   "Elles organisent le positionnement des lymphocytes dans les organes lymphoïdes",
+   "Leur excès non régulé entretient l'inflammation chronique",
+   "Elles sont des anticorps neutralisants",
+   "Leur production est modulée par les cytokines pro- et anti-inflammatoires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le chimiotactisme guide les leucocytes vers l'inflammation.",
+   "Exact : CCL19/CCL21 et CXCL13 structurent ganglions et follicules.",
+   "Exact : la persistance des chimiokines chronicise le recrutement.",
+   "Faux : ce sont des petites protéines chimioattractantes, pas des anticorps.",
+   "Exact : TNF-alpha les induit, IL-10 les réprime."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les interférons de type I, lesquelles sont exactes ?",
+  "options": [
+   "Les IFN-alpha/bêta sont produits précocement lors des infections virales",
+   "Ils induisent un état antiviral dans les cellules voisines",
+   "Leur production excessive non régulée peut favoriser l'auto-immunité",
+   "Ils stimulent la prolifération virale",
+   "Leur signalisation doit être éteinte après clairance virale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les cellules infectées sécrètent rapidement les IFN de type I.",
+   "Exact : ils induisent les gènes antiviraux (PKR, Mx) des cellules adjacentes.",
+   "Exact : une signature interféron chronique est impliquée dans le lupus.",
+   "Faux : ils inhibent la réplication virale.",
+   "Exact : la persistance du signal interféron est immunopathologique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'IL-6, lesquelles sont exactes ?",
+  "options": [
+   "L'IL-6 est une cytokine pro-inflammatoire de la phase aiguë",
+   "Elle stimule la production hépatique de CRP",
+   "Associée au TGF-bêta, elle oriente la différenciation vers les Th17",
+   "Elle inhibe la différenciation des lymphocytes T régulateurs",
+   "Elle est une cytokine immunosuppressive majeure"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-6 initie la réponse inflammatoire systémique.",
+   "Exact : elle induit les protéines de la phase aiguë dont la CRP.",
+   "Exact : IL-6 + TGF-bêta = programme Th17 pro-inflammatoire.",
+   "Exact : elle antagonise la voie iTreg au profit des Th17.",
+   "Faux : l'IL-6 est pro-inflammatoire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la signalisation cytokinique et sa régulation, lesquelles sont exactes ?",
+  "options": [
+   "Les protéines SOCS exercent un rétrocontrôle négatif sur la signalisation JAK-STAT",
+   "Les cytokines induisent leurs propres inhibiteurs pour limiter la réponse",
+   "Un défaut de SOCS expose à une signalisation cytokinique excessive",
+   "La signalisation cytokinique est irréversible une fois déclenchée",
+   "Les récepteurs leurres (decoy) captent les cytokines sans transmettre de signal"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les SOCS bloquent les JAK et éteignent la signalisation.",
+   "Exact : ce rétrocontrôle négatif est un principe général de régulation.",
+   "Exact : sans SOCS, l'inflammation devient incontrôlée.",
+   "Faux : de multiples freins (SOCS, internalisation, leurres) l'éteignent.",
+   "Exact : les récepteurs solubles neutralisent les cytokines circulantes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le TNF-alpha, lesquelles sont exactes ?",
+  "options": [
+   "Le TNF-alpha est produit principalement par les macrophages activés",
+   "Il favorise l'inflammation locale et le recrutement leucocytaire",
+   "Sa production est inhibée par l'IL-10",
+   "Les anti-TNF sont utilisés dans la polyarthrite rhumatoïde et les MICI",
+   "Le TNF-alpha est une cytokine anti-inflammatoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le macrophage activé est la source majeure de TNF-alpha.",
+   "Exact : il active l'endothélium et amplifie l'inflammation.",
+   "Exact : l'IL-10 réprime sa synthèse.",
+   "Exact : infliximab et adalimumab en sont des exemples.",
+   "Faux : le TNF-alpha est prototypiquement pro-inflammatoire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'équilibre cytokinique global, lesquelles sont exactes ?",
+  "options": [
+   "L'issue de la réponse immunitaire dépend du rapport cytokines pro/anti-inflammatoires",
+   "Les Treg sécrètent TGF-bêta et IL-10 pour faire pencher la balance vers la régulation",
+   "Les Th17 sécrètent l'IL-17 à activité pro-inflammatoire",
+   "Un déséquilibre vers le versant pro-inflammatoire favorise auto-immunité et inflammation chronique",
+   "Les cytokines agissent indépendamment les unes des autres sans interaction"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : c'est la résultante du réseau cytokinique qui décide.",
+   "Exact : ces deux cytokines sont les effecteurs suppresseurs des Treg.",
+   "Exact : l'IL-17 recrute les polynucléaires et entretient l'inflammation.",
+   "Exact : l'excès Th17/Th1 non contrebalancé est pathogène.",
+   "Faux : les cytokines forment un réseau d'interactions synergiques et antagonistes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant CTLA-4, lesquelles sont exactes ?",
+  "options": [
+   "CTLA-4 est un récepteur inhibiteur exprimé après activation du lymphocyte T",
+   "Il entre en compétition avec CD28 pour la liaison aux molécules B7 (CD80/CD86)",
+   "Son affinité pour B7 est supérieure à celle de CD28",
+   "Il transmet un signal activateur qui amplifie la réponse T",
+   "Son blocage thérapeutique potentialise les réponses T anti-tumorales"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : CTLA-4 apparaît à la surface après l'activation comme frein.",
+   "Exact : il capte CD80/CD86 et prive CD28 de costimulation.",
+   "Exact : cette avidité supérieure en fait un compétiteur efficace.",
+   "Faux : CTLA-4 délivre un signal inhibiteur.",
+   "Exact : l'ipilimumab (anti-CTLA-4) libère les effecteurs anti-tumoraux."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'axe PD-1/PD-L1, lesquelles sont exactes ?",
+  "options": [
+   "PD-1 est un récepteur inhibiteur exprimé par les lymphocytes T activés",
+   "PD-L1 est exprimé par de nombreux tissus et par les cellules tumorales",
+   "L'engagement de PD-1 freine l'activation et la survie du lymphocyte T",
+   "Les anti-PD-1 restaurent la fonction des LT épuisés",
+   "PD-1 est un récepteur activateur de la prolifération lymphocytaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : PD-1 marque les LT activés puis épuisés.",
+   "Exact : son ligand protège les tissus et permet l'échappement tumoral.",
+   "Exact : la signalisation PD-1 inhibe la voie du TCR.",
+   "Exact : nivolumab/pembrolizumab réveillent les LT anti-tumoraux.",
+   "Faux : PD-1 est un checkpoint inhibiteur."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'épuisement lymphocytaire (exhaustion), lesquelles sont exactes ?",
+  "options": [
+   "Il survient lors d'une stimulation antigénique chronique (infections, cancers)",
+   "Les LT épuisés co-expriment plusieurs récepteurs inhibiteurs (PD-1, TIM-3, LAG-3)",
+   "Leurs fonctions effectrices (cytokines, cytotoxicité) déclinent progressivement",
+   "Le blocage des checkpoints peut partiellement réverser l'épuisement",
+   "L'épuisement est identique à la mémoire immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la persistance de l'antigène use les effecteurs.",
+   "Exact : l'accumulation de checkpoints signe l'exhaustion.",
+   "Exact : perte hiérarchisée d'IL-2, TNF puis IFN-gamma.",
+   "Exact : les anti-PD-1 restaurent partiellement leurs fonctions.",
+   "Faux : la mémoire est protectrice et fonctionnelle, l'épuisement est dysfonctionnel."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les effets indésirables des inhibiteurs de checkpoints, lesquelles sont exactes ?",
+  "options": [
+   "Ils peuvent déclencher des atteintes auto-immunes (colite, thyroïdite, hypophysite)",
+   "Ces toxicités traduisent une levée du frein régulateur physiologique",
+   "La colite sous anti-CTLA-4 est un effet indésirable classique",
+   "Leur toxicité impose une surveillance et parfois des corticoïdes",
+   "Ils sont dépourvus de tout effet indésirable immunologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les irAEs mimant l'auto-immunité sont fréquentes.",
+   "Exact : lever les checkpoints rompt la tolérance périphérique.",
+   "Exact : la colite immuno-induite est typique de l'ipilimumab.",
+   "Exact : corticoïdes voire anti-TNF sont utilisés en cas sévère.",
+   "Faux : les toxicités immunes sont leur principal risque."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'abatacept (CTLA-4-Ig), lesquelles sont exactes ?",
+  "options": [
+   "C'est une protéine de fusion CTLA-4–fragment Fc d'immunoglobuline",
+   "Elle capte les molécules B7 et bloque la costimulation CD28",
+   "Elle est utilisée dans la polyarthrite rhumatoïde",
+   "Elle stimule l'activation des lymphocytes T",
+   "Elle mime le frein physiologique CTLA-4 pour restaurer la régulation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'abatacept associe le domaine extracellulaire de CTLA-4 au Fc.",
+   "Exact : en séquestrant B7, il prive les LT du signal 2.",
+   "Exact : il est indiqué dans la PR et l'arthrite juvénile.",
+   "Faux : il inhibe l'activation T.",
+   "Exact : c'est une stratégie tolérogène biomimétique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les autres récepteurs inhibiteurs, lesquelles sont exactes ?",
+  "options": [
+   "LAG-3 est un récepteur inhibiteur exprimé par les LT activés et les Treg",
+   "TIM-3 marque les LT épuisés dans les infections chroniques et les cancers",
+   "TIGIT inhibe les réponses T et NK",
+   "Ces récepteurs sont des cibles d'immunothérapies en développement",
+   "Il n'existe aucun récepteur inhibiteur autre que CTLA-4 et PD-1"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : LAG-3 (CD223) freine l'activation T.",
+   "Exact : TIM-3 signe l'exhaustion avancée.",
+   "Exact : TIGIT est un checkpoint des LT et NK.",
+   "Exact : anti-LAG-3 (relatlimab) et anti-TIM-3 sont en essai.",
+   "Faux : la famille des checkpoints est large."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la balance signaux activateurs/inhibiteurs, lesquelles sont exactes ?",
+  "options": [
+   "L'activation du lymphocyte T résulte de l'intégration de signaux positifs et négatifs",
+   "CD28 et CTLA-4 partagent les mêmes ligands B7 avec des effets opposés",
+   "La prédominance des signaux inhibiteurs conduit à l'anergie ou à l'épuisement",
+   "Seuls les signaux activateurs comptent dans la décision d'activation",
+   "Cette balance est une cible thérapeutique en auto-immunité comme en cancérologie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la synapse intègre costimulateurs et co-inhibiteurs.",
+   "Exact : même ligands, effets antagonistes selon le récepteur engagé.",
+   "Exact : l'excès d'inhibition éteint ou use le lymphocyte.",
+   "Faux : les signaux négatifs sont déterminants.",
+   "Exact : freiner (auto-immunité) ou libérer (cancer) selon le contexte."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant PD-L1 et l'échappement tumoral, lesquelles sont exactes ?",
+  "options": [
+   "De nombreuses tumeurs surexpriment PD-L1 pour inhiber les LT infiltrants",
+   "L'IFN-gamma produit par les LT peut induire PD-L1 sur la tumeur (résistance adaptative)",
+   "Le blocage de l'axe PD-1/PD-L1 restaure l'attaque anti-tumorale",
+   "L'expression de PD-L1 est un biomarqueur potentiel de réponse aux anti-PD-1",
+   "Les tumeurs n'expriment jamais PD-L1"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : PD-L1 tumoral éteint les LT spécifiques au contact.",
+   "Exact : l'inflammation anti-tumorale induit paradoxalement PD-L1.",
+   "Exact : lever ce frein réactive la cytotoxicité.",
+   "Exact : son expression guide l'indication dans plusieurs cancers.",
+   "Faux : son expression tumorale est fréquente."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les checkpoints et la tolérance, lesquelles sont exactes ?",
+  "options": [
+   "Les souris déficientes en CTLA-4 développent une lymphoprolifération auto-immune létale",
+   "Les souris déficientes en PD-1 développent des atteintes auto-immunes tardives",
+   "Ces phénotypes démontrent le rôle des checkpoints dans la tolérance périphérique",
+   "Les checkpoints sont inutiles au maintien de la tolérance",
+   "Le polymorphisme de CTLA-4 est associé à des maladies auto-immunes humaines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le KO CTLA-4 est létal par activation lymphocytaire massive.",
+   "Exact : le KO PD-1 donne lupus-like et cardiomyopathie selon le fond génétique.",
+   "Exact : ces modèles prouvent leur rôle tolérogène.",
+   "Faux : ils sont indispensables au contrôle périphérique.",
+   "Exact : CTLA-4 est un locus de susceptibilité (diabète type 1, Basedow)."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la signalisation inhibitrice intracellulaire, lesquelles sont exactes ?",
+  "options": [
+   "Les récepteurs inhibiteurs recrutent des phosphatases (SHP-1, SHP-2, SHIP)",
+   "Ces phosphatases déphosphorylent les effecteurs de la voie du TCR",
+   "CTLA-4 interfère avec la signalisation CD28 via la phosphatase PP2A",
+   "Les récepteurs inhibiteurs activent les kinases du TCR",
+   "Ce frein biochimique explique la rapidité de l'inhibition"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : motifs ITIM/ITSM recrutant SHP-1/2.",
+   "Exact : la déphosphorylation éteint la cascade d'activation.",
+   "Exact : PP2A contrecarre la voie CD28-PI3K-Akt.",
+   "Faux : ils recrutent des phosphatases, pas des kinases activatrices.",
+   "Exact : la déphosphorylation coupe le signal en quelques minutes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'utilisation diagnostique des checkpoints, lesquelles sont exactes ?",
+  "options": [
+   "L'expression de PD-1 identifie les LT activés ou épuisés en cytométrie",
+   "PD-L1 tumoral est recherché en immunohistochimie avant anti-PD-1",
+   "Le dosage des checkpoints solubles est un marqueur validé en routine",
+   "CTLA-4 membranaire identifie les Treg en cytométrie",
+   "Les checkpoints n'ont aucun intérêt en diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : PD-1 est un marqueur d'activation/exhaustion.",
+   "Exact : l'IHC PD-L1 guide plusieurs indications.",
+   "Faux : les formes solubles restent des biomarqueurs de recherche.",
+   "Exact : CTLA-4 constitutif caractérise les Treg.",
+   "Faux : ils ont une utilité diagnostique et théranostique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la combinaison d'immunothérapies, lesquelles sont exactes ?",
+  "options": [
+   "L'association anti-CTLA-4 + anti-PD-1 potentialise les réponses anti-tumorales",
+   "Cette combinaison augmente aussi le risque de toxicités auto-immunes",
+   "Elle lève deux freins complémentaires (amorçage ganglionnaire et phase effectrice tissulaire)",
+   "Les combinaisons de checkpoints sont dépourvues de rationnel immunologique",
+   "La séquence et les doses modulent le rapport efficacité/toxicité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la bithérapie surpasse les monothérapies dans le mélanome.",
+   "Exact : les irAEs graves sont plus fréquentes en combinaison.",
+   "Exact : CTLA-4 agit à l'amorçage, PD-1 dans les tissus.",
+   "Faux : leur complémentarité mécanistique est démontrée.",
+   "Exact : l'optimisation posologique vise à découpler efficacité et toxicité."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la contraction de la réponse immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle fait suite à l'élimination de l'antigène déclenchant",
+   "La grande majorité des lymphocytes effecteurs est éliminée par apoptose",
+   "Elle permet le retour à l'homéostasie lymphocytaire",
+   "Les cellules mémoires sont épargnées par la contraction",
+   "Elle correspond à une immunodéficience secondaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la disparition du stimulus antigénique déclenche la contraction.",
+   "Exact : 90 à 95 % des effecteurs meurent par apoptose.",
+   "Exact : elle restaure le nombre basal de lymphocytes.",
+   "Exact : les précurseurs mémoires survivent grâce à Bcl-2 et aux cytokines de survie.",
+   "Faux : c'est un processus physiologique de régulation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'axe Fas/FasL dans l'AICD, lesquelles sont exactes ?",
+  "options": [
+   "Fas (CD95) est un récepteur de mort exprimé par les lymphocytes T activés",
+   "FasL est exprimé par les lymphocytes T activés de façon répétée",
+   "L'engagement de Fas déclenche la cascade des caspases et l'apoptose",
+   "Les mutations de Fas ou FasL causent le syndrome lymphoprolifératif auto-immun (ALPS)",
+   "Fas transmet un signal de prolifération aux lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'activation induit l'expression du récepteur de mort CD95.",
+   "Exact : la restimulation fait exprimer le ligand aux LT.",
+   "Exact : le DISC recrute la caspase-8 initiatrice.",
+   "Exact : l'ALPS associe adénopathies, splénomégalie et auto-immunité.",
+   "Faux : Fas est prototypiquement pro-apoptotique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les protéines Bcl-2 et Bim, lesquelles sont exactes ?",
+  "options": [
+   "Bcl-2 est une protéine anti-apoptotique favorisant la survie lymphocytaire",
+   "Bim est une protéine pro-apoptotique éliminant les effecteurs après la réponse",
+   "L'équilibre Bim/Bcl-2 détermine le destin survie ou mort du lymphocyte activé",
+   "Les cellules mémoires expriment des niveaux élevés de Bcl-2",
+   "Bcl-2 favorise l'apoptose des lymphocytes mémoires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Bcl-2 bloque la perméabilisation mitochondriale.",
+   "Exact : Bim neutralise Bcl-2 et précipite l'apoptose des effecteurs.",
+   "Exact : ce rhéostat mitochondrial décide du destin cellulaire.",
+   "Exact : Bcl-2 élevé explique la longévité des mémoires.",
+   "Faux : Bcl-2 protège les mémoires de l'apoptose."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la mort par négligence (death by neglect), lesquelles sont exactes ?",
+  "options": [
+   "Elle résulte du sevrage en cytokines de survie après la réponse",
+   "Les effecteurs privés d'IL-2, d'IL-7 et d'IL-15 meurent par apoptose",
+   "Elle est distincte de l'AICD médiée par Fas",
+   "Elle concerne les lymphocytes naïfs en excès",
+   "Elle participe à la contraction post-infectieuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la chute des cytokines après clairance antigénique tue les effecteurs.",
+   "Exact : sans ces signaux trophiques, l'apoptose mitochondriale s'enclenche.",
+   "Exact : passive (sevrage) versus active (Fas) : deux voies d'élimination.",
+   "Faux : elle frappe les effecteurs activés, pas les naïfs.",
+   "Exact : elle complète l'AICD dans la contraction."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le rôle régulateur de l'apoptose, lesquelles sont exactes ?",
+  "options": [
+   "L'apoptose des effecteurs prévient l'immunopathologie tissulaire",
+   "Un défaut d'apoptose expose à la lymphoprolifération et à l'auto-immunité",
+   "L'apoptose élimine les plasmocytes à courte vie après la réponse humorale",
+   "L'apoptose entretient l'inflammation par libération de débris",
+   "L'apoptose des cellules cibles infectées limite la dissémination virale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : supprimer les effecteurs protège les tissus.",
+   "Exact : ALPS et modèles Bcl-2 transgéniques l'illustrent.",
+   "Exact : les plasmablastes à courte vie meurent après le pic d'anticorps.",
+   "Faux : l'apoptose est non inflammatoire, contrairement à la nécrose.",
+   "Exact : la lyse apoptotique par les LTc contient l'infection."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la cinétique de la contraction, lesquelles sont exactes ?",
+  "options": [
+   "Le pic de la réponse effectrice précède la phase de contraction",
+   "La contraction survient en quelques jours à semaines après le pic",
+   "Le pool mémoire se stabilise après la contraction",
+   "La contraction précède l'expansion clonale",
+   "Le nombre de cellules mémoires dépasse celui du pic effecteur"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : expansion puis contraction : l'ordre est immuable.",
+   "Exact : l'apoptose massive suit rapidement le pic.",
+   "Exact : les survivants forment un pool mémoire stable et durable.",
+   "Faux : l'expansion clonale précède toujours la contraction.",
+   "Faux : les mémoires ne représentent que 5 à 10 % du pic."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les signaux déclenchant la contraction, lesquelles sont exactes ?",
+  "options": [
+   "La disparition de l'antigène supprime le signal de survie via le TCR",
+   "La baisse des cytokines inflammatoires prive les effecteurs de signaux trophiques",
+   "La restimulation chronique des effecteurs déclenche l'AICD",
+   "L'augmentation des Treg favorise l'élimination des effecteurs résiduels",
+   "La persistance de l'antigène accélère la contraction"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : sans TCR engagé, les effecteurs perdent leur signal de survie.",
+   "Exact : le sevrage cytokinique précipite l'apoptose.",
+   "Exact : la restimulation induit FasL et l'AICD.",
+   "Exact : l'action fratricide des Treg élimine les LTc activés.",
+   "Faux : la persistance antigénique entretient l'activation voire l'épuisement."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les plasmocytes et la régulation, lesquelles sont exactes ?",
+  "options": [
+   "Les plasmablastes à courte vie meurent par apoptose après la réponse",
+   "Les plasmocytes à longue vie survivent dans les niches médullaires",
+   "La survie des plasmocytes à longue vie dépend de facteurs de niche (APRIL, IL-6)",
+   "Les plasmocytes à longue vie assurent la persistance des anticorps protecteurs",
+   "Tous les plasmocytes meurent dans les jours suivant la réponse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la vague précoce d'anticorps s'éteint avec ses producteurs.",
+   "Exact : la moelle osseuse abrite les plasmocytes durables.",
+   "Exact : APRIL/BAFF et IL-6 stromale maintiennent leur survie.",
+   "Exact : ils sécrètent les IgG protectrices pendant des années.",
+   "Faux : les plasmocytes à longue vie persistent des années."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la régulation de la durée de la réponse, lesquelles sont exactes ?",
+  "options": [
+   "La réponse immunitaire est par nature transitoire et autorégulée",
+   "Les mécanismes de contraction évitent une activation lymphocytaire permanente",
+   "Une réponse non contractée exposerait à l'immunopathologie",
+   "La mémoire immunitaire nécessite l'absence totale de contraction",
+   "Les rétrocontrôles négatifs (CTLA-4, IL-10, Treg) préparent la contraction"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : expansion, contraction, mémoire : le cycle est programmé.",
+   "Exact : l'arrêt programmé protège l'organisme.",
+   "Exact : une activation perpétuelle détruirait les tissus.",
+   "Faux : la mémoire naît des survivants de la contraction.",
+   "Exact : ces freins initient l'extinction de la réponse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'AICD des lymphocytes B, lesquelles sont exactes ?",
+  "options": [
+   "Les LB activés de façon répétée peuvent subir une AICD via Fas",
+   "Cette élimination limite l'expansion des clones B auto-réactifs",
+   "Les centres germinatifs sélectionnent les LB par apoptose des clones de faible affinité",
+   "L'AICD est exclusive aux lymphocytes T",
+   "La sélection dans le centre germinatif repose sur la compétition pour les signaux de survie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les LB activés expriment Fas et sont sensibles à l'AICD.",
+   "Exact : ce contrôle purge les clones dangereux.",
+   "Exact : seuls les centrocytes de haute affinité captent l'aide T et survivent.",
+   "Faux : les LB sont aussi soumis à l'AICD.",
+   "Exact : l'aide T limitée sélectionne les meilleurs clones."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la régulation de la réponse humorale, lesquelles sont exactes ?",
+  "options": [
+   "Les IgG produites exercent un rétrocontrôle négatif via le récepteur inhibiteur FcγRIIb",
+   "La coligation BCR–FcγRIIb par les complexes immuns éteint l'activation du LB",
+   "Ce rétrocontrôle limite la production d'anticorps une fois l'antigène neutralisé",
+   "Les anticorps stimulent indéfiniment la production de nouveaux anticorps",
+   "Un défaut de FcγRIIb prédispose à la production d'auto-anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : FcγRIIb est le frein humoral de l'activation B.",
+   "Exact : les complexes immuns IgG pontent BCR et FcγRIIb.",
+   "Exact : ce feedback négatif calibre la réponse humorale.",
+   "Faux : les IgG freinent au contraire la réponse.",
+   "Exact : la perte de ce frein favorise le lupus expérimental."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les auto-anticorps, lesquelles sont exactes ?",
+  "options": [
+   "Ils résultent de l'activation de lymphocytes B auto-réactifs échappant à la régulation",
+   "Ils sont recherchés en immunofluorescence ou ELISA dans les maladies auto-immunes",
+   "Les anticorps anti-nucléaires sont des marqueurs du lupus systémique",
+   "Leur présence est toujours strictement pathologique",
+   "Des auto-anticorps naturels de faible affinité existent chez le sujet sain"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la rupture de tolérance B libère les clones auto-réactifs.",
+   "Exact : IFI et ELISA sont les techniques de détection.",
+   "Exact : les AAN sont le marqueur sérologique du lupus.",
+   "Faux : à faible titre, ils peuvent être sans signification pathologique.",
+   "Exact : les IgM naturelles poly-réactives participent à l'homéostasie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la commutation de classe et sa régulation, lesquelles sont exactes ?",
+  "options": [
+   "La commutation isotypique a lieu dans le centre germinatif sous l'action des cytokines",
+   "Elle requiert l'interaction CD40/CD40L entre LB et LTH",
+   "Le déficit en CD40L (hyper-IgM lié à l'X) abolit la commutation vers IgG, IgA et IgE",
+   "L'enzyme AID est indispensable à la commutation et à l'hypermutation somatique",
+   "La commutation de classe survient dans les réponses thymo-indépendantes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le GC est le site de la commutation dirigée par les cytokines.",
+   "Exact : le signal CD40 est obligatoire.",
+   "Exact : sans CD40L, seuls des IgM sont produits.",
+   "Exact : l'AID initie les cassures nécessaires aux deux processus.",
+   "Faux : les réponses TI restent majoritairement IgM sans commutation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la maturation d'affinité, lesquelles sont exactes ?",
+  "options": [
+   "Elle résulte de l'hypermutation somatique des gènes des immunoglobulines dans le centre germinatif",
+   "La sélection des clones de haute affinité augmente l'affinité moyenne des anticorps",
+   "Les anticorps de la réponse secondaire sont plus affins que ceux de la réponse primaire",
+   "Elle diminue l'efficacité de la neutralisation",
+   "Elle est absente des réponses thymo-indépendantes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'AID introduit des mutations ponctuelles dans les régions variables.",
+   "Exact : la compétition pour l'antigène et l'aide T sélectionne les meilleurs.",
+   "Exact : la maturation explique la qualité supérieure des IgG secondaires.",
+   "Faux : une affinité accrue améliore la neutralisation.",
+   "Exact : sans GC, pas d'hypermutation ni de maturation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les IgG et la protection passive, lesquelles sont exactes ?",
+  "options": [
+   "Les IgG maternelles traversent le placenta et protègent le nouveau-né",
+   "Cette protection passive est transitoire (quelques mois)",
+   "Elle n'induit pas de mémoire immunitaire chez l'enfant",
+   "Les IgG maternelles peuvent interférer avec la vaccination précoce",
+   "Les IgA maternelles traversent également le placenta en grande quantité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le transfert placentaire d'IgG est un mécanisme physiologique.",
+   "Exact : leur catabolisme les fait disparaître en 3 à 6 mois.",
+   "Exact : l'immunité passive n'engage pas les lymphocytes de l'enfant.",
+   "Exact : les Ac maternels neutralisent certains vaccins vivants précoces.",
+   "Faux : seules les IgG traversent le placenta ; les IgA sont apportées par le lait maternel."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la demi-vie des immunoglobulines, lesquelles sont exactes ?",
+  "options": [
+   "Les IgG ont une demi-vie longue d'environ 21 jours grâce au recyclage par le FcRn",
+   "Les IgE ont une demi-vie sérique courte mais persistent fixées sur les mastocytes",
+   "Les IgM ont une demi-vie de quelques jours",
+   "La longue demi-vie des IgG prolonge la protection humorale après la réponse",
+   "Toutes les classes d'immunoglobulines ont une demi-vie identique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le FcRn protège les IgG du catabolisme et allonge leur survie.",
+   "Exact : les IgE sériques disparaissent vite mais restent tissulaires sur FceRI.",
+   "Exact : la demi-vie des IgM est d'environ 5 jours.",
+   "Exact : cette persistance assure une protection prolongée.",
+   "Faux : la demi-vie varie fortement selon l'isotype."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les IgA sécrétoires, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont produites sous forme dimérique au niveau des muqueuses",
+   "La pièce sécrétoire les protège de la dégradation enzymatique",
+   "Elles assurent l'exclusion immune des pathogènes au niveau muqueux",
+   "Elles participent à la tolérance vis-à-vis des antigènes inoffensifs",
+   "Elles sont l'isotype dominant du sérum"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les IgA muqueuses sont des dimères liés par la chaîne J.",
+   "Exact : le composant sécrétoire les rend résistantes aux protéases.",
+   "Exact : elles neutralisent les microbes à la surface des muqueuses.",
+   "Exact : elles contribuent à l'homéostasie avec le microbiote.",
+   "Faux : les IgG dominent dans le sérum, les IgA dans les sécrétions."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les complexes immuns, lesquelles sont exactes ?",
+  "options": [
+   "Ils résultent de la liaison des anticorps à leurs antigènes",
+   "En excès modéré, ils sont éliminés par les phagocytes via les récepteurs Fc",
+   "Leur dépôt tissulaire peut provoquer une hypersensibilité de type III",
+   "Ils participent au rétrocontrôle négatif de la réponse B via FcγRIIb",
+   "Les complexes immuns sont toujours pathologiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Ag + Ac forment des complexes immuns.",
+   "Exact : la clairance phagocytaire via FcR est physiologique.",
+   "Exact : leur dépôt vasculaire/rénal cause vascularites et glomérulonéphrites.",
+   "Exact : ils engagent le frein FcγRIIb des LB.",
+   "Faux : leur formation et leur clairance sont des phénomènes normaux."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la neutralisation par les anticorps, lesquelles sont exactes ?",
+  "options": [
+   "Les anticorps neutralisent les toxines en bloquant leurs sites actifs",
+   "Ils neutralisent les virus en empêchant leur fixation aux cellules",
+   "La neutralisation est plus efficace avec des anticorps de haute affinité",
+   "Elle nécessite l'intervention du complément",
+   "Les IgG et les IgA sont les isotypes neutralisants majeurs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le blocage du site toxique annule la pathogénicité.",
+   "Exact : l'encombrement stérique empêche l'attachement viral.",
+   "Exact : l'affinité conditionne l'efficacité neutralisante.",
+   "Faux : la neutralisation est une fonction directe, indépendante du complément.",
+   "Exact : IgG systémiques et IgA muqueuses assurent la neutralisation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les fonctions effectrices des isotypes, lesquelles sont exactes ?",
+  "options": [
+   "Les IgG opsonisent les pathogènes et activent le complément par la voie classique",
+   "Les IgM pentamériques sont de puissants activateurs du complément",
+   "Les IgE déclenchent la dégranulation des mastocytes dans l'allergie",
+   "Les IgA assurent la défense des muqueuses",
+   "Chaque isotype possède des fonctions effectrices interchangeables"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : opsonisation FcR et C1q sont les fonctions des IgG.",
+   "Exact : la structure pentamérique rend l'IgM très efficace sur C1q.",
+   "Exact : le pontage des IgE sur FceRI dégranule mastocytes et basophiles.",
+   "Exact : les IgA dominent l'immunité des muqueuses.",
+   "Faux : les fonctions effectrices sont spécifiques de chaque isotype."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la réponse immunitaire primaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle est induite par le premier contact avec l'antigène",
+   "Elle met en jeu des lymphocytes naïfs",
+   "Elle produit des plasmocytes sécréteurs d'immunoglobulines et des lymphocytes mémoires",
+   "Elle se déroule en trois phases : latence, croissance et décroissance",
+   "Elle est immédiate et ne comporte aucune phase de latence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la primo-exposition initie la réponse primaire.",
+   "Exact : seuls les lymphocytes naïfs répondent au premier contact.",
+   "Exact : effecteurs à courte vie et cellules mémoires en sont les produits.",
+   "Exact : la cinétique triphasique caractérise la réponse primaire.",
+   "Faux : une phase de latence de plusieurs jours précède la production d'anticorps."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la phase de latence de la réponse primaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle correspond au temps d'activation, de prolifération et de différenciation des lymphocytes",
+   "Elle dure environ 5 à 7 jours pour la réponse humorale",
+   "Aucun anticorps n'est détectable pendant cette phase",
+   "Elle est plus courte que celle de la réponse secondaire",
+   "Elle reflète la rareté des précurseurs naïfs spécifiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'expansion clonale et la différenciation prennent plusieurs jours.",
+   "Exact : c'est le délai classique avant l'apparition des IgM.",
+   "Exact : le taux d'anticorps reste indétectable pendant la latence.",
+   "Faux : la latence secondaire (1 à 3 jours) est plus courte.",
+   "Exact : la faible fréquence des clones naïfs explique ce délai."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les immunoglobulines de la réponse primaire, lesquelles sont exactes ?",
+  "options": [
+   "Les IgM apparaissent en premier",
+   "Les IgG apparaissent ensuite à des taux relativement faibles",
+   "L'affinité des anticorps primaires est modérée (pas de maturation préalable)",
+   "La réponse primaire produit d'emblée des IgG de haute affinité",
+   "La commutation de classe survient au cours de la réponse primaire T-dépendante"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'IgM pentamérique est l'isotype précoce.",
+   "Exact : les IgG primaires restent à taux modeste.",
+   "Exact : sans hypermutation préalable, l'affinité est moyenne.",
+   "Faux : les IgG affins caractérisent la réponse secondaire.",
+   "Exact : le centre germinatif primaire permet déjà une commutation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la réponse immunitaire secondaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle est induite par un nouveau contact avec l'antigène",
+   "Elle met en jeu les lymphocytes mémoires générés lors de la réponse primaire",
+   "Sa phase de latence est courte (1 à 3 jours)",
+   "Elle est plus rapide et plus intense que la réponse primaire",
+   "Elle est identique en tout point à la réponse primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la réexposition déclenche la réponse secondaire.",
+   "Exact : les cellules mémoires sont les acteurs de la réponse secondaire.",
+   "Exact : les mémoires préformées répondent quasi immédiatement.",
+   "Exact : rapidité, intensité et affinité supérieures la définissent.",
+   "Faux : cinétique, isotypes et affinité diffèrent nettement."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les anticorps de la réponse secondaire, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont majoritairement de type IgG",
+   "Ils sont plus affins grâce à la maturation d'affinité",
+   "Leurs taux sont nettement supérieurs à ceux de la réponse primaire",
+   "La commutation de classe a déjà eu lieu lors de la réponse primaire",
+   "Ils sont exclusivement de type IgM"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LB mémoires commutés produisent des IgG.",
+   "Exact : l'hypermutation sélectionne les clones de haute affinité.",
+   "Exact : l'expansion des mémoires donne des titres 10 à 100 fois supérieurs.",
+   "Exact : la commutation primaire équipe les mémoires.",
+   "Faux : l'IgM domine la réponse primaire, pas la secondaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les bases cellulaires de la mémoire, lesquelles sont exactes ?",
+  "options": [
+   "Les lymphocytes mémoires sont plus nombreux que les précurseurs naïfs initiaux",
+   "Ils ont un seuil d'activation abaissé par rapport aux naïfs",
+   "Ils répondent plus vite car ils sont pré-différenciés",
+   "Les LB mémoires expriment des BCR de haute affinité déjà commutés",
+   "Les lymphocytes mémoires sont identiques aux lymphocytes naïfs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'expansion primaire multiplie les clones spécifiques.",
+   "Exact : moins de costimulation est requise pour les réactiver.",
+   "Exact : leur programme effecteur est pré-établi.",
+   "Exact : BCR mutés et commutés (IgG) caractérisent les LB mémoires.",
+   "Faux : phénotype, nombre et fonction les distinguent des naïfs."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la comparaison cinétique des réponses, lesquelles sont exactes ?",
+  "options": [
+   "Le pic d'anticorps secondaire est plus élevé que le pic primaire",
+   "La décroissance des anticorps est plus lente après la réponse secondaire",
+   "La dose d'antigène nécessaire pour déclencher la réponse secondaire est plus faible",
+   "La réponse secondaire protège avant même l'apparition des symptômes dans les infections à incubation longue",
+   "Les deux réponses ont une cinétique superposable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'amplitude secondaire dépasse largement la primaire.",
+   "Exact : les plasmocytes à longue vie entretiennent les titres.",
+   "Exact : les mémoires sont déclenchés par de faibles doses.",
+   "Exact : c'est le principe de la protection vaccinale.",
+   "Faux : latence, amplitude et durée diffèrent fondamentalement."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la réponse secondaire T-indépendante, lesquelles sont exactes ?",
+  "options": [
+   "Les antigènes thymo-indépendants n'induisent pas de mémoire immunitaire",
+   "Les réponses successives à un antigène TI sont identiques",
+   "Il n'y a pas de commutation de classe dans les réponses TI",
+   "La réponse secondaire TI produit des IgG de haute affinité",
+   "Les vaccins polysaccharidiques non conjugués illustrent l'absence de mémoire TI"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : sans aide T ni centre germinatif, pas de mémoire.",
+   "Exact : chaque exposition se comporte comme une réponse primaire.",
+   "Exact : les réponses TI restent majoritairement IgM.",
+   "Faux : pas de GC donc pas d'IgG affins.",
+   "Exact : d'où la nécessité des vaccins conjugués chez le nourrisson."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le péché antigénique originel, lesquelles sont exactes ?",
+  "options": [
+   "La première exposition à un variant viral imprime la réponse aux variants ultérieurs",
+   "La réponse secondaire rappelle préférentiellement les clones mémoires initiaux",
+   "Ce phénomène peut limiter l'adaptation aux nouveaux variants (grippe)",
+   "Il améliore toujours la protection contre les variants",
+   "Il illustre la dominance de la mémoire sur la réponse naïve"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'empreinte initiale oriente les réponses ultérieures.",
+   "Exact : les mémoires préexistants dominent les naïfs spécifiques du variant.",
+   "Exact : la grippe illustre cette focalisation parfois sous-optimale.",
+   "Faux : elle peut être délétère face à un variant divergent.",
+   "Exact : la mémoire prime sur le recrutement de nouveaux clones."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les plasmocytes à longue vie et la mémoire humorale, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont générés dans le centre germinatif au cours de la réponse primaire",
+   "Ils résident principalement dans la moelle osseuse",
+   "Ils sécrètent en continu des IgG protectrices pendant des années",
+   "Ils nécessitent une restimulation antigénique permanente pour survivre",
+   "Ils constituent la mémoire humorale sérique indépendante des LB mémoires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le GC produit plasmocytes à longue vie et LB mémoires.",
+   "Exact : les niches médullaires les abritent durablement.",
+   "Exact : cette sécrétion entretient les titres protecteurs.",
+   "Faux : ils survivent grâce aux facteurs de niche, sans antigène.",
+   "Exact : anticorps sériques persistants versus LB mémoires réactivables."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la réponse secondaire cellulaire, lesquelles sont exactes ?",
+  "options": [
+   "Les LT CD8 mémoires lysent plus rapidement les cellules infectées",
+   "Les LT CD4 mémoires fournissent une aide accélérée aux LB",
+   "Le seuil de costimulation requis est abaissé pour les LT mémoires",
+   "La réponse T secondaire nécessite une primo-expansion complète",
+   "Les LT mémoires produisent plus vite IFN-gamma et IL-2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : granules préformés et programme cytotoxique prêts.",
+   "Exact : l'aide Th aux LB mémoires est quasi immédiate.",
+   "Exact : les mémoires s'activent avec un signal 2 réduit.",
+   "Faux : l'expansion est plus rapide car les précurseurs sont nombreux.",
+   "Exact : la production cytokinique est accélérée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la vaccination et la mémoire, lesquelles sont exactes ?",
+  "options": [
+   "La primo-vaccination génère des lymphocytes mémoires spécifiques",
+   "Les rappels vaccinaux recrutent ces cellules mémoires",
+   "Chaque rappel augmente les titres et l'affinité des anticorps",
+   "La protection vaccinale repose sur la rapidité de la réponse secondaire",
+   "La vaccination n'induit aucune mémoire immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le priming crée le pool mémoire.",
+   "Exact : le booster réactive efficacement les mémoires.",
+   "Exact : rappels successifs = maturation et amplification.",
+   "Exact : devancer l'incubation du pathogène est le principe vaccinal.",
+   "Faux : induire une mémoire protectrice est l'objectif vaccinal."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la phase de croissance de la réponse primaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle correspond à l'expansion clonale des lymphocytes spécifiques",
+   "Le taux d'anticorps augmente exponentiellement pendant cette phase",
+   "Elle fait suite à la phase de latence",
+   "Elle est absente de la réponse secondaire",
+   "La différenciation en plasmocytes survient pendant cette phase"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la prolifération clonale amplifie les précurseurs rares.",
+   "Exact : la sécrétion croissante fait grimper les titres.",
+   "Exact : latence puis croissance : l'ordre est fixe.",
+   "Faux : la réponse secondaire comporte aussi une expansion, plus brève.",
+   "Exact : prolifération et différenciation sont concomitantes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la phase de décroissance, lesquelles sont exactes ?",
+  "options": [
+   "Elle fait suite au pic de la réponse",
+   "Elle correspond à l'apoptose de la majorité des effecteurs (contraction)",
+   "Le taux d'anticorps diminue progressivement",
+   "Les cellules mémoires persistent au-delà de cette phase",
+   "Elle traduit un épuisement pathologique du système immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le pic est suivi d'un déclin.",
+   "Exact : la contraction élimine 90 à 95 % des effecteurs.",
+   "Exact : le catabolisme des Ig fait baisser les titres.",
+   "Exact : les mémoires survivent à la décroissance.",
+   "Faux : c'est une régulation physiologique, pas un épuisement."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la réponse primaire dans les organes lymphoïdes, lesquelles sont exactes ?",
+  "options": [
+   "L'activation initiale a lieu dans les organes lymphoïdes secondaires",
+   "Les centres germinatifs se forment dans les follicules B",
+   "La zone claire du centre germinatif est le site de la sélection des centrocytes",
+   "La réponse primaire se déroule dans la moelle osseuse",
+   "Les plasmocytes à longue vie migrent ensuite vers la moelle osseuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : ganglions et rate sont les sites d'initiation.",
+   "Exact : le GC folliculaire organise hypermutation et sélection.",
+   "Exact : la sélection sur l'antigène présenté par les DC folliculaires s'y déroule.",
+   "Faux : la moelle produit les précurseurs, elle n'initie pas la réponse.",
+   "Exact : la moelle accueille durablement les plasmocytes à longue vie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la spécificité de la réponse secondaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle reste strictement spécifique de l'antigène initial",
+   "Une réactivité croisée est possible avec des antigènes proches",
+   "Elle répond à n'importe quel antigène sans spécificité",
+   "La spécificité est portée par les récepteurs des cellules mémoires",
+   "La réponse secondaire perd toute spécificité antigénique"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : la mémoire est antigène-spécifique.",
+   "Exact : les variants proches peuvent réactiver partiellement les mémoires.",
+   "Faux : seuls les antigènes reconnus par les mémoires déclenchent la réponse.",
+   "Exact : BCR et TCR mémoires définissent la spécificité.",
+   "Faux : la spécificité est conservée et même affinée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la mémoire et les infections à incubation courte, lesquelles sont exactes ?",
+  "options": [
+   "La réponse secondaire peut être trop lente face aux pathogènes à incubation très courte",
+   "Les anticorps préformés (plasmocytes à longue vie) assurent une protection immédiate",
+   "La mémoire cellulaire seule suffit toujours à prévenir l'infection",
+   "Les rappels vaccinaux visent à maintenir des titres d'anticorps protecteurs",
+   "La cinétique de la réponse secondaire explique certains échecs vaccinaux"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : si l'incubation est plus courte que la latence secondaire, la maladie survient.",
+   "Exact : les IgG sériques persistantes neutralisent d'emblée.",
+   "Faux : sans anticorps circulants, la mémoire cellulaire arrive parfois trop tard.",
+   "Exact : maintenir les titres est l'objectif des boosters.",
+   "Exact : le délai de réactivation limite la protection contre les infections fulminantes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la mémoire immunitaire et l'âge, lesquelles sont exactes ?",
+  "options": [
+   "Le répertoire mémoire s'enrichit avec les expositions successives",
+   "Le nouveau-né possède peu de mémoire immunitaire propre",
+   "La protection du nourrisson repose d'abord sur les IgG maternelles",
+   "Les personnes âgées ont une mémoire immunitaire inexistante",
+   "L'immunosénescence altère le maintien et la réactivation des mémoires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : chaque rencontre antigénique élargit le pool mémoire.",
+   "Exact : le système naïf du nouveau-né n'a pas encore de mémoire.",
+   "Exact : le transfert placentaire d'IgG protège les premiers mois.",
+   "Faux : les âgés ont une mémoire abondante mais moins fonctionnelle.",
+   "Exact : le vieillissement dégrade la qualité des réponses mémoires."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la distinction mémoire centrale/effectrice (aperçu), lesquelles sont exactes ?",
+  "options": [
+   "Les lymphocytes mémoires centraux résident dans les organes lymphoïdes secondaires",
+   "Les lymphocytes mémoires effecteurs patrouillent dans les tissus périphériques",
+   "Les mémoires centraux ont un fort potentiel prolifératif à la restimulation",
+   "Les mémoires effecteurs exercent des fonctions immédiates (cytotoxicité, cytokines)",
+   "Il n'existe qu'un seul type homogène de cellules mémoires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CCR7/CD62L les adressent aux ganglions.",
+   "Exact : ils assurent une surveillance tissulaire rapide.",
+   "Exact : ils génèrent une nouvelle vague d'effecteurs.",
+   "Exact : fonctions préformées pour une action immédiate.",
+   "Faux : la mémoire est hétérogène (centrale, effectrice, résidente)."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la durée de la mémoire immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "Certaines mémoires (variole, rougeole) persistent des décennies",
+   "La persistance des anticorps dépend des plasmocytes à longue vie",
+   "La persistance des LB mémoires ne nécessite pas d'exposition antigénique continue",
+   "Le renouvellement homéostatique (IL-7, IL-15) entretient les LT mémoires",
+   "Toute mémoire immunitaire disparaît en quelques mois"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : des décennies de protection sont documentées.",
+   "Exact : les niches médullaires maintiennent la séroprotection.",
+   "Exact : les LB mémoires survivent sans antigène persistant.",
+   "Exact : ces cytokines assurent le turnover des LT mémoires.",
+   "Faux : beaucoup de mémoires sont durables voire à vie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la réponse secondaire aux vaccins conjugués, lesquelles sont exactes ?",
+  "options": [
+   "La conjugaison transforme un antigène TI en antigène T-dépendant",
+   "Elle permet la formation de centres germinatifs et de mémoire B",
+   "Les rappels induisent des IgG de haute affinité contre le polysaccharide",
+   "Les vaccins conjugués sont inefficaces chez le nourrisson",
+   "Le composant protéique recrute l'aide des lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le carrier protéique apporte les épitopes T.",
+   "Exact : la voie TD ouvre l'accès au GC et à la mémoire.",
+   "Exact : les boosters donnent des IgG affins anti-capsulaires.",
+   "Faux : ils sont précisément conçus pour être efficaces dès 2 mois.",
+   "Exact : l'aide T CD4 est recrutée via la protéine porteuse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'évaluation de la mémoire vaccinale, lesquelles sont exactes ?",
+  "options": [
+   "Le taux d'anticorps spécifiques (séroprotection) évalue la mémoire humorale",
+   "La réponse anamnestique après rappel témoigne de la mémoire B",
+   "Les tests de prolifération lymphocytaire explorent la mémoire T",
+   "La mémoire immunitaire ne peut être évaluée par aucun test",
+   "Un titre d'anticorps effondré signifie toujours l'absence de mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les seuils protecteurs (ex. anti-HBs) guident les rappels.",
+   "Exact : l'ascension rapide des Ac après booster prouve les mémoires.",
+   "Exact : la restimulation in vitro mesure la mémoire cellulaire.",
+   "Faux : plusieurs outils explorent la mémoire.",
+   "Faux : les LB mémoires persistent malgré la baisse des titres."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la mémoire et les rappels vaccinaux, lesquelles sont exactes ?",
+  "options": [
+   "Les rappels recrutent les LB mémoires générés par la primo-vaccination",
+   "Chaque rappel augmente l'affinité moyenne des anticorps",
+   "Des rappels trop rapprochés peuvent induire une hyporéponse",
+   "Les rappels sont inutiles une fois la primo-vaccination effectuée",
+   "Le calendrier vaccinal espace primo-vaccination et rappels pour optimiser la mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le booster réactive le pool mémoire.",
+   "Exact : les cycles GC successifs affinent l'affinité.",
+   "Exact : l'hyporéponse post-rappel précoce est décrite.",
+   "Faux : sans rappels, titres et protection déclinent.",
+   "Exact : l'espacement permet la maturation du pool mémoire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la réponse immunitaire secondaire chez l'immunodéprimé, lesquelles sont exactes ?",
+  "options": [
+   "Un déficit en LT CD4 compromet la réponse secondaire T-dépendante",
+   "Les traitements immunosuppresseurs atténuent les réponses de rappel",
+   "La mémoire préexistante peut être partiellement préservée sous immunosuppression modérée",
+   "L'immunodépression n'affecte jamais la mémoire immunitaire",
+   "La vaccination des immunodéprimés nécessite des schémas adaptés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : sans aide CD4, pas de réactivation efficace des LB mémoires.",
+   "Exact : corticoïdes et anti-métabolites freinent la restimulation.",
+   "Exact : les mémoires établies résistent mieux que les réponses primaires.",
+   "Faux : l'immunosuppression dégrade les réponses mémoires.",
+   "Exact : doses, rappels et vaccins inactivés sont adaptés."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les lymphocytes B mémoires, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont générés au cours de la réponse primaire T-dépendante",
+   "Ils sont quiescents en phase G0 du cycle cellulaire",
+   "Ils ont une longue durée de vie",
+   "Ils dérivent du centre germinatif après hypermutation et sélection",
+   "Ils sont à vie courte comme les plasmablastes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la voie TD avec GC produit les LB mémoires.",
+   "Exact : quiescence G0 entre les stimulations.",
+   "Exact : leur longévité fonde la mémoire humorale.",
+   "Exact : GC = hypermutation, commutation, sélection.",
+   "Faux : leur longue survie les distingue des effecteurs à courte vie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le phénotype des LB mémoires, lesquelles sont exactes ?",
+  "options": [
+   "Chez l'homme, l'expression de CD27 identifie les LB mémoires",
+   "La majorité a commuté son isotype (IgG, IgA)",
+   "Leur BCR est de haute affinité après maturation",
+   "Il existe aussi des LB mémoires IgM+ non commutés",
+   "Ils sont phénotypiquement identiques aux LB naïfs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CD27 est le marqueur des LB mémoires humains.",
+   "Exact : la commutation isotypique marque le passage par le GC.",
+   "Exact : l'hypermutation sélectionne les BCR affins.",
+   "Exact : une fraction mémoire conserve l'IgM.",
+   "Faux : CD27, isotype et affinité les distinguent des naïfs."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la réactivation des LB mémoires, lesquelles sont exactes ?",
+  "options": [
+   "Elle est rapide (1 à 3 jours) lors d'une réexposition",
+   "Elle nécessite une dose d'antigène plus faible que l'activation naïve",
+   "Elle produit rapidement des plasmocytes sécréteurs d'IgG affins",
+   "Elle requiert une aide T aussi stricte que la réponse primaire",
+   "Elle peut générer un nouveau cycle de centre germinatif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les mémoires préformées répondent quasi immédiatement.",
+   "Exact : le seuil d'activation des mémoires est abaissé.",
+   "Exact : la différenciation plasmocytaire est accélérée.",
+   "Faux : l'aide T requise est moindre pour les LB mémoires.",
+   "Exact : un second GC peut affiner encore l'affinité."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la localisation des LB mémoires, lesquelles sont exactes ?",
+  "options": [
+   "Ils résident dans la rate et les ganglions lymphatiques",
+   "Des LB mémoires patrouillent dans le sang circulant",
+   "Ils sont présents dans les tissus muqueux",
+   "Ils sont confinés à la moelle osseuse comme les plasmocytes",
+   "Leur distribution assure une surveillance systémique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les organes secondaires abritent les mémoires.",
+   "Exact : une fraction circule pour la surveillance.",
+   "Exact : les muqueuses hébergent des mémoires locaux (IgA).",
+   "Faux : la moelle accueille les plasmocytes, pas les LB mémoires.",
+   "Exact : cette dissémination permet une réponse rapide partout."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'hypermutation somatique, lesquelles sont exactes ?",
+  "options": [
+   "Elle introduit des mutations ponctuelles dans les régions variables des Ig",
+   "Elle est initiée par l'enzyme AID dans le centre germinatif",
+   "Elle survient dans la zone sombre du centre germinatif (centroblastes)",
+   "La sélection des mutants de haute affinité a lieu dans la zone claire",
+   "Elle diminue l'affinité des anticorps produits"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les mutations ciblent les gènes V(D)J réarrangés.",
+   "Exact : l'AID désamine les cytosines et initie les mutations.",
+   "Exact : les centroblastes prolifèrent et mutent dans la zone sombre.",
+   "Exact : les centrocytes sont sélectionnés sur l'antigène en zone claire.",
+   "Faux : suivie de sélection, elle augmente l'affinité."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la sélection dans le centre germinatif, lesquelles sont exactes ?",
+  "options": [
+   "Les centrocytes captent l'antigène présenté par les cellules dendritiques folliculaires",
+   "Seuls les clones de haute affinité reçoivent l'aide des LTH folliculaires",
+   "Les clones de faible affinité meurent par apoptose",
+   "La compétition pour l'aide T est le moteur de la sélection",
+   "Tous les centrocytes survivent quel que soit leur affinité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les FDC retiennent l'antigène sous forme de complexes immuns.",
+   "Exact : l'aide Tfh limitée récompense les meilleurs capteurs.",
+   "Exact : sans signal de survie, les faibles affinités sont éliminées.",
+   "Exact : la rareté de l'aide Tfh sélectionne les plus affins.",
+   "Faux : la sélection élimine la majorité des centrocytes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les lymphocytes T folliculaires helpers (Tfh), lesquelles sont exactes ?",
+  "options": [
+   "Ils résident dans les follicules B des organes lymphoïdes secondaires",
+   "Ils fournissent l'aide nécessaire à la formation du centre germinatif",
+   "Ils sécrètent de l'IL-21 qui soutient les LB du GC",
+   "Ils expriment CXCR5 qui les guide vers les follicules",
+   "Ils inhibent la différenciation des LB en plasmocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les Tfh sont les helpers dédiés aux follicules.",
+   "Exact : sans Tfh, pas de GC ni de mémoire B.",
+   "Exact : l'IL-21 est la cytokine signature du soutien Tfh.",
+   "Exact : CXCR5 répond à CXCL13 folliculaire.",
+   "Faux : ils promeuvent la différenciation plasmocytaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les LB mémoires IgM+, lesquelles sont exactes ?",
+  "options": [
+   "Ils persistent après des réponses peu ou pas germinales",
+   "Ils conservent une plasticité isotypique pour les réponses ultérieures",
+   "Ils peuvent rejoindre un centre germinatif lors d'une réexposition",
+   "Ils sont dépourvus de toute fonction",
+   "Ils participent aux réponses contre les antigènes variants"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les mémoires IgM naissent hors GC ou précocement.",
+   "Exact : non commutés, ils peuvent encore commuter.",
+   "Exact : ils sont recrutables dans un GC secondaire.",
+   "Faux : ils sont fonctionnels et réactivables.",
+   "Exact : leur flexibilité sert face aux pathogènes variables."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la survie des LB mémoires, lesquelles sont exactes ?",
+  "options": [
+   "Elle ne nécessite pas la persistance de l'antigène",
+   "Le facteur BAFF contribue à leur homéostasie",
+   "Ils sont maintenus par un renouvellement lent",
+   "Leur survie exige une stimulation antigénique permanente",
+   "Des signaux toniques du BCR participent à leur maintien"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les mémoires persistent sans antigène résiduel.",
+   "Exact : BAFF est le facteur de survie des LB matures et mémoires.",
+   "Exact : un turnover lent compense les pertes.",
+   "Faux : l'antigène n'est pas requis pour leur survie.",
+   "Exact : une signalisation BCR basale entretient leur viabilité."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les LB mémoires et l'auto-immunité, lesquelles sont exactes ?",
+  "options": [
+   "Des LB mémoires auto-réactifs peuvent entretenir les maladies auto-immunes",
+   "Ils expliquent les rechutes après arrêt des immunosuppresseurs",
+   "Le rituximab (anti-CD20) élimine les LB mémoires auto-réactifs",
+   "Les LB mémoires sont toujours dépourvus d'auto-réactivité",
+   "Leur longue vie complique l'obtention d'une rémission durable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les mémoires auto-réactifs réactivent la maladie.",
+   "Exact : leur persistance explique les rechutes.",
+   "Exact : l'anti-CD20 déplète les LB dont les mémoires.",
+   "Faux : des mémoires auto-réactifs échappent au contrôle.",
+   "Exact : leur longévité impose des traitements prolongés."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la réponse mémoire extra-folliculaire, lesquelles sont exactes ?",
+  "options": [
+   "Les LB mémoires peuvent se différencier en plasmocytes hors follicule",
+   "Cette voie est plus rapide que le passage par un nouveau centre germinatif",
+   "Elle produit des IgG de haute affinité sans hypermutation supplémentaire",
+   "Elle nécessite obligatoirement un centre germinatif",
+   "Elle contribue à la rapidité de la réponse secondaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la différenciation plasmocytaire peut être extra-folliculaire.",
+   "Exact : quelques jours suffisent hors GC.",
+   "Exact : l'affinité est déjà optimisée lors du priming.",
+   "Faux : la voie extra-folliculaire contourne le GC.",
+   "Exact : c'est un déterminant de la rapidité secondaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le rappel vaccinal et les LB mémoires, lesquelles sont exactes ?",
+  "options": [
+   "Le rappel mobilise les LB mémoires en plasmocytes sécréteurs",
+   "Le titre d'anticorps augmente rapidement après le rappel",
+   "Des LB mémoires supplémentaires sont générés à chaque rappel",
+   "L'affinité des anticorps s'améliore avec les rappels successifs",
+   "Le rappel est inefficace si des LB mémoires existent déjà"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la restimulation différencie les mémoires en producteurs.",
+   "Exact : la réponse anamnestique est rapide et ample.",
+   "Exact : chaque exposition élargit le pool mémoire.",
+   "Exact : les cycles GC successifs affinent la réponse.",
+   "Faux : le rappel exploite précisément les mémoires existants."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les défauts de la mémoire B, lesquelles sont exactes ?",
+  "options": [
+   "Le déficit en CD40L abolit la formation des LB mémoires",
+   "Le déficit en AID compromet l'hypermutation et la commutation",
+   "Les déficits immunitaires humoraux s'accompagnent d'infections récidivantes",
+   "La splénectomie altère les réponses mémoires aux antigènes encapsulés",
+   "Tous les déficits en LB mémoires sont acquis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : sans coopération T-B, pas de GC ni de mémoire.",
+   "Exact : sans AID, ni maturation d'affinité ni commutation.",
+   "Exact : l'absence de mémoire expose aux récidives infectieuses.",
+   "Exact : la rate est clé pour les réponses anti-polysaccharidiques.",
+   "Faux : des déficits congénitaux (CVID, hyper-IgM) existent."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la mémoire B muqueuse, lesquelles sont exactes ?",
+  "options": [
+   "Les LB mémoires à IgA protègent les muqueuses",
+   "Ils sont induits dans les tissus lymphoïdes associés aux muqueuses (MALT)",
+   "La vaccination orale ou nasale vise à induire cette mémoire locale",
+   "Les IgA sécrétoires assurent l'exclusion immune des pathogènes",
+   "La mémoire B est exclusivement systémique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les mémoires IgA gardent les portes d'entrée.",
+   "Exact : plaques de Peyer et amygdales initient ces réponses.",
+   "Exact : la voie muqueuse induit une protection locale.",
+   "Exact : neutralisation et exclusion à la surface épithéliale.",
+   "Faux : il existe un compartiment mémoire muqueux distinct."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la quantification des LB mémoires, lesquelles sont exactes ?",
+  "options": [
+   "La cytométrie en flux quantifie les LB CD19+CD27+",
+   "Les ELISPOT mémoire mesurent les LB capables de se différencier en plasmocytes",
+   "La réponse anamnestique in vivo témoigne de la mémoire B",
+   "Le dosage des Ig sériques évalue directement le nombre de LB mémoires",
+   "Les LB mémoires spécifiques peuvent être marqués par des antigènes fluorescents"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : CD19+CD27+ définit les LB mémoires humains.",
+   "Exact : l'ELISPOT après stimulation polyclonale les révèle.",
+   "Exact : l'ascension rapide des Ac après rappel les démontre.",
+   "Faux : les Ig sériques reflètent les plasmocytes, pas les LB mémoires.",
+   "Exact : les sondes antigéniques marquent les B spécifiques."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'évolution du pool mémoire B, lesquelles sont exactes ?",
+  "options": [
+   "Chaque exposition antigénique élargit et diversifie le répertoire mémoire",
+   "Les rappels sélectionnent les clones de plus haute affinité",
+   "Le pool mémoire B est stable sur le long terme",
+   "Les clones mémoires de faible affinité sont progressivement éliminés",
+   "Le pool mémoire B se renouvelle entièrement à chaque infection"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les expositions successives recrutent de nouveaux clones.",
+   "Exact : la compétition affine le répertoire au fil des rappels.",
+   "Exact : la longévité des LB mémoires stabilise le pool.",
+   "Faux : les faibles affinités persistent, dominées par les meilleurs.",
+   "Faux : le pool s'accumule, il n'est pas remplacé."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les LB mémoires et les vaccins vivants, lesquelles sont exactes ?",
+  "options": [
+   "Les vaccins vivants atténués induisent une forte mémoire B",
+   "La réplication vaccinale prolonge l'exposition antigénique et la maturation",
+   "Une seule dose peut suffire à établir une mémoire durable",
+   "Les vaccins vivants n'induisent aucune mémoire B",
+   "La mémoire induite protège contre la souche sauvage"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : BCG, ROR induisent d'excellentes mémoires.",
+   "Exact : l'antigène persistant optimise le GC.",
+   "Exact : la réplication mime l'infection naturelle.",
+   "Faux : ils sont parmi les meilleurs inducteurs de mémoire.",
+   "Exact : la protection croisée repose sur cette mémoire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la commutation séquentielle des LB mémoires, lesquelles sont exactes ?",
+  "options": [
+   "Un LB mémoire IgG peut subir une nouvelle commutation (vers IgA ou IgE)",
+   "La commutation est unidirectionnelle (irréversible vers l'aval du locus)",
+   "Les cytokines du microenvironnement orientent la commutation secondaire",
+   "Un LB mémoire IgE peut re-commuter vers IgG",
+   "La mémoire conserve une plasticité isotypique limitée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les mémoires commutés peuvent encore commuter en aval.",
+   "Exact : l'ordre des gènes constants impose le sens unique.",
+   "Exact : IL-4, TGF-bêta orientent les commutations ultérieures.",
+   "Faux : IgE est en position terminale, sans retour possible.",
+   "Exact : plasticité restreinte par la position dans le locus."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les niches des LB mémoires, lesquelles sont exactes ?",
+  "options": [
+   "La rate est un réservoir majeur de LB mémoires",
+   "Les ganglions lymphatiques abritent des LB mémoires",
+   "La moelle osseuse héberge surtout des plasmocytes, pas des LB mémoires",
+   "Les LB mémoires circulent entre sang et organes lymphoïdes",
+   "Les LB mémoires sont confinés au site de la primo-infection"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la pulpe blanche splénique stocke les mémoires.",
+   "Exact : les ganglions drainants conservent les mémoires locaux.",
+   "Exact : la moelle est la niche des plasmocytes à longue vie.",
+   "Exact : la recirculation assure la surveillance systémique.",
+   "Faux : ils se disséminent dans l'organisme."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la réactivation T-dépendante des LB mémoires, lesquelles sont exactes ?",
+  "options": [
+   "Les LTH mémoires fournissent une aide rapide aux LB mémoires",
+   "L'expression de CD40L est plus rapide sur les LTH mémoires",
+   "La coopération T-B secondaire reste nécessaire pour une réponse optimale",
+   "Les LB mémoires s'activent sans aucune aide T",
+   "La synapse T-B mémoire est plus efficace que la synapse primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les helpers mémoires sont pré-différenciés.",
+   "Exact : la cinétique d'expression des molécules d'aide est accélérée.",
+   "Exact : l'aide T optimise amplitude et qualité de la réponse.",
+   "Faux : l'aide T améliore nettement la réponse, même atténuée.",
+   "Exact : molécules d'adhésion et costimulateurs préformés."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les lymphocytes T mémoires, lesquelles sont exactes ?",
+  "options": [
+   "Ils survivent à la contraction qui élimine la majorité des effecteurs",
+   "Ils sont quiescents en phase G0 avec une longue durée de vie",
+   "Ils sont plus nombreux que les précurseurs naïfs initiaux",
+   "Ils répondent plus vite et plus fort à la restimulation",
+   "Ils meurent tous pendant la contraction"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 5 à 10 % des effecteurs survivent et deviennent mémoires.",
+   "Exact : quiescence G0 et longévité caractérisent les mémoires.",
+   "Exact : l'expansion clonale primaire multiplie les spécifiques.",
+   "Exact : seuil abaissé et programme préformé accélèrent la réponse.",
+   "Faux : les survivants fondent le pool mémoire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les LT CD8 mémoires, lesquelles sont exactes ?",
+  "options": [
+   "Ils lysent rapidement les cellules infectées lors d'une réinfection",
+   "Ils contiennent des granules de perforine et granzymes préformés",
+   "Ils produisent rapidement de l'IFN-gamma à la restimulation",
+   "Leur survie homéostatique dépend de l'IL-7 et de l'IL-15",
+   "Ils sont incapables de proliférer à la restimulation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la cytotoxicité secondaire est quasi immédiate.",
+   "Exact : l'arsenal lytique est pré-stocké.",
+   "Exact : la production cytokinique est accélérée.",
+   "Exact : IL-7 et IL-15 entretiennent le pool CD8 mémoire.",
+   "Faux : ils prolifèrent vigoureusement à la restimulation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les LT CD4 mémoires, lesquelles sont exactes ?",
+  "options": [
+   "Les LTH1 mémoires fournissent une aide rapide aux réponses secondaires",
+   "Ils se redifférencient vite en effecteurs Th1, Th2 ou Th17 selon le contexte",
+   "Ils facilitent la réactivation des LB mémoires",
+   "Ils produisent rapidement IL-2 et IFN-gamma",
+   "Ils ont perdu toute capacité d'aide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les helpers mémoires accélèrent la réponse secondaire.",
+   "Exact : la polarisation initiale est mémorisée et rappelée.",
+   "Exact : l'aide aux LB mémoires est quasi immédiate.",
+   "Exact : la sécrétion cytokinique est précocement restaurée.",
+   "Faux : leur fonction d'aide est au contraire optimisée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la mémoire T centrale, lesquelles sont exactes ?",
+  "options": [
+   "Les LT mémoires centraux expriment CCR7 et CD62L",
+   "Ils résident dans les organes lymphoïdes secondaires",
+   "Ils possèdent un fort potentiel prolifératif à la restimulation",
+   "Ils génèrent une nouvelle vague d'effecteurs",
+   "Ils sont dépourvus de fonctions effectrices immédiates importantes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : ces récepteurs les adressent aux ganglions.",
+   "Exact : c'est leur niche de résidence.",
+   "Exact : leur expansion secondaire est massive.",
+   "Exact : ils alimentent la réponse en effecteurs frais.",
+   "Faux : ils ont des fonctions réduites mais pas nulles ; leur force est proliférative."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la mémoire T effectrice, lesquelles sont exactes ?",
+  "options": [
+   "Les LT mémoires effecteurs circulent dans le sang et les tissus périphériques",
+   "Ils exercent des fonctions immédiates (cytotoxicité, cytokines)",
+   "Ils ont un potentiel prolifératif plus limité que les centraux",
+   "Ils assurent une protection rapide en première ligne tissulaire",
+   "Ils résident exclusivement dans les ganglions"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : ils patrouillent sang et périphérie.",
+   "Exact : fonctions préformées pour action immédiate.",
+   "Exact : leur expansion est moindre que celle des centraux.",
+   "Exact : ils sont les sentinelles des tissus.",
+   "Faux : ce sont les centraux qui résident dans les ganglions."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les LT mémoires résidents tissulaires (Trm), lesquelles sont exactes ?",
+  "options": [
+   "Ils résident en permanence dans les tissus barrières (peau, muqueuses)",
+   "Ils n'ont pas besoin de recirculer pour protéger leur tissu",
+   "Ils expriment des marqueurs de rétention comme CD69 et CD103",
+   "Ils fournissent une alarme locale rapide à la réinfection",
+   "Ils sont identiques aux mémoires circulants"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : peau, poumon, intestin abritent des Trm.",
+   "Exact : leur sédentarité tissulaire est définitive.",
+   "Exact : CD69 bloque l'égression, CD103 ancre à l'épithélium.",
+   "Exact : ils recrutent et activent les défenses locales.",
+   "Faux : phénotype et mode de vie les distinguent."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'homéostasie des LT mémoires, lesquelles sont exactes ?",
+  "options": [
+   "L'IL-7 assure la survie des LT mémoires CD4 et CD8",
+   "L'IL-15 soutient la prolifération homéostatique des CD8 mémoires",
+   "Ce renouvellement lent compense les pertes sans antigène",
+   "L'expression élevée de Bcl-2 protège les mémoires de l'apoptose",
+   "Les LT mémoires survivent sans aucun signal cytokinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-7 est la cytokine de survie des mémoires.",
+   "Exact : l'IL-15 fait proliférer lentement les CD8 mémoires.",
+   "Exact : le turnover homéostatique maintient le pool.",
+   "Exact : Bcl-2 élevé garantit leur longévité.",
+   "Faux : IL-7/IL-15 sont indispensables à leur maintien."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la restimulation des LT mémoires, lesquelles sont exactes ?",
+  "options": [
+   "Le seuil d'activation est abaissé par rapport aux LT naïfs",
+   "La costimulation requise est moindre",
+   "La production de cytokines est plus rapide et plus abondante",
+   "La différenciation effectrice est accélérée",
+   "Les LT mémoires nécessitent une activation plus stricte que les naïfs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les mémoires s'activent plus facilement.",
+   "Exact : le signal 2 peut être réduit.",
+   "Exact : le programme transcriptionnel est pré-ouvert.",
+   "Exact : quelques divisions suffisent à régénérer des effecteurs.",
+   "Faux : c'est l'inverse, leur activation est facilitée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'épuisement des LT en infection chronique, lesquelles sont exactes ?",
+  "options": [
+   "La persistance antigénique use progressivement les LT effecteurs",
+   "Les LT épuisés surexpriment PD-1, TIM-3 et LAG-3",
+   "Leurs fonctions déclinent hiérarchiquement (IL-2, puis TNF, puis IFN-gamma)",
+   "Le blocage de PD-1 peut restaurer partiellement leurs fonctions",
+   "L'épuisement est une forme de mémoire protectrice"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la stimulation chronique épuise les effecteurs.",
+   "Exact : l'accumulation de checkpoints signe l'exhaustion.",
+   "Exact : la perte fonctionnelle suit un ordre stéréotypé.",
+   "Exact : les anti-PD-1 réveillent partiellement les épuisés.",
+   "Faux : l'épuisement est dysfonctionnel, opposé à la mémoire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la mémoire T et les vaccins, lesquelles sont exactes ?",
+  "options": [
+   "Les vaccins vivants atténués induisent une forte mémoire T CD8",
+   "La mémoire T contribue à la protection contre les pathogènes intracellulaires",
+   "Le BCG induit une mémoire T protectrice contre la tuberculose",
+   "Les vaccins inactivés induisent une mémoire T CD8 aussi forte que les vivants",
+   "La mémoire T n'a aucun rôle dans la protection vaccinale"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la réplication vaccinale prime efficacement les CD8.",
+   "Exact : virus et mycobactéries sont contrôlés par les LT.",
+   "Exact : la protection anti-tuberculeuse repose sur les Th1 mémoires.",
+   "Faux : les inactivés priment faiblement les CD8.",
+   "Faux : la mémoire T est un pilier de la protection."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la mémoire T croisée, lesquelles sont exactes ?",
+  "options": [
+   "Des LT mémoires peuvent reconnaître des pathogènes apparentés",
+   "Cette réactivité hétérologue peut protéger contre un nouveau variant",
+   "Elle peut aussi causer des immunopathologies (ex. dengue)",
+   "La réactivité croisée n'existe que pour les anticorps",
+   "Elle illustre la dégénérescence du TCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : un TCR reconnaît plusieurs peptides proches.",
+   "Exact : la protection croisée inter-souches est documentée.",
+   "Exact : l'original antigenic sin T peut aggraver la dengue.",
+   "Faux : les LT aussi présentent des réactivités croisées.",
+   "Exact : un TCR lie ~10^6 peptides apparentés."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la durée de la mémoire T, lesquelles sont exactes ?",
+  "options": [
+   "Des LT mémoires spécifiques persistent des décennies après vaccination",
+   "La mémoire T antivariolique est détectable 50 ans après",
+   "Le pool se maintient par prolifération homéostatique",
+   "La mémoire T disparaît systématiquement en un an",
+   "Les Trm assurent une protection locale durable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la longévité des LT mémoires est établie.",
+   "Exact : c'est une référence historique de la mémoire T.",
+   "Exact : IL-7/IL-15 renouvellent le pool sans antigène.",
+   "Faux : beaucoup de mémoires T sont pluri-décennales.",
+   "Exact : les Trm persistent years dans les tissus."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les marqueurs des LT mémoires, lesquelles sont exactes ?",
+  "options": [
+   "CD44 élevé marque les LT mémoires chez la souris",
+   "CD62L et CCR7 distinguent mémoires centraux et effecteurs",
+   "CD69 et CD103 identifient les Trm tissulaires",
+   "CD45RO marque les LT mémoires humains",
+   "Les LT naïfs et mémoires sont phénotypiquement indiscernables"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CD44high est le marqueur murin classique.",
+   "Exact : centraux CCR7+CD62L+, effecteurs négatifs.",
+   "Exact : marqueurs de résidence tissulaire.",
+   "Exact : l'isoforme RO remplace RA après activation.",
+   "Faux : plusieurs marqueurs les distinguent nettement."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la mémoire T régulatrice, lesquelles sont exactes ?",
+  "options": [
+   "Il existe des Treg mémoires persistants après la réponse",
+   "Ils assurent un contrôle rapide des réponses secondaires excessives",
+   "Ils préviennent l'immunopathologie lors des réinfections",
+   "Les Treg ne forment jamais de mémoire",
+   "Les Treg mémoires spécifiques d'allergènes sont induits par désensibilisation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : un compartiment Treg mémoire est décrit.",
+   "Exact : ils freinent précocement les réponses secondaires.",
+   "Exact : ils limitent les dégâts lors des rappels infectieux.",
+   "Faux : la régulation aussi se mémorise.",
+   "Exact : l'immunothérapie induit des Treg mémoires spécifiques."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la compétition mémoires/naïfs, lesquelles sont exactes ?",
+  "options": [
+   "À la réexposition, les LT mémoires dominent les LT naïfs spécifiques",
+   "Leur nombre supérieur et leur seuil abaissé expliquent cette dominance",
+   "Les naïfs spécifiques du variant peuvent être recrutés en complément",
+   "Les LT naïfs sont toujours prioritaires sur les mémoires",
+   "Cette dominance fonde le péché antigénique originel"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les mémoires répondent avant les naïfs.",
+   "Exact : avantage numérique et cinétique décisif.",
+   "Exact : de nouveaux clones peuvent s'ajouter.",
+   "Faux : les mémoires priment sur les naïfs.",
+   "Exact : la mémoire initiale capte la réponse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les LT mémoires dans les ganglions, lesquelles sont exactes ?",
+  "options": [
+   "Les mémoires centraux y résident via CCR7/CD62L",
+   "Ils y rencontrent rapidement l'antigène drainé",
+   "Ils y prolifèrent massivement à la restimulation",
+   "Ils fournissent une aide accélérée aux LB du ganglion",
+   "Ils sont absents des organes lymphoïdes secondaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le homing ganglionnaire définit les centraux.",
+   "Exact : le ganglion drainant concentre l'antigène.",
+   "Exact : l'expansion secondaire y est explosive.",
+   "Exact : l'aide Tfh mémoire accélère le GC secondaire.",
+   "Faux : les ganglions sont leur résidence principale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'immunisation active, lesquelles sont exactes ?",
+  "options": [
+   "La vaccination est une immunisation active",
+   "L'agent vaccinal stimule la réponse immunitaire de l'hôte",
+   "La primo-vaccination mobilise des lymphocytes naïfs",
+   "Elle induit une mémoire immunitaire protectrice",
+   "L'immunisation active confère une protection immédiate"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le sujet fabrique lui-même sa protection.",
+   "Exact : l'antigène vaccinal est immunogène mais non pathogène.",
+   "Exact : les naïfs spécifiques sont primés.",
+   "Exact : LB et LT mémoires en sont le produit.",
+   "Faux : un délai de latence est nécessaire à l'établissement de la mémoire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'immunisation passive, lesquelles sont exactes ?",
+  "options": [
+   "La sérothérapie consiste à injecter des immunoglobulines spécifiques ou non",
+   "Elle assure une protection immédiate mais de courte durée",
+   "Elle n'induit pas de mémoire immunitaire",
+   "Les Ig injectées sont catabolisées en quelques semaines",
+   "La sérothérapie remplace durablement la vaccination"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Ig polyvalentes ou spécifiques (anti-tétaniques, antirabiques).",
+   "Exact : protection instantanée, sans latence.",
+   "Exact : aucun lymphocyte de l'hôte n'est engagé.",
+   "Exact : demi-vie des IgG ~3 semaines.",
+   "Faux : elle est transitoire et ne crée pas de mémoire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la primo-vaccination, lesquelles sont exactes ?",
+  "options": [
+   "Elle stimule les lymphocytes naïfs spécifiques de l'agent vaccinal",
+   "Elle produit d'abord des IgM de faible affinité",
+   "Les taux d'anticorps obtenus sont variables",
+   "Elle génère les lymphocytes mémoires nécessaires aux rappels",
+   "Elle confère d'emblée une protection maximale et définitive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le priming recrute les précurseurs naïfs.",
+   "Exact : IgM précoces peu affins comme en réponse primaire.",
+   "Exact : l'amplitude varie selon l'individu et le vaccin.",
+   "Exact : c'est le pool mémoire qui servira aux boosters.",
+   "Faux : les rappels sont nécessaires pour optimiser la protection."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les rappels vaccinaux, lesquelles sont exactes ?",
+  "options": [
+   "Ils recrutent les LB mémoires générés par la primo-vaccination",
+   "La réponse est plus rapide avec des taux importants d'IgG de forte affinité",
+   "Ils élargissent et affinent le pool mémoire",
+   "Ils sont inutiles pour les vaccins vivants",
+   "Leur espacement optimise la maturation de la mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le booster réactive les mémoires.",
+   "Exact : réponse anamnestique typique.",
+   "Exact : chaque rappel enrichit le répertoire.",
+   "Faux : certains vaccins vivants nécessitent aussi des rappels.",
+   "Exact : un intervalle suffisant permet la maturation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les types de vaccins, lesquelles sont exactes ?",
+  "options": [
+   "Les vaccins vivants atténués (BCG, ROR) miment l'infection naturelle",
+   "Les vaccins inactivés (polio injectable) ne se répliquent pas",
+   "Les vaccins sous-unitaires (hépatite B) utilisent des fractions antigéniques",
+   "Les anatoxines (diphtérie, tétanos) sont des toxines détoxifiées",
+   "Tous les vaccins contiennent des germes vivants"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : atténués mais réplicatifs, forte immunogénicité.",
+   "Exact : inactivés chimiquement ou thermiquement, sans réplication.",
+   "Exact : protéines recombinantes ou polysaccharides purifiés.",
+   "Exact : toxines inactivées gardant l'immunogénicité.",
+   "Faux : beaucoup sont inactivés ou sous-unitaires."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les vaccins vivants atténués, lesquelles sont exactes ?",
+  "options": [
+   "Ils induisent une immunité humorale et cellulaire forte",
+   "Une à deux doses suffisent souvent à une protection durable",
+   "Ils sont contre-indiqués chez l'immunodéprimé",
+   "Ils peuvent être excrétés et transmis (polio oral)",
+   "Ils sont dépourvus de tout risque"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la réplication mime l'infection et prime LT et LB.",
+   "Exact : la mémoire induite est robuste.",
+   "Exact : risque de maladie vaccinale chez l'immunodéprimé.",
+   "Exact : l'excrétion du poliovirus vaccinal est documentée.",
+   "Faux : réversion et effets indésirables restent possibles."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les adjuvants vaccinaux, lesquelles sont exactes ?",
+  "options": [
+   "Ils augmentent l'immunogénicité des vaccins sous-unitaires",
+   "Ils créent un dépôt prolongeant l'exposition antigénique",
+   "Ils activent l'immunité innée (signaux de danger)",
+   "Ils induisent une tolérance vis-à-vis de l'antigène vaccinal",
+   "L'hydroxyde d'aluminium est un adjuvant classique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les antigènes purifiés sont peu immunogènes seuls.",
+   "Exact : l'effet dépôt soutient la stimulation.",
+   "Exact : ils fournissent les signaux de danger nécessaires.",
+   "Faux : ils rompent la tolérance et favorisent l'activation.",
+   "Exact : l'alun est l'adjuvant historique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les vaccins polysaccharidiques, lesquelles sont exactes ?",
+  "options": [
+   "Les polysaccharides capsulaires sont des antigènes thymo-indépendants",
+   "Ils n'induisent pas de mémoire immunitaire chez le nourrisson",
+   "Ils n'entraînent pas de commutation de classe efficace",
+   "La conjugaison à une protéine porteuse les rend T-dépendants",
+   "Les vaccins polysaccharidiques non conjugués induisent une excellente mémoire chez le nourrisson"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : structures répétitives activant directement les LB.",
+   "Exact : le système immature du nourrisson n'y répond pas durablement.",
+   "Exact : réponses TI = IgM sans maturation.",
+   "Exact : le carrier recrute l'aide T et le centre germinatif.",
+   "Faux : sans conjugaison, pas de mémoire ; d'où les vaccins conjugués."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'immunité de groupe, lesquelles sont exactes ?",
+  "options": [
+   "Elle protège indirectement les non-vaccinés quand la couverture est élevée",
+   "Elle interrompt la circulation du pathogène dans la population",
+   "Elle protège les sujets ne pouvant être vaccinés (immunodéprimés, nourrissons)",
+   "Elle nécessite une couverture vaccinale suffisante selon la contagiosité",
+   "Elle rend la vaccination individuelle inutile"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la protection collective bénéficie aux non-immunisés.",
+   "Exact : la chaîne de transmission est rompue.",
+   "Exact : c'est leur seule protection contre certains pathogènes.",
+   "Exact : le seuil dépend du R0 (rougeole ~95 %).",
+   "Faux : la protection individuelle reste le fondement."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les contre-indications vaccinales, lesquelles sont exactes ?",
+  "options": [
+   "Les vaccins vivants sont contre-indiqués chez l'immunodéprimé sévère",
+   "La grossesse contre-indique les vaccins vivants par principe de précaution",
+   "Une allergie sévère à un composant contre-indique le vaccin concerné",
+   "Un simple rhume contre-indique toute vaccination",
+   "Les vaccins inactivés sont utilisables chez l'immunodéprimé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : risque de maladie vaccinale disséminée.",
+   "Exact : les vivants sont évités pendant la grossesse.",
+   "Exact : l'allergie à l'œuf (ancien) ou au composant impose des précautions.",
+   "Faux : une infection bénigne n'est pas une contre-indication.",
+   "Exact : sans réplication, ils sont sûrs chez l'immunodéprimé."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la sérovaccination, lesquelles sont exactes ?",
+  "options": [
+   "Elle associe immunisation passive et active simultanées",
+   "Les Ig apportent une protection immédiate en attendant la réponse vaccinale",
+   "Elle est utilisée dans la rage et le tétanos à risque",
+   "Elle induit une tolérance définitive",
+   "Les Ig passives n'interfèrent pas avec la réponse vaccinale active"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : sérothérapie + vaccination combinées.",
+   "Exact : les Ac passifs couvrent la période de latence.",
+   "Exact : indications classiques post-exposition.",
+   "Faux : elle n'induit aucune tolérance.",
+   "Faux : les Ac passifs peuvent atténuer la réponse au vaccin vivant."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'efficacité vaccinale, lesquelles sont exactes ?",
+  "options": [
+   "Elle se mesure par la réduction de l'incidence de la maladie",
+   "Les titres d'anticorps protecteurs sont des corrélats de protection",
+   "La mémoire cellulaire contribue à l'efficacité même à titres modestes",
+   "Un vaccin efficace protège 100 % des vaccinés",
+   "Les échecs vaccinaux incluent rupture de chaîne du froid et immunodépression"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'efficacité épidémiologique est le critère ultime.",
+   "Exact : seuils d'Ac (diphtérie, hépatite B) validés.",
+   "Exact : la mémoire T compense des titres limites.",
+   "Faux : aucun vaccin n'est efficace à 100 %.",
+   "Exact : conservation et terrain expliquent des échecs."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la vaccination muqueuse, lesquelles sont exactes ?",
+  "options": [
+   "La voie orale ou nasale induit des IgA sécrétoires locales",
+   "Elle mime la porte d'entrée naturelle des pathogènes",
+   "Le vaccin polio oral induit une immunité intestinale",
+   "Elle n'induit que des IgG sériques",
+   "La mémoire B muqueuse bloque la colonisation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les vaccins muqueux génèrent des IgA locales.",
+   "Exact : l'immunité naît au site d'entrée.",
+   "Exact : l'immunité intestinale stoppe la transmission.",
+   "Faux : les IgA sécrétoires sont l'effecteur majeur.",
+   "Exact : l'exclusion immune empêche l'implantation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les rappels et la mémoire à long terme, lesquelles sont exactes ?",
+  "options": [
+   "Sans rappel, les titres d'anticorps déclinent avec le temps",
+   "Les LB mémoires persistent malgré la baisse des titres",
+   "Un rappel tardif réactive efficacement les mémoires résiduels",
+   "La mémoire immunitaire est définitivement perdue après 5 ans",
+   "Le calendrier vaccinal adulte entretient la mémoire (dTPolio)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le catabolisme des Ig fait chuter les titres.",
+   "Exact : les mémoires survivent à la décroissance des Ac.",
+   "Exact : la réponse anamnestique reste possible des années après.",
+   "Faux : des mémoires pluri-décennales sont documentées.",
+   "Exact : les rappels décennaux maintiennent la protection."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la vaccination de l'immunodéprimé, lesquelles sont exactes ?",
+  "options": [
+   "Les vaccins inactivés sont préférés chez l'immunodéprimé",
+   "Les vaccins vivants y sont généralement contre-indiqués",
+   "La réponse vaccinale peut être atténuée nécessitant des schémas renforcés",
+   "La vaccination de l'entourage protège indirectement l'immunodéprimé",
+   "L'immunodéprimé ne doit jamais être vacciné"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : sécurité des vaccins sans réplication.",
+   "Exact : risque infectieux des souches vaccinales vivantes.",
+   "Exact : doses supplémentaires ou titres contrôlés.",
+   "Exact : le cocooning limite l'exposition.",
+   "Faux : la vaccination adaptée reste recommandée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les vaccins et la régulation immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "Un excès de Treg au moment vaccinal peut réduire l'immunogénicité",
+   "Les adjuvants limitent la régulation pour favoriser l'activation",
+   "La vaccination induit une mémoire sans tolérance au pathogène",
+   "Les vaccins provoquent une immunosuppression généralisée",
+   "La balance activation/régulation conditionne la qualité de la mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : une suppression excessive freine le priming.",
+   "Exact : les signaux de danger contrebalancent les Treg.",
+   "Exact : mémoire protectrice, pas tolérance.",
+   "Faux : la vaccination stimule, elle n'immunodéprime pas.",
+   "Exact : une régulation excessive donne une mémoire faible."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la désensibilisation allergénique, lesquelles sont exactes ?",
+  "options": [
+   "Elle consiste en l'administration répétée de doses croissantes d'allergène",
+   "Elle induit des lymphocytes T régulateurs spécifiques de l'allergène",
+   "Elle s'accompagne d'une production d'IgG4 bloquants",
+   "Elle diminue la production d'IgE spécifiques",
+   "C'est une forme d'immunisation passive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le protocole dose-escalade est la base.",
+   "Exact : les Treg IL-10+ sont induits.",
+   "Exact : les IgG4 compétitent avec les IgE.",
+   "Exact : le switch IgE/IgG4 signe l'efficacité.",
+   "Faux : c'est une immunothérapie active tolérogène."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les nouveaux vaccins (ARNm), lesquelles sont exactes ?",
+  "options": [
+   "Ils font produire l'antigène par les cellules de l'hôte",
+   "L'antigène endogène est présenté par le CMH de classe I aux LT CD8",
+   "Ils induisent une forte réponse humorale et cellulaire",
+   "Ils intègrent leur séquence dans le génome de l'hôte",
+   "Les rappels entretiennent la mémoire induite"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'ARNm est traduit en protéine antigénique.",
+   "Exact : la voie cytosolique alimente la présentation CD8.",
+   "Exact : Ac neutralisants et LT spécifiques.",
+   "Faux : l'ARNm ne s'intègre pas à l'ADN.",
+   "Exact : les boosters restaurent titres et mémoire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la vaccination antitétanique, lesquelles sont exactes ?",
+  "options": [
+   "Le vaccin est une anatoxine tétanique",
+   "La protection repose sur des anticorps neutralisants anti-toxine",
+   "La primo-vaccination du nourrisson comporte plusieurs injections",
+   "Des rappels réguliers entretiennent la protection",
+   "Le tétanos se transmet de personne à personne nécessitant une immunité de groupe"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : toxine détoxifiée au formol.",
+   "Exact : les Ac bloquent la toxine avant fixation neuronale.",
+   "Exact : 2, 4 et 11 mois en France.",
+   "Exact : rappels à 6 ans, 11-13 ans puis décennaux.",
+   "Faux : le tétanos n'est pas contagieux, pas d'immunité de groupe."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la vaccination anti-hépatite B, lesquelles sont exactes ?",
+  "options": [
+   "Le vaccin est un vaccin sous-unitaire (antigène HBs recombinant)",
+   "La protection est corrélée au taux d'anticorps anti-HBs",
+   "Le schéma comporte plusieurs injections (primo + rappels)",
+   "Il induit une mémoire B et T durable",
+   "C'est un vaccin vivant atténué"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : protéine HBs produite par génie génétique.",
+   "Exact : seuil protecteur ≥ 10 UI/L.",
+   "Exact : schéma 0-1-6 mois classiquement.",
+   "Exact : la protection persiste au-delà des titres.",
+   "Faux : c'est un vaccin sous-unitaire inactivé."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le BCG, lesquelles sont exactes ?",
+  "options": [
+   "C'est un vaccin vivant atténué contre la tuberculose",
+   "Il induit une immunité à médiation cellulaire Th1",
+   "La protection repose sur les LT CD4 mémoires producteurs d'IFN-gamma",
+   "Il protège efficacement contre toutes les formes de tuberculose de l'adulte",
+   "Il est administré par voie intradermique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : Mycobacterium bovis atténué.",
+   "Exact : la défense anti-mycobactérienne est Th1.",
+   "Exact : l'IFN-gamma active les macrophages.",
+   "Faux : l'efficacité contre la tuberculose pulmonaire adulte est limitée.",
+   "Exact : injection intradermique stricte."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les échecs de la mémoire vaccinale, lesquelles sont exactes ?",
+  "options": [
+   "La rupture de la chaîne du froid inactive certains vaccins",
+   "L'immunodépression au moment vaccinal réduit la mémoire induite",
+   "Des rappels trop rapprochés peuvent provoquer une hyporéponse",
+   "Les interférences des Ac maternels affectent les vaccins précoces",
+   "Tout échec vaccinal traduit un défaut génétique du vacciné"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les vaccins vivants sont thermosensibles.",
+   "Exact : le priming est altéré chez l'immunodéprimé.",
+   "Exact : l'hyporéponse post-booster précoce est décrite.",
+   "Exact : les IgG maternelles neutralisent certains vaccins.",
+   "Faux : la plupart des échecs sont logistiques ou liés au terrain."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les antigènes thymo-indépendants de type 1, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des activateurs polyclonaux des lymphocytes B",
+   "Ils activent le LB via les TLR et non via le BCR (ex. LPS via TLR4)",
+   "Ils induisent une réponse sans l'aide des lymphocytes T",
+   "Ils nécessitent obligatoirement la coopération des LTH",
+   "Le LPS bactérien en est l'exemple prototypique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : ils stimulent de nombreux clones B indépendamment de la spécificité.",
+   "Exact : la voie TLR contourne la reconnaissance BCR.",
+   "Exact : pas d'intervention des TH dans la RIH TI-1.",
+   "Faux : la définition même du TI exclut l'aide T.",
+   "Exact : le LPS, ligand de TLR4, est le modèle des TI-1."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les antigènes thymo-indépendants de type 2, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des molécules à structure répétitive (polyosides bactériens)",
+   "Elles activent le LB par pontage de plusieurs BCR membranaires",
+   "Elles induisent une réponse sans aide des lymphocytes T",
+   "Les polyosides capsulaires en sont des exemples",
+   "Elles induisent une mémoire immunitaire durable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la répétitivité est la caractéristique des TI-2.",
+   "Exact : le cross-linking multivalent des BCR déclenche l'activation.",
+   "Exact : l'aide T n'est pas requise.",
+   "Exact : capsules de pneumocoque, méningocoque, Hib.",
+   "Faux : les réponses TI ne génèrent pas de mémoire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les réponses thymo-indépendantes, lesquelles sont exactes ?",
+  "options": [
+   "Les réponses primaire et secondaire y sont identiques",
+   "Il n'y a pas de mémoire immunitaire",
+   "Il n'y a pas de commutation de classe (production majoritaire d'IgM)",
+   "Il n'y a pas de formation de centre germinatif",
+   "Elles produisent des IgG de haute affinité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : sans mémoire, chaque exposition équivaut à une primo-réponse.",
+   "Exact : pas de LB mémoires générés.",
+   "Exact : les TI restent bloqués à l'isotype IgM.",
+   "Exact : sans aide T, pas de GC.",
+   "Faux : pas de GC donc pas d'IgG affins."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les antigènes thymo-dépendants, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont majoritairement des protéines",
+   "Leur reconnaissance par le LB ne suffit pas à déclencher la synthèse d'Ig",
+   "Ils nécessitent la coopération des lymphocytes T helper",
+   "L'interaction CD40/CD40L est indispensable à la réponse",
+   "Ils induisent des réponses sans aucune aide T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les protéines sont les antigènes TD prototypiques.",
+   "Exact : l'aide TH est requise pour la production d'Ig.",
+   "Exact : la coopération TH-B est le cœur de la réponse TD.",
+   "Exact : le signal CD40 est obligatoire.",
+   "Faux : la dépendance aux TH définit ces antigènes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la coopération T-B dans les réponses TD, lesquelles sont exactes ?",
+  "options": [
+   "Le LB capture l'antigène par son BCR et le présente au LTH",
+   "Le LTH activé exprime CD40L et sécrète des cytokines vers le LB",
+   "Les cytokines (IL-4, IL-5, IL-2) activent la prolifération du LB",
+   "Le conjugué B-TH organise ces échanges",
+   "Le LB s'active pleinement sans aucun signal du LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LB est aussi une cellule présentatrice pour le TH.",
+   "Exact : CD40L + cytokines = signaux d'aide.",
+   "Exact : ces interleukines stimulent le LB.",
+   "Exact : la synapse B-T concentre les signaux.",
+   "Faux : sans aide T, pas de réponse TD."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la réponse secondaire TD, lesquelles sont exactes ?",
+  "options": [
+   "La commutation de classe a déjà eu lieu lors de la réponse primaire",
+   "Les LB mémoires produisent rapidement des IgG affins",
+   "La réponse est plus rapide et plus intense",
+   "Elle reste dépendante d'une aide T, facilitée par les LTH mémoires",
+   "Elle est identique à une réponse thymo-indépendante"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les mémoires sont déjà commutés.",
+   "Exact : différenciation plasmocytaire accélérée.",
+   "Exact : cinétique anamnestique typique.",
+   "Exact : l'aide des helpers mémoires est rapide.",
+   "Faux : mémoire, GC et commutation la distinguent des TI."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les vaccins conjugués, lesquelles sont exactes ?",
+  "options": [
+   "Ils couplent un polysaccharide TI à une protéine porteuse TD",
+   "La protéine recrute l'aide des lymphocytes T",
+   "Ils induisent centre germinatif, commutation et mémoire B",
+   "Ils sont efficaces chez le nourrisson contrairement aux polysaccharides seuls",
+   "Ils induisent uniquement des IgM sans commutation de classe"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le principe de la conjugaison.",
+   "Exact : les épitopes T du carrier sont présentés.",
+   "Exact : la voie TD ouvre GC et mémoire.",
+   "Exact : d'où leur usage dès 2 mois.",
+   "Faux : la conjugaison permet précisément commutation et IgG."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le nourrisson et les antigènes TI-2, lesquelles sont exactes ?",
+  "options": [
+   "Le nourrisson répond mal aux polysaccharides non conjugués",
+   "La zone marginale de la rate, impliquée dans les réponses TI-2, est immature",
+   "Les vaccins conjugués contournent cette immaturité",
+   "Le nourrisson produit d'excellentes réponses mémoires aux polysaccharides seuls",
+   "La maturation vers 2 ans améliore les réponses aux TI-2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : pas de mémoire ni de protection durable.",
+   "Exact : les LB de la zone marginale répondent aux TI-2.",
+   "Exact : la voie TD recrutée est fonctionnelle tôt.",
+   "Faux : sans conjugaison, la réponse reste faible et sans mémoire.",
+   "Exact : la maturation splénique améliore ces réponses."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la rate et les réponses TI, lesquelles sont exactes ?",
+  "options": [
+   "La rate filtre les antigènes sanguins dont les polysaccharides encapsulés",
+   "Les LB de la zone marginale sont spécialisés dans les réponses TI-2",
+   "La splénectomie expose aux infections à germes encapsulés",
+   "Les splénectomisés doivent être vaccinés contre pneumocoque et méningocoque",
+   "La rate est inutile dans les réponses thymo-indépendantes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la rate est le filtre des Ag sanguins.",
+   "Exact : ces LB répondent vite aux polyosides.",
+   "Exact : le risque d'infections fulminantes post-splénectomie est majeur.",
+   "Exact : la vaccination prévient ces infections.",
+   "Faux : la rate est centrale dans les réponses TI."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le tableau comparatif TI/TD, lesquelles sont exactes ?",
+  "options": [
+   "Nature de l'antigène : polysaccharides répétés (TI) versus protéines (TD)",
+   "Aide T : absente (TI) versus indispensable (TD)",
+   "Centre germinatif : absent (TI) versus présent (TD)",
+   "Mémoire : absente (TI) versus présente (TD)",
+   "Isotype : IgG affins dans les deux types de réponse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la nature chimique distingue les deux voies.",
+   "Exact : critère définitoire de la classification.",
+   "Exact : le GC nécessite l'aide T.",
+   "Exact : seule la voie TD génère des LB mémoires.",
+   "Faux : les TI restent IgM, les TD produisent des IgG affins."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la réponse TI-1 aux faibles doses, lesquelles sont exactes ?",
+  "options": [
+   "À faible dose, le LPS active polyclonalement les LB via TLR4",
+   "À forte dose, il peut induire une paralysie immunitaire",
+   "La réponse TI-1 est spécifique de l'antigène via le BCR",
+   "Les TI-1 n'induisent pas de mémoire spécifique",
+   "Le LPS à forte dose est un mitogène B puissant"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : l'effet mitogène polyclonal passe par TLR4.",
+   "Exact : les fortes doses peuvent tolériser.",
+   "Faux : l'activation est polyclonale, indépendante de la spécificité BCR.",
+   "Exact : pas de GC ni de mémoire.",
+   "Exact : mitogène B classique en immunologie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la commutation dans les réponses TI, lesquelles sont exactes ?",
+  "options": [
+   "Les réponses TI-1 et TI-2 restent majoritairement IgM",
+   "Une commutation limitée vers IgG3/IgG2 est possible dans certaines réponses TI",
+   "La commutation massive vers IgG, IgA, IgE requiert l'aide T",
+   "Le déficit en CD40L n'affecte pas les réponses TI",
+   "Les réponses TI produisent des IgE de haute affinité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'isotype dominant reste l'IgM.",
+   "Exact : une commutation extra-folliculaire restreinte existe.",
+   "Exact : le GC TD est nécessaire à la commutation complète.",
+   "Exact : les TI contournent la voie CD40/CD40L.",
+   "Faux : pas de GC donc pas d'IgE affins."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'aide T dans la régulation des isotypes, lesquelles sont exactes ?",
+  "options": [
+   "L'IL-4 (Th2) oriente vers les IgE",
+   "L'IFN-gamma (Th1) oriente vers les IgG opsonisantes",
+   "Le TGF-bêta oriente vers les IgA",
+   "Sans cytokines T, la commutation isotypique est très limitée",
+   "Les isotypes sont déterminés aléatoirement sans contrôle T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la signature cytokinique Th2 dirige l'IgE.",
+   "Exact : Th1 favorise les IgG cytophiles.",
+   "Exact : le TGF-bêta dirige la commutation muqueuse IgA.",
+   "Exact : les signaux T sont indispensables.",
+   "Faux : la commutation est finement régulée par les cytokines."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la mémoire après infection naturelle versus TI, lesquelles sont exactes ?",
+  "options": [
+   "Les infections à protéines induisent une mémoire B et T durable",
+   "Les infections à bactéries encapsulées peuvent laisser une mémoire limitée",
+   "La conjugaison vaccinale corrige le défaut de mémoire des polysaccharides",
+   "Toutes les infections induisent une mémoire identique",
+   "La nature de l'antigène conditionne la qualité de la mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les Ag protéiques TD génèrent une mémoire complète.",
+   "Exact : les polyosides seuls donnent une protection de courte durée.",
+   "Exact : les vaccins conjugués créent une vraie mémoire anti-capsulaire.",
+   "Faux : TI et TD donnent des mémoires très différentes.",
+   "Exact : TD = mémoire durable, TI = réponse éphémère."
+  ]
+ }
+]

@@ -1,0 +1,4583 @@
+[
+ {
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les leishmanioses sont des zoonoses communes à l'homme et à certains animaux.",
+   "Faux : Leishmania est un protozoaire flagellé, pas une bactérie, et le vecteur est le phlébotome, pas la tique.",
+   "Exact : l'agent causal est un protozoaire flagellé du genre Leishmania.",
+   "Exact : la transmission est vectorielle par piqûre du phlébotome femelle.",
+   "Faux : ce sont des parasitoses à protozoaires, avec des formes viscérales, cutanées et cutanéo-muqueuses."
+  ],
+  "options": [
+   "Ce sont des affections communes à l'homme et à certains animaux (zoonoses).",
+   "Elles sont causées par des bactéries du genre Leishmania transmises par les tiques.",
+   "L'agent pathogène est un protozoaire flagellé du genre Leishmania.",
+   "La transmission se fait par la piqûre du phlébotome, moustique hématophage.",
+   "Ce sont des mycoses profondes à tropisme cutané exclusif."
+  ],
+  "q": "Concernant la définition générale des leishmanioses, lesquelles de ces affirmations sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : tropisme électif pour le système des phagocytes mononucléés.",
+   "Exact : les monocytes font partie des cellules cibles.",
+   "Exact : les formes amastigotes se multiplient dans les histiocytes et macrophages.",
+   "Faux : les polynucléaires neutrophiles ne sont pas le site de multiplication.",
+   "Faux : les lymphocytes B ne sont pas les cellules hôtes du parasite."
+  ],
+  "options": [
+   "Les leishmanies ont un tropisme électif pour le système phagocytaire mononucléé.",
+   "Les monocytes sont des cellules cibles des leishmanies.",
+   "Les histiocytes et les macrophages hébergent les formes amastigotes.",
+   "Les leishmanies se multiplient préférentiellement dans les polynucléaires neutrophiles.",
+   "Les lymphocytes B sont le principal site de multiplication du parasite."
+  ],
+  "q": "À propos du tropisme parasitaire des leishmanies, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la leishmaniose viscérale est une forme majeure.",
+   "Exact : la leishmaniose cutanée localisée est une forme classique.",
+   "Exact : la forme cutanée diffuse est décrite (ex. L. aethiopica).",
+   "Exact : certaines espèces donnent des formes cutanéo-muqueuses.",
+   "Faux : le spectre comprend quatre formes, pas uniquement la forme cutanée."
+  ],
+  "options": [
+   "La forme viscérale (kala-azar) est une des formes cliniques possibles.",
+   "La forme cutanée localisée fait partie du spectre clinique.",
+   "La forme cutanée diffuse est décrite dans les leishmanioses.",
+   "La forme cutanéo-muqueuse existe selon l'espèce en cause.",
+   "La seule forme clinique possible est la forme cutanée ulcérée."
+  ],
+  "q": "Parmi les propositions suivantes relatives aux formes cliniques des leishmanioses, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : L. donovani cause le kala-azar indien.",
+   "Exact : L. infantum cause le kala-azar méditerranéen.",
+   "Faux : L. tropica est un agent de leishmaniose cutanée, pas viscérale.",
+   "Faux : L. major est un agent de leishmaniose cutanée (forme humide).",
+   "Exact : L. chagasi est synonyme de L. infantum au Nouveau Monde."
+  ],
+  "options": [
+   "Leishmania donovani est responsable du kala-azar indien.",
+   "Leishmania infantum est responsable du kala-azar méditerranéen.",
+   "Leishmania tropica est l'agent principal de la leishmaniose viscérale.",
+   "Leishmania major donne classiquement une forme viscérale.",
+   "Leishmania chagasi est en réalité Leishmania infantum du Nouveau Monde."
+  ],
+  "q": "Concernant les espèces de Leishmania responsables des formes viscérales, quelle(s) affirmation(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : L. tropica donne la forme cutanée sèche.",
+   "Exact : L. major donne la forme cutanée humide zoonotique.",
+   "Exact : L. aethiopica est associée à la forme cutanée diffuse.",
+   "Exact : certaines souches de L. infantum sont dermotropes.",
+   "Faux : L. donovani est viscérotrope ; le bouton d'Orient est dû à L. tropica/L. major."
+  ],
+  "options": [
+   "Leishmania tropica est un agent de leishmaniose cutanée (forme sèche).",
+   "Leishmania major est un agent de leishmaniose cutanée (forme humide).",
+   "Leishmania aethiopica peut donner une forme cutanée diffuse.",
+   "Leishmania infantum peut avoir un tropisme cutané (formes dermotropes).",
+   "Leishmania donovani est l'agent habituel du bouton d'Orient."
+  ],
+  "q": "Relativement aux espèces responsables des leishmanioses cutanées de l'Ancien Monde, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : L. mexicana est une espèce américaine.",
+   "Faux : L. braziliensis existe bien (agent de leishmaniose cutanéo-muqueuse).",
+   "Exact : L. panamensis est une espèce du Nouveau Monde.",
+   "Exact : L. peruviana est une espèce du Nouveau Monde.",
+   "Exact : L. venezuelensis est décrite au Nouveau Monde."
+  ],
+  "options": [
+   "Leishmania mexicana est une espèce du Nouveau Monde.",
+   "Leishmania braziliensis n'existe pas dans la classification des leishmanies.",
+   "Leishmania panamensis appartient au Nouveau Monde.",
+   "Leishmania peruviana est une espèce du Nouveau Monde.",
+   "Leishmania venezuelensis est décrite au Nouveau Monde."
+  ],
+  "q": "Au sujet des espèces de Leishmania du Nouveau Monde, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le promastigote est fusiforme avec un grand flagelle.",
+   "Exact : le kinétoplaste est situé à l'insertion du flagelle.",
+   "Exact : forme extracellulaire douée d'une grande mobilité.",
+   "Exact : on la trouve dans l'intestin du vecteur.",
+   "Faux : cette description correspond à la forme amastigote."
+  ],
+  "options": [
+   "C'est un corps fusiforme pourvu d'un grand flagelle.",
+   "Le kinétoplaste se situe au niveau de l'insertion du flagelle.",
+   "C'est une forme extracellulaire très mobile.",
+   "Elle se rencontre dans l'intestin du phlébotome.",
+   "C'est une forme ovoïde immobile à flagelle réduit."
+  ],
+  "q": "S'agissant de la forme promastigote de Leishmania, lesquelles de ces affirmations sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : forme ovoïde, flagelle réduit à une ébauche apicale.",
+   "Exact : l'absence de flagelle fonctionnel la rend immobile.",
+   "Exact : aspect typique en Giemsa (noyau et kinétoplaste rouges sur cytoplasme bleu).",
+   "Exact : forme intracellulaire obligatoire des macrophages.",
+   "Faux : 27 °C correspond aux cultures de promastigotes ; l'amastigote se développe à 37 °C."
+  ],
+  "options": [
+   "C'est une forme ovoïde à flagelle réduit à une ébauche apicale antérieure.",
+   "Elle est immobile du fait de la réduction du flagelle.",
+   "À la coloration de Giemsa, le noyau et le kinétoplaste se colorent en rouge sur fond bleu du cytoplasme.",
+   "C'est une forme intracellulaire des cellules macrophagiques.",
+   "Elle se cultive à 27 °C comme les promastigotes."
+  ],
+  "q": "Concernant la forme amastigote (micromastigote) de Leishmania, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : 27 °C est la température des cultures de promastigotes.",
+   "Exact : 37 °C (température corporelle) pour les amastigotes intracellulaires.",
+   "Exact : le milieu NNN modifié est le milieu de culture de référence.",
+   "Faux : à 37 °C c'est la forme amastigote qui se développe.",
+   "Exact : 27 °C mime la température ambiante du tube digestif du vecteur."
+  ],
+  "options": [
+   "Les promastigotes se cultivent in vitro à 27 °C.",
+   "Les amastigotes se développent en cultures cellulaires à 37 °C.",
+   "Le milieu NNN modifié permet d'obtenir des formes promastigotes.",
+   "La culture à 37 °C favorise la forme promastigote extracellulaire.",
+   "La culture à 27 °C reproduit les conditions de l'intestin du phlébotome."
+  ],
+  "q": "Parmi ces affirmations sur les conditions de culture des leishmanies, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : multiplication amastigote intramacrophagique.",
+   "Exact : la fission binaire est le mode de division.",
+   "Exact : la cellule hôte est distendue puis éclate.",
+   "Exact : les parasites libérés infectent aussitôt de nouvelles cellules.",
+   "Faux : chez l'homme la forme est amastigote intracellulaire, pas promastigote libre dans le sang."
+  ],
+  "options": [
+   "La multiplication se fait sous forme amastigote dans les macrophages.",
+   "La division se fait par fission binaire.",
+   "Les parasites distendent la cellule hôte jusqu'à son éclatement.",
+   "Après éclatement, les parasites libérés pénètrent de nouvelles cellules.",
+   "Le parasite se multiplie sous forme promastigote dans le sang circulant."
+  ],
+  "q": "Au sujet du cycle évolutif de Leishmania chez l'homme, laquelle(lesquelles) de ces propositions est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : seule la femelle est hématophage et donc vectrice.",
+   "Exact : le vecteur se contamine sur un hôte malade (homme ou animal).",
+   "Exact : il ingère des cellules parasitées avec le sang.",
+   "Exact : développement promastigote dans l'intestin du phlébotome.",
+   "Faux : il faut environ une semaine avant que le vecteur puisse transmettre des parasites infectieux."
+  ],
+  "options": [
+   "Seule la femelle du phlébotome, hématophage, s'infecte en piquant.",
+   "L'infection du vecteur se fait en piquant un homme ou un animal malade.",
+   "Le vecteur absorbe des cellules parasitées lors du repas sanguin.",
+   "La multiplication sous forme promastigote a lieu dans l'intestin du vecteur.",
+   "Le phlébotome devient infectant immédiatement après le repas sanguin."
+  ],
+  "q": "Concernant le cycle chez le phlébotome, quelle(s) affirmation(s) est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : délai d'environ une semaine pour la maturation dans le vecteur.",
+   "Exact : ce sont des promastigotes métacycliques infectieux qui sont inoculés.",
+   "Faux : la transmission est vectorielle, pas par contact interhumain direct.",
+   "Exact : l'inoculation se fait par la piqûre dans la peau.",
+   "Faux : le mode principal est la piqûre du phlébotome, pas la transfusion."
+  ],
+  "options": [
+   "Le phlébotome peut transmettre les parasites environ une semaine après son repas infectant.",
+   "Les formes transmises par le vecteur sont des promastigotes infectieux.",
+   "La transmission interhumaine directe par contact est le mode habituel.",
+   "La piqûre du phlébotome inocule les parasites dans la peau de l'hôte.",
+   "La transfusion sanguine est le principal mode de transmission des leishmanioses."
+  ],
+  "q": "Relativement à la transmission vectorielle, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le parasite résiste à la destruction par le macrophage.",
+   "Exact : les leishmanies possèdent des mécanismes d'échappement.",
+   "Exact : survie et multiplication intramacrophagiques sont la base du cycle.",
+   "Faux : le parasite n'est pas détruit, il s'y multiplie.",
+   "Faux : les formes intracellulaires échappent aux anticorps ; l'immunité cellulaire est déterminante."
+  ],
+  "options": [
+   "Le macrophage ne parvient pas à détruire le phlébotome car ce dernier possède des mécanismes de résistance.",
+   "Le parasite développe un système d'échappement à la destruction intramacrophagique.",
+   "Les leishmanies survivent et se multiplient à l'intérieur des macrophages.",
+   "Le parasite est systématiquement détruit dès sa phagocytose par le macrophage.",
+   "L'immunité humorale seule suffit à éliminer les formes amastigotes intracellulaires."
+  ],
+  "q": "À propos des mécanismes d'échappement du parasite, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : seules certaines espèces ont cette propriété.",
+   "Exact : d'où les leishmanioses cutanéo-muqueuses.",
+   "Exact : les espèces viscérotropes donnent le kala-azar.",
+   "Faux : cette capacité est variable selon les espèces.",
+   "Exact : le tableau clinique dépend de l'espèce en cause."
+  ],
+  "options": [
+   "Certaines espèces de Leishmania peuvent franchir la barrière cutanéo-muqueuse.",
+   "Le franchissement de cette barrière conduit aux formes cutanéo-muqueuses.",
+   "D'autres espèces ont un tropisme viscéral et donnent des formes viscérales.",
+   "Toutes les espèces franchissent indistinctement la barrière cutanéo-muqueuse.",
+   "Le pouvoir de franchissement dépend de l'espèce parasitaire en cause."
+  ],
+  "q": "Concernant le franchissement de la barrière cutanéo-muqueuse, lesquelles de ces affirmations sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : L. donovani (Inde) appartient à l'Ancien Monde.",
+   "Exact : L. infantum est présent sur les deux continents (chagasi en Amérique).",
+   "Exact : L. tropica est une espèce de l'Ancien Monde.",
+   "Faux : L. mexicana est une espèce du Nouveau Monde.",
+   "Exact : L. major sévit dans l'Ancien Monde (Afrique du Nord, Moyen-Orient)."
+  ],
+  "options": [
+   "Leishmania donovani sévit dans l'Ancien Monde.",
+   "Leishmania infantum existe dans l'Ancien et le Nouveau Monde (L. chagasi).",
+   "Leishmania tropica est une espèce de l'Ancien Monde.",
+   "Leishmania mexicana est une espèce de l'Ancien Monde.",
+   "Leishmania major est une espèce de l'Ancien Monde."
+  ],
+  "q": "S'agissant de la répartition géographique des espèces, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : L. infantum cause le kala-azar méditerranéen.",
+   "Exact : des souches dermotropes donnent des lésions cutanées.",
+   "Exact : au Maroc, la LV de l'enfant est due à L. infantum.",
+   "Faux : L. infantum peut aussi être dermotrope.",
+   "Exact : le chien est le réservoir domestique principal au Maroc."
+  ],
+  "options": [
+   "C'est l'agent du kala-azar méditerranéen.",
+   "Certaines souches sont dermotropes et donnent des formes cutanées.",
+   "Au Maroc, c'est l'agent de la leishmaniose viscérale de l'enfant.",
+   "C'est une espèce strictement viscérotrope sans aucune forme cutanée.",
+   "Son réservoir principal au Maroc est le chien."
+  ],
+  "q": "Parmi ces propositions sur Leishmania infantum, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : L. tropica donne la forme sèche.",
+   "Exact : L. major donne la forme humide zoonotique.",
+   "Exact : le réservoir de L. tropica est l'homme malade.",
+   "Exact : mérions et psammomys sont les réservoirs de L. major.",
+   "Faux : ce sont des agents de leishmanioses cutanées."
+  ],
+  "options": [
+   "L. tropica est l'agent de la forme cutanée sèche.",
+   "L. major est l'agent de la forme cutanée humide zoonotique.",
+   "L. tropica est à transmission essentiellement anthroponotique.",
+   "L. major a pour réservoir principal les rongeurs.",
+   "L. tropica et L. major sont des agents de leishmaniose viscérale."
+  ],
+  "q": "Au sujet de Leishmania tropica et Leishmania major, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le kinétoplaste est l'ADN mitochondrial des trypanosomatidés.",
+   "Exact : localisation à la base du flagelle chez le promastigote.",
+   "Exact : coloration rouge en Giemsa, comme le noyau.",
+   "Faux : il est présent dans les deux formes (visible en Giemsa sur l'amastigote).",
+   "Exact : noyau + kinétoplaste = aspect diagnostique de l'amastigote."
+  ],
+  "options": [
+   "C'est une structure d'ADN mitochondrial caractéristique des kinétoplastidés.",
+   "Chez le promastigote, il se situe au niveau de l'insertion du flagelle.",
+   "En coloration de Giemsa, il se colore en rouge.",
+   "Il est absent chez les formes amastigotes.",
+   "Sa mise en évidence aide au diagnostic morphologique."
+  ],
+  "q": "Concernant le kinétoplaste des leishmanies, quelle(s) proposition(s) est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : opposition morphologique et de mobilité entre les deux formes.",
+   "Exact : extracellulaire chez le vecteur versus intracellulaire chez l'hôte.",
+   "Exact : températures de développement différentes selon la forme.",
+   "Faux : seul le promastigote a un grand flagelle ; celui de l'amastigote est réduit.",
+   "Exact : promastigote = intestin du phlébotome, amastigote = macrophages de l'hôte."
+  ],
+  "options": [
+   "Le promastigote est fusiforme et mobile, l'amastigote ovoïde et immobile.",
+   "Le promastigote est extracellulaire, l'amastigote intracellulaire.",
+   "Le promastigote se développe à 27 °C, l'amastigote à 37 °C.",
+   "Les deux formes possèdent un grand flagelle libre.",
+   "Le promastigote vit dans le vecteur, l'amastigote dans l'hôte vertébré."
+  ],
+  "q": "Relativement aux caractères distinctifs des deux formes parasitaires, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la recherche directe repose sur la mise en évidence des amastigotes.",
+   "Exact : aspect typique rouge sur fond bleu en Giemsa.",
+   "Exact : fixation au méthanol du frottis mince avant coloration.",
+   "Faux : chez le malade, la forme présente dans les tissus est l'amastigote.",
+   "Exact : Giemsa est la coloration standard du diagnostic direct."
+  ],
+  "options": [
+   "Elle met en évidence les formes amastigotes sur frottis.",
+   "Le noyau et le kinétoplaste apparaissent rouges sur fond bleu du cytoplasme.",
+   "Le frottis doit être fixé au méthanol avant coloration.",
+   "Elle permet de visualiser les promastigotes dans les tissus du malade.",
+   "C'est la coloration de référence pour la recherche directe du parasite."
+  ],
+  "q": "À propos de la coloration de Giemsa dans le diagnostic des leishmanioses, quelle(s) affirmation(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : répartition mondiale sur 4 continents, 88 pays.",
+   "Exact : 22 pays dans le Nouveau Monde, 66 dans l'Ancien Monde.",
+   "Exact : la leishmaniose cutanée est immunisante.",
+   "Exact : conséquence de son caractère immunisant.",
+   "Faux : ce sont des parasitoses vectorielles, sans lien avec le milieu nosocomial."
+  ],
+  "options": [
+   "Les leishmanioses sévissent sur 4 continents et dans 88 pays.",
+   "On compte 22 pays touchés dans le Nouveau Monde et 66 dans l'Ancien Monde.",
+   "La leishmaniose cutanée est une maladie immunisante.",
+   "La guérison d'une leishmaniose cutanée confère une immunité durable.",
+   "Les leishmanioses sont des maladies à déclaration strictement nosocomiale."
+  ],
+  "q": "Parmi ces propositions épidémiologiques générales, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : pic d'atteinte humaine en octobre-novembre.",
+   "Exact : l'homme est un hôte accidentel, pas un réservoir.",
+   "Exact : mérions et psammomys sont les réservoirs.",
+   "Faux : pour L. major le réservoir est animal, pas humain.",
+   "Exact : la saisonnalité suit celle des phlébotomes."
+  ],
+  "options": [
+   "L'homme est surtout touché en octobre-novembre.",
+   "L'homme ne représente pas un réservoir épidémiologique pour L. major.",
+   "Le réservoir est zoonotique, constitué de rongeurs.",
+   "L'homme joue le rôle de réservoir principal comme dans L. tropica.",
+   "La transmission est saisonnière, liée à l'activité du vecteur."
+  ],
+  "q": "S'agissant des particularités épidémiologiques de L. major, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la forme viscérale classique n'a pas de lésions cutanées.",
+   "Exact : l'homme y est une impasse parasitaire.",
+   "Exact : le réservoir des souches dermotropes reste inconnu.",
+   "Exact : les formes sporadiques à L. infantum sont lupoïdes de la face.",
+   "Faux : les lésions cutanées n'existent que dans les formes dermotropes."
+  ],
+  "options": [
+   "L. infantum ne donne pas de lésions cutanées chez l'homme dans sa forme viscérale classique.",
+   "Dans la leishmaniose viscérale à L. infantum, l'homme n'est qu'une impasse parasitaire.",
+   "Le réservoir des formes dermotropes de L. infantum n'est pas connu.",
+   "L. infantum dermotrope donne des lésions lupoïdes de la face.",
+   "Toute infection à L. infantum s'accompagne obligatoirement de lésions cutanées."
+  ],
+  "q": "Concernant L. infantum et les formes dermotropes, laquelle(lesquelles) de ces affirmations est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : L. aethiopica donne la forme cutanée diffuse.",
+   "Exact : lésions papulo-nodulaires disséminées, riches en parasites.",
+   "Faux : le cours précise que les formes diffuses ne sont pas présentes au Maroc.",
+   "Exact : elle reflète une anergie cellulaire spécifique.",
+   "Faux : c'est L. aethiopica, pas L. tropica."
+  ],
+  "options": [
+   "Leishmania aethiopica peut être responsable de formes cutanées diffuses.",
+   "La forme cutanée diffuse se caractérise par des lésions disséminées non ulcérées.",
+   "Elle est fréquente au Maroc selon le cours.",
+   "Elle traduit un déficit de l'immunité cellulaire vis-à-vis du parasite.",
+   "Leishmania tropica est l'agent habituel de la forme diffuse."
+  ],
+  "q": "Au sujet de la leishmaniose cutanée diffuse, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : ce sont les deux agents classiques de la LV.",
+   "Exact : kala-azar indien = L. donovani.",
+   "Exact : kala-azar méditerranéen = L. infantum.",
+   "Faux : L. tropica est cutanéotrope, pas viscérotrope.",
+   "Exact : la LV à L. infantum touche surtout l'enfant avant la puberté."
+  ],
+  "options": [
+   "L. donovani et L. infantum sont les deux espèces viscérotropes majeures.",
+   "L. donovani sévit en Inde (kala-azar indien).",
+   "L. infantum sévit autour de la Méditerranée (kala-azar méditerranéen).",
+   "L. tropica est plus viscérotrope que L. donovani.",
+   "Les deux espèces touchent préférentiellement l'enfant avant la puberté pour L. infantum."
+  ],
+  "q": "Parmi ces affirmations comparant les espèces viscérotropes, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : le vecteur est un diptère hématophage.",
+   "Exact : seule la femelle, hématophage, transmet le parasite.",
+   "Faux : le mâle ne pique pas et ne joue aucun rôle vectoriel.",
+   "Exact : sans repas de sang, pas de transmission.",
+   "Faux : la piqûre est douloureuse selon le cours."
+  ],
+  "options": [
+   "Le vecteur des leishmanioses est un insecte diptère.",
+   "Seule la femelle du phlébotome est hématophage.",
+   "Les mâles et les femelles transmettent indifféremment le parasite.",
+   "La transmission nécessite un repas de sang de la femelle.",
+   "La piqûre du phlébotome est totalement indolore."
+  ],
+  "q": "Concernant le vecteur des leishmanioses, lesquelles de ces affirmations sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : corps velu avec grandes ailes.",
+   "Exact : aspect frêle et bossu.",
+   "Exact : coloration jaunâtre.",
+   "Exact : petite taille caractéristique des phlébotomes.",
+   "Faux : le phlébotome est un petit insecte frêle, pas robuste."
+  ],
+  "options": [
+   "Le phlébotome a un corps velu avec de grandes ailes.",
+   "Il a un aspect frêle et bossu.",
+   "Sa couleur est jaune.",
+   "C'est un insecte de petite taille.",
+   "C'est un insecte robuste de grande taille à corps lisse."
+  ],
+  "q": "À propos de la morphologie du phlébotome, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : activité crépusculaire et nocturne.",
+   "Exact : vol de courte durée et bruyant.",
+   "Exact : la piqûre est douloureuse.",
+   "Faux : l'activité est nocturne, pas diurne.",
+   "Faux : le vol est court et bruyant."
+  ],
+  "options": [
+   "L'activité du phlébotome est nocturne.",
+   "Son vol est bruyant et de courte durée.",
+   "Sa piqûre est douloureuse.",
+   "Le phlébotome pique préférentiellement en plein jour.",
+   "Son vol est long, silencieux et planant."
+  ],
+  "q": "Relativement au comportement du phlébotome, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : gîtes terrestres sur sol sablonneux.",
+   "Exact : anfractuosités rocheuses et murales.",
+   "Exact : gîtes dans les maisons (fissures).",
+   "Exact : ce sont des gîtes terrestres, pas aquatiques.",
+   "Faux : pas de gîtes larvaires aquatiques comme les moustiques."
+  ],
+  "options": [
+   "Le phlébotome a des gîtes terrestres sur sol sablonneux.",
+   "Il fréquente les anfractuosités dans les rochers.",
+   "On le trouve dans les fissures des maisons.",
+   "Ses gîtes sont terrestres et abrités.",
+   "Ses larves se développent dans les eaux stagnantes comme celles des anophèles."
+  ],
+  "q": "Concernant les gîtes du phlébotome, quelle(s) affirmation(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : température et humidité influencent le biotope.",
+   "Exact : les besoins trophiques (repas de sang) modulent le biotope.",
+   "Exact : abiotiques et biotiques déterminent la distribution.",
+   "Exact : conséquence pratique de la variabilité du biotope.",
+   "Faux : le biotope est variable, ce qui complique la lutte antivectorielle."
+  ],
+  "options": [
+   "La température et l'humidité influencent le biotope du phlébotome.",
+   "Les besoins trophiques (facteurs biotiques) modifient son biotope.",
+   "Le biotope est variable selon les facteurs abiotiques et biotiques.",
+   "La lutte antivectorielle doit tenir compte de cette variabilité.",
+   "Le biotope du phlébotome est fixe et identique en toutes circonstances."
+  ],
+  "q": "Au sujet du biotope du phlébotome, laquelle(lesquelles) de ces propositions est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : couple P. sergenti / L. tropica.",
+   "Exact : couple P. perniciosus / L. infantum.",
+   "Exact : couple P. papatasi / L. major.",
+   "Exact : ces trois espèces sont les principales au Maroc.",
+   "Faux : P. ariasi n'est pas cité parmi les principales espèces marocaines du cours."
+  ],
+  "options": [
+   "Phlebotomus sergenti transmet Leishmania tropica au Maroc.",
+   "Phlebotomus perniciosus transmet Leishmania infantum au Maroc.",
+   "Phlebotomus papatasi transmet Leishmania major au Maroc.",
+   "Ces trois espèces sont les principales espèces de phlébotomes au Maroc.",
+   "Phlebotomus ariasi est le principal vecteur de L. major au Maroc."
+  ],
+  "q": "Parmi ces propositions sur les espèces de phlébotomes au Maroc, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les données du cours (couple vecteur/parasite au Maroc).",
+   "Exact : P. perniciosus véhicule L. infantum.",
+   "Exact : P. papatasi véhicule L. major.",
+   "Faux : P. sergenti est associé à L. tropica, pas à L. infantum.",
+   "Faux : P. perniciosus est associé à L. infantum, pas à L. major."
+  ],
+  "options": [
+   "P. sergenti est le vecteur de L. tropica.",
+   "P. perniciosus est le vecteur de L. infantum.",
+   "P. papatasi est le vecteur de L. major.",
+   "P. sergenti est le vecteur de L. infantum.",
+   "P. perniciosus est le vecteur de L. major."
+  ],
+  "q": "S'agissant des couples vecteur-espèce parasitaire au Maroc, quelle(s) affirmation(s) est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : il transmet aussi des phlebovirus (fièvre à phlébotomes).",
+   "Exact : seule la femelle est hématophage.",
+   "Exact : diptère, ordre des insectes à deux ailes.",
+   "Faux : le phlébotome a un vol bruyant de courte durée.",
+   "Exact : vecteur biologique avec multiplication du parasite dans l'intestin."
+  ],
+  "options": [
+   "Le phlébotome est aussi vecteur de virus (ex. fièvre à phlébotomes).",
+   "Seule la femelle hématophage joue un rôle dans la transmission.",
+   "C'est un insecte de l'ordre des diptères.",
+   "Son vol est silencieux et soutenu sur de longues distances.",
+   "La transmission de Leishmania par le phlébotome est de type biologique."
+  ],
+  "q": "Concernant les caractéristiques générales du phlébotome, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le vecteur pique surtout la nuit, protection nocturne utile.",
+   "Exact : moustiquaires imprégnées = barrière mécanique efficace.",
+   "Exact : éliminer les gîtes réduit la densité vectorielle.",
+   "Exact : l'assainissement (ordures) limite les gîtes et les réservoirs.",
+   "Faux : l'activité étant nocturne, la lutte diurne est peu efficace."
+  ],
+  "options": [
+   "Le couchage protégé la nuit limite l'exposition aux piqûres.",
+   "Les moustiquaires imprégnées d'insecticide protègent contre le phlébotome.",
+   "La destruction des gîtes (fissures, anfractuosités) réduit le vecteur.",
+   "L'assainissement du milieu diminue les gîtes larvaires et les réservoirs.",
+   "La pulvérisation diurne en plein soleil est la méthode de choix contre le phlébotome."
+  ],
+  "q": "Relativement à la lutte antivectorielle contre les phlébotomes, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : 88 pays concernés dans le monde.",
+   "Exact : 22 pays dans le Nouveau Monde.",
+   "Exact : 66 pays dans l'Ancien Monde.",
+   "Faux : l'Afrique du Nord (dont le Maroc) est une zone d'endémie.",
+   "Exact : la répartition couvre l'Ancien et le Nouveau Monde."
+  ],
+  "options": [
+   "Les leishmanioses sévissent dans 88 pays.",
+   "22 pays sont concernés dans le Nouveau Monde.",
+   "66 pays sont concernés dans l'Ancien Monde.",
+   "L'Afrique du Nord est totalement indemne de leishmaniose.",
+   "La maladie est présente sur 4 continents."
+  ],
+  "q": "À propos de la répartition mondiale des leishmanioses, quelle(s) affirmation(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la leishmaniose cutanée est immunisante.",
+   "Exact : la réinfection par la même espèce est exceptionnelle.",
+   "Exact : l'immunité acquise est durable.",
+   "Faux : c'est la leishmaniose cutanée qui est immunisante.",
+   "Exact : base de la notion d'immunité naturelle acquise."
+  ],
+  "options": [
+   "La leishmaniose cutanée est une maladie immunisante.",
+   "Après guérison, la réinfection par la même espèce est rare.",
+   "L'immunité acquise après une leishmaniose cutanée est durable.",
+   "La leishmaniose viscérale est la forme classiquement immunisante.",
+   "Cette immunité explique la rareté des récidives chez les sujets guéris."
+  ],
+  "q": "Parmi ces propositions sur le caractère immunisant, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'homme est surtout touché en octobre-novembre pour L. major.",
+   "Exact : l'homme est un hôte accidentel, pas un réservoir.",
+   "Exact : le réservoir zoonotique est constitué de rongeurs.",
+   "Exact : absence de réservoir humain pour L. major.",
+   "Faux : l'homme n'est pas le réservoir ; il est touché saisonnièrement."
+  ],
+  "options": [
+   "Pour L. major, l'homme est touché préférentiellement en octobre-novembre.",
+   "L'homme ne représente pas un réservoir épidémiologique pour L. major.",
+   "Le réservoir est constitué de rongeurs sauvages.",
+   "Il n'existe pas de réservoir humain pour la forme à L. major.",
+   "L'homme malade constitue le réservoir principal de L. major."
+  ],
+  "q": "Au sujet du rôle de l'homme dans l'épidémiologie de L. major, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : pas de lésions cutanées chez l'homme pour L. infantum viscéral.",
+   "Exact : l'homme est une impasse parasitaire.",
+   "Exact : le chien est le vrai réservoir domestique.",
+   "Faux : le réservoir est le chien, pas l'homme.",
+   "Faux : la forme viscérale classique ne donne pas de lésions cutanées."
+  ],
+  "options": [
+   "L. infantum ne donne pas de lésions cutanées chez l'homme dans la forme viscérale.",
+   "Pour la leishmaniose viscérale, l'homme n'est qu'une impasse parasitaire.",
+   "Le réservoir domestique principal de L. infantum est le chien.",
+   "L'homme malade est le réservoir principal de L. infantum.",
+   "La leishmaniose viscérale à L. infantum donne toujours des lésions cutanées."
+  ],
+  "q": "Concernant le rôle épidémiologique de l'homme pour L. infantum, quelle(s) proposition(s) est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le réservoir des souches dermotropes est inconnu.",
+   "Exact : il s'agit d'une inconnue épidémiologique du cours.",
+   "Exact : les formes sporadiques sont lupoïdes de la face.",
+   "Faux : le réservoir n'est pas connu, il ne peut donc pas être le chien.",
+   "Exact : la recherche du réservoir reste ouverte."
+  ],
+  "options": [
+   "Le réservoir de L. infantum dermotrope n'est pas connu.",
+   "C'est une lacune épidémiologique soulignée par le cours.",
+   "Les formes dermotropes sont sporadiques et lupoïdes de la face.",
+   "Le chien est le réservoir avéré des formes dermotropes.",
+   "La détermination du réservoir reste un objectif de recherche."
+  ],
+  "q": "S'agissant du réservoir de L. infantum dermotrope, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la leishmaniose cutanée est immunisante.",
+   "Exact : conséquence : une seule atteinte en général par espèce.",
+   "Exact : la forme cutanée diffuse traduit une anergie, pas une réinfection.",
+   "Faux : la guérison d'une LC confère une immunité durable.",
+   "Exact : cette notion est classique en parasitologie."
+  ],
+  "options": [
+   "La leishmaniose cutanée est une maladie immunisante.",
+   "Un sujet guéri d'une LC est protégé contre une réinfection par la même espèce.",
+   "La forme diffuse ne résulte pas d'une réinfection mais d'une anergie cellulaire.",
+   "Après guérison d'une LC, le sujet reste totalement réceptif à la même espèce.",
+   "Le caractère immunisant est un point classique du cours."
+  ],
+  "q": "Relativement aux conséquences du caractère immunisant de la leishmaniose cutanée, quelle(s) affirmation(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : contamination par piqûre du phlébotome femelle.",
+   "Exact : il faut un repas de sang infectant sur un hôte parasité.",
+   "Exact : délai d'environ une semaine dans le vecteur avant infectiosité.",
+   "Faux : le mâle ne pique pas, il n'est pas vecteur.",
+   "Faux : pas de transmission directe interhumaine en dehors de cas exceptionnels."
+  ],
+  "options": [
+   "La contamination humaine se fait par la piqûre du phlébotome.",
+   "Le vecteur doit d'abord s'infecter sur un homme ou un animal malade.",
+   "Le parasite doit maturer environ une semaine dans l'intestin du vecteur.",
+   "Le mâle du phlébotome transmet le parasite par simple contact.",
+   "La maladie se transmet d'homme à homme par simple contact cutané."
+  ],
+  "q": "Parmi ces propositions sur la chaîne de transmission, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la femelle seule est hématophage.",
+   "Exact : la femelle pique pour son repas de sang.",
+   "Exact : le mâle se nourrit de sucs végétaux, pas de sang.",
+   "Exact : conséquence vectorielle directe.",
+   "Faux : seul le sexe femelle transmet."
+  ],
+  "options": [
+   "Seule la femelle du phlébotome est hématophage.",
+   "La femelle a besoin de sang pour la maturation de ses œufs.",
+   "Le mâle ne pique pas et ne transmet pas le parasite.",
+   "La lutte antivectorielle cible les femelles piqueuses.",
+   "Mâles et femelles piquent et transmettent la maladie."
+  ],
+  "q": "À propos du rôle respectif des sexes chez le phlébotome, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : température, humidité = facteurs abiotiques.",
+   "Exact : besoins trophiques = facteurs biotiques.",
+   "Exact : cette variabilité explique les foyers localisés.",
+   "Faux : le biotope est variable, pas uniforme.",
+   "Exact : d'où la difficulté d'une lutte antivectorielle standardisée."
+  ],
+  "options": [
+   "La température influence la distribution du phlébotome.",
+   "L'humidité est un facteur abiotique du biotope.",
+   "Les besoins trophiques sont des facteurs biotiques du biotope.",
+   "La variabilité du biotope explique la localisation des foyers.",
+   "Le biotope du phlébotome est fortement influencé par l'environnement."
+  ],
+  "q": "Concernant les facteurs influençant le biotope du phlébotome, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : P. sergenti = vecteur de L. tropica (forme sèche anthroponotique).",
+   "Exact : P. perniciosus = vecteur de L. infantum (forme viscérale).",
+   "Exact : P. papatasi = vecteur de L. major (forme humide zoonotique).",
+   "Exact : ces trois espèces sont citées comme principales au Maroc.",
+   "Faux : ce ne sont pas des vecteurs de paludisme."
+  ],
+  "options": [
+   "Phlebotomus sergenti est associé à la leishmaniose cutanée sèche.",
+   "Phlebotomus perniciosus est associé à la leishmaniose viscérale.",
+   "Phlebotomus papatasi est associé à la leishmaniose cutanée humide.",
+   "Ce sont les trois principales espèces de phlébotomes au Maroc.",
+   "Ce sont les principaux vecteurs du paludisme au Maroc."
+  ],
+  "q": "Au sujet des espèces de phlébotomes du Maroc et de leurs associations parasitaires, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : piqûre douloureuse, vol bruyant court, nocturne.",
+   "Exact : petite taille, corps velu, grandes ailes.",
+   "Exact : contraste avec les moustiques (gîtes aquatiques).",
+   "Faux : la piqûre est décrite comme douloureuse.",
+   "Exact : ensemble de caractères distinctifs du phlébotome."
+  ],
+  "options": [
+   "Le phlébotome est un petit insecte à activité nocturne et vol bruyant.",
+   "Il se distingue par un corps velu, de grandes ailes et un aspect bossu.",
+   "Contrairement aux moustiques, ses gîtes sont terrestres et non aquatiques.",
+   "Sa piqûre est totalement indolore et passe inaperçue.",
+   "Ces caractères permettent de le reconnaître sur le terrain."
+  ],
+  "q": "Parmi ces propositions décrivant le phlébotome, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les phlébotomes vivent près du sol (gîtes terrestres).",
+   "Exact : les fissures des murs et rochers sont des gîtes.",
+   "Exact : les anfractuosités abritent les phlébotomes.",
+   "Exact : ces mesures réduisent l'exposition.",
+   "Faux : les phlébotomes sont nocturnes ; éviter le jour est peu utile."
+  ],
+  "options": [
+   "Éviter de dormir à même le sol réduit l'exposition aux phlébotomes.",
+   "Le colmatage des fissures des murs diminue les gîtes domestiques.",
+   "Les anfractuosités rocheuses proches des habitations sont des gîtes à traiter.",
+   "La protection nocturne (moustiquaires) est la mesure individuelle clé.",
+   "Éviter toute sortie diurne est la principale mesure de protection."
+  ],
+  "q": "Relativement aux mesures de protection contre les phlébotomes, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : octobre-novembre = pic d'atteinte humaine pour L. major.",
+   "Exact : la saisonnalité suit l'activité des phlébotomes.",
+   "Exact : la période de transmission dépend du vecteur.",
+   "Faux : la transmission n'est pas constante toute l'année.",
+   "Exact : d'où l'intérêt de la protection saisonnière."
+  ],
+  "options": [
+   "La contamination par L. major culmine en octobre-novembre.",
+   "Cette saisonnalité est liée à l'activité du vecteur.",
+   "La période de transmission dépend des conditions favorables au phlébotome.",
+   "La transmission est identique en toutes saisons de l'année.",
+   "La protection doit être renforcée pendant la saison de transmission."
+  ],
+  "q": "Concernant la saisonnalité de la transmission, quelle(s) affirmation(s) est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : le vecteur s'infecte sur homme ou animal malade.",
+   "Exact : le parasite se multiplie dans l'intestin du vecteur.",
+   "Exact : transmission par piqûre après maturation (~1 semaine).",
+   "Faux : le phlébotome est un hôte intermédiaire/vecteur biologique, pas l'hôte définitif.",
+   "Faux : il y a multiplication dans le vecteur, donc cycle biologique."
+  ],
+  "options": [
+   "Le phlébotome s'infecte en piquant un hôte vertébré malade.",
+   "Le parasite se multiplie sous forme promastigote dans l'intestin du vecteur.",
+   "Après environ une semaine, le vecteur peut transmettre des parasites infectieux.",
+   "Le phlébotome est l'hôte définitif du cycle de Leishmania.",
+   "Le phlébotome ne fait que transporter mécaniquement le parasite sans multiplication."
+  ],
+  "q": "S'agissant du rôle du phlébotome dans le cycle, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la lutte antivectorielle est un pilier de la prévention.",
+   "Exact : les moustiquaires imprégnées protègent des piqûres nocturnes.",
+   "Exact : l'assainissement réduit gîtes et réservoirs.",
+   "Faux : le cours recommande la lutte contre les chiens errants pour la LV.",
+   "Exact : approche intégrée recommandée."
+  ],
+  "options": [
+   "La lutte contre le vecteur fait partie de la prophylaxie des leishmanioses.",
+   "Les moustiquaires imprégnées sont une protection individuelle efficace.",
+   "L'assainissement du milieu limite les gîtes de phlébotomes.",
+   "L'abandon des chiens errants est recommandé dans la lutte contre la LV.",
+   "La prophylaxie combine lutte antivectorielle et lutte contre les réservoirs."
+  ],
+  "q": "Au sujet de la place de la lutte antivectorielle dans la prophylaxie, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : L. infantum sévit dans les chaînes du Rif et de l'Atlas.",
+   "Exact : Hoceima, Nador et Chaouen sont cités.",
+   "Exact : zone d'endémie de la LV de l'enfant.",
+   "Faux : ce sont des villes du versant atlantique (L. tropica), pas de la LV.",
+   "Faux : c'est la zone de L. major (Est de l'Atlas)."
+  ],
+  "options": [
+   "Au Maroc, L. infantum sévit dans les chaînes du Rif et de l'Atlas.",
+   "Hoceima, Nador et Chaouen sont des foyers de leishmaniose viscérale.",
+   "La LV marocaine touche surtout l'enfant avant la puberté.",
+   "Fès et Taza sont les principaux foyers de la leishmaniose viscérale.",
+   "Ouarzazate est le principal foyer de la leishmaniose viscérale."
+  ],
+  "q": "Concernant la répartition de Leishmania infantum au Maroc, lesquelles de ces affirmations sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : versant atlantique de l'Atlas pour L. tropica.",
+   "Exact : Taounat, Azilal, Fès, Sefrou, Taza, Essaouira cités.",
+   "Exact : forme cutanée sèche anthroponotique.",
+   "Faux : tous les âges sont touchés pour L. tropica.",
+   "Faux : c'est la zone de L. major."
+  ],
+  "options": [
+   "L. tropica sévit sur le versant atlantique de l'Atlas.",
+   "Taounat, Azilal, Fès, Sefrou, Taza et Essaouira sont des foyers.",
+   "La forme à L. tropica est cutanée et anthroponotique.",
+   "L. tropica ne touche que les enfants de moins de 5 ans.",
+   "La zone d'Ouarzazate-Figuig est le foyer principal de L. tropica."
+  ],
+  "q": "À propos de la répartition de Leishmania tropica au Maroc, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : L. major sévit à l'Est de l'Atlas.",
+   "Exact : Ouarzazate, Figuig, Tata, Errachidia, Zagora cités.",
+   "Exact : forme humide zoonotique à réservoir rongeurs.",
+   "Faux : tous les âges sont concernés.",
+   "Faux : le chien est le réservoir de L. infantum, pas de L. major."
+  ],
+  "options": [
+   "L. major sévit à l'Est de l'Atlas au Maroc.",
+   "Ouarzazate, Figuig, Tata, Errachidia et Zagora sont des foyers.",
+   "C'est la forme humide zoonotique à réservoir de rongeurs.",
+   "Elle ne touche que les enfants avant la puberté.",
+   "Le chien est le réservoir principal de L. major."
+  ],
+  "q": "Relativement à la répartition de Leishmania major au Maroc, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le chien est le réservoir de L. infantum.",
+   "Exact : lutte contre les chiens errants = prophylaxie de la LV.",
+   "Exact : la LV est une zoonose à réservoir canin.",
+   "Faux : l'homme est une impasse parasitaire pour L. infantum.",
+   "Exact : d'où l'importance de la lutte contre les chiens errants."
+  ],
+  "options": [
+   "Le chien est le réservoir de Leishmania infantum au Maroc.",
+   "La lutte contre les chiens errants est la prophylaxie de la LV.",
+   "La leishmaniose viscérale est une zoonose à réservoir canin.",
+   "L'homme malade est le réservoir principal de L. infantum.",
+   "Le dépistage et la prise en charge des chiens parasités protègent l'homme."
+  ],
+  "q": "Concernant le réservoir de Leishmania infantum, quelle(s) affirmation(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'homme malade est le réservoir de L. tropica.",
+   "Exact : transmission anthroponotique.",
+   "Exact : traiter les malades interrompt la chaîne.",
+   "Exact : les pansements occlusifs limitent la contamination des vecteurs.",
+   "Faux : les rongeurs sont le réservoir de L. major, pas de L. tropica."
+  ],
+  "options": [
+   "L'homme malade est le réservoir de Leishmania tropica.",
+   "La forme à L. tropica est anthroponotique.",
+   "Le traitement des malades fait partie de la prophylaxie.",
+   "Les pansements occlusifs des lésions limitent la transmission.",
+   "Les rongeurs sont le réservoir principal de L. tropica."
+  ],
+  "q": "Au sujet du réservoir de Leishmania tropica, laquelle(lesquelles) de ces propositions est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : mérions et psammomys cités comme réservoirs.",
+   "Exact : réservoir de rongeurs sauvages.",
+   "Exact : l'homme malade peut aussi jouer un rôle.",
+   "Exact : lutte contre les rongeurs = prophylaxie (ordures, raticides).",
+   "Faux : le chien est le réservoir de L. infantum."
+  ],
+  "options": [
+   "Les mérions sont des réservoirs de Leishmania major.",
+   "Les psammomys sont des réservoirs de Leishmania major.",
+   "L'homme malade peut participer au réservoir de L. major.",
+   "La lutte contre les rongeurs fait partie de la prophylaxie de la LC zoonotique.",
+   "Le chien est le réservoir principal de L. major."
+  ],
+  "q": "Parmi ces propositions sur le réservoir de Leishmania major, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : L. infantum touche les enfants.",
+   "Exact : L. tropica et L. major touchent tous les âges.",
+   "Exact : la LV est une maladie de l'enfant avant la puberté.",
+   "Exact : pas de prédilection d'âge pour les formes cutanées.",
+   "Faux : L. major touche tous les âges, pas seulement les enfants."
+  ],
+  "options": [
+   "L. infantum cible préférentiellement les enfants.",
+   "L. tropica touche tous les âges.",
+   "L. major touche tous les âges.",
+   "La leishmaniose viscérale est une maladie de l'enfant.",
+   "L. major ne touche que les enfants de moins de 10 ans."
+  ],
+  "q": "S'agissant des populations cibles des différentes espèces au Maroc, quelle(s) affirmation(s) est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : tropisme viscéral et cutané (souches dermotropes).",
+   "Exact : tropisme strictement cutané.",
+   "Exact : tropisme strictement cutané.",
+   "Faux : L. infantum n'a pas de tropisme muqueux au Maroc.",
+   "Exact : d'où les tableaux cliniques différents selon l'espèce."
+  ],
+  "options": [
+   "L. infantum a un tropisme viscéral et cutané.",
+   "L. tropica a un tropisme cutané.",
+   "L. major a un tropisme cutané.",
+   "L. infantum a un tropisme cutanéo-muqueux prédominant au Maroc.",
+   "Le tropisme détermine la forme clinique de la maladie."
+  ],
+  "q": "Concernant le tropisme des espèces présentes au Maroc, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : Chaouen-Hoceima = zone Rif, LV à L. infantum.",
+   "Exact : conduite classique : leucémie ou leishmaniose.",
+   "Exact : la splénomégalie de l'enfant y évoque la LV.",
+   "Faux : la LC ne donne pas de splénomégalie ; c'est la LV.",
+   "Exact : d'où l'importance du diagnostic différentiel."
+  ],
+  "options": [
+   "Dans le territoire Chaouen-Hoceima, une splénomégalie chez l'enfant fait évoquer la leishmaniose viscérale.",
+   "Le diagnostic différentiel principal est la leucémie.",
+   "Jusqu'à preuve du contraire, c'est leucémie ou leishmaniose.",
+   "Une splénomégalie chez l'enfant y évoque en priorité la leishmaniose cutanée.",
+   "Cette règle illustre l'endémicité de la LV dans le Rif."
+  ],
+  "q": "Au sujet de la conduite diagnostique dans le territoire Chaouen-Hoceima, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Rif/Atlas = L. infantum (viscérale).",
+   "Exact : versant atlantique = L. tropica (cutanée sèche).",
+   "Exact : Est de l'Atlas = L. major (cutanée humide).",
+   "Exact : cette tripartition est le schéma du cours.",
+   "Faux : le Nouveau Monde n'est pas concerné par ces foyers marocains."
+  ],
+  "options": [
+   "Le Rif et l'Atlas sont le domaine de L. infantum.",
+   "Le versant atlantique de l'Atlas est le domaine de L. tropica.",
+   "L'Est de l'Atlas est le domaine de L. major.",
+   "Cette répartition en trois foyers est classique au Maroc.",
+   "Le Nouveau Monde comporte les mêmes trois foyers qu'au Maroc."
+  ],
+  "q": "Relativement à la géographie des trois espèces au Maroc, laquelle(lesquelles) de ces affirmations est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le cours cite mérion et psammomys.",
+   "Exact : ce sont des rongeurs sauvages du Sud/Est marocain.",
+   "Exact : réservoir zoonotique de la forme humide.",
+   "Faux : ce sont des animaux sauvages, pas domestiques.",
+   "Exact : la lutte passe par l'assainissement (ordures, raticides)."
+  ],
+  "options": [
+   "Le mérion est cité comme réservoir de L. major.",
+   "Le psammomys est cité comme réservoir de L. major.",
+   "Ce sont des rongeurs sauvages des zones arides.",
+   "Ce sont des animaux domestiques vivant dans les maisons.",
+   "Leur contrôle fait partie de la prophylaxie de la LC zoonotique."
+  ],
+  "q": "Parmi ces propositions sur les rongeurs réservoirs, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : LC à L. tropica = anthroponotique.",
+   "Exact : LC à L. major = zoonotique.",
+   "Exact : LV à L. infantum = zoonotique à réservoir canin.",
+   "Exact : le type de réservoir oriente la prophylaxie.",
+   "Faux : L. tropica est anthroponotique, L. major zoonotique."
+  ],
+  "options": [
+   "La leishmaniose cutanée à L. tropica est anthroponotique.",
+   "La leishmaniose cutanée à L. major est zoonotique.",
+   "La leishmaniose viscérale à L. infantum est zoonotique.",
+   "Le caractère anthroponotique ou zoonotique détermine les mesures prophylactiques.",
+   "Les deux formes cutanées marocaines sont zoonotiques."
+  ],
+  "q": "À propos du caractère anthroponotique ou zoonotique, quelle(s) affirmation(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le chien = réservoir de la LV.",
+   "Exact : l'homme malade = réservoir de la LC à L. tropica.",
+   "Exact : rongeurs (+ homme) = réservoir de la LC à L. major.",
+   "Faux : le réservoir des formes dermotropes est inconnu.",
+   "Exact : chaque espèce a son réservoir au Maroc."
+  ],
+  "options": [
+   "Le chien est le réservoir de la leishmaniose viscérale.",
+   "L'homme malade est le réservoir de la LC à L. tropica.",
+   "Les rongeurs sont le réservoir de la LC à L. major.",
+   "Le chien est le réservoir connu des formes dermotropes.",
+   "Connaître le réservoir est essentiel pour la prophylaxie."
+  ],
+  "q": "Concernant les réservoirs des leishmanioses au Maroc, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : Hoceima = foyer LV (Rif).",
+   "Exact : Nador = foyer LV.",
+   "Exact : Fès = foyer LC à L. tropica (versant atlantique).",
+   "Faux : Ouarzazate = foyer L. major (Est Atlas), pas LV.",
+   "Faux : Essaouira = foyer L. tropica, pas LV."
+  ],
+  "options": [
+   "Hoceima est un foyer de leishmaniose viscérale.",
+   "Nador est un foyer de leishmaniose viscérale.",
+   "Fès est un foyer de leishmaniose cutanée à L. tropica.",
+   "Ouarzazate est un foyer de leishmaniose viscérale.",
+   "Essaouira est un foyer de leishmaniose viscérale."
+  ],
+  "q": "Au sujet des villes-foyers citées dans le cours, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Taounat, Azilal, Sefrou, Taza cités.",
+   "Exact : Essaouira citée (versant atlantique).",
+   "Exact : Fès citée.",
+   "Faux : Chaouen = foyer LV (Rif), pas L. tropica.",
+   "Exact : ces villes définissent le foyer atlantique."
+  ],
+  "options": [
+   "Taounat et Azilal sont des foyers de L. tropica.",
+   "Essaouira est un foyer de L. tropica.",
+   "Fès et Sefrou sont des foyers de L. tropica.",
+   "Chaouen est le principal foyer de L. tropica.",
+   "Ces localités définissent le foyer du versant atlantique."
+  ],
+  "q": "Parmi ces propositions sur les foyers de L. tropica, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : Ouarzazate, Figuig, Tata, Errachidia, Zagora.",
+   "Exact : zone aride de l'Est de l'Atlas.",
+   "Exact : forme humide zoonotique.",
+   "Faux : le réservoir est constitué de rongeurs, pas de chiens.",
+   "Exact : pic d'atteinte humaine en octobre-novembre."
+  ],
+  "options": [
+   "Ouarzazate et Figuig sont des foyers de L. major.",
+   "Tata, Errachidia et Zagora sont des foyers de L. major.",
+   "Ces foyers correspondent à la forme cutanée humide.",
+   "Le réservoir y est principalement le chien errant.",
+   "L'homme y est touché surtout en octobre-novembre."
+  ],
+  "q": "S'agissant des foyers de L. major au Maroc, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : octobre-novembre = pic pour L. major.",
+   "Exact : saisonnalité liée au vecteur.",
+   "Exact : la forme cutanée est immunisante.",
+   "Faux : la saisonnalité concerne la transmission, pas l'immunité.",
+   "Exact : notion classique du cours."
+  ],
+  "options": [
+   "L'atteinte humaine par L. major culmine en octobre-novembre.",
+   "Cette saisonnalité suit l'activité des phlébotomes.",
+   "La leishmaniose cutanée est une maladie immunisante.",
+   "La saisonnalité s'explique par une immunité saisonnière de l'hôte.",
+   "Ces deux notions sont des points clés de l'épidémiologie."
+  ],
+  "q": "Concernant les particularités épidémiologiques des formes cutanées, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la prophylaxie de la LV passe par le chien.",
+   "Exact : la LC anthroponotique passe par le traitement des malades.",
+   "Exact : la LC zoonotique passe par la lutte contre les rongeurs.",
+   "Exact : chaque réservoir a sa mesure de lutte.",
+   "Faux : les trois mesures sont complémentaires et ciblées."
+  ],
+  "options": [
+   "La lutte contre les chiens errants prévient la leishmaniose viscérale.",
+   "Le traitement des malades prévient la LC anthroponotique.",
+   "La lutte contre les rongeurs prévient la LC zoonotique.",
+   "Chaque mesure cible le réservoir de l'espèce correspondante.",
+   "Une seule mesure suffit à prévenir les trois formes."
+  ],
+  "q": "Au sujet de la prophylaxie ciblée sur les réservoirs, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : LV = L. infantum, chien, enfants, Rif/Atlas.",
+   "Exact : LC sèche = L. tropica, homme, tous âges, versant atlantique.",
+   "Exact : LC humide = L. major, rongeurs, tous âges, Est Atlas.",
+   "Faux : c'est L. infantum (chien), pas L. major.",
+   "Exact : ce tableau est le résumé du cours."
+  ],
+  "options": [
+   "LV : L. infantum, réservoir chien, cible enfants, zone Rif/Atlas.",
+   "LC sèche : L. tropica, réservoir homme malade, tous âges, versant atlantique.",
+   "LC humide : L. major, réservoir rongeurs, tous âges, Est de l'Atlas.",
+   "LC humide : L. major, réservoir chien, cible enfants, zone du Rif.",
+   "Ce tableau résume l'épidémiologie marocaine des leishmanioses."
+  ],
+  "q": "Relativement au tableau récapitulatif des espèces au Maroc, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la LV est due à L. infantum au Maroc.",
+   "Exact : le chien est le réservoir domestique.",
+   "Exact : les enfants sont la cible.",
+   "Exact : les chaînes du Rif et de l'Atlas sont la zone.",
+   "Faux : le versant atlantique est la zone de L. tropica."
+  ],
+  "options": [
+   "La leishmaniose viscérale marocaine est due à L. infantum.",
+   "Son réservoir est le chien.",
+   "Elle touche préférentiellement les enfants.",
+   "Sa zone est constituée des chaînes du Rif et de l'Atlas.",
+   "Sa zone est le versant atlantique de l'Atlas."
+  ],
+  "q": "Parmi ces affirmations sur la leishmaniose viscérale au Maroc, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : clou de Biskra, bouton d'Orient, bouton d'Alep.",
+   "Exact : noms vernaculaires de la LC de l'Ancien Monde.",
+   "Exact : ils désignent la même entité clinique.",
+   "Exact : la forme à L. tropica est la forme sèche classique.",
+   "Faux : le kala-azar désigne la forme viscérale."
+  ],
+  "options": [
+   "Le clou de Biskra est un synonyme de leishmaniose cutanée.",
+   "Le bouton d'Orient est un synonyme de leishmaniose cutanée.",
+   "Le bouton d'Alep est un synonyme de leishmaniose cutanée.",
+   "Ces noms désignent la forme cutanée de l'Ancien Monde.",
+   "Le kala-azar est un synonyme de leishmaniose cutanée."
+  ],
+  "q": "À propos des synonymes de la leishmaniose cutanée, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'homme est une impasse pour L. infantum viscéral.",
+   "Exact : il ne transmet pas efficacement le parasite.",
+   "Exact : le cycle se maintient via le chien.",
+   "Faux : l'impasse parasitaire concerne la LV, pas la LC à L. tropica.",
+   "Exact : d'où la lutte contre les chiens errants."
+  ],
+  "options": [
+   "Pour L. infantum viscéral, l'homme est une impasse parasitaire.",
+   "L'homme ne constitue pas un réservoir efficace de la LV.",
+   "Le cycle de la LV se maintient grâce au réservoir canin.",
+   "L'homme est aussi une impasse parasitaire pour L. tropica.",
+   "La notion d'impasse parasitaire oriente la prophylaxie vers le chien."
+  ],
+  "q": "Concernant la notion d'impasse parasitaire, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : L. major touche l'homme en octobre-novembre.",
+   "Exact : le réservoir est constitué de rongeurs.",
+   "Exact : l'homme n'est pas un réservoir pour L. major.",
+   "Exact : l'homme est un hôte accidentel.",
+   "Faux : la transmission est vectorielle, pas par morsure de rongeur."
+  ],
+  "options": [
+   "L'homme est touché par L. major surtout en octobre-novembre.",
+   "Le réservoir de L. major est constitué de rongeurs sauvages.",
+   "L'homme ne représente pas un réservoir épidémiologique.",
+   "L'homme est un hôte accidentel dans le cycle de L. major.",
+   "La contamination se fait par morsure directe des rongeurs réservoirs."
+  ],
+  "q": "Au sujet du cycle épidémiologique de L. major, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : P. sergenti transmet L. tropica (homme malade).",
+   "Exact : P. perniciosus transmet L. infantum (chien).",
+   "Exact : P. papatasi transmet L. major (rongeurs).",
+   "Faux : chaque vecteur est associé à son espèce parasitaire.",
+   "Exact : le couple vecteur-parasite-réservoir est spécifique."
+  ],
+  "options": [
+   "P. sergenti est lié au cycle anthroponotique à L. tropica.",
+   "P. perniciosus est lié au cycle zoonotique canin à L. infantum.",
+   "P. papatasi est lié au cycle zoonotique à rongeurs à L. major.",
+   "Les trois vecteurs transmettent indifféremment les trois espèces.",
+   "Chaque espèce parasitaire a son vecteur et son réservoir au Maroc."
+  ],
+  "q": "Parmi ces propositions sur les cycles complets au Maroc, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : L. infantum = kala-azar méditerranéen.",
+   "Exact : L. donovani = kala-azar indien.",
+   "Exact : la LV touche surtout l'enfant avant la puberté.",
+   "Exact : les adultes sont moins souvent atteints.",
+   "Faux : L. tropica est cutanéotrope."
+  ],
+  "options": [
+   "L. infantum est l'agent du kala-azar méditerranéen.",
+   "L. donovani est l'agent du kala-azar indien.",
+   "La leishmaniose viscérale touche surtout l'enfant avant la puberté.",
+   "Les adultes sont moins fréquemment atteints par la LV.",
+   "L. tropica est l'agent le plus fréquent de la leishmaniose viscérale."
+  ],
+  "q": "Concernant les agents et les sujets atteints par la leishmaniose viscérale, lesquelles de ces affirmations sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : incubation silencieuse de 3 à 6 mois.",
+   "Exact : l'incubation est asymptomatique.",
+   "Exact : longue période avant les signes cliniques.",
+   "Faux : 1 à 4 mois correspond à l'incubation de la LC à L. tropica.",
+   "Exact : d'où la difficulté du diagnostic précoce."
+  ],
+  "options": [
+   "L'incubation de la leishmaniose viscérale est de 3 à 6 mois.",
+   "Elle est silencieuse, sans signes cliniques.",
+   "C'est une incubation longue.",
+   "Elle est de 1 à 4 mois comme dans la LC à L. tropica.",
+   "Cette longue incubation retarde le diagnostic."
+  ],
+  "q": "À propos de l'incubation de la leishmaniose viscérale, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : fièvre inconstante en phase d'invasion.",
+   "Exact : pâleur inaugurale.",
+   "Exact : fléchissement de l'état général.",
+   "Exact : le diagnostic clinique est difficile à ce stade.",
+   "Faux : la triade complète appartient à la phase d'état."
+  ],
+  "options": [
+   "La phase d'invasion comporte une fièvre inconstante.",
+   "Une pâleur peut inaugurer la maladie.",
+   "On note un fléchissement de l'état général.",
+   "Le diagnostic clinique est difficile en phase d'invasion.",
+   "La triade splénomégalie-anémie-amaigrissement est déjà complète en phase d'invasion."
+  ],
+  "q": "Relativement à la phase d'invasion de la leishmaniose viscérale, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la splénomégalie est le maître symptôme.",
+   "Exact : la pâleur traduit l'anémie.",
+   "Exact : l'amaigrissement est important.",
+   "Faux : la triade ne comporte pas d'adénopathies.",
+   "Exact : triade classique de la phase d'état."
+  ],
+  "options": [
+   "La splénomégalie fait partie de la triade de la phase d'état.",
+   "La pâleur (anémie) fait partie de la triade.",
+   "L'amaigrissement important fait partie de la triade.",
+   "Les adénopathies généralisées font partie de la triade.",
+   "La triade associe splénomégalie, anémie et amaigrissement."
+  ],
+  "q": "Concernant la triade de la phase d'état de la leishmaniose viscérale, quelle(s) affirmation(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : syndrome fébrile désarticulé en phase d'état.",
+   "Exact : l'hépatomégalie accompagne la splénomégalie.",
+   "Exact : la fièvre est irrégulière, sans rythme.",
+   "Faux : la fièvre est inconstante puis désarticulée, pas en plateau typhoïdique.",
+   "Exact : tableau de la phase d'état."
+  ],
+  "options": [
+   "Un syndrome fébrile désarticulé accompagne la triade.",
+   "Une hépatomégalie est fréquemment associée.",
+   "La fièvre est irrégulière et prolongée.",
+   "La fièvre est en plateau continu de type typhoïdique.",
+   "Le tableau associe signes généraux et hépatosplénomégalie."
+  ],
+  "q": "Au sujet des signes associés de la phase d'état, laquelle(lesquelles) de ces propositions est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LV est mortelle en dehors du traitement.",
+   "Exact : complications infectieuses (immunodépression).",
+   "Exact : complications hémorragiques (pancytopénie).",
+   "Faux : la guérison spontanée n'est pas la règle dans la LV.",
+   "Exact : complications digestives possibles."
+  ],
+  "options": [
+   "La leishmaniose viscérale est mortelle en dehors du traitement.",
+   "Des complications infectieuses peuvent survenir.",
+   "Des complications hémorragiques peuvent survenir.",
+   "La guérison spontanée est la règle dans la leishmaniose viscérale.",
+   "Des complications digestives peuvent survenir."
+  ],
+  "q": "Parmi ces propositions sur l'évolution de la leishmaniose viscérale, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la pancytopénie est un signe de présomption.",
+   "Exact : elle traduit l'atteinte médullaire.",
+   "Exact : le syndrome inflammatoire est un signe de présomption.",
+   "Exact : ces signes biologiques orientent vers la LV.",
+   "Faux : une hyperleucocytose n'est pas le signe de présomption."
+  ],
+  "options": [
+   "La pancytopénie est un signe biologique de présomption.",
+   "Elle reflète l'envahissement médullaire par le parasite.",
+   "Le syndrome inflammatoire est un signe de présomption.",
+   "Ces signes orientent vers le diagnostic de LV.",
+   "Une hyperleucocytose franche est le signe de présomption classique."
+  ],
+  "q": "S'agissant des signes biologiques de présomption de la LV, quelle(s) affirmation(s) est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le kala-azar est le nom de la LV.",
+   "Exact : L. donovani = kala-azar indien.",
+   "Exact : L. infantum = kala-azar méditerranéen.",
+   "Faux : le kala-azar est viscéral, pas cutané.",
+   "Exact : le terme signifie 'fièvre noire'."
+  ],
+  "options": [
+   "Le kala-azar désigne la leishmaniose viscérale.",
+   "Le kala-azar indien est dû à L. donovani.",
+   "Le kala-azar méditerranéen est dû à L. infantum.",
+   "Le kala-azar désigne la forme cutanée humide.",
+   "Le terme évoque la pigmentation cutanée observée."
+  ],
+  "q": "Concernant la terminologie du kala-azar, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LV est une maladie définissant le SIDA.",
+   "Exact : l'immunodépression favorise les formes graves.",
+   "Exact : co-infection VIH-Leishmania décrite.",
+   "Faux : la LV est une infection opportuniste définissant le SIDA.",
+   "Exact : d'où l'importance du dépistage croisé."
+  ],
+  "options": [
+   "La leishmaniose fait partie des maladies définissant le SIDA.",
+   "L'immunodépression favorise l'expression de la leishmaniose viscérale.",
+   "La co-infection VIH-Leishmania est une entité reconnue.",
+   "La leishmaniose viscérale n'a aucun lien avec l'infection par le VIH.",
+   "Le dépistage du VIH est utile devant une leishmaniose viscérale."
+  ],
+  "q": "Au sujet des liens entre leishmaniose et VIH, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : splénomégalie = maître symptôme de la LV.",
+   "Exact : la rate est le siège de la multiplication parasitaire.",
+   "Exact : l'hépatomégalie est fréquente.",
+   "Exact : l'atteinte du système réticulo-endothélial explique ces signes.",
+   "Faux : les adénopathies ne sont pas au premier plan dans la LV méditerranéenne."
+  ],
+  "options": [
+   "La splénomégalie est le signe cardinal de la leishmaniose viscérale.",
+   "Elle traduit la prolifération parasitaire dans le système réticulo-endothélial.",
+   "L'hépatomégalie est un signe fréquemment associé.",
+   "Ces viscéromégalies reflètent le tropisme pour les phagocytes mononucléés.",
+   "Les adénopathies généralisées dominent le tableau de la LV."
+  ],
+  "q": "Relativement aux viscéromégalies de la leishmaniose viscérale, laquelle(lesquelles) de ces affirmations est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'anémie est constante (pâleur).",
+   "Exact : la leucopénie fait partie de la pancytopénie.",
+   "Exact : la thrombopénie fait partie de la pancytopénie.",
+   "Exact : la pancytopénie traduit l'atteinte médullaire.",
+   "Faux : c'est une pancytopénie, pas une polyglobulie."
+  ],
+  "options": [
+   "L'anémie est quasi constante dans la LV.",
+   "Une leucopénie est fréquente.",
+   "Une thrombopénie est fréquente.",
+   "La pancytopénie est le signe hématologique de présomption.",
+   "Une polyglobulie est le signe hématologique typique."
+  ],
+  "q": "Parmi ces propositions hématologiques sur la LV, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LV est mortelle sans traitement.",
+   "Exact : le traitement repose sur les antimoniés, l'amphotéricine B, la miltéfosine.",
+   "Exact : la voie est IM ou IV pour la LV.",
+   "Faux : l'injection intra-lésionnelle est réservée à la LC.",
+   "Exact : le traitement précoce améliore le pronostic."
+  ],
+  "options": [
+   "La leishmaniose viscérale est mortelle en l'absence de traitement.",
+   "Le traitement fait appel aux antimoniés pentavalents, à l'amphotéricine B ou à la miltéfosine.",
+   "La voie d'administration est IM ou IV dans la LV.",
+   "L'injection intra-lésionnelle est le traitement de choix de la LV.",
+   "Un traitement précoce améliore le pronostic vital."
+  ],
+  "q": "À propos du pronostic et du traitement de la LV, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la fièvre est inconstante en phase d'invasion.",
+   "Exact : elle devient désarticulée en phase d'état.",
+   "Exact : syndrome fébrile prolongé irrégulier.",
+   "Exact : la fièvre accompagne la triade.",
+   "Faux : il n'y a pas de rythme tierce comme dans le paludisme."
+  ],
+  "options": [
+   "La fièvre est inconstante au début de la maladie.",
+   "En phase d'état, le syndrome fébrile est désarticulé.",
+   "C'est une fièvre prolongée et irrégulière.",
+   "La fièvre fait partie du tableau de la phase d'état.",
+   "La fièvre évolue par accès tierces réguliers."
+  ],
+  "q": "Concernant la fièvre dans la leishmaniose viscérale, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'amaigrissement est important (triade).",
+   "Exact : il traduit le caractère chronique et grave.",
+   "Exact : la pâleur traduit l'anémie.",
+   "Exact : fléchissement de l'état général dès l'invasion.",
+   "Faux : l'obésité n'a aucun lien avec la LV."
+  ],
+  "options": [
+   "L'amaigrissement important fait partie de la triade.",
+   "Il traduit la chronicité et la gravité de l'infestation.",
+   "La pâleur cutanéo-muqueuse traduit l'anémie.",
+   "Le fléchissement de l'état général est précoce.",
+   "Une prise de poids rapide est un signe d'appel de la LV."
+  ],
+  "q": "Au sujet de l'état général dans la LV, quelle(s) affirmation(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la LV touche surtout l'enfant avant la puberté.",
+   "Exact : les adultes sont moins concernés.",
+   "Exact : le diagnostic est difficile en phase d'invasion.",
+   "Exact : la triade n'apparaît qu'en phase d'état.",
+   "Faux : la LV est une maladie de l'enfant, pas du sujet âgé."
+  ],
+  "options": [
+   "La LV est une maladie du jeune enfant.",
+   "Les adultes développent rarement une LV à L. infantum.",
+   "Le diagnostic clinique est difficile en phase d'invasion.",
+   "La phase d'état associe la triade au syndrome fébrile désarticulé.",
+   "La LV est une maladie du sujet âgé."
+  ],
+  "q": "Parmi ces propositions générales sur la clinique de la LV, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : L. donovani (Inde) et L. infantum (Méditerranée).",
+   "Exact : les deux donnent le kala-azar.",
+   "Exact : L. infantum touche l'enfant ; L. donovani tous âges en Inde.",
+   "Faux : L. tropica n'est pas un agent de LV.",
+   "Faux : L. major n'est pas un agent de LV."
+  ],
+  "options": [
+   "Les deux espèces viscérotropes sont L. donovani et L. infantum.",
+   "Leur tableau clinique est celui du kala-azar.",
+   "L. infantum touche surtout l'enfant, L. donovani sévit en Inde.",
+   "L. tropica est la troisième espèce viscérotrope majeure.",
+   "L. major donne fréquemment des formes viscérales."
+  ],
+  "q": "S'agissant de la comparaison des espèces viscérotropes, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la pancytopénie oriente vers la LV.",
+   "Exact : le syndrome inflammatoire oriente vers la LV.",
+   "Exact : la splénomégalie de l'enfant en zone d'endémie évoque la LV.",
+   "Faux : la LC ne donne pas de pancytopénie ni de splénomégalie.",
+   "Exact : la confirmation repose sur la mise en évidence du parasite."
+  ],
+  "options": [
+   "Une pancytopénie inexpliquée fait évoquer la LV en zone d'endémie.",
+   "Un syndrome inflammatoire accompagne souvent la LV.",
+   "Une splénomégalie fébrile chez l'enfant du Rif évoque la LV.",
+   "Une ulcération cutanée isolée suffit à affirmer la LV.",
+   "Le diagnostic de certitude repose sur la mise en évidence du parasite."
+  ],
+  "q": "Concernant l'orientation diagnostique devant une suspicion de LV, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la LV est une parasitose systémique grave.",
+   "Exact : l'atteinte du système réticulo-endothélial explique la clinique.",
+   "Exact : rate, foie, moelle sont les organes cibles.",
+   "Exact : le parasite s'y multiplie dans les macrophages.",
+   "Faux : la LV n'est pas une dermatose."
+  ],
+  "options": [
+   "La leishmaniose viscérale est une parasitose systémique.",
+   "Le système réticulo-endothélial est l'organe cible.",
+   "La rate, le foie et la moelle sont envahis par le parasite.",
+   "La multiplication intramacrophagique explique les viscéromégalies.",
+   "La LV est une dermatose localisée bénigne."
+  ],
+  "q": "Au sujet de la physiopathologie de la LV, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 3-6 mois d'incubation silencieuse.",
+   "Exact : phase d'invasion : fièvre inconstante, pâleur, fléchissement EG.",
+   "Exact : phase d'état : triade + syndrome fébrile désarticulé + hépatomégalie.",
+   "Exact : évolution mortelle sans traitement.",
+   "Faux : la guérison spontanée n'est pas la règle dans la LV."
+  ],
+  "options": [
+   "L'incubation est silencieuse et dure 3 à 6 mois.",
+   "La phase d'invasion associe fièvre inconstante, pâleur et fléchissement de l'état général.",
+   "La phase d'état associe la triade au syndrome fébrile désarticulé.",
+   "Sans traitement, l'évolution est mortelle.",
+   "La guérison spontanée est habituelle."
+  ],
+  "q": "Relativement à l'histoire naturelle de la leishmaniose viscérale, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les infections favorisées par l'immunodépression.",
+   "Exact : les hémorragies liées à la thrombopénie.",
+   "Exact : les complications digestives citées.",
+   "Faux : la LV est une maladie grave à complications multiples.",
+   "Exact : ces complications aggravent le pronostic."
+  ],
+  "options": [
+   "Les complications infectieuses sont favorisées par l'immunodépression.",
+   "Les complications hémorragiques sont liées à la pancytopénie.",
+   "Des complications digestives peuvent émailler l'évolution.",
+   "La LV est une maladie toujours bénigne sans complications.",
+   "Ces complications peuvent mettre en jeu le pronostic vital."
+  ],
+  "q": "Parmi ces propositions sur les complications de la LV, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : kala-azar méditerranéen = L. infantum.",
+   "Exact : kala-azar indien = L. donovani.",
+   "Exact : le terme désigne la LV.",
+   "Exact : les deux espèces donnent le même syndrome.",
+   "Faux : le bouton d'Orient est une LC, pas un kala-azar."
+  ],
+  "options": [
+   "Le kala-azar méditerranéen est dû à L. infantum.",
+   "Le kala-azar indien est dû à L. donovani.",
+   "Le kala-azar est synonyme de leishmaniose viscérale.",
+   "Les deux kala-azars partagent le même tableau clinique.",
+   "Le bouton d'Orient est une forme de kala-azar."
+  ],
+  "q": "À propos des deux kala-azars, quelle(s) affirmation(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LV est une maladie définissant le SIDA.",
+   "Exact : le VIH favorise les formes graves et atypiques.",
+   "Exact : la co-infection est reconnue.",
+   "Faux : la LV est bien une infection opportuniste du SIDA.",
+   "Exact : le cours le souligne (NB+++)."
+  ],
+  "options": [
+   "La leishmaniose est une maladie définissant le SIDA.",
+   "L'infection par le VIH aggrave l'expression de la leishmaniose.",
+   "La co-infection VIH-Leishmania nécessite une prise en charge adaptée.",
+   "La leishmaniose n'est pas reconnue comme infection opportuniste du SIDA.",
+   "Le cours insiste sur ce lien (NB+++)."
+  ],
+  "q": "Concernant le statut de la leishmaniose dans l'infection par le VIH, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la LV est une zoonose à réservoir canin.",
+   "Exact : l'homme est une impasse parasitaire.",
+   "Exact : la lutte contre les chiens errants est la prophylaxie.",
+   "Exact : le chien est le réservoir domestique principal.",
+   "Faux : le chat n'est pas cité comme réservoir principal."
+  ],
+  "options": [
+   "La LV est une zoonose dont le réservoir principal est le chien.",
+   "L'homme n'est qu'une impasse parasitaire dans la LV.",
+   "La prophylaxie repose sur la lutte contre les chiens errants.",
+   "Le chien domestique parasité entretient le cycle.",
+   "Le chat est le réservoir principal de la LV au Maroc."
+  ],
+  "q": "Au sujet de la LV en tant que zoonose, laquelle(lesquelles) de ces propositions est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'anémie est un élément de la triade.",
+   "Exact : la pâleur est le signe clinique de l'anémie.",
+   "Exact : l'anémie est liée à l'atteinte médullaire et à l'hypersplénisme.",
+   "Faux : la pâleur n'est pas un signe de polyglobulie.",
+   "Exact : la pâleur est présente dès la phase d'invasion."
+  ],
+  "options": [
+   "L'anémie fait partie de la triade de la phase d'état.",
+   "La pâleur cutanéo-muqueuse est son expression clinique.",
+   "Elle résulte de l'envahissement médullaire et de l'hypersplénisme.",
+   "La pâleur traduit une polyglobulie.",
+   "La pâleur peut être présente dès la phase d'invasion."
+  ],
+  "q": "Relativement à l'anémie de la leishmaniose viscérale, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : clou de Biskra, bouton d'Orient, bouton d'Alep.",
+   "Exact : ce sont les noms vernaculaires de la LC.",
+   "Exact : ils désignent la LC de l'Ancien Monde.",
+   "Exact : la LC est la forme la plus fréquente.",
+   "Faux : le kala-azar désigne la forme viscérale."
+  ],
+  "options": [
+   "Le clou de Biskra est un nom vernaculaire de la leishmaniose cutanée.",
+   "Le bouton d'Orient est un nom vernaculaire de la leishmaniose cutanée.",
+   "Le bouton d'Alep est un nom vernaculaire de la leishmaniose cutanée.",
+   "Ces appellations concernent la forme cutanée de l'Ancien Monde.",
+   "Le kala-azar est un nom vernaculaire de la leishmaniose cutanée."
+  ],
+  "q": "Concernant les dénominations vernaculaires, lesquelles de ces affirmations sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : L. tropica donne la forme sèche.",
+   "Exact : pas d'extension aux organes profonds.",
+   "Exact : pas d'extension aux muqueuses.",
+   "Faux : la forme sèche guérit en 2-3 ans, pas en 3-6 mois.",
+   "Exact : la forme reste localisée à la peau."
+  ],
+  "options": [
+   "La LC à L. tropica est dite forme sèche.",
+   "Elle ne s'étend pas aux organes profonds.",
+   "Elle ne s'étend pas aux muqueuses.",
+   "Sa guérison spontanée survient en 3 à 6 mois.",
+   "C'est une forme strictement cutanée localisée."
+  ],
+  "q": "À propos de la leishmaniose cutanée à L. tropica (forme sèche), quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : incubation muette de 1 à 4 mois.",
+   "Exact : l'incubation est asymptomatique.",
+   "Exact : longue période avant l'apparition de la lésion.",
+   "Exact : le délai explique la difficulté à dater la contamination.",
+   "Faux : 3-6 mois correspond à l'incubation de la LV."
+  ],
+  "options": [
+   "L'incubation de la LC à L. tropica est de 1 à 4 mois.",
+   "Elle est muette, sans signes cliniques.",
+   "C'est une incubation très longue.",
+   "Ce long délai rend difficile la datation de la piqûre infestante.",
+   "Elle est de 3 à 6 mois comme dans la leishmaniose viscérale."
+  ],
+  "q": "Relativement à l'incubation de la LC à L. tropica, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : début par un petit macule rouge sombre au point d'inoculation.",
+   "Exact : évolution vers un nodule dur infiltré.",
+   "Exact : croûte épaisse recouvrant une ulcération à bords nets.",
+   "Exact : diamètre de 1 à 2 cm.",
+   "Faux : 2-8 cm correspond à la forme humide à L. major."
+  ],
+  "options": [
+   "La lésion débute par un petit macule rouge sombre au point d'inoculation.",
+   "Elle évolue vers un nodule dur et infiltré.",
+   "Elle se recouvre d'une croûte épaisse sur une ulcération à bords nets.",
+   "Le diamètre de l'ulcération est de 1 à 2 cm.",
+   "Le diamètre habituel est de 2 à 8 cm."
+  ],
+  "q": "Concernant la lésion initiale de la LC à L. tropica, quelle(s) affirmation(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : guérison spontanée après 2-3 ans.",
+   "Exact : la guérison est spontanée mais lente.",
+   "Exact : la cicatrice est indélébile.",
+   "Faux : la cicatrice de la forme sèche est indélébile, pas discrète.",
+   "Exact : la cicatrice témoigne de l'atteinte."
+  ],
+  "options": [
+   "L'évolution se fait vers la guérison spontanée après 2 à 3 ans.",
+   "La guérison est spontanée mais très lente.",
+   "La cicatrice résiduelle est indélébile.",
+   "La cicatrice est toujours discrète et transitoire.",
+   "La cicatrice indélébile est caractéristique de la forme sèche."
+  ],
+  "q": "Au sujet de l'évolution de la LC à L. tropica, laquelle(lesquelles) de ces propositions est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : L. major donne la forme humide.",
+   "Exact : la forme est zoonotique.",
+   "Exact : ulcérations de 2 à 8 cm.",
+   "Exact : fond bourgeonnant avec enduit purulent.",
+   "Faux : 1-2 cm correspond à la forme sèche à L. tropica."
+  ],
+  "options": [
+   "La LC à L. major est dite forme humide.",
+   "C'est une forme zoonotique.",
+   "Les ulcérations sont plus larges, de 2 à 8 cm de diamètre.",
+   "Le fond est bourgeonnant, recouvert d'un enduit plus ou moins purulent.",
+   "Le diamètre habituel est de 1 à 2 cm."
+  ],
+  "q": "Parmi ces propositions sur la LC à L. major (forme humide), lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : lésions généralement multiples.",
+   "Exact : siège aux membres et au visage (zones découvertes).",
+   "Exact : les zones exposées aux piqûres sont atteintes.",
+   "Faux : la lésion est généralement multiple, pas unique.",
+   "Exact : la multiplicité est caractéristique de la forme humide."
+  ],
+  "options": [
+   "Les lésions de la forme humide sont généralement multiples.",
+   "Elles siègent au niveau des membres et du visage.",
+   "Ce sont les zones découvertes exposées aux piqûres.",
+   "La lésion est habituellement unique.",
+   "La multiplicité des lésions est caractéristique."
+  ],
+  "q": "S'agissant de la topographie des lésions à L. major, quelle(s) affirmation(s) est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : guérison en 3 à 6 mois.",
+   "Exact : guérison plus rapide que la forme sèche.",
+   "Exact : la cicatrice est pigmentée.",
+   "Exact : la cicatrice pigmentée est caractéristique.",
+   "Faux : 2-3 ans correspond à la forme sèche à L. tropica."
+  ],
+  "options": [
+   "La guérison de la forme humide survient en 3 à 6 mois.",
+   "L'évolution est plus rapide que celle de la forme sèche.",
+   "La cicatrice résiduelle est pigmentée.",
+   "La cicatrice pigmentée est typique de la forme à L. major.",
+   "La guérison spontanée prend 2 à 3 ans."
+  ],
+  "q": "Concernant l'évolution de la LC à L. major, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les formes à L. infantum sont sporadiques.",
+   "Exact : lésions lupoïdes.",
+   "Exact : siège à la face.",
+   "Faux : le réservoir des formes dermotropes est inconnu.",
+   "Exact : ces formes sont rares et atypiques."
+  ],
+  "options": [
+   "Les formes cutanées à L. infantum sont sporadiques.",
+   "Ce sont des lésions lupoïdes.",
+   "Elles siègent au niveau de la face.",
+   "Leur réservoir bien établi est le chien.",
+   "Ce sont des formes rares et atypiques."
+  ],
+  "q": "Au sujet des formes cutanées à L. infantum, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la forme sèche (L. tropica) = 1-2 cm, bords nets.",
+   "Exact : la forme humide (L. major) = 2-8 cm, fond bourgeonnant.",
+   "Exact : la forme sèche guérit en 2-3 ans, l'humide en 3-6 mois.",
+   "Exact : cicatrice indélébile vs pigmentée.",
+   "Faux : c'est l'inverse (sèche = petite ulcération)."
+  ],
+  "options": [
+   "La forme sèche donne une ulcération de 1 à 2 cm à bords nets.",
+   "La forme humide donne des ulcérations de 2 à 8 cm à fond bourgeonnant.",
+   "La forme sèche évolue en 2-3 ans, la forme humide en 3-6 mois.",
+   "La cicatrice est indélébile dans la forme sèche, pigmentée dans la forme humide.",
+   "La forme humide donne des ulcérations plus petites que la forme sèche."
+  ],
+  "q": "Relativement à la comparaison des formes sèche et humide, laquelle(lesquelles) de ces affirmations est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LC est immunisante.",
+   "Exact : la guérison confère une immunité durable.",
+   "Exact : les réinfections par la même espèce sont rares.",
+   "Faux : c'est la LC qui est immunisante, pas la LV.",
+   "Exact : notion classique du cours."
+  ],
+  "options": [
+   "La leishmaniose cutanée est une maladie immunisante.",
+   "La guérison d'une LC protège contre une nouvelle infection par la même espèce.",
+   "Les récidives sont exceptionnelles après guérison.",
+   "La leishmaniose viscérale est la forme classiquement immunisante.",
+   "Le caractère immunisant est un point clé du cours."
+  ],
+  "q": "Parmi ces propositions sur l'immunité dans la LC, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les formes diffuses ne sont pas présentes au Maroc.",
+   "Exact : les formes cutanéo-muqueuses ne sont pas présentes au Maroc.",
+   "Exact : seules les formes localisées existent au Maroc.",
+   "Exact : les formes diffuses relèvent d'autres espèces (L. aethiopica).",
+   "Faux : le cours précise que ces formes ne sont pas présentes au Maroc."
+  ],
+  "options": [
+   "Les formes cutanées diffuses ne sont pas présentes au Maroc.",
+   "Les formes cutanéo-muqueuses ne sont pas présentes au Maroc.",
+   "Seules les formes cutanées localisées existent au Maroc.",
+   "Les formes diffuses sont dues à d'autres espèces absentes du Maroc.",
+   "Les formes cutanéo-muqueuses sont fréquentes au Maroc."
+  ],
+  "q": "À propos des formes non présentes au Maroc, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LC débute au point d'inoculation.",
+   "Exact : le macule rouge sombre est la lésion inaugurale.",
+   "Exact : l'évolution vers le nodule puis l'ulcération est classique.",
+   "Faux : l'ulcération est à bords nets, pas irréguliers.",
+   "Exact : séquence classique de la forme sèche."
+  ],
+  "options": [
+   "La lésion siège au point d'inoculation de la piqûre.",
+   "Le début est un petit macule rouge sombre.",
+   "L'évolution se fait vers un nodule dur infiltré puis une ulcération.",
+   "L'ulcération a des bords irréguliers et un fond nécrotique.",
+   "Cette séquence est typique de la forme sèche à L. tropica."
+  ],
+  "q": "Concernant la séquence lésionnelle de la forme sèche, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la croûte épaisse recouvre l'ulcération.",
+   "Exact : l'ulcération est à bords nets.",
+   "Exact : le diamètre est de 1 à 2 cm.",
+   "Exact : cet aspect est typique de la forme sèche.",
+   "Faux : le fond bourgeonnant purulent caractérise la forme humide."
+  ],
+  "options": [
+   "La lésion est recouverte d'une croûte épaisse.",
+   "L'ulcération sous-jacente a des bords nets.",
+   "Son diamètre est de 1 à 2 cm.",
+   "Cet aspect ulcéro-croûteux est typique de la forme sèche.",
+   "Le fond est bourgeonnant avec un enduit purulent."
+  ],
+  "q": "Au sujet de l'aspect de l'ulcération dans la forme sèche, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'enduit est plus ou moins purulent.",
+   "Exact : le fond est bourgeonnant.",
+   "Exact : l'aspect humide contraste avec la forme sèche.",
+   "Faux : la croûte épaisse caractérise la forme sèche.",
+   "Exact : cet aspect est typique de la forme à L. major."
+  ],
+  "options": [
+   "L'ulcération est recouverte d'un enduit plus ou moins purulent.",
+   "Le fond de l'ulcération est bourgeonnant.",
+   "Cet aspect humide s'oppose à la forme sèche croûteuse.",
+   "La lésion est recouverte d'une croûte épaisse et sèche.",
+   "Cet aspect est typique de la forme humide à L. major."
+  ],
+  "q": "Parmi ces propositions sur l'aspect de la forme humide, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la forme à L. tropica est anthroponotique.",
+   "Exact : le réservoir est l'homme malade.",
+   "Exact : la forme à L. major est zoonotique.",
+   "Exact : le réservoir est constitué de rongeurs.",
+   "Faux : les deux formes n'ont pas le même réservoir."
+  ],
+  "options": [
+   "La forme sèche à L. tropica est anthroponotique.",
+   "Son réservoir est l'homme malade.",
+   "La forme humide à L. major est zoonotique.",
+   "Son réservoir est constitué de rongeurs sauvages.",
+   "Les deux formes cutanées ont le même réservoir."
+  ],
+  "q": "S'agissant du mode épidémiologique des formes cutanées, quelle(s) affirmation(s) est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LC est une maladie immunisante.",
+   "Exact : la cicatrice indélébile témoigne de l'infection.",
+   "Exact : la guérison est spontanée.",
+   "Faux : la LV est mortelle sans traitement ; la LC guérit spontanément.",
+   "Exact : contraste entre les deux formes."
+  ],
+  "options": [
+   "La leishmaniose cutanée est une maladie immunisante.",
+   "La cicatrice résiduelle est indélébile dans la forme sèche.",
+   "La guérison de la LC est spontanée.",
+   "La LC est mortelle en l'absence de traitement.",
+   "Le pronostic de la LC est bien meilleur que celui de la LV."
+  ],
+  "q": "Concernant le pronostic comparé des formes cutanée et viscérale, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : la LC à L. tropica ne s'étend pas aux organes profonds.",
+   "Exact : elle ne s'étend pas aux muqueuses.",
+   "Exact : elle reste strictement cutanée localisée.",
+   "Faux : la forme sèche ne donne pas d'atteinte viscérale.",
+   "Faux : pas d'extension muqueuse dans la forme sèche."
+  ],
+  "options": [
+   "La forme sèche ne s'étend pas aux organes profonds.",
+   "La forme sèche ne s'étend pas aux muqueuses.",
+   "C'est une forme strictement cutanée et localisée.",
+   "Une dissémination viscérale est fréquente dans la forme sèche.",
+   "Une extension aux muqueuses est habituelle dans la forme sèche."
+  ],
+  "q": "Au sujet de l'extension de la forme sèche, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les lésions lupoïdes siègent à la face.",
+   "Exact : ce sont des formes sporadiques.",
+   "Exact : elles sont dues à des souches dermotropes.",
+   "Exact : le réservoir est inconnu.",
+   "Faux : les lésions lupoïdes sont dues à L. infantum dermotrope, pas à L. tropica."
+  ],
+  "options": [
+   "Les lésions lupoïdes siègent au niveau de la face.",
+   "Ce sont des formes sporadiques.",
+   "Elles sont dues à L. infantum dermotrope.",
+   "Leur réservoir n'est pas connu.",
+   "Les lésions lupoïdes sont dues à L. tropica."
+  ],
+  "q": "Relativement aux lésions lupoïdes, laquelle(lesquelles) de ces affirmations est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LC fait partie des maladies définissant le SIDA.",
+   "Exact : l'immunodépression modifie l'expression clinique.",
+   "Exact : des formes diffuses peuvent apparaître chez l'immunodéprimé.",
+   "Faux : le lien avec le VIH est établi (NB+++).",
+   "Exact : d'où l'intérêt du dépistage."
+  ],
+  "options": [
+   "La leishmaniose fait partie des maladies définissant le SIDA.",
+   "Chez l'immunodéprimé, l'expression clinique peut être atypique.",
+   "Des formes cutanées diffuses peuvent survenir en cas d'immunodépression.",
+   "Il n'existe aucun lien entre leishmaniose et infection par le VIH.",
+   "Le cours souligne ce lien (NB+++)."
+  ],
+  "q": "Parmi ces propositions sur la LC et l'immunodépression, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la forme diffuse traduit une anergie cellulaire.",
+   "Exact : les lésions sont disséminées et riches en parasites.",
+   "Exact : L. aethiopica en est l'agent classique.",
+   "Exact : cette forme n'existe pas au Maroc.",
+   "Faux : la forme diffuse n'est pas immunisante au sens de la guérison."
+  ],
+  "options": [
+   "La forme cutanée diffuse traduit un déficit de l'immunité cellulaire.",
+   "Les lésions sont papulo-nodulaires disséminées et très parasitées.",
+   "L. aethiopica est l'agent classique de la forme diffuse.",
+   "Cette forme n'est pas présente au Maroc.",
+   "La forme diffuse est la forme la plus immunisante."
+  ],
+  "q": "À propos de la physiopathologie de la forme diffuse, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LC est une parasitose cutanée.",
+   "Exact : le diagnostic repose sur la mise en évidence du parasite.",
+   "Exact : le raclage de la lésion est le prélèvement de choix.",
+   "Faux : la sérologie n'est pas l'examen de certitude dans la LC.",
+   "Exact : Giemsa, culture NNN et PCR sont les techniques."
+  ],
+  "options": [
+   "La leishmaniose cutanée est une parasitose à expression cutanée.",
+   "Le diagnostic de certitude repose sur la mise en évidence des leishmanies.",
+   "Le raclage de la lésion est le prélèvement de première intention.",
+   "La sérologie est l'examen de certitude dans la LC.",
+   "Les techniques sont la coloration de Giemsa, la culture et la PCR."
+  ],
+  "q": "Concernant les généralités diagnostiques de la LC, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la LC guérit spontanément.",
+   "Exact : le traitement accélère la guérison et limite la cicatrice.",
+   "Exact : l'injection intra-lésionnelle est le traitement de la LC.",
+   "Exact : 2 fois par semaine pendant 4-5 semaines.",
+   "Faux : la voie IM/IV est réservée à la LV."
+  ],
+  "options": [
+   "La LC est une maladie à guérison spontanée.",
+   "Le traitement vise à accélérer la guérison et à réduire la cicatrice.",
+   "L'injection intra-lésionnelle d'antimoniés est le traitement de la LC.",
+   "Le schéma est de 2 injections par semaine pendant 4 à 5 semaines.",
+   "Le traitement de la LC se fait par voie IM ou IV."
+  ],
+  "q": "Au sujet des généralités thérapeutiques de la LC, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les zones découvertes sont les plus exposées.",
+   "Exact : le visage est fréquemment atteint.",
+   "Exact : les membres sont fréquemment atteints.",
+   "Faux : les zones couvertes sont moins exposées.",
+   "Exact : la topographie suit l'exposition aux piqûres."
+  ],
+  "options": [
+   "Les lésions siègent sur les zones découvertes du corps.",
+   "Le visage est une localisation fréquente.",
+   "Les membres sont une localisation fréquente.",
+   "Les zones couvertes par les vêtements sont les plus atteintes.",
+   "La topographie reflète l'exposition aux piqûres du vecteur."
+  ],
+  "q": "Relativement à la topographie des lésions cutanées, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : incubation 1-4 mois pour la forme sèche.",
+   "Exact : incubation 3-6 mois pour la LV.",
+   "Exact : les deux incubations sont silencieuses.",
+   "Exact : la LV a l'incubation la plus longue.",
+   "Faux : la LC à L. major guérit en 3-6 mois, ce n'est pas l'incubation."
+  ],
+  "options": [
+   "L'incubation de la LC à L. tropica est de 1 à 4 mois.",
+   "L'incubation de la LV est de 3 à 6 mois.",
+   "Les deux incubations sont silencieuses.",
+   "L'incubation de la LV est plus longue que celle de la LC.",
+   "L'incubation de la LC à L. major est de 3 à 6 mois."
+  ],
+  "q": "Parmi ces propositions comparant les incubations, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la pancytopénie est un signe de présomption.",
+   "Exact : le syndrome inflammatoire est un signe de présomption.",
+   "Exact : ces signes orientent sans affirmer.",
+   "Exact : la certitude exige la mise en évidence du parasite.",
+   "Faux : une hyperleucocytose n'est pas évocatrice."
+  ],
+  "options": [
+   "La pancytopénie est un signe biologique de présomption de la LV.",
+   "Le syndrome inflammatoire est un signe de présomption de la LV.",
+   "Ces signes orientent le diagnostic sans l'affirmer.",
+   "Le diagnostic de certitude exige la mise en évidence du parasite.",
+   "Une hyperleucocytose majeure est le signe de présomption typique."
+  ],
+  "q": "Concernant les signes de présomption de la leishmaniose viscérale, lesquelles de ces affirmations sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la ponction de moelle est un site de prélèvement.",
+   "Exact : la ponction ganglionnaire est un site de prélèvement.",
+   "Exact : la ponction splénique est un site de prélèvement.",
+   "Exact : ces trois sites sont riches en macrophages parasités.",
+   "Faux : le sang périphérique est peu rentable pour la recherche directe."
+  ],
+  "options": [
+   "La ponction de moelle osseuse permet la recherche directe du parasite.",
+   "La ponction ganglionnaire permet la recherche directe du parasite.",
+   "La ponction splénique permet la recherche directe du parasite.",
+   "Ces trois sites sont riches en cellules du système réticulo-endothélial.",
+   "La goutte épaisse de sang périphérique est l'examen de choix."
+  ],
+  "q": "À propos des sites de prélèvement pour le diagnostic direct de la LV, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : confection d'un frottis mince.",
+   "Exact : fixation au méthanol.",
+   "Exact : coloration de Giemsa.",
+   "Faux : c'est la forme amastigote qui est recherchée sur frottis.",
+   "Exact : l'amastigote a l'aspect typique en Giemsa."
+  ],
+  "options": [
+   "Le produit de ponction sert à confectionner un frottis mince.",
+   "Le frottis est fixé au méthanol.",
+   "Le frottis est coloré au Giemsa.",
+   "La recherche porte sur les formes promastigotes.",
+   "La forme recherchée est l'amastigote intramacrophagique."
+  ],
+  "q": "Relativement à la technique du frottis dans la LV, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le milieu NNN modifié est le milieu de culture.",
+   "Exact : la culture permet d'obtenir des promastigotes.",
+   "Exact : la culture est plus sensible que le frottis.",
+   "Exact : elle nécessite un laboratoire équipé et du temps.",
+   "Faux : la culture donne des promastigotes, pas des amastigotes."
+  ],
+  "options": [
+   "La culture se fait sur milieu NNN modifié.",
+   "Elle permet d'obtenir des formes promastigotes.",
+   "C'est une technique plus sensible que l'examen direct.",
+   "Elle nécessite un délai d'incubation de plusieurs jours.",
+   "La culture met en évidence des formes amastigotes."
+  ],
+  "q": "Concernant la culture dans le diagnostic de la LV, quelle(s) affirmation(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la PCR détecte l'ADN parasitaire.",
+   "Exact : elle est très sensible.",
+   "Exact : elle permet le diagnostic d'espèce.",
+   "Faux : la PCR est plus sensible que le frottis.",
+   "Exact : elle complète les techniques classiques."
+  ],
+  "options": [
+   "La PCR détecte l'ADN de Leishmania.",
+   "C'est une technique très sensible.",
+   "Elle permet l'identification de l'espèce en cause.",
+   "Elle est moins sensible que l'examen direct au microscope.",
+   "Elle est utile quand la parasitémie est faible."
+  ],
+  "q": "Au sujet de la PCR dans le diagnostic des leishmanioses, laquelle(lesquelles) de ces propositions est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : latex, DAT, HAI, ELISA, immunoblot cités.",
+   "Exact : IFAT/IFI cités.",
+   "Exact : la sérologie est un diagnostic de certitude indirect.",
+   "Exact : elle est utile quand la recherche directe est négative.",
+   "Faux : la sérologie est positive dans la LV."
+  ],
+  "options": [
+   "Le latex, le DAT, l'HAI et l'ELISA sont des techniques sérologiques.",
+   "L'IFAT, l'IFI et l'immunoblot sont des techniques sérologiques.",
+   "La sérologie est un argument de certitude dans la LV.",
+   "Elle est utile lorsque la recherche directe est négative.",
+   "La sérologie est constamment négative dans la leishmaniose viscérale."
+  ],
+  "q": "Parmi ces propositions sur la sérologie de la LV, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le titrage des anticorps quantifie la réponse.",
+   "Exact : le suivi sérologique permet de suivre la maladie sous traitement.",
+   "Exact : la sérologie sert aux études séro-épidémiologiques.",
+   "Faux : le titrage est utile au suivi, pas inutile.",
+   "Exact : la décroissance des titres signe l'efficacité du traitement."
+  ],
+  "options": [
+   "Le titrage des anticorps quantifie la réponse humorale.",
+   "Le suivi sérologique permet de suivre l'évolution sous traitement.",
+   "La sérologie est utilisée dans les études séro-épidémiologiques.",
+   "Le titrage des anticorps n'a aucun intérêt dans le suivi.",
+   "La baisse des titres témoigne de l'efficacité thérapeutique."
+  ],
+  "q": "S'agissant de l'intérêt du titrage et du suivi sérologique, quelle(s) affirmation(s) est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la recherche directe est l'examen de certitude.",
+   "Exact : le frottis médullaire coloré au Giemsa est la technique de référence.",
+   "Exact : la culture NNN est un examen de certitude.",
+   "Exact : la PCR est un examen de certitude.",
+   "Faux : la sérologie est un argument indirect, pas la recherche directe."
+  ],
+  "options": [
+   "La recherche directe du parasite est l'examen de certitude.",
+   "Le frottis de moelle coloré au Giemsa en est la technique princeps.",
+   "La culture sur milieu NNN est un examen de certitude.",
+   "La PCR est un examen de certitude.",
+   "La sérologie est l'examen de certitude de première intention."
+  ],
+  "q": "Concernant les examens de certitude de la LV, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : la ponction splénique est rentable mais à risque hémorragique.",
+   "Exact : la thrombopénie de la LV majore le risque.",
+   "Exact : la ponction médullaire est plus sûre.",
+   "Faux : la ponction splénique n'est pas sans danger.",
+   "Faux : le risque hémorragique est réel."
+  ],
+  "options": [
+   "La ponction splénique est très rentable mais à risque hémorragique.",
+   "La thrombopénie de la LV augmente ce risque.",
+   "La ponction de moelle est une alternative plus sûre.",
+   "La ponction splénique est un geste totalement anodin.",
+   "Il n'existe aucun risque hémorragique lors de la ponction splénique."
+  ],
+  "q": "Au sujet des risques de la ponction splénique, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la ponction de moelle est le prélèvement de référence.",
+   "Exact : la ponction ganglionnaire est une alternative.",
+   "Exact : la ponction splénique est la plus rentable mais risquée.",
+   "Faux : le LCR n'est pas un site de recherche du parasite.",
+   "Exact : le choix dépend du tableau clinique et des risques."
+  ],
+  "options": [
+   "La ponction de moelle osseuse est le prélèvement de première intention.",
+   "La ponction ganglionnaire est une alternative valable.",
+   "La ponction splénique est la plus sensible mais la plus risquée.",
+   "La ponction lombaire est l'examen de choix.",
+   "Le choix du site dépend du contexte clinique."
+  ],
+  "q": "Relativement au choix du site de ponction, laquelle(lesquelles) de ces affirmations est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la recherche directe met en évidence les amastigotes.",
+   "Exact : l'aspect en Giemsa est typique.",
+   "Exact : les amastigotes sont intramacrophagiques.",
+   "Exact : la négativité n'élimine pas le diagnostic.",
+   "Faux : la recherche directe est spécifique mais pas toujours sensible."
+  ],
+  "options": [
+   "La recherche directe met en évidence les formes amastigotes.",
+   "L'aspect au Giemsa (noyau et kinétoplaste rouges sur fond bleu) est typique.",
+   "Les amastigotes sont visualisés à l'intérieur des macrophages.",
+   "Un examen direct négatif n'élimine pas formellement le diagnostic.",
+   "Un examen direct négatif élimine définitivement la leishmaniose viscérale."
+  ],
+  "q": "Parmi ces propositions sur l'interprétation de la recherche directe, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : ELISA cité parmi les techniques.",
+   "Exact : l'immunoblot (western blot) est cité.",
+   "Exact : le DAT (direct agglutination test) est cité.",
+   "Faux : la goutte épaisse n'est pas une technique sérologique.",
+   "Exact : le latex est un test d'agglutination rapide."
+  ],
+  "options": [
+   "L'ELISA est une technique sérologique utilisable.",
+   "L'immunoblot est une technique sérologique utilisable.",
+   "Le DAT est une technique sérologique utilisable.",
+   "La goutte épaisse est une technique sérologique.",
+   "Le test au latex est un test rapide utilisable."
+  ],
+  "q": "À propos des différentes techniques sérologiques, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la sérologie est positive dans la LV.",
+   "Exact : elle est un argument de certitude indirect.",
+   "Exact : elle est utile en cas de recherche directe négative.",
+   "Exact : le titrage permet le suivi.",
+   "Faux : la sérologie est peu contributive dans la LC."
+  ],
+  "options": [
+   "La sérologie est positive dans la leishmaniose viscérale.",
+   "C'est un diagnostic de certitude indirect.",
+   "Elle compense les limites de la recherche directe.",
+   "Le titrage des anticorps permet le suivi thérapeutique.",
+   "La sérologie est l'examen de référence dans la leishmaniose cutanée."
+  ],
+  "q": "Concernant la place de la sérologie, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la PCR est très sensible.",
+   "Exact : elle détecte l'ADN parasitaire même à faible charge.",
+   "Exact : elle identifie l'espèce.",
+   "Faux : la PCR ne remplace pas totalement les autres techniques.",
+   "Exact : elle est complémentaire du frottis et de la culture."
+  ],
+  "options": [
+   "La PCR est une technique très sensible.",
+   "Elle détecte l'ADN du parasite même en faible quantité.",
+   "Elle permet le diagnostic d'espèce.",
+   "Elle rend inutiles le frottis et la culture.",
+   "Elle complète les techniques parasitologiques classiques."
+  ],
+  "q": "Au sujet des avantages de la PCR, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la LV est une parasitose systémique à diagnostic parasitologique.",
+   "Exact : la recherche directe est l'examen clé.",
+   "Exact : la sérologie est un appoint précieux.",
+   "Exact : la PCR affine le diagnostic.",
+   "Faux : la clinique seule ne suffit pas au diagnostic de certitude."
+  ],
+  "options": [
+   "Le diagnostic de la LV repose sur des arguments parasitologiques.",
+   "La recherche directe du parasite est l'examen de certitude.",
+   "La sérologie apporte un argument indirect de certitude.",
+   "La PCR est un outil diagnostique moderne.",
+   "La clinique seule suffit à affirmer le diagnostic de LV."
+  ],
+  "q": "Relativement à la démarche diagnostique globale de la LV, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la pancytopénie oriente vers la LV.",
+   "Exact : le syndrome inflammatoire oriente vers la LV.",
+   "Exact : la splénomégalie fébrile de l'enfant du Rif évoque la LV.",
+   "Faux : la leucémie est le principal diagnostic différentiel, pas une confirmation.",
+   "Exact : la confirmation est parasitologique."
+  ],
+  "options": [
+   "Devant une pancytopénie fébrile en zone d'endémie, évoquer la LV.",
+   "Un syndrome inflammatoire associé renforce la suspicion.",
+   "Une splénomégalie chez l'enfant du Rif fait évoquer la LV.",
+   "La leucémie est éliminée d'emblée sans examen complémentaire.",
+   "La confirmation repose sur la mise en évidence du parasite."
+  ],
+  "q": "Parmi ces propositions sur la suspicion clinique de LV, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la moelle est envahie par le parasite.",
+   "Exact : la pancytopénie en est la traduction.",
+   "Exact : le frottis médullaire est l'examen de choix.",
+   "Exact : les amastigotes y sont intramacrophagiques.",
+   "Faux : la moelle n'est pas indemne dans la LV."
+  ],
+  "options": [
+   "La moelle osseuse est un site de multiplication du parasite.",
+   "Son envahissement explique la pancytopénie.",
+   "Le frottis médullaire coloré au Giemsa est l'examen de référence.",
+   "Les amastigotes y sont visibles dans les macrophages.",
+   "La moelle osseuse est épargnée dans la leishmaniose viscérale."
+  ],
+  "q": "À propos de l'atteinte médullaire dans la LV, quelle(s) affirmation(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le suivi sérologique évalue la réponse au traitement.",
+   "Exact : la baisse des titres est un bon signe.",
+   "Exact : la sérologie sert à la surveillance épidémiologique.",
+   "Faux : le titrage est utile, pas inutile.",
+   "Exact : la persistance de titres élevés fait redouter l'échec."
+  ],
+  "options": [
+   "Le suivi sérologique permet d'évaluer l'efficacité du traitement.",
+   "La décroissance des titres d'anticorps est un signe favorable.",
+   "La sérologie est utilisée dans les enquêtes séro-épidémiologiques.",
+   "Le titrage des anticorps n'a aucun intérêt pratique.",
+   "La persistance de titres élevés doit faire craindre un échec thérapeutique."
+  ],
+  "q": "Concernant l'utilité du suivi sérologique, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la recherche directe est spécifique.",
+   "Exact : la culture NNN est sensible.",
+   "Exact : la PCR est très sensible.",
+   "Exact : la sérologie est sensible dans la LV.",
+   "Faux : aucun examen n'est sensible à 100 %."
+  ],
+  "options": [
+   "La recherche directe sur frottis est très spécifique.",
+   "La culture sur milieu NNN est plus sensible que l'examen direct.",
+   "La PCR est la technique la plus sensible.",
+   "La sérologie est sensible dans la leishmaniose viscérale.",
+   "Un seul examen négatif élimine définitivement le diagnostic."
+  ],
+  "q": "Au sujet de la sensibilité des examens, laquelle(lesquelles) de ces propositions est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LV est une maladie définissant le SIDA.",
+   "Exact : la sérologie peut être moins performante chez l'immunodéprimé.",
+   "Exact : la recherche directe reste indispensable.",
+   "Faux : le diagnostic n'est pas plus facile chez l'immunodéprimé.",
+   "Exact : les formes atypiques sont fréquentes."
+  ],
+  "options": [
+   "La leishmaniose viscérale est une infection opportuniste du SIDA.",
+   "Chez l'immunodéprimé, la sérologie peut être faussement négative.",
+   "La recherche directe du parasite reste indispensable.",
+   "Le diagnostic est plus facile chez le sujet immunodéprimé.",
+   "Les présentations atypiques sont fréquentes en cas d'immunodépression."
+  ],
+  "q": "Relativement au diagnostic de la LV chez l'immunodéprimé, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la ponction ganglionnaire est un site valable.",
+   "Exact : les ganglions sont riches en macrophages parasités.",
+   "Exact : le frottis ganglionnaire se colore au Giemsa.",
+   "Exact : c'est une alternative à la ponction médullaire.",
+   "Faux : la ponction ganglionnaire a bien un intérêt diagnostique."
+  ],
+  "options": [
+   "La ponction ganglionnaire est un site de prélèvement valable.",
+   "Les ganglions contiennent des macrophages parasités.",
+   "Le produit est étalé en frottis mince coloré au Giemsa.",
+   "C'est une alternative à la ponction de moelle.",
+   "La ponction ganglionnaire n'a aucun intérêt dans la LV."
+  ],
+  "q": "Parmi ces propositions sur la ponction ganglionnaire, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la culture donne des promastigotes mobiles.",
+   "Exact : le milieu NNN modifié est le milieu de référence.",
+   "Exact : l'incubation se fait à 27 °C.",
+   "Faux : la culture est plus lente que le frottis.",
+   "Exact : elle confirme le diagnostic et permet l'identification."
+  ],
+  "options": [
+   "La culture permet d'obtenir des formes promastigotes.",
+   "Le milieu NNN modifié est le milieu de culture de référence.",
+   "L'incubation se fait à 27 °C.",
+   "La culture donne un résultat plus rapide que le frottis.",
+   "Elle permet de confirmer le diagnostic et d'identifier l'espèce."
+  ],
+  "q": "À propos des modalités de la culture, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la recherche directe est l'examen de certitude.",
+   "Exact : la sérologie est un argument indirect.",
+   "Exact : la PCR est un examen de certitude moderne.",
+   "Exact : la clinique et la biologie orientent.",
+   "Faux : aucun examen isolé n'est infaillible."
+  ],
+  "options": [
+   "La recherche directe du parasite affirme le diagnostic.",
+   "La sérologie apporte un argument de certitude indirect.",
+   "La PCR est un examen de certitude.",
+   "Les signes de présomption orientent la démarche.",
+   "Un seul examen suffit toujours à affirmer ou éliminer le diagnostic."
+  ],
+  "q": "Concernant la hiérarchie des examens dans la LV, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le DAT est un test d'agglutination directe.",
+   "Exact : l'HAI est l'hémagglutination indirecte.",
+   "Exact : l'IFI/IFAT est l'immunofluorescence indirecte.",
+   "Faux : ce sont des techniques sérologiques, pas de biologie moléculaire.",
+   "Exact : ces techniques détectent les anticorps anti-Leishmania."
+  ],
+  "options": [
+   "Le DAT est un test d'agglutination directe.",
+   "L'HAI est une technique d'hémagglutination indirecte.",
+   "L'IFI (IFAT) est une technique d'immunofluorescence indirecte.",
+   "Ce sont des techniques de biologie moléculaire.",
+   "Ces techniques mettent en évidence les anticorps anti-leishmaniens."
+  ],
+  "q": "Au sujet des sigles des techniques sérologiques, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le raclage de la lésion est le prélèvement de choix.",
+   "Exact : la biopsie est une alternative.",
+   "Exact : le diagnostic repose sur la mise en évidence du parasite.",
+   "Exact : le prélèvement doit être fait en zone active.",
+   "Faux : la sérologie n'est pas l'examen de certitude dans la LC."
+  ],
+  "options": [
+   "Le raclage de la lésion est le prélèvement de première intention.",
+   "La biopsie cutanée est un prélèvement possible.",
+   "Le diagnostic de certitude repose sur la mise en évidence des leishmanies.",
+   "Le prélèvement doit intéresser la bordure active de la lésion.",
+   "La sérologie est l'examen de certitude dans la leishmaniose cutanée."
+  ],
+  "q": "Concernant le diagnostic de la leishmaniose cutanée, lesquelles de ces affirmations sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : désinfection de l'ulcération en premier.",
+   "Exact : ablation de la croûte.",
+   "Exact : raclage jusqu'à obtention de la sérosité.",
+   "Faux : le raclage se fait en profondeur jusqu'à la sérosité, pas superficiel.",
+   "Exact : la sérosité est riche en parasites."
+  ],
+  "options": [
+   "La lésion est d'abord désinfectée.",
+   "La croûte est enlevée avant le raclage.",
+   "Le raclage est poursuivi jusqu'à la sérosité.",
+   "Le raclage doit rester très superficiel sans atteindre la sérosité.",
+   "La sérosité obtenue est riche en amastigotes."
+  ],
+  "q": "À propos de la technique du raclage cutané, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : étalement sur lames porte-objet.",
+   "Exact : confection d'un frottis cutané mince.",
+   "Exact : fixation et coloration au Giemsa.",
+   "Exact : recherche des amastigotes.",
+   "Faux : la culture donne des promastigotes, pas le frottis."
+  ],
+  "options": [
+   "Le produit de raclage est étalé sur des lames porte-objet.",
+   "On confectionne un frottis cutané mince.",
+   "Le frottis est coloré au Giemsa après fixation.",
+   "La recherche porte sur les formes amastigotes.",
+   "Le frottis met en évidence des formes promastigotes."
+  ],
+  "q": "Relativement au frottis cutané, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la coloration de Giemsa met en évidence les amastigotes.",
+   "Exact : la culture NNN donne des promastigotes.",
+   "Exact : la PCR permet le diagnostic d'espèce.",
+   "Faux : la sérologie n'est pas la technique de choix dans la LC.",
+   "Exact : ces trois techniques sont complémentaires."
+  ],
+  "options": [
+   "La coloration de Giemsa permet de visualiser les amastigotes.",
+   "La culture sur milieu NNN modifié donne des promastigotes.",
+   "La PCR permet le diagnostic de l'espèce en cause.",
+   "La sérologie est la technique de choix dans la LC.",
+   "Ces trois techniques sont complémentaires."
+  ],
+  "q": "Concernant les techniques diagnostiques de la LC, quelle(s) affirmation(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la PCR identifie l'espèce.",
+   "Exact : l'espèce conditionne le réservoir et la prophylaxie.",
+   "Exact : le diagnostic d'espèce guide la lutte.",
+   "Exact : la PCR est plus discriminante que la morphologie.",
+   "Faux : la morphologie seule ne distingue pas les espèces."
+  ],
+  "options": [
+   "La PCR permet d'identifier l'espèce de Leishmania en cause.",
+   "L'identification de l'espèce oriente la recherche du réservoir.",
+   "Elle guide les mesures prophylactiques adaptées.",
+   "La PCR est plus discriminante que l'examen morphologique.",
+   "L'examen au Giemsa seul suffit à identifier l'espèce."
+  ],
+  "q": "Au sujet de l'intérêt du diagnostic d'espèce, laquelle(lesquelles) de ces propositions est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la bordure active est la plus riche en parasites.",
+   "Exact : le centre nécrotique est pauvre en parasites.",
+   "Exact : le raclage doit être appuyé jusqu'à la sérosité.",
+   "Faux : un raclage superficiel est peu rentable.",
+   "Exact : la qualité du prélèvement conditionne le diagnostic."
+  ],
+  "options": [
+   "Le prélèvement doit intéresser la bordure active de l'ulcération.",
+   "Le centre de la lésion est pauvre en parasites.",
+   "Le raclage doit être suffisamment appuyé.",
+   "Un simple frottis superficiel de la croûte suffit.",
+   "La qualité du prélèvement conditionne la sensibilité de l'examen."
+  ],
+  "q": "Parmi ces propositions sur l'optimisation du prélèvement cutané, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la biopsie est une alternative au raclage.",
+   "Exact : elle permet l'examen histologique.",
+   "Exact : les amastigotes y sont intramacrophagiques.",
+   "Exact : elle est utile quand le raclage est négatif.",
+   "Faux : la biopsie n'est pas le prélèvement de première intention."
+  ],
+  "options": [
+   "La biopsie cutanée est un prélèvement possible.",
+   "Elle permet un examen anatomopathologique.",
+   "Les amastigotes y sont visibles dans les macrophages du derme.",
+   "Elle est utile en cas de raclage négatif.",
+   "La biopsie est le prélèvement de première intention devant toute LC."
+  ],
+  "q": "S'agissant de la biopsie cutanée, quelle(s) affirmation(s) est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la culture NNN est le milieu de référence.",
+   "Exact : elle donne des promastigotes mobiles.",
+   "Exact : l'incubation est à 27 °C.",
+   "Faux : la culture est plus lente que l'examen direct.",
+   "Exact : elle confirme le diagnostic."
+  ],
+  "options": [
+   "La culture sur milieu NNN modifié est une technique de diagnostic.",
+   "Elle met en évidence des formes promastigotes.",
+   "L'incubation se fait à 27 °C.",
+   "Le résultat est obtenu plus vite qu'avec le frottis.",
+   "Elle permet de confirmer le diagnostic."
+  ],
+  "q": "Concernant la culture dans la LC, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la sérologie est peu utile dans la LC.",
+   "Exact : la réponse humorale est faible dans les formes cutanées.",
+   "Exact : le diagnostic est parasitologique direct.",
+   "Exact : Giemsa, culture et PCR sont les examens clés.",
+   "Faux : la sérologie n'est pas l'examen de référence dans la LC."
+  ],
+  "options": [
+   "La sérologie a un intérêt limité dans la leishmaniose cutanée.",
+   "La réponse anticorps est faible dans les formes cutanées localisées.",
+   "Le diagnostic repose sur la mise en évidence directe du parasite.",
+   "Le Giemsa, la culture et la PCR sont les examens de référence.",
+   "La sérologie est l'examen de référence dans la LC."
+  ],
+  "q": "Au sujet de la place de la sérologie dans la LC, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les antimoniés pentavalents sont la référence.",
+   "Exact : la posologie est de 20 mg/kg pendant 4 semaines.",
+   "Exact : toxicités cardiaque, rénale et pancréatique.",
+   "Faux : la résistance aux antimoniés est décrite.",
+   "Exact : la surveillance est indispensable."
+  ],
+  "options": [
+   "Les antimoniés pentavalents (Sb5+) sont le traitement de référence.",
+   "La posologie est de 20 mg/kg par jour pendant 4 semaines.",
+   "Ils exposent à des risques cardiaques, rénaux et pancréatiques.",
+   "Aucune résistance aux antimoniés n'a jamais été décrite.",
+   "Une surveillance clinique et biologique est nécessaire."
+  ],
+  "q": "Relativement aux antimoniés pentavalents, laquelle(lesquelles) de ces affirmations est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'amphotéricine B désoxycholate est une alternative.",
+   "Exact : posologie 0,6 à 1 mg/kg/j.",
+   "Exact : la néphrotoxicité est l'effet indésirable majeur.",
+   "Exact : la perfusion doit être surveillée.",
+   "Faux : l'amphotéricine B n'est pas dénuée de toxicité."
+  ],
+  "options": [
+   "L'amphotéricine B (désoxycholate) est une alternative thérapeutique.",
+   "La posologie est de 0,6 à 1 mg/kg par jour.",
+   "La néphrotoxicité est son principal effet indésirable.",
+   "La perfusion nécessite une surveillance.",
+   "L'amphotéricine B est totalement dénuée de toxicité."
+  ],
+  "q": "Parmi ces propositions sur l'amphotéricine B désoxycholate, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la forme liposomale est mieux tolérée.",
+   "Exact : posologie 4 mg/kg/j pendant 5 jours puis à J10.",
+   "Exact : elle est indiquée dans la LV.",
+   "Faux : la forme liposomale est moins néphrotoxique.",
+   "Exact : c'est une option moderne du traitement."
+  ],
+  "options": [
+   "L'amphotéricine B liposomale est mieux tolérée que le désoxycholate.",
+   "Le schéma est de 4 mg/kg/j pendant 5 jours puis à J10.",
+   "Elle est utilisée dans la leishmaniose viscérale.",
+   "Elle est plus néphrotoxique que la forme désoxycholate.",
+   "C'est une alternative moderne aux antimoniés."
+  ],
+  "q": "À propos de l'amphotéricine B liposomale, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la miltéfosine s'administre par voie orale.",
+   "Exact : posologie 2,5 mg/kg/j.",
+   "Exact : dose maximale 150 mg/j.",
+   "Exact : c'est le seul traitement oral cité.",
+   "Faux : la miltéfosine n'est pas injectable."
+  ],
+  "options": [
+   "La miltéfosine est le traitement oral des leishmanioses.",
+   "La posologie est de 2,5 mg/kg par jour.",
+   "La dose maximale est de 150 mg par jour.",
+   "C'est une alternative aux traitements injectables.",
+   "La miltéfosine s'administre par voie intraveineuse."
+  ],
+  "q": "Concernant la miltéfosine, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LC se traite par injection intra-lésionnelle.",
+   "Exact : 2 injections par semaine.",
+   "Exact : durée 4 à 5 semaines.",
+   "Faux : la voie IM/IV est réservée à la LV.",
+   "Exact : le traitement local suffit dans la LC."
+  ],
+  "options": [
+   "Le traitement de la LC est l'injection intra-lésionnelle d'antimoniés.",
+   "Le rythme est de 2 injections par semaine.",
+   "La durée est de 4 à 5 semaines.",
+   "La voie IM ou IV est la voie de choix dans la LC.",
+   "Le traitement local est adapté à la forme cutanée localisée."
+  ],
+  "q": "Au sujet des indications thérapeutiques dans la LC, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la LV se traite par voie générale.",
+   "Exact : la voie IM est possible.",
+   "Exact : la voie IV est possible.",
+   "Exact : le traitement systémique est indispensable dans la LV.",
+   "Faux : l'injection intra-lésionnelle est réservée à la LC."
+  ],
+  "options": [
+   "Le traitement de la LV est un traitement par voie générale.",
+   "La voie intramusculaire peut être utilisée.",
+   "La voie intraveineuse peut être utilisée.",
+   "Un traitement systémique est indispensable dans la forme viscérale.",
+   "L'injection intra-lésionnelle est le traitement de la LV."
+  ],
+  "q": "Relativement aux indications thérapeutiques dans la LV, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la cardiotoxicité est un risque des antimoniés.",
+   "Exact : la néphrotoxicité est un risque.",
+   "Exact : la pancréatite est un risque.",
+   "Faux : les antimoniés sont toxiques, pas anodins.",
+   "Exact : la surveillance ECG et biologique est recommandée."
+  ],
+  "options": [
+   "Les antimoniés exposent à une toxicité cardiaque.",
+   "Ils exposent à une toxicité rénale.",
+   "Ils exposent à une toxicité pancréatique.",
+   "Les antimoniés sont totalement anodins.",
+   "Une surveillance cardiaque et biologique est recommandée."
+  ],
+  "q": "Parmi ces propositions sur la toxicité des antimoniés, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la résistance aux antimoniés est décrite.",
+   "Exact : elle impose le recours aux alternatives.",
+   "Exact : l'amphotéricine B est une alternative.",
+   "Exact : la miltéfosine est une alternative.",
+   "Faux : la résistance n'est pas un phénomène inexistant."
+  ],
+  "options": [
+   "Des résistances aux antimoniés pentavalents sont décrites.",
+   "Elles imposent le recours à d'autres molécules.",
+   "L'amphotéricine B est une alternative en cas de résistance.",
+   "La miltéfosine est une alternative en cas de résistance.",
+   "La résistance aux antimoniés n'existe pas."
+  ],
+  "q": "À propos de la résistance aux antimoniés, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : 20 mg/kg/j pendant 4 semaines pour les antimoniés.",
+   "Exact : 0,6-1 mg/kg/j pour l'amphotéricine B désoxycholate.",
+   "Exact : 4 mg/kg/j (5 j puis J10) pour la forme liposomale.",
+   "Faux : la miltéfosine est à 2,5 mg/kg/j, pas 20.",
+   "Faux : 150 mg/j est le maximum de la miltéfosine."
+  ],
+  "options": [
+   "Antimoniés : 20 mg/kg/j pendant 4 semaines.",
+   "Amphotéricine B désoxycholate : 0,6 à 1 mg/kg/j.",
+   "Amphotéricine B liposomale : 4 mg/kg/j pendant 5 jours puis à J10.",
+   "Miltéfosine : 20 mg/kg/j sans dose maximale.",
+   "Miltéfosine : 150 mg/kg/j en une prise."
+  ],
+  "q": "Concernant les posologies des traitements, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LC guérit spontanément en 2-3 ans (forme sèche).",
+   "Exact : le traitement accélère la guérison.",
+   "Exact : il limite la taille de la cicatrice.",
+   "Faux : le traitement ne vise pas à traiter une atteinte viscérale inexistante.",
+   "Exact : l'injection intra-lésionnelle est le traitement local."
+  ],
+  "options": [
+   "La LC est une maladie à guérison spontanée.",
+   "Le traitement vise à accélérer la guérison.",
+   "Il vise à réduire la cicatrice résiduelle.",
+   "Il vise à prévenir une dissémination viscérale systématique.",
+   "L'injection intra-lésionnelle est le traitement de choix."
+  ],
+  "q": "Au sujet des objectifs du traitement de la LC, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la LV est mortelle sans traitement.",
+   "Exact : le traitement doit être systémique.",
+   "Exact : les antimoniés sont la référence.",
+   "Exact : l'amphotéricine B et la miltéfosine sont des alternatives.",
+   "Faux : l'abstention thérapeutique est dangereuse dans la LV."
+  ],
+  "options": [
+   "La LV est mortelle en l'absence de traitement.",
+   "Le traitement de la LV doit être systémique (IM ou IV).",
+   "Les antimoniés pentavalents sont le traitement de référence.",
+   "L'amphotéricine B et la miltéfosine sont des alternatives.",
+   "L'abstention thérapeutique est licite dans la LV."
+  ],
+  "q": "Relativement aux principes du traitement de la LV, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le suivi sérologique évalue la réponse.",
+   "Exact : la baisse des titres est favorable.",
+   "Exact : la clinique (rate, fièvre, poids) est surveillée.",
+   "Faux : le titrage est utile au suivi.",
+   "Exact : la persistance des signes fait redouter l'échec."
+  ],
+  "options": [
+   "Le suivi sérologique permet d'évaluer l'efficacité du traitement.",
+   "La décroissance des titres d'anticorps est un bon signe.",
+   "La régression de la splénomégalie est un critère clinique favorable.",
+   "Le titrage des anticorps est inutile dans le suivi.",
+   "La persistance de la fièvre doit faire redouter un échec."
+  ],
+  "q": "Parmi ces propositions sur le suivi sous traitement, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la miltéfosine est tératogène (contre-indication grossesse).",
+   "Exact : les antimoniés sont contre-indiqués en cas de cardiopathie.",
+   "Exact : l'amphotéricine B est à manier avec prudence chez l'insuffisant rénal.",
+   "Exact : le choix tient compte du terrain.",
+   "Faux : le traitement n'est pas sans contre-indications."
+  ],
+  "options": [
+   "La miltéfosine est contre-indiquée pendant la grossesse.",
+   "Les antimoniés sont contre-indiqués en cas de cardiopathie sévère.",
+   "L'amphotéricine B nécessite la prudence chez l'insuffisant rénal.",
+   "Le choix du traitement tient compte du terrain du patient.",
+   "Aucun traitement antileishmanien n'a de contre-indication."
+  ],
+  "q": "À propos des contre-indications et précautions, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LC à L. tropica est anthroponotique.",
+   "Exact : traiter les malades interrompt la transmission.",
+   "Exact : les pansements occlusifs protègent des piqûres.",
+   "Faux : les rongeurs concernent L. major, pas L. tropica.",
+   "Exact : la prophylaxie de la LC anthroponotique repose sur ces mesures."
+  ],
+  "options": [
+   "La LC à L. tropica est à transmission anthroponotique.",
+   "Le traitement des malades fait partie de la prophylaxie.",
+   "Les pansements occlusifs des lésions limitent la contamination des vecteurs.",
+   "La lutte contre les rongeurs est la mesure clé de la LC à L. tropica.",
+   "Ces mesures visent à interrompre la chaîne de transmission."
+  ],
+  "q": "Concernant la prophylaxie de la LC anthroponotique, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la LC à L. major est zoonotique.",
+   "Exact : le réservoir est constitué de rongeurs.",
+   "Exact : l'élimination des ordures réduit les gîtes de rongeurs.",
+   "Exact : les raticides font partie de la lutte.",
+   "Faux : les chiens errants concernent la LV, pas la LC zoonotique."
+  ],
+  "options": [
+   "La LC à L. major est une zoonose à réservoir de rongeurs.",
+   "La lutte contre les rongeurs est la mesure prophylactique clé.",
+   "L'élimination des ordures réduit les populations de rongeurs.",
+   "Les raticides peuvent être utilisés dans la lutte.",
+   "La lutte contre les chiens errants est la mesure clé de la LC zoonotique."
+  ],
+  "q": "Au sujet de la prophylaxie de la LC zoonotique, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le chien est le réservoir de la LV.",
+   "Exact : la lutte contre les chiens errants est la prophylaxie.",
+   "Exact : le dépistage des chiens est utile.",
+   "Faux : l'homme est une impasse parasitaire, pas le réservoir.",
+   "Exact : la prophylaxie de la LV est vétérinaire."
+  ],
+  "options": [
+   "Le chien est le réservoir domestique de la leishmaniose viscérale.",
+   "La lutte contre les chiens errants est la mesure prophylactique.",
+   "Le dépistage et la prise en charge des chiens parasités sont utiles.",
+   "L'élimination des chiens est inutile car l'homme est le réservoir.",
+   "La prophylaxie de la LV repose sur la lutte contre le réservoir canin."
+  ],
+  "q": "Relativement à la prophylaxie de la leishmaniose viscérale, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les antimoniés sont la référence (Sb5+).",
+   "Exact : l'amphotéricine B est une alternative.",
+   "Exact : la miltéfosine est une alternative orale.",
+   "Exact : ces trois classes couvrent l'arsenal.",
+   "Faux : aucun antibiotique classique n'est actif sur Leishmania."
+  ],
+  "options": [
+   "Les antimoniés pentavalents sont le traitement de référence.",
+   "L'amphotéricine B est une alternative thérapeutique.",
+   "La miltéfosine est une alternative par voie orale.",
+   "Ces trois molécules constituent l'arsenal thérapeutique du cours.",
+   "Les bêtalactamines sont le traitement de choix des leishmanioses."
+  ],
+  "q": "Concernant l'arsenal thérapeutique des leishmanioses, lesquelles de ces affirmations sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : LC = injection intra-lésionnelle.",
+   "Exact : LV = voie IM ou IV.",
+   "Exact : le traitement est adapté à la forme clinique.",
+   "Faux : la LC ne nécessite pas de traitement systémique en routine.",
+   "Exact : la forme viscérale impose un traitement général."
+  ],
+  "options": [
+   "La LC se traite par injection intra-lésionnelle.",
+   "La LV se traite par voie IM ou IV.",
+   "La voie d'administration dépend de la forme clinique.",
+   "La LC nécessite systématiquement un traitement par voie générale.",
+   "La LV impose un traitement systémique."
+  ],
+  "q": "À propos de l'adaptation de la voie d'administration, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 2 injections par semaine pendant 4-5 semaines.",
+   "Exact : le produit est injecté dans la lésion.",
+   "Exact : les antimoniés sont utilisés en intra-lésionnel.",
+   "Exact : le traitement local suffit dans la forme localisée.",
+   "Faux : la voie IV n'est pas la voie de la LC."
+  ],
+  "options": [
+   "Le schéma est de 2 injections par semaine pendant 4 à 5 semaines.",
+   "L'injection se fait directement dans la lésion cutanée.",
+   "Les antimoniés pentavalents sont utilisés par cette voie.",
+   "Le traitement local est suffisant dans la LC localisée.",
+   "Le traitement de la LC se fait par perfusion intraveineuse."
+  ],
+  "q": "Relativement à l'injection intra-lésionnelle, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la cardiotoxicité est redoutée.",
+   "Exact : la néphrotoxicité est possible.",
+   "Exact : la pancréatite est possible.",
+   "Faux : les antimoniés ont une toxicité notable.",
+   "Exact : la surveillance est obligatoire."
+  ],
+  "options": [
+   "Une toxicité cardiaque est possible sous antimoniés.",
+   "Une toxicité rénale est possible sous antimoniés.",
+   "Une toxicité pancréatique est possible sous antimoniés.",
+   "Les antimoniés sont dénués de toute toxicité.",
+   "Une surveillance clinique et biologique s'impose."
+  ],
+  "q": "Concernant la surveillance sous antimoniés, quelle(s) affirmation(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la néphrotoxicité est l'effet majeur.",
+   "Exact : l'hypokaliémie est possible.",
+   "Exact : la perfusion doit être lente et surveillée.",
+   "Exact : la fonction rénale est monitorée.",
+   "Faux : l'amphotéricine B est néphrotoxique."
+  ],
+  "options": [
+   "La néphrotoxicité est le principal effet indésirable de l'amphotéricine B.",
+   "Des troubles hydroélectrolytiques peuvent survenir.",
+   "La perfusion doit être administrée lentement sous surveillance.",
+   "La créatininémie doit être surveillée.",
+   "L'amphotéricine B n'a aucune toxicité rénale."
+  ],
+  "q": "Au sujet de la surveillance sous amphotéricine B, laquelle(lesquelles) de ces propositions est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la miltéfosine est le seul traitement oral cité.",
+   "Exact : posologie 2,5 mg/kg/j.",
+   "Exact : maximum 150 mg/j.",
+   "Faux : la miltéfosine n'est pas un antimonié.",
+   "Exact : elle est utile quand les injectables sont contre-indiqués."
+  ],
+  "options": [
+   "La miltéfosine est le traitement oral des leishmanioses.",
+   "La posologie est de 2,5 mg/kg par jour.",
+   "La dose maximale est de 150 mg par jour.",
+   "La miltéfosine est un antimonié pentavalent oral.",
+   "Elle est une alternative aux traitements injectables."
+  ],
+  "q": "Parmi ces propositions sur la miltéfosine, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la résistance aux antimoniés existe.",
+   "Exact : elle justifie les alternatives.",
+   "Exact : l'amphotéricine B reste active.",
+   "Exact : la miltéfosine reste active.",
+   "Faux : la résistance est un phénomène documenté."
+  ],
+  "options": [
+   "Des souches résistantes aux antimoniés sont décrites.",
+   "La résistance impose le recours à d'autres molécules.",
+   "L'amphotéricine B est une option en cas de résistance.",
+   "La miltéfosine est une option en cas de résistance.",
+   "La résistance aux antimoniés est un phénomène inexistant."
+  ],
+  "q": "S'agissant de la prise en charge des résistances, quelle(s) affirmation(s) est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LV est mortelle sans traitement.",
+   "Exact : le traitement précoce améliore le pronostic.",
+   "Exact : la régression de la splénomégalie est un bon signe.",
+   "Faux : l'abstention n'est pas licite dans la LV.",
+   "Exact : la disparition de la fièvre est un bon signe."
+  ],
+  "options": [
+   "La LV est mortelle en l'absence de traitement.",
+   "Un traitement précoce améliore le pronostic vital.",
+   "La régression de la splénomégalie témoigne de l'efficacité.",
+   "L'abstention thérapeutique est acceptable dans la LV.",
+   "La disparition de la fièvre est un signe favorable."
+  ],
+  "q": "Concernant le pronostic de la LV traitée, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la LC guérit spontanément.",
+   "Exact : le traitement accélère la guérison.",
+   "Exact : il améliore le préjudice esthétique.",
+   "Exact : la cicatrice est réduite.",
+   "Faux : la LC n'est pas mortelle."
+  ],
+  "options": [
+   "La LC est une maladie à guérison spontanée.",
+   "Le traitement de la LC accélère la guérison.",
+   "Il réduit la taille de la cicatrice résiduelle.",
+   "L'indication est surtout d'ordre esthétique et de confort.",
+   "La LC est mortelle en l'absence de traitement."
+  ],
+  "q": "Au sujet de l'intérêt du traitement de la LC, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le titrage permet le suivi.",
+   "Exact : la baisse des titres signe l'efficacité.",
+   "Exact : la sérologie sert aux enquêtes épidémiologiques.",
+   "Faux : le titrage est utile, pas inutile.",
+   "Exact : la remontée des titres fait craindre la rechute."
+  ],
+  "options": [
+   "Le titrage des anticorps permet le suivi sous traitement.",
+   "La décroissance des titres est un signe d'efficacité.",
+   "La sérologie est utile dans les études séro-épidémiologiques.",
+   "Le titrage des anticorps est inutile en pratique.",
+   "Une remontée des titres doit faire craindre une rechute."
+  ],
+  "q": "Relativement au suivi sérologique, laquelle(lesquelles) de ces affirmations est(sont) exacte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la LV est une zoonose à réservoir canin.",
+   "Exact : la lutte contre les chiens errants est la prophylaxie.",
+   "Exact : le dépistage canin est utile.",
+   "Exact : l'homme est une impasse parasitaire.",
+   "Faux : le chat n'est pas le réservoir principal."
+  ],
+  "options": [
+   "La prophylaxie de la LV repose sur la lutte contre le réservoir canin.",
+   "La lutte contre les chiens errants est la mesure clé.",
+   "Le dépistage des chiens domestiques est recommandé.",
+   "L'homme étant une impasse, la lutte vise le chien.",
+   "Le chat errant est la cible principale de la prophylaxie de la LV."
+  ],
+  "q": "Parmi ces propositions sur la prophylaxie de la LV, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la LC à L. tropica est anthroponotique.",
+   "Exact : le traitement des malades interrompt la transmission.",
+   "Exact : les pansements occlusifs limitent l'accès des vecteurs.",
+   "Faux : la lutte contre les rongeurs concerne L. major.",
+   "Exact : ces mesures ciblent le réservoir humain."
+  ],
+  "options": [
+   "La LC à L. tropica est anthroponotique.",
+   "Le traitement des malades fait partie de la prophylaxie.",
+   "Les pansements occlusifs des lésions sont recommandés.",
+   "La lutte contre les rongeurs est la mesure principale.",
+   "Ces mesures visent à tarir le réservoir humain."
+  ],
+  "q": "À propos de la prophylaxie de la LC à L. tropica, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la LC à L. major est zoonotique à rongeurs.",
+   "Exact : l'assainissement (ordures) réduit les rongeurs.",
+   "Exact : les raticides font partie de la lutte.",
+   "Exact : la lutte antivectorielle est complémentaire.",
+   "Faux : le traitement des malades ne suffit pas (réservoir animal)."
+  ],
+  "options": [
+   "La LC à L. major est une zoonose à réservoir de rongeurs.",
+   "L'élimination des ordures limite les populations de rongeurs.",
+   "Les raticides sont utilisés dans la lutte contre les rongeurs.",
+   "La lutte contre les phlébotomes complète ces mesures.",
+   "Le seul traitement des malades suffit à prévenir la LC zoonotique."
+  ],
+  "q": "Concernant la prophylaxie de la LC à L. major, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les moustiquaires imprégnées protègent des piqûres nocturnes.",
+   "Exact : la destruction des gîtes réduit le vecteur.",
+   "Exact : l'assainissement limite gîtes et réservoirs.",
+   "Faux : le phlébotome est nocturne ; la lutte diurne est peu efficace.",
+   "Exact : la lutte intégrée est recommandée."
+  ],
+  "options": [
+   "Les moustiquaires imprégnées protègent contre les piqûres de phlébotomes.",
+   "La destruction des gîtes (fissures, anfractuosités) réduit la densité vectorielle.",
+   "L'assainissement du milieu est une mesure de fond.",
+   "La pulvérisation diurne en plein soleil est la méthode de choix.",
+   "La lutte antivectorielle s'intègre à la lutte contre les réservoirs."
+  ],
+  "q": "Au sujet de la lutte antivectorielle, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la LC est immunisante.",
+   "Exact : la guérison confère une protection durable.",
+   "Exact : c'est une notion classique.",
+   "Exact : les réinfections sont rares.",
+   "Faux : la LV n'est pas la forme immunisante."
+  ],
+  "options": [
+   "La leishmaniose cutanée est une maladie immunisante.",
+   "Après guérison, le sujet est protégé contre la même espèce.",
+   "Cette notion est un point clé du cours.",
+   "Les récidives sont exceptionnelles.",
+   "La leishmaniose viscérale est la forme immunisante."
+  ],
+  "q": "Relativement au caractère immunisant, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la leishmaniose est une maladie définissant le SIDA.",
+   "Exact : le VIH aggrave l'expression.",
+   "Exact : la co-infection est reconnue.",
+   "Faux : le lien est établi (NB+++).",
+   "Exact : le dépistage croisé est recommandé."
+  ],
+  "options": [
+   "La leishmaniose fait partie des maladies définissant le SIDA.",
+   "L'immunodépression favorise des formes graves et atypiques.",
+   "La co-infection VIH-Leishmania est une entité reconnue.",
+   "Il n'existe aucun lien entre le VIH et les leishmanioses.",
+   "Le dépistage du VIH est utile devant une leishmaniose."
+  ],
+  "q": "Parmi ces propositions sur le lien avec le VIH, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : LV = L. infantum, chien, enfants, Rif/Atlas.",
+   "Exact : LC sèche = L. tropica, homme, tous âges, versant atlantique.",
+   "Exact : LC humide = L. major, rongeurs, tous âges, Est Atlas.",
+   "Exact : chaque espèce a son vecteur (perniciosus, sergenti, papatasi).",
+   "Faux : le chien est le réservoir de L. infantum, pas de L. major."
+  ],
+  "options": [
+   "LV : L. infantum, réservoir chien, enfants, Rif et Atlas.",
+   "LC sèche : L. tropica, réservoir homme malade, versant atlantique.",
+   "LC humide : L. major, réservoir rongeurs, Est de l'Atlas.",
+   "Les vecteurs respectifs sont P. perniciosus, P. sergenti et P. papatasi.",
+   "Le chien est le réservoir des trois formes au Maroc."
+  ],
+  "q": "À propos du tableau synthétique des leishmanioses au Maroc, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : L. donovani = kala-azar indien.",
+   "Exact : L. infantum = kala-azar méditerranéen.",
+   "Exact : L. chagasi = L. infantum du Nouveau Monde.",
+   "Faux : L. tropica est cutanéotrope.",
+   "Faux : L. major est cutanéotrope."
+  ],
+  "options": [
+   "L. donovani est l'agent du kala-azar indien.",
+   "L. infantum est l'agent du kala-azar méditerranéen.",
+   "L. chagasi est synonyme de L. infantum au Nouveau Monde.",
+   "L. tropica est un agent majeur de leishmaniose viscérale.",
+   "L. major est un agent majeur de leishmaniose viscérale."
+  ],
+  "q": "Concernant les espèces viscérotropes dans le monde, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : L. tropica et L. major (Ancien Monde).",
+   "Exact : L. mexicana, L. panamensis, L. peruviana (Nouveau Monde).",
+   "Exact : L. aethiopica (forme diffuse, Ancien Monde).",
+   "Exact : L. infantum dermotrope.",
+   "Faux : L. donovani est viscérotrope."
+  ],
+  "options": [
+   "L. tropica et L. major sont des espèces cutanéotropes de l'Ancien Monde.",
+   "L. mexicana et L. panamensis sont des espèces du Nouveau Monde.",
+   "L. aethiopica peut donner des formes cutanées diffuses.",
+   "L. infantum peut avoir des souches dermotropes.",
+   "L. donovani est une espèce cutanéotrope."
+  ],
+  "q": "Au sujet des espèces cutanéotropes, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le promastigote est la forme du vecteur.",
+   "Exact : l'amastigote est la forme de l'hôte vertébré.",
+   "Exact : le passage de l'une à l'autre suit la température.",
+   "Faux : le promastigote est extracellulaire.",
+   "Exact : cette dualité est caractéristique des leishmanies."
+  ],
+  "options": [
+   "Le promastigote est la forme présente chez le phlébotome.",
+   "L'amastigote est la forme présente chez l'homme.",
+   "Le passage d'une forme à l'autre dépend de la température.",
+   "Le promastigote est une forme intracellulaire obligatoire.",
+   "Cette dualité morphologique est caractéristique du genre Leishmania."
+  ],
+  "q": "Relativement à la dualité des formes parasitaires, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la piqûre du phlébotome femelle est le mode de contamination.",
+   "Exact : seule la femelle est hématophage.",
+   "Exact : le parasite mature environ une semaine dans le vecteur.",
+   "Exact : l'inoculation se fait dans la peau.",
+   "Faux : pas de transmission interhumaine directe."
+  ],
+  "options": [
+   "La contamination se fait par la piqûre du phlébotome femelle.",
+   "Seule la femelle hématophage transmet le parasite.",
+   "Le vecteur devient infectant environ une semaine après son repas.",
+   "Les promastigotes sont inoculés dans la peau lors de la piqûre.",
+   "La maladie se transmet par contact direct entre malades."
+  ],
+  "q": "Parmi ces propositions résumant la transmission, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le tropisme pour les phagocytes mononucléés explique la clinique.",
+   "Exact : la rate, le foie et la moelle sont atteints dans la LV.",
+   "Exact : la peau est le siège des formes cutanées.",
+   "Faux : les leishmanies ne sont pas des parasites du tube digestif.",
+   "Exact : le tropisme conditionne les prélèvements diagnostiques."
+  ],
+  "options": [
+   "Le tropisme pour le système phagocytaire mononucléé explique la clinique.",
+   "La rate, le foie et la moelle sont les organes cibles de la LV.",
+   "La peau est l'organe cible des formes cutanées.",
+   "Les leishmanies sont des parasites du tube digestif.",
+   "Le tropisme oriente le choix des sites de prélèvement."
+  ],
+  "q": "À propos du tropisme et de ses conséquences, quelle(s) proposition(s) est(sont) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la recherche directe est l'examen de certitude.",
+   "Exact : le Giemsa est la coloration de référence.",
+   "Exact : la culture NNN donne des promastigotes.",
+   "Exact : la PCR identifie l'espèce.",
+   "Faux : la sérologie est surtout utile dans la LV, pas la LC."
+  ],
+  "options": [
+   "Le diagnostic de certitude repose sur la mise en évidence du parasite.",
+   "La coloration de Giemsa est la technique de référence.",
+   "La culture sur milieu NNN modifié est une technique de confirmation.",
+   "La PCR permet le diagnostic d'espèce.",
+   "La sérologie est l'examen de certitude dans la leishmaniose cutanée."
+  ],
+  "q": "Concernant les principes diagnostiques communs, lesquelles de ces propositions sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les antimoniés sont la référence.",
+   "Exact : 20 mg/kg/j pendant 4 semaines.",
+   "Exact : l'amphotéricine B est une alternative.",
+   "Faux : la voie intra-lésionnelle est réservée à la LC.",
+   "Exact : la miltéfosine orale est une alternative."
+  ],
+  "options": [
+   "Les antimoniés pentavalents sont le traitement de référence.",
+   "La posologie est de 20 mg/kg/j pendant 4 semaines.",
+   "L'amphotéricine B est une alternative en cas d'échec ou de résistance.",
+   "La voie intra-lésionnelle est la voie de choix dans la LV.",
+   "La miltéfosine par voie orale est une alternative."
+  ],
+  "q": "Au sujet des principes thérapeutiques communs, laquelle(lesquelles) de ces affirmations est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la prophylaxie cible les réservoirs.",
+   "Exact : la lutte antivectorielle est un pilier.",
+   "Exact : chaque espèce a sa mesure (chien, homme, rongeurs).",
+   "Exact : la prophylaxie est adaptée au cycle épidémiologique.",
+   "Faux : il n'existe pas de vaccin utilisable en routine selon le cours."
+  ],
+  "options": [
+   "La prophylaxie repose sur la lutte contre les réservoirs.",
+   "La lutte contre le vecteur en est un pilier.",
+   "Chaque forme a sa mesure : chiens errants, traitement des malades, lutte contre les rongeurs.",
+   "La prophylaxie est adaptée au cycle épidémiologique de chaque espèce.",
+   "La vaccination de masse est la mesure prophylactique principale."
+  ],
+  "q": "Relativement aux principes prophylactiques, quelle(s) proposition(s) est(sont) vraie(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : 27 °C pour les promastigotes (vecteur).",
+   "Exact : 37 °C pour les amastigotes (hôte).",
+   "Exact : la température conditionne la forme obtenue.",
+   "Faux : à 27 °C on obtient des promastigotes, pas des amastigotes.",
+   "Exact : le milieu NNN modifié est le milieu de culture de référence."
+  ],
+  "options": [
+   "La culture à 27 °C permet d'obtenir des formes promastigotes.",
+   "La culture à 37 °C permet d'obtenir des formes amastigotes.",
+   "La température d'incubation détermine la forme parasitaire obtenue.",
+   "La culture à 27 °C donne des formes amastigotes intracellulaires.",
+   "Le milieu NNN modifié est le milieu de culture de référence."
+  ],
+  "q": "S'agissant des températures de culture des leishmanies, retenez la(les) réponse(s) juste(s)."
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la leishmaniose est une maladie définissant le SIDA.",
+   "Exact : l'immunodépression favorise les formes graves.",
+   "Exact : la co-infection VIH-Leishmania est reconnue.",
+   "Exact : le cours insiste sur ce point (NB+++).",
+   "Faux : le lien est bien établi."
+  ],
+  "options": [
+   "La leishmaniose fait partie des affections définissant le SIDA.",
+   "L'infection par le VIH aggrave l'expression clinique des leishmanioses.",
+   "La co-infection VIH-Leishmania nécessite une prise en charge spécifique.",
+   "Le cours souligne ce lien par un NB+++.",
+   "Il n'existe aucun rapport entre leishmaniose et infection par le VIH."
+  ],
+  "q": "Indiquer la(les) proposition(s) exacte(s) concernant les leishmanioses et l'infection par le VIH."
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le raclage est le prélèvement de choix dans la LC.",
+   "Exact : la désinfection et l'ablation de la croûte précèdent le raclage.",
+   "Exact : le raclage va jusqu'à la sérosité.",
+   "Faux : la ponction splénique concerne la LV, pas la LC.",
+   "Exact : le frottis est coloré au Giemsa."
+  ],
+  "options": [
+   "Le raclage de la lésion est le prélèvement de première intention dans la LC.",
+   "La lésion est désinfectée et la croûte enlevée avant le raclage.",
+   "Le raclage est poursuivi jusqu'à obtention de la sérosité.",
+   "La ponction splénique est le prélèvement de choix dans la LC.",
+   "Le produit est étalé en frottis mince coloré au Giemsa."
+  ],
+  "q": "Parmi ces affirmations relatives au prélèvement dans la leishmaniose cutanée, lesquelles sont correctes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : les antimoniés sont la référence (20 mg/kg/j, 4 semaines).",
+   "Exact : l'amphotéricine B liposomale : 4 mg/kg/j, 5 j puis J10.",
+   "Exact : la miltéfosine : 2,5 mg/kg/j PO, max 150 mg/j.",
+   "Faux : l'injection intra-lésionnelle est réservée à la LC.",
+   "Faux : l'amphotéricine B désoxycholate est à 0,6-1 mg/kg/j."
+  ],
+  "options": [
+   "Les antimoniés pentavalents : 20 mg/kg/j pendant 4 semaines.",
+   "L'amphotéricine B liposomale : 4 mg/kg/j pendant 5 jours puis à J10.",
+   "La miltéfosine : 2,5 mg/kg/j par voie orale (max 150 mg/j).",
+   "L'injection intra-lésionnelle est le traitement de référence de la LV.",
+   "L'amphotéricine B désoxycholate : 4 mg/kg/j en une cure unique."
+  ],
+  "q": "Au sujet des schémas thérapeutiques des leishmanioses, quelles sont les affirmations exactes ?"
+ }
+]

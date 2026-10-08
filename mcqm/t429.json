@@ -1,0 +1,4500 @@
+[
+ {
+  "q": "Concernant la paroi des bactéries à Gram positif, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est riche en lipides (plus de 20 % de sa composition)",
+   "Son épaisseur varie de 10 à 80 nm",
+   "Le peptidoglycane y est associé à l'acide teichoïque",
+   "Sa structure est homogène à la microscopie électronique",
+   "Elle contient des lipopolysaccharides (LPS)"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : paroi Gram+ pauvre en lipides (1 à 2 %).",
+   "Vrai : 10 à 80 nm selon les espèces.",
+   "Vrai : peptidoglycane + acides teichoïques caractéristiques.",
+   "Vrai : paroi Gram+ homogène et épaisse.",
+   "Faux : le LPS est une caractéristique des Gram négatif."
+  ]
+ },
+ {
+  "q": "À propos de la paroi des bactéries à Gram négatif, quelles propositions sont vraies ?",
+  "options": [
+   "Le peptidoglycane y est épais et représente 40 % du poids sec",
+   "Elle comporte une membrane externe contenant des lipopolysaccharides",
+   "Elle contient des acides teichoïques",
+   "Son épaisseur totale est d'environ 10 nm",
+   "Elle présente une structure complexe à la microscopie électronique"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le peptidoglycane Gram- est mince (2 à 6 nm, <10 % du poids sec).",
+   "Vrai : membrane externe avec protéines, lipides et LPS.",
+   "Faux : les acides teichoïques sont spécifiques des Gram+.",
+   "Vrai : paroi Gram- fine (~10 nm).",
+   "Vrai : deux couches séparées par un espace clair."
+  ]
+ },
+ {
+  "q": "Parmi les éléments suivants, lesquels entrent dans la composition de la membrane externe des Gram négatif ?",
+  "options": [
+   "Des acides mycoliques",
+   "Des lipoprotéines d'ancrage au peptidoglycane",
+   "Des acides teichoïques",
+   "Des lipopolysaccharides (LPS)",
+   "Des porines"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les acides mycoliques caractérisent les mycobactéries.",
+   "Vrai : lipoprotéines et protéine OmpA ancrent la membrane externe au peptidoglycane.",
+   "Faux : les acides teichoïques appartiennent aux Gram+.",
+   "Vrai : les LPS sont le composant signature de la membrane externe.",
+   "Vrai : les porines traversent la membrane externe."
+  ]
+ },
+ {
+  "q": "Concernant les porines des bactéries à Gram négatif, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles synthétisent le peptidoglycane",
+   "Elles sont absentes des bactéries à Gram positif",
+   "Elles sont perméables aux substances solubilisées de faible poids moléculaire",
+   "Elles sont ancrées au peptidoglycane par la protéine OmpA et des lipoprotéines",
+   "Ce sont des protéines de la membrane externe"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la synthèse du peptidoglycane est assurée par transpeptidases et transglycosylases.",
+   "Vrai : les Gram+ n'ont pas de membrane externe donc pas de porines.",
+   "Vrai : canaux de diffusion pour petites molécules hydrophiles.",
+   "Vrai : ancrage via lipoprotéines et OmpA.",
+   "Vrai : protéines transmembranaires de la membrane externe."
+  ]
+ },
+ {
+  "q": "À propos de l'espace périplasmique, quelles affirmations sont exactes ?",
+  "options": [
+   "Il est situé entre la membrane cytoplasmique et la membrane externe",
+   "Il existe chez les bactéries à Gram négatif",
+   "Il contient le peptidoglycane chez les Gram négatif",
+   "Il existe chez les bactéries à Gram positif",
+   "Il est le siège de la synthèse des ribosomes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : définition de l'espace périplasmique.",
+   "Vrai : caractéristique des Gram-.",
+   "Vrai : le peptidoglycane Gram- mince y est localisé.",
+   "Faux : les Gram+ n'ont ni membrane externe ni espace périplasmique.",
+   "Faux : les ribosomes sont synthétisés/assemblés dans le cytoplasme."
+  ]
+ },
+ {
+  "q": "Concernant le peptidoglycane, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Sa solidité est indépendante de l'importance des interconnexions",
+   "Les chaînes latérales peptidiques comportent au minimum quatre acides aminés",
+   "Il forme une macromolécule réticulée tridimensionnelle",
+   "C'est un hétéropolymère de chaînes glucidiques reliées par des chaînons peptidiques",
+   "Son épine dorsale alterne N-acétylglucosamine et acide N-acétylmuramique"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la solidité dépend de l'importance des interconnexions.",
+   "Vrai : chaînes latérales d'au moins 4 acides aminés.",
+   "Vrai : structure tridimensionnelle réticulée.",
+   "Vrai : définition du peptidoglycane.",
+   "Vrai : NAG et NAM alternés forment l'épine dorsale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la chaîne latérale peptidique du peptidoglycane, lesquelles sont exactes ?",
+  "options": [
+   "Elle se termine habituellement par le dipeptide D-alanyl-D-alanine lors de la synthèse",
+   "Elle contient de la D-alanine",
+   "Elle contient de la D-glycine",
+   "Elle contient de la L-alanine",
+   "Elle contient de la L-lysine"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le précurseur intracytoplasmique se termine par D-alanyl-D-alanine.",
+   "Faux : la chaîne latérale comporte 4 acides aminés, pas 5 ; c'est l'UDP-acétylmuramyl-pentapeptide de synthèse qui se termine par D-alanyl-D-alanine.",
+   "Vrai : la D-glycine est citée dans l'exemple du cours.",
+   "Vrai : la L-alanine fait partie de la chaîne (exemple du cours).",
+   "Vrai : la L-lysine (LLysine) est citée dans l'exemple du cours."
+  ]
+ },
+ {
+  "q": "Concernant les étapes de la synthèse du peptidoglycane, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'étape pariétale repose sur la transpeptidase, la transglycosylase et la carboxypeptidase",
+   "La synthèse du peptidoglycane est la cible des bêtalactamines",
+   "La transpeptidase assure la polymérisation des chaînes glucidiques",
+   "L'étape intracytoplasmique produit l'UDP-acétylmuramyl-pentapeptide terminé par D-alanyl-D-alanine",
+   "L'étape membranaire forme le polymère d'acétylglucosamine et d'UDP-acétylmuramyl-dipeptide"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : transpeptidase, transglycosylase, régulation par la carboxypeptidase.",
+   "Vrai : les bêtalactamines inhibent la synthèse du peptidoglycane via les PLP.",
+   "Faux : la transpeptidase forme les ponts interpeptidiques ; la polymérisation des chaînes glucidiques relève de la transglycosylase.",
+   "Vrai : étape intracytoplasmique avec phosphoénolpyruvate transférase, racémase et synthétase.",
+   "Faux : l'étape membranaire fait intervenir l'UDP-acétylmuramyl-dipeptide ; le précurseur pentapeptidique terminé par D-alanyl-D-alanine est intracytoplasmique."
+  ]
+ },
+ {
+  "q": "À propos des protéines liant la pénicilline (PLP), quelles propositions sont vraies ?",
+  "options": [
+   "Ce sont des enzymes impliquées dans l'assemblage du peptidoglycane",
+   "Elles comprennent les glycosyltransférases, transpeptidases et carboxypeptidases",
+   "Elles sont la cible des aminosides",
+   "Elles émergent sur la face externe de la membrane cytoplasmique",
+   "Leur nombre et leur nature varient selon les espèces"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : PLP = enzymes d'assemblage du peptidoglycane.",
+   "Vrai : les trois familles citées.",
+   "Faux : les PLP sont la cible des bêtalactamines, pas des aminosides.",
+   "Vrai : localisation sur la face externe de la membrane cytoplasmique.",
+   "Vrai : nombre et nature variables selon les espèces."
+  ]
+ },
+ {
+  "q": "Concernant les particularités de la paroi des mycobactéries, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les acides mycoliques sont responsables de l'acido-alcoolo-résistance",
+   "Les acides gras complexes représentent environ 40 % de la bactérie",
+   "Ce sont des bactéries à Gram positif à paroi très riche en acides gras complexes",
+   "Leur paroi est pauvre en lipides comme les autres Gram+",
+   "Elles possèdent une membrane externe à LPS"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les acides mycoliques confèrent l'acido-alcoolo-résistance.",
+   "Vrai : ~40 % de la bactérie.",
+   "Vrai : mycobactéries = Gram+ à paroi riche en acides gras complexes.",
+   "Faux : contrairement aux autres Gram+, leur paroi est très riche en lipides.",
+   "Faux : pas de membrane externe à LPS chez les mycobactéries."
+  ]
+ },
+ {
+  "q": "À propos des mycoplasmes, quelles affirmations sont exactes ?",
+  "options": [
+   "Ils prennent le Gram comme les autres bactéries",
+   "Ils sont sensibles aux bêtalactamines",
+   "Ils possèdent un peptidoglycane épais de type Gram positif",
+   "Ils sont dépourvus de paroi bactérienne",
+   "Ils constituent l'exception au caractère constant de la paroi"
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : sans paroi, ils ne retiennent pas le cristal violet et ne se colorent pas au Gram.",
+   "Faux : sans paroi ni peptidoglycane, les bêtalactamines sont sans cible.",
+   "Faux : ils n'ont pas de peptidoglycane du tout.",
+   "Vrai : les mycoplasmes n'ont pas de paroi.",
+   "Vrai : la paroi est constante à l'exception des mycoplasmes."
+  ]
+ },
+ {
+  "q": "Concernant les différences de paroi entre Gram+ et Gram- à la microscopie électronique, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les Gram+ possèdent une membrane externe",
+   "Les Gram- montrent deux couches séparées par un espace clair",
+   "Les Gram+ montrent une couche épaisse amorphe",
+   "Le peptidoglycane détermine la morphologie bactérienne dans les deux groupes",
+   "Les Gram- possèdent un espace périplasmique"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les Gram+ n'ont pas de membrane externe.",
+   "Vrai : deux couches séparées par un espace clair pour les Gram-.",
+   "Vrai : couche épaisse amorphe pour les Gram+.",
+   "Vrai : dans les deux groupes, le peptidoglycane détermine la morphologie.",
+   "Vrai : espace périplasmique présent chez les Gram-."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la composition comparée des parois, lesquelles sont exactes ?",
+  "options": [
+   "Les acides teichoïques sont présents chez les Gram+ et absents chez les Gram-",
+   "Les protéines sont absentes de la paroi des Gram-",
+   "Le peptidoglycane Gram- représente moins de 10 % du poids sec",
+   "Les lipopolysaccharides sont présents chez les Gram- et absents chez les Gram+",
+   "Le peptidoglycane Gram+ représente environ 40 % du poids sec"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : acides teichoïques = marqueur des Gram+.",
+   "Faux : les protéines sont fréquentes dans la paroi des Gram- (porines, lipoprotéines, OmpA).",
+   "Vrai : moins de 10 % du poids sec, 2 à 6 nm.",
+   "Vrai : LPS = marqueur des Gram-.",
+   "Vrai : 40 % du poids sec, 10 à 80 nm."
+  ]
+ },
+ {
+  "q": "Concernant les rôles de la paroi bactérienne, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle assure le siège de la chaîne respiratoire",
+   "Elle confère à la bactérie sa morphologie véritable",
+   "Elle bloque l'extraction de certains colorants lors de la coloration de Gram",
+   "Elle constitue une cible des bêtalactamines via l'inhibition de la synthèse du peptidoglycane",
+   "Elle maintient la pression osmotique et protège contre les agressions physicochimiques"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la chaîne respiratoire siège sur la membrane cytoplasmique, pas la paroi.",
+   "Vrai : la paroi donne sa forme à la bactérie.",
+   "Vrai : le peptidoglycane épais bloque l'extraction du cristal violet.",
+   "Vrai : les bêtalactamines ciblent les PLP (transpeptidases).",
+   "Vrai : résistance osmotique et protection."
+  ]
+ },
+ {
+  "q": "À propos des échanges assurés par la paroi bactérienne, quelles propositions sont vraies ?",
+  "options": [
+   "Elle joue le rôle d'une membrane semi-perméable",
+   "Elle assure le captage des nutriments importants",
+   "Elle transporte activement les substrats grâce aux perméases",
+   "Elle contrôle la diffusion des molécules selon leur taille et leur hydrophobicité",
+   "Elle effectue le rejet des composés nocifs via des pompes d'efflux"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : rôle de membrane semi-perméable.",
+   "Vrai : captage des nutriments.",
+   "Faux : les perméases et le transport actif siègent sur la membrane cytoplasmique.",
+   "Vrai : contrôle de la diffusion selon taille et hydrophobicité.",
+   "Vrai : rejet des composés nocifs, pompes d'efflux."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes sur les propriétés antigéniques et immunitaires liées à la paroi, lesquelles sont exactes ?",
+  "options": [
+   "Les lipopolysaccharides de la paroi jouent un rôle d'endotoxine",
+   "La paroi est une structure figée, non renouvelée",
+   "La paroi participe à l'activation du complément avec effet chimiotactique et opsonisant",
+   "Les acides teichoïques n'ont aucun rôle antigénique",
+   "La paroi porte l'antigène somatique O"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les LPS sont des endotoxines.",
+   "Faux : la paroi est continuellement en synthèse et dégradation.",
+   "Vrai : activation du complément, défense non spécifique.",
+   "Faux : le cours évoque un rôle éventuel dans l'antigénicité spécifique pour les protéines et polysaccharides pariétaux.",
+   "Vrai : antigène somatique O lié à la paroi."
+  ]
+ },
+ {
+  "q": "Concernant la sensibilité de la paroi aux enzymes, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "La synthèse pariétale est régulée par une carboxypeptidase",
+   "Les autolysines sont des enzymes endogènes agissant sur la paroi",
+   "Les bêtalactamines inhibent les transpeptidases (PLP)",
+   "Le lysozyme est une enzyme exogène agissant sur la paroi",
+   "La paroi des Gram+ est insensible au lysozyme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la carboxypeptidase régule la polymérisation pariétale.",
+   "Vrai : les autolysines sont endogènes.",
+   "Vrai : les bêtalactamines inhibent les PLP = transpeptidases.",
+   "Vrai : le lysozyme cible la paroi (enzyme exogène).",
+   "Faux : le lysozyme hydrolyse le peptidoglycane, abondant chez les Gram+."
+  ]
+ },
+ {
+  "q": "Concernant la capsule « vraie » des bactéries, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est une structure bien organisée, condensée et bien délimitée autour de la bactérie",
+   "Elle est impliquée dans la mobilité bactérienne",
+   "Elle est constituée de polysaccharides acides",
+   "Les antigènes capsulaires sont dénommés antigène K",
+   "C'est un facteur de virulence qui protège la bactérie de la phagocytose"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : capsule vraie = enveloppe structurée et délimitée.",
+   "Faux : la mobilité dépend des flagelles, pas de la capsule.",
+   "Vrai : polysaccharides acides.",
+   "Vrai : antigène capsulaire = antigène K.",
+   "Vrai : antiphagocytaire, facteur de virulence."
+  ]
+ },
+ {
+  "q": "À propos de la capsule bactérienne, quelles propositions sont vraies ?",
+  "options": [
+   "Elle correspond à l'antigène somatique O",
+   "Elle est une structure obligatoire de la bactérie",
+   "Elle est antigénique",
+   "Elle peut se trouver à l'état soluble dans les liquides de l'organisme",
+   "Elle protège de la phagocytose"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'antigène somatique O est pariétal ; l'antigène capsulaire est l'antigène K.",
+   "Faux : la capsule est une structure facultative.",
+   "Vrai : la capsule est antigénique.",
+   "Vrai : capsule soluble possible dans les liquides biologiques.",
+   "Vrai : protection contre la phagocytose."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le glycocalyx (capsule diffuse, biofilm « slime »), lesquelles sont exactes ?",
+  "options": [
+   "Sa production est fréquente chez les bactéries aquatiques",
+   "Il est identique à la capsule vraie",
+   "Il est constitué de polysaccharides plus ou moins libérés dans le milieu",
+   "Il permet l'adhésion bactérienne aux surfaces inertes",
+   "Il ne constitue pas une véritable entité morphologique"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : masses gluantes fréquentes chez les bactéries aquatiques.",
+   "Faux : le glycocalyx est diffus, la capsule vraie est bien délimitée.",
+   "Vrai : constituants polysaccharidiques libérés dans le milieu.",
+   "Vrai : adhésion aux surfaces inertes.",
+   "Vrai : pas de véritable entité morphologique."
+  ]
+ },
+ {
+  "q": "Concernant la couche de surface cristalline (couche S), lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle joue un rôle de squelette et d'adhésion",
+   "Elle participe à la résistance au système du complément et aux protéases des macrophages",
+   "Elle est constituée de flagelline",
+   "Chez les Gram+, elle est située à la périphérie du peptidoglycane",
+   "Chez les Gram-, elle est associée à la membrane externe"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : rôle de squelette et d'adhésion.",
+   "Vrai : résistance au complément et aux protéases macrophagiques.",
+   "Faux : la flagelline est la protéine des flagelles, pas de la couche S.",
+   "Vrai : couche S à la périphérie du PG chez les Gram+.",
+   "Vrai : couche S associée à la membrane externe chez les Gram-."
+  ]
+ },
+ {
+  "q": "À propos des flagelles bactériens, quelles affirmations sont exactes ?",
+  "options": [
+   "Ils sont constitués de flagelline",
+   "Ils permettent la mobilité des bactéries",
+   "Les antigènes flagellaires sont dénommés antigène H",
+   "Ils sont impliqués dans la conjugaison bactérienne",
+   "Ce sont des structures rigides et ondulées naissant de la membrane cytoplasmique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : protéine = flagelline.",
+   "Vrai : organes de la mobilité.",
+   "Vrai : antigène flagellaire = antigène H.",
+   "Faux : la conjugaison passe par les pili sexuels, pas les flagelles.",
+   "Vrai : structures rigides ondulées issues de la membrane cytoplasmique."
+  ]
+ },
+ {
+  "q": "Parmi les dispositions flagellaires suivantes, lesquelles sont décrites dans le cours ?",
+  "options": [
+   "Ciliature lophotriche : une touffe de flagelles à un pôle",
+   "Ciliature péritriche : des flagelles sur toute la surface",
+   "Ciliature amphitriche : des flagelles aux deux pôles",
+   "Ciliature monotriche : un seul flagelle à un pôle",
+   "Ciliature axiale : un flagelle interne spiralé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : lophotriche décrite dans le cours.",
+   "Vrai : péritriche décrite dans le cours.",
+   "Vrai : amphitriche décrite dans le cours.",
+   "Vrai : monotriche décrite dans le cours.",
+   "Faux : la ciliature axiale n'est pas décrite dans le cours (caractéristique des spirochètes, hors programme)."
+  ]
+ },
+ {
+  "q": "Concernant la mobilité bactérienne, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "D'une manière générale, la mobilité s'observe chez les bacilles",
+   "Elle est liée à la présence d'une capsule",
+   "Elle est assurée par les flagelles",
+   "Elle peut être appréciée à l'état frais au microscope optique",
+   "Elle est assurée par les fimbriae"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la mobilité s'observe généralement chez les bacilles.",
+   "Faux : la capsule n'a aucun rôle dans la mobilité.",
+   "Vrai : les flagelles sont les organes de mobilité.",
+   "Vrai : l'état frais permet d'apprécier forme et mobilité.",
+   "Faux : les fimbriae ne sont pas impliqués dans la mobilité."
+  ]
+ },
+ {
+  "q": "À propos des fimbriae (pili communs), quelles affirmations sont exactes ?",
+  "options": [
+   "Ils sont courts, cassants et nombreux",
+   "Ce sont des structures filiformes non impliquées dans la mobilité",
+   "Ils sont très communs chez les Gram- et exceptionnels chez les Gram+",
+   "Ils servent à l'adhésion aux muqueuses et sont des facteurs de virulence",
+   "Ils permettent l'échange de matériel génétique par conjugaison"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : courts, cassants, nombreux.",
+   "Vrai : filiformes, non impliqués dans la mobilité.",
+   "Vrai : très communs chez les Gram-, exceptionnels chez les Gram+.",
+   "Vrai : adhésion aux interfaces et muqueuses, facteurs de virulence.",
+   "Faux : la conjugaison passe par les pili sexuels, pas les fimbriae."
+  ]
+ },
+ {
+  "q": "Parmi les rôles attribués aux fimbriae dans le cours, lesquels sont exacts ?",
+  "options": [
+   "Propriétés hémagglutinantes",
+   "Adhésion aux muqueuses, facteur de virulence",
+   "Adhésion des bactéries aux interfaces",
+   "Synthèse du peptidoglycane",
+   "Adhésion bactérie-bactérie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : propriétés hémagglutinantes.",
+   "Vrai : adhésion aux muqueuses, facteur de virulence.",
+   "Vrai : adhésion aux interfaces.",
+   "Faux : la synthèse du peptidoglycane relève des PLP.",
+   "Vrai : adhésion bactérie-bactérie."
+  ]
+ },
+ {
+  "q": "Concernant les pili sexuels, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont peu nombreux (1 à 4)",
+   "Ils sont plus longs que les fimbriae",
+   "Ils interviennent dans la conjugaison",
+   "Ils relient deux bactéries et sont les voies d'échange de matériel génétique",
+   "Ils sont visibles uniquement au microscope optique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 1 à 4 par bactérie.",
+   "Vrai : plus longs que les pili communs.",
+   "Vrai : voies de la conjugaison.",
+   "Vrai : relient deux bactéries pour l'échange génétique.",
+   "Faux : comme les fimbriae, ils sont visibles en microscopie électronique."
+  ]
+ },
+ {
+  "q": "À propos de la distinction entre pili communs et pili sexuels, quelles propositions sont vraies ?",
+  "options": [
+   "Les deux sont des structures facultatives",
+   "Les pili communs sont nombreux, les pili sexuels sont peu nombreux",
+   "Les pili communs sont courts, les pili sexuels sont plus longs",
+   "Les deux sont impliqués dans la mobilité",
+   "Les pili communs assurent l'adhésion, les pili sexuels la conjugaison"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : structures facultatives.",
+   "Vrai : nombreux vs 1 à 4.",
+   "Vrai : courts et cassants vs plus longs.",
+   "Faux : ni les uns ni les autres ne participent à la mobilité.",
+   "Vrai : adhésion vs conjugaison."
+  ]
+ },
+ {
+  "q": "Concernant l'endospore bactérienne, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est un organite facultatif formé au sein du cytoplasme",
+   "Elle est résistante à la chaleur, aux UV, aux désinfectants chimiques et à la dessiccation",
+   "Elle permet de résister à des conditions de vie défavorables",
+   "Toutes les bactéries à Gram positif forment des endospores",
+   "La sporulation est le phénomène de différenciation conduisant de la forme végétative à la spore"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : organite facultatif intracytoplasmique.",
+   "Vrai : résistance à la chaleur, UV, désinfectants, dessiccation.",
+   "Vrai : forme de résistance aux conditions défavorables.",
+   "Faux : seules certaines bactéries Gram+ (Bacillus, Clostridium) sporulent.",
+   "Vrai : définition de la sporulation."
+  ]
+ },
+ {
+  "q": "Parmi les bactéries suivantes, lesquelles sont capables de former des endospores selon le cours ?",
+  "options": [
+   "Clostridium",
+   "Escherichia coli",
+   "Staphylococcus",
+   "Mycobacterium",
+   "Bacillus"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Vrai : Clostridium est un genre sporulant cité.",
+   "Faux : Escherichia coli ne forme pas d'endospore.",
+   "Faux : Staphylococcus ne forme pas d'endospore.",
+   "Faux : Mycobacterium ne forme pas d'endospore.",
+   "Vrai : Bacillus est un genre sporulant cité."
+  ]
+ },
+ {
+  "q": "À propos des caractéristiques morphologiques de l'endospore, quelles propositions sont vraies ?",
+  "options": [
+   "Elle germe en forme végétative quand les conditions redeviennent favorables",
+   "Elle est une structure obligatoire",
+   "Elle est ronde ou ovale",
+   "Son diamètre est de 0,2 à 2 mm",
+   "Elle se forme au sein du cytoplasme"
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : la germination n'est pas décrite dans le cours ; ne pas extrapoler.",
+   "Faux : l'endospore est une structure facultative.",
+   "Vrai : ronde ou ovale.",
+   "Faux : une spore mesure 0,2 à 2 µm ; 2 mm serait visible à l'œil nu, ce qui est impossible pour une structure bactérienne.",
+   "Vrai : formation intracytoplasmique."
+  ]
+ },
+ {
+  "q": "Concernant la résistance de l'endospore, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle résiste à la chaleur",
+   "Elle est détruite par la coloration de Gram",
+   "Elle résiste aux désinfectants chimiques",
+   "Elle résiste aux rayons UV",
+   "Elle résiste à la dessiccation"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : résistance à la chaleur.",
+   "Faux : la coloration de Gram ne détruit pas la spore ; les spores apparaissent comme des zones claires.",
+   "Vrai : résistance aux désinfectants chimiques.",
+   "Vrai : résistance aux UV.",
+   "Vrai : résistance à la dessiccation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les structures de surface, lesquelles sont exactes ?",
+  "options": [
+   "La capsule protège de la phagocytose",
+   "Les flagelles portent l'antigène K",
+   "Les fimbriae permettent l'adhésion aux muqueuses",
+   "Le glycocalyx permet l'adhésion aux surfaces inertes",
+   "La couche S participe à la résistance au complément"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : capsule antiphagocytaire.",
+   "Faux : les flagelles portent l'antigène H ; l'antigène K est capsulaire.",
+   "Vrai : fimbriae = adhésion aux muqueuses.",
+   "Vrai : glycocalyx = adhésion aux surfaces inertes.",
+   "Vrai : couche S = résistance au complément."
+  ]
+ },
+ {
+  "q": "À propos des antigènes de surface bactériens, quelles affirmations sont exactes ?",
+  "options": [
+   "L'antigène H est porté par la capsule",
+   "L'antigène somatique O est lié à la paroi",
+   "L'antigène capsulaire est dénommé antigène K",
+   "L'antigène K est porté par les fimbriae",
+   "L'antigène flagellaire est dénommé antigène H"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : l'antigène H est flagellaire, pas capsulaire.",
+   "Vrai : antigène somatique O lié à la paroi.",
+   "Vrai : antigène capsulaire = K.",
+   "Faux : l'antigène K est capsulaire, pas fimbriaire.",
+   "Vrai : antigène flagellaire = H."
+  ]
+ },
+ {
+  "q": "Concernant les plasmides bactériens, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils portent des informations génétiques indispensables à la vie bactérienne",
+   "Ils sont généralement circulaires",
+   "Leur taille varie de 1 à 400 kb",
+   "Ce sont des molécules d'ADN bicaténaires extra-chromosomiques",
+   "Ils sont doués de réplication autonome (réplicon)"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les plasmides portent des informations supplémentaires non indispensables.",
+   "Vrai : généralement circulaires.",
+   "Vrai : 1 à 400 kilobases.",
+   "Vrai : ADN bicaténaire extra-chromosomique.",
+   "Vrai : réplication autonome, transmis stablement à la descendance."
+  ]
+ },
+ {
+  "q": "À propos de la transmission des plasmides, quelles propositions sont vraies ?",
+  "options": [
+   "Ils sont intégrés de façon permanente au chromosome",
+   "Ils sont transmis de façon stable à la descendance",
+   "Leur transfert horizontal peut passer par la conjugaison via les pili sexuels",
+   "Ils peuvent être transmis sur un mode horizontal",
+   "Ils ne peuvent être transmis que verticalement"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : les plasmides sont extra-chromosomiques, non intégrés en permanence.",
+   "Vrai : transmission stable à la descendance.",
+   "Vrai : les pili sexuels sont les voies d'échange de matériel génétique (conjugaison).",
+   "Vrai : transmission horizontale possible.",
+   "Faux : la transmission horizontale existe aussi."
+  ]
+ },
+ {
+  "q": "Parmi les rôles attribués aux plasmides dans le cours, lesquels sont exacts ?",
+  "options": [
+   "Codage des ribosomes 70S",
+   "Résistance aux antibiotiques",
+   "Propriétés métaboliques supplémentaires",
+   "Synthèse du peptidoglycane",
+   "Pouvoir pathogène"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : les ribosomes sont codés par le chromosome.",
+   "Vrai : ils portent fréquemment des gènes de résistance aux antibiotiques.",
+   "Vrai : les plasmides peuvent coder des propriétés métaboliques.",
+   "Faux : la synthèse du peptidoglycane est codée par le chromosome.",
+   "Vrai : ils peuvent porter des facteurs de pouvoir pathogène."
+  ]
+ },
+ {
+  "q": "Concernant les ribosomes bactériens, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ce sont de petites granulations sphériques de 20 à 30 nm de diamètre",
+   "Leur constante de sédimentation est de 70 S",
+   "Ils sont le lieu de la réplication de l'ADN",
+   "Ils sont composés de 66 % d'ARN ribosomal et 33 % de protéines",
+   "Ils sont composés de deux sous-unités : 30 S et 50 S"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : 20 à 30 nm de diamètre.",
+   "Vrai : 70 S en ultracentrifugation.",
+   "Faux : les ribosomes sont le lieu de la traduction, pas de la réplication.",
+   "Vrai : 66 % d'ARNr, 33 % de protéines.",
+   "Vrai : sous-unités 30 S et 50 S."
+  ]
+ },
+ {
+  "q": "À propos des ribosomes bactériens, quelles propositions sont vraies ?",
+  "options": [
+   "Ils sont des cibles d'antibiotiques",
+   "Ils sont le lieu de traduction du code génétique en protéines",
+   "Ils sont libres dans le cytoplasme ou attachés à la membrane plasmique",
+   "Ils sont caractérisés par leur vitesse de sédimentation en ultracentrifugeuse (Svedberg)",
+   "Ils possèdent une membrane propre"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cibles d'antibiotiques (ex. aminosides, macrolides).",
+   "Vrai : traduction du code génétique en protéines.",
+   "Vrai : libres ou attachés à la membrane plasmique.",
+   "Vrai : constante de sédimentation mesurée en Svedberg.",
+   "Faux : les ribosomes sont dépourvus de membrane."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes comparant les ribosomes bactériens et eucaryotes, lesquelles sont exactes ?",
+  "options": [
+   "Les ribosomes bactériens sédimentent à 70 S",
+   "Les ribosomes bactériens sont plus gros que les ribosomes eucaryotes",
+   "Les deux sont composés d'ARN ribosomal et de protéines",
+   "Les ribosomes eucaryotes cytoplasmiques sédimentent à 80 S",
+   "Les antibiotiques ciblant les ribosomes 70S épargnent les ribosomes eucaryotes"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : 70 S chez les bactéries.",
+   "Faux : les ribosomes 70S sont plus petits que les 80S.",
+   "Vrai : ARNr + protéines dans les deux cas.",
+   "Vrai : 80 S dans le cytoplasme des eucaryotes.",
+   "Vrai : cette différence de taille fonde la sélectivité de nombreux antibiotiques."
+  ]
+ },
+ {
+  "q": "Concernant le principe de la coloration de Gram, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les bactéries à Gram positif retiennent le cristal violet et apparaissent violettes",
+   "Le blocage de l'extraction de certains colorants est lié au peptidoglycane épais des Gram+",
+   "Toutes les bactéries se colorent par la méthode de Gram",
+   "La différence de structure pariétale entre Gram+ et Gram- est à l'origine de la coloration",
+   "Les bactéries à Gram négatif sont décolorées puis contre-colorées et apparaissent roses/rouges"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : Gram+ = violettes.",
+   "Vrai : le peptidoglycane épais bloque l'extraction du colorant.",
+   "Faux : les mycoplasmes, sans paroi, ne prennent pas le Gram.",
+   "Vrai : la paroi détermine la coloration de Gram.",
+   "Vrai : Gram- = décolorées puis contre-colorées (safranine), roses."
+  ]
+ },
+ {
+  "q": "À propos de la coloration de Gram, quelles propositions sont vraies ?",
+  "options": [
+   "Elle distingue les bactéries à paroi épaisse de peptidoglycane de celles à paroi fine",
+   "Elle précise la forme des bactéries",
+   "Elle permet de visualiser les endospores en vert",
+   "Elle met en évidence les affinités tinctoriales des bactéries",
+   "Elle est réalisée après examen à l'état frais en routine diagnostique"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : c'est le fondement de la distinction Gram+/Gram-.",
+   "Vrai : elle précise la forme des bactéries.",
+   "Faux : la coloration des spores relève de techniques spécifiques, pas du Gram.",
+   "Vrai : la coloration révèle les affinités tinctoriales.",
+   "Faux : l'ordre n'est pas imposé par le cours ; l'état frais et la coloration sont deux temps indépendants."
+  ]
+ },
+ {
+  "q": "Parmi les colorations suivantes citées dans le cours, lesquelles sont utilisées en bactériologie ?",
+  "options": [
+   "L'imprégnation argentique",
+   "La coloration de Ziehl-Neelsen pour les BAAR",
+   "La coloration de Papanicolaou",
+   "Le bleu de méthylène",
+   "La coloration de Gram"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : imprégnation argentique citée.",
+   "Vrai : Ziehl-Neelsen pour les bacilles acido-alcoolo-résistants.",
+   "Faux : la coloration de Papanicolaou est une coloration cytologique, non citée en bactériologie.",
+   "Vrai : bleu de méthylène cité.",
+   "Vrai : coloration de Gram citée."
+  ]
+ },
+ {
+  "q": "Concernant la coloration de Ziehl-Neelsen, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est utilisée pour les bacilles acido-alcoolo-résistants (BAAR)",
+   "Elle met en évidence les mycobactéries",
+   "Elle remplace la coloration de Gram pour toutes les bactéries",
+   "Elle colore les bactéries à Gram positif en violet",
+   "Le caractère acido-alcoolo-résistant est lié aux acides mycoliques de la paroi"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : Ziehl-Neelsen = coloration des BAAR.",
+   "Vrai : les mycobactéries sont les principaux BAAR.",
+   "Faux : elle est spécifique des BAAR, pas universelle.",
+   "Faux : les BAAR apparaissent rouges sur fond bleu, pas violets.",
+   "Vrai : les acides mycoliques confèrent l'acido-alcoolo-résistance."
+  ]
+ },
+ {
+  "q": "À propos de l'examen à l'état frais au microscope optique, quelles propositions sont vraies ?",
+  "options": [
+   "Il remplace la coloration de Gram",
+   "Il permet d'apprécier la mobilité des bactéries",
+   "Il permet de visualiser les détails ultrastructuraux",
+   "Il nécessite une coloration préalable",
+   "Il permet d'avoir une idée sur la forme des bactéries"
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : il ne remplace pas la coloration de Gram.",
+   "Vrai : l'état frais renseigne sur la mobilité.",
+   "Faux : l'ultrastructure relève de la microscopie électronique.",
+   "Faux : l'état frais se fait sans coloration.",
+   "Vrai : l'état frais renseigne sur la forme."
+  ]
+ },
+ {
+  "q": "Concernant la microscopie électronique appliquée aux bactéries, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle permet d'observer les bactéries vivantes et mobiles",
+   "Elle visualise l'enveloppe (paroi et membrane plasmique)",
+   "Elle met en évidence trois régions architecturales",
+   "Elle visualise le cytoplasme avec le génome, les ribosomes et les inclusions",
+   "Elle visualise les structures externes : capsule, cils, flagelles, fimbriae"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la microscopie électronique s'observe sur préparations fixées, pas sur bactéries vivantes mobiles.",
+   "Vrai : enveloppe = paroi + membrane plasmique.",
+   "Vrai : trois régions architecturales décrites.",
+   "Vrai : cytoplasme avec génome, ribosomes, inclusions.",
+   "Vrai : structures externes visualisées."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le cytoplasme bactérien, lesquelles sont exactes ?",
+  "options": [
+   "Il contient des ribosomes",
+   "Il contient des mitochondries",
+   "C'est un hydrogel colloïdal avec une phase dispersante et une phase dispersée",
+   "Il contient des éléments nutritifs, des ions et des enzymes",
+   "Il contient des déchets métaboliques et des granules de réserve"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les ribosomes sont cytoplasmiques.",
+   "Faux : les bactéries sont dépourvues d'organites comme les mitochondries.",
+   "Vrai : hydrogel colloïdal à deux phases.",
+   "Vrai : nutriments, ions, enzymes.",
+   "Vrai : déchets métaboliques et granules de réserve."
+  ]
+ },
+ {
+  "q": "Concernant les inclusions cytoplasmiques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles peuvent contenir des lipides et du glycogène",
+   "Leur dimension est de 0,1 à 1 µm",
+   "Elles renferment des substances de réserve",
+   "Elles peuvent contenir des polymères de phosphates",
+   "Elles sont des structures obligatoires contenant le génome"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : lipides et glycogène (sucre) cités.",
+   "Vrai : 0,1 à 1 µm.",
+   "Vrai : substances de réserve organiques ou inorganiques.",
+   "Vrai : polymères de phosphates cités.",
+   "Faux : les inclusions sont des réserves, pas le siège du génome."
+  ]
+ },
+ {
+  "q": "À propos de l'appareil nucléaire bactérien, quelles propositions sont vraies ?",
+  "options": [
+   "Les quinolones agissent sur l'appareil nucléaire en inhibant la synthèse du peptidoglycane",
+   "Il porte les informations génétiques nécessaires à la vie et à la pathogénicité",
+   "Il est constitué d'un chromosome unique circulaire",
+   "Il n'y a pas de membrane nucléaire",
+   "Le chromosome est un ADN bicaténaire"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les quinolones agissent sur l'ADN (topoisomérases), pas sur la synthèse du peptidoglycane.",
+   "Vrai : informations pour la vie et la pathogénicité.",
+   "Vrai : chromosome unique circulaire.",
+   "Vrai : absence de membrane nucléaire.",
+   "Vrai : ADN bicaténaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le génome bactérien, lesquelles sont exactes ?",
+  "options": [
+   "Le chromosome mesure environ 1 mm de long",
+   "Le génome est diploïde comme celui des eucaryotes",
+   "Il n'y a ni chromatine ni membrane nucléaire",
+   "Il est constitué d'une unique molécule d'ADN généralement circulaire",
+   "Le génome est haploïde"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : chromosome d'environ 1 mm.",
+   "Faux : le génome bactérien est haploïde, pas diploïde.",
+   "Vrai : pas de chromatine ni de membrane.",
+   "Vrai : une unique molécule d'ADN généralement circulaire.",
+   "Vrai : génome haploïde."
+  ]
+ },
+ {
+  "q": "Concernant la membrane cytoplasmique bactérienne, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle constitue une barrière osmotique",
+   "Elle est dépourvue de stérols tels que le cholestérol",
+   "Ses surfaces internes et externes sont hydrophiles, son intérieur hydrophobe",
+   "Elle contient du peptidoglycane",
+   "Elle est identique à celle des eucaryotes : deux feuillets de phospholipides truffés de protéines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : barrière osmotique.",
+   "Vrai : absence de stérols comme le cholestérol.",
+   "Vrai : surfaces hydrophiles, intérieur hydrophobe.",
+   "Faux : le peptidoglycane est pariétal, pas membranaire.",
+   "Vrai : bicouche phospholipidique à protéines."
+  ]
+ },
+ {
+  "q": "À propos des fonctions de la membrane cytoplasmique, quelles propositions sont vraies ?",
+  "options": [
+   "Elle est traversée par des porines perméables aux petites molécules",
+   "Elle assure l'excrétion de différentes substances vers l'extérieur",
+   "Elle est le siège de systèmes spécifiques de transports actifs",
+   "Elle participe à la synthèse de la paroi",
+   "Elle porte des enzymes associées : chaîne respiratoire, perméases, ATPases"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les porines traversent la membrane externe des Gram-, pas la membrane cytoplasmique.",
+   "Vrai : excrétion vers l'extérieur.",
+   "Vrai : transports actifs spécifiques.",
+   "Vrai : enzymes de synthèse de la paroi.",
+   "Vrai : chaîne respiratoire, perméases, ATPases."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles concernent un site d'action d'antibiotiques selon le cours ?",
+  "options": [
+   "L'appareil nucléaire",
+   "La membrane cytoplasmique",
+   "La paroi (synthèse du peptidoglycane)",
+   "Les ribosomes",
+   "La capsule"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'appareil nucléaire est un site d'action d'antibiotiques.",
+   "Vrai : la membrane cytoplasmique est un site d'action d'antibiotiques.",
+   "Vrai : la synthèse du peptidoglycane est ciblée par les bêtalactamines.",
+   "Vrai : les ribosomes sont des cibles d'antibiotiques.",
+   "Faux : la capsule n'est pas citée comme cible d'antibiotiques."
+  ]
+ },
+ {
+  "q": "Concernant la morphologie bactérienne, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les trois critères morphologiques sont la taille, la forme et le mode de groupement",
+   "L'étude de la morphologie est le premier acte diagnostique bactériologique",
+   "La taille des bactéries varie de 0,1 à 600 µm",
+   "Les modes de groupement incluent les chaînes, les amas et les palissades",
+   "La forme est toujours sphérique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : taille, forme, mode de groupement.",
+   "Vrai : la morphologie est le premier acte diagnostique.",
+   "Vrai : 0,1 à 600 µm.",
+   "Vrai : chaînes, amas, palissades.",
+   "Faux : les formes sont variées : sphérique, cylindrique, spiralée."
+  ]
+ },
+ {
+  "q": "À propos des formes bactériennes, quelles propositions sont vraies ?",
+  "options": [
+   "Il existe des formes cylindriques (bacilles)",
+   "Toutes les bactéries ont la même forme",
+   "La forme est déterminée par le peptidoglycane de la paroi",
+   "Il existe des formes sphériques (coques)",
+   "Il existe des formes spiralées"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : formes cylindriques.",
+   "Faux : la forme varie selon les espèces.",
+   "Vrai : le peptidoglycane détermine la morphologie.",
+   "Vrai : formes sphériques.",
+   "Vrai : formes spiralées."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la définition de la bactérie, lesquelles sont exactes ?",
+  "options": [
+   "Sa taille est de l'ordre du micromètre",
+   "C'est un procaryote, sans vrai noyau",
+   "C'est un organisme pluricellulaire",
+   "C'est un organisme unicellulaire",
+   "Elle est douée d'un pouvoir de multiplication autonome"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : taille micrométrique.",
+   "Vrai : procaryote sans vrai noyau.",
+   "Faux : les bactéries sont unicellulaires.",
+   "Vrai : organisme unicellulaire.",
+   "Vrai : multiplication autonome."
+  ]
+ },
+ {
+  "q": "Concernant les procaryotes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Leur génome est haploïde, sous forme d'une unique molécule d'ADN généralement circulaire",
+   "Ils sont sans vrai noyau : pas de chromatine ni de membrane nucléaire",
+   "Ils possèdent une paroi caractéristique, sauf les mycoplasmes",
+   "Ils se divisent par scissiparité",
+   "Ils sont dépourvus d'organites, à l'exception des ribosomes"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : génome haploïde circulaire.",
+   "Vrai : sans vrai noyau.",
+   "Vrai : paroi caractéristique sauf mycoplasmes.",
+   "Vrai : division par scissiparité.",
+   "Vrai : pas d'organites sauf ribosomes."
+  ]
+ },
+ {
+  "q": "À propos des deux domaines de procaryotes, quelles propositions sont vraies ?",
+  "options": [
+   "Le domaine Archaea regroupe des procaryotes primitifs",
+   "Archaea et Bacteria se distinguent par leur organisation cellulaire procaryote commune",
+   "Les deux domaines possèdent un vrai noyau",
+   "Le domaine Bacteria ne contient aucune bactérie pathogène",
+   "Le domaine Bacteria (Eubacteria) regroupe les « vraies » bactéries incluant celles infectant l'Homme"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Vrai : Archaea = procaryotes primitifs.",
+   "Faux : les deux sont procaryotes ; la distinction repose sur des critères moléculaires, non sur la présence d'un noyau.",
+   "Faux : aucun procaryote n'a de vrai noyau.",
+   "Faux : Bacteria inclut les bactéries infectant l'Homme.",
+   "Vrai : Bacteria = vraies bactéries dont pathogènes humains."
+  ]
+ },
+ {
+  "q": "Parmi les caractères distinctifs procaryotes/eucaryotes du cours, lesquels sont exacts ?",
+  "options": [
+   "Réplication par mitose : non chez les procaryotes, oui chez les eucaryotes",
+   "Membranes avec stérols : souvent chez les procaryotes, non chez les eucaryotes",
+   "Nombre de chromosomes : 1 chez les procaryotes, >1 chez les eucaryotes",
+   "Noyau avec membrane : non chez les procaryotes, oui chez les eucaryotes",
+   "Taille habituelle : 0,3-2,5 µm chez les procaryotes, 2-20 µm chez les eucaryotes"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : mitose.",
+   "Faux : c'est l'inverse — membranes sans stérols chez les procaryotes, souvent avec stérols chez les eucaryotes.",
+   "Vrai : nombre de chromosomes.",
+   "Vrai : noyau avec membrane.",
+   "Vrai : tailles comparées du cours."
+  ]
+ },
+ {
+  "q": "Concernant la position de l'ADN et les organites, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Chez les procaryotes, l'ADN est dans le nucléoïde ou les plasmides",
+   "L'ADN bactérien est associé à des histones comme la chromatine eucaryote",
+   "Les procaryotes possèdent des mitochondries",
+   "Les procaryotes n'ont pas d'organites intracellulaires comme mitochondries ou Golgi",
+   "Chez les eucaryotes, l'ADN est dans le noyau et les organites intracellulaires"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : ADN en nucléoïde ou plasmides.",
+   "Faux : pas de chromatine vraie chez les procaryotes.",
+   "Faux : pas de mitochondries chez les procaryotes.",
+   "Vrai : pas de mitochondries ni d'appareil de Golgi.",
+   "Vrai : ADN nucléaire et organites chez les eucaryotes."
+  ]
+ },
+ {
+  "q": "À propos de la paroi comme structure obligatoire, quelles affirmations sont exactes ?",
+  "options": [
+   "C'est la structure la plus externe de la bactérie",
+   "Selon sa composition, on distingue les Gram+ et les Gram-",
+   "Elle est présente chez toutes les bactéries sans exception",
+   "Elle est constante à l'exception des mycoplasmes",
+   "Elle est située en dedans de la membrane cytoplasmique"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : structure la plus externe.",
+   "Vrai : deux groupes selon paroi.",
+   "Faux : les mycoplasmes en sont dépourvus.",
+   "Vrai : constante sauf mycoplasmes.",
+   "Faux : la paroi est en dehors de la membrane cytoplasmique."
+  ]
+ },
+ {
+  "q": "Parmi les structures obligatoires de la bactérie citées dans le cours, lesquelles en font partie ?",
+  "options": [
+   "La membrane cytoplasmique",
+   "Les ribosomes",
+   "L'appareil nucléaire",
+   "Le cytoplasme",
+   "La capsule"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la membrane cytoplasmique est obligatoire.",
+   "Vrai : les ribosomes sont obligatoires.",
+   "Vrai : l'appareil nucléaire est obligatoire.",
+   "Vrai : le cytoplasme est obligatoire.",
+   "Faux : la capsule est une structure facultative."
+  ]
+ },
+ {
+  "q": "Parmi les structures suivantes, lesquelles sont facultatives selon le cours ?",
+  "options": [
+   "Le chromosome",
+   "Les fimbriae",
+   "Les flagelles",
+   "La capsule",
+   "L'endospore"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le chromosome (appareil nucléaire) est obligatoire.",
+   "Vrai : fimbriae facultatifs.",
+   "Vrai : flagelles facultatifs.",
+   "Vrai : capsule facultative.",
+   "Vrai : endospore facultative."
+  ]
+ },
+ {
+  "q": "Concernant les lipopolysaccharides (LPS), lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils jouent un rôle d'endotoxine",
+   "Ils sont absents des bactéries à Gram positif",
+   "Ils sont constitués de peptidoglycane",
+   "Ils participent à l'activation du complément",
+   "Ils sont présents dans la membrane externe des Gram-"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : rôle d'endotoxine.",
+   "Vrai : absents des Gram+.",
+   "Faux : les LPS sont distincts du peptidoglycane.",
+   "Vrai : la paroi (dont LPS) active le complément.",
+   "Vrai : LPS de la membrane externe Gram-."
+  ]
+ },
+ {
+  "q": "À propos de l'ancrage de la membrane externe au peptidoglycane, quelles propositions sont vraies ?",
+  "options": [
+   "Il se fait par des acides teichoïques",
+   "Il se fait par des lipoprotéines",
+   "Il concerne les bactéries à Gram négatif",
+   "Il se fait par la protéine OmpA",
+   "Il concerne les bactéries à Gram positif"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : les acides teichoïques sont pariétaux des Gram+.",
+   "Vrai : ancrage par lipoprotéines.",
+   "Vrai : mécanisme des Gram-.",
+   "Vrai : ancrage par la protéine OmpA.",
+   "Faux : les Gram+ n'ont pas de membrane externe."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les acides teichoïques, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont présents dans la paroi des Gram+",
+   "Ils sont absents de la paroi des Gram-",
+   "Il existe des acides lipoteichoïques ancrés dans la membrane cytoplasmique",
+   "Ils sont un composant des lipopolysaccharides",
+   "Ils sont associés au peptidoglycane"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : présents chez les Gram+.",
+   "Vrai : absents chez les Gram-.",
+   "Vrai : les acides lipoteichoïques traversent la paroi et s'ancrent dans la membrane.",
+   "Faux : les LPS sont des composants Gram-, sans acides teichoïques.",
+   "Vrai : associés au peptidoglycane."
+  ]
+ },
+ {
+  "q": "Concernant la paroi des Gram+ vue en microscopie électronique, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Elle apparaît comme deux couches séparées par un espace clair",
+   "Son peptidoglycane représente environ 40 % du poids sec",
+   "Elle apparaît comme une couche épaisse amorphe",
+   "Elle ne comporte pas d'espace périplasmique",
+   "Elle ne comporte pas de membrane externe"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les deux couches séparées par un espace clair caractérisent les Gram-.",
+   "Vrai : 40 % du poids sec.",
+   "Vrai : couche épaisse amorphe.",
+   "Vrai : pas d'espace périplasmique.",
+   "Vrai : pas de membrane externe."
+  ]
+ },
+ {
+  "q": "À propos du peptidoglycane des Gram-, quelles affirmations sont exactes ?",
+  "options": [
+   "Il représente moins de 10 % du poids sec",
+   "Il est mince (2 à 6 nm)",
+   "Il détermine néanmoins la morphologie bactérienne",
+   "Il est associé à des acides teichoïques",
+   "Il est situé dans l'espace périplasmique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : moins de 10 % du poids sec.",
+   "Vrai : 2 à 6 nm.",
+   "Vrai : il détermine la morphologie dans les deux groupes.",
+   "Faux : pas d'acides teichoïques chez les Gram-.",
+   "Vrai : localisé dans l'espace périplasmique."
+  ]
+ },
+ {
+  "q": "Parmi les cibles des bêtalactamines, lesquelles sont exactes ?",
+  "options": [
+   "Les ribosomes 70S",
+   "L'ADN chromosomique",
+   "La membrane cytoplasmique",
+   "Les PLP (transpeptidases) impliquées dans l'assemblage du peptidoglycane",
+   "La synthèse du peptidoglycane au niveau pariétal"
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les ribosomes sont la cible des aminosides/macrolides.",
+   "Faux : l'ADN est la cible des quinolones.",
+   "Faux : la membrane est la cible des polymyxines.",
+   "Vrai : les bêtalactamines inhibent les PLP = transpeptidases.",
+   "Vrai : inhibition de la synthèse du peptidoglycane."
+  ]
+ },
+ {
+  "q": "Concernant le dipeptide D-alanyl-D-alanine, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il termine l'UDP-acétylmuramyl-pentapeptide intracytoplasmique",
+   "Il fait partie des chaînes glucidiques du peptidoglycane",
+   "Il est la cible des bêtalactamines via les PLP",
+   "Sa synthèse fait intervenir une racémase et une synthétase",
+   "Il est présent dans les protéines eucaryotes"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le précurseur se termine par D-alanyl-D-alanine.",
+   "Faux : il appartient aux chaînons peptidiques, pas aux chaînes glucidiques.",
+   "Vrai : les bêtalactamines, analogues structuraux, bloquent les transpeptidases agissant sur ce substrat.",
+   "Vrai : racémase et synthétase citées dans l'étape intracytoplasmique.",
+   "Faux : les acides aminés D sont caractéristiques du peptidoglycane bactérien."
+  ]
+ },
+ {
+  "q": "À propos de la paroi comme cible diagnostique et thérapeutique, quelles propositions sont vraies ?",
+  "options": [
+   "La connaissance de la structure pariétale est primordiale pour comprendre l'interaction bactérie/antibiotiques",
+   "La paroi est la cible d'enzymes exogènes comme le lysozyme",
+   "La paroi est la cible d'enzymes endogènes comme les autolysines",
+   "La structure pariétale conditionne la coloration de Gram, premier acte diagnostique",
+   "La paroi n'a aucun intérêt diagnostique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : conclusion du cours sur l'interaction hôte/bactérie et bactérie/antibiotiques.",
+   "Vrai : lysozyme exogène.",
+   "Vrai : autolysines endogènes.",
+   "Vrai : la coloration de Gram découle de la paroi.",
+   "Faux : la paroi fonde le diagnostic (Gram)."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la synthèse pariétale continue, lesquelles sont exactes ?",
+  "options": [
+   "Elle est continuellement en dégradation (autolysines)",
+   "La paroi est synthétisée une fois pour toutes lors de la division",
+   "Elle est continuellement en synthèse",
+   "Les PLP émergent sur la face externe de la membrane cytoplasmique pour l'assemblage",
+   "La paroi n'est pas une structure figée"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : dégradation continue par les autolysines.",
+   "Faux : la synthèse est continue, pas limitée à la division.",
+   "Vrai : synthèse continue.",
+   "Vrai : PLP sur la face externe de la membrane cytoplasmique.",
+   "Vrai : la paroi n'est pas figée."
+  ]
+ },
+ {
+  "q": "Concernant les protéines de la paroi des Gram-, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les protéines y sont fréquentes",
+   "Les porines sont des protéines de la membrane externe",
+   "La protéine OmpA participe à l'ancrage au peptidoglycane",
+   "Les protéines sont absentes de la paroi des Gram+",
+   "Les protéines pariétales peuvent avoir un rôle dans le pouvoir pathogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : protéines fréquentes chez les Gram-.",
+   "Vrai : porines = protéines de la membrane externe.",
+   "Vrai : OmpA = ancrage.",
+   "Faux : les protéines sont possibles chez les Gram+ (liaisons covalentes au peptidoglycane).",
+   "Vrai : rôle éventuel dans le pouvoir pathogène et l'antigénicité spécifique."
+  ]
+ },
+ {
+  "q": "À propos des polysaccharides pariétaux des Gram+, quelles propositions sont vraies ?",
+  "options": [
+   "Ils sont identiques aux lipopolysaccharides",
+   "Ils peuvent constituer des antigènes spécifiques de groupe pour certaines espèces",
+   "Les acides teichoïques en font partie",
+   "Ils sont possibles en association au peptidoglycane",
+   "Ils sont absents de toutes les parois Gram+"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : les LPS sont spécifiques des Gram-.",
+   "Vrai : antigènes spécifiques de groupe pour certaines espèces.",
+   "Vrai : les acides teichoïques sont des polysaccharides pariétaux Gram+.",
+   "Vrai : polysaccharides possibles chez les Gram+.",
+   "Faux : ils sont possibles, pas absents."
+  ]
+ },
+ {
+  "q": "Concernant la capsule comme facteur de virulence, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle protège la bactérie de la phagocytose",
+   "Elle est constituée de polysaccharides acides",
+   "Elle est une cible des bêtalactamines",
+   "Elle peut se trouver à l'état soluble dans les liquides de l'organisme",
+   "Elle porte l'antigène K"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : protection antiphagocytaire.",
+   "Vrai : polysaccharides acides.",
+   "Faux : les bêtalactamines ciblent le peptidoglycane, pas la capsule.",
+   "Vrai : forme soluble possible.",
+   "Vrai : antigène capsulaire K."
+  ]
+ },
+ {
+  "q": "À propos du glycocalyx, quelles propositions sont vraies ?",
+  "options": [
+   "Il est constitué de polysaccharides plus ou moins libérés dans le milieu",
+   "C'est une capsule diffuse de type biofilm « slime »",
+   "Il forme des masses gluantes retenant des matières en suspension",
+   "Il est bien délimité et condensé comme la capsule vraie",
+   "Il permet l'adhésion bactérienne aux surfaces inertes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : polysaccharides libérés dans le milieu.",
+   "Vrai : capsule diffuse = glycocalyx = slime.",
+   "Vrai : masses gluantes des bactéries aquatiques.",
+   "Faux : il n'est pas délimité, contrairement à la capsule vraie.",
+   "Vrai : adhésion aux surfaces inertes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la couche S, lesquelles sont exactes ?",
+  "options": [
+   "Chez les Gram+, elle est à la périphérie du peptidoglycane",
+   "Chez les Gram-, elle est associée à la membrane externe",
+   "C'est une couche de surface cristalline",
+   "Elle synthétise les lipopolysaccharides",
+   "Elle a un rôle de squelette et d'adhésion"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : périphérie du PG chez les Gram+.",
+   "Vrai : associée à la membrane externe chez les Gram-.",
+   "Vrai : couche de surface cristalline.",
+   "Faux : elle ne synthétise pas les LPS.",
+   "Vrai : squelette et adhésion."
+  ]
+ },
+ {
+  "q": "Concernant la résistance conférée par la couche S, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle participe à la résistance aux protéases des macrophages",
+   "Elle protège de la phagocytose comme la capsule",
+   "Elle participe à la résistance au système du complément",
+   "Elle est une structure facultative",
+   "Elle confère la résistance aux bêtalactamines"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : résistance aux protéases macrophagiques.",
+   "Faux : la protection antiphagocytaire est le rôle de la capsule, pas de la couche S.",
+   "Vrai : résistance au complément.",
+   "Vrai : structure facultative.",
+   "Faux : la résistance aux bêtalactamines relève des PLP modifiées ou des bêtalactamases."
+  ]
+ },
+ {
+  "q": "À propos de la flagelline, quelles propositions sont vraies ?",
+  "options": [
+   "C'est la protéine constitutive des flagelles",
+   "C'est une protéine du peptidoglycane",
+   "Elle est responsable de la ciliature péritriche",
+   "Les antigènes flagellaires (antigène H) sont portés par la flagelline",
+   "Les flagelles naissent de la membrane cytoplasmique"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les flagelles sont constitués de flagelline.",
+   "Faux : le peptidoglycane est glucido-peptidique, sans flagelline.",
+   "Faux : la ciliature décrit la disposition, pas la protéine.",
+   "Vrai : l'antigène H est l'antigène de la flagelline.",
+   "Vrai : naissance à partir de la membrane cytoplasmique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les ciliatures, lesquelles sont exactes ?",
+  "options": [
+   "Péritriche : des flagelles répartis sur toute la surface",
+   "Amphitriche : des flagelles aux deux pôles",
+   "Lophotriche : plusieurs flagelles en touffe à un pôle",
+   "Atriche : des flagelles internes non visibles",
+   "Monotriche : un flagelle à un seul pôle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : péritriche = toute la surface.",
+   "Vrai : amphitriche = deux pôles.",
+   "Vrai : lophotriche = touffe polaire.",
+   "Faux : « atriche » signifie sans flagelle ; il n'y a pas de flagelles internes dans ce cadre.",
+   "Vrai : monotriche = un flagelle polaire."
+  ]
+ },
+ {
+  "q": "Concernant les fimbriae de type I à IV, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont impliqués dans la mobilité",
+   "Les types I, II, III et IV se distinguent par leur composition",
+   "Ils sont exceptionnels chez les Gram-",
+   "Ils sont visibles en microscopie électronique",
+   "Ils ont des propriétés hémagglutinantes"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les fimbriae ne participent pas à la mobilité.",
+   "Vrai : types I à IV selon la composition.",
+   "Faux : ils sont très communs chez les Gram-.",
+   "Vrai : visibles en microscopie électronique.",
+   "Vrai : propriétés hémagglutinantes."
+  ]
+ },
+ {
+  "q": "À propos de l'adhésion bactérienne, quelles propositions sont vraies ?",
+  "options": [
+   "Les flagelles sont les principaux organes d'adhésion",
+   "La couche S participe à l'adhésion",
+   "Les fimbriae permettent l'adhésion aux muqueuses",
+   "Le glycocalyx permet l'adhésion aux surfaces inertes",
+   "L'adhésion est un facteur de virulence"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les flagelles servent à la mobilité, pas à l'adhésion.",
+   "Vrai : couche S = rôle d'adhésion.",
+   "Vrai : fimbriae = adhésion aux muqueuses.",
+   "Vrai : glycocalyx = adhésion aux surfaces inertes.",
+   "Vrai : l'adhésion est un facteur de virulence."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la conjugaison bactérienne, lesquelles sont exactes ?",
+  "options": [
+   "Les plasmides peuvent être transmis sur un mode horizontal par ce mécanisme",
+   "C'est une voie d'échange de matériel génétique",
+   "Elle fait intervenir les pili sexuels",
+   "Elle fait intervenir les fimbriae communs",
+   "Les pili sexuels relient deux bactéries"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : transmission horizontale des plasmides.",
+   "Vrai : échange de matériel génétique.",
+   "Vrai : pili sexuels = voies de la conjugaison.",
+   "Faux : les fimbriae communs servent à l'adhésion, pas à la conjugaison.",
+   "Vrai : ils relient deux bactéries."
+  ]
+ },
+ {
+  "q": "Concernant la sporulation, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Toutes les bactéries sporulent en milieu défavorable",
+   "Elle concerne certaines bactéries à Gram positif comme Bacillus et Clostridium",
+   "Elle se produit en réponse à des conditions de vie défavorables",
+   "La spore est une forme de multiplication",
+   "C'est un phénomène de différenciation de la forme végétative vers la spore"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : seules certaines espèces sporulent.",
+   "Vrai : Bacillus et Clostridium cités.",
+   "Vrai : réponse aux conditions défavorables.",
+   "Faux : la spore est une forme de résistance, pas de multiplication.",
+   "Vrai : différenciation forme végétative → spore."
+  ]
+ },
+ {
+  "q": "À propos de la résistance de l'endospore, quelles propositions sont vraies ?",
+  "options": [
+   "Elle résiste à la dessiccation",
+   "Elle résiste aux rayons ultraviolets",
+   "Elle est détruite par les antibiotiques usuels",
+   "Elle résiste aux désinfectants chimiques",
+   "Elle résiste à la chaleur"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : résistance à la dessiccation.",
+   "Vrai : résistance aux UV.",
+   "Faux : la spore est une forme dormante très résistante, non éliminée par les antibiotiques usuels.",
+   "Vrai : résistance aux désinfectants chimiques.",
+   "Vrai : résistance à la chaleur."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les plasmides, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont transmis stablement à la descendance",
+   "Ils sont indispensables à la survie de la bactérie",
+   "Ils sont doués de réplication autonome",
+   "Leur taille varie de 1 à 400 kb",
+   "Ils peuvent porter des gènes de résistance aux antibiotiques"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : transmission stable à la descendance.",
+   "Faux : informations supplémentaires non indispensables.",
+   "Vrai : réplicon autonome.",
+   "Vrai : 1 à 400 kb.",
+   "Vrai : gènes de résistance plasmidique."
+  ]
+ },
+ {
+  "q": "Concernant les informations portées par les plasmides, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les gènes codant les ribosomes 70S",
+   "Des propriétés métaboliques",
+   "Des facteurs de pouvoir pathogène",
+   "Des résistances aux antibiotiques",
+   "Les gènes de la synthèse du peptidoglycane"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : les ribosomes sont codés par le chromosome.",
+   "Vrai : propriétés métaboliques.",
+   "Vrai : pouvoir pathogène.",
+   "Vrai : résistance aux antibiotiques.",
+   "Faux : la synthèse du peptidoglycane est chromosomique."
+  ]
+ },
+ {
+  "q": "À propos des ribosomes 70S comme cibles thérapeutiques, quelles propositions sont vraies ?",
+  "options": [
+   "Ils sont le lieu de la traduction",
+   "Ils sont situés dans le noyau bactérien",
+   "Ils mesurent 20 à 30 nm de diamètre",
+   "Des antibiotiques les ciblent sélectivement par rapport aux ribosomes eucaryotes 80S",
+   "Ils sont composés des sous-unités 30S et 50S"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : lieu de la traduction.",
+   "Faux : pas de noyau chez les bactéries ; ribosomes cytoplasmiques.",
+   "Vrai : 20 à 30 nm.",
+   "Vrai : sélectivité 70S vs 80S eucaryotes.",
+   "Vrai : sous-unités 30S et 50S."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la composition des ribosomes, lesquelles sont exactes ?",
+  "options": [
+   "Ils contiennent 33 % de protéines",
+   "Ils sont caractérisés par leur vitesse de sédimentation en Svedberg",
+   "Ils contiennent 66 % d'ARN ribosomal",
+   "Ils contiennent de l'ADN",
+   "Ils sont entourés d'une membrane"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : 33 % de protéines.",
+   "Vrai : constante de sédimentation en Svedberg.",
+   "Vrai : 66 % d'ARNr.",
+   "Faux : les ribosomes contiennent de l'ARN, pas de l'ADN.",
+   "Faux : pas de membrane ribosomale."
+  ]
+ },
+ {
+  "q": "Concernant la localisation des ribosomes bactériens, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils peuvent être attachés à la membrane plasmique",
+   "Ils sont situés dans l'espace périplasmique",
+   "Ils sont libres dans le cytoplasme",
+   "Ils sont associés au réticulum endoplasmique",
+   "Ils sont présents chez toutes les bactéries"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : attachés à la membrane plasmique.",
+   "Faux : pas de ribosomes dans l'espace périplasmique.",
+   "Vrai : libres dans le cytoplasme.",
+   "Faux : pas de réticulum endoplasmique chez les procaryotes.",
+   "Vrai : structures obligatoires."
+  ]
+ },
+ {
+  "q": "À propos des étapes de la coloration de Gram, quelles propositions sont vraies ?",
+  "options": [
+   "Les Gram- perdent le colorant lors de la décoloration du fait de leur paroi fine et riche en lipides",
+   "La coloration permet de classer les bactéries en deux grands groupes",
+   "Les Gram+ retiennent le colorant grâce à leur peptidoglycane épais",
+   "La coloration de Gram visualise les plasmides",
+   "La coloration repose sur la différence de structure pariétale entre Gram+ et Gram-"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : décoloration facilitée par la paroi fine et les lipides.",
+   "Vrai : deux groupes Gram+/Gram-.",
+   "Vrai : blocage de l'extraction par le peptidoglycane épais.",
+   "Faux : les plasmides ne sont pas visibles au Gram.",
+   "Vrai : fondement structural de la coloration."
+  ]
+ },
+ {
+  "q": "Parmi les intérêts de la coloration de Gram, lesquels sont exacts ?",
+  "options": [
+   "Elle précise la forme des bactéries",
+   "Elle met en évidence les affinités tinctoriales",
+   "Elle identifie l'espèce bactérienne à elle seule",
+   "Elle guide le choix probabiliste de l'antibiothérapie",
+   "C'est un examen rapide d'orientation diagnostique"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : précise la forme.",
+   "Vrai : affinités tinctoriales.",
+   "Faux : elle oriente mais n'identifie pas l'espèce à elle seule.",
+   "Vrai : elle guide l'antibiothérapie probabiliste.",
+   "Vrai : examen rapide d'orientation."
+  ]
+ },
+ {
+  "q": "Concernant les limites de la coloration de Gram, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les mycoplasmes ne se colorent pas au Gram",
+   "Le Gram ne distingue pas les bactéries vivantes des mortes",
+   "Les mycobactéries se colorent mal au Gram du fait de leur paroi riche en lipides",
+   "Toutes les bactéries à paroi se colorent au Gram",
+   "Le Gram remplace la culture bactérienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sans paroi, pas de coloration de Gram.",
+   "Vrai : le Gram ne renseigne pas sur la viabilité.",
+   "Vrai : paroi très lipidique = mauvaise prise du Gram, d'où le Ziehl-Neelsen.",
+   "Faux : certaines bactéries à paroi atypique se colorent mal.",
+   "Faux : le Gram n'a pas la sensibilité ni la spécificité de la culture."
+  ]
+ },
+ {
+  "q": "À propos du fractionnement bactérien comme méthode d'étude, quelles propositions sont vraies ?",
+  "options": [
+   "Il permet d'étudier séparément paroi, membrane et cytoplasme",
+   "Il permet d'analyser la composition chimique des structures",
+   "Il remplace la microscopie électronique",
+   "Il s'applique aux bactéries vivantes mobiles",
+   "Il consiste à fractionner les bactéries puis à séparer les fractions par des techniques physicochimiques"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : séparation des enveloppes et du contenu.",
+   "Vrai : analyse physicochimique des constituants.",
+   "Faux : il complète la microscopie, ne la remplace pas.",
+   "Faux : le fractionnement lyse les bactéries.",
+   "Vrai : définition du fractionnement cité dans le cours."
+  ]
+ },
+ {
+  "q": "Parmi les trois régions architecturales révélées par la microscopie électronique, lesquelles sont exactes ?",
+  "options": [
+   "Le noyau avec sa membrane",
+   "Les structures externes : capsule, cils, flagelles, fimbriae",
+   "Les mitochondries",
+   "Le cytoplasme avec le génome, les ribosomes et les inclusions",
+   "L'enveloppe : paroi et membrane plasmique"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : pas de noyau avec membrane.",
+   "Vrai : structures externes.",
+   "Faux : pas de mitochondries.",
+   "Vrai : cytoplasme et son contenu.",
+   "Vrai : enveloppe pariéto-membranaire."
+  ]
+ },
+ {
+  "q": "Concernant l'importance de la connaissance de la structure bactérienne, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est primordiale pour comprendre l'interaction bactérie/antibiotiques",
+   "Elle est sans intérêt pour la prévention",
+   "Elle est primordiale pour le diagnostic bactériologique",
+   "Elle permet de comprendre la physiologie bactérienne",
+   "Elle est primordiale pour comprendre l'interaction hôte/bactérie"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : interaction bactérie/antibiotiques.",
+   "Faux : elle sert aussi les possibilités préventives (vaccins capsulaires, etc.).",
+   "Vrai : diagnostic bactériologique.",
+   "Vrai : la structure éclaire la physiologie, la génétique et le pouvoir pathogène.",
+   "Vrai : interaction hôte/bactérie."
+  ]
+ },
+ {
+  "q": "Concernant la paroi bactérienne en général, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est une structure rigide et résistante",
+   "Elle est le site de la respiration cellulaire",
+   "Elle détermine la forme des bactéries",
+   "Elle est couverte par la membrane cytoplasmique",
+   "Elle conditionne la coloration de Gram"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : structure rigide et résistante.",
+   "Faux : la respiration siège sur la membrane cytoplasmique.",
+   "Vrai : elle détermine la forme.",
+   "Faux : la paroi recouvre la membrane, pas l'inverse.",
+   "Vrai : la paroi conditionne le Gram."
+  ]
+ },
+ {
+  "q": "À propos de la résistance conférée par la paroi, quelles propositions sont vraies ?",
+  "options": [
+   "Elle maintient les constituants cellulaires",
+   "Elle maintient la pression osmotique",
+   "Elle rend la bactérie insensible à tous les antibiotiques",
+   "Elle protège contre les agressions physicochimiques",
+   "Elle bloque l'extraction de certains colorants"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : maintien des constituants.",
+   "Vrai : maintien de la pression osmotique.",
+   "Faux : la paroi est au contraire la cible de nombreux antibiotiques.",
+   "Vrai : protection physicochimique.",
+   "Vrai : blocage de l'extraction des colorants."
+  ]
+ },
+ {
+  "q": "Parmi les fonctions d'échange de la paroi, lesquelles sont exactes ?",
+  "options": [
+   "Contrôle de la diffusion selon le degré d'hydrophobicité",
+   "Contrôle de la diffusion selon la taille des molécules",
+   "Rejet des composés nocifs par des pompes d'efflux",
+   "Transport actif des sucres par les perméases",
+   "Captage des nutriments importants"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : contrôle selon l'hydrophobicité.",
+   "Vrai : contrôle selon la taille.",
+   "Vrai : pompes d'efflux.",
+   "Faux : les perméases du transport actif sont membranaires.",
+   "Vrai : captage des nutriments."
+  ]
+ },
+ {
+  "q": "Concernant l'endotoxine bactérienne, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'effet du complément est chimiotactique et opsonisant",
+   "La paroi participe à l'activation du complément",
+   "Les lipopolysaccharides jouent un rôle d'endotoxine",
+   "L'endotoxine est un composant de la membrane externe des Gram-",
+   "L'endotoxine est sécrétée activement comme les exotoxines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : effets chimiotactique et opsonisant.",
+   "Vrai : activation du complément par la paroi.",
+   "Vrai : les LPS sont des endotoxines.",
+   "Vrai : composant de la membrane externe Gram-.",
+   "Faux : l'endotoxine est libérée lors de la lyse, pas sécrétée comme une exotoxine."
+  ]
+ },
+ {
+  "q": "À propos du lysozyme, quelles propositions sont vraies ?",
+  "options": [
+   "C'est une enzyme exogène agissant sur la paroi",
+   "Il est plus actif sur les parois riches en peptidoglycane (Gram+)",
+   "Il agit sur la membrane cytoplasmique",
+   "Il hydrolyse le peptidoglycane",
+   "C'est un antibiotique de la famille des bêtalactamines"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : enzyme exogène ciblant la paroi.",
+   "Vrai : paroi Gram+ très riche en peptidoglycane.",
+   "Faux : cible pariétale, pas membranaire.",
+   "Vrai : hydrolyse du peptidoglycane.",
+   "Faux : le lysozyme est une enzyme, pas une bêtalactamine."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les autolysines, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des enzymes exogènes comme le lysozyme",
+   "Elles participent au remodelage continu de la paroi",
+   "Elles synthétisent le peptidoglycane",
+   "Ce sont des enzymes endogènes",
+   "Elles agissent sur la paroi bactérienne"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le lysozyme est exogène, les autolysines sont endogènes.",
+   "Vrai : la paroi est continuellement en synthèse et dégradation.",
+   "Faux : elles dégradent, elles ne synthétisent pas.",
+   "Vrai : enzymes endogènes.",
+   "Vrai : action sur la paroi."
+  ]
+ },
+ {
+  "q": "Concernant les ponts interpeptidiques du peptidoglycane, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont constitués de lipopolysaccharides",
+   "Ils relient les chaînes glucidiques entre elles via les chaînons pentapeptidiques",
+   "Ils sont formés par les transpeptidases",
+   "Les bêtalactamines inhibent leur formation",
+   "La solidité de la macromolécule dépend de leur importance"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : ce sont des liaisons peptidiques, pas des LPS.",
+   "Vrai : les chaînons peptidiques relient les chaînes glucidiques.",
+   "Vrai : formation par les transpeptidases (PLP).",
+   "Vrai : les bêtalactamines bloquent les transpeptidases.",
+   "Vrai : la solidité dépend des interconnexions."
+  ]
+ },
+ {
+  "q": "À propos de l'épine dorsale du peptidoglycane, quelles propositions sont vraies ?",
+  "options": [
+   "Elle alterne N-acétylglucosamine et acide N-acétylmuramique",
+   "Elle est de nature exclusivement protéique",
+   "Elle est la cible du lysozyme",
+   "Elle est de nature glucidique",
+   "Sa polymérisation fait intervenir la transglycosylase"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : alternance NAG-NAM.",
+   "Faux : l'épine dorsale est glucidique, les chaînons latéraux sont peptidiques.",
+   "Vrai : le lysozyme hydrolyse ces liaisons glucidiques.",
+   "Vrai : chaînes glucidiques.",
+   "Vrai : polymérisation par la transglycosylase."
+  ]
+ },
+ {
+  "q": "Parmi les enzymes de l'étape pariétale de synthèse du peptidoglycane, lesquelles sont exactes ?",
+  "options": [
+   "La transpeptidase",
+   "L'ATPase membranaire",
+   "La transglycosylase",
+   "La phosphoénolpyruvate transférase",
+   "La carboxypeptidase (régulation)"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : transpeptidase pariétale.",
+   "Faux : l'ATPase est une enzyme membranaire énergétique, pas de synthèse pariétale.",
+   "Vrai : transglycosylase pariétale.",
+   "Faux : la phosphoénolpyruvate transférase intervient à l'étape intracytoplasmique.",
+   "Vrai : carboxypeptidase régulatrice."
+  ]
+ },
+ {
+  "q": "Concernant les PLP, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Elles sont localisées dans le cytoplasme",
+   "Elles émergent sur la face externe de la membrane cytoplasmique",
+   "Elles sont identiques chez toutes les espèces bactériennes",
+   "Les bêtalactamines se fixent sur les PLP",
+   "Leur nombre et leur nature varient selon les espèces"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elles sont membranaires, pas cytoplasmiques.",
+   "Vrai : face externe de la membrane cytoplasmique.",
+   "Faux : elles varient selon les espèces.",
+   "Vrai : les bêtalactamines ciblent les PLP.",
+   "Vrai : nombre et nature variables selon les espèces."
+  ]
+ },
+ {
+  "q": "À propos des mycobactéries et de la coloration, quelles affirmations sont exactes ?",
+  "options": [
+   "Leur paroi très riche en acides mycoliques les rend acido-alcoolo-résistantes",
+   "Ce sont des bactéries à Gram négatif",
+   "Elles se colorent facilement et fidèlement au Gram",
+   "La coloration de Ziehl-Neelsen est utilisée pour les mettre en évidence",
+   "Les acides gras complexes représentent environ 40 % de la bactérie"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : acides mycoliques = acido-alcoolo-résistance.",
+   "Faux : ce sont des Gram+ particuliers.",
+   "Faux : paroi lipidique = mauvaise prise du Gram.",
+   "Vrai : Ziehl-Neelsen pour les BAAR.",
+   "Vrai : ~40 % d'acides gras complexes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les bactéries acido-alcoolo-résistantes, lesquelles sont exactes ?",
+  "options": [
+   "Leur paroi est pauvre en lipides",
+   "La coloration de Ziehl-Neelsen les colore en rouge",
+   "Leur résistance à la décoloration acido-alcoolique est liée aux acides mycoliques",
+   "Elles sont mises en évidence par la coloration de Gram",
+   "Les mycobactéries en sont l'exemple type"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : paroi très riche en lipides.",
+   "Vrai : BAAR rouges sur fond bleu au Ziehl-Neelsen.",
+   "Vrai : acides mycoliques = BAAR.",
+   "Faux : le Gram est peu performant sur les BAAR.",
+   "Vrai : mycobactéries = BAAR types."
+  ]
+ },
+ {
+  "q": "Concernant les critères phénotypiques de classification liés à la structure, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le séquençage de l'ARN ribosomique est un critère phénotypique",
+   "La présence de flagelles est un critère de classification",
+   "La nature de la paroi (Gram) est un critère de classification",
+   "La présence d'endospores est un critère de classification",
+   "La forme et le groupement des bactéries sont des critères morphologiques"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le séquençage de l'ARNr est un critère génotypique.",
+   "Vrai : flagelles = critère phénotypique.",
+   "Vrai : nature de la paroi = critère.",
+   "Vrai : endospore = critère.",
+   "Vrai : forme et groupement = critères morphologiques."
+  ]
+ },
+ {
+  "q": "À propos de la taille bactérienne, quelles propositions sont vraies ?",
+  "options": [
+   "La taille est un critère morphologique diagnostique",
+   "Les eucaryotes mesurent habituellement 2 à 20 µm",
+   "Toutes les bactéries mesurent exactement 1 µm",
+   "La taille habituelle des procaryotes est de 0,3 à 2,5 µm",
+   "Elle varie de 0,1 à 600 µm selon les espèces"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la taille est un critère morphologique.",
+   "Vrai : 2-20 µm pour les eucaryotes.",
+   "Faux : la taille varie selon les espèces.",
+   "Vrai : 0,3-2,5 µm pour les procaryotes.",
+   "Vrai : 0,1 à 600 µm."
+  ]
+ },
+ {
+  "q": "Parmi les modes de groupement bactérien cités dans le cours, lesquels sont exacts ?",
+  "options": [
+   "Les amas",
+   "Les chaînes",
+   "Les rosettes",
+   "Les palissades",
+   "Les essaims"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : groupement en amas.",
+   "Vrai : groupement en chaînes.",
+   "Faux : les rosettes ne sont pas citées.",
+   "Vrai : groupement en palissades.",
+   "Faux : les essaims ne sont pas cités."
+  ]
+ },
+ {
+  "q": "Concernant la membrane cytoplasmique comme barrière, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est le siège de transports actifs spécifiques",
+   "Elle porte les ATPases",
+   "Elle constitue une barrière osmotique",
+   "Elle est imperméable à toute molécule",
+   "Elle porte les perméases"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : transports actifs.",
+   "Vrai : ATPases membranaires.",
+   "Vrai : barrière osmotique.",
+   "Faux : elle est sélectivement perméable, pas totalement imperméable.",
+   "Vrai : perméases membranaires."
+  ]
+ },
+ {
+  "q": "À propos de la chaîne respiratoire bactérienne, quelles propositions sont vraies ?",
+  "options": [
+   "La membrane cytoplasmique est un site d'action d'antibiotiques",
+   "Elle est localisée sur la membrane cytoplasmique",
+   "Elle est localisée dans les mitochondries",
+   "Elle participe aux réactions énergétiques",
+   "Elle est localisée dans la paroi"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : la membrane est un site d'action d'antibiotiques.",
+   "Vrai : enzymes respiratoires membranaires.",
+   "Faux : pas de mitochondries chez les bactéries.",
+   "Vrai : réactions énergétiques.",
+   "Faux : pas de chaîne respiratoire pariétale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'excrétion bactérienne, lesquelles sont exactes ?",
+  "options": [
+   "La paroi effectue le rejet des composés nocifs via des pompes d'efflux",
+   "L'excrétion se fait uniquement par diffusion passive",
+   "La membrane cytoplasmique assure l'excrétion de substances vers l'extérieur",
+   "L'excrétion est une fonction exclusive de la capsule",
+   "Les déchets métaboliques s'accumulent dans le cytoplasme"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : pompes d'efflux pariétales.",
+   "Faux : il existe des systèmes d'excrétion spécifiques, pas seulement la diffusion.",
+   "Vrai : systèmes d'excrétion membranaires.",
+   "Faux : la capsule n'a pas de fonction d'excrétion.",
+   "Vrai : les déchets métaboliques sont présents dans le cytoplasme."
+  ]
+ },
+ {
+  "q": "Concernant le chromosome bactérien, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il mesure environ 1 mm de long",
+   "Il porte les informations nécessaires à la pathogénicité",
+   "Il est entouré d'une membrane nucléaire",
+   "C'est un ADN bicaténaire",
+   "Il est unique et circulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : ~1 mm.",
+   "Vrai : informations de pathogénicité.",
+   "Faux : absence de membrane nucléaire.",
+   "Vrai : ADN bicaténaire.",
+   "Vrai : chromosome unique circulaire."
+  ]
+ },
+ {
+  "q": "À propos du nucléoïde, quelles propositions sont vraies ?",
+  "options": [
+   "Il est visible en microscopie électronique dans le cytoplasme",
+   "Il contient les plasmides",
+   "Il n'est pas délimité par une membrane",
+   "C'est la région cytoplasmique contenant le chromosome",
+   "Il contient aussi les ribosomes"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le génome est visualisé dans le cytoplasme en microscopie électronique.",
+   "Faux : les plasmides sont des molécules d'ADN extra-chromosomiques distinctes.",
+   "Vrai : pas de membrane nucléaire.",
+   "Vrai : le chromosome occupe le nucléoïde cytoplasmique.",
+   "Faux : les ribosomes sont cytoplasmiques mais distincts du nucléoïde."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les granules de réserve, lesquelles sont exactes ?",
+  "options": [
+   "Ils constituent l'appareil nucléaire",
+   "Ils peuvent être du glycogène",
+   "Ils sont contenus dans le cytoplasme",
+   "Ils peuvent être des polymères de phosphates",
+   "Ils peuvent être des lipides"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'appareil nucléaire est le chromosome.",
+   "Vrai : glycogène (sucre).",
+   "Vrai : granules cytoplasmiques de réserve.",
+   "Vrai : polymères de phosphates.",
+   "Vrai : lipides."
+  ]
+ },
+ {
+  "q": "Concernant les inclusions, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles sont des organites entourés d'une membrane",
+   "Ce sont des substances de réserve",
+   "Elles renferment des matières organiques ou inorganiques",
+   "Elles sont visibles en microscopie électronique dans le cytoplasme",
+   "Leur dimension est de 0,1 à 1 µm"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : pas de membrane autour des inclusions.",
+   "Vrai : substances de réserve.",
+   "Vrai : matières organiques ou inorganiques.",
+   "Vrai : visualisées dans le cytoplasme en microscopie électronique.",
+   "Vrai : 0,1 à 1 µm."
+  ]
+ },
+ {
+  "q": "À propos des structures obligatoires, quelles propositions sont vraies ?",
+  "options": [
+   "La paroi en fait partie, à l'exception des mycoplasmes",
+   "Elles sont présentes chez toutes les bactéries",
+   "La membrane cytoplasmique en fait partie",
+   "Les flagelles en font partie",
+   "Le cytoplasme, les ribosomes et l'appareil nucléaire en font partie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : paroi obligatoire sauf mycoplasmes.",
+   "Vrai : présentes chez toutes les bactéries.",
+   "Vrai : membrane cytoplasmique obligatoire.",
+   "Faux : les flagelles sont facultatifs.",
+   "Vrai : cytoplasme, ribosomes, appareil nucléaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles décrivent correctement une structure facultative ?",
+  "options": [
+   "Les ribosomes : présents chez toutes les bactéries donc facultatifs",
+   "Les plasmides : ADN extra-chromosomique inconstant",
+   "La capsule : enveloppe polysaccharidique inconstante",
+   "L'endospore : forme de résistance inconstante",
+   "Les flagelles : organes de mobilité inconstants"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les ribosomes sont obligatoires.",
+   "Vrai : plasmides facultatifs.",
+   "Vrai : capsule facultative.",
+   "Vrai : endospore facultative.",
+   "Vrai : flagelles facultatifs."
+  ]
+ },
+ {
+  "q": "Concernant la microscopie optique après coloration, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle met en évidence les affinités tinctoriales",
+   "Elle précise la forme des bactéries",
+   "Elle permet d'observer la mobilité",
+   "Elle visualise l'ultrastructure pariétale",
+   "La coloration de Gram en est l'exemple principal"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : affinités tinctoriales.",
+   "Vrai : précise la forme.",
+   "Faux : la mobilité s'observe à l'état frais, pas après coloration.",
+   "Faux : l'ultrastructure relève de la microscopie électronique.",
+   "Vrai : le Gram est la coloration de référence."
+  ]
+ },
+ {
+  "q": "À propos du bleu de méthylène, quelles propositions sont vraies ?",
+  "options": [
+   "Il est cité dans le cours parmi les colorants",
+   "C'est un colorant utilisé en bactériologie",
+   "Il colore spécifiquement les BAAR",
+   "Il permet la distinction Gram+/Gram-",
+   "C'est une coloration simple"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : cité dans le cours.",
+   "Vrai : colorant bactériologique.",
+   "Faux : les BAAR relèvent du Ziehl-Neelsen.",
+   "Faux : la distinction Gram+/Gram- relève de la coloration de Gram.",
+   "Vrai : coloration simple."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'imprégnation argentique, lesquelles sont exactes ?",
+  "options": [
+   "Elle colore les Gram+ en violet",
+   "C'est une technique de coloration citée dans le cours",
+   "Elle remplace la microscopie électronique",
+   "Elle est spécifique des endospores",
+   "Elle est utilisée en bactériologie"
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : ce n'est pas une coloration de Gram.",
+   "Vrai : citée dans le cours.",
+   "Faux : elle ne remplace pas la microscopie électronique.",
+   "Faux : pas de spécificité pour les endospores.",
+   "Vrai : utilisée en bactériologie (ex. spirochètes)."
+  ]
+ },
+ {
+  "q": "Concernant l'examen à l'état frais, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il se fait sans coloration",
+   "Il précise les affinités tinctoriales",
+   "Il renseigne sur la forme",
+   "Il nécessite un microscope électronique",
+   "Il renseigne sur la mobilité"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : sans coloration.",
+   "Faux : les affinités tinctoriales nécessitent une coloration.",
+   "Vrai : forme.",
+   "Faux : il se fait au microscope optique.",
+   "Vrai : mobilité."
+  ]
+ },
+ {
+  "q": "À propos des antigènes bactériens de surface, quelles propositions sont vraies ?",
+  "options": [
+   "L'antigène K est pariétal",
+   "L'antigène O est capsulaire",
+   "L'antigène H est flagellaire",
+   "L'antigène O est somatique et lié à la paroi",
+   "L'antigène K est capsulaire"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'antigène K n'est pas pariétal.",
+   "Faux : l'antigène O n'est pas capsulaire.",
+   "Vrai : antigène H flagellaire.",
+   "Vrai : antigène somatique O pariétal.",
+   "Vrai : antigène K capsulaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le pouvoir pathogène lié aux structures, lesquelles sont exactes ?",
+  "options": [
+   "Les protéines pariétales peuvent jouer un rôle dans le pouvoir pathogène",
+   "La capsule est un facteur de virulence antiphagocytaire",
+   "Les plasmides peuvent porter des facteurs de pouvoir pathogène",
+   "Les fimbriae sont des facteurs de virulence par l'adhésion",
+   "Les ribosomes sont des facteurs de virulence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : protéines pariétales et pouvoir pathogène.",
+   "Vrai : capsule antiphagocytaire.",
+   "Vrai : plasmides de virulence.",
+   "Vrai : fimbriae d'adhésion.",
+   "Faux : les ribosomes ne sont pas des facteurs de virulence."
+  ]
+ },
+ {
+  "q": "Concernant les cibles antibiotiques liées à la structure, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La membrane cytoplasmique est un site d'action d'antibiotiques",
+   "La synthèse du peptidoglycane est ciblée par les bêtalactamines",
+   "La capsule est la cible principale des antibiotiques",
+   "Les ribosomes 70S sont des cibles d'antibiotiques",
+   "L'appareil nucléaire est un site d'action d'antibiotiques"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : membrane cytoplasmique.",
+   "Vrai : bêtalactamines et peptidoglycane.",
+   "Faux : la capsule n'est pas une cible antibiotique.",
+   "Vrai : ribosomes 70S.",
+   "Vrai : appareil nucléaire."
+  ]
+ },
+ {
+  "q": "À propos de la paroi et du complément, quelles propositions sont vraies ?",
+  "options": [
+   "L'activation du complément a un effet chimiotactique",
+   "La paroi active le complément",
+   "L'activation du complément a un effet opsonisant",
+   "La couche S participe à la résistance au complément",
+   "Le complément est activé par les ribosomes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : effet chimiotactique.",
+   "Vrai : la paroi active le complément.",
+   "Vrai : effet opsonisant.",
+   "Vrai : la couche S résiste au complément.",
+   "Faux : les ribosomes n'activent pas le complément."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la mobilité des bacilles, lesquelles sont exactes ?",
+  "options": [
+   "Tous les bacilles sont mobiles",
+   "Elle est liée à la présence de flagelles",
+   "Elle est liée à la présence de fimbriae",
+   "Elle est appréciée à l'état frais",
+   "D'une manière générale, la mobilité s'observe chez les bacilles"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la mobilité n'est pas universelle chez les bacilles.",
+   "Vrai : flagelles = mobilité.",
+   "Faux : les fimbriae ne donnent pas la mobilité.",
+   "Vrai : état frais.",
+   "Vrai : mobilité généralement chez les bacilles."
+  ]
+ },
+ {
+  "q": "Concernant les spores et la désinfection, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les endospores résistent à la chaleur",
+   "Les formes végétatives sporulantes sont aussi résistantes que les spores",
+   "Tous les désinfectants détruisent les endospores",
+   "La sporulation est une réponse aux conditions défavorables",
+   "Les endospores résistent aux désinfectants chimiques"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : résistance à la chaleur.",
+   "Faux : la forme végétative est bien moins résistante que la spore.",
+   "Faux : les spores résistent à la plupart des désinfectants usuels.",
+   "Vrai : sporulation en conditions défavorables.",
+   "Vrai : résistance aux désinfectants chimiques."
+  ]
+ },
+ {
+  "q": "À propos de Bacillus et Clostridium, quelles propositions sont vraies ?",
+  "options": [
+   "Ce sont des coques à Gram négatif",
+   "Ce sont des bactéries à Gram positif",
+   "Leurs spores résistent à la dessiccation",
+   "Elles possèdent une capsule obligatoire",
+   "Elles sont capables de former des endospores"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : ce sont des bacilles Gram+, pas des coques Gram-.",
+   "Vrai : Gram+ sporulants.",
+   "Vrai : résistance à la dessiccation.",
+   "Faux : la capsule est facultative, non obligatoire.",
+   "Vrai : formation d'endospores."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la transmission verticale des plasmides, lesquelles sont exactes ?",
+  "options": [
+   "Les plasmides sont perdus à chaque division",
+   "Les plasmides sont transmis de façon stable à la descendance",
+   "Ils sont doués de réplication autonome",
+   "Ils sont transmis uniquement par conjugaison",
+   "La transmission verticale accompagne la scissiparité"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : ils sont transmis stablement, pas perdus.",
+   "Vrai : transmission stable à la descendance.",
+   "Vrai : réplication autonome (réplicon).",
+   "Faux : la conjugaison est un mode horizontal, pas le seul mode.",
+   "Vrai : la descendance issue de la scissiparité reçoit les plasmides."
+  ]
+ },
+ {
+  "q": "Concernant la taille des plasmides, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle varie de 1 à 400 kb",
+   "Ils sont visibles au microscope optique",
+   "Ils sont de taille identique au chromosome",
+   "Le kb signifie kilobase",
+   "Ils sont plus petits que le chromosome bactérien"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : 1 à 400 kb.",
+   "Faux : les plasmides ne sont pas visibles en microscopie optique.",
+   "Faux : le chromosome est bien plus grand.",
+   "Vrai : kb = kilobase.",
+   "Vrai : bien plus petits que le chromosome."
+  ]
+ },
+ {
+  "q": "À propos de la réplication autonome des plasmides, quelles propositions sont vraies ?",
+  "options": [
+   "Ils utilisent la machinerie de la cellule hôte",
+   "Ils ne se transmettent pas à la descendance",
+   "Ils se répliquent indépendamment du chromosome",
+   "Ils dépendent totalement du chromosome pour se répliquer",
+   "Ils constituent des réplicons"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : ils utilisent les enzymes de la cellule hôte.",
+   "Faux : transmission stable à la descendance.",
+   "Vrai : réplication autonome.",
+   "Faux : la réplication est autonome.",
+   "Vrai : réplicons."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les ribosomes et la traduction, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont libres dans le cytoplasme ou attachés à la membrane plasmique",
+   "Ils sont composés de 66 % d'ARN ribosomal",
+   "Ils répliquent l'ADN chromosomique",
+   "Les ribosomes sont le lieu de la traduction du code génétique en protéines",
+   "Ils synthétisent les lipopolysaccharides"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : libres ou membranaires.",
+   "Vrai : 66 % d'ARNr.",
+   "Faux : pas de réplication d'ADN par les ribosomes.",
+   "Vrai : lieu de la traduction.",
+   "Faux : les LPS sont membranaires, pas ribosomaux."
+  ]
+ },
+ {
+  "q": "Concernant la vitesse de sédimentation des ribosomes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est mesurée en Svedberg (S)",
+   "Elle est mesurée en nanomètres",
+   "Le ribosome bactérien complet sédimente à 70 S",
+   "La petite sous-unité sédimente à 30 S",
+   "La grande sous-unité sédimente à 50 S"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : unité Svedberg.",
+   "Faux : le nanomètre mesure une taille, pas une sédimentation.",
+   "Vrai : 70 S.",
+   "Vrai : 30 S.",
+   "Vrai : 50 S."
+  ]
+ },
+ {
+  "q": "À propos des sous-unités ribosomales, quelles propositions sont vraies ?",
+  "options": [
+   "Le ribosome 70S comprend une sous-unité 30S et une sous-unité 50S",
+   "La sous-unité 30S est la plus grande",
+   "Les antibiotiques peuvent cibler spécifiquement l'une des sous-unités",
+   "Le ribosome bactérien ne comporte qu'une seule sous-unité",
+   "Les deux sous-unités contiennent de l'ARN ribosomal et des protéines"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : 30S + 50S = 70S.",
+   "Faux : la 50S est la grande sous-unité.",
+   "Vrai : ciblage sélectif des sous-unités par les antibiotiques.",
+   "Faux : deux sous-unités.",
+   "Vrai : ARNr + protéines dans les deux."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le Gram positif, lesquelles sont exactes ?",
+  "options": [
+   "Présence de lipopolysaccharides",
+   "Paroi homogène épaisse de 10 à 80 nm",
+   "Peptidoglycane associé aux acides teichoïques",
+   "Absence de membrane externe",
+   "Pauvre en lipides (1 à 2 %)"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : pas de LPS chez les Gram+.",
+   "Vrai : paroi homogène 10-80 nm.",
+   "Vrai : peptidoglycane + acides teichoïques.",
+   "Vrai : pas de membrane externe.",
+   "Vrai : 1 à 2 % de lipides."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le Gram négatif, lesquelles sont exactes ?",
+  "options": [
+   "Espace périplasmique entre les deux membranes",
+   "Porines traversant la membrane externe",
+   "Paroi complexe d'environ 10 nm",
+   "Membrane externe avec lipopolysaccharides",
+   "Acides teichoïques pariétaux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : espace périplasmique.",
+   "Vrai : porines.",
+   "Vrai : paroi complexe ~10 nm.",
+   "Vrai : membrane externe à LPS.",
+   "Faux : pas d'acides teichoïques chez les Gram-."
+  ]
+ },
+ {
+  "q": "Concernant la différence de coloration au Gram, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est due à la présence de flagelles",
+   "Elle est due à la différence de structure pariétale",
+   "Elle est due à la différence de taille des bactéries",
+   "Les Gram+ apparaissent violets",
+   "Les Gram- apparaissent roses après contre-coloration"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les flagelles n'interviennent pas.",
+   "Vrai : la paroi est à l'origine du Gram.",
+   "Faux : la taille ne détermine pas le Gram.",
+   "Vrai : Gram+ violets.",
+   "Vrai : Gram- roses/rouges."
+  ]
+ },
+ {
+  "q": "À propos des bactéries à Gram positif à paroi atypique, quelles propositions sont vraies ?",
+  "options": [
+   "Les mycobactéries ont une paroi très riche en acides gras complexes",
+   "Les mycobactéries sont acido-alcoolo-résistantes",
+   "Toutes les Gram+ ont une paroi pauvre en lipides sans exception",
+   "Les acides mycoliques représentent une part majeure de leur paroi",
+   "Les mycoplasmes n'ont pas de paroi"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : paroi riche en acides gras complexes.",
+   "Vrai : acido-alcoolo-résistance.",
+   "Faux : les mycobactéries sont l'exception lipidique.",
+   "Vrai : acides mycoliques +++.",
+   "Vrai : mycoplasmes sans paroi."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la paroi et les antibiotiques, lesquelles sont exactes ?",
+  "options": [
+   "Les autolysines sont des antibiotiques",
+   "Les bêtalactamines inhibent la synthèse du peptidoglycane",
+   "La paroi est un site d'action d'antibiotiques",
+   "Le lysozyme est un antibiotique bêtalactamine",
+   "Les PLP sont la cible des bêtalactamines"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : les autolysines sont des enzymes endogènes.",
+   "Vrai : bêtalactamines et synthèse du PG.",
+   "Vrai : la paroi est un site d'action.",
+   "Faux : le lysozyme est une enzyme.",
+   "Vrai : PLP = cibles."
+  ]
+ },
+ {
+  "q": "Concernant la capsule soluble, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La forme soluble est identique au glycocalyx",
+   "Elle perd son caractère antigénique à l'état soluble",
+   "Elle est constituée de polysaccharides acides",
+   "Elle est bien délimitée autour de la bactérie dans sa forme vraie",
+   "La capsule peut se trouver à l'état soluble dans les liquides de l'organisme"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le glycocalyx est diffus et non délimité.",
+   "Faux : elle reste antigénique.",
+   "Vrai : polysaccharides acides.",
+   "Vrai : capsule vraie bien délimitée.",
+   "Vrai : capsule soluble dans les liquides biologiques."
+  ]
+ },
+ {
+  "q": "À propos des masses gluantes bactériennes, quelles propositions sont vraies ?",
+  "options": [
+   "Elles correspondent au glycocalyx des bactéries aquatiques",
+   "Elles correspondent à des endospores",
+   "Elles sont constituées de polysaccharides",
+   "Elles sont bien délimitées comme une capsule vraie",
+   "Des matières en suspension y adhèrent"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : masses gluantes = glycocalyx aquatique.",
+   "Faux : ce ne sont pas des endospores.",
+   "Vrai : constituants polysaccharidiques.",
+   "Faux : pas d'entité morphologique délimitée.",
+   "Vrai : matières en suspension adhérentes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les pili, lesquelles sont exactes ?",
+  "options": [
+   "Les pili sexuels sont plus longs et peu nombreux (1 à 4)",
+   "Les pili communs assurent l'adhésion",
+   "Les pili sexuels assurent la conjugaison",
+   "Les pili communs sont courts, cassants et nombreux",
+   "Tous les pili assurent la mobilité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pili sexuels 1 à 4, plus longs.",
+   "Vrai : adhésion.",
+   "Vrai : conjugaison.",
+   "Vrai : pili communs courts et nombreux.",
+   "Faux : aucun pilus n'assure la mobilité."
+  ]
+ },
+ {
+  "q": "Concernant la visibilité des appendices bactériens, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les pili sont visibles à l'œil nu",
+   "Les fimbriae sont visibles en microscopie électronique",
+   "Les flagelles sont visibles en microscopie électronique",
+   "Les endospores sont visibles en microscopie optique après coloration adaptée",
+   "La capsule est mise en évidence par des techniques spécifiques"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les pili sont nanométriques, invisibles à l'œil nu.",
+   "Vrai : fimbriae en microscopie électronique.",
+   "Vrai : flagelles en microscopie électronique.",
+   "Vrai : spores visibles en microscopie optique.",
+   "Vrai : la capsule nécessite des colorations spécifiques."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'enveloppe bactérienne ?",
+  "options": [
+   "Elle comprend la capsule chez toutes les bactéries",
+   "Elle comprend la paroi et la membrane plasmique",
+   "Elle est visualisée en microscopie électronique",
+   "La paroi en est la structure la plus externe",
+   "Elle comprend le chromosome"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la capsule est facultative.",
+   "Vrai : enveloppe = paroi + membrane plasmique.",
+   "Vrai : région architecturale en microscopie électronique.",
+   "Vrai : la paroi est la plus externe.",
+   "Faux : le chromosome est cytoplasmique."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes relatives au peptidoglycane, lesquelles sont exactes ?",
+  "options": [
+   "Il est absent des mycoplasmes",
+   "Il contient des lipopolysaccharides",
+   "Son épaisseur diffère entre Gram+ et Gram-",
+   "C'est un hétéropolymère",
+   "Il est commun aux Gram+ et aux Gram-"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les mycoplasmes n'ont pas de paroi.",
+   "Faux : les LPS sont distincts du peptidoglycane.",
+   "Vrai : épais chez Gram+, mince chez Gram-.",
+   "Vrai : hétéropolymère glucido-peptidique.",
+   "Vrai : présent dans les deux groupes."
+  ]
+ },
+ {
+  "q": "À propos des chaînes latérales du peptidoglycane, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elles sont reliées à l'acide N-acétylmuramique",
+   "Elles comportent des acides aminés de série D",
+   "Elles portent des ponts interpeptidiques",
+   "Elles sont de nature glucidique",
+   "Elles sont formées d'au minimum quatre acides aminés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les chaînons peptidiques sont portés par le NAM.",
+   "Vrai : D-glycine, D-alanine citées.",
+   "Vrai : ponts interpeptidiques entre chaînons.",
+   "Faux : elles sont peptidiques, pas glucidiques.",
+   "Vrai : au minimum quatre acides aminés."
+  ]
+ },
+ {
+  "q": "Concernant la synthèse intracytoplasmique du précurseur du peptidoglycane, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle fait intervenir une racémase et une synthétase",
+   "Elle fait intervenir une phosphoénolpyruvate transférase",
+   "Le précurseur se termine par D-alanyl-D-alanine",
+   "Elle se déroule dans l'espace périplasmique",
+   "Elle produit l'UDP-acétylmuramyl-pentapeptide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : racémase et synthétase citées.",
+   "Vrai : phosphoénolpyruvate transférase citée.",
+   "Vrai : terminé par D-alanyl-D-alanine.",
+   "Faux : elle est intracytoplasmique.",
+   "Vrai : UDP-acétylmuramyl-pentapeptide."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies à propos de l'étape membranaire de la synthèse du peptidoglycane ?",
+  "options": [
+   "Elle produit le peptidoglycane mature",
+   "Elle forme un polymère d'acétylglucosamine",
+   "Elle précède l'étape pariétale",
+   "Elle fait intervenir l'UDP-acétylmuramyl-dipeptide",
+   "Elle est le siège de l'action des bêtalactamines"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le peptidoglycane mature est assemblé au niveau pariétal.",
+   "Vrai : polymère d'acétylglucosamine.",
+   "Vrai : intracytoplasmique → membranaire → pariétale.",
+   "Vrai : UDP-acétylmuramyl-dipeptide cité.",
+   "Faux : les bêtalactamines agissent au niveau pariétal sur les PLP."
+  ]
+ },
+ {
+  "q": "Parmi les rôles de la paroi dans la défense non spécifique, lesquels sont exacts ?",
+  "options": [
+   "Activation du complément",
+   "Effet opsonisant du complément",
+   "Phagocytose directe par la paroi",
+   "Effet chimiotactique du complément",
+   "Production d'anticorps spécifiques"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : la paroi active le complément.",
+   "Vrai : effet opsonisant.",
+   "Faux : la paroi ne phagocyte pas.",
+   "Vrai : effet chimiotactique.",
+   "Faux : les anticorps relèvent de l'immunité spécifique."
+  ]
+ },
+ {
+  "q": "À propos de l'antigène somatique O, quelles affirmations sont exactes ?",
+  "options": [
+   "Il est lié à la paroi bactérienne",
+   "Il est porté par la capsule",
+   "Il participe à la spécificité antigénique",
+   "Il est identique à l'antigène H",
+   "Il est de nature lipopolysaccharidique chez les Gram-"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : antigène somatique O pariétal.",
+   "Faux : l'antigène capsulaire est l'antigène K.",
+   "Vrai : spécificité antigénique.",
+   "Faux : l'antigène H est flagellaire.",
+   "Vrai : l'antigène O est la partie polysaccharidique du LPS."
+  ]
+ },
+ {
+  "q": "Concernant les porines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ce sont des protéines de la membrane externe des Gram-",
+   "Elles sont présentes dans la paroi des Gram+",
+   "Elles synthétisent les lipopolysaccharides",
+   "Elles participent à la perméabilité sélective de la paroi Gram-",
+   "Elles forment des canaux pour les petites molécules hydrophiles"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : protéines de la membrane externe.",
+   "Faux : pas de membrane externe ni de porines chez les Gram+.",
+   "Faux : elles ne synthétisent pas les LPS.",
+   "Vrai : perméabilité sélective.",
+   "Vrai : canaux pour substances de faible poids moléculaire."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'espace périplasmique ?",
+  "options": [
+   "Il contient les ribosomes",
+   "Il est traversé par les pili sexuels",
+   "Il n'existe que chez les Gram-",
+   "Il est compris entre la membrane cytoplasmique et la membrane externe",
+   "Il contient le peptidoglycane fin des Gram-"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les ribosomes sont cytoplasmiques.",
+   "Faux : les pili traversent les enveloppes mais ne sont pas contenus dans le périplasme.",
+   "Vrai : spécifique des Gram-.",
+   "Vrai : définition.",
+   "Vrai : peptidoglycane mince périplasmique."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes sur la membrane externe, lesquelles sont exactes ?",
+  "options": [
+   "Elle est ancrée au peptidoglycane par des lipoprotéines et OmpA",
+   "Elle est la cible du lysozyme",
+   "Elle est traversée par des porines",
+   "Elle est présente chez les Gram+",
+   "Elle contient des protéines, des lipides et des lipopolysaccharides"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : ancrage lipoprotéines/OmpA.",
+   "Faux : le lysozyme cible le peptidoglycane.",
+   "Vrai : porines.",
+   "Faux : absente des Gram+.",
+   "Vrai : composition de la membrane externe."
+  ]
+ },
+ {
+  "q": "À propos du LPS comme endotoxine, quelles propositions sont vraies ?",
+  "options": [
+   "Il active le complément",
+   "Le LPS est un composant de la paroi des Gram-",
+   "Il est absent des Gram+",
+   "C'est une exotoxine sécrétée",
+   "Il est libéré lors de la lyse bactérienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : activation du complément.",
+   "Vrai : LPS pariétal des Gram-.",
+   "Vrai : absent des Gram+.",
+   "Faux : l'endotoxine n'est pas sécrétée comme une exotoxine.",
+   "Vrai : endotoxine libérée à la lyse."
+  ]
+ },
+ {
+  "q": "Concernant les acides lipoteichoïques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont un composant de la membrane externe",
+   "Ils sont absents des Gram-",
+   "Ils traversent le peptidoglycane et s'ancrent dans la membrane cytoplasmique",
+   "Ils portent l'antigène O",
+   "Ils sont présents chez les bactéries à Gram positif"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : pas de membrane externe chez les Gram+.",
+   "Vrai : absents des Gram-.",
+   "Vrai : ancrage membranaire à travers la paroi.",
+   "Faux : l'antigène O est lié au LPS des Gram-.",
+   "Vrai : Gram+."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant la paroi des mycobactéries ?",
+  "options": [
+   "Acido-alcoolo-résistance",
+   "Paroi pauvre en lipides",
+   "Paroi de type Gram+ modifiée",
+   "Présence d'acides mycoliques",
+   "Très riche en acides gras complexes (environ 40 %)"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : acido-alcoolo-résistance.",
+   "Faux : paroi très riche en lipides.",
+   "Vrai : Gram+ à paroi particulière.",
+   "Vrai : acides mycoliques +++.",
+   "Vrai : ~40 % d'acides gras complexes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles expliquent la mauvaise coloration des mycobactéries au Gram ?",
+  "options": [
+   "Leur paroi est très riche en lipides",
+   "Elles sont dépourvues de peptidoglycane",
+   "Les acides mycoliques gênent la pénétration des colorants",
+   "Elles ne possèdent pas de paroi",
+   "Elles sont des BAAR"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : paroi très lipidique.",
+   "Faux : elles possèdent du peptidoglycane.",
+   "Vrai : les acides mycoliques limitent la pénétration.",
+   "Faux : elles ont une paroi épaisse.",
+   "Vrai : BAAR = bacilles acido-alcoolo-résistants."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes opposant mycoplasmes et autres bactéries, lesquelles sont exactes ?",
+  "options": [
+   "Les mycoplasmes sont l'exception au caractère constant de la paroi",
+   "Les mycobactéries ont une paroi très lipidique alors que les mycoplasmes n'ont pas de paroi",
+   "Les mycoplasmes et les mycobactéries forment des endospores",
+   "Les mycoplasmes possèdent une membrane externe à LPS",
+   "Ni les mycoplasmes ni les mycobactéries ne se colorent bien au Gram"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : la paroi est constante à l'exception des mycoplasmes.",
+   "Vrai : mycobactéries = paroi très riche en lipides ; mycoplasmes = sans paroi.",
+   "Faux : aucun des deux ne forme d'endospore.",
+   "Faux : pas de membrane externe à LPS chez les mycoplasmes.",
+   "Vrai : absence de paroi (mycoplasmes) et paroi lipidique (mycobactéries) = mauvaise prise du Gram."
+  ]
+ },
+ {
+  "q": "Concernant la capsule et la phagocytose, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Toutes les bactéries capsulées sont non pathogènes",
+   "La capsule protège de la phagocytose",
+   "C'est un facteur de virulence",
+   "Les anticorps anti-capsulaires sont opsonisants",
+   "La capsule favorise la phagocytose"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la capsule est au contraire un facteur de virulence.",
+   "Vrai : protection antiphagocytaire.",
+   "Vrai : facteur de virulence.",
+   "Vrai : les anticorps anti-K favorisent l'opsonisation.",
+   "Faux : elle s'oppose à la phagocytose."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes à propos du slime ?",
+  "options": [
+   "Il est constitué de peptidoglycane",
+   "C'est une capsule vraie bien délimitée",
+   "Il permet l'adhésion aux surfaces inertes",
+   "Il correspond au glycocalyx",
+   "C'est une capsule diffuse"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : constituants polysaccharidiques, pas peptidoglycane.",
+   "Faux : la capsule vraie est bien délimitée, pas le slime.",
+   "Vrai : adhésion aux surfaces inertes.",
+   "Vrai : glycocalyx.",
+   "Vrai : capsule diffuse = slime."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes sur la couche S, lesquelles sont exactes ?",
+  "options": [
+   "Rôle de squelette",
+   "Synthèse des flagelles",
+   "Résistance au complément et aux protéases des macrophages",
+   "Couche de surface cristalline",
+   "Localisation différente selon Gram+ ou Gram-"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : rôle de squelette.",
+   "Faux : pas de rôle dans la synthèse des flagelles.",
+   "Vrai : résistance au complément et protéases.",
+   "Vrai : couche cristalline.",
+   "Vrai : périphérie du PG (Gram+) ou membrane externe (Gram-)."
+  ]
+ },
+ {
+  "q": "À propos des flagelles et de la taxonomie, quelles propositions sont vraies ?",
+  "options": [
+   "Le type de mobilité est un critère phénotypique",
+   "La présence de flagelles est un critère phénotypique de classification",
+   "La flagelline est séquencée pour la classification génotypique",
+   "Les flagelles sont un critère génotypique",
+   "La disposition des flagelles (ciliature) est un caractère descriptif"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : mobilité = critère phénotypique.",
+   "Vrai : flagelles = critère phénotypique.",
+   "Faux : la classification génotypique repose sur l'ADN/ARNr, pas la flagelline.",
+   "Faux : les flagelles sont un critère phénotypique.",
+   "Vrai : ciliature décrite (mono-, lopho-, amph-, péritriche)."
+  ]
+ },
+ {
+  "q": "Concernant l'antigène H, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est l'antigène des flagelles",
+   "Il est utilisé en sérotypage",
+   "C'est l'antigène capsulaire",
+   "Il est porté par la flagelline",
+   "C'est l'antigène somatique O"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : antigène flagellaire = H.",
+   "Vrai : les antigènes H servent au sérotypage.",
+   "Faux : l'antigène capsulaire est K.",
+   "Vrai : flagelline.",
+   "Faux : l'antigène somatique est O."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant les fimbriae et le pouvoir pathogène ?",
+  "options": [
+   "Ils permettent l'adhésion bactérie-bactérie",
+   "Ils ont des propriétés hémagglutinantes",
+   "Ce sont des facteurs de virulence",
+   "Ils sécrètent des toxines",
+   "Ils permettent l'adhésion aux muqueuses"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : adhésion bactérie-bactérie.",
+   "Vrai : hémagglutination.",
+   "Vrai : facteurs de virulence.",
+   "Faux : les fimbriae sont des adhésines, pas des toxines.",
+   "Vrai : adhésion aux muqueuses."
+  ]
+ },
+ {
+  "q": "Parmi les différences entre fimbriae et flagelles, lesquelles sont exactes ?",
+  "options": [
+   "Les deux portent l'antigène H",
+   "Les fimbriae ne participent pas à la mobilité, les flagelles si",
+   "Les fimbriae sont plus nombreux que les flagelles",
+   "Les deux sont constitués de flagelline",
+   "Les fimbriae sont plus courts que les flagelles"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : l'antigène H est flagellaire uniquement.",
+   "Vrai : mobilité = flagelles uniquement.",
+   "Vrai : fimbriae nombreux.",
+   "Faux : seule la flagelle est en flagelline.",
+   "Vrai : fimbriae courts et cassants."
+  ]
+ },
+ {
+  "q": "À propos des pili sexuels et du transfert génétique, quelles affirmations sont exactes ?",
+  "options": [
+   "Les plasmides peuvent transiter par cette voie",
+   "Ils relient deux bactéries",
+   "Ils sont courts et cassants",
+   "Ils sont au nombre de 1 à 4 par bactérie",
+   "Ils permettent la conjugaison"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : transfert horizontal des plasmides.",
+   "Vrai : relient deux bactéries.",
+   "Faux : courts et cassants décrit les fimbriae, pas les pili sexuels.",
+   "Vrai : 1 à 4 pili sexuels.",
+   "Vrai : voies de la conjugaison."
+  ]
+ },
+ {
+  "q": "Concernant la forme des endospores, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Toujours terminales",
+   "De 0,2 à 2 µm de diamètre",
+   "Rondes ou ovales",
+   "Formées au sein du cytoplasme",
+   "Plus grandes que la bactérie végétative"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la position (terminale, subterminale, centrale) varie selon les espèces.",
+   "Vrai : 0,2 à 2 µm.",
+   "Vrai : rondes ou ovales.",
+   "Vrai : formation intracytoplasmique.",
+   "Faux : la spore se forme à l'intérieur de la bactérie, elle est plus petite."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes sur les conditions déclenchant la sporulation ?",
+  "options": [
+   "La sporulation est une différenciation cellulaire",
+   "La présence d'antibiotiques uniquement",
+   "Des conditions de vie défavorables",
+   "La carence nutritive",
+   "Des conditions optimales de croissance"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : phénomène de différenciation.",
+   "Faux : pas uniquement les antibiotiques.",
+   "Vrai : conditions défavorables.",
+   "Vrai : la carence nutritive déclenche la sporulation.",
+   "Faux : les conditions optimales favorisent la forme végétative."
+  ]
+ },
+ {
+  "q": "Parmi les agents auxquels résiste l'endospore, lesquels sont exacts ?",
+  "options": [
+   "Les rayons ultraviolets",
+   "Les désinfectants chimiques",
+   "La dessiccation",
+   "La chaleur",
+   "Le froid extrême n'est pas supporté"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : UV.",
+   "Vrai : désinfectants chimiques.",
+   "Vrai : dessiccation.",
+   "Vrai : chaleur.",
+   "Faux : la spore résiste aussi au froid ; l'énoncé est faux."
+  ]
+ },
+ {
+  "q": "À propos des genres sporulés, quelles propositions sont vraies ?",
+  "options": [
+   "Staphylococcus forme des endospores",
+   "Les genres sporulés sont tous des Gram négatif",
+   "Bacillus forme des endospores",
+   "Ce sont des Gram positif",
+   "Clostridium forme des endospores"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : Staphylococcus non sporulant.",
+   "Faux : les sporulés cités sont des Gram+.",
+   "Vrai : Bacillus sporulant.",
+   "Vrai : Gram+.",
+   "Vrai : Clostridium sporulant."
+  ]
+ },
+ {
+  "q": "Concernant le plasmide comme réplicon, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il se réplique de façon autonome",
+   "Il est toujours intégré au chromosome",
+   "Il est transmis stablement à la descendance",
+   "Il peut être transmis horizontalement",
+   "Il est indispensable à la réplication du chromosome"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réplication autonome.",
+   "Faux : extra-chromosomique.",
+   "Vrai : transmission stable.",
+   "Vrai : transmission horizontale possible.",
+   "Faux : le chromosome se réplique indépendamment."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies à propos de l'ADN plasmidique ?",
+  "options": [
+   "De taille 1 à 400 kb",
+   "Toujours linéaire",
+   "Généralement circulaire",
+   "Extra-chromosomique",
+   "ADN bicaténaire"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : 1 à 400 kb.",
+   "Faux : généralement circulaire, pas linéaire.",
+   "Vrai : généralement circulaire.",
+   "Vrai : extra-chromosomique.",
+   "Vrai : bicaténaire."
+  ]
+ },
+ {
+  "q": "Parmi les apports possibles des plasmides à la bactérie, lesquels sont exacts ?",
+  "options": [
+   "Résistance aux antibiotiques",
+   "Ribosomes supplémentaires",
+   "Paroi supplémentaire",
+   "Propriétés métaboliques nouvelles",
+   "Facteurs de pouvoir pathogène"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : résistance aux antibiotiques.",
+   "Faux : les ribosomes sont chromosomiques.",
+   "Faux : pas de paroi supplémentaire.",
+   "Vrai : propriétés métaboliques.",
+   "Vrai : pouvoir pathogène."
+  ]
+ },
+ {
+  "q": "À propos de la traduction chez les bactéries, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle a lieu sur les ribosomes 70S",
+   "Elle produit des protéines à partir de l'ARN messager",
+   "Elle a lieu dans le noyau",
+   "Les ribosomes sont libres ou attachés à la membrane plasmique",
+   "Elle est réalisée par les plasmides"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : ribosomes 70S.",
+   "Vrai : synthèse protéique.",
+   "Faux : pas de noyau.",
+   "Vrai : libres ou membranaires.",
+   "Faux : les plasmides portent de l'ADN, ils ne traduisent pas."
+  ]
+ },
+ {
+  "q": "Concernant les antibiotiques agissant sur les ribosomes, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La différence 70S/80S fonde la sélectivité",
+   "Les sous-unités 30S et 50S peuvent être ciblées séparément",
+   "Les bêtalactamines ciblent les ribosomes",
+   "Les ribosomes 70S sont des cibles d'antibiotiques",
+   "Tous les antibiotiques ciblent les ribosomes"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : sélectivité 70S vs 80S.",
+   "Vrai : ciblage des sous-unités.",
+   "Faux : les bêtalactamines ciblent la paroi.",
+   "Vrai : cibles d'antibiotiques.",
+   "Faux : de nombreuses autres cibles existent."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes sur la composition du ribosome ?",
+  "options": [
+   "Deux sous-unités : 30S et 50S",
+   "Présence d'ADN ribosomal",
+   "Membrane ribosomale",
+   "66 % d'ARN ribosomal et 33 % de protéines",
+   "Diamètre de 20 à 30 nm"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : 30S + 50S.",
+   "Faux : ARN, pas ADN.",
+   "Faux : pas de membrane.",
+   "Vrai : 66 % ARNr, 33 % protéines.",
+   "Vrai : 20-30 nm."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes sur la coloration de Gram, lesquelles sont exactes ?",
+  "options": [
+   "Les Gram- sont contre-colorés en rose",
+   "Elle nécessite un microscope électronique",
+   "Elle distingue deux groupes selon la paroi",
+   "Les Gram+ restent violets",
+   "Elle identifie les mycoplasmes"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Gram- roses.",
+   "Faux : microscope optique.",
+   "Vrai : deux groupes pariétaux.",
+   "Vrai : Gram+ violets.",
+   "Faux : les mycoplasmes ne prennent pas le Gram."
+  ]
+ },
+ {
+  "q": "À propos de la décoloration dans le Gram, quelles propositions sont vraies ?",
+  "options": [
+   "La paroi fine et lipidique des Gram- laisse extraire le colorant",
+   "La paroi épaisse des Gram+ bloque l'extraction du colorant",
+   "La décoloration n'a aucun fondement structural",
+   "Les Gram+ sont décolorés comme les Gram-",
+   "Le blocage de l'extraction est un rôle de la paroi cité dans le cours"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : extraction facilitée chez les Gram-.",
+   "Vrai : blocage par le peptidoglycane épais.",
+   "Faux : fondement structural = la paroi.",
+   "Faux : les Gram+ retiennent le colorant.",
+   "Vrai : rôle de la paroi cité."
+  ]
+ },
+ {
+  "q": "Concernant les colorations spéciales en bactériologie, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Gram : distinction selon la paroi",
+   "Imprégnation argentique : technique citée",
+   "Ziehl-Neelsen : BAAR",
+   "Coloration de Gram : mise en évidence des spores",
+   "Bleu de méthylène : coloration simple"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : Gram selon la paroi.",
+   "Vrai : imprégnation argentique citée.",
+   "Vrai : Ziehl-Neelsen pour les BAAR.",
+   "Faux : les spores nécessitent des colorations spécifiques.",
+   "Vrai : bleu de méthylène."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant l'observation à l'état frais ?",
+  "options": [
+   "Sans coloration",
+   "Forme des bactéries",
+   "Ultrastructure",
+   "Mobilité des bactéries",
+   "Affinités tinctoriales"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : sans coloration.",
+   "Vrai : forme.",
+   "Faux : relève de la microscopie électronique.",
+   "Vrai : mobilité.",
+   "Faux : nécessite une coloration."
+  ]
+ },
+ {
+  "q": "Parmi les apports de la microscopie électronique, lesquels sont exacts ?",
+  "options": [
+   "Cytoplasme : génome, ribosomes, inclusions",
+   "Bactéries vivantes mobiles",
+   "Trois régions architecturales",
+   "Enveloppe : paroi et membrane plasmique",
+   "Structures externes : capsule, flagelles, fimbriae"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : contenu cytoplasmique.",
+   "Faux : préparations fixées.",
+   "Vrai : trois régions.",
+   "Vrai : enveloppe.",
+   "Vrai : structures externes."
+  ]
+ },
+ {
+  "q": "À propos du fractionnement, quelles affirmations sont exactes ?",
+  "options": [
+   "Étude séparée des constituants",
+   "Remplace la coloration de Gram",
+   "Complète la microscopie",
+   "Fractionnement des bactéries puis séparation physicochimique",
+   "S'applique aux bactéries vivantes"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : séparation des fractions.",
+   "Faux : ne remplace pas le Gram.",
+   "Vrai : complémentaire de la microscopie.",
+   "Vrai : méthode citée dans le cours.",
+   "Faux : les bactéries sont lysées."
+  ]
+ },
+ {
+  "q": "Concernant la définition du procaryote, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Génome haploïde généralement circulaire",
+   "Présence de mitochondries",
+   "Du latin pro (« avant ») et du grec caryon (« noyau »)",
+   "Division par mitose",
+   "Être vivant unicellulaire sans noyau"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : génome haploïde circulaire.",
+   "Faux : pas de mitochondries.",
+   "Vrai : étymologie du cours.",
+   "Faux : division par scissiparité.",
+   "Vrai : unicellulaire sans noyau."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes sur les domaines du vivant procaryote ?",
+  "options": [
+   "Archaea : eucaryotes primitifs",
+   "Les deux sont des procaryotes",
+   "Archaea : procaryotes primitifs",
+   "Bacteria : sans paroi",
+   "Bacteria : vraies bactéries dont celles infectant l'Homme"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : Archaea = procaryotes.",
+   "Vrai : deux domaines procaryotes.",
+   "Vrai : Archaea primitifs.",
+   "Faux : paroi caractéristique sauf mycoplasmes.",
+   "Vrai : Bacteria/Eubacteria."
+  ]
+ },
+ {
+  "q": "Parmi les caractères du tableau procaryotes/eucaryotes, lesquels sont exacts ?",
+  "options": [
+   "Noyau avec membrane chez les procaryotes",
+   "ADN en nucléoïde ou plasmides chez les procaryotes",
+   "Membranes sans stérols chez les procaryotes",
+   "Chromosome unique chez les procaryotes",
+   "Organites intracellulaires absents chez les procaryotes"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : pas de noyau avec membrane.",
+   "Vrai : nucléoïde ou plasmides.",
+   "Vrai : pas de stérols.",
+   "Vrai : un chromosome.",
+   "Vrai : pas d'organites (mitochondrie, Golgi)."
+  ]
+ },
+ {
+  "q": "À propos de la scissiparité, quelles propositions sont vraies ?",
+  "options": [
+   "C'est une mitose",
+   "Elle transmet le chromosome à la descendance",
+   "Elle transmet les plasmides à la descendance",
+   "Elle nécessite des flagelles",
+   "C'est le mode de division des bactéries"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : pas de mitose chez les procaryotes.",
+   "Vrai : transmission du chromosome.",
+   "Vrai : transmission stable des plasmides.",
+   "Faux : pas de flagelles requis.",
+   "Vrai : division par scissiparité."
+  ]
+ },
+ {
+  "q": "Concernant les critères morphologiques diagnostiques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Taille, forme et groupement sont les trois critères",
+   "La morphologie est le premier acte diagnostique bactériologique",
+   "La taille varie de 0,1 à 600 µm",
+   "La coloration précise la forme après l'état frais",
+   "La morphologie suffit à identifier l'espèce"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : trois critères.",
+   "Vrai : premier acte diagnostique.",
+   "Vrai : 0,1 à 600 µm.",
+   "Vrai : la coloration précise la forme.",
+   "Faux : elle oriente, sans identifier l'espèce à elle seule."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies à propos du cytoplasme ?",
+  "options": [
+   "Contient le chromosome",
+   "Contient ribosomes, enzymes, ions",
+   "Hydrogel colloïdal à deux phases",
+   "Contient des granules de réserve",
+   "Contient des mitochondries"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le chromosome est cytoplasmique (nucléoïde).",
+   "Vrai : ribosomes, enzymes, ions, nutriments.",
+   "Vrai : hydrogel à deux phases.",
+   "Vrai : granules de réserve.",
+   "Faux : pas de mitochondries."
+  ]
+ },
+ {
+  "q": "Parmi les fonctions de la membrane cytoplasmique, lesquelles sont exactes ?",
+  "options": [
+   "Chaîne respiratoire et ATPases",
+   "Barrière osmotique",
+   "Transports actifs spécifiques",
+   "Excrétion vers l'extérieur",
+   "Synthèse des lipopolysaccharides"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : enzymes énergétiques.",
+   "Vrai : barrière osmotique.",
+   "Vrai : transports actifs.",
+   "Vrai : excrétion.",
+   "Faux : les LPS sont assemblés au niveau de la membrane externe."
+  ]
+ },
+ {
+  "q": "À propos de l'absence de stérols membranaires, quelles affirmations sont exactes ?",
+  "options": [
+   "Les membranes eucaryotes contiennent souvent des stérols",
+   "La membrane cytoplasmique bactérienne est dépourvue de cholestérol",
+   "C'est une différence avec les eucaryotes",
+   "L'absence de stérols concerne aussi la membrane externe",
+   "Toutes les membranes bactériennes contiennent du cholestérol"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : stérols souvent présents chez les eucaryotes.",
+   "Vrai : absence de stérols comme le cholestérol.",
+   "Vrai : différence procaryotes/eucaryotes.",
+   "Faux : le cours parle de la membrane cytoplasmique.",
+   "Faux : pas de cholestérol membranaire."
+  ]
+ },
+ {
+  "q": "Concernant la paroi comme structure dynamique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Dégradation continue par les autolysines",
+   "Synthèse continue",
+   "Elle n'est pas figée",
+   "Structure inerte et définitive",
+   "Remodelage lors de la croissance et de la division"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : dégradation par autolysines.",
+   "Vrai : continuellement en synthèse.",
+   "Vrai : pas une structure figée.",
+   "Faux : structure dynamique.",
+   "Vrai : remodelage continu."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes sur les cibles pariétales des antibiotiques ?",
+  "options": [
+   "Les aminosides ciblent la paroi",
+   "La synthèse du peptidoglycane est la cible",
+   "Le lysozyme est une enzyme, pas un antibiotique",
+   "Les quinolones ciblent la paroi",
+   "Les bêtalactamines inhibent les PLP"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : les aminosides ciblent les ribosomes.",
+   "Vrai : synthèse du peptidoglycane.",
+   "Vrai : le lysozyme est une enzyme exogène.",
+   "Faux : les quinolones ciblent l'ADN.",
+   "Vrai : bêtalactamines et PLP."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes sur les rôles de la paroi, lesquelles sont exactes ?",
+  "options": [
+   "Résistance osmotique et physicochimique",
+   "Synthèse des protéines",
+   "Échanges et perméabilité sélective",
+   "Spécificité antigénique (antigène O)",
+   "Morphologie véritable de la bactérie"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : résistance.",
+   "Faux : la synthèse protéique est ribosomale.",
+   "Vrai : échanges.",
+   "Vrai : antigène somatique O.",
+   "Vrai : morphologie."
+  ]
+ },
+ {
+  "q": "À propos de la perméabilité sélective de la paroi, quelles propositions sont vraies ?",
+  "options": [
+   "Pompes d'efflux pour les composés nocifs",
+   "Rôle de membrane semi-perméable",
+   "Perméabilité totale sans contrôle",
+   "Contrôle selon la taille des molécules",
+   "Contrôle selon l'hydrophobicité"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : pompes d'efflux.",
+   "Vrai : semi-perméable.",
+   "Faux : perméabilité contrôlée.",
+   "Vrai : taille.",
+   "Vrai : hydrophobicité."
+  ]
+ },
+ {
+  "q": "Concernant les enzymes agissant sur la paroi, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Autolysines : enzymes endogènes",
+   "Transpeptidases : enzymes de synthèse (PLP)",
+   "Lysozyme : enzyme exogène",
+   "Carboxypeptidase : régulation de la synthèse",
+   "ATPases : synthèse du peptidoglycane"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : autolysines endogènes.",
+   "Vrai : transpeptidases PLP.",
+   "Vrai : lysozyme exogène.",
+   "Vrai : carboxypeptidase régulatrice.",
+   "Faux : les ATPases sont énergétiques."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant la conclusion du cours ?",
+  "options": [
+   "La structure éclaire l'interaction bactérie/antibiotiques",
+   "La structure éclaire la physiologie et la génétique",
+   "La structure n'a aucun intérêt médical",
+   "La structure sert le diagnostic bactériologique",
+   "La structure éclaire l'interaction hôte/bactérie"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : interaction bactérie/antibiotiques.",
+   "Vrai : physiologie, génétique, pouvoir pathogène.",
+   "Faux : intérêt médical central.",
+   "Vrai : diagnostic.",
+   "Vrai : interaction hôte/bactérie."
+  ]
+ },
+ {
+  "q": "Synthèse : parmi les propositions suivantes sur la structure bactérienne, lesquelles sont exactes ?",
+  "options": [
+   "La paroi détermine la coloration de Gram et porte l'antigène somatique O",
+   "La capsule est une structure obligatoire présente chez toutes les bactéries",
+   "Structures obligatoires : cytoplasme, ribosomes, appareil nucléaire, membrane cytoplasmique, paroi (sauf mycoplasmes)",
+   "Structures facultatives : capsule, flagelles, fimbriae, pili sexuels, endospore, plasmides",
+   "Les ribosomes 70S (30S + 50S) sont le lieu de la traduction et des cibles d'antibiotiques"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : Gram et antigène O liés à la paroi.",
+   "Faux : la capsule est facultative.",
+   "Vrai : liste des structures obligatoires du cours.",
+   "Vrai : liste des structures facultatives du cours.",
+   "Vrai : ribosomes 70S, traduction, cibles d'antibiotiques."
+  ]
+ }
+]

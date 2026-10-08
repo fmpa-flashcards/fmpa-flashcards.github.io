@@ -1,0 +1,4571 @@
+[
+ {
+  "q": "Concernant le genre Streptococcus, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont groupés en diplocoques et en chaînettes",
+   "Ils sont catalase négative",
+   "Ce sont des cocci à Gram positif",
+   "Ce sont des bactéries anaérobies aérotolérantes",
+   "Ils sont disposés en amas comme les staphylocoques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : diplocoques et chaînettes caractéristiques.",
+   "Vrai : catalase négative (distinction avec Staphylococcus).",
+   "Vrai : cocci à Gram positif, caractère du genre.",
+   "Vrai : anaérobies aérotolérants.",
+   "Faux : la disposition en amas est celle des staphylocoques."
+  ]
+ },
+ {
+  "q": "À propos du test de la catalase chez les cocci à Gram positif, quelles propositions sont vraies ?",
+  "options": [
+   "Le test recherche la formation de bulles d'oxygène",
+   "Enterococcus est catalase positive",
+   "La catalase permet de différencier Staphylococcus de Streptococcus",
+   "Staphylococcus est catalase positive",
+   "Streptococcus est catalase négative"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'enzyme dégrade H2O2 en eau et oxygène (bulles).",
+   "Faux : Enterococcus, comme les streptocoques, est catalase négative.",
+   "Vrai : c'est le test de différenciation de première intention.",
+   "Vrai : les staphylocoques sont catalase +.",
+   "Vrai : les streptocoques sont catalase -."
+  ]
+ },
+ {
+  "q": "Concernant l'hémolyse des streptocoques sur gélose au sang frais, lesquelles sont exactes ?",
+  "options": [
+   "L'hémolyse bêta est une hémolyse totale avec halo clair autour des colonies",
+   "L'hémolyse alpha est une hémolyse partielle verdâtre",
+   "Le pneumocoque est alpha-hémolytique",
+   "L'hémolyse alpha correspond à une lyse complète des globules rouges",
+   "Les streptocoques viridans oraux sont alpha-hémolytiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : halo clair = lyse totale (bêta).",
+   "Vrai : hémolyse partielle de teinte verdâtre (alpha).",
+   "Vrai : Streptococcus pneumoniae est alpha-hémolytique.",
+   "Faux : la lyse complète correspond à l'hémolyse bêta.",
+   "Vrai : les streptocoques viridans (oraux) sont alpha-hémolytiques."
+  ]
+ },
+ {
+  "q": "À propos des streptocoques non hémolytiques, quelles affirmations sont vraies ?",
+  "options": [
+   "Ils sont tous dépourvus de pouvoir pathogène",
+   "L'ancienne appellation était « streptocoques gamma-hémolytiques »",
+   "Ils se caractérisent par l'absence d'hémolyse sur gélose au sang",
+   "Streptococcus pyogenes appartient à ce groupe",
+   "Les entérocoques poussent sans hémolyse"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : certains (ex. groupe D) sont pathogènes.",
+   "Vrai : anciennement dits gamma-hémolytiques.",
+   "Vrai : absence d'hémolyse sur gélose au sang frais.",
+   "Faux : S. pyogenes est bêta-hémolytique du groupe A.",
+   "Vrai : les entérocoques ne produisent pas d'hémolyse."
+  ]
+ },
+ {
+  "q": "Concernant la classification antigénique de Lancefield, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Cet antigène de groupe est présent chez les streptocoques bêta-hémolytiques",
+   "Les groupes A, B, C, D, F, G sont impliqués en pathologie humaine",
+   "Elle est basée sur la protéine M de la paroi",
+   "Elle est basée sur le polysaccharide C pariétal",
+   "Elle permet de distinguer une vingtaine de groupes notés A, B, C, D, F, G ... V"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : présent chez les bêta-hémolytiques.",
+   "Vrai : les groupes A, B, C, D, F, G sont les plus pathogènes.",
+   "Faux : la protéine M est l'antigène spécifique du groupe A, pas l'antigène de groupe.",
+   "Vrai : antigène de groupe = polysaccharide C pariétal.",
+   "Vrai : environ 20 groupes sérologiques."
+  ]
+ },
+ {
+  "q": "À propos de la protéine M du streptocoque du groupe A, quelles affirmations sont vraies ?",
+  "options": [
+   "Il en existe une soixantaine de types différents",
+   "Elle constitue l'antigène de groupe commun à tous les streptocoques",
+   "C'est le principal antigène de la paroi chez Streptococcus pyogenes",
+   "Elle est immunogène",
+   "Elle favorise l'adhérence et le pouvoir invasif"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : 60 types différents décrits.",
+   "Faux : l'antigène de groupe est le polysaccharide C de Lancefield.",
+   "Vrai : principal antigène pariétal du groupe A.",
+   "Vrai : elle induit une réponse anticorps.",
+   "Vrai : adhérence aux cellules et pouvoir invasif."
+  ]
+ },
+ {
+  "q": "Concernant les exigences culturales des streptocoques, lesquelles sont exactes ?",
+  "options": [
+   "L'entérocoque fait exception car c'est un genre à part",
+   "La culture se fait à 37 °C sous 5 % de CO2",
+   "Des facteurs de croissance peuvent être nécessaires",
+   "Ils poussent facilement sur gélose nutritive ordinaire non enrichie",
+   "Ils exigent des milieux enrichis en sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : Enterococcus est un genre distinct moins exigeant.",
+   "Vrai : incubation à 37 °C en atmosphère enrichie en CO2.",
+   "Vrai : ± facteurs de croissance selon les espèces.",
+   "Faux : les streptocoques poussent mal sur milieux ordinaires non enrichis.",
+   "Vrai : germes exigeants, milieux enrichis en sang."
+  ]
+ },
+ {
+  "q": "À propos de l'habitat des streptocoques, quelles propositions sont exactes ?",
+  "options": [
+   "La vitalité des espèces oropharyngées est faible",
+   "Ce sont des commensaux des muqueuses de l'homme et des animaux",
+   "La cavité oropharyngée héberge les groupes A, B, C, G, E, F et les non groupables",
+   "Le tube digestif et le vagin hébergent les groupes B, D et les entérocoques",
+   "Les streptocoques sont des hôtes habituels de l'environnement (eau, sol)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : faible vitalité des espèces oropharyngées.",
+   "Vrai : commensaux des muqueuses humaines et animales.",
+   "Vrai : groupes A, B, C, G, E, F et non groupables en oropharynx.",
+   "Vrai : groupes B, D et entérocoques au niveau digestif et vaginal.",
+   "Faux : on ne les trouve pas dans l'environnement ; ce sont des germes exigeants."
+  ]
+ },
+ {
+  "q": "Concernant la vitalité et la transmission des streptocoques, lesquelles sont vraies ?",
+  "options": [
+   "La persistance dans les selles est un témoin de contamination fécale de l'eau",
+   "La vitalité des espèces intestinales est importante",
+   "La transmission directe se fait par la salive, les mains ou lors de l'accouchement",
+   "La transmission indirecte se fait par les objets ou l'eau",
+   "Les streptocoques survivent longtemps dans l'environnement extérieur"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : marqueur de contamination fécale de l'eau.",
+   "Vrai : importante vitalité des espèces intestinales.",
+   "Vrai : transmission directe (salive, per-partum, mains).",
+   "Vrai : transmission indirecte (objets, eau).",
+   "Faux : germes exigeants, faible survie dans l'environnement."
+  ]
+ },
+ {
+  "q": "Pour l'identification d'un streptocoque au laboratoire, quels éléments sont utilisés ?",
+  "options": [
+   "La détermination des groupes de Lancefield",
+   "La coloration de Gram à partir des colonies",
+   "La recherche de la coagulase",
+   "La recherche de la catalase, qui doit être négative",
+   "L'aspect des colonies et le type d'hémolyse sur gélose au sang"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : groupage par le polysaccharide C.",
+   "Vrai : confirmation morphologique au Gram.",
+   "Faux : la coagulase identifie Staphylococcus aureus.",
+   "Vrai : catalase négative caractéristique du genre.",
+   "Vrai : aspect des colonies + hémolyse = première orientation."
+  ]
+ },
+ {
+  "q": "À l'examen direct après coloration de Gram d'un prélèvement de gorge, quels aspects évoquent un streptocoque ?",
+  "options": [
+   "Des bacilles à Gram négatif",
+   "L'absence de disposition en amas",
+   "Des cocci à Gram positif",
+   "Une disposition en paires ou en chaînettes",
+   "Une catalase positive à l'état frais"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : ce sont des cocci à Gram positif, pas des bacilles Gram négatif.",
+   "Vrai : les amas évoquent plutôt un staphylocoque.",
+   "Vrai : cocci à Gram positif.",
+   "Vrai : paires ou chaînettes typiques.",
+   "Faux : la catalase ne s'observe pas à l'examen direct et est négative."
+  ]
+ },
+ {
+  "q": "Concernant les caractères biochimiques d'identification des streptocoques, lesquelles sont exactes ?",
+  "options": [
+   "On utilise des galeries d'identification comme Api 20 strepto ou ID 32 strepto",
+   "La fermentation du mannitol identifie Streptococcus pyogenes",
+   "Sur milieu BEA, les entérocoques donnent des colonies noirâtres après 24 h",
+   "L'hydrolyse de l'esculine oriente vers un entérocoque",
+   "Le pneumocoque est identifié par sa sensibilité à l'optochine"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : galeries Api 20 strepto / ID 32 strepto.",
+   "Faux : le mannitol est utilisé pour les staphylocoques, pas S. pyogenes.",
+   "Vrai : milieu BEA (bile-esculine-azide), colonies noirâtres en 24 h.",
+   "Vrai : hydrolyse de l'esculine = caractère des entérocoques.",
+   "Vrai : sensibilité à l'optochine = test du pneumocoque."
+  ]
+ },
+ {
+  "q": "Concernant Streptococcus pyogenes (streptocoque du groupe A), lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il est commensal du tube digestif",
+   "C'est un streptocoque bêta-hémolytique du groupe A de Lancefield",
+   "Sa transmission est directe par voie aérienne",
+   "Il est alpha-hémolytique",
+   "Son réservoir est strictement humain"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : son habitat est la cavité oropharyngée et la peau.",
+   "Vrai : S. pyogenes = streptocoque A bêta-hémolytique.",
+   "Vrai : transmission aérienne directe.",
+   "Faux : il est bêta-hémolytique, pas alpha.",
+   "Vrai : espèce strictement humaine."
+  ]
+ },
+ {
+  "q": "Un enfant de 7 ans présente une angine érythémateuse fébrile. Concernant l'étiologie streptococcique, quelles propositions sont exactes ?",
+  "options": [
+   "Un test de diagnostic rapide (TDR) peut rechercher l'antigène du streptocoque A",
+   "Toute angine érythémateuse de l'enfant est d'origine streptococcique",
+   "L'angine à streptocoque A est une infection virale",
+   "Streptococcus pyogenes est la principale cause bactérienne des angines de l'enfant",
+   "Le prélèvement de choix est l'écouvillonnage des amygdales et du pharynx"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : TDR par recherche d'antigène ou d'enzymes du strepto A.",
+   "Faux : la majorité des angines de l'enfant sont virales.",
+   "Faux : c'est une infection bactérienne.",
+   "Vrai : S. pyogenes, cause bactérienne n°1 des angines infantiles.",
+   "Vrai : écouvillonnage amygdales + pharynx."
+  ]
+ },
+ {
+  "q": "À propos des manifestations ORL du streptocoque A, lesquelles sont exactes ?",
+  "options": [
+   "Le rhumatisme articulaire aigu (RAA) est une complication post-streptococcique",
+   "La glomérulonéphrite aiguë (GNA) peut compliquer une infection ORL",
+   "Il peut donner des abcès amygdaliens et des otites",
+   "Les angines érythémateuses touchent surtout les enfants",
+   "L'érythème noueux est une complication suppurative directe"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : RAA, complication non suppurative post-streptococcique.",
+   "Vrai : la GNA complique les infections ORL et cutanées.",
+   "Vrai : abcès amygdaliens, otites.",
+   "Vrai : angines érythémateuses +++ chez l'enfant.",
+   "Faux : l'érythème noueux est une manifestation immuno-allergique, non suppurative."
+  ]
+ },
+ {
+  "q": "Concernant le rhumatisme articulaire aigu (RAA) post-streptococcique, quelles affirmations sont vraies ?",
+  "options": [
+   "C'est une complication non suppurative à mécanisme immunologique",
+   "Il survient pendant la phase aiguë de l'angine",
+   "Il fait suite à une infection pharyngée à Streptococcus pyogenes",
+   "Il peut toucher le cœur (cardite), les articulations, la peau et le système nerveux",
+   "Son incidence rapportée est de 0,15 pour 100 000"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : mécanisme immuno-allergique croisé, non suppuratif.",
+   "Faux : il survient 2 à 4 semaines après l'infection.",
+   "Vrai : post-angine à streptocoque A.",
+   "Vrai : atteintes cardiaque, articulaire, cutanée (érythème marginé), neurologique (chorée).",
+   "Vrai : 0,15/100 000 selon les données du cours."
+  ]
+ },
+ {
+  "q": "À propos de la scarlatine, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle associe fièvre, pharyngite, exanthème et énanthème",
+   "C'est une complication non suppurative tardive comme le RAA",
+   "Elle est due à une souche de Streptococcus pyogenes lysogénisée par un phage",
+   "Elle s'accompagne d'une desquamation",
+   "Elle est liée à la production de toxines érythrogènes"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : tétrade fièvre + pharyngite + exanthème + énanthème.",
+   "Faux : c'est une manifestation toxinique aiguë, pas une complication immune tardive.",
+   "Vrai : phage porteur du gène de la toxine érythrogène.",
+   "Vrai : desquamation en doigts de gant caractéristique.",
+   "Vrai : toxines érythrogènes responsables de l'éruption."
+  ]
+ },
+ {
+  "q": "Concernant les infections cutanées à streptocoque A, lesquelles sont exactes ?",
+  "options": [
+   "L'érysipèle est une dermo-hypodermite aiguë à Streptococcus pyogenes",
+   "L'impétigo peut être dû au streptocoque A",
+   "Les surinfections de plaies et cellulites gangréneuses sont possibles",
+   "Le RAA complique fréquemment les infections cutanées à streptocoque A",
+   "La glomérulonéphrite aiguë peut compliquer une infection cutanée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : érysipèle = infection streptococcique du derme.",
+   "Vrai : impétigo streptococcique (ou staphylococcique).",
+   "Vrai : surinfections de plaies, cellulites nécrosantes.",
+   "Faux : le RAA fait suite aux infections pharyngées, pas cutanées.",
+   "Vrai : la GNA complique les atteintes cutanées."
+  ]
+ },
+ {
+  "q": "À propos des facteurs de virulence de Streptococcus pyogenes, quelles affirmations sont vraies ?",
+  "options": [
+   "La capsule est de nature polyosidique comme celle du pneumocoque",
+   "La streptokinase est une fibrinolysine favorisant la dissémination",
+   "La protéine M favorise l'adhérence et le pouvoir invasif",
+   "La capsule d'acide hyaluronique a un pouvoir invasif et est immunogène",
+   "La streptolysine O est une hémolysine immunogène"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la capsule du strepto A est d'acide hyaluronique (non polyosidique).",
+   "Vrai : streptokinase = fibrinolysine de dissémination.",
+   "Vrai : protéine M = adhérence + invasion.",
+   "Vrai : capsule hyaluronique, invasive et immunogène.",
+   "Vrai : streptolysine O, hémolysine immunogène."
+  ]
+ },
+ {
+  "q": "Concernant les enzymes du streptocoque A et les anticorps correspondants, lesquelles sont exactes ?",
+  "options": [
+   "La hyaluronidase induit les ASH (antistreptohyaluronidases)",
+   "La streptokinase induit les ASK (antistreptokinases)",
+   "La DNase (streptodornase) induit les ASD (antistreptodornases)",
+   "La coagulase induit des anticorps recherchés dans le RAA",
+   "La streptolysine O induit les ASLO (antistreptolysines O)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : hyaluronidase → ASH (diffusion tissulaire).",
+   "Vrai : streptokinase → ASK.",
+   "Vrai : DNase dépolymérisant l'ADN → ASD.",
+   "Faux : la coagulase est un facteur de virulence staphylococcique.",
+   "Vrai : streptolysine O → ASLO."
+  ]
+ },
+ {
+  "q": "Le diagnostic sérologique indirect des syndromes post-streptococciques repose sur :",
+  "options": [
+   "La culture du streptocoque à partir du sérum",
+   "La mise en évidence d'une élévation des anticorps anti-enzymes du streptocoque A",
+   "La recherche des ASD",
+   "La recherche des ASLO dans le sérum",
+   "La recherche des ASK"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : on ne cultive pas le streptocoque à partir du sérum.",
+   "Vrai : c'est le principe du diagnostic indirect.",
+   "Vrai : ASD = anticorps antistreptodornase.",
+   "Vrai : ASLO recherchés dans RAA et GNA.",
+   "Vrai : ASK = anticorps antistreptokinase."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic bactériologique direct d'une infection à streptocoque A, lesquelles sont vraies ?",
+  "options": [
+   "L'examen direct montre des cocci à Gram positif en paires ou chaînettes",
+   "Un milieu d'enrichissement type Brain Heart Infusion (BHI) peut être utilisé",
+   "Le prélèvement dépend du site : gorge, peau, plaie, LCR, hémocultures",
+   "Le diagnostic direct repose sur la sérologie ASLO",
+   "La culture se fait sur gélose à 5 % de sang défibriné de mouton ou de cheval"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : cocci Gram+ en paires/chaînettes à l'examen direct.",
+   "Vrai : BHI comme milieu d'enrichissement.",
+   "Vrai : prélèvements variés selon le site infecté.",
+   "Faux : les ASLO relèvent du diagnostic indirect sérologique.",
+   "Vrai : gélose au sang défibriné à 5 %."
+  ]
+ },
+ {
+  "q": "À propos des tests de diagnostic rapide (TDR) des infections streptococciques, quelles propositions sont exactes ?",
+  "options": [
+   "Ils remplacent la culture dans tous les cas",
+   "Ils permettent le dépistage du portage vaginal du streptocoque B",
+   "Ils reposent sur la recherche d'antigènes ou d'enzymes bactériennes",
+   "Ils ont une bonne sensibilité et spécificité si le protocole est suivi rigoureusement",
+   "Ils permettent le diagnostic rapide des angines à streptocoque A"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la culture reste la référence dans les formes graves.",
+   "Vrai : TDR du portage vaginal de strepto B.",
+   "Vrai : détection directe d'antigènes ou d'enzymes.",
+   "Vrai : bonnes performances si protocole rigoureux.",
+   "Vrai : TDR angine à strepto A (home tests)."
+  ]
+ },
+ {
+  "q": "Concernant le portage asymptomatique du streptocoque A, lesquelles sont exactes ?",
+  "options": [
+   "Le portage asymptomatique entretient la transmission",
+   "Des porteurs asymptomatiques existent au niveau du nasopharynx",
+   "La peau peut être un site de portage",
+   "Tout porteur asymptomatique doit recevoir une antibiothérapie systématique",
+   "Le portage est retrouvé uniquement chez l'adulte"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : réservoir humain entretenant la circulation.",
+   "Vrai : porteurs sains nasopharyngés décrits.",
+   "Vrai : portage cutané possible.",
+   "Faux : pas d'antibiothérapie systématique des porteurs sains.",
+   "Faux : le portage concerne aussi l'enfant."
+  ]
+ },
+ {
+  "q": "Le syndrome de choc toxique streptococcique :",
+  "options": [
+   "Est une manifestation locale et bénigne",
+   "Est lié à des toxines à effet superantigénique",
+   "S'accompagne d'une défaillance multiviscérale",
+   "Peut compliquer une infection à Streptococcus pyogenes",
+   "Se traite par la seule pénicilline sans réanimation"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : c'est une urgence systémique grave.",
+   "Vrai : toxines superantigéniques activant massivement les lymphocytes T.",
+   "Vrai : choc avec défaillances d'organes.",
+   "Vrai : manifestation générale grave du strepto A.",
+   "Faux : prise en charge réanimatoire indispensable."
+  ]
+ },
+ {
+  "q": "Concernant la sensibilité aux antibiotiques des streptocoques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont naturellement résistants aux bêtalactamines",
+   "Ils sont sensibles aux aminopénicillines, aux céphalosporines de 1re génération, aux macrolides et aux glycopeptides",
+   "Ils sont naturellement peu sensibles aux aminosides (bas niveau)",
+   "Ils sont sensibles à de nombreux antibiotiques anti-Gram positif",
+   "Streptococcus pyogenes reste constamment sensible à la pénicilline"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les bêtalactamines sont les antibiotiques de référence.",
+   "Vrai : sensibles aux aminopénicillines, C1G, MLS, glycopeptides.",
+   "Vrai : résistance naturelle de bas niveau aux aminosides.",
+   "Vrai : large sensibilité aux anti-Gram+.",
+   "Vrai : aucune résistance acquise à la pénicilline décrite chez S. pyogenes."
+  ]
+ },
+ {
+  "q": "Dans une angine à streptocoque A confirmée, quelles propositions thérapeutiques sont exactes ?",
+  "options": [
+   "Les aminosides en monothérapie sont efficaces",
+   "Un macrolide est indiqué en cas d'allergie à la pénicilline",
+   "L'amoxicilline est l'antibiotique de première intention",
+   "Une céphalosporine orale est une alternative possible",
+   "Le traitement prévient la survenue du RAA"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les aminosides seuls sont inactifs (résistance naturelle de bas niveau).",
+   "Vrai : macrolides si allergie aux bêtalactamines.",
+   "Vrai : amoxicilline (ou pénicilline V) en 1re intention.",
+   "Vrai : céphalosporines orales alternatives valables.",
+   "Vrai : l'antibiothérapie précoce prévient le RAA."
+  ]
+ },
+ {
+  "q": "Concernant la synergie bêtalactamines-aminosides dans les infections streptococciques graves, lesquelles sont vraies ?",
+  "options": [
+   "Elle est utile dans les infections graves (endocardites, septicémies)",
+   "Elle reste efficace en cas de résistance enzymatique aux aminosides",
+   "Elle concerne aussi les entérocoques sensibles",
+   "L'association est synergique et bactéricide",
+   "La bêtalactamine favorise la pénétration intracellulaire de l'aminoside"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : indiquée dans les formes graves.",
+   "Faux : la résistance enzymatique aux aminosides abolit la synergie.",
+   "Vrai : même principe appliqué aux infections graves à entérocoques.",
+   "Vrai : synergie bactéricide démontrée.",
+   "Vrai : la paroi fragilisée laisse pénétrer l'aminoside."
+  ]
+ },
+ {
+  "q": "À propos de l'hyaluronidase et de la streptokinase du streptocoque A, quelles affirmations sont exactes ?",
+  "options": [
+   "Ces enzymes sont immunogènes (ASH, ASK)",
+   "La streptokinase est une fibrinolysine favorisant la dissémination",
+   "Ce sont des toxines érythrogènes",
+   "Elles expliquent l'extension rapide de l'érysipèle et des cellulites",
+   "La hyaluronidase permet la diffusion de la bactérie dans les tissus"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : anticorps ASH et ASK recherchés en sérologie.",
+   "Vrai : streptokinase = fibrinolysine de dissémination.",
+   "Faux : les toxines érythrogènes sont distinctes (scarlatine).",
+   "Vrai : elles expliquent l'extension des infections cutanées.",
+   "Vrai : hyaluronidase = facteur de diffusion tissulaire."
+  ]
+ },
+ {
+  "q": "Une patiente présente un érysipèle de jambe. Quelles propositions sont exactes ?",
+  "options": [
+   "Le RAA est la complication habituelle de l'érysipèle",
+   "La pénicilline (amoxicilline) est le traitement de référence",
+   "La GNA est une complication à redouter",
+   "Streptococcus pyogenes est le germe le plus probable",
+   "Le diagnostic est clinique et la bactériologie souvent négative"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le RAA suit les infections pharyngées, pas cutanées.",
+   "Vrai : amoxicilline en 1re intention.",
+   "Vrai : GNA possible après infection cutanée.",
+   "Vrai : érysipèle = dermo-hypodermite à S. pyogenes.",
+   "Vrai : diagnostic clinique, cultures souvent négatives."
+  ]
+ },
+ {
+  "q": "Concernant la prophylaxie du RAA, lesquelles sont exactes ?",
+  "options": [
+   "La prophylaxie secondaire peut durer plusieurs années",
+   "La vaccination anti-streptococcique est disponible en routine",
+   "La benzathine-pénicilline retard est utilisée en prophylaxie secondaire",
+   "Le dépistage systématique des porteurs sains prévient le RAA",
+   "Le traitement antibiotique précoce de l'angine streptococcique prévient le RAA"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : prophylaxie prolongée (années, selon l'atteinte cardiaque).",
+   "Faux : aucun vaccin anti-S. pyogenes disponible en routine.",
+   "Vrai : pénicilline retard en prophylaxie secondaire.",
+   "Faux : pas de dépistage systématique des porteurs sains.",
+   "Vrai : traiter l'angine dans les 9 jours prévient le RAA."
+  ]
+ },
+ {
+  "q": "Un garçon de 5 ans présente une angine érythémateuse avec adénopathies cervicales douloureuses. Le TDR streptocoque A est positif. Quelles propositions sont exactes ?",
+  "options": [
+   "L'amoxicilline per os est le traitement de première intention",
+   "Un traitement de 6 jours est généralement suffisant",
+   "Le traitement vise aussi à prévenir le RAA",
+   "Le diagnostic d'angine à Streptococcus pyogenes est retenu",
+   "Une hémoculture est indispensable avant tout traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : amoxicilline 1re intention.",
+   "Vrai : durée courte de 6 jours recommandée.",
+   "Vrai : prévention du RAA = objectif du traitement.",
+   "Vrai : TDR positif = angine streptococcique.",
+   "Faux : l'hémoculture n'est pas indiquée dans l'angine simple."
+  ]
+ },
+ {
+  "q": "Concernant les localisations septiques du streptocoque A, lesquelles sont exactes ?",
+  "options": [
+   "Des localisations pleuro-pulmonaires sont possibles",
+   "Des septicémies à point de départ cutané ou pharyngé existent",
+   "Le pronostic des formes invasives est bénin",
+   "Des localisations ostéo-articulaires sont possibles",
+   "Toute infection à streptocoque A donne une septicémie"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : localisations pleuro-pulmonaires décrites.",
+   "Vrai : septicémies à point de départ ORL ou cutané.",
+   "Faux : les formes invasives (choc toxique, fasciite) sont graves.",
+   "Vrai : arthrites et ostéomyélites possibles.",
+   "Faux : la plupart des infections restent locales."
+  ]
+ },
+ {
+  "q": "À propos de la DNase (streptodornase) du streptocoque A, quelles affirmations sont vraies ?",
+  "options": [
+   "Elle est immunogène et induit les ASD",
+   "Elle est responsable de l'exanthème scarlatiniforme",
+   "Elle fluidifie le pus et favorise la dissémination",
+   "Elle dépolymérise l'ADN libéré par les polynucléaires",
+   "Les ASD sont recherchés dans les syndromes post-streptococciques"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : anticorps antistreptodornase (ASD).",
+   "Faux : l'exanthème est dû aux toxines érythrogènes.",
+   "Vrai : fluidification du pus, dissémination facilitée.",
+   "Vrai : dégradation de l'ADN des leucocytes lysés.",
+   "Vrai : ASD utiles au diagnostic des complications immunes."
+  ]
+ },
+ {
+  "q": "Concernant la capsule du streptocoque A, lesquelles sont exactes ?",
+  "options": [
+   "Elle est identique à la capsule polyosidique du pneumocoque",
+   "Elle est constituée d'acide hyaluronique",
+   "Elle est codée par un phage",
+   "Elle confère un pouvoir invasif en protégeant de la phagocytose",
+   "Elle est immunogène"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la capsule pneumococcique est polyosidique, différente.",
+   "Vrai : capsule d'acide hyaluronique.",
+   "Faux : ce sont les toxines érythrogènes qui sont phagiques.",
+   "Vrai : effet antiphagocytaire = pouvoir invasif.",
+   "Vrai : caractère immunogène décrit."
+  ]
+ },
+ {
+  "q": "Une femme de 30 ans présente un impétigo du visage. Quelles propositions sont exactes ?",
+  "options": [
+   "Le RAA complique habituellement l'impétigo",
+   "Le traitement fait appel aux antibiotiques anti-Gram positif",
+   "Une GNA peut compliquer un impétigo streptococcique",
+   "Streptococcus pyogenes est un germe possible de l'impétigo",
+   "Staphylococcus aureus est l'autre germe classique de l'impétigo"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le RAA suit les angines, pas les infections cutanées.",
+   "Vrai : antibiotiques actifs sur cocci Gram+.",
+   "Vrai : GNA post-impétigo streptococcique.",
+   "Vrai : impétigo à S. pyogenes possible.",
+   "Vrai : S. aureus, autre agent classique."
+  ]
+ },
+ {
+  "q": "À propos des complications non suppuratives des infections à streptocoque A, lesquelles sont vraies ?",
+  "options": [
+   "Elles sont dues à la dissémination bactérienne",
+   "La GNA peut suivre une infection pharyngée ou cutanée",
+   "Le RAA survient 2 à 4 semaines après une angine",
+   "L'érythème noueux est une manifestation immuno-allergique",
+   "Leur diagnostic repose sur la sérologie (ASLO, ASK, ASD)"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : mécanisme immunologique, pas de dissémination bactérienne.",
+   "Vrai : GNA post-pharyngée ou post-cutanée.",
+   "Vrai : délai de 2 à 4 semaines pour le RAA.",
+   "Vrai : érythème noueux = hypersensibilité retardée.",
+   "Vrai : sérologie post-streptococcique à visée diagnostique."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic différentiel d'une angine érythémateuse, quelles propositions sont exactes ?",
+  "options": [
+   "Toute angine fébrile nécessite des antibiotiques",
+   "Le TDR permet de distinguer angine virale et streptococcique",
+   "L'absence de streptocoque A au TDR n'élimine pas formellement l'étiologie bactérienne",
+   "La présence d'une toux et d'un coryza oriente vers une origine virale",
+   "La majorité des angines de l'enfant sont virales"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les angines virales ne relèvent pas d'antibiotiques.",
+   "Vrai : TDR = outil de distinction.",
+   "Vrai : sensibilité du TDR imparfaite, culture si doute.",
+   "Vrai : toux/coryza évoquent un virus.",
+   "Vrai : étiologies virales prédominantes."
+  ]
+ },
+ {
+  "q": "Concernant Streptococcus agalactiae (streptocoque du groupe B), lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est un germe strictement hospitalier",
+   "C'est un streptocoque bêta-hémolytique du groupe B de Lancefield",
+   "Son principal facteur de virulence est la capsule d'acide sialique",
+   "Il est responsable d'infections néonatales",
+   "Son habitat comprend le tube digestif et le vagin"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : commensal communautaire, pas strictement nosocomial.",
+   "Vrai : S. agalactiae = streptocoque B bêta-hémolytique.",
+   "Vrai : capsule d'acide sialique, pouvoir invasif.",
+   "Vrai : infections néonatales graves.",
+   "Vrai : commensal du TD et du vagin."
+  ]
+ },
+ {
+  "q": "À propos des infections néonatales à streptocoque B, quelles propositions sont vraies ?",
+  "options": [
+   "Le portage vaginal maternel est le principal facteur de risque",
+   "Elles peuvent se manifester par une septicémie ou une méningite",
+   "Le dépistage du portage vaginal en fin de grossesse est recommandé",
+   "La contamination se fait par voie transplacentaire ou lors de l'accouchement",
+   "La transmission se fait par voie aérienne entre nouveau-nés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : colonisation vaginale maternelle = risque majeur.",
+   "Vrai : septicémies et méningites néonatales.",
+   "Vrai : dépistage systématique du portage en fin de grossesse.",
+   "Vrai : contamination in utero ou per-partum.",
+   "Faux : transmission verticale materno-fœtale, pas aérienne."
+  ]
+ },
+ {
+  "q": "Concernant la prévention des infections néonatales à streptocoque B, lesquelles sont exactes ?",
+  "options": [
+   "La césarienne systématique est recommandée chez les mères colonisées",
+   "L'antibioprophylaxie per-partum est indiquée chez les mères colonisées",
+   "Un TDR peut dépister le portage vaginal",
+   "Le dépistage repose sur un prélèvement vaginal en fin de grossesse",
+   "La pénicilline G (ou l'ampicilline) est l'antibiotique de choix"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'antibioprophylaxie suffit, pas de césarienne systématique.",
+   "Vrai : antibioprophylaxie pendant le travail si colonisation.",
+   "Vrai : TDR de dépistage du portage vaginal.",
+   "Vrai : écouvillonnage vaginal en fin de grossesse.",
+   "Vrai : pénicilline G / ampicilline de référence."
+  ]
+ },
+ {
+  "q": "En dehors de la période néonatale, le streptocoque B peut être responsable de :",
+  "options": [
+   "Infections urinaires chez le sujet âgé ou diabétique",
+   "Arthrites septiques",
+   "Endocardites",
+   "Septicémies chez les sujets à risque",
+   "Méningites de l'adulte immunocompétent jeune en bonne santé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infections urinaires du sujet âgé/diabétique.",
+   "Vrai : arthrites à S. agalactiae.",
+   "Vrai : endocardites possibles.",
+   "Vrai : septicémies des terrains fragiles.",
+   "Faux : les formes de l'adulte touchent les sujets à risque."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic d'une infection à streptocoque B, quelles affirmations sont vraies ?",
+  "options": [
+   "Le prélèvement vaginal permet le dépistage du portage",
+   "La culture se fait sur gélose au sang avec hémolyse bêta",
+   "La recherche d'antigènes peut être réalisée directement sur le prélèvement",
+   "Le groupage de Lancefield identifie le groupe B",
+   "Le diagnostic repose sur la recherche des ASLO"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : écouvillon vaginal de dépistage.",
+   "Vrai : culture sur gélose au sang, hémolyse bêta.",
+   "Vrai : détection directe d'antigènes (TDR).",
+   "Vrai : polysaccharide C du groupe B.",
+   "Faux : les ASLO concernent le streptocoque A."
+  ]
+ },
+ {
+  "q": "Concernant le traitement des infections à streptocoque B, lesquelles sont exactes ?",
+  "options": [
+   "Les céphalosporines sont naturellement inactives sur S. agalactiae",
+   "La synergie bêtalactamine-aminoside est utile dans les formes graves",
+   "L'antibioprophylaxie per-partum utilise l'amoxicilline à forte dose",
+   "Les glycopeptides sont une alternative en cas d'allergie",
+   "Les bêtalactamines (pénicilline G, ampicilline) sont les antibiotiques de référence"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : S. agalactiae est sensible aux céphalosporines (contrairement aux entérocoques).",
+   "Vrai : synergie bactéricide dans endocardites et formes graves.",
+   "Faux : la prophylaxie per-partum utilise pénicilline G ou ampicilline IV.",
+   "Vrai : vancomycine si allergie sévère aux bêtalactamines.",
+   "Vrai : pénicilline G / ampicilline de référence."
+  ]
+ },
+ {
+  "q": "Une femme enceinte à 36 SA a un prélèvement vaginal positif à Streptococcus agalactiae. Quelles propositions sont exactes ?",
+  "options": [
+   "Une antibioprophylaxie per-partum est indiquée",
+   "L'allaitement est contre-indiqué",
+   "Le nouveau-né doit faire l'objet d'une surveillance clinique",
+   "L'antibiotique de choix est la pénicilline G IV pendant le travail",
+   "Un traitement antibiotique anténatal systématique est recommandé"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : colonisation = prophylaxie pendant le travail.",
+   "Faux : l'allaitement n'est pas contre-indiqué.",
+   "Vrai : surveillance du nouveau-né (signes d'infection).",
+   "Vrai : pénicilline G IV de référence.",
+   "Faux : le traitement anténatal n'éradique pas durablement le portage."
+  ]
+ },
+ {
+  "q": "À propos de la capsule du streptocoque B, quelles affirmations sont vraies ?",
+  "options": [
+   "Elle est la cible des vaccins conjugués en développement",
+   "Elle est constituée d'acide sialique",
+   "Elle protège la bactérie de la phagocytose",
+   "Elle confère un pouvoir invasif",
+   "Elle est identique au polysaccharide C de Lancefield"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : vaccins maternels anti-capsulaires en développement.",
+   "Vrai : capsule d'acide sialique.",
+   "Vrai : effet antiphagocytaire.",
+   "Vrai : facteur d'invasivité.",
+   "Faux : le polysaccharide C est l'antigène de groupe pariétal."
+  ]
+ },
+ {
+  "q": "Concernant les caractères bactériologiques du streptocoque B, lesquelles sont exactes ?",
+  "options": [
+   "Bêta-hémolytique sur gélose au sang",
+   "Pousse sur milieu BEA avec colonies noirâtres",
+   "Cocci à Gram positif en chaînettes",
+   "Catalase négative",
+   "Groupe B de la classification de Lancefield"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : hémolyse bêta.",
+   "Faux : le milieu BEA (esculine) identifie les entérocoques.",
+   "Vrai : cocci Gram+ en chaînettes.",
+   "Vrai : catalase négative.",
+   "Vrai : groupe B de Lancefield."
+  ]
+ },
+ {
+  "q": "Un nouveau-né de 3 jours présente une septicémie à Streptococcus agalactiae. Quelles propositions sont exactes ?",
+  "options": [
+   "Il s'agit d'une infection néonatale précoce",
+   "L'ampicilline + un aminoside est le traitement probabiliste de référence",
+   "La pénicilline est inefficace sur S. agalactiae",
+   "La contamination maternelle vaginale est probable",
+   "Une méningite associée doit être recherchée par ponction lombaire"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : infection précoce (J0-J7).",
+   "Vrai : ampicilline + gentamicine en probabiliste.",
+   "Faux : S. agalactiae est sensible aux bêtalactamines.",
+   "Vrai : transmission verticale maternelle.",
+   "Vrai : PL systématique devant une septicémie néonatale."
+  ]
+ },
+ {
+  "q": "À propos des sujets à risque d'infection invasive à streptocoque B, lesquels sont concernés ?",
+  "options": [
+   "Les patients diabétiques",
+   "Les sujets âgés",
+   "Les enfants d'âge scolaire en bonne santé",
+   "Les nouveau-nés de mères colonisées",
+   "Les femmes enceintes"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : diabète = facteur de risque.",
+   "Vrai : sujet âgé à risque d'infections invasives.",
+   "Faux : pas de sur-risque chez l'enfant sain.",
+   "Vrai : nouveau-nés = population cible principale.",
+   "Vrai : infections urinaires et invasives de la grossesse."
+  ]
+ },
+ {
+  "q": "Concernant le dépistage du portage vaginal du streptocoque B, lesquelles sont vraies ?",
+  "options": [
+   "Un résultat positif impose une antibioprophylaxie per-partum",
+   "Il est réalisé en fin de grossesse (35-37 SA)",
+   "La culture sur milieu sélectif est la méthode de référence",
+   "Un résultat négatif élimine tout risque d'infection néonatale",
+   "Le prélèvement est un écouvillonnage vaginal (et rectal)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : prophylaxie per-partum si positif.",
+   "Vrai : dépistage à 35-37 semaines d'aménorrhée.",
+   "Vrai : culture sur milieu sélectif enrichi.",
+   "Faux : le portage peut être intermittent, le risque n'est pas nul.",
+   "Vrai : écouvillon vaginal ± rectal."
+  ]
+ },
+ {
+  "q": "Concernant la taxonomie et la morphologie de Streptococcus pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "C'est un diplocoque ovoïde ou lancéolé « en flamme de bougie »",
+   "Les deux éléments du diplocoque sont appariés par leurs extrémités pointues",
+   "C'est un bacille à Gram négatif",
+   "Il appartient à la famille des Streptococcaceae",
+   "Il est capsulé"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : cocci ovoïdes/lancéolés en flamme de bougie.",
+   "Vrai : appariement par les extrémités pointues.",
+   "Faux : c'est un cocci à Gram positif.",
+   "Vrai : famille des Streptococcaceae, groupe oralis.",
+   "Vrai : capsule polyosidique présente."
+  ]
+ },
+ {
+  "q": "À propos de l'habitat du pneumocoque, quelles affirmations sont vraies ?",
+  "options": [
+   "Le portage est fréquent chez le jeune enfant (40 % des enfants en crèche)",
+   "C'est un commensal de l'arbre respiratoire supérieur (rhinopharynx) de l'homme",
+   "Il colonise habituellement le tube digestif",
+   "C'est un hôte normal strictement humain",
+   "Le portage nasopharyngé précède l'infection invasive"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : 40 % de portage chez les enfants fréquentant les crèches.",
+   "Vrai : commensal du rhinopharynx humain.",
+   "Faux : habitat respiratoire, pas digestif.",
+   "Vrai : réservoir strictement humain.",
+   "Vrai : la colonisation précède l'invasion."
+  ]
+ },
+ {
+  "q": "Concernant les facteurs de virulence du pneumocoque, lesquelles sont exactes ?",
+  "options": [
+   "La pneumolysine permet l'envahissement tissulaire et vasculaire",
+   "Les protéines de surface permettent l'adhésion aux cellules cibles",
+   "La capsule est de nature protéique",
+   "La capsule polyosidique protège de la phagocytose",
+   "Les souches encapsulées sont très virulentes"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : pneumolysine = toxine d'envahissement.",
+   "Vrai : adhésion via les protéines de surface.",
+   "Faux : la capsule pneumococcique est polyosidique, non protéique.",
+   "Vrai : capsule antiphagocytaire.",
+   "Vrai : la capsule est le déterminant majeur de virulence."
+  ]
+ },
+ {
+  "q": "Un patient splénectomisé présente une infection invasive. Concernant les terrains à risque d'infection pneumococcique, lesquels sont exacts ?",
+  "options": [
+   "Les anomalies du tractus respiratoire",
+   "Le jeune enfant en collectivité",
+   "L'asplénie (splénectomie ou asplénie fonctionnelle comme la drépanocytose)",
+   "La malnutrition et les affections générales avec baisse de l'immunité",
+   "Le sujet jeune en bonne santé sans facteur de risque est le terrain habituel"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : anomalies respiratoires favorisant.",
+   "Vrai : portage et infections fréquents en crèche.",
+   "Vrai : asplénie = risque majeur d'infections à germes encapsulés.",
+   "Vrai : immunodépression et malnutrition à risque.",
+   "Faux : l'infection invasive survient sur terrain favorisant."
+  ]
+ },
+ {
+  "q": "Concernant les infections loco-régionales à pneumocoque, lesquelles sont exactes ?",
+  "options": [
+   "Les bronchites et trachéobronchites",
+   "Les pneumonies franches lobaires aiguës",
+   "Les otites et les sinusites",
+   "Les conjonctivites",
+   "Les infections urinaires basses"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bronchites et trachéobronchites.",
+   "Vrai : pneumonie franche lobaire aiguë typique.",
+   "Vrai : otites et sinusites fréquentes.",
+   "Vrai : conjonctivites à pneumocoque.",
+   "Faux : les infections urinaires ne sont pas une localisation pneumococcique."
+  ]
+ },
+ {
+  "q": "À propos des infections à distance du pneumocoque, quelles affirmations sont vraies ?",
+  "options": [
+   "Les péritonites",
+   "Les angines érythémateuses",
+   "Les arthrites septiques",
+   "Les méningites purulentes",
+   "Les péricardites"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : péritonites décrites.",
+   "Faux : les angines érythémateuses sont le fait du streptocoque A.",
+   "Vrai : arthrites septiques possibles.",
+   "Vrai : méningite à pneumocoque, urgence.",
+   "Vrai : péricardites à pneumocoque."
+  ]
+ },
+ {
+  "q": "Un caractère important des infections à pneumocoque à retenir est :",
+  "options": [
+   "La survenue de pleurésies dans 15 % des pneumonies franches lobaires aiguës",
+   "L'aggravation du pronostic par ces cloisonnements",
+   "La fréquence des réactions fibrineuses génératrices de cloisonnements",
+   "L'absence de réaction inflammatoire locale",
+   "La guérison toujours spontanée sans séquelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : pleurésies accompagnant 15 % des pneumonies lobaires.",
+   "Vrai : cloisonnements aggravant le pronostic.",
+   "Vrai : réactions fibrineuses caractéristiques.",
+   "Faux : réaction inflammatoire intense, au contraire.",
+   "Faux : infections potentiellement graves."
+  ]
+ },
+ {
+  "q": "Concernant le prélèvement pour le diagnostic d'une infection à pneumocoque, lesquelles sont exactes ?",
+  "options": [
+   "Le transport au laboratoire doit être rapide car le germe est fragile",
+   "Le prélèvement doit être réalisé avant toute antibiothérapie",
+   "Hémocultures en cas de méningite ou de pneumonie",
+   "Crachat, LCR, pus d'oreille selon le site de l'infection",
+   "Le germe survit plusieurs jours à température ambiante dans le prélèvement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : transport rapide indispensable.",
+   "Vrai : avant toute antibiothérapie (germe fragile).",
+   "Vrai : hémocultures si forme invasive.",
+   "Vrai : prélèvement adapté au site infecté.",
+   "Faux : le pneumocoque est fragile et meurt vite hors de l'hôte."
+  ]
+ },
+ {
+  "q": "À l'examen microscopique d'un LCR purulent, quels éléments évoquent le pneumocoque ?",
+  "options": [
+   "Des cocci à Gram positif ovoïdes ou lancéolés en « flamme de bougie »",
+   "Des bacilles à Gram négatif en diplocoques",
+   "Une disposition en diplocoques appariés par les extrémités pointues",
+   "À l'état frais, une capsule visible au test à l'encre de Chine",
+   "Des cocci à Gram positif en amas"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : aspect en flamme de bougie typique.",
+   "Faux : aspect du méningocoque (Neisseria).",
+   "Vrai : diplocoques à extrémités pointues.",
+   "Vrai : capsule mise en évidence à l'encre de Chine.",
+   "Faux : les amas évoquent un staphylocoque."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic rapide par recherche d'antigènes solubles pneumococciques, lesquelles sont vraies ?",
+  "options": [
+   "Il permet aussi la détection dans les milieux de culture",
+   "Il remplace la ponction lombaire dans la méningite",
+   "Ce test garde un intérêt dans les infections « décapitées » par une antibiothérapie",
+   "Les antigènes capsulaires sont libérés dans le LCR et les urines",
+   "La détection se fait par agglutination de particules de latex sensibilisées"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : détection dans les milieux de culture.",
+   "Faux : la PL reste indispensable (cytologie, culture).",
+   "Vrai : utile quand la culture est négativée par les antibiotiques.",
+   "Vrai : Ag solubles dans LCR, urines.",
+   "Vrai : agglutination au latex."
+  ]
+ },
+ {
+  "q": "Pour la culture du pneumocoque au laboratoire, quelles propositions sont exactes ?",
+  "options": [
+   "Gélose à 5 % de sang défibriné avec un disque d'optochine sur un quadrant",
+   "Les colonies sont plates et ombiliquées avec hémolyse alpha",
+   "Gélose chocolat polyvitex possible",
+   "Le pneumocoque pousse facilement sur gélose nutritive ordinaire",
+   "Incubation à 37 °C avec 5 % de CO2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : gélose au sang + disque d'optochine.",
+   "Vrai : colonies plates ombiliquées, hémolyse alpha.",
+   "Vrai : gélose chocolat enrichie possible.",
+   "Faux : germe exigeant, milieux enrichis nécessaires.",
+   "Vrai : 37 °C, atmosphère à 5 % de CO2."
+  ]
+ },
+ {
+  "q": "Concernant l'identification du pneumocoque, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La sensibilité à l'optochine est le test clé",
+   "La coagulase positive confirme le pneumocoque",
+   "Les caractères biochimiques sont étudiés sur galerie Api 20 strept",
+   "L'agglutination avec des particules sensibilisées aux anticorps capsulaires confirme",
+   "La catalase est négative"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : optochine sensible = pneumocoque.",
+   "Faux : la coagulase est un test staphylococcique.",
+   "Vrai : galerie Api 20 strept.",
+   "Vrai : sérotypage capsulaire par agglutination.",
+   "Vrai : catalase négative."
+  ]
+ },
+ {
+  "q": "À propos du test à l'optochine, quelles propositions sont exactes ?",
+  "options": [
+   "Il distingue le pneumocoque des autres streptocoques viridans",
+   "Il se réalise sur gélose au sang",
+   "Les streptocoques viridans sont résistants à l'optochine",
+   "Le pneumocoque est sensible à l'optochine",
+   "Il identifie les entérocoques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : test discriminant au sein des alpha-hémolytiques.",
+   "Vrai : disque déposé sur gélose au sang.",
+   "Vrai : viridans optochine-résistants.",
+   "Vrai : S. pneumoniae optochine-sensible.",
+   "Faux : les entérocoques s'identifient par l'esculine (BEA)."
+  ]
+ },
+ {
+  "q": "Concernant la sensibilité du pneumocoque à la pénicilline G, lesquelles sont vraies ?",
+  "options": [
+   "Depuis 1980, des souches de sensibilité diminuée (PSD) sont apparues",
+   "Le pneumocoque était historiquement sensible à la pénicilline G",
+   "La cause est une diminution de l'affinité des PLP pour l'antibiotique",
+   "La détection des PSD utilise un disque d'oxacilline à 1 µg sur gélose au sang",
+   "La résistance est due à la production d'une pénicillinase"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : émergence des PSD depuis 1980.",
+   "Vrai : sensibilité initiale à la pénicilline G.",
+   "Vrai : modification des protéines liant la pénicilline (PLP).",
+   "Vrai : disque d'oxacilline 1 µg pour le dépistage.",
+   "Faux : pas de pénicillinase chez le pneumocoque."
+  ]
+ },
+ {
+  "q": "Pour l'interprétation de la sensibilité du pneumocoque à la pénicilline, quelles propositions sont exactes ?",
+  "options": [
+   "La souche est dite PSD si le diamètre d'inhibition autour du disque d'oxacilline est > 19 mm",
+   "Une souche est résistante si la CMI > 1 µg/ml",
+   "La confirmation se fait par la mesure de la CMI (E-test)",
+   "Le disque d'oxacilline permet de rendre directement la CMI",
+   "Une souche est PSD si 0,006 µg/ml < CMI < 1 µg/ml"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : seuil de dépistage du cours (> 19 mm).",
+   "Vrai : CMI > 1 µg/ml = résistance.",
+   "Vrai : confirmation par CMI en E-test.",
+   "Faux : le disque est un test de dépistage, la CMI se mesure au E-test.",
+   "Vrai : fourchette de CMI définissant les PSD."
+  ]
+ },
+ {
+  "q": "Concernant les résistances associées du pneumocoque, lesquelles sont exactes ?",
+  "options": [
+   "Le pneumocoque reste constamment sensible aux macrolides",
+   "La sensibilité aux autres bêtalactamines est modifiée à des proportions variables",
+   "La résistance aux macrolides est en augmentation",
+   "La résistance aux cyclines est en augmentation",
+   "La résistance aux fluoroquinolones est en augmentation"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la résistance aux macrolides augmente.",
+   "Vrai : d'où l'intérêt d'étudier la CMI de chaque molécule.",
+   "Vrai : résistance croissante aux macrolides.",
+   "Vrai : résistance croissante aux tétracyclines.",
+   "Vrai : résistance croissante aux fluoroquinolones."
+  ]
+ },
+ {
+  "q": "Un adulte présente une méningite purulente à pneumocoque PSD. Quelles propositions thérapeutiques sont exactes ?",
+  "options": [
+   "Une céphalosporine de 3e génération (ceftriaxone) est indiquée",
+   "La pénicilline G seule suffit dans tous les cas",
+   "La dexaméthasone adjuvante peut être proposée",
+   "L'antibiothérapie doit être débutée en urgence sans attendre l'antibiogramme",
+   "La vancomycine est associée en attendant les CMI"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : C3G active sur le pneumocoque.",
+   "Faux : PSD = la pénicilline G peut être inefficace.",
+   "Vrai : corticothérapie adjuvante dans la méningite bactérienne.",
+   "Vrai : urgence thérapeutique, traitement probabiliste immédiat.",
+   "Vrai : vancomycine associée si PSD suspecté."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination antipneumococcique, lesquelles sont exactes ?",
+  "options": [
+   "Le vaccin à 23 valences s'adresse aux enfants de plus de 2 ans et aux personnes à risque",
+   "Le vaccin protège contre toutes les infections respiratoires",
+   "Le rappel du vaccin 23 valences se fait tous les 3 à 5 ans",
+   "Le vaccin à 7 valences (conjugué) s'adresse aux enfants de moins de 2 ans",
+   "Le vaccin est à base d'antigènes capsulaires les plus fréquents en pathologie"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : 23 valences après 2 ans et sujets à risque.",
+   "Faux : protection limitée aux sérotypes vaccinaux du pneumocoque.",
+   "Vrai : revaccination tous les 3 à 5 ans.",
+   "Vrai : vaccin conjugué 7 valences avant 2 ans.",
+   "Vrai : vaccin polyosidique capsulaire."
+  ]
+ },
+ {
+  "q": "Un enfant de 18 mois en crèche présente une otite moyenne aiguë. Quelles propositions sont exactes ?",
+  "options": [
+   "L'otite à pneumocoque relève toujours d'une hospitalisation",
+   "Streptococcus pneumoniae est un germe fréquent des otites de l'enfant",
+   "Le portage nasopharyngé du pneumocoque est fréquent en collectivité",
+   "L'amoxicilline est l'antibiotique de première intention",
+   "Une méningite est une complication redoutée des otites"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la plupart des otites se traitent en ambulatoire.",
+   "Vrai : pneumocoque = agent majeur des OMA.",
+   "Vrai : portage élevé chez les enfants en crèche.",
+   "Vrai : amoxicilline en 1re intention.",
+   "Vrai : extension méningée possible."
+  ]
+ },
+ {
+  "q": "À propos de la pneumonie franche lobaire aiguë à pneumocoque, quelles affirmations sont vraies ?",
+  "options": [
+   "Une pleurésie accompagne 15 % des cas",
+   "Le traitement repose sur les aminosides en monothérapie",
+   "Le pneumocoque est le germe typique de ce tableau",
+   "Le début est brutal avec frisson, fièvre élevée et douleur thoracique",
+   "L'expectoration est rouille"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : pleurésies dans 15 % des cas.",
+   "Faux : les aminosides seuls sont inactifs sur le pneumocoque.",
+   "Vrai : S. pneumoniae = étiologie typique.",
+   "Vrai : tableau brutal classique.",
+   "Vrai : crachats rouillés caractéristiques."
+  ]
+ },
+ {
+  "q": "Concernant la prévention des infections à pneumocoque, lesquelles sont exactes ?",
+  "options": [
+   "L'antibioprophylaxie prolongée systématique chez tout adulte",
+   "La vaccination des enfants de moins de 2 ans par le vaccin conjugué",
+   "L'hygiène et la réduction du portage en collectivité",
+   "La vaccination des sujets à risque (aspléniques, sujets âgés)",
+   "La vaccination repose sur les antigènes capsulaires"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : pas d'antibioprophylaxie systématique chez l'adulte.",
+   "Vrai : nourrissons vaccinés (conjugué).",
+   "Vrai : mesures d'hygiène en collectivité.",
+   "Vrai : sujets à risque vaccinés (23 valences).",
+   "Vrai : le vaccin est à base d'antigènes capsulaires."
+  ]
+ },
+ {
+  "q": "Concernant le genre Enterococcus, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ce sont des bacilles à Gram négatif aérobies stricts",
+   "Ils sont des commensaux du tube digestif",
+   "Ce sont des cocci à Gram positif ovalaires en courtes chaînettes",
+   "Ils sont catalase négative",
+   "C'est un genre bactérien à part, distinct du genre Streptococcus"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : cocci à Gram positif, anaérobies aérotolérants.",
+   "Vrai : commensaux intestinaux.",
+   "Vrai : coques ovalaires en courtes chaînettes.",
+   "Vrai : catalase négative.",
+   "Vrai : genre distinct des streptocoques."
+  ]
+ },
+ {
+  "q": "À propos des caractères culturaux des entérocoques, quelles propositions sont vraies ?",
+  "options": [
+   "Ils poussent sur gélose au sang sans hémolyse",
+   "Ils hydrolysent l'esculine",
+   "Ils sont beaucoup moins exigeants que les streptocoques",
+   "Ils poussent sur milieux biliés (résistance à la bile)",
+   "Ils exigent des milieux enrichis en sang et facteurs de croissance"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas d'hémolyse sur gélose au sang.",
+   "Vrai : hydrolyse de l'esculine caractéristique.",
+   "Vrai : moins exigeants que les streptocoques.",
+   "Vrai : croissance en présence de bile.",
+   "Faux : cette exigence concerne les streptocoques, pas les entérocoques."
+  ]
+ },
+ {
+  "q": "Concernant l'identification d'un entérocoque au laboratoire, lesquelles sont exactes ?",
+  "options": [
+   "Colonies noirâtres après 24 h d'incubation sur BEA",
+   "Cocci à Gram positif, catalase négative",
+   "Croissance en présence de bile",
+   "Sensibilité à l'optochine",
+   "Hydrolyse de l'esculine sur milieu BEA (bile-esculine-azide)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : noircissement du milieu BEA en 24 h.",
+   "Vrai : cocci Gram+, catalase -.",
+   "Vrai : résistance à la bile.",
+   "Faux : l'optochine identifie le pneumocoque.",
+   "Vrai : esculine hydrolysée = test des entérocoques."
+  ]
+ },
+ {
+  "q": "Les espèces d'entérocoques les plus fréquentes en pathologie humaine sont :",
+  "options": [
+   "Enterococcus faecalis est l'espèce la plus souvent isolée",
+   "Streptococcus pyogenes et Streptococcus agalactiae",
+   "Enterococcus faecium",
+   "Enterococcus faecalis",
+   "Enterococcus faecium pose davantage de problèmes de multirésistance"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : E. faecalis le plus fréquemment isolé.",
+   "Faux : ce sont des streptocoques, pas des entérocoques.",
+   "Vrai : E. faecium, deuxième espèce.",
+   "Vrai : E. faecalis, espèce prédominante.",
+   "Vrai : E. faecium = souches multirésistantes."
+  ]
+ },
+ {
+  "q": "Concernant le pouvoir pathogène des entérocoques, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont responsables d'angines érythémateuses",
+   "Ils peuvent surinfecter des escarres et des plaies",
+   "Ils donnent des infections nosocomiales : bactériémies, endocardites",
+   "Ils sont responsables d'infections urinaires",
+   "Leur facteur de virulence principal est l'adhésine"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les angines érythémateuses sont dues au streptocoque A.",
+   "Vrai : surinfections d'escarres et de plaies.",
+   "Vrai : bactériémies et endocardites nosocomiales.",
+   "Vrai : infections urinaires fréquentes.",
+   "Vrai : adhésines = attachement aux épithéliums et valves cardiaques."
+  ]
+ },
+ {
+  "q": "À propos des adhésines des entérocoques, quelles affirmations sont vraies ?",
+  "options": [
+   "Elles sont des toxines érythrogènes",
+   "Elles sont responsables de l'hémolyse bêta",
+   "Elles permettent l'attachement aux épithéliums",
+   "Elles participent à la genèse des endocardites",
+   "Elles permettent l'attachement aux valves cardiaques"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les toxines érythrogènes appartiennent au streptocoque A.",
+   "Faux : les entérocoques ne sont pas hémolytiques.",
+   "Vrai : adhésion aux cellules épithéliales.",
+   "Vrai : étape initiale de l'endocardite.",
+   "Vrai : adhésion aux valves cardiaques."
+  ]
+ },
+ {
+  "q": "Concernant la sensibilité naturelle des entérocoques aux antibiotiques, lesquelles sont exactes ?",
+  "options": [
+   "Sensibilité plus faible que celle des streptocoques",
+   "Sensibilité constante et élevée à tous les antibiotiques",
+   "Résistance naturelle de bas niveau aux aminosides",
+   "Résistance naturelle aux fluoroquinolones et à de nombreux macrolides",
+   "Résistance naturelle aux céphalosporines"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : sensibilité globalement plus faible que les streptocoques.",
+   "Faux : les entérocoques sont naturellement peu sensibles.",
+   "Vrai : résistance naturelle de bas niveau aux aminosides.",
+   "Vrai : résistance naturelle aux FQ et à de nombreux MLS.",
+   "Vrai : résistance intrinsèque aux céphalosporines."
+  ]
+ },
+ {
+  "q": "À propos des résistances acquises des entérocoques, quelles propositions sont vraies ?",
+  "options": [
+   "Aucune résistance acquise n'a jamais été décrite chez les entérocoques",
+   "Des souches épidémiques multirésistantes d'Enterococcus faecium sévissent aux USA",
+   "La résistance acquise aux glycopeptides (VRE) est décrite",
+   "La résistance enzymatique de haut niveau aux aminosides abolit la synergie",
+   "Enterococcus faecalis reste toujours sensible à l'amoxicilline"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : de nombreuses résistances acquises sont décrites.",
+   "Vrai : E. faecium multirésistant épidémique aux USA.",
+   "Vrai : entérocoques résistants à la vancomycine (VRE).",
+   "Vrai : la synergie bêtalactamine-aminoside est alors perdue.",
+   "Faux : des résistances acquises aux aminopénicillines existent."
+  ]
+ },
+ {
+  "q": "Dans une infection urinaire à Enterococcus faecalis sensible, quelles propositions thérapeutiques sont exactes ?",
+  "options": [
+   "L'amoxicilline est l'antibiotique de première intention",
+   "La nitrofurantoïne est une option dans les cystites",
+   "La fosfomycine-trométamol peut être utilisée dans les cystites simples",
+   "Les fluoroquinolones sont le traitement de référence",
+   "Les céphalosporines sont inefficaces malgré une apparente sensibilité in vitro"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : amoxicilline de référence.",
+   "Vrai : nitrofurantoïne possible dans les cystites simples.",
+   "Vrai : fosfomycine active dans les cystites.",
+   "Faux : résistance naturelle aux fluoroquinolones.",
+   "Vrai : résistance naturelle aux céphalosporines."
+  ]
+ },
+ {
+  "q": "Concernant le traitement d'une endocardite à entérocoque sensible, lesquelles sont vraies ?",
+  "options": [
+   "La durée du traitement est prolongée (4 à 6 semaines)",
+   "La synergie bactéricide bêtalactamine-aminoside est recherchée",
+   "La vancomycine est une alternative en cas d'allergie aux bêtalactamines",
+   "L'association amoxicilline (ou ampicilline) + gentamicine est le traitement de référence",
+   "Une céphalosporine de 3e génération en monothérapie suffit"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : traitement prolongé des endocardites.",
+   "Vrai : synergie bactéricide indispensable sur les valves.",
+   "Vrai : glycopeptide si allergie aux bêtalactamines.",
+   "Vrai : ampicilline + gentamicine = référence.",
+   "Faux : résistance naturelle aux céphalosporines."
+  ]
+ },
+ {
+  "q": "À propos des entérocoques résistants à la vancomycine (VRE), quelles affirmations sont vraies ?",
+  "options": [
+   "La daptomycine est une option (hors pneumopathie)",
+   "Le linézolide est une option thérapeutique",
+   "Ils restent sensibles aux céphalosporines",
+   "Des mesures d'hygiène et d'isolement sont nécessaires à l'hôpital",
+   "Ils sont surtout représentés par Enterococcus faecium"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : daptomycine active (inactivée par le surfactant pulmonaire).",
+   "Vrai : linézolide actif sur les VRE.",
+   "Faux : résistance naturelle aux céphalosporines.",
+   "Vrai : précautions contact pour limiter la diffusion nosocomiale.",
+   "Vrai : E. faecium = principal VRE."
+  ]
+ },
+ {
+  "q": "Un patient hospitalisé présente une bactériémie à Enterococcus faecium. Quelles propositions sont exactes ?",
+  "options": [
+   "Un bilan à la recherche d'une endocardite est indiqué",
+   "Le traitement par céphalosporine est recommandé en probabiliste",
+   "L'antibiogramme est indispensable avant de choisir le traitement",
+   "Il s'agit d'une infection nosocomiale possible",
+   "La porte d'entrée urinaire ou digestive doit être recherchée"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : échographie cardiaque devant toute bactériémie à entérocoque.",
+   "Faux : céphalosporines naturellement inactives.",
+   "Vrai : antibiogramme indispensable (multirésistance).",
+   "Vrai : bactériémie nosocomiale classique.",
+   "Vrai : portes d'entrée urinaire, digestive ou cathéter."
+  ]
+ },
+ {
+  "q": "Concernant la place des entérocoques dans les infections nosocomiales, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont strictement communautaires",
+   "La pression de sélection antibiotique favorise leur émergence",
+   "Ils sont fréquents en réanimation et chez les patients sondés",
+   "Ils diffusent par manuportage en milieu hospitalier",
+   "Leur résistance naturelle les sélectionne sous céphalosporines"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : ce sont des germes nosocomiaux classiques.",
+   "Vrai : antibiothérapie sélectionne les souches résistantes.",
+   "Vrai : pathogènes nosocomiaux majeurs.",
+   "Vrai : transmission manuportée.",
+   "Vrai : les céphalosporines sélectionnent les entérocoques naturellement résistants."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic bactériologique d'une infection urinaire à entérocoque, quelles propositions sont vraies ?",
+  "options": [
+   "Le milieu BEA confirme l'hydrolyse de l'esculine",
+   "La culture montre des cocci à Gram positif",
+   "L'ECBU est l'examen de référence",
+   "La leucocyturie accompagne la bactériurie significative",
+   "Le diagnostic repose sur la sérologie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : BEA pour l'identification du genre.",
+   "Vrai : cocci Gram+ à l'examen direct.",
+   "Vrai : ECBU = examen cytobactériologique des urines.",
+   "Vrai : leucocyturie témoin de l'infection.",
+   "Faux : pas de sérologie pour les entérocoques."
+  ]
+ },
+ {
+  "q": "Un patient porteur d'une valve cardiaque prothétique présente une bactériémie à Enterococcus faecalis. Quelles propositions sont exactes ?",
+  "options": [
+   "La durée du traitement est de plusieurs semaines",
+   "Une céphalosporine suffit si l'antibiogramme la montre sensible",
+   "L'échographie transœsophagienne est indiquée",
+   "Le traitement associe ampicilline + gentamicine si la souche est sensible",
+   "Le risque d'endocardite sur prothèse est élevé"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : 4 à 6 semaines de traitement.",
+   "Faux : résistance naturelle aux céphalosporines, quelle que soit la CMI.",
+   "Vrai : ETO pour visualiser les végétations.",
+   "Vrai : bithérapie synergique de référence.",
+   "Vrai : bactériémie à entérocoque = endocardite à redouter."
+  ]
+ },
+ {
+  "q": "Concernant les différences entre streptocoques et entérocoques, lesquelles sont exactes ?",
+  "options": [
+   "Les entérocoques poussent sur milieux biliés, pas les streptocoques",
+   "Les entérocoques hydrolysent l'esculine",
+   "Les streptocoques sont catalase positive et les entérocoques catalase négative",
+   "Les entérocoques sont naturellement plus résistants aux antibiotiques",
+   "Les streptocoques sont plus exigeants en culture"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : résistance à la bile = entérocoques.",
+   "Vrai : esculine hydrolysée par les entérocoques.",
+   "Faux : les deux genres sont catalase négative.",
+   "Vrai : résistances naturelles plus marquées chez Enterococcus.",
+   "Vrai : streptocoques exigeants (sang, facteurs de croissance)."
+  ]
+ },
+ {
+  "q": "Concernant les streptocoques oraux (viridans), lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont bêta-hémolytiques du groupe A",
+   "Ce sont des commensaux de la cavité oropharyngée",
+   "Ils sont responsables d'endocardites",
+   "Ils sont non groupables par la classification de Lancefield",
+   "Ils sont alpha-hémolytiques"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le groupe A bêta-hémolytique est S. pyogenes.",
+   "Vrai : flore commensale orale.",
+   "Vrai : endocardites après bactériémie d'origine bucco-dentaire.",
+   "Vrai : non groupables, pas de morphologie particulière.",
+   "Vrai : hémolyse alpha (viridans)."
+  ]
+ },
+ {
+  "q": "À propos des endocardites à streptocoques oraux, quelles propositions sont vraies ?",
+  "options": [
+   "Les soins dentaires sont un facteur favorisant",
+   "Elles font suite à une bactériémie d'origine bucco-dentaire",
+   "Leur traitement repose sur une bêtalactamine ± aminoside",
+   "Les streptocoques oraux sont résistants à l'optochine",
+   "Elles touchent préférentiellement les valves prothétiques uniquement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : extraction/soins dentaires = bactériémie.",
+   "Vrai : porte d'entrée bucco-dentaire classique.",
+   "Vrai : pénicilline/amoxicilline ± gentamicine.",
+   "Vrai : optochine-résistants (distinction avec le pneumocoque).",
+   "Faux : elles touchent aussi les valves natives lésées."
+  ]
+ },
+ {
+  "q": "Un patient neutropénique présente une septicémie à streptocoque oral. Quelles propositions sont exactes ?",
+  "options": [
+   "La chimiothérapie et la mucite sont des facteurs favorisants",
+   "Les streptocoques oraux peuvent donner des septicémies chez le neutropénique",
+   "Le traitement fait appel aux bêtalactamines",
+   "La porte d'entrée est souvent la muqueuse orale altérée (mucite)",
+   "Les streptocoques oraux sont dépourvus de tout pouvoir pathogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : aplasie et mucite favorisent l'invasion.",
+   "Vrai : septicémies du neutropénique décrites.",
+   "Vrai : bêtalactamines actives.",
+   "Vrai : mucite = porte d'entrée.",
+   "Faux : pathogènes opportunistes reconnus."
+  ]
+ },
+ {
+  "q": "Concernant les streptocoques des groupes C et G, lesquelles sont exactes ?",
+  "options": [
+   "Ils peuvent donner des pharyngites",
+   "Ils sont responsables d'infections néonatales précoces",
+   "Ils peuvent donner des infections cutanées",
+   "Ils sont bêta-hémolytiques",
+   "Streptococcus dysgalactiae appartient à ces groupes"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : pharyngites à streptocoques C/G.",
+   "Faux : les infections néonatales sont le fait du groupe B.",
+   "Vrai : infections cutanées possibles.",
+   "Vrai : groupes C et G bêta-hémolytiques.",
+   "Vrai : S. dysgalactiae (groupes C/G) en pathologie humaine."
+  ]
+ },
+ {
+  "q": "À propos du groupe D des streptocoques, quelles affirmations sont vraies ?",
+  "options": [
+   "Il est responsable d'endocardites",
+   "Le groupe D correspond au streptocoque du groupe A",
+   "Il peut donner des infections urinaires",
+   "Il comprend Streptococcus gallolyticus (anciennement S. bovis)",
+   "Les souches du groupe D sont des commensaux du tube digestif"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : endocardites à streptocoque D.",
+   "Faux : le groupe A est S. pyogenes.",
+   "Vrai : infections urinaires à streptocoque D.",
+   "Vrai : S. gallolyticus = streptocoque du groupe D.",
+   "Vrai : commensaux digestifs."
+  ]
+ },
+ {
+  "q": "Une endocardite à Streptococcus gallolyticus doit faire rechercher :",
+  "options": [
+   "Une pathologie colique sous-jacente (polypes, cancer colorectal)",
+   "Une bactériémie d'origine digestive",
+   "Une angine à streptocoque A",
+   "Une porte d'entrée digestive",
+   "Un portage vaginal"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : association classique endocardite à S. gallolyticus / cancer colique.",
+   "Vrai : bactériémie d'origine digestive.",
+   "Faux : l'angine relève du streptocoque A.",
+   "Vrai : porte d'entrée digestive.",
+   "Faux : le portage vaginal concerne le streptocoque B."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'une endocardite à streptocoque oral, lesquelles sont exactes ?",
+  "options": [
+   "La culture identifie un streptocoque alpha-hémolytique optochine-résistant",
+   "Les hémocultures sont l'examen clé",
+   "L'examen direct montre des cocci à Gram positif en chaînettes",
+   "L'échographie cardiaque recherche des végétations",
+   "La sérologie ASLO confirme le diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : viridans = alpha-hémolytique, optochine-résistant.",
+   "Vrai : hémocultures répétées avant antibiothérapie.",
+   "Vrai : cocci Gram+ en chaînettes.",
+   "Vrai : ETT/ETO à la recherche de végétations.",
+   "Faux : les ASLO concernent le streptocoque A."
+  ]
+ },
+ {
+  "q": "À propos du traitement des endocardites à streptocoques oraux sensibles, quelles propositions sont vraies ?",
+  "options": [
+   "Les aminosides seuls suffisent",
+   "La gentamicine peut être associée pour la synergie bactéricide",
+   "La ceftriaxone est une alternative possible",
+   "La durée est de 4 semaines (2 semaines si forme simple)",
+   "La pénicilline G ou l'amoxicilline à forte dose est la base du traitement"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : aminosides inactifs seuls sur les streptocoques.",
+   "Vrai : synergie avec les aminosides.",
+   "Vrai : ceftriaxone alternative valable.",
+   "Vrai : 4 semaines, 2 semaines possibles si critères de forme simple.",
+   "Vrai : bêtalactamine forte dose en 1re intention."
+  ]
+ },
+ {
+  "q": "Concernant la prophylaxie des endocardites d'origine bucco-dentaire, lesquelles sont exactes ?",
+  "options": [
+   "L'hygiène bucco-dentaire régulière est la mesure de fond",
+   "L'amoxicilline en dose unique avant un geste dentaire invasif est recommandée",
+   "La clindamycine est une alternative en cas d'allergie",
+   "Elle s'adresse aux patients à haut risque (valve prothétique, antécédent d'endocardite)",
+   "Elle est recommandée avant tout soin dentaire chez tout patient"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : hygiène dentaire = prévention de fond.",
+   "Vrai : amoxicilline 2 g en dose unique.",
+   "Vrai : clindamycine si allergie aux bêtalactamines.",
+   "Vrai : prophylaxie ciblée sur les patients à haut risque.",
+   "Faux : pas de prophylaxie systématique chez les patients à risque standard."
+  ]
+ },
+ {
+  "q": "Un patient présente une pharyngite à streptocoque du groupe C. Quelles propositions sont exactes ?",
+  "options": [
+   "Le RAA est une complication habituelle",
+   "Le tableau clinique est proche de l'angine à streptocoque A",
+   "Le TDR streptocoque A est négatif",
+   "Le traitement fait appel aux bêtalactamines",
+   "La culture avec groupage de Lancefield identifie le groupe C"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le RAA est lié au streptocoque A.",
+   "Vrai : pharyngite cliniquement similaire.",
+   "Vrai : TDR spécifique du groupe A.",
+   "Vrai : amoxicilline efficace.",
+   "Vrai : groupage nécessaire pour identifier C/G."
+  ]
+ },
+ {
+  "q": "À propos des infections urinaires à streptocoque du groupe D, quelles affirmations sont vraies ?",
+  "options": [
+   "Elles sont dues à Streptococcus pyogenes",
+   "L'ECBU isole un cocci à Gram positif",
+   "Le groupage identifie le groupe D de Lancefield",
+   "Le traitement fait appel aux aminopénicillines",
+   "Elles surviennent sur des terrains particuliers (anomalies urologiques)"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : S. pyogenes = groupe A.",
+   "Vrai : cocci Gram+ à l'ECBU.",
+   "Vrai : groupage D.",
+   "Vrai : amoxicilline/ampicilline actives.",
+   "Vrai : infections urinaires du groupe D sur terrain favorisant."
+  ]
+ },
+ {
+  "q": "Concernant Streptococcus mutans et la flore orale, quelles propositions sont exactes ?",
+  "options": [
+   "Une mauvaise hygiène dentaire augmente le risque de bactériémie",
+   "La bactériémie bucco-dentaire peut se compliquer d'endocardite",
+   "Tous les streptocoques oraux sont bêta-hémolytiques",
+   "Les streptocoques oraux sont des hôtes normaux de la bouche",
+   "Les streptocoques oraux participent à la formation de la plaque dentaire"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : hygiène défectueuse = bactériémies répétées.",
+   "Vrai : risque d'endocardite infectieuse.",
+   "Faux : ils sont alpha-hémolytiques ou non hémolytiques.",
+   "Vrai : commensaux de la cavité orale.",
+   "Vrai : streptocoques oraux dans la plaque dentaire."
+  ]
+ },
+ {
+  "q": "Pour différencier un pneumocoque d'un streptocoque oral alpha-hémolytique, quels tests sont utiles ?",
+  "options": [
+   "L'hydrolyse de l'esculine sur BEA",
+   "La sensibilité à l'optochine (pneumocoque sensible)",
+   "La recherche de la capsule à l'encre de Chine",
+   "La solubilité dans la bile (pneumocoque lysé)",
+   "L'aspect des colonies plates et ombiliquées (pneumocoque)"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'esculine identifie les entérocoques.",
+   "Vrai : optochine = test discriminant.",
+   "Vrai : capsule visible à l'encre de Chine.",
+   "Vrai : bile-solubilité positive pour le pneumocoque.",
+   "Vrai : colonies ombiliquées typiques."
+  ]
+ },
+ {
+  "q": "Concernant les streptocoques non groupables, lesquelles sont exactes ?",
+  "options": [
+   "Ils ne possèdent pas le polysaccharide C de groupe",
+   "Leur identification repose sur les caractères biochimiques",
+   "Ils sont tous apathogènes",
+   "Le pneumocoque est non groupable par Lancefield",
+   "Les streptocoques oraux en font partie"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : absence d'antigène de groupe C.",
+   "Vrai : galeries biochimiques (Api 20 strept).",
+   "Faux : pneumocoque et viridans sont pathogènes.",
+   "Vrai : le pneumocoque n'est pas groupable.",
+   "Vrai : viridans = non groupables."
+  ]
+ },
+ {
+  "q": "Un patient diabétique présente une infection urinaire à streptocoque du groupe B. Quelles propositions sont exactes ?",
+  "options": [
+   "Il s'agit d'une infection néonatale",
+   "L'ECBU permet le diagnostic",
+   "Le diabète est un facteur de risque",
+   "Les bêtalactamines sont le traitement de référence",
+   "Streptococcus agalactiae peut donner des infections urinaires de l'adulte"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : infection de l'adulte, pas néonatale.",
+   "Vrai : ECBU diagnostique.",
+   "Vrai : diabète = terrain favorisant.",
+   "Vrai : pénicilline/amoxicilline de référence.",
+   "Vrai : IU à strepto B de l'adulte à risque."
+  ]
+ },
+ {
+  "q": "À propos des bactériémies à streptocoques oraux, quelles affirmations sont vraies ?",
+  "options": [
+   "Elles peuvent compliquer des soins dentaires",
+   "Elles peuvent survenir chez le neutropénique",
+   "Elles sont toujours nosocomiales",
+   "Les hémocultures doivent être prélevées avant l'antibiothérapie",
+   "Toute bactériémie à streptocoque oral impose la recherche d'une endocardite"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : porte d'entrée dentaire classique.",
+   "Vrai : septicémies du neutropénique.",
+   "Faux : elles peuvent être communautaires.",
+   "Vrai : hémocultures avant toute antibiothérapie.",
+   "Vrai : échographie cardiaque systématique."
+  ]
+ },
+ {
+  "q": "Concernant le spectre des infections à streptocoques du groupe G, lesquelles sont exactes ?",
+  "options": [
+   "Bactériémies et endocardites",
+   "Arthrites septiques",
+   "Infections néonatales précoces",
+   "Pharyngites",
+   "Infections cutanées et des parties molles"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : formes invasives décrites.",
+   "Vrai : arthrites septiques possibles.",
+   "Faux : infections néonatales = groupe B.",
+   "Vrai : pharyngites à streptocoque G.",
+   "Vrai : infections cutanées possibles."
+  ]
+ },
+ {
+  "q": "Un homme de 65 ans présente une endocardite à streptocoque du groupe D. Quelles propositions sont exactes ?",
+  "options": [
+   "Le pronostic est toujours bénin",
+   "Une coloscopie est indiquée à la recherche d'une lésion colique",
+   "La porte d'entrée est probablement digestive",
+   "Le traitement repose sur pénicilline + gentamicine",
+   "Streptococcus gallolyticus est le germe le plus probable"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : endocardite = infection grave.",
+   "Vrai : dépistage colique systématique.",
+   "Vrai : origine digestive.",
+   "Vrai : bithérapie synergique de référence.",
+   "Vrai : S. gallolyticus (groupe D)."
+  ]
+ },
+ {
+  "q": "À propos des caractères communs des streptocoques des groupes C, G et D, lesquels sont exacts ?",
+  "options": [
+   "Ils sont bêta-hémolytiques (C, G) ou non hémolytiques (D)",
+   "Ce sont des cocci à Gram positif en chaînettes",
+   "Ils sont tous sensibles à l'optochine",
+   "Ils sont catalase négative",
+   "Ils sont identifiés par le groupage de Lancefield"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : C/G bêta-hémolytiques, D non hémolytique.",
+   "Vrai : cocci Gram+ en chaînettes.",
+   "Faux : l'optochine identifie le pneumocoque.",
+   "Vrai : catalase négative.",
+   "Vrai : groupage par polysaccharide C."
+  ]
+ },
+ {
+  "q": "Concernant la prise en charge d'une pharyngite à streptocoque non A (C ou G), lesquelles sont vraies ?",
+  "options": [
+   "La durée du traitement est de 6 jours comme pour le streptocoque A",
+   "La prévention du RAA est l'objectif principal",
+   "Le diagnostic repose sur la culture et le groupage",
+   "L'amoxicilline est efficace",
+   "Un macrolide est une alternative en cas d'allergie"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : durée courte similaire.",
+   "Faux : le RAA est spécifique du streptocoque A.",
+   "Vrai : culture + Lancefield pour le groupe.",
+   "Vrai : bêtalactamines actives.",
+   "Vrai : macrolides si allergie."
+  ]
+ },
+ {
+  "q": "Un patient présente une cellulite du membre inférieur. Quels germes évoquer ?",
+  "options": [
+   "Streptococcus pneumoniae",
+   "Staphylococcus aureus",
+   "Un streptocoque du groupe G",
+   "Enterococcus faecalis en premier lieu",
+   "Streptococcus pyogenes (groupe A)"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : le pneumocoque ne donne pas de cellulites.",
+   "Vrai : S. aureus à évoquer systématiquement.",
+   "Vrai : streptocoques G possibles.",
+   "Faux : les entérocoques ne sont pas des agents de cellulite.",
+   "Vrai : S. pyogenes = agent classique des cellulites."
+  ]
+ },
+ {
+  "q": "À propos des infections mixtes à streptocoques et staphylocoques, quelles propositions sont exactes ?",
+  "options": [
+   "La catalase permet de les distinguer au laboratoire",
+   "Leur sensibilité aux antibiotiques est identique en tous points",
+   "Les surinfections de plaies peuvent être mixtes",
+   "Les deux peuvent donner des infections cutanées suppuratives",
+   "L'impétigo peut être dû aux deux germes"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : catalase + (staph) vs - (strep).",
+   "Faux : sensibilités différentes (ex. oxacilline, coagulase).",
+   "Vrai : plaies surinfectées polymicrobiennes.",
+   "Vrai : les deux donnent des suppurations cutanées.",
+   "Vrai : impétigo streptococcique ou staphylococcique."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements dans les infections à streptocoques non A, lesquels sont adaptés ?",
+  "options": [
+   "Écouvillonnage pharyngé pour les pharyngites",
+   "ECBU pour les infections urinaires",
+   "Hémocultures pour les endocardites et septicémies",
+   "Prélèvement vaginal pour le dépistage du streptocoque A",
+   "Ponction de liquide articulaire pour les arthrites"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : écouvillon gorge pour pharyngite.",
+   "Vrai : ECBU pour IU.",
+   "Vrai : hémocultures avant antibiothérapie.",
+   "Faux : le prélèvement vaginal dépiste le streptocoque B.",
+   "Vrai : ponction articulaire pour arthrite septique."
+  ]
+ },
+ {
+  "q": "Un enfant présente une angine avec TDR streptocoque A négatif mais une culture positive à streptocoque du groupe G. Quelles propositions sont exactes ?",
+  "options": [
+   "Le résultat du TDR était un faux négatif pour le groupe A",
+   "Le TDR ne détecte que le streptocoque du groupe A",
+   "La culture reste l'examen de référence",
+   "Le risque de RAA est identique à celui du streptocoque A",
+   "Le traitement par amoxicilline est indiqué"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : le TDR était vraiment négatif (pas de groupe A).",
+   "Vrai : TDR spécifique de l'antigène du groupe A.",
+   "Vrai : culture = référence.",
+   "Faux : le RAA est lié au groupe A.",
+   "Vrai : amoxicilline efficace sur le groupe G."
+  ]
+ },
+ {
+  "q": "Concernant l'épidémiologie des infections à streptocoques, lesquelles sont exactes ?",
+  "options": [
+   "Le streptocoque A se transmet par voie aérienne",
+   "Tous les streptocoques se transmettent par voie sexuelle",
+   "Le streptocoque B se transmet verticalement de la mère à l'enfant",
+   "Le pneumocoque se transmet par voie respiratoire",
+   "Les entérocoques se transmettent par manuportage à l'hôpital"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : transmission aérienne du strepto A.",
+   "Faux : pas de transmission sexuelle des streptocoques.",
+   "Vrai : transmission materno-fœtale du strepto B.",
+   "Vrai : transmission respiratoire du pneumocoque.",
+   "Vrai : manuportage nosocomial des entérocoques."
+  ]
+ },
+ {
+  "q": "Devant des cocci à Gram positif en chaînettes à l'examen direct, quelles orientations sont possibles ?",
+  "options": [
+   "Un méningocoque",
+   "Un streptocoque",
+   "Un pneumocoque",
+   "Un staphylocoque en premier lieu",
+   "Un entérocoque"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : le méningocoque est un diplocoque à Gram négatif.",
+   "Vrai : chaînettes = streptocoques.",
+   "Vrai : diplocoques en chaînettes pour le pneumocoque.",
+   "Faux : le staphylocoque se dispose en amas.",
+   "Vrai : courtes chaînettes possibles pour les entérocoques."
+  ]
+ },
+ {
+  "q": "Concernant la démarche diagnostique devant une suspicion d'infection streptococcique, lesquelles sont exactes ?",
+  "options": [
+   "L'examen direct comprend l'état frais et la coloration de Gram",
+   "Le prélèvement est inutile si une antibiothérapie a déjà débuté",
+   "Une asepsie rigoureuse est exigée pour l'interprétation",
+   "Le prélèvement doit être adapté au site de l'infection",
+   "La culture se fait sur milieux enrichis"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : état frais + Gram à l'examen direct.",
+   "Faux : le prélèvement reste utile (Ag solubles, sérologie).",
+   "Vrai : asepsie rigoureuse indispensable.",
+   "Vrai : prélèvement selon le site (gorge, LCR, sang, urine...).",
+   "Vrai : gélose au sang, milieux enrichis."
+  ]
+ },
+ {
+  "q": "À propos de l'examen direct dans les infections à cocci à Gram positif, quelles propositions sont vraies ?",
+  "options": [
+   "L'état frais apprécie la mobilité (streptocoques immobiles)",
+   "La présence de polynucléaires altérés oriente vers une infection bactérienne",
+   "La recherche de la capsule à l'encre de Chine oriente vers le pneumocoque",
+   "L'examen direct permet toujours l'identification d'espèce",
+   "La coloration de Gram précise la morphologie et le groupement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : streptocoques et entérocoques immobiles.",
+   "Vrai : polynucléaires = inflammation bactérienne.",
+   "Vrai : encre de Chine = capsule du pneumocoque.",
+   "Faux : l'identification d'espèce requiert la culture.",
+   "Vrai : Gram = morphologie + disposition."
+  ]
+ },
+ {
+  "q": "Concernant la culture des streptocoques et entérocoques, lesquelles sont exactes ?",
+  "options": [
+   "Le milieu BHI sert d'enrichissement",
+   "La gélose à 5 % de sang défibriné est le milieu de base",
+   "Tous poussent en 24 h sur gélose nutritive ordinaire",
+   "L'incubation se fait à 37 °C en atmosphère enrichie en CO2",
+   "Le type d'hémolyse oriente l'identification"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : Brain Heart Infusion pour l'enrichissement.",
+   "Vrai : gélose au sang = milieu de référence.",
+   "Faux : germes exigeants (sauf entérocoques moins exigeants).",
+   "Vrai : 37 °C, 5 % de CO2.",
+   "Vrai : bêta/alpha/absence d'hémolyse = orientation."
+  ]
+ },
+ {
+  "q": "Pour identifier un streptocoque bêta-hémolytique, quels tests sont utiles ?",
+  "options": [
+   "Le groupage de Lancefield (A, B, C, G...)",
+   "L'hydrolyse de l'esculine sur BEA",
+   "La galerie Api 20 strept pour les caractères biochimiques",
+   "La recherche de la catalase négative",
+   "Le disque d'optochine"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : polysaccharide C de groupe.",
+   "Faux : l'esculine identifie les entérocoques.",
+   "Vrai : identification biochimique complémentaire.",
+   "Vrai : catalase négative caractéristique.",
+   "Faux : l'optochine concerne les alpha-hémolytiques (pneumocoque)."
+  ]
+ },
+ {
+  "q": "Concernant les hémocultures dans les infections à streptocoques/entérocoques, lesquelles sont vraies ?",
+  "options": [
+   "Elles sont indiquées devant toute suspicion d'endocardite",
+   "Une seule hémoculture positive suffit toujours au diagnostic",
+   "Des hémocultures positives à streptocoque oral évoquent une endocardite",
+   "Elles permettent l'antibiogramme",
+   "Elles doivent être prélevées avant toute antibiothérapie"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : hémocultures = clé du diagnostic d'endocardite.",
+   "Faux : il faut des hémocultures répétées et concordantes.",
+   "Vrai : bactériémie à viridans = endocardite à redouter.",
+   "Vrai : la souche isolée est antibiogrammée.",
+   "Vrai : avant l'antibiothérapie pour une bonne sensibilité."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic des méningites à pneumocoque, quelles propositions sont exactes ?",
+  "options": [
+   "Le diagnostic repose sur la sérologie ASLO",
+   "La recherche d'antigènes solubles dans le LCR est utile",
+   "L'examen direct peut montrer des diplocoques à Gram positif",
+   "Le LCR montre une méningite purulente (polynucléaires, hyperprotéinorachie, hypoglycorachie)",
+   "La ponction lombaire est urgente"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les ASLO concernent le streptocoque A.",
+   "Vrai : Ag solubles (latex), surtout si antibiothérapie préalable.",
+   "Vrai : diplocoques Gram+ en flamme de bougie.",
+   "Vrai : profil purulent du LCR.",
+   "Vrai : PL en urgence devant une méningite purulente."
+  ]
+ },
+ {
+  "q": "Concernant l'ECBU dans les infections urinaires à entérocoques ou streptocoques, lesquelles sont exactes ?",
+  "options": [
+   "Un ECBU positif impose toujours une antibiothérapie",
+   "La culture permet l'identification et l'antibiogramme",
+   "Une bactériurie significative associée à une leucocyturie signe l'infection",
+   "Le recueil doit être propre pour éviter la contamination",
+   "L'examen direct montre des cocci à Gram positif"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : une colonisation asymptomatique ne se traite pas toujours.",
+   "Vrai : identification + antibiogramme.",
+   "Vrai : leucocyturie + bactériurie = infection.",
+   "Vrai : recueil propre milieu de jet.",
+   "Vrai : cocci Gram+ à l'examen direct."
+  ]
+ },
+ {
+  "q": "À propos des tests rapides d'orientation, quelles propositions sont exactes ?",
+  "options": [
+   "Le TDR vaginal dépiste le portage du streptocoque B",
+   "L'agglutination au latex détecte les antigènes pneumococciques solubles",
+   "Le TDR angine détecte l'antigène du streptocoque A",
+   "Le TDR angine détecte aussi les streptocoques C et G",
+   "Le test à l'encre de Chine visualise la capsule"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : dépistage du portage vaginal de S. agalactiae.",
+   "Vrai : latex pour Ag solubles (LCR, urines).",
+   "Vrai : TDR = antigène du groupe A.",
+   "Faux : le TDR est spécifique du groupe A.",
+   "Vrai : halo clair = capsule à l'état frais."
+  ]
+ },
+ {
+  "q": "Concernant la sérologie post-streptococcique, lesquelles sont vraies ?",
+  "options": [
+   "Elle permet le diagnostic direct de l'angine aiguë",
+   "La cinétique (deux prélèvements) a plus de valeur qu'un taux isolé",
+   "ASK et ASD complètent les ASLO",
+   "Elle est indiquée dans les syndromes post-streptococciques (RAA, GNA)",
+   "L'élévation des ASLO signe un contact récent avec le streptocoque A"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la sérologie est rétrospective, pas pour l'angine aiguë.",
+   "Vrai : l'ascension des titres est diagnostique.",
+   "Vrai : panel ASLO/ASK/ASD.",
+   "Vrai : RAA, GNA, érythème noueux.",
+   "Vrai : ASLO élevés = infection récente à S. pyogenes."
+  ]
+ },
+ {
+  "q": "Un LCR purulent avec cocci à Gram positif en diplocoques et antigènes solubles pneumococciques positifs. Quelles propositions sont exactes ?",
+  "options": [
+   "Il faut attendre la culture avant de traiter",
+   "La culture du LCR reste utile pour l'antibiogramme",
+   "La dexaméthasone adjuvante peut être associée",
+   "L'antibiothérapie doit être débutée en urgence",
+   "Le diagnostic de méningite à pneumocoque est retenu"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le traitement ne doit pas attendre la culture.",
+   "Vrai : antibiogramme indispensable (PSD).",
+   "Vrai : corticothérapie adjuvante recommandée.",
+   "Vrai : urgence thérapeutique.",
+   "Vrai : faisceau d'arguments diagnostiques."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'une infection néonatale à streptocoque B, lesquelles sont exactes ?",
+  "options": [
+   "Hémoculture et ponction lombaire en urgence",
+   "La culture sur gélose au sang montre une hémolyse bêta",
+   "Le groupage de Lancefield identifie le groupe B",
+   "Le diagnostic repose sur les ASLO du nouveau-né",
+   "L'examen direct du LCR montre des cocci à Gram positif en chaînettes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : bilan infectieux complet en urgence.",
+   "Vrai : S. agalactiae bêta-hémolytique.",
+   "Vrai : confirmation par le groupe B.",
+   "Faux : les ASLO concernent le streptocoque A.",
+   "Vrai : cocci Gram+ en chaînettes."
+  ]
+ },
+ {
+  "q": "À propos de l'antibiogramme des streptocoques et entérocoques, quelles propositions sont vraies ?",
+  "options": [
+   "Pour le pneumocoque, le disque d'oxacilline dépiste les PSD",
+   "Il est indispensable dans les infections graves",
+   "Pour les entérocoques, il guide le choix entre amoxicilline, glycopeptides et alternatives",
+   "La CMI (E-test) confirme le niveau de sensibilité à la pénicilline",
+   "L'antibiogramme est inutile car la sensibilité est toujours prévisible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : oxacilline 1 µg = dépistage des PSD.",
+   "Vrai : endocardites, méningites, septicémies.",
+   "Vrai : choix thérapeutique selon les résistances.",
+   "Vrai : E-test pour la CMI exacte.",
+   "Faux : les résistances acquises imposent l'antibiogramme."
+  ]
+ },
+ {
+  "q": "Concernant les pièges diagnostiques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'absence d'hémolyse élimine tout pouvoir pathogène",
+   "Une hémolyse bêta n'est pas synonyme de streptocoque A",
+   "Tout cocci en chaînettes est un streptocoque du groupe A",
+   "Un streptocoque alpha-hémolytique n'est pas toujours un pneumocoque",
+   "Un cocci à Gram positif catalase positive n'est pas un streptocoque"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : entérocoques et groupe D non hémolytiques pathogènes.",
+   "Vrai : groupes B, C, G aussi bêta-hémolytiques.",
+   "Faux : de nombreux streptocoques non A sont en chaînettes.",
+   "Vrai : les viridans sont aussi alpha-hémolytiques (optochine).",
+   "Vrai : catalase positive = staphylocoque (ou microcoque)."
+  ]
+ },
+ {
+  "q": "Un prélèvement de gorge met en évidence des colonies bêta-hémolytiques catalase négatives. Quelles propositions sont exactes ?",
+  "options": [
+   "La recherche de la coagulase est l'étape suivante",
+   "Le groupage de Lancefield précise le groupe (A, B, C, G...)",
+   "La galerie Api 20 strept peut confirmer l'espèce",
+   "Le diagnostic d'angine à streptocoque A est certain sans groupage",
+   "Si le groupe est A, le TDR aurait pu faire le diagnostic en consultation"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : la coagulase est un test staphylococcique.",
+   "Vrai : groupage indispensable pour typer.",
+   "Vrai : identification biochimique complémentaire.",
+   "Faux : le groupage est nécessaire (B, C, G aussi bêta-hémolytiques).",
+   "Vrai : TDR = diagnostic rapide du groupe A."
+  ]
+ },
+ {
+  "q": "Concernant la recherche d'antigènes solubles, lesquelles sont vraies ?",
+  "options": [
+   "Elle détecte les antigènes capsulaires du pneumocoque dans le LCR",
+   "Elle remplace la culture dans les méningites",
+   "Elle reste positive après début d'une antibiothérapie (infections décapitées)",
+   "Elle détecte ces antigènes dans les urines",
+   "Elle utilise l'agglutination de particules de latex sensibilisées"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : Ag solubles dans le LCR.",
+   "Faux : la culture reste nécessaire (antibiogramme).",
+   "Vrai : intérêt majeur si antibiothérapie préalable.",
+   "Vrai : antigénurie pneumococcique.",
+   "Vrai : technique d'agglutination au latex."
+  ]
+ },
+ {
+  "q": "À propos du milieu BEA, quelles affirmations sont exactes ?",
+  "options": [
+   "BEA signifie bile-esculine-azide",
+   "Il identifie le pneumocoque",
+   "Il permet d'identifier les entérocoques en 24 h",
+   "L'hydrolyse de l'esculine noircit le milieu",
+   "La bile inhibe la plupart des autres cocci à Gram positif"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : bile-esculine-azide.",
+   "Faux : le pneumocoque s'identifie à l'optochine.",
+   "Vrai : test rapide d'orientation vers Enterococcus.",
+   "Vrai : esculetine + fer = colonies noirâtres.",
+   "Vrai : sélectivité par la bile et l'azide."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic différentiel d'une bactériémie à cocci à Gram positif, lesquelles sont exactes ?",
+  "options": [
+   "La catalase négative affirme le pneumocoque",
+   "La disposition en chaînettes évoque un streptocoque",
+   "La coagulase identifie Staphylococcus aureus",
+   "La catalase oriente entre staphylocoque et streptocoque/entérocoque",
+   "La disposition en amas évoque un staphylocoque"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : catalase négative = streptocoque/entérocoque/pneumocoque (optochine ensuite).",
+   "Vrai : chaînettes = streptocoques.",
+   "Vrai : coagulase = S. aureus.",
+   "Vrai : catalase = premier test discriminant.",
+   "Vrai : amas = staphylocoques."
+  ]
+ },
+ {
+  "q": "Un patient présente une pneumonie avec antigénurie pneumococcique positive. Quelles propositions sont exactes ?",
+  "options": [
+   "La recherche du germe dans les crachats reste utile",
+   "L'antigénurie positive affirme une méningite associée",
+   "L'antigénurie peut rester positive après une antibiothérapie",
+   "L'hémoculture doit être réalisée",
+   "Le diagnostic de pneumonie à pneumocoque est très probable"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : crachat pour culture et antibiogramme.",
+   "Faux : l'antigénurie ne renseigne pas sur une localisation méningée.",
+   "Vrai : persistance après antibiothérapie.",
+   "Vrai : hémocultures devant une pneumonie grave.",
+   "Vrai : spécificité élevée de l'antigénurie."
+  ]
+ },
+ {
+  "q": "Concernant les examens complémentaires dans une suspicion d'endocardite, lesquels sont indiqués ?",
+  "options": [
+   "La sérologie ASLO en première intention",
+   "L'identification précise du streptocoque ou de l'entérocoque en cause",
+   "Un antibiogramme avec CMI",
+   "Des hémocultures répétées avant antibiothérapie",
+   "Une échographie cardiaque (ETT puis ETO si besoin)"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les ASLO n'ont pas de place dans l'endocardite.",
+   "Vrai : espèce et groupe pour adapter le traitement.",
+   "Vrai : CMI pour ajuster les doses.",
+   "Vrai : 3 paires d'hémocultures avant traitement.",
+   "Vrai : recherche de végétations."
+  ]
+ },
+ {
+  "q": "Concernant les bêtalactamines dans les infections streptococciques, lesquelles sont exactes ?",
+  "options": [
+   "L'amoxicilline est l'antibiotique de référence des angines à streptocoque A",
+   "La pénicilline G IV est utilisée dans les formes graves",
+   "Aucune résistance acquise à la pénicilline n'est décrite chez S. pyogenes",
+   "Les bêtalactamines sont inactives sur les entérocoques",
+   "Les céphalosporines sont actives sur les streptocoques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : amoxicilline 1re intention.",
+   "Vrai : pénicilline G IV dans les formes invasives.",
+   "Vrai : S. pyogenes constamment sensible à la pénicilline.",
+   "Faux : les aminopénicillines sont actives sur les entérocoques sensibles.",
+   "Vrai : C1G/C3G actives sur les streptocoques."
+  ]
+ },
+ {
+  "q": "En cas d'allergie à la pénicilline, quelles alternatives sont possibles dans les infections streptococciques ?",
+  "options": [
+   "Un glycopeptide (vancomycine) dans les formes graves",
+   "La clindamycine",
+   "Un aminoside en monothérapie",
+   "Un macrolide (azithromycine, clarithromycine)",
+   "Une céphalosporine si l'allergie n'est pas sévère"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : vancomycine dans les formes graves.",
+   "Vrai : clindamycine active sur les streptocoques.",
+   "Faux : aminosides inactifs seuls.",
+   "Vrai : macrolides = alternative classique.",
+   "Vrai : céphalosporine possible si allergie non immédiate."
+  ]
+ },
+ {
+  "q": "Concernant les macrolides dans les infections à streptocoques, lesquelles sont vraies ?",
+  "options": [
+   "La résistance aux macrolides du pneumocoque est en augmentation",
+   "Ils sont bactéricides sur les streptocoques",
+   "Des résistances acquises aux macrolides sont décrites",
+   "Ils sont indiqués en cas d'allergie aux bêtalactamines",
+   "Ils sont actifs sur Streptococcus pyogenes"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : résistance croissante du pneumocoque.",
+   "Faux : les macrolides sont bactériostatiques.",
+   "Vrai : peu d'acquisition mais des résistances existent.",
+   "Vrai : alternative en cas d'allergie.",
+   "Vrai : macrolides actifs sur S. pyogenes."
+  ]
+ },
+ {
+  "q": "À propos de la synergie bêtalactamine-aminoside, quelles affirmations sont exactes ?",
+  "options": [
+   "L'aminoside seul est aussi efficace que l'association",
+   "Elle est indiquée dans les infections graves (septicémies)",
+   "Elle suppose l'absence de résistance de haut niveau aux aminosides",
+   "Elle est indiquée dans les endocardites à streptocoques ou entérocoques",
+   "Elle est bactéricide"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'aminoside seul est inactif (bas niveau naturel).",
+   "Vrai : formes graves (méningites, septicémies).",
+   "Vrai : la résistance enzymatique abolit la synergie.",
+   "Vrai : endocardites = indication majeure.",
+   "Vrai : effet bactéricide synergique."
+  ]
+ },
+ {
+  "q": "Concernant les glycopeptides (vancomycine, teicoplanine), lesquelles sont exactes ?",
+  "options": [
+   "Ils sont actifs par voie orale dans les infections systémiques",
+   "Des entérocoques résistants aux glycopeptides (VRE) existent",
+   "Ils sont indiqués en cas d'allergie grave aux bêtalactamines",
+   "Ils sont actifs sur les streptocoques et les entérocoques sensibles",
+   "La vancomycine est associée aux C3G dans la méningite à pneumocoque PSD"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la vancomycine orale n'est pas absorbée (réservée au tube digestif).",
+   "Vrai : VRE décrits (surtout E. faecium).",
+   "Vrai : alternative si allergie sévère.",
+   "Vrai : spectre anti-Gram+ incluant streptocoques/entérocoques.",
+   "Vrai : bithérapie probabiliste des méningites."
+  ]
+ },
+ {
+  "q": "Dans une pneumonie à pneumocoque sensible, quelles propositions thérapeutiques sont exactes ?",
+  "options": [
+   "Les aminosides en monothérapie sont efficaces",
+   "La lévofloxacine (fluoroquinolone antipneumococcique) est une alternative",
+   "L'amoxicilline à forte dose est le traitement de référence",
+   "La durée est généralement de 7 jours",
+   "Les macrolides sont une alternative"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : aminosides inactifs sur le pneumocoque.",
+   "Vrai : FQ antipneumococciques en alternative.",
+   "Vrai : amoxicilline forte dose en 1re intention.",
+   "Vrai : traitement court de 7 jours habituel.",
+   "Vrai : macrolides possibles."
+  ]
+ },
+ {
+  "q": "Concernant le traitement d'une méningite à pneumocoque, lesquelles sont vraies ?",
+  "options": [
+   "L'association ceftriaxone + vancomycine est le traitement probabiliste",
+   "La pénicilline G seule est toujours suffisante",
+   "Le traitement est une urgence et débute sans attendre les résultats",
+   "La dexaméthasone est associée dès la première dose d'antibiotique",
+   "Le relais est adapté selon les CMI"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : C3G + vancomycine si PSD possible.",
+   "Faux : PSD = échec possible de la pénicilline G.",
+   "Vrai : chaque heure compte dans la méningite.",
+   "Vrai : corticothérapie adjuvante précoce.",
+   "Vrai : désescalade selon l'antibiogramme."
+  ]
+ },
+ {
+  "q": "À propos du traitement des infections à entérocoques, quelles propositions sont exactes ?",
+  "options": [
+   "L'amoxicilline ou l'ampicilline est la base du traitement des souches sensibles",
+   "La ceftriaxone en monothérapie est le traitement de référence",
+   "La gentamicine est associée pour la synergie dans les formes graves",
+   "Les céphalosporines sont à proscrire (résistance naturelle)",
+   "Le linézolide est une option pour les VRE"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : aminopénicillines de référence.",
+   "Faux : céphalosporines naturellement inactives.",
+   "Vrai : synergie dans endocardites et infections graves.",
+   "Vrai : résistance intrinsèque aux céphalosporines.",
+   "Vrai : linézolide actif sur les VRE."
+  ]
+ },
+ {
+  "q": "Concernant la daptomycine dans les infections à entérocoques, lesquelles sont exactes ?",
+  "options": [
+   "Elle est active sur le pneumocoque dans les méningites",
+   "Elle est active sur les entérocoques résistants à la vancomycine",
+   "Elle est inactivée par le surfactant pulmonaire (inutile dans les pneumopathies)",
+   "Elle est indiquée dans les bactériémies à VRE",
+   "Elle est bactéricide"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la daptomycine ne passe pas la barrière hémato-méningée.",
+   "Vrai : alternative des VRE.",
+   "Vrai : pas d'indication dans les pneumonies.",
+   "Vrai : bactériémies à entérocoques résistants.",
+   "Vrai : lipopeptide bactéricide."
+  ]
+ },
+ {
+  "q": "Un patient allergique à la pénicilline (choc anaphylactique) présente une endocardite à streptocoque oral. Quelles propositions sont exactes ?",
+  "options": [
+   "La gentamicine peut être associée pour la synergie",
+   "Une céphalosporine est formellement contre-indiquée",
+   "La désensibilisation à la pénicilline est une option en milieu spécialisé",
+   "La vancomycine est l'alternative de choix",
+   "L'amoxicilline peut être utilisée malgré l'allergie"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : synergie avec aminoside maintenue.",
+   "Faux : contre-indication relative, pas formelle (allergie croisée partielle).",
+   "Vrai : désensibilisation envisageable.",
+   "Vrai : glycopeptide si allergie immédiate.",
+   "Faux : l'amoxicilline est contre-indiquée (allergie croisée)."
+  ]
+ },
+ {
+  "q": "Concernant les durées de traitement, lesquelles sont exactes ?",
+  "options": [
+   "Pneumonie à pneumocoque : environ 7 jours",
+   "Méningite à pneumocoque : 10 à 14 jours",
+   "Angine à streptocoque A : 6 jours d'amoxicilline",
+   "Endocardite à streptocoque : 4 à 6 semaines",
+   "Toute infection streptococcique nécessite 6 semaines de traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 7 jours pour les pneumonies non compliquées.",
+   "Vrai : 10 à 14 jours pour les méningites.",
+   "Vrai : traitement court des angines.",
+   "Vrai : traitement prolongé des endocardites.",
+   "Faux : la durée dépend du site et de la gravité."
+  ]
+ },
+ {
+  "q": "À propos des résistances du pneumocoque aux antibiotiques, quelles affirmations sont vraies ?",
+  "options": [
+   "Il n'y a pas de production de bêtalactamase",
+   "Le mécanisme principal est la modification des PLP",
+   "Le pneumocoque est naturellement résistant aux bêtalactamines",
+   "Les PSD restent sensibles à l'amoxicilline à forte dose dans certains cas",
+   "La résistance aux macrolides est croissante"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : pas de pénicillinase chez le pneumocoque.",
+   "Vrai : PLP modifiées = sensibilité diminuée.",
+   "Faux : il est naturellement sensible aux bêtalactamines.",
+   "Vrai : fortes doses d'amoxicilline possibles si CMI modérée.",
+   "Vrai : résistance MLS en augmentation."
+  ]
+ },
+ {
+  "q": "Concernant le traitement probabiliste d'une septicémie à cocci à Gram positif en chaînettes, lesquelles sont vraies ?",
+  "options": [
+   "La vancomycine est indiquée si allergie grave aux bêtalactamines",
+   "L'association à la gentamicine est envisagée si endocardite suspectée",
+   "Le traitement peut attendre l'antibiogramme dans les formes graves",
+   "L'amoxicilline est active sur la plupart des streptocoques",
+   "Les céphalosporines sont à éviter si un entérocoque est suspecté"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : glycopeptide si allergie immédiate.",
+   "Vrai : synergie si localisation endocarditique.",
+   "Faux : les formes graves se traitent en probabiliste immédiat.",
+   "Vrai : amoxicilline = base du traitement.",
+   "Vrai : résistance naturelle des entérocoques aux C3G."
+  ]
+ },
+ {
+  "q": "À propos de la clindamycine dans les infections streptococciques, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est une alternative en cas d'allergie aux bêtalactamines",
+   "Elle peut être associée à la pénicilline dans les infections invasives graves",
+   "Elle inhibe la synthèse des toxines (intérêt dans le choc toxique)",
+   "Elle est active sur les entérocoques",
+   "Elle est active sur Streptococcus pyogenes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : alternative si allergie.",
+   "Vrai : association pénicilline + clindamycine dans les formes toxinique.",
+   "Vrai : effet antitoxinique (inhibition protéique).",
+   "Faux : les entérocoques sont naturellement résistants.",
+   "Vrai : clindamycine active sur S. pyogenes."
+  ]
+ },
+ {
+  "q": "Concernant le traitement des infections urinaires à streptocoque B de l'adulte, lesquelles sont exactes ?",
+  "options": [
+   "Les céphalosporines sont actives sur S. agalactiae",
+   "La nitrofurantoïne est possible dans les cystites simples",
+   "La fosfomycine-trométamol est une option dans les cystites",
+   "L'amoxicilline est le traitement de première intention",
+   "Les fluoroquinolones sont le traitement de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : S. agalactiae sensible aux céphalosporines.",
+   "Vrai : nitrofurantoïne dans les cystites.",
+   "Vrai : fosfomycine en dose unique possible.",
+   "Vrai : amoxicilline de référence.",
+   "Faux : les FQ ne sont pas la référence."
+  ]
+ },
+ {
+  "q": "Un nouveau-né présente une méningite à streptocoque B. Quelles propositions thérapeutiques sont exactes ?",
+  "options": [
+   "Le traitement est une urgence",
+   "La durée du traitement est de 14 à 21 jours",
+   "La céfotaxime peut remplacer l'ampicilline après documentation",
+   "La vancomycine seule est le traitement de référence",
+   "L'association ampicilline + gentamicine est le traitement probabiliste"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : urgence thérapeutique.",
+   "Vrai : 14 à 21 jours pour les méningites néonatales.",
+   "Vrai : C3G possible après identification.",
+   "Faux : la vancomycine n'est pas la référence ici.",
+   "Vrai : ampicilline + aminoside en probabiliste néonatal."
+  ]
+ },
+ {
+  "q": "Concernant les échecs thérapeutiques, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'inobservance explique certains échecs dans les angines",
+   "Une résistance enzymatique aux aminosides abolit la synergie",
+   "Streptococcus pyogenes résistant à la pénicilline est une cause fréquente d'échec",
+   "Un VRE explique l'échec de la vancomycine dans une bactériémie à entérocoque",
+   "Une PSD méconnue explique l'échec de la pénicilline G dans une méningite à pneumocoque"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : observance du traitement court essentielle.",
+   "Vrai : plus de synergie si résistance de haut niveau.",
+   "Faux : aucune résistance à la pénicilline chez S. pyogenes.",
+   "Vrai : VRE = vancomycine inefficace.",
+   "Vrai : PSD = CMI élevée, échec de la pénicilline G."
+  ]
+ },
+ {
+  "q": "À propos de l'antibioprophylaxie per-partum contre le streptocoque B, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est indiquée si le dépistage vaginal est positif",
+   "Elle est débutée dès le diagnostic du portage pendant la grossesse",
+   "La clindamycine IV est utilisée si allergie grave",
+   "La pénicilline G IV est l'antibiotique de choix",
+   "L'ampicilline IV est une alternative"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : prophylaxie ciblée sur les mères colonisées.",
+   "Faux : elle débute pendant le travail, pas pendant la grossesse.",
+   "Vrai : clindamycine si allergie immédiate aux bêtalactamines.",
+   "Vrai : pénicilline G IV pendant le travail.",
+   "Vrai : ampicilline IV alternative."
+  ]
+ },
+ {
+  "q": "Concernant la prise en charge d'une otite moyenne aiguë à pneumocoque, lesquelles sont vraies ?",
+  "options": [
+   "L'antibiothérapie n'est jamais indiquée avant 2 ans",
+   "La ceftriaxone IM est une alternative",
+   "En cas d'échec, l'amoxicilline-acide clavulanique est une option",
+   "Les macrolides sont le traitement de première intention",
+   "L'amoxicilline est l'antibiotique de première intention"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : l'antibiothérapie est souvent indiquée avant 2 ans.",
+   "Vrai : ceftriaxone alternative.",
+   "Vrai : Augmentin si échec ou récidive.",
+   "Faux : les macrolides ne sont pas la référence (résistances).",
+   "Vrai : amoxicilline 1re intention."
+  ]
+ },
+ {
+  "q": "À propos du traitement des bactériémies à entérocoques, quelles affirmations sont exactes ?",
+  "options": [
+   "Une céphalosporine de 3e génération suffit toujours",
+   "Les glycopeptides sont une alternative",
+   "L'antibiogramme est indispensable",
+   "La gentamicine est associée dans les formes graves",
+   "L'ampicilline est la base si la souche est sensible"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : résistance naturelle aux céphalosporines.",
+   "Vrai : vancomycine/teicoplanine si besoin.",
+   "Vrai : résistances variables = antibiogramme obligatoire.",
+   "Vrai : synergie dans les formes graves/endocardites.",
+   "Vrai : ampicilline de référence."
+  ]
+ },
+ {
+  "q": "Concernant les interactions et précautions, lesquelles sont exactes ?",
+  "options": [
+   "La vancomycine nécessite une surveillance de la fonction rénale",
+   "Le linézolide nécessite une surveillance de la numération (thrombopénie)",
+   "Les bêtalactamines ne présentent aucun effet indésirable",
+   "La gentamicine dans la synergie est utilisée à faible dose",
+   "Les aminosides sont néphrotoxiques et ototoxiques"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : néphrotoxicité de la vancomycine.",
+   "Vrai : thrombopénie sous linézolide prolongé.",
+   "Faux : allergies et autres effets possibles.",
+   "Vrai : faibles doses en synergie (moins toxiques).",
+   "Vrai : toxicités rénale et auditive des aminosides."
+  ]
+ },
+ {
+  "q": "Un patient présente une pneumonie grave à pneumocoque avec bactériémie. Quelles propositions sont exactes ?",
+  "options": [
+   "L'amoxicilline à forte dose ou la ceftriaxone sont des options",
+   "Les aminosides en monothérapie sont recommandés",
+   "L'antibiothérapie doit être débutée rapidement",
+   "L'hospitalisation est indiquée",
+   "Un macrolide peut être associé en cas de gravité"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : bêtalactamines à forte dose.",
+   "Faux : aminosides inactifs sur le pneumocoque.",
+   "Vrai : précocité du traitement = pronostic.",
+   "Vrai : pneumonie bactériémique = hospitalisation.",
+   "Vrai : bithérapie si forme grave."
+  ]
+ },
+ {
+  "q": "Concernant le relais et la désescalade antibiotique, lesquelles sont vraies ?",
+  "options": [
+   "Un entérocoque sensible à l'amoxicilline ne nécessite pas de glycopeptide",
+   "Un pneumocoque sensible permet un relais par amoxicilline",
+   "L'antibiogramme permet de désescalader vers une molécule à spectre étroit",
+   "Le traitement probabiliste est réévalué à 48-72 h",
+   "Le traitement probabiliste large doit être poursuivi jusqu'à guérison complète"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas de vancomycine si amoxicilline active.",
+   "Vrai : amoxicilline si souche sensible.",
+   "Vrai : désescalade selon l'antibiogramme.",
+   "Vrai : réévaluation systématique à 48-72 h.",
+   "Faux : la désescalade est la règle."
+  ]
+ },
+ {
+  "q": "À propos des antibiotiques inactifs sur les streptocoques/entérocoques, lesquels sont concernés ?",
+  "options": [
+   "Les céphalosporines pour les entérocoques (résistance naturelle)",
+   "La fosfomycine dans les cystites à entérocoques",
+   "Les fluoroquinolones de 1re et 2e génération pour les streptocoques",
+   "L'amoxicilline pour Streptococcus pyogenes",
+   "Les aminosides en monothérapie (résistance naturelle de bas niveau)"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : céphalosporines inactives sur Enterococcus.",
+   "Faux : la fosfomycine est active dans les cystites.",
+   "Vrai : FQ G1/G2 peu actives sur les streptocoques.",
+   "Faux : l'amoxicilline est très active sur S. pyogenes.",
+   "Vrai : aminosides seuls inactifs."
+  ]
+ },
+ {
+  "q": "Concernant le traitement du portage (éradication), lesquelles sont exactes ?",
+  "options": [
+   "Le portage vaginal du streptocoque B se traite par antibioprophylaxie per-partum",
+   "Le portage asymptomatique du streptocoque A ne nécessite pas de traitement systématique",
+   "L'éradication du portage prévient toujours les infections",
+   "Le portage nasopharyngé du pneumocoque ne se traite pas par antibiotiques",
+   "Tout portage d'entérocoque doit être éradiqué par vancomycine"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : prophylaxie pendant le travail uniquement.",
+   "Vrai : pas de traitement systématique des porteurs sains de S. pyogenes.",
+   "Faux : l'éradication n'est ni toujours possible ni toujours utile.",
+   "Vrai : pas d'antibiothérapie du portage pneumococcique.",
+   "Faux : pas d'éradication systématique des entérocoques."
+  ]
+ },
+ {
+  "q": "Un patient sous vancomycine pour une infection à entérocoque développe une insuffisance rénale. Quelles propositions sont exactes ?",
+  "options": [
+   "La vancomycine est néphrotoxique",
+   "Il faut poursuivre la vancomycine à dose inchangée",
+   "La posologie doit être adaptée à la fonction rénale",
+   "Si la souche est sensible à l'amoxicilline, un relais est possible",
+   "Le relais par teicoplanine peut être envisagé"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : néphrotoxicité dose-dépendante.",
+   "Faux : poursuivre à dose inchangée aggraverait l'atteinte rénale.",
+   "Vrai : adaptation posologique indispensable.",
+   "Vrai : désescalade vers l'amoxicilline si sensible.",
+   "Vrai : teicoplanine parfois mieux tolérée."
+  ]
+ },
+ {
+  "q": "Concernant les associations d'antibiotiques à éviter ou inutiles, lesquelles sont vraies ?",
+  "options": [
+   "Toute association d'antibiotiques est synergique",
+   "L'association pénicilline + gentamicine est synergique et utile",
+   "L'association de deux néphrotoxiques (vancomycine + aminoside) impose une surveillance",
+   "Deux bactériostatiques associés n'améliorent pas l'efficacité",
+   "Bêtalactamine + macrolide n'apporte pas de synergie démontrée sur les streptocoques"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les associations peuvent être indifférentes ou antagonistes.",
+   "Vrai : synergie bactéricide de référence.",
+   "Vrai : cumul de néphrotoxicité à surveiller.",
+   "Vrai : associations de bactériostatiques déconseillées.",
+   "Vrai : pas de synergie démontrée."
+  ]
+ },
+ {
+  "q": "À propos du traitement des infections à streptocoques chez la femme enceinte, quelles propositions sont exactes ?",
+  "options": [
+   "Les fluoroquinolones sont à éviter",
+   "Les tétracyclines sont contre-indiquées",
+   "Les aminosides sont le traitement de première intention",
+   "L'amoxicilline est utilisable pendant la grossesse",
+   "Les macrolides (azithromycine) sont une alternative"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : FQ déconseillées (risque cartilagineux).",
+   "Vrai : tétracyclines contre-indiquées (dents, os).",
+   "Faux : aminosides inactifs seuls et ototoxiques.",
+   "Vrai : bêtalactamines sûres pendant la grossesse.",
+   "Vrai : azithromycine utilisable."
+  ]
+ },
+ {
+  "q": "Concernant la prise en charge d'une scarlatine, lesquelles sont exactes ?",
+  "options": [
+   "L'amoxicilline est le traitement de référence",
+   "Aucun traitement n'est nécessaire, la guérison est spontanée",
+   "Le traitement fait disparaître la fièvre en 24-48 h",
+   "L'éviction scolaire est recommandée jusqu'à 48 h de traitement",
+   "La desquamation peut persister malgré le traitement"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : amoxicilline 1re intention.",
+   "Faux : le traitement prévient les complications (RAA).",
+   "Vrai : défervescence rapide sous traitement.",
+   "Vrai : éviction jusqu'à 48 h d'antibiothérapie.",
+   "Vrai : desquamation = évolution naturelle."
+  ]
+ },
+ {
+  "q": "Un patient présente une arthrite septique à pneumocoque. Quelles propositions sont exactes ?",
+  "options": [
+   "L'immobilisation prolongée sans ponction suffit",
+   "La ponction articulaire est diagnostique et thérapeutique",
+   "La durée du traitement est de 3 à 4 semaines",
+   "L'antibiothérapie IV à forte dose est indiquée",
+   "La ceftriaxone est une option"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le drainage articulaire est indispensable.",
+   "Vrai : ponction = diagnostic + drainage.",
+   "Vrai : 3 à 4 semaines pour les arthrites septiques.",
+   "Vrai : fortes doses IV initiales.",
+   "Vrai : C3G active sur le pneumocoque."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination antipneumococcique, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est à base d'antigènes capsulaires",
+   "Elle est recommandée chez les aspléniques",
+   "Elle protège contre le streptocoque A",
+   "Le vaccin 23 valences est indiqué après 2 ans et chez les sujets à risque",
+   "Le vaccin conjugué est indiqué avant 2 ans"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : vaccins polyosidiques capsulaires.",
+   "Vrai : asplénie = indication majeure.",
+   "Faux : pas de vaccin contre S. pyogenes.",
+   "Vrai : 23 valences après 2 ans, rappel tous les 3 à 5 ans.",
+   "Vrai : vaccin conjugué du nourrisson."
+  ]
+ },
+ {
+  "q": "Les sujets à risque d'infection invasive à pneumocoque justifiant la vaccination sont :",
+  "options": [
+   "Les adultes jeunes en bonne santé sans facteur de risque",
+   "Les immunodéprimés",
+   "Les patients avec brèche ostéoméningée ou implant cochléaire",
+   "Les splénectomisés et drépanocytaires (asplénie fonctionnelle)",
+   "Les sujets âgés"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : pas d'indication vaccinale systématique.",
+   "Vrai : immunodépression.",
+   "Vrai : brèche méningée et implant cochléaire.",
+   "Vrai : asplénie = risque majeur.",
+   "Vrai : sujet âgé à risque."
+  ]
+ },
+ {
+  "q": "Concernant la prévention du RAA, lesquelles sont exactes ?",
+  "options": [
+   "Le traitement précoce de l'angine streptococcique (dans les 9 jours)",
+   "La vaccination systématique contre le streptocoque A",
+   "La durée de la prophylaxie secondaire dépend de l'atteinte cardiaque",
+   "Le dépistage des angines par TDR en médecine de ville",
+   "La prophylaxie secondaire par benzathine-pénicilline après un RAA"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : antibiothérapie précoce = prévention primaire.",
+   "Faux : aucun vaccin anti-S. pyogenes disponible.",
+   "Vrai : durée adaptée (5 ans à vie selon la cardite).",
+   "Vrai : le TDR guide le traitement des angines.",
+   "Vrai : pénicilline retard en prévention secondaire."
+  ]
+ },
+ {
+  "q": "À propos de la prévention des infections néonatales à streptocoque B, lesquelles sont vraies ?",
+  "options": [
+   "L'antibioprophylaxie per-partum chez les mères colonisées",
+   "La surveillance clinique du nouveau-né",
+   "Le dépistage du portage vaginal à 35-37 SA",
+   "La vaccination systématique des nouveau-nés contre le streptocoque B",
+   "L'hygiène des mains en maternité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : pénicilline G IV pendant le travail.",
+   "Vrai : surveillance des signes d'infection néonatale.",
+   "Vrai : dépistage en fin de grossesse.",
+   "Faux : pas de vaccin disponible en routine.",
+   "Vrai : hygiène des mains = mesure de base."
+  ]
+ },
+ {
+  "q": "Concernant la prévention des infections nosocomiales à entérocoques, lesquelles sont exactes ?",
+  "options": [
+   "L'hygiène des mains est la mesure essentielle",
+   "La limitation des sondages urinaires inutiles",
+   "La vaccination du personnel soignant contre les entérocoques",
+   "Les précautions contact pour les patients porteurs de VRE",
+   "Le bon usage des antibiotiques limite la sélection de souches résistantes"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : hygiène des mains = base.",
+   "Vrai : retrait précoce des sondes urinaires.",
+   "Faux : aucun vaccin anti-entérocoques.",
+   "Vrai : isolement contact pour les VRE.",
+   "Vrai : bon usage des antibiotiques."
+  ]
+ },
+ {
+  "q": "À propos de la prophylaxie des endocardites, quelles propositions sont exactes ?",
+  "options": [
+   "La clindamycine est l'alternative en cas d'allergie",
+   "L'hygiène bucco-dentaire régulière est fondamentale",
+   "Elle est indiquée avant tout acte médical chez tout patient",
+   "L'amoxicilline en dose unique est le schéma de référence",
+   "Elle concerne les patients à haut risque avant un geste à risque"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : clindamycine si allergie aux bêtalactamines.",
+   "Vrai : prévention de fond par l'hygiène dentaire.",
+   "Faux : prophylaxie ciblée, pas systématique.",
+   "Vrai : amoxicilline 2 g dose unique.",
+   "Vrai : haut risque (prothèse valvulaire, antécédent d'endocardite)."
+  ]
+ },
+ {
+  "q": "Concernant les mesures d'hygiène dans les infections streptococciques, lesquelles sont vraies ?",
+  "options": [
+   "La désinfection des objets souillés (transmission indirecte)",
+   "Le port du masque en cas d'angine streptococcique",
+   "Le lavage des mains limite la transmission",
+   "L'éviction scolaire de 48 h sous traitement pour la scarlatine et l'angine",
+   "L'isolement respiratoire strict de tout patient"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : transmission indirecte par objets.",
+   "Vrai : le masque limite la transmission aérienne.",
+   "Vrai : hygiène des mains.",
+   "Vrai : éviction jusqu'à 48 h d'antibiothérapie.",
+   "Faux : pas d'isolement respiratoire strict nécessaire."
+  ]
+ },
+ {
+  "q": "Un enfant drépanocytaire doit être protégé contre le pneumocoque. Quelles propositions sont exactes ?",
+  "options": [
+   "Une antibioprophylaxie par pénicilline orale peut être proposée chez le jeune enfant",
+   "La vaccination contre le streptocoque A suffit",
+   "La vaccination antipneumococcique est indiquée",
+   "L'éducation des parents sur les signes d'alerte est essentielle",
+   "L'asplénie fonctionnelle expose aux infections à germes encapsulés"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : pénicilline prophylactique (oracilline) chez le petit.",
+   "Faux : pas de vaccin anti-streptocoque A.",
+   "Vrai : vaccin conjugué puis 23 valences.",
+   "Vrai : fièvre = urgence chez le drépanocytaire.",
+   "Vrai : asplénie fonctionnelle de la drépanocytose."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination et les rappels antipneumococciques, lesquelles sont exactes ?",
+  "options": [
+   "Le vaccin conjugué du nourrisson fait partie du calendrier vaccinal",
+   "Une infection pneumococcique antérieure dispense de la vaccination",
+   "Le vaccin 23 valences se renouvelle tous les 3 à 5 ans chez les sujets à risque",
+   "Le vaccin protège à vie après une seule injection",
+   "Les deux vaccins peuvent être utilisés séquentiellement"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : vaccin conjugué du nourrisson au calendrier.",
+   "Faux : l'infection ne protège que contre le sérotype en cause.",
+   "Vrai : rappels tous les 3 à 5 ans (23 valences).",
+   "Faux : la protection décline, d'où les rappels.",
+   "Vrai : schéma séquentiel conjugué puis polyosidique."
+  ]
+ },
+ {
+  "q": "À propos de la prévention des angines à streptocoque A en collectivité, quelles mesures sont utiles ?",
+  "options": [
+   "L'hygiène des mains et l'aération des locaux",
+   "Le dépistage systématique de tous les enfants de la classe",
+   "L'antibioprophylaxie systématique de tous les contacts",
+   "Le traitement des cas pour réduire la contagiosité",
+   "L'éviction scolaire de 24 à 48 h après le début du traitement"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : mesures d'hygiène collectives.",
+   "Faux : pas de dépistage de masse.",
+   "Faux : pas de prophylaxie systématique des contacts.",
+   "Vrai : traiter = réduire la transmission.",
+   "Vrai : éviction brève sous traitement."
+  ]
+ },
+ {
+  "q": "Concernant la chimioprophylaxie, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'antibioprophylaxie per-partum prévient l'infection néonatale à streptocoque B",
+   "L'amoxicilline en dose unique prévient l'endocardite avant un soin dentaire",
+   "La pénicilline orale est utilisée en prophylaxie chez le drépanocytaire",
+   "La benzathine-pénicilline est utilisée en prophylaxie secondaire du RAA",
+   "Une antibioprophylaxie au long cours est indiquée après toute angine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prophylaxie per-partum anti-strepto B.",
+   "Vrai : dose unique avant geste dentaire à risque.",
+   "Vrai : oracilline chez le jeune drépanocytaire.",
+   "Vrai : pénicilline retard après RAA.",
+   "Faux : pas de prophylaxie prolongée après une angine simple."
+  ]
+ },
+ {
+  "q": "Un patient splénectomisé voyage. Quelles recommandations sont exactes ?",
+  "options": [
+   "La vaccination antipneumococcique doit être à jour",
+   "La carte de splénectomisé doit être portée",
+   "Aucune précaution particulière n'est nécessaire",
+   "La vaccination antiméningococcique est aussi recommandée",
+   "Une antibiothérapie d'urgence (amoxicilline) peut être prescrite"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : vaccin pneumococcique indispensable.",
+   "Vrai : carte d'alerte du splénectomisé.",
+   "Faux : le splénectomisé est à haut risque infectieux.",
+   "Vrai : vaccins méningocoque et Hib aussi recommandés.",
+   "Vrai : antibiothérapie de secours en cas de fièvre."
+  ]
+ },
+ {
+  "q": "Concernant le rôle du laboratoire dans la prévention, lesquelles sont vraies ?",
+  "options": [
+   "Le dépistage du portage vaginal du streptocoque B",
+   "La détection des VRE et l'alerte hygiène",
+   "La détection des souches PSD de pneumocoque (surveillance)",
+   "Le laboratoire n'a aucun rôle préventif",
+   "Le typage des souches dans les épidémies nosocomiales"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : dépistage prénatal du strepto B.",
+   "Vrai : alerte VRE = mesures d'isolement.",
+   "Vrai : surveillance des PSD.",
+   "Faux : le laboratoire est un acteur clé de la prévention.",
+   "Vrai : typage pour les investigations épidémiques."
+  ]
+ },
+ {
+  "q": "À propos de l'éducation des patients, quelles propositions sont exactes ?",
+  "options": [
+   "Informer les parents sur les signes d'infection néonatale",
+   "Expliquer l'importance de l'observance du traitement des angines",
+   "Sensibiliser à l'hygiène bucco-dentaire pour prévenir les endocardites",
+   "Expliquer l'intérêt de la vaccination antipneumococcique aux sujets à risque",
+   "Recommander l'automédication par antibiotiques en cas de mal de gorge"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : signes d'alerte néonatals.",
+   "Vrai : observance = prévention du RAA.",
+   "Vrai : hygiène dentaire = prévention des endocardites.",
+   "Vrai : promotion vaccinale ciblée.",
+   "Faux : l'automédication antibiotique est à proscrire."
+  ]
+ },
+ {
+  "q": "Concernant la prévention des infections à pneumocoque en crèche, lesquelles sont exactes ?",
+  "options": [
+   "La fermeture de la crèche à chaque otite",
+   "L'antibioprophylaxie systématique de tous les enfants",
+   "L'éviction en cas de fièvre",
+   "L'hygiène des mains et la désinfection des jouets",
+   "La vaccination des nourrissons par le vaccin conjugué"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : mesure disproportionnée.",
+   "Faux : pas d'antibioprophylaxie de masse.",
+   "Vrai : éviction des enfants fébriles.",
+   "Vrai : hygiène en collectivité.",
+   "Vrai : vaccin conjugué = protection collective."
+  ]
+ },
+ {
+  "q": "Une femme enceinte colonisée par le streptocoque B accouche. Quelles mesures concernent le nouveau-né ?",
+  "options": [
+   "Surveillance clinique rapprochée (température, comportement, alimentation)",
+   "Isolement strict mère-enfant",
+   "Antibiothérapie systématique de tout nouveau-né de mère colonisée",
+   "Bilan infectieux si signes d'appel",
+   "Allaitement maternel possible"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : surveillance des signes d'infection.",
+   "Faux : pas d'isolement strict nécessaire.",
+   "Faux : pas d'antibiothérapie systématique si prophylaxie per-partum correcte et enfant asymptomatique.",
+   "Vrai : bilan si symptômes.",
+   "Vrai : l'allaitement n'est pas contre-indiqué."
+  ]
+ },
+ {
+  "q": "Concernant la lutte contre la diffusion des VRE à l'hôpital, lesquelles sont exactes ?",
+  "options": [
+   "Dépistage des patients à risque à l'admission",
+   "Traitement systématique des colonisations digestives par vancomycine orale",
+   "Précautions contact pour les patients colonisés ou infectés",
+   "Hygiène des mains rigoureuse",
+   "Bon usage des glycopeptides et des céphalosporines"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : dépistage ciblé.",
+   "Faux : on ne traite pas les colonisations digestives.",
+   "Vrai : isolement contact.",
+   "Vrai : hygiène des mains.",
+   "Vrai : limiter la pression de sélection."
+  ]
+ },
+ {
+  "q": "À propos des vaccins en développement, quelles propositions sont exactes ?",
+  "options": [
+   "La recherche vaccinale contre Streptococcus pyogenes se poursuit",
+   "Le vaccin antipneumococcique actuel couvre tous les sérotypes",
+   "Des vaccins contre le streptocoque B (capsulaires) sont en développement",
+   "Aucun vaccin n'est disponible en routine contre le streptocoque A",
+   "La vaccination maternelle contre le streptocoque B est une piste"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : recherche active (protéine M, antigènes conservés).",
+   "Faux : couverture limitée aux sérotypes vaccinaux.",
+   "Vrai : vaccins anti-S. agalactiae en développement.",
+   "Vrai : pas de vaccin anti-S. pyogenes commercialisé.",
+   "Vrai : immunisation maternelle pour protéger le nouveau-né."
+  ]
+ },
+ {
+  "q": "Concernant la prévention des récidives d'érysipèle, lesquelles sont exactes ?",
+  "options": [
+   "Le traitement des portes d'entrée (intertrigo, plaies)",
+   "Une antibioprophylaxie prolongée peut être discutée en cas de récidives",
+   "La prise en charge d'un lymphœdème sous-jacent",
+   "La contention veineuse si insuffisance veineuse associée",
+   "L'arrêt de tout traitement après la première poussée suffit toujours"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : traiter les portes d'entrée cutanées.",
+   "Vrai : prophylaxie (benzathine-pénicilline) si récidives.",
+   "Vrai : lymphœdème = facteur de récidive.",
+   "Vrai : contention si insuffisance veineuse.",
+   "Faux : les récidives sont fréquentes sans prévention."
+  ]
+ },
+ {
+  "q": "Un patient à haut risque d'endocardite doit subir une extraction dentaire. Quelles propositions sont exactes ?",
+  "options": [
+   "Aucune prophylaxie n'est nécessaire si le patient est en bonne santé bucco-dentaire",
+   "Une antibioprophylaxie par amoxicilline 2 g en dose unique est indiquée",
+   "La clindamycine 600 mg est l'alternative en cas d'allergie",
+   "Elle est prise 1 heure avant le geste",
+   "L'hygiène dentaire quotidienne reste indispensable"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le risque lié au geste impose la prophylaxie.",
+   "Vrai : amoxicilline 2 g dose unique.",
+   "Vrai : clindamycine 600 mg si allergie.",
+   "Vrai : prise 1 h avant le geste.",
+   "Vrai : hygiène de fond permanente."
+  ]
+ },
+ {
+  "q": "Un homme de 70 ans, diabétique, présente une infection urinaire fébrile. L'ECBU isole un cocci à Gram positif, catalase négative, bêta-hémolytique, groupe B. Quelles propositions sont exactes ?",
+  "options": [
+   "Une bactériémie associée doit être recherchée",
+   "Le germe est Streptococcus agalactiae",
+   "Le diabète est un facteur favorisant",
+   "L'amoxicilline est le traitement de première intention",
+   "Il s'agit d'une infection néonatale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : hémocultures si signes de gravité.",
+   "Vrai : strepto B bêta-hémolytique du sujet à risque.",
+   "Vrai : diabète = terrain favorisant.",
+   "Vrai : amoxicilline de référence.",
+   "Faux : infection de l'adulte âgé diabétique."
+  ]
+ },
+ {
+  "q": "Une femme de 25 ans présente une angine érythémateuse. Le TDR est positif. Quelles propositions sont exactes ?",
+  "options": [
+   "Le traitement prévient le RAA",
+   "L'éviction professionnelle n'est pas nécessaire après 48 h de traitement",
+   "Une sérologie ASLO immédiate est indispensable",
+   "Le diagnostic est une angine à Streptococcus pyogenes",
+   "L'amoxicilline 6 jours est le traitement de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : prévention du RAA.",
+   "Vrai : non contagiosité après 48 h de traitement.",
+   "Faux : les ASLO n'ont pas de place dans l'angine aiguë.",
+   "Vrai : TDR positif = strepto A.",
+   "Vrai : amoxicilline 6 jours."
+  ]
+ },
+ {
+  "q": "Un nourrisson de 10 mois présente une otite moyenne aiguë purulente. Quelles propositions sont exactes ?",
+  "options": [
+   "Haemophilus influenzae est l'autre germe classique",
+   "Une paracentèse est systématique",
+   "L'amoxicilline est le traitement de première intention",
+   "Le pneumocoque est un commensal du rhinopharynx du nourrisson",
+   "Streptococcus pneumoniae est le germe le plus probable"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : H. influenzae, 2e agent.",
+   "Faux : la paracentèse n'est pas systématique.",
+   "Vrai : amoxicilline 1re intention.",
+   "Vrai : portage nasopharyngé fréquent.",
+   "Vrai : pneumocoque = OMA du nourrisson."
+  ]
+ },
+ {
+  "q": "Un patient de 60 ans, porteur d'une prothèse valvulaire, présente une fièvre prolongée. Les hémocultures isolent un streptocoque oral. Quelles propositions sont exactes ?",
+  "options": [
+   "Une angine à streptocoque A est la cause habituelle",
+   "Une échographie transœsophagienne est indiquée",
+   "Une porte d'entrée dentaire doit être recherchée",
+   "Le traitement associe une bêtalactamine à un aminoside",
+   "Le diagnostic d'endocardite sur prothèse doit être évoqué"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les endocardites à viridans viennent de la flore orale.",
+   "Vrai : ETO pour les végétations.",
+   "Vrai : bilan stomatologique.",
+   "Vrai : bithérapie synergique.",
+   "Vrai : fièvre + bactériémie à viridans sur prothèse."
+  ]
+ },
+ {
+  "q": "Un patient de 45 ans présente un érysipèle de la jambe avec fièvre à 39 °C. Quelles propositions sont exactes ?",
+  "options": [
+   "Une GNA est une complication possible",
+   "Le diagnostic est clinique",
+   "L'amoxicilline est le traitement de référence",
+   "Le RAA est la complication à redouter",
+   "Streptococcus pyogenes est le germe responsable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : GNA post-infection cutanée.",
+   "Vrai : diagnostic clinique.",
+   "Vrai : amoxicilline 1re intention.",
+   "Faux : le RAA suit les angines, pas les érysipèles.",
+   "Vrai : érysipèle = S. pyogenes."
+  ]
+ },
+ {
+  "q": "Un nouveau-né de 5 jours, né d'une mère non dépistée, présente une détresse respiratoire et une septicémie. Quelles propositions sont exactes ?",
+  "options": [
+   "Streptococcus agalactiae est le germe à évoquer en premier",
+   "Une ponction lombaire doit être réalisée",
+   "Le dépistage maternel aurait permis une prophylaxie per-partum",
+   "Il s'agit d'une infection à pneumocoque",
+   "Le traitement probabiliste associe ampicilline et gentamicine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : infection néonatale précoce = strepto B.",
+   "Vrai : PL devant une septicémie néonatale.",
+   "Vrai : dépistage à 35-37 SA et prophylaxie.",
+   "Faux : le pneumocoque n'est pas l'agent des infections néonatales précoces.",
+   "Vrai : ampicilline + gentamicine en probabiliste."
+  ]
+ },
+ {
+  "q": "Un homme de 55 ans présente une pneumonie franche lobaire aiguë avec crachats rouillés. Quelles propositions sont exactes ?",
+  "options": [
+   "L'amoxicilline à forte dose est le traitement de référence",
+   "Le traitement repose sur les aminosides",
+   "Une pleurésie est une complication possible",
+   "Streptococcus pneumoniae est le germe typique",
+   "L'antigénurie pneumococcique peut confirmer"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : amoxicilline forte dose.",
+   "Faux : aminosides inactifs sur le pneumocoque.",
+   "Vrai : pleurésies dans 15 % des cas.",
+   "Vrai : tableau typique du pneumocoque.",
+   "Vrai : antigénurie spécifique."
+  ]
+ },
+ {
+  "q": "Une patiente de 68 ans, sondée à demeure, présente une infection urinaire à Enterococcus faecalis. Quelles propositions sont exactes ?",
+  "options": [
+   "Le retrait ou le changement de la sonde est recommandé",
+   "Les céphalosporines sont inefficaces",
+   "La sonde urinaire est un facteur favorisant",
+   "L'amoxicilline est le traitement de première intention",
+   "La vancomycine est le traitement de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ablation de la sonde si possible.",
+   "Vrai : résistance naturelle aux céphalosporines.",
+   "Vrai : sondage = facteur de risque d'IU à entérocoque.",
+   "Vrai : amoxicilline de référence.",
+   "Faux : la vancomycine n'est pas la 1re intention."
+  ]
+ },
+ {
+  "q": "Un patient présente une méningite purulente. L'examen direct du LCR montre des diplocoques à Gram positif en flamme de bougie. Quelles propositions sont exactes ?",
+  "options": [
+   "La culture avec antibiogramme reste indispensable",
+   "La recherche d'antigènes solubles confirme",
+   "Le traitement probabiliste ceftriaxone + vancomycine doit débuter en urgence",
+   "Il s'agit d'une méningite à méningocoque",
+   "Le diagnostic de méningite à pneumocoque est évoqué"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : antibiogramme pour les PSD.",
+   "Vrai : Ag solubles au latex.",
+   "Vrai : bithérapie probabiliste immédiate.",
+   "Faux : le méningocoque est un diplocoque à Gram négatif.",
+   "Vrai : aspect typique du pneumocoque."
+  ]
+ },
+ {
+  "q": "Un enfant de 8 ans présente une scarlatine. Quelles propositions sont exactes ?",
+  "options": [
+   "Elle est due à Streptococcus pyogenes lysogène",
+   "La desquamation est caractéristique",
+   "C'est une complication immunologique tardive",
+   "L'exanthème est lié aux toxines érythrogènes",
+   "L'amoxicilline est le traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : souche toxinogène (phage).",
+   "Vrai : desquamation en doigts de gant.",
+   "Faux : manifestation toxinique aiguë, pas complication immune.",
+   "Vrai : toxines érythrogènes.",
+   "Vrai : amoxicilline de référence."
+  ]
+ },
+ {
+  "q": "Un patient dialysé présente une bactériémie à Enterococcus faecium résistant à la vancomycine. Quelles propositions sont exactes ?",
+  "options": [
+   "Il s'agit d'un VRE",
+   "La daptomycine est une option",
+   "L'amoxicilline reste le traitement de référence",
+   "Des précautions contact sont nécessaires",
+   "Le linézolide est une option thérapeutique"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : E. faecium vancomycine-R = VRE.",
+   "Vrai : daptomycine active (hors poumon).",
+   "Faux : les VRE sont souvent multirésistants (amoxicilline-R).",
+   "Vrai : isolement contact.",
+   "Vrai : linézolide actif."
+  ]
+ },
+ {
+  "q": "Un patient de 50 ans présente une endocardite à Streptococcus gallolyticus. Quelles propositions sont exactes ?",
+  "options": [
+   "Le traitement repose sur pénicilline + gentamicine",
+   "La porte d'entrée est digestive",
+   "Il s'agit d'un streptocoque du groupe A",
+   "Le germe appartient au groupe D",
+   "Une coloscopie est indiquée"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : bithérapie synergique.",
+   "Vrai : origine digestive.",
+   "Faux : le groupe A est S. pyogenes.",
+   "Vrai : S. gallolyticus = groupe D.",
+   "Vrai : recherche d'une néoplasie colique."
+  ]
+ },
+ {
+  "q": "Un adolescent présente une pharyngite. Le TDR streptocoque A est négatif. Quelles propositions sont exactes ?",
+  "options": [
+   "Un streptocoque des groupes C ou G reste possible",
+   "La culture peut identifier un streptocoque non A",
+   "Le TDR négatif élimine toute infection bactérienne",
+   "Un traitement antibiotique systématique est inutile si l'origine est virale",
+   "L'étiologie est probablement virale"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : groupes C/G non détectés par le TDR.",
+   "Vrai : culture = référence.",
+   "Faux : le TDR ne détecte que le groupe A.",
+   "Vrai : pas d'antibiotiques pour les angines virales.",
+   "Vrai : majorité des angines virales."
+  ]
+ },
+ {
+  "q": "Un patient splénectomisé présente une fièvre à 39,5 °C avec frissons. Quelles propositions sont exactes ?",
+  "options": [
+   "L'antibiothérapie doit débuter sans délai",
+   "L'amoxicilline à forte dose ou la ceftriaxone sont des options",
+   "Des hémocultures doivent être prélevées immédiatement",
+   "On peut attendre 48 h de surveillance avant de traiter",
+   "C'est une urgence (risque d'infection fulminante à pneumocoque)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : traitement immédiat.",
+   "Vrai : bêtalactamines à forte dose.",
+   "Vrai : hémocultures avant antibiotiques.",
+   "Faux : attendre serait dangereux.",
+   "Vrai : sepsis fulminant post-splénectomie."
+  ]
+ },
+ {
+  "q": "Une femme enceinte à terme, colonisée par le streptocoque B, est en travail. Quelles propositions sont exactes ?",
+  "options": [
+   "Une antibioprophylaxie par pénicilline G IV est indiquée",
+   "Elle doit débuter dès le début du travail",
+   "Le nouveau-né fera l'objet d'une surveillance",
+   "Une césarienne est systématiquement indiquée",
+   "L'allaitement sera contre-indiqué"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : prophylaxie per-partum.",
+   "Vrai : dès le début du travail, toutes les 4 h.",
+   "Vrai : surveillance néonatale.",
+   "Faux : la voie basse est possible.",
+   "Faux : l'allaitement est autorisé."
+  ]
+ },
+ {
+  "q": "Un patient neutropénique fébrile présente une mucite sévère. Les hémocultures isolent un streptocoque oral. Quelles propositions sont exactes ?",
+  "options": [
+   "La porte d'entrée est la muqueuse orale altérée",
+   "Une endocardite doit être évoquée",
+   "Il s'agit d'une contamination des hémocultures à négliger",
+   "Le traitement fait appel aux bêtalactamines à large spectre",
+   "Les streptocoques oraux donnent des septicémies chez le neutropénique"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : mucite = porte d'entrée.",
+   "Vrai : échographie si bactériémie persistante.",
+   "Faux : bactériémie réelle à traiter.",
+   "Vrai : pipéracilline-tazobactam ou équivalent.",
+   "Vrai : septicémies du neutropénique."
+  ]
+ },
+ {
+  "q": "Un homme de 40 ans présente une cellulite gangréneuse extensive après une plaie. Quelles propositions sont exactes ?",
+  "options": [
+   "Un débridement chirurgical est souvent nécessaire",
+   "Un traitement local par antiseptique suffit",
+   "C'est une urgence médico-chirurgicale",
+   "Le traitement associe pénicilline et clindamycine",
+   "Streptococcus pyogenes est le germe à évoquer (fasciite nécrosante)"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : chirurgie de débridement indispensable.",
+   "Faux : infection grave nécessitant réanimation.",
+   "Vrai : urgence vitale.",
+   "Vrai : pénicilline + clindamycine (effet antitoxinique).",
+   "Vrai : fasciite nécrosante à S. pyogenes."
+  ]
+ },
+ {
+  "q": "Devant une suspicion d'infection invasive à streptocoque, quel bilan initial est justifié ?",
+  "options": [
+   "Une NFS et un bilan inflammatoire",
+   "Des hémocultures avant toute antibiothérapie",
+   "Une sérologie ASLO en urgence",
+   "Un prélèvement du site infecté (pus, LCR, liquide articulaire)",
+   "Un examen direct avec coloration de Gram"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : bilan de gravité.",
+   "Vrai : hémocultures systématiques.",
+   "Faux : les ASLO n'ont pas de place en phase aiguë.",
+   "Vrai : prélèvement du foyer.",
+   "Vrai : Gram pour l'orientation rapide."
+  ]
+ }
+]

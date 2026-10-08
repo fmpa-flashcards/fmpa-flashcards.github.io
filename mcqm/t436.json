@@ -1,0 +1,4438 @@
+[
+ {
+  "q": "Concernant le genre Staphylococcus, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il appartient à la famille des Micrococcacae",
+   "Il comprend 43 espèces et sous-espèces",
+   "La présence ou l'absence d'une coagulase permet de distinguer les espèces",
+   "Tous les staphylocoques sont à coagulase positive",
+   "Il appartient à la famille des Streptococcaceae"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : famille des Micrococcacae selon le cours.",
+   "Vrai : 43 espèces et sous-espèces décrites.",
+   "Vrai : la coagulase distingue S. aureus (coag+) des SCN (coag−).",
+   "Faux : les SCN sont à coagulase négative.",
+   "Faux : c'est la famille des Micrococcacae."
+  ]
+ },
+ {
+  "q": "À propos de la classification des staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "S. aureus est un staphylocoque à coagulase positive",
+   "Les SCN regroupent les espèces non aureus",
+   "La coagulase est le principal caractère distinguant S. aureus des SCN",
+   "Les SCN sont des pathogènes spécifiques comme S. aureus",
+   "S. aureus appartient au genre Streptococcus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : S. aureus = coagulase +, pathogène spécifique.",
+   "Vrai : SCN = S. non aureus.",
+   "Vrai : test de référence de l'identification.",
+   "Faux : les SCN sont des bactéries opportunistes.",
+   "Faux : S. aureus appartient au genre Staphylococcus."
+  ]
+ },
+ {
+  "q": "Concernant les caractères bactériologiques du genre Staphylococcus, lesquelles sont exactes ?",
+  "options": [
+   "Catalase positive",
+   "La catalase permet de distinguer Staphylococcus (+) de Streptococcus (−)",
+   "Oxydase négative",
+   "L'oxydase permet de distinguer Staphylococcus (−) de Micrococcus (+)",
+   "Catalase négative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : formation de bulles d'oxygène avec H2O2.",
+   "Vrai : Streptococcus est catalase négative.",
+   "Vrai : caractère du genre.",
+   "Vrai : Micrococcus est oxydase positive.",
+   "Faux : Staphylococcus est catalase positive."
+  ]
+ },
+ {
+  "q": "Concernant la morphologie des staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des cocci à Gram positif",
+   "Ils sont disposés généralement en amas (grappes de raisin)",
+   "Ce sont des bactéries immobiles",
+   "Ce sont des bactéries sporulées",
+   "Ils sont groupés en chaînettes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : CGP.",
+   "Vrai : aspect en amas caractéristique.",
+   "Vrai : pas de flagelles.",
+   "Faux : les staphylocoques ne sporulent pas.",
+   "Faux : les chaînettes caractérisent les streptocoques."
+  ]
+ },
+ {
+  "q": "Parmi les caractères suivants, lesquels s'appliquent à Staphylococcus aureus ?",
+  "options": [
+   "Aéro-anaérobie",
+   "Glucose +",
+   "Mannitol +",
+   "Aérobie strict",
+   "Oxydase +"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : anaérobie facultatif.",
+   "Vrai : fermente le glucose.",
+   "Vrai : fermente le mannitol (milieu de Chapman).",
+   "Faux : S. aureus est aéro-anaérobie.",
+   "Faux : S. aureus est oxydase négative."
+  ]
+ },
+ {
+  "q": "Concernant les particularités des staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "Des formes pseudo-bacillaires peuvent apparaître en cas de souffrance (antibiotiques, mutants déficients)",
+   "Certaines souches sont encapsulées, notamment en milieux riches en sucres",
+   "Ils élaborent des substances toxiques et non toxiques",
+   "Ils sont toujours capsulés",
+   "Ils sont mobiles grâce à des flagelles"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : formes monstrueuses en cas de souffrance.",
+   "Vrai : capsule favorisée par les milieux sucrés.",
+   "Vrai : toxines et enzymes.",
+   "Faux : seules certaines souches sont encapsulées.",
+   "Faux : les staphylocoques sont immobiles."
+  ]
+ },
+ {
+  "q": "À propos du test de la coagulase, lesquelles sont exactes ?",
+  "options": [
+   "C'est le principal test qui caractérise S. aureus",
+   "Il recherche l'aptitude de la bactérie à coaguler le plasma",
+   "Réalisation en tube : 0,5 ml d'inoculum bactérien + 0,5 ml de plasma de lapin, incubation 3 à 4 h à 37 °C",
+   "Le test est positif quand on obtient un caillot",
+   "Un test négatif confirme S. aureus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : test de référence de l'espèce.",
+   "Vrai : coagulation du plasma.",
+   "Vrai : protocole du test en tube.",
+   "Vrai : le caillot signe la positivité.",
+   "Faux : S. aureus est coagulase positive."
+  ]
+ },
+ {
+  "q": "Concernant les coagulases de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "La coagulase libre est un facteur d'identification de S. aureus",
+   "La coagulase liée (clumping factor) permet l'attachement aux cellules",
+   "La coagulase favorise la thrombose des vaisseaux",
+   "La coagulase est la toxine responsable du choc toxique",
+   "Les staphylocoques à coagulase négative produisent une coagulase libre"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : recherchée par le test en tube.",
+   "Vrai : attachement aux cellules de l'hôte.",
+   "Vrai : thrombose vasculaire autour du foyer.",
+   "Faux : le choc toxique est dû à la TSST-1.",
+   "Faux : par définition, les SCN ne produisent pas de coagulase."
+  ]
+ },
+ {
+  "q": "Concernant l'épidémiologie des staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "Le réservoir essentiel des staphylocoques est l'homme",
+   "S. aureus est aussi largement répandu dans l'environnement",
+   "Les animaux peuvent être des hôtes normaux ou pathologiques",
+   "Le réservoir principal est l'eau",
+   "S. aureus fait partie de la flore intestinale commensale dominante"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : réservoir humain essentiel.",
+   "Vrai : survie prolongée dans l'environnement.",
+   "Vrai : hôtes humains et animaux.",
+   "Faux : le réservoir essentiel est l'homme.",
+   "Faux : son habitat préférentiel est nasal et cutané."
+  ]
+ },
+ {
+  "q": "Concernant l'habitat préférentiel de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Fosses nasales",
+   "Peau du visage et des mains",
+   "Périnée",
+   "Muqueuse vaginale comme habitat exclusif",
+   "Tube digestif comme habitat exclusif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : portage nasal antérieur.",
+   "Vrai : peau du visage et des mains.",
+   "Vrai : périnée.",
+   "Faux : ce n'est pas l'habitat préférentiel.",
+   "Faux : S. aureus n'est pas un hôte digestif exclusif."
+  ]
+ },
+ {
+  "q": "Concernant la transmission de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Transmission directe par manuportage",
+   "Transmission indirecte par le matériel hospitalier",
+   "Transmission indirecte par les stéthoscopes",
+   "Transmission alimentaire",
+   "Transmission uniquement par voie aérienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les mains sont le vecteur principal.",
+   "Vrai : matériel hospitalier contaminé.",
+   "Vrai : stéthoscopes cités dans le cours.",
+   "Vrai : toxi-infections alimentaires.",
+   "Faux : la transmission est surtout manuportée."
+  ]
+ },
+ {
+  "q": "Concernant le portage de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "15 à 30 % de la population sont porteurs en communauté",
+   "Les porteurs sains sont dépistés en milieu hospitalier",
+   "S. aureus survit longtemps dans l'environnement",
+   "S. aureus est fragile et ne survit pas dans l'environnement",
+   "La réceptivité de l'homme est partielle"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : portage nasal communautaire fréquent.",
+   "Vrai : dépistage des porteurs sains à l'hôpital.",
+   "Vrai : persistance environnementale.",
+   "Faux : il survit longtemps dans l'environnement.",
+   "Faux : la réceptivité est totale."
+  ]
+ },
+ {
+  "q": "Concernant la prévention des infections à staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "Il n'existe pas de vaccin à ce jour",
+   "L'hygiène des mains est une mesure préventive essentielle",
+   "Le traitement efficace des lésions staphylococciques prévient la dissémination",
+   "La vaccination anti-staphylococcique est systématique",
+   "Aucune mesure d'hygiène n'est utile"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : absence de vaccin à ce jour.",
+   "Vrai : mesure clé contre le manuportage.",
+   "Vrai : traite le réservoir infectieux.",
+   "Faux : il n'existe pas de vaccin.",
+   "Faux : l'hygiène est la base de la prévention."
+  ]
+ },
+ {
+  "q": "À l'hôpital, concernant la prévention des infections à staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "Hygiène hospitalière",
+   "Rationalisation de l'antibiothérapie",
+   "Dépistage des porteurs sains",
+   "Isolement systématique de tous les patients hospitalisés",
+   "La transmission manuportée est négligeable à l'hôpital"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : mesure de prévention hospitalière.",
+   "Vrai : limite la sélection de résistances.",
+   "Vrai : dépistage des porteurs sains.",
+   "Faux : mesure non recommandée en routine.",
+   "Faux : le manuportage est le mode principal."
+  ]
+ },
+ {
+  "q": "Concernant la protéine A de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "C'est un facteur d'adhésion",
+   "Elle se lie au fragment Fc des immunoglobulines G",
+   "Elle inhibe l'opsonophagocytose",
+   "C'est une toxine responsable des intoxications alimentaires",
+   "Elle détruit la fibrine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : facteur d'adhésion et d'invasion.",
+   "Vrai : fixation du fragment Fc des IgG.",
+   "Vrai : échappe à la phagocytose.",
+   "Faux : les intoxications sont dues aux entérotoxines.",
+   "Faux : c'est le rôle de la fibrinolysine."
+  ]
+ },
+ {
+  "q": "Parmi les facteurs d'adhésion et d'invasion de S. aureus, lesquels sont cités dans le cours ?",
+  "options": [
+   "Protéines de liaison au collagène",
+   "Protéines de liaison à l'élastine",
+   "Protéines de liaison à la fibronectine",
+   "Protéines de liaison au fibrinogène",
+   "Protéine M"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : adhésion au collagène.",
+   "Vrai : adhésion à l'élastine.",
+   "Vrai : adhésion à la fibronectine.",
+   "Vrai : le cours la cite en plus des trois précédentes.",
+   "Faux : la protéine M appartient à Streptococcus pyogenes."
+  ]
+ },
+ {
+  "q": "Concernant la capsule de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Certaines souches sont encapsulées",
+   "La capsule est favorisée en milieux riches en sucres",
+   "La capsule protège de la phagocytose",
+   "Toutes les souches de S. aureus sont capsulées",
+   "La capsule est une endotoxine de type LPS"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : seules certaines souches.",
+   "Vrai : milieux riches en sucres.",
+   "Vrai : rôle antiphagocytaire.",
+   "Faux : seules certaines souches le sont.",
+   "Faux : S. aureus, Gram positif, ne possède pas de LPS."
+  ]
+ },
+ {
+  "q": "Concernant la fibrinolysine (staphylokinase) de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Elle détruit la fibrine",
+   "Elle disloque le caillot de fibrine",
+   "Elle favorise l'essaimage à distance de foyers secondaires",
+   "Les métastases septiques pulmonaires peuvent en résulter",
+   "Elle coagule le plasma"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : lyse de la fibrine.",
+   "Vrai : dislocation du caillot.",
+   "Vrai : dissémination à distance.",
+   "Vrai : foyers septiques secondaires pulmonaires.",
+   "Faux : c'est le rôle inverse de la coagulase."
+  ]
+ },
+ {
+  "q": "Concernant l'hyaluronidase de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Elle détruit le tissu conjonctif",
+   "Elle favorise la diffusion de la bactérie dans les tissus",
+   "C'est un facteur d'invasion",
+   "Elle détruit les polynucléaires",
+   "Elle coagule le plasma"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : dégradation du tissu conjonctif.",
+   "Vrai : diffusion tissulaire.",
+   "Vrai : facteur d'invasion.",
+   "Faux : c'est le rôle de la leucocidine.",
+   "Faux : c'est le rôle de la coagulase."
+  ]
+ },
+ {
+  "q": "Concernant la DNase de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "C'est une désoxyribonucléase thermostable",
+   "C'est un caractère d'identification de l'espèce S. aureus",
+   "Le test se lit par une zone claire autour de la strie sur milieu contenant de l'ADN",
+   "Elle détruit le tissu conjonctif",
+   "Elle hydrolyse l'amidon"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : DNase thermostable.",
+   "Vrai : caractère d'espèce.",
+   "Vrai : zone claire = hydrolyse de l'ADN.",
+   "Faux : c'est le rôle de l'hyaluronidase.",
+   "Faux : elle hydrolyse l'ADN, pas l'amidon."
+  ]
+ },
+ {
+  "q": "Concernant les hémolysines de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "S. aureus produit des hémolysines alpha et bêta",
+   "L'hémolysine alpha est antigénique",
+   "Des anticorps spécifiques apparaissent lors d'infections chroniques",
+   "Les hémolysines lysent les globules rouges",
+   "S. aureus ne produit aucune hémolysine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : hémolysines alpha et bêta.",
+   "Vrai : l'alpha-hémolysine est antigénique.",
+   "Vrai : anticorps spécifiques dans les infections chroniques.",
+   "Vrai : lyse des hématies.",
+   "Faux : il produit des hémolysines alpha et bêta."
+  ]
+ },
+ {
+  "q": "Concernant la leucocidine de Panton et Valentine, lesquelles sont exactes ?",
+  "options": [
+   "Elle détruit les polynucléaires",
+   "Elle est observée chez des souches retrouvées chez les jeunes",
+   "Ces souches sont responsables de pneumopathies primitives foudroyantes",
+   "Elle détruit les globules rouges",
+   "Elle coagule le plasma"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : leucocidine = destruction des polynucléaires.",
+   "Vrai : souches du sujet jeune.",
+   "Vrai : pneumopathies primitives foudroyantes.",
+   "Faux : ce sont les hémolysines qui lysent les hématies.",
+   "Faux : c'est le rôle de la coagulase."
+  ]
+ },
+ {
+  "q": "Parmi les substances élaborées par S. aureus, lesquelles sont des substances toxiques ?",
+  "options": [
+   "Entérotoxines",
+   "Exfoliatine",
+   "Leucocidine",
+   "TSST-1 (toxine du choc toxique)",
+   "Coagulase libre"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : toxine des TIA.",
+   "Vrai : toxine de la peau ébouillantée.",
+   "Vrai : toxine leucocide.",
+   "Vrai : toxine du choc toxique.",
+   "Faux : la coagulase libre est une substance non toxique."
+  ]
+ },
+ {
+  "q": "Parmi les substances suivantes, lesquelles sont des substances NON toxiques de S. aureus ?",
+  "options": [
+   "Coagulase libre",
+   "Lipase",
+   "DNase",
+   "Fibrinolysine",
+   "Entérotoxine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : enzyme non toxique.",
+   "Vrai : enzyme non toxique.",
+   "Vrai : enzyme non toxique.",
+   "Vrai : enzyme non toxique.",
+   "Faux : l'entérotoxine est une substance toxique."
+  ]
+ },
+ {
+  "q": "Concernant les entérotoxines staphylococciques, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont responsables des intoxications alimentaires",
+   "Elles sont thermostables",
+   "L'intoxication survient après ingestion d'un aliment contaminé",
+   "Elles peuvent provoquer une entérocolite",
+   "Elles sont détruites par la cuisson des aliments"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : toxines des TIA.",
+   "Vrai : résistent à la chaleur.",
+   "Vrai : toxine préformée dans l'aliment.",
+   "Vrai : entérocolite citée dans le cours.",
+   "Faux : elles sont thermostables."
+  ]
+ },
+ {
+  "q": "Concernant l'exfoliatine de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Elle est responsable du syndrome de la peau ébouillantée",
+   "Elle clive la desmogléine-1",
+   "Elle provoque un décollement cutané superficiel",
+   "Elle est responsable du choc toxique",
+   "Elle détruit les polynucléaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : toxine du SSSS.",
+   "Vrai : cible la desmogléine-1.",
+   "Vrai : décollement intra-épidermique superficiel.",
+   "Faux : le choc toxique est dû à la TSST-1.",
+   "Faux : c'est le rôle de la leucocidine."
+  ]
+ },
+ {
+  "q": "Concernant la toxine du choc toxique staphylococcique (TSST-1), lesquelles sont exactes ?",
+  "options": [
+   "Elle est responsable du syndrome de choc toxique staphylococcique",
+   "C'est un superantigène",
+   "Elle provoque une activation massive des lymphocytes T",
+   "Elle est responsable des intoxications alimentaires",
+   "Elle clive la desmogléine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : toxine du TSS.",
+   "Vrai : superantigène.",
+   "Vrai : activation lymphocytaire T massive.",
+   "Faux : les TIA sont dues aux entérotoxines.",
+   "Faux : c'est le rôle de l'exfoliatine."
+  ]
+ },
+ {
+  "q": "Concernant les infections à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Il peut causer des infections suppuratives",
+   "Il peut causer des manifestations toxiniques non suppuratives",
+   "Il peut infecter tous les organes",
+   "Il ne provoque que des infections cutanées",
+   "Toutes ses manifestations sont liées à des toxines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : lésions suppuratives et nécrotiques.",
+   "Vrai : TIA, choc toxique, peau ébouillantée.",
+   "Vrai : peut infecter tous les organes.",
+   "Faux : septicémies, endocardites, ostéomyélites...",
+   "Faux : beaucoup sont suppuratives invasives."
+  ]
+ },
+ {
+  "q": "Concernant les lésions suppuratives et nécrotiques à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Peau et muqueuses : furoncle",
+   "Os : ostéomyélite",
+   "Articulations : arthrites",
+   "Tissus mous : abcès",
+   "S. aureus ne donne jamais de lésions suppuratives"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : furoncle cité dans le cours.",
+   "Vrai : ostéomyélite citée dans le cours.",
+   "Vrai : arthrites citées dans le cours.",
+   "Vrai : abcès des tissus mous.",
+   "Faux : les lésions suppuratives sont typiques."
+  ]
+ },
+ {
+  "q": "Concernant les formes invasives des infections à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Septicémies",
+   "Endocardites",
+   "Pneumopathies secondaires ou nosocomiales",
+   "Méningites purulentes primitives fréquentes",
+   "S. aureus ne dissémine jamais par voie hématogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : septicémies citées dans le cours.",
+   "Vrai : endocardites citées dans le cours.",
+   "Vrai : pneumopathies secondaires ou nosocomiales.",
+   "Faux : les méningites staphylococciques sont surtout liées aux SCN sur matériel.",
+   "Faux : la dissémination hématogène est classique."
+  ]
+ },
+ {
+  "q": "Un jeune adulte présente un nodule douloureux, chaud et fluctuant de la nuque avec un bourbillon central. Quelles affirmations sont exactes ?",
+  "options": [
+   "Le diagnostic est un furoncle",
+   "Le germe en cause est le plus souvent S. aureus",
+   "Le prélèvement du pus permet l'isolement du germe",
+   "Il s'agit d'une angine",
+   "Le germe en cause est Streptococcus pyogenes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : nodule folliculaire nécrotique = furoncle.",
+   "Vrai : S. aureus en est la cause habituelle.",
+   "Vrai : pus = prélèvement de choix.",
+   "Faux : l'angine touche le pharynx.",
+   "Faux : S. pyogenes cause l'érysipèle, pas le furoncle."
+  ]
+ },
+ {
+  "q": "Concernant le furoncle staphylococcique, lesquelles sont exactes ?",
+  "options": [
+   "C'est une lésion suppurative et nécrotique du follicule pilo-sébacé",
+   "Il est dû à S. aureus",
+   "Plusieurs furoncles confluents forment un anthrax",
+   "Il est dû à Streptococcus pyogenes",
+   "C'est une manifestation toxinique sans suppuration"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : folliculite nécrotique suppurée.",
+   "Vrai : S. aureus.",
+   "Vrai : anthrax = conglomérat de furoncles.",
+   "Faux : S. pyogenes donne l'érysipèle.",
+   "Faux : c'est une lésion suppurative."
+  ]
+ },
+ {
+  "q": "Un enfant présente une fièvre et une douleur osseuse de la métaphyse fémorale. Quelles affirmations sont exactes ?",
+  "options": [
+   "Il faut évoquer une ostéomyélite aiguë",
+   "S. aureus en est la première cause",
+   "Les hémocultures font partie du bilan",
+   "Le germe en cause est Neisseria meningitidis",
+   "L'ostéomyélite est une manifestation toxinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : tableau d'ostéomyélite aiguë.",
+   "Vrai : S. aureus, première cause.",
+   "Vrai : ensemencement hématogène.",
+   "Faux : le méningocoque donne des méningites.",
+   "Faux : c'est une infection suppurative."
+  ]
+ },
+ {
+  "q": "Concernant l'ostéomyélite à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "S. aureus peut infecter l'os et donner une ostéomyélite",
+   "L'ostéomyélite est une lésion suppurative et nécrotique",
+   "La dissémination hématogène peut ensemencer l'os",
+   "S. aureus n'infecte jamais l'os",
+   "L'ostéomyélite staphylococcique est toujours d'origine toxinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : os cité dans le pouvoir pathogène.",
+   "Vrai : lésions suppuratives et nécrotiques.",
+   "Vrai : voie hématogène classique.",
+   "Faux : l'os est une localisation typique.",
+   "Faux : c'est une infection suppurative invasive."
+  ]
+ },
+ {
+  "q": "Concernant l'endocardite à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "S. aureus peut causer des endocardites",
+   "Les SCN peuvent aussi causer des endocardites, notamment sur prothèse",
+   "La bactériémie est le mode d'ensemencement des valves",
+   "S. aureus ne provoque jamais d'endocardite",
+   "L'endocardite staphylococcique est une toxi-infection alimentaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : endocardites citées dans le cours.",
+   "Vrai : SCN = endocardites sur matériel.",
+   "Vrai : greffe bactériémique sur les valves.",
+   "Faux : c'est une localisation classique.",
+   "Faux : les TIA sont digestives, sans bactériémie."
+  ]
+ },
+ {
+  "q": "Concernant les pneumopathies à staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "S. aureus cause des pneumopathies secondaires ou nosocomiales",
+   "Les souches productrices de leucocidine de Panton-Valentine causent des pneumopathies primitives foudroyantes chez les jeunes",
+   "Elles peuvent compliquer une grippe",
+   "S. aureus ne provoque jamais de pneumopathie",
+   "Les pneumopathies staphylococciques sont toujours communautaires bénignes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : pneumopathies secondaires ou nosocomiales.",
+   "Vrai : PVL = pneumopathies primitives foudroyantes du jeune.",
+   "Vrai : surinfection post-grippale classique.",
+   "Faux : le poumon est une localisation citée.",
+   "Faux : elles peuvent être graves et nosocomiales."
+  ]
+ },
+ {
+  "q": "Parmi les infections cutanéo-muqueuses suivantes, lesquelles sont dues à S. aureus ?",
+  "options": [
+   "Furoncle",
+   "Impétigo staphylococcique",
+   "Panaris",
+   "Érysipèle",
+   "Angine érythémateuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : lésion staphylococcique typique.",
+   "Vrai : S. aureus peut causer l'impétigo.",
+   "Vrai : infection suppurative du doigt.",
+   "Faux : l'érysipèle est dû à S. pyogenes.",
+   "Faux : l'angine érythémateuse est streptococcique."
+  ]
+ },
+ {
+  "q": "Concernant les intoxications alimentaires staphylococciques, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont dues aux entérotoxines",
+   "La transmission peut être alimentaire",
+   "Elles se manifestent par des vomissements et diarrhées rapides après ingestion",
+   "Elles nécessitent une multiplication bactérienne dans l'organisme",
+   "Elles sont dues à la coagulase"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : entérotoxines = TIA.",
+   "Vrai : transmission alimentaire citée.",
+   "Vrai : début brutal après ingestion.",
+   "Faux : la toxine est préformée dans l'aliment.",
+   "Faux : la coagulase n'est pas une toxine."
+  ]
+ },
+ {
+  "q": "Concernant le syndrome de choc toxique staphylococcique, lesquelles sont exactes ?",
+  "options": [
+   "Il est dû à la TSST-1",
+   "C'est une manifestation toxinique non suppurative",
+   "Il associe fièvre, hypotension et érythrodermie",
+   "Il est dû aux entérotoxines",
+   "Il est toujours d'origine alimentaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : TSST-1 = toxine du choc toxique.",
+   "Vrai : manifestation toxinique.",
+   "Vrai : triade fièvre-hypotension-érythrodermie.",
+   "Faux : les entérotoxines donnent les TIA.",
+   "Faux : pas de lien alimentaire obligatoire."
+  ]
+ },
+ {
+  "q": "Concernant le syndrome de la peau ébouillantée, lesquelles sont exactes ?",
+  "options": [
+   "Il est dû à l'exfoliatine",
+   "Il touche surtout le nourrisson et le jeune enfant",
+   "Il s'agit d'un décollement cutané superficiel",
+   "Il est dû à la TSST-1",
+   "C'est une lésion suppurative profonde"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : exfoliatine = SSSS.",
+   "Vrai : nourrisson et jeune enfant.",
+   "Vrai : décollement superficiel.",
+   "Faux : la TSST-1 donne le choc toxique.",
+   "Faux : c'est une manifestation toxinique."
+  ]
+ },
+ {
+  "q": "Concernant les manifestations liées aux toxines staphylococciques citées dans le cours, lesquelles sont exactes ?",
+  "options": [
+   "Syndrome de Kawasaki",
+   "Mort subite du nourrisson",
+   "Syndrome de la peau ébouillantée",
+   "Rhumatisme articulaire aigu",
+   "Scarlatine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : cité parmi les maladies liées aux toxines.",
+   "Vrai : citée parmi les maladies liées aux toxines.",
+   "Vrai : dû à l'exfoliatine.",
+   "Faux : complication de S. pyogenes.",
+   "Faux : due à S. pyogenes."
+  ]
+ },
+ {
+  "q": "Les entérotoxines staphylococciques : lesquelles sont exactes ?",
+  "options": [
+   "Il en existe plusieurs types (A, B, C, D, E)",
+   "Elles sont thermostables",
+   "Elles résistent à la cuisson des aliments",
+   "Elles provoquent vomissements et diarrhée",
+   "Elles sont détruites par l'ébullition"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : plusieurs sérotypes décrits.",
+   "Vrai : thermostables.",
+   "Vrai : la cuisson ne les détruit pas.",
+   "Vrai : syndrome émétique et diarrhéique.",
+   "Faux : elles résistent à l'ébullition."
+  ]
+ },
+ {
+  "q": "Concernant l'intoxication alimentaire staphylococcique, lesquelles sont exactes ?",
+  "options": [
+   "Elle est due à une toxine préformée dans l'aliment",
+   "L'incubation est courte (quelques heures)",
+   "Les aliments incriminés sont souvent les produits laitiers, crèmes et viandes",
+   "Elle nécessite une infection digestive par la bactérie",
+   "L'antibiothérapie est le traitement de l'intoxication"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : toxine préformée.",
+   "Vrai : 2 à 6 heures.",
+   "Vrai : aliments à risque classiques.",
+   "Faux : pas de multiplication in vivo nécessaire.",
+   "Faux : traitement symptomatique, pas d'antibiotiques."
+  ]
+ },
+ {
+  "q": "L'exfoliatine : lesquelles sont exactes ?",
+  "options": [
+   "Elle clive la desmogléine-1",
+   "Elle provoque un décollement intra-épidermique superficiel",
+   "Elle est responsable du syndrome de la peau ébouillantée",
+   "Elle est produite par certaines souches de S. aureus",
+   "Elle provoque un choc toxinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cible la desmogléine-1.",
+   "Vrai : clivage superficiel.",
+   "Vrai : SSSS.",
+   "Vrai : souches exfoliatine-productrices.",
+   "Faux : le choc est dû à la TSST-1."
+  ]
+ },
+ {
+  "q": "Le syndrome de la peau ébouillantée (SSSS) : lesquelles sont exactes ?",
+  "options": [
+   "Il touche préférentiellement le nourrisson",
+   "Il débute par un érythème douloureux suivi d'un décollement",
+   "Il est dû à l'exfoliatine",
+   "Le signe de Nikolsky peut être positif",
+   "Il est dû à la TSST-1"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : nourrisson surtout.",
+   "Vrai : érythème puis décollement.",
+   "Vrai : toxine exfoliatine.",
+   "Vrai : décollement au frottement.",
+   "Faux : la TSST-1 donne le choc toxique."
+  ]
+ },
+ {
+  "q": "La TSST-1 : lesquelles sont exactes ?",
+  "options": [
+   "C'est un superantigène",
+   "Elle active de façon massive les lymphocytes T",
+   "Elle provoque un relargage cytokinique massif",
+   "Elle est responsable du syndrome de choc toxique",
+   "C'est une entérotoxine responsable de TIA"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : superantigène.",
+   "Vrai : activation T massive.",
+   "Vrai : orage cytokinique.",
+   "Vrai : toxine du choc toxique.",
+   "Faux : les TIA sont dues aux entérotoxines."
+  ]
+ },
+ {
+  "q": "Le syndrome de choc toxique staphylococcique : lesquelles sont exactes ?",
+  "options": [
+   "Il associe fièvre élevée, hypotension et érythrodermie",
+   "Il peut survenir en dehors de tout contexte menstruel",
+   "Il est lié à la production de TSST-1",
+   "C'est une urgence thérapeutique",
+   "Il est dû à une bactériémie massive obligatoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : triade caractéristique.",
+   "Vrai : formes non menstruelles existent.",
+   "Vrai : TSST-1.",
+   "Vrai : urgence.",
+   "Faux : il peut survenir sans bactériémie."
+  ]
+ },
+ {
+  "q": "Concernant les manifestations toxiniques de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Toxi-infection alimentaire",
+   "Syndrome de choc toxique",
+   "Syndrome de la peau ébouillantée",
+   "Syndrome de Kawasaki",
+   "Rhumatisme articulaire aigu"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : entérotoxines.",
+   "Vrai : TSST-1.",
+   "Vrai : exfoliatine.",
+   "Vrai : cité dans le cours.",
+   "Faux : complication streptococcique."
+  ]
+ },
+ {
+  "q": "Concernant les manifestations suppuratives de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Furoncle",
+   "Ostéomyélite",
+   "Arthrite septique",
+   "Endocardite",
+   "Scarlatine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : peau et muqueuses.",
+   "Vrai : os.",
+   "Vrai : articulations.",
+   "Vrai : valves cardiaques.",
+   "Faux : la scarlatine est streptococcique."
+  ]
+ },
+ {
+  "q": "Parmi ces infections, lesquelles peuvent être dues à S. aureus ?",
+  "options": [
+   "Panaris",
+   "Abcès du sein (mastite)",
+   "Orgelet",
+   "Angine érythémateuse",
+   "Otite moyenne aiguë typique du nourrisson"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : infection suppurative du doigt.",
+   "Vrai : mastite de l'allaitement.",
+   "Vrai : infection du follicule ciliaire.",
+   "Faux : angine à S. pyogenes.",
+   "Faux : pneumocoque et H. influenzae surtout."
+  ]
+ },
+ {
+  "q": "Concernant la septicémie à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Elle peut compliquer un foyer cutané",
+   "Elle peut ensemencer à distance (os, poumon, valves)",
+   "Les hémocultures permettent le diagnostic",
+   "Elle est toujours d'origine urinaire",
+   "S. aureus ne passe jamais dans le sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : porte d'entrée cutanée fréquente.",
+   "Vrai : localisations secondaires.",
+   "Vrai : hémocultures = examen clé.",
+   "Faux : porte d'entrée souvent cutanée.",
+   "Faux : les septicémies sont citées dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant les staphylocoques à coagulase négative (SCN), lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des espèces non aureus",
+   "Ce sont des bactéries opportunistes",
+   "Ils sont responsables d'infections nosocomiales",
+   "Ce sont des pathogènes spécifiques comme S. aureus",
+   "Ils sont tous à coagulase positive"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : S. non aureus.",
+   "Vrai : opportunistes.",
+   "Vrai : infections nosocomiales.",
+   "Faux : seuls S. aureus est pathogène spécifique.",
+   "Faux : par définition coagulase négative."
+  ]
+ },
+ {
+  "q": "Concernant les infections à SCN, lesquelles sont exactes ?",
+  "options": [
+   "Infections cutanées",
+   "Infections nasales",
+   "Infections urinaires",
+   "Endocardites",
+   "Toxi-infections alimentaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infections de la peau.",
+   "Vrai : infections nasales citées.",
+   "Vrai : infections urinaires citées.",
+   "Vrai : endocardites citées.",
+   "Faux : les TIA sont dues à S. aureus."
+  ]
+ },
+ {
+  "q": "Concernant S. epidermidis, lesquelles sont exactes ?",
+  "options": [
+   "C'est un staphylocoque à coagulase négative",
+   "C'est un commensal de la peau",
+   "Il peut causer des méningites",
+   "Il produit une coagulase libre",
+   "C'est un pathogène spécifique strict"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : SCN.",
+   "Vrai : commensal cutané.",
+   "Vrai : méningites citées dans le cours.",
+   "Faux : il est coagulase négative.",
+   "Faux : c'est un opportuniste."
+  ]
+ },
+ {
+  "q": "Concernant S. saprophyticus, lesquelles sont exactes ?",
+  "options": [
+   "C'est un staphylocoque à coagulase négative",
+   "Il est responsable d'infections urinaires chez la femme jeune",
+   "Il est résistant à la novobiocine",
+   "Il est à coagulase positive",
+   "Il cause des intoxications alimentaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : SCN.",
+   "Vrai : cystites de la femme jeune.",
+   "Vrai : novobiocine R = caractère distinctif.",
+   "Faux : il est coagulase négative.",
+   "Faux : les TIA sont dues à S. aureus."
+  ]
+ },
+ {
+  "q": "Concernant S. lugdunensis, lesquelles sont exactes ?",
+  "options": [
+   "C'est un staphylocoque à coagulase négative",
+   "Il est plus virulent que les autres SCN",
+   "Il peut donner un tableau proche de celui de S. aureus",
+   "Il est à coagulase positive",
+   "Il est toujours non pathogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : SCN.",
+   "Vrai : virulence particulière.",
+   "Vrai : infections agressives type S. aureus.",
+   "Faux : il est coagulase négative.",
+   "Faux : il est pathogène."
+  ]
+ },
+ {
+  "q": "Concernant la sensibilité aux antibiotiques des SCN, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont caractérisés par une multirésistance aux antibiotiques",
+   "La sensibilité d'un staphylocoque est imprévisible",
+   "L'antibiogramme est indispensable",
+   "Ils sont toujours sensibles à la pénicilline G",
+   "Aucun SCN n'est résistant aux antibiotiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : multirésistance citée dans le cours.",
+   "Vrai : sensibilité imprévisible.",
+   "Vrai : antibiogramme indispensable.",
+   "Faux : résistances fréquentes.",
+   "Faux : la multirésistance est caractéristique."
+  ]
+ },
+ {
+  "q": "Concernant le pouvoir pathogène des SCN sur matériel étranger, lesquelles sont exactes ?",
+  "options": [
+   "Ils adhèrent aux cathéters et prothèses",
+   "Ils produisent un biofilm",
+   "Ils causent des infections de prothèses articulaires et de valves",
+   "Ils ne colonisent jamais le matériel médical",
+   "Leurs infections sont toujours communautaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : adhésion au matériel.",
+   "Vrai : biofilm (slime).",
+   "Vrai : infections sur prothèses.",
+   "Faux : le matériel est leur cible privilégiée.",
+   "Faux : ce sont des infections nosocomiales."
+  ]
+ },
+ {
+  "q": "Un patient porteur d'une prothèse de hanche présente une infection chronique du site opératoire à SCN. Quelles affirmations sont exactes ?",
+  "options": [
+   "Les SCN adhèrent au matériel prothétique",
+   "La production de biofilm explique la chronicité",
+   "S. epidermidis est souvent en cause",
+   "Un staphylocoque à coagulase positive est toujours en cause",
+   "Les SCN ne colonisent jamais le matériel"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : adhésion au matériel.",
+   "Vrai : biofilm = chronicité.",
+   "Vrai : S. epidermidis, SCN cutané.",
+   "Faux : les SCN sont les germes typiques.",
+   "Faux : c'est leur pouvoir pathogène principal."
+  ]
+ },
+ {
+  "q": "Une femme jeune présente des brûlures mictionnelles ; l'ECBU isole un staphylocoque à coagulase négative. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. saprophyticus est le germe à évoquer",
+   "C'est une infection urinaire communautaire de la femme jeune",
+   "L'identification repose sur la coagulase négative et la résistance à la novobiocine",
+   "Il s'agit nécessairement de S. aureus",
+   "Les SCN ne donnent jamais d'infection urinaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : S. saprophyticus, femme jeune.",
+   "Vrai : cystite communautaire.",
+   "Vrai : coag− et novobiocine R.",
+   "Faux : S. aureus est coagulase positive.",
+   "Faux : les infections urinaires sont citées."
+  ]
+ },
+ {
+  "q": "Concernant la distinction entre Staphylococcus et Streptococcus, lesquelles sont exactes ?",
+  "options": [
+   "Staphylococcus est catalase positive, Streptococcus catalase négative",
+   "Staphylococcus est disposé en amas, Streptococcus en chaînettes",
+   "Les deux sont des cocci à Gram positif",
+   "Streptococcus est catalase positive",
+   "Staphylococcus est disposé en chaînettes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : catalase = test distinctif.",
+   "Vrai : amas vs chaînettes.",
+   "Vrai : CGP tous les deux.",
+   "Faux : Streptococcus est catalase négative.",
+   "Faux : les amas caractérisent Staphylococcus."
+  ]
+ },
+ {
+  "q": "Parmi les caractères suivants, lesquels distinguent Staphylococcus de Micrococcus ?",
+  "options": [
+   "Staphylococcus est oxydase négative",
+   "Micrococcus est oxydase positive",
+   "Les deux sont catalase positives",
+   "Micrococcus est oxydase négative",
+   "Staphylococcus est oxydase positive"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : oxydase négative.",
+   "Vrai : oxydase positive.",
+   "Vrai : catalase positive tous les deux.",
+   "Faux : Micrococcus est oxydase positive.",
+   "Faux : Staphylococcus est oxydase négative."
+  ]
+ },
+ {
+  "q": "Concernant les cocci à Gram positif en amas, lesquelles sont exactes ?",
+  "options": [
+   "L'aspect en amas oriente vers Staphylococcus",
+   "La catalase positive confirme le genre Staphylococcus",
+   "La coagulase positive identifie S. aureus",
+   "L'aspect en amas est caractéristique des streptocoques",
+   "La catalase négative oriente vers Staphylococcus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : amas = staphylocoque.",
+   "Vrai : catalase + = genre.",
+   "Vrai : coagulase + = espèce aureus.",
+   "Faux : les streptocoques sont en chaînettes.",
+   "Faux : catalase négative = streptocoque."
+  ]
+ },
+ {
+  "q": "Un laboratoire isole des cocci à Gram positif, catalase positive, oxydase négative. Quelles affirmations sont exactes ?",
+  "options": [
+   "Il s'agit du genre Staphylococcus",
+   "Le test de la coagulase permettra d'identifier S. aureus",
+   "Il ne peut pas s'agir d'un Streptococcus",
+   "Il s'agit certainement d'un Micrococcus",
+   "La catalase positive élimine le genre Staphylococcus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : CGP, catalase+, oxydase− = Staphylococcus.",
+   "Vrai : coagulase = identification d'espèce.",
+   "Vrai : Streptococcus est catalase négative.",
+   "Faux : Micrococcus est oxydase positive.",
+   "Faux : la catalase positive confirme le genre."
+  ]
+ },
+ {
+  "q": "Concernant les différences entre S. aureus et les SCN, lesquelles sont exactes ?",
+  "options": [
+   "S. aureus est à coagulase positive, les SCN à coagulase négative",
+   "S. aureus est un pathogène spécifique, les SCN sont opportunistes",
+   "S. aureus produit une DNase thermostable, la plupart des SCN non",
+   "Les SCN sont à coagulase positive",
+   "S. aureus est un pathogène uniquement nosocomial"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : coagulase = distinction.",
+   "Vrai : spécifique vs opportunistes.",
+   "Vrai : DNase thermostable = S. aureus.",
+   "Faux : les SCN sont coagulase négative.",
+   "Faux : infections communautaires et nosocomiales."
+  ]
+ },
+ {
+  "q": "Parmi les espèces suivantes, lesquelles sont des staphylocoques à coagulase négative ?",
+  "options": [
+   "S. epidermidis",
+   "S. saprophyticus",
+   "S. lugdunensis",
+   "S. aureus",
+   "S. pyogenes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : SCN cutané.",
+   "Vrai : SCN urinaire.",
+   "Vrai : SCN virulent.",
+   "Faux : S. aureus est coagulase positive.",
+   "Faux : S. pyogenes est un streptocoque."
+  ]
+ },
+ {
+  "q": "Concernant S. aureus par rapport aux streptocoques, lesquelles sont exactes ?",
+  "options": [
+   "S. aureus est catalase positive, les streptocoques sont catalase négatifs",
+   "S. aureus pousse facilement sur milieux ordinaires, les streptocoques sont exigeants",
+   "Les deux sont des cocci à Gram positif",
+   "Les streptocoques sont catalase positifs",
+   "S. aureus est disposé en chaînettes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : catalase distinctif.",
+   "Vrai : non exigeant vs exigeants.",
+   "Vrai : CGP tous les deux.",
+   "Faux : les streptocoques sont catalase négatifs.",
+   "Faux : S. aureus est en amas."
+  ]
+ },
+ {
+  "q": "Concernant la coagulase par rapport à la catalase, lesquelles sont exactes ?",
+  "options": [
+   "La catalase est un caractère du genre Staphylococcus",
+   "La coagulase est un caractère d'espèce (S. aureus)",
+   "Les deux tests utilisent du peroxyde d'hydrogène",
+   "La catalase distingue S. aureus des SCN",
+   "La coagulase distingue Staphylococcus de Streptococcus"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : catalase = genre.",
+   "Vrai : coagulase = espèce aureus.",
+   "Faux : seul le test catalase utilise H2O2.",
+   "Faux : c'est le rôle de la coagulase.",
+   "Faux : c'est le rôle de la catalase."
+  ]
+ },
+ {
+  "q": "Parmi ces bactéries, lesquelles sont des cocci à Gram positif ?",
+  "options": [
+   "Staphylococcus aureus",
+   "Staphylococcus epidermidis",
+   "Streptococcus pyogenes",
+   "Neisseria meningitidis",
+   "Escherichia coli"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : CGP en amas.",
+   "Vrai : CGP en amas.",
+   "Vrai : CGP en chaînettes.",
+   "Faux : diplocoque à Gram négatif.",
+   "Faux : bacille à Gram négatif."
+  ]
+ },
+ {
+  "q": "Concernant les milieux sélectifs des staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "Le milieu de Chapman est sélectif des staphylocoques",
+   "Le milieu de Baird-Parker est sélectif de S. aureus",
+   "La gélose au sang est un milieu ordinaire non sélectif",
+   "Le milieu DCL est le sélectif des staphylocoques",
+   "Le milieu de Chapman est sélectif des streptocoques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : NaCl 7,5 % + mannitol.",
+   "Vrai : colonies noires à halo clair.",
+   "Vrai : milieu ordinaire.",
+   "Faux : le sélectif est le milieu de Chapman.",
+   "Faux : il est sélectif des staphylocoques."
+  ]
+ },
+ {
+  "q": "Concernant le pouvoir pathogène de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Il provoque des lésions suppuratives et nécrotiques",
+   "Il provoque des manifestations toxiniques",
+   "Il peut infecter tous les organes",
+   "Il ne provoque que des infections bénignes",
+   "Son pouvoir pathogène est uniquement toxinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : furoncle, ostéomyélite, arthrites.",
+   "Vrai : TIA, choc toxique, SSSS.",
+   "Vrai : peut infecter tous les organes.",
+   "Faux : septicémies, endocardites graves.",
+   "Faux : aussi suppuratif et invasif."
+  ]
+ },
+ {
+  "q": "La leucocidine de Panton-Valentine : lesquelles sont exactes ?",
+  "options": [
+   "C'est une toxine leucocide",
+   "Elle détruit les polynucléaires neutrophiles",
+   "Elle est associée aux pneumopathies nécrosantes du sujet jeune",
+   "Elle est responsable des intoxications alimentaires",
+   "Elle est produite par tous les S. aureus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : toxine leucocide.",
+   "Vrai : destruction des polynucléaires.",
+   "Vrai : pneumopathies foudroyantes du jeune.",
+   "Faux : les TIA sont dues aux entérotoxines.",
+   "Faux : seules certaines souches la produisent."
+  ]
+ },
+ {
+  "q": "Concernant les hémolysines staphylococciques, lesquelles sont exactes ?",
+  "options": [
+   "S. aureus produit une hémolysine alpha",
+   "S. aureus produit une hémolysine bêta",
+   "Elles contribuent aux lésions nécrotiques",
+   "L'hémolysine alpha est antigénique",
+   "Aucun staphylocoque à coagulase négative ne produit d'hémolysine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : alpha-hémolysine.",
+   "Vrai : bêta-hémolysine.",
+   "Vrai : nécrose tissulaire.",
+   "Vrai : anticorps dans les infections chroniques.",
+   "Faux : certains SCN comme S. haemolyticus en produisent."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes sur les facteurs de virulence, lesquelles sont exactes ?",
+  "options": [
+   "La coagulase libre est un facteur d'identification",
+   "La coagulase liée permet l'attachement aux cellules",
+   "La fibrinolysine favorise la dissémination",
+   "La protéine A inhibe la phagocytose",
+   "La DNase est une toxine responsable du choc toxique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : test en tube.",
+   "Vrai : clumping factor.",
+   "Vrai : dislocation du caillot.",
+   "Vrai : anti-opsonisation.",
+   "Faux : le choc est dû à la TSST-1."
+  ]
+ },
+ {
+  "q": "Concernant l'action des toxines staphylococciques, lesquelles sont exactes ?",
+  "options": [
+   "Les entérotoxines agissent sur le tube digestif",
+   "L'exfoliatine agit sur la peau",
+   "La TSST-1 agit de façon systémique",
+   "La leucocidine PV agit sur les leucocytes",
+   "Toutes les toxines agissent uniquement localement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : TIA.",
+   "Vrai : SSSS.",
+   "Vrai : choc toxique systémique.",
+   "Vrai : destruction des polynucléaires.",
+   "Faux : la TSST-1 a une action systémique."
+  ]
+ },
+ {
+  "q": "Un nourrisson présente un érythème généralisé douloureux avec décollement cutané superficiel. Quelles affirmations sont exactes ?",
+  "options": [
+   "Il faut évoquer un syndrome de la peau ébouillantée",
+   "La toxine en cause est l'exfoliatine",
+   "Le germe producteur est S. aureus",
+   "Il s'agit d'une brûlure thermique",
+   "La toxine en cause est la TSST-1"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : SSSS du nourrisson.",
+   "Vrai : exfoliatine.",
+   "Vrai : souches de S. aureus.",
+   "Faux : pas d'agent thermique.",
+   "Faux : la TSST-1 donne le choc toxique."
+  ]
+ },
+ {
+  "q": "Un patient présente fièvre à 40 °C, hypotension et érythrodermie scarlatiniforme. Quelles affirmations sont exactes ?",
+  "options": [
+   "Il faut évoquer un syndrome de choc toxique",
+   "La toxine en cause peut être la TSST-1",
+   "C'est une urgence thérapeutique",
+   "Il s'agit d'une scarlatine streptococcique",
+   "Le tableau est dû aux entérotoxines alimentaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : triade du TSS.",
+   "Vrai : TSST-1.",
+   "Vrai : urgence.",
+   "Faux : la scarlatine est streptococcique.",
+   "Faux : les entérotoxines donnent les TIA."
+  ]
+ },
+ {
+  "q": "Plusieurs convives présentent vomissements et diarrhée 3 heures après un repas de fête. Quelles affirmations sont exactes ?",
+  "options": [
+   "Il faut évoquer une toxi-infection alimentaire staphylococcique",
+   "La toxine est préformée dans l'aliment",
+   "L'incubation courte est caractéristique",
+   "Il s'agit d'une infection invasive à S. aureus",
+   "Le traitement repose sur les antibiotiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : TIA staphylococcique.",
+   "Vrai : entérotoxine préformée.",
+   "Vrai : quelques heures.",
+   "Faux : pas d'invasion bactérienne.",
+   "Faux : traitement symptomatique."
+  ]
+ },
+ {
+  "q": "Un adolescent présente une pneumopathie nécrosante foudroyante. Quelles affirmations sont exactes ?",
+  "options": [
+   "Il faut évoquer une souche de S. aureus productrice de leucocidine de Panton-Valentine",
+   "La leucocidine détruit les polynucléaires",
+   "Ces souches touchent préférentiellement les sujets jeunes",
+   "Il s'agit toujours d'une pneumopathie nosocomiale",
+   "La leucocidine est une entérotoxine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PVL = pneumopathie foudroyante.",
+   "Vrai : destruction des polynucléaires.",
+   "Vrai : souches du sujet jeune.",
+   "Faux : pneumopathies primitives communautaires.",
+   "Faux : c'est une leucocidine."
+  ]
+ },
+ {
+  "q": "Un patient fébrile présente des hémocultures positives à cocci à Gram positif en amas, catalase positive. Quelles affirmations sont exactes ?",
+  "options": [
+   "Il s'agit d'une bactériémie à Staphylococcus",
+   "Le test de la coagulase orientera vers S. aureus ou un SCN",
+   "Il faut rechercher une porte d'entrée et des localisations secondaires",
+   "Il s'agit d'une bactériémie à streptocoque",
+   "La catalase positive élimine le genre Staphylococcus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : CGP en amas, catalase+.",
+   "Vrai : coagulase = identification d'espèce.",
+   "Vrai : bilan de porte d'entrée et métastases.",
+   "Faux : les streptocoques sont catalase négatifs.",
+   "Faux : la catalase positive confirme Staphylococcus."
+  ]
+ },
+ {
+  "q": "Un patient porteur d'un cathéter veineux central présente une fièvre ; les hémocultures isolent S. epidermidis. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. epidermidis est un SCN commensal de la peau",
+   "Le cathéter est la porte d'entrée probable",
+   "Le retrait du cathéter fait partie de la prise en charge",
+   "Un SCN isolé est toujours une contamination sans signification",
+   "S. epidermidis est à coagulase positive"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : commensal cutané.",
+   "Vrai : infection sur cathéter.",
+   "Vrai : ablation du matériel infecté.",
+   "Faux : avec fièvre et cathéter, c'est significatif.",
+   "Faux : S. epidermidis est coagulase négative."
+  ]
+ },
+ {
+  "q": "Un patient présente une endocardite sur valve native à S. aureus. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus est une cause d'endocardite",
+   "La bactériémie ensemence les valves",
+   "Les hémocultures sont l'examen clé",
+   "S. aureus ne donne jamais d'endocardite",
+   "L'endocardite est une toxi-infection alimentaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : endocardites citées dans le cours.",
+   "Vrai : greffe bactériémique.",
+   "Vrai : hémocultures répétées.",
+   "Faux : localisation classique.",
+   "Faux : pas de lien avec les TIA."
+  ]
+ },
+ {
+  "q": "Un patient grippé développe une pneumopathie secondaire grave. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus est une cause classique de pneumopathie post-grippale",
+   "Il s'agit d'une pneumopathie secondaire",
+   "Le prélèvement bronchique permet le diagnostic",
+   "Le pneumocoque n'est jamais en cause dans ce contexte",
+   "S. aureus ne provoque pas de pneumopathie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : surinfection post-grippale.",
+   "Vrai : pneumopathie secondaire.",
+   "Vrai : prélèvement bronchique.",
+   "Faux : le pneumocoque est aussi en cause.",
+   "Faux : pneumopathies citées dans le cours."
+  ]
+ },
+ {
+  "q": "Un patient dialysé est porteur nasal de S. aureus. Quelles affirmations sont exactes ?",
+  "options": [
+   "Le portage nasal est un facteur de risque d'infection",
+   "La décolonisation nasale par mupirocine peut être proposée",
+   "Le dépistage des porteurs est une mesure de prévention",
+   "Le portage nasal est sans conséquence",
+   "Il existe un vaccin efficace contre le portage"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : portage = risque infectieux.",
+   "Vrai : mupirocine nasale.",
+   "Vrai : dépistage des porteurs sains.",
+   "Faux : c'est un facteur de risque.",
+   "Faux : pas de vaccin."
+  ]
+ },
+ {
+  "q": "Un nouveau-né présente une omphalite à S. aureus. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus peut infecter le cordon ombilical",
+   "La transmission peut être manuportée",
+   "L'hygiène des mains du personnel prévient ces infections",
+   "S. aureus n'infecte jamais le nouveau-né",
+   "Il s'agit d'une manifestation toxinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : omphalite staphylococcique.",
+   "Vrai : manuportage.",
+   "Vrai : hygiène des mains.",
+   "Faux : le nouveau-né est réceptif.",
+   "Faux : infection suppurative."
+  ]
+ },
+ {
+  "q": "Un patient présente un panaris du doigt après une piqûre. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus est le germe le plus souvent en cause",
+   "C'est une infection suppurative",
+   "Le prélèvement du pus permet l'identification",
+   "Le germe en cause est Clostridium tetani",
+   "Aucune bactérie n'est en cause"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : S. aureus, germe habituel.",
+   "Vrai : suppuration.",
+   "Vrai : pus = prélèvement.",
+   "Faux : C. tetani donne le tétanos.",
+   "Faux : infection bactérienne."
+  ]
+ },
+ {
+  "q": "Un patient présente un abcès cutané récidivant. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus est une cause fréquente d'abcès cutanés",
+   "Un portage nasal doit être recherché",
+   "La ponction du pus permet le diagnostic bactériologique",
+   "Les abcès cutanés sont toujours stériles",
+   "S. aureus ne donne pas d'abcès"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : abcès staphylococciques.",
+   "Vrai : portage = récidives.",
+   "Vrai : ponction du pus.",
+   "Faux : ils sont bactériens.",
+   "Faux : S. aureus donne des abcès."
+  ]
+ },
+ {
+  "q": "Une patiente allaitante présente une mastite fébrile. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus est une cause fréquente de mastite",
+   "La porte d'entrée est souvent une crevasse du mamelon",
+   "L'examen bactériologique du lait est possible",
+   "S. aureus n'infecte jamais le sein",
+   "Il s'agit d'une toxi-infection alimentaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : mastite staphylococcique.",
+   "Vrai : crevasse = porte d'entrée.",
+   "Vrai : culture du lait.",
+   "Faux : le sein est une localisation possible.",
+   "Faux : pas de lien alimentaire."
+  ]
+ },
+ {
+  "q": "Un patient présente un orgelet récidivant. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus est souvent en cause",
+   "C'est une infection suppurative du follicule pilo-sébacé ciliaire",
+   "Un portage nasal ou cutané peut être associé",
+   "L'orgelet est toujours d'origine virale",
+   "S. aureus n'infecte pas les paupières"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : S. aureus, germe habituel.",
+   "Vrai : folliculite du cil.",
+   "Vrai : portage associé aux récidives.",
+   "Faux : c'est bactérien.",
+   "Faux : localisation possible."
+  ]
+ },
+ {
+  "q": "Un patient immunodéprimé présente une infection de chambre implantable à SCN. Quelles affirmations sont exactes ?",
+  "options": [
+   "Les SCN sont des opportunistes",
+   "Le biofilm protège les bactéries des antibiotiques",
+   "L'ablation du matériel est souvent nécessaire",
+   "Les SCN sont des pathogènes spécifiques",
+   "Le biofilm n'existe pas chez les staphylocoques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : bactéries opportunistes.",
+   "Vrai : biofilm = résistance.",
+   "Vrai : retrait du matériel.",
+   "Faux : ce sont des opportunistes.",
+   "Faux : le biofilm est caractéristique."
+  ]
+ },
+ {
+  "q": "Un patient présente une arthrite septique du genou. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus est une cause fréquente d'arthrite septique",
+   "La ponction articulaire permet le diagnostic",
+   "L'ensemencement peut être hématogène",
+   "S. aureus n'infecte jamais les articulations",
+   "L'arthrite septique est une manifestation toxinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : arthrites citées dans le cours.",
+   "Vrai : liquide articulaire.",
+   "Vrai : voie hématogène.",
+   "Faux : les articulations sont citées.",
+   "Faux : infection suppurative."
+  ]
+ },
+ {
+  "q": "Un patient diabétique présente un mal perforant plantaire surinfecté. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus est fréquemment en cause dans les surinfections",
+   "Le prélèvement profond guide l'antibiothérapie",
+   "L'ostéite sous-jacente doit être recherchée",
+   "Les plaies du diabétique sont toujours stériles",
+   "S. aureus ne surinfecte jamais les plaies"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : surinfection staphylococcique.",
+   "Vrai : prélèvement profond.",
+   "Vrai : ostéite à éliminer.",
+   "Faux : elles se surinfectent.",
+   "Faux : S. aureus surinfecte les plaies."
+  ]
+ },
+ {
+  "q": "Un patient présente une folliculite du cuir chevelu. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus peut causer des folliculites",
+   "C'est une infection suppurative du follicule pileux",
+   "L'examen direct du pus montre des cocci à Gram positif en amas",
+   "La folliculite est toujours mycosique",
+   "S. aureus n'infecte pas les follicules"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : folliculites staphylococciques.",
+   "Vrai : suppuration folliculaire.",
+   "Vrai : CGP en amas.",
+   "Faux : elle peut être bactérienne.",
+   "Faux : le follicule est une cible."
+  ]
+ },
+ {
+  "q": "Un patient opéré présente une infection du site opératoire à S. aureus. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus est une cause fréquente d'infection du site opératoire",
+   "Le portage nasal du patient est un facteur de risque",
+   "L'hygiène hospitalière prévient ces infections",
+   "Les infections du site opératoire sont toujours à bacilles à Gram négatif",
+   "S. aureus n'est jamais nosocomial"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ISO staphylococcique.",
+   "Vrai : portage nasal = risque.",
+   "Vrai : hygiène hospitalière.",
+   "Faux : S. aureus est fréquent.",
+   "Faux : infections nosocomiales citées."
+  ]
+ },
+ {
+  "q": "Un patient sous ventilation mécanique développe une pneumopathie tardive à S. aureus. Quelles affirmations sont exactes ?",
+  "options": [
+   "Il s'agit d'une pneumopathie nosocomiale",
+   "Le prélèvement bronchique distal permet le diagnostic",
+   "S. aureus hospitalier est souvent multirésistant",
+   "S. aureus ne cause pas de pneumopathie nosocomiale",
+   "Il s'agit d'une pneumopathie communautaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : pneumopathie nosocomiale.",
+   "Vrai : PBD protégé.",
+   "Vrai : multirésistance hospitalière.",
+   "Faux : pneumopathies nosocomiales citées.",
+   "Faux : contexte de réanimation."
+  ]
+ },
+ {
+  "q": "Un patient présente une thrombophlébite septique sur cathéter. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus peut causer des thrombophlébites septiques",
+   "La coagulase favorise la thrombose vasculaire",
+   "Les hémocultures sont indiquées",
+   "La coagulase n'a aucun rôle dans la thrombose",
+   "S. aureus ne colonise jamais les cathéters"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : thrombophlébite septique.",
+   "Vrai : coagulase = thrombose.",
+   "Vrai : hémocultures.",
+   "Faux : la coagulase thrombose les vaisseaux.",
+   "Faux : colonisation des cathéters."
+  ]
+ },
+ {
+  "q": "Un enfant présente un impétigo croûteux péribuccal. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus peut causer l'impétigo",
+   "Streptococcus pyogenes peut aussi être en cause",
+   "C'est une infection cutanée superficielle",
+   "L'impétigo est toujours d'origine virale",
+   "S. aureus ne donne jamais d'impétigo"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : impétigo staphylococcique.",
+   "Vrai : impétigo streptococcique aussi.",
+   "Vrai : atteinte superficielle.",
+   "Faux : c'est bactérien.",
+   "Faux : S. aureus est une cause."
+  ]
+ },
+ {
+  "q": "Un patient présente un anthrax (conglomérat de furoncles) de la nuque. Quelles affirmations sont exactes ?",
+  "options": [
+   "L'anthrax est un conglomérat de furoncles",
+   "S. aureus en est la cause",
+   "Le diabète est un facteur favorisant",
+   "L'anthrax staphylococcique est dû à Bacillus anthracis",
+   "Il s'agit d'une manifestation toxinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : définition de l'anthrax.",
+   "Vrai : S. aureus.",
+   "Vrai : diabète favorisant.",
+   "Faux : B. anthracis donne le charbon.",
+   "Faux : lésion suppurative."
+  ]
+ },
+ {
+  "q": "Un patient présente une adénite suppurée cervicale. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus peut causer des adénites suppurées",
+   "La ponction ganglionnaire permet le diagnostic",
+   "L'examen direct montre des cocci à Gram positif en amas",
+   "L'adénite suppurée est toujours tuberculeuse",
+   "S. aureus n'infecte jamais les ganglions"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : adénites staphylococciques.",
+   "Vrai : ponction du ganglion.",
+   "Vrai : CGP en amas.",
+   "Faux : elle peut être staphylococcique.",
+   "Faux : les ganglions peuvent être infectés."
+  ]
+ },
+ {
+  "q": "Un patient brûlé présente une surinfection de ses brûlures. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. aureus est une cause fréquente de surinfection des brûlures",
+   "La perte de la barrière cutanée favorise l'infection",
+   "Le prélèvement des lésions guide l'antibiothérapie",
+   "Les brûlures ne se surinfectent jamais",
+   "S. aureus ne colonise pas les brûlures"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : surinfection staphylococcique.",
+   "Vrai : effraction cutanée.",
+   "Vrai : prélèvement des lésions.",
+   "Faux : surinfection fréquente.",
+   "Faux : colonisation des brûlures."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic bactériologique des staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "Le diagnostic est essentiellement direct",
+   "Le diagnostic est essentiellement indirect (sérologique)",
+   "Le prélèvement dépend du site de l'infection",
+   "Une asepsie rigoureuse est exigée",
+   "On peut prélever du pus, du sang, des urines ou un liquide de ponction"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : diagnostic direct.",
+   "Faux : le diagnostic est essentiellement direct.",
+   "Vrai : prélèvement selon le site.",
+   "Vrai : asepsie rigoureuse exigée.",
+   "Vrai : pus, sang, urines, ponctions."
+  ]
+ },
+ {
+  "q": "Concernant l'examen direct dans le diagnostic des staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "À l'état frais, la bactérie est immobile et non sporulée",
+   "À la coloration de Gram, on observe des cocci à Gram positif en amas",
+   "On peut rechercher les acides nucléiques directement",
+   "On observe des bacilles à Gram négatif",
+   "On observe des cocci en chaînettes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : immobile, non sporulée.",
+   "Vrai : CGP en amas.",
+   "Vrai : biologie moléculaire directe.",
+   "Faux : ce sont des cocci à Gram positif.",
+   "Faux : les chaînettes = streptocoques."
+  ]
+ },
+ {
+  "q": "Concernant la culture de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "La culture est facile sur milieux ordinaires",
+   "S. aureus n'est pas une bactérie exigeante",
+   "Les colonies sont pigmentées",
+   "S. aureus ne pousse qu'en anaérobiose",
+   "La culture est impossible sur gélose ordinaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : culture facile.",
+   "Vrai : non exigeant.",
+   "Vrai : colonies pigmentées.",
+   "Faux : il est aéro-anaérobie.",
+   "Faux : il pousse sur milieux ordinaires."
+  ]
+ },
+ {
+  "q": "Le milieu de Chapman : lesquelles sont exactes ?",
+  "options": [
+   "Il contient 7,5 % de NaCl",
+   "Il contient du mannitol",
+   "La forte salinité inhibe la plupart des autres bactéries",
+   "S. aureus fermente le mannitol",
+   "Il contient du sang de mouton"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 7,5 % de NaCl.",
+   "Vrai : mannitol.",
+   "Vrai : sélectivité par le sel.",
+   "Vrai : fermentation du mannitol.",
+   "Faux : pas de sang dans le Chapman."
+  ]
+ },
+ {
+  "q": "Sur milieu de Chapman, S. aureus : lesquelles sont exactes ?",
+  "options": [
+   "Il est repéré par ses colonies pigmentées",
+   "Il fermente le mannitol avec virage de l'indicateur",
+   "Les colonies sont jaunes",
+   "Il ne pousse pas à cause du sel",
+   "Les colonies restent incolores"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : colonies pigmentées.",
+   "Vrai : fermentation du mannitol.",
+   "Vrai : colonies jaunes.",
+   "Faux : il est halotolérant.",
+   "Faux : colonies pigmentées jaunes."
+  ]
+ },
+ {
+  "q": "Le milieu de Baird-Parker : lesquelles sont exactes ?",
+  "options": [
+   "C'est un milieu sélectif de S. aureus",
+   "Les colonies sont noires",
+   "Elles sont entourées d'un halo clair",
+   "Les colonies sont jaunes",
+   "C'est un milieu d'enrichissement non sélectif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sélectif de S. aureus.",
+   "Vrai : colonies noires.",
+   "Vrai : halo clair.",
+   "Faux : les colonies jaunes = Chapman.",
+   "Faux : c'est un milieu sélectif."
+  ]
+ },
+ {
+  "q": "La gélose au sang + ANC : lesquelles sont exactes ?",
+  "options": [
+   "Les colonies de S. aureus sont entourées d'une zone d'hémolyse",
+   "L'ANC inhibe les bactéries à Gram négatif",
+   "C'est un milieu sélectif des bactéries à Gram positif",
+   "S. aureus n'y provoque aucune hémolyse",
+   "L'ANC inhibe les staphylocoques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : zone d'hémolyse.",
+   "Vrai : ANC = anti Gram négatif.",
+   "Vrai : sélectif des Gram positif.",
+   "Faux : hémolyse présente.",
+   "Faux : les staphylocoques y poussent."
+  ]
+ },
+ {
+  "q": "Le test de la catalase : lesquelles sont exactes ?",
+  "options": [
+   "Il utilise du peroxyde d'hydrogène",
+   "La formation de bulles d'oxygène signe la positivité",
+   "Il distingue Staphylococcus (+) de Streptococcus (−)",
+   "Il distingue S. aureus des SCN",
+   "Il utilise du plasma de lapin"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : H2O2.",
+   "Vrai : bulles d'oxygène.",
+   "Vrai : test distinctif des genres.",
+   "Faux : c'est le rôle de la coagulase.",
+   "Faux : le plasma sert à la coagulase."
+  ]
+ },
+ {
+  "q": "Le test de l'oxydase : lesquelles sont exactes ?",
+  "options": [
+   "Staphylococcus est oxydase négative",
+   "Micrococcus est oxydase positive",
+   "Il distingue ces deux genres",
+   "Staphylococcus est oxydase positive",
+   "Il identifie S. aureus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : oxydase négative.",
+   "Vrai : oxydase positive.",
+   "Vrai : distinction des genres.",
+   "Faux : Staphylococcus est oxydase négative.",
+   "Faux : c'est le rôle de la coagulase."
+  ]
+ },
+ {
+  "q": "Le test de la coagulase en tube : lesquelles sont exactes ?",
+  "options": [
+   "On mélange 0,5 ml d'inoculum bactérien et 0,5 ml de plasma de lapin",
+   "L'incubation se fait 3 à 4 h à 37 °C",
+   "La formation d'un caillot signe la positivité",
+   "C'est le principal test d'identification de S. aureus",
+   "La formation de bulles signe la positivité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : protocole du tube.",
+   "Vrai : 3-4 h à 37 °C.",
+   "Vrai : caillot = positif.",
+   "Vrai : test de référence.",
+   "Faux : les bulles signent la catalase."
+  ]
+ },
+ {
+  "q": "Concernant la coagulase sur lame (clumping factor), lesquelles sont exactes ?",
+  "options": [
+   "Elle détecte la coagulase liée",
+   "Elle se lit par une agglutination rapide",
+   "Elle est plus rapide que le test en tube",
+   "Un test sur lame négatif doit être confirmé en tube",
+   "Elle détecte la DNase"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : coagulase liée.",
+   "Vrai : agglutination sur lame.",
+   "Vrai : lecture en quelques secondes.",
+   "Vrai : confirmation en tube nécessaire.",
+   "Faux : la DNase se teste sur milieu à ADN."
+  ]
+ },
+ {
+  "q": "Le test de la DNase thermostable : lesquelles sont exactes ?",
+  "options": [
+   "La culture se fait par strie sur milieu contenant de l'ADN",
+   "L'incubation se fait 24 h à 37 °C",
+   "Le test positif montre une zone claire autour de la strie",
+   "C'est un caractère d'identification de S. aureus",
+   "Le test se lit par la formation d'un caillot"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : milieu contenant de l'ADN.",
+   "Vrai : 24 h à 37 °C.",
+   "Vrai : zone claire = hydrolyse.",
+   "Vrai : caractère d'espèce.",
+   "Faux : le caillot signe la coagulase."
+  ]
+ },
+ {
+  "q": "Concernant les galeries biochimiques d'identification, lesquelles sont exactes ?",
+  "options": [
+   "API Staph permet l'identification des staphylocoques",
+   "ID 32 Staph est une galerie d'identification",
+   "Elles testent plusieurs caractères biochimiques",
+   "Elles sont inutiles pour les staphylocoques",
+   "Elles remplacent toujours la coagulase"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : API Staph citée dans le cours.",
+   "Vrai : ID 32 Staph citée.",
+   "Vrai : panel biochimique.",
+   "Faux : elles sont utiles.",
+   "Faux : la coagulase reste la référence."
+  ]
+ },
+ {
+  "q": "Concernant l'identification immunologique, lesquelles sont exactes ?",
+  "options": [
+   "Des tests d'agglutination détectent les antigènes staphylococciques",
+   "Ils détectent la protéine A et le clumping factor",
+   "Ils permettent une identification rapide",
+   "Ils détectent les anticorps du patient",
+   "Ils remplacent la culture"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : agglutination d'antigènes.",
+   "Vrai : protéine A et clumping factor.",
+   "Vrai : identification rapide.",
+   "Faux : ils détectent des antigènes bactériens.",
+   "Faux : la culture reste nécessaire."
+  ]
+ },
+ {
+  "q": "Concernant la biologie moléculaire dans le diagnostic, lesquelles sont exactes ?",
+  "options": [
+   "La PCR peut détecter les acides nucléiques de S. aureus",
+   "La recherche du gène mecA détecte la résistance à la méticilline",
+   "Elle est utile en cas d'antibiothérapie préalable",
+   "Elle remplace toujours la culture",
+   "Elle ne peut pas détecter les gènes de résistance"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : détection d'ADN.",
+   "Vrai : mecA = SARM.",
+   "Vrai : infections décapitées.",
+   "Faux : la culture reste la référence.",
+   "Faux : elle détecte mecA."
+  ]
+ },
+ {
+  "q": "Concernant les hémocultures, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont indiquées devant toute suspicion de bactériémie",
+   "Une asepsie rigoureuse est exigée lors du prélèvement",
+   "Plusieurs paires de flacons améliorent le diagnostic",
+   "Un SCN isolé sur une seule hémoculture est toujours pathogène",
+   "Les hémocultures sont inutiles dans les infections staphylococciques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : suspicion de bactériémie.",
+   "Vrai : asepsie rigoureuse.",
+   "Vrai : plusieurs paires.",
+   "Faux : peut être une contamination.",
+   "Faux : examen clé des septicémies."
+  ]
+ },
+ {
+  "q": "Un SCN est isolé d'une seule hémoculture sans signe clinique. Quelles affirmations sont exactes ?",
+  "options": [
+   "Il peut s'agir d'une contamination cutanée",
+   "La répétition des hémocultures aide à l'interprétation",
+   "L'isolement répété de la même souche oriente vers une vraie bactériémie",
+   "Une seule hémoculture positive suffit toujours au diagnostic",
+   "Les SCN ne contaminent jamais les hémocultures"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : commensaux cutanés.",
+   "Vrai : répétition des prélèvements.",
+   "Vrai : même souche répétée = bactériémie.",
+   "Faux : interprétation prudente.",
+   "Faux : contamination fréquente."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'une infection urinaire à staphylocoque, lesquelles sont exactes ?",
+  "options": [
+   "L'ECBU est l'examen de référence",
+   "La leucocyturie oriente vers l'infection",
+   "La culture identifie l'espèce en cause",
+   "L'ECBU est inutile",
+   "Le diagnostic est uniquement clinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ECBU.",
+   "Vrai : leucocyturie.",
+   "Vrai : identification d'espèce.",
+   "Faux : l'ECBU est la référence.",
+   "Faux : confirmation bactériologique."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'une ostéomyélite, lesquelles sont exactes ?",
+  "options": [
+   "Les hémocultures font partie du bilan",
+   "La ponction osseuse permet l'isolement du germe",
+   "L'imagerie guide le prélèvement",
+   "Le diagnostic est uniquement radiologique",
+   "Aucun prélèvement n'est nécessaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : hémocultures.",
+   "Vrai : ponction osseuse.",
+   "Vrai : guidage radiologique.",
+   "Faux : confirmation bactériologique.",
+   "Faux : prélèvements indispensables."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'une endocardite, lesquelles sont exactes ?",
+  "options": [
+   "Les hémocultures répétées sont l'examen clé",
+   "L'échocardiographie recherche les végétations",
+   "S. aureus est une cause fréquente",
+   "Une seule hémoculture suffit toujours",
+   "L'échocardiographie est inutile"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : hémocultures répétées.",
+   "Vrai : végétations à l'écho.",
+   "Vrai : S. aureus fréquent.",
+   "Faux : hémocultures répétées nécessaires.",
+   "Faux : l'écho est indispensable."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic des infections sur matériel, lesquelles sont exactes ?",
+  "options": [
+   "La culture du matériel explanté peut isoler le SCN",
+   "La sonication du matériel améliore le rendement",
+   "Plusieurs prélèvements profonds sont recommandés",
+   "Un seul écouvillon superficiel suffit toujours",
+   "Les SCN isolés sont toujours des contaminants"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : culture du matériel.",
+   "Vrai : sonication.",
+   "Vrai : prélèvements profonds multiples.",
+   "Faux : écouvillon superficiel insuffisant.",
+   "Faux : peuvent être pathogènes."
+  ]
+ },
+ {
+  "q": "Concernant l'antibiogramme, lesquelles sont exactes ?",
+  "options": [
+   "La sensibilité d'un staphylocoque est imprévisible",
+   "Il est indispensable pour guider le traitement",
+   "Il teste la sensibilité à plusieurs familles d'antibiotiques",
+   "Il est inutile car la sensibilité est constante",
+   "Il ne concerne que les SARM"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sensibilité imprévisible.",
+   "Vrai : guide thérapeutique.",
+   "Vrai : panel d'antibiotiques.",
+   "Faux : la sensibilité est imprévisible.",
+   "Faux : tous les staphylocoques."
+  ]
+ },
+ {
+  "q": "Concernant la détection de la résistance à la méticilline au laboratoire, lesquelles sont exactes ?",
+  "options": [
+   "La recherche du gène mecA par PCR",
+   "La détection de la PLP2a par agglutination",
+   "L'antibiogramme avec disque de céfoxitine",
+   "La recherche de la pénicillinase suffit",
+   "Le test de la coagulase détecte la résistance"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PCR mecA.",
+   "Vrai : détection de la PLP2a.",
+   "Vrai : disque de céfoxitine.",
+   "Faux : la pénicillinase n'est pas le mécanisme.",
+   "Faux : la coagulase identifie l'espèce."
+  ]
+ },
+ {
+  "q": "Devant un pus, le laboratoire rend « cocci à Gram positif en amas ». Quelles affirmations sont exactes ?",
+  "options": [
+   "Le genre Staphylococcus est évoqué",
+   "La catalase sera positive",
+   "La coagulase orientera vers S. aureus",
+   "Le genre Streptococcus est évoqué",
+   "La catalase sera négative"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : CGP en amas.",
+   "Vrai : catalase positive.",
+   "Vrai : coagulase = espèce.",
+   "Faux : les streptocoques sont en chaînettes.",
+   "Faux : catalase négative = streptocoque."
+  ]
+ },
+ {
+  "q": "Concernant les délais du diagnostic staphylococcique, lesquelles sont exactes ?",
+  "options": [
+   "La culture de S. aureus est rapide (24-48 h)",
+   "Le test de la coagulase en tube se lit en 3-4 h",
+   "L'identification peut être accélérée par les tests d'agglutination",
+   "La culture de S. aureus nécessite plusieurs semaines",
+   "Le diagnostic est toujours très lent"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : pousse rapide.",
+   "Vrai : 3-4 h d'incubation.",
+   "Vrai : agglutination rapide.",
+   "Faux : culture en 24-48 h.",
+   "Faux : diagnostic rapide."
+  ]
+ },
+ {
+  "q": "En cas de prélèvement polymicrobien, lesquelles sont exactes ?",
+  "options": [
+   "On utilise un milieu sélectif",
+   "Le milieu de Chapman est indiqué",
+   "Le milieu DCL est le milieu sélectif des staphylocoques",
+   "Aucun milieu sélectif n'est nécessaire",
+   "On ensemence uniquement sur gélose ordinaire"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : sélectif nécessaire.",
+   "Vrai : Chapman = sélectif des staphylocoques.",
+   "Faux : le sélectif est le milieu de Chapman.",
+   "Faux : le sélectif est indispensable.",
+   "Faux : risque de recouvrement par la flore."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic indirect des infections staphylococciques, lesquelles sont exactes ?",
+  "options": [
+   "Le diagnostic des staphylocoques est essentiellement direct",
+   "La sérologie n'a pas d'intérêt diagnostique courant",
+   "La recherche des ASLO est utile au diagnostic d'une infection à S. aureus",
+   "Le diagnostic repose sur la culture et l'identification",
+   "Le diagnostic est uniquement clinique"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : diagnostic direct.",
+   "Vrai : pas de sérologie de routine.",
+   "Faux : les ASLO concernent Streptococcus pyogenes.",
+   "Vrai : culture + identification.",
+   "Faux : confirmation bactériologique."
+  ]
+ },
+ {
+  "q": "Concernant le dépistage du portage nasal de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Le prélèvement se fait par écouvillonnage nasal",
+   "Les fosses nasales sont l'habitat préférentiel",
+   "Le milieu de Chapman peut être utilisé",
+   "Le dépistage n'a aucun intérêt",
+   "Le portage nasal n'existe pas"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : écouvillon nasal.",
+   "Vrai : habitat préférentiel.",
+   "Vrai : sélectif des staphylocoques.",
+   "Faux : dépistage des porteurs sains.",
+   "Faux : 15-30 % de porteurs."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'une toxi-infection alimentaire staphylococcique, lesquelles sont exactes ?",
+  "options": [
+   "Le diagnostic est d'abord clinique et épidémiologique",
+   "L'analyse de l'aliment suspect peut retrouver l'entérotoxine",
+   "La coproculture isole rarement la bactérie en cause",
+   "Le diagnostic repose sur les hémocultures",
+   "La sérologie est l'examen de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : tableau + contexte collectif.",
+   "Vrai : toxine dans l'aliment.",
+   "Vrai : toxine préformée, pas d'infection.",
+   "Faux : pas de bactériémie.",
+   "Faux : pas de sérologie."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic du syndrome de choc toxique, lesquelles sont exactes ?",
+  "options": [
+   "Le diagnostic est clinique",
+   "L'isolement d'une souche de S. aureus productrice de TSST-1 l'étaye",
+   "Les hémocultures sont souvent négatives",
+   "Le diagnostic repose sur la sérologie",
+   "L'ECBU est l'examen de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : triade clinique.",
+   "Vrai : souche toxinogène.",
+   "Vrai : pas de bactériémie obligatoire.",
+   "Faux : pas de sérologie.",
+   "Faux : pas d'atteinte urinaire."
+  ]
+ },
+ {
+  "q": "Devant un furoncle, le laboratoire : lesquelles sont exactes ?",
+  "options": [
+   "Le pus est le prélèvement de choix",
+   "L'examen direct montre des CGP en amas",
+   "La culture isole S. aureus",
+   "Les hémocultures sont systématiques",
+   "Aucun prélèvement n'est utile"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : pus du furoncle.",
+   "Vrai : CGP en amas.",
+   "Vrai : S. aureus.",
+   "Faux : pas systématiques sans fièvre.",
+   "Faux : le pus est prélevé."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'une pneumopathie à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "L'aspiration bronchique est un prélèvement adapté",
+   "L'examen direct montre des CGP en amas",
+   "La culture isole S. aureus",
+   "Le LCR est le prélèvement de choix",
+   "Le diagnostic est uniquement radiologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : prélèvement bronchique.",
+   "Vrai : CGP en amas.",
+   "Vrai : culture.",
+   "Faux : le LCR concerne les méningites.",
+   "Faux : confirmation bactériologique."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'une infection de prothèse à SCN, lesquelles sont exactes ?",
+  "options": [
+   "Plusieurs prélèvements peropératoires profonds sont recommandés",
+   "La culture prolongée améliore le rendement",
+   "Un SCN isolé sur plusieurs prélèvements est significatif",
+   "Un seul écouvillon superficiel suffit",
+   "Les SCN ne sont jamais pathogènes sur prothèse"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : prélèvements multiples.",
+   "Vrai : culture prolongée.",
+   "Vrai : répétition = pathogénicité.",
+   "Faux : prélèvements profonds nécessaires.",
+   "Faux : infections de prothèses typiques."
+  ]
+ },
+ {
+  "q": "Concernant la coloration de Gram à partir des colonies, lesquelles sont exactes ?",
+  "options": [
+   "Elle fait partie de l'identification",
+   "Elle montre des cocci à Gram positif",
+   "La disposition en amas oriente vers Staphylococcus",
+   "Elle montre des bacilles à Gram négatif",
+   "Elle est inutile après la culture"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : étape d'identification.",
+   "Vrai : CGP.",
+   "Vrai : amas = staphylocoque.",
+   "Faux : cocci à Gram positif.",
+   "Faux : elle confirme le genre."
+  ]
+ },
+ {
+  "q": "Concernant la recherche de la catalase à partir des colonies, lesquelles sont exactes ?",
+  "options": [
+   "Quelques gouttes de peroxyde d'hydrogène sont déposées sur les colonies",
+   "La formation de bulles d'oxygène signe la positivité",
+   "Elle confirme le genre Staphylococcus",
+   "Elle identifie S. aureus",
+   "Elle utilise du plasma de lapin"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : H2O2 sur colonies.",
+   "Vrai : bulles = catalase +.",
+   "Vrai : caractère du genre.",
+   "Faux : c'est le rôle de la coagulase.",
+   "Faux : le plasma sert à la coagulase."
+  ]
+ },
+ {
+  "q": "Parmi ces milieux, lesquels permettent l'isolement de S. aureus ?",
+  "options": [
+   "Milieu de Chapman",
+   "Milieu de Baird-Parker",
+   "Gélose au sang",
+   "Bouillon sélectif des entérobactéries",
+   "Milieu de Lowenstein-Jensen"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sélectif des staphylocoques.",
+   "Vrai : sélectif de S. aureus.",
+   "Vrai : milieu ordinaire.",
+   "Faux : sélectif des entérobactéries.",
+   "Faux : milieu des mycobactéries."
+  ]
+ },
+ {
+  "q": "Concernant l'acheminement du prélèvement au laboratoire, lesquelles sont exactes ?",
+  "options": [
+   "Il doit être rapide",
+   "L'asepsie du prélèvement conditionne l'interprétation",
+   "Le flaconnage doit être identifié et accompagné de renseignements cliniques",
+   "Le délai d'acheminement n'a aucune importance",
+   "Le prélèvement peut être conservé à température ambiante indéfiniment"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : rapidité.",
+   "Vrai : asepsie rigoureuse.",
+   "Vrai : identification et contexte clinique.",
+   "Faux : le délai compte.",
+   "Faux : acheminement rapide."
+  ]
+ },
+ {
+  "q": "Concernant les hémocultures dans une suspicion de bactériémie à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Elles doivent être prélevées avant toute antibiothérapie",
+   "Plusieurs paires sont recommandées",
+   "L'asepsie cutanée est rigoureuse",
+   "Une seule paire suffit toujours",
+   "Elles sont inutiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : avant l'antibiothérapie.",
+   "Vrai : plusieurs paires.",
+   "Vrai : asepsie rigoureuse.",
+   "Faux : plusieurs paires recommandées.",
+   "Faux : examen clé."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'une méningite à SCN sur dérivation ventriculaire, lesquelles sont exactes ?",
+  "options": [
+   "Le LCR est le prélèvement de choix",
+   "L'examen direct peut montrer des cocci à Gram positif",
+   "La culture identifie le SCN",
+   "Les hémocultures remplacent le LCR",
+   "Le diagnostic est uniquement clinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : LCR.",
+   "Vrai : CGP possibles.",
+   "Vrai : identification du SCN.",
+   "Faux : le LCR est indispensable.",
+   "Faux : confirmation bactériologique."
+  ]
+ },
+ {
+  "q": "Concernant l'interprétation d'un ECBU positif à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Il faut évoquer une bactériémie avec ensemencement urinaire",
+   "La recherche d'un foyer primitif est nécessaire",
+   "S. aureus n'est pas un germe habituel de cystite simple",
+   "Il s'agit toujours d'une cystite simple",
+   "Aucune exploration n'est nécessaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : dissémination hématogène.",
+   "Vrai : foyer primitif à chercher.",
+   "Vrai : pas de cystite simple habituelle.",
+   "Faux : évoquer une bactériémie.",
+   "Faux : bilan nécessaire."
+  ]
+ },
+ {
+  "q": "Une femme jeune présente une cystite ; l'ECBU isole S. saprophyticus. Quelles affirmations sont exactes ?",
+  "options": [
+   "S. saprophyticus est une cause classique de cystite de la femme jeune",
+   "C'est un staphylocoque à coagulase négative",
+   "La résistance à la novobiocine aide à l'identification",
+   "Il s'agit de S. aureus",
+   "Les SCN ne donnent jamais de cystite"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : cystite de la femme jeune.",
+   "Vrai : SCN.",
+   "Vrai : novobiocine R.",
+   "Faux : S. aureus est coagulase positive.",
+   "Faux : S. saprophyticus en est la cause."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'une ostéomyélite chronique, lesquelles sont exactes ?",
+  "options": [
+   "La biopsie osseuse permet l'isolement du germe",
+   "Les hémocultures peuvent être négatives",
+   "La culture prolongée est utile",
+   "Le diagnostic est uniquement clinique",
+   "Aucun germe n'est jamais isolé"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : biopsie osseuse.",
+   "Vrai : hémocultures souvent négatives.",
+   "Vrai : culture prolongée.",
+   "Faux : confirmation bactériologique.",
+   "Faux : S. aureus est isolé."
+  ]
+ },
+ {
+  "q": "Concernant la recherche du portage de SARM, lesquelles sont exactes ?",
+  "options": [
+   "L'écouvillonnage nasal est le prélèvement de référence",
+   "La PCR peut détecter rapidement le gène mecA",
+   "Le dépistage concerne les patients à risque et le personnel",
+   "Le dépistage est inutile",
+   "Le portage de SARM n'existe pas"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : écouvillon nasal.",
+   "Vrai : PCR mecA rapide.",
+   "Vrai : patients et soignants.",
+   "Faux : dépistage recommandé.",
+   "Faux : portage nosocomial réel."
+  ]
+ },
+ {
+  "q": "Concernant l'intérêt de l'examen direct, lesquelles sont exactes ?",
+  "options": [
+   "Il donne une orientation rapide",
+   "Il montre la morphologie et le Gram",
+   "Il ne remplace pas la culture",
+   "Il identifie l'espèce à coup sûr",
+   "Il est sans intérêt"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : orientation en quelques minutes.",
+   "Vrai : morphologie et Gram.",
+   "Vrai : la culture reste nécessaire.",
+   "Faux : l'identification exige la culture.",
+   "Faux : examen utile."
+  ]
+ },
+ {
+  "q": "Concernant les étapes du diagnostic bactériologique des staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "Prélèvement adapté au site de l'infection",
+   "Examen direct (état frais, coloration de Gram)",
+   "Culture sur milieux ordinaires et sélectifs",
+   "Identification (catalase, coagulase, DNase, galeries)",
+   "Sérologie systématique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prélèvement selon le site.",
+   "Vrai : examen direct.",
+   "Vrai : culture.",
+   "Vrai : identification biochimique.",
+   "Faux : le diagnostic est direct."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic différentiel d'un cocci à Gram positif en amas, lesquelles sont exactes ?",
+  "options": [
+   "La catalase positive oriente vers Staphylococcus",
+   "La catalase négative oriente vers Streptococcus",
+   "L'oxydase négative élimine Micrococcus",
+   "La coagulase positive identifie S. aureus",
+   "La catalase positive oriente vers Streptococcus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : catalase+ = Staphylococcus.",
+   "Vrai : catalase− = Streptococcus.",
+   "Vrai : Micrococcus est oxydase+.",
+   "Vrai : coagulase+ = S. aureus.",
+   "Faux : catalase+ = Staphylococcus."
+  ]
+ },
+ {
+  "q": "Concernant la culture des SCN, lesquelles sont exactes ?",
+  "options": [
+   "Ils poussent sur milieux ordinaires",
+   "Le milieu de Chapman les isole",
+   "L'identification d'espèce repose sur des galeries biochimiques",
+   "Ils ne poussent sur aucun milieu",
+   "La coagulase est positive"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : milieux ordinaires.",
+   "Vrai : Chapman sélectif.",
+   "Vrai : API Staph, ID 32 Staph.",
+   "Faux : ils poussent facilement.",
+   "Faux : coagulase négative."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'une infection néonatale à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Les prélèvements dépendent de la porte d'entrée (cordon, peau, sang)",
+   "Les hémocultures sont indiquées en cas de sepsis",
+   "L'hygiène des mains du personnel est préventive",
+   "Aucun prélèvement n'est possible chez le nouveau-né",
+   "Le diagnostic est uniquement clinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : prélèvements adaptés.",
+   "Vrai : hémocultures si sepsis.",
+   "Vrai : prévention manuportée.",
+   "Faux : prélèvements possibles.",
+   "Faux : confirmation bactériologique."
+  ]
+ },
+ {
+  "q": "En résumé, concernant le diagnostic des infections staphylococciques, lesquelles sont exactes ?",
+  "options": [
+   "Il est essentiellement direct",
+   "Le prélèvement exige une asepsie rigoureuse",
+   "La culture utilise des milieux ordinaires et sélectifs (Chapman, Baird-Parker)",
+   "L'identification repose sur la catalase, la coagulase et la DNase",
+   "Il repose sur la sérologie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : diagnostic direct.",
+   "Vrai : asepsie rigoureuse.",
+   "Vrai : milieux cités.",
+   "Vrai : tests d'identification.",
+   "Faux : pas de sérologie de routine."
+  ]
+ },
+ {
+  "q": "Concernant l'examen direct d'un LCR trouble avec des cocci à Gram positif en amas, lesquelles sont exactes ?",
+  "options": [
+   "Le genre Staphylococcus est évoqué",
+   "La culture du LCR identifiera l'espèce",
+   "Sur dérivation ventriculaire, un SCN est possible",
+   "Le diagnostic est celui d'une méningite à pneumocoque",
+   "L'examen direct est sans valeur"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : CGP en amas.",
+   "Vrai : culture du LCR.",
+   "Vrai : SCN sur matériel.",
+   "Faux : le pneumocoque est en diplocoques.",
+   "Faux : orientation rapide."
+  ]
+ },
+ {
+  "q": "Concernant le traitement des infections communautaires à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "S. aureus communautaire reste sensible à la méticilline",
+   "Il est sensible à l'acide fusidique",
+   "Il est sensible aux macrolides",
+   "La vancomycine est le traitement de première intention en ville",
+   "Aucun antibiotique n'est actif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sensible à la méticilline en ville.",
+   "Vrai : acide fusidique cité.",
+   "Vrai : macrolides cités.",
+   "Faux : réservée aux formes résistantes.",
+   "Faux : plusieurs familles actives."
+  ]
+ },
+ {
+  "q": "Concernant les infections hospitalières à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "S. aureus hospitalier est généralement multirésistant",
+   "Il résiste à de nombreux antibiotiques (aminosides, macrolides, cyclines)",
+   "Il reste sensible à la vancomycine",
+   "Il est toujours sensible à la pénicilline G",
+   "La résistance n'existe pas à l'hôpital"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : multirésistance hospitalière.",
+   "Vrai : résistances citées dans le cours.",
+   "Vrai : vancomycine active.",
+   "Faux : pénicillinase fréquente.",
+   "Faux : multirésistance caractéristique."
+  ]
+ },
+ {
+  "q": "Concernant S. aureus résistant à la méticilline (SARM), lesquelles sont exactes ?",
+  "options": [
+   "La résistance est due à une modification de la PLP2a",
+   "Il est résistant à toutes les bêta-lactamines",
+   "Le gène mecA code la PLP2a modifiée",
+   "La résistance est due à une pénicillinase",
+   "Il reste sensible à l'oxacilline"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PLP2a modifiée.",
+   "Vrai : résistance à toutes les bêta-lactamines.",
+   "Vrai : mecA = PLP2a.",
+   "Faux : la pénicillinase n'atteint pas la méticilline.",
+   "Faux : résistant à l'oxacilline."
+  ]
+ },
+ {
+  "q": "Le gène mecA : lesquelles sont exactes ?",
+  "options": [
+   "Il code la PLP2a modifiée",
+   "Il est porté par la cassette chromosomique SCCmec",
+   "Sa détection signe un SARM",
+   "Il code une pénicillinase",
+   "Il confère une sensibilité aux bêta-lactamines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PLP2a de faible affinité.",
+   "Vrai : cassette SCCmec.",
+   "Vrai : marqueur du SARM.",
+   "Faux : pas une pénicillinase.",
+   "Faux : il confère la résistance."
+  ]
+ },
+ {
+  "q": "Concernant la vancomycine, lesquelles sont exactes ?",
+  "options": [
+   "C'est un glycopeptide",
+   "Elle reste active sur les SARM",
+   "Elle inhibe la synthèse de la paroi bactérienne",
+   "C'est une bêta-lactamine",
+   "Elle est inactive sur S. aureus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : glycopeptide.",
+   "Vrai : active sur SARM.",
+   "Vrai : inhibe la synthèse pariétale.",
+   "Faux : ce n'est pas une bêta-lactamine.",
+   "Faux : traitement de référence du SARM."
+  ]
+ },
+ {
+  "q": "Concernant les alternatives à la vancomycine dans les infections à SARM, lesquelles sont exactes ?",
+  "options": [
+   "Linézolide",
+   "Daptomycine",
+   "Ceftaroline",
+   "Amoxicilline-acide clavulanique",
+   "Pénicilline G"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : oxazolidinone active.",
+   "Vrai : lipopeptide actif.",
+   "Vrai : céphalosporine anti-SARM.",
+   "Faux : bêta-lactamine inefficace.",
+   "Faux : bêta-lactamine inefficace."
+  ]
+ },
+ {
+  "q": "Concernant la daptomycine, lesquelles sont exactes ?",
+  "options": [
+   "Elle est active sur les SARM",
+   "Elle est inactive dans le poumon car inhibée par le surfactant",
+   "C'est un lipopeptide",
+   "C'est une bêta-lactamine",
+   "Elle est le traitement des pneumopathies à SARM"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : active sur SARM.",
+   "Vrai : inhibée par le surfactant.",
+   "Vrai : lipopeptide cyclique.",
+   "Faux : ce n'est pas une bêta-lactamine.",
+   "Faux : inactive au niveau pulmonaire."
+  ]
+ },
+ {
+  "q": "Concernant le linézolide, lesquelles sont exactes ?",
+  "options": [
+   "Il est actif sur les SARM",
+   "C'est une oxazolidinone",
+   "Il inhibe la synthèse protéique",
+   "C'est un glycopeptide",
+   "Il est inactif sur les staphylocoques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : actif sur SARM.",
+   "Vrai : oxazolidinone.",
+   "Vrai : inhibe la synthèse protéique.",
+   "Faux : ce n'est pas un glycopeptide.",
+   "Faux : il est actif sur les staphylocoques."
+  ]
+ },
+ {
+  "q": "Concernant la résistance aux glycopeptides chez S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Des souches de sensibilité diminuée (VISA) existent",
+   "Des souches résistantes (VRSA) ont été décrites",
+   "Le gène vanA peut être impliqué",
+   "Toutes les souches restent toujours sensibles à la vancomycine",
+   "La résistance aux glycopeptides n'existe pas"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : VISA décrits.",
+   "Vrai : VRSA décrits.",
+   "Vrai : vanA = résistance.",
+   "Faux : VISA/VRSA existent.",
+   "Faux : résistance décrite."
+  ]
+ },
+ {
+  "q": "Concernant la pénicillinase staphylococcique, lesquelles sont exactes ?",
+  "options": [
+   "C'est une bêta-lactamase",
+   "Elle hydrolyse la pénicilline G",
+   "La méticilline (oxacilline) y résiste",
+   "Elle confère une résistance à la vancomycine",
+   "Elle est codée par le gène mecA"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : bêta-lactamase.",
+   "Vrai : hydrolyse la pénicilline G.",
+   "Vrai : méticilline stable.",
+   "Faux : pas de résistance aux glycopeptides.",
+   "Faux : mecA = PLP2a modifiée."
+  ]
+ },
+ {
+  "q": "Concernant l'acide fusidique, lesquelles sont exactes ?",
+  "options": [
+   "Il est actif sur S. aureus",
+   "Il est utilisé dans les infections cutanées staphylococciques",
+   "Il ne doit pas être utilisé en monothérapie prolongée en raison du risque de résistance",
+   "C'est une bêta-lactamine",
+   "Il est inactif sur les staphylocoques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : actif sur S. aureus.",
+   "Vrai : infections cutanées.",
+   "Vrai : résistance rapide en monothérapie.",
+   "Faux : ce n'est pas une bêta-lactamine.",
+   "Faux : il est actif."
+  ]
+ },
+ {
+  "q": "Concernant les macrolides dans les infections staphylococciques, lesquelles sont exactes ?",
+  "options": [
+   "S. aureus communautaire y est souvent sensible",
+   "Des résistances existent par méthylation de la cible",
+   "Ils inhibent la synthèse protéique",
+   "Ils sont toujours efficaces sur les SARM hospitaliers",
+   "Ce sont des bêta-lactamines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sensibilité en ville.",
+   "Vrai : résistance MLSB.",
+   "Vrai : inhibent la synthèse protéique.",
+   "Faux : résistances hospitalières fréquentes.",
+   "Faux : ce ne sont pas des bêta-lactamines."
+  ]
+ },
+ {
+  "q": "Concernant la clindamycine, lesquelles sont exactes ?",
+  "options": [
+   "Elle est active sur S. aureus sensible",
+   "Elle inhibe la synthèse protéique",
+   "Elle inhibe la production de toxines",
+   "C'est une bêta-lactamine",
+   "Elle est inactive sur tous les staphylocoques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : active sur souches sensibles.",
+   "Vrai : inhibe la synthèse protéique.",
+   "Vrai : effet anti-toxinique.",
+   "Faux : c'est un lincosamide.",
+   "Faux : elle est active."
+  ]
+ },
+ {
+  "q": "Concernant le cotrimoxazole, lesquelles sont exactes ?",
+  "options": [
+   "Il peut être actif sur les SARM communautaires",
+   "Il inhibe la synthèse des folates",
+   "Il est utilisé dans certaines infections cutanées à SARM",
+   "C'est une bêta-lactamine",
+   "Il est inactif sur tous les staphylocoques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : actif sur SARM communautaires.",
+   "Vrai : anti-folates.",
+   "Vrai : infections cutanées.",
+   "Faux : ce n'est pas une bêta-lactamine.",
+   "Faux : il peut être actif."
+  ]
+ },
+ {
+  "q": "Concernant la rifampicine dans les infections staphylococciques, lesquelles sont exactes ?",
+  "options": [
+   "Elle est active sur les staphylocoques",
+   "Elle pénètre le biofilm",
+   "Elle ne doit jamais être utilisée en monothérapie",
+   "Elle est inactive sur S. aureus",
+   "La monothérapie par rifampicine est recommandée"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : active sur staphylocoques.",
+   "Vrai : pénétration du biofilm.",
+   "Vrai : résistance rapide en monothérapie.",
+   "Faux : elle est active.",
+   "Faux : toujours en association."
+  ]
+ },
+ {
+  "q": "Concernant le traitement des bactériémies à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "L'antibiothérapie doit être bactéricide",
+   "La durée est prolongée (plusieurs semaines)",
+   "La recherche de localisations secondaires est nécessaire",
+   "Un traitement de 3 jours suffit toujours",
+   "L'antibiothérapie est inutile"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : bactéricidie requise.",
+   "Vrai : traitement prolongé.",
+   "Vrai : métastases septiques à chercher.",
+   "Faux : durée prolongée nécessaire.",
+   "Faux : antibiothérapie indispensable."
+  ]
+ },
+ {
+  "q": "Concernant le traitement de l'endocardite à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "L'antibiothérapie est bactéricide et prolongée",
+   "La chirurgie valvulaire peut être nécessaire",
+   "Les hémocultures de contrôle suivent l'efficacité",
+   "Un traitement oral court suffit",
+   "L'endocardite guérit sans traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : traitement prolongé bactéricide.",
+   "Vrai : chirurgie possible.",
+   "Vrai : hémocultures de contrôle.",
+   "Faux : traitement IV prolongé.",
+   "Faux : mortelle sans traitement."
+  ]
+ },
+ {
+  "q": "Concernant le traitement de l'ostéomyélite à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "L'antibiothérapie est prolongée",
+   "Un geste chirurgical peut être nécessaire",
+   "L'antibiogramme guide le traitement",
+   "Un traitement de 5 jours suffit",
+   "La chirurgie est toujours inutile"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : semaines de traitement.",
+   "Vrai : parage chirurgical possible.",
+   "Vrai : antibiogramme.",
+   "Faux : traitement prolongé.",
+   "Faux : chirurgie parfois nécessaire."
+  ]
+ },
+ {
+  "q": "Concernant le traitement d'un furoncle simple, lesquelles sont exactes ?",
+  "options": [
+   "L'incision-drainage peut suffire",
+   "L'antibiothérapie n'est pas toujours nécessaire",
+   "Le traitement du portage prévient les récidives",
+   "La vancomycine IV est systématique",
+   "Aucun traitement n'est jamais nécessaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : drainage = traitement.",
+   "Vrai : pas d'antibiotiques systématiques.",
+   "Vrai : décolonisation anti-récidive.",
+   "Faux : pas systématique.",
+   "Faux : drainage nécessaire."
+  ]
+ },
+ {
+  "q": "Concernant la prise en charge d'une toxi-infection alimentaire staphylococcique, lesquelles sont exactes ?",
+  "options": [
+   "Le traitement est symptomatique (réhydratation)",
+   "Les antibiotiques ne sont pas indiqués",
+   "L'éviction de l'aliment contaminé s'impose",
+   "La vancomycine est le traitement de choix",
+   "L'antibiothérapie est systématique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : réhydratation.",
+   "Vrai : toxine préformée.",
+   "Vrai : retrait de l'aliment.",
+   "Faux : pas d'indication.",
+   "Faux : pas d'antibiotiques."
+  ]
+ },
+ {
+  "q": "Concernant la prise en charge du choc toxique staphylococcique, lesquelles sont exactes ?",
+  "options": [
+   "C'est une urgence thérapeutique",
+   "Le remplissage vasculaire et les amines peuvent être nécessaires",
+   "L'éradication du foyer toxinique s'impose",
+   "L'abstention thérapeutique est de mise",
+   "Seuls les antibiotiques oraux sont nécessaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : urgence.",
+   "Vrai : choc = remplissage.",
+   "Vrai : retirer le foyer.",
+   "Faux : prise en charge intensive.",
+   "Faux : réanimation nécessaire."
+  ]
+ },
+ {
+  "q": "Concernant le traitement des infections sur matériel à SCN, lesquelles sont exactes ?",
+  "options": [
+   "L'ablation du matériel est souvent nécessaire",
+   "Le biofilm réduit l'efficacité des antibiotiques",
+   "L'antibiogramme guide le choix",
+   "Les antibiotiques seuls suffisent toujours",
+   "Le biofilm augmente la sensibilité aux antibiotiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : retrait du matériel.",
+   "Vrai : biofilm = résistance.",
+   "Vrai : antibiogramme.",
+   "Faux : ablation souvent nécessaire.",
+   "Faux : il la diminue."
+  ]
+ },
+ {
+  "q": "Un patient présente une bactériémie à SARM en réanimation. Quelles affirmations sont exactes ?",
+  "options": [
+   "Le SARM est résistant à toutes les bêta-lactamines",
+   "La vancomycine est une option thérapeutique",
+   "L'antibiogramme guide le traitement",
+   "L'oxacilline reste efficace",
+   "Le SARM est toujours sensible à la pénicilline G"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PLP2a modifiée.",
+   "Vrai : glycopeptide actif.",
+   "Vrai : guide thérapeutique.",
+   "Faux : résistant à l'oxacilline.",
+   "Faux : pénicillinase et PLP2a."
+  ]
+ },
+ {
+  "q": "Un patient présente une infection cutanée à SARM communautaire. Quelles affirmations sont exactes ?",
+  "options": [
+   "Les SARM communautaires peuvent causer des infections cutanées",
+   "Certaines souches produisent la leucocidine de Panton-Valentine",
+   "L'incision-drainage fait partie du traitement des abcès",
+   "Les SARM sont exclusivement hospitaliers",
+   "Les bêta-lactamines restent efficaces"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : SARM communautaires.",
+   "Vrai : PVL fréquente.",
+   "Vrai : drainage des abcès.",
+   "Faux : SARM communautaires existent.",
+   "Faux : résistants aux bêta-lactamines."
+  ]
+ },
+ {
+  "q": "Concernant les céphalosporines et le SARM, lesquelles sont exactes ?",
+  "options": [
+   "Le SARM est résistant aux céphalosporines classiques",
+   "La ceftaroline est une céphalosporine active sur le SARM",
+   "La résistance est liée à la PLP2a",
+   "La ceftriaxone est efficace sur le SARM",
+   "Toutes les céphalosporines sont efficaces sur le SARM"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : résistance aux C1G-C3G.",
+   "Vrai : ceftaroline anti-SARM.",
+   "Vrai : PLP2a modifiée.",
+   "Faux : ceftriaxone inefficace.",
+   "Faux : seules les anti-SARM le sont."
+  ]
+ },
+ {
+  "q": "Un porteur nasal de SARM doit être opéré. Quelles affirmations sont exactes ?",
+  "options": [
+   "Le dépistage nasal fait partie de la prévention",
+   "La décolonisation par mupirocine nasale peut être proposée",
+   "Les précautions d'hygiène limitent la transmission croisée",
+   "Le portage de SARM est sans risque préopératoire",
+   "Aucun dépistage n'est recommandé"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : dépistage des porteurs sains.",
+   "Vrai : mupirocine nasale.",
+   "Vrai : hygiène anti-transmission.",
+   "Faux : risque d'infection du site opératoire.",
+   "Faux : dépistage recommandé."
+  ]
+ },
+ {
+  "q": "Concernant la décolonisation nasale, lesquelles sont exactes ?",
+  "options": [
+   "La mupirocine nasale est utilisée",
+   "Elle est proposée aux porteurs avant certaines chirurgies",
+   "L'hygiène corporelle à la chlorhexidine peut être associée",
+   "Il existe un vaccin pour la décolonisation",
+   "La décolonisation est sans intérêt"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : mupirocine nasale.",
+   "Vrai : décolonisation préopératoire.",
+   "Vrai : chlorhexidine associée.",
+   "Faux : pas de vaccin.",
+   "Faux : prévient les infections."
+  ]
+ },
+ {
+  "q": "Concernant la prévention des infections nosocomiales à staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "Hygiène des mains",
+   "Dépistage des porteurs sains",
+   "Précautions contact pour les patients à SARM",
+   "Rationalisation de l'antibiothérapie",
+   "La transmission croisée n'existe pas à l'hôpital"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : mesure clé.",
+   "Vrai : dépistage.",
+   "Vrai : précautions contact.",
+   "Vrai : usage raisonné des antibiotiques.",
+   "Faux : transmission croisée réelle."
+  ]
+ },
+ {
+  "q": "Concernant la transmission manuportée, lesquelles sont exactes ?",
+  "options": [
+   "Les mains du personnel soignant transmettent S. aureus",
+   "L'hygiène des mains la prévient",
+   "Les stéthoscopes peuvent être des vecteurs",
+   "La transmission manuportée n'existe pas",
+   "Les gants remplacent l'hygiène des mains"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : mains = vecteur principal.",
+   "Vrai : hygiène des mains.",
+   "Vrai : stéthoscopes cités.",
+   "Faux : mode principal de transmission.",
+   "Faux : hygiène des mains indispensable."
+  ]
+ },
+ {
+  "q": "Il n'existe pas de vaccin anti-staphylococcique. Quelles affirmations sont exactes ?",
+  "options": [
+   "La prévention repose sur l'hygiène",
+   "Le traitement efficace des lésions limite la dissémination",
+   "Le dépistage des porteurs est une mesure préventive",
+   "La vaccination est la principale mesure préventive",
+   "Aucune prévention n'est possible"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : hygiène = prévention.",
+   "Vrai : traiter les lésions.",
+   "Vrai : dépistage des porteurs.",
+   "Faux : pas de vaccin.",
+   "Faux : prévention efficace."
+  ]
+ },
+ {
+  "q": "Concernant l'usage raisonné des antibiotiques, lesquelles sont exactes ?",
+  "options": [
+   "Il limite l'émergence des résistances",
+   "Il fait partie de la prévention hospitalière",
+   "L'antibiogramme évite les traitements inadaptés",
+   "Les antibiotiques peuvent être utilisés sans indication",
+   "L'automédication antibiotique est sans risque"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : limite les résistances.",
+   "Vrai : rationalisation citée.",
+   "Vrai : antibiogramme.",
+   "Faux : indication nécessaire.",
+   "Faux : sélection de résistances."
+  ]
+ },
+ {
+  "q": "Concernant les infections communautaires vs nosocomiales à S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Les souches communautaires restent souvent sensibles à la méticilline",
+   "Les souches hospitalières sont souvent multirésistantes",
+   "Les SARM communautaires existent",
+   "Toutes les souches communautaires sont multirésistantes",
+   "Les souches hospitalières sont toujours sensibles"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sensibilité en ville.",
+   "Vrai : multirésistance à l'hôpital.",
+   "Vrai : SARM communautaires.",
+   "Faux : sensibles en ville.",
+   "Faux : multirésistantes à l'hôpital."
+  ]
+ },
+ {
+  "q": "Concernant les mesures d'hygiène alimentaire, lesquelles sont exactes ?",
+  "options": [
+   "Elles préviennent les toxi-infections alimentaires staphylococciques",
+   "L'hygiène des mains des manipulateurs est essentielle",
+   "La chaîne du froid limite la multiplication bactérienne",
+   "La cuisson détruit les entérotoxines préformées",
+   "Aucune mesure ne prévient ces intoxications"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : hygiène alimentaire.",
+   "Vrai : mains des manipulateurs.",
+   "Vrai : froid = pas de multiplication.",
+   "Faux : entérotoxines thermostables.",
+   "Faux : prévention efficace."
+  ]
+ },
+ {
+  "q": "Concernant le portage nasal de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Les fosses nasales sont l'habitat préférentiel",
+   "15 à 30 % de la population est porteuse",
+   "Le portage est un facteur de risque d'infection",
+   "Le portage nasal n'existe pas",
+   "Tous les porteurs développent une infection"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : fosses nasales.",
+   "Vrai : 15-30 %.",
+   "Vrai : facteur de risque.",
+   "Faux : portage fréquent.",
+   "Faux : porteurs sains possibles."
+  ]
+ },
+ {
+  "q": "Concernant S. aureus dans l'environnement, lesquelles sont exactes ?",
+  "options": [
+   "Il survit longtemps dans l'environnement",
+   "Il est largement répandu (eau, sol, aliments)",
+   "Le matériel hospitalier peut être contaminé",
+   "Il est très fragile et meurt rapidement",
+   "Il ne survit que dans l'organisme humain"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : survie prolongée.",
+   "Vrai : eau, sol, aliments.",
+   "Vrai : matériel contaminé.",
+   "Faux : il est résistant.",
+   "Faux : survie environnementale."
+  ]
+ },
+ {
+  "q": "Concernant la réceptivité aux staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "La réceptivité est totale",
+   "Les sujets immunodéprimés sont plus exposés aux formes graves",
+   "Les porteurs sains peuvent s'auto-infecter",
+   "Certaines personnes sont naturellement immunisées",
+   "La réceptivité est nulle après une première infection"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : réceptivité totale.",
+   "Vrai : immunodéprimés à risque.",
+   "Vrai : auto-infection possible.",
+   "Faux : pas d'immunité naturelle.",
+   "Faux : pas d'immunité acquise durable."
+  ]
+ },
+ {
+  "q": "Concernant le réservoir et l'habitat des staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "Le réservoir essentiel est l'homme",
+   "Les muqueuses et la peau sont les habitats",
+   "L'environnement (eau, sol, aliments) est un habitat",
+   "Le réservoir est exclusivement animal",
+   "S. aureus ne vit que dans le tube digestif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : réservoir humain.",
+   "Vrai : muqueuses et peau.",
+   "Vrai : environnement.",
+   "Faux : réservoir humain essentiel.",
+   "Faux : habitat nasal et cutané."
+  ]
+ },
+ {
+  "q": "Concernant les SCN en pathologie, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des bactéries opportunistes",
+   "Ils causent des infections nosocomiales",
+   "Leur pouvoir pathogène s'exprime sur matériel étranger",
+   "Ce sont des pathogènes spécifiques",
+   "Ils ne sont jamais résistants aux antibiotiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : opportunistes.",
+   "Vrai : nosocomiales.",
+   "Vrai : biofilm sur matériel.",
+   "Faux : opportunistes, pas spécifiques.",
+   "Faux : multirésistance caractéristique."
+  ]
+ },
+ {
+  "q": "Concernant la sensibilité des staphylocoques aux antibiotiques, lesquelles sont exactes ?",
+  "options": [
+   "Elle est imprévisible",
+   "L'antibiogramme est indispensable",
+   "Les souches hospitalières sont souvent multirésistantes",
+   "Elle est toujours prévisible",
+   "L'antibiogramme est inutile"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sensibilité imprévisible.",
+   "Vrai : antibiogramme indispensable.",
+   "Vrai : multirésistance hospitalière.",
+   "Faux : elle est imprévisible.",
+   "Faux : il est indispensable."
+  ]
+ },
+ {
+  "q": "En résumé, concernant Staphylococcus aureus, lesquelles sont exactes ?",
+  "options": [
+   "Cocci à Gram positif en amas, catalase positive",
+   "Coagulase positive, DNase thermostable",
+   "Réservoir humain, transmission manuportée",
+   "Responsable d'infections suppuratives et toxiniques",
+   "Bacille à Gram négatif, oxydase positive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : caractères du genre.",
+   "Vrai : caractères d'espèce.",
+   "Vrai : épidémiologie.",
+   "Vrai : pouvoir pathogène.",
+   "Faux : CGP, oxydase négative."
+  ]
+ },
+ {
+  "q": "Concernant les caractères d'identification de S. aureus, lesquelles sont exactes ?",
+  "options": [
+   "Catalase positive (genre)",
+   "Coagulase positive (espèce)",
+   "DNase thermostable (espèce)",
+   "Fermentation du mannitol",
+   "Catalase négative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : genre Staphylococcus.",
+   "Vrai : espèce aureus.",
+   "Vrai : espèce aureus.",
+   "Vrai : mannitol +.",
+   "Faux : catalase positive."
+  ]
+ },
+ {
+  "q": "Concernant les facteurs de virulence de S. aureus, lesquels sont exactes ?",
+  "options": [
+   "Coagulases libre et liée",
+   "Hémolysines alpha et bêta",
+   "Entérotoxines, exfoliatine, TSST-1",
+   "Fibrinolysine, hyaluronidase, DNase",
+   "Protéine M et streptolysine O"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : coagulases.",
+   "Vrai : hémolysines.",
+   "Vrai : toxines.",
+   "Vrai : enzymes.",
+   "Faux : facteurs de S. pyogenes."
+  ]
+ },
+ {
+  "q": "Parmi les tableaux cliniques suivants, lesquels peuvent être dus à S. aureus ?",
+  "options": [
+   "Lésions suppuratives et nécrotiques (peau, os, articulations)",
+   "Septicémies et endocardites",
+   "Pneumopathies secondaires ou nosocomiales",
+   "Intoxications alimentaires et choc toxique",
+   "Méningites à liquide clair systématiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : furoncle, ostéomyélite, arthrites.",
+   "Vrai : formes invasives.",
+   "Vrai : poumon.",
+   "Vrai : manifestations toxiniques.",
+   "Faux : pas de tableau méningé typique."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic des staphylocoques, lesquelles sont exactes ?",
+  "options": [
+   "Diagnostic essentiellement direct",
+   "Prélèvement selon le site avec asepsie rigoureuse",
+   "Culture sur Chapman, Baird-Parker, gélose au sang",
+   "Identification : catalase, coagulase, DNase",
+   "Diagnostic essentiellement sérologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : direct.",
+   "Vrai : prélèvement adapté.",
+   "Vrai : milieux cités.",
+   "Vrai : tests d'identification.",
+   "Faux : pas de sérologie de routine."
+  ]
+ },
+ {
+  "q": "Concernant le traitement des infections staphylococciques, lesquelles sont exactes ?",
+  "options": [
+   "Souches communautaires : méticilline, acide fusidique, macrolides",
+   "Souches hospitalières multirésistantes : vancomycine",
+   "SARM : résistance à toutes les bêta-lactamines (PLP2a)",
+   "Antibiogramme indispensable",
+   "Pénicilline G toujours efficace"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ville.",
+   "Vrai : hôpital.",
+   "Vrai : SARM.",
+   "Vrai : sensibilité imprévisible.",
+   "Faux : pénicillinase fréquente."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations sur les staphylocoques, lesquelles sont FAUSSES ?",
+  "options": [
+   "S. aureus est un bacille à Gram négatif",
+   "Les SCN sont à coagulase positive",
+   "Il existe un vaccin anti-staphylococcique efficace",
+   "S. aureus est catalase positive et coagulase positive",
+   "La coagulase coagule le plasma"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : c'est un cocci à Gram positif.",
+   "Faux : les SCN sont coagulase négative.",
+   "Faux : pas de vaccin à ce jour.",
+   "Vrai : caractères de S. aureus.",
+   "Vrai : définition du test."
+  ]
+ },
+ {
+  "q": "Un patient présente une infection à S. aureus sensible à la méticilline. Quelles affirmations sont exactes ?",
+  "options": [
+   "Les bêta-lactamines anti-staphylococciques sont efficaces",
+   "L'antibiogramme a guidé le choix",
+   "La vancomycine n'est pas nécessaire en première intention",
+   "Le SARM est en cause",
+   "Aucun traitement n'est efficace"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : SASM = bêta-lactamines.",
+   "Vrai : antibiogramme.",
+   "Vrai : vancomycine réservée aux SARM.",
+   "Faux : souche sensible à la méticilline.",
+   "Faux : traitement efficace."
+  ]
+ },
+ {
+  "q": "Concernant les infections à staphylocoques chez l'immunodéprimé, lesquelles sont exactes ?",
+  "options": [
+   "Les SCN opportunistes sont fréquents",
+   "Les formes invasives sont plus graves",
+   "Le biofilm sur cathéter est un risque",
+   "S. aureus n'infecte jamais l'immunodéprimé",
+   "Aucune prévention n'est possible"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : opportunistes.",
+   "Vrai : gravité accrue.",
+   "Vrai : cathéters.",
+   "Faux : il l'infecte.",
+   "Faux : hygiène préventive."
+  ]
+ },
+ {
+  "q": "Concernant la place de S. aureus en pathologie humaine, lesquelles sont exactes ?",
+  "options": [
+   "Pathogène spécifique",
+   "Infections communautaires et nosocomiales",
+   "Portage nasal fréquent (15-30 %)",
+   "Réservoir essentiellement humain",
+   "Saprophyte strict sans pouvoir pathogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pathogène spécifique.",
+   "Vrai : ville et hôpital.",
+   "Vrai : portage nasal.",
+   "Vrai : réservoir humain.",
+   "Faux : pathogène majeur."
+  ]
+ },
+ {
+  "q": "Dernière synthèse : lesquelles sont exactes à propos des staphylocoques ?",
+  "options": [
+   "Genre Staphylococcus, famille des Micrococcacae, 43 espèces et sous-espèces",
+   "Coagulase + : S. aureus pathogène spécifique ; coagulase − : SCN opportunistes",
+   "Facteurs de virulence : coagulase, hémolysines, DNase, toxines (entérotoxines, exfoliatine, TSST-1, PVL)",
+   "Diagnostic direct : culture (Chapman, Baird-Parker), identification (catalase, coagulase, DNase)",
+   "Il existe un vaccin efficace contre S. aureus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : taxonomie du cours.",
+   "Vrai : classification du cours.",
+   "Vrai : virulence du cours.",
+   "Vrai : diagnostic du cours.",
+   "Faux : pas de vaccin à ce jour."
+  ]
+ }
+]

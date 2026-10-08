@@ -1,0 +1,4433 @@
+[
+ {
+  "q": "Concernant les spécificités génétiques des bactéries, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les bactéries sont haploïdes : une seule copie de chaque gène",
+   "L'haploïdie rend l'expression des mutations plus difficile",
+   "Le temps de génération court facilite l'expérimentation",
+   "La reproduction est sexuée par fécondation",
+   "La division cellulaire permet d'obtenir facilement des clones"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Haploïdie : un seul allèle par gène",
+   "Faux : l'haploïdie rend au contraire l'expression des mutations facile",
+   "Temps de génération court → expérimentation facile",
+   "Faux : la reproduction bactérienne est asexuée, par division cellulaire",
+   "La division asexuée produit des clones identiques"
+  ]
+ },
+ {
+  "q": "En ce qui concerne l'haploïdie bactérienne, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Il existe un seul allèle pour chaque gène",
+   "Une mutation récessive peut rester masquée par un allèle dominant",
+   "Les mutations s'expriment facilement",
+   "Elle caractérise le matériel génétique de la plupart des bactéries",
+   "Elle implique la présence de paires de chromosomes homologues"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Une seule copie de chaque gène",
+   "Faux : pas d'allèle dominant/masquant, une seule copie",
+   "Les mutations s'expriment facilement chez les haploïdes",
+   "Spécificité génétique des bactéries",
+   "Faux : pas de chromosomes homologues, un seul chromosome"
+  ]
+ },
+ {
+  "q": "À propos de l'ADN chromosomique bactérien, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il est indispensable à la survie de la bactérie",
+   "Il est généralement unique, avec quelques exceptions",
+   "Il est circulaire et mesure environ 1 mm déployé",
+   "Il est linéaire comme chez les eucaryotes",
+   "Il est dispensable si la bactérie possède des plasmides"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le chromosome est indispensable",
+   "Chromosome unique, sauf exceptions",
+   "ADN circulaire d'environ 1 mm de long",
+   "Faux : le chromosome bactérien est circulaire, non linéaire",
+   "Faux : les plasmides sont facultatifs, le chromosome indispensable"
+  ]
+ },
+ {
+  "q": "Concernant la taille du chromosome bactérien, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Elle est très variable selon les espèces",
+   "Elle va de 6×10⁵ pb (environ 500 gènes) à 10⁹ pb (environ 10 000 gènes)",
+   "Elle est identique pour toutes les bactéries",
+   "Le plus petit chromosome compte environ 500 gènes",
+   "Elle est toujours supérieure à celle du génome humain"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Taille très variable selon les espèces",
+   "Fourchette donnée dans le cours : 6×10⁵ pb à 10⁹ pb",
+   "Faux : la taille est très variable",
+   "Les plus petits chromosomes portent environ 500 gènes",
+   "Faux : le génome humain (3×10⁹ pb) est bien plus grand"
+  ]
+ },
+ {
+  "q": "À propos des ARNm bactériens, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le chromosome bactérien ne contient pas d'introns",
+   "Les ARNm sont polycistroniques : un seul ARNm peut coder plusieurs polypeptides",
+   "Un ARNm polycistronique possède plusieurs codons d'initiation et plusieurs codons stop",
+   "La traduction ne peut commencer qu'après la fin de la transcription",
+   "Chaque ARNm ne code qu'un seul polypeptide"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Pas d'introns chez les bactéries",
+   "Plusieurs polypeptides traduits à partir d'un même ARNm",
+   "Plusieurs codons d'initiation et codons stop sur le même ARN",
+   "Faux : la traduction débute alors que la transcription est encore en cours",
+   "Faux : caractéristique des ARNm polycistroniques"
+  ]
+ },
+ {
+  "q": "Concernant le couplage transcription-traduction chez les bactéries, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "La traduction débute alors que la transcription est encore en cours",
+   "Il n'existe pas de membrane nucléaire séparant les deux processus",
+   "La transcription est toujours terminée avant toute traduction",
+   "Ce couplage est possible grâce à l'absence de noyau",
+   "Il existe chez les eucaryotes avec la même efficacité"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Traduction concomitante de la transcription",
+   "Pas de noyau : les ribosomes accèdent directement à l'ARNm naissant",
+   "Faux : la traduction commence pendant la transcription",
+   "L'absence de membrane nucléaire rend ce couplage possible",
+   "Faux : chez les eucaryotes, le noyau sépare les deux processus"
+  ]
+ },
+ {
+  "q": "La stabilité des espèces bactériennes est assurée par :",
+  "options": [
+   "La réplication chromosomique fidèle",
+   "Le transfert du génome aux bactéries filles",
+   "La réparation des erreurs de réplication",
+   "Les enzymes bactériens de restriction/modification",
+   "L'absence de toute mutation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "La réplication assure la transmission du génome",
+   "Le génome est transmis aux bactéries filles",
+   "Les systèmes de réparation corrigent les erreurs",
+   "Les enzymes de restriction/modification protègent l'ADN",
+   "Faux : les mutations surviennent et sont réparées ou sélectionnées"
+  ]
+ },
+ {
+  "q": "Concernant les enzymes de restriction/modification bactériennes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles participent à la stabilité des espèces",
+   "Les enzymes de restriction coupent l'ADN étranger non modifié",
+   "Les enzymes de modification méthylent l'ADN propre de la bactérie",
+   "Elles constituent une défense contre l'ADN viral étranger",
+   "Elles réparent les erreurs de réplication de l'ADN"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Citées parmi les facteurs de stabilité des espèces",
+   "Coupure des ADN étrangers non protégés",
+   "La méthylation protège l'ADN bactérien de ses propres restrictases",
+   "Défense naturelle contre les bactériophages",
+   "Faux : la réparation des erreurs relève des systèmes de réparation, pas des restrictases"
+  ]
+ },
+ {
+  "q": "À propos du chromosome bactérien par rapport aux plasmides, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Le chromosome est indispensable, les plasmides sont facultatifs",
+   "Le chromosome est généralement présent en un seul exemplaire",
+   "Les plasmides peuvent être présents en 1 à 30 copies",
+   "Les plasmides sont plus grands que le chromosome",
+   "Le chromosome porte les gènes essentiels du métabolisme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Chromosome indispensable vs plasmides facultatifs",
+   "Chromosome unique, sauf exceptions",
+   "Plasmides multiples : 1 à 30 copies",
+   "Faux : les plasmides sont petits, bien plus petits que le chromosome",
+   "Le chromosome porte les fonctions vitales"
+  ]
+ },
+ {
+  "q": "Concernant la structure de l'ADN bactérien, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le chromosome est une molécule d'ADN double brin circulaire",
+   "Les plasmides sont des ADN double brin circulaires cytoplasmiques",
+   "Le chromosome bactérien est associé à des histones comme chez les eucaryotes",
+   "L'ADN bactérien est déployé sur environ 1 mm au microscope électronique",
+   "L'ADN bactérien est toujours linéaire"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Chromosome : ADN double brin circulaire",
+   "Plasmides : ADN double brin, circulaires, cytoplasmiques",
+   "Faux : pas de vraies histones chez les bactéries",
+   "Taille du chromosome déployé : environ 1 mm",
+   "Faux : l'ADN bactérien est circulaire"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les gènes bactériens, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Ils sont portés par le chromosome et éventuellement par les plasmides",
+   "Leur expression est facilitée par l'haploïdie",
+   "Ils contiennent des introns éliminés avant la traduction",
+   "Plusieurs gènes peuvent être transcrits sur un même ARNm",
+   "Ils sont toujours exprimés au même niveau"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Chromosome + plasmides portent les gènes",
+   "Haploïdie → expression facile des mutations",
+   "Faux : pas d'introns chez les bactéries",
+   "ARNm polycistroniques : plusieurs gènes par ARNm",
+   "Faux : différents niveaux d'expression selon les gènes et les plasmides"
+  ]
+ },
+ {
+  "q": "À propos de la réplication du chromosome bactérien, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle assure la transmission fidèle du génome",
+   "Elle est suivie du transfert du génome aux bactéries filles",
+   "Les erreurs de réplication sont corrigées par des systèmes de réparation",
+   "Elle est identique en tout point à la réplication eucaryote",
+   "Elle produit deux chromosomes identiques avant la division"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "La réplication assure la stabilité des espèces",
+   "Le génome répliqué est transmis aux bactéries filles",
+   "Réparation des erreurs de réplication",
+   "Faux : la réplication bactérienne a ses spécificités (origine unique, etc.)",
+   "Deux copies identiques du chromosome avant division"
+  ]
+ },
+ {
+  "q": "Concernant la plasticité du génome bactérien, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "C'est la solution des bactéries face aux pressions de sélection environnementales",
+   "Elle a pour conséquence la résistance aux antibiotiques",
+   "Elle a pour conséquence l'acquisition de facteurs de virulence",
+   "Elle est exploitée en biotechnologies",
+   "Elle empêche toute évolution des bactéries"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Adaptation aux pressions de sélection",
+   "La résistance aux ATB en est une conséquence",
+   "La virulence en est une conséquence",
+   "Usage en biotechnologies",
+   "Faux : elle est au contraire le moteur de l'évolution bactérienne"
+  ]
+ },
+ {
+  "q": "La génétique est définie comme :",
+  "options": [
+   "La science de la variation et de l'hérédité",
+   "Une science née de l'étude des croisements chez les organismes à reproduction sexuée",
+   "L'étude des hybridations entre races ou variétés d'une même espèce",
+   "L'étude exclusive des mutations bactériennes",
+   "La science de la structure des protéines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Science de la variation et de l'hérédité",
+   "Née de l'étude des croisements chez les organismes sexués",
+   "Hybridations entre races ou variétés de la même espèce",
+   "Faux : la génétique ne se limite pas aux mutations bactériennes",
+   "Faux : c'est la biochimie/structurale, pas la génétique"
+  ]
+ },
+ {
+  "q": "Concernant les objectifs du cours de génétique bactérienne, lesquels sont cités ?",
+  "options": [
+   "Décrire le matériel génétique bactérien",
+   "Connaître les mécanismes de modification du génome bactérien",
+   "Expliquer les modes de transfert de matériel génétique",
+   "Décrire les mécanismes d'action des antibiotiques",
+   "Lister les milieux de culture bactériens"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Décrire le matériel génétique bactérien",
+   "Connaître les mécanismes de plasticité du génome",
+   "Expliquer les modes de transfert de matériel génétique",
+   "Faux : les antibiotiques sont un autre chapitre",
+   "Faux : les milieux de culture relèvent du diagnostic"
+  ]
+ },
+ {
+  "q": "Les mécanismes de plasticité du génome bactérien comprennent :",
+  "options": [
+   "Les mutations au sein d'un génome",
+   "Le transfert de gènes entre bactéries",
+   "Les éléments génétiques mobiles au sein d'une cellule",
+   "La méiose et la fécondation",
+   "La conjugaison, la transduction et la transformation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Mutations au sein du génome",
+   "Transfert de gènes entre bactéries",
+   "Transposons et intégrons : mobilité intra-cellulaire",
+   "Faux : pas de méiose ni fécondation chez les bactéries",
+   "Les trois modes de transfert de gènes entre bactéries"
+  ]
+ },
+ {
+  "q": "À propos de l'ADN bactérien observé au microscope électronique, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "L'ADN déployé mesure environ 1 mm",
+   "Il apparaît sous forme d'une molécule circulaire",
+   "Il est beaucoup plus long que la bactérie elle-même",
+   "Il est visible sous forme de chromosomes condensés comme en mitose",
+   "Il est linéaire et fragmenté"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Taille du chromosome déployé : environ 1 mm",
+   "Le chromosome bactérien est circulaire",
+   "La molécule est repliée pour tenir dans la cellule",
+   "Faux : pas de condensation mitotique chez les bactéries",
+   "Faux : ADN circulaire, non linéaire"
+  ]
+ },
+ {
+  "q": "Concernant les ARNm polycistroniques, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils permettent la synthèse de plusieurs protéines à partir du même ARN",
+   "Ils possèdent plusieurs codons d'initiation",
+   "Ils possèdent plusieurs codons stop",
+   "Ils sont caractéristiques des bactéries",
+   "Ils ne contiennent qu'un seul cistron"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Plusieurs polypeptides traduits à partir d'un même ARNm",
+   "Plusieurs codons d'initiation sur le même ARN",
+   "Plusieurs codons stop sur le même ARN",
+   "Les ARNm polycistroniques sont typiques des bactéries",
+   "Faux : poly-cistronique = plusieurs cistrons"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la traduction bactérienne, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Elle débute alors que la transcription est encore en cours",
+   "Elle utilise des ribosomes 70S",
+   "Elle est séparée de la transcription par la membrane nucléaire",
+   "Plusieurs ribosomes peuvent traduire simultanément le même ARNm",
+   "Elle nécessite un ARNm monocistronique"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Couplage transcription-traduction",
+   "Les ribosomes bactériens sont 70S",
+   "Faux : pas de membrane nucléaire chez les bactéries",
+   "Polysomes : plusieurs ribosomes sur un même ARNm",
+   "Faux : les ARNm bactériens sont souvent polycistroniques"
+  ]
+ },
+ {
+  "q": "À propos de la division cellulaire bactérienne, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une reproduction asexuée",
+   "Elle produit des clones génétiquement identiques",
+   "Elle s'accompagne de la réplication préalable du chromosome",
+   "Elle implique un brassage génétique comme la méiose",
+   "Elle permet une obtention facile de clones en laboratoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Reproduction asexuée par division cellulaire",
+   "Les cellules filles sont des clones",
+   "Réplication chromosomique avant division",
+   "Faux : pas de méiose ni de brassage génétique",
+   "Obtention facile de clones"
+  ]
+ },
+ {
+  "q": "Concernant les plasmides, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ce sont des ADN double brin, circulaires, cytoplasmiques",
+   "Ils sont doués de réplication autonome",
+   "Ils sont indispensables au métabolisme normal de la cellule hôte",
+   "Leur taille est variable",
+   "Ils sont toujours présents en un seul exemplaire"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "ADN double brin circulaire cytoplasmique",
+   "Réplication autonome indépendante du chromosome",
+   "Faux : ils sont facultatifs, non indispensables au métabolisme",
+   "Taille variable selon les plasmides",
+   "Faux : ils sont multiples, 1 à 30 copies"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les caractéristiques des plasmides, lesquelles sont vraies ?",
+  "options": [
+   "Ils sont petits par rapport au chromosome",
+   "Ils sont multiples : 1 à 30 copies par cellule",
+   "Ils sont circulaires",
+   "Ils présentent différents niveaux d'expression",
+   "Ils sont linéaires et intégrés au chromosome"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Petits ADN extra-chromosomiques",
+   "De 1 à 30 copies par cellule",
+   "ADN circulaires",
+   "Différents niveaux d'expression",
+   "Faux : circulaires et libres dans le cytoplasme"
+  ]
+ },
+ {
+  "q": "À propos du rôle des plasmides, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils sont médiateurs de propriétés permettant une meilleure adaptation des bactéries",
+   "Ils portent souvent des gènes de résistance aux antibiotiques",
+   "Ils sont indispensables à la survie de la bactérie",
+   "Ils peuvent porter des gènes de virulence",
+   "Ils ne portent jamais de gènes fonctionnels"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Médiateurs d'une meilleure adaptation",
+   "Les plasmides de résistance portent les gènes de résistance",
+   "Faux : facultatifs, non indispensables",
+   "Certains plasmides portent des facteurs de virulence",
+   "Faux : ils portent des gènes fonctionnels (résistance, virulence…)"
+  ]
+ },
+ {
+  "q": "Concernant la transmission des plasmides, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "La transmission naturelle d'une cellule à l'autre s'effectue par conjugaison",
+   "Les autres modes de transfert sont possibles",
+   "Ils sont sans spécificité d'hôte et diffusent entre espèces différentes",
+   "Ils ne peuvent se transmettre qu'au sein d'une même espèce",
+   "Ils se transmettent uniquement par division cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La conjugaison est le mode naturel de transmission",
+   "Transformation et transduction sont aussi possibles",
+   "Diffusion inter-espèces, sans spécificité d'hôte",
+   "Faux : diffusion possible entre espèces différentes",
+   "Faux : la division transmet verticalement, mais le transfert horizontal existe"
+  ]
+ },
+ {
+  "q": "Les plasmides de résistance :",
+  "options": [
+   "Portent de nombreux gènes de résistance accrochés derrière une origine de transfert commune",
+   "Sont à l'origine de la multirésistance",
+   "Permettent le co-transfert de plusieurs gènes de résistance",
+   "Permettent la co-sélection de ces gènes",
+   "Ne portent qu'un seul gène de résistance à la fois"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Image du train derrière la locomotive : origine de transfert commune",
+   "À l'origine de la multirésistance",
+   "Co-transfert des gènes de résistance",
+   "Co-sélection : un antibiotique sélectionne tout le plasmide",
+   "Faux : ils portent de nombreux gènes de résistance"
+  ]
+ },
+ {
+  "q": "Concernant la multirésistance d'origine plasmidique, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La résistance croisée concerne des antibiotiques d'une même famille",
+   "La résistance associée concerne des antibiotiques de familles différentes",
+   "Un seul antibiotique peut co-sélectionner plusieurs résistances",
+   "Elle résulte du regroupement de gènes derrière une origine de transfert commune",
+   "Elle ne concerne que les antibiotiques d'une seule famille"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Résistance croisée : au sein d'une même famille",
+   "Résistance associée : familles différentes",
+   "Co-sélection par un seul antibiotique",
+   "Gènes accrochés derrière une origine de transfert commune",
+   "Faux : la résistance associée touche plusieurs familles"
+  ]
+ },
+ {
+  "q": "À propos de la co-sélection plasmidique, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "L'usage d'un antibiotique sélectionne l'ensemble du plasmide",
+   "Les gènes de résistance portés par le même plasmide sont sélectionnés ensemble",
+   "Elle explique la persistance de résistances à des antibiotiques non utilisés",
+   "Elle nécessite l'usage simultané de tous les antibiotiques concernés",
+   "Elle est impossible avec les plasmides conjugatifs"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Sélection de tout le plasmide par un seul antibiotique",
+   "Co-sélection des gènes portés par le même plasmide",
+   "Des résistances persistent même sans usage de l'antibiotique correspondant",
+   "Faux : un seul antibiotique suffit à co-sélectionner",
+   "Faux : les plasmides conjugatifs diffusent justement ces gènes"
+  ]
+ },
+ {
+  "q": "Concernant le nombre de copies des plasmides, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils peuvent être présents en 1 à 30 copies par cellule",
+   "Le nombre de copies influence le niveau d'expression des gènes portés",
+   "Tous les plasmides ont exactement le même nombre de copies",
+   "Un nombre élevé de copies peut amplifier l'effet d'un gène de résistance",
+   "Le nombre de copies est toujours égal à 1"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "De 1 à 30 copies par cellule",
+   "Différents niveaux d'expression selon les plasmides",
+   "Faux : le nombre de copies varie selon les plasmides",
+   "Plus de copies = plus de gènes exprimés",
+   "Faux : jusqu'à 30 copies possibles"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la réplication des plasmides, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Elle est autonome, indépendante du chromosome",
+   "Elle permet leur maintien lors des divisions cellulaires",
+   "Elle est toujours synchronisée avec la réplication chromosomique",
+   "Elle concerne un ADN double brin circulaire",
+   "Elle nécessite l'intégration préalable au chromosome"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Réplication autonome du plasmide",
+   "Maintien des plasmides dans la descendance",
+   "Faux : autonome, donc non synchronisée avec le chromosome",
+   "ADN double brin circulaire",
+   "Faux : les plasmides se répliquent de façon autonome, sans intégration"
+  ]
+ },
+ {
+  "q": "À propos des plasmides conjugatifs, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le facteur F est un plasmide conjugatif",
+   "Ils permettent la synthèse de pilis sexuels chez la bactérie donatrice",
+   "Leur transmission naturelle s'effectue par conjugaison",
+   "Ils sont incapables de se transférer d'une cellule à l'autre",
+   "Ils ne portent que le gène de la réplication"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le facteur de fertilité F est un plasmide conjugatif",
+   "Le facteur F permet la synthèse des pilis sexuels",
+   "La conjugaison est leur mode naturel de transmission",
+   "Faux : ils sont justement transférables",
+   "Faux : ils portent les gènes du transfert et souvent des résistances"
+  ]
+ },
+ {
+  "q": "Concernant la diffusion des plasmides entre espèces bactériennes, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Ils sont sans spécificité d'hôte",
+   "Ils peuvent diffuser entre espèces bactériennes différentes",
+   "Cette diffusion favorise la dissémination des résistances",
+   "Ils sont strictement limités à l'espèce d'origine",
+   "Ils ne franchissent jamais la barrière Gram positif / Gram négatif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Sans spécificité d'hôte",
+   "Diffusion entre espèces différentes",
+   "Dissémination inter-espèces des gènes de résistance",
+   "Faux : ils diffusent entre espèces différentes",
+   "Faux : la conjugaison existe chez Gram positifs et Gram négatifs"
+  ]
+ },
+ {
+  "q": "Les plasmides par rapport au chromosome :",
+  "options": [
+   "Sont facultatifs alors que le chromosome est indispensable",
+   "Sont de petite taille comparés au chromosome",
+   "Se répliquent de façon autonome",
+   "Portent les gènes essentiels du métabolisme basal",
+   "Sont toujours plus nombreux que le chromosome"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Facultatifs vs chromosome indispensable",
+   "Petits ADN extra-chromosomiques",
+   "Réplication autonome",
+   "Faux : les gènes essentiels sont chromosomiques",
+   "Faux : les plasmides peuvent n'être présents qu'en 1 seul exemplaire"
+  ]
+ },
+ {
+  "q": "À propos de l'expression des gènes plasmidiques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les plasmides présentent différents niveaux d'expression",
+   "Le nombre de copies influence l'expression",
+   "Tous les gènes plasmidiques s'expriment au même niveau",
+   "L'expression peut conférer un avantage adaptatif",
+   "Les gènes plasmidiques ne s'expriment jamais"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Différents niveaux d'expression",
+   "Nombre de copies → niveau d'expression",
+   "Faux : différents niveaux d'expression",
+   "Meilleure adaptation de la bactérie hôte",
+   "Faux : ils s'expriment et confèrent des propriétés"
+  ]
+ },
+ {
+  "q": "Concernant l'origine de transfert des plasmides de résistance, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "De nombreux gènes de résistance sont accrochés derrière une origine de transfert commune",
+   "Le cours utilise l'image du train derrière la locomotive",
+   "Elle permet le transfert en bloc de plusieurs résistances",
+   "Chaque gène de résistance possède sa propre origine de transfert indépendante",
+   "Elle empêche le co-transfert des gènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Gènes accrochés derrière une origine de transfert commune",
+   "Image du train derrière la locomotive",
+   "Transfert groupé des résistances",
+   "Faux : une origine commune pour l'ensemble",
+   "Faux : elle permet justement le co-transfert"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les propriétés conférées par les plasmides, lesquelles peuvent être citées ?",
+  "options": [
+   "La résistance aux antibiotiques",
+   "Une meilleure adaptation aux conditions environnementales",
+   "Des facteurs de virulence",
+   "Les fonctions indispensables du métabolisme normal",
+   "La synthèse des constituants de la paroi"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Plasmides de résistance aux antibiotiques",
+   "Médiateurs d'une meilleure adaptation",
+   "Certains plasmides portent des gènes de virulence",
+   "Faux : le métabolisme normal dépend du chromosome",
+   "Faux : fonctions essentielles chromosomiques"
+  ]
+ },
+ {
+  "q": "À propos de la transmission verticale des plasmides, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les plasmides sont transmis aux bactéries filles lors de la division",
+   "Leur réplication autonome assure leur maintien dans la descendance",
+   "La transmission verticale est le seul mode de transmission des plasmides",
+   "La conjugaison permet aussi une transmission horizontale",
+   "Les plasmides sont perdus à chaque division cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Transmission aux bactéries filles",
+   "Maintien grâce à la réplication autonome",
+   "Faux : la transmission horizontale (conjugaison) existe aussi",
+   "Transfert horizontal par conjugaison",
+   "Faux : ils sont maintenus par réplication autonome"
+  ]
+ },
+ {
+  "q": "Concernant les plasmides et l'évolution bactérienne, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Ils sont des médiateurs d'une meilleure adaptation",
+   "Ils participent à la dissémination des gènes de résistance",
+   "Leur transfert horizontal accélère l'évolution",
+   "Ils figent le génome et empêchent toute évolution",
+   "Ils ne jouent aucun rôle dans la virulence"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Médiateurs d'une meilleure adaptation",
+   "Dissémination des résistances via les plasmides",
+   "Le transfert horizontal accélère l'évolution",
+   "Faux : ils sont un moteur de l'évolution",
+   "Faux : certains portent des gènes de virulence"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la taille des plasmides, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est variable",
+   "Ils sont petits par rapport au chromosome",
+   "Ils sont toujours plus grands que le chromosome",
+   "Leur petite taille facilite leur transfert",
+   "Ils ont tous exactement la même taille"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Taille variable des plasmides",
+   "Petits ADN par rapport au chromosome",
+   "Faux : ils sont bien plus petits que le chromosome",
+   "Petite taille favorable au transfert",
+   "Faux : taille variable"
+  ]
+ },
+ {
+  "q": "À propos des gènes de résistance plasmidique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils sont regroupés derrière une origine de transfert commune",
+   "Ils peuvent conférer une résistance croisée au sein d'une même famille d'antibiotiques",
+   "Ils peuvent conférer une résistance associée à des familles différentes",
+   "Ils sont co-transférés lors de la conjugaison",
+   "Ils sont toujours d'origine chromosomique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Regroupement derrière une origine de transfert commune",
+   "Résistance croisée : même famille",
+   "Résistance associée : familles différentes",
+   "Co-transfert des gènes de résistance",
+   "Faux : ils sont portés par le plasmide"
+  ]
+ },
+ {
+  "q": "Concernant les plasmides non conjugatifs, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Ils peuvent utiliser d'autres modes de transfert que la conjugaison",
+   "La transformation peut permettre leur acquisition",
+   "La transduction peut permettre leur acquisition",
+   "Ils sont définitivement incapables de tout transfert",
+   "Seule la conjugaison permet le transfert de plasmides"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les autres modes de transfert sont possibles",
+   "La transformation peut transférer des plasmides",
+   "La transduction peut transférer des plasmides",
+   "Faux : d'autres modes de transfert existent",
+   "Faux : transformation et transduction sont possibles"
+  ]
+ },
+ {
+  "q": "Concernant la définition de la mutation, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est une modification de l'ADN, donc de la séquence désoxyribonucléotidique",
+   "Elle peut entraîner une modification de la structure primaire de la chaîne polypeptidique",
+   "Le changement d'une seule base peut entraîner le changement d'un acide aminé",
+   "C'est une modification réversible de l'expression sans changement de séquence",
+   "Elle concerne uniquement les plasmides"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Modification de la séquence d'ADN",
+   "Modification possible de la structure primaire du polypeptide",
+   "1 base changée peut entraîner 1 aa changé",
+   "Faux : la mutation est un changement de séquence d'ADN",
+   "Faux : elle peut toucher le chromosome comme les plasmides"
+  ]
+ },
+ {
+  "q": "Une mutation s'exprime si :",
+  "options": [
+   "Le nouveau codon code un nouvel acide aminé et le site actif est touché",
+   "Elle est non silencieuse",
+   "Elle est létale pour la cellule",
+   "Elle ne modifie pas la séquence protéique",
+   "Le codon muté est synonyme"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Nouveau codon = nouvel aa et site actif touché",
+   "Les mutations non silencieuses s'expriment",
+   "Les mutations létales s'expriment (cas le plus fréquent)",
+   "Faux : sans modification protéique, pas d'expression phénotypique",
+   "Faux : un codon synonyme ne change pas l'acide aminé"
+  ]
+ },
+ {
+  "q": "Concernant les caractères de la mutation, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Les mutations spontanées préexistent dans la population avant toute sélection",
+   "Les mutations induites sont provoquées par les UV ou des substances chimiques génotoxiques",
+   "Les mutations sont discontinues : elles apparaissent selon la loi du tout ou rien",
+   "Les mutations sont toujours provoquées par l'antibiotique lui-même",
+   "Les mutations induites n'existent pas chez les bactéries"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La sélection ne fait que révéler des variants préexistants",
+   "UV et substances génotoxiques induisent des mutations",
+   "Apparition brusque, selon la loi du tout ou rien",
+   "Faux : l'antibiotique sélectionne des mutants préexistants, il ne les crée pas",
+   "Faux : UV et agents chimiques induisent des mutations"
+  ]
+ },
+ {
+  "q": "À propos des mutations spontanées, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Seule est provoquée la sélection des formes variantes préexistantes",
+   "L'antibiotique sélectionne des mutants résistants déjà présents dans la population",
+   "En apparence, l'antibiotique est suivi de l'apparition de mutants résistants",
+   "L'antibiotique crée directement la mutation de résistance",
+   "Les mutants résistants n'existent qu'après exposition à l'antibiotique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La sélection révèle des variants préexistants",
+   "Cas de l'antibiotique : sélection de mutants préexistants",
+   "Apparence d'apparition après l'antibiotique",
+   "Faux : l'antibiotique sélectionne, il ne crée pas la mutation",
+   "Faux : les mutants préexistent à l'exposition"
+  ]
+ },
+ {
+  "q": "Concernant la stabilité des mutations, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Les mutations sont stables",
+   "Elles sont transmissibles à la descendance",
+   "Elles disparaissent à la première division cellulaire",
+   "Elles sont héritables par les bactéries filles",
+   "Elles ne concernent qu'une seule génération"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Les mutations sont stables",
+   "Transmissibles à la descendance",
+   "Faux : elles sont stables et transmises",
+   "Hérédité des mutations par les cellules filles",
+   "Faux : elles persistent dans la descendance"
+  ]
+ },
+ {
+  "q": "En ce qui concerne le taux de mutation, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les mutations sont rares",
+   "Le taux de mutation est la probabilité pour une bactérie de muter pendant un temps de génération",
+   "Il est de l'ordre de 10⁻⁵ à 10⁻¹⁰",
+   "Les mutations sont extrêmement fréquentes à chaque division",
+   "Le taux de mutation est de l'ordre de 10⁻¹"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les mutations sont rares",
+   "Probabilité de muter pendant une unité de temps (temps de génération)",
+   "Ordre de grandeur : 10⁻⁵ à 10⁻¹⁰",
+   "Faux : les mutations sont rares",
+   "Faux : bien plus rare, 10⁻⁵ à 10⁻¹⁰"
+  ]
+ },
+ {
+  "q": "Concernant la spécificité et l'indépendance des mutations, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "La probabilité de deux mutations distinctes simultanées est le produit des probabilités individuelles",
+   "Deux mutations indépendantes sont des événements rares combinés",
+   "La probabilité de deux mutations est la somme des probabilités individuelles",
+   "Deux mutations surviennent toujours ensemble",
+   "Les mutations ne sont jamais indépendantes"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "P(A et B) = P(A) × P(B) pour des mutations indépendantes",
+   "Événements indépendants : probabilités multipliées",
+   "Faux : c'est le produit, pas la somme",
+   "Faux : elles sont indépendantes",
+   "Faux : la règle est justement l'indépendance"
+  ]
+ },
+ {
+  "q": "À propos des mutations silencieuses, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles ne modifient pas la séquence en acides aminés de la protéine",
+   "Elles ne s'expriment pas au niveau phénotypique",
+   "Elles résultent souvent d'un codon synonyme",
+   "Elles sont toujours létales pour la bactérie",
+   "Elles modifient systématiquement le site actif de la protéine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Pas de changement d'acide aminé",
+   "Pas d'expression phénotypique",
+   "Le code génétique est dégénéré : codons synonymes",
+   "Faux : elles sont sans effet, donc non létales",
+   "Faux : elles ne modifient pas la protéine"
+  ]
+ },
+ {
+  "q": "Concernant les mutations létales, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Elles s'expriment et entraînent la mort de la cellule",
+   "Elles représentent le cas le plus fréquent d'expression des mutations",
+   "Elles sont transmissibles à la descendance",
+   "Elles sont toujours réparées avant la division",
+   "Elles n'ont aucun effet sur la bactérie"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Expression → mort cellulaire",
+   "Le plus fréquent : mutation non silencieuse ou létale",
+   "Faux : la cellule meurt, pas de descendance",
+   "Faux : si elles s'expriment, la réparation a échoué",
+   "Faux : elles tuent la cellule"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les mutations induites, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles sont provoquées par les rayons UV",
+   "Elles sont provoquées par des substances chimiques génotoxiques",
+   "Elles sont provoquées par l'exposition à la lumière visible",
+   "Elles surviennent spontanément sans aucun agent",
+   "Elles sont toujours bénéfiques"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les UV induisent des mutations",
+   "Les substances chimiques génotoxiques induisent des mutations",
+   "Faux : la lumière visible n'est pas mutagène",
+   "Faux : les mutations induites nécessitent un agent mutagène",
+   "Faux : elles peuvent être neutres, délétères ou létales"
+  ]
+ },
+ {
+  "q": "À propos du caractère discontinu des mutations, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "La mutation apparaît selon la loi du tout ou rien",
+   "Elle est brusque, sans forme intermédiaire",
+   "Elle apparaît progressivement par étapes",
+   "Elle est continue et graduelle",
+   "Elle suit toujours une cinétique linéaire"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Loi du tout ou rien",
+   "Apparition brusque et discontinue",
+   "Faux : pas d'étapes intermédiaires",
+   "Faux : caractère discontinu",
+   "Faux : apparition brutale, non linéaire"
+  ]
+ },
+ {
+  "q": "Concernant les mutations et la structure primaire des protéines, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Une mutation peut modifier la structure primaire de la chaîne polypeptidique",
+   "Le changement d'une base peut changer un acide aminé",
+   "Si le site actif est touché, la fonction de la protéine peut être altérée",
+   "Toute mutation modifie obligatoirement la protéine",
+   "Les mutations n'affectent que la structure tertiaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Modification possible de la structure primaire",
+   "1 base changée peut entraîner 1 aa changé",
+   "Site actif touché → fonction altérée",
+   "Faux : les mutations silencieuses ne modifient pas la protéine",
+   "Faux : elles touchent d'abord la structure primaire"
+  ]
+ },
+ {
+  "q": "Les mutations spontanées :",
+  "options": [
+   "Surviennent en l'absence de tout agent mutagène",
+   "Sont révélées par la sélection, par exemple sous antibiotique",
+   "Préexistent dans la population bactérienne",
+   "Sont provoquées par l'antibiotique",
+   "Sont plus fréquentes que les mutations induites en laboratoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Spontanées : sans agent mutagène",
+   "La sélection révèle les variants préexistants",
+   "Variants préexistants dans la population",
+   "Faux : l'antibiotique sélectionne, ne provoque pas",
+   "Faux : les agents mutagènes augmentent la fréquence"
+  ]
+ },
+ {
+  "q": "Concernant le taux de mutation de 10⁻⁵ à 10⁻¹⁰, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Il exprime une probabilité par bactérie et par temps de génération",
+   "Il traduit la rareté des mutations",
+   "Un taux de 10⁻⁸ signifie environ une mutation pour 100 millions de divisions",
+   "Il signifie que chaque bactérie mute à chaque génération",
+   "Il est identique pour tous les gènes et toutes les espèces"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Probabilité de muter pendant une unité de temps définie",
+   "Les mutations sont rares",
+   "10⁻⁸ = 1 événement pour 10⁸ bactéries-générations",
+   "Faux : les mutations sont rares",
+   "Faux : le taux varie selon les gènes et les espèces"
+  ]
+ },
+ {
+  "q": "À propos de la sélection des mutants résistants sous antibiotique, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "En apparence, l'antibiotique est suivi de l'apparition de mutants résistants",
+   "En réalité, les mutants résistants préexistaient dans la population",
+   "L'antibiotique élimine les sensibles et laisse les résistants se multiplier",
+   "L'antibiotique induit la mutation de résistance chez les bactéries sensibles",
+   "Tous les mutants résistants apparaissent après l'exposition"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Apparence d'apparition après l'antibiotique",
+   "Sélection de formes variantes préexistantes",
+   "Élimination des sensibles, expansion des résistants",
+   "Faux : l'antibiotique ne crée pas la mutation",
+   "Faux : les mutants préexistent à l'exposition"
+  ]
+ },
+ {
+  "q": "Concernant les mutations et l'haploïdie, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "L'haploïdie facilite l'expression des mutations",
+   "Une seule copie du gène : pas d'allèle sauvage pour masquer la mutation",
+   "Les mutations récessives restent masquées comme chez les diploïdes",
+   "L'expression des mutations est plus difficile que chez les diploïdes",
+   "Chaque mutation s'exprime immédiatement au niveau phénotypique"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Expression facile des mutations chez les haploïdes",
+   "Pas de second allèle pour compenser",
+   "Faux : pas de masquage, un seul allèle",
+   "Faux : l'expression est facilitée",
+   "Faux : les mutations silencieuses ne s'expriment pas"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les différents types de mutations ponctuelles, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Une substitution peut être silencieuse si le codon reste synonyme",
+   "Une substitution non-sens crée un codon stop prématuré",
+   "Une mutation faux-sens change un acide aminé en un autre",
+   "Toute substitution est systématiquement létale",
+   "Les substitutions ne modifient jamais la protéine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Codon synonyme : pas de changement d'acide aminé",
+   "Codon stop prématuré : protéine tronquée",
+   "Faux-sens : un aa remplacé par un autre",
+   "Faux : beaucoup sont silencieuses ou neutres",
+   "Faux : elles peuvent changer l'acide aminé"
+  ]
+ },
+ {
+  "q": "À propos des conséquences phénotypiques des mutations, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Elles peuvent conférer une résistance aux antibiotiques",
+   "Elles peuvent modifier la virulence",
+   "Elles peuvent être exploitées en biotechnologies",
+   "Elles sont toujours délétères",
+   "Elles ne peuvent jamais être avantageuses"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La résistance aux ATB en est une conséquence",
+   "La virulence en est une conséquence",
+   "Usage en biotechnologies",
+   "Faux : certaines sont neutres ou avantageuses",
+   "Faux : la résistance aux ATB est un avantage sélectif"
+  ]
+ },
+ {
+  "q": "Concernant la réparation des erreurs de réplication, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle participe à la stabilité des espèces bactériennes",
+   "Elle corrige les erreurs avant qu'elles ne deviennent des mutations stables",
+   "Elle élimine totalement toute mutation",
+   "Elle est inutile car les mutations n'existent pas",
+   "Elle agit après la réplication de l'ADN"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Réparation des erreurs : facteur de stabilité",
+   "Correction des erreurs de réplication",
+   "Faux : certaines erreurs échappent et deviennent des mutations",
+   "Faux : les mutations existent malgré la réparation",
+   "Les systèmes de réparation agissent sur l'ADN répliqué"
+  ]
+ },
+ {
+  "q": "Les caractères de la mutation selon le cours sont :",
+  "options": [
+   "Spontanée ou induite",
+   "Discontinue et stable",
+   "Rare, avec un taux de 10⁻⁵ à 10⁻¹⁰",
+   "Spécifique et indépendante",
+   "Toujours réversible et non transmissible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Spontanées ou induites (UV, génotoxiques)",
+   "Discontinues (tout ou rien) et stables",
+   "Rares : taux de 10⁻⁵ à 10⁻¹⁰",
+   "Spécificité-indépendance : produit des probabilités",
+   "Faux : stables et transmissibles à la descendance"
+  ]
+ },
+ {
+  "q": "À propos des mutations et de la descendance, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Les mutations stables sont transmises aux bactéries filles",
+   "Une mutation chromosomique est héritée lors de la division",
+   "Les mutations disparaissent systématiquement à la division",
+   "Seules les mutations plasmidiques sont transmissibles",
+   "La transmission nécessite la conjugaison"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Stables : transmissibles à la descendance",
+   "Hérédité verticale lors de la division cellulaire",
+   "Faux : elles sont stables et transmises",
+   "Faux : les mutations chromosomiques aussi sont transmises",
+   "Faux : la division suffit, pas besoin de conjugaison"
+  ]
+ },
+ {
+  "q": "Concernant les agents mutagènes cités dans le cours, lesquels sont exacts ?",
+  "options": [
+   "Les rayons ultraviolets (UV)",
+   "Les substances chimiques génotoxiques",
+   "Les antibiotiques",
+   "La lumière du jour ordinaire",
+   "L'eau distillée"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les UV sont des agents mutagènes",
+   "Les substances chimiques génotoxiques induisent des mutations",
+   "Faux : les antibiotiques sélectionnent, ils n'induisent pas",
+   "Faux : la lumière visible n'est pas mutagène",
+   "Faux : l'eau n'est pas mutagène"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la mutation et le codon, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Un nouveau codon peut coder un nouvel acide aminé",
+   "Si le site actif de la protéine est touché, la mutation s'exprime",
+   "Un codon synonyme ne modifie pas l'acide aminé",
+   "Tout changement de codon est létal",
+   "Le code génétique n'est pas dégénéré"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Nouveau codon = nouvel aa possible",
+   "Site actif touché → expression de la mutation",
+   "Codons synonymes : même acide aminé",
+   "Faux : beaucoup de changements sont silencieux",
+   "Faux : le code génétique est dégénéré"
+  ]
+ },
+ {
+  "q": "À propos des mutations chez les bactéries par rapport aux eucaryotes, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "L'haploïdie rend leur expression plus facile",
+   "Le temps de génération court permet d'observer rapidement leurs effets",
+   "Elles sont impossibles car les bactéries n'ont pas de noyau",
+   "Elles suivent les mêmes règles de rareté et de stabilité",
+   "Elles ne sont jamais réparées"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Expression facile des mutations chez les haploïdes",
+   "Temps de génération court : expérimentation facile",
+   "Faux : les mutations concernent l'ADN, pas le noyau",
+   "Rares, stables, transmissibles",
+   "Faux : des systèmes de réparation existent"
+  ]
+ },
+ {
+  "q": "Concernant l'indépendance des mutations, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Deux mutations distinctes sont des événements indépendants",
+   "La probabilité d'une double mutation est très faible",
+   "Elle se calcule par le produit des probabilités individuelles",
+   "Une première mutation favorise toujours la seconde",
+   "Deux mutations surviennent avec la somme des probabilités"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Spécificité-indépendance des mutations",
+   "Produit de deux probabilités déjà faibles",
+   "P(double) = P1 × P2",
+   "Faux : elles sont indépendantes",
+   "Faux : c'est le produit, pas la somme"
+  ]
+ },
+ {
+  "q": "Concernant la définition de la transformation bactérienne, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est le transfert d'ADN libre, fixé et absorbé par des bactéries réceptrices",
+   "Les bactéries réceptrices doivent être en état de compétence",
+   "Ce modèle a permis de démontrer en 1944 que l'ADN est le support de l'hérédité",
+   "Elle nécessite un contact cellulaire entre bactéries",
+   "Elle fait intervenir un bactériophage comme vecteur"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Transfert d'ADN libre fixé et absorbé",
+   "État de compétence de la bactérie réceptrice",
+   "1944 : démonstration du rôle héréditaire de l'ADN",
+   "Faux : pas de contact cellulaire, c'est la conjugaison",
+   "Faux : le phage est le vecteur de la transduction"
+  ]
+ },
+ {
+  "q": "En ce qui concerne l'expérience de Griffith (1928), lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Elle a été réalisée chez Streptococcus pneumoniae",
+   "Elle a mis en évidence un « principe transformant » modifiant la pathogénicité",
+   "Les gènes de la capsule, responsables de la virulence, résistent à la chaleur",
+   "Elle a démontré que le principe transformant est l'ADN",
+   "Elle a utilisé des bactériophages"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Griffith, 1928 : S. pneumoniae",
+   "Principe transformant modifiant la pathogénicité",
+   "Gènes capsulaires thermorésistants transformant les non capsulées",
+   "Faux : c'est Avery en 1944 qui identifie l'ADN",
+   "Faux : pas de phage, ADN libre chauffé"
+  ]
+ },
+ {
+  "q": "À propos des travaux d'Avery et collaborateurs, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils ont été publiés 16 ans après ceux de Griffith",
+   "Ils ont montré que le principe transformant est l'ADN",
+   "Ils ont exclu les protéines comme support du principe transformant",
+   "Ils ont exclu les carbohydrates comme support du principe transformant",
+   "Ils ont démontré que les protéines portent l'hérédité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "1944, soit 16 ans après 1928",
+   "Le principe transformant est l'ADN",
+   "Ce ne sont pas les protéines",
+   "Ce ne sont pas les carbohydrates",
+   "Faux : c'est l'ADN, pas les protéines"
+  ]
+ },
+ {
+  "q": "Concernant les caractéristiques de la transformation, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Il doit y avoir de l'ADN libéré d'une bactérie (exogénote)",
+   "L'ADN doit être fixé sur une bactérie réceptrice en phase de compétence",
+   "L'absorption d'ADN est suivie de recombinaison génétique",
+   "Elle concerne toutes les espèces bactériennes",
+   "L'ADN transféré est toujours le génome entier"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "ADN libéré : l'exogénote",
+   "Fixation sur une réceptrice compétente",
+   "Recombinaison avec acquisition de caractères stables",
+   "Faux : limitée à quelques espèces",
+   "Faux : transfert partiel, 1-2 % du génome"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les espèces concernées par la transformation naturelle, lesquelles sont citées ?",
+  "options": [
+   "Streptococcus",
+   "Neisseria",
+   "Haemophilus",
+   "Escherichia coli",
+   "Staphylococcus aureus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Streptococcus : espèce citée",
+   "Neisseria : espèce citée",
+   "Haemophilus : espèce citée",
+   "Faux : non citée pour la transformation naturelle",
+   "Faux : non citée pour la transformation naturelle"
+  ]
+ },
+ {
+  "q": "À propos du caractère partiel de la transformation, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Seule une partie de l'exogénote (1-2 % du génome) pénètre et se recombine",
+   "La recombinaison nécessite une homologie suffisante",
+   "Le génome entier est systématiquement transféré",
+   "La recombinaison se fait sans aucune homologie",
+   "L'ADN transformant reste toujours extra-chromosomique"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Transfert partiel : 1-2 % du génome",
+   "Recombinaison si homologie suffisante",
+   "Faux : le transfert est partiel",
+   "Faux : l'homologie est nécessaire",
+   "Faux : il se recombine au chromosome"
+  ]
+ },
+ {
+  "q": "Concernant l'état de compétence, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "C'est un état physiologique permettant la fixation et l'absorption d'ADN",
+   "Seules les bactéries compétentes peuvent être transformées",
+   "Toutes les bactéries sont en permanence compétentes",
+   "La compétence est irréversible une fois acquise",
+   "Elle concerne uniquement la conjugaison"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "État permettant fixation et absorption d'ADN libre",
+   "La transformation exige des réceptrices compétentes",
+   "Faux : la compétence est un état transitoire",
+   "Faux : état physiologique transitoire",
+   "Faux : la compétence concerne la transformation"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les transformants, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ce sont les bactéries ayant acquis de nouveaux caractères génétiques stables",
+   "On les appelle aussi recombinants",
+   "Les caractères acquis sont stables",
+   "Ils perdent systématiquement les caractères acquis à la division",
+   "Ils ne diffèrent en rien de la souche parentale"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Acquisition de nouveaux caractères stables",
+   "Recombinants ou transformants",
+   "Caractères génétiques stables",
+   "Faux : les caractères sont stables",
+   "Faux : ils ont acquis de nouveaux caractères"
+  ]
+ },
+ {
+  "q": "À propos des conséquences de la transformation, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Émergence d'espèces résistantes aux antibiotiques comme le pneumocoque",
+   "Émergence de méningocoques résistants",
+   "Transfert de gènes de streptocoques buccaux mutants résistants",
+   "Nombreuses utilisations en biotechnologies, notamment le clonage",
+   "Elle n'a aucune application pratique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Pneumocoque résistant : conséquence citée",
+   "Méningocoque résistant : conséquence citée",
+   "Gènes issus de streptocoques buccaux mutants",
+   "Application bénéfique : clonage en biotechnologies",
+   "Faux : le clonage est une application majeure"
+  ]
+ },
+ {
+  "q": "Concernant la transformation et la résistance aux antibiotiques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le pneumocoque peut acquérir des résistances par transformation",
+   "Le méningocoque peut acquérir des résistances par transformation",
+   "Les gènes proviennent de streptocoques buccaux mutants résistants",
+   "La transformation ne joue aucun rôle dans les résistances",
+   "Seule la conjugaison diffuse les résistances"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Pneumocoque : espèce citée",
+   "Méningocoque : espèce citée",
+   "Origine : streptocoques buccaux mutants résistants",
+   "Faux : elle émerge des espèces résistantes",
+   "Faux : la transformation y participe aussi"
+  ]
+ },
+ {
+  "q": "En ce qui concerne l'exogénote, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "C'est l'ADN libéré d'une bactérie donneuse",
+   "C'est un ADN libre dans le milieu",
+   "Une partie de l'exogénote pénètre dans la réceptrice",
+   "C'est un bactériophage",
+   "C'est un plasmide conjugatif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "ADN libéré d'une bactérie",
+   "ADN libre fixé puis absorbé",
+   "Transfert partiel : 1-2 % du génome",
+   "Faux : le phage est le vecteur de la transduction",
+   "Faux : le plasmide conjugatif relève de la conjugaison"
+  ]
+ },
+ {
+  "q": "À propos de la transformation en biotechnologies, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est utilisée pour le clonage",
+   "C'est une application bénéfique de la transformation",
+   "Elle permet d'introduire un ADN d'intérêt dans une bactérie",
+   "Elle est inutilisable en laboratoire",
+   "Elle ne permet que le transfert de chromosomes entiers"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Nombreuses utilisations : clonage",
+   "Application bénéfique citée dans le cours",
+   "Introduction d'ADN exogène dans des bactéries compétentes",
+   "Faux : largement utilisée en laboratoire",
+   "Faux : transfert de fragments d'ADN"
+  ]
+ },
+ {
+  "q": "Concernant la transformation par rapport aux autres modes de transfert, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Elle ne nécessite pas de contact cellulaire, contrairement à la conjugaison",
+   "Elle ne nécessite pas de bactériophage, contrairement à la transduction",
+   "Elle fait intervenir de l'ADN libre dans le milieu",
+   "Elle est identique à la transduction",
+   "Elle nécessite un pont cytoplasmique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Pas de contact : ADN libre",
+   "Pas de phage vecteur",
+   "ADN libre fixé et absorbé",
+   "Faux : la transduction utilise un phage",
+   "Faux : le pont cytoplasmique relève de la conjugaison"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la recombinaison lors de la transformation, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'absorption d'ADN est suivie de recombinaison génétique",
+   "Elle nécessite une homologie suffisante entre l'exogénote et le chromosome",
+   "Elle aboutit à des caractères génétiques stables",
+   "Elle se produit sans aucune homologie de séquence",
+   "L'ADN absorbé est toujours dégradé sans recombinaison"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Absorption suivie de recombinaison",
+   "Recombinaison si homologie suffisante",
+   "Acquisition de caractères stables",
+   "Faux : l'homologie est requise",
+   "Faux : il se recombine et confère de nouveaux caractères"
+  ]
+ },
+ {
+  "q": "À propos de l'histoire de la découverte de la transformation, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "1928 : Griffith démontre l'existence d'un principe transformant",
+   "1944 : Avery montre que ce principe est l'ADN",
+   "Le principe transformant modifie la pathogénicité de S. pneumoniae",
+   "1944 : on découvre que les protéines portent l'hérédité",
+   "Griffith a identifié l'ADN comme principe transformant"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Griffith, 1928 : principe transformant",
+   "Avery, 1944 : le principe est l'ADN",
+   "Modification de la pathogénicité (capsule)",
+   "Faux : c'est l'ADN, pas les protéines",
+   "Faux : c'est Avery, 16 ans plus tard"
+  ]
+ },
+ {
+  "q": "Concernant la capsule de S. pneumoniae dans l'expérience de Griffith, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les gènes de la capsule sont responsables de la virulence",
+   "Ils résistent à la chaleur",
+   "Ils transforment la bactérie non capsulée vivante",
+   "La capsule est détruite par la chaleur avec les gènes",
+   "Les bactéries non capsulées sont naturellement virulentes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Gènes capsulaires = virulence",
+   "Gènes thermorésistants",
+   "Transformation des non capsulées vivantes",
+   "Faux : les gènes résistent à la chaleur",
+   "Faux : les non capsulées sont avirulentes"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les limites de la transformation naturelle, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Elle est limitée à quelques espèces",
+   "Le transfert est partiel (1-2 % du génome)",
+   "La recombinaison exige une homologie suffisante",
+   "Elle permet le transfert de génomes entiers entre espèces éloignées",
+   "Elle est le principal mode de dissémination des résistances"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Limitée à quelques espèces",
+   "Transfert partiel",
+   "Homologie suffisante requise",
+   "Faux : partiel et limité",
+   "Faux : c'est la conjugaison le principal facteur"
+  ]
+ },
+ {
+  "q": "À propos de l'ADN libre transformant, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il provient de bactéries lysées",
+   "Il est fixé puis absorbé par la réceptrice compétente",
+   "Il s'agit d'ADN polymérisé",
+   "Il est toujours protégé à l'intérieur d'un phage",
+   "Il nécessite un contact direct entre les cellules"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "ADN libéré d'une bactérie (lysée)",
+   "Fixation puis absorption par la compétente",
+   "Absorption d'ADN polymérisé",
+   "Faux : c'est la transduction qui utilise le phage",
+   "Faux : pas de contact, ADN libre"
+  ]
+ },
+ {
+  "q": "Concernant la transformation et le clonage, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le clonage est une application bénéfique de la transformation",
+   "Des bactéries compétentes sont utilisées pour amplifier un ADN d'intérêt",
+   "La transformation naturelle a inspiré les techniques de clonage",
+   "Le clonage utilise la conjugaison et non la transformation",
+   "La transformation est sans intérêt biotechnologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Application bénéfique : clonage",
+   "Bactéries compétentes en biotechnologie",
+   "La transformation naturelle est exploitée au laboratoire",
+   "Faux : le clonage repose sur la transformation",
+   "Faux : nombreuses utilisations en biotechnologies"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la spécificité de la transformation, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est limitée à quelques espèces : Streptococcus, Neisseria, Haemophilus",
+   "Toutes les bactéries sont naturellement transformables",
+   "La phase de compétence est indispensable",
+   "Elle fonctionne entre espèces très éloignées sans homologie",
+   "L'homologie de séquence conditionne la recombinaison"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Espèces citées : Streptococcus, Neisseria, Haemophilus",
+   "Faux : limitée à quelques espèces",
+   "État de compétence requis",
+   "Faux : homologie requise",
+   "Recombinaison si homologie suffisante"
+  ]
+ },
+ {
+  "q": "Concernant la définition de la conjugaison bactérienne, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est un transfert de gènes par contact cellulaire",
+   "C'est un processus sexuel strict nécessitant un contact préalable",
+   "Elle nécessite un appariement entre bactéries de « sexe différent »",
+   "Elle fait intervenir un bactériophage comme vecteur",
+   "Elle utilise de l'ADN libre dans le milieu"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Transfert de gènes par contact cellulaire",
+   "Processus sexuel strict",
+   "Appariement entre bactéries de sexe différent",
+   "Faux : le phage est le vecteur de la transduction",
+   "Faux : l'ADN libre relève de la transformation"
+  ]
+ },
+ {
+  "q": "En ce qui concerne le facteur F, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "C'est le facteur de sexualité ou de fertilité",
+   "C'est un plasmide conjugatif",
+   "Il permet la synthèse de pilis sexuels chez la bactérie donatrice (mâle)",
+   "Il donne la polarité au chromosome",
+   "C'est un bactériophage"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Facteur de sexualité ou de fertilité",
+   "Plasmide conjugatif",
+   "Synthèse des pilis sexuels chez la donatrice",
+   "Polarité donnée au chromosome",
+   "Faux : c'est un plasmide, pas un phage"
+  ]
+ },
+ {
+  "q": "À propos du transfert d'ADN chromosomique lors de la conjugaison, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il est à sens unique",
+   "Il est orienté et progressif",
+   "Il peut être total (environ 2 h)",
+   "Il est bidirectionnel et simultané",
+   "Il est instantané"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Transfert à sens unique",
+   "Orienté et progressif",
+   "Quelquefois total, en 2 heures",
+   "Faux : sens unique, pas bidirectionnel",
+   "Faux : processus progressif, pouvant durer 2 h"
+  ]
+ },
+ {
+  "q": "Concernant les caractéristiques de la conjugaison, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Elle permet le transfert de gènes chromosomiques ou plasmidiques",
+   "Elle existe chez les bactéries à Gram positif et à Gram négatif",
+   "Elle a une importance majeure dans la dissémination des gènes de résistance",
+   "Elle est le principal facteur d'évolution des bactéries",
+   "Elle est sans rôle dans l'acquisition des résistances"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Transfert de gènes chromosomiques ou plasmidiques",
+   "Gram positifs et Gram négatifs",
+   "Dissémination des gènes de résistance",
+   "Principal facteur d'évolution, notamment pour les résistances",
+   "Faux : rôle majeur dans les résistances"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la physiologie de la conjugaison chez les Gram négatif, quelles sont les 4 étapes ?",
+  "options": [
+   "Contact cellulaire",
+   "Préparation de l'ADN (mobilisation)",
+   "Transfert d'un brin unique d'ADN",
+   "Reconstitution du brin manquant dans la donatrice et la réceptrice",
+   "Encapsidation dans un bactériophage"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Étape 1 : contact cellulaire",
+   "Étape 2 : mobilisation de l'ADN",
+   "Étape 3 : transfert d'un brin unique",
+   "Étape 4 : reconstitution du brin complémentaire",
+   "Faux : l'encapsidation relève de la transduction"
+  ]
+ },
+ {
+  "q": "À propos du brin d'ADN transféré lors de la conjugaison, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Un brin unique d'ADN est transféré",
+   "Le brin complémentaire est synthétisé dans la réceptrice",
+   "Le brin manquant est reconstitué dans la cellule donatrice",
+   "Le transfert est conservatif",
+   "Les deux brins sont transférés simultanément"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Transfert d'un brin unique",
+   "Synthèse du brin complémentaire chez la réceptrice",
+   "Reconstitution aussi chez la donatrice",
+   "La conjugaison est conservatrice",
+   "Faux : un seul brin est transféré"
+  ]
+ },
+ {
+  "q": "Concernant le caractère conservatif de la conjugaison, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "La donatrice reconstitue son brin manquant",
+   "La réceptrice synthétise le brin complémentaire",
+   "La donatrice conserve une copie complète de son ADN",
+   "La donatrice perd définitivement son ADN transféré",
+   "Les cellules se séparent à la fin du transfert"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Reconstitution du brin chez la donatrice",
+   "Synthèse du complémentaire chez la réceptrice",
+   "La donatrice garde son génome complet",
+   "Faux : le transfert est conservatif",
+   "Séparation des cellules en fin de transfert"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la cinétique du transfert conjugatif, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La cinétique de transfert est orientée",
+   "Elle est linéaire",
+   "Le transfert chromosomique débute toujours au même endroit",
+   "Le transfert chromosomique peut être interrompu",
+   "Le transfert est aléatoire et sans orientation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Cinétique orientée",
+   "Cinétique linéaire",
+   "Début toujours au même endroit (origine de transfert)",
+   "Le transfert peut être interrompu",
+   "Faux : orientée et linéaire"
+  ]
+ },
+ {
+  "q": "À propos de la durée du transfert conjugatif, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Si plasmide : processus rapide",
+   "Si chromosome : processus long",
+   "Le transfert total du chromosome dure environ 2 h",
+   "Le transfert plasmidique est toujours plus lent que le chromosomique",
+   "La durée est identique quel que soit l'ADN transféré"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Plasmide : processus rapide",
+   "Chromosome : processus long",
+   "Transfert chromosomique total en ~2 h",
+   "Faux : le plasmidique est rapide",
+   "Faux : la durée dépend de la taille de l'ADN transféré"
+  ]
+ },
+ {
+  "q": "Concernant le rôle des pilis sexuels, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La conjugaison se fait par l'intermédiaire des pilis sexuels",
+   "Ils sont synthétisés grâce au facteur F chez la donatrice",
+   "Ils permettent le contact entre les cellules",
+   "Ils sont présents chez la bactérie réceptrice femelle",
+   "Ils servent à injecter un bactériophage"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Conjugaison via les pilis sexuels",
+   "Le facteur F permet leur synthèse chez la mâle",
+   "Contact cellulaire via les pilis",
+   "Faux : synthétisés par la donatrice (mâle)",
+   "Faux : pas de phage dans la conjugaison"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la conjugaison chez les streptocoques, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le mécanisme est différent : pas de pili",
+   "Il y a sécrétion de petites molécules diffusibles par les cellules réceptrices",
+   "Il y a agrégation des donatrices et des réceptrices",
+   "Le transfert d'ADN a lieu après agrégation",
+   "Le mécanisme est identique à celui des Gram négatif avec pilis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Pas de pili chez les streptocoques",
+   "Molécules diffusibles sécrétées par les réceptrices",
+   "Agrégation donatrices-réceptrices",
+   "Transfert d'ADN après agrégation",
+   "Faux : mécanisme différent, sans pili"
+  ]
+ },
+ {
+  "q": "À propos de la spécificité du transfert chromosomique conjugatif, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le transfert suivi de recombinaison est spécifique (intra-espèces)",
+   "Il est limité, en particulier aux espèces à Gram négatif",
+   "Escherichia coli est une espèce concernée",
+   "Pseudomonas aeruginosa est une espèce concernée",
+   "Il se fait librement entre espèces très éloignées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Spécifique : intra-espèces",
+   "Limité, surtout Gram négatif",
+   "E. coli citée",
+   "P. aeruginosa cité",
+   "Faux : spécifique intra-espèces"
+  ]
+ },
+ {
+  "q": "Concernant la conjugaison et les streptocoques, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le transfert chromosomique suivi de recombinaison concerne aussi les Streptococcus",
+   "Le mécanisme ne fait pas intervenir de pilis sexuels",
+   "Des molécules diffusibles attirent les cellules donatrices",
+   "Les pilis sexuels sont indispensables chez les streptocoques",
+   "La conjugaison est impossible chez les Gram positif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Streptococcus cité parmi les espèces concernées",
+   "Mécanisme différent, sans pili",
+   "Molécules diffusibles sécrétées par les réceptrices",
+   "Faux : pas de pili chez les streptocoques",
+   "Faux : elle existe chez Gram positif et Gram négatif"
+  ]
+ },
+ {
+  "q": "En ce qui concerne le pont cytoplasmique, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il se forme après le contact et l'appariement des cellules",
+   "Il permet les échanges dont celui du chromosome",
+   "Il est spécifique de la conjugaison",
+   "Il est formé par le bactériophage",
+   "Il permet le passage d'ADN libre du milieu"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Formation après contact et appariement",
+   "Échanges bactériens dont le chromosome",
+   "Pont cytoplasmique : conjugaison",
+   "Faux : pas de phage dans la conjugaison",
+   "Faux : l'ADN libre relève de la transformation"
+  ]
+ },
+ {
+  "q": "À propos de la polarité du chromosome lors de la conjugaison, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le facteur F donne la polarité au chromosome",
+   "Le transfert est orienté grâce à cette polarité",
+   "Le transfert débute toujours au même endroit",
+   "Le transfert débute à un endroit aléatoire du chromosome",
+   "La polarité n'a aucun rôle dans le transfert"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le facteur F donne la polarité au chromosome",
+   "Transfert orienté et progressif",
+   "Début toujours au même endroit",
+   "Faux : toujours au même endroit",
+   "Faux : elle oriente le transfert"
+  ]
+ },
+ {
+  "q": "Concernant la conjugaison comme facteur d'évolution, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est le principal facteur d'évolution des bactéries",
+   "Elle joue un rôle majeur dans l'acquisition de la résistance aux antibiotiques",
+   "Elle permet la dissémination des gènes de résistance",
+   "Elle est sans importance évolutive",
+   "Elle ne transfère que des gènes chromosomiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Principal facteur d'évolution",
+   "Acquisition de la résistance aux ATB",
+   "Dissémination des gènes de résistance",
+   "Faux : c'est le principal facteur d'évolution",
+   "Faux : gènes chromosomiques ou plasmidiques"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les bactéries donatrice et réceptrice, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "La donatrice (mâle) possède le facteur F",
+   "La donatrice synthétise des pilis sexuels",
+   "Le transfert d'ADN est à sens unique, de la donatrice vers la réceptrice",
+   "La réceptrice (femelle) possède le facteur F",
+   "Le transfert est bidirectionnel"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Facteur F chez la donatrice",
+   "Pilis sexuels chez la mâle",
+   "Sens unique : donatrice → réceptrice",
+   "Faux : la réceptrice ne possède pas le facteur F",
+   "Faux : transfert à sens unique"
+  ]
+ },
+ {
+  "q": "À propos de l'interruption du transfert chromosomique, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le transfert peut être interrompu avant la fin",
+   "Seule une partie du chromosome est alors transférée",
+   "La cinétique linéaire permet de cartographier les gènes selon leur temps d'entrée",
+   "Le transfert est toujours total et ne peut être interrompu",
+   "L'interruption détruit la cellule réceptrice"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Transfert pouvant être interrompu",
+   "Transfert partiel du chromosome",
+   "Cartographie génétique par temps de transfert",
+   "Faux : il peut être interrompu",
+   "Faux : la réceptrice reçoit un fragment viable"
+  ]
+ },
+ {
+  "q": "Concernant la conjugaison plasmidique par rapport à la chromosomique, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le transfert plasmidique est rapide",
+   "Le transfert chromosomique est long",
+   "Les deux utilisent un brin unique d'ADN transféré",
+   "Le transfert plasmidique nécessite 2 heures",
+   "Le transfert chromosomique est instantané"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Plasmide : processus rapide",
+   "Chromosome : processus long",
+   "Brin unique transféré dans les deux cas",
+   "Faux : 2 h pour le chromosome total",
+   "Faux : processus long et progressif"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la séparation des cellules après conjugaison, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les cellules se séparent à la fin du transfert",
+   "La réceptrice possède alors une copie de l'ADN transféré",
+   "La donatrice a reconstitué son ADN",
+   "Les cellules restent définitivement fusionnées",
+   "La donatrice est lysée après le transfert"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Séparation en fin de transfert",
+   "La réceptrice a synthétisé le brin complémentaire",
+   "Reconstitution chez la donatrice : transfert conservatif",
+   "Faux : elles se séparent",
+   "Faux : la donatrice survit, transfert conservatif"
+  ]
+ },
+ {
+  "q": "À propos de la mobilisation de l'ADN, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "C'est la 2ᵉ étape de la conjugaison (préparation de l'ADN)",
+   "Elle précède le transfert du brin unique",
+   "Elle concerne l'ADN plasmidique ou chromosomique",
+   "Elle a lieu après la séparation des cellules",
+   "Elle est spécifique de la transduction"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Étape 2 : préparation/mobilisation de l'ADN",
+   "Mobilisation avant transfert",
+   "ADN plasmidique ou chromosomique",
+   "Faux : avant le transfert, cellules en contact",
+   "Faux : étape de la conjugaison"
+  ]
+ },
+ {
+  "q": "Concernant la conjugaison chez les bactéries à Gram négatif, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle fait intervenir des pilis sexuels",
+   "Le transfert d'un brin unique est suivi de la synthèse du complémentaire",
+   "La cinétique est orientée et linéaire",
+   "Elle est impossible chez les Gram négatif",
+   "Elle utilise des molécules diffusibles au lieu de pilis"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Pilis sexuels chez les Gram négatif",
+   "Brin unique + synthèse du complémentaire",
+   "Cinétique orientée, linéaire",
+   "Faux : E. coli, P. aeruginosa sont des exemples",
+   "Faux : c'est le mécanisme des streptocoques"
+  ]
+ },
+ {
+  "q": "En ce qui concerne le facteur F intégré au chromosome, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le facteur F donne la polarité au chromosome",
+   "Son intégration permet le transfert du chromosome",
+   "Le transfert débute toujours au même endroit",
+   "Le facteur F est un bactériophage intégré",
+   "Le facteur F empêche tout transfert chromosomique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Polarité donnée au chromosome par F",
+   "Transfert chromosomique via F",
+   "Origine de transfert unique",
+   "Faux : c'est un plasmide, pas un phage",
+   "Faux : il permet le transfert chromosomique"
+  ]
+ },
+ {
+  "q": "À propos de la conjugaison et de la résistance aux antibiotiques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est le mode principal de dissémination des gènes de résistance",
+   "Les plasmides de résistance se transfèrent par conjugaison",
+   "La transmission naturelle des plasmides s'effectue par conjugaison",
+   "La conjugaison ne transfère jamais de résistances",
+   "Seule la transformation diffuse les résistances"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Importance majeure dans la dissémination des résistances",
+   "Plasmides de résistance transférés par conjugaison",
+   "Transmission naturelle par conjugaison",
+   "Faux : rôle majeur dans les résistances",
+   "Faux : la conjugaison est le mode principal"
+  ]
+ },
+ {
+  "q": "Concernant les différences entre conjugaison et transformation, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "La conjugaison nécessite un contact cellulaire, pas la transformation",
+   "La transformation utilise de l'ADN libre, pas la conjugaison",
+   "La conjugaison transfère un brin unique via un pont cytoplasmique",
+   "Les deux font intervenir un bactériophage",
+   "Les deux nécessitent un état de compétence"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Contact cellulaire : conjugaison uniquement",
+   "ADN libre : transformation uniquement",
+   "Brin unique via pont cytoplasmique",
+   "Faux : le phage relève de la transduction",
+   "Faux : la compétence concerne la transformation"
+  ]
+ },
+ {
+  "q": "Concernant la définition de la transduction, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est un transfert d'ADN bactérien partiel",
+   "Elle se fait par l'intermédiaire de bactériophages",
+   "Le bactériophage joue un rôle passif de vecteur",
+   "Elle utilise de l'ADN libre dans le milieu",
+   "Elle nécessite un contact cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Transfert d'ADN bactérien partiel",
+   "Vecteur : le bactériophage",
+   "Rôle passif du phage",
+   "Faux : l'ADN libre relève de la transformation",
+   "Faux : pas de contact, c'est la conjugaison"
+  ]
+ },
+ {
+  "q": "En ce qui concerne le bactériophage dans la transduction, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "C'est un virus spécifique des bactéries",
+   "Il est virulent et se multiplie dans la bactérie",
+   "Lors de l'encapsidation, il incorpore de l'ADN bactérien fragmenté",
+   "Son rôle est passif : il sert de vecteur",
+   "Il s'agit d'un plasmide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Virus spécifique des bactéries",
+   "Phage virulent se multipliant dans la bactérie",
+   "Incorporation d'ADN bactérien fragmenté",
+   "Rôle passif de vecteur",
+   "Faux : c'est un virus, pas un plasmide"
+  ]
+ },
+ {
+  "q": "À propos de l'encapsidation, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est la phase où le phage incorpore de l'ADN bactérien fragmenté",
+   "Elle a lieu lors de la multiplication du phage dans la bactérie",
+   "L'ADN encapsidé est ensuite transféré à une autre bactérie",
+   "Elle concerne l'ADN libre du milieu",
+   "Elle est spécifique de la transformation"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Incorporation d'ADN bactérien fragmenté",
+   "Pendant la multiplication virale",
+   "Le phage transfère cet ADN",
+   "Faux : ADN bactérien fragmenté, pas ADN libre",
+   "Faux : étape de la transduction"
+  ]
+ },
+ {
+  "q": "Concernant les souches lysogènes, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "De nombreuses souches sont lysogènes",
+   "Les staphylocoques comptent des souches lysogènes",
+   "Les entérobactéries comptent des souches lysogènes",
+   "Aucune bactérie n'est lysogène",
+   "La lysogénie empêche toute transduction"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Incidence : nombreuses souches lysogènes",
+   "Staphylocoques cités",
+   "Entérobactéries citées",
+   "Faux : nombreuses souches lysogènes",
+   "Faux : la lysogénie est liée aux phages tempérés"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les variantes de la transduction, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il existe trois variantes",
+   "Elles conditionnent la spécificité des caractères transduits",
+   "Elles conditionnent la fréquence de transduction",
+   "Elles conditionnent la recombinaison génétique ou non",
+   "Il n'existe qu'un seul type de transduction"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Trois variantes",
+   "Spécificité du ou des caractères transduits",
+   "Fréquence de transduction",
+   "Recombinaison génétique ou non",
+   "Faux : trois variantes"
+  ]
+ },
+ {
+  "q": "À propos du transfert d'ADN par transduction, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le transfert est partiel",
+   "L'ADN transféré est de l'ADN bactérien fragmenté",
+   "Le phage ne fait que transporter l'ADN",
+   "Le génome bactérien entier est transféré",
+   "L'ADN est transféré sous forme libre"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Transfert d'ADN bactérien partiel",
+   "ADN fragmenté incorporé lors de l'encapsidation",
+   "Rôle passif du phage",
+   "Faux : transfert partiel",
+   "Faux : encapsidé dans le phage"
+  ]
+ },
+ {
+  "q": "Concernant la transduction par rapport à la transformation, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La transduction utilise un phage vecteur, pas la transformation",
+   "La transformation utilise de l'ADN libre, pas la transduction",
+   "Les deux transfèrent de l'ADN bactérien partiel",
+   "Les deux nécessitent un contact cellulaire",
+   "Les deux utilisent un état de compétence"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Phage vecteur : transduction",
+   "ADN libre : transformation",
+   "Transfert partiel dans les deux cas",
+   "Faux : aucun contact cellulaire",
+   "Faux : la compétence concerne la transformation"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la transduction par rapport à la conjugaison, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "La transduction ne nécessite pas de contact cellulaire",
+   "La conjugaison nécessite un contact cellulaire",
+   "La transduction fait intervenir un phage",
+   "Les deux font intervenir un bactériophage",
+   "Les deux transfèrent un brin unique d'ADN"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Pas de contact : transduction",
+   "Contact cellulaire : conjugaison",
+   "Phage vecteur de la transduction",
+   "Faux : pas de phage dans la conjugaison",
+   "Faux : le brin unique relève de la conjugaison"
+  ]
+ },
+ {
+  "q": "À propos du rôle du phage virulent, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il se multiplie dans la bactérie",
+   "Il peut incorporer de l'ADN bactérien lors de l'encapsidation",
+   "Il lyse la bactérie pour libérer les nouveaux phages",
+   "Il reste toujours intégré sans se multiplier",
+   "Il ne joue aucun rôle dans le transfert de gènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Multiplication dans la bactérie",
+   "Incorporation d'ADN bactérien fragmenté",
+   "Cycle lytique du phage virulent",
+   "Faux : le phage virulent se multiplie et lyse",
+   "Faux : il est le vecteur de la transduction"
+  ]
+ },
+ {
+  "q": "Concernant la fréquence de transduction, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Elle dépend de la variante de transduction",
+   "Les transferts sont souvent partiels et d'efficacité faible",
+   "La fréquence de recombinaison est de l'ordre de 10⁻⁶",
+   "Elle est toujours de 100 %",
+   "Tous les phages transduisent avec la même efficacité"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Trois variantes conditionnant la fréquence",
+   "Souvent partiels et d'efficacité faible",
+   "Fréquence de recombinaison ~10⁻⁶",
+   "Faux : efficacité faible",
+   "Faux : la fréquence varie selon les variantes"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les caractères transduits, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Leur spécificité dépend de la variante de transduction",
+   "Il s'agit de caractères bactériens portés par l'ADN fragmenté",
+   "Ils peuvent se recombiner ou non selon la variante",
+   "Tous les caractères sont toujours transduits ensemble",
+   "La transduction ne transfère aucun caractère bactérien"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Spécificité selon la variante",
+   "ADN bactérien fragmenté encapsidé",
+   "Recombinaison génétique ou non",
+   "Faux : transfert partiel",
+   "Faux : elle transfère de l'ADN bactérien"
+  ]
+ },
+ {
+  "q": "À propos des phages tempérés et de la lysogénie, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "De nombreuses souches bactériennes sont lysogènes",
+   "Le prophage est intégré au génome bactérien",
+   "La conversion lysogénique est liée à l'état lysogène",
+   "Tous les phages sont virulents",
+   "La lysogénie n'existe pas chez les staphylocoques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Nombreuses souches lysogènes",
+   "Prophage intégré au chromosome bactérien",
+   "Caractère lié à l'état lysogène",
+   "Faux : il existe des phages tempérés",
+   "Faux : les staphylocoques sont cités"
+  ]
+ },
+ {
+  "q": "Concernant la transduction et l'évolution bactérienne, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est un des trois modes de transfert de gènes entre bactéries",
+   "Elle participe à la plasticité du génome bactérien",
+   "Elle peut diffuser des gènes entre bactéries",
+   "Elle est sans rôle dans l'évolution",
+   "Elle ne concerne que les virus animaux"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Transformation, conjugaison, transduction",
+   "Mécanisme de plasticité du génome",
+   "Transfert de gènes entre bactéries",
+   "Faux : elle participe à l'évolution",
+   "Faux : les bactériophages sont spécifiques des bactéries"
+  ]
+ },
+ {
+  "q": "En ce qui concerne l'ADN encapsidé par le phage, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "C'est de l'ADN bactérien fragmenté",
+   "Il provient de la bactérie où le phage s'est multiplié",
+   "Il est transféré à la bactérie infectée ensuite",
+   "C'est toujours le génome viral complet",
+   "C'est de l'ADN libre du milieu extérieur"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "ADN bactérien fragmenté",
+   "Incorporé lors de la multiplication",
+   "Transfert vers la nouvelle bactérie",
+   "Faux : de l'ADN bactérien peut être encapsidé",
+   "Faux : ADN de la bactérie hôte"
+  ]
+ },
+ {
+  "q": "À propos de la spécificité d'hôte des phages, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les bactériophages sont spécifiques des bactéries",
+   "Un phage n'infecte que certaines bactéries",
+   "Cette spécificité limite la transduction entre espèces éloignées",
+   "Les phages infectent indifféremment toutes les cellules",
+   "Les phages sont des virus de cellules animales"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Virus spécifiques des bactéries",
+   "Spectre d'hôte limité",
+   "La transduction reste limitée par cette spécificité",
+   "Faux : spectre d'hôte restreint",
+   "Faux : spécifiques des bactéries"
+  ]
+ },
+ {
+  "q": "Concernant les cycles du bactériophage, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le phage virulent se multiplie dans la bactérie",
+   "L'encapsidation a lieu pendant la multiplication",
+   "Le cycle lytique libère de nouveaux phages",
+   "Le phage tempéré peut s'intégrer en prophage",
+   "Le phage ne se multiplie jamais dans la bactérie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Multiplication du phage virulent",
+   "Incorporation d'ADN lors de l'encapsidation",
+   "Libération par lyse",
+   "Prophage : phage tempéré intégré",
+   "Faux : il s'y multiplie"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la transduction et les entérobactéries, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les entérobactéries comptent de nombreuses souches lysogènes",
+   "La transduction peut y transférer de l'ADN bactérien",
+   "Les phages y jouent un rôle de vecteur passif",
+   "Les entérobactéries ne sont jamais concernées",
+   "La transduction y est impossible"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Entérobactéries : souches lysogènes citées",
+   "Transfert d'ADN bactérien partiel",
+   "Rôle passif du phage",
+   "Faux : elles sont citées",
+   "Faux : la transduction les concerne"
+  ]
+ },
+ {
+  "q": "À propos de la transduction et des staphylocoques, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "De nombreuses souches de staphylocoques sont lysogènes",
+   "La toxine de Panton-Valentine est liée à un prophage chez S. aureus",
+   "La transduction peut transférer des gènes entre staphylocoques",
+   "Les staphylocoques ne sont jamais lysogènes",
+   "Aucun phage n'infecte les staphylocoques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Staphylocoques : souches lysogènes",
+   "Conversion lysogénique : toxine PVL",
+   "Transfert de gènes par les phages",
+   "Faux : nombreuses souches lysogènes",
+   "Faux : des phages les infectent"
+  ]
+ },
+ {
+  "q": "Concernant la recombinaison après transduction, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle dépend de la variante de transduction",
+   "L'ADN transduit peut se recombiner ou non",
+   "La fréquence de recombinaison est faible, de l'ordre de 10⁻⁶",
+   "Elle est toujours efficace à 100 %",
+   "L'ADN transduit ne se recombine jamais"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Recombinaison selon la variante",
+   "Recombinaison génétique ou non",
+   "Efficacité faible : ~10⁻⁶",
+   "Faux : efficacité faible",
+   "Faux : il peut se recombiner"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les trois modes de transfert de gènes, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "La transformation utilise de l'ADN libre",
+   "La conjugaison nécessite un contact cellulaire",
+   "La transduction utilise un bactériophage vecteur",
+   "Les trois sont des mécanismes naturels complexes",
+   "Les trois nécessitent un bactériophage"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "ADN libre : transformation",
+   "Contact cellulaire : conjugaison",
+   "Phage vecteur : transduction",
+   "Mécanismes naturels complexes",
+   "Faux : seul la transduction utilise un phage"
+  ]
+ },
+ {
+  "q": "Concernant la définition de la conversion lysogénique, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est l'acquisition d'un caractère somatique particulier déterminé par le génome d'un prophage",
+   "Son expression est liée à l'état lysogène",
+   "Elle disparaît avec la perte de l'état lysogène",
+   "C'est un transfert d'ADN libre",
+   "C'est un transfert par contact cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Caractère déterminé par le génome d'un prophage spécifique",
+   "Expression liée à l'état lysogène",
+   "Disparaît avec la perte de la lysogénie",
+   "Faux : c'est la transformation",
+   "Faux : c'est la conjugaison"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les exemples de conversion lysogénique, lesquels sont cités ?",
+  "options": [
+   "La toxine de Panton-Valentine chez S. aureus",
+   "La toxine du bacille diphtérique",
+   "La toxine érythrogène du streptocoque A",
+   "Certaines cytotoxines (vérotoxines) chez E. coli",
+   "La capsule de S. pneumoniae"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Toxine PVL de S. aureus : exemple cité",
+   "Toxine diphtérique : exemple cité",
+   "Toxine érythrogène du streptocoque A : exemple cité",
+   "Vérotoxines d'E. coli : exemple cité",
+   "Faux : la capsule relève de la transformation (Griffith)"
+  ]
+ },
+ {
+  "q": "À propos de la toxine diphtérique, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Elle est codée par le génome d'un prophage",
+   "Sa production est liée à l'état lysogène du bacille diphtérique",
+   "C'est un exemple de conversion lysogénique",
+   "Elle est codée par le chromosome indépendamment de tout phage",
+   "Sa production persiste après la perte du prophage"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Gène de la toxine porté par le prophage",
+   "Expression liée à l'état lysogène",
+   "Exemple classique de conversion lysogénique",
+   "Faux : déterminée par le génome du prophage",
+   "Faux : disparaît avec la perte de l'état lysogène"
+  ]
+ },
+ {
+  "q": "Concernant la toxine de Panton-Valentine, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est produite par S. aureus",
+   "Elle est déterminée par le génome d'un prophage spécifique",
+   "C'est un exemple de conversion lysogénique",
+   "Elle est codée par un plasmide de résistance",
+   "Elle est indépendante de tout élément génétique mobile"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "S. aureus : exemple cité",
+   "Caractère déterminé par le prophage",
+   "Conversion lysogénique",
+   "Faux : c'est un prophage, pas un plasmide",
+   "Faux : liée au prophage"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la toxine érythrogène, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Elle est produite par le streptocoque A",
+   "Elle est liée à un prophage",
+   "C'est un exemple de conversion lysogénique",
+   "Elle est produite par S. pneumoniae",
+   "Elle est codée par le chromosome sans intervention de phage"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Streptocoque A : exemple cité",
+   "Déterminée par le génome d'un prophage",
+   "Conversion lysogénique",
+   "Faux : c'est le streptocoque A",
+   "Faux : liée au prophage"
+  ]
+ },
+ {
+  "q": "À propos des vérotoxines d'E. coli, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Certaines sont des exemples de conversion lysogénique",
+   "Elles sont déterminées par un prophage",
+   "Leur expression est liée à l'état lysogène",
+   "Elles sont produites par tous les E. coli",
+   "Elles sont indépendantes des bactériophages"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vérotoxines : exemple cité",
+   "Caractère déterminé par le prophage",
+   "Expression liée à la lysogénie",
+   "Faux : seules certaines souches lysogènes",
+   "Faux : liées au prophage"
+  ]
+ },
+ {
+  "q": "Concernant l'état lysogène, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le prophage est intégré au génome de la bactérie",
+   "Les caractères de conversion s'expriment dans toutes les bactéries lysogènes",
+   "La perte du prophage fait disparaître le caractère",
+   "L'état lysogène est irréversible",
+   "Le prophage ne modifie jamais la bactérie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Prophage intégré au chromosome bactérien",
+   "Expression liée à l'état lysogène",
+   "Disparaît avec la perte de l'état lysogène",
+   "Faux : la perte du prophage est possible",
+   "Faux : la conversion lysogénique en est la preuve"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la conversion lysogénique par rapport à la transduction, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La conversion apporte un caractère codé par le prophage lui-même",
+   "La transduction transporte de l'ADN bactérien fragmenté",
+   "Dans les deux cas un phage est impliqué",
+   "Les deux sont strictement identiques",
+   "La conversion nécessite un contact cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Caractère déterminé par le génome du prophage",
+   "ADN bactérien fragmenté encapsidé",
+   "Phage impliqué dans les deux mécanismes",
+   "Faux : mécanismes distincts",
+   "Faux : pas de contact, c'est la conjugaison"
+  ]
+ },
+ {
+  "q": "À propos des caractères apportés par conversion lysogénique, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Ce sont des caractères somatiques particuliers",
+   "Il s'agit souvent de toxines",
+   "Ils sont déterminés par le génome du prophage spécifique",
+   "Ce sont toujours des résistances aux antibiotiques",
+   "Ils sont codés par le chromosome bactérien"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Caractère somatique particulier",
+   "Exemples : toxines (PVL, diphtérique, érythrogène)",
+   "Déterminés par le prophage spécifique",
+   "Faux : ce sont des toxines dans les exemples",
+   "Faux : déterminés par le génome du prophage"
+  ]
+ },
+ {
+  "q": "Concernant la perte du prophage, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le caractère de conversion disparaît",
+   "La bactérie n'est plus lysogène",
+   "La bactérie redevient sensible à l'infection par ce phage",
+   "Le caractère persiste définitivement",
+   "La perte du prophage est impossible"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Disparaît avec la perte de l'état lysogène",
+   "Perte de la lysogénie",
+   "Plus d'immunité conférée par le prophage",
+   "Faux : lié à l'état lysogène",
+   "Faux : la perte est possible"
+  ]
+ },
+ {
+  "q": "Concernant les transposons, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ce sont des éléments d'ADN mobiles",
+   "Ils peuvent se déplacer d'un endroit à un autre sur un même brin d'ADN",
+   "Ils peuvent se déplacer vers un autre brin d'ADN",
+   "Ce sont des éléments fixes du chromosome",
+   "Ils ne peuvent jamais changer de position"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Éléments d'ADN mobiles",
+   "Déplacement sur un même brin d'ADN",
+   "Déplacement vers un autre brin",
+   "Faux : ils sont mobiles",
+   "Faux : la mobilité est leur définition"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les séquences d'insertion, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Ce sont les éléments transposables les plus simples",
+   "Elles constituent le module de base du transposon",
+   "Elles ne contiennent que les informations nécessaires à leur transposition",
+   "Elles sont phénotypiquement cryptiques",
+   "Elles portent de nombreux gènes de résistance"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Éléments transposables les plus simples",
+   "Module de base du transposon",
+   "Seules les informations de transposition",
+   "Phénotypiquement cryptiques",
+   "Faux : elles sont cryptiques, sans gènes accessoires"
+  ]
+ },
+ {
+  "q": "À propos du rôle des séquences d'insertion, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles permettent de mobiliser n'importe quel fragment d'ADN",
+   "Elles sont le module de base du transposon",
+   "Elles codent la transposase nécessaire à leur déplacement",
+   "Elles sont immobiles",
+   "Elles ne servent à rien dans le génome"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Mobilisation de n'importe quel fragment d'ADN",
+   "Module de base du transposon",
+   "Informations génétiques de la transposition",
+   "Faux : ce sont des éléments mobiles",
+   "Faux : elles mobilisent l'ADN"
+  ]
+ },
+ {
+  "q": "Concernant les intégrons, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Ils sont retrouvés exclusivement chez les bactéries",
+   "C'est un système naturel de capture de gènes",
+   "C'est un système d'expression et de dissémination de gènes",
+   "Ils existent chez tous les eucaryotes",
+   "Ils ne capturent jamais de gènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exclusivement chez les bactéries",
+   "Capture de gènes",
+   "Expression et dissémination de gènes",
+   "Faux : exclusivement bactériens",
+   "Faux : la capture est leur fonction"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la structure des intégrons, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils contiennent une intégrase",
+   "Ils contiennent un promoteur",
+   "Ils sont comparés à une « station-service complète » pour les gènes cassettes",
+   "Ils ne contiennent aucune enzyme",
+   "Ils sont dépourvus de promoteur"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Intégrase de l'intégron",
+   "Promoteur pour l'expression des cassettes",
+   "Station-service complète pour les gènes cassettes",
+   "Faux : ils contiennent une intégrase",
+   "Faux : ils contiennent un promoteur"
+  ]
+ },
+ {
+  "q": "À propos des gènes cassettes, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Ils sont capturés par les intégrons",
+   "Ils sont exprimés grâce au promoteur de l'intégron",
+   "Ils sont souvent des gènes de résistance aux antibiotiques",
+   "Ils sont toujours chromosomiques et immobiles",
+   "Ils ne peuvent jamais être disséminés"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Capture par l'intégron",
+   "Expression via le promoteur",
+   "Les cassettes portent souvent des résistances",
+   "Faux : ce sont des éléments mobiles",
+   "Faux : l'intégron les dissémine"
+  ]
+ },
+ {
+  "q": "Concernant les intégrons au sein des transposons, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La présence d'un intégron au sein d'un transposon est fréquente",
+   "Cette association est efficace pour accélérer l'évolution",
+   "Elle favorise la dissémination des gènes de résistance",
+   "Les intégrons ne s'associent jamais aux transposons",
+   "Cette association ralentit l'évolution bactérienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Présence fréquente d'intégrons dans les transposons",
+   "Accélération de l'évolution",
+   "Dissémination des résistances",
+   "Faux : association fréquente",
+   "Faux : elle accélère l'évolution"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les éléments génétiques mobiles au sein d'une cellule, lesquels sont cités ?",
+  "options": [
+   "Les transposons",
+   "Les intégrons",
+   "Les séquences d'insertion",
+   "Les bactériophages",
+   "Les pilis sexuels"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Transposons : mobilité intra-cellulaire",
+   "Intégrons : mobilité intra-cellulaire",
+   "Séquences d'insertion : éléments transposables",
+   "Faux : le phage est un vecteur inter-cellulaire",
+   "Faux : les pilis servent à la conjugaison"
+  ]
+ },
+ {
+  "q": "À propos de la mobilité des gènes au sein d'une cellule, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Les transposons se déplacent sur un même brin ou un autre brin d'ADN",
+   "Les intégrons capturent et expriment des gènes cassettes",
+   "Ces mécanismes participent à la plasticité du génome",
+   "Ils nécessitent un contact avec une autre bactérie",
+   "Ils font intervenir un bactériophage"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Mobilité des transposons",
+   "Capture et expression par les intégrons",
+   "Plasticité du génome bactérien",
+   "Faux : mobilité intra-cellulaire",
+   "Faux : pas de phage, c'est intra-cellulaire"
+  ]
+ },
+ {
+  "q": "Concernant les transposons et la résistance aux antibiotiques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils peuvent porter des gènes de résistance",
+   "Associés aux intégrons, ils accélèrent la dissémination des résistances",
+   "Ils participent à l'évolution de la résistance",
+   "Ils sont sans rapport avec les résistances",
+   "Ils empêchent l'acquisition de résistances"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les transposons mobilisent des gènes de résistance",
+   "Intégron + transposon : dissémination accélérée",
+   "Rôle dans l'évolution de la résistance",
+   "Faux : ils y participent",
+   "Faux : ils la favorisent"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les séquences d'insertion par rapport aux transposons, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Les séquences d'insertion sont plus simples que les transposons",
+   "Elles en constituent le module de base",
+   "Les transposons peuvent porter des gènes supplémentaires",
+   "Les séquences d'insertion sont plus complexes que les transposons",
+   "Il n'y a aucun lien entre les deux"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Éléments transposables les plus simples",
+   "Module de base du transposon",
+   "Les transposons portent des gènes accessoires",
+   "Faux : elles sont les plus simples",
+   "Faux : lien structural direct"
+  ]
+ },
+ {
+  "q": "À propos du caractère cryptique des séquences d'insertion, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles sont phénotypiquement cryptiques",
+   "Elles ne confèrent pas de phénotype visible par elles-mêmes",
+   "Elles ne contiennent que les gènes de leur transposition",
+   "Elles confèrent toujours une résistance aux antibiotiques",
+   "Elles sont toujours exprimées de façon visible"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Phénotypiquement cryptiques",
+   "Pas de phénotype propre",
+   "Seules les informations de transposition",
+   "Faux : elles sont cryptiques",
+   "Faux : cryptiques, sans phénotype visible"
+  ]
+ },
+ {
+  "q": "Concernant l'intégrase des intégrons, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "C'est une enzyme portée par l'intégron",
+   "Elle permet la capture des gènes cassettes",
+   "Elle catalyse l'intégration des cassettes",
+   "C'est une enzyme de restriction",
+   "Elle dégrade les gènes cassettes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Intégrase de l'intégron",
+   "Capture des gènes cassettes",
+   "Intégration des cassettes au site spécifique",
+   "Faux : c'est une recombinase, pas une restrictase",
+   "Faux : elle les intègre, ne les dégrade pas"
+  ]
+ },
+ {
+  "q": "En ce qui concerne le promoteur des intégrons, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il permet l'expression des gènes cassettes capturés",
+   "Il fait de l'intégron une « station-service complète »",
+   "Les cassettes n'ont pas besoin de leur propre promoteur",
+   "Les cassettes possèdent toujours leur propre promoteur",
+   "L'intégron ne permet aucune expression génique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Expression des cassettes via le promoteur",
+   "Intégrase + promoteur : station-service complète",
+   "Les cassettes utilisent le promoteur de l'intégron",
+   "Faux : elles utilisent celui de l'intégron",
+   "Faux : il assure l'expression"
+  ]
+ },
+ {
+  "q": "À propos de la dissémination des gènes par les intégrons, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Les intégrons sont un système de dissémination de gènes",
+   "Leur présence dans les transposons accélère l'évolution",
+   "Ils participent à la dissémination des résistances aux antibiotiques",
+   "Ils empêchent toute dissémination",
+   "Ils ne concernent que les gènes chromosomiques fixes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Système de dissémination",
+   "Accélération de l'évolution",
+   "Dissémination des résistances",
+   "Faux : ils la favorisent",
+   "Faux : ils mobilisent des cassettes"
+  ]
+ },
+ {
+  "q": "Concernant les transposons composites, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont bordés par des séquences d'insertion",
+   "Les séquences d'insertion en sont le module de base",
+   "Ils peuvent mobiliser les gènes situés entre les séquences d'insertion",
+   "Ils sont totalement immobiles",
+   "Ils ne contiennent jamais de gènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Transposon composite : IS de part et d'autre",
+   "Module de base : séquences d'insertion",
+   "Mobilisation du fragment intermédiaire",
+   "Faux : ce sont des éléments mobiles",
+   "Faux : ils portent des gènes entre les IS"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la transposition, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "C'est le déplacement d'un élément d'ADN",
+   "Elle peut avoir lieu sur un même brin d'ADN",
+   "Elle peut avoir lieu vers un autre brin d'ADN",
+   "C'est un transfert entre deux bactéries",
+   "Elle nécessite un bactériophage"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Déplacement d'un élément d'ADN",
+   "Déplacement intra-brin",
+   "Déplacement inter-brins",
+   "Faux : c'est intra-cellulaire",
+   "Faux : pas de phage"
+  ]
+ },
+ {
+  "q": "À propos des conséquences de la transposition, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle peut inactiver un gène par insertion",
+   "Elle peut mobiliser des gènes de résistance",
+   "Elle participe à la plasticité du génome",
+   "Elle est sans aucune conséquence génétique",
+   "Elle répare les mutations"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Insertion = mutation par inactivation",
+   "Mobilisation des résistances",
+   "Plasticité du génome",
+   "Faux : conséquences génétiques importantes",
+   "Faux : ce n'est pas un système de réparation"
+  ]
+ },
+ {
+  "q": "Concernant les intégrons et les cassettes de résistance, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Les cassettes portent souvent des gènes de résistance",
+   "L'intégron permet leur expression via son promoteur",
+   "L'intégron permet leur dissémination",
+   "Les cassettes de résistance n'existent pas",
+   "L'intégron détruit les gènes de résistance"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Cassettes de résistance aux antibiotiques",
+   "Expression via le promoteur",
+   "Dissémination par l'intégron",
+   "Faux : elles existent",
+   "Faux : il les capture et les exprime"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la place des intégrons dans la résistance aux antibiotiques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont un système naturel de capture de gènes de résistance",
+   "Ils permettent l'expression de ces gènes",
+   "Ils participent à leur dissémination",
+   "Ils sont sans rôle dans les résistances",
+   "Ils confèrent une sensibilité aux antibiotiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Capture des gènes de résistance",
+   "Expression via le promoteur",
+   "Dissémination des cassettes",
+   "Faux : rôle central",
+   "Faux : ils diffusent des résistances"
+  ]
+ },
+ {
+  "q": "À propos des éléments génétiques mobiles et de l'évolution, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "L'association intégron-transposon accélère l'évolution",
+   "La mobilité intra-cellulaire participe à la plasticité du génome",
+   "Ces éléments favorisent l'adaptation aux antibiotiques",
+   "Ils figent le génome bactérien",
+   "Ils sont éliminés par la sélection naturelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Accélération de l'évolution",
+   "Plasticité du génome",
+   "Adaptation, notamment aux antibiotiques",
+   "Faux : ils le rendent plastique",
+   "Faux : ils sont sélectionnés car avantageux"
+  ]
+ },
+ {
+  "q": "Concernant la différence entre plasmides et transposons, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les plasmides sont des réplicons autonomes, les transposons non",
+   "Les transposons se déplacent au sein du génome",
+   "Un transposon peut s'intégrer dans un plasmide",
+   "Les plasmides et les transposons sont identiques",
+   "Les transposons se répliquent de façon autonome"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Plasmide : réplication autonome ; transposon : non",
+   "Mobilité intra-génomique des transposons",
+   "Les transposons peuvent coloniser les plasmides",
+   "Faux : entités distinctes",
+   "Faux : pas de réplication autonome"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les gènes cassettes vides, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Un intégron peut capturer successivement plusieurs cassettes",
+   "Les cassettes s'accumulent en tandem dans l'intégron",
+   "Cette accumulation favorise la multirésistance",
+   "Un intégron ne peut porter qu'une seule cassette",
+   "Les cassettes ne s'expriment jamais"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Captures successives possibles",
+   "Cassettes en tandem",
+   "Multirésistance par accumulation",
+   "Faux : plusieurs cassettes possibles",
+   "Faux : exprimées via le promoteur"
+  ]
+ },
+ {
+  "q": "À propos des séquences d'insertion et de la mobilisation d'ADN, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles permettent de mobiliser n'importe quel fragment d'ADN",
+   "Deux séquences d'insertion peuvent mobiliser l'ADN intermédiaire",
+   "Elles contiennent les informations nécessaires à leur transposition",
+   "Elles ne mobilisent que leur propre séquence",
+   "Elles sont incapables de mobiliser de l'ADN"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Mobilisation de n'importe quel fragment",
+   "Transposon composite : mobilisation de l'intermédiaire",
+   "Informations de transposition portées par l'IS",
+   "Faux : elles mobilisent aussi l'ADN adjacent",
+   "Faux : la mobilisation est leur fonction"
+  ]
+ },
+ {
+  "q": "Concernant les intégrons de résistance, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Ils capturent des cassettes de gènes de résistance",
+   "Ils possèdent une intégrase et un promoteur",
+   "Ils sont retrouvés exclusivement chez les bactéries",
+   "Ils sont spécifiques des eucaryotes",
+   "Ils ne portent ni intégrase ni promoteur"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Capture de cassettes de résistance",
+   "Intégrase + promoteur",
+   "Exclusivement bactériens",
+   "Faux : exclusivement bactériens",
+   "Faux : ils en portent"
+  ]
+ },
+ {
+  "q": "Concernant la définition de l'opéron, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est un ensemble de gènes de structure sous le contrôle d'un même promoteur",
+   "Les gènes d'un opéron sont transcrits en un seul ARNm polycistronique",
+   "C'est un mode d'organisation typique des gènes bactériens",
+   "C'est un gène unique codant une seule protéine",
+   "Chaque gène d'un opéron possède son propre promoteur"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Gènes de structure sous un même promoteur",
+   "Un seul ARNm polycistronique",
+   "Organisation typique des gènes bactériens",
+   "Faux : plusieurs gènes de structure",
+   "Faux : un seul promoteur commun"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les éléments d'un opéron, lesquels sont exacts ?",
+  "options": [
+   "Le promoteur : site de fixation de l'ARN polymérase",
+   "L'opérateur : site de fixation du répresseur",
+   "Les gènes de structure codant les protéines",
+   "Le gène régulateur codant le répresseur",
+   "Un intron entre chaque gène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Promoteur : fixation de l'ARN polymérase",
+   "Opérateur : fixation du répresseur",
+   "Gènes de structure",
+   "Gène régulateur du répresseur",
+   "Faux : pas d'introns chez les bactéries"
+  ]
+ },
+ {
+  "q": "À propos de l'opéron lactose (lac), lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "C'est un opéron inductible",
+   "Il est normalement réprimé en l'absence de lactose",
+   "Le lactose (allolactose) lève la répression en se liant au répresseur",
+   "Il comprend les gènes lacZ, lacY et lacA",
+   "C'est un opéron répressible par le tryptophane"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Opéron inductible",
+   "Réprimé sans lactose",
+   "L'inducteur se lie au répresseur et le détache",
+   "Gènes de structure lacZ, lacY, lacA",
+   "Faux : le tryptophane concerne l'opéron trp"
+  ]
+ },
+ {
+  "q": "Concernant l'opéron tryptophane (trp), lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est un opéron répressible",
+   "En présence de tryptophane, le répresseur est activé et bloque la transcription",
+   "Il code les enzymes de biosynthèse du tryptophane",
+   "C'est un opéron inductible par le lactose",
+   "Le tryptophane lève la répression"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Opéron répressible",
+   "Le tryptophane active le répresseur (corépresseur)",
+   "Biosynthèse du tryptophane",
+   "Faux : le lactose concerne l'opéron lac",
+   "Faux : le tryptophane provoque la répression"
+  ]
+ },
+ {
+  "q": "En ce qui concerne le répresseur, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "C'est une protéine codée par un gène régulateur",
+   "Il se fixe sur l'opérateur pour bloquer la transcription",
+   "Dans l'opéron lac, l'inducteur l'empêche de se fixer",
+   "C'est une molécule d'ARN",
+   "Il active toujours la transcription"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Protéine du gène régulateur",
+   "Fixation sur l'opérateur : blocage",
+   "L'inducteur détache le répresseur",
+   "Faux : c'est une protéine",
+   "Faux : il réprime la transcription"
+  ]
+ },
+ {
+  "q": "À propos de l'opérateur, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est une séquence d'ADN située entre le promoteur et les gènes de structure",
+   "C'est le site de fixation du répresseur",
+   "Sa occupation par le répresseur bloque l'ARN polymérase",
+   "C'est le site de fixation de l'ARN polymérase",
+   "C'est une protéine régulatrice"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Séquence entre promoteur et gènes de structure",
+   "Fixation du répresseur",
+   "Blocage de la transcription",
+   "Faux : c'est le promoteur",
+   "Faux : c'est une séquence d'ADN"
+  ]
+ },
+ {
+  "q": "Concernant le promoteur d'un opéron, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "C'est le site de fixation de l'ARN polymérase",
+   "Il est situé en amont des gènes de structure",
+   "L'intégron possède aussi un promoteur pour exprimer les cassettes",
+   "C'est le site de fixation du répresseur",
+   "Il est situé en aval des gènes de structure"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Fixation de l'ARN polymérase",
+   "En amont des gènes de structure",
+   "Le promoteur de l'intégron exprime les cassettes",
+   "Faux : c'est l'opérateur",
+   "Faux : il est en amont"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la régulation de l'opéron lac par le glucose, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "En présence de glucose, l'opéron est faiblement exprimé (répression catabolique)",
+   "L'AMP cyclique et la protéine CAP activent la transcription en absence de glucose",
+   "Le complexe CAP-AMPc se fixe près du promoteur",
+   "Le glucose active directement l'opéron lac",
+   "La régulation par CAP est un contrôle positif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Répression catabolique par le glucose",
+   "CAP-AMPc : activation en absence de glucose",
+   "Fixation du complexe près du promoteur",
+   "Faux : le glucose réprime via la baisse d'AMPc",
+   "Contrôle positif de la transcription"
+  ]
+ },
+ {
+  "q": "À propos des ARNm polycistroniques et des opérons, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Les gènes d'un opéron donnent un ARNm polycistronique",
+   "Un seul ARNm porte plusieurs gènes de structure",
+   "Cet ARNm possède plusieurs codons d'initiation",
+   "Chaque gène d'un opéron donne un ARNm séparé",
+   "Les opérons produisent des ARNm monocistroniques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Transcription unique de l'opéron",
+   "Plusieurs gènes sur le même ARNm",
+   "Plusieurs codons d'initiation et stop",
+   "Faux : un seul ARNm pour tout l'opéron",
+   "Faux : les ARNm sont polycistroniques"
+  ]
+ },
+ {
+  "q": "Concernant les opérons inductibles et répressibles, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'opéron lac est inductible : éteint sans inducteur",
+   "L'opéron trp est répressible : allumé sans corépresseur",
+   "L'inducteur se lie au répresseur pour le détacher de l'opérateur",
+   "Le corépresseur active le répresseur",
+   "Les deux types sont régulés de façon identique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "lac : inductible",
+   "trp : répressible",
+   "Inducteur : détache le répresseur",
+   "Corépresseur : active le répresseur",
+   "Faux : mécanismes inverses"
+  ]
+ },
+ {
+  "q": "En ce qui concerne le gène régulateur, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Il code la protéine répresseur",
+   "Il n'est pas forcément adjacent à l'opéron qu'il contrôle",
+   "Le gène lacI code le répresseur de l'opéron lac",
+   "Il code une enzyme du métabolisme",
+   "Il est transcrit avec les gènes de structure"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Gène régulateur → répresseur",
+   "Il peut être situé à distance",
+   "lacI : répresseur de l'opéron lac",
+   "Faux : il code une protéine régulatrice",
+   "Faux : transcription indépendante"
+  ]
+ },
+ {
+  "q": "À propos de la transcription d'un opéron, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle débute au promoteur sous l'action de l'ARN polymérase",
+   "Elle est bloquée si le répresseur occupe l'opérateur",
+   "Elle produit un ARNm polycistronique",
+   "Elle débute à l'opérateur",
+   "Elle produit autant d'ARNm que de gènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Initiation au promoteur",
+   "Blocage par le répresseur sur l'opérateur",
+   "Un ARNm polycistronique",
+   "Faux : elle débute au promoteur",
+   "Faux : un seul ARNm pour tout l'opéron"
+  ]
+ },
+ {
+  "q": "Concernant l'intérêt des opérons pour la bactérie, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Ils permettent une expression coordonnée de gènes d'une même voie métabolique",
+   "Ils permettent d'économiser l'énergie en n'exprimant que si nécessaire",
+   "Ils illustrent l'absence d'introns et les ARNm polycistroniques",
+   "Ils empêchent toute régulation génique",
+   "Ils sont spécifiques des eucaryotes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Coordination d'une voie métabolique",
+   "Économie d'énergie : expression à la demande",
+   "Organisation typique du génome bactérien",
+   "Faux : ce sont des unités de régulation",
+   "Faux : typiques des bactéries"
+  ]
+ },
+ {
+  "q": "En ce qui concerne Jacob et Monod, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils ont proposé le modèle de l'opéron",
+   "Leurs travaux ont porté sur l'opéron lactose d'E. coli",
+   "Ils ont décrit les notions de régulateur, opérateur et opéron",
+   "Ils ont découvert la structure de l'ADN",
+   "Ils ont découvert la transformation bactérienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Modèle de l'opéron (1961)",
+   "Opéron lac d'E. coli",
+   "Régulateur, opérateur, opéron",
+   "Faux : Watson et Crick (1953)",
+   "Faux : Griffith (1928) et Avery (1944)"
+  ]
+ },
+ {
+  "q": "À propos de la dérépression d'un opéron inductible, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "L'inducteur se lie au répresseur",
+   "Le répresseur se détache de l'opérateur",
+   "L'ARN polymérase peut alors transcrire les gènes de structure",
+   "Le répresseur reste fixé malgré l'inducteur",
+   "La transcription reste bloquée"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Liaison inducteur-répresseur",
+   "Détachement de l'opérateur",
+   "Transcription des gènes de structure",
+   "Faux : il se détache",
+   "Faux : la transcription est libérée"
+  ]
+ },
+ {
+  "q": "Concernant les méthodes d'exploration du génome bactérien, lesquelles sont citées dans le cours ?",
+  "options": [
+   "L'hybridation",
+   "L'amplification suivie d'hybridation",
+   "Le séquençage",
+   "L'étude électrophorétique en champ pulsé",
+   "La coloration de Gram"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Hybridation citée",
+   "Amplification suivie d'hybridation citée",
+   "Séquençage cité",
+   "Électrophorèse en champ pulsé citée",
+   "Faux : la coloration de Gram identifie les bactéries, elle n'explore pas le génome"
+  ]
+ },
+ {
+  "q": "En ce qui concerne l'hybridation moléculaire, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Elle repose sur l'appariement de séquences complémentaires d'acides nucléiques",
+   "Elle permet de détecter un gène spécifique dans un génome",
+   "Elle est citée parmi les méthodes d'exploration du génome bactérien",
+   "Elle repose sur la coloration des bactéries",
+   "Elle ne s'applique qu'aux protéines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Appariement de séquences complémentaires",
+   "Détection d'un gène par une sonde",
+   "Méthode d'exploration citée",
+   "Faux : c'est une méthode moléculaire, pas une coloration",
+   "Faux : elle concerne les acides nucléiques"
+  ]
+ },
+ {
+  "q": "À propos de l'amplification suivie d'hybridation, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'amplification (PCR) multiplie la séquence cible",
+   "L'hybridation permet ensuite de l'identifier spécifiquement",
+   "C'est une méthode d'exploration citée dans le cours",
+   "Elle ne permet aucune détection spécifique",
+   "L'amplification détruit la séquence cible"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "PCR : amplification de la cible",
+   "Hybridation : identification spécifique",
+   "Méthode citée dans le cours",
+   "Faux : la détection est spécifique",
+   "Faux : elle la multiplie"
+  ]
+ },
+ {
+  "q": "Concernant le séquençage, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Il détermine l'ordre des nucléotides d'un fragment d'ADN",
+   "Il permet d'identifier des gènes et des mutations",
+   "C'est une méthode d'exploration du génome citée dans le cours",
+   "Il ne donne aucune information sur la séquence",
+   "Il remplace la culture bactérienne dans tous les cas"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Lecture de la séquence nucléotidique",
+   "Identification de gènes et mutations",
+   "Méthode d'exploration citée",
+   "Faux : il donne la séquence exacte",
+   "Faux : il complète le diagnostic, ne le remplace pas systématiquement"
+  ]
+ },
+ {
+  "q": "En ce qui concerne l'électrophorèse en champ pulsé, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle sépare des fragments d'ADN de grande taille",
+   "Elle est citée parmi les méthodes d'exploration",
+   "Elle permet de comparer des profils génomiques (typage)",
+   "Elle sépare les protéines selon leur charge",
+   "Elle ne s'applique pas à l'ADN"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Séparation de grands fragments d'ADN",
+   "Méthode citée : champ pulsé",
+   "Typage moléculaire par profils",
+   "Faux : elle sépare ici l'ADN",
+   "Faux : c'est une méthode d'étude de l'ADN"
+  ]
+ },
+ {
+  "q": "À propos du clonage, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "C'est une méthode d'exploration citée dans le cours",
+   "La transformation est exploitée pour le clonage en biotechnologies",
+   "Il permet d'amplifier un fragment d'ADN d'intérêt",
+   "Il est sans rapport avec la génétique bactérienne",
+   "Il ne fait appel à aucune bactérie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Clonage cité parmi les méthodes",
+   "Application bénéfique de la transformation",
+   "Amplification d'un ADN d'intérêt",
+   "Faux : application de la génétique bactérienne",
+   "Faux : les bactéries sont les hôtes du clonage"
+  ]
+ },
+ {
+  "q": "Concernant les applications de l'exploration du génome, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La détection de gènes de résistance",
+   "L'identification d'espèces bactériennes",
+   "Le typage épidémiologique des souches",
+   "La compréhension de la plasticité génomique",
+   "Elles sont sans intérêt médical"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Recherche de gènes de résistance",
+   "Identification par le génome",
+   "Typage des souches (champ pulsé…)",
+   "Comprendre l'adaptabilité et l'évolution",
+   "Faux : intérêt majeur en microbiologie"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la PCR, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Elle amplifie une séquence d'ADN cible",
+   "Elle peut être suivie d'une hybridation pour l'identification",
+   "Elle est à la base de l'amplification citée dans le cours",
+   "Elle séquence directement l'ADN",
+   "Elle ne nécessite aucune matrice d'ADN"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Amplification de la cible",
+   "Amplification suivie d'hybridation",
+   "Méthode d'amplification du cours",
+   "Faux : l'amplification n'est pas le séquençage",
+   "Faux : elle nécessite une matrice d'ADN"
+  ]
+ },
+ {
+  "q": "À propos des sondes d'hybridation, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ce sont des séquences d'acides nucléiques marquées",
+   "Elles s'apparient à leur séquence complémentaire",
+   "Elles permettent de détecter un gène recherché",
+   "Ce sont des anticorps",
+   "Elles s'apparient à n'importe quelle séquence"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Sondes marquées complémentaires",
+   "Appariement spécifique",
+   "Détection du gène cible",
+   "Faux : ce sont des acides nucléiques, pas des anticorps",
+   "Faux : appariement spécifique uniquement"
+  ]
+ },
+ {
+  "q": "Concernant les trois modes de transfert de gènes entre bactéries, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La transformation, la conjugaison et la transduction sont des mécanismes naturels complexes",
+   "Ils ont une importance majeure dans l'évolution de la résistance bactérienne",
+   "Ils sont exploités en biotechnologies",
+   "Le transfert est souvent partiel (1-2 % du génome)",
+   "Ils sont tous d'efficacité égale à 100 %"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Mécanismes naturels complexes",
+   "Importance dans l'évolution des résistances",
+   "Applications en biotechnologies",
+   "Souvent partiels, 1-2 % du génome",
+   "Faux : efficacité faible, ~10⁻⁶"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la recombinaison après transfert, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "L'ADN transféré peut ne pas se recombiner, comme pour les plasmides",
+   "La recombinaison nécessite généralement une homologie",
+   "La fréquence de recombinaison est faible, de l'ordre de 10⁻⁶",
+   "Tout ADN transféré se recombine systématiquement",
+   "Les plasmides doivent se recombiner pour s'exprimer"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'ADN peut ne pas se recombiner (plasmide)",
+   "Homologie suffisante requise",
+   "Efficacité faible : 10⁻⁶",
+   "Faux : la recombinaison n'est pas systématique",
+   "Faux : les plasmides se répliquent de façon autonome"
+  ]
+ },
+ {
+  "q": "À propos de la dissémination des gènes de résistance, lesquels de ces mécanismes y participent ?",
+  "options": [
+   "La conjugaison, mode principal de dissémination",
+   "La transformation (pneumocoque, méningocoque)",
+   "La transduction via les bactériophages",
+   "Les plasmides et leurs origines de transfert communes",
+   "Aucun mécanisme de transfert génétique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Principal facteur de dissémination",
+   "Émergence d'espèces résistantes",
+   "Transfert par les phages",
+   "Co-transfert des résistances",
+   "Faux : les transferts sont le moteur de la dissémination"
+  ]
+ },
+ {
+  "q": "Concernant la plasticité du génome et les antibiotiques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle rend illusoire la découverte d'un antibiotique « sans résistance »",
+   "Les mutations sélectionnées sous antibiotiques en sont un mécanisme",
+   "Le co-transfert plasmidique en est un mécanisme",
+   "Les antibiotiques empêchent toute plasticité génomique",
+   "La plasticité garantit l'absence de résistance"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Conclusion du cours : aucun ATB sans résistance",
+   "Sélection de mutants résistants",
+   "Co-transfert et co-sélection",
+   "Faux : ils sélectionnent les variants",
+   "Faux : elle favorise les résistances"
+  ]
+ },
+ {
+  "q": "En ce qui concerne les éléments mobiles et les plasmides, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Un transposon peut s'intégrer dans un plasmide",
+   "Un intégron au sein d'un transposon accélère l'évolution",
+   "Les plasmides conjugatifs disséminent ces éléments entre bactéries",
+   "Les transposons ne peuvent jamais quitter le chromosome",
+   "Les plasmides sont immobiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les transposons colonisent les plasmides",
+   "Association fréquente et efficace",
+   "Dissémination par conjugaison",
+   "Faux : ils se déplacent vers d'autres brins",
+   "Faux : les plasmides se transfèrent par conjugaison"
+  ]
+ },
+ {
+  "q": "À propos du génome bactérien dans son ensemble, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il comprend le chromosome indispensable et des plasmides facultatifs",
+   "Il est plastique grâce aux mutations et aux transferts",
+   "Des éléments mobiles le remodèlent de l'intérieur",
+   "Il est totalement figé et identique chez toutes les bactéries",
+   "Il ne comprend que le chromosome"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Chromosome + plasmides facultatifs",
+   "Mutations, transferts, éléments mobiles",
+   "Transposons et intégrons",
+   "Faux : plastique et variable",
+   "Faux : les plasmides en font partie"
+  ]
+ },
+ {
+  "q": "Concernant les applications biotechnologiques de la génétique bactérienne, lesquelles sont citées ?",
+  "options": [
+   "Le clonage par transformation",
+   "L'exploitation de la plasticité génomique",
+   "La production de protéines recombinantes",
+   "L'usage des plasmides comme vecteurs",
+   "Aucune application biotechnologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Application bénéfique de la transformation",
+   "La plasticité permet des applications en biotechnologie",
+   "Expression de gènes clonés",
+   "Plasmides vecteurs de clonage",
+   "Faux : nombreuses utilisations"
+  ]
+ },
+ {
+  "q": "En ce qui concerne la virulence et la génétique bactérienne, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "La plasticité du génome a pour conséquence la virulence",
+   "La conversion lysogénique apporte des gènes de toxines",
+   "Les plasmides peuvent porter des facteurs de virulence",
+   "La virulence est indépendante de toute génétique",
+   "Les gènes de virulence sont toujours chromosomiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Virulence : conséquence de la plasticité",
+   "Toxines codées par des prophages",
+   "Plasmides de virulence",
+   "Faux : elle a des bases génétiques",
+   "Faux : prophages et plasmides en portent"
+  ]
+ },
+ {
+  "q": "À propos de l'évolution bactérienne, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La conjugaison en est le principal facteur",
+   "Les mutations en sont un moteur",
+   "Les éléments mobiles l'accélèrent",
+   "Elle est impossible sans reproduction sexuée",
+   "Les transferts horizontaux n'y jouent aucun rôle"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Principal facteur d'évolution",
+   "Mutations : plasticité du génome",
+   "Intégrons et transposons",
+   "Faux : les bactéries évoluent sans sexe",
+   "Faux : rôle central des transferts"
+  ]
+ },
+ {
+  "q": "Concernant les points clés du chapitre, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le chromosome est unique, circulaire et indispensable",
+   "Les plasmides sont facultatifs, circulaires et transférables",
+   "Les mutations sont rares, stables et transmissibles",
+   "La transformation, la conjugaison et la transduction transfèrent des gènes",
+   "Les bactéries possèdent des introns et des ARNm monocistroniques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Chromosome : unique, circulaire, indispensable",
+   "Plasmides : facultatifs et mobiles",
+   "Mutations : rares, stables, héritables",
+   "Les trois modes de transfert",
+   "Faux : pas d'introns, ARNm polycistroniques"
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic microbiologique moléculaire, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "L'hybridation permet de détecter le génome bactérien",
+   "La PCR permet d'amplifier l'ADN bactérien recherché",
+   "Le séquençage permet d'identifier précisément une souche",
+   "Ces méthodes explorent le génome sans culture préalable",
+   "La microscopie est la seule méthode de diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Détection du génome par hybridation",
+   "Amplification par PCR",
+   "Identification par séquençage",
+   "Diagnostic moléculaire direct",
+   "Faux : les méthodes moléculaires complètent la microscopie"
+  ]
+ }
+]

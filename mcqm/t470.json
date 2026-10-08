@@ -1,0 +1,4419 @@
+[
+  {
+    "q": "Parmi les propositions suivantes concernant la classification des organes lymphoïdes, lesquelles sont exactes ?",
+    "options": [
+      "Les organes lymphoïdes primaires sont aussi appelés centraux",
+      "Les organes lymphoïdes secondaires sont aussi appelés périphériques",
+      "La moelle osseuse est un organe lymphoïde primaire",
+      "Le thymus est un organe lymphoïde secondaire",
+      "La rate est un organe lymphoïde primaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : primaire = central, les deux termes sont synonymes.",
+      "Exact : secondaire = périphérique, les deux termes sont synonymes.",
+      "Exact : la moelle osseuse est un organe lymphoïde primaire (central).",
+      "Inexact : le thymus est un organe lymphoïde primaire, pas secondaire.",
+      "Inexact : la rate est un organe lymphoïde secondaire, pas primaire."
+    ]
+  },
+  {
+    "q": "Parmi les propositions suivantes concernant les organes lymphoïdes secondaires, lesquelles sont exactes ?",
+    "options": [
+      "Les ganglions lymphatiques en font partie",
+      "La rate en fait partie",
+      "Le MALT (tissus lymphoïdes associés aux muqueuses) en fait partie",
+      "La moelle osseuse en fait partie",
+      "Le thymus en fait partie"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les ganglions sont des organes lymphoïdes secondaires.",
+      "Exact : la rate est un organe lymphoïde secondaire.",
+      "Exact : le MALT est un organe lymphoïde secondaire.",
+      "Inexact : la moelle osseuse est un organe lymphoïde primaire.",
+      "Inexact : le thymus est un organe lymphoïde primaire."
+    ]
+  },
+  {
+    "q": "Les organes lymphoïdes centraux sont le siège de :",
+    "options": [
+      "La production des cellules du système immunitaire",
+      "La maturation des cellules du système immunitaire",
+      "La rencontre des lymphocytes avec l'antigène",
+      "L'activation des lymphocytes",
+      "La différenciation des lymphocytes en cellules effectrices"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Exact : les organes centraux produisent les cellules du SI.",
+      "Exact : les organes centraux assurent leur maturation.",
+      "Inexact : la rencontre avec l'antigène a lieu dans les organes périphériques.",
+      "Inexact : l'activation a lieu dans les organes périphériques.",
+      "Inexact : la différenciation en cellules effectrices a lieu en périphérie."
+    ]
+  },
+  {
+    "q": "Les organes lymphoïdes périphériques sont le siège de :",
+    "options": [
+      "La rencontre des lymphocytes avec l'antigène",
+      "L'activation des lymphocytes",
+      "La prolifération des lymphocytes",
+      "La différenciation des lymphocytes en cellules effectrices",
+      "La production des cellules du système immunitaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : c'est le lieu de rencontre lymphocyte-antigène.",
+      "Exact : les lymphocytes y sont actives.",
+      "Exact : les lymphocytes actives y prolifèrent.",
+      "Exact : ils s'y différencient en cellules effectrices.",
+      "Inexact : la production a lieu dans les organes centraux."
+    ]
+  },
+  {
+    "q": "Parmi les propositions suivantes concernant les relations entre les organes du système immunitaire, lesquelles sont exactes ?",
+    "options": [
+      "Ils sont reliés entre eux par la circulation lymphatique",
+      "Ils sont reliés entre eux par la circulation sanguine",
+      "Ils sont reliés entre eux par la circulation nerveuse",
+      "Ils forment un réseau isolé sans communication entre eux",
+      "La lymphe transporte les lymphocytes vers les organes périphériques"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : la circulation lymphatique relie les organes du SI.",
+      "Exact : la circulation sanguine relie aussi les organes du SI.",
+      "Inexact : il n'existe pas de circulation nerveuse reliant ces organes.",
+      "Inexact : les organes communiquent via le sang et la lymphe.",
+      "Exact : la lymphe transporte les lymphocytes des tissus vers les organes périphériques."
+    ]
+  },
+  {
+    "q": "Concernant la moelle osseuse, lesquelles sont exactes ?",
+    "options": [
+      "C'est un organe lymphoïde primaire",
+      "C'est un organe lymphoïde central",
+      "C'est un organe lymphoïde périphérique",
+      "C'est le siège de la maturation des lymphocytes T",
+      "C'est le siège de l'hématopoïèse"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : la moelle osseuse est un organe lymphoïde primaire.",
+      "Exact : primaire = central.",
+      "Inexact : elle n'est pas périphérique (secondaire).",
+      "Inexact : la maturation des LT a lieu dans le thymus.",
+      "Exact : la moelle osseuse est le siège de l'hématopoïèse."
+    ]
+  },
+  {
+    "q": "Concernant le thymus, lesquelles sont exactes ?",
+    "options": [
+      "C'est un organe lymphoïde primaire",
+      "C'est un organe lymphoïde central",
+      "C'est le siège de la maturation des lymphocytes T",
+      "C'est un organe lymphoïde secondaire",
+      "C'est le siège de la rencontre lymphocyte-antigène"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : le thymus est un organe lymphoïde primaire.",
+      "Exact : primaire = central.",
+      "Exact : le thymus assure la maturation des LT.",
+      "Inexact : le thymus n'est pas un organe secondaire.",
+      "Inexact : la rencontre avec l'antigène a lieu dans les organes périphériques."
+    ]
+  },
+  {
+    "q": "Concernant les conséquences d'une anomalie des organes du système immunitaire, lesquelles sont exactes ?",
+    "options": [
+      "Une anomalie des organes centraux peut entraîner un défaut de production des cellules immunes",
+      "Une anomalie des organes centraux peut entraîner une anomalie de maturation",
+      "Une anomalie des organes centraux peut entraîner une anomalie de différenciation",
+      "Ces anomalies n'ont aucune conséquence immunitaire",
+      "Seuls les organes périphériques sont indispensables au système immunitaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : défaut de production en cas d'anomalie des organes centraux.",
+      "Exact : anomalie de maturation possible.",
+      "Exact : anomalie de différenciation possible.",
+      "Inexact : ces anomalies entraînent de graves déficits immunitaires.",
+      "Inexact : les organes centraux sont indispensables à la production des cellules."
+    ]
+  },
+  {
+    "q": "Concernant les organes lymphoïdes périphériques, lesquelles sont exactes ?",
+    "options": [
+      "Ils sont le lieu de déclenchement de la réponse immunitaire",
+      "Ils comprennent les ganglions, la rate et le MALT",
+      "Ils sont le lieu de production des cellules du système immunitaire",
+      "Ils sont aussi appelés organes centraux",
+      "Ils reçoivent les antigènes via la lymphe ou le sang"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : la RI se déclenche dans les organes périphériques.",
+      "Exact : ganglions + rate + MALT = organes secondaires.",
+      "Inexact : la production a lieu dans les organes centraux.",
+      "Inexact : centraux = primaires, pas périphériques.",
+      "Exact : antigènes amenés par la lymphe (ganglions) ou le sang (rate)."
+    ]
+  },
+  {
+    "q": "Concernant les cellules immunocompétentes, lesquelles sont exactes ?",
+    "options": [
+      "Elles sont produites dans les organes lymphoïdes centraux",
+      "Elles maturent dans les organes lymphoïdes centraux",
+      "Elles sont activées dans les organes lymphoïdes périphériques",
+      "Elles naissent directement dans les ganglions lymphatiques",
+      "Leur production est indépendante de la moelle osseuse"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : production dans les organes centraux.",
+      "Exact : maturation dans les organes centraux.",
+      "Exact : activation dans les organes périphériques.",
+      "Inexact : elles naissent dans la moelle osseuse, pas dans les ganglions.",
+      "Inexact : la moelle osseuse est indispensable à leur production."
+    ]
+  },
+  {
+    "q": "La moelle osseuse se trouve dans :",
+    "options": [
+      "Les cavités des os plats",
+      "Le sternum",
+      "Les vertèbres et le sacrum",
+      "Les diaphyses des os longs",
+      "Les côtes"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Exact : la MO occupe les cavités des os plats.",
+      "Exact : le sternum est un os plat contenant de la MO.",
+      "Exact : vertèbres et sacrum sont des os plats concernés.",
+      "Inexact : dans les os longs, la MO occupe les epiphyses, pas les diaphyses.",
+      "Exact : les côtes sont des os plats contenant de la MO."
+    ]
+  },
+  {
+    "q": "Concernant la moelle osseuse des os longs, lesquelles sont exactes ?",
+    "options": [
+      "Elle occupe les epiphyses",
+      "Le fémur et l'humérus en sont des exemples",
+      "Elle occupe les diaphyses",
+      "Elle est absente des os longs",
+      "Elle est constituée de moelle rouge hématopoïétique"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : dans les os longs, la MO siège dans les epiphyses.",
+      "Exact : fémur et humérus sont citées comme exemples.",
+      "Inexact : les diaphyses ne contiennent pas la MO hématopoïétique.",
+      "Inexact : les epiphyses des os longs contiennent de la MO.",
+      "Exact : c'est de la moelle rouge, siège de l'hématopoïèse."
+    ]
+  },
+  {
+    "q": "La moelle osseuse est constituée de :",
+    "options": [
+      "Un réseau de fibrilles",
+      "Des sinus sanguins qui la vascularisent",
+      "Des cellules adipeuses formant la moelle jaune",
+      "Un tissu hématopoïétique formant la moelle rouge",
+      "Un tissu musculaire strié"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : la MO est constituée d'un réseau de fibrilles.",
+      "Exact : ce réseau est vascularisé par des sinus sanguins.",
+      "Exact : les cellules adipeuses forment la moelle jaune.",
+      "Exact : le tissu hématopoïétique forme la moelle rouge.",
+      "Inexact : il n'y a pas de tissu musculaire strié dans la MO."
+    ]
+  },
+  {
+    "q": "La moelle rouge comprend :",
+    "options": [
+      "Un tissu érythroïde et plaquettaire",
+      "Un tissu myéloïde",
+      "Un tissu lymphoïde diffus",
+      "Un tissu adipeux prédominant",
+      "Un tissu osseux compact"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : tissu érythroïde et plaquettaire dans la moelle rouge.",
+      "Exact : tissu myéloïde dans la moelle rouge.",
+      "Exact : tissu lymphoïde diffus dans la moelle rouge.",
+      "Inexact : le tissu adipeux prédominant caractérise la moelle jaune.",
+      "Inexact : pas de tissu osseux compact dans la moelle rouge."
+    ]
+  },
+  {
+    "q": "Concernant la moelle jaune, lesquelles sont exactes ?",
+    "options": [
+      "Elle est constituée de cellules adipeuses",
+      "Elle est le siège principal de l'hématopoïèse",
+      "Elle est non hématopoïétique",
+      "Elle se trouve dans la moelle osseuse",
+      "Elle produit les lymphocytes"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : la moelle jaune = cellules adipeuses.",
+      "Inexact : l'hématopoïèse a lieu dans la moelle rouge.",
+      "Exact : la moelle jaune n'est pas hématopoïétique.",
+      "Exact : elle fait partie de la moelle osseuse.",
+      "Inexact : les lymphocytes sont produits par la moelle rouge."
+    ]
+  },
+  {
+    "q": "Concernant les sinus sanguins de la moelle osseuse, lesquelles sont exactes ?",
+    "options": [
+      "Ils vascularisent le réseau de fibrilles médullaires",
+      "Ils permettent le passage des cellules matures vers le sang",
+      "Ils sont absents de la moelle osseuse",
+      "Ce sont des vaisseaux lymphatiques",
+      "Ils participent à la libération des cellules hématopoïétiques dans la circulation"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : les sinus sanguins vascularisent le réseau de fibrilles.",
+      "Exact : les cellules matures gagnent le sang via les sinus.",
+      "Inexact : les sinus sanguins sont bien présents dans la MO.",
+      "Inexact : ce sont des sinus veineux sanguins, pas lymphatiques.",
+      "Exact : ils permettent la sortie des cellules hématopoïétiques."
+    ]
+  },
+  {
+    "q": "La moelle osseuse est le siège de :",
+    "options": [
+      "L'hématopoïèse",
+      "La production des lignées sanguines",
+      "La maturation des lymphocytes B",
+      "La maturation des lymphocytes T",
+      "La production des cellules du système immunitaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Exact : la MO est le siège de l'hématopoïèse.",
+      "Exact : elle produit toutes les lignées sanguines.",
+      "Exact : les LB y maturent.",
+      "Inexact : les LT maturent dans le thymus.",
+      "Exact : elle produit les cellules du SI."
+    ]
+  },
+  {
+    "q": "Parmi les os plats suivants, lesquels contiennent de la moelle osseuse ?",
+    "options": [
+      "Le sternum",
+      "Les côtes",
+      "Les vertèbres",
+      "Le sacrum",
+      "La diaphyse du fémur"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : le sternum contient de la MO.",
+      "Exact : les côtes contiennent de la MO.",
+      "Exact : les vertèbres contiennent de la MO.",
+      "Exact : le sacrum contient de la MO.",
+      "Inexact : le fémur est un os long ; sa diaphyse ne contient pas de MO hématopoïétique."
+    ]
+  },
+  {
+    "q": "Concernant le tissu lymphoïde diffus de la moelle osseuse, lesquelles sont exactes ?",
+    "options": [
+      "Il fait partie de la moelle rouge",
+      "C'est le lieu de maturation des lymphocytes B",
+      "Il est constitué de follicules lymphoïdes organisés",
+      "Il est absent de la moelle osseuse",
+      "Il participe à la lymphopoïèse B"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : le tissu lymphoïde diffus appartient à la moelle rouge.",
+      "Exact : les LB y maturent.",
+      "Inexact : il est diffus, non organisé en follicules.",
+      "Inexact : il est bien présent dans la MO.",
+      "Exact : il participe à la production des lymphocytes B."
+    ]
+  },
+  {
+    "q": "Concernant la structure de la moelle osseuse, lesquelles sont exactes ?",
+    "options": [
+      "Le réseau de fibrilles est vascularisé par des sinus sanguins",
+      "La moelle rouge contient le tissu hématopoïétique",
+      "La moelle jaune est riche en adipocytes",
+      "La moelle osseuse est un organe lymphoïde secondaire",
+      "Elle ne contient aucun tissu lymphoïde"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : réseau de fibrilles vascularisé par les sinus sanguins.",
+      "Exact : la moelle rouge = tissu hématopoïétique.",
+      "Exact : la moelle jaune = cellules adipeuses.",
+      "Inexact : la MO est un organe lymphoïde primaire.",
+      "Inexact : elle contient un tissu lymphoïde diffus."
+    ]
+  },
+  {
+    "q": "La cellule souche hématopoïétique (CSH) possède :",
+    "options": [
+      "La totipotence",
+      "La capacité d'auto-renouvellement",
+      "Une unipotence stricte",
+      "Une durée de vie limitée sans descendance",
+      "La capacité de donner naissance aux cellules du système immunitaire"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : la totipotence est une propriété fondamentale de la CSH.",
+      "Exact : l'auto-renouvellement est sa deuxième propriété fondamentale.",
+      "Inexact : la CSH n'est pas unipotente, elle est totipotente.",
+      "Inexact : elle se renouvelle et donne une descendance durable.",
+      "Exact : elle donne naissance aux cellules du SI."
+    ]
+  },
+  {
+    "q": "La totipotence de la CSH signifie :",
+    "options": [
+      "La capacité de donner naissance à toutes les lignées sanguines",
+      "La capacité de se différencier en un seul type cellulaire",
+      "La capacité de maintenir le pool de cellules souches",
+      "Qu'elle est à l'origine des lignées lymphoïde et myéloïde",
+      "Qu'elle produit uniquement des globules rouges"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "explain": [
+      "Exact : totipotence = toutes les lignées sanguines.",
+      "Inexact : cela correspondrait à l'unipotence.",
+      "Inexact : cela correspond à l'auto-renouvellement.",
+      "Exact : les deux lignées dérivent de la CSH.",
+      "Inexact : elle produit toutes les lignées, pas seulement les GR."
+    ]
+  },
+  {
+    "q": "Concernant l'auto-renouvellement de la CSH, lesquelles sont exactes ?",
+    "options": [
+      "Il permet le maintien du stock de cellules souches",
+      "Il assure une hématopoïèse durable toute la vie",
+      "Il signifie la mort programmée de la cellule souche",
+      "C'est une propriété fonctionnelle fondamentale de la CSH",
+      "Il concerne uniquement les cellules différenciées"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : l'auto-renouvellement maintient le pool de CSH.",
+      "Exact : il garantit l'hématopoïèse tout au long de la vie.",
+      "Inexact : la mort programmée correspond à l'apoptose.",
+      "Exact : c'est l'une des deux propriétés fondamentales de la CSH.",
+      "Inexact : il concerne la cellule souche elle-même."
+    ]
+  },
+  {
+    "q": "Sous l'influence cytokinique médullaire, la CSH se différencie en :",
+    "options": [
+      "Cellule souche lymphoïde",
+      "Cellule souche myéloïde",
+      "Cellule souche nerveuse",
+      "Deux progéniteurs principaux",
+      "Directement en plasmocyte mature"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : la CSH donne la cellule souche lymphoïde.",
+      "Exact : la CSH donne la cellule souche myéloïde.",
+      "Inexact : pas de lignée nerveuse issue de la CSH.",
+      "Exact : deux lignées principales : lymphoïde et myéloïde.",
+      "Inexact : la différenciation passe par des étapes intermédiaires."
+    ]
+  },
+  {
+    "q": "La cellule souche lymphoïde se différencie en précurseurs de :",
+    "options": [
+      "Lymphocytes B",
+      "Lymphocytes T",
+      "Cellules NK",
+      "Polynucléaires neutrophiles",
+      "Monocytes"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les LB dérivent de la lignée lymphoïde.",
+      "Exact : les LT dérivent de la lignée lymphoïde.",
+      "Exact : les cellules NK dérivent de la lignée lymphoïde.",
+      "Inexact : les PNN dérivent de la lignée myéloïde.",
+      "Inexact : les monocytes dérivent de la lignée myéloïde."
+    ]
+  },
+  {
+    "q": "La cellule souche myéloïde se différencie en précurseurs de :",
+    "options": [
+      "Cellules dendritiques",
+      "Monocytes",
+      "Polynucléaires neutrophiles, eosinophiles et basophiles",
+      "Mastocytes",
+      "Lymphocytes B"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : les DC dérivent de la lignée myéloïde.",
+      "Exact : les monocytes dérivent de la lignée myéloïde.",
+      "Exact : les PNN, PNE et PNB dérivent de la lignée myéloïde.",
+      "Exact : les mastocytes dérivent de la lignée myéloïde.",
+      "Inexact : les LB dérivent de la lignée lymphoïde."
+    ]
+  },
+  {
+    "q": "Concernant le devenir des lymphocytes dans la moelle osseuse, lesquelles sont exactes ?",
+    "options": [
+      "Les lymphocytes T quittent la moelle osseuse vers le thymus",
+      "Les lymphocytes B restent dans la moelle osseuse jusqu'à maturation",
+      "Les lymphocytes B quittent la moelle osseuse à l'état immature",
+      "Les lymphocytes T maturent dans la moelle osseuse",
+      "La moelle osseuse est l'organe de maturation des lymphocytes B"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : les précurseurs T migrent vers le thymus.",
+      "Exact : les LB restent dans la MO jusqu'à maturation.",
+      "Inexact : les LB ne quittent la MO qu'une fois matures.",
+      "Inexact : les LT maturent dans le thymus.",
+      "Exact : la MO est l'organe de maturation des LB."
+    ]
+  },
+  {
+    "q": "Concernant les cellules NK, lesquelles sont exactes ?",
+    "options": [
+      "Elles dérivent de la cellule souche lymphoïde",
+      "Elles dérivent de la cellule souche myéloïde",
+      "Ce sont des lymphocytes de l'immunité innée",
+      "Elles maturent dans le thymus comme les lymphocytes T",
+      "Elles sont produites dans la moelle osseuse"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explain": [
+      "Exact : les NK dérivent du progéniteur lymphoïde.",
+      "Inexact : elles ne dérivent pas de la lignée myéloïde.",
+      "Exact : les NK appartiennent à l'immunité innée.",
+      "Inexact : elles maturent dans la moelle osseuse, pas dans le thymus.",
+      "Exact : elles sont produites dans la MO."
+    ]
+  },
+  {
+    "q": "Concernant les mastocytes, lesquelles sont exactes ?",
+    "options": [
+      "Ils dérivent de la cellule souche myéloïde",
+      "Ils dérivent de la cellule souche lymphoïde",
+      "Ce sont des cellules de l'immunité innée",
+      "Ils sont produits dans la moelle osseuse",
+      "Ce sont des lymphocytes"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : les mastocytes dérivent de la lignée myéloïde.",
+      "Inexact : ils ne dérivent pas de la lignée lymphoïde.",
+      "Exact : les mastocytes participent à l'immunité innée.",
+      "Exact : ils sont produits dans la MO.",
+      "Inexact : les mastocytes ne sont pas des lymphocytes."
+    ]
+  },
+  {
+    "q": "Concernant les polynucléaires (PNN, PNE, PNB), lesquelles sont exactes ?",
+    "options": [
+      "Ils dérivent de la cellule souche myéloïde",
+      "Ils sont aussi appelés granulocytes",
+      "Ils dérivent de la cellule souche lymphoïde",
+      "Ils sont produits dans la moelle osseuse",
+      "Ils maturent dans le thymus"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : les polynucléaires dérivent de la lignée myéloïde.",
+      "Exact : PNN, PNE, PNB = granulocytes.",
+      "Inexact : ils ne dérivent pas de la lignée lymphoïde.",
+      "Exact : ils sont produits dans la MO.",
+      "Inexact : le thymus est réservé à la maturation des LT."
+    ]
+  },
+  {
+    "q": "Concernant les monocytes, lesquelles sont exactes ?",
+    "options": [
+      "Ils dérivent de la cellule souche myéloïde",
+      "Ils sont produits dans la moelle osseuse",
+      "Ils se différencient en macrophages dans les tissus",
+      "Ils dérivent de la cellule souche lymphoïde",
+      "Ce sont des lymphocytes"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les monocytes dérivent de la lignée myéloïde.",
+      "Exact : ils sont produits dans la MO.",
+      "Exact : ils deviennent macrophages dans les tissus.",
+      "Inexact : ils ne dérivent pas de la lignée lymphoïde.",
+      "Inexact : les monocytes ne sont pas des lymphocytes."
+    ]
+  },
+  {
+    "q": "Concernant les cellules dendritiques, lesquelles sont exactes ?",
+    "options": [
+      "Elles dérivent de la cellule souche myéloïde",
+      "Elles sont produites dans la moelle osseuse",
+      "Elles présentent l'antigène aux lymphocytes",
+      "Elles dérivent de la cellule souche lymphoïde",
+      "Elles sont absentes des organes lymphoïdes"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les DC dérivent de la lignée myéloïde.",
+      "Exact : elles sont produites dans la MO.",
+      "Exact : ce sont des cellules présentatrices d'antigène.",
+      "Inexact : elles ne dérivent pas de la lignée lymphoïde.",
+      "Inexact : elles peuplent les organes lymphoïdes secondaires."
+    ]
+  },
+  {
+    "q": "Concernant la différenciation de la CSH, lesquelles sont exactes ?",
+    "options": [
+      "Elle est influencée par les cytokines médullaires",
+      "Elle donne deux lignées : lymphoïde et myéloïde",
+      "Elle est indépendante du microenvironnement",
+      "Les LB et les LT partagent un progéniteur lymphoïde commun",
+      "Les PNN et les LB partagent le même progéniteur direct"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : les cytokines médullaires orientent la différenciation.",
+      "Exact : lignée lymphoïde et lignée myéloïde.",
+      "Inexact : le microenvironnement cytokinique est indispensable.",
+      "Exact : LB et LT dérivent de la CS lymphoïde.",
+      "Inexact : les PNN sont myéloïde, les LB sont lymphoïde."
+    ]
+  },
+  {
+    "q": "La lignée lymphoïde comprend :",
+    "options": [
+      "Les lymphocytes B",
+      "Les lymphocytes T",
+      "Les cellules NK",
+      "Les polynucléaires eosinophiles",
+      "Les mastocytes"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les LB appartiennent à la lignée lymphoïde.",
+      "Exact : les LT appartiennent à la lignée lymphoïde.",
+      "Exact : les NK appartiennent à la lignée lymphoïde.",
+      "Inexact : les PNE appartiennent à la lignée myéloïde.",
+      "Inexact : les mastocytes appartiennent à la lignée myéloïde."
+    ]
+  },
+  {
+    "q": "La lignée myéloïde comprend :",
+    "options": [
+      "Les polynucléaires neutrophiles",
+      "Les monocytes",
+      "Les mastocytes",
+      "Les cellules dendritiques",
+      "Les lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : les PNN sont de lignée myéloïde.",
+      "Exact : les monocytes sont de lignée myéloïde.",
+      "Exact : les mastocytes sont de lignée myéloïde.",
+      "Exact : les DC sont de lignée myéloïde.",
+      "Inexact : les LT sont de lignée lymphoïde."
+    ]
+  },
+  {
+    "q": "Concernant les précurseurs lymphocytaires, lesquelles sont exactes ?",
+    "options": [
+      "Les précurseurs T migrent vers le thymus",
+      "Les précurseurs B maturent dans la moelle osseuse",
+      "Les précurseurs T maturent dans la moelle osseuse",
+      "Les précurseurs B migrent vers le thymus",
+      "Les deux précurseurs naissent dans la moelle osseuse"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : les précurseurs T quittent la MO vers le thymus.",
+      "Exact : les précurseurs B maturent dans la MO.",
+      "Inexact : les précurseurs T maturent dans le thymus.",
+      "Inexact : les précurseurs B restent dans la MO.",
+      "Exact : les deux naissent dans la MO à partir de la CSH."
+    ]
+  },
+  {
+    "q": "Concernant l'hématopoïèse, lesquelles sont exactes ?",
+    "options": [
+      "Elle a lieu dans la moelle osseuse",
+      "Elle produit les cellules du système immunitaire",
+      "Elle débute à partir de la cellule souche hématopoïétique",
+      "Elle a lieu dans le thymus",
+      "Elle est le siège de la maturation des lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la MO est le siège de l'hématopoïèse.",
+      "Exact : elle produit les cellules du SI.",
+      "Exact : tout part de la CSH.",
+      "Inexact : le thymus ne fait pas d'hématopoïèse.",
+      "Inexact : la maturation des LT a lieu dans le thymus."
+    ]
+  },
+  {
+    "q": "Les propriétés fonctionnelles fondamentales de la CSH sont :",
+    "options": [
+      "La totipotence",
+      "L'auto-renouvellement",
+      "L'apoptose systématique",
+      "La différenciation terminale irréversible",
+      "La capacité de reconstituer toutes les lignées sanguines"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : la totipotence est fondamentale.",
+      "Exact : l'auto-renouvellement est fondamental.",
+      "Inexact : l'apoptose n'est pas une propriété de la CSH.",
+      "Inexact : la CSH n'est pas terminalement différenciée.",
+      "Exact : elle peut reconstituer toutes les lignées sanguines."
+    ]
+  },
+  {
+    "q": "Concernant la moelle osseuse comme organe lymphoïde, lesquelles sont exactes ?",
+    "options": [
+      "C'est un organe lymphoïde central",
+      "C'est le siège de la lymphopoïèse B",
+      "Les lymphocytes T y subissent leur maturation",
+      "C'est le siège de l'hématopoïèse",
+      "C'est un organe lymphoïde périphérique"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : la MO est un organe lymphoïde central.",
+      "Exact : les LB y sont produits et y maturent.",
+      "Inexact : les LT maturent dans le thymus.",
+      "Exact : siège de l'hématopoïèse.",
+      "Inexact : la MO n'est pas un organe périphérique."
+    ]
+  },
+  {
+    "q": "Concernant les lymphocytes B, lesquelles sont exactes ?",
+    "options": [
+      "Ils naissent dans la moelle osseuse",
+      "Ils maturent dans la moelle osseuse",
+      "Ils quittent la moelle osseuse une fois matures",
+      "Ils maturent dans le thymus",
+      "Ils naissent dans les ganglions lymphatiques"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les LB naissent dans la MO.",
+      "Exact : les LB maturent dans la MO.",
+      "Exact : ils ne quittent la MO qu'une fois matures.",
+      "Inexact : le thymus est réservé aux LT.",
+      "Inexact : les ganglions ne produisent pas les LB."
+    ]
+  },
+  {
+    "q": "Le thymus est situé :",
+    "options": [
+      "Dans la partie supérieure du médiastin antérieur",
+      "Entre le sternum et les grands vaisseaux",
+      "Dans l'hypochondre gauche",
+      "Dans la cavité abdominale",
+      "En arrière du sternum"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : le thymus siège dans la partie supérieure du médiastin antérieur.",
+      "Exact : il est situé entre le sternum et les grands vaisseaux.",
+      "Inexact : l'hypochondre gauche correspond à la rate.",
+      "Inexact : le thymus est thoracique, pas abdominal.",
+      "Exact : il est placé en arrière du sternum."
+    ]
+  },
+  {
+    "q": "Concernant le thymus, lesquelles sont exactes ?",
+    "options": [
+      "C'est un organe lympho-épithélial",
+      "C'est un organe lymphoïde primaire",
+      "C'est un organe lymphoïde secondaire",
+      "C'est le siège de la maturation des lymphocytes T",
+      "C'est le siège de la maturation des lymphocytes B"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : le thymus est un organe lympho-épithélial.",
+      "Exact : c'est un organe lymphoïde primaire (central).",
+      "Inexact : le thymus n'est pas un organe secondaire.",
+      "Exact : il assure la maturation des LT.",
+      "Inexact : les LB maturent dans la moelle osseuse."
+    ]
+  },
+  {
+    "q": "La fonction du thymus est :",
+    "options": [
+      "La maturation des lymphocytes T",
+      "La production des lymphocytes B",
+      "La filtration des antigènes du sang",
+      "L'accueil des précurseurs T venant de la moelle osseuse",
+      "La rencontre lymphocyte-antigène"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "explain": [
+      "Exact : la fonction du thymus est la maturation des LT.",
+      "Inexact : les LB sont produits dans la moelle osseuse.",
+      "Inexact : la filtration du sang est assurée par la rate.",
+      "Exact : le thymus accueille les précurseurs T issus de la MO.",
+      "Inexact : la rencontre avec l'antigène a lieu en périphérie."
+    ]
+  },
+  {
+    "q": "Concernant la maturation thymique, lesquelles sont exactes ?",
+    "options": [
+      "Elle a lieu grâce au microenvironnement thymique",
+      "Elle fait intervenir les hormones thymiques",
+      "Elle comprend l'acquisition du TCR",
+      "Elle a lieu dans la moelle osseuse",
+      "Elle ne concerne que les lymphocytes B"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : le microenvironnement thymique permet la maturation.",
+      "Exact : les hormones thymiques y participent.",
+      "Exact : les thymocytes acquièrent leur TCR.",
+      "Inexact : la maturation des LT a lieu dans le thymus.",
+      "Inexact : elle concerne les lymphocytes T, pas les B."
+    ]
+  },
+  {
+    "q": "La double sélection thymique comprend :",
+    "options": [
+      "La sélection positive",
+      "La sélection négative",
+      "L'élimination des thymocytes autoréactifs",
+      "La sélection des lymphocytes B",
+      "Un processus unique sans contrôle"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la sélection positive fait partie de la double sélection.",
+      "Exact : la sélection négative fait partie de la double sélection.",
+      "Exact : les clones autoréactifs sont éliminés.",
+      "Inexact : la sélection thymique concerne les LT.",
+      "Inexact : c'est un double contrôle strict."
+    ]
+  },
+  {
+    "q": "Concernant le devenir des thymocytes, lesquelles sont exactes ?",
+    "options": [
+      "95% des lymphocytes T meurent sur place par apoptose",
+      "5% seulement des lymphocytes T arrivent à maturité",
+      "Les lymphocytes T matures quittent le thymus vers la périphérie",
+      "100% des thymocytes survivent à la sélection",
+      "L'apoptose thymique est un phénomène marginal"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : 95% des LT meurent par apoptose dans le thymus.",
+      "Exact : seuls 5% arrivent à maturité.",
+      "Exact : les LT matures gagnent la périphérie.",
+      "Inexact : la grande majorité est éliminée.",
+      "Inexact : l'apoptose concerne 95% des thymocytes."
+    ]
+  },
+  {
+    "q": "Concernant la sélection négative thymique, lesquelles sont exactes ?",
+    "options": [
+      "Elle élimine les lymphocytes T autoréactifs",
+      "Elle participe à la tolérance du soi",
+      "Elle a lieu dans la moelle osseuse",
+      "Elle concerne les lymphocytes B",
+      "Elle réduit le répertoire T aux clones non autoréactifs"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : la sélection négative élimine les clones autoréactifs.",
+      "Exact : elle fonde la tolérance centrale du soi.",
+      "Inexact : elle a lieu dans le thymus.",
+      "Inexact : elle concerne les lymphocytes T.",
+      "Exact : seuls les clones non autoréactifs survivent."
+    ]
+  },
+  {
+    "q": "Concernant la sélection positive thymique, lesquelles sont exactes ?",
+    "options": [
+      "Elle sélectionne les thymocytes capables de reconnaître le CMH du soi",
+      "Elle a lieu dans le thymus",
+      "Elle élimine tous les thymocytes",
+      "Elle concerne les lymphocytes B",
+      "Elle participe à la maturation des lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : la sélection positive retient les thymocytes restreints au CMH du soi.",
+      "Exact : elle se déroule dans le thymus.",
+      "Inexact : elle sélectionne, elle n'élimine pas tout.",
+      "Inexact : elle concerne les lymphocytes T.",
+      "Exact : c'est une étape de la maturation T."
+    ]
+  },
+  {
+    "q": "Concernant les hormones thymiques, lesquelles sont exactes ?",
+    "options": [
+      "Elles participent à la maturation des thymocytes",
+      "Elles sont produites par les cellules épithéliales thymiques",
+      "Elles sont produites par la moelle osseuse",
+      "Elles n'ont aucun rôle immunitaire",
+      "Elles agissent avec le microenvironnement thymique"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : les hormones thymiques favorisent la maturation.",
+      "Exact : elles sont sécrétées par l'épithélium thymique.",
+      "Inexact : elles sont d'origine thymique, pas médullaire.",
+      "Inexact : elles ont un rôle dans la maturation T.",
+      "Exact : elles coopèrent avec le microenvironnement."
+    ]
+  },
+  {
+    "q": "Concernant l'involution thymique, lesquelles sont exactes ?",
+    "options": [
+      "Le thymus s'atrophie progressivement avec l'âge",
+      "L'involution débute des la puberté",
+      "Le thymus reste volumineux toute la vie",
+      "Le tissu lymphoïde est remplacé par du tissu adipeux",
+      "La production de lymphocytes T naïfs augmente avec l'âge"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : le thymus involue avec l'âge.",
+      "Exact : l'involution commence à la puberté.",
+      "Inexact : le thymus s'atrophie au fil des ans.",
+      "Exact : le parenchyme lymphoïde est remplacé par de la graisse.",
+      "Inexact : la production de LT naïfs diminue avec l'âge."
+    ]
+  },
+  {
+    "q": "Concernant les thymocytes, lesquelles sont exactes ?",
+    "options": [
+      "Ce sont les précurseurs T en maturation dans le thymus",
+      "Ils subissent une multiplication dans le thymus",
+      "Ils acquièrent leur TCR dans le thymus",
+      "Ce sont des lymphocytes B en maturation",
+      "Ils maturent dans les ganglions"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les thymocytes sont les précurseurs T intrathymiques.",
+      "Exact : ils prolifèrent dans le thymus.",
+      "Exact : l'acquisition du TCR a lieu dans le thymus.",
+      "Inexact : les thymocytes sont de lignée T.",
+      "Inexact : leur maturation est thymique."
+    ]
+  },
+  {
+    "q": "Concernant le TCR, lesquelles sont exactes ?",
+    "options": [
+      "Il est acquis au cours de la maturation thymique",
+      "C'est le récepteur antigenique des lymphocytes T",
+      "Il est exprimé par les lymphocytes B",
+      "Son acquisition précède la sortie du thymus",
+      "Il est acquis dans la moelle osseuse"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : le TCR est acquis pendant la maturation thymique.",
+      "Exact : le TCR est le récepteur d'antigène des LT.",
+      "Inexact : les LB expriment le BCR, pas le TCR.",
+      "Exact : les LT quittent le thymus avec leur TCR.",
+      "Inexact : l'acquisition du TCR est thymique."
+    ]
+  },
+  {
+    "q": "Concernant l'apoptose thymique, lesquelles sont exactes ?",
+    "options": [
+      "Elle concerne 95% des thymocytes",
+      "Elle élimine les clones non sélectionnés",
+      "Elle élimine les clones autoréactifs",
+      "Elle concerne 5% des thymocytes",
+      "C'est un échec pathologique de la maturation"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : 95% des thymocytes meurent par apoptose.",
+      "Exact : les clones non sélectionnés sont éliminés.",
+      "Exact : les clones autoréactifs sont éliminés.",
+      "Inexact : 5% seulement survivent.",
+      "Inexact : c'est un processus physiologique de sélection."
+    ]
+  },
+  {
+    "q": "Concernant les lymphocytes T matures, lesquelles sont exactes ?",
+    "options": [
+      "Ils représentent 5% des thymocytes",
+      "Ils quittent le thymus vers la périphérie",
+      "Ils gagnent les organes lymphoïdes secondaires",
+      "Ils restent définitivement dans le thymus",
+      "Ils représentent 95% des thymocytes"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : seuls 5% des thymocytes arrivent à maturité.",
+      "Exact : les LT matures quittent le thymus.",
+      "Exact : ils rejoignent les organes périphériques.",
+      "Inexact : ils quittent le thymus vers la périphérie.",
+      "Inexact : 95% meurent par apoptose."
+    ]
+  },
+  {
+    "q": "Concernant le microenvironnement thymique, lesquelles sont exactes ?",
+    "options": [
+      "Il comprend des cellules épithéliales",
+      "Il permet la maturation des thymocytes",
+      "Il est identique à celui de la moelle osseuse",
+      "Il favorise la double sélection",
+      "Il est inutile à la maturation T"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : le thymus est un organe lympho-épithélial.",
+      "Exact : il permet la maturation des thymocytes.",
+      "Inexact : chaque organe à son microenvironnement propre.",
+      "Exact : la double sélection s'y déroule.",
+      "Inexact : il est indispensable à la maturation T."
+    ]
+  },
+  {
+    "q": "Un déficit de la fonction thymique entraîne :",
+    "options": [
+      "Un défaut de maturation des lymphocytes T",
+      "Un déficit immunitaire T",
+      "Un excès de lymphocytes T matures",
+      "Une anomalie de la tolérance centrale",
+      "Aucune conséquence immunitaire"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : la maturation T dépend du thymus.",
+      "Exact : déficit thymique = déficit en LT.",
+      "Inexact : c'est un défaut, pas un excès.",
+      "Exact : la tolérance centrale est thymodépendante.",
+      "Inexact : les conséquences immunitaires sont majeures."
+    ]
+  },
+  {
+    "q": "Concernant le syndrome de DiGeorge, lesquelles sont exactes ?",
+    "options": [
+      "Il est lié à une hypoplasie thymique",
+      "Il entraîne un déficit en lymphocytes T",
+      "Il est lié à une anomalie du chromosome 22",
+      "Il entraîne un excès de lymphocytes B",
+      "Il n'affecte que la moelle osseuse"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : l'hypoplasie thymique caractérise le DiGeorge.",
+      "Exact : il en résulte un déficit de l'immunité T.",
+      "Exact : microdélétion 22q11 dans le DiGeorge.",
+      "Inexact : c'est un déficit T, pas un excès B.",
+      "Inexact : c'est le thymus qui est atteint."
+    ]
+  },
+  {
+    "q": "Concernant les différences entre moelle osseuse et thymus, lesquelles sont exactes ?",
+    "options": [
+      "La moelle osseuse produit les précurseurs lymphoïdes",
+      "Le thymus assure la maturation des lymphocytes T",
+      "Les deux sont des organes lymphoïdes primaires",
+      "Le thymus produit les cellules souches hématopoïétiques",
+      "La moelle osseuse assure la sélection des lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la MO produit les précurseurs.",
+      "Exact : le thymus mature les LT.",
+      "Exact : MO + thymus = organes primaires.",
+      "Inexact : les CSH sont produites dans la MO.",
+      "Inexact : la sélection T est thymique."
+    ]
+  },
+  {
+    "q": "Concernant les précurseurs T, lesquelles sont exactes ?",
+    "options": [
+      "Ils naissent dans la moelle osseuse",
+      "Ils migrent vers le thymus",
+      "Ils maturent dans le thymus",
+      "Ils maturent dans la rate",
+      "Ils naissent dans le thymus"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les précurseurs T naissent dans la MO.",
+      "Exact : ils migrent vers le thymus.",
+      "Exact : leur maturation est thymique.",
+      "Inexact : la rate est un organe secondaire.",
+      "Inexact : ils naissent dans la MO."
+    ]
+  },
+  {
+    "q": "Concernant le thymus, lesquelles sont exactes ?",
+    "options": [
+      "C'est un organe lympho-épithélial du médiastin antérieur",
+      "95% des thymocytes y meurent par apoptose",
+      "Les lymphocytes T matures rejoignent la périphérie",
+      "C'est un organe lymphoïde secondaire",
+      "Les lymphocytes B y subissent leur maturation"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : organe lympho-épithélial du médiastin antérieur.",
+      "Exact : 95% d'apoptose intrathymique.",
+      "Exact : 5% de LT matures gagnent la périphérie.",
+      "Inexact : le thymus est un organe primaire.",
+      "Inexact : les LB maturent dans la MO."
+    ]
+  },
+  {
+    "q": "Concernant la formation de la lymphe, lesquelles sont exactes ?",
+    "options": [
+      "La pression sanguine fait filtrer le plasma à travers les capillaires vers les tissus",
+      "Le filtrat forme le liquide interstitiel",
+      "Une partie du liquide retourne à la circulation par les capillaires sanguins",
+      "La quantité restante est appelée lymphe",
+      "La lymphe se forme à l'intérieur des vaisseaux sanguins"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : le plasma filtre sous l'effet de la pression sanguine.",
+      "Exact : ce filtrat constitué le liquide interstitiel.",
+      "Exact : une partie est réabsorbée par les capillaires.",
+      "Exact : le reste forme la lymphe.",
+      "Inexact : la lymphe se forme dans les tissus, pas dans les vaisseaux."
+    ]
+  },
+  {
+    "q": "Concernant la circulation de la lymphe, lesquelles sont exactes ?",
+    "options": [
+      "La lymphe est absorbée par les capillaires lymphatiques",
+      "Elle circule dans les vaisseaux lymphatiques",
+      "Elle rejoint le canal thoracique",
+      "Le canal thoracique se jette dans la veine sous-clavière gauche",
+      "Elle se jette directement dans l'aorte"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : absorption par les capillaires lymphatiques.",
+      "Exact : circulation dans les vaisseaux lymphatiques.",
+      "Exact : drainage vers le canal thoracique.",
+      "Exact : le canal thoracique s'abouche à la veine sous-clavière gauche.",
+      "Inexact : pas de déversement direct dans l'aorte."
+    ]
+  },
+  {
+    "q": "Les rôles de la lymphe incluent :",
+    "options": [
+      "Capter les antigènes arrivant dans les tissus",
+      "Amener les antigènes vers les organes lymphoïdes périphériques",
+      "Transporter les lymphocytes des tissus conjonctifs vers les organes lymphoïdes périphériques",
+      "Transporter l'oxygène vers les tissus",
+      "Filtrer les antigènes du sang"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la lymphe capte les Ag tissulaires.",
+      "Exact : elle les amène aux organes périphériques.",
+      "Exact : elle transporte les lymphocytes vers ces organes.",
+      "Inexact : l'oxygène est transporte par le sang.",
+      "Inexact : la filtration du sang est le rôle de la rate."
+    ]
+  },
+  {
+    "q": "Concernant le canal thoracique, lesquelles sont exactes ?",
+    "options": [
+      "Il draine la lymphe vers la circulation sanguine",
+      "Il se jette dans la veine sous-clavière gauche",
+      "Il vehicule les antigènes tissulaires vers le sang",
+      "Il naît dans la moelle osseuse",
+      "Il se jette dans la veine cave inférieure"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : il ramène la lymphe dans le sang.",
+      "Exact : abouchement à la veine sous-clavière gauche.",
+      "Exact : la lymphe transporte les Ag tissulaires.",
+      "Inexact : il naît de la confluence des troncs lymphatiques.",
+      "Inexact : pas d'abouchement à la veine cave inférieure."
+    ]
+  },
+  {
+    "q": "Concernant le liquide interstitiel, lesquelles sont exactes ?",
+    "options": [
+      "Il provient de la filtration du plasma à travers les capillaires sanguins",
+      "Il retourne en partie dans les capillaires sanguins",
+      "Sa partie restante donne naissance à la lymphe",
+      "Il est identique au plasma",
+      "Il circule dans les vaisseaux lymphatiques"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : il résulte de la filtration du plasma.",
+      "Exact : réabsorption partielle par les capillaires.",
+      "Exact : le reste devient la lymphe.",
+      "Inexact : sa composition diffère de celle du plasma.",
+      "Inexact : c'est la lymphe qui circule dans les vaisseaux lymphatiques."
+    ]
+  },
+  {
+    "q": "Concernant les capillaires lymphatiques, lesquelles sont exactes ?",
+    "options": [
+      "Ils absorbent la lymphe des tissus",
+      "Ils sont le point de départ de la circulation lymphatique",
+      "Ils transportent le sang oxygène",
+      "Ils entourent les follicules lymphoïdes",
+      "Ils débouchent dans les artères"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : ils absorbent la lymphe tissulaire.",
+      "Exact : ils initient la circulation lymphatique.",
+      "Inexact : ils ne transportent pas de sang.",
+      "Exact : un réseau de capillaires lymphatiques entoure les follicules.",
+      "Inexact : ils convergent vers les vaisseaux lymphatiques."
+    ]
+  },
+  {
+    "q": "Concernant les vaisseaux lymphatiques, lesquelles sont exactes ?",
+    "options": [
+      "Ils acheminent la lymphe vers le canal thoracique",
+      "Les ganglions sont branchés le long de leur trajet",
+      "Ils transportent les antigènes captés dans les tissus",
+      "Ils transportent le sang veineux",
+      "Ils naissent dans le thymus"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : ils drainent vers le canal thoracique.",
+      "Exact : les ganglions sont branchés sur leur trajet.",
+      "Exact : ils vehiculent les Ag tissulaires.",
+      "Inexact : ils transportent la lymphe, pas le sang.",
+      "Inexact : ils naissent des capillaires lymphatiques."
+    ]
+  },
+  {
+    "q": "Concernant la recirculation des lymphocytes, lesquelles sont exactes ?",
+    "options": [
+      "Elle fait passer les lymphocytes du sang vers la lymphe",
+      "Elle fait intervenir les veinules endothéliales hautes (HEV)",
+      "Elle relie les organes lymphoïdes entre eux",
+      "C'est un phénomène inexistant",
+      "Elle se fait uniquement par voie nerveuse"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les lymphocytes passent du sang vers la lymphe.",
+      "Exact : les HEV sont la porte d'entrée ganglionnaire.",
+      "Exact : elle relie les organes du SI.",
+      "Inexact : la recirculation lymphocytaire est permanente.",
+      "Inexact : elle emprunte les circulations sanguine et lymphatique."
+    ]
+  },
+  {
+    "q": "Concernant la lymphe, lesquelles sont exactes ?",
+    "options": [
+      "C'est le moyen de transport des lymphocytes vers les organes lymphoïdes périphériques",
+      "Elle capte les antigènes des tissus",
+      "Elle est filtrée par les ganglions lymphatiques",
+      "Elle contient des globules rouges en grand nombre",
+      "Elle est identique au sang"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : elle transporte les lymphocytes vers les organes périphériques.",
+      "Exact : elle capte les Ag tissulaires.",
+      "Exact : les ganglions filtrent la lymphe afférente.",
+      "Inexact : la lymphe ne contient pas de GR.",
+      "Inexact : lymphe et sang sont différents."
+    ]
+  },
+  {
+    "q": "Concernant la veine sous-clavière gauche, lesquelles sont exactes ?",
+    "options": [
+      "Elle reçoit le canal thoracique",
+      "Elle marque le retour de la lymphe dans la circulation sanguine",
+      "Elle reçoit directement les cellules de la moelle osseuse",
+      "Elle draine la lymphe du membre supérieur droit",
+      "Elle fait partie de la circulation veineuse systémique"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : le canal thoracique s'y jette.",
+      "Exact : c'est le point de retour lympho-veineux.",
+      "Inexact : pas de liaison directe avec la MO.",
+      "Inexact : le membre supérieur droit est draine par la grande veine lymphatique.",
+      "Exact : c'est une veine systémique."
+    ]
+  },
+  {
+    "q": "Concernant l'organisation du système lymphatique en périphérie, lesquelles sont exactes ?",
+    "options": [
+      "Le plasma filtre vers les tissus sous l'effet de la pression sanguine",
+      "La lymphe est absorbée par les capillaires lymphatiques",
+      "Les organes lymphoïdes périphériques reçoivent la lymphe chargée d'antigènes",
+      "Le sang filtre directement dans les ganglions",
+      "La lymphe ne joue aucun rôle immunitaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : filtration du plasma vers les tissus.",
+      "Exact : absorption par les capillaires lymphatiques.",
+      "Exact : les organes périphériques reçoivent les Ag via la lymphe.",
+      "Inexact : les ganglions reçoivent la lymphe, pas le sang filtre.",
+      "Inexact : la lymphe à un rôle immunitaire majeur."
+    ]
+  },
+  {
+    "q": "Concernant les antigènes tissulaires, lesquelles sont exactes ?",
+    "options": [
+      "Ils sont captés par la lymphe",
+      "Ils sont amenés vers les organes lymphoïdes périphériques",
+      "Ils y rencontrent les lymphocytes",
+      "Ils sont détruits dans les capillaires sanguins",
+      "Ils ne quittent jamais les tissus"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la lymphe capte les Ag des tissus.",
+      "Exact : ils sont conduits aux organes périphériques.",
+      "Exact : la rencontre avec les lymphocytes s'y produit.",
+      "Inexact : ils sont présentes aux lymphocytes, pas détruits dans les capillaires.",
+      "Inexact : ils sont drainés par la lymphe."
+    ]
+  },
+  {
+    "q": "Concernant le drainage lymphatique, lesquelles sont exactes ?",
+    "options": [
+      "Chaque territoire tissulaire est draine vers des ganglions",
+      "La lymphe circule des tissus vers le canal thoracique",
+      "Les ganglions filtrent la lymphe avant son retour sanguin",
+      "La lymphe circule du canal thoracique vers les tissus",
+      "Il n'existe pas de circulation lymphatique"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : drainage territorial vers les ganglions.",
+      "Exact : sens tissus vers canal thoracique.",
+      "Exact : filtration ganglionnaire de la lymphe.",
+      "Inexact : le sens est inverse.",
+      "Inexact : la circulation lymphatique existe bien."
+    ]
+  },
+  {
+    "q": "Concernant l'œdème en lien avec la lymphe, lesquelles sont exactes ?",
+    "options": [
+      "Il peut résulter d'un obstacle à la circulation lymphatique",
+      "Il correspond à une accumulation de liquide interstitiel",
+      "La filariose lymphatique en est une cause",
+      "Il est toujours d'origine cardiaque",
+      "Il n'a aucun lien avec le système lymphatique"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : l'obstacle lymphatique provoque un lymphœdème.",
+      "Exact : l'œdème = accumulation de liquide interstitiel.",
+      "Exact : la filariose cause un éléphantiasis.",
+      "Inexact : les causes sont multiples, pas seulement cardiaques.",
+      "Inexact : le système lymphatique draine le liquide interstitiel."
+    ]
+  },
+  {
+    "q": "Concernant les circulations reliant les organes du système immunitaire, lesquelles sont exactes ?",
+    "options": [
+      "La circulation lymphatique transporte les antigènes tissulaires",
+      "La circulation sanguine transporte les antigènes vers la rate",
+      "Les lymphocytes recirculent entre le sang et la lymphe",
+      "Les deux circulations sont totalement indépendantes",
+      "Le canal thoracique relie la lymphe au sang"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Exact : la lymphe vehicule les Ag des tissus.",
+      "Exact : le sang amène les Ag à la rate.",
+      "Exact : recirculation permanente des lymphocytes.",
+      "Inexact : elles communiquent via le canal thoracique.",
+      "Exact : abouchement lympho-veineux."
+    ]
+  },
+  {
+    "q": "Le follicule lymphoïde est constitué de :",
+    "options": [
+      "Un réseau de capillaires lymphatiques",
+      "Un agrégat de cellules dendritiques folliculaires",
+      "Un agrégat de lymphocytes B",
+      "Un agrégat de polynucléaires",
+      "Un réseau de fibres musculaires"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les capillaires lymphatiques entourent le follicule.",
+      "Exact : agrégat de DC folliculaires.",
+      "Exact : agrégat de LB.",
+      "Inexact : pas de polynucléaires dans le follicule.",
+      "Inexact : pas de fibres musculaires."
+    ]
+  },
+  {
+    "q": "Concernant le follicule primaire, lesquelles sont exactes ?",
+    "options": [
+      "Il correspond au follicule au repos",
+      "Il contient des LB, des macrophages et des DC folliculaires",
+      "Il possède un centre germinatif développé",
+      "Il se trouve dans la zone corticale des ganglions",
+      "Il apparaît après stimulation antigenique"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : le follicule primaire = follicule au repos.",
+      "Exact : LB, macrophages et DC folliculaires.",
+      "Inexact : le centre germinatif caractérise le follicule secondaire.",
+      "Exact : les follicules primaires siègent dans la corticale.",
+      "Inexact : la stimulation donne le follicule secondaire."
+    ]
+  },
+  {
+    "q": "Concernant le follicule secondaire, lesquelles sont exactes ?",
+    "options": [
+      "Il apparaît après stimulation antigenique",
+      "Il est formé de LB en anneau concentrique",
+      "Il entoure un centre germinatif",
+      "Il est identique au follicule primaire",
+      "Il ne contient aucun lymphocyte B"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : le follicule secondaire fait suite à la stimulation.",
+      "Exact : LB disposés en anneau concentrique.",
+      "Exact : l'anneau entoure le centre germinatif.",
+      "Inexact : il diffère du follicule primaire par le centre germinatif.",
+      "Inexact : il est formé de LB."
+    ]
+  },
+  {
+    "q": "Concernant le centre germinatif, lesquelles sont exactes ?",
+    "options": [
+      "Il est formé de LB au repos ou actives",
+      "Il contient un taux élevé de cellules dendritiques",
+      "Il contient des macrophages",
+      "Il est entoure de LB en anneau concentrique",
+      "C'est une zone de la moelle osseuse"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : LB au repos ou actives dans le centre germinatif.",
+      "Exact : taux élevé de DC.",
+      "Exact : présence de macrophages.",
+      "Exact : l'anneau de LB entoure le centre germinatif.",
+      "Inexact : il se forme dans les organes secondaires."
+    ]
+  },
+  {
+    "q": "Concernant les organes lymphoïdes secondaires les plus organisés, lesquelles sont exactes ?",
+    "options": [
+      "Les ganglions lymphatiques",
+      "La rate",
+      "Le thymus",
+      "La moelle osseuse",
+      "Le MALT diffus"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Exact : les ganglions sont parmi les plus organisés.",
+      "Exact : la rate est parmi les plus organisées.",
+      "Inexact : le thymus est un organe primaire.",
+      "Inexact : la MO est un organe primaire.",
+      "Inexact : le MALT diffus est moins organisé."
+    ]
+  },
+  {
+    "q": "Concernant les ganglions lymphatiques, lesquelles sont exactes ?",
+    "options": [
+      "Ils sont au nombre d'environ 1000 dans l'organisme",
+      "Ils sont répartis en différents points de l'organisme",
+      "Ce sont des organes lymphoïdes secondaires",
+      "Ce sont des organes lymphoïdes primaires",
+      "Ils sont uniques dans l'organisme"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : environ 1000 ganglions.",
+      "Exact : répartis dans tout l'organisme.",
+      "Exact : organes lymphoïdes secondaires.",
+      "Inexact : ils ne sont pas primaires.",
+      "Inexact : ils sont nombreux."
+    ]
+  },
+  {
+    "q": "Les ganglions superficiels comprennent :",
+    "options": [
+      "Les ganglions cervicaux",
+      "Les ganglions axillaires",
+      "Les ganglions inguinaux",
+      "Les ganglions médiastinaux",
+      "Les ganglions abdominaux"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les cervicaux sont superficiels.",
+      "Exact : les axillaires sont superficiels.",
+      "Exact : les inguinaux sont superficiels.",
+      "Inexact : les médiastinaux sont profonds.",
+      "Inexact : les abdominaux sont profonds."
+    ]
+  },
+  {
+    "q": "Les ganglions profonds comprennent :",
+    "options": [
+      "Les ganglions médiastinaux",
+      "Les ganglions abdominaux",
+      "Les ganglions cervicaux",
+      "Les ganglions axillaires",
+      "Les ganglions mésentériques"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : les médiastinaux sont profonds.",
+      "Exact : les abdominaux sont profonds.",
+      "Inexact : les cervicaux sont superficiels.",
+      "Inexact : les axillaires sont superficiels.",
+      "Exact : les mésentériques sont des ganglions profonds."
+    ]
+  },
+  {
+    "q": "Concernant la morphologie des ganglions, lesquelles sont exactes ?",
+    "options": [
+      "Structure globuleuse ou reniforme",
+      "Présence d'une dépression : le hile",
+      "Forme strictement sphérique et constante",
+      "Absence de hile",
+      "Taille invariable quelle que soit la stimulation"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Exact : forme globuleuse ou reniforme.",
+      "Exact : le hile est la dépression caractéristique.",
+      "Inexact : la forme n'est pas strictement sphérique.",
+      "Inexact : le hile existe.",
+      "Inexact : la taille augmente avec la stimulation."
+    ]
+  },
+  {
+    "q": "Concernant les ganglions lymphatiques, lesquelles sont exactes ?",
+    "options": [
+      "Ils sont branchés le long du système circulatoire lymphatique",
+      "Ils sont le lieu où se déroulent les réponses immunitaires",
+      "Ils filtrent la lymphe afférente",
+      "Ils sont branchés sur la circulation sanguine artérielle",
+      "Ils sont traversés par le canal thoracique"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : branchés sur la circulation lymphatique.",
+      "Exact : lieu de déclenchement des RI.",
+      "Exact : filtration de la lymphe afférente.",
+      "Inexact : ils sont sur la voie lymphatique.",
+      "Inexact : le canal thoracique ne les traverse pas."
+    ]
+  },
+  {
+    "q": "Concernant le sinus capsulaire du ganglion, lesquelles sont exactes ?",
+    "options": [
+      "Il entoure le ganglion",
+      "Il envoie des travées divisant l'organe en lobules",
+      "Les travées sont aussi appelées septa",
+      "Il est situé au centre du ganglion",
+      "Il n'existe pas"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : le sinus capsulaire entoure le ganglion.",
+      "Exact : ses travées divisent l'organe en lobules.",
+      "Exact : travées = septa.",
+      "Inexact : il est périphérique, pas central.",
+      "Inexact : il existe bien."
+    ]
+  },
+  {
+    "q": "Le parenchyme ganglionnaire comprend :",
+    "options": [
+      "Une zone corticale",
+      "Une zone para-corticale",
+      "Une zone médullaire",
+      "Une pulpe rouge",
+      "Une zone marginale"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la zone corticale fait partie du parenchyme.",
+      "Exact : la zone para-corticale fait partie du parenchyme.",
+      "Exact : la zone médullaire fait partie du parenchyme.",
+      "Inexact : la pulpe rouge appartient à la rate.",
+      "Inexact : la zone marginale appartient à la rate."
+    ]
+  },
+  {
+    "q": "La zone corticale du ganglion (aire B) :",
+    "options": [
+      "Elle contient surtout des lymphocytes B",
+      "Elle contient des macrophages",
+      "Elle contient des cellules dendritiques folliculaires",
+      "Elle forme des follicules primaires",
+      "Elle contient surtout des lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : la corticale est l'aire B.",
+      "Exact : présence de macrophages.",
+      "Exact : présence de DC folliculaires.",
+      "Exact : les follicules primaires y siègent.",
+      "Inexact : les LT siègent dans la para-corticale."
+    ]
+  },
+  {
+    "q": "La zone para-corticale du ganglion (aire T) :",
+    "options": [
+      "Elle est le siège des lymphocytes T",
+      "Elle contient des cellules dendritiques interdigitées",
+      "Elle contient les veinules endothéliales hautes (HEV)",
+      "Elle contient surtout des lymphocytes B",
+      "Elle forme des follicules primaires"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la para-corticale est l'aire T.",
+      "Exact : DC interdigitées dans la para-corticale.",
+      "Exact : les HEV y siègent.",
+      "Inexact : les LB siègent dans la corticale.",
+      "Inexact : les follicules primaires sont corticaux."
+    ]
+  },
+  {
+    "q": "La zone médullaire du ganglion :",
+    "options": [
+      "Elle contient peu de lymphocytes",
+      "Elle contient quelques plasmocytes",
+      "Elle contient quelques macrophages",
+      "Elle est la zone la plus riche en lymphocytes B",
+      "Elle contient les HEV"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la médullaire est pauvre en lymphocytes.",
+      "Exact : présence de plasmocytes.",
+      "Exact : présence de macrophages.",
+      "Inexact : la corticale est la plus riche en LB.",
+      "Inexact : les HEV sont para-corticales."
+    ]
+  },
+  {
+    "q": "Concernant les veinules endothéliales hautes (HEV), lesquelles sont exactes ?",
+    "options": [
+      "Elles se trouvent dans la zone para-corticale",
+      "Elles jouent un rôle clé dans la recirculation des lymphocytes du sang vers la lymphe",
+      "Ce sont des capillaires sanguins différenciés",
+      "Elles se trouvent dans la pulpe rouge de la rate",
+      "Elles transportent la lymphe afférente"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les HEV siègent dans la para-corticale.",
+      "Exact : elles permettent la recirculation sang-lympe.",
+      "Exact : ce sont des veinules capillaires différenciées.",
+      "Inexact : pas de HEV dans la rate.",
+      "Inexact : elles vehiculent le sang, pas la lymphe."
+    ]
+  },
+  {
+    "q": "Concernant les vaisseaux lymphatiques afférents du ganglion, lesquelles sont exactes ?",
+    "options": [
+      "Ils déversent la lymphe ayant capté l'antigène",
+      "Ils abordent le ganglion au niveau de la corticale",
+      "Ils permettent la réaction entre l'antigène et les lymphocytes",
+      "Ils quittent le ganglion par le hile",
+      "Ils transportent le sang vers le ganglion"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la lymphe chargée d'Ag arrive par les afférents.",
+      "Exact : déversement au niveau cortical.",
+      "Exact : déclenchement de la réaction Ag-lymphocytes.",
+      "Inexact : c'est le vaisseau efférent qui sort par le hile.",
+      "Inexact : ils transportent la lymphe."
+    ]
+  },
+  {
+    "q": "Concernant l'irrigation sanguine des ganglions, lesquelles sont exactes ?",
+    "options": [
+      "Elle forme un réseau de capillaires",
+      "Elle pénètre par le hile",
+      "Elle permet l'arrivée des lymphocytes via les HEV",
+      "Elle est absente",
+      "Elle se fait par l'artère splénique"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : réseau capillaire sanguin dans le ganglion.",
+      "Exact : pénétration vasculaire par le hile.",
+      "Exact : les lymphocytes entrent via les HEV.",
+      "Inexact : les ganglions sont vascularisés.",
+      "Inexact : l'artère splénique vascularise la rate."
+    ]
+  },
+  {
+    "q": "Concernant les cellules dendritiques folliculaires, lesquelles sont exactes ?",
+    "options": [
+      "Elles se trouvent dans la zone corticale",
+      "Elles présentent l'antigène aux lymphocytes B",
+      "Elles forment des follicules avec les LB",
+      "Elles se trouvent dans la zone para-corticale",
+      "Elles présentent l'antigène aux lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : DC folliculaires dans la corticale.",
+      "Exact : présentation aux LB.",
+      "Exact : elles structurent les follicules avec les LB.",
+      "Inexact : la para-corticale contient les DC interdigitées.",
+      "Inexact : la présentation aux LT est le rôle des DC interdigitées."
+    ]
+  },
+  {
+    "q": "Concernant les cellules dendritiques interdigitées, lesquelles sont exactes ?",
+    "options": [
+      "Elles se trouvent dans la zone para-corticale",
+      "Elles présentent l'antigène aux lymphocytes T",
+      "Elles se trouvent dans la pulpe blanche de la rate",
+      "Elles présentent l'antigène aux lymphocytes B",
+      "Elles se trouvent dans la zone corticale"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : DC interdigitées dans la para-corticale.",
+      "Exact : présentation aux LT.",
+      "Exact : elles peuplent aussi la pulpe blanche (PALS).",
+      "Inexact : la présentation aux LB est le rôle des DC folliculaires.",
+      "Inexact : la corticale contient les DC folliculaires."
+    ]
+  },
+  {
+    "q": "Concernant les plasmocytes dans le ganglion, lesquelles sont exactes ?",
+    "options": [
+      "Ils se trouvent dans la zone médullaire",
+      "Ils dérivent des lymphocytes B actives",
+      "Ils produisent des anticorps",
+      "Ils se trouvent dans la zone corticale",
+      "Ce sont des lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : plasmocytes dans la médullaire.",
+      "Exact : ils dérivent des LB actives.",
+      "Exact : ils sécrètent des anticorps.",
+      "Inexact : la corticale est le domaine des LB.",
+      "Inexact : ce sont des cellules de lignée B."
+    ]
+  },
+  {
+    "q": "Concernant une adénopathie, lesquelles sont exactes ?",
+    "options": [
+      "Elle correspond à une augmentation de volume d'un ganglion",
+      "Elle peut traduire une réponse immunitaire",
+      "Les ganglions cervicaux et axillaires sont facilement palpables",
+      "Elle est toujours d'origine tumorale",
+      "Elle ne concerne jamais les ganglions profonds"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : adénopathie = ganglion augmente de volume.",
+      "Exact : elle traduit souvent une RI.",
+      "Exact : les ganglions superficiels sont palpables.",
+      "Inexact : les causes infectieuses sont fréquentes.",
+      "Inexact : les ganglions profonds peuvent être atteints."
+    ]
+  },
+  {
+    "q": "Concernant la réaction antigène-lymphocyte dans le ganglion, lesquelles sont exactes ?",
+    "options": [
+      "Elle a lieu après déversement de la lymphe par les vaisseaux afférents",
+      "Les LB reconnaissent l'antigène dans la zone corticale",
+      "Les LT sont actives dans la zone para-corticale",
+      "Elle a lieu dans la moelle osseuse",
+      "Elle ne nécessite aucune cellule présentatrice"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la lymphe afférente déclenche la réaction.",
+      "Exact : les LB corticaux reconnaissent l'Ag.",
+      "Exact : activation des LT en para-corticale.",
+      "Inexact : la MO est un organe primaire.",
+      "Inexact : les DC présentent l'Ag aux lymphocytes."
+    ]
+  },
+  {
+    "q": "Concernant le hile du ganglion, lesquelles sont exactes ?",
+    "options": [
+      "C'est une dépression de l'organe",
+      "Il donne passage aux vaisseaux sanguins",
+      "Il donne passage au vaisseau lymphatique efférent",
+      "Il reçoit les vaisseaux lymphatiques afférents",
+      "Il n'existe pas dans le ganglion"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : le hile est la dépression du ganglion.",
+      "Exact : les vaisseaux sanguins y pénètrent.",
+      "Exact : le lymphatique efférent en sort.",
+      "Inexact : les afférents abordent la convexité.",
+      "Inexact : le hile existe."
+    ]
+  },
+  {
+    "q": "Concernant les zones du ganglion, lesquelles sont exactes ?",
+    "options": [
+      "La corticale est l'aire B",
+      "La para-corticale est l'aire T",
+      "La médullaire contient plasmocytes et macrophages",
+      "La corticale est l'aire T",
+      "La para-corticale contient des follicules primaires"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : corticale = aire B.",
+      "Exact : para-corticale = aire T.",
+      "Exact : médullaire = plasmocytes et macrophages.",
+      "Inexact : la corticale est l'aire B.",
+      "Inexact : les follicules primaires sont corticaux."
+    ]
+  },
+  {
+    "q": "Concernant les lymphocytes dans le ganglion, lesquelles sont exactes ?",
+    "options": [
+      "Les LB siègent surtout dans la corticale",
+      "Les LT siègent surtout dans la para-corticale",
+      "Ils recirculent via les HEV",
+      "Les LB siègent dans la médullaire",
+      "Ils sont produits dans le ganglion"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les LB sont corticaux.",
+      "Exact : les LT sont para-corticaux.",
+      "Exact : entrée via les HEV.",
+      "Inexact : la médullaire est pauvre en lymphocytes.",
+      "Inexact : ils sont produits dans la MO."
+    ]
+  },
+  {
+    "q": "Concernant la structure du ganglion, lesquelles sont exactes ?",
+    "options": [
+      "Le sinus capsulaire envoie des travées",
+      "Les travées divisent l'organe en lobules",
+      "Le parenchyme comprend trois zones",
+      "Le ganglion ne possède pas de capsule",
+      "Le parenchyme est homogène sans zonation"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : travées issues du sinus capsulaire.",
+      "Exact : division en lobules.",
+      "Exact : corticale, para-corticale, médullaire.",
+      "Inexact : le ganglion possède une capsule.",
+      "Inexact : le parenchyme est zone."
+    ]
+  },
+  {
+    "q": "Concernant la lymphadénite, lesquelles sont exactes ?",
+    "options": [
+      "C'est une inflammation des ganglions",
+      "Elle s'accompagne souvent d'adénopathie douloureuse",
+      "Elle peut faire suite à une infection du territoire draine",
+      "C'est une tumeur maligne des ganglions",
+      "Elle ne concerne que la rate"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : lymphadénite = inflammation ganglionnaire.",
+      "Exact : adénopathie douloureuse fréquente.",
+      "Exact : infection du territoire draine.",
+      "Inexact : ce n'est pas une tumeur.",
+      "Inexact : elle concerne les ganglions."
+    ]
+  },
+  {
+    "q": "Concernant les macrophages du ganglion, lesquelles sont exactes ?",
+    "options": [
+      "Ils se trouvent dans la zone corticale",
+      "Ils se trouvent dans la zone médullaire",
+      "Ils phagocytent les antigènes et les débris",
+      "Ce sont des lymphocytes",
+      "Ils produisent des anticorps"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : macrophages dans la corticale.",
+      "Exact : macrophages dans la médullaire.",
+      "Exact : rôle de phagocytose.",
+      "Inexact : ce ne sont pas des lymphocytes.",
+      "Inexact : les anticorps sont produits par les plasmocytes."
+    ]
+  },
+  {
+    "q": "Concernant les ganglions, lesquelles sont exactes ?",
+    "options": [
+      "Ce sont des organes lymphoïdes secondaires",
+      "Ils sont le lieu de la rencontre lymphocyte-antigène",
+      "Ils filtrent la lymphe des territoires drainés",
+      "Ce sont des organes lymphoïdes primaires",
+      "Ils filtrent le sang"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : organes lymphoïdes secondaires.",
+      "Exact : rencontre lymphocyte-Ag.",
+      "Exact : filtration de la lymphe.",
+      "Inexact : ils ne sont pas primaires.",
+      "Inexact : la filtration du sang est le rôle de la rate."
+    ]
+  },
+  {
+    "q": "Concernant le réseau capillaire sanguin du ganglion, lesquelles sont exactes ?",
+    "options": [
+      "Il irrigue le parenchyme ganglionnaire",
+      "Il se différencie en HEV dans la para-corticale",
+      "Il permet l'entrée des lymphocytes circulants",
+      "Il transporte la lymphe",
+      "Il est absent du ganglion"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : irrigation du parenchyme.",
+      "Exact : différenciation en HEV en para-corticale.",
+      "Exact : porte d'entrée des lymphocytes.",
+      "Inexact : il transporte le sang.",
+      "Inexact : il est bien présent."
+    ]
+  },
+  {
+    "q": "Concernant la corticale ganglionnaire, lesquelles sont exactes ?",
+    "options": [
+      "Elle contient des follicules lymphoïdes primaires",
+      "Elle est peuplée majoritairement de LB",
+      "Elle reçoit la lymphe des vaisseaux afférents",
+      "Elle est l'aire T",
+      "Elle contient les HEV"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : follicules primaires corticaux.",
+      "Exact : prédominance des LB.",
+      "Exact : déversement de la lymphe afférente.",
+      "Inexact : l'aire T est la para-corticale.",
+      "Inexact : les HEV sont para-corticales."
+    ]
+  },
+  {
+    "q": "Concernant la para-corticale, lesquelles sont exactes ?",
+    "options": [
+      "C'est l'aire T du ganglion",
+      "Elle contient des DC interdigitées",
+      "Elle contient les HEV",
+      "C'est l'aire B du ganglion",
+      "Elle contient des follicules primaires"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : para-corticale = aire T.",
+      "Exact : DC interdigitées.",
+      "Exact : HEV.",
+      "Inexact : l'aire B est la corticale.",
+      "Inexact : les follicules sont corticaux."
+    ]
+  },
+  {
+    "q": "Concernant le lymphome, lesquelles sont exactes ?",
+    "options": [
+      "C'est une prolifération tumorale du tissu lymphoïde",
+      "Il peut se révéler par des adénopathies",
+      "Il peut toucher les ganglions",
+      "C'est une infection bactérienne",
+      "Il touche uniquement la moelle osseuse"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : le lymphome est une tumeur du tissu lymphoïde.",
+      "Exact : adénopathies révélatrices fréquentes.",
+      "Exact : atteinte ganglionnaire possible.",
+      "Inexact : ce n'est pas une infection.",
+      "Inexact : il peut toucher les ganglions."
+    ]
+  },
+  {
+    "q": "Concernant les ganglions lymphatiques, lesquelles sont exactes ?",
+    "options": [
+      "Ils sont branchés sur la circulation lymphatique",
+      "La lymphe y est déversée par les vaisseaux afférents",
+      "Les lymphocytes y recirculent via les HEV",
+      "Ils produisent les cellules souches hématopoïétiques",
+      "Ils sont le siège de la maturation des lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : branchés sur la voie lymphatique.",
+      "Exact : déversement par les afférents.",
+      "Exact : recirculation via les HEV.",
+      "Inexact : les CSH sont produites dans la MO.",
+      "Inexact : la maturation T est thymique."
+    ]
+  },
+  {
+    "q": "Concernant la zone médullaire, lesquelles sont exactes ?",
+    "options": [
+      "Elle contient peu de lymphocytes",
+      "Elle contient des plasmocytes",
+      "Elle contient des macrophages",
+      "Elle est l'aire B du ganglion",
+      "Elle contient des follicules primaires"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : médullaire pauvre en lymphocytes.",
+      "Exact : présence de plasmocytes.",
+      "Exact : présence de macrophages.",
+      "Inexact : l'aire B est la corticale.",
+      "Inexact : les follicules sont corticaux."
+    ]
+  },
+  {
+    "q": "Concernant les lobules ganglionnaires, lesquelles sont exactes ?",
+    "options": [
+      "Ils sont délimités par les travées du sinus capsulaire",
+      "Ils contiennent les trois zones du parenchyme",
+      "Ils sont séparés par des septa",
+      "Ils n'existent pas",
+      "Ce sont des lobules hépatiques"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : délimités par les travées capsulaires.",
+      "Exact : chaque lobule contient les trois zones.",
+      "Exact : travées = septa.",
+      "Inexact : ils existent.",
+      "Inexact : ce sont des lobules ganglionnaires."
+    ]
+  },
+  {
+    "q": "Concernant la filtration ganglionnaire, lesquelles sont exactes ?",
+    "options": [
+      "La lymphe afférente traverse le sinus capsulaire",
+      "Les antigènes y sont captés par les macrophages",
+      "La lymphe efférente quitte le ganglion par le hile",
+      "Le sang est filtre par le ganglion",
+      "La lymphe ne subit aucune modification"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la lymphe chemine dans les sinus.",
+      "Exact : capture antigenique par les macrophages.",
+      "Exact : sortie par le vaisseau efférent au hile.",
+      "Inexact : le ganglion filtre la lymphe.",
+      "Inexact : la lymphe est épurée de ses antigènes."
+    ]
+  },
+  {
+    "q": "Concernant les ganglions cervicaux, lesquelles sont exactes ?",
+    "options": [
+      "Ce sont des ganglions superficiels",
+      "Ils drainent la tête et le cou",
+      "Ils sont palpables",
+      "Ce sont des ganglions profonds",
+      "Ils drainent le membre inférieur"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : ganglions superficiels.",
+      "Exact : drainage de la tête et du cou.",
+      "Exact : palpables à l'examen.",
+      "Inexact : ils sont superficiels.",
+      "Inexact : le membre inférieur est draine par les inguinaux."
+    ]
+  },
+  {
+    "q": "Concernant les ganglions axillaires et inguinaux, lesquelles sont exactes ?",
+    "options": [
+      "Ce sont des ganglions superficiels",
+      "Les axillaires drainent le membre supérieur",
+      "Les inguinaux drainent le membre inférieur",
+      "Ce sont des organes lymphoïdes primaires",
+      "Ils sont situés dans le médiastin"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : ganglions superficiels.",
+      "Exact : les axillaires drainent le membre supérieur.",
+      "Exact : les inguinaux drainent le membre inférieur.",
+      "Inexact : ce sont des organes secondaires.",
+      "Inexact : le médiastin contient des ganglions profonds."
+    ]
+  },
+  {
+    "q": "Concernant les cellules dendritiques du ganglion, lesquelles sont exactes ?",
+    "options": [
+      "Les DC folliculaires sont dans la corticale",
+      "Les DC interdigitées sont dans la para-corticale",
+      "Les DC folliculaires présentent l'antigène aux LB",
+      "Les DC interdigitées présentent l'antigène aux LT",
+      "Les deux types présentent l'antigène aux LB"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : DC folliculaires corticales.",
+      "Exact : DC interdigitées para-corticales.",
+      "Exact : les DC folliculaires présentent aux LB.",
+      "Exact : les DC interdigitées présentent aux LT.",
+      "Inexact : les DC interdigitées présentent aux LT."
+    ]
+  },
+  {
+    "q": "Concernant l'activation lymphocytaire dans le ganglion, lesquelles sont exactes ?",
+    "options": [
+      "Les LB s'activent dans la corticale",
+      "Les LT s'activent dans la para-corticale",
+      "Elle fait suite à la rencontre avec l'antigène",
+      "Elle a lieu dans la moelle osseuse",
+      "Elle ne nécessite pas d'antigène"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : activation des LB en zone corticale.",
+      "Exact : activation des LT en para-corticale.",
+      "Exact : l'Ag déclenche l'activation.",
+      "Inexact : la MO est un organe primaire.",
+      "Inexact : l'antigène est indispensable."
+    ]
+  },
+  {
+    "q": "Concernant le ganglion comme organe secondaire, lesquelles sont exactes ?",
+    "options": [
+      "Il est le lieu de déclenchement de la réponse immunitaire",
+      "Les lymphocytes y prolifèrent après activation",
+      "Les LB s'y différencient en plasmocytes",
+      "Il produit les cellules souches hématopoïétiques",
+      "Il assure la maturation des lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : déclenchement de la RI.",
+      "Exact : prolifération lymphocytaire.",
+      "Exact : différenciation des LB en plasmocytes.",
+      "Inexact : les CSH sont médullaires.",
+      "Inexact : la maturation T est thymique."
+    ]
+  },
+  {
+    "q": "Concernant les vaisseaux lymphatiques efférents, lesquelles sont exactes ?",
+    "options": [
+      "Ils quittent le ganglion par le hile",
+      "Ils transportent la lymphe filtrée",
+      "Ils sont moins nombreux que les afférents",
+      "Ils apportent la lymphe au ganglion",
+      "Ils transportent le sang"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : sortie par le hile.",
+      "Exact : ils vehiculent la lymphe filtrée.",
+      "Exact : un seul efférent pour plusieurs afférents.",
+      "Inexact : l'apport se fait par les afférents.",
+      "Inexact : ils transportent la lymphe."
+    ]
+  },
+  {
+    "q": "Synthèse sur les ganglions : lesquelles sont exactes ?",
+    "options": [
+      "Environ 1000 ganglions : cervicaux, axillaires, inguinaux en superficie",
+      "Structure globuleuse ou reniforme avec un hile",
+      "Trois zones : corticale (B), para-corticale (T), médullaire",
+      "Les HEV assurent la recirculation lymphocytaire",
+      "Ce sont des organes lymphoïdes primaires"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : 1000 ganglions dont superficiels citées.",
+      "Exact : forme globuleuse/reniforme, hile.",
+      "Exact : les trois zones et leurs aires.",
+      "Exact : les HEV permettent la recirculation.",
+      "Inexact : ce sont des organes secondaires."
+    ]
+  },
+  {
+    "q": "La rate est située :",
+    "options": [
+      "Dans l'hypochondre gauche",
+      "Entre l'estomac et le diaphragme",
+      "Dans l'hypochondre droit",
+      "Dans le médiastin antérieur",
+      "En arrière de l'estomac"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : la rate siège dans l'hypochondre gauche.",
+      "Exact : entre l'estomac et le diaphragme.",
+      "Inexact : l'hypochondre droit correspond au foie.",
+      "Inexact : le médiastin antérieur correspond au thymus.",
+      "Exact : la rate est retro-gastrique."
+    ]
+  },
+  {
+    "q": "Concernant la morphologie de la rate, lesquelles sont exactes ?",
+    "options": [
+      "Forme ovoïde",
+      "Bord antérieur crénelé",
+      "Présence d'un hile",
+      "Forme tubulaire",
+      "Absence de hile"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la rate est ovoïde.",
+      "Exact : son bord antérieur est crénelé.",
+      "Exact : elle possède un hile.",
+      "Inexact : elle n'est pas tubulaire.",
+      "Inexact : le hile existe."
+    ]
+  },
+  {
+    "q": "Concernant le hile splénique, lesquelles sont exactes ?",
+    "options": [
+      "Il donne passage à l'artère splénique",
+      "Il donne passage à la veine splénique",
+      "Il donne passage au canal thoracique",
+      "Il donne passage aux vaisseaux lymphatiques afférents",
+      "C'est une dépression de l'organe"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Exact : l'artère splénique passe par le hile.",
+      "Exact : la veine splénique passe par le hile.",
+      "Inexact : le canal thoracique ne passe pas par la rate.",
+      "Inexact : la rate ne reçoit pas de lymphatiques afférents.",
+      "Exact : le hile est la dépression splénique."
+    ]
+  },
+  {
+    "q": "Concernant la rate, lesquelles sont exactes ?",
+    "options": [
+      "C'est l'organe le plus volumineux du système immunitaire",
+      "C'est un organe lymphoïde secondaire",
+      "C'est un organe lymphoïde primaire",
+      "C'est un organe hemo-lymphatique",
+      "C'est le plus petit organe du système immunitaire"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : la rate est l'organe le plus volumineux du SI.",
+      "Exact : c'est un organe lymphoïde secondaire.",
+      "Inexact : elle n'est pas primaire.",
+      "Exact : organe hemo-lymphatique.",
+      "Inexact : c'est le plus volumineux, pas le plus petit."
+    ]
+  },
+  {
+    "q": "Concernant la vascularisation de la rate, lesquelles sont exactes ?",
+    "options": [
+      "C'est un organe très vascularisé",
+      "L'artère splénique vient directement de l'aorte",
+      "Elle est située sur la circulation sanguine et non lymphoïde",
+      "Elle est vascularisée par l'artère coronaire",
+      "Elle est peu vascularisée"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la rate est très vascularisée.",
+      "Exact : l'artère splénique naît directement de l'aorte.",
+      "Exact : elle est sur la circulation sanguine.",
+      "Inexact : l'artère coronaire vascularise le cœur.",
+      "Inexact : c'est un organe très vascularisé."
+    ]
+  },
+  {
+    "q": "Concernant la fonction de filtration de la rate, lesquelles sont exactes ?",
+    "options": [
+      "Elle filtre les antigènes venant du sang",
+      "Les antigènes microbiens du sang y sont captés",
+      "Elle filtre la lymphe des tissus",
+      "Elle élimine les globules rouges altérés",
+      "Elle produit la bile"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : filtration des Ag sanguins.",
+      "Exact : capture des Ag microbiens du sang.",
+      "Inexact : la lymphe est filtrée par les ganglions.",
+      "Exact : élimination des GR sénescents ou altérés.",
+      "Inexact : la bile est produite par le foie."
+    ]
+  },
+  {
+    "q": "Concernant la capsule splénique, lesquelles sont exactes ?",
+    "options": [
+      "Elle est fine",
+      "Elle envoie des travées délimitant des lobules",
+      "Elle entoure le parenchyme splénique",
+      "Elle est absente",
+      "Elle est épaisse et musculaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la capsule splénique est fine.",
+      "Exact : ses travées délimitent des lobules.",
+      "Exact : elle entoure le parenchyme.",
+      "Inexact : la capsule existe.",
+      "Inexact : elle est fine, non musculaire épaisse."
+    ]
+  },
+  {
+    "q": "Concernant la pulpe rouge de la rate, lesquelles sont exactes ?",
+    "options": [
+      "C'est un réseau de sinus",
+      "Elle est peuplée de globules rouges",
+      "Elle est peuplée de macrophages",
+      "Elle entoure les branches de l'artère splénique",
+      "Elle contient des follicules lymphoïdes"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la pulpe rouge = réseau de sinus.",
+      "Exact : peuplée de GR.",
+      "Exact : peuplée de macrophages.",
+      "Inexact : c'est la pulpe blanche qui entoure les artérioles.",
+      "Inexact : les follicules sont dans la zone marginale."
+    ]
+  },
+  {
+    "q": "Concernant la pulpe blanche de la rate, lesquelles sont exactes ?",
+    "options": [
+      "Elle entoure les branches de l'artère splénique",
+      "Elle forme les manchons lymphoïdes péri-artériolaires (PALS)",
+      "Elle est peuplée de lymphocytes T",
+      "Elle contient des DC interdigitées",
+      "C'est un réseau de sinus peuplé de globules rouges"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : la pulpe blanche entoure les branchés artérielles.",
+      "Exact : manchons = PALS.",
+      "Exact : peuplée de LT.",
+      "Exact : DC interdigitées présentes.",
+      "Inexact : cela décrit la pulpe rouge."
+    ]
+  },
+  {
+    "q": "Concernant les PALS, lesquelles sont exactes ?",
+    "options": [
+      "Ce sont des manchons lymphoïdes péri-artériolaires",
+      "Ils entourent les branches de l'artère splénique",
+      "Ils sont peuplés de LT et de DC interdigitées",
+      "Ce sont des follicules à lymphocytes B",
+      "Ils se trouvent dans les ganglions"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : PALS = manchons lymphoïdes péri-artériolaires.",
+      "Exact : ils entourent les artérioles spléniques.",
+      "Exact : LT + DC interdigitées.",
+      "Inexact : les follicules à LB sont dans la zone marginale.",
+      "Inexact : les PALS sont spléniques."
+    ]
+  },
+  {
+    "q": "Concernant la zone marginale de la rate, lesquelles sont exactes ?",
+    "options": [
+      "C'est la frontière entre la pulpe blanche et la pulpe rouge",
+      "Elle contient des LB formant des follicules lymphoïdes",
+      "Elle contient des macrophages",
+      "Elle contient des DC folliculaires",
+      "C'est une zone de la moelle osseuse"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : frontière pulpe blanche / pulpe rouge.",
+      "Exact : follicules de LB.",
+      "Exact : présence de macrophages.",
+      "Exact : présence de DC folliculaires.",
+      "Inexact : c'est une zone splénique."
+    ]
+  },
+  {
+    "q": "Concernant le trajet des antigènes sanguins dans la rate, lesquelles sont exactes ?",
+    "options": [
+      "Ils sont amenés par l'artère splénique et ses ramifications",
+      "Ils parviennent jusqu'aux PALS",
+      "Les lymphocytes du sang suivent le même trajet",
+      "Ils arrivent par les vaisseaux lymphatiques afférents",
+      "Ils arrivent par le canal thoracique"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : apport par l'artère splénique.",
+      "Exact : les Ag parviennent aux PALS.",
+      "Exact : les lymphocytes sanguins suivent la même voie.",
+      "Inexact : pas de lymphatiques afférents vers la rate.",
+      "Inexact : le canal thoracique ne dessert pas la rate."
+    ]
+  },
+  {
+    "q": "Concernant la présentation antigenique dans la rate, lesquelles sont exactes ?",
+    "options": [
+      "Les DC interdigitées présentent aux lymphocytes T",
+      "Les DC folliculaires présentent aux LB de la zone marginale",
+      "Elle génère des plasmocytes",
+      "Elle a lieu dans la pulpe rouge",
+      "Elle ne concerne que les lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : DC interdigitées -> LT.",
+      "Exact : DC folliculaires -> LB de la zone marginale.",
+      "Exact : génération de plasmocytes.",
+      "Inexact : elle a lieu dans la pulpe blanche et la zone marginale.",
+      "Inexact : les LB sont aussi concernés."
+    ]
+  },
+  {
+    "q": "Concernant les cellules dendritiques de la rate, lesquelles sont exactes ?",
+    "options": [
+      "Les DC interdigitées sont dans la pulpe blanche",
+      "Les DC folliculaires sont dans la zone marginale",
+      "Les DC interdigitées présentent aux LT",
+      "Les DC folliculaires présentent aux LB",
+      "Il n'existe qu'un seul type de DC dans la rate"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : DC interdigitées dans la pulpe blanche.",
+      "Exact : DC folliculaires dans la zone marginale.",
+      "Exact : présentation aux LT.",
+      "Exact : présentation aux LB.",
+      "Inexact : deux types coexistent."
+    ]
+  },
+  {
+    "q": "La rate comparée aux ganglions :",
+    "options": [
+      "La rate filtre le sang, les ganglions filtrent la lymphe",
+      "Les deux sont des organes lymphoïdes secondaires",
+      "La rate ne possède pas de vaisseaux lymphatiques afférents",
+      "Les deux filtrent la lymphe",
+      "La rate est un organe primaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : rate = filtre sanguin, ganglions = filtre lymphatique.",
+      "Exact : les deux sont secondaires.",
+      "Exact : pas d'afférents lymphatiques vers la rate.",
+      "Inexact : seule la rate filtre le sang.",
+      "Inexact : la rate est secondaire."
+    ]
+  },
+  {
+    "q": "Concernant la splénectomie, lesquelles sont exactes ?",
+    "options": [
+      "Elle expose aux infections à germes encapsulés",
+      "Le pneumocoque est le principal risque",
+      "Elle nécessite une vaccination anti-pneumococcique",
+      "Elle n'a aucune conséquence immunitaire",
+      "Elle augmente les défenses contre le paludisme"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : risque infectieux aux germes encapsulés.",
+      "Exact : le pneumocoque est le germe le plus redouté.",
+      "Exact : vaccination anti-pneumococcique recommandée.",
+      "Inexact : les conséquences immunitaires sont majeures.",
+      "Inexact : la rate participe à la défense anti-palustre."
+    ]
+  },
+  {
+    "q": "Concernant l'asplénie, lesquelles sont exactes ?",
+    "options": [
+      "Elle peut être congénitale ou acquise après splénectomie",
+      "Elle expose aux septicémies fulminantes",
+      "Elle s'accompagne de corps de Howell-Jolly sur le frottis",
+      "Elle protège des infections",
+      "Elle est sans gravité"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : asplénie congénitale ou post-splénectomie.",
+      "Exact : risque de septicémie fulminante (OPSI).",
+      "Exact : corps de Howell-Jolly = restes nucléaires des GR.",
+      "Inexact : elle expose aux infections.",
+      "Inexact : c'est une situation grave."
+    ]
+  },
+  {
+    "q": "Concernant la pulpe blanche, lesquelles sont exactes ?",
+    "options": [
+      "C'est la zone lymphoïde de la rate",
+      "Elle comprend les PALS et les follicules de la zone marginale",
+      "Les LT y sont majoritaires autour des artérioles",
+      "Elle est constituée de sinus veineux",
+      "Elle ne contient aucun lymphocyte"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la pulpe blanche est lymphoïde.",
+      "Exact : PALS + follicules de la zone marginale.",
+      "Exact : manchons T péri-artériolaires.",
+      "Inexact : les sinus veineux forment la pulpe rouge.",
+      "Inexact : elle est riche en lymphocytes."
+    ]
+  },
+  {
+    "q": "Concernant la pulpe rouge, lesquelles sont exactes ?",
+    "options": [
+      "Elle assure la filtration mécanique du sang",
+      "Les macrophages y phagocytent les GR sénescents",
+      "C'est un réseau de sinus",
+      "Elle est le siège de la réponse immunitaire humorale",
+      "Elle produit les lymphocytes"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : filtration mécanique du sang.",
+      "Exact : phagocytose des GR sénescents.",
+      "Exact : réseau de sinus veineux.",
+      "Inexact : la réponse humorale siège en pulpe blanche/zone marginale.",
+      "Inexact : les lymphocytes sont produits dans la MO."
+    ]
+  },
+  {
+    "q": "Synthèse sur la rate : lesquelles sont exactes ?",
+    "options": [
+      "Organe hemo-lymphatique le plus volumineux du SI",
+      "Située dans l'hypochondre gauche",
+      "Trois zones : pulpe rouge, pulpe blanche, zone marginale",
+      "Filtre les antigènes du sang",
+      "Organe lymphoïde primaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : la plus volumineuse, hemo-lymphatique.",
+      "Exact : hypochondre gauche.",
+      "Exact : les trois zones du parenchyme.",
+      "Exact : filtration des Ag sanguins.",
+      "Inexact : organe secondaire."
+    ]
+  },
+  {
+    "q": "Concernant l'artère splénique, lesquelles sont exactes ?",
+    "options": [
+      "Elle vient directement de l'aorte",
+      "Elle pénètre par le hile",
+      "Ses branchés sont entourées par la pulpe blanche",
+      "Elle amène les antigènes microbiens du sang",
+      "Elle draine la lymphe"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : naissance aortique directe.",
+      "Exact : pénétration par le hile.",
+      "Exact : manchons de pulpe blanche péri-artériolaires.",
+      "Exact : elle vehicule les Ag du sang.",
+      "Inexact : elle transporte le sang artériel."
+    ]
+  },
+  {
+    "q": "Concernant les follicules lymphoïdes de la rate, lesquelles sont exactes ?",
+    "options": [
+      "Ils se trouvent dans la zone marginale",
+      "Ils sont formés de LB",
+      "Ils sont associés à des DC folliculaires",
+      "Ils se trouvent dans la pulpe rouge",
+      "Ce sont des follicules primaires au repos"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Exact : follicules dans la zone marginale.",
+      "Exact : follicules de LB.",
+      "Exact : DC folliculaires associées.",
+      "Inexact : la pulpe rouge est un réseau de sinus.",
+      "Exact : follicules primaires au repos."
+    ]
+  },
+  {
+    "q": "Concernant la génération de plasmocytes dans la rate, lesquelles sont exactes ?",
+    "options": [
+      "Elle fait suite à la présentation aux LB de la zone marginale",
+      "Les DC folliculaires y participent",
+      "Elle aboutit à la production d'anticorps",
+      "Elle a lieu dans la pulpe rouge",
+      "Elle ne concerne que les lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : activation des LB de la zone marginale.",
+      "Exact : présentation par les DC folliculaires.",
+      "Exact : les plasmocytes sécrètent des anticorps.",
+      "Inexact : elle a lieu dans la zone marginale.",
+      "Inexact : elle concerne les LB."
+    ]
+  },
+  {
+    "q": "Concernant les macrophages spléniques, lesquelles sont exactes ?",
+    "options": [
+      "Ils peuplent la pulpe rouge",
+      "Ils sont présents dans la zone marginale",
+      "Ils phagocytent les antigènes et les GR altérés",
+      "Ils produisent des anticorps",
+      "Ce sont des lymphocytes"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : macrophages de la pulpe rouge.",
+      "Exact : macrophages de la zone marginale.",
+      "Exact : phagocytose des Ag et des GR altérés.",
+      "Inexact : les anticorps viennent des plasmocytes.",
+      "Inexact : ce ne sont pas des lymphocytes."
+    ]
+  },
+  {
+    "q": "Concernant la rate et l'immunité humorale, lesquelles sont exactes ?",
+    "options": [
+      "Les LB de la zone marginale répondent aux antigènes sanguins",
+      "La rate produit des anticorps via les plasmocytes",
+      "Elle joue un rôle dans la réponse aux antigènes thymo-indépendants",
+      "Elle ne participe pas à l'immunité humorale",
+      "Elle ne contient aucun lymphocyte B"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les LB marginaux répondent aux Ag du sang.",
+      "Exact : les plasmocytes spléniques sécrètent des anticorps.",
+      "Exact : rôle clé dans les réponses thymo-indépendantes.",
+      "Inexact : elle participe activement à l'immunité humorale.",
+      "Inexact : la zone marginale est riche en LB."
+    ]
+  },
+  {
+    "q": "Concernant le paludisme et la rate, lesquelles sont exactes ?",
+    "options": [
+      "La rate augmente de volume (splénomégalie)",
+      "Elle participe à l'élimination des GR parasites",
+      "La splénomégalie est un signe classique",
+      "La rate est indifférente au paludisme",
+      "Le paludisme n'affecte que le thymus"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : splénomégalie au cours du paludisme.",
+      "Exact : clairance splénique des GR parasites.",
+      "Exact : signe clinique classique.",
+      "Inexact : la rate est fortement sollicitée.",
+      "Inexact : le paludisme affecte surtout la rate."
+    ]
+  },
+  {
+    "q": "Concernant la drépanocytose et la rate, lesquelles sont exactes ?",
+    "options": [
+      "Les infarctus spléniques répétés conduisent à une asplénie fonctionnelle",
+      "L'enfant drépanocytaire est exposé aux infections à pneumocoque",
+      "L'autosplénectomie est une complication connue",
+      "La rate reste normale toute la vie",
+      "Il n'existe aucun risque infectieux particulier"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : infarctus répétés = asplénie fonctionnelle.",
+      "Exact : risque pneumococcique majeur chez l'enfant.",
+      "Exact : autosplénectomie dans la drépanocytose.",
+      "Inexact : la rate s'atrophie (autosplénectomie).",
+      "Inexact : le risque infectieux est majeur."
+    ]
+  },
+  {
+    "q": "Concernant la capsule et les travées spléniques, lesquelles sont exactes ?",
+    "options": [
+      "La capsule est fine",
+      "Les travées délimitent des lobules",
+      "Cette organisation rappelle celle du ganglion",
+      "La rate ne possède pas de capsule",
+      "Les travées sont des septa musculaires épais"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : capsule fine.",
+      "Exact : travées délimitant des lobules.",
+      "Exact : organisation analogue au sinus capsulaire ganglionnaire.",
+      "Inexact : la capsule existe.",
+      "Inexact : les travées sont conjonctives, non musculaires épaisses."
+    ]
+  },
+  {
+    "q": "La rate est un organe hemo-lymphatique car :",
+    "options": [
+      "Elle est située sur la circulation sanguine",
+      "Elle associe filtration sanguine et tissu lymphoïde",
+      "Elle ne reçoit pas de lymphe afférente",
+      "Elle est située sur la circulation lymphatique",
+      "Elle ne contient pas de tissu lymphoïde"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : elle est sur la voie sanguine.",
+      "Exact : double fonction sanguine et lymphoïde.",
+      "Exact : pas de vaisseaux lymphatiques afférents.",
+      "Inexact : elle n'est pas sur la voie lymphatique.",
+      "Inexact : pulpe blanche et zone marginale sont lymphoïdes."
+    ]
+  },
+  {
+    "q": "Concernant les lymphocytes de la rate, lesquelles sont exactes ?",
+    "options": [
+      "Les LT siègent dans la pulpe blanche (PALS)",
+      "Les LB siègent dans la zone marginale",
+      "Ils arrivent par la circulation sanguine",
+      "Ils sont produits dans la rate",
+      "Ils arrivent par les vaisseaux lymphatiques afférents"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : LT dans les PALS.",
+      "Exact : LB dans la zone marginale.",
+      "Exact : arrivée par le sang.",
+      "Inexact : ils sont produits dans la MO.",
+      "Inexact : pas de lymphatiques afférents spléniques."
+    ]
+  },
+  {
+    "q": "Concernant le MALT, lesquelles sont exactes ?",
+    "options": [
+      "Il signifie « tissus lymphoïdes associés aux muqueuses »",
+      "C'est un organe lymphoïde secondaire",
+      "Il comprend le GALT, le BALT et le DALT",
+      "C'est un organe lymphoïde primaire",
+      "Il est situé dans la moelle osseuse"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : MALT = tissus lymphoïdes associés aux muqueuses.",
+      "Exact : le MALT est un organe lymphoïde secondaire.",
+      "Exact : GALT + BALT + DALT.",
+      "Inexact : le MALT n'est pas primaire.",
+      "Inexact : il est associé aux muqueuses."
+    ]
+  },
+  {
+    "q": "Concernant le GALT, lesquelles sont exactes ?",
+    "options": [
+      "Il est associé au tube digestif",
+      "Il comprend l'appendice",
+      "Il comprend les plaques de Peyer du grêle",
+      "Il est associé au tractus respiratoire",
+      "Il est associé au système glandulaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : GALT = tube digestif.",
+      "Exact : l'appendice fait partie du GALT.",
+      "Exact : les plaques de Peyer tapissent le grêle.",
+      "Inexact : le tractus respiratoire correspond au BALT.",
+      "Inexact : le système glandulaire correspond au DALT."
+    ]
+  },
+  {
+    "q": "Concernant le BALT, lesquelles sont exactes ?",
+    "options": [
+      "Il est associé au tractus respiratoire",
+      "Il comprend les végétations adénoïdes",
+      "Il est associé au tube digestif",
+      "Il comprend les amygdales",
+      "C'est un organe lymphoïde primaire"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Exact : BALT = tractus respiratoire.",
+      "Exact : les végétations adénoïdes font partie du BALT.",
+      "Inexact : le tube digestif correspond au GALT.",
+      "Exact : les amygdales appartiennent au BALT.",
+      "Inexact : le BALT est secondaire."
+    ]
+  },
+  {
+    "q": "Concernant le DALT, lesquelles sont exactes ?",
+    "options": [
+      "Il est associé au système glandulaire",
+      "Il fait partie du MALT",
+      "C'est un organe lymphoïde secondaire",
+      "Il comprend les plaques de Peyer",
+      "Il est associé au tractus respiratoire"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : DALT = système glandulaire.",
+      "Exact : le DALT fait partie du MALT.",
+      "Exact : organe lymphoïde secondaire.",
+      "Inexact : les plaques de Peyer appartiennent au GALT.",
+      "Inexact : le tractus respiratoire correspond au BALT."
+    ]
+  },
+  {
+    "q": "Concernant les plaques de Peyer, lesquelles sont exactes ?",
+    "options": [
+      "Elles tapissent l'iléon (grêle)",
+      "Elles font partie du GALT",
+      "Ce sont des follicules lymphoïdes",
+      "Elles font partie du BALT",
+      "Elles sont situées dans le thymus"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les plaques de Peyer tapissent le grêle.",
+      "Exact : elles appartiennent au GALT.",
+      "Exact : ce sont des formations lymphoïdes.",
+      "Inexact : elles n'appartiennent pas au BALT.",
+      "Inexact : elles sont digestives, pas thymiques."
+    ]
+  },
+  {
+    "q": "Concernant l'appendice, lesquelles sont exactes ?",
+    "options": [
+      "Il fait partie du GALT",
+      "C'est un tissu lymphoïde associe au tube digestif",
+      "C'est un organe lymphoïde primaire",
+      "Il ne contient aucun tissu lymphoïde",
+      "C'est une glande endocrine"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Exact : l'appendice appartient au GALT.",
+      "Exact : tissu lymphoïde du tube digestif.",
+      "Inexact : c'est un organe secondaire.",
+      "Inexact : il est riche en tissu lymphoïde.",
+      "Inexact : ce n'est pas une glande endocrine."
+    ]
+  },
+  {
+    "q": "Concernant les végétations adénoïdes, lesquelles sont exactes ?",
+    "options": [
+      "Elles font partie du BALT",
+      "Elles sont situées dans le rhinopharynx",
+      "Ce sont un tissu lymphoïde du tractus respiratoire",
+      "Elles font partie du GALT",
+      "Elles sont situées dans l'intestin"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les végétations adénoïdes appartiennent au BALT.",
+      "Exact : siège rhinopharyngé.",
+      "Exact : tissu lymphoïde respiratoire.",
+      "Inexact : elles n'appartiennent pas au GALT.",
+      "Inexact : elles ne sont pas intestinales."
+    ]
+  },
+  {
+    "q": "Concernant le MALT, lesquelles sont exactes ?",
+    "options": [
+      "Il protège les muqueuses, portes d'entrée des antigènes",
+      "C'est un organe lymphoïde secondaire",
+      "Il comprend des tissus digestifs, respiratoires et glandulaires",
+      "Il assure la maturation des lymphocytes T",
+      "Il produit les cellules souches hématopoïétiques"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : défense des muqueuses, portes d'entrée.",
+      "Exact : organe lymphoïde secondaire.",
+      "Exact : GALT, BALT, DALT.",
+      "Inexact : la maturation T est thymique.",
+      "Inexact : les CSH sont médullaires."
+    ]
+  },
+  {
+    "q": "Concernant l'anneau de Waldeyer, lesquelles sont exactes ?",
+    "options": [
+      "Il regroupe les amygdales palatines, linguale et pharyngée",
+      "Il fait partie du MALT",
+      "Il protège les voies aéro-digestives supérieures",
+      "Il fait partie des organes primaires",
+      "Il est situé dans l'abdomen"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : amygdales palatines, linguale, pharyngée.",
+      "Exact : il appartient au MALT.",
+      "Exact : défense des voies aéro-digestives supérieures.",
+      "Inexact : c'est un organe secondaire.",
+      "Inexact : il est cervico-pharyngé."
+    ]
+  },
+  {
+    "q": "Concernant les IgA sécrétoires, lesquelles sont exactes ?",
+    "options": [
+      "Ce sont les anticorps prédominants des muqueuses",
+      "Elles sont produites par les plasmocytes du MALT",
+      "Elles protègent les surfaces muqueuses",
+      "Elles sont produites dans le thymus",
+      "Elles sont absentes des sécrétions"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les IgA dominent au niveau des muqueuses.",
+      "Exact : produites par les plasmocytes du MALT.",
+      "Exact : protection des surfaces muqueuses.",
+      "Inexact : le thymus ne produit pas d'anticorps.",
+      "Inexact : elles sont présentes dans les sécrétions."
+    ]
+  },
+  {
+    "q": "Comparaison organes primaires / secondaires : lesquelles sont exactes ?",
+    "options": [
+      "Primaires : production et maturation des cellules",
+      "Secondaires : rencontre avec l'antigène et activation",
+      "Moelle osseuse et thymus sont primaires",
+      "Ganglions, rate et MALT sont secondaires",
+      "Les fonctions des deux types sont identiques"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : les primaires produisent et maturent.",
+      "Exact : les secondaires activent après rencontre Ag.",
+      "Exact : MO + thymus = primaires.",
+      "Exact : ganglions + rate + MALT = secondaires.",
+      "Inexact : leurs fonctions sont distinctes."
+    ]
+  },
+  {
+    "q": "Concernant la moelle osseuse et le thymus, lesquelles sont exactes ?",
+    "options": [
+      "Ce sont les deux organes lymphoïdes centraux",
+      "La MO produit les précurseurs, le thymus mature les LT",
+      "La MO mature les LB, le thymus mature les LT",
+      "Les deux sont des organes périphériques",
+      "Le thymus produit les cellules souches hématopoïétiques"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : MO + thymus = organes centraux.",
+      "Exact : répartition des rôles entre MO et thymus.",
+      "Exact : maturation B médullaire, maturation T thymique.",
+      "Inexact : ce sont des organes centraux.",
+      "Inexact : les CSH sont produites dans la MO."
+    ]
+  },
+  {
+    "q": "Ganglions et rate : points communs — lesquelles sont exactes ?",
+    "options": [
+      "Ce sont des organes lymphoïdes secondaires",
+      "Ce sont les plus organisés des organes secondaires",
+      "Ils contiennent des follicules lymphoïdes",
+      "Ils filtrent tous deux la lymphe",
+      "Ils sont tous deux des organes primaires"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les deux sont secondaires.",
+      "Exact : les plus organisés des secondaires.",
+      "Exact : follicules dans les deux.",
+      "Inexact : la rate filtre le sang.",
+      "Inexact : les deux sont secondaires."
+    ]
+  },
+  {
+    "q": "Ganglions et rate : différences — lesquelles sont exactes ?",
+    "options": [
+      "Les ganglions filtrent la lymphe, la rate filtre le sang",
+      "Les ganglions ont des HEV, pas la rate",
+      "La rate à une pulpe rouge, pas les ganglions",
+      "Les deux filtrent le sang",
+      "Les deux possèdent des PALS"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : filtre lymphatique vs filtre sanguin.",
+      "Exact : les HEV sont ganglionnaires.",
+      "Exact : la pulpe rouge est splénique.",
+      "Inexact : seuls les ganglions filtrent la lymphe.",
+      "Inexact : les PALS sont spléniques."
+    ]
+  },
+  {
+    "q": "Concernant les cellules dendritiques dans les organes secondaires, lesquelles sont exactes ?",
+    "options": [
+      "DC folliculaires avec les LB (corticale, zone marginale)",
+      "DC interdigitées avec les LT (para-corticale, PALS)",
+      "Les deux types présentent l'antigène",
+      "Elles sont absentes de la rate",
+      "Elles sont produites dans les ganglions"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : DC folliculaires associées aux LB.",
+      "Exact : DC interdigitées associées aux LT.",
+      "Exact : les deux présentent l'Ag.",
+      "Inexact : les deux types existent dans la rate.",
+      "Inexact : elles sont produites dans la MO."
+    ]
+  },
+  {
+    "q": "La réponse immunitaire se déclenche :",
+    "options": [
+      "Dans les organes lymphoïdes périphériques",
+      "Après rencontre lymphocyte-antigène",
+      "Dans les ganglions drainant le territoire concerne",
+      "Dans la moelle osseuse",
+      "Dans le thymus"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : déclenchement en périphérie.",
+      "Exact : la rencontre Ag-lymphocyte l'initie.",
+      "Exact : les ganglions de drainage sont sollicités.",
+      "Inexact : la MO est un organe primaire.",
+      "Inexact : le thymus est un organe primaire."
+    ]
+  },
+  {
+    "q": "Concernant le déficit immunitaire combiné sévère, lesquelles sont exactes ?",
+    "options": [
+      "Il peut résulter d'un défaut de production médullaire",
+      "Il peut résulter d'un défaut de maturation lymphocytaire",
+      "Il illustre la gravité des anomalies des organes centraux",
+      "Il est toujours bénin",
+      "Il ne touche que les organes périphériques"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : défaut de production = DICS possible.",
+      "Exact : défaut de maturation = DICS possible.",
+      "Exact : les anomalies centrales donnent des déficits graves.",
+      "Inexact : c'est un déficit grave.",
+      "Inexact : l'origine est centrale."
+    ]
+  },
+  {
+    "q": "Concernant la greffe de moelle osseuse, lesquelles sont exactes ?",
+    "options": [
+      "Elle apporte des CSH capables de reconstituer l'hématopoïèse",
+      "Elle est utilisée dans les déficits immunitaires sévères",
+      "Elle repose sur la totipotence et l'auto-renouvellement des CSH",
+      "Elle apporte uniquement des lymphocytes T matures",
+      "Elle est inutile dans les aplasies médullaires"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les CSH greffées reconstituent l'hématopoïèse.",
+      "Exact : indication dans les DICS.",
+      "Exact : totipotence + auto-renouvellement fondent la greffe.",
+      "Inexact : ce sont des CSH qui sont greffées.",
+      "Inexact : c'est le traitement de l'aplasie médullaire."
+    ]
+  },
+  {
+    "q": "Concernant le thymome, lesquelles sont exactes ?",
+    "options": [
+      "C'est une tumeur du thymus",
+      "Il peut s'associer à une myasthénie",
+      "Il peut perturber la sélection lymphocytaire T",
+      "C'est une tumeur de la moelle osseuse",
+      "Il n'a aucune conséquence immunitaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : le thymome est une tumeur thymique.",
+      "Exact : association classique avec la myasthénie.",
+      "Exact : la sélection T peut être perturbée.",
+      "Inexact : ce n'est pas une tumeur médullaire.",
+      "Inexact : les conséquences immunitaires existent."
+    ]
+  },
+  {
+    "q": "Concernant la myasthénie, lesquelles sont exactes ?",
+    "options": [
+      "Elle peut être associée à un thymome",
+      "La thymectomie peut l'améliorer",
+      "C'est une maladie auto-immune",
+      "Elle est due à un déficit en lymphocytes B",
+      "Elle n'a aucun lien avec le thymus"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : l'association myasthénie-thymome est classique.",
+      "Exact : la thymectomie améliore souvent la myasthénie.",
+      "Exact : maladie auto-immune (anti-récepteur acétylcholine).",
+      "Inexact : ce n'est pas un déficit en LB.",
+      "Inexact : le lien avec le thymus est établi."
+    ]
+  },
+  {
+    "q": "Concernant la tolérance centrale, lesquelles sont exactes ?",
+    "options": [
+      "Elle s'établit dans les organes lymphoïdes primaires",
+      "La sélection négative thymique y participe",
+      "Son défaut expose à l'auto-immunité",
+      "Elle s'établit dans les ganglions",
+      "Elle ne concerne que les lymphocytes B"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la tolérance centrale est d'origine primaire.",
+      "Exact : la sélection négative thymique la fonde.",
+      "Exact : son défaut favorise l'auto-immunité.",
+      "Inexact : les ganglions sont des organes secondaires.",
+      "Inexact : elle concerne aussi les LT."
+    ]
+  },
+  {
+    "q": "Concernant l'auto-immunité en lien avec les organes, lesquelles sont exactes ?",
+    "options": [
+      "Un défaut de sélection thymique peut la favoriser",
+      "Les lymphocytes autoréactifs sont normalement conservés par la sélection négative",
+      "Le thymus joue un rôle dans la tolérance du soi",
+      "Elle résulte toujours d'un excès d'antigènes",
+      "Les organes centraux n'y jouent aucun rôle"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explain": [
+      "Exact : un défaut de sélection favorise l'auto-immunité.",
+      "Inexact : la sélection négative élimine les autoréactifs.",
+      "Exact : le thymus fonde la tolérance du soi.",
+      "Inexact : les mécanismes sont multiples.",
+      "Inexact : les organes centraux sont déterminants."
+    ]
+  },
+  {
+    "q": "Concernant la vaccination en lien avec les organes secondaires, lesquelles sont exactes ?",
+    "options": [
+      "Les antigènes vaccinaux sont présentes dans les organes secondaires",
+      "Les ganglions drainant le site d'injection sont sollicités",
+      "Elle induit une mémoire immunitaire",
+      "Elle a lieu dans la moelle osseuse",
+      "Elle est indépendante des organes lymphoïdes"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : présentation dans les organes secondaires.",
+      "Exact : les ganglions de drainage répondent.",
+      "Exact : induction d'une mémoire immunitaire.",
+      "Inexact : la MO est un organe primaire.",
+      "Inexact : elle dépend des organes lymphoïdes."
+    ]
+  },
+  {
+    "q": "Concernant les centres germinatifs, lesquelles sont exactes ?",
+    "options": [
+      "Ils se forment après stimulation antigenique",
+      "Ils sont le siège de la maturation d'affinité des LB",
+      "Ils contiennent LB actives, DC et macrophages",
+      "Ils existent au repos dans le follicule primaire",
+      "Ils ne contiennent aucun lymphocyte"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : formation post-stimulation.",
+      "Exact : maturation d'affinité des LB.",
+      "Exact : LB, DC et macrophages.",
+      "Inexact : le follicule primaire n'a pas de centre germinatif.",
+      "Inexact : ils sont riches en lymphocytes."
+    ]
+  },
+  {
+    "q": "Concernant la commutation isotypique, lesquelles sont exactes ?",
+    "options": [
+      "Elle a lieu dans les centres germinatifs",
+      "Elle permet aux LB de changer de classe d'anticorps",
+      "Elle a lieu dans les organes lymphoïdes secondaires",
+      "Elle a lieu dans la moelle osseuse",
+      "Elle concerne les lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la commutation a lieu dans les centres germinatifs.",
+      "Exact : changement de classe d'Ig.",
+      "Exact : les centres germinatifs sont en périphérie.",
+      "Inexact : pas de commutation dans la MO.",
+      "Inexact : elle concerne les LB."
+    ]
+  },
+  {
+    "q": "Synthèse sur la moelle osseuse : lesquelles sont exactes ?",
+    "options": [
+      "Organe lymphoïde primaire",
+      "Siège de l'hématopoïèse à partir des CSH",
+      "Maturation des lymphocytes B",
+      "Les précurseurs T migrent vers le thymus",
+      "Filtration des antigènes du sang"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : la MO est un organe primaire.",
+      "Exact : hématopoïèse à partir des CSH.",
+      "Exact : maturation des LB.",
+      "Exact : les précurseurs T gagnent le thymus.",
+      "Inexact : la filtration du sang est le rôle de la rate."
+    ]
+  },
+  {
+    "q": "Synthèse sur le thymus : lesquelles sont exactes ?",
+    "options": [
+      "Organe lympho-épithélial du médiastin antérieur",
+      "Maturation des LT avec double sélection",
+      "95% d'apoptose, 5% de LT matures",
+      "Organe lymphoïde secondaire",
+      "Maturation des lymphocytes B"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : organe lympho-épithélial du médiastin antérieur.",
+      "Exact : maturation T avec double sélection.",
+      "Exact : 95% d'apoptose, 5% de matures.",
+      "Inexact : le thymus est primaire.",
+      "Inexact : les LB maturent dans la MO."
+    ]
+  },
+  {
+    "q": "Synthèse sur les ganglions : lesquelles sont exactes ?",
+    "options": [
+      "Environ 1000, superficiels et profonds",
+      "Trois zones : corticale (B), para-corticale (T), médullaire",
+      "HEV pour la recirculation lymphocytaire",
+      "Filtration de la lymphe afférente",
+      "Maturation des lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : 1000 ganglions, superficiels et profonds.",
+      "Exact : les trois zones et leurs aires.",
+      "Exact : les HEV assurent la recirculation.",
+      "Exact : filtration de la lymphe afférente.",
+      "Inexact : la maturation T est thymique."
+    ]
+  },
+  {
+    "q": "Synthèse sur la rate : lesquelles sont exactes ?",
+    "options": [
+      "Organe hemo-lymphatique le plus volumineux",
+      "Filtration des antigènes du sang",
+      "Pulpe rouge, pulpe blanche (PALS), zone marginale",
+      "Artère splénique issue de l'aorte",
+      "Organe lymphoïde primaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : la plus volumineuse, hemo-lymphatique.",
+      "Exact : filtration des Ag du sang.",
+      "Exact : les trois zones du parenchyme.",
+      "Exact : artère splénique d'origine aortique.",
+      "Inexact : organe secondaire."
+    ]
+  },
+  {
+    "q": "Synthèse sur le MALT : lesquelles sont exactes ?",
+    "options": [
+      "GALT : tube digestif, appendice, plaques de Peyer",
+      "BALT : tractus respiratoire, végétations adénoïdes",
+      "DALT : système glandulaire",
+      "Organe lymphoïde primaire",
+      "Maturation des lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : le GALT est digestif.",
+      "Exact : le BALT est respiratoire.",
+      "Exact : le DALT est glandulaire.",
+      "Inexact : le MALT est secondaire.",
+      "Inexact : la maturation T est thymique."
+    ]
+  },
+  {
+    "q": "Les organes du système immunitaire sont reliés par :",
+    "options": [
+      "La circulation sanguine",
+      "La circulation lymphatique",
+      "La lymphe transportant antigènes et lymphocytes",
+      "Le système nerveux",
+      "Aucune circulation"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la circulation sanguine les relie.",
+      "Exact : la circulation lymphatique les relie.",
+      "Exact : la lymphe transporte Ag et lymphocytes.",
+      "Inexact : pas de liaison nerveuse.",
+      "Inexact : deux circulations les relient."
+    ]
+  },
+  {
+    "q": "Le déclenchement de la réponse immunitaire nécessite :",
+    "options": [
+      "Des organes centraux fonctionnels produisant les lymphocytes",
+      "Des organes périphériques ou a lieu la rencontre Ag-lymphocyte",
+      "La circulation de la lymphe et du sang",
+      "Uniquement le thymus",
+      "Aucun organe lymphoïde"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les organes centraux fournissent les lymphocytes.",
+      "Exact : la rencontre a lieu en périphérie.",
+      "Exact : les circulations acheminent Ag et cellules.",
+      "Inexact : tous les organes participent.",
+      "Inexact : les organes lymphoïdes sont indispensables."
+    ]
+  },
+  {
+    "q": "Un défaut de production des cellules immunes peut résulter de :",
+    "options": [
+      "Une anomalie de la moelle osseuse",
+      "Une aplasie médullaire",
+      "Un défaut des cellules souches hématopoïétiques",
+      "Une anomalie isolée des ganglions",
+      "Une splénectomie"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la MO produit les cellules immunes.",
+      "Exact : l'aplasie médullaire arrête la production.",
+      "Exact : un défaut des CSH bloque l'hématopoïèse.",
+      "Inexact : les ganglions ne produisent pas les cellules.",
+      "Inexact : la splénectomie n'arrête pas la production."
+    ]
+  },
+  {
+    "q": "Une anomalie de maturation peut résulter de :",
+    "options": [
+      "Un défaut du microenvironnement thymique",
+      "Une anomalie de la sélection thymique",
+      "Un défaut de la lymphopoïèse B médullaire",
+      "Une adénopathie",
+      "Une simple infection"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : le microenvironnement thymique est indispensable.",
+      "Exact : la sélection thymique conditionne la maturation T.",
+      "Exact : la lymphopoïèse B est médullaire.",
+      "Inexact : l'adénopathie est une conséquence, pas une cause.",
+      "Inexact : une infection n'empêche pas la maturation."
+    ]
+  },
+  {
+    "q": "Concernant la rate et les ganglions dans la défense anti-infectieuse, lesquelles sont exactes ?",
+    "options": [
+      "La rate répond aux antigènes véhiculés par le sang",
+      "Les ganglions répondent aux antigènes véhiculés par la lymphe",
+      "Cette complémentarité couvre les deux circulations",
+      "La rate répond aux antigènes de la lymphe",
+      "Les ganglions filtrent le sang"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la rate surveille le sang.",
+      "Exact : les ganglions surveillent la lymphe.",
+      "Exact : les deux circulations sont couvertes.",
+      "Inexact : la rate ne reçoit pas la lymphe.",
+      "Inexact : les ganglions filtrent la lymphe."
+    ]
+  },
+  {
+    "q": "Concernant les lymphocytes B matures, lesquelles sont exactes ?",
+    "options": [
+      "Ils quittent la moelle osseuse une fois matures",
+      "Ils gagnent les organes lymphoïdes secondaires",
+      "Ils peuplent les follicules (corticale, zone marginale)",
+      "Ils maturent dans le thymus",
+      "Ils restent confinés à la moelle osseuse"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : sortie de la MO à maturité.",
+      "Exact : ils rejoignent les organes secondaires.",
+      "Exact : follicules corticaux et marginaux.",
+      "Inexact : le thymus est réservé aux LT.",
+      "Inexact : ils gagnent la périphérie."
+    ]
+  },
+  {
+    "q": "Concernant les lymphocytes T matures, lesquelles sont exactes ?",
+    "options": [
+      "Ils quittent le thymus (5% des thymocytes)",
+      "Ils gagnent les organes lymphoïdes secondaires",
+      "Ils peuplent la para-corticale et les PALS",
+      "Ils maturent dans la moelle osseuse",
+      "Ils maturent dans la rate"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : 5% des thymocytes deviennent des LT matures.",
+      "Exact : ils rejoignent les organes secondaires.",
+      "Exact : para-corticale ganglionnaire et PALS.",
+      "Inexact : la maturation T est thymique.",
+      "Inexact : la rate est un organe secondaire."
+    ]
+  },
+  {
+    "q": "Concernant les follicules lymphoïdes, lesquelles sont exactes ?",
+    "options": [
+      "Primaires au repos, secondaires après stimulation",
+      "Constitués de LB et de DC folliculaires",
+      "Présents dans les ganglions, la rate et le MALT",
+      "Constitués de lymphocytes T",
+      "Absents des organes secondaires"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : primaire = repos, secondaire = stimulé.",
+      "Exact : LB + DC folliculaires.",
+      "Exact : follicules dans les trois organes secondaires.",
+      "Inexact : les follicules sont des zones B.",
+      "Inexact : ils caractérisent les organes secondaires."
+    ]
+  },
+  {
+    "q": "La rate : particularités vasculaires — lesquelles sont exactes ?",
+    "options": [
+      "Artère splénique issue directement de l'aorte",
+      "Organe très vascularisé",
+      "Située sur la circulation sanguine",
+      "Vascularisée par les vaisseaux lymphatiques",
+      "Peu vascularisée"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : naissance aortique directe.",
+      "Exact : organe très vascularisé.",
+      "Exact : sur la circulation sanguine.",
+      "Inexact : pas de vascularisation lymphatique.",
+      "Inexact : elle est très vascularisée."
+    ]
+  },
+  {
+    "q": "Concernant les HEV, lesquelles sont exactes ?",
+    "options": [
+      "Ce sont des veinules à endothélium haut",
+      "Elles se trouvent dans la para-corticale ganglionnaire",
+      "Elles permettent le passage des lymphocytes du sang vers le ganglion",
+      "Elles se trouvent dans la rate",
+      "Elles transportent la lymphe"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : veinules à endothélium haut.",
+      "Exact : siège para-cortical.",
+      "Exact : porte d'entrée sang-ganglion.",
+      "Inexact : pas de HEV dans la rate.",
+      "Inexact : elles vehiculent le sang."
+    ]
+  },
+  {
+    "q": "La lymphe : rôles immunitaires — lesquelles sont exactes ?",
+    "options": [
+      "Elle transporte les antigènes tissulaires vers les ganglions",
+      "Elle transporte les lymphocytes vers les organes périphériques",
+      "Elle rejoint le sang par le canal thoracique",
+      "Elle transporte les hématies",
+      "Elle est produite dans le thymus"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : drainage des Ag vers les ganglions.",
+      "Exact : transport des lymphocytes.",
+      "Exact : retour sanguin via le canal thoracique.",
+      "Inexact : la lymphe ne contient pas d'hématies.",
+      "Inexact : elle se forme dans les tissus."
+    ]
+  },
+  {
+    "q": "Concernant les CSH : propriétés et devenir — lesquelles sont exactes ?",
+    "options": [
+      "Totipotence et auto-renouvellement",
+      "Elles donnent les lignées lymphoïde et myéloïde",
+      "Elles sont à l'origine de toutes les cellules du SI",
+      "Elles sont produites dans le thymus",
+      "Elles n'ont pas de capacité d'auto-renouvellement"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : les deux propriétés fondamentales.",
+      "Exact : les deux lignées en dérivent.",
+      "Exact : origine de toutes les cellules du SI.",
+      "Inexact : elles sont médullaires.",
+      "Inexact : l'auto-renouvellement est fondamental."
+    ]
+  },
+  {
+    "q": "La lignée lymphoïde : rappel — lesquelles sont exactes ?",
+    "options": [
+      "LB, LT et NK",
+      "Les LT maturent dans le thymus",
+      "Les LB maturent dans la moelle osseuse",
+      "Les PNN en font partie",
+      "Les monocytes en font partie"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : LB, LT, NK = lignée lymphoïde.",
+      "Exact : maturation T thymique.",
+      "Exact : maturation B médullaire.",
+      "Inexact : les PNN sont myéloïde.",
+      "Inexact : les monocytes sont myéloïde."
+    ]
+  },
+  {
+    "q": "La lignée myéloïde : rappel — lesquelles sont exactes ?",
+    "options": [
+      "PNN, PNE, PNB, monocytes, mastocytes, DC",
+      "Toutes ces cellules naissent dans la moelle osseuse",
+      "Les LB en font partie",
+      "Les LT en font partie",
+      "Les NK en font partie"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Exact : la liste complète de la lignée myéloïde.",
+      "Exact : naissance médullaire.",
+      "Inexact : les LB sont lymphoïde.",
+      "Inexact : les LT sont lymphoïde.",
+      "Inexact : les NK sont lymphoïde."
+    ]
+  },
+  {
+    "q": "Les organes lymphoïdes centraux : rappel — lesquelles sont exactes ?",
+    "options": [
+      "Moelle osseuse + thymus",
+      "Production et maturation des cellules immunes",
+      "À l'origine des cellules immunocompétentes",
+      "Ganglions + rate",
+      "Rencontre avec l'antigène"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : MO + thymus.",
+      "Exact : production et maturation.",
+      "Exact : origine des cellules immunocompétentes.",
+      "Inexact : ce sont des organes secondaires.",
+      "Inexact : la rencontre Ag a lieu en périphérie."
+    ]
+  },
+  {
+    "q": "Les organes lymphoïdes périphériques : rappel — lesquelles sont exactes ?",
+    "options": [
+      "Ganglions + rate + MALT",
+      "Rencontre lymphocyte-antigène",
+      "Activation, prolifération, différenciation",
+      "Production des CSH",
+      "Maturation des lymphocytes T"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : ganglions + rate + MALT.",
+      "Exact : rencontre lymphocyte-Ag.",
+      "Exact : activation, prolifération, différenciation.",
+      "Inexact : les CSH sont médullaires.",
+      "Inexact : la maturation T est thymique."
+    ]
+  },
+  {
+    "q": "Conséquences des anomalies des organes du SI : lesquelles sont exactes ?",
+    "options": [
+      "Défaut de production = déficit immunitaire",
+      "Anomalie de maturation/différenciation = déficit immunitaire",
+      "Ces déficits peuvent être graves",
+      "Aucune conséquence clinique",
+      "Seule la rate est indispensable"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : défaut de production = déficit.",
+      "Exact : anomalie de maturation = déficit.",
+      "Exact : ces déficits peuvent être graves.",
+      "Inexact : les conséquences sont majeures.",
+      "Inexact : tous les organes centraux sont indispensables."
+    ]
+  },
+  {
+    "q": "Concernant l'organisation structurée du tissu lymphoïde, lesquelles sont exactes ?",
+    "options": [
+      "Follicules avec DC folliculaires et LB",
+      "Ganglions et rate les plus organisés",
+      "Centres germinatifs après stimulation",
+      "Absence d'organisation dans les organes secondaires",
+      "Organisation identique dans la moelle osseuse"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : follicules = DC folliculaires + LB.",
+      "Exact : ganglions et rate les plus organisés.",
+      "Exact : centres germinatifs post-stimulation.",
+      "Inexact : les organes secondaires sont organisés.",
+      "Inexact : la MO à un tissu lymphoïde diffus."
+    ]
+  },
+  {
+    "q": "Concernant la circulation des cellules et antigènes entre organes, lesquelles sont exactes ?",
+    "options": [
+      "La lymphe amène les Ag tissulaires aux ganglions",
+      "Le sang amène les Ag à la rate",
+      "Les lymphocytes recirculent via le sang et la lymphe",
+      "Les Ag sanguins vont aux ganglions",
+      "Les Ag tissulaires vont directement à la rate"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Exact : la lymphe draine les Ag vers les ganglions.",
+      "Exact : le sang amène les Ag à la rate.",
+      "Exact : recirculation lymphocytaire permanente.",
+      "Inexact : les Ag sanguins vont à la rate.",
+      "Inexact : les Ag tissulaires vont aux ganglions."
+    ]
+  },
+  {
+    "q": "Question de synthèse sur le chapitre : lesquelles sont exactes ?",
+    "options": [
+      "Les organes centraux produisent et maturent les cellules du SI",
+      "Les organes périphériques déclenchent la réponse immunitaire",
+      "La lymphe et le sang relient ces organes",
+      "Toute anomalie peut causer un grave déficit immunitaire",
+      "Le thymus est un organe lymphoïde secondaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Exact : production et maturation centrales.",
+      "Exact : déclenchement périphérique de la RI.",
+      "Exact : les deux circulations relient les organes.",
+      "Exact : les anomalies centrales causent de graves déficits.",
+      "Inexact : le thymus est un organe primaire."
+    ]
+  }
+]

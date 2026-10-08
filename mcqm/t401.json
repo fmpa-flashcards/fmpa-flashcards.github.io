@@ -1,0 +1,4416 @@
+[
+ {
+  "q": "Parmi les propositions suivantes concernant la numération plaquettaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle se réalise sur sang recueilli sur EDTA.",
+   "Elle utilise une technique automatisée.",
+   "La valeur normale se situe entre 150 et 400 G/L.",
+   "Elle se réalise de préférence sur sang citraté.",
+   "La technique automatisée est la technique de référence."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la numération plaquettaire se fait sur sang EDTA.",
+   "Vrai : la technique automatisée est utilisée en routine.",
+   "Vrai : les valeurs normales sont de 150 à 400 G/L.",
+   "Faux : le tube requis est l'EDTA, pas le tube citraté.",
+   "Faux : la technique de référence est la technique manuelle."
+  ]
+ },
+ {
+  "q": "Concernant les fausses thrombopénies, quelles propositions sont correctes ?",
+  "options": [
+   "Un frottis sanguin permet de rechercher des agrégats plaquettaires.",
+   "Le frottis permet d'évaluer la taille des plaquettes.",
+   "Le satellitisme plaquettaire peut être visualisé sur frottis.",
+   "La technique manuelle est la technique de référence.",
+   "Les fausses thrombopénies se corrigent par simple ajout de citrate."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le frottis recherche les agrégats plaquettaires.",
+   "Vrai : la taille des plaquettes s'évalue sur frottis.",
+   "Vrai : le satellitisme est visible sur frottis.",
+   "Vrai : la technique manuelle est la technique de référence.",
+   "Faux : l'élimination repose sur frottis, technique manuelle ou fluorimétrie."
+  ]
+ },
+ {
+  "q": "Au sujet de la conduite à tenir devant une thrombopénie découverte au laboratoire, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Il faut éliminer une fausse thrombopénie.",
+   "Le frottis sanguin recherche des agrégats plaquettaires.",
+   "La taille des plaquettes et le satellitisme sont examinés.",
+   "La technique manuelle est la technique de référence.",
+   "Il faut conclure d'emblée à une thrombopénie centrale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : toute thrombopénie impose d'éliminer une fausse thrombopénie.",
+   "Vrai : les agrégats sont recherchés sur frottis.",
+   "Vrai : taille et satellitisme font partie de l'examen du frottis.",
+   "Vrai : la technique manuelle est la référence.",
+   "Faux : l'origine centrale ou périphérique relève du diagnostic étiologique, pas du laboratoire initial."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes relatives au tube EDTA en numération plaquettaire, lesquelles sont exactes ?",
+  "options": [
+   "Le sang est recueilli sur EDTA pour la numération plaquettaire.",
+   "La technique automatisée est la technique de routine.",
+   "La fluorimétrie est utilisée actuellement.",
+   "Le tube EDTA est réservé au dosage du fibrinogène.",
+   "Les valeurs normales sont de 150 à 400 G/L."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la numération se fait sur sang EDTA.",
+   "Vrai : la technique automatisée est la routine.",
+   "Vrai : la fluorimétrie est utilisée actuellement.",
+   "Faux : le fibrinogène se dose sur plasma citraté.",
+   "Vrai : la normale est de 150 à 400 G/L."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes à propos des techniques de numération plaquettaire ?",
+  "options": [
+   "La technique automatisée est utilisée en routine.",
+   "La technique manuelle est la technique de référence.",
+   "La fluorimétrie est utilisée actuellement.",
+   "La numération se fait sur sang hépariné.",
+   "Les valeurs normales vont de 150 à 400 G/L."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'automate est la technique de routine.",
+   "Vrai : la technique manuelle est la référence.",
+   "Vrai : la fluorimétrie est utilisée actuellement.",
+   "Faux : le recueil se fait sur EDTA.",
+   "Vrai : 150 à 400 G/L est la normale."
+  ]
+ },
+ {
+  "q": "À propos du frottis sanguin dans l'exploration d'une thrombopénie, quelles sont les réponses correctes ?",
+  "options": [
+   "Il permet de détecter des agrégats plaquettaires.",
+   "Il permet d'apprécier la taille des plaquettes.",
+   "Il permet de visualiser un satellitisme plaquettaire.",
+   "Il remplace la technique manuelle de référence.",
+   "Il permet d'évaluer la morphologie érythrocytaire en priorité."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les agrégats sont recherchés sur frottis.",
+   "Vrai : la taille plaquettaire s'apprécie sur frottis.",
+   "Vrai : le satellitisme est visible sur frottis.",
+   "Faux : la technique manuelle reste la référence.",
+   "Faux : l'objectif ici est l'étude des plaquettes, pas des hématies."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le contrôle Unopette, lesquelles sont exactes ?",
+  "options": [
+   "Il permet de rechercher des agrégats plaquettaires.",
+   "Il se fait en alternative ou en complément du frottis.",
+   "L'absence d'agrégats écarte une fausse thrombopénie.",
+   "Il mesure l'activité cofacteur de la ristocétine.",
+   "Il remplace la numération plaquettaire automatisée."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le contrôle Unopette recherche les agrégats plaquettaires.",
+   "Vrai : le cours l'associe au frottis (contrôle Unopette ou frottis).",
+   "Vrai : sans agrégats, la thrombopénie n'est pas fausse.",
+   "Faux : le vWF RCoA explore le facteur Willebrand.",
+   "Faux : il s'agit d'un contrôle, pas d'une numération."
+  ]
+ },
+ {
+  "q": "Concernant la numération plaquettaire et ses contrôles, quelles propositions sont correctes ?",
+  "options": [
+   "Devant une thrombopénie, on élimine d'abord une fausse thrombopénie.",
+   "Le frottis sanguin est l'examen de première intention.",
+   "La technique manuelle est la technique de référence.",
+   "La vérification de la concordance identité/prescription fait partie du pré-analytique.",
+   "Une thrombopénie sur automate suffit à poser le diagnostic étiologique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'élimination d'une fausse thrombopénie est systématique.",
+   "Vrai : le frottis (agrégats, taille, satellitisme) est l'examen clé.",
+   "Vrai : la technique manuelle est la référence.",
+   "Vrai : la concordance identité/prescription est vérifiée.",
+   "Faux : le diagnostic étiologique nécessite l'ensemble du bilan."
+  ]
+ },
+ {
+  "q": "Au sujet du temps de saignement, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Il mesure la durée de l'hémorragie provoquée par une brèche dermoépidermique.",
+   "Il explore l'hémostase primaire.",
+   "C'est un test réalisé in vivo.",
+   "Il se mesure sur plasma pauvre en plaquettes recalcifié.",
+   "Il est équivalent au temps d'occlusion."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : définition du temps de saignement.",
+   "Vrai : il fait partie de l'exploration de l'hémostase primaire.",
+   "Vrai : le TS est un test in vivo.",
+   "Faux : cela décrit le TQ/TCA, pas le TS.",
+   "Faux : le temps d'occlusion (PFA-100) est le TS in vitro."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le test de Duke, lesquelles sont exactes ?",
+  "options": [
+   "Il consiste en une incision à l'oreille avec un vaccinostyle.",
+   "Le temps d'arrêt normal du saignement est de 2 à 4 minutes.",
+   "C'est un test abandonné.",
+   "Il nécessite un garrot gonflé à 4 cmHg.",
+   "Il se réalise à l'avant-bras."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le test de Duke est une incision à l'oreille.",
+   "Vrai : la normale est de 2 à 4 minutes.",
+   "Vrai : ce test est abandonné.",
+   "Faux : le garrot concerne le test d'Ivy-incision.",
+   "Faux : l'avant-bras concerne le test d'Ivy."
+  ]
+ },
+ {
+  "q": "Concernant le test d'Ivy-incision, quelles propositions sont correctes ?",
+  "options": [
+   "Un garrot est gonflé au bras à une pression de 4 cmHg.",
+   "L'incision horizontale est faite à l'avant-bras.",
+   "L'incision est réalisée avec un appareil spécial jetable.",
+   "La valeur normale est de 4 à 8 minutes.",
+   "L'incision comporte 3 points formant un triangle."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : garrot à 4 cmHg pour l'Ivy-incision.",
+   "Vrai : incision horizontale à l'avant-bras.",
+   "Vrai : appareil spécial jetable.",
+   "Vrai : la normale est de 4 à 8 minutes.",
+   "Faux : les 3 points en triangle définissent l'Ivy-3 points."
+  ]
+ },
+ {
+  "q": "À propos du test d'Ivy-3 points, quelles sont les réponses correctes ?",
+  "options": [
+   "Il est identique à l'Ivy-incision dans son principe.",
+   "L'incision comporte 3 points formant un triangle.",
+   "La valeur normale est de 2 à 4 minutes.",
+   "Il consiste en une incision à l'oreille.",
+   "C'est un test abandonné."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : même principe que l'Ivy-incision.",
+   "Vrai : 3 points formant un triangle.",
+   "Vrai : la normale est de 2 à 4 minutes.",
+   "Faux : l'oreille concerne le test de Duke.",
+   "Faux : seul le test de Duke est abandonné."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les limites du temps de saignement, lesquelles sont exactes ?",
+  "options": [
+   "Le test est ininterprétable si les plaquettes sont inférieures à 50 G/L.",
+   "L'expérience de l'opérateur influence le résultat.",
+   "La prise médicamenteuse, notamment l'aspirine, est une limite.",
+   "Le test est invalidé si les plaquettes sont inférieures à 150 G/L.",
+   "La température ambiante est la principale limite."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PLT < 50 G/L est une limite du TS.",
+   "Vrai : l'expérience de l'opérateur compte.",
+   "Vrai : la prise d'aspirine est une limite.",
+   "Faux : la limite citée est 50 G/L, pas 150 G/L.",
+   "Faux : la température n'est pas une limite citée."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes à propos des différents tests de temps de saignement ?",
+  "options": [
+   "Test de Duke : incision à l'oreille.",
+   "Test d'Ivy-incision : incision à l'avant-bras.",
+   "Test d'Ivy-3 points : 3 points formant un triangle.",
+   "Le test de Duke est toujours utilisé en routine.",
+   "Test d'Ivy-incision : valeur normale de 2 à 4 minutes."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le Duke se fait à l'oreille.",
+   "Vrai : l'Ivy-incision se fait à l'avant-bras.",
+   "Vrai : l'Ivy-3 points comporte 3 points en triangle.",
+   "Faux : le test de Duke est abandonné.",
+   "Faux : la normale de l'Ivy-incision est de 4 à 8 minutes."
+  ]
+ },
+ {
+  "q": "Concernant l'aspirine et le temps de saignement, quelles propositions sont correctes ?",
+  "options": [
+   "La prise médicamenteuse, dont l'aspirine, est une limite d'interprétation du TS.",
+   "Une prise d'aspirine doit être recherchée à l'interrogatoire.",
+   "Le temps de saignement reste normal sous aspirine.",
+   "L'aspirine augmente la numération plaquettaire.",
+   "L'aspirine raccourcit le temps d'occlusion au PFA-100."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : l'aspirine est citée comme limite du TS.",
+   "Vrai : l'interrogatoire recherche une aggravation après prise d'aspirine.",
+   "Faux : l'aspirine allonge le temps de saignement.",
+   "Faux : l'aspirine n'augmente pas la numération plaquettaire.",
+   "Faux : l'aspirine allonge le temps d'occlusion."
+  ]
+ },
+ {
+  "q": "Au sujet du temps de saignement et du temps d'occlusion, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Le temps de saignement est un test in vivo.",
+   "Le temps d'occlusion mesuré au PFA-100 est le TS in vitro.",
+   "Les deux explorent l'hémostase primaire.",
+   "Le temps de saignement se réalise sur sang citraté.",
+   "Le PFA-100 nécessite une incision cutanée."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le TS est un test in vivo.",
+   "Vrai : le temps d'occlusion est le TS in vitro.",
+   "Vrai : les deux explorent l'hémostase primaire.",
+   "Faux : le sang citraté concerne le PFA-100.",
+   "Faux : le PFA-100 est un test in vitro sur sang total."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le PFA-100, lesquelles sont exactes ?",
+  "options": [
+   "C'est un appareil appelé platelet function analyzer.",
+   "Le test utilise du sang total prélevé sur tube citraté.",
+   "Le sang est aspiré à travers un capillaire.",
+   "La membrane du capillaire est recouverte de collagène.",
+   "Le test se réalise sur plasma pauvre en plaquettes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : PFA-100 signifie platelet function analyzer.",
+   "Vrai : sang total sur tube citraté.",
+   "Vrai : le sang est aspiré à travers un capillaire.",
+   "Vrai : la membrane est recouverte de collagène.",
+   "Faux : le test utilise du sang total, pas du PPP."
+  ]
+ },
+ {
+  "q": "Concernant la membrane du PFA-100, quelles propositions sont correctes ?",
+  "options": [
+   "Elle est recouverte de collagène.",
+   "Elle comporte un activateur plaquettaire : l'épinéphrine ou l'ADP.",
+   "Elle est pourvue d'un orifice.",
+   "Le sang y est soumis à des taux de cisaillement élevés.",
+   "Elle est recouverte de facteur tissulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la membrane est recouverte de collagène.",
+   "Vrai : l'activateur est l'épinéphrine ou l'ADP.",
+   "Vrai : la membrane est pourvue d'un orifice.",
+   "Vrai : taux de cisaillement élevés.",
+   "Faux : le facteur tissulaire est utilisé dans le TQ."
+  ]
+ },
+ {
+  "q": "À propos des activateurs utilisés dans le PFA-100, quelles sont les réponses correctes ?",
+  "options": [
+   "La membrane est recouverte de collagène.",
+   "L'activateur plaquettaire est l'épinéphrine ou l'ADP.",
+   "Le sang est soumis à des taux de cisaillement élevés.",
+   "Le test utilise du sang total citraté.",
+   "L'acide arachidonique est l'activateur de la membrane."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : collagène sur la membrane.",
+   "Vrai : épinéphrine ou ADP comme activateur.",
+   "Vrai : taux de cisaillement élevés.",
+   "Vrai : sang total sur tube citraté.",
+   "Faux : l'acide arachidonique est un inducteur d'agrégométrie."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes relatives au temps d'occlusion, lesquelles sont exactes ?",
+  "options": [
+   "C'est le temps de saignement in vitro.",
+   "Il est mesuré par l'appareil PFA-100.",
+   "Il explore l'hémostase primaire.",
+   "Sa valeur normale est de 4 à 8 minutes.",
+   "Il se réalise sur plasma pauvre en plaquettes."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le temps d'occlusion est le TS in vitro.",
+   "Vrai : mesuré par le PFA-100.",
+   "Vrai : il explore l'hémostase primaire.",
+   "Faux : 4 à 8 minutes est la normale de l'Ivy-incision.",
+   "Faux : il se réalise sur sang total citraté."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes comparant le temps de saignement et le PFA-100 ?",
+  "options": [
+   "Le PFA-100 est un appareil automatisé.",
+   "Le temps de saignement dépend de l'expérience de l'opérateur.",
+   "Le PFA-100 utilise du sang total.",
+   "Le temps de saignement nécessite un garrot à 4 cmHg dans tous les tests.",
+   "Le PFA-100 explore la voie intrinsèque de la coagulation."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le PFA-100 est un appareil (platelet function analyzer).",
+   "Vrai : l'expérience de l'opérateur est une limite du TS.",
+   "Vrai : le PFA-100 utilise du sang total citraté.",
+   "Faux : le garrot à 4 cmHg ne concerne que l'Ivy-incision.",
+   "Faux : le PFA-100 explore l'hémostase primaire."
+  ]
+ },
+ {
+  "q": "Au sujet du capillaire du PFA-100, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Le sang y est aspiré.",
+   "Il débouche sur une membrane pourvue d'un orifice.",
+   "Le sang y subit des taux de cisaillement élevés.",
+   "Il contient de la céphaline.",
+   "Il est recouvert de facteur tissulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le sang est aspiré à travers le capillaire.",
+   "Vrai : le capillaire débouche sur une membrane à orifice.",
+   "Vrai : taux de cisaillement élevés.",
+   "Faux : la céphaline est utilisée dans le TCA.",
+   "Faux : le facteur tissulaire est utilisé dans le TQ."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'agrégométrie plaquettaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle étudie les courbes d'agrégation plaquettaire.",
+   "Elle utilise des inducteurs d'agrégation.",
+   "Elle explore les fonctions plaquettaires.",
+   "Elle mesure le temps de saignement in vivo.",
+   "Elle dose le fibrinogène plasmatique."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'agrégométrie étudie les courbes d'agrégation.",
+   "Vrai : en présence d'inducteurs d'agrégation.",
+   "Vrai : c'est une étude des fonctions plaquettaires.",
+   "Faux : le TS in vivo est un test cutané.",
+   "Faux : le fibrinogène se dose par la méthode de von Clauss."
+  ]
+ },
+ {
+  "q": "Concernant les inducteurs utilisés en agrégométrie, quelles propositions sont correctes ?",
+  "options": [
+   "L'ADP est un inducteur d'agrégation.",
+   "Le collagène est un inducteur d'agrégation.",
+   "L'acide arachidonique est un inducteur d'agrégation.",
+   "La ristocétine est un inducteur d'agrégométrie.",
+   "Le facteur tissulaire est un inducteur d'agrégométrie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'ADP est cité comme inducteur.",
+   "Vrai : le collagène est cité comme inducteur.",
+   "Vrai : l'acide arachidonique est cité comme inducteur.",
+   "Faux : la ristocétine sert au test fonctionnel du vWF.",
+   "Faux : le facteur tissulaire est utilisé dans le TQ."
+  ]
+ },
+ {
+  "q": "À propos de l'agrégométrie et du PFA-100, quelles sont les réponses correctes ?",
+  "options": [
+   "L'agrégométrie étudie les courbes d'agrégation plaquettaire.",
+   "Le PFA-100 mesure un temps d'occlusion.",
+   "Les deux explorent les fonctions plaquettaires.",
+   "L'agrégométrie mesure le temps de lyse des euglobulines.",
+   "Le PFA-100 utilise des inducteurs en cuve d'agrégométrie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : courbes d'agrégation en agrégométrie.",
+   "Vrai : temps d'occlusion au PFA-100.",
+   "Vrai : les deux explorent les fonctions plaquettaires.",
+   "Faux : le temps de lyse des euglobulines explore la fibrinolyse.",
+   "Faux : le PFA-100 utilise une membrane collagène + épinéphrine/ADP."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes relatives aux fonctions plaquettaires, lesquelles sont exactes ?",
+  "options": [
+   "L'agrégométrie étudie les fonctions plaquettaires.",
+   "Le PFA-100 évalue globalement les fonctions plaquettaires.",
+   "La numération plaquettaire quantifie les plaquettes.",
+   "Le temps de Quick explore les fonctions plaquettaires.",
+   "Le dosage du fibrinogène mesure les fonctions plaquettaires."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'agrégométrie est une étude des fonctions plaquettaires.",
+   "Vrai : le PFA-100 est un test global de la fonction plaquettaire.",
+   "Vrai : la numération quantifie les plaquettes.",
+   "Faux : le TQ explore la voie exogène de la coagulation.",
+   "Faux : le fibrinogène se dose par la méthode de von Clauss."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes à propos des inducteurs d'agrégation plaquettaire ?",
+  "options": [
+   "L'acide arachidonique est un inducteur cité par le cours.",
+   "Le collagène est un inducteur cité par le cours.",
+   "L'ADP est un inducteur cité par le cours.",
+   "La céphaline est un inducteur d'agrégométrie.",
+   "La thrombine dosée est un inducteur cité par le cours."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'acide arachidonique est cité.",
+   "Vrai : le collagène est cité.",
+   "Vrai : l'ADP est cité.",
+   "Faux : la céphaline est utilisée dans le TCA.",
+   "Faux : la thrombine n'est pas citée comme inducteur d'agrégométrie."
+  ]
+ },
+ {
+  "q": "Concernant l'exploration du facteur Willebrand, quelles propositions sont correctes ?",
+  "options": [
+   "La méthode immunologique mesure le vWF antigène (vWF:Ag).",
+   "La méthode fonctionnelle quantifie le vWF par son activité cofacteur de la ristocétine.",
+   "Les deux méthodes explorent le facteur Willebrand.",
+   "Le vWF:Ag mesure l'activité du facteur Willebrand.",
+   "La ristocétine est un inducteur d'agrégométrie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : méthode immunologique = mesure du vWF:Ag.",
+   "Vrai : méthode fonctionnelle = activité cofacteur de la ristocétine.",
+   "Vrai : les deux méthodes explorent le vWF.",
+   "Faux : le vWF:Ag mesure la quantité d'antigène.",
+   "Faux : la ristocétine sert au test fonctionnel du vWF."
+  ]
+ },
+ {
+  "q": "Au sujet du dosage immunologique du vWF, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "C'est une méthode immunologique.",
+   "Elle mesure la quantité d'antigène vWF (vWF:Ag).",
+   "C'est une méthode fonctionnelle.",
+   "Elle utilise la ristocétine comme réactif.",
+   "Elle quantifie le vWF par son activité."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : le dosage du vWF:Ag est immunologique.",
+   "Vrai : il mesure le vWF antigène.",
+   "Faux : la méthode fonctionnelle est l'activité cofacteur de la ristocétine.",
+   "Faux : la ristocétine est utilisée dans le test fonctionnel.",
+   "Faux : l'activité est mesurée par le test fonctionnel."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'activité cofacteur de la ristocétine, lesquelles sont exactes ?",
+  "options": [
+   "C'est le test fonctionnel du facteur Willebrand.",
+   "C'est une méthode fonctionnelle.",
+   "Elle quantifie le vWF par son activité.",
+   "C'est une méthode immunologique.",
+   "C'est un dosage du fibrinogène."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'activité cofacteur de la ristocétine (RCoA) est le test fonctionnel.",
+   "Vrai : c'est une méthode fonctionnelle.",
+   "Vrai : elle quantifie le vWF par son activité.",
+   "Faux : la méthode immunologique mesure le vWF:Ag.",
+   "Faux : le fibrinogène se dose par la méthode de von Clauss."
+  ]
+ },
+ {
+  "q": "À propos du facteur Willebrand dans l'hémostase primaire, quelles sont les réponses correctes ?",
+  "options": [
+   "Le vWF est l'un des 4 facteurs de l'hémostase primaire.",
+   "Son exploration fait partie du bilan d'hémostase primaire.",
+   "En pratique, l'exploration de l'hémostase primaire se résume aux fonctions plaquettaires et au vWF.",
+   "Le vWF est dosé par le temps de Quick.",
+   "Le vWF est un facteur vitamino-K dépendant."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : vaisseau, plaquettes, vWF et fibrinogène sont les 4 facteurs.",
+   "Vrai : le vWF est exploré dans l'hémostase primaire.",
+   "Vrai : résumé pratique du cours.",
+   "Faux : le TQ explore la voie exogène.",
+   "Faux : les facteurs vitamino-K dépendants sont II, VII, IX et X."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le vWF RCoA dans l'algorithme d'exploration ?",
+  "options": [
+   "Le vWF RCoA fait partie de l'algorithme d'exploration de l'hémostase primaire.",
+   "Un vWF RCoA abaissé conduit à l'étude du vWF.",
+   "Le dosage du vWF:Ag est une méthode immunologique.",
+   "Un vWF RCoA normal dispense de toute exploration plaquettaire.",
+   "Le vWF s'explore par le temps de thrombine."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le vWF RCoA figure dans l'algorithme.",
+   "Vrai : un RCoA abaissé oriente vers l'étude du vWF.",
+   "Vrai : le vWF:Ag est dosé par méthode immunologique.",
+   "Faux : l'algorithme prévoit aussi agrégation et CMF des GP.",
+   "Faux : le TT explore la transformation du fibrinogène en fibrine."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le signe du lacet, lesquelles sont exactes ?",
+  "options": [
+   "Il est recherché par compression veineuse ou dépression cutanée.",
+   "La formation de pétéchies définit un signe du lacet positif.",
+   "Un signe positif traduit une fragilité vasculaire.",
+   "C'est un test très reproductible.",
+   "C'est un test très informatif."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : compression veineuse ou dépression cutanée.",
+   "Vrai : pétéchies = signe du lacet positif.",
+   "Vrai : il traduit une fragilité vasculaire.",
+   "Faux : c'est un test peu reproductible.",
+   "Faux : c'est un test peu informatif."
+  ]
+ },
+ {
+  "q": "Concernant l'exploration de l'endothélium, quelles propositions sont correctes ?",
+  "options": [
+   "La cytométrie en flux étudie les récepteurs membranaires plaquettaires.",
+   "La cytométrie en flux étudie les cellules endothéliales circulantes.",
+   "Le signe du lacet est un test peu reproductible et peu informatif.",
+   "Le temps de saignement explore spécifiquement l'endothélium.",
+   "Le PFA-100 mesure la fragilité vasculaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : récepteurs membranaires plaquettaires en cytométrie.",
+   "Vrai : cellules endothéliales circulantes en cytométrie.",
+   "Vrai : le signe du lacet est peu reproductible et peu informatif.",
+   "Faux : le TS explore globalement l'hémostase primaire.",
+   "Faux : le PFA-100 explore la fonction plaquettaire."
+  ]
+ },
+ {
+  "q": "Au sujet de l'exploration pratique de l'hémostase primaire, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Elle se résume à l'étude des fonctions plaquettaires.",
+   "Elle se résume à l'étude du facteur Willebrand.",
+   "Le dosage des facteurs VIII et IX en est la base.",
+   "Le temps de Quick en est l'examen central.",
+   "Les D-dimères en sont l'examen de première intention."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : les fonctions plaquettaires en sont le résumé pratique.",
+   "Vrai : le vWF en est le résumé pratique.",
+   "Faux : les facteurs VIII/IX relèvent de l'exploration de la coagulation.",
+   "Faux : le TQ explore la voie exogène.",
+   "Faux : les D-dimères explorent la fibrinolyse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'algorithme d'exploration de l'hémostase primaire, lesquelles sont exactes ?",
+  "options": [
+   "Une numération plaquettaire normale conduit au TS ou au PFA-100.",
+   "La présence d'agrégats impose un contrôle Unopette ou un frottis.",
+   "Le vWF RCoA fait partie de l'algorithme.",
+   "Le TP est systématique dans cet algorithme.",
+   "Le TCA est systématique dans cet algorithme."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PLT normales → TS ou PFA-100.",
+   "Vrai : agrégats → contrôle Unopette ou frottis.",
+   "Vrai : le vWF RCoA figure dans l'algorithme.",
+   "Faux : le TP explore la voie exogène de la coagulation.",
+   "Faux : le TCA explore la voie intrinsèque de la coagulation."
+  ]
+ },
+ {
+  "q": "À propos de la suite de l'algorithme d'exploration de l'hémostase primaire, quelles sont les réponses correctes ?",
+  "options": [
+   "Un vWF RCoA abaissé conduit à l'étude du vWF.",
+   "L'agrégation plaquettaire et la CMF des GP explorent les thrombopathies.",
+   "L'absence d'agrégats écarte une fausse thrombopénie.",
+   "Une vraie numération abaissée oriente vers les thrombopénies.",
+   "Le dosage du fibrinogène est l'examen de première intention."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : RCoA abaissé → étude du vWF.",
+   "Vrai : agrégation + CMF des GP → thrombopathies.",
+   "Vrai : sans agrégats, pas de fausse thrombopénie.",
+   "Vrai : l'algorithme prévoit la branche thrombopénies.",
+   "Faux : le fibrinogène relève de l'exploration de la coagulation."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la mise en confiance du patient avant le prélèvement d'hémostase ?",
+  "options": [
+   "Il faut éviter le stress du patient.",
+   "Le stress élève le facteur VIII.",
+   "Le stress stimule la fibrinolyse.",
+   "Le stress active les plaquettes.",
+   "Le stress diminue le fibrinogène."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : mise en confiance pour éviter le stress.",
+   "Vrai : le stress élève le facteur VIII.",
+   "Vrai : le stress stimule la fibrinolyse.",
+   "Vrai : le stress active les plaquettes.",
+   "Faux : cet effet n'est pas décrit."
+  ]
+ },
+ {
+  "q": "Concernant les précautions avant le prélèvement, quelles propositions sont correctes ?",
+  "options": [
+   "Il faut éviter le café et le tabac dans l'heure qui précède le prélèvement.",
+   "Le stress élève le facteur VIII.",
+   "Le tabac est sans effet sur l'hémostase.",
+   "Le café est recommandé avant le prélèvement.",
+   "Seul le jeûne a une importance."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : éviter café et tabac dans l'heure avant.",
+   "Vrai : le stress élève le facteur VIII.",
+   "Faux : le tabac est à éviter avant le prélèvement.",
+   "Faux : le café est à éviter avant le prélèvement.",
+   "Faux : stress, café et tabac sont cités."
+  ]
+ },
+ {
+  "q": "Au sujet du matériel de prélèvement pour l'hémostase, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Le matériel est en verre siliconé.",
+   "On utilise des tubes à dépression de type Vacutainer.",
+   "Il faut respecter les dates de péremption.",
+   "Le verre non siliconé est recommandé.",
+   "Les tubes à bouchon ouvert sont préférés."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : matériel en verre siliconé.",
+   "Vrai : tubes à dépression (Vacutainer).",
+   "Vrai : respect des dates de péremption.",
+   "Faux : le verre doit être siliconé.",
+   "Faux : ce sont des tubes à dépression fermés."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'anticoagulant du prélèvement d'hémostase, lesquelles sont exactes ?",
+  "options": [
+   "Le prélèvement est effectué sur citrate de sodium.",
+   "La concentration recommandée est de 0,109 mole (3,2 % : OMS).",
+   "La concentration acceptable est de 0,129 mole (3,8 % : France).",
+   "L'anticoagulant de choix est l'héparinate de lithium.",
+   "L'EDTA est l'anticoagulant des tests de coagulation."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : citrate de sodium (citrate trisodique).",
+   "Vrai : 0,109 mole, 3,2 %, recommandation OMS.",
+   "Vrai : 0,129 mole, 3,8 %, acceptable en France.",
+   "Faux : l'héparine est proscrite pour l'hémostase.",
+   "Faux : l'EDTA sert à la numération, pas à la coagulation."
+  ]
+ },
+ {
+  "q": "Concernant l'identification du prélèvement, quelles propositions sont correctes ?",
+  "options": [
+   "Le prélèvement doit être horodaté.",
+   "L'étiquetage du tube est obligatoire.",
+   "La concordance identité/prescription est vérifiée.",
+   "Des codes-barres sont apposés à la réception.",
+   "L'anonymisation systématique est exigée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : horodatage du prélèvement.",
+   "Vrai : étiquetage obligatoire.",
+   "Vrai : vérification de la concordance identité/prescription.",
+   "Vrai : codes-barres apposés à la réception au laboratoire.",
+   "Faux : l'identification est au contraire rigoureuse."
+  ]
+ },
+ {
+  "q": "À propos de l'ordre des tubes lors d'un prélèvement multiple, quelles sont les réponses correctes ?",
+  "options": [
+   "L'hémoculture est prélevée en premier.",
+   "Le tube sans additif précède le tube citraté.",
+   "Le tube citraté précède le tube EDTA.",
+   "On ne prélève jamais après un tube hépariné.",
+   "Le tube EDTA précède le tube citraté."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : hémoculture en premier.",
+   "Vrai : tube sans additif avant le citrate.",
+   "Vrai : citrate avant l'EDTA.",
+   "Vrai : jamais de prélèvement après un tube hépariné.",
+   "Faux : l'ordre est citrate puis EDTA."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes à propos de l'interdit du tube hépariné avant le citrate ?",
+  "options": [
+   "Il ne faut jamais prélever le citrate après un tube hépariné.",
+   "L'héparine contaminerait le prélèvement d'hémostase.",
+   "L'ordre recommandé est hémoculture, sans additif, citrate, EDTA.",
+   "L'héparine est l'anticoagulant de choix pour l'hémostase.",
+   "L'ordre des tubes est indifférent."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : jamais après un tube hépariné.",
+   "Vrai : risque de contamination par l'héparine.",
+   "Vrai : tel est l'ordre recommandé.",
+   "Faux : l'anticoagulant de l'hémostase est le citrate.",
+   "Faux : l'ordre des tubes est strict."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le mélange du tube citraté, lesquelles sont exactes ?",
+  "options": [
+   "Le tube est mélangé immédiatement après le prélèvement.",
+   "Le mélange se fait par retournements successifs.",
+   "Il faut mélanger sans faire mousser.",
+   "Une agitation vigoureuse est recommandée.",
+   "Le mélange se fait après la centrifugation."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : mélange immédiat.",
+   "Vrai : par retournements successifs.",
+   "Vrai : sans faire mousser.",
+   "Faux : l'agitation vigoureuse est proscrite.",
+   "Faux : le mélange suit immédiatement le prélèvement."
+  ]
+ },
+ {
+  "q": "Concernant le choix de la veine pour le prélèvement d'hémostase, quelles propositions sont correctes ?",
+  "options": [
+   "On choisit le bras opposé à une perfusion.",
+   "Chez l'hémodialysé, on choisit le bras opposé à la fistule artério-veineuse.",
+   "Le choix du bras est indifférent.",
+   "On prélève directement sur la fistule.",
+   "On prélève sur le bras perfusé."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : bras opposé à une perfusion.",
+   "Vrai : bras opposé à la fistule chez l'hémodialysé.",
+   "Faux : le choix du bras est codifié.",
+   "Faux : jamais sur la fistule.",
+   "Faux : jamais sur le bras perfusé."
+  ]
+ },
+ {
+  "q": "Au sujet du matériel d'injection pour le prélèvement d'hémostase, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Il ne faut pas prélever à la seringue.",
+   "Il ne faut pas d'écoulement direct.",
+   "Le prélèvement sur cathéter est à éviter (traces d'héparine).",
+   "Sur cathéter, on rejette 5 à 10 mL avant le prélèvement.",
+   "La seringue est le matériel recommandé."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas de prélèvement à la seringue.",
+   "Vrai : pas d'écoulement direct.",
+   "Vrai : cathéter à éviter à cause des traces d'héparine.",
+   "Vrai : rejet de 5 à 10 mL si prélèvement sur cathéter.",
+   "Faux : la seringue est proscrite."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le rapport anticoagulant/volume de sang, lesquelles sont exactes ?",
+  "options": [
+   "Le rapport est d'un volume d'anticoagulant pour 9 volumes de sang.",
+   "L'excès de citrate allonge artificiellement les temps de coagulation.",
+   "Le défaut de citrate favorise l'activation plaquettaire.",
+   "Le rapport recommandé est de 1 volume pour 4 volumes de sang.",
+   "L'excès de citrate raccourcit le TCA."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : rapport 1 volume d'anticoagulant / 9 volumes de sang.",
+   "Vrai : l'excès de citrate allonge artificiellement les temps.",
+   "Vrai : le défaut de citrate favorise l'activation plaquettaire.",
+   "Faux : le rapport est de 1 pour 9.",
+   "Faux : l'excès de citrate allonge les temps."
+  ]
+ },
+ {
+  "q": "Concernant les conséquences d'un mauvais rapport citrate/sang, quelles propositions sont correctes ?",
+  "options": [
+   "L'excès de citrate dans le plasma allonge artificiellement les temps de coagulation.",
+   "Le défaut de citrate favorise l'activation plaquettaire.",
+   "Le rapport recommandé est de 1/9.",
+   "L'excès de citrate est sans conséquence sur les tests.",
+   "Le défaut de citrate allonge le temps de Quick."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'excès de citrate allonge artificiellement les temps.",
+   "Vrai : le défaut de citrate favorise l'activation plaquettaire.",
+   "Vrai : 1 volume d'anticoagulant pour 9 volumes de sang.",
+   "Faux : l'excès de citrate fausse les temps.",
+   "Faux : c'est l'excès, pas le défaut, qui allonge les temps."
+  ]
+ },
+ {
+  "q": "À propos de l'effet du pH sur les tests d'hémostase, quelles sont les réponses correctes ?",
+  "options": [
+   "Le pH doit rester entre 7,1 et 7,35.",
+   "Le temps de Quick est sensible aux variations de pH.",
+   "Le tampon utilisé est l'acide citrique.",
+   "Le citrate a un pH basique de 8,60.",
+   "Le pH n'influence aucun test d'hémostase."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pH maintenu entre 7,1 et 7,35.",
+   "Vrai : le TQ est sensible aux variations de pH.",
+   "Vrai : tampon acide citrique.",
+   "Vrai : citrate à pH basique de 8,60.",
+   "Faux : le TQ est sensible au pH."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'effet de l'hématocrite sur le prélèvement ?",
+  "options": [
+   "Pour un hématocrite supérieur à 55 %, il faut modifier le volume d'anticoagulant.",
+   "Pour un hématocrite inférieur à 30 %, il faut modifier le volume d'anticoagulant.",
+   "La formule de McGann permet ce calcul.",
+   "La formule d'Ingram permet ce calcul.",
+   "L'hématocrite n'influence pas le prélèvement d'hémostase."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ht > 55 % impose d'ajuster l'anticoagulant.",
+   "Vrai : Ht < 30 % impose d'ajuster l'anticoagulant.",
+   "Vrai : formule de McGann citée.",
+   "Vrai : formule d'Ingram citée.",
+   "Faux : l'hématocrite extrême fausse le rapport citrate/sang."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les tubes Stabilyte, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des tubes acides.",
+   "Ils sont utilisés pour le t-PA et le PAI.",
+   "Ce sont des tubes citratés standards.",
+   "Ils servent au dosage du fibrinogène.",
+   "Ils remplacent le citrate pour le temps de Quick."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : les tubes Stabilyte sont des tubes acides.",
+   "Vrai : ils concernent le t-PA et le PAI.",
+   "Faux : ce sont des tubes acides spécifiques.",
+   "Faux : le fibrinogène se dose sur citrate standard.",
+   "Faux : le TQ se fait sur tube citraté."
+  ]
+ },
+ {
+  "q": "Concernant le garrot lors du prélèvement d'hémostase, quelles propositions sont correctes ?",
+  "options": [
+   "La durée de maintien du garrot doit être inférieure à 1 minute.",
+   "Le garrot est interdit en hémostase.",
+   "Un maintien de 5 minutes est recommandé.",
+   "Le garrot n'a aucune importance.",
+   "Pour le test d'Ivy-incision, le garrot est gonflé à 4 cmHg."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Vrai : garrot maintenu moins d'1 minute.",
+   "Faux : le garrot est autorisé brièvement.",
+   "Faux : la durée doit rester inférieure à 1 minute.",
+   "Faux : la durée du garrot est codifiée.",
+   "Vrai : 4 cmHg pour l'Ivy-incision."
+  ]
+ },
+ {
+  "q": "Au sujet du transfert du prélèvement au laboratoire, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "L'acheminement se fait en position verticale.",
+   "Il faut éviter les chocs.",
+   "La température de transport est de 20 ± 2 °C.",
+   "En dessous de 4 °C, il y a activation plaquettaire.",
+   "Au-dessus de 30 °C, les tests restent inchangés."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : acheminement en position verticale.",
+   "Vrai : éviter les chocs.",
+   "Vrai : température ambiante 20 ± 2 °C.",
+   "Vrai : < 4 °C = activation plaquettaire.",
+   "Faux : > 30 °C, les facteurs sont thermolabiles."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la température de transport, lesquelles sont exactes ?",
+  "options": [
+   "En dessous de 4 °C, on observe une activation plaquettaire.",
+   "Au-dessus de 30 °C, les facteurs de la coagulation sont thermolabiles.",
+   "Le transport se fait à température ambiante (20 ± 2 °C).",
+   "La congélation du tube est recommandée.",
+   "Le transport se fait à 37 °C."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : < 4 °C = activation plaquettaire.",
+   "Vrai : > 30 °C = facteurs thermolabiles.",
+   "Vrai : 20 ± 2 °C.",
+   "Faux : la congélation n'est pas recommandée.",
+   "Faux : le transport se fait à température ambiante."
+  ]
+ },
+ {
+  "q": "Concernant le délai avant le test d'hémostase, quelles propositions sont correctes ?",
+  "options": [
+   "Le délai recommandé est inférieur à 2 heures.",
+   "Un délai de 4 heures est acceptable si le tube est centrifugé.",
+   "Au-delà de 4 heures, le prélèvement est non conforme.",
+   "Un délai de 24 heures est acceptable.",
+   "Il n'y a pas de limite si le tube est réfrigéré."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : délai recommandé < 2 h.",
+   "Vrai : 4 h acceptable si centrifugé.",
+   "Vrai : > 4 h = non conforme.",
+   "Faux : 24 h dépasse largement la limite.",
+   "Faux : le froid active les plaquettes."
+  ]
+ },
+ {
+  "q": "À propos de la centrifugation pour les tests d'hémostase, quelles sont les réponses correctes ?",
+  "options": [
+   "Elle est thermostatée entre 15 et 20 °C.",
+   "Le PPP est obtenu par double centrifugation : 2 x 2500 g, 15 min.",
+   "La double centrifugation est recommandée surtout si l'examen est différé.",
+   "Le PRP est obtenu à 180-200 g pendant 10 à 20 min.",
+   "La centrifugation se fait à 4 °C."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : centrifugation thermostatée 15 à 20 °C.",
+   "Vrai : PPP = 2 x 2500 g, 15 min.",
+   "Vrai : surtout si examen différé.",
+   "Vrai : PRP = 180-200 g, 10 à 20 min.",
+   "Faux : 15 à 20 °C, pas 4 °C."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes comparant PRP et PPP ?",
+  "options": [
+   "Le PRP est obtenu à 180-200 g pendant 10 à 20 min.",
+   "Le PPP est obtenu par double centrifugation à 2 x 2500 g, 15 min.",
+   "Le temps de Quick se réalise sur PPP.",
+   "Le PFA-100 se réalise sur PPP.",
+   "La numération plaquettaire se fait sur PPP."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PRP = 180-200 g, 10 à 20 min.",
+   "Vrai : PPP = 2 x 2500 g, 15 min.",
+   "Vrai : le TQ se fait sur PPP recalcifié.",
+   "Faux : le PFA-100 utilise du sang total citraté.",
+   "Faux : la numération se fait sur sang total EDTA."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le principe du temps de Quick, lesquelles sont exactes ?",
+  "options": [
+   "C'est le temps de coagulation à 37 °C d'un PPP recalcifié.",
+   "On ajoute un excès de facteur tissulaire.",
+   "On ajoute des phospholipides (thromboplastine calcique).",
+   "La valeur normale est de 10 à 14 secondes.",
+   "On active le système contact par la silice."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : PPP recalcifié à 37 °C.",
+   "Vrai : excès de facteur tissulaire.",
+   "Vrai : thromboplastine calcique (FT + PL).",
+   "Vrai : normale 10 à 14 s.",
+   "Faux : le système contact est activé dans le TCA."
+  ]
+ },
+ {
+  "q": "Concernant les indications du temps de Quick, quelles propositions sont correctes ?",
+  "options": [
+   "Le bilan préopératoire.",
+   "La recherche d'un désordre de la voie exogène.",
+   "L'évaluation du degré d'insuffisance hépato-cellulaire.",
+   "La surveillance d'un traitement anticoagulant oral.",
+   "La surveillance d'un traitement par héparine non fractionnée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bilan préopératoire.",
+   "Vrai : désordre de la voie exogène.",
+   "Vrai : insuffisance hépato-cellulaire.",
+   "Vrai : anticoagulants oraux.",
+   "Faux : l'HNF se surveille par le TCA."
+  ]
+ },
+ {
+  "q": "Au sujet du facteur tissulaire dans le temps de Quick, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Le facteur tissulaire est l'initiateur de la coagulation.",
+   "Il est utilisé en excès dans le temps de Quick.",
+   "La thromboplastine calcique en apporte avec les phospholipides.",
+   "C'est un activateur du système contact.",
+   "Il est utilisé dans le TCA."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le FT est l'initiateur de la coagulation.",
+   "Vrai : excès de FT dans le TQ.",
+   "Vrai : la thromboplastine calcique = FT + PL.",
+   "Faux : le système contact est activé par silice, kaolin, acide ellagique.",
+   "Faux : le TCA utilise la céphaline."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les interférences du temps de Quick, lesquelles sont exactes ?",
+  "options": [
+   "Le TQ est sensible aux variations de pH.",
+   "Le pH doit rester entre 7,1 et 7,35.",
+   "L'excès de citrate l'allonge artificiellement.",
+   "Le TQ est insensible à l'héparine.",
+   "Sa valeur normale est de 10 à 14 secondes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le TQ est sensible aux variations de pH.",
+   "Vrai : pH maintenu entre 7,1 et 7,35.",
+   "Vrai : l'excès de citrate allonge artificiellement les temps.",
+   "Faux : cette insensibilité n'est pas décrite.",
+   "Vrai : normale 10 à 14 s."
+  ]
+ },
+ {
+  "q": "Concernant la comparaison entre temps de Quick et TCA, quelles propositions sont correctes ?",
+  "options": [
+   "Le TQ utilise la thromboplastine calcique.",
+   "Le TCA utilise la céphaline et un activateur du système contact.",
+   "TQ : 10 à 14 s ; TCA : témoin ± 8 s.",
+   "Les deux se mesurent à 37 °C sur PPP recalcifié.",
+   "Le TQ et le TCA ont un principe identique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : thromboplastine calcique pour le TQ.",
+   "Vrai : céphaline + activateur du contact pour le TCA.",
+   "Vrai : telles sont les valeurs normales.",
+   "Vrai : 37 °C sur PPP recalcifié pour les deux.",
+   "Faux : FT + PL d'un côté, céphaline + contact de l'autre."
+  ]
+ },
+ {
+  "q": "À propos du plasma pauvre en plaquettes, quelles sont les réponses correctes ?",
+  "options": [
+   "Le PPP est un plasma pauvre en plaquettes.",
+   "Il est obtenu par double centrifugation à 2 x 2500 g pendant 15 min.",
+   "Le TQ, le TCA, le TT et le dosage du fibrinogène se font sur PPP.",
+   "La centrifugation est thermostatée à 15-20 °C.",
+   "Il est obtenu à 180-200 g."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : PPP = plasma pauvre en plaquettes.",
+   "Vrai : double centrifugation 2 x 2500 g, 15 min.",
+   "Vrai : TQ, TCA, TT et von Clauss se font sur PPP.",
+   "Vrai : 15 à 20 °C.",
+   "Faux : 180-200 g donne le PRP."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes à propos du taux de prothrombine ?",
+  "options": [
+   "C'est la conversion du temps de Quick de secondes en pourcentage.",
+   "La conversion utilise la courbe de Thyvolle.",
+   "La valeur normale est de 70 à 100 % selon les réactifs.",
+   "Il dérive du TCA.",
+   "Il s'exprime en secondes."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le TP convertit les secondes en %.",
+   "Vrai : courbe de Thyvolle.",
+   "Vrai : VN 70-100 % selon réactifs.",
+   "Faux : il dérive du TQ.",
+   "Faux : il s'exprime en pourcentage."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant TQ et TP, lesquelles sont exactes ?",
+  "options": [
+   "TP signifie taux de prothrombine.",
+   "Le TQ s'exprime en secondes (10 à 14 s).",
+   "Le TP s'exprime en pourcentage.",
+   "Le TP mesure le temps de céphaline.",
+   "La valeur normale du TP est de 30 à 35 s."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : TP = taux de prothrombine.",
+   "Vrai : TQ en secondes, 10 à 14 s.",
+   "Vrai : TP en pourcentage.",
+   "Faux : le temps de céphaline est le TCA.",
+   "Faux : 30-35 s est la normale du TCA."
+  ]
+ },
+ {
+  "q": "Concernant la courbe de Thyvolle, quelles propositions sont correctes ?",
+  "options": [
+   "Elle permet la conversion du temps en taux.",
+   "Le taux de prothrombine en dépend.",
+   "La valeur normale du TP est de 70 à 100 %.",
+   "Elle est utilisée pour le TCA.",
+   "Elle permet de calculer l'INR."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : conversion secondes → %.",
+   "Vrai : le TP utilise la courbe de Thyvolle.",
+   "Vrai : VN 70-100 %.",
+   "Faux : elle concerne le TQ/TP.",
+   "Faux : l'INR = (TQ M / TQ T) puissance ISI."
+  ]
+ },
+ {
+  "q": "Au sujet de la formule de l'INR, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "INR = (TQ malade / TQ témoin) puissance ISI.",
+   "L'ISI est l'indice de sensibilité international de la thromboplastine.",
+   "L'INR standardise le TQ entre laboratoires.",
+   "INR = TQ x ISI.",
+   "L'ISI est propre à chaque patient."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : telle est la formule de l'INR.",
+   "Vrai : ISI = indice de sensibilité international.",
+   "Vrai : l'INR est un ratio international normalisé.",
+   "Faux : c'est une puissance, pas une multiplication.",
+   "Faux : l'ISI est propre à la thromboplastine utilisée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'ISI, lesquelles sont exactes ?",
+  "options": [
+   "ISI signifie indice de sensibilité international.",
+   "Il est propre à la thromboplastine utilisée.",
+   "Il existe des INR mesurés sur automate.",
+   "Il est identique pour tous les réactifs.",
+   "Il s'exprime en secondes."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : indice de sensibilité international.",
+   "Vrai : ISI de la thromboplastine utilisée.",
+   "Vrai : des INR sont mesurés sur automate.",
+   "Faux : chaque thromboplastine a son ISI.",
+   "Faux : l'ISI est un indice sans unité de temps."
+  ]
+ },
+ {
+  "q": "Concernant la surveillance des traitements anticoagulants, quelles propositions sont correctes ?",
+  "options": [
+   "L'INR surveille les patients sous antivitamines K.",
+   "Le TQ surveille les traitements anticoagulants oraux.",
+   "Le TCA surveille l'héparine non fractionnée.",
+   "L'INR surveille l'héparine non fractionnée.",
+   "Le TCA surveille les antivitamines K."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : INR pour les AVK.",
+   "Vrai : TQ pour les anticoagulants oraux.",
+   "Vrai : TCA pour l'HNF.",
+   "Faux : l'HNF se surveille par le TCA.",
+   "Faux : les AVK se surveillent par l'INR."
+  ]
+ },
+ {
+  "q": "À propos du TP et de l'INR, quelles sont les réponses correctes ?",
+  "options": [
+   "Le TP est la conversion du TQ en pourcentage (70 à 100 %).",
+   "L'INR = (TQ malade / TQ témoin) puissance ISI.",
+   "Les deux dérivent du temps de Quick.",
+   "Le TP est utilisé pour surveiller les AVK.",
+   "L'INR s'exprime en pourcentage."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : TP = TQ converti en %, 70-100 %.",
+   "Vrai : formule de l'INR.",
+   "Vrai : les deux dérivent du TQ.",
+   "Faux : les AVK se surveillent par l'INR.",
+   "Faux : l'INR est un ratio sans unité."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le principe du TCA ?",
+  "options": [
+   "C'est le temps de coagulation à 37 °C d'un PPP recalcifié.",
+   "On ajoute des phospholipides : la céphaline, substitut plaquettaire.",
+   "Le système contact est complètement activé avant la mesure.",
+   "Les activateurs sont la silice, le kaolin et l'acide ellagique.",
+   "On ajoute un excès de facteur tissulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : PPP recalcifié à 37 °C.",
+   "Vrai : céphaline = phospholipides, substitut plaquettaire.",
+   "Vrai : activation complète du système contact.",
+   "Vrai : silice, kaolin, acide ellagique.",
+   "Faux : le facteur tissulaire est utilisé dans le TQ."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les indications du TCA, lesquelles sont exactes ?",
+  "options": [
+   "Le bilan préopératoire.",
+   "La recherche d'un désordre de la voie intrinsèque.",
+   "La recherche d'un anticoagulant circulant.",
+   "La surveillance d'un traitement par héparine non fractionnée.",
+   "La surveillance d'un traitement par antivitamines K."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bilan préopératoire.",
+   "Vrai : désordre de la voie intrinsèque.",
+   "Vrai : anticoagulant circulant.",
+   "Vrai : surveillance de l'HNF.",
+   "Faux : les AVK se surveillent par l'INR."
+  ]
+ },
+ {
+  "q": "Concernant les valeurs normales du TCA, quelles propositions sont correctes ?",
+  "options": [
+   "La normale est le témoin ± 8 secondes.",
+   "La valeur usuelle est de 30 à 35 secondes.",
+   "Le rapport temps malade / temps témoin normal est inférieur à 1,2.",
+   "Sous héparine non fractionnée, le TCA est de 2 à 3 fois le témoin.",
+   "La valeur normale est de 10 à 14 secondes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : témoin ± 8 s.",
+   "Vrai : 30 à 35 s.",
+   "Vrai : rapport < 1,2 normal chez l'adulte.",
+   "Vrai : 2 à 3 fois le témoin sous HNF.",
+   "Faux : 10 à 14 s est la normale du TQ."
+  ]
+ },
+ {
+  "q": "Au sujet de la céphaline, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "La céphaline apporte des phospholipides.",
+   "Elle joue le rôle de substitut plaquettaire.",
+   "Le PPP étant pauvre en plaquettes, cet apport est nécessaire.",
+   "La céphaline est du facteur tissulaire.",
+   "La céphaline est un activateur du système contact."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la céphaline = phospholipides.",
+   "Vrai : substitut plaquettaire.",
+   "Vrai : le PPP est pauvre en plaquettes.",
+   "Faux : le facteur tissulaire est utilisé dans le TQ.",
+   "Faux : les activateurs du contact sont silice, kaolin, acide ellagique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'activation du système contact dans le TCA, lesquelles sont exactes ?",
+  "options": [
+   "La silice est un activateur du système contact.",
+   "Le kaolin est un activateur du système contact.",
+   "L'acide ellagique est un activateur du système contact.",
+   "L'activation du système contact est complète avant la mesure.",
+   "L'épinéphrine est un activateur du système contact."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la silice active le système contact.",
+   "Vrai : le kaolin active le système contact.",
+   "Vrai : l'acide ellagique active le système contact.",
+   "Vrai : activation complète du système contact.",
+   "Faux : l'épinéphrine est un activateur plaquettaire du PFA-100."
+  ]
+ },
+ {
+  "q": "Concernant la comparaison des voies explorées par TQ et TCA, quelles propositions sont correctes ?",
+  "options": [
+   "Le TCA explore la voie intrinsèque.",
+   "Le TQ explore la voie exogène.",
+   "Les deux se mesurent à 37 °C sur PPP recalcifié.",
+   "Le TCA surveille les antivitamines K.",
+   "Le TQ surveille l'héparine non fractionnée."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le TCA recherche un désordre de la voie intrinsèque.",
+   "Vrai : le TQ recherche un désordre de la voie exogène.",
+   "Vrai : 37 °C sur PPP recalcifié pour les deux.",
+   "Faux : les AVK se surveillent par l'INR.",
+   "Faux : l'HNF se surveille par le TCA."
+  ]
+ },
+ {
+  "q": "À propos du rapport du TCA, quelles sont les réponses correctes ?",
+  "options": [
+   "C'est le rapport temps malade / temps témoin.",
+   "Il est normal s'il est inférieur à 1,2 chez l'adulte.",
+   "Sous héparine non fractionnée, il est de 2 à 3 fois le témoin.",
+   "Il s'exprime en pourcentage.",
+   "L'INR remplace ce rapport."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : rapport temps malade / temps témoin.",
+   "Vrai : < 1,2 normal chez l'adulte.",
+   "Vrai : 2 à 3 fois le témoin sous HNF.",
+   "Faux : c'est un ratio, pas un pourcentage.",
+   "Faux : l'INR dérive du TQ, pas du TCA."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes à propos du TCA et de ses dérivés ?",
+  "options": [
+   "Le TCA recherche un anticoagulant circulant.",
+   "Le TCA explore la voie intrinsèque.",
+   "Le dosage des facteurs IX, VIII et XI dérive du TCA.",
+   "Le TCA utilise du facteur tissulaire.",
+   "Le TCA se réalise sur sang total."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : recherche d'un anticoagulant circulant.",
+   "Vrai : désordre de la voie intrinsèque.",
+   "Vrai : dosages IX, VIII, XI dérivés du TCA.",
+   "Faux : le facteur tissulaire est utilisé dans le TQ.",
+   "Faux : le TCA se réalise sur PPP."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la méthode de von Clauss, lesquelles sont exactes ?",
+  "options": [
+   "C'est une méthode chronométrique.",
+   "Elle mesure le temps de coagulation à 37 °C d'un PPP dilué.",
+   "La mesure se fait en présence de Ca2+ et d'un excès de thrombine.",
+   "La conversion temps/taux utilise une droite de calibration avec un plasma titré.",
+   "C'est une méthode immunologique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : méthode chronométrique de von Clauss.",
+   "Vrai : temps de coagulation à 37 °C d'un PPP dilué.",
+   "Vrai : en présence de Ca2+ et d'un excès de thrombine.",
+   "Vrai : droite de calibration avec plasma titré en fibrinogène.",
+   "Faux : c'est une méthode chronométrique, pas immunologique."
+  ]
+ },
+ {
+  "q": "Concernant les valeurs du fibrinogène, quelles propositions sont correctes ?",
+  "options": [
+   "La valeur normale est de 2 à 4 g/L.",
+   "Le taux augmente en cas d'inflammation.",
+   "La valeur normale est de 70 à 100 %.",
+   "La valeur normale est de 10 à 14 secondes.",
+   "La valeur normale est le témoin ± 8 secondes."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : normale 2 à 4 g/L.",
+   "Vrai : augmenté en cas d'inflammation.",
+   "Faux : 70-100 % est la normale du TP.",
+   "Faux : 10-14 s est la normale du TQ.",
+   "Faux : témoin ± 8 s est la normale du TCA."
+  ]
+ },
+ {
+  "q": "Au sujet du fibrinogène, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "C'est le substrat final de la coagulation.",
+   "C'est une glycoprotéine à trois paires de chaînes Aα, Bβ et γ.",
+   "Il est dosé par la méthode chronométrique de von Clauss.",
+   "C'est un facteur vitamino-K dépendant.",
+   "Il est dosé par le TCA."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le fibrinogène est le substrat final.",
+   "Vrai : trois paires de chaînes Aα, Bβ, γ.",
+   "Vrai : méthode de von Clauss.",
+   "Faux : les facteurs vitamino-K dépendants sont II, VII, IX, X.",
+   "Faux : le TCA explore la voie intrinsèque."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes comparant méthode de von Clauss et temps de thrombine, lesquelles sont exactes ?",
+  "options": [
+   "Les deux utilisent un excès de thrombine.",
+   "Von Clauss : PPP dilué en présence de Ca2+.",
+   "Temps de thrombine : plasma citraté + quantité déterminée de thrombine.",
+   "La méthode de von Clauss donne un taux en g/L.",
+   "Le temps de thrombine donne un taux en g/L."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les deux reposent sur l'ajout de thrombine.",
+   "Vrai : PPP dilué + Ca2+ pour von Clauss.",
+   "Vrai : plasma citraté + thrombine dosée pour le TT.",
+   "Vrai : von Clauss donne un taux en g/L.",
+   "Faux : le TT donne un temps en secondes."
+  ]
+ },
+ {
+  "q": "Concernant le principe du temps de thrombine, quelles propositions sont correctes ?",
+  "options": [
+   "C'est le temps de coagulation d'un plasma citraté.",
+   "On ajoute une quantité déterminée de thrombine.",
+   "La valeur normale est de 20 secondes par rapport au témoin.",
+   "Il est pathologique au-delà du témoin + 6 secondes.",
+   "La mesure se fait à température ambiante."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : plasma citraté.",
+   "Vrai : quantité déterminée de thrombine.",
+   "Vrai : normale 20 s / témoin.",
+   "Vrai : pathologique > témoin + 6 s.",
+   "Faux : les temps de coagulation se mesurent à 37 °C."
+  ]
+ },
+ {
+  "q": "À propos de l'interprétation du temps de thrombine, quelles sont les réponses correctes ?",
+  "options": [
+   "La valeur normale est de 20 secondes par rapport au témoin.",
+   "Un temps supérieur au témoin + 6 secondes est pathologique.",
+   "Il explore la transformation du fibrinogène en fibrine.",
+   "Il est identique au temps de Quick.",
+   "Il surveille les antivitamines K."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : 20 s / témoin.",
+   "Vrai : pathologique > témoin + 6 s.",
+   "Vrai : la thrombine transforme le fibrinogène en fibrine.",
+   "Faux : le TQ utilise facteur tissulaire et phospholipides.",
+   "Faux : les AVK se surveillent par l'INR."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes comparant le temps de thrombine aux autres tests ?",
+  "options": [
+   "Le TT utilise de la thrombine exogène.",
+   "Le dosage du fibrinogène (von Clauss) utilise aussi un excès de thrombine.",
+   "Le TQ utilise du facteur tissulaire et des phospholipides.",
+   "Le TT et le TQ ont le même principe.",
+   "Le TT explore la voie intrinsèque."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : thrombine exogène dans le TT.",
+   "Vrai : excès de thrombine dans von Clauss.",
+   "Vrai : thromboplastine calcique dans le TQ.",
+   "Faux : principes différents.",
+   "Faux : la voie intrinsèque est explorée par le TCA."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le dosage fonctionnel des facteurs de la coagulation, lesquelles sont exactes ?",
+  "options": [
+   "La méthode fonctionnelle mesure l'activité du facteur.",
+   "On mélange le plasma à doser avec un plasma spécifiquement déficitaire.",
+   "La conversion du temps en taux (%) utilise une droite de calibration.",
+   "La méthode immunologique mesure la quantité d'antigène.",
+   "Le dosage se fait sur sang total."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la méthode fonctionnelle mesure l'activité.",
+   "Vrai : plasma à doser + plasma spécifiquement déficitaire.",
+   "Vrai : conversion temps → taux % par droite de calibration.",
+   "Vrai : la méthode immunologique est antigénique.",
+   "Faux : le dosage se fait sur plasma."
+  ]
+ },
+ {
+  "q": "Concernant les dosages de facteurs dérivés du temps de Quick, quelles propositions sont correctes ?",
+  "options": [
+   "Le dosage du facteur VII dérive du TQ.",
+   "Le dosage du facteur X dérive du TQ.",
+   "Le dosage du facteur V dérive du TQ.",
+   "Le dosage du facteur II dérive du TQ.",
+   "Le dosage du facteur VIII dérive du TQ."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : VII dérivé du TQ.",
+   "Vrai : X dérivé du TQ.",
+   "Vrai : V dérivé du TQ.",
+   "Vrai : II dérivé du TQ.",
+   "Faux : le VIII dérive du TCA."
+  ]
+ },
+ {
+  "q": "Au sujet des dosages de facteurs dérivés du TCA, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Le dosage du facteur IX dérive du TCA.",
+   "Le dosage du facteur VIII dérive du TCA.",
+   "Le dosage du facteur XI dérive du TCA.",
+   "Le dosage du facteur VII dérive du TCA.",
+   "Le dosage du fibrinogène dérive du TCA."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : IX dérivé du TCA.",
+   "Vrai : VIII dérivé du TCA.",
+   "Vrai : XI dérivé du TCA.",
+   "Faux : le VII dérive du TQ.",
+   "Faux : le fibrinogène se dose par von Clauss."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le facteur XIII, lesquelles sont exactes ?",
+  "options": [
+   "Son activité est mesurée par la rédissolution du caillot de fibrine par l'acide monochloracétique.",
+   "Le facteur XIIIa stabilise le caillot de fibrine.",
+   "Son dosage dérive du temps de Quick.",
+   "Son dosage dérive du TCA.",
+   "Il est dosé en routine par méthode immunologique."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : rédissolution du caillot par l'acide monochloracétique.",
+   "Vrai : le XIIIa stabilise le caillot de fibrine.",
+   "Faux : méthode spécifique, pas dérivée du TQ.",
+   "Faux : méthode spécifique, pas dérivée du TCA.",
+   "Faux : c'est un test fonctionnel de rédissolution du caillot."
+  ]
+ },
+ {
+  "q": "Concernant le dosage des inhibiteurs de la coagulation, quelles propositions sont correctes ?",
+  "options": [
+   "Il utilise une méthode fonctionnelle.",
+   "Il utilise une méthode immunologique.",
+   "L'antithrombine est une serpine, inhibitrice des sérine-protéases.",
+   "La protéine C activée inhibe les facteurs Va et VIIIa.",
+   "Il se fait uniquement par méthode antigénique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : méthode fonctionnelle.",
+   "Vrai : méthode immunologique.",
+   "Vrai : l'antithrombine est une serpine.",
+   "Vrai : la PCa inhibe les facteurs Va et VIIIa.",
+   "Faux : les deux méthodes sont utilisées."
+  ]
+ },
+ {
+  "q": "À propos des inhibiteurs physiologiques de la coagulation, quelles sont les réponses correctes ?",
+  "options": [
+   "Les protéines C et S sont vitamino-K dépendantes.",
+   "La protéine S est le cofacteur de la protéine C activée.",
+   "Les serpines sont des inhibiteurs de sérine-protéases.",
+   "Le dosage des inhibiteurs utilise les méthodes fonctionnelle et immunologique.",
+   "Le dosage des inhibiteurs se fait par le temps de saignement."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : protéines C et S vitamino-K dépendantes.",
+   "Vrai : la protéine S est le cofacteur de la PCa.",
+   "Vrai : les serpines inhibent les sérine-protéases.",
+   "Vrai : méthodes fonctionnelle et immunologique.",
+   "Faux : le TS explore l'hémostase primaire."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le temps de lyse des euglobulines ?",
+  "options": [
+   "C'est le test de Von Kaulla.",
+   "Le caillot est formé à partir d'un plasma déplété en inhibiteurs par précipitation en milieu acide.",
+   "Le temps normal est supérieur à trois heures.",
+   "Il est diminué en cas d'activation de la fibrinolyse.",
+   "La lyse du caillot de sang total en 72 h est encore utilisée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : test de Von Kaulla.",
+   "Vrai : plasma déplété en inhibiteurs par précipitation acide.",
+   "Vrai : normal > 3 heures.",
+   "Vrai : diminué si activation de la fibrinolyse.",
+   "Faux : cette méthode longue n'est plus utilisée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'interprétation du temps de lyse des euglobulines, lesquelles sont exactes ?",
+  "options": [
+   "Le temps normal est supérieur à 3 heures.",
+   "Il est diminué en cas d'activation de la fibrinolyse.",
+   "C'est un test global de la fibrinolyse.",
+   "Il est allongé en cas d'hyperfibrinolyse.",
+   "C'est un test spécifique de la fibrinolyse."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : normal > 3 heures.",
+   "Vrai : diminué en cas d'activation.",
+   "Vrai : test global de la fibrinolyse.",
+   "Faux : il est diminué, pas allongé.",
+   "Faux : les tests spécifiques sont plasminogène, α2AP, PAI-1, t-PA."
+  ]
+ },
+ {
+  "q": "Concernant le dosage du fibrinogène dans l'exploration de la fibrinolyse, quelles propositions sont correctes ?",
+  "options": [
+   "La technique de von Clauss permet de juger du débordement systémique de l'activité fibrinolytique.",
+   "Elle apprécie l'importance de la fibrinogénolyse.",
+   "C'est un test global indirect.",
+   "Le fibrinogène augmente en cas de fibrinolyse.",
+   "Le dosage se fait par ELISA."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : juge du débordement systémique de l'activité fibrinolytique.",
+   "Vrai : apprécie l'importance de la fibrinogénolyse.",
+   "Vrai : test global indirect.",
+   "Faux : la fibrinogénolyse fait chuter le fibrinogène.",
+   "Faux : c'est une méthode chronométrique."
+  ]
+ },
+ {
+  "q": "Au sujet des produits de dégradation de la fibrine et du fibrinogène (PDF), lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Les PDF sont les produits de dégradation de la fibrine et du fibrinogène.",
+   "Leur augmentation peut être le reflet d'une hypercoagulation.",
+   "Ce sont des tests globaux indirects.",
+   "Ils sont spécifiques de la dégradation de la fibrine.",
+   "Une valeur normale exclut une embolie pulmonaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PDF = produits de dégradation de la fibrine et du fibrinogène.",
+   "Vrai : leur augmentation peut refléter une hypercoagulation.",
+   "Vrai : tests globaux indirects.",
+   "Faux : la spécificité de la fibrine concerne les D-dimères.",
+   "Faux : c'est la normalité des D-dimères qui exclut un dépôt de fibrine évolutif."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les D-dimères, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont spécifiques de la dégradation de la fibrine.",
+   "Une valeur normale exclut la présence d'un dépôt de fibrine évolutif.",
+   "Ils sont utilisés devant une suspicion d'embolie pulmonaire ou de phlébite.",
+   "Ils sont spécifiques de la dégradation du fibrinogène.",
+   "Leur augmentation affirme une hyperfibrinolyse."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : spécifiques de la dégradation de la fibrine.",
+   "Vrai : une valeur normale exclut un dépôt de fibrine évolutif.",
+   "Vrai : embolie pulmonaire ou phlébite.",
+   "Faux : la spécificité porte sur la fibrine, pas le fibrinogène.",
+   "Faux : leur augmentation peut refléter une hypercoagulation."
+  ]
+ },
+ {
+  "q": "Concernant les tests spécifiques de la fibrinolyse, quelles propositions sont correctes ?",
+  "options": [
+   "Le plasminogène est un test spécifique.",
+   "L'α2-antiplasmine (α2AP) est un test spécifique.",
+   "Le PAI-1 est un test spécifique.",
+   "Le t-PA est un test spécifique.",
+   "Les D-dimères sont un test spécifique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le plasminogène est un test spécifique.",
+   "Vrai : l'α2AP est un test spécifique.",
+   "Vrai : le PAI-1 est un test spécifique.",
+   "Vrai : le t-PA est un test spécifique.",
+   "Faux : les D-dimères sont un test global indirect."
+  ]
+ },
+ {
+  "q": "À propos des méthodes des tests spécifiques de la fibrinolyse, quelles sont les réponses correctes ?",
+  "options": [
+   "Le dosage antigénique se fait par ELISA.",
+   "L'activité fonctionnelle peut être mesurée.",
+   "Ils concernent le plasminogène, l'α2AP, le PAI-1 et le t-PA.",
+   "Le temps de lyse des euglobulines est un test spécifique.",
+   "Les PDF sont un test spécifique."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : dosage antigénique par ELISA.",
+   "Vrai : mesure de l'activité fonctionnelle.",
+   "Vrai : plasminogène, α2AP, PAI-1, t-PA.",
+   "Faux : le TLE est un test global.",
+   "Faux : les PDF sont un test global indirect."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'ensemble de l'exploration de la fibrinolyse ?",
+  "options": [
+   "Le temps de lyse des euglobulines est un test global.",
+   "Le fibrinogène, les PDF et les D-dimères sont des tests globaux indirects.",
+   "Le plasminogène, l'α2AP, le PAI-1 et le t-PA sont des tests spécifiques.",
+   "La lyse du caillot de sang total (72 h) n'est plus utilisée.",
+   "Le temps de Quick est un test global de la fibrinolyse."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le TLE est un test global.",
+   "Vrai : fibrinogène, PDF, D-dimères = globaux indirects.",
+   "Vrai : plasminogène, α2AP, PAI-1, t-PA = spécifiques.",
+   "Vrai : méthode longue abandonnée.",
+   "Faux : le TQ explore la voie exogène de la coagulation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la maladie de von Willebrand, lesquelles sont exactes ?",
+  "options": [
+   "C'est la plus fréquente des anomalies constitutionnelles de l'hémostase",
+   "Sa transmission est autosomale, le plus souvent dominante",
+   "Les types 1 et 3 correspondent à une altération quantitative du vWF",
+   "Le type 2 correspond à une altération quantitative du vWF",
+   "C'est une thrombopathie acquise"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le cours la présente comme la plus fréquente des anomalies constitutionnelles.",
+   "Vrai : transmission autosomale le plus souvent dominante selon le cours.",
+   "Vrai : les types 1 et 3 sont des anomalies quantitatives du vWF.",
+   "Faux : le type 2 est une altération qualitative du vWF.",
+   "Faux : c'est une anomalie constitutionnelle du vWF, pas une thrombopathie acquise."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les rôles physiologiques du facteur von Willebrand, lesquelles sont exactes ?",
+  "options": [
+   "Il permet l'adhésion des plaquettes au sous-endothélium",
+   "Il participe à l'agrégation plaquettaire",
+   "Il transporte le facteur VIII dans la coagulation",
+   "Il inhibe la thrombine comme le fait l'antithrombine",
+   "Il dissout le caillot de fibrine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'adhésion plaquettaire (le vWF « colle » les plaquettes).",
+   "Vrai : le vWF intervient dans l'agrégation plaquettaire.",
+   "Vrai : le vWF est le transporteur plasmatique du facteur VIII.",
+   "Faux : l'inhibition de la thrombine est le rôle de l'antithrombine, pas du vWF.",
+   "Faux : la dissolution de la fibrine est le rôle de la plasmine."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant la synthèse et la localisation du facteur von Willebrand ?",
+  "options": [
+   "Il est synthétisé à 70 % par les cellules endothéliales",
+   "Il est synthétisé à 30 % par les mégacaryocytes",
+   "Il est présent dans le plasma, les plaquettes, l'endothélium et le sous-endothélium vasculaire",
+   "Il est synthétisé par le foie comme le fibrinogène",
+   "Sa synthèse est exclusivement mégacaryocytaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : 70 % de la synthèse est endothéliale.",
+   "Vrai : 30 % de la synthèse est mégacaryocytaire.",
+   "Vrai : le vWF est retrouvé dans ces quatre compartiments.",
+   "Faux : la synthèse hépatique concerne le fibrinogène, pas le vWF.",
+   "Faux : elle est majoritairement endothéliale (70 %)."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la molécule du facteur von Willebrand, lesquelles sont exactes ?",
+  "options": [
+   "La molécule mature est multimérique, de 500 à 15 000 kDa",
+   "Le gène du VWF est situé à l'extrémité du bras court du chromosome 12",
+   "Le gène fait 180 kb et comporte 52 exons",
+   "Le vWF est une petite protéine monomérique d'environ 50 kDa",
+   "Le gène du VWF est situé sur le chromosome X"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le vWF mature est un multimère de 500 à 15 000 kDa.",
+   "Vrai : localisation sur le bras court du chromosome 12.",
+   "Vrai : gène de grande taille, 180 kb et 52 exons, polymorphe.",
+   "Faux : c'est un multimère géant de 500 à 15 000 kDa.",
+   "Faux : il est sur le chromosome 12."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la synthèse du facteur von Willebrand, lesquelles sont exactes ?",
+  "options": [
+   "Clivage du peptide signal puis du propeptide du pré-pro-Willebrand",
+   "Glycosylation et sulfation de la sous-unité",
+   "Dimérisation puis multimérisation de la sous-unité mature",
+   "Polymérisation du fibrinogène en fibrine",
+   "Activation par le facteur Xa"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la synthèse passe par le clivage du peptide signal et du propeptide.",
+   "Vrai : glycosylation et sulfation interviennent dans la maturation.",
+   "Vrai : la sous-unité mature se dimérise puis se multimérise.",
+   "Faux : cela décrit la fibrinoformation, pas la synthèse du vWF.",
+   "Faux : la maturation du vWF ne fait pas intervenir le facteur Xa."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes expliquant le retentissement de la maladie de von Willebrand sur l'hémostase primaire ET la coagulation, lesquelles sont exactes ?",
+  "options": [
+   "Le vWF colle les plaquettes au sous-endothélium (adhésion)",
+   "Le vWF participe à l'agrégation plaquettaire",
+   "Le vWF transporte et protège le facteur VIII circulant",
+   "Le vWF active directement la prothrombine en thrombine",
+   "Le vWF est un inhibiteur physiologique de la coagulation"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'adhésion est la première fonction du vWF.",
+   "Vrai : seconde fonction dans l'hémostase primaire.",
+   "Vrai : d'où le retentissement sur la coagulation.",
+   "Faux : la thrombine est générée par le complexe prothrombinase.",
+   "Faux : le vWF n'inhibe pas la coagulation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les types de la maladie de von Willebrand, lesquelles sont exactes ?",
+  "options": [
+   "Le type 1 est une altération quantitative partielle du vWF",
+   "Le type 3 correspond à une absence quasi totale du vWF",
+   "Le type 2 regroupe des anomalies qualitatives du vWF",
+   "Le type 3 correspond à une anomalie qualitative du vWF",
+   "Les types 1 et 3 sont des anomalies qualitatives"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le type 1 est un déficit quantitatif partiel.",
+   "Vrai : le type 3 est un déficit quantitatif sévère.",
+   "Vrai : le type 2 est une anomalie qualitative.",
+   "Faux : le type 3 est une anomalie quantitative.",
+   "Faux : les types 1 et 3 sont des anomalies quantitatives."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le vWF et le fibrinogène dans l'hémostase primaire, lesquelles sont exactes ?",
+  "options": [
+   "Les deux participent à l'hémostase primaire",
+   "Le fibrinogène est le ligand de la GP IIb-IIIa via le motif RGD",
+   "Le vWF est le ligand de la GP Ib-IX-V dans l'adhésion",
+   "Le fibrinogène est synthétisé par le foie, le vWF par l'endothélium et les mégacaryocytes",
+   "Le fibrinogène permet l'adhésion plaquettaire initiale au sous-endothélium"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ce sont deux des quatre facteurs de l'hémostase primaire.",
+   "Vrai : la GP IIb-IIIa se lie au fibrinogène via RGD.",
+   "Vrai : la GP Ib-IX se fixe au vWF du sous-endothélium.",
+   "Vrai : origines différentes des deux protéines.",
+   "Faux : l'adhésion initiale se fait via le vWF et la GP Ib-IX-V."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la liaison vWF – plaquette, lesquelles sont exactes ?",
+  "options": [
+   "La liaison du vWF à la GP Ib-IX-V déclenche une modification de la conformation membranaire plaquettaire",
+   "Cette liaison démasque les GP IIb-IIIa, permettant l'agrégation",
+   "La GP V est clivée par la thrombine après l'activation plaquettaire",
+   "La GP Ib-IX se fixe au fibrinogène soluble plasmatique",
+   "La thrombine active directement le vWF multimérique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : c'est la première étape décrite dans le cours.",
+   "Vrai : le démasquage des GP IIb-IIIa suit la liaison au vWF.",
+   "Vrai : la GP V se lie au complexe Ib-IX et est clivée par la thrombine.",
+   "Faux : la GP Ib-IX se fixe au vWF collé au sous-endothélium.",
+   "Faux : la thrombine clive la GP V, elle n'active pas le vWF."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la génétique de la maladie de von Willebrand, lesquelles sont exactes ?",
+  "options": [
+   "C'est l'anomalie constitutionnelle de l'hémostase la plus fréquente",
+   "La transmission est le plus souvent autosomale dominante",
+   "La transmission est liée à l'X comme dans l'hémophilie A",
+   "C'est une maladie essentiellement acquise",
+   "Tous les types correspondent à une altération quantitative"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : le cours la cite comme la plus fréquente.",
+   "Vrai : transmission autosomale le plus souvent dominante.",
+   "Faux : la transmission est autosomale, non liée à l'X.",
+   "Faux : c'est une anomalie constitutionnelle.",
+   "Faux : le type 2 est une altération qualitative."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le transport du facteur VIII par le vWF, lesquelles sont exactes ?",
+  "options": [
+   "Le vWF est le transporteur plasmatique du facteur VIII",
+   "Un déficit en vWF peut donc s'accompagner d'une baisse du facteur VIII",
+   "Un déficit en vWF ne retentit que sur l'hémostase primaire",
+   "Le facteur VIII est transporté par l'antithrombine",
+   "Le facteur VIII circule lié au fibrinogène"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : le cours cite le transport du FVIII parmi les rôles du vWF.",
+   "Vrai : sans son transporteur, le FVIII circulant diminue.",
+   "Faux : via le FVIII, il retentit aussi sur la coagulation.",
+   "Faux : l'antithrombine est un inhibiteur, pas un transporteur.",
+   "Faux : le facteur VIII circule lié au vWF."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le gène du facteur von Willebrand, lesquelles sont exactes ?",
+  "options": [
+   "C'est un gène polymorphe de grande taille (180 kb)",
+   "Il comporte 52 exons",
+   "Il est localisé sur le bras court du chromosome 12",
+   "C'est un gène court de 5 exons",
+   "Il est localisé sur le chromosome 4 comme les gènes du fibrinogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : gène de grande taille et polymorphe.",
+   "Vrai : 52 exons selon le cours.",
+   "Vrai : extrémité du bras court du chromosome 12.",
+   "Faux : il comporte 52 exons.",
+   "Faux : les gènes du fibrinogène sont sur le chromosome 4, celui du vWF sur le 12."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes distinguant la maladie de von Willebrand des hémophilies, lesquelles sont exactes ?",
+  "options": [
+   "La maladie de von Willebrand donne des hémorragies cutanéo-muqueuses",
+   "Les hémophilies donnent des hématomes profonds et des hémarthroses",
+   "Dans l'hémophilie, les hémorragies sont souvent retardées après un traumatisme",
+   "La maladie de von Willebrand a pour signe cardinal l'hémarthrose",
+   "Les deux pathologies ont un profil hémorragique strictement identique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : trouble de l'hémostase primaire.",
+   "Vrai : tableau profond des déficits en facteurs.",
+   "Vrai : hémorragies retardées après trauma ou chirurgie.",
+   "Faux : l'hémarthrose est le signe des déficits en facteurs.",
+   "Faux : l'une est superficielle, l'autre profonde."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la définition de la thrombopénie, lesquelles sont exactes ?",
+  "options": [
+   "La thrombopénie est définie par des plaquettes inférieures à 150 G/L",
+   "Une numération plaquettaire normale se situe entre 150 et 400 G/L",
+   "Les thrombopénies sont toujours constitutionnelles",
+   "La thrombopénie se définit par des plaquettes inférieures à 450 G/L",
+   "Un taux de 100 G/L est normal"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : le seuil de la thrombopénie est de 150 G/L.",
+   "Vrai : valeurs usuelles de la numération plaquettaire.",
+   "Faux : elles peuvent être centrales, périphériques ou constitutionnelles.",
+   "Faux : 450 G/L est le seuil de la thrombocytose.",
+   "Faux : 100 G/L est inférieur à 150 G/L, c'est une thrombopénie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les thrombopénies centrales, lesquelles sont exactes ?",
+  "options": [
+   "Les leucémies sont une cause de thrombopénie centrale",
+   "Les aplasies médullaires sont une cause de thrombopénie centrale",
+   "Les métastases médullaires sont une cause de thrombopénie centrale",
+   "Le paludisme est une cause de thrombopénie centrale",
+   "Le syndrome de Wiskott-Aldrich est une cause de thrombopénie centrale"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les leucémies figurent parmi les causes centrales.",
+   "Vrai : l'aplasie est une cause centrale.",
+   "Vrai : les métastases sont une cause centrale.",
+   "Faux : le paludisme est une cause périphérique.",
+   "Faux : c'est une cause constitutionnelle."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les thrombopénies périphériques, lesquelles sont exactes ?",
+  "options": [
+   "Le VIH est une cause de thrombopénie périphérique",
+   "Le paludisme est une cause de thrombopénie périphérique",
+   "Le purpura thrombopénique idiopathique est une cause de thrombopénie périphérique",
+   "Les métastases médullaires sont une cause de thrombopénie périphérique",
+   "L'aplasie médullaire est une cause de thrombopénie périphérique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le VIH figure parmi les causes périphériques.",
+   "Vrai : le paludisme figure parmi les causes périphériques.",
+   "Vrai : le PTI est une cause périphérique.",
+   "Faux : les métastases sont une cause centrale.",
+   "Faux : l'aplasie est une cause centrale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les thrombopénies constitutionnelles, lesquelles sont exactes ?",
+  "options": [
+   "Le syndrome de Wiskott-Aldrich en est un exemple",
+   "Elles sont d'origine génétique",
+   "Le paludisme en est un exemple",
+   "Le VIH en est un exemple",
+   "La carence martiale en est un exemple"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : c'est l'exemple constitutionnel cité par le cours.",
+   "Vrai : constitutionnel signifie d'origine génétique.",
+   "Faux : le paludisme est une cause périphérique.",
+   "Faux : le VIH est une cause périphérique.",
+   "Faux : la carence martiale cause une thrombocytose réactionnelle."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le purpura thrombopénique idiopathique, lesquelles sont exactes ?",
+  "options": [
+   "C'est une thrombopénie périphérique",
+   "Il traduit une destruction périphérique des plaquettes",
+   "C'est une thrombopénie centrale",
+   "C'est une thrombocytose",
+   "Il est dû à une insuffisance de production médullaire"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : le PTI est classé parmi les thrombopénies périphériques.",
+   "Vrai : le mécanisme périphérique est la destruction des plaquettes.",
+   "Faux : le PTI est périphérique, non central.",
+   "Faux : le PTI est une thrombopénie, pas une thrombocytose.",
+   "Faux : l'insuffisance de production définit les thrombopénies centrales."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le mécanisme des thrombopénies centrales, lesquelles sont exactes ?",
+  "options": [
+   "Elles traduisent un défaut de production médullaire des plaquettes",
+   "Un envahissement médullaire (leucémie, métastase) peut en être la cause",
+   "Elles traduisent une destruction périphérique immunologique",
+   "Elles traduisent une hyperproduction médullaire",
+   "Elles sont dues à une hémodilution"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : le mécanisme central est le défaut de production.",
+   "Vrai : leucémies et métastases sont des causes centrales.",
+   "Faux : la destruction périphérique définit les thrombopénies périphériques.",
+   "Faux : l'hyperproduction donnerait une thrombocytose.",
+   "Faux : ce n'est pas le mécanisme décrit."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les conséquences cliniques d'une thrombopénie, lesquelles sont exactes ?",
+  "options": [
+   "Elle expose au risque hémorragique par défaut d'hémostase primaire",
+   "Elle peut s'exprimer par un purpura avec pétéchies",
+   "Elle expose aux thromboses artérielles",
+   "Elle ne donne jamais de saignement",
+   "Elle est synonyme de thrombopathie"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : les plaquettes sont indispensables à l'hémostase primaire.",
+   "Vrai : le purpura est l'expression cutanée du défaut d'hémostase primaire.",
+   "Faux : la thrombopénie expose à l'hémorragie, pas à la thrombose.",
+   "Faux : le risque hémorragique est la conséquence clinique principale.",
+   "Faux : la thrombopénie est quantitative, la thrombopathie qualitative."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le paludisme et les plaquettes, lesquelles sont exactes ?",
+  "options": [
+   "Le paludisme peut causer une thrombopénie périphérique",
+   "Le paludisme est une cause centrale de thrombopénie",
+   "Le paludisme cause une thrombocytose",
+   "Le paludisme est une cause infectieuse de thrombopénie",
+   "Le paludisme cause une thrombopathie congénitale"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : le paludisme est cité comme cause périphérique.",
+   "Faux : c'est une cause périphérique.",
+   "Faux : le paludisme cause une thrombopénie.",
+   "Vrai : le paludisme est une infection.",
+   "Faux : ni thrombopathie, ni congénitale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le VIH et les plaquettes, lesquelles sont exactes ?",
+  "options": [
+   "Le VIH est une cause de thrombopénie périphérique",
+   "Le VIH est une cause centrale de thrombopénie",
+   "Le VIH est une cause constitutionnelle de thrombopénie",
+   "Le VIH peut s'accompagner d'un purpura thrombopénique",
+   "Le VIH cause une thrombocytose"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : le VIH figure parmi les causes périphériques.",
+   "Faux : c'est une cause périphérique.",
+   "Faux : ce n'est pas une cause constitutionnelle.",
+   "Vrai : la thrombopénie du VIH peut donner un purpura.",
+   "Faux : le VIH cause une thrombopénie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'aplasie médullaire, lesquelles sont exactes ?",
+  "options": [
+   "C'est une cause centrale de thrombopénie",
+   "Elle entraîne un défaut de production plaquettaire",
+   "C'est une cause périphérique de thrombopénie",
+   "Elle donne une thrombocytose",
+   "C'est une cause constitutionnelle de thrombopénie"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : l'aplasie est citée parmi les causes centrales.",
+   "Vrai : le mécanisme central est le défaut de production.",
+   "Faux : l'aplasie est centrale.",
+   "Faux : l'aplasie donne une thrombopénie.",
+   "Faux : l'aplasie n'est pas l'exemple constitutionnel cité."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les métastases médullaires, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont une cause centrale de thrombopénie",
+   "Elles envahissent la moelle et réduisent la production plaquettaire",
+   "Ce sont des causes périphériques de thrombopénie",
+   "Elles augmentent la production plaquettaire",
+   "Ce sont des causes constitutionnelles de thrombopénie"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : les métastases figurent parmi les causes centrales.",
+   "Vrai : l'envahissement médullaire diminue la production.",
+   "Faux : les métastases sont une cause centrale.",
+   "Faux : l'envahissement médullaire la diminue.",
+   "Faux : les métastases sont acquises."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les leucémies et les plaquettes, lesquelles sont exactes ?",
+  "options": [
+   "Les leucémies sont une cause centrale de thrombopénie",
+   "L'envahissement médullaire blastique réduit la production plaquettaire",
+   "Les leucémies aiguës peuvent se compliquer d'une CIVD avec syndrome hémorragique majeur",
+   "Les leucémies donnent une thrombocytose",
+   "Les leucémies sont une cause périphérique de thrombopénie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les leucémies figurent parmi les causes centrales.",
+   "Vrai : mécanisme central du défaut de production.",
+   "Vrai : la CIVD est un signe de gravité des leucémies aiguës.",
+   "Faux : elles donnent une thrombopénie centrale.",
+   "Faux : c'est une cause centrale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la définition de la thrombocytose, lesquelles sont exactes ?",
+  "options": [
+   "Elle est définie par des plaquettes supérieures à 450 G/L",
+   "On distingue des thrombocytoses réactionnelles et primitives",
+   "Elle est définie par des plaquettes supérieures à 150 G/L",
+   "Elle est toujours primitive",
+   "Elle correspond à des plaquettes inférieures à 150 G/L"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : le seuil de la thrombocytose est de 450 G/L.",
+   "Vrai : les deux types sont décrits dans le cours.",
+   "Faux : 150 G/L est le seuil bas de la normale.",
+   "Faux : elle peut être réactionnelle ou primitive.",
+   "Faux : c'est la définition de la thrombopénie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les thrombocytoses réactionnelles, lesquelles sont exactes ?",
+  "options": [
+   "La carence martiale en est une cause",
+   "L'inflammation en est une cause",
+   "Les cancers en sont une cause",
+   "Les syndromes myéloprolifératifs en sont une cause",
+   "L'aplasie médullaire en est une cause"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la carence martiale est citée comme cause réactionnelle.",
+   "Vrai : l'inflammation est citée comme cause réactionnelle.",
+   "Vrai : les cancers sont cités comme cause réactionnelle.",
+   "Faux : ils donnent des thrombocytoses primitives.",
+   "Faux : l'aplasie donne une thrombopénie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les thrombocytoses primitives, lesquelles sont exactes ?",
+  "options": [
+   "Les syndromes myéloprolifératifs en sont la cause",
+   "Elles traduisent une prolifération clonale de la lignée mégacaryocytaire",
+   "Ce sont des thrombocytoses réactionnelles",
+   "L'inflammation en est la cause",
+   "La carence martiale en est la cause"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : ce sont les thrombocytoses primitives.",
+   "Vrai : les syndromes myéloprolifératifs sont des proliférations clonales.",
+   "Faux : elles sont primitives, non réactionnelles.",
+   "Faux : l'inflammation donne des thrombocytoses réactionnelles.",
+   "Faux : la carence martiale donne une thrombocytose réactionnelle."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la distinction entre thrombopénies et thrombocytoses, lesquelles sont exactes ?",
+  "options": [
+   "Thrombopénie : plaquettes inférieures à 150 G/L",
+   "Thrombocytose : plaquettes supérieures à 450 G/L",
+   "Thrombopénie : plaquettes supérieures à 450 G/L",
+   "Thrombocytose : plaquettes inférieures à 150 G/L",
+   "Les deux traduisent un trouble quantitatif plaquettaire"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : seuil de la thrombopénie.",
+   "Vrai : seuil de la thrombocytose.",
+   "Faux : c'est la définition de la thrombocytose.",
+   "Faux : c'est la définition de la thrombopénie.",
+   "Vrai : ce sont des anomalies du nombre de plaquettes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les causes de thrombocytose, lesquelles sont exactes ?",
+  "options": [
+   "La carence martiale donne une thrombocytose réactionnelle",
+   "Les cancers peuvent s'accompagner d'une thrombocytose réactionnelle",
+   "La carence martiale donne une thrombopénie",
+   "L'inflammation donne une thrombopénie",
+   "Les syndromes myéloprolifératifs donnent une thrombocytose primitive"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : cause réactionnelle citée.",
+   "Vrai : les cancers sont une cause réactionnelle.",
+   "Faux : elle donne une thrombocytose réactionnelle.",
+   "Faux : l'inflammation donne une thrombocytose réactionnelle.",
+   "Vrai : ce sont les thrombocytoses primitives."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la thrombocytose de la carence martiale, lesquelles sont exactes ?",
+  "options": [
+   "La carence martiale est une cause de thrombocytose réactionnelle",
+   "La thrombocytose de la carence martiale est réactionnelle, non primitive",
+   "C'est une cause de thrombopénie",
+   "C'est une cause de thrombopathie",
+   "Elle s'accompagne d'une anomalie qualitative des plaquettes"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : cause réactionnelle citée dans le cours.",
+   "Vrai : elle appartient au groupe réactionnel.",
+   "Faux : c'est une cause de thrombocytose.",
+   "Faux : c'est un trouble quantitatif, pas qualitatif.",
+   "Faux : la thrombocytose est un trouble quantitatif."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la thrombasthénie de Glanzmann, lesquelles sont exactes ?",
+  "options": [
+   "C'est un déficit constitutionnel en GP IIb-IIIa",
+   "Elle se traduit par un déficit de l'agrégation plaquettaire",
+   "Les GP IIb-IIIa reconnaissent le motif RGD du fibrinogène",
+   "C'est un déficit de l'adhésion au vWF",
+   "C'est une thrombopénie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'absence constitutionnelle de GP IIb-IIIa définit la maladie.",
+   "Vrai : la GP IIb-IIIa médie l'agrégation via le fibrinogène.",
+   "Vrai : la fixation se fait via le motif RGD.",
+   "Faux : le déficit d'adhésion définit la maladie de Bernard et Soulier.",
+   "Faux : c'est une thrombopathie, anomalie qualitative."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la maladie de Bernard et Soulier, lesquelles sont exactes ?",
+  "options": [
+   "C'est un déficit constitutionnel du complexe GP Ib-IX-V",
+   "Elle se traduit par un déficit de l'adhésion plaquettaire au vWF",
+   "La GP Ib-IX se fixe au vWF collé au sous-endothélium",
+   "C'est un déficit de la GP IIb-IIIa",
+   "C'est une thrombocytose"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'absence constitutionnelle du complexe définit la maladie.",
+   "Vrai : la GP Ib-IX se fixe au vWF du sous-endothélium.",
+   "Vrai : c'est le mécanisme de l'adhésion stable.",
+   "Faux : le déficit en GP IIb-IIIa définit la thrombasthénie de Glanzmann.",
+   "Faux : c'est une thrombopathie congénitale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes comparant la thrombasthénie de Glanzmann et la maladie de Bernard et Soulier, lesquelles sont exactes ?",
+  "options": [
+   "Glanzmann : anomalie de l'agrégation plaquettaire",
+   "Bernard et Soulier : anomalie de l'adhésion plaquettaire",
+   "Les deux sont des thrombopathies congénitales",
+   "Glanzmann : anomalie de l'adhésion",
+   "Bernard et Soulier : anomalie de l'agrégation"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : déficit en GP IIb-IIIa, récepteur de l'agrégation.",
+   "Vrai : déficit en GP Ib-IX-V, récepteur de l'adhésion.",
+   "Vrai : ce sont les deux formes congénitales citées.",
+   "Faux : Glanzmann touche l'agrégation.",
+   "Faux : Bernard et Soulier touche l'adhésion."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les ligands de la GP IIb-IIIa, lesquelles sont exactes ?",
+  "options": [
+   "Elle se fixe au fibrinogène via le motif RGD",
+   "Elle peut aussi se fixer au vWF, à la fibronectine et à la thrombospondine",
+   "Elle reconnaît une structure particulière RGD (Arginine-Glycine-Acide Aspartique)",
+   "Elle se fixe exclusivement au collagène",
+   "Elle se fixe à l'ADP"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la fixation au fibrinogène se fait via RGD.",
+   "Vrai : fixations possibles citées dans le cours.",
+   "Vrai : la GP IIb-IIIa reconnaît le motif RGD.",
+   "Faux : le collagène est le ligand de la GP Ia-IIa.",
+   "Faux : l'ADP se fixe aux récepteurs P2Y1 et P2Y12."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le complexe GP Ib-IX-V, lesquelles sont exactes ?",
+  "options": [
+   "La GP V se lie au complexe Ib-IX et est clivée par la thrombine après activation plaquettaire",
+   "La GP Ib-IX se fixe au vWF collé au sous-endothélium, aboutissant à l'adhésion stable",
+   "Cette liaison déclenche le démasquage des GP IIb-IIIa pour l'agrégation",
+   "La GP Ib-IX se fixe au fibrinogène",
+   "La GP Ib-IX est un récepteur à l'ADP"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : décrit dans le cours.",
+   "Vrai : mécanisme de l'adhésion plaquettaire.",
+   "Vrai : la liaison au vWF démasque les GP IIb-IIIa.",
+   "Faux : c'est la GP IIb-IIIa qui se fixe au fibrinogène.",
+   "Faux : les récepteurs à l'ADP sont P2Y1 et P2Y12."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les autres récepteurs plaquettaires, lesquelles sont exactes ?",
+  "options": [
+   "La GP Ia-IIa est le récepteur pour le collagène et intervient dans la phase initiale de l'adhésion",
+   "La GP IV est le récepteur pour la thrombospondine et le collagène",
+   "P2Y1 et P2Y12 sont les récepteurs pour l'ADP",
+   "La GP Ia-IIa est un récepteur pour l'ADP",
+   "PAR1 et PAR4 sont des récepteurs pour le collagène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : rôle décrit dans le cours.",
+   "Vrai : ligands de la GP IV.",
+   "Vrai : récepteurs ADP cités.",
+   "Faux : c'est le récepteur pour le collagène.",
+   "Faux : ce sont des récepteurs pour la thrombine."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les thrombopathies en général, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont souvent acquises",
+   "Les formes congénitales sont rares",
+   "Elles sont toujours congénitales",
+   "La prise d'aspirine peut entraîner une thrombopathie acquise",
+   "Ce sont des anomalies quantitatives des plaquettes"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : les thrombopathies sont souvent acquises.",
+   "Vrai : rarement congénitales selon le cours.",
+   "Faux : elles sont souvent acquises.",
+   "Vrai : l'aspirine altère la fonction plaquettaire.",
+   "Faux : les thrombopathies sont des anomalies qualitatives."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le tableau clinique des thrombopathies congénitales, lesquelles sont exactes ?",
+  "options": [
+   "Elles donnent des hémorragies cutanéo-muqueuses",
+   "Les saignements sont immédiats et prolongés",
+   "Elles donnent des hémarthroses comme l'hémophilie",
+   "Elles donnent des hématomes musculaires profonds",
+   "Elles s'accompagnent d'une thrombopénie"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : trouble de l'hémostase primaire.",
+   "Vrai : profil des troubles de l'hémostase primaire.",
+   "Faux : les hémarthroses sont le signe des déficits en facteurs.",
+   "Faux : les hématomes profonds orientent vers un déficit de la coagulation.",
+   "Faux : les thrombopathies sont qualitatives, la numération peut être normale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes définissant la thrombasthénie de Glanzmann, lesquelles sont exactes ?",
+  "options": [
+   "Elle est définie par l'absence constitutionnelle de la GP IIb-IIIa",
+   "C'est une anomalie qualitative des plaquettes",
+   "C'est une anomalie quantitative (thrombopénie)",
+   "Elle est due à un déficit en vWF",
+   "Elle est due à l'absence de la GP Ib-IX-V"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : définition donnée par le cours.",
+   "Vrai : les thrombopathies sont des anomalies qualitatives.",
+   "Faux : c'est une anomalie qualitative.",
+   "Faux : le déficit en vWF définit la maladie de von Willebrand.",
+   "Faux : cela définit la maladie de Bernard et Soulier."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes définissant la maladie de Bernard et Soulier, lesquelles sont exactes ?",
+  "options": [
+   "Elle est définie par l'absence constitutionnelle du complexe GP Ib-IX-V",
+   "C'est une thrombopathie congénitale",
+   "Elle touche l'adhésion plaquettaire au vWF",
+   "C'est un déficit en facteur VIII",
+   "C'est une thrombocytose primitive"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : définition donnée par le cours.",
+   "Vrai : une des deux formes congénitales citées.",
+   "Vrai : la GP Ib-IX-V médie l'adhésion.",
+   "Faux : le déficit en facteur VIII définit l'hémophilie A.",
+   "Faux : c'est une thrombopathie, anomalie qualitative."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les thrombopathies acquises, lesquelles sont exactes ?",
+  "options": [
+   "Les thrombopathies sont souvent acquises",
+   "La prise d'aspirine altère la fonction plaquettaire",
+   "Toute thrombopathie est congénitale",
+   "L'aspirine n'a aucun effet sur les plaquettes",
+   "Les thrombopathies acquises sont plus rares que les congénitales"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : le cours précise qu'elles sont souvent acquises.",
+   "Vrai : la prise médicamenteuse d'aspirine retentit sur l'hémostase primaire.",
+   "Faux : elles sont souvent acquises.",
+   "Faux : l'aspirine altère la fonction plaquettaire.",
+   "Faux : c'est l'inverse, elles sont souvent acquises."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le syndrome de Wiskott-Aldrich, lesquelles sont exactes ?",
+  "options": [
+   "C'est une cause constitutionnelle de thrombopénie",
+   "Les thrombopénies constitutionnelles sont d'origine génétique",
+   "C'est une cause périphérique de thrombopénie",
+   "C'est une thrombocytose",
+   "C'est une thrombopathie"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : cité parmi les thrombopénies constitutionnelles.",
+   "Vrai : constitutionnel signifie d'origine génétique.",
+   "Faux : c'est une cause constitutionnelle.",
+   "Faux : c'est une thrombopénie.",
+   "Faux : c'est une thrombopénie constitutionnelle."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes distinguant troubles quantitatifs et qualitatifs des plaquettes, lesquelles sont exactes ?",
+  "options": [
+   "Thrombopénie et thrombocytose sont des anomalies quantitatives",
+   "Les thrombopathies sont des anomalies qualitatives",
+   "Une thrombopathie peut exister avec une numération plaquettaire normale",
+   "Thrombopathie est synonyme de thrombopénie",
+   "Une thrombopénie est une anomalie qualitative"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : elles concernent le nombre de plaquettes.",
+   "Vrai : elles concernent la fonction des plaquettes.",
+   "Vrai : l'anomalie est fonctionnelle, pas numérique.",
+   "Faux : l'une est qualitative, l'autre quantitative.",
+   "Faux : la thrombopénie est une anomalie quantitative."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la démarche devant un trouble de l'hémostase primaire, lesquelles sont exactes ?",
+  "options": [
+   "L'exploration de l'hémostase primaire se résume à l'étude des fonctions plaquettaires et du vWF",
+   "Une numération plaquettaire abaissée oriente vers une thrombopénie",
+   "Une numération plaquettaire normale oriente vers une thrombopathie ou une maladie de von Willebrand",
+   "L'exploration de l'hémostase primaire repose sur le TQ et le TCA",
+   "Une numération plaquettaire élevée oriente vers une thrombocytose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : résumé pratique donné par le cours.",
+   "Vrai : logique de l'algorithme diagnostique.",
+   "Vrai : logique de l'algorithme diagnostique.",
+   "Faux : le TQ et le TCA explorent la coagulation.",
+   "Vrai : logique de l'algorithme diagnostique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les lésions du purpura vasculaire, lesquelles sont exactes ?",
+  "options": [
+   "Les pétéchies sont des ponctuations",
+   "Les vibices sont des stries",
+   "Les ecchymoses font partie des lésions du purpura",
+   "Les pétéchies sont des stries",
+   "Les vibices sont des ponctuations"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les pétéchies sont des lésions ponctuées.",
+   "Vrai : les vibices sont des lésions en stries.",
+   "Vrai : pétéchies, vibices et ecchymoses.",
+   "Faux : les stries sont les vibices.",
+   "Faux : les ponctuations sont les pétéchies."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les causes de purpura vasculaire, lesquelles sont exactes ?",
+  "options": [
+   "Le purpura rhumatoïde",
+   "Le purpura fulminans méningococcique",
+   "Les purpuras des maladies éruptives (rougeole, rubéole)",
+   "L'origine est souvent idiopathique",
+   "L'origine est toujours médicamenteuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cité parmi les purpuras vasculaires.",
+   "Vrai : cité parmi les purpuras vasculaires.",
+   "Vrai : cités comme causes.",
+   "Vrai : le cours précise une origine souvent idiopathique.",
+   "Faux : l'origine est immunologique, infectieuse ou souvent idiopathique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'origine des purpuras vasculaires, lesquelles sont exactes ?",
+  "options": [
+   "Une origine immunologique est possible",
+   "Une origine infectieuse est possible",
+   "L'origine est souvent idiopathique",
+   "L'origine est toujours héréditaire",
+   "L'origine est toujours traumatique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : origine immunologique citée.",
+   "Vrai : origine infectieuse citée.",
+   "Vrai : le cours précise « souvent idiopathique ».",
+   "Faux : l'origine peut être immunologique, infectieuse ou idiopathique.",
+   "Faux : ce n'est pas une origine citée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le purpura vasculaire, lesquelles sont exactes ?",
+  "options": [
+   "Il traduit une atteinte de la paroi vasculaire",
+   "Il peut survenir avec une numération plaquettaire normale",
+   "Un signe du lacet positif traduit une fragilité vasculaire",
+   "Il est toujours dû à une thrombopénie",
+   "Le purpura vasculaire est une thrombopathie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le purpura vasculaire est une altération de la paroi.",
+   "Vrai : l'atteinte est vasculaire, non plaquettaire.",
+   "Vrai : compression ou dépression cutanée entraînant des pétéchies.",
+   "Faux : l'atteinte est vasculaire, pas plaquettaire.",
+   "Faux : c'est une atteinte de la paroi vasculaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le purpura fulminans méningococcique, lesquelles sont exactes ?",
+  "options": [
+   "C'est une urgence médicale",
+   "Il est d'origine infectieuse (méningocoque)",
+   "Il traduit une atteinte de la paroi vasculaire",
+   "Il est d'origine constitutionnelle",
+   "C'est une affection bénigne et transitoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le purpura fulminans est une forme grave.",
+   "Vrai : origine infectieuse méningococcique.",
+   "Vrai : c'est un purpura vasculaire.",
+   "Faux : il est d'origine infectieuse.",
+   "Faux : le purpura fulminans est grave."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le purpura rhumatoïde, lesquelles sont exactes ?",
+  "options": [
+   "C'est une cause de purpura vasculaire",
+   "Son origine peut être immunologique",
+   "C'est une thrombopénie",
+   "C'est une hémophilie",
+   "C'est une thrombopathie"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : cité parmi les purpuras vasculaires.",
+   "Vrai : les purpuras vasculaires peuvent être d'origine immunologique.",
+   "Faux : c'est une atteinte vasculaire.",
+   "Faux : l'hémophilie est un déficit en facteur de coagulation.",
+   "Faux : c'est une atteinte de la paroi vasculaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les purpuras des maladies éruptives, lesquelles sont exactes ?",
+  "options": [
+   "La rougeole peut s'accompagner d'un purpura",
+   "La rubéole peut s'accompagner d'un purpura",
+   "Ce sont des purpuras d'origine infectieuse",
+   "Ils traduisent un déficit en facteur VIII",
+   "Ils sont dus à une thrombocytose"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : citée parmi les maladies éruptives.",
+   "Vrai : citée parmi les maladies éruptives.",
+   "Vrai : les maladies éruptives sont infectieuses.",
+   "Faux : ce sont des atteintes vasculaires.",
+   "Faux : ce sont des purpuras vasculaires."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les différents types de purpura, lesquelles sont exactes ?",
+  "options": [
+   "Un purpura peut être d'origine vasculaire ou plaquettaire",
+   "Le purpura thrombopénique idiopathique est une thrombopénie périphérique",
+   "Le purpura des thrombopénies est cutanéo-muqueux",
+   "Tout purpura traduit un déficit en facteur de coagulation",
+   "Le purpura vasculaire s'accompagne d'hémarthroses"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : atteinte de la paroi ou des plaquettes.",
+   "Vrai : le PTI est une cause périphérique.",
+   "Vrai : profil de l'hémostase primaire.",
+   "Faux : les déficits en facteurs donnent des hémorragies profondes.",
+   "Faux : les hémarthroses orientent vers un déficit de la coagulation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le tableau clinique d'un déficit en facteur de la coagulation, lesquelles sont exactes ?",
+  "options": [
+   "Hématomes de localisation musculaire ou profonde",
+   "Hémarthroses",
+   "Hémorragies retardées après un traumatisme ou une chirurgie",
+   "Hémorragies volontiers récidivantes",
+   "Pétéchies isolées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : signe cité dans le cours.",
+   "Vrai : signe cité dans le cours.",
+   "Vrai : caractère retardé décrit.",
+   "Vrai : caractère récidivant décrit.",
+   "Faux : les pétéchies orientent vers un trouble de l'hémostase primaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'interrogatoire devant un trouble de l'hémostase, lesquelles sont exactes ?",
+  "options": [
+   "Rechercher les antécédents hémorragiques ou thrombotiques personnels et familiaux",
+   "Rechercher les pathologies associées",
+   "Préciser l'histoire des hémorragies ou thromboses : fréquence, intensité, territoire",
+   "L'interrogatoire est inutile devant un syndrome hémorragique",
+   "Seuls les antécédents personnels comptent"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : première étape de l'exploration clinique.",
+   "Vrai : élément de l'interrogatoire.",
+   "Vrai : éléments à préciser.",
+   "Faux : l'examen clinique et l'interrogatoire sont nécessaires.",
+   "Faux : les antécédents familiaux sont aussi recherchés."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le tableau d'un trouble de l'hémostase primaire, lesquelles sont exactes ?",
+  "options": [
+   "Purpura, pétéchies",
+   "Saignements cutanéo-muqueux (épistaxis, gingivorragies)",
+   "Saignements prolongés après une coupure",
+   "Hémarthroses",
+   "Hématomes musculaires profonds"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : lésions cutanées de l'hémostase primaire.",
+   "Vrai : profil muqueux des troubles primaires.",
+   "Vrai : allongement du saignement.",
+   "Faux : les hémarthroses orientent vers un déficit de la coagulation.",
+   "Faux : les hématomes profonds orientent vers un déficit de la coagulation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes distinguant trouble de l'hémostase primaire et déficit de la coagulation, lesquelles sont exactes ?",
+  "options": [
+   "Un trouble de l'hémostase primaire donne des saignements superficiels cutanéo-muqueux",
+   "Un déficit en facteur de coagulation donne des hémorragies profondes",
+   "L'hémarthrose oriente vers un déficit de la coagulation",
+   "Les deux donnent exactement le même tableau clinique",
+   "Le purpura oriente vers un déficit en facteur VIII"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : profil superficiel.",
+   "Vrai : hématomes profonds, hémarthroses.",
+   "Vrai : signe des déficits en facteurs.",
+   "Faux : les tableaux sont distincts.",
+   "Faux : le purpura oriente vers l'hémostase primaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le caractère retardé des hémorragies des déficits de la coagulation, lesquelles sont exactes ?",
+  "options": [
+   "L'hémorragie peut survenir à distance du traumatisme",
+   "Elles sont volontiers récidivantes",
+   "Elles sont toujours immédiates",
+   "Elles ne surviennent jamais après une chirurgie",
+   "Elles sont toujours uniques et isolées"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : hémorragies retardées après trauma ou chirurgie.",
+   "Vrai : caractère récidivant décrit.",
+   "Faux : elles sont retardées.",
+   "Faux : elles surviennent après trauma ou chirurgie.",
+   "Faux : elles sont volontiers récidivantes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les quatre facteurs de l'hémostase primaire, lesquelles sont exactes ?",
+  "options": [
+   "Le vaisseau (paroi vasculaire)",
+   "Les plaquettes",
+   "Le facteur von Willebrand",
+   "Le fibrinogène",
+   "L'antithrombine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : un des quatre facteurs.",
+   "Vrai : un des quatre facteurs.",
+   "Vrai : un des quatre facteurs.",
+   "Vrai : un des quatre facteurs.",
+   "Faux : l'antithrombine est un inhibiteur de la coagulation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le thrombus blanc et le thrombus définitif, lesquelles sont exactes ?",
+  "options": [
+   "L'hémostase primaire aboutit au thrombus blanc",
+   "La coagulation aboutit au thrombus définitif",
+   "Le thrombus blanc est un thrombus plaquettaire",
+   "La coagulation aboutit au thrombus blanc",
+   "L'hémostase primaire aboutit au thrombus définitif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'hémostase primaire donne le thrombus blanc.",
+   "Vrai : la coagulation forme le thrombus définitif.",
+   "Vrai : le thrombus blanc est constitué de plaquettes.",
+   "Faux : elle aboutit au thrombus définitif.",
+   "Faux : elle aboutit au thrombus blanc."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes orientant le diagnostic devant un syndrome hémorragique, lesquelles sont exactes ?",
+  "options": [
+   "Des épistaxis récidivantes chez l'enfant font penser à une maladie de von Willebrand",
+   "Une hémarthrose après un traumatisme minime fait penser à une hémophilie",
+   "Des pétéchies diffuses font penser à une thrombopénie",
+   "Une hémarthrose fait penser à une thrombopathie",
+   "Un purpura fait penser à un déficit en facteur IX"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : saignement muqueux d'un trouble de l'hémostase primaire.",
+   "Vrai : hémarthrose = déficit en facteur.",
+   "Vrai : purpura = défaut d'hémostase primaire.",
+   "Faux : l'hémarthrose oriente vers la coagulation.",
+   "Faux : le purpura oriente vers l'hémostase primaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'aspirine et le risque hémorragique, lesquelles sont exactes ?",
+  "options": [
+   "La prise d'aspirine altère la fonction plaquettaire",
+   "Elle augmente le risque hémorragique",
+   "Elle corrige les thrombopathies",
+   "C'est un traitement des hémorragies",
+   "Elle n'a aucun effet sur l'hémostase primaire"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : effet sur l'hémostase primaire.",
+   "Vrai : conséquence de l'altération plaquettaire.",
+   "Faux : elle aggrave le défaut d'hémostase primaire.",
+   "Faux : elle favorise les saignements.",
+   "Faux : elle altère la fonction plaquettaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'hémostase en général, lesquelles sont exactes ?",
+  "options": [
+   "L'hémostase est un ensemble de phénomènes intriqués",
+   "Les pathologies de l'hémostase peuvent être acquises ou constitutionnelles",
+   "L'hémostase primaire et la coagulation sont totalement indépendantes",
+   "Il n'existe que des pathologies acquises de l'hémostase",
+   "Il n'existe que des pathologies constitutionnelles de l'hémostase"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : point clé du cours.",
+   "Vrai : les deux origines existent.",
+   "Faux : ce sont des phénomènes intriqués.",
+   "Faux : il existe aussi des formes constitutionnelles.",
+   "Faux : il existe aussi des formes acquises."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les hémophilies en général, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des déficits en facteurs de la coagulation",
+   "Elles exposent au risque hémorragique",
+   "L'hémophilie A est un déficit en facteur VIII (antihémophilique A)",
+   "L'hémophilie B est un déficit en facteur IX (antihémophilique B)",
+   "Ce sont des thrombopathies"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les hémophilies sont des déficits en facteurs.",
+   "Vrai : tout déficit en facteur expose à l'hémorragie.",
+   "Vrai : le facteur VIII est l'antihémophilique A.",
+   "Vrai : le facteur IX est l'antihémophilique B.",
+   "Faux : ce sont des déficits en facteurs de la coagulation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le tableau clinique des hémophilies, lesquelles sont exactes ?",
+  "options": [
+   "Hématomes musculaires profonds",
+   "Hémarthroses",
+   "Hémorragies retardées après un traumatisme ou une chirurgie",
+   "Pétéchies diffuses comme signe cardinal",
+   "Épistaxis isolées comme signe cardinal"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : signe des déficits en facteurs.",
+   "Vrai : signe des déficits en facteurs.",
+   "Vrai : caractère retardé décrit.",
+   "Faux : les pétéchies orientent vers l'hémostase primaire.",
+   "Faux : le tableau est profond, pas muqueux."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes distinguant l'hémophilie A de l'hémophilie B, lesquelles sont exactes ?",
+  "options": [
+   "Hémophilie A : déficit en facteur VIII",
+   "Hémophilie B : déficit en facteur IX",
+   "Les deux sont des déficits en facteurs de la coagulation",
+   "Hémophilie A : déficit en facteur IX",
+   "Hémophilie B : déficit en facteur VIII"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'antihémophilique A est le facteur VIII.",
+   "Vrai : l'antihémophilique B est le facteur IX.",
+   "Vrai : les deux exposent à l'hémorragie.",
+   "Faux : c'est le facteur VIII.",
+   "Faux : c'est le facteur IX."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'évolution des hémorragies hémophiliques, lesquelles sont exactes ?",
+  "options": [
+   "Les hémorragies sont volontiers récidivantes",
+   "Elles touchent les muscles et les articulations",
+   "Elles surviennent souvent à distance du traumatisme",
+   "Elles se manifestent par des pétéchies",
+   "Elles sont superficielles et immédiates"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : caractère récidivant décrit.",
+   "Vrai : hématomes musculaires et hémarthroses.",
+   "Vrai : hémorragies retardées.",
+   "Faux : les pétéchies sont un signe d'hémostase primaire.",
+   "Faux : elles sont profondes et retardées."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le rôle du facteur VIII dans la coagulation, lesquelles sont exactes ?",
+  "options": [
+   "Le facteur VIIIa est le cofacteur du facteur IXa dans le complexe ténase",
+   "Le complexe ténase active le facteur X en Xa",
+   "Le facteur VIII est une sérine protéase",
+   "Le facteur VIII active directement la prothrombine",
+   "Le facteur VIII est transporté dans le plasma par le vWF"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : le complexe ténase associe IXa et son cofacteur VIIIa.",
+   "Vrai : la ténase active le facteur X.",
+   "Faux : c'est un cofacteur, pas une enzyme.",
+   "Faux : la prothrombine est activée par le complexe prothrombinase.",
+   "Vrai : le vWF transporte le facteur VIII."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le rôle du facteur IX dans la coagulation, lesquelles sont exactes ?",
+  "options": [
+   "Le facteur IXa est une sérine protéase du complexe ténase",
+   "Le facteur IX est activé par le facteur XIa dans la voie intrinsèque",
+   "Le facteur IX est le cofacteur du facteur VIIIa",
+   "Le facteur IXa est inhibé par l'antithrombine",
+   "Le facteur IX appartient à la voie extrinsèque"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : IXa est l'enzyme du complexe ténase.",
+   "Vrai : XIa active le IX dans la voie intrinsèque.",
+   "Faux : c'est l'inverse, le VIIIa est le cofacteur du IXa.",
+   "Vrai : l'antithrombine inhibe le facteur IXa.",
+   "Faux : le facteur IX appartient à la voie intrinsèque."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes comparant hémophilie et maladie de von Willebrand, lesquelles sont exactes ?",
+  "options": [
+   "L'hémophilie est un déficit en facteur de coagulation, la maladie de von Willebrand un déficit en vWF",
+   "Dans l'hémophilie A, le vWF est normal",
+   "Dans la maladie de von Willebrand, le déficit en vWF peut abaisser le facteur VIII",
+   "Les deux pathologies donnent des hémarthroses",
+   "Les deux sont des thrombopathies"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : natures différentes des deux déficits.",
+   "Vrai : le déficit porte sur le facteur VIII seul.",
+   "Vrai : le vWF transporte le FVIII.",
+   "Faux : les hémarthroses sont le signe de l'hémophilie.",
+   "Faux : aucune des deux n'est une thrombopathie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les déficits en facteurs de la coagulation, lesquelles sont exactes ?",
+  "options": [
+   "Tout déficit en facteur de la coagulation expose à l'hémorragie",
+   "Les hémophilies A et B en sont l'exemple",
+   "Un déficit en facteur expose à la thrombose",
+   "Un déficit en facteur est sans conséquence clinique",
+   "Les déficits en facteurs sont toujours acquis"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : principe général du cours.",
+   "Vrai : exemples cités.",
+   "Faux : c'est le déficit en inhibiteur qui expose à la thrombose.",
+   "Faux : il expose à l'hémorragie.",
+   "Faux : les hémophilies sont constitutionnelles."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les cofacteurs de la coagulation, lesquelles sont exactes ?",
+  "options": [
+   "Le facteur VIIIa est un cofacteur",
+   "Le facteur Va est un cofacteur du complexe prothrombinase",
+   "Le facteur V est une sérine protéase",
+   "La protéine S est le cofacteur de la protéine C activée",
+   "Le facteur VIII est une proenzyme"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : cofacteur du IXa dans la ténase.",
+   "Vrai : la prothrombinase associe Xa, Va, phospholipides et calcium.",
+   "Faux : c'est un cofacteur.",
+   "Vrai : la protéine S est le cofacteur de la PCa.",
+   "Faux : le facteur VIII est un cofacteur, pas une proenzyme."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les sites des hémorragies hémophiliques, lesquelles sont exactes ?",
+  "options": [
+   "Les articulations (hémarthroses)",
+   "Les muscles (hématomes profonds)",
+   "Les saignements post-chirurgicaux retardés",
+   "Le purpura fulminans",
+   "Les pétéchies isolées"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : site typique.",
+   "Vrai : site typique.",
+   "Vrai : hémorragies retardées après chirurgie.",
+   "Faux : le purpura fulminans est d'origine vasculaire/infectieuse.",
+   "Faux : les pétéchies orientent vers l'hémostase primaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'antithrombine, lesquelles sont exactes ?",
+  "options": [
+   "Elle inhibe principalement la thrombine",
+   "Elle inhibe aussi le facteur Xa et le facteur IXa",
+   "Elle inhibe partiellement le facteur XIa",
+   "Elle active la thrombine",
+   "C'est une protéine vitamino-K dépendante"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : inhibition principale de la thrombine.",
+   "Vrai : inhibition du Xa et du IXa.",
+   "Vrai : inhibition partielle du XIa.",
+   "Faux : elle l'inhibe.",
+   "Faux : les protéines vitamino-K dépendantes sont la protéine C et la protéine S."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les serpines inhibitrices de la coagulation, lesquelles sont exactes ?",
+  "options": [
+   "L'antithrombine est une serpine",
+   "Le cofacteur II de l'héparine est une serpine",
+   "L'alpha1-antitrypsine et le C1-inhibiteur sont des inhibiteurs plus accessoires",
+   "Les serpines sont des inhibiteurs de sérine-protéases",
+   "La protéine C est une serpine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les serpines sont des inhibiteurs de sérine-protéases.",
+   "Vrai : cité parmi les serpines.",
+   "Vrai : rôle plus accessoire selon le cours.",
+   "Vrai : définition de la famille.",
+   "Faux : la protéine C est le zymogène d'une sérine protéase, pas une serpine."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le système protéine C / protéine S, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des protéines plasmatiques vitamino-K dépendantes",
+   "La protéine C est le zymogène d'une sérine protéase",
+   "La protéine S est le cofacteur de la protéine C activée",
+   "La protéine C activée est un inhibiteur très puissant des facteurs Va et VIIIa",
+   "La protéine C inhibe directement la thrombine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : dépendance à la vitamine K.",
+   "Vrai : la protéine C est un zymogène.",
+   "Vrai : la protéine S est le cofacteur de la PCa.",
+   "Vrai : cibles de la PCa.",
+   "Faux : elle inhibe les facteurs Va et VIIIa."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le TFPI, lesquelles sont exactes ?",
+  "options": [
+   "C'est une protéine plasmatique",
+   "Il inhibe l'activation du facteur X par le complexe [VIIa-facteur tissulaire]",
+   "Il inhibe la thrombine",
+   "Il active le facteur X",
+   "Il inhibe les facteurs Va et VIIIa"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : le TFPI est une protéine plasmatique.",
+   "Vrai : mécanisme d'action du TFPI.",
+   "Faux : la thrombine est inhibée par l'antithrombine.",
+   "Faux : il inhibe son activation.",
+   "Faux : c'est le rôle de la protéine C activée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les thrombophilies, lesquelles sont exactes ?",
+  "options": [
+   "Un déficit en inhibiteurs de la coagulation favorise la thrombose",
+   "Les thrombophilies peuvent être constitutionnelles ou acquises",
+   "L'antithrombine est un inhibiteur physiologique de la coagulation",
+   "Un déficit en inhibiteur expose à l'hémorragie",
+   "Un excès d'inhibiteur expose à la thrombose"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : principe des thrombophilies.",
+   "Vrai : les deux formes existent.",
+   "Vrai : principal inhibiteur.",
+   "Faux : il expose à la thrombose.",
+   "Faux : un excès d'inhibiteur exposerait à l'hémorragie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les conséquences d'un déficit en inhibiteur de la coagulation, lesquelles sont exactes ?",
+  "options": [
+   "Un déficit en antithrombine expose au risque thrombotique",
+   "Un déficit en protéine C expose au risque thrombotique",
+   "Un déficit en protéine S expose au risque thrombotique",
+   "Un déficit en antithrombine expose au risque hémorragique",
+   "Ces déficits sont sans conséquence clinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : déficit en inhibiteur = thrombose.",
+   "Vrai : déficit en inhibiteur = thrombose.",
+   "Vrai : déficit en inhibiteur = thrombose.",
+   "Faux : il expose au risque thrombotique.",
+   "Faux : ils favorisent les thromboses."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les cibles des inhibiteurs de la coagulation, lesquelles sont exactes ?",
+  "options": [
+   "La protéine C activée inhibe les facteurs Va et VIIIa",
+   "L'antithrombine inhibe la thrombine, le Xa, le IXa et partiellement le XIa",
+   "Le TFPI inhibe le complexe VIIa-facteur tissulaire",
+   "La protéine C activée inhibe la thrombine",
+   "L'antithrombine inhibe les facteurs Va et VIIIa"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : cibles de la PCa.",
+   "Vrai : spectre d'inhibition de l'AT.",
+   "Vrai : cible du TFPI.",
+   "Faux : la thrombine est inhibée par l'antithrombine.",
+   "Faux : ce sont les cibles de la protéine C activée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la régulation de la coagulation, lesquelles sont exactes ?",
+  "options": [
+   "La coagulation est régulée par trois systèmes d'inhibiteurs",
+   "Les serpines (antithrombine, cofacteur II de l'héparine…)",
+   "Le système protéine C / protéine S",
+   "Le TFPI",
+   "Il n'existe qu'un seul système de régulation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : point clé du cours.",
+   "Vrai : premier système.",
+   "Vrai : deuxième système.",
+   "Vrai : troisième système.",
+   "Faux : il y en a trois."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le cofacteur II de l'héparine, lesquelles sont exactes ?",
+  "options": [
+   "C'est un inhibiteur physiologique de la coagulation",
+   "C'est une serpine",
+   "Il appartient à la même famille que l'antithrombine",
+   "C'est le principal inhibiteur de la thrombine",
+   "C'est une protéine vitamino-K dépendante"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : cité parmi les inhibiteurs.",
+   "Vrai : il appartient à la famille des serpines.",
+   "Vrai : les deux sont des serpines.",
+   "Faux : le principal inhibiteur de la thrombine est l'antithrombine.",
+   "Faux : les protéines vitamino-K dépendantes sont la protéine C et la protéine S."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le C1-inhibiteur, lesquelles sont exactes ?",
+  "options": [
+   "C'est un inhibiteur accessoire de la coagulation de la famille des serpines",
+   "Il inhibe la voie XII-dépendante de la fibrinolyse",
+   "C'est le principal inhibiteur de la thrombine",
+   "Il active le plasminogène",
+   "C'est une protéine vitamino-K dépendante"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : rôle accessoire cité.",
+   "Vrai : le C1estérase-inhibiteur inhibe la voie XII-dépendante.",
+   "Faux : c'est l'antithrombine.",
+   "Faux : il inhibe la voie XII-dépendante.",
+   "Faux : ce sont la protéine C et la protéine S."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les protéines vitamino-K dépendantes de l'hémostase, lesquelles sont exactes ?",
+  "options": [
+   "La protéine C est vitamino-K dépendante",
+   "La protéine S est vitamino-K dépendante",
+   "La carboxylation des résidus acide glutamique (Gla) nécessite la vitamine K",
+   "L'antithrombine est vitamino-K dépendante",
+   "Le TFPI est vitamino-K dépendant"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : protéine plasmatique vitamino-K dépendante.",
+   "Vrai : protéine plasmatique vitamino-K dépendante.",
+   "Vrai : mécanisme de la dépendance à la vitamine K.",
+   "Faux : l'antithrombine est une serpine.",
+   "Faux : le TFPI n'est pas vitamino-K dépendant."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'activation excessive de la coagulation, lesquelles sont exactes ?",
+  "options": [
+   "L'activation excessive de la coagulation favorise la thrombose",
+   "Un déficit en inhibiteurs de la coagulation favorise cette activation excessive",
+   "La régulation de la coagulation prévient les thromboses",
+   "L'activation excessive de la coagulation favorise l'hémorragie",
+   "Un déficit en facteurs de la coagulation favorise la thrombose"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : principe énoncé dans le cours.",
+   "Vrai : mécanisme des thrombophilies.",
+   "Vrai : rôle des inhibiteurs physiologiques.",
+   "Faux : elle favorise la thrombose.",
+   "Faux : il favorise l'hémorragie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les pathologies de la fibrinolyse, lesquelles sont exactes ?",
+  "options": [
+   "L'hyperfibrinolyse expose au risque hémorragique",
+   "L'hypofibrinolyse expose au risque thrombotique",
+   "La fibrinolyse dissout la fibrine pour reperméabiliser le vaisseau",
+   "L'hyperfibrinolyse expose au risque thrombotique",
+   "L'hypofibrinolyse expose au risque hémorragique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : pathologie de la fibrinolyse citée.",
+   "Vrai : pathologie de la fibrinolyse citée.",
+   "Vrai : rôle physiologique de la fibrinolyse.",
+   "Faux : elle expose au risque hémorragique.",
+   "Faux : elle expose au risque thrombotique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le PAI-1, lesquelles sont exactes ?",
+  "options": [
+   "C'est une serpine (inhibiteur des sérine protéases)",
+   "Il a une affinité égale pour le t-PA et l'urokinase",
+   "Il est synthétisé par les cellules endothéliales, monocytes, hépatocytes, fibroblastes, adipocytes et mégacaryocytes",
+   "Il active le plasminogène",
+   "Il s'oppose essentiellement à l'urokinase"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le PAI-1 est une serpine.",
+   "Vrai : affinité égale pour les deux activateurs.",
+   "Vrai : nombreuses cellules productrices.",
+   "Faux : il inhibe les activateurs du plasminogène.",
+   "Faux : c'est le rôle du PAI-2."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'alpha2-antiplasmine, lesquelles sont exactes ?",
+  "options": [
+   "Elle est de synthèse hépatique",
+   "Elle inhibe rapidement la plasmine libre",
+   "Elle se fixe aux chaînes alpha de la fibrine, évitant une lyse prématurée du caillot",
+   "Son action est lente",
+   "Elle active le plasminogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : synthèse hépatique.",
+   "Vrai : inhibition rapide de la plasmine libre.",
+   "Vrai : mécanisme de protection du caillot.",
+   "Faux : l'action lente est celle de l'alpha2-macroglobuline.",
+   "Faux : c'est un inhibiteur de la plasmine."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le TAFI, lesquelles sont exactes ?",
+  "options": [
+   "Il est synthétisé par le foie",
+   "Il est activé par la thrombine en présence de thrombomoduline",
+   "Il protège la fibrine de sa dégradation par la plasmine",
+   "Il détache des résidus lysine C-terminaux de la fibrine, réduisant la fixation du plasminogène",
+   "Il active la fibrinolyse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : synthèse hépatique.",
+   "Vrai : mode d'activation.",
+   "Vrai : rôle du TAFI.",
+   "Vrai : mécanisme d'inhibition de la fibrinolyse.",
+   "Faux : c'est un inhibiteur de la fibrinolyse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les autres régulateurs de la fibrinolyse, lesquelles sont exactes ?",
+  "options": [
+   "L'alpha2-macroglobuline a une action lente",
+   "Le C1estérase-inhibiteur inhibe la voie XII-dépendante",
+   "La HRG forme un complexe réversible avec 50 % du plasminogène plasmatique",
+   "L'alpha2-macroglobuline inhibe rapidement la plasmine libre",
+   "La HRG augmente la fixation du plasminogène à la fibrine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : action lente décrite.",
+   "Vrai : cible du C1-inhibiteur.",
+   "Vrai : la glycoprotéine riche en histidine complexe la moitié du Pg.",
+   "Faux : l'inhibition rapide est le fait de l'alpha2-antiplasmine.",
+   "Faux : elle réduit la quantité de Pg capable de se lier à la fibrine."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les substrats de la plasmine, lesquelles sont exactes ?",
+  "options": [
+   "Le principal substrat de la plasmine est la fibrine",
+   "La plasmine dégrade aussi le fibrinogène, les facteurs V et VIII, le vWF et le XIIIa",
+   "Les D-dimères sont spécifiques de la dégradation de la fibrine",
+   "Une valeur normale des D-dimères exclut un dépôt de fibrine évolutif (embolie pulmonaire, phlébite)",
+   "Les D-dimères proviennent de la dégradation du collagène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la fibrine est le substrat principal.",
+   "Vrai : autres substrats cités.",
+   "Vrai : spécificité des D-dimères.",
+   "Vrai : valeur diagnostique des D-dimères.",
+   "Faux : ils proviennent de la dégradation de la fibrine."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'utilisation clinique des D-dimères, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont le bon reflet de la présence de fibrine et de sa lyse",
+   "Une valeur normale exclut une embolie pulmonaire ou une phlébite évolutive",
+   "Ils sont spécifiques de la dégradation de la fibrine",
+   "Une valeur élevée confirme à elle seule une embolie pulmonaire",
+   "Ils proviennent de la dégradation du fibrinogène uniquement"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les D-dimères reflètent fibrine et lyse.",
+   "Vrai : valeur d'exclusion.",
+   "Vrai : spécificité des D-dimères.",
+   "Faux : seule la valeur normale a une valeur d'exclusion.",
+   "Faux : ils proviennent de la dégradation de la fibrine."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la CIVD, lesquelles sont exactes ?",
+  "options": [
+   "CIVD signifie coagulation intravasculaire disséminée",
+   "C'est un signe de gravité des leucémies aiguës",
+   "Elle s'exprime par un syndrome hémorragique majeur",
+   "C'est une pathologie isolée de l'hémostase primaire",
+   "Elle n'a aucune traduction hémorragique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : définition de l'acronyme.",
+   "Vrai : la CIVD est citée parmi les signes de gravité.",
+   "Vrai : le syndrome hémorragique majeur évoque la CIVD.",
+   "Faux : c'est une activation diffuse de la coagulation.",
+   "Faux : elle donne un syndrome hémorragique majeur."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la CIVD dans les leucémies aiguës myéloblastiques, lesquelles sont exactes ?",
+  "options": [
+   "La CIVD est un signe de gravité dans les LAM",
+   "Le syndrome hémorragique majeur de la LAM évoque une CIVD",
+   "La CIVD associe une activation diffuse de la coagulation et des hémorragies",
+   "La CIVD est spécifique des leucémies aiguës lymphoblastiques",
+   "La CIVD est une complication bénigne"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : citée parmi les signes de gravité.",
+   "Vrai : circonstance évocatrice.",
+   "Vrai : physiopathologie de la CIVD.",
+   "Faux : elle est citée comme signe de gravité des leucémies aiguës, notamment myéloblastiques.",
+   "Faux : c'est un signe de gravité."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les mécanismes de la CIVD, lesquelles sont exactes ?",
+  "options": [
+   "Activation diffuse et incontrôlée de la coagulation",
+   "Consommation des facteurs de la coagulation et des plaquettes",
+   "Hyperfibrinolyse réactionnelle",
+   "C'est un déficit constitutionnel en facteur VIII",
+   "Elle résulte d'un excès d'inhibiteurs de la coagulation"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : mécanisme de la coagulation intravasculaire disséminée.",
+   "Vrai : l'activation diffuse consomme facteurs et plaquettes.",
+   "Vrai : la fibrinolyse réactionnelle aggrave les hémorragies.",
+   "Faux : le déficit en FVIII définit l'hémophilie A.",
+   "Faux : elle résulte d'une activation excessive."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les manifestations cliniques de la CIVD, lesquelles sont exactes ?",
+  "options": [
+   "Hémorragies diffuses et majeures",
+   "Purpura et saignements aux points de ponction",
+   "Thromboses microvasculaires possibles",
+   "Hémarthroses isolées comme seul signe",
+   "Absence de tout signe clinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : syndrome hémorragique majeur.",
+   "Vrai : manifestations du défaut d'hémostase.",
+   "Vrai : l'activation diffuse peut thromboser la microcirculation.",
+   "Faux : les hémarthroses sont le signe des hémophilies.",
+   "Faux : le tableau est bruyant, hémorragique majeur."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les circonstances favorisant une CIVD, lesquelles sont exactes ?",
+  "options": [
+   "Les leucémies aiguës myéloblastiques",
+   "Les infections sévères comme la méningococcémie (purpura fulminans)",
+   "Les cancers",
+   "Un traumatisme isolé sans gravité",
+   "La prise d'aspirine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la CIVD est un signe de gravité des LAM.",
+   "Vrai : le purpura fulminans méningococcique s'accompagne d'une CIVD.",
+   "Vrai : les cancers peuvent déclencher une CIVD.",
+   "Faux : la CIVD survient dans des contextes graves.",
+   "Faux : l'aspirine donne une thrombopathie acquise, pas une CIVD."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la CIVD en pratique, lesquelles sont exactes ?",
+  "options": [
+   "La CIVD est une urgence diagnostique et thérapeutique",
+   "Elle combine un risque hémorragique et un risque thrombotique",
+   "Le traitement de la cause sous-jacente est essentiel",
+   "Elle est due à un déficit isolé en plaquettes",
+   "Elle est due à un déficit isolé en facteur VIII"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : signe de gravité nécessitant une prise en charge urgente.",
+   "Vrai : hémorragies par consommation, thromboses par activation.",
+   "Vrai : la CIVD est toujours secondaire à une cause à traiter.",
+   "Faux : c'est une activation diffuse avec consommation.",
+   "Faux : c'est l'hémophilie A."
+  ]
+ },
+ {
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'atteinte de la paroi vasculaire donne un purpura avec pétéchies (ponctuations), vibices (stries) et ecchymoses.",
+   "Faux : le purpura est ici d'origine pariétale, la numération plaquettaire est généralement normale.",
+   "Vrai : une compression veineuse ou une dépression cutanée entraînant des pétéchies (signe du lacet positif) signe une fragilité vasculaire.",
+   "Faux : le texte précise que le signe du lacet est un test peu reproductible et peu informatif.",
+   "Vrai : le purpura fulminans méningococcique est une urgence vitale d'origine infectieuse à méningocoque."
+  ],
+  "options": [
+   "Le purpura vasculaire se manifeste par des pétéchies, des vibices et des ecchymoses",
+   "La numération plaquettaire est systématiquement abaissée dans les purpuras vasculaires",
+   "Un signe du lacet positif traduit une fragilité vasculaire",
+   "Le signe du lacet est un test très reproductible et très informatif",
+   "Le purpura fulminans méningococcique est une origine infectieuse grave du purpura vasculaire"
+  ],
+  "q": "Parmi les propositions suivantes concernant les purpuras vasculaires, lesquelles sont exactes ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : l'hyperfibrinolyse dissout précocement le caillot de fibrine, d'où un risque hémorragique.",
+   "Vrai : le temps de lyse des euglobulines (test de Von Kaulla, normal > 3 h) est diminué en cas d'activation de la fibrinolyse.",
+   "Faux : les D-dimères sont spécifiques de la dégradation de la fibrine, pas du fibrinogène.",
+   "Vrai : l'α2-antiplasmine inhibe la plasmine libre et le PAI-1 inhibe le t-PA ; leur déficit laisse la fibrinolyse sans frein.",
+   "Faux : l'acide tranexamique est un antifibrinolytique, utilisé lors d'interventions chirurgicales à risque hémorragique élevé."
+  ],
+  "options": [
+   "L'hyperfibrinolyse expose à un risque hémorragique",
+   "Le temps de lyse des euglobulines est raccourci en cas d'activation de la fibrinolyse",
+   "Les D-dimères sont le reflet de la dégradation du fibrinogène",
+   "Un déficit en α2-antiplasmine ou en PAI-1 peut être responsable d'un syndrome hémorragique par hyperfibrinolyse",
+   "L'acide tranexamique est un activateur de la fibrinolyse"
+  ],
+  "q": "Parmi les propositions suivantes concernant l'hyperfibrinolyse, lesquelles sont exactes ?"
+ }
+]

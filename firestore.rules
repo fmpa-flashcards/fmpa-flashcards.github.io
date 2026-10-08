@@ -1,0 +1,202 @@
+rules_version = '2';
+
+// ============================================================================
+//  FMPR Flashcards — règles de sécurité Firestore
+//  Principe : chaque utilisateur ne touche que SES données.
+//  Le statut Pro ne peut être obtenu qu'en réclamant un code à usage unique
+//  créé par l'admin. Les codes eux-mêmes ne sont jamais stockés en clair
+//  (seule l'empreinte SHA-256 du code est enregistrée).
+//  IMPORTANT : remplace ADMIN@EXAMPLE.COM par ton email admin.
+// ============================================================================
+
+service cloud.firestore {
+  match /databases/{db}/documents {
+
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    function isAdmin() {
+      return signedIn() && request.auth.token.email == 'anzajewls@gmail.com';
+    }
+
+    function ownUid(uid) {
+      return signedIn() && request.auth.uid == uid;
+    }
+
+    // ------------------------------------------------------------------
+    // Profil utilisateur : users/{uid}
+    // ------------------------------------------------------------------
+    match /users/{uid} {
+      allow read: if ownUid(uid);
+
+      // Création : pas de triche à l'inscription (pas Pro, 0 XP, 0 parrainage)
+      allow create: if ownUid(uid)
+        && request.resource.data.proTier == null
+        && request.resource.data.xp == 0
+        && request.resource.data.streak == 0
+        && request.resource.data.refBalance == 0
+        && request.resource.data.refCount == 0
+        && request.resource.data.referralCode is string;
+
+      // Mise à jour par le propriétaire :
+      //  - email / createdAt immuables
+      //  - proTier : null → 'cards'|'full' (ou 'cards' → 'full') uniquement via claim
+      //  - l'XP ne peut pas bondir de plus de 600 par écriture
+      //  - refBalance / refCount intouchables par le propriétaire
+      //  - referralCode immuable une fois défini (backfill autorisé si vide)
+      allow update: if ownUid(uid)
+        && request.resource.data.email == resource.data.email
+        && request.resource.data.createdAt == resource.data.createdAt
+        && request.resource.data.xp >= 0
+        && request.resource.data.xp <= resource.data.xp + 600
+        && request.resource.data.get('refBalance', 0) == resource.data.get('refBalance', 0)
+        && request.resource.data.get('refCount', 0) == resource.data.get('refCount', 0)
+        && (
+          request.resource.data.get('referralCode', '') == resource.data.get('referralCode', '')
+          || (
+            resource.data.get('referralCode', '') == ''
+            && request.resource.data.referralCode is string
+            && request.resource.data.referralCode.size() >= 4
+          )
+        )
+        && (
+          request.resource.data.get('proTier', null) == resource.data.get('proTier', null)
+          || (
+            (
+              resource.data.get('proTier', null) == null
+              || resource.data.get('proTier', null) == 'cards'
+            )
+            && (
+              request.resource.data.proTier == 'cards'
+              || request.resource.data.proTier == 'full'
+            )
+            && !(resource.data.get('proTier', null) == 'full' && request.resource.data.proTier == 'cards')
+            && exists(/databases/$(db)/documents/claims/$(request.auth.uid))
+          )
+        );
+
+      // Crédit parrainage : un filleul (connecté) peut créditer SON parrain
+      // de +15 DH / +1 filleul, uniquement s'il a un doc referrals le liant
+      // à ce parrain (un seul parrainage par filleul, créé à l'activation).
+      allow update: if signedIn()
+        && request.auth.uid != uid
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['refBalance', 'refCount'])
+        && request.resource.data.refBalance == resource.data.get('refBalance', 0) + 15
+        && request.resource.data.refCount == resource.data.get('refCount', 0) + 1
+        && exists(/databases/$(db)/documents/referrals/$(request.auth.uid))
+        && get(/databases/$(db)/documents/referrals/$(request.auth.uid)).data.referrerUid == uid;
+
+      allow delete: if false;
+    }
+
+    // ------------------------------------------------------------------
+    // Parrainages : referrals/{filleulUid}
+    //  - création : une seule fois, par le filleul lui-même, à l'activation Pro
+    //  - lecture : le filleul ou son parrain
+    // ------------------------------------------------------------------
+    match /referrals/{uid} {
+      allow create: if signedIn()
+        && request.auth.uid == uid
+        && !exists(/databases/$(db)/documents/referrals/$(uid))
+        && request.resource.data.referredUid == request.auth.uid
+        && request.resource.data.referrerUid is string
+        && request.resource.data.referrerUid != request.auth.uid
+        && request.resource.data.commission == 15;
+      allow read: if signedIn()
+        && (request.auth.uid == uid || request.auth.uid == resource.data.referrerUid);
+      allow update, delete: if false;
+    }
+
+    // ------------------------------------------------------------------
+    // Table de correspondance codes parrainage : refcodes/{code} -> {uid}
+    //  - lecture : tout connecté (pour résoudre un code en parrain)
+    //  - création : par le propriétaire du code uniquement
+    // ------------------------------------------------------------------
+    match /refcodes/{code} {
+      allow read: if signedIn();
+      allow create: if signedIn()
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.keys().hasOnly(['uid']);
+      allow update, delete: if false;
+    }
+
+    // ------------------------------------------------------------------
+    // Données privées de l'utilisateur : progression, plan, sessions
+    // ------------------------------------------------------------------
+    match /users/{uid}/topics/{topicId} {
+      allow read, write: if ownUid(uid);
+    }
+
+    match /users/{uid}/meta/{docId} {
+      allow read, write: if ownUid(uid);
+    }
+
+    match /users/{uid}/sessions/{sessionId} {
+      allow read, write: if ownUid(uid);
+    }
+
+    // ------------------------------------------------------------------
+    // Codes d'activation : codes/{serial}
+    //  - création réservée à l'admin (générateur privé)
+    //  - lecture : tout utilisateur connecté peut chercher PAR EMPREINTE
+    //    (requête where('codeHash','==',h)) — sans le code, introuvable
+    //  - réclamation : usage unique, atomique via transaction
+    // ------------------------------------------------------------------
+    match /codes/{serial} {
+      allow create: if isAdmin()
+        && request.resource.data.used == false
+        && request.resource.data.codeHash is string
+        && request.resource.data.tier is string
+        && (request.resource.data.tier == 'cards' || request.resource.data.tier == 'full')
+        && request.resource.data.keys().hasOnly(['codeHash', 'used', 'usedBy', 'createdAt', 'batch', 'tier']);
+
+      allow get: if signedIn();
+      allow list: if signedIn();
+
+      allow update: if signedIn()
+        && !resource.data.used
+        && request.resource.data.used == true
+        && request.resource.data.usedBy == request.auth.uid
+        && request.resource.data.codeHash == resource.data.codeHash
+        && request.resource.data.createdAt == resource.data.createdAt
+        && request.resource.data.keys().hasOnly(['codeHash', 'used', 'usedBy', 'usedAt', 'createdAt', 'batch', 'tier']);
+
+      allow delete: if false;
+    }
+
+    // ------------------------------------------------------------------
+    // Preuves de réclamation : claims/{uid}
+    //  - création autorisée seulement si l'utilisateur a réclamé un code
+    //    (le doc code correspondant a usedBy == son uid)
+    // ------------------------------------------------------------------
+    match /claims/{uid} {
+      allow read: if ownUid(uid);
+      allow create: if ownUid(uid)
+        && request.resource.data.serial is string
+        && get(/databases/$(db)/documents/codes/$(request.resource.data.serial)).data.usedBy == request.auth.uid;
+      allow update, delete: if false;
+    }
+
+    // ------------------------------------------------------------------
+    // Classements : lecture publique (connectés), écriture = soi-même
+    // ------------------------------------------------------------------
+    match /lb_weekly/{weekId}/users/{uid} {
+      allow read: if signedIn();
+      allow create, update: if ownUid(uid)
+        && request.resource.data.xp >= 0
+        && request.resource.data.xp <= 10000000
+        && request.resource.data.nickname is string;
+      allow delete: if false;
+    }
+
+    match /lb_alltime/users/{uid} {
+      allow read: if signedIn();
+      allow create, update: if ownUid(uid)
+        && request.resource.data.xp >= 0
+        && request.resource.data.xp <= 10000000
+        && request.resource.data.nickname is string;
+      allow delete: if false;
+    }
+  }
+}

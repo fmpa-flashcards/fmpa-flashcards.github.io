@@ -1,0 +1,4530 @@
+[
+ {
+  "q": "Concernant la famille des Picornaviridae, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Le virus de l'hépatite A appartient au genre Hepatovirus",
+   "Ce sont des virus enveloppés fragiles en milieu extérieur",
+   "Le genre Entérovirus comprend le poliovirus et les entérovirus non poliomyélitiques",
+   "Ce sont parmi les plus petits virus pathogènes (pico = petit)",
+   "La famille compte 9 genres dont 6 pathogènes pour l'homme"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Le VHA est classé dans le genre Hepatovirus de la famille des Picornaviridae.",
+   "Ce sont des virus nus (génome + capside), très résistants en milieu extérieur.",
+   "Le genre Entérovirus regroupe virus poliomyélitique et virus non poliomyélitiques.",
+   "Pico signifie petit : les Picornaviridae sont parmi les plus petits virus pathogènes.",
+   "9 genres au total, dont 6 contiennent des virus pathogènes pour l'homme."
+  ]
+ },
+ {
+  "q": "À propos de la structure des entérovirus, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Taille de 27 à 30 nm",
+   "Génome : ADN double brin circulaire",
+   "Virus non enveloppés : génome + capside uniquement",
+   "Capside de symétrie icosaédrique",
+   "Protéines capsidaires VP1, VP2, VP3 et VP4"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Les entérovirus mesurent 27 à 30 nm de diamètre.",
+   "Le génome est un ARN simple brin linéaire, pas un ADN.",
+   "Virus nu = génome + capside, sans enveloppe lipidique.",
+   "La capside des entérovirus est icosaédrique.",
+   "La capside comprend les protéines VP1, VP2, VP3 + VP4."
+  ]
+ },
+ {
+  "q": "Concernant le génome des entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Il s'agit d'un ADN double brin linéaire",
+   "Il est segmenté en plusieurs fragments",
+   "Il est de polarité positive",
+   "Il est protégé par une capside icosaédrique",
+   "Il s'agit d'un ARN simple brin linéaire"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Les entérovirus sont des virus à ARN, pas à ADN.",
+   "Le génome des entérovirus est non segmenté, contrairement à celui du virus de la grippe.",
+   "ARN de polarité positive, directement traduisible par la cellule.",
+   "Le génome est entouré d'une capside icosaédrique.",
+   "Génome à ARN simple brin linéaire."
+  ]
+ },
+ {
+  "q": "À propos de la résistance physico-chimique des entérovirus, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Ils sont très résistants aux ph acides",
+   "Ils sont détruits par l'hypochlorite de soude",
+   "Ils sont détruits par les rayons UV",
+   "Ils résistent à l'alcool à 70 degrés",
+   "Ils sont sensibles à l'éther"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Les entérovirus résistent aux ph acides (sauf les rhinovirus).",
+   "Les oxydants comme l'hypochlorite de soude les détruisent.",
+   "Les rayons UV inactivent les entérovirus.",
+   "Résistance à l'alcool à 70 degrés décrite dans le cours.",
+   "Les entérovirus, virus nus, résistent à l'éther."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes concernant la survie des entérovirus sont exactes ?",
+  "options": [
+   "Ils sont détruits par la bêta-propiolactone",
+   "Ils se conservent des années à -20 degrés C",
+   "Ils sont détruits par le formol",
+   "Ils sont rapidement inactives par simple dessiccation",
+   "Ils se conservent quelques semaines dans l'environnement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "La bêta-propiolactone inactivé les entérovirus.",
+   "Conservation possible des années à -20 degrés C.",
+   "Le formol fait partie des agents destructeurs.",
+   "Virus nus très résistants, ils persistent dans le milieu extérieur.",
+   "Persistance de quelques semaines dans le milieu extérieur."
+  ]
+ },
+ {
+  "q": "Concernant les rhinovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Ils appartiennent au genre Entérovirus dans la classification du cours",
+   "Ils sont détruits par les oxydants",
+   "Ils résistent aux ph acides comme les autres entérovirus",
+   "Ils sont sensibles à l'éther comme tous les Picornaviridae",
+   "Ils sont rapidement inactives à ph acide (< 6)"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Dans ce cours, les rhinovirus sont classés parmi les Entérovirus.",
+   "Comme les autres entérovirus, ils sont sensibles aux oxydants.",
+   "Ils font exception : ils sont sensibles à l'acidité.",
+   "Les Picornaviridae sont résistants à l'éther.",
+   "Particularité des rhinovirus : inactivation rapide à ph < 6."
+  ]
+ },
+ {
+  "q": "Parmi les genres suivants de la famille des Picornaviridae, lesquels contiennent des virus pathogènes pour l'homme ?",
+  "options": [
+   "Parechovirus",
+   "Hepatovirus",
+   "Morbillivirus",
+   "Entérovirus",
+   "Cardiovirus"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "l'un des 6 genres pathogènes pour l'homme.",
+   "Genre du virus de l'hépatite A, pathogène pour l'homme.",
+   "Genre de la famille des Paramyxoviridae (virus de la rougeole).",
+   "Genre principal : poliovirus, coxsackievirus, échovirus.",
+   "l'un des 6 genres pathogènes pour l'homme."
+  ]
+ },
+ {
+  "q": "Concernant le virus de l'hépatite A, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Il s'agit d'un virus enveloppé fragile",
+   "Il appartient au genre Entérovirus",
+   "Il appartient à la famille des Picornaviridae",
+   "Il partage les caractères de résistance des entérovirus",
+   "Il appartient au genre Hepatovirus"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "c'est un virus nu, très résistant.",
+   "Il appartient au genre Hepatovirus, pas Entérovirus.",
+   "Le VHA est un Picornaviridae.",
+   "Mêmes caractères que les entérovirus, avec une faible homologie génétique.",
+   "Classification : genre Hepatovirus."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant le caractère nu des entérovirus ?",
+  "options": [
+   "l'absence d'enveloppe explique leur résistance aux solvants lipidiques comme l'éther",
+   "Leur résistance en milieu extérieur favorise la transmission féco-orale",
+   "Le virion est constitué du génome et de la capside uniquement",
+   "Ils sont sensibles au désoxycholate de sodium",
+   "l'absence d'enveloppe explique leur fragilité dans le milieu extérieur"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Pas de bicouche lipidique à dissoudre : résistance à l'éther.",
+   "La résistance explique la persistance environnementale et la transmission indirecte.",
+   "Virus nu = génome + capside, sans enveloppe.",
+   "Ils sont résistants au désoxycholate de sodium.",
+   "c'est l'inverse : ils sont très résistants en milieu extérieur."
+  ]
+ },
+ {
+  "q": "À propos des caractères dimensionnels des entérovirus, quelles affirmations sont exactes ?",
+  "options": [
+   "Le préfixe pico signifie petit",
+   "Ils sont visibles au microscope optique",
+   "Ce sont parmi les plus petits virus pathogènes",
+   "Leur taille est de 120 à 200 nm",
+   "Leur taille est de 27 à 30 nm"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Étymologie : pico = petit.",
+   "Taille nanométrique : visibles uniquement au microscope électronique.",
+   "Pico = petit.",
+   "c'est la taille des Herpesviridae, pas des entérovirus.",
+   "Diamètre de 27 à 30 nm."
+  ]
+ },
+ {
+  "q": "Concernant les protéines capsidaires des entérovirus, lesquelles des propositions sont exactes ?",
+  "options": [
+   "l'hémagglutinine HA est une protéine de la capside",
+   "La protéine VP4 est également présente",
+   "La glycoprotéine G est le principal antigène de surface",
+   "La capside comprend les protéines VP1, VP2 et VP3",
+   "La capside est de symétrie icosaédrique"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "l'hémagglutinine est une spicule d'enveloppe du virus de la grippe.",
+   "La capside comprend VP1, VP2, VP3 + VP4.",
+   "c'est la glycoprotéine G du virus de la rage (Rhabdoviridae).",
+   "VP1, VP2, VP3 : protéines de la capside.",
+   "Symétrie cubique icosaédrique."
+  ]
+ },
+ {
+  "q": "Concernant le cycle de multiplication des Picornaviridae, quelles propositions sont exactes ?",
+  "options": [
+   "Le génome sert de support à la synthèse protéique",
+   "Le virus s'attache à des récepteurs spécifiques de la cellule hôte",
+   "La libération des virions se fait par bourgeonnement à partir de la membrane nucléaire",
+   "Après pénétration et décapsidation, le génome est libéré dans la cellule",
+   "Les virions néoformés peuvent infecter d'autres cellules hôtes"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Le génome est le support de la synthèse des protéines virales.",
+   "Attachement aux récepteurs spécifiques permettant la pénétration.",
+   "c'est le mode de libération des Herpesviridae, pas des entérovirus.",
+   "Décapsidation avec libération du génome dans la cellule.",
+   "Après assemblage, les virions attaquent d'autres cellules hôtes."
+  ]
+ },
+ {
+  "q": "Au sujet de l'histoire et de la dénomination des Picornaviridae, quelles affirmations sont exactes ?",
+  "options": [
+   "Pico signifie petit : ce sont parmi les plus petits virus pathogènes",
+   "La poliomyélite est connue depuis l'époque des pharaons",
+   "La famille est sujette à de nombreux remaniements taxonomiques",
+   "Le nom vient du grec herpien signifiant ramper comme un serpent",
+   "La classification citée est celle de l'ICTV 2005 / EMC 2009"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Étymologie rappelée dans l'introduction du cours.",
+   "Maladie connue depuis les temps des pharaons.",
+   "Famille sujette à nombreux remaniements taxonomiques.",
+   "c'est l'étymologie des Herpesviridae, pas des Picornaviridae.",
+   "Références taxonomiques citées dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant la classification des entérovirus non poliomyélitiques, quelles propositions sont exactes ?",
+  "options": [
+   "Les échovirus ne sont pas pathogènes chez l'animal",
+   "Il existe 3 sérotypes de poliovirus : 1, 2 et 3",
+   "Les coxsackievirus A sont pathogènes pour le souriceau nouveau-né",
+   "Les coxsackievirus B sont pathogènes pour le souriceau nouveau-né",
+   "Les rhinovirus forment un genre séparé des entérovirus dans ce cours"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Échovirus : non pathogènes chez l'animal.",
+   "Poliovirus 1, 2 et 3.",
+   "Coxsackievirus A : pathogènes pour le souriceau nouveau-né.",
+   "Coxsackievirus B : pathogènes pour le souriceau nouveau-né.",
+   "Dans ce cours, les rhinovirus sont classés parmi les Entérovirus."
+  ]
+ },
+ {
+  "q": "Les entérovirus sont résistants à plusieurs agents. Lesquels des suivants ?",
+  "options": [
+   "l'alcool à 70 degrés",
+   "Les détergents",
+   "l'hypochlorite de soude",
+   "l'éther",
+   "Le désoxycholate de sodium"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Résistance à l'alcool à 70 degrés.",
+   "Résistance aux détergents.",
+   "Détruits par l'hypochlorite de soude (oxydant).",
+   "Résistance à l'éther (virus nus).",
+   "Résistance au désoxycholate de sodium."
+  ]
+ },
+ {
+  "q": "Lesquels des agents suivants détruisent les entérovirus ?",
+  "options": [
+   "Les ph acides",
+   "La bêta-propiolactone",
+   "Les rayons UV",
+   "Le formol",
+   "Les oxydants comme l'hypochlorite de soude"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Les entérovirus sont très résistants aux ph acides.",
+   "Utilisée d'ailleurs pour inactiver le vaccin Salk.",
+   "Les UV détruisent les entérovirus.",
+   "Le formol inactivé les entérovirus.",
+   "Les oxydants détruisent les entérovirus."
+  ]
+ },
+ {
+  "q": "Concernant la conservation des entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Des années à -20 degrés C",
+   "Quelques heures seulement à température ambiante",
+   "Quelques semaines dans l'environnement",
+   "Leur résistance explique la transmission indirecte par l'eau contaminée",
+   "Ils sont inactives par la congélation"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Conservation des années à -20 degrés C.",
+   "Ils persistent bien plus longtemps dans l'environnement.",
+   "Persistance de quelques semaines dans le milieu extérieur.",
+   "La persistance environnementale permet la transmission hydrique.",
+   "Ils se conservent des années à -20 degrés C."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes concernant les genres de Picornaviridae sont exactes ?",
+  "options": [
+   "Le genre Cosavirus contient des virus pathogènes pour l'homme",
+   "Le genre Parechovirus contient des virus pathogènes pour l'homme",
+   "Le genre Kobuvirus contient des virus pathogènes pour l'homme",
+   "Le genre Cardiovirus contient des virus pathogènes pour l'homme",
+   "La famille ne compte que 3 genres pathogènes pour l'homme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Un des 6 genres pathogènes pour l'homme.",
+   "Un des 6 genres pathogènes pour l'homme.",
+   "Un des 6 genres pathogènes pour l'homme.",
+   "Un des 6 genres pathogènes pour l'homme.",
+   "6 genres sur 9 sont pathogènes pour l'homme."
+  ]
+ },
+ {
+  "q": "Concernant l'effet cytopathogène des entérovirus en culture cellulaire, quelles propositions sont exactes ?",
+  "options": [
+   "l'ECP montre des inclusions éosinophiles intranucléaires",
+   "Les cellules se détachent du tapis cellulaire",
+   "l'ECP comporte des syncytiums géants",
+   "La culture virale est la technique de référence du diagnostic",
+   "l'ECP à l'état frais montre des cellules arrondies"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Inclusions typiques de la rougeole sur cellules HEK, pas des entérovirus.",
+   "Cellules arrondies se détachant du tapis cellulaire.",
+   "Les syncytiums sont typiques des Paramyxoviridae (rougeole).",
+   "Technique de référence, malgré une sensibilité parfois faible.",
+   "ECP : cellules arrondies à l'état frais."
+  ]
+ },
+ {
+  "q": "À propos des rhinovirus comparés aux autres entérovirus, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Ils résistent aux ph acides gastriques",
+   "Ils sont rapidement inactives à ph < 6",
+   "Ils sont sensibles à l'éther",
+   "Ils sont classés parmi les Entérovirus dans ce cours",
+   "Ils sont détruits par les rayons UV comme les autres entérovirus"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Ils sont rapidement inactives à ph acide.",
+   "Exception notable : sensibilité à l'acidité.",
+   "Comme les autres Picornaviridae, ils résistent à l'éther.",
+   "Classification du cours : rhinovirus sous le genre Entérovirus.",
+   "Sensibilité aux UV commune à la famille."
+  ]
+ },
+ {
+  "q": "Concernant la capside des entérovirus, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle comprend les protéines VP1 à VP4",
+   "Elle protège le génome du milieu extérieur",
+   "Elle dérive de la membrane nucléaire de la cellule hôte",
+   "Elle est de symétrie icosaédrique",
+   "Elle porte des spicules d'hémagglutinine"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "VP1, VP2, VP3 + VP4.",
+   "Rôle protecteur de la capside, d'où la résistance.",
+   "c'est l'enveloppe des Herpesviridae qui dérive de la membrane nucléaire.",
+   "Capside icosaédrique.",
+   "l'hémagglutinine est une spicule du virus de la grippe."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes à propos du génome des Picornaviridae ?",
+  "options": [
+   "ADN bicaténaire segmenté",
+   "Taille d'environ 7 kb",
+   "Linéaire",
+   "Polarité positive",
+   "ARN simple brin"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Ni ADN, ni segmenté.",
+   "Environ 7 kb pour les Picornaviridae.",
+   "ARN simple brin linéaire.",
+   "ARN de polarité positive.",
+   "Génome à ARN monocaténaire."
+  ]
+ },
+ {
+  "q": "Parmi les virus suivants, lesquels appartiennent à la famille des Picornaviridae ?",
+  "options": [
+   "Échovirus",
+   "Virus de l'hépatite A",
+   "Coxsackievirus",
+   "Poliovirus",
+   "Virus de la rougeole"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Entérovirus non poliomyélitiques.",
+   "Genre Hepatovirus.",
+   "Entérovirus non poliomyélitiques.",
+   "Chef de file du genre Entérovirus.",
+   "Morbillivirus, famille des Paramyxoviridae."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes concernant les entérovirus sont exactes ?",
+  "options": [
+   "Résistants aux détergents",
+   "Excrétés dans les selles",
+   "Enveloppés",
+   "Multiplication dans le tube digestif",
+   "Transmission féco-orale"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Très résistants : détergents, éther, alcool 70.",
+   "Excrétion fécale, parfois prolongée.",
+   "Virus nus, non enveloppés.",
+   "Site initial de multiplication.",
+   "Voie principale de transmission."
+  ]
+ },
+ {
+  "q": "À propos de la nomenclature des entérovirus, quelles affirmations sont exactes ?",
+  "options": [
+   "Poliovirus : Entérovirus E",
+   "Coxsackievirus B : Entérovirus B",
+   "Entérovirus 68-71 : Entérovirus A et D",
+   "Coxsackievirus A : Entérovirus A et C",
+   "Échovirus : Entérovirus B"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Le poliovirus est le virus poliomyélitique du genre Entérovirus.",
+   "Correspondance donnée dans le cours.",
+   "Correspondance donnée dans le cours.",
+   "Correspondance donnée dans le cours.",
+   "Correspondance donnée dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant les caractères physico-chimiques communs aux Picornaviridae, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Sensibles au formol",
+   "Sensibles à l'hypochlorite de soude",
+   "Résistants aux ph acides",
+   "Résistants à l'alcool à 70 degrés",
+   "Sensibles à une chaleur de 56 degrés C pendant 30 min"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Détruits par le formol.",
+   "Détruits par les oxydants.",
+   "Très résistants aux ph acides.",
+   "Résistance à l'alcool à 70 degrés.",
+   "c'est un critère d'inactivation du VIH, virus enveloppé fragile."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'inactivation des entérovirus ?",
+  "options": [
+   "Eau de Javel (hypochlorite de soude)",
+   "Formol",
+   "Bêta-propiolactone",
+   "Rayons UV",
+   "Alcool à 70 degrés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Oxydant destructeur.",
+   "Le formol les inactivé.",
+   "Inactivé les entérovirus (vaccin Salk).",
+   "Les UV détruisent les entérovirus.",
+   "Ils sont résistants à l'alcool à 70 degrés."
+  ]
+ },
+ {
+  "q": "Au sujet du genre Entérovirus, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Comprend les coxsackievirus",
+   "Comprend les rhinovirus dans la classification du cours",
+   "Comprend les échovirus",
+   "Comprend le virus poliomyélitique",
+   "Comprend le virus de l'hépatite A"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Coxsackievirus A et B.",
+   "Rhinovirus classés sous Entérovirus dans ce cours.",
+   "Échovirus.",
+   "Poliovirus 1, 2, 3.",
+   "Le VHA appartient au genre Hepatovirus."
+  ]
+ },
+ {
+  "q": "Concernant la multiplication des entérovirus dans la cellule, quelles propositions sont exactes ?",
+  "options": [
+   "Le génome est le support de la synthèse protéique",
+   "Attachement à des récepteurs spécifiques",
+   "Pénétration puis décapsidation",
+   "Assemblage au niveau de la membrane nucléaire",
+   "Synthèse des protéines capsidaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Le génome sert de support à la synthèse des protéines virales.",
+   "Attachement aux récepteurs spécifiques de la cellule hôte.",
+   "Pénétration et décapsidation libérant le génome.",
+   "l'assemblage ne se fait pas au niveau de la membrane nucléaire.",
+   "Synthèse des protéines capsidaires puis assemblage."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes sur les Picornaviridae sont exactes ?",
+  "options": [
+   "La poliomyélite est un modèle de maladie en voie d'éradication",
+   "9 genres dont 6 pathogènes pour l'homme",
+   "Le vaccin vivant atténué est encore utilisé en routine",
+   "Infections à entérovirus : pléiomorphes",
+   "Virus nu = génome + capside"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Nécessite le maintien de la vaccination et des rappels.",
+   "Classification rappelée en introduction.",
+   "Le Sabin n'est plus utilisé sauf en cas d'épidémie.",
+   "Tableaux cliniques variés, diagnostic différentiel large.",
+   "Pas d'enveloppe."
+  ]
+ },
+ {
+  "q": "Concernant la résistance des entérovirus aux antiseptiques et désinfectants, quelles propositions sont exactes ?",
+  "options": [
+   "Détruits par le formol",
+   "Inactives par l'éther",
+   "Résistants aux détergents",
+   "Résistants à l'alcool à 70 degrés",
+   "Détruits par l'hypochlorite de soude"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Le formol les inactivé.",
+   "Ils résistent à l'éther.",
+   "Très résistants aux détergents.",
+   "Résistance décrite dans le cours.",
+   "Oxydants destructeurs."
+  ]
+ },
+ {
+  "q": "À propos des protéines VP des entérovirus, lesquelles des propositions sont exactes ?",
+  "options": [
+   "VP1, VP2, VP3 : protéines de la capside",
+   "La nucléoprotéine N en fait partie",
+   "Ce sont des protéines structurales virales",
+   "La protéine G en fait partie",
+   "VP4 : protéine de la capside également"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Protéines capsidaires.",
+   "La protéine N est celle du virus de la rage.",
+   "Protéines de structure de la capside.",
+   "La protéine G est celle du virus de la rage.",
+   "La capside comprend VP1, VP2, VP3 + VP4."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant la taille et la structure des entérovirus ?",
+  "options": [
+   "Capside hélicoïdale",
+   "90 à 120 nm",
+   "27 à 30 nm",
+   "Capside icosaédrique",
+   "Non enveloppés"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "c'est la capside du virus de la rage.",
+   "c'est la taille du VIH.",
+   "Taille caractéristique.",
+   "Symétrie icosaédrique.",
+   "Virus nus."
+  ]
+ },
+ {
+  "q": "Concernant les genres de la famille Picornaviridae, quelles propositions sont exactes ?",
+  "options": [
+   "Le genre Entérovirus n'est pas pathogène pour l'homme",
+   "6 contiennent des virus pathogènes pour l'homme",
+   "Donc 3 genres ne sont pas pathogènes pour l'homme",
+   "Le genre Morbillivirus en fait partie",
+   "9 genres au total"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "c'est le principal genre pathogène pour l'homme.",
+   "6 genres pathogènes pour l'homme.",
+   "9 - 6 = 3 genres non pathogènes pour l'homme.",
+   "Morbillivirus : Paramyxoviridae.",
+   "La famille compte 9 genres."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes à propos du génome des entérovirus ?",
+  "options": [
+   "ADN bicaténaire circulaire",
+   "Polarité positive",
+   "Protégé par une capside icosaédrique",
+   "Non segmenté",
+   "ARN simple brin linéaire"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "c'est le génome du VHB, pas des entérovirus.",
+   "ARN de polarité (+).",
+   "Capside icosaédrique protectrice.",
+   "Génome non segmenté.",
+   "Génome à ARN monocaténaire linéaire."
+  ]
+ },
+ {
+  "q": "À propos de la conservation des entérovirus au laboratoire, quelles affirmations sont exactes ?",
+  "options": [
+   "Conservés par simple dessiccation à température ambiante",
+   "Détruits par la bêta-propiolactone",
+   "Des années à -20 degrés C",
+   "Quelques semaines dans l'environnement",
+   "Inactives par les rayons UV"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "La dessiccation ne les conserve pas ; ils persistent mais ne sont pas préservés ainsi.",
+   "Agent inactivant.",
+   "Conservation des années à -20 degrés C.",
+   "Persistance environnementale.",
+   "Les UV les détruisent."
+  ]
+ },
+ {
+  "q": "Concernant la classification des Picornaviridae citée dans le cours, quelles propositions sont exactes ?",
+  "options": [
+   "Genre Rhinovirus séparé des Entérovirus dans ce cours",
+   "EMC 2009",
+   "Famille sujette à remaniements taxonomiques",
+   "Classification ICTV 2005",
+   "9 genres"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Dans ce cours, les rhinovirus sont sous le genre Entérovirus.",
+   "Référence citée.",
+   "Nombreux remaniements taxonomiques.",
+   "Référence citée.",
+   "9 genres dans la famille."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les caractères virologiques du genre Entérovirus ?",
+  "options": [
+   "Taille 27-30 nm",
+   "Capside icosaédrique",
+   "Enveloppe lipidique avec spicules",
+   "Virus nus",
+   "ARN simple brin linéaire de polarité positive"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Parmi les plus petits virus.",
+   "Symétrie icosaédrique.",
+   "Pas d'enveloppe : virus nus.",
+   "Génome + capside, sans enveloppe.",
+   "Génome caractéristique."
+  ]
+ },
+ {
+  "q": "Au sujet de la sensibilité des entérovirus, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Sensibles au formol",
+   "Sensibles aux rayons UV",
+   "Sensibles aux oxydants",
+   "Sensibles à la bêta-propiolactone",
+   "Sensibles aux ph acides"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Détruits par le formol.",
+   "Détruits par les UV.",
+   "Détruits par les oxydants.",
+   "Détruits par la bêta-propiolactone.",
+   "Très résistants aux ph acides."
+  ]
+ },
+ {
+  "q": "Concernant les particularités des rhinovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Classés parmi les Entérovirus dans ce cours",
+   "Leur sensibilité à l'acidité les distingue des autres entérovirus",
+   "Ils sont sensibles à l'éther",
+   "Ils sont détruits par les oxydants",
+   "Inactives rapidement à ph < 6"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Classification du cours.",
+   "Les autres entérovirus résistent aux ph acides.",
+   "Comme les autres Picornaviridae, les rhinovirus résistent à l'éther.",
+   "Sensibilité commune aux oxydants.",
+   "Particularité des rhinovirus."
+  ]
+ },
+ {
+  "q": "Concernant le réservoir des entérovirus, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Enfants infectés +++, malades ou non",
+   "Environnement : virus excrétés dans les selles",
+   "Réservoir humain",
+   "Réservoir animal : chauves-souris",
+   "Excrétion parfois prolongée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Les enfants infectés, malades ou non, sont le principal réservoir.",
+   "Virus nu résistant excrété dans les selles, persistant dans le milieu extérieur.",
+   "Le réservoir est humain.",
+   "c'est le réservoir de la rage, pas des entérovirus.",
+   "Excrétion fécale parfois prolongée."
+  ]
+ },
+ {
+  "q": "À propos de la transmission féco-orale des entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Indirecte : alimentation contaminée",
+   "Directe : personne à personne par mains sales",
+   "Maladies liées au péril fécal",
+   "Transmission par piqûre de moustique",
+   "Indirecte : eau contaminée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Transmission indirecte par l'alimentation contaminée.",
+   "Transmission directe par mains sales.",
+   "Les entérovirus sont des maladies du péril fécal.",
+   "Pas de transmission vectorielle pour les entérovirus.",
+   "Transmission indirecte par l'eau contaminée."
+  ]
+ },
+ {
+  "q": "Lesquelles des voies de transmission suivantes sont décrites pour les entérovirus ?",
+  "options": [
+   "Contact direct avec des lésions cutanées infectées",
+   "Aérienne par gouttelettes liquidiennes",
+   "Transfusion sanguine",
+   "Nosocomiale",
+   "Féco-orale"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Contact direct : lésions cutanées infectées, muqueuse.",
+   "Transmission aérienne possible.",
+   "Non décrite pour les entérovirus.",
+   "Par non-respect des règles d'hygiène universelle.",
+   "Voie principale : directe et indirecte."
+  ]
+ },
+ {
+  "q": "Concernant la transmission nosocomiale des entérovirus, quelles affirmations sont exactes ?",
+  "options": [
+   "Liée au défaut de lavage des mains",
+   "Inexistante car ce sont des virus fragiles",
+   "Liée au défaut de désinfection",
+   "Liée au non-respect des règles d'hygiène universelle",
+   "Prévenue par l'hygiène des mains"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Le lavage des mains est essentiel.",
+   "Ce sont des virus très résistants, la transmission nosocomiale existe.",
+   "La désinfection fait partie de la prévention.",
+   "Cause de transmission nosocomiale citée.",
+   "Le lavage des mains prévient la transmission."
+  ]
+ },
+ {
+  "q": "Au sujet de la répartition des entérovirus non poliomyélitiques dans les pays tempérés, quelles propositions sont exactes ?",
+  "options": [
+   "A échovirus et coxsackievirus",
+   "Cas sporadiques inter-épidémiques",
+   "Épidémies estivo-automnales annuelles",
+   "Épidémies hivernales",
+   "Endémie toute l'année"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Épidémies à échovirus et coxsackievirus.",
+   "Cas sporadiques entre les épidémies.",
+   "Épidémies estivales et automnales chaque année.",
+   "Les épidémies sont estivo-automnales, pas hivernales.",
+   "c'est le mode des pays tropicaux, pas des pays tempérés."
+  ]
+ },
+ {
+  "q": "Concernant la répartition des entérovirus dans les pays tropicaux, quelles propositions sont exactes ?",
+  "options": [
+   "Dans les pays à bas niveau sanitaire",
+   "Épidémies estivo-automnales",
+   "Cas uniquement sporadiques",
+   "Transmission féco-orale favorisée par le péril fécal",
+   "Infections endémiques toute l'année"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Endémie liée au bas niveau sanitaire.",
+   "Mode de répartition des pays tempérés.",
+   "Infections endémiques, pas seulement sporadiques.",
+   "Le péril fécal entretient l'endémie.",
+   "Endémie permanente dans les pays tropicaux."
+  ]
+ },
+ {
+  "q": "À propos de l'épidémiologie de la poliomyélite selon l'OMS, lesquelles des propositions sont exactes ?",
+  "options": [
+   "350 000 cas estimés en 1998",
+   "74 cas en 2015",
+   "Résultat de la stratégie vaccinale mondiale depuis 1975",
+   "Augmentation des cas depuis 1998",
+   "Diminution de plus de 99 % des cas entre 1998 et 2015"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Estimation OMS pour 1998.",
+   "Seulement 74 cas déclarés en 2015.",
+   "Effort mondial d'éradication par la vaccination.",
+   "c'est une diminution massive, pas une augmentation.",
+   "Baisse de plus de 99 % sur la période."
+  ]
+ },
+ {
+  "q": "Concernant l'éradication de la poliomyélite, quelles affirmations sont exactes ?",
+  "options": [
+   "Réémergence récente dans des pays d'Afrique et d'Asie",
+   "Dernier cas sur le continent américain : 1991",
+   "Maladie éradiquée de la majorité des pays",
+   "Éradication mondiale complète achevée",
+   "Dernier cas en Europe : 1998"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Réémergence récente observée.",
+   "Date citée dans le cours.",
+   "Éradiquée de la majorité des pays.",
+   "Il reste 2 pays d'endémie : éradication non achevée.",
+   "Date citée dans le cours."
+  ]
+ },
+ {
+  "q": "Au sujet des sérotypes de poliovirus, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Le sérotype 2 est le plus répandu",
+   "Il existe 3 sérotypes : 1, 2 et 3",
+   "Le sérotype 2 n'a plus été déclaré depuis septembre 1999",
+   "Le sérotype 1 est le plus répandu (3 cas sur 4)",
+   "Suivi par le sérotype 3"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "c'est le sérotype 1 qui est le plus répandu.",
+   "Poliovirus 1, 2, 3.",
+   "Plus aucun cas de polio 2 depuis septembre 1999.",
+   "Polio 1 : le plus répandu, 3 cas sur 4.",
+   "Polio 3 en deuxième position."
+  ]
+ },
+ {
+  "q": "Concernant les pays d'endémie poliomyélitique, quelles propositions sont exactes ?",
+  "options": [
+   "Afghanistan",
+   "Inde",
+   "Maroc",
+   "Nigeria",
+   "Pakistan"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Un des 2 pays d'endémie.",
+   "Non citée parmi les pays d'endémie dans ce cours.",
+   "Aucun cas au Maroc depuis 1989.",
+   "Non cité parmi les pays d'endémie dans ce cours.",
+   "Un des 2 pays d'endémie."
+  ]
+ },
+ {
+  "q": "À propos de la poliomyélite au Maroc, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Cas sporadiques chaque année",
+   "Système de surveillance des paralysies flasques aiguës",
+   "Aucun cas enregistré depuis 1989",
+   "Phase de certification de l'éradication",
+   "Déclaration obligatoire des PFA"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Aucun cas depuis 1989.",
+   "Surveillance et suivi des PFA.",
+   "Dernier cas marocain en 1989.",
+   "Le Maroc est en phase de certification.",
+   "Déclaration obligatoire des patients avec PFA."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant la transmission aérienne des entérovirus ?",
+  "options": [
+   "Elle concerne les sécrétions respiratoires",
+   "Par piqûres d'insectes",
+   "Elle s'ajoute à la voie féco-orale",
+   "c'est la voie exclusive de transmission",
+   "Par gouttelettes liquidiennes"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Gouttelettes liquidiennes respiratoires.",
+   "Pas de transmission vectorielle.",
+   "Voie complémentaire de la voie féco-orale.",
+   "La voie principale reste la voie féco-orale.",
+   "Transmission aérienne par gouttelettes."
+  ]
+ },
+ {
+  "q": "Concernant l'excrétion virale des entérovirus, quelles affirmations sont exactes ?",
+  "options": [
+   "Excrétés uniquement pendant la phase fébrile",
+   "Source de contamination de l'environnement",
+   "Persistance dans le milieu extérieur",
+   "Excrétion parfois prolongée",
+   "Excrétés dans les selles"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "l'excrétion peut être prolongée, y compris chez des sujets non malades.",
+   "l'environnement est un réservoir secondaire.",
+   "Virus résistant persistant dehors.",
+   "Excrétion parfois de façon prolongée.",
+   "Excrétion fécale."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes concernant les enfants dans l'épidémiologie des entérovirus sont exactes ?",
+  "options": [
+   "Malades ou non",
+   "Transmission par mains sales en collectivité",
+   "Les infections sont le plus souvent asymptomatiques",
+   "Seuls les enfants malades transmettent",
+   "Les enfants infectés sont le principal réservoir"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "qu'ils soient malades ou asymptomatiques.",
+   "Transmission directe interhumaine.",
+   "Infections asymptomatiques +++.",
+   "Les enfants non malades transmettent aussi.",
+   "Enfants infectés +++ : réservoir."
+  ]
+ },
+ {
+  "q": "À propos des maladies liées au péril fécal, quelles propositions sont exactes ?",
+  "options": [
+   "Transmission féco-orale directe",
+   "Transmission par voie sexuelle",
+   "Transmission par eau contaminée",
+   "Les entérovirus en font partie",
+   "La poliomyélite en fait partie"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Mains sales, personne à personne.",
+   "Non décrite pour les entérovirus.",
+   "Eau contaminée.",
+   "Maladies du péril fécal.",
+   "Transmission féco-orale du poliovirus."
+  ]
+ },
+ {
+  "q": "Concernant la surveillance épidémiologique de la poliomyélite, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Notification immédiate des cas de paralysie flasque aiguë",
+   "Enquête dans l'entourage",
+   "Surveillance limitée aux cas paralytiques confirmés",
+   "Distinction souches sauvages / souches vaccinales",
+   "Déclaration obligatoire de toute infection à poliovirus"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Notification immédiate des PFA.",
+   "Enquête dans l'entourage du cas.",
+   "La surveillance porte sur toutes les PFA.",
+   "Surveillance virologique des poliovirus.",
+   "Déclaration obligatoire."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont exactes au sujet de la contagiosité des entérovirus ?",
+  "options": [
+   "Virus nus résistants dans l'environnement",
+   "Transmission interhumaine directe",
+   "Virus fragiles rapidement inactives à l'air libre",
+   "Excrétion fécale prolongée possible",
+   "Transmission indirecte par aliments contaminés"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Résistance en milieu extérieur.",
+   "Personne à personne par mains sales.",
+   "Ce sont des virus très résistants.",
+   "Excrétion parfois prolongée.",
+   "Alimentation contaminée."
+  ]
+ },
+ {
+  "q": "Au sujet du mode de répartition des entérovirus poliomyélitiques, lesquelles des propositions sont exactes ?",
+  "options": [
+   "2 pays d'endémie : Afghanistan et Pakistan",
+   "Réémergence en Afrique et en Asie",
+   "Endémie toute l'année dans les pays tempérés",
+   "Éradication de la majorité des pays grâce à la vaccination",
+   "Dernier cas en Europe en 1998"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Derniers foyers d'endémie.",
+   "Réémergence récente observée.",
+   "Concerne les entérovirus non poliomyélitiques en zone tropicale.",
+   "Résultat de la stratégie vaccinale mondiale.",
+   "Date citée dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant la transmission par contact direct des entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Contact avec des lésions cutanées infectées",
+   "Contact avec les muqueuses",
+   "Par morsure animale",
+   "Par piqûres d'insectes",
+   "Par les mains sales"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Contact direct : lésions cutanées infectées.",
+   "Muqueuse : voie de contact direct.",
+   "c'est la transmission de la rage.",
+   "Pas de transmission vectorielle.",
+   "Mains sales : transmission directe."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant l'épidémiologie des infections à entérovirus ?",
+  "options": [
+   "Diagnostic différentiel large",
+   "Réservoir strictement humain",
+   "Transmission mère-enfant par le lait maternel",
+   "Infections asymptomatiques +++",
+   "Infections pléiomorphes"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Infections pléiomorphes : diagnostic différentiel.",
+   "Réservoir humain.",
+   "c'est un mode de transmission du VIH, pas des entérovirus.",
+   "La majorité des infections sont asymptomatiques.",
+   "Tableaux cliniques variés."
+  ]
+ },
+ {
+  "q": "Concernant la physiopathologie des infections à entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Multiplication dans le tube digestif",
+   "Tropisme varié selon les sérotypes",
+   "Multiplication initiale dans le foie",
+   "Infections asymptomatiques +++",
+   "Virémie systématiquement symptomatique"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Site initial de multiplication.",
+   "Tropisme variable selon le sérotype.",
+   "La multiplication initiale se fait dans le tube digestif.",
+   "La plupart des infections sont asymptomatiques.",
+   "Les infections sont le plus souvent asymptomatiques."
+  ]
+ },
+ {
+  "q": "À propos du tropisme des entérovirus, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Coxsackievirus B : cœur",
+   "Tropisme varié selon le sérotype",
+   "Poliovirus : hépatocytes",
+   "Coxsackievirus B : neurones moteurs",
+   "Poliovirus : neurones moteurs"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Tropisme cardiaque des coxsackievirus B.",
+   "Tropisme variable selon les sérotypes.",
+   "Le poliovirus à un tropisme pour les neurones moteurs.",
+   "Leur tropisme est cardiaque, pas nerveux moteur.",
+   "Tropisme du poliovirus pour les neurones moteurs."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant les infections asymptomatiques à entérovirus ?",
+  "options": [
+   "Elles sont rares",
+   "Elles ne sont pas contagieuses",
+   "Elles expliquent la circulation silencieuse du virus",
+   "Elles sont les plus fréquentes",
+   "Les enfants infectés non malades participent à la transmission"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Elles sont au contraire très fréquentes.",
+   "Les sujets asymptomatiques excrètent le virus.",
+   "Diffusion silencieuse dans la population.",
+   "Infections asymptomatiques +++.",
+   "Réservoir : enfants infectés, malades ou non."
+  ]
+ },
+ {
+  "q": "Au sujet des infections aiguës bénignes à entérovirus, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Gastroentérites",
+   "Infections ORL",
+   "Méningites lymphocytaires",
+   "Éruptions maculeuses ou vésiculaires",
+   "Syndromes fébriles isolés"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Gastroentérites bénignes.",
+   "Infections ORL bénignes.",
+   "Ce sont des infections graves, pas bénignes.",
+   "Éruptions bénignes.",
+   "Infections bénignes : syndromes fébriles isolés."
+  ]
+ },
+ {
+  "q": "Concernant les infections aiguës graves à entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Infections sévères chez l'immunodéprimé",
+   "Paralysie flasque isolée",
+   "Méningites lymphocytaires de l'enfant et de l'adulte",
+   "Herpangine",
+   "Encéphalites (plus rares)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Formes sévères chez l'immunodéprimé et le nouveau-né.",
+   "Paralysie flasque isolée : forme grave.",
+   "Formes graves : méningites lymphocytaires.",
+   "L'herpangine est une infection bénigne spécifique.",
+   "Encéphalites, plus rares que les méningites."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes à propos des infections sévères à entérovirus du nouveau-né ?",
+  "options": [
+   "Un traitement antiviral spécifique est efficace",
+   "Les infections néonatales sont toujours bénignes",
+   "Les nouveau-nés peuvent présenter des infections sévères",
+   "La prévention repose sur l'hygiène universelle",
+   "l'infection materno-fœtale est une indication du diagnostic virologique"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Aucun traitement antiviral efficace.",
+   "Elles peuvent être sévères.",
+   "Infections sévères non spécifiques chez le nouveau-né.",
+   "Respect des règles d'hygiène universelle.",
+   "Indication du diagnostic virologique."
+  ]
+ },
+ {
+  "q": "À propos de la poliomyélite abortive, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Paralysie flasque systématique",
+   "Forme la plus fréquente de l'infection (90 à 95 %)",
+   "Destruction des neurones de la corne antérieure",
+   "Fièvre avec symptomatologie intestinale",
+   "Plus rarement méningite"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Pas de paralysie dans la forme abortive.",
+   "90 à 95 % des infections sont limitées.",
+   "c'est la lésion de la forme paralytique.",
+   "Tableau de la poliomyélite abortive.",
+   "La méningite est plus rare dans cette forme."
+  ]
+ },
+ {
+  "q": "Concernant la forme paralytique de la poliomyélite, quelles affirmations sont exactes ?",
+  "options": [
+   "Expression la plus rare (< 1 %)",
+   "Expression la plus grave",
+   "Destruction massive et définitive des neurones de la corne antérieure",
+   "Atteinte des noyaux moteurs",
+   "Régression complète sans séquelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Moins de 1 % des infections.",
+   "La plus rare mais la plus grave.",
+   "Lésion caractéristique.",
+   "Corne antérieure de la moelle et noyaux moteurs.",
+   "Évolution partiellement régressive avec séquelles."
+  ]
+ },
+ {
+  "q": "Au sujet de l'incubation de la poliomyélite, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Incubation de 14 à 20 jours",
+   "Début brutal des paralysies après les prodromes",
+   "Incubation de 10 à 15 jours",
+   "Prodromes : fièvre, infection rhino-pharyngée",
+   "Incubation de 1 à 4 jours"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "c'est l'incubation de la rubéole.",
+   "Installation brutale des paralysies.",
+   "Durée d'incubation citée.",
+   "Prodromes : fièvre, infection rhino-pharyngée.",
+   "c'est l'incubation de la grippe."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes décrivent correctement la phase d'état de la poliomyélite paralytique ?",
+  "options": [
+   "Paralysies asymétriques",
+   "Atteinte possible des muscles respiratoires",
+   "Importance variable",
+   "Installation brutale de paralysies flasques",
+   "Paralysies spastiques symétriques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Caractéristique : asymétrie.",
+   "Peut engager le pronostic vital.",
+   "l'importance des paralysies est variable.",
+   "Paralysies flasques d'installation brutale.",
+   "Les paralysies sont flasques et asymétriques."
+  ]
+ },
+ {
+  "q": "Concernant le pronostic de la poliomyélite paralytique, quelles propositions sont exactes ?",
+  "options": [
+   "l'atteinte des muscles respiratoires peut engager le pronostic vital",
+   "Séquelle : amyotrophie d'un membre",
+   "l'évolution est partiellement régressive",
+   "Séquelle : boiterie",
+   "Guérison complète constante sans séquelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Atteinte respiratoire = pronostic vital.",
+   "Séquelle fonctionnelle importante.",
+   "Régression partielle des paralysies.",
+   "Boiterie séquellaire.",
+   "Séquelle fonctionnelles fréquentes."
+  ]
+ },
+ {
+  "q": "À propos des prodromes de la poliomyélite, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Éruption morbilliforme",
+   "Douleurs musculaires",
+   "Troubles sensitifs",
+   "Fièvre",
+   "Infection rhino-pharyngée"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Pas d'éruption dans les prodromes de la polio.",
+   "Prodromes : douleurs musculaires.",
+   "Prodromes : troubles sensitifs.",
+   "Prodrome : fièvre.",
+   "Prodrome : infection rhino-pharyngée."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant la destruction neuronale dans la poliomyélite ?",
+  "options": [
+   "Noyaux moteurs",
+   "Lésion complètement réversible",
+   "Neurones de la corne antérieure de la moelle",
+   "Destruction massive et définitive",
+   "Neurones sensitifs principalement"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Atteinte des noyaux moteurs.",
+   "Destruction définitive.",
+   "Destruction massive et définitive.",
+   "Lésion irréversible.",
+   "Ce sont les neurones moteurs qui sont détruits."
+  ]
+ },
+ {
+  "q": "Au sujet des séquelles de la poliomyélite, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Aucune séquelle fonctionnelle",
+   "Paralysie flasque initiale partiellement régressive",
+   "Boiterie",
+   "Amyotrophie d'un membre",
+   "Trouble de croissance"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Séquelle fonctionnelles importantes.",
+   "Évolution partiellement régressive.",
+   "Séquelle : boiterie.",
+   "Séquelle : amyotrophie.",
+   "Séquelle : trouble de croissance."
+  ]
+ },
+ {
+  "q": "Concernant l'épidémiologie clinique de la poliomyélite, quelles affirmations sont exactes ?",
+  "options": [
+   "La forme paralytique est la plus grave",
+   "La majorité des infections sont symptomatiques",
+   "La méningite est la forme la plus fréquente",
+   "Moins de 1 % de formes paralytiques",
+   "90 à 95 % des infections sont limitées (abortives)"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "La plus rare mais la plus grave.",
+   "Infections asymptomatiques +++.",
+   "La forme abortive est la plus fréquente.",
+   "Forme paralytique rare.",
+   "La grande majorité des infections."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant la poliomyélite antérieure aiguë ?",
+  "options": [
+   "A déclaration obligatoire",
+   "Modèle de maladie en voie d'éradication",
+   "Connue depuis les temps des pharaons",
+   "Traitement antiviral spécifique efficace",
+   "Nécessite le maintien de la vaccination et des rappels"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Déclaration obligatoire.",
+   "Modèle de maladie en voie d'éradication.",
+   "Ancienneté de la maladie.",
+   "Aucun traitement antiviral efficace.",
+   "Maintien vaccinal indispensable."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic différentiel des infections à entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Tableau clinique toujours spécifique",
+   "Diagnostic différentiel large",
+   "Infections pléiomorphes",
+   "L'herpangine peut évoquer à tort une infection herpétique",
+   "Fièvre éruptive de la femme enceinte : diagnostic différentiel avec la rubéole"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Infections pléiomorphes, non spécifiques.",
+   "Diagnostic différentiel : conclusion du cours.",
+   "Tableaux cliniques variés.",
+   "Piège diagnostique classique.",
+   "Indication du diagnostic virologique."
+  ]
+ },
+ {
+  "q": "Concernant la paralysie flasque isolée à entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Toujours due au poliovirus",
+   "Notification immédiate",
+   "Indication du diagnostic virologique",
+   "Surveillance des PFA dans le cadre de l'éradication de la polio",
+   "Fait partie des infections graves non spécifiques"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Peut être due à d'autres entérovirus (70, 71).",
+   "Notification immédiate des cas de PFA.",
+   "PFA : indication du diagnostic.",
+   "Système de surveillance des PFA.",
+   "Forme grave non spécifique."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les méningites à entérovirus ?",
+  "options": [
+   "Méningites lymphocytaires",
+   "La culture du LCR à une bonne sensibilité",
+   "La RT-PCR sur LCR en est le diagnostic de choix",
+   "Touchent l'enfant et l'adulte",
+   "La sérologie isolée suffit au diagnostic"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Méningites lymphocytaires de l'enfant et de l'adulte.",
+   "Sensibilité faible de la culture pour le LCR.",
+   "Affections neuroméningées +++ : RT-PCR.",
+   "Enfant et adulte.",
+   "La sérologie isolée n'a aucun intérêt."
+  ]
+ },
+ {
+  "q": "Au sujet des encéphalites à entérovirus, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Traitement antiviral spécifique efficace",
+   "RT-PCR ciblant la région 5' non codante",
+   "Indication du diagnostic virologique",
+   "Prélèvement de LCR précoce",
+   "Plus rares que les méningites"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Aucun traitement antiviral efficace.",
+   "Technique de choix.",
+   "Affection neuro-méningée aiguë : indication.",
+   "Prélèvement précoce.",
+   "Encéphalites plus rares."
+  ]
+ },
+ {
+  "q": "Concernant le syndrome main-pied-bouche, quelles propositions sont exactes ?",
+  "options": [
+   "Du aussi à l'entérovirus 71",
+   "Éruption cutanée",
+   "Vésicules typiques",
+   "Dû aux coxsackievirus A10 et A16",
+   "Dû au poliovirus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "l'entérovirus 71 donne aussi ce syndrome.",
+   "Éruptions cutanées à coxsackievirus A.",
+   "Vésicules typiques du syndrome pied-main-bouche.",
+   "Sérotypes A10 et A16 cités.",
+   "Pas de syndrome main-pied-bouche avec le poliovirus."
+  ]
+ },
+ {
+  "q": "À propos de l'herpangine, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Fièvre et dysphagie",
+   "Due au coxsackievirus A",
+   "Peut évoquer à tort une infection herpétique",
+   "Lésions vésiculaires",
+   "Due au virus herpès simplex"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Fièvre et dysphagie associées.",
+   "Herpangine due au coxsackievirus A.",
+   "Piège : évoqué de façon trompeuse une infection herpétique.",
+   "Lésions vésiculaires du pharynx.",
+   "Due au coxsackievirus A, pas à HSV."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant les conjonctivites hémorragiques à entérovirus ?",
+  "options": [
+   "La conjonctive est un site de prélèvement",
+   "Dues au coxsackievirus B4",
+   "Coxsackievirus A24",
+   "Entérovirus 70",
+   "Dues à l'échovirus 16"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Conjonctives : site de prélèvement pour le diagnostic direct.",
+   "B4 est évoqué dans le diabète juvénile, pas les conjonctivites.",
+   "A24 : conjonctivites hémorragiques.",
+   "EV70 : conjonctivites hémorragiques.",
+   "E16 donne l'exanthème de Boston, pas les conjonctivites."
+  ]
+ },
+ {
+  "q": "Concernant les myocardites à entérovirus, quelles affirmations sont exactes ?",
+  "options": [
+   "Coxsackievirus A16",
+   "Échovirus",
+   "Traitement antiviral spécifique efficace",
+   "La myocardite aiguë est une indication du diagnostic virologique",
+   "Coxsackievirus B1 à B5"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "A16 donne le syndrome main-pied-bouche.",
+   "Les échovirus peuvent donner des myocardites.",
+   "Aucun traitement antiviral efficace.",
+   "Myocardite/péricardite aiguë : indication.",
+   "Myocardites à coxsackievirus B1-B5."
+  ]
+ },
+ {
+  "q": "À propos des péricardites à entérovirus, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Coxsackievirus B1-B5",
+   "Indication du diagnostic virologique",
+   "Coxsackievirus A24",
+   "Poliovirus",
+   "Échovirus"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Péricardites à coxsackievirus B1-B5.",
+   "Myocardite/péricardite aiguë : indication.",
+   "A24 : conjonctivites hémorragiques.",
+   "Le poliovirus à un tropisme nerveux moteur.",
+   "Myocardites et péricardites à échovirus."
+  ]
+ },
+ {
+  "q": "Au sujet de la pleurodynie (maladie de Bornholm), quelles propositions sont exactes ?",
+  "options": [
+   "Due au poliovirus",
+   "Appelée maladie de Bornholm",
+   "Due aux échovirus",
+   "Fait partie des infections spécifiques à entérovirus",
+   "Due aux coxsackievirus B1-B5"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Pas de pleurodynie avec le poliovirus.",
+   "Autre nom de la pleurodynie.",
+   "Due aux coxsackievirus B.",
+   "Infection aiguë spécifique.",
+   "Pleurodynie à coxsackievirus B1-B5."
+  ]
+ },
+ {
+  "q": "Concernant le diabète juvénile et les entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Dû aux échovirus",
+   "Association évoquée avec le coxsackievirus B4",
+   "Lien hypothétique (point d'interrogation du cours)",
+   "Dû au coxsackievirus A",
+   "Lien de causalité établi"
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Non évoqué pour les échovirus.",
+   "Diabète juvénile ? (B4) : association évoquée.",
+   "Le cours met un point d'interrogation : lien non établi.",
+   "c'est le coxsackievirus B4 qui est évoqué.",
+   "Lien seulement évoqué, non prouvé."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes à propos de l'exanthème de Boston ?",
+  "options": [
+   "Exanthème",
+   "Dû au virus de la rubéole",
+   "Dû au coxsackievirus A16",
+   "Dû à l'échovirus 16",
+   "Dû aux échovirus (Entérovirus B)"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Éruption appelée exanthème de Boston.",
+   "Dû à l'échovirus 16, pas au virus rubélique.",
+   "A16 : syndrome main-pied-bouche.",
+   "Exanthème de Boston (E16).",
+   "Les échovirus sont classés Entérovirus B."
+  ]
+ },
+ {
+  "q": "Concernant les myalgies à entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Les échovirus peuvent donner des myalgies",
+   "Les myalgies sont spécifiques du poliovirus",
+   "Les échovirus appartiennent à Entérovirus B",
+   "Les coxsackievirus A donnent des myalgies",
+   "Les coxsackievirus B donnent la pleurodynie"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Myalgies à échovirus.",
+   "Non décrites comme spécifiques du poliovirus.",
+   "Classification du cours.",
+   "Non décrit dans le cours pour les coxsackievirus A.",
+   "Pleurodynie ou maladie de Bornholm (B1-B5)."
+  ]
+ },
+ {
+  "q": "À propos des bronchiolites à entérovirus, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Dues aux coxsackievirus B",
+   "Entérovirus 68",
+   "Dues au poliovirus",
+   "La culture est peu sensible pour les entérovirus 68-71",
+   "Entérovirus A et D"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Les coxsackievirus B ont un tropisme cardiaque.",
+   "Bronchiolites (68).",
+   "Le poliovirus à un tropisme nerveux moteur.",
+   "Sensibilité faible de la culture pour ces sérotypes.",
+   "Les entérovirus 68-71 sont classés Entérovirus A et D."
+  ]
+ },
+ {
+  "q": "Concernant les paralysies à entérovirus non poliomyélitiques, quelles propositions sont exactes ?",
+  "options": [
+   "Dues aux échovirus",
+   "La paralysie flasque isolée fait partie des formes graves",
+   "Toujours dues au poliovirus",
+   "Notification des PFA dans le cadre de l'éradication",
+   "Entérovirus 70 et 71"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Non décrit pour les échovirus dans ce cours.",
+   "Forme grave non spécifique.",
+   "Les entérovirus 70 et 71 peuvent aussi paralyser.",
+   "Surveillance des paralysies flasques aiguës.",
+   "Paralysie (70, 71)."
+  ]
+ },
+ {
+  "q": "Au sujet des éruptions cutanées à entérovirus, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Syndrome main-pied-bouche : vésicules",
+   "Éruptions maculeuses ou vésiculaires",
+   "Coxsackievirus A : éruptions cutanées",
+   "Éruption morbilliforme avec signe de Koplik",
+   "Échovirus 16 : exanthème de Boston"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vésicules typiques.",
+   "Infections bénignes non spécifiques.",
+   "Éruptions cutanées à coxsackievirus A.",
+   "c'est la rougeole, pas les entérovirus.",
+   "Exanthème de Boston (E16)."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant les coxsackievirus A ?",
+  "options": [
+   "Myocardites (B1-B5)",
+   "Herpangine",
+   "Syndrome main-pied-bouche (A10, A16)",
+   "Conjonctivites hémorragiques (A24)",
+   "Éruptions cutanées"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Ce sont les coxsackievirus B qui donnent les myocardites.",
+   "Herpangine à coxsackievirus A.",
+   "Sérotypes A10 et A16.",
+   "Sérotype A24.",
+   "Éruptions cutanées."
+  ]
+ },
+ {
+  "q": "Concernant les coxsackievirus B, quelles affirmations sont exactes ?",
+  "options": [
+   "Péricardites (B1-B5)",
+   "Herpangine",
+   "Hépatite",
+   "Pleurodynie ou maladie de Bornholm (B1-B5)",
+   "Myocardites (B1-B5)"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Atteintes péricardiques.",
+   "L'herpangine est due aux coxsackievirus A.",
+   "Hépatite à coxsackievirus B.",
+   "Pleurodynie.",
+   "Tropisme cardiaque."
+  ]
+ },
+ {
+  "q": "À propos des échovirus, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Exanthème de Boston (E16)",
+   "Myalgies",
+   "Myocardites et péricardites",
+   "Conjonctivites hémorragiques (A24)",
+   "Classés Entérovirus B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Sérotype E16.",
+   "Myalgies à échovirus.",
+   "Atteintes cardiaques possibles.",
+   "A24 : coxsackievirus A.",
+   "Classification du cours."
+  ]
+ },
+ {
+  "q": "Au sujet des entérovirus 68 à 71, quelles propositions sont exactes ?",
+  "options": [
+   "Bronchiolites (68)",
+   "Paralysie (70, 71)",
+   "Syndrome pieds-mains-bouche (71)",
+   "Herpangine",
+   "Conjonctivites hémorragiques (70)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "EV68.",
+   "EV70 et EV71.",
+   "EV71.",
+   "L'herpangine est due aux coxsackievirus A.",
+   "EV70."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant l'entérovirus 71 ?",
+  "options": [
+   "Herpangine",
+   "Classé Entérovirus A et D",
+   "Syndrome pieds-mains-bouche",
+   "Culture de faible sensibilité",
+   "Paralysie"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Due aux coxsackievirus A.",
+   "Classification du cours.",
+   "EV71 : syndrome pieds-mains-bouche.",
+   "Sensibilité faible pour les entérovirus 68-71.",
+   "EV71 : paralysie."
+  ]
+ },
+ {
+  "q": "Concernant l'entérovirus 70, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Paralysie",
+   "Bronchiolite",
+   "Culture de faible sensibilité",
+   "Myocardite",
+   "Conjonctivites hémorragiques"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "EV70 : paralysie.",
+   "La bronchiolite est due à l'entérovirus 68.",
+   "Sensibilité faible pour les entérovirus 68-71.",
+   "Non décrite pour l'EV70 dans ce cours.",
+   "EV70."
+  ]
+ },
+ {
+  "q": "À propos des hépatites à entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Dues au poliovirus",
+   "Le VHA appartient aux Picornaviridae",
+   "Dues aux échovirus",
+   "Le VHA est du genre Hepatovirus",
+   "Décrites avec les coxsackievirus B"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Non décrit pour le poliovirus.",
+   "Famille des Picornaviridae.",
+   "Non décrit pour les échovirus.",
+   "Classification du VHA.",
+   "Hépatite à coxsackievirus B."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes à propos des infections ORL à entérovirus ?",
+  "options": [
+   "L'herpangine peut mimer une infection herpétique",
+   "Angine à fausses membranes",
+   "Font partie des infections bénignes non spécifiques",
+   "Prodromes polio : infection rhino-pharyngée",
+   "Herpangine : fièvre et dysphagie"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Piège diagnostique.",
+   "c'est la diphtérie, pas les entérovirus.",
+   "Infections ORL bénignes.",
+   "Prodrome de la poliomyélite.",
+   "Tableau de l'herpangine."
+  ]
+ },
+ {
+  "q": "Concernant les gastroentérites à entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Excrétion fécale",
+   "Multiplication dans le tube digestif",
+   "Dues au poliovirus uniquement",
+   "Transmission féco-orale",
+   "Infections bénignes non spécifiques"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Excrétion dans les selles.",
+   "Site de multiplication.",
+   "Les entérovirus non poliomyélitiques aussi.",
+   "Voie féco-orale.",
+   "Gastroentérites bénignes."
+  ]
+ },
+ {
+  "q": "Au sujet des infections respiratoires à entérovirus, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Dues au virus de la grippe",
+   "Pneumonie franche lobaire",
+   "Transmission aérienne possible",
+   "Infections bénignes non spécifiques",
+   "Bronchiolites à entérovirus 68"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Le virus grippal est un Orthomyxoviridae.",
+   "Tableau bactérien, pas entéroviral.",
+   "Gouttelettes liquidiennes.",
+   "Infections respiratoires bénignes.",
+   "EV68 : bronchiolites."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les syndromes fébriles isolés à entérovirus ?",
+  "options": [
+   "Nécessitent une RT-PCR systématique",
+   "Font partie des infections aiguës bénignes",
+   "Souvent d'origine entérovirale en période estivo-automnales",
+   "Sont toujours dûs au poliovirus",
+   "Peuvent précéder une méningite lymphocytaire"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Pas d'indication systématique du diagnostic virologique.",
+   "Syndromes fébriles isolés bénignes.",
+   "Épidémies estivo-automnales à échovirus et coxsackievirus.",
+   "Le plus souvent dûs aux entérovirus non poliomyélitiques.",
+   "Les formes bénignes et graves coexistent."
+  ]
+ },
+ {
+  "q": "Concernant la fièvre éruptive de la femme enceinte, quelles propositions sont exactes ?",
+  "options": [
+   "Diagnostic différentiel avec la rubéole",
+   "La sérologie isolée suffit au diagnostic",
+   "Le VHA est l'agent en cause",
+   "Les entérovirus peuvent donner des éruptions",
+   "Indication du diagnostic virologique"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Diagnostic différentiel avec la rubéole.",
+   "La sérologie isolée n'a aucun intérêt.",
+   "Ce sont les entérovirus qui sont en cause.",
+   "Éruptions maculeuses ou vésiculaires.",
+   "Indication citée dans le cours."
+  ]
+ },
+ {
+  "q": "À propos des infections à entérovirus chez l'immunodéprimé, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Indication du diagnostic virologique",
+   "Prélèvements multiples",
+   "Le vaccin Sabin est contre-indiqué chez l'immunodéprimé et son entourage",
+   "Aucun risque particulier",
+   "Infections sévères non spécifiques possibles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Infection chez l'immunodéprimé : indication.",
+   "Prélèvements multiples chez l'immunodéprimé.",
+   "Contre-indication du vaccin vivant atténué.",
+   "Risque d'infections sévères.",
+   "Formes sévères chez l'immunodéprimé."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant le pouvoir pathogène des entérovirus ?",
+  "options": [
+   "Toujours neurotrope",
+   "Pléiomorphe",
+   "Le plus souvent bénin",
+   "Parfois grave (méningites, paralysies)",
+   "Le plus souvent asymptomatique"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Tropisme varié selon les sérotypes.",
+   "Tableaux cliniques variés.",
+   "Infections bénignes les plus fréquentes.",
+   "Formes graves possibles.",
+   "Infections asymptomatiques +++."
+  ]
+ },
+ {
+  "q": "Au sujet du syndrome pieds-mains-bouche, quelles propositions sont exactes ?",
+  "options": [
+   "Entérovirus 71",
+   "Vésicules typiques",
+   "Éruption cutanée",
+   "Dû à l'échovirus 16",
+   "Coxsackievirus A10, A16"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "EV71 : syndrome pieds-mains-bouche.",
+   "Vésicules typiques.",
+   "Éruptions cutanées.",
+   "E16 : exanthème de Boston.",
+   "Sérotypes cités."
+  ]
+ },
+ {
+  "q": "Concernant les conjonctivites hémorragiques, quelles affirmations sont exactes ?",
+  "options": [
+   "Entérovirus 70",
+   "La conjonctive est un site de prélèvement",
+   "Coxsackievirus A24",
+   "Dues au poliovirus",
+   "Diagnostic par RT-PCR possible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "EV70.",
+   "Site de prélèvement pour le diagnostic direct.",
+   "A24.",
+   "Non décrit pour le poliovirus.",
+   "Détection du génome par RT-PCR."
+  ]
+ },
+ {
+  "q": "À propos des myocardites virales, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Traitement antiviral spécifique efficace",
+   "La myocardite aiguë est une indication du diagnostic virologique",
+   "Coxsackievirus B1-B5 : agents classiques",
+   "Échovirus possibles",
+   "Le poliovirus en est la cause principale"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Aucun traitement antiviral efficace.",
+   "Indication citée.",
+   "Tropisme cardiaque des coxsackievirus B.",
+   "Myocardites à échovirus.",
+   "Tropisme nerveux moteur du poliovirus."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes à propos de la péricardite à entérovirus ?",
+  "options": [
+   "Indication du diagnostic virologique",
+   "Échovirus",
+   "Coxsackievirus A",
+   "Coxsackievirus B1-B5",
+   "Herpangine"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Myocardite/péricardite aiguë : indication.",
+   "Péricardites à échovirus.",
+   "Les coxsackievirus A donnent herpangine et éruptions.",
+   "Péricardites (B1-B5).",
+   "L'herpangine n'est pas une péricardite."
+  ]
+ },
+ {
+  "q": "Au sujet de l'exanthème de Boston, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Échovirus 16",
+   "Dû au coxsackievirus A",
+   "Exanthème",
+   "Dû au virus de la rubéole",
+   "Diagnostic différentiel avec la rubéole"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exanthème de Boston (E16).",
+   "Dû à l'échovirus 16.",
+   "Éruption appelée exanthème de Boston.",
+   "Dû à l'échovirus 16.",
+   "Fièvre éruptive : diagnostic différentiel avec la rubéole."
+  ]
+ },
+ {
+  "q": "Concernant les infections spécifiques à coxsackievirus, quelles propositions sont exactes ?",
+  "options": [
+   "A : herpangine",
+   "B : myocardites",
+   "B : pleurodynie",
+   "A : main-pied-bouche",
+   "A : myocardites"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Herpangine à coxsackievirus A.",
+   "Myocardites (B1-B5).",
+   "Pleurodynie (B1-B5).",
+   "A10, A16.",
+   "Les myocardites sont dues aux coxsackievirus B."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant les entérovirus non poliomyélitiques ?",
+  "options": [
+   "Poliovirus",
+   "Entérovirus 68-71",
+   "Rhinovirus dans la classification du cours",
+   "Coxsackievirus A et B",
+   "Échovirus"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Le poliovirus est l'entérovirus poliomyélitique.",
+   "Entérovirus non poliomyélitiques.",
+   "Classés parmi les Entérovirus dans ce cours.",
+   "Entérovirus non poliomyélitiques.",
+   "Entérovirus non poliomyélitiques."
+  ]
+ },
+ {
+  "q": "À propos du tropisme cardiaque, quelles propositions sont exactes ?",
+  "options": [
+   "Péricardites B1-B5",
+   "Poliovirus : tropisme cardiaque",
+   "Coxsackievirus B : tropisme cardiaque",
+   "Échovirus : myocardites possibles",
+   "Myocardites B1-B5"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Péricardites à coxsackievirus B1-B5.",
+   "Le poliovirus à un tropisme pour les neurones moteurs.",
+   "Cœur : coxsackievirus B.",
+   "Myocardites et péricardites à échovirus.",
+   "Myocardites à coxsackievirus B1-B5."
+  ]
+ },
+ {
+  "q": "Au sujet du tropisme nerveux, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Poliovirus : neurones sensitifs",
+   "Entérovirus 70, 71 : paralysie",
+   "Coxsackievirus B : neurones moteurs",
+   "Méningites lymphocytaires à entérovirus",
+   "Poliovirus : neurones moteurs"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Tropisme pour les neurones moteurs.",
+   "Paralysie (70, 71).",
+   "Tropisme cardiaque des coxsackievirus B.",
+   "Atteinte neuroméningée.",
+   "Tropisme pour les neurones moteurs."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les paralysies flasques à entérovirus ?",
+  "options": [
+   "PFA : surveillance dans l'éradication",
+   "Paralysie flasque isolée : forme grave",
+   "Paralysie spastique",
+   "EV70, EV71 : paralysie",
+   "Poliovirus : destruction de la corne antérieure"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Surveillance des paralysies flasques aiguës.",
+   "Forme grave non spécifique.",
+   "Les paralysies sont flasques.",
+   "Paralysie (70, 71).",
+   "Lésion de la poliomyélite paralytique."
+  ]
+ },
+ {
+  "q": "Concernant les infections néonatales à entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Urine du nouveau-né : prélèvement à valeur diagnostique indiscutable",
+   "Peuvent être sévères",
+   "Infection materno-fœtale : indication diagnostique",
+   "Toujours bénignes",
+   "Aucun diagnostic nécessaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Isolement à partir de l'urine du nouveau-né.",
+   "Infections sévères chez le nouveau-né.",
+   "Indication du diagnostic virologique.",
+   "Elles peuvent être sévères.",
+   "Le diagnostic virologique est indiqué."
+  ]
+ },
+ {
+  "q": "À propos des éruptions à entérovirus, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Main-pied-bouche : vésicules",
+   "Purpura fulminans",
+   "Exanthème de Boston (E16)",
+   "Maculeuses ou vésiculaires",
+   "Coxsackievirus A"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vésicules typiques.",
+   "Tableau bactérien, pas entéroviral.",
+   "Exanthème à échovirus 16.",
+   "Éruptions maculeuses ou vésiculaires.",
+   "Éruptions cutanées à coxsackievirus A."
+  ]
+ },
+ {
+  "q": "Au sujet des infections digestives à entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Hépatite fulminante",
+   "Multiplication dans le tube digestif",
+   "Gastroentérites bénignes",
+   "Symptomatologie intestinale de la polio abortive",
+   "Excrétion fécale"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Non décrite pour les entérovirus dans ce cours.",
+   "Site de multiplication.",
+   "Infections bénignes non spécifiques.",
+   "Fièvre avec symptomatologie intestinale.",
+   "Excrétion dans les selles."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes à propos des formes cliniques de l'infection à poliovirus ?",
+  "options": [
+   "Infections asymptomatiques +++",
+   "Abortive : 90-95 %",
+   "Encéphalitique systématique",
+   "Paralytique : < 1 %",
+   "Méningée (plus rarement)"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "La plupart des infections sont asymptomatiques.",
+   "La grande majorité des infections.",
+   "Les encéphalites sont rares.",
+   "Forme la plus rare.",
+   "Plus rarement méningite."
+  ]
+ },
+ {
+  "q": "Concernant les indications du diagnostic virologique des entérovirus, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Paralysie flasque aiguë",
+   "Affection neuro-méningée aiguë",
+   "Infection materno-fœtale ou néonatale",
+   "Rhinopharyngite banale",
+   "Myocardite/péricardite aiguë"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Indication citée.",
+   "Indication citée.",
+   "Indication citée.",
+   "Pas d'indication pour les formes bénignes.",
+   "Indication citée."
+  ]
+ },
+ {
+  "q": "À propos des autres indications du diagnostic, quelles propositions sont exactes ?",
+  "options": [
+   "Surveillance des poliovirus",
+   "Fièvre éruptive chez la femme enceinte",
+   "Distinction souches sauvages et souches vaccinales",
+   "Syndrome fébrile isolé bénin",
+   "Infection chez l'immunodéprimé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Surveillance des poliovirus.",
+   "Diagnostic différentiel avec la rubéole.",
+   "Distinction au laboratoire.",
+   "Pas d'indication systématique.",
+   "Prélèvements multiples."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant les prélèvements pour diagnostic direct ?",
+  "options": [
+   "Un seul prélèvement tardif suffit",
+   "Plusieurs sites à la fois",
+   "Gorge",
+   "LCR",
+   "Prélèvement précoce"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Prélèvement précoce et multisites recommandés.",
+   "Plusieurs sites à la fois.",
+   "Site de prélèvement.",
+   "Site de prélèvement.",
+   "Précoce : début des signes cliniques."
+  ]
+ },
+ {
+  "q": "Concernant les sites de prélèvement, quelles propositions sont exactes ?",
+  "options": [
+   "LCR",
+   "Selles",
+   "Gorge",
+   "Liquide amniotique",
+   "Biopsie hépatique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Site cité.",
+   "Site cité.",
+   "Site cité.",
+   "Site cité.",
+   "Non citée pour les entérovirus."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic indirect, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Une sérologie isolée anti-coxsackievirus n'a aucun intérêt",
+   "La sérologie isolée suffit au diagnostic",
+   "Cas particulier : recherche des Ac antipoliovirus",
+   "Sérologie sur sérum",
+   "Recherche d'anticorps"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Examen inutile, ininterprétable, coûteux.",
+   "Elle n'a aucun intérêt diagnostique.",
+   "Exception : Ac antipoliovirus.",
+   "Diagnostic indirect : sérologie sur sérum.",
+   "Détection des anticorps."
+  ]
+ },
+ {
+  "q": "Au sujet de la culture virale des entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Sensibilité faible pour les entérovirus 68-71",
+   "Sensibilité excellente dans tous les prélèvements",
+   "Sensibilité faible pour les coxsackievirus A",
+   "Sensibilité faible pour le LCR",
+   "Technique de référence"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Sensibilité faible pour les entérovirus 68-71.",
+   "Sensibilité faible dans plusieurs situations.",
+   "Sensibilité faible pour certains sérotypes.",
+   "Sensibilité faible pour certains prélèvements dont le LCR.",
+   "Technique de référence du diagnostic direct."
+  ]
+ },
+ {
+  "q": "Concernant l'ECP des entérovirus, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Cellules arrondies à l'état frais",
+   "Inclusions de Cowdry",
+   "Cellules se détachant du tapis cellulaire",
+   "Syncytiums",
+   "Confirmation du genre puis du sérotype par séroneutralisation"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "ECP à l'état frais : cellules arrondies.",
+   "Inclusions des herpesvirus, pas des entérovirus.",
+   "Détachement du tapis cellulaire.",
+   "Pas de syncytiums dans l'ECP des entérovirus.",
+   "Séroneutralisation de l'ECP."
+  ]
+ },
+ {
+  "q": "À propos de la séroneutralisation de l'ECP, quelles propositions sont exactes ?",
+  "options": [
+   "Fixation du complément",
+   "Confirmation de l'appartenance au genre Entérovirus",
+   "Détermination du sérotype",
+   "Pools de sérums anti-entérovirus",
+   "Puis sérums monovalents"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "c'est la séroneutralisation qui est utilisée.",
+   "Confirmation du genre puis du sérotype.",
+   "Permet de déterminer le sérotype.",
+   "d'abord les pools de sérums.",
+   "Puis les sérums monovalents."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant la RT-PCR entérovirus ?",
+  "options": [
+   "Détection du génome dans le LCR à valeur indiscutable",
+   "Diagnostic du genre Entérovirus",
+   "Cible la région codant la neuraminidase",
+   "Indiquée dans les affections neuroméningées +++",
+   "Cible la région 5' non codante"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Valeur diagnostique indiscutable.",
+   "Diagnostic de genre.",
+   "Cible la région 5' non codante.",
+   "Indication majeure.",
+   "Région 5' non codante ciblée."
+  ]
+ },
+ {
+  "q": "Concernant l'interprétation des résultats à valeur diagnostique indiscutable, quelles propositions sont exactes ?",
+  "options": [
+   "Détection du génome dans le LCR",
+   "Isolement à partir d'une selle isolée",
+   "Isolement à partir du liquide amniotique",
+   "Isolement en culture à partir du LCR",
+   "Isolement à partir d'une lésion cutanéo-muqueuse"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Valeur indiscutable.",
+   "Selle isolée : non interprétable.",
+   "Valeur indiscutable.",
+   "Valeur indiscutable.",
+   "Valeur indiscutable."
+  ]
+ },
+ {
+  "q": "À propos des autres prélèvements à valeur indiscutable, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Urine du nouveau-né",
+   "Selle isolée",
+   "Conjonctive",
+   "Détection du génome dans le liquide amniotique",
+   "Gorge isolée"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Isolement à partir de l'urine du nouveau-né.",
+   "Portage possible : non interprétable.",
+   "Isolement à partir de la conjonctive.",
+   "Valeur indiscutable.",
+   "Porte d'entrée du virus : non interprétable."
+  ]
+ },
+ {
+  "q": "Au sujet des situations non interprétables, quelles propositions sont exactes ?",
+  "options": [
+   "Selle isolée : excrétion prolongée",
+   "Associer les deux prélèvements",
+   "Selle isolée : portage possible",
+   "Gorge isolée : porte d'entrée du virus",
+   "LCR positif : non interprétable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Excrétion prolongée possible.",
+   "Il faut associer gorge et selles.",
+   "Portage possible.",
+   "La gorge est la porte d'entrée.",
+   "Le LCR positif à une valeur indiscutable."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant la sérologie des entérovirus ?",
+  "options": [
+   "Cas particulier : recherche spécifique des Ac antipoliovirus",
+   "Examen inutile, ininterprétable, coûteux",
+   "Une sérologie isolée (Ac anti-coxsackievirus, anti-échovirus) n'a aucun intérêt",
+   "La sérologie se fait sur sérum",
+   "La sérologie isolée est le diagnostic de référence des méningites"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exception citée.",
+   "Qualificatifs du cours.",
+   "Examen inutile.",
+   "Diagnostic indirect : sérologie sur sérum.",
+   "c'est la RT-PCR sur LCR qui est la référence."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic des méningites lymphocytaires à entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Sérologie isolée suffisante",
+   "Prélèvement précoce",
+   "Région 5' non codante",
+   "RT-PCR sur LCR : examen de choix",
+   "Culture du LCR peu sensible"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "La sérologie isolée n'a aucun intérêt.",
+   "Prélèvement précoce recommandé.",
+   "Région ciblée.",
+   "Affections neuroméningées +++ : RT-PCR.",
+   "Sensibilité faible de la culture pour le LCR."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic de la poliomyélite, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Selles : excrétion du virus",
+   "Sérologie anti-échovirus isolée suffisante",
+   "Recherche spécifique des Ac antipoliovirus",
+   "PFA : indication du diagnostic",
+   "Distinction souches sauvages et souches vaccinales"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Excrétion fécale du poliovirus.",
+   "La sérologie isolée n'a aucun intérêt.",
+   "Cas particulier de la sérologie.",
+   "Paralysie flasque aiguë : indication.",
+   "Surveillance des poliovirus."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant les prélèvements multiples ?",
+  "options": [
+   "Plusieurs sites à la fois",
+   "Un seul prélèvement suffit toujours",
+   "Immunodéprimé : prélèvements multiples",
+   "LCR et lésions cutanéo-muqueuses",
+   "Gorge et selles à associer"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Plusieurs sites à la fois.",
+   "Plusieurs sites recommandés.",
+   "Prélèvements multiples chez l'immunodéprimé.",
+   "Sites à valeur indiscutable.",
+   "Associer ces deux prélèvements."
+  ]
+ },
+ {
+  "q": "Au sujet du diagnostic direct des entérovirus, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Prélèvement précoce",
+   "Plusieurs sites de prélèvement",
+   "RT-PCR",
+   "Isolement sur culture cellulaire",
+   "Sérologie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Début des signes cliniques.",
+   "Gorge, LCR, selles, LA, lésions, conjonctives.",
+   "Détection du génome.",
+   "Technique de diagnostic direct.",
+   "La sérologie est un diagnostic indirect."
+  ]
+ },
+ {
+  "q": "Concernant la surveillance des poliovirus au laboratoire, quelles propositions sont exactes ?",
+  "options": [
+   "RT-PCR",
+   "Distinction souches sauvages et souches vaccinales",
+   "Isolement sur culture",
+   "Séroneutralisation pour le sérotype",
+   "Aucun intérêt virologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Détection du génome.",
+   "Objectif de la surveillance.",
+   "Technique utilisée.",
+   "Détermination du sérotype.",
+   "Surveillance essentielle à l'éradication."
+  ]
+ },
+ {
+  "q": "À propos de la valeur de l'isolement viral, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Valeur indiscutable à partir d'une selle isolée",
+   "Valeur indiscutable à partir d'une lésion cutanéo-muqueuse",
+   "Valeur indiscutable à partir du LCR",
+   "Valeur indiscutable à partir de l'urine du nouveau-né",
+   "Valeur indiscutable à partir de la conjonctive"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Selle isolée : non interprétable.",
+   "Isolement à partir des lésions.",
+   "Isolement à partir du LCR.",
+   "Isolement à partir de l'urine du nouveau-né.",
+   "Isolement à partir de la conjonctive."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant le diagnostic virologique des infections à entérovirus ?",
+  "options": [
+   "Traitement guidé par la sérologie isolée",
+   "Indirect : sérologie",
+   "RT-PCR : région 5' non codante",
+   "ECP : cellules arrondies se détachant du tapis",
+   "Direct : culture et biologie moléculaire"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "La sérologie isolée est inutile.",
+   "Sérologie sur sérum.",
+   "Cible de la RT-PCR.",
+   "Aspect de l'ECP.",
+   "Les deux techniques du diagnostic direct."
+  ]
+ },
+ {
+  "q": "Concernant le traitement des infections à entérovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Aucun traitement antiviral efficace",
+   "Traitement symptomatique",
+   "Antibiothérapie systématique",
+   "Aciclovir efficace",
+   "Ribavirine indiquée"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Pas d'antiviral efficace.",
+   "Traitement symptomatique uniquement.",
+   "Infections virales : pas d'antibiotiques systématiques.",
+   "L'aciclovir est actif sur les herpesvirus, pas les entérovirus.",
+   "Pas d'antiviral efficace contre les entérovirus."
+  ]
+ },
+ {
+  "q": "À propos de la prévention non spécifique, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Désinfection",
+   "Respect des règles d'hygiène universelle",
+   "Éviction scolaire systématique",
+   "Lavage des mains",
+   "Vaccination"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Désinfection des surfaces et du matériel.",
+   "Prévention non spécifique.",
+   "Non citée dans le cours.",
+   "Mesure d'hygiène essentielle.",
+   "La vaccination est une prévention spécifique (polio)."
+  ]
+ },
+ {
+  "q": "Au sujet de la prévention spécifique de la poliomyélite, quelles propositions sont exactes ?",
+  "options": [
+   "Vaccination",
+   "Notification immédiate des PFA",
+   "Vaccin Sabin en routine actuellement",
+   "Rappels réguliers",
+   "Maintien d'une couverture vaccinale élevée"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Prévention spécifique : vaccination.",
+   "Notification immédiate.",
+   "Le Sabin est réservé aux situations épidémiques.",
+   "Rappels nécessaires.",
+   "Avec rappels."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant la déclaration de la poliomyélite ?",
+  "options": [
+   "Notification immédiate des PFA",
+   "Déclaration facultative",
+   "Maladie à déclaration obligatoire",
+   "Enquête dans l'entourage",
+   "Surveillance dans le cadre de la certification"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Notification immédiate des cas.",
+   "La déclaration est obligatoire.",
+   "Déclaration obligatoire.",
+   "Enquête dans l'entourage du cas.",
+   "Phase de certification au Maroc."
+  ]
+ },
+ {
+  "q": "Concernant l'enquête dans l'entourage d'un cas de polio, quelles propositions sont exactes ?",
+  "options": [
+   "Recherche de cas contacts",
+   "Vérification du statut vaccinal",
+   "Inutile",
+   "Recommandée par le cours",
+   "Réservée aux épidémies"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Objectif de l'enquête.",
+   "Maintien de la couverture vaccinale.",
+   "Elle est recommandée.",
+   "Mesure de prévention spécifique.",
+   "Mesure systématique."
+  ]
+ },
+ {
+  "q": "À propos de la notification des paralysies flasques aiguës, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Phase de certification de l'éradication",
+   "Système de surveillance au Maroc",
+   "Notification immédiate",
+   "Uniquement si le poliovirus est confirmé",
+   "Déclaration obligatoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Le Maroc est en phase de certification.",
+   "Surveillance et suivi des PFA.",
+   "Notification immédiate des cas de PFA.",
+   "Toute PFA doit être notifiée.",
+   "Déclaration obligatoire."
+  ]
+ },
+ {
+  "q": "Au sujet de l'hygiène universelle, quelles propositions sont exactes ?",
+  "options": [
+   "Remplace la vaccination antipoliomyélitique",
+   "Prévient la transmission nosocomiale",
+   "Lavage des mains",
+   "Désinfection",
+   "Prévention non spécifique des entérovirus"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "La vaccination reste indispensable.",
+   "La transmission nosocomiale est liée au non-respect de ces règles.",
+   "Mesure clé.",
+   "Désinfection.",
+   "Respect des règles d'hygiène universelle."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes à propos des mesures de prévention ?",
+  "options": [
+   "Hygiène universelle : prévention non spécifique",
+   "Traitement antiviral préventif",
+   "Vaccination : prévention spécifique du poliovirus",
+   "Déclaration obligatoire",
+   "Rappels vaccinaux réguliers"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Prévention non spécifique.",
+   "Aucun antiviral efficace.",
+   "Prévention spécifique.",
+   "Toute infection à poliovirus.",
+   "Maintien de la couverture vaccinale."
+  ]
+ },
+ {
+  "q": "Concernant la lutte contre la transmission féco-orale, quelles propositions sont exactes ?",
+  "options": [
+   "Alcool à 70 degrés comme désinfectant de choix",
+   "Hygiène des mains",
+   "Eau potable non contaminée",
+   "Désinfection par l'hypochlorite de soude",
+   "Hygiène alimentaire"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Les entérovirus résistent à l'alcool à 70 degrés.",
+   "Mains sales : transmission directe.",
+   "Eau contaminée : transmission indirecte.",
+   "Oxydant destructeur des entérovirus.",
+   "Alimentation contaminée."
+  ]
+ },
+ {
+  "q": "À propos du rôle du laboratoire dans l'éradication, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Distinction souches sauvages et vaccinales",
+   "Surveillance des poliovirus",
+   "Sérologie isolée suffisante",
+   "Diagnostic des PFA",
+   "RT-PCR et culture"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Objectif du laboratoire.",
+   "Surveillance virologique.",
+   "La sérologie isolée n'a aucun intérêt.",
+   "Toute PFA est explorée.",
+   "Techniques utilisées."
+  ]
+ },
+ {
+  "q": "Concernant le vaccin antipoliomyélitique inactivé (Salk/Lépine), lesquelles des propositions sont exactes ?",
+  "options": [
+   "Préparé sur culture cellulaire",
+   "1955",
+   "Voie orale",
+   "Voie injectable",
+   "Inactivé par la bêta-propiolactone"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Préparé sur culture cellulaire.",
+   "Vaccin Salk/Lépine : 1955.",
+   "La voie orale est celle du vaccin Sabin.",
+   "Administration par voie injectable.",
+   "Inactivation par la bêta-propiolactone."
+  ]
+ },
+ {
+  "q": "À propos du vaccin Sabin, quelles propositions sont exactes ?",
+  "options": [
+   "Souches ayant perdu leur neurovirulence",
+   "Atténuation par passages successifs sur culture cellulaire",
+   "Voie injectable",
+   "Vivant atténué",
+   "1963"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Atténuation : perte de la neurovirulence.",
+   "Mode d'atténuation.",
+   "Le Sabin s'administre par voie orale.",
+   "Vaccin vivant atténué.",
+   "Vaccin Sabin : 1963."
+  ]
+ },
+ {
+  "q": "Au sujet de la composition des vaccins polio, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Salk : innocuité absolue",
+   "Sabin : immunité locale intestinale",
+   "Salk : 3 sérotypes 1, 2, 3",
+   "Salk : souches vivantes",
+   "Sabin : types 1, 2, 3"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Innocuité absolue du vaccin inactivé.",
+   "Immunité générale et locale intestinale.",
+   "Contient les trois sérotypes.",
+   "Le Salk est un vaccin inactivé.",
+   "Contient les trois types."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant les avantages du vaccin inactivé ?",
+  "options": [
+   "Facilité d'administration par voie orale",
+   "Association possible avec DTcoq Hib VHB",
+   "Immunité locale intestinale",
+   "Aucune contre-indication",
+   "Innocuité totale"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "c'est un avantage du Sabin, pas du Salk.",
+   "Association possible.",
+   "c'est un inconvénient : pas d'immunité locale intestinale.",
+   "Avantage du Salk.",
+   "Avantage du Salk."
+  ]
+ },
+ {
+  "q": "Concernant les inconvénients du vaccin inactivé, quelles propositions sont exactes ?",
+  "options": [
+   "Maintien nécessaire d'une couverture vaccinale élevée",
+   "Rappels réguliers tous les 10 ans",
+   "Pas d'immunité locale intestinale",
+   "N'empêche pas l'implantation d'un virus sauvage",
+   "Réversion vers le caractère sauvage"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Couverture élevée indispensable.",
+   "Rappels nécessaires.",
+   "Inconvénient du Salk.",
+   "Limite du vaccin inactivé.",
+   "Risque propre au vaccin vivant atténué Sabin."
+  ]
+ },
+ {
+  "q": "À propos des avantages du vaccin Sabin, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Facilité d'administration",
+   "Immunité générale et locale intestinale",
+   "Efficacité remarquable",
+   "Contagieux pour l'entourage",
+   "Innocuité absolue"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Voie orale : facilité d'administration.",
+   "Avantage majeur du Sabin.",
+   "Efficacité remarquable.",
+   "Diffusion à l'entourage (immunité de contact).",
+   "Risque de réversion : pas d'innocuité absolue."
+  ]
+ },
+ {
+  "q": "Au sujet des inconvénients du vaccin Sabin, quelles propositions sont exactes ?",
+  "options": [
+   "Interférence avec d'autres entérovirus",
+   "Fragilité : conservation au froid",
+   "Contre-indiqué chez l'immunodéprimé et son entourage",
+   "Aucune contre-indication",
+   "Contre-indiqué chez la femme enceinte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Interférence possible.",
+   "Chaîne du froid nécessaire.",
+   "Contre-indication citée.",
+   "Plusieurs contre-indications existent.",
+   "Contre-indication citée."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant la poliomyélite post-vaccinale ?",
+  "options": [
+   "Liée au vaccin Sabin",
+   "Liée au vaccin Salk",
+   "Réversion vers le caractère sauvage",
+   "Fréquence de 1 sur 10 puissance 7",
+   "Imposé l'arrêt de toute vaccination"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Complication du vaccin vivant atténué.",
+   "Le Salk est inactivé : pas de réversion.",
+   "Mécanisme : réversion.",
+   "Fréquence citée : 1/10^7.",
+   "Le maintien vaccinal reste indispensable."
+  ]
+ },
+ {
+  "q": "Concernant le calendrier vaccinal polio (primo-vaccination), quelles propositions sont exactes ?",
+  "options": [
+   "4 mois",
+   "3 mois",
+   "2 mois",
+   "Vaccin oral en routine",
+   "Vaccin injectable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Primo-vaccination à 4 mois.",
+   "Primo-vaccination à 3 mois.",
+   "Primo-vaccination à 2 mois.",
+   "Le vaccin oral est réservé aux situations épidémiques.",
+   "Vaccin polio injectable recommandé."
+  ]
+ },
+ {
+  "q": "À propos des rappels polio de l'enfant, lesquelles des propositions sont exactes ?",
+  "options": [
+   "18 ans",
+   "25 ans",
+   "18 mois",
+   "11 ans",
+   "6 ans"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Rappel à 18 ans.",
+   "Non cité dans le calendrier.",
+   "Rappel à 18 mois.",
+   "Rappel à 11 ans.",
+   "Rappel à 6 ans."
+  ]
+ },
+ {
+  "q": "Au sujet du rappel décennal, quelles propositions sont exactes ?",
+  "options": [
+   "Le vaccin oral est réservé aux situations épidémiques",
+   "Concerne le vaccin inactivé",
+   "Rappel oral systématique",
+   "Associé à la vaccination antitétanique",
+   "Rappel injectable tous les 10 ans"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Usage du Sabin.",
+   "Rappel de vaccin polio injectable.",
+   "Le rappel est injectable.",
+   "Associé à l'antitétanique.",
+   "Rappel tous les 10 ans."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant l'utilisation actuelle du vaccin Sabin ?",
+  "options": [
+   "Réservé aux situations épidémiques",
+   "Primo-vaccination du nourrisson en routine",
+   "Voie orale",
+   "Campagne de masse",
+   "n'est plus utilisé en routine"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Usage épidémique.",
+   "La primo-vaccination utilise l'injectable.",
+   "Administration orale.",
+   "Utilisation en campagne de masse.",
+   "Plus utilisé sauf en cas d'épidémie."
+  ]
+ },
+ {
+  "q": "Concernant la comparaison Salk/Sabin, quelles propositions sont exactes ?",
+  "options": [
+   "Salk : innocuité totale ; Sabin : réversion possible",
+   "Sabin : immunité intestinale ; Salk : non",
+   "Sabin : sans contre-indication",
+   "Salk : contre-indiqué chez la femme enceinte",
+   "Salk : injectable ; Sabin : oral"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Différence de sécurité.",
+   "Différence d'immunité locale.",
+   "Le Sabin à des contre-indications.",
+   "Le Salk n'a aucune contre-indication.",
+   "Différence de voie d'administration."
+  ]
+ },
+ {
+  "q": "À propos de l'immunité conférée par les vaccins polio, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Salk : n'empêche pas l'implantation d'un virus sauvage",
+   "Sabin : immunité générale et locale",
+   "Salk : pas d'immunité locale intestinale",
+   "Sabin : contagieux pour l'entourage",
+   "Salk : immunité intestinale durable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Conséquence de l'absence d'immunité locale.",
+   "Immunité générale et intestinale.",
+   "Limite du Salk.",
+   "Immunité de contact.",
+   "Le Salk ne donne pas d'immunité intestinale."
+  ]
+ },
+ {
+  "q": "Au sujet des contre-indications du vaccin Sabin, quelles propositions sont exactes ?",
+  "options": [
+   "Nourrisson sain",
+   "Aucune contre-indication",
+   "Immunodéprimé",
+   "Femme enceinte",
+   "Entourage de l'immunodéprimé"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Pas de contre-indication chez le nourrisson sain.",
+   "Plusieurs contre-indications.",
+   "Contre-indication.",
+   "Contre-indication.",
+   "Contre-indication."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant la conservation du vaccin Sabin ?",
+  "options": [
+   "Conservation des années à température ambiante",
+   "Stable à température ambiante",
+   "A conserver au froid",
+   "Fragile",
+   "Chaîne du froid nécessaire"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Nécessite le froid.",
+   "Vaccin fragile, pas stable à température ambiante.",
+   "Conservation au froid.",
+   "Vaccin fragile.",
+   "Fragilité : froid indispensable."
+  ]
+ },
+ {
+  "q": "Concernant l'interférence vaccinale du Sabin, quelles propositions sont exactes ?",
+  "options": [
+   "Peut réduire la prise vaccinale",
+   "Interférence avec d'autres entérovirus",
+   "Concerne le vaccin inactivé",
+   "Favorise la réversion vers le type sauvage",
+   "n'existe pas"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Conséquence de l'interférence.",
+   "Interférence citée comme inconvénient.",
+   "Inconvénient du Sabin, pas du Salk.",
+   "La réversion est un mécanisme distinct.",
+   "Elle est citée dans le cours."
+  ]
+ },
+ {
+  "q": "À propos de la stratégie d'éradication, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Stratégie vaccinale mondiale depuis 1975",
+   "Maintien d'une couverture vaccinale élevée",
+   "Surveillance des PFA",
+   "Arrêt de la vaccination après 1998",
+   "Rappels réguliers"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Effort mondial depuis 1975.",
+   "Condition de l'éradication.",
+   "Système de surveillance.",
+   "Le maintien vaccinal reste indispensable.",
+   "Rappels nécessaires."
+  ]
+ },
+ {
+  "q": "Au sujet du vaccin Salk/Lépine, quelles propositions sont exactes ?",
+  "options": [
+   "Aucune contre-indication",
+   "Innocuité absolue",
+   "Inactivé par la bêta-propiolactone",
+   "Association possible avec DTcoq Hib VHB",
+   "Immunité locale intestinale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Avantage majeur.",
+   "Avantage majeur.",
+   "Mode d'inactivation.",
+   "Association possible.",
+   "Pas d'immunité locale intestinale."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes à propos du vaccin oral ?",
+  "options": [
+   "Ayant perdu leur neurovirulence",
+   "Sabin 1963",
+   "Réservé aux épidémies actuellement",
+   "Utilisé en primo-vaccination systématique",
+   "Souches atténuées par passages successifs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Perte de la neurovirulence.",
+   "Vaccin Sabin : 1963.",
+   "n'est plus utilisé sauf en cas d'épidémie.",
+   "La primo-vaccination utilise l'injectable.",
+   "Atténuation par passages sur culture cellulaire."
+  ]
+ },
+ {
+  "q": "Concernant les rappels antitétaniques et polio, quelles propositions sont exactes ?",
+  "options": [
+   "Rappel polio injectable tous les 10 ans",
+   "Une seule injection dans la vie",
+   "Vaccin oral",
+   "Associé à la vaccination antitétanique",
+   "Concerne l'adulte"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Rappel décennal.",
+   "Rappels réguliers nécessaires.",
+   "Le rappel est injectable.",
+   "Association recommandée.",
+   "Rappels à l'âge adulte."
+  ]
+ },
+ {
+  "q": "À propos de la vaccination en situation épidémique, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Vaccin oral Sabin",
+   "Facilité d'administration",
+   "Immunité intestinale rapide",
+   "Vaccin inactivé seul",
+   "Campagne de masse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Utilise en situation épidémique.",
+   "Voie orale.",
+   "Immunité locale intestinale.",
+   "c'est le Sabin qui est utilisé.",
+   "Modalité d'utilisation."
+  ]
+ },
+ {
+  "q": "Au sujet de l'efficacité vaccinale, quelles propositions sont exactes ?",
+  "options": [
+   "Salk : efficace mais sans immunité intestinale",
+   "Réduction de plus de 99 % des cas depuis 1998",
+   "Échec vaccinal total",
+   "Éradication de la majorité des pays",
+   "Sabin : efficacité remarquable"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Limite du Salk.",
+   "Résultat de la stratégie vaccinale.",
+   "Succès majeur de la vaccination.",
+   "Résultat obtenu.",
+   "Avantage cité."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant les vaccins antipoliomyélitiques ?",
+  "options": [
+   "Salk 1955, Sabin 1963",
+   "Un seul vaccin trivalent oral en routine",
+   "Deux types : inactivé et vivant atténué",
+   "Les deux contiennent les 3 sérotypes",
+   "Salk : injectable, Sabin : oral"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Dates de mise au point.",
+   "La routine utilise l'injectable.",
+   "Salk et Sabin.",
+   "Trivalents 1, 2, 3.",
+   "Voies d'administration."
+  ]
+ },
+ {
+  "q": "Concernant la primo-vaccination du nourrisson, quelles propositions sont exactes ?",
+  "options": [
+   "Rappels à 18 mois, 6, 11 et 18 ans",
+   "Une dose unique suffit",
+   "2, 3 et 4 mois",
+   "Vaccin injectable",
+   "Vaccin oral en routine"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Calendrier des rappels.",
+   "Trois doses de primo-vaccination.",
+   "Calendrier de primo-vaccination.",
+   "Vaccin polio injectable.",
+   "Réservé aux épidémies."
+  ]
+ },
+ {
+  "q": "À propos du maintien de la couverture vaccinale, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Condition de l'éradication",
+   "Inutile après la certification",
+   "Nécessaire à un niveau élevé",
+   "La poliomyélite est un modèle de maladie en voie d'éradication",
+   "Rappels tous les 10 ans"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "La polio est éradicable par la vaccination.",
+   "Le maintien reste indispensable.",
+   "Maintien à un niveau élevé.",
+   "Nécessite le maintien vaccinal.",
+   "Rappels réguliers."
+  ]
+ },
+ {
+  "q": "Concernant la déclaration obligatoire, quelles propositions sont exactes ?",
+  "options": [
+   "Enquête dans l'entourage",
+   "Uniquement les cas paralytiques confirmés",
+   "Certification de l'éradication au Maroc",
+   "PFA : notification immédiate",
+   "Toute infection à poliovirus"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Mesure de prévention.",
+   "Toute infection à poliovirus est à déclarer.",
+   "Phase de certification.",
+   "Notification immédiate des cas.",
+   "Déclaration obligatoire."
+  ]
+ },
+ {
+  "q": "Au sujet des sérotypes vaccinaux, quelles propositions sont exactes ?",
+  "options": [
+   "Un seul sérotype vaccinal",
+   "Polio 2 non déclaré depuis septembre 1999",
+   "Polio 3 le plus répandu",
+   "3 sérotypes dans les deux vaccins",
+   "Polio 1 le plus répandu"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Trois sérotypes.",
+   "Disparition du polio 2.",
+   "c'est le polio 1.",
+   "Vaccins trivalents 1, 2, 3.",
+   "3 cas sur 4."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes à propos de l'OMS et de la polio ?",
+  "options": [
+   "350 000 cas estimés en 1998",
+   "Baisse de plus de 99 % des cas",
+   "350 000 cas en 2015",
+   "74 cas en 2015",
+   "Stratégie vaccinale mondiale depuis 1975"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Estimation OMS.",
+   "Entre 1998 et 2015.",
+   "c'était en 1998, pas en 2015.",
+   "Cas déclarés en 2015.",
+   "Effort mondial d'éradication."
+  ]
+ },
+ {
+  "q": "Concernant les derniers cas de polio, quelles propositions sont exactes ?",
+  "options": [
+   "Asie : éradication en 2015",
+   "Polio 2 : dernier déclaré en septembre 1999",
+   "Europe : 1998",
+   "Maroc : 1989",
+   "Amériques : 1991"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Réémergence en Asie, éradication non achevée.",
+   "Disparition du sérotype 2.",
+   "Dernier cas en Europe.",
+   "Dernier cas au Maroc.",
+   "Dernier cas sur le continent américain."
+  ]
+ },
+ {
+  "q": "À propos de la réémergence de la polio, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Nécessite le maintien vaccinal",
+   "Réémergence en Afrique et en Asie",
+   "2 pays d'endémie : Afghanistan et Pakistan",
+   "Due au vaccin Salk",
+   "Éradication mondiale définitive"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Maintien de la vaccination et des rappels.",
+   "Réémergence récente.",
+   "Derniers foyers.",
+   "Le Salk est inactivé, sans réversion.",
+   "Non achevée."
+  ]
+ },
+ {
+  "q": "Au sujet des conclusions du cours, quelles propositions sont exactes ?",
+  "options": [
+   "Polio : maladie éradicable",
+   "Infections à entérovirus pléiomorphes",
+   "Diagnostic différentiel large",
+   "Traitement antiviral efficace",
+   "Diagnostic : direct, culture, biomol"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Maladie éradicable, à déclaration obligatoire.",
+   "Conclusion du cours.",
+   "Pléiomorphisme : diagnostic différentiel.",
+   "Aucun traitement antiviral efficace.",
+   "Diagnostic direct : culture virale, biologie moléculaire."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant les points à retenir ?",
+  "options": [
+   "Épidémiologie et physiopathologie",
+   "Moyens de prévention",
+   "Traitement antiviral de référence",
+   "Indications et mise en œuvre du diagnostic",
+   "Caractères virologiques du genre Entérovirus"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "A retenir.",
+   "A retenir.",
+   "Aucun traitement antiviral efficace.",
+   "A retenir.",
+   "A retenir."
+  ]
+ },
+ {
+  "q": "À propos des infections à entérovirus de l'adulte, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Pleurodynie",
+   "Infections asymptomatiques possibles",
+   "Myocardites",
+   "Uniquement des formes bénignes",
+   "Méningites lymphocytaires de l'adulte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Maladie de Bornholm.",
+   "Infections asymptomatiques +++.",
+   "Myocardites à coxsackievirus B.",
+   "Formes graves possibles.",
+   "Enfant et adulte."
+  ]
+ },
+ {
+  "q": "Au sujet des infections à entérovirus de l'enfant, quelles propositions sont exactes ?",
+  "options": [
+   "Méningites lymphocytaires",
+   "Poliomyélite paralytique fréquente",
+   "Exanthème de Boston",
+   "Herpangine",
+   "Syndrome main-pied-bouche"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Méningites de l'enfant.",
+   "Forme paralytique rare (< 1 %).",
+   "Échovirus 16.",
+   "Coxsackievirus A.",
+   "Coxsackievirus A, EV71."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant le diagnostic différentiel ?",
+  "options": [
+   "Le diagnostic clinique est toujours suffisant",
+   "Fièvre éruptive de la grossesse versus rubéole",
+   "Herpangine versus infection herpétique",
+   "Exanthème de Boston versus rubéole",
+   "Infections pléiomorphes"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Diagnostic virologique souvent nécessaire.",
+   "Diagnostic différentiel avec la rubéole.",
+   "Piège diagnostique classique.",
+   "Fièvre éruptive : diagnostic différentiel.",
+   "Tableaux variés."
+  ]
+ },
+ {
+  "q": "Concernant la physiopathologie de la poliomyélite antérieure aiguë, quelles propositions sont exactes ?",
+  "options": [
+   "Destruction de la corne antérieure",
+   "Infections asymptomatiques +++",
+   "Multiplication dans les ganglions sensitifs",
+   "Tropisme pour les neurones moteurs",
+   "Multiplication dans le tube digestif"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Lésion caractéristique.",
+   "La plupart des infections.",
+   "Multiplication digestive puis atteinte motrice.",
+   "Tropisme du poliovirus.",
+   "Site initial."
+  ]
+ },
+ {
+  "q": "À propos des formes cliniques de la polio, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Incubation 10-15 jours",
+   "Méningée (plus rarement)",
+   "Abortive : 90-95 %",
+   "Paralytique : < 1 %",
+   "Forme chronique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Durée d'incubation.",
+   "Plus rarement méningite.",
+   "Forme la plus fréquente.",
+   "Forme la plus rare.",
+   "Infection aiguë, pas chronique."
+  ]
+ },
+ {
+  "q": "Au sujet de l'évolution de la polio paralytique, quelles propositions sont exactes ?",
+  "options": [
+   "Amyotrophie",
+   "Restitution ad integrum constante",
+   "Boiterie",
+   "Partiellement régressive",
+   "Séquelle fonctionnelles importantes"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Amyotrophie d'un membre.",
+   "Séquelle fréquentes.",
+   "Boiterie séquellaire.",
+   "Évolution partiellement régressive.",
+   "Séquelle importantes."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant les paralysies de la polio ?",
+  "options": [
+   "Asymétriques",
+   "Spastiques",
+   "Brutales",
+   "Flasques",
+   "Variables en importance"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Asymétrie caractéristique.",
+   "Les paralysies sont flasques.",
+   "Installation brutale.",
+   "Paralysies flasques.",
+   "Importance variable."
+  ]
+ },
+ {
+  "q": "Concernant les prodromes de la polio, quelles propositions sont exactes ?",
+  "options": [
+   "Paralysie d'emblée",
+   "Douleurs musculaires",
+   "Fièvre",
+   "Infection rhino-pharyngée",
+   "Troubles sensitifs"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "La paralysie suit les prodromes.",
+   "Prodrome.",
+   "Prodrome.",
+   "Prodrome.",
+   "Prodrome."
+  ]
+ },
+ {
+  "q": "À propos du pronostic vital dans la polio, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Atteinte des muscles respiratoires",
+   "Peut engager le pronostic vital",
+   "Jamais engagé",
+   "Uniquement digestif",
+   "Surveillance respiratoire nécessaire"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Atteinte possible.",
+   "Pronostic vital engagé.",
+   "Il peut être engagé.",
+   "Le risque est respiratoire.",
+   "Conséquence de l'atteinte respiratoire."
+  ]
+ },
+ {
+  "q": "Au sujet du genre Hepatovirus, quelles propositions sont exactes ?",
+  "options": [
+   "Caractères proches des entérovirus",
+   "VHA",
+   "Poliovirus",
+   "Famille Picornaviridae",
+   "Faible homologie génétique avec les entérovirus"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Mêmes caractères virologiques.",
+   "Virus de l'hépatite A.",
+   "Le poliovirus est du genre Entérovirus.",
+   "Famille d'appartenance.",
+   "Précision du cours."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes à propos des Parechovirus ?",
+  "options": [
+   "Genre des Picornaviridae",
+   "Virus enveloppés",
+   "Pathogènes pour l'homme",
+   "Responsables de la poliomyélite",
+   "Du genre Entérovirus"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Un des 9 genres.",
+   "Les Picornaviridae sont des virus nus.",
+   "Un des 6 genres pathogènes.",
+   "La polio est due au poliovirus.",
+   "Genre distinct : Parechovirus."
+  ]
+ },
+ {
+  "q": "Concernant les Kobuvirus et les Cosavirus, quelles propositions sont exactes ?",
+  "options": [
+   "Virus à ADN",
+   "Genres des Picornaviridae",
+   "Du genre Entérovirus",
+   "Pathogènes pour l'homme",
+   "Responsables des méningites à entérovirus"
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Les Picornaviridae sont des virus à ARN.",
+   "Genres de la famille.",
+   "Genres distincts.",
+   "Parmi les 6 genres pathogènes.",
+   "Les méningites sont dues aux entérovirus."
+  ]
+ },
+ {
+  "q": "À propos des Cardiovirus, lesquelles des propositions sont exactes ?",
+  "options": [
+   "Virus enveloppés",
+   "Genre des Picornaviridae",
+   "Responsables des myocardites à coxsackievirus",
+   "Pathogènes pour l'homme",
+   "Du genre Hepatovirus"
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Virus nus.",
+   "Un des 9 genres.",
+   "Les coxsackievirus sont du genre Entérovirus.",
+   "Un des 6 genres pathogènes.",
+   "Genre distinct : Cardiovirus."
+  ]
+ },
+ {
+  "q": "Au sujet de la résistance des virus nus, quelles propositions sont exactes ?",
+  "options": [
+   "Entérovirus : résistants aux détergents",
+   "Entérovirus : résistants à l'éther",
+   "La capside icosaédrique protège le génome",
+   "Virus enveloppés : fragiles",
+   "Tous les virus nus sont sensibles aux ph acides"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Très résistants.",
+   "Résistance à l'éther.",
+   "Rôle protecteur de la capside.",
+   "Les virus enveloppés sont fragiles en milieu extérieur.",
+   "Les entérovirus résistent aux ph acides."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant la transmission féco-orale ?",
+  "options": [
+   "Aliments contaminés",
+   "Voie aérienne exclusive",
+   "Eau contaminée",
+   "Mains sales",
+   "Péril fécal"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Transmission indirecte.",
+   "La voie féco-orale est la voie principale.",
+   "Transmission indirecte.",
+   "Transmission directe.",
+   "Maladies du péril fécal."
+  ]
+ },
+ {
+  "q": "Concernant l'hygiène universelle, quelles propositions sont exactes ?",
+  "options": [
+   "Lavage des mains",
+   "Prévention non spécifique des entérovirus",
+   "Remplace la vaccination antipoliomyélitique",
+   "Prévient la transmission nosocomiale",
+   "Désinfection"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Mesure essentielle.",
+   "Respect des règles d'hygiène universelle.",
+   "La vaccination reste indispensable.",
+   "Liée au non-respect de ces règles.",
+   "Désinfection."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes résument correctement le cours sur les Picornaviridae ?",
+  "options": [
+   "Diagnostic : culture, RT-PCR ciblant la région 5' non codante",
+   "Parmi les plus petits virus pathogènes",
+   "Polio : éradication en cours, déclaration obligatoire",
+   "Entérovirus : infections pléiomorphes",
+   "Vaccin Sabin en primo-vaccination systématique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Techniques de diagnostic direct.",
+   "Pico = petit.",
+   "Maladie éradicable.",
+   "Tableaux variés.",
+   "La routine utilise le vaccin injectable."
+  ]
+ }
+]

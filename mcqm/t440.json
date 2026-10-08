@@ -1,0 +1,4589 @@
+[
+ {
+  "q": "Concernant la définition du genre Mycobacterium, lesquelles sont exactes ?",
+  "options": [
+   "Il appartient à l'ordre des Actinomycétales, famille des Mycobacteriaceae, genre unique Mycobacterium",
+   "La définition du genre repose sur l'acido-alcoolo-résistance des bacilles",
+   "La paroi est riche en acides mycoliques (acides gras ramifiés)",
+   "Le contenu en GC de l'ADN génomique est de 61 à 71 %, sauf M. leprae (54 à 57 %)",
+   "La présence d'un plasmide de virulence définit le genre"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ordre des Actinomycétales, famille des Mycobacteriaceae, genre unique Mycobacterium.",
+   "Vrai : l'acido-alcoolo-résistance est le critère définissant du genre.",
+   "Vrai : les acides mycoliques pariétaux sont analysés pour définir le genre.",
+   "Vrai : GC% 61-71 %, M. leprae fait exception (54-57 %).",
+   "Faux : aucun plasmide n'a été mis en évidence chez M. tuberculosis."
+  ]
+ },
+ {
+  "q": "Concernant la paroi des mycobactéries, lesquelles sont exactes ?",
+  "options": [
+   "Chez M. tuberculosis, les lipides représentent 20 à 45 % de l'ensemble de la bactérie",
+   "La paroi est riche à 60 % en acides mycoliques",
+   "Elle est peu perméable aux substances hydrophiles, ce qui explique l'acido-alcoolo-résistance",
+   "Elle comporte un peptidoglycane épais à acides téichoïques comme les cocci à Gram positif",
+   "Les constituants protéiniques sont le support de l'activité tuberculinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : lipides 20 à 45 % de l'ensemble de la bactérie.",
+   "Vrai : paroi riche à 60 % en acides mycoliques.",
+   "Vrai : cette imperméabilité explique l'AAR et la résistance aux antiseptiques.",
+   "Faux : la paroi mycobactérienne est lipidique à acides mycoliques, sans acides téichoïques.",
+   "Vrai : les protéines pariétales supportent l'activité tuberculinique."
+  ]
+ },
+ {
+  "q": "Concernant la morphologie des mycobactéries, lesquelles sont exactes ?",
+  "options": [
+   "Bacilles fins, incurvés, de 1 à 10 µm de long sur 0,2 à 0,6 µm de large, à extrémités arrondies",
+   "Bactéries immobiles, non sporulées, non capsulées",
+   "Mal colorées par le Gram, considérées comme à Gram positif",
+   "Groupées en amas, cordes et torsades",
+   "Cocci en chaînettes mobiles grâce à des flagelles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacilles fins incurvés 1-10 µm / 0,2-0,6 µm, extrémités arrondies.",
+   "Vrai : immobiles, non sporulés, non capsulés.",
+   "Vrai : mal colorés par le Gram, rangés parmi les Gram positifs.",
+   "Vrai : isolés ou groupés en amas, cordes et torsades.",
+   "Faux : ce sont des bacilles immobiles, non des cocci flagellés."
+  ]
+ },
+ {
+  "q": "Concernant la coloration de Ziehl-Neelsen, lesquelles sont exactes ?",
+  "options": [
+   "Coloration par la fuchsine phéniquée à chaud",
+   "Décoloration par l'acide-alcool",
+   "Recoloration par le bleu de méthylène",
+   "Elle met en évidence les BAAR (bacilles acido-alcoolo-résistants)",
+   "Lecture au microscope à fluorescence en moins de 2 minutes sans immersion"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : fuchsine phéniquée à chaud.",
+   "Vrai : décoloration par l'acide-alcool, étape clé de l'AAR.",
+   "Vrai : recoloration par le bleu de méthylène.",
+   "Vrai : les BAAR restent colorés en rouge sur fond bleu.",
+   "Faux : cela décrit la coloration à l'auramine, pas le Ziehl-Neelsen."
+  ]
+ },
+ {
+  "q": "Concernant la coloration à l'auramine, lesquelles sont exactes ?",
+  "options": [
+   "C'est une coloration fluorescente",
+   "Lecture sans immersion, à l'objectif 25 ou 40x",
+   "Lecture en moins de 5 minutes",
+   "Elle utilise la fuchsine phéniquée à chaud",
+   "Elle met en évidence des BAAR fluorescents"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : coloration fluorescente des mycobactéries.",
+   "Vrai : pas d'immersion, objectif 25 ou 40x.",
+   "Vrai : lecture rapide < 5 minutes.",
+   "Faux : la fuchsine phéniquée à chaud est le colorant du Ziehl-Neelsen.",
+   "Vrai : les BAAR apparaissent fluorescents."
+  ]
+ },
+ {
+  "q": "Selon le tableau d'interprétation OMS de l'examen microscopique (sans centrifugation, x1000), lesquelles sont exactes ?",
+  "options": [
+   "Moins de 1 BAAR / 100 champs : examen négatif",
+   "1 à 9 BAAR / 100 champs : 1+, résultat suspect",
+   "10 à 99 BAAR / 100 champs : 2+",
+   "1 à 9 BAAR / champ : 3+ ; 10 à 99 / champ : 4+ ; > 100 / champ : 5+",
+   "1 BAAR / champ : examen négatif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : < 1 / 100 champs = négatif.",
+   "Vrai : 1-9 / 100 champs = 1+ suspect.",
+   "Vrai : 10-99 / 100 champs = 2+.",
+   "Vrai : 1-9/champ = 3+, 10-99/champ = 4+, > 100/champ = 5+.",
+   "Faux : 1 BAAR/champ correspond à 3+, un examen positif."
+  ]
+ },
+ {
+  "q": "Concernant les performances de l'examen microscopique direct, lesquelles sont exactes ?",
+  "options": [
+   "C'est une technique rapide",
+   "Un examen positif (≥ 10⁴ bacilles/ml) prouve la contagiosité et impose l'isolement du patient",
+   "Il est peu sensible : négatif dans 50 % des tuberculoses pulmonaires et plus pour les autres localisations",
+   "Il est peu spécifique : il visualise des BAAR, soit un diagnostic de genre mycobactérien et de forte présomption de tuberculose",
+   "Un examen direct négatif exclut la tuberculose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : technique rapide (10-15 min au ZN).",
+   "Vrai : ED+ = contagiosité, isolement du patient.",
+   "Vrai : seuil ≥ 10⁴ bacilles/ml, 50 % des TB pulmonaires sont ED-.",
+   "Vrai : visualise des BAAR = genre mycobactérien, forte présomption seulement.",
+   "Faux : un ED négatif n'exclut pas la tuberculose."
+  ]
+ },
+ {
+  "q": "Concernant la signification d'un examen direct positif, lesquelles sont exactes ?",
+  "options": [
+   "Le seuil de positivité est d'environ 10⁴ bacilles/ml",
+   "Un résultat +++ traduit la gravité de la pathologie",
+   "Il justifie de démarrer le traitement antituberculeux",
+   "Il distingue M. tuberculosis des mycobactéries atypiques",
+   "C'est un diagnostic de certitude de tuberculose"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ED+ si ≥ 10⁴ bacilles/ml.",
+   "Vrai : l'abondance des BAAR a une valeur pronostique.",
+   "Vrai : un ED positif permet de démarrer le traitement.",
+   "Faux : l'ED ne donne qu'un diagnostic de genre mycobactérien.",
+   "Faux : c'est une forte présomption, la certitude vient de la culture."
+  ]
+ },
+ {
+  "q": "Concernant l'historique de la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Au début du XIXe siècle, Laennec individualise la tuberculose",
+   "En 1882, Robert Koch découvre et cultive le bacille responsable",
+   "De 1908 à 1920, Calmette et Guérin préparent le BCG",
+   "En 1944, Waksman découvre la streptomycine",
+   "En 1928, Fleming découvre l'isoniazide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Laennec individualise la tuberculose au début du XIXe.",
+   "Vrai : Koch découvre et cultive le bacille en 1882.",
+   "Vrai : Calmette et Guérin préparent le BCG entre 1908 et 1920.",
+   "Vrai : Waksman découvre la streptomycine en 1944.",
+   "Faux : l'isoniazide date de 1952 (et la rifampicine de 1967), pas de Fleming en 1928."
+  ]
+ },
+ {
+  "q": "Concernant le complexe Mycobacterium tuberculosis (bacille de Koch), lesquelles sont exactes ?",
+  "options": [
+   "Mycobacterium tuberculosis tuberculosis : espèce prédominante",
+   "Mycobacterium tuberculosis bovis ou caprae",
+   "Mycobacterium tuberculosis africanum",
+   "Mycobacterium bovis BCG (souche de Calmette et Guérin)",
+   "Mycobacterium leprae en fait partie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. tuberculosis tuberculosis, espèce prédominante.",
+   "Vrai : M. tuberculosis bovis ou caprae.",
+   "Vrai : M. tuberculosis africanum.",
+   "Vrai : M. bovis BCG, souche vaccinale de Calmette et Guérin.",
+   "Faux : M. leprae est une espèce à part, hors du complexe tuberculosis."
+  ]
+ },
+ {
+  "q": "Concernant les autres membres du complexe tuberculosis, lesquelles sont exactes ?",
+  "options": [
+   "M. canettii : ancêtre du groupe, prédomine en Afrique de l'Est, rares cas humains",
+   "M. microti : tuberculose des rongeurs, rares cas humains",
+   "M. pinnipedii : réservoir naturel chez les pinnipèdes (otaries, phoques)",
+   "M. avium fait partie du complexe tuberculosis",
+   "Le complexe tuberculosis comprend plus de 100 espèces atypiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : M. canettii, ancêtre du groupe, Afrique de l'Est.",
+   "Vrai : M. microti, tuberculose des rongeurs.",
+   "Vrai : M. pinnipedii, réservoir pinnipèdes.",
+   "Faux : M. avium est une mycobactérie atypique, hors complexe.",
+   "Faux : les > 100 espèces atypiques sont les mycobactéries non tuberculeuses."
+  ]
+ },
+ {
+  "q": "Concernant la résistance de M. tuberculosis aux agents physiques et chimiques, lesquelles sont exactes ?",
+  "options": [
+   "Il résiste au froid et à la dessiccation",
+   "Il résiste aux acides dilués, aux antiseptiques et aux détergents",
+   "Il peut survivre longtemps dans les produits contaminés comme les expectorations",
+   "Il est très sensible à la chaleur, aux UV et aux rayons X",
+   "Il résiste à l'alcool à 70 °C même après 5 minutes de contact"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : résiste au froid et à la dessiccation.",
+   "Vrai : résiste aux acides dilués, antiseptiques et détergents.",
+   "Vrai : survie prolongée dans les expectorations contaminées.",
+   "Vrai : très sensible à la chaleur, aux UV et rayons X.",
+   "Faux : il est détruit par l'alcool à 70 °C en 5 minutes."
+  ]
+ },
+ {
+  "q": "Concernant la conservation et la destruction du bacille de Koch, lesquelles sont exactes ?",
+  "options": [
+   "La lyophilisation est un moyen de conservation",
+   "Il est détruit par l'alcool à 70 °C en 5 minutes",
+   "Il résiste à la congélation",
+   "Il est détruit par une dessiccation rapide",
+   "Il est sensible aux antiseptiques usuels"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : lyophilisation = moyen de conservation.",
+   "Vrai : détruit par l'alcool à 70 °C en 5 minutes.",
+   "Vrai : résiste au froid donc à la congélation.",
+   "Faux : il résiste à la dessiccation.",
+   "Faux : il résiste aux antiseptiques et détergents."
+  ]
+ },
+ {
+  "q": "Concernant la génétique de M. tuberculosis, lesquelles sont exactes ?",
+  "options": [
+   "Aucun plasmide n'a été mis en évidence chez M. tuberculosis",
+   "La résistance aux antituberculeux survient par sélection de mutants résistants",
+   "Les séquences d'ADN répétées IS6110 sont un outil de l'étude épidémiologique de la tuberculose",
+   "La résistance est portée par des plasmides conjugatifs",
+   "Le support génétique de la résistance est identifié pour la plupart des antituberculeux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : aucun plasmide mis en évidence.",
+   "Vrai : résistance par sélection de mutants.",
+   "Vrai : IS6110, séquence répétée chromosomique, outil épidémiologique.",
+   "Faux : pas d'éléments génétiques mobiles chez M. tuberculosis.",
+   "Vrai : support génétique identifié pour la plupart des antituberculeux."
+  ]
+ },
+ {
+  "q": "Concernant l'immunité antituberculeuse, lesquelles sont exactes ?",
+  "options": [
+   "L'immunité protectrice est à médiation cellulaire",
+   "L'allergie tuberculinique est une hypersensibilité retardée aux protéines du BK",
+   "Les macrophages sont activés par les lymphocytes T",
+   "Les anticorps circulants ont un rôle protecteur majeur",
+   "Les bacilles vivants et virulents immunisent mieux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : immunité à médiation cellulaire.",
+   "Vrai : hypersensibilité retardée = allergie tuberculinique.",
+   "Vrai : macrophages activés par les lymphocytes T.",
+   "Faux : les AC circulants n'ont pas de rôle protecteur.",
+   "Vrai : les bacilles vivants et virulents immunisent mieux."
+  ]
+ },
+ {
+  "q": "Concernant les caractères culturaux des mycobactéries, lesquelles sont exactes ?",
+  "options": [
+   "M. tuberculosis est aérobie stricte, d'où sa localisation pulmonaire",
+   "Il ne pousse pas sur milieux usuels et nécessite des milieux enrichis",
+   "Son temps de division est de 20 heures",
+   "Les colonies apparaissent en 21 jours en moyenne",
+   "Il est anaérobie stricte et pousse sur gélose au sang en 48 h"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : aérobie stricte → localisation pulmonaire.",
+   "Vrai : pas de pousse sur milieux usuels, milieux enrichis requis.",
+   "Vrai : temps de division de 20 heures.",
+   "Vrai : colonies en 21 jours en moyenne.",
+   "Faux : aérobie stricte, culture lente sur milieux enrichis."
+  ]
+ },
+ {
+  "q": "Concernant les colonies de M. tuberculosis sur Löwenstein-Jensen, lesquelles sont exactes ?",
+  "options": [
+   "Teinte crème-beige",
+   "Colonies sèches à surface rugueuse",
+   "Aspect verruqueux en chou-fleur",
+   "Colonies lisses, petites, dysgoniques et non pigmentées",
+   "Le milieu de Löwenstein-Jensen est un milieu à l'œuf coagulé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : teinte crème-beige.",
+   "Vrai : sèches, surface rugueuse.",
+   "Vrai : verruqueuses en chou-fleur.",
+   "Faux : colonies lisses dysgoniques = M. bovis.",
+   "Vrai : LJ = milieu à l'œuf coagulé."
+  ]
+ },
+ {
+  "q": "Concernant M. bovis et M. africanum en culture, lesquelles sont exactes ?",
+  "options": [
+   "M. bovis : culture plus lente, colonies lisses, petites, dysgoniques et non pigmentées",
+   "M. africanum : culture plus lente (4 à 8 semaines), colonies petites, plates, de teinte mate",
+   "M. tuberculosis : colonies rough en 10 à 20 jours",
+   "M. bovis : niacine positive et nitrate positif",
+   "M. africanum : TCH R/s et PZA S"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : M. bovis, colonies lisses dysgoniques non pigmentées.",
+   "Vrai : M. africanum, 4-8 semaines, petites plates mates.",
+   "Vrai : M. tuberculosis rough en 10-20 jours.",
+   "Faux : M. bovis est niacine et nitrate négatifs.",
+   "Vrai : M. africanum TCH R/s, PZA S."
+  ]
+ },
+ {
+  "q": "D'après le tableau biochimique du cours, concernant la différenciation des espèces, lesquelles sont exactes ?",
+  "options": [
+   "M. tuberculosis : niacine positif, nitrate positif, TCH R, PZA S",
+   "M. bovis : niacine négatif, nitrate négatif, TCH S, PZA R",
+   "La synthèse d'acide nicotinique (niacine) est spécifique de M. tuberculosis",
+   "M. tuberculosis : catalase positive, nitrates positifs",
+   "M. bovis est sensible au pyrazinamide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. tuberculosis niacine+, nitrate+, TCH R, PZA S.",
+   "Vrai : M. bovis niacine-, nitrate-, TCH S, PZA R.",
+   "Vrai : la niacine est spécifique de M. tuberculosis.",
+   "Vrai : catalase positive, nitrate positif.",
+   "Faux : M. bovis a une résistance naturelle au pyrazinamide."
+  ]
+ },
+ {
+  "q": "Concernant la décontamination et les milieux de culture, lesquelles sont exactes ?",
+  "options": [
+   "Décontamination par la soude ou l'acide, auxquels le BK est moins sensible que la flore associée",
+   "Milieux solides enrichis : Löwenstein-Jensen (œuf) et Coletsos (pyruvate de sodium)",
+   "Temps de détection moyen sur milieu solide : 22 jours (13 à 45 jours)",
+   "Milieux liquides automatisés : BACTEC MGIT 960 et MB/Bact Alert 3D",
+   "La culture sur milieu solide détecte en moyenne en 12 jours"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : soude/acide, le BK y est moins sensible que la flore.",
+   "Vrai : LJ à l'œuf, Coletsos au pyruvate de sodium.",
+   "Vrai : moyenne 22 jours (13-45 j) sur solide.",
+   "Vrai : BACTEC MGIT 960, MB/Bact Alert 3D.",
+   "Faux : 12 jours est la moyenne des milieux liquides, pas des solides."
+  ]
+ },
+ {
+  "q": "Concernant les milieux de culture liquides, lesquelles sont exactes ?",
+  "options": [
+   "Temps de détection moyen de 12 jours (4 à 37 jours), < 7 jours si l'examen direct est positif",
+   "Ils permettent la culture des prélèvements et la détermination de la sensibilité aux antibiotiques",
+   "Ils sont plus rapides que les milieux solides",
+   "Ils sont inutilisables pour l'antibiogramme",
+   "La détection se fait par fluorescence : consommation d'O2 ou production de CO2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : moyenne 12 jours (4-37 j), < 7 j si ED+.",
+   "Vrai : culture + étude de la sensibilité aux ATB.",
+   "Vrai : plus rapides que les solides (22 jours).",
+   "Faux : le MGIT rapide sert justement à l'antibiogramme.",
+   "Vrai : détection par fluorescence (O2 consommé ou CO2 produit)."
+  ]
+ },
+ {
+  "q": "Concernant l'identification des mycobactéries, lesquelles sont exactes ?",
+  "options": [
+   "Identification phénotypique : délai de croissance, aspect des colonies, test de chromogénicité",
+   "Tests biochimiques classiques (catalase, nitrates, niacine) : méthode lente et fastidieuse",
+   "Identification moléculaire : sondes nucléiques spécifiques du groupe tuberculeux (ADNr 16S)",
+   "Amplification et séquençage d'un gène (ADNr 16S, gyrB, hsp65)",
+   "La seule coloration de Gram suffit à l'identification d'espèce"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : délai, aspect, chromogénicité = critères phénotypiques.",
+   "Vrai : catalase, nitrates, niacine : lent et fastidieux.",
+   "Vrai : sondes spécifiques du groupe tuberculeux (16S).",
+   "Vrai : séquençage ADNr 16S, gyrB, hsp65.",
+   "Faux : le Gram colore mal les mycobactéries et n'identifie pas l'espèce."
+  ]
+ },
+ {
+  "q": "Concernant le typage moléculaire de M. tuberculosis, lesquelles sont exactes ?",
+  "options": [
+   "Il permet de différencier les réinfections des récidives",
+   "Il identifie les cas de transmission nosocomiale (enquête autour d'un cas)",
+   "Il surveille les contaminations par l'intermédiaire des fibroscopes et au laboratoire",
+   "IS6110 est un outil de l'étude épidémiologique de la tuberculose",
+   "Il permet de choisir le traitement antibiotique probabiliste"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : différencie réinfections et récidives.",
+   "Vrai : identifie les transmissions nosocomiales.",
+   "Vrai : surveillance des contaminations (fibroscopes, laboratoire).",
+   "Vrai : IS6110, séquence répétée, outil épidémiologique.",
+   "Faux : le typage est épidémiologique, pas un choix thérapeutique."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements respiratoires pour le diagnostic de tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Expectorations : le matin à jeun, après rinçage de la bouche, dans un flacon stérile à large ouverture",
+   "Les crachats doivent être répétés si possible 3 jours de suite",
+   "Tubage gastrique : le matin à jeun, patient alité depuis la veille",
+   "Aspiration bronchique et lavage broncho-alvéolaire possibles",
+   "Un seul crachat salivaire suffit au diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : expectorations du matin à jeun, flacon stérile large.",
+   "Vrai : répéter 3 jours de suite.",
+   "Vrai : tubage gastrique matinal, patient alité.",
+   "Vrai : aspiration bronchique, LBA.",
+   "Faux : rejeter le prélèvement si salivaire, répéter 3 jours."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements non respiratoires, lesquelles sont exactes ?",
+  "options": [
+   "Urines : 50 ml des urines de 24 h ou urines totales du matin, répéter 3 jours de suite",
+   "LCR : 3 à 4 tubes (cytologie, biochimie, culot pour bactériologie et biologie moléculaire)",
+   "Biopsies (ganglions, os) : broyage aseptique en eau distillée stérile, sans décontamination",
+   "Pus et biopsies : pas de décontamination nécessaire",
+   "Le prélèvement sur écouvillon est recommandé pour la tuberculose pulmonaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : urines 50 ml/24 h ou totales du matin, 3 jours.",
+   "Vrai : LCR 3-4 tubes, culot pour bactério et biologie moléculaire.",
+   "Vrai : biopsie en eau distillée stérile, broyage aseptique.",
+   "Vrai : pas de décontamination pour pus et biopsies.",
+   "Faux : le prélèvement sur écouvillon est à éviter ou limiter."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements à éviter ou à limiter, lesquelles sont exactes ?",
+  "options": [
+   "Les selles sont à éviter, sauf chez le patient VIH positif",
+   "Le prélèvement sur écouvillon est à éviter",
+   "Les hémocultures ont peu d'indications",
+   "Le sang et la moelle osseuse se conservent à 37 °C ou 22 °C, et non à +4 °C",
+   "Le tubage gastrique est contre-indiqué chez l'enfant"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : selles à éviter sauf chez le VIH+.",
+   "Vrai : écouvillon à éviter ou limiter.",
+   "Vrai : hémocultures peu d'indications.",
+   "Vrai : sang/moelle à 37 °C ou 22 °C.",
+   "Faux : le tubage gastrique est un prélèvement adapté chez l'enfant."
+  ]
+ },
+ {
+  "q": "Concernant le transport des prélèvements et la sécurité au laboratoire, lesquelles sont exactes ?",
+  "options": [
+   "Flacons stériles à fermeture étanche, correctement étiquetés",
+   "Acheminement le plus rapide possible au laboratoire",
+   "Si le traitement est différé : conservation à +4 °C (sauf sang et moelle : 37 °C ou 22 °C)",
+   "Laboratoire de niveau de sécurité 2-3 avec poste de sécurité microbiologique",
+   "Le prélèvement peut être manipulé sans protection particulière"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : flacons stériles étanches et étiquetés.",
+   "Vrai : acheminement rapide.",
+   "Vrai : +4 °C si différé, sauf sang/moelle.",
+   "Vrai : laboratoire P2-P3, poste de sécurité microbiologique.",
+   "Faux : gants, lunettes, masques FFP2, blouses exigés."
+  ]
+ },
+ {
+  "q": "Concernant le réservoir et la transmission de M. tuberculosis (bacille de Koch), lesquelles sont exactes ?",
+  "options": [
+   "C'est un pathogène spécifique strict de l'homme",
+   "Transmission interhumaine directe par voie aérienne",
+   "Les lésions pulmonaires cavitaires riches en bacilles sont la source de contamination",
+   "La contamination par les mains, les aliments ou les objets souillés est exceptionnelle",
+   "La transmission se fait par les moustiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pathogène spécifique strict de l'homme.",
+   "Vrai : transmission interhumaine directe aérienne.",
+   "Vrai : lésions cavitaires riches en bacilles.",
+   "Vrai : contamination manu-portée ou alimentaire exceptionnelle.",
+   "Faux : pas de transmission vectorielle."
+  ]
+ },
+ {
+  "q": "Concernant Mycobacterium bovis, lesquelles sont exactes ?",
+  "options": [
+   "Son réservoir est animal : c'est une zoonose",
+   "Il cause la tuberculose pulmonaire des bovins et des mammites tuberculeuses avec contamination du lait",
+   "La contamination humaine se fait par ingestion de lait cru non pasteurisé",
+   "La voie aérienne au contact des animaux est rare",
+   "Son réservoir est strictement humain"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réservoir animal, zoonose.",
+   "Vrai : TB pulmonaire bovine, mammite et lait contaminé.",
+   "Vrai : ingestion de lait cru non pasteurisé.",
+   "Vrai : voie aérienne au contact des animaux rare.",
+   "Faux : le réservoir est animal."
+  ]
+ },
+ {
+  "q": "Concernant Mycobacterium africanum, lesquelles sont exactes ?",
+  "options": [
+   "C'est un variant de M. tuberculosis en Afrique noire (20 à 80 % des tuberculoses dans ces pays)",
+   "Son réservoir est l'homme",
+   "Contamination interhumaine par voie aérienne",
+   "Culture plus lente : 4 à 8 semaines",
+   "Il se transmet par le lait de chèvre"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : variant ouest-africain, 20-80 % des TB locales.",
+   "Vrai : réservoir humain.",
+   "Vrai : transmission aérienne interhumaine.",
+   "Vrai : culture 4-8 semaines.",
+   "Faux : pas de transmission lactée décrite."
+  ]
+ },
+ {
+  "q": "Concernant les facteurs de risque de la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Immunodéprimés : contamination et réactivation de bacilles quiescents",
+   "Enfants non vaccinés par le BCG et personnes âgées",
+   "Dénutris, bas niveau socio-économique, promiscuité, manque d'hygiène, confinement",
+   "Professions exposées : personnel de santé, éleveurs, vétérinaires",
+   "Il existe une immunité naturelle protectrice chez l'adulte sain"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : immunodéprimés, réactivation de bacilles quiescents.",
+   "Vrai : enfants non vaccinés, personnes âgées.",
+   "Vrai : dénutrition, promiscuité, confinement.",
+   "Vrai : personnel de santé, éleveurs, vétérinaires.",
+   "Faux : l'immunité naturelle est absente."
+  ]
+ },
+ {
+  "q": "Concernant la physiopathologie de la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "M. tuberculosis est émis dans les gouttelettes de Pflügge, inhalé jusqu'à l'alvéole pulmonaire",
+   "Les bacilles sont phagocytés par les macrophages et s'y multiplient",
+   "Le substratum anatomique est le granulome et surtout la caséification",
+   "M. tuberculosis ne produit pas de toxine",
+   "La multiplication est exclusivement extracellulaire dans le sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : gouttelettes de Pflügge inhalées jusqu'à l'alvéole.",
+   "Vrai : phagocytose par les macrophages, multiplication intracellulaire.",
+   "Vrai : granulome et caséification.",
+   "Vrai : pas de toxine produite.",
+   "Faux : multiplication intramacrophagique."
+  ]
+ },
+ {
+  "q": "Concernant la primo-infection tuberculeuse, lesquelles sont exactes ?",
+  "options": [
+   "Petit tubercule : cellules géantes, couronne de lymphocytes, nécrose caséeuse centrale, en 3 à 6 semaines",
+   "Si la multiplication est limitée : primo-infection latente avec hypersensibilité tuberculinique, sujet infecté non malade",
+   "Si la multiplication est importante : envahissement ganglionnaire et essaimage lymphatique et sanguin",
+   "Évolution favorable le plus souvent : encapsulation et autostérilisation spontanée",
+   "La primo-infection est toujours symptomatique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : tubercule à cellules géantes, couronne lymphocytaire, caséum, 3-6 semaines.",
+   "Vrai : primo-infection latente, sujet infecté non malade.",
+   "Vrai : primo-infection patente avec essaimage.",
+   "Vrai : le plus souvent encapsulation et autostérilisation.",
+   "Faux : la primo-infection est souvent asymptomatique."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution vers la tuberculose maladie, lesquelles sont exactes ?",
+  "options": [
+   "Évolution défavorable (10 %) : ramollissement du caséum, caverne et pullulation bacillaire",
+   "La maladie résulte de la multiplication des bacilles de la primo-infection, immédiatement ou après latence (réinfection endogène)",
+   "Rarement par de nouveaux bacilles inhalés (réinfection exogène)",
+   "Évolution favorable le plus souvent : encapsulation du foyer",
+   "L'encapsulation du foyer est toujours suivie de dissémination"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 10 % d'évolution défavorable vers la caverne.",
+   "Vrai : réinfection endogène après latence.",
+   "Vrai : réinfection exogène rare.",
+   "Vrai : encapsulation et autostérilisation le plus souvent.",
+   "Faux : l'encapsulation conduit le plus souvent à la guérison."
+  ]
+ },
+ {
+  "q": "Concernant les localisations de la tuberculose maladie, lesquelles sont exactes ?",
+  "options": [
+   "Localisations pulmonaires : environ 90 % des cas, les plus dangereuses car contagieuses",
+   "Localisations extra-pulmonaires : pauvres en bacilles mais invalidantes (ostéo-arthrite) ou gravissimes (méningite)",
+   "Tuberculose disséminée (miliaire) chez l'immunodéprimé",
+   "Chez le VIH+ : tuberculose souvent généralisée avec 50 % de localisations multiples",
+   "La tuberculose est exclusivement pulmonaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 90 % pulmonaires, les plus dangereuses.",
+   "Vrai : extra-pulmonaires pauvres en bacilles, invalidantes ou gravissimes.",
+   "Vrai : miliaire chez l'immunodéprimé.",
+   "Vrai : VIH+ = formes généralisées, 50 % multiples.",
+   "Faux : 25 % des cas sont extra-pulmonaires."
+  ]
+ },
+ {
+  "q": "Concernant les circonstances de diagnostic de la primo-infection, lesquelles sont exactes ?",
+  "options": [
+   "La notion de contage est un argument majeur",
+   "Elle peut être symptomatique ou asymptomatique",
+   "La radiographie pulmonaire fait partie du bilan",
+   "L'IDR à la tuberculine montre un virage",
+   "La culture du LCR est l'examen de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : notion de contage +++.",
+   "Vrai : symptomatique ou asymptomatique.",
+   "Vrai : radio pulmonaire.",
+   "Vrai : virage de l'IDR.",
+   "Faux : la culture du LCR concerne la méningite, pas la primo-infection."
+  ]
+ },
+ {
+  "q": "Concernant l'infection tuberculeuse latente, lesquelles sont exactes ?",
+  "options": [
+   "Elle est sans expression clinique",
+   "Antécédent de primo-infection ou de tuberculose maladie non traitée",
+   "Radiographie normale, ganglion calcifié ou image séquellaire des sommets",
+   "L'IDR à la tuberculine est un élément du diagnostic",
+   "L'examen direct des crachats est positif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sans expression clinique.",
+   "Vrai : antécédent de PIT ou TB non traitée.",
+   "Vrai : radio normale ou séquellaire.",
+   "Vrai : IDR à la tuberculine.",
+   "Faux : le sujet latent n'est pas bacillifère, ED négatif."
+  ]
+ },
+ {
+  "q": "Concernant la tuberculose pulmonaire maladie, lesquelles sont exactes ?",
+  "options": [
+   "La pneumonie tuberculeuse représente 75 % des cas",
+   "Asthénie, anorexie, altération de l'état général",
+   "Toux et crachats purulents parfois hémoptoïques",
+   "Radiographie : lésions très évocatrices (infiltrats des apex, cavernes)",
+   "Début brutal avec frissons et point de côté comme la pneumococcie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 75 % des cas.",
+   "Vrai : AEG.",
+   "Vrai : toux, crachats purulents parfois hémoptoïques.",
+   "Vrai : infiltrats apicaux, cavernes.",
+   "Faux : début progressif, pas brutal."
+  ]
+ },
+ {
+  "q": "Concernant les localisations extra-pulmonaires de la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Ganglions, os (mal de Pott), foie, rein, cerveau",
+   "La méningite tuberculeuse est une forme gravissime",
+   "La tuberculose cutanée est une localisation possible",
+   "La cystite tuberculeuse est une localisation possible",
+   "La méningite tuberculeuse est de bon pronostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ganglions, os, foie, rein, cerveau.",
+   "Vrai : méningite gravissime.",
+   "Vrai : TB cutanée.",
+   "Vrai : cystite tuberculeuse.",
+   "Faux : la méningite tuberculeuse est gravissime."
+  ]
+ },
+ {
+  "q": "Concernant la miliaire tuberculeuse, lesquelles sont exactes ?",
+  "options": [
+   "Altération de l'état général avec atteinte multiorgane",
+   "Opacités réticulo-nodulaires diffuses à la radiographie",
+   "L'IDR est souvent négative",
+   "Elle survient préférentiellement chez l'immunodéprimé",
+   "C'est une forme localisée à un seul lobe pulmonaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : AEG, atteinte multiorgane.",
+   "Vrai : opacités réticulo-nodulaires diffuses.",
+   "Vrai : IDR souvent négative.",
+   "Vrai : immunodéprimé.",
+   "Faux : dissémination diffuse, pas localisée."
+  ]
+ },
+ {
+  "q": "Concernant la tuberculose chez le patient VIH+, lesquelles sont exactes ?",
+  "options": [
+   "La tuberculose de réactivation est précoce",
+   "Le passage à la tuberculose maladie est plus fréquent",
+   "La transmission nosocomiale est possible",
+   "Plusieurs épisodes de tuberculose à bacilles différents sont possibles",
+   "Le VIH protège de la réactivation tuberculeuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réactivation précoce.",
+   "Vrai : passage plus fréquent à la maladie.",
+   "Vrai : transmission nosocomiale.",
+   "Vrai : plusieurs épisodes à bacilles différents.",
+   "Faux : le VIH favorise la réactivation."
+  ]
+ },
+ {
+  "q": "Concernant l'IDR à la tuberculine, lesquelles sont exactes ?",
+  "options": [
+   "Lecture après 48 à 72 heures",
+   "Diamètre ≥ 10 mm chez le sujet immunocompétent",
+   "Diamètre ≥ 5 mm chez le patient VIH+",
+   "Elle peut être phlycténulaire",
+   "Une IDR positive affirme à elle seule une tuberculose maladie évolutive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : lecture à 48-72 h.",
+   "Vrai : seuil ≥ 10 mm.",
+   "Vrai : seuil ≥ 5 mm chez le VIH+.",
+   "Vrai : parfois phlycténulaire.",
+   "Faux : elle signe l'infection, pas la maladie évolutive."
+  ]
+ },
+ {
+  "q": "Concernant les tests de détection de l'interféron-gamma (QuantiFERON), lesquelles sont exactes ?",
+  "options": [
+   "Dosage de l'IFN-γ sécrété par les lymphocytes stimulés par des antigènes spécifiques de M. tuberculosis",
+   "Test réalisé sur sang total",
+   "Techniques ELISA (QuantiFERON-TB Gold) et ELISpot (T-SPOT.TB)",
+   "Spécificité améliorée par rapport au BCG",
+   "Il permet de distinguer l'infection latente de la tuberculose maladie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : dosage de l'IFN-γ après stimulation.",
+   "Vrai : réalisé sur sang total.",
+   "Vrai : ELISA QuantiFERON-TB Gold, ELISpot T-SPOT.TB.",
+   "Vrai : spécificité améliorée / BCG.",
+   "Faux : ne distingue pas infection latente et maladie."
+  ]
+ },
+ {
+  "q": "Selon les recommandations HAS 2006, les tests sanguins IGRA sont indiqués dans lesquelles de ces situations ?",
+  "options": [
+   "Enquête autour d'un cas de tuberculose",
+   "Embauche des professionnels exposés (comme l'IDR)",
+   "Avant un traitement par anti-TNF",
+   "Diagnostic des tuberculoses extrapulmonaires",
+   "Dépistage systématique de la population générale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : enquête autour d'un cas.",
+   "Vrai : embauche des professionnels exposés.",
+   "Vrai : avant anti-TNF.",
+   "Vrai : diagnostic des TB extrapulmonaires.",
+   "Faux : pas de dépistage systématique en population générale."
+  ]
+ },
+ {
+  "q": "Concernant le sérodiagnostic de la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Il n'existe pas actuellement de sérodiagnostic fiable de la tuberculose",
+   "Les polysaccharides induisent des anticorps circulants sans rôle protecteur",
+   "Les anticorps sont de médiocres outils diagnostiques",
+   "L'immunité protectrice est à médiation cellulaire",
+   "La sérologie est l'examen de référence du diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas de sérodiagnostic fiable.",
+   "Vrai : AC anti-polysaccharides sans rôle protecteur.",
+   "Vrai : médiocres outils diagnostiques.",
+   "Vrai : immunité à médiation cellulaire.",
+   "Faux : la référence est la mise en évidence du BK (culture)."
+  ]
+ },
+ {
+  "q": "Concernant les performances des tests d'amplification génique, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont plus sensibles que l'examen microscopique",
+   "Prélèvements respiratoires : sensibilité 95 % si ED+, 72 % si ED-",
+   "Spécificité > 95 % sur prélèvements respiratoires et 98 % sur extra-respiratoires",
+   "Prélèvements extra-respiratoires : sensibilité inférieure à 50 %",
+   "Ils remplacent la culture pour la réalisation de l'antibiogramme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : plus sensibles que l'ED.",
+   "Vrai : 95 % si M+, 72 % si M-.",
+   "Vrai : spécificité > 95 % et 98 %.",
+   "Vrai : < 50 % sur extra-respiratoires.",
+   "Faux : la culture reste nécessaire pour l'antibiogramme."
+  ]
+ },
+ {
+  "q": "Concernant les indications de l'amplification génique dans la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Prélèvements pulmonaires à examen microscopique positif",
+   "Identification de l'espèce : tuberculose pulmonaire active ou mycobactériose",
+   "Pas d'indication pour les tuberculoses extrapulmonaires à examen direct négatif, notamment méningées",
+   "Pas d'indication pour les primo-infections, tuberculoses latentes et séquelles",
+   "Indication systématique devant toute adénopathie cervicale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : formes pulmonaires à ED+.",
+   "Vrai : TB active versus mycobactériose.",
+   "Vrai : pas d'indication si ED-, interprétation prudente.",
+   "Vrai : pas d'indication PIT, latence, séquelles.",
+   "Faux : pas d'indication systématique."
+  ]
+ },
+ {
+  "q": "Concernant le principe du test Xpert MTB/RIF, lesquelles sont exactes ?",
+  "options": [
+   "PCR en temps réel",
+   "Test unitaire, sécurisé, automatisé, facile à utiliser et rapide",
+   "Détection des mycobactéries du complexe tuberculosis",
+   "Détection de la résistance à la rifampicine (gène rpoB), synonyme de multirésistance",
+   "Détection de la résistance à l'isoniazide via le gène katG"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : PCR temps réel.",
+   "Vrai : unitaire, sécurisé, automatisé, rapide.",
+   "Vrai : détection du complexe tuberculosis.",
+   "Vrai : résistance RIF (rpoB) = marqueur de multirésistance.",
+   "Faux : le Xpert MTB/RIF ne détecte pas la résistance à l'INH."
+  ]
+ },
+ {
+  "q": "Concernant les performances du Xpert MTB/RIF, lesquelles sont exactes ?",
+  "options": [
+   "Très bonne spécificité",
+   "Sensibilité variable sur les échantillons pulmonaires selon le résultat de l'examen direct",
+   "Sensibilité variable sur les échantillons extrapulmonaires selon la localisation",
+   "C'est un test rapide avec réponse en quelques heures",
+   "Sensibilité de 100 % sur les prélèvements à examen direct négatif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : très bonne spécificité.",
+   "Vrai : sensibilité variable selon l'ED.",
+   "Vrai : sensibilité variable selon la localisation.",
+   "Vrai : test rapide (réponse en ~2 h).",
+   "Faux : la sensibilité est moindre si l'ED est négatif."
+  ]
+ },
+ {
+  "q": "Concernant la proportion de mutants résistants chez les souches sauvages, lesquelles sont exactes ?",
+  "options": [
+   "Isoniazide : 1 mutant pour 10⁵ bacilles",
+   "Rifampicine : 1 mutant pour 10⁸ bacilles",
+   "Dans une caverne à 10⁸ bacilles : 100 à 1000 bacilles résistants à l'isoniazide et 1 à la rifampicine",
+   "Double mutant INH+RIF : 1/10¹³, probabilité très faible",
+   "La résistance à la rifampicine est plus fréquente que celle à l'isoniazide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : INH 1/10⁵.",
+   "Vrai : RIF 1/10⁸.",
+   "Vrai : caverne 10⁸ = 100-1000 INH-R, 1 RIF-R.",
+   "Vrai : 1/10⁵ x 1/10⁸ = 1/10¹³.",
+   "Faux : la résistance à l'INH est plus fréquente."
+  ]
+ },
+ {
+  "q": "Concernant le mécanisme de la résistance du bacille de Koch aux antituberculeux, lesquelles sont exactes ?",
+  "options": [
+   "Résistance par sélection de mutants résistants",
+   "Absence d'éléments génétiques mobiles chez M. tuberculosis",
+   "Accumulation séquentielle de mutations conduisant aux phénotypes MDR/XDR",
+   "Acquisition de plasmides de résistance par conjugaison",
+   "Support génétique de la résistance identifié pour la plupart des antituberculeux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : sélection de mutants résistants.",
+   "Vrai : pas d'éléments génétiques mobiles.",
+   "Vrai : accumulation séquentielle de mutations.",
+   "Faux : aucun plasmide chez M. tuberculosis.",
+   "Vrai : support génétique identifié pour la plupart des ATB."
+  ]
+ },
+ {
+  "q": "Concernant les gènes impliqués dans la résistance aux antituberculeux, lesquelles sont exactes ?",
+  "options": [
+   "Rifampicine : gène rpoB, impliqué dans plus de 90 % des résistances",
+   "Isoniazide : gènes katG et inhA",
+   "Une mutation du gène rpoB est un marqueur de multirésistance",
+   "La monorésistance à la rifampicine est exceptionnelle",
+   "La résistance au pyrazinamide est liée au gène rpoB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : rpoB > 90 % des résistances à la RIF.",
+   "Vrai : katG, inhA pour l'INH.",
+   "Vrai : rpoB = marqueur de multirésistance.",
+   "Vrai : monorésistance à la RIF exceptionnelle.",
+   "Faux : rpoB concerne la rifampicine, pas le PZA."
+  ]
+ },
+ {
+  "q": "Concernant les définitions de la résistance du bacille tuberculeux, lesquelles sont exactes ?",
+  "options": [
+   "Multirésistance (MDR) : résistance à la rifampicine et à l'isoniazide au moins, les 2 anti-BK les plus efficaces",
+   "Ultrarésistance (XDR) : MDR + 1 fluoroquinolone et kanamycine ou amikacine ou capréomycine",
+   "Résistance primaire (initiale) : résistance chez les nouveaux cas jamais traités",
+   "Résistance secondaire (acquise) : cas traités antérieurement pendant au moins 1 mois",
+   "MDR signifie résistance à un seul antituberculeux majeur"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : MDR = RIF + INH au moins.",
+   "Vrai : XDR = MDR + FQ + aminoside/capréomycine.",
+   "Vrai : primaire = nouveaux cas.",
+   "Vrai : secondaire = traitement antérieur ≥ 1 mois.",
+   "Faux : MDR = au moins RIF + INH."
+  ]
+ },
+ {
+  "q": "Concernant l'étude de la sensibilité aux antibacillaires, lesquelles sont exactes ?",
+  "options": [
+   "Antibiogramme par la technique des proportions : pourcentage de bacilles résistants à l'antibiotique étudié",
+   "Milieu solide : méthode lente ; milieu liquide (MGIT) : méthode rapide",
+   "Méthode moléculaire : recherche de gènes et de mutations de résistance",
+   "La culture permet le diagnostic de certitude, l'identification et l'antibiogramme",
+   "L'antibiogramme se réalise par diffusion en gélose avec lecture à 24 h"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : technique des proportions.",
+   "Vrai : solide lent, liquide (MGIT) rapide.",
+   "Vrai : recherche de gènes/mutations.",
+   "Vrai : culture = certitude + identification + antibiogramme.",
+   "Faux : pas de diffusion en gélose à 24 h pour le BK."
+  ]
+ },
+ {
+  "q": "Devant quels éléments faut-il penser à une tuberculose multirésistante (TBMDR) ?",
+  "options": [
+   "Origine : zone à haut risque de tuberculose et de MTBDR",
+   "Contamination nosocomiale, au laboratoire, ou entourage d'un patient MDR",
+   "Échec du traitement de première ligne ou rechute",
+   "Interruption de traitement, cas chronique, culture positive sous traitement après plus de 4 mois",
+   "Primo-infection chez un enfant vacciné par le BCG"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : zone à haut risque.",
+   "Vrai : contage nosocomial/laboratoire/entourage MDR.",
+   "Vrai : échec ou rechute.",
+   "Vrai : interruption, chronicité, culture+ après 4 mois.",
+   "Faux : la PIT de l'enfant vacciné n'évoque pas la MDR."
+  ]
+ },
+ {
+  "q": "Concernant les facteurs d'amplification de la résistance, lesquelles sont exactes ?",
+  "options": [
+   "Prescription inappropriée : monothérapie, erreur diagnostique",
+   "Mauvaise adhésion thérapeutique",
+   "Malabsorptions et interactions médicamenteuses",
+   "Médicaments génériques éventuellement inactifs",
+   "L'association d'au moins 2 antituberculeux favorise l'émergence de résistances"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : monothérapie, erreur diagnostique.",
+   "Vrai : mauvaise adhésion.",
+   "Vrai : malabsorption, interactions.",
+   "Vrai : génériques inactifs possibles.",
+   "Faux : l'association d'ATB prévient la sélection de mutants."
+  ]
+ },
+ {
+  "q": "Concernant le terrain VIH positif et la résistance, lesquelles sont exactes ?",
+  "options": [
+   "Le terrain VIH+ est un facteur amplifiant les possibilités de mutation",
+   "Augmentation de l'incidence de la tuberculose",
+   "Diminution de l'adhérence : nombre de pilules, toxicité, séparation des lieux de soins",
+   "Diminution des concentrations d'antibacillaires : vomissements, malabsorption",
+   "Le VIH diminue le risque d'émergence de résistance"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : VIH+ amplifie les mutations.",
+   "Vrai : incidence accrue.",
+   "Vrai : adhérence diminuée.",
+   "Vrai : concentrations diminuées.",
+   "Faux : le VIH favorise l'émergence de souches multirésistantes."
+  ]
+ },
+ {
+  "q": "Concernant le traitement standard de la tuberculose sensible, lesquelles sont exactes ?",
+  "options": [
+   "Phase initiale de 2 mois : rifampicine + isoniazide + pyrazinamide + éthambutol",
+   "Phase d'entretien de 4 mois : rifampicine + isoniazide",
+   "Durée totale minimale de 6 mois",
+   "La rifampicine et le pyrazinamide sont actifs sur les BK intracellulaires « dormants »",
+   "Monothérapie par isoniazide pendant 6 mois"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 2 mois R+H+Z+E.",
+   "Vrai : 4 mois R+H.",
+   "Vrai : minimum 6 mois.",
+   "Vrai : RIF et PZA actifs sur BK dormants.",
+   "Faux : la monothérapie est proscrite."
+  ]
+ },
+ {
+  "q": "Concernant les particularités du traitement antituberculeux, lesquelles sont exactes ?",
+  "options": [
+   "Mycobacterium bovis (incluant le BCG) : résistance naturelle au pyrazinamide",
+   "Le traitement obéit à un programme de santé publique (CDST)",
+   "Les médicaments sont utilisés depuis plus de 40 ans",
+   "Stratégie DOTS : dépistage et traitement précoce des malades",
+   "Le traitement de la tuberculose sensible dure 2 mois au total"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. bovis naturellement résistant au PZA.",
+   "Vrai : programme de santé publique CDST.",
+   "Vrai : molécules utilisées depuis > 40 ans.",
+   "Vrai : DOTS = dépistage et traitement précoce.",
+   "Faux : durée minimale de 6 mois."
+  ]
+ },
+ {
+  "q": "Concernant le BCG, lesquelles sont exactes ?",
+  "options": [
+   "Souche atténuée de Mycobacterium bovis (Calmette et Guérin)",
+   "Protection de 80 % contre les formes disséminées",
+   "Protection de 50 % contre les formes pulmonaires",
+   "Inscrit au programme élargi de vaccination ; pas d'intérêt chez l'adulte",
+   "Il protège également contre les mycobactéries non tuberculeuses"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : souche atténuée de M. bovis.",
+   "Vrai : 80 % contre formes disséminées.",
+   "Vrai : 50 % contre formes pulmonaires.",
+   "Vrai : PEV, pas d'intérêt chez l'adulte.",
+   "Faux : le BCG ne protège pas des non tuberculeuses."
+  ]
+ },
+ {
+  "q": "Concernant le BCG et l'immunité, lesquelles sont exactes ?",
+  "options": [
+   "Le BCG peut donner des réactions croisées avec l'IDR à la tuberculine",
+   "Le QuantiFERON a une spécificité améliorée par rapport au BCG",
+   "Les bacilles vivants et virulents immunisent mieux",
+   "L'état de forte résistance est lié à l'activation des macrophages par les lymphocytes T après prise de bacilles vivants atténués",
+   "Le BCG est une souche virulente de M. tuberculosis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réactions croisées IDR/BCG.",
+   "Vrai : spécificité IGRA améliorée / BCG.",
+   "Vrai : bacilles vivants immunisent mieux.",
+   "Vrai : activation des macrophages par les LT.",
+   "Faux : souche atténuée de M. bovis."
+  ]
+ },
+ {
+  "q": "Concernant la prévention de la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Maladie à déclaration obligatoire",
+   "Dépistage et traitement précoce des malades",
+   "Isolement des malades bacillifères (formes contagieuses)",
+   "Enquête autour du cas",
+   "La vaccination par le BCG suffit à elle seule à éradiquer la tuberculose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : déclaration obligatoire.",
+   "Vrai : dépistage et traitement précoce.",
+   "Vrai : isolement des bacillifères.",
+   "Vrai : enquête autour du cas.",
+   "Faux : protection partielle, ne suffit pas à éradiquer."
+  ]
+ },
+ {
+  "q": "Concernant l'épidémiologie mondiale de la tuberculose (données 2019 du cours), lesquelles sont exactes ?",
+  "options": [
+   "10 millions de personnes ont contracté la tuberculose en 2019",
+   "1,4 million de décès, dont 208 000 co-infectés par le VIH",
+   "Première cause de décès due à un agent infectieux unique",
+   "95 % des cas dans les pays en voie de développement",
+   "La tuberculose a été éradiquée dans les pays développés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 10 millions de cas en 2019.",
+   "Vrai : 1,4 million de décès dont 208 000 VIH+.",
+   "Vrai : 1re cause de décès par agent infectieux unique.",
+   "Vrai : 95 % dans les pays en voie de développement.",
+   "Faux : la TB touche tous les pays."
+  ]
+ },
+ {
+  "q": "Concernant la tuberculose au Maroc (données du cours), lesquelles sont exactes ?",
+  "options": [
+   "30 000 cas par an, chiffre stable",
+   "Incidence de 87 pour 100 000 habitants",
+   "Taux de mortalité de 9,3 pour 100 000 habitants",
+   "Co-infection VIH : 8 %",
+   "Incidence inférieure à 10 pour 100 000 habitants"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 30 000 cas/an, stable.",
+   "Vrai : incidence 87/100 000.",
+   "Vrai : mortalité 9,3/100 000.",
+   "Vrai : co-infection VIH 8 %.",
+   "Faux : incidence de 87/100 000."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic de certitude de la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Il repose sur la mise en évidence de M. tuberculosis dans les prélèvements pathologiques",
+   "La culture permet le diagnostic de certitude",
+   "L'examen direct seul suffit au diagnostic de certitude",
+   "La culture permet aussi l'identification et l'antibiogramme",
+   "L'amplification génique donne un diagnostic avant les résultats de la culture"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : mise en évidence de M. tuberculosis.",
+   "Vrai : la culture = diagnostic de certitude.",
+   "Faux : l'ED seul ne donne qu'une forte présomption.",
+   "Vrai : identification et antibiogramme.",
+   "Vrai : diagnostic avant la culture."
+  ]
+ },
+ {
+  "q": "Concernant les mycobactéries atypiques (non tuberculeuses), lesquelles sont exactes ?",
+  "options": [
+   "Plus de 100 espèces reconnues (hybridation ADN/ADN)",
+   "Structure presque identique à M. tuberculosis, conférant le caractère acido-alcoolo-résistant",
+   "Infections chroniques, groupes émergents grâce à la biologie moléculaire",
+   "Terrains immunodéprimés : sida, transplantés",
+   "Ce sont des virus à ADN"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : > 100 espèces.",
+   "Vrai : même structure, caractère AAR.",
+   "Vrai : infections chroniques émergentes.",
+   "Vrai : sida, transplantés.",
+   "Faux : ce sont des bactéries."
+  ]
+ },
+ {
+  "q": "Concernant la classification de Runyon des mycobactéries atypiques, lesquelles sont exactes ?",
+  "options": [
+   "Critères : croissance lente ou rapide ; colonies pigmentées ou non pigmentées",
+   "Croissance lente non chromogène : M. avium, M. intracellulare",
+   "Croissance lente photochromogène : M. kansasii, M. marinum",
+   "Croissance lente scotochromogène : M. xenopi, M. scrofulaceum",
+   "Croissance rapide non chromogène : M. tuberculosis, M. bovis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : critères de Runyon.",
+   "Vrai : M. avium, M. intracellulare.",
+   "Vrai : M. kansasii, M. marinum.",
+   "Vrai : M. xenopi, M. scrofulaceum.",
+   "Faux : croissance rapide non chromogène = M. fortuitum, M. abscessus."
+  ]
+ },
+ {
+  "q": "Concernant l'épidémiologie des mycobactéries atypiques, lesquelles sont exactes ?",
+  "options": [
+   "Ubiquistes de l'environnement, réservoir hydrique (eau du robinet)",
+   "Certaines sont parasites des animaux (M. avium, M. marinum)",
+   "D'autres sont saprophytes (M. gordonae, M. chelonae, M. flavescens)",
+   "Habituellement isolées en tant que contaminants",
+   "Transmission interhumaine par voie aérienne comme la tuberculose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ubiquistes, réservoir hydrique.",
+   "Vrai : parasites animaux.",
+   "Vrai : saprophytes.",
+   "Vrai : souvent contaminants.",
+   "Faux : pas de transmission interhumaine."
+  ]
+ },
+ {
+  "q": "Concernant la résistance des mycobactéries atypiques aux antiseptiques, lesquelles sont exactes ?",
+  "options": [
+   "Grande résistance aux antiseptiques comme le chlore",
+   "Résistance à la stérilisation à froid du matériel médical thermosensible",
+   "Elles peuvent contaminer certaines solutions antiseptiques et les liquides de dialyse",
+   "Elles peuvent contaminer certains réactifs de laboratoire",
+   "Elles sont sensibles à tous les antituberculeux de première ligne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : grande résistance au chlore.",
+   "Vrai : résistent à la stérilisation à froid.",
+   "Vrai : contaminent antiseptiques et dialysats.",
+   "Vrai : contaminent des réactifs de laboratoire.",
+   "Faux : nombreuses résistances naturelles aux antibiotiques."
+  ]
+ },
+ {
+  "q": "Concernant le pouvoir pathogène des mycobactéries atypiques, lesquelles sont exactes ?",
+  "options": [
+   "Elles provoquent des maladies simulant la tuberculose : les mycobactérioses",
+   "Infections communautaires ou de plus en plus souvent nosocomiales",
+   "Formes pulmonaires chroniques sur terrain à risque : pneumoconiose, emphysème, dilatation des bronches, BPCO (M. avium, M. kansasii)",
+   "Adénites chez l'enfant (M. avium, M. scrofulaceum)",
+   "Elles ne provoquent jamais d'infection chez l'homme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : mycobactérioses.",
+   "Vrai : communautaires ou nosocomiales.",
+   "Vrai : formes pulmonaires chroniques sur BPCO etc.",
+   "Vrai : adénites de l'enfant.",
+   "Faux : toutes peuvent se multiplier chez l'homme."
+  ]
+ },
+ {
+  "q": "Concernant les formes extra-pulmonaires des mycobactérioses, lesquelles sont exactes ?",
+  "options": [
+   "Infections cutanées et sous-cutanées : M. fortuitum (piercing), M. haemophilum (sida)",
+   "Infections osseuses et articulaires post-traumatiques ou post-chirurgicales : M. xenopi",
+   "Formes générales disséminées chez l'immunodéprimé : M. avium, M. haemophilum",
+   "L'homme peut être colonisé au niveau des muqueuses",
+   "Les atypiques ne donnent que des formes pulmonaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. fortuitum/piercing, M. haemophilum/sida.",
+   "Vrai : M. xenopi post-traumatique.",
+   "Vrai : disséminées chez l'immunodéprimé.",
+   "Vrai : colonisation des muqueuses.",
+   "Faux : nombreuses formes extra-pulmonaires."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic bactériologique des mycobactéries atypiques, lesquelles sont exactes ?",
+  "options": [
+   "Examen direct : Ziehl-Neelsen (BAAR)",
+   "Culture sur Löwenstein-Jensen ou Coletsos, croissance variable en milieu liquide",
+   "M. haemophilum : nécessite de l'hémine (sang) pour la culture",
+   "M. fortuitum : croissance à 25-30 °C sur milieu enrichi en moins de 7 jours",
+   "Culture systématiquement positive en 48 h sur milieux usuels"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ED = ZN.",
+   "Vrai : LJ ou Coletsos.",
+   "Vrai : M. haemophilum exige de l'hémine.",
+   "Vrai : M. fortuitum 25-30 °C < 7 jours.",
+   "Faux : culture lente sur milieux enrichis."
+  ]
+ },
+ {
+  "q": "Concernant l'identification des mycobactéries atypiques, lesquelles sont exactes ?",
+  "options": [
+   "Critères biochimiques : méthode longue et complexe",
+   "Sondes ADN : M. avium-intracellulare",
+   "Amplification et séquençage de l'ADNr 16S",
+   "Détection moléculaire possible à partir des prélèvements",
+   "L'antibiogramme est parfaitement standardisé et prédictif de l'efficacité clinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : biochimie longue et complexe.",
+   "Vrai : sondes ADN M. avium-intracellulare.",
+   "Vrai : séquençage ADNr 16S.",
+   "Vrai : détection moléculaire sur prélèvements.",
+   "Faux : mal standardisé et peu prédictif."
+  ]
+ },
+ {
+  "q": "Concernant Mycobacterium marinum, lesquelles sont exactes ?",
+  "options": [
+   "Mycobactérie à croissance lente photochromogène",
+   "Parasite des animaux, réservoir hydrique",
+   "Responsable d'infections cutanées (granulome des piscines/aquariums)",
+   "Le BCG protège contre M. marinum",
+   "Il fait partie du complexe tuberculosis"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : croissance lente photochromogène.",
+   "Vrai : parasite animal, milieu hydrique.",
+   "Vrai : infections cutanées type granulome des piscines.",
+   "Faux : le BCG ne protège pas des non tuberculeuses.",
+   "Faux : mycobactérie atypique."
+  ]
+ },
+ {
+  "q": "Concernant Mycobacterium avium, lesquelles sont exactes ?",
+  "options": [
+   "Croissance lente non chromogène",
+   "Formes pulmonaires chroniques sur terrain BPCO",
+   "Adénites chez l'enfant",
+   "Formes disséminées chez le patient sidéen",
+   "Sensible au pyrazinamide en monothérapie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : croissance lente non chromogène.",
+   "Vrai : pulmonaire chronique sur BPCO.",
+   "Vrai : adénites de l'enfant.",
+   "Vrai : disséminée chez le sidéen.",
+   "Faux : résistances naturelles, pas de monothérapie."
+  ]
+ },
+ {
+  "q": "Concernant Mycobacterium kansasii, lesquelles sont exactes ?",
+  "options": [
+   "Croissance lente photochromogène",
+   "Formes pulmonaires chroniques simulant la tuberculose",
+   "Les colonies jaunissent après exposition à la lumière (photochromogénicité)",
+   "Réservoir environnemental hydrique",
+   "Il ne pousse qu'à 42 °C"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : croissance lente photochromogène.",
+   "Vrai : mycobactériose pulmonaire chronique.",
+   "Vrai : pigmentation induite par la lumière.",
+   "Vrai : ubiquiste de l'environnement hydrique.",
+   "Faux : pas d'exigence à 42 °C."
+  ]
+ },
+ {
+  "q": "Concernant le traitement et la prévention des mycobactérioses, lesquelles sont exactes ?",
+  "options": [
+   "Nombreuses résistances naturelles aux antibiotiques",
+   "Le BCG ne protège pas des mycobactéries non tuberculeuses",
+   "Importance de la désinfection du matériel médical et chirurgical",
+   "Hygiène lors des procédures à risque (tatouages, piercing, acupuncture)",
+   "Isolement respiratoire systématique des patients atteints"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : nombreuses résistances naturelles.",
+   "Vrai : BCG inefficace contre les atypiques.",
+   "Vrai : désinfection du matériel essentielle.",
+   "Vrai : hygiène tatouages/piercing/acupuncture.",
+   "Faux : pas de transmission interhumaine, pas d'isolement respiratoire."
+  ]
+ },
+ {
+  "q": "Concernant Mycobacterium leprae et la lèpre, lesquelles sont exactes ?",
+  "options": [
+   "Une seule espèce : Mycobacterium leprae",
+   "Maladie chronique connue depuis 600 ans avant J.-C. (Inde)",
+   "216 108 cas de lèpre enregistrés à l'échelle mondiale",
+   "801 cas notifiés au Maroc entre 2000 et 2017",
+   "Plusieurs espèces de mycobactéries sont responsables de la lèpre"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : une seule espèce, M. leprae.",
+   "Vrai : connue depuis 600 ans avant J.-C.",
+   "Vrai : 216 108 cas mondiaux.",
+   "Vrai : 801 cas au Maroc 2000-2017.",
+   "Faux : une seule espèce en cause."
+  ]
+ },
+ {
+  "q": "Concernant l'épidémiologie de la lèpre, lesquelles sont exactes ?",
+  "options": [
+   "Réservoir : l'homme",
+   "Transmission interhumaine difficile, par les sécrétions nasales, oro-pharyngées et les ulcères cutanés",
+   "Maladie exotique : Afrique noire, Antilles, Amérique centrale et latine, Inde, Extrême-Orient",
+   "Incubation longue : 2 à 10 ans",
+   "Transmission vectorielle par les tiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réservoir humain.",
+   "Vrai : sécrétions nasales, oro-pharyngées, ulcères.",
+   "Vrai : zones d'endémie citées.",
+   "Vrai : incubation 2-10 ans.",
+   "Faux : pas de transmission vectorielle."
+  ]
+ },
+ {
+  "q": "Concernant la clinique de la lèpre, lesquelles sont exactes ?",
+  "options": [
+   "Incubation longue (2 à 10 ans) et évolution lente progressive",
+   "Tropisme cutané et muqueux, pour les zones froides",
+   "4 formes cliniques selon la réponse immunitaire : indéterminée, tuberculoïde, lépromateuse, intermédiaire (borderline)",
+   "Lèpre tuberculoïde : bactéries +, lésions nerveuses +++",
+   "La forme tuberculoïde est la plus bacillifère (bactéries ++++)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : incubation 2-10 ans, évolution lente.",
+   "Vrai : tropisme cutanéo-muqueux, zones froides.",
+   "Vrai : 4 formes selon l'immunité.",
+   "Vrai : tuberculoïde = bactéries+, nerfs+++.",
+   "Faux : la plus bacillifère est la forme lépromateuse (++++)."
+  ]
+ },
+ {
+  "q": "Concernant la lèpre lépromateuse, lesquelles sont exactes ?",
+  "options": [
+   "Bactéries ++++ à l'examen direct",
+   "Lésions nerveuses +",
+   "Test à la lépromine (Mitsuda) négatif",
+   "C'est la forme la plus bacillifère et contagieuse",
+   "Test de Mitsuda positif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bactéries ++++, multibacillaire.",
+   "Vrai : lésions nerveuses +.",
+   "Vrai : Mitsuda négatif dans la forme L.",
+   "Vrai : forme la plus contagieuse.",
+   "Faux : Mitsuda positif = forme tuberculoïde."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic bactériologique de la lèpre, lesquelles sont exactes ?",
+  "options": [
+   "Le diagnostic est clinique ; le laboratoire met en évidence le bacille à l'examen microscopique",
+   "Prélèvements : frottis de muqueuse nasale, suc dermique (lobule de l'oreille), biopsie cutanée",
+   "Coloration de Ziehl : BAAR groupés en amas sous forme de globies",
+   "M. leprae est non cultivable",
+   "Culture sur Löwenstein-Jensen en 21 jours"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : diagnostic clinique, confirmation microscopique.",
+   "Vrai : frottis nasal, suc dermique, biopsie.",
+   "Vrai : BAAR en globies.",
+   "Vrai : non cultivable.",
+   "Faux : M. leprae ne cultive pas."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic non spécifique et moléculaire de la lèpre, lesquelles sont exactes ?",
+  "options": [
+   "Isolement chez l'animal : coussinet plantaire",
+   "Amplification génique par PCR du gène codant pour l'ARNr 16S",
+   "Test à la lépromine (Mitsuda) : IDR permettant de définir la forme de la maladie",
+   "Mitsuda positif dans la forme tuberculoïde, négatif dans la forme lépromateuse",
+   "Il existe un sérodiagnostic fiable de la lèpre"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : coussinet plantaire chez l'animal.",
+   "Vrai : PCR ARNr 16S.",
+   "Vrai : lépromine = IDR définissant la forme.",
+   "Vrai : T positif, L négatif.",
+   "Faux : pas de sérodiagnostic fiable."
+  ]
+ },
+ {
+  "q": "Concernant le traitement de la lèpre, lesquelles sont exactes ?",
+  "options": [
+   "Pas d'antibiogramme réalisable",
+   "Polychimiothérapie (PCT) : rifampicine, dapsone, clofazimine",
+   "Résistances acquises possibles, d'où l'intérêt de la PCR et du séquençage",
+   "Absence de vaccination",
+   "Monothérapie par dapsone recommandée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas d'antibiogramme.",
+   "Vrai : PCT rifampicine + dapsone + clofazimine.",
+   "Vrai : résistances acquises, PCR/séquençage utiles.",
+   "Vrai : pas de vaccination.",
+   "Faux : polychimiothérapie obligatoire."
+  ]
+ },
+ {
+  "q": "Concernant la comparaison entre tuberculose et lèpre, lesquelles sont exactes ?",
+  "options": [
+   "Les deux agents sont des bacilles acido-alcoolo-résistants",
+   "M. tuberculosis est cultivable alors que M. leprae est non cultivable",
+   "Les deux ont un réservoir principalement humain",
+   "La rifampicine est active dans les deux maladies",
+   "Les deux se diagnostiquent par hémoculture"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : deux BAAR.",
+   "Vrai : BK cultivable, M. leprae non.",
+   "Vrai : réservoir humain pour les deux.",
+   "Vrai : rifampicine dans la PCT et le traitement TB.",
+   "Faux : hémocultures peu indiquées."
+  ]
+ },
+ {
+  "q": "Un patient présente une toux chronique, un amaigrissement et une caverne apicale droite à la radiographie ; les crachats montrent des BAAR +++. Lesquelles sont exactes ?",
+  "options": [
+   "Le tableau évoque une tuberculose pulmonaire bacillifère",
+   "L'isolement respiratoire du patient s'impose",
+   "Le traitement antituberculeux peut être démarré devant l'examen direct positif",
+   "La culture sur Löwenstein-Jensen confirmera le diagnostic et permettra l'antibiogramme",
+   "Un examen direct négatif aurait exclu la tuberculose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : tableau typique de TB bacillifère.",
+   "Vrai : ED+ = contagiosité, isolement.",
+   "Vrai : ED+ justifie le traitement.",
+   "Vrai : culture = certitude + antibiogramme.",
+   "Faux : ED- n'exclut pas la TB."
+  ]
+ },
+ {
+  "q": "Un enfant contact d'un tuberculeux présente un virage de l'IDR à la tuberculine, une radiographie normale et aucun symptôme. Lesquelles sont exactes ?",
+  "options": [
+   "Il s'agit d'une primo-infection tuberculeuse",
+   "La notion de contage est un argument majeur",
+   "Le QuantiFERON peut aider au diagnostic",
+   "Il s'agit d'une tuberculose maladie contagieuse",
+   "L'enfant est bacillifère"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : virage IDR + contage = primo-infection.",
+   "Vrai : contage +++.",
+   "Vrai : IGRA utile.",
+   "Faux : asymptomatique, radio normale = pas de maladie.",
+   "Faux : la primo-infection latente n'est pas contagieuse."
+  ]
+ },
+ {
+  "q": "Devant une méningite lymphocytaire avec examen direct du LCR négatif, lesquelles sont exactes ?",
+  "options": [
+   "La sensibilité de la PCR Xpert sur LCR est variable selon la localisation",
+   "L'amplification génique n'a pas d'indication formelle si l'examen direct est négatif : interprétation prudente",
+   "La culture du culot de LCR reste indiquée",
+   "Un examen direct négatif du LCR exclut la méningite tuberculeuse",
+   "La sérologie du LCR affirme le diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sensibilité variable selon la localisation.",
+   "Vrai : pas d'indication si ED-, prudence.",
+   "Vrai : culture du culot indiquée.",
+   "Faux : l'ED du LCR est peu sensible.",
+   "Faux : pas de sérodiagnostic fiable."
+  ]
+ },
+ {
+  "q": "Un enfant de 4 ans présente une adénopathie cervicale chronique ; l'IDR est positive. Lesquelles sont exactes ?",
+  "options": [
+   "Évoquer une adénite à mycobactérie atypique (M. avium, M. scrofulaceum)",
+   "Les adénites de l'enfant sont une forme classique des mycobactérioses",
+   "L'examen direct (Ziehl-Neelsen) recherche des BAAR",
+   "La culture sur Löwenstein-Jensen est indiquée",
+   "La seule IDR positive affirme le diagnostic d'espèce"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. avium, M. scrofulaceum.",
+   "Vrai : adénites de l'enfant +++.",
+   "Vrai : ZN = BAAR.",
+   "Vrai : culture sur LJ.",
+   "Faux : l'IDR ne donne pas l'espèce."
+  ]
+ },
+ {
+  "q": "Après le nettoyage d'un aquarium, un patient développe un nodule cutané chronique. Lesquelles sont exactes ?",
+  "options": [
+   "Évoquer Mycobacterium marinum",
+   "M. marinum est une mycobactérie à croissance lente photochromogène",
+   "Le réservoir est environnemental et hydrique",
+   "Le BCG protège contre cette infection",
+   "L'examen direct peut montrer des BAAR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : granulome des piscines/aquariums.",
+   "Vrai : croissance lente photochromogène.",
+   "Vrai : réservoir hydrique.",
+   "Faux : BCG inefficace contre les atypiques.",
+   "Vrai : BAAR au ZN."
+  ]
+ },
+ {
+  "q": "Un patient VIH+ présente une diarrhée chronique et des hémocultures positives à BAAR. Lesquelles sont exactes ?",
+  "options": [
+   "Évoquer une infection disséminée à Mycobacterium avium",
+   "Les formes disséminées surviennent chez l'immunodéprimé",
+   "M. haemophilum peut aussi donner des formes disséminées",
+   "Le diagnostic repose sur la culture",
+   "Il s'agit d'une tuberculose pulmonaire classique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. avium disséminé chez le sidéen.",
+   "Vrai : immunodéprimé.",
+   "Vrai : M. haemophilum disséminé.",
+   "Vrai : culture diagnostique.",
+   "Faux : tableau de mycobactériose disséminée."
+  ]
+ },
+ {
+  "q": "Un éleveur consommant du lait cru présente fièvre et adénopathies. Lesquelles sont exactes ?",
+  "options": [
+   "Évoquer une tuberculose à Mycobacterium bovis",
+   "Contamination par ingestion de lait non pasteurisé",
+   "M. bovis est naturellement résistant au pyrazinamide",
+   "Le réservoir est animal (zoonose)",
+   "La transmission se fait par les moustiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : TB à M. bovis.",
+   "Vrai : lait cru non pasteurisé.",
+   "Vrai : résistance naturelle au PZA.",
+   "Vrai : zoonose.",
+   "Faux : pas de vecteur."
+  ]
+ },
+ {
+  "q": "Un test Xpert MTB/RIF est positif avec détection d'une résistance à la rifampicine. Lesquelles sont exactes ?",
+  "options": [
+   "La résistance à la rifampicine est un marqueur de multirésistance",
+   "Évoquer une tuberculose multirésistante (RIF + INH)",
+   "Elle est liée à des mutations du gène rpoB dans plus de 90 % des cas",
+   "Il faut adapter le traitement au plus vite",
+   "La monorésistance à la rifampicine est la règle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : synonyme de multirésistance.",
+   "Vrai : évoquer MDR.",
+   "Vrai : rpoB > 90 %.",
+   "Vrai : adaptation rapide du traitement.",
+   "Faux : monorésistance à la RIF exceptionnelle."
+  ]
+ },
+ {
+  "q": "Une culture reste positive sous traitement antituberculeux après 5 mois. Lesquelles sont exactes ?",
+  "options": [
+   "Faire évoquer une tuberculose multirésistante",
+   "Rechercher une mauvaise observance du traitement",
+   "Réaliser un antibiogramme (proportions) et une détection moléculaire des résistances",
+   "Évoquer une résistance secondaire (acquise)",
+   "Poursuivre le même traitement sans aucune modification"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : culture+ après 4 mois = penser MDR.",
+   "Vrai : vérifier l'observance.",
+   "Vrai : antibiogramme + biologie moléculaire.",
+   "Vrai : résistance acquise.",
+   "Faux : il faut réévaluer et adapter."
+  ]
+ },
+ {
+  "q": "Un patient présente des macules hypochromiques anesthésiques et un épaississement des nerfs cubitaux. Lesquelles sont exactes ?",
+  "options": [
+   "Évoquer la lèpre",
+   "Le diagnostic de la lèpre est clinique",
+   "Le frottis du suc dermique (lobule de l'oreille) recherche des BAAR en globies",
+   "M. leprae est non cultivable",
+   "La culture sur Löwenstein-Jensen confirme le diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : lésions anesthésiques = lèpre.",
+   "Vrai : diagnostic clinique.",
+   "Vrai : suc dermique, BAAR en globies.",
+   "Vrai : non cultivable.",
+   "Faux : pas de culture possible."
+  ]
+ },
+ {
+  "q": "Concernant les gouttelettes de Pflügge, lesquelles sont exactes ?",
+  "options": [
+   "Elles véhiculent M. tuberculosis émis par le malade",
+   "Elles sont inhalées jusqu'à l'alvéole pulmonaire",
+   "Elles proviennent de lésions pulmonaires cavitaires riches en bacilles",
+   "La contamination par les mains, aliments ou objets souillés est exceptionnelle",
+   "La contamination digestive est le mode principal de transmission"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : gouttelettes de Pflügge.",
+   "Vrai : inhalation alvéolaire.",
+   "Vrai : lésions cavitaires riches en bacilles.",
+   "Vrai : contamination manu-portée exceptionnelle.",
+   "Faux : la voie aérienne est le mode principal."
+  ]
+ },
+ {
+  "q": "Concernant le granulome tuberculeux, lesquelles sont exactes ?",
+  "options": [
+   "Cellules géantes avec une couronne de lymphocytes",
+   "Nécrose caséeuse centrale",
+   "Le granulome et surtout la caséification forment le substratum anatomique",
+   "Les bacilles meurent progressivement dans la primo-infection latente",
+   "Le granulome caséeux est spécifique de la tuberculose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cellules géantes, couronne lymphocytaire.",
+   "Vrai : nécrose caséeuse centrale.",
+   "Vrai : granulome + caséification.",
+   "Vrai : mort progressive des bacilles.",
+   "Faux : granulome non spécifique (sarcoïdose...)."
+  ]
+ },
+ {
+  "q": "Concernant le phénomène de Koch, lesquelles sont exactes ?",
+  "options": [
+   "C'est la base expérimentale des réactions à médiation cellulaire",
+   "État de sensibilisation : hypersensibilité retardée aux protéines du BK (allergie tuberculinique)",
+   "État de forte résistance lié à l'activation des macrophages par les lymphocytes T",
+   "L'apparition de l'allergie tuberculinique signifie que le sujet a fait sa primo-infection",
+   "C'est une réaction d'hypersensibilité immédiate"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : base expérimentale.",
+   "Vrai : hypersensibilité retardée.",
+   "Vrai : macrophages activés par les LT.",
+   "Vrai : signe la primo-infection.",
+   "Faux : hypersensibilité retardée, pas immédiate."
+  ]
+ },
+ {
+  "q": "Concernant les tests immunologiques (principe commun), lesquelles sont exactes ?",
+  "options": [
+   "Principe commun : cellules T-mémoire et interféron-gamma",
+   "L'IDR est le test in vivo",
+   "Le QuantiFERON est le test in vitro sur sang total",
+   "Techniques ELISA (QuantiFERON-TB Gold) et ELISpot (T-SPOT.TB)",
+   "Le QuantiFERON dose les anticorps anti-BK"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : T-mémoire et IFN-γ.",
+   "Vrai : IDR in vivo.",
+   "Vrai : QuantiFERON in vitro.",
+   "Vrai : ELISA et ELISpot.",
+   "Faux : dosage de l'IFN-γ, pas des anticorps."
+  ]
+ },
+ {
+  "q": "Concernant la tuberculine et les antigènes, lesquelles sont exactes ?",
+  "options": [
+   "Les constituants protéiniques du BK supportent l'activité tuberculinique",
+   "La tuberculine met en évidence l'hypersensibilité retardée",
+   "Les polysaccharides induisent des anticorps circulants sans rôle protecteur",
+   "La tuberculine est un extrait bacillaire (protéines du BK)",
+   "La positivité de l'IDR prouve une tuberculose maladie évolutive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : protéines = activité tuberculinique.",
+   "Vrai : hypersensibilité retardée.",
+   "Vrai : AC sans rôle protecteur.",
+   "Vrai : extrait bacillaire.",
+   "Faux : signe l'infection, pas la maladie."
+  ]
+ },
+ {
+  "q": "Concernant la décontamination des prélèvements avant culture, lesquelles sont exactes ?",
+  "options": [
+   "La soude ou l'acide sont utilisés, le BK y étant moins sensible que la flore associée",
+   "Elle élimine les bactéries de la flore commensale avant la culture",
+   "Les prélèvements sont concentrés avant d'être ensemencés",
+   "Le pus et les biopsies ne nécessitent pas de décontamination",
+   "La décontamination détruit également le bacille de Koch"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : soude/acide, BK moins sensible.",
+   "Vrai : élimine la flore commensale.",
+   "Vrai : décontaminés et concentrés.",
+   "Vrai : pas de décontamination pour pus/biopsies.",
+   "Faux : le BK résiste à la décontamination."
+  ]
+ },
+ {
+  "q": "Concernant les milieux de culture solides (LJ et Coletsos), lesquelles sont exactes ?",
+  "options": [
+   "Le Löwenstein-Jensen est un milieu à l'œuf coagulé",
+   "Le Coletsos est un milieu au pyruvate de sodium",
+   "Ce sont des milieux solides enrichis non automatisés",
+   "Temps de détection moyen : 22 jours (13 à 45 jours)",
+   "Ce sont des milieux usuels comme la gélose au sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : LJ = œuf coagulé.",
+   "Vrai : Coletsos = pyruvate de sodium.",
+   "Vrai : solides enrichis non automatisés.",
+   "Vrai : moyenne 22 jours.",
+   "Faux : le BK ne pousse pas sur milieux usuels."
+  ]
+ },
+ {
+  "q": "Concernant le milieu liquide MGIT, lesquelles sont exactes ?",
+  "options": [
+   "Le BACTEC MGIT 960 est un milieu liquide automatisé",
+   "Détection par fluorescence : consommation d'O2 ou production de CO2",
+   "Il permet la culture et la détermination rapide de la sensibilité aux antibiotiques",
+   "Temps de détection moyen de 12 jours, < 7 jours si l'examen direct est positif",
+   "C'est une technique classique lente sur milieu solide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : BACTEC MGIT 960 automatisé.",
+   "Vrai : fluorescence O2/CO2.",
+   "Vrai : culture + antibiogramme rapide.",
+   "Vrai : 12 jours, < 7 j si ED+.",
+   "Faux : c'est une technique rapide en milieu liquide."
+  ]
+ },
+ {
+  "q": "Concernant les sondes et le séquençage dans l'identification, lesquelles sont exactes ?",
+  "options": [
+   "Sondes nucléiques spécifiques du groupe tuberculeux (ADN ribosomal 16S)",
+   "Amplification et séquençage de l'ADNr 16S, gyrB, hsp65",
+   "Identification moléculaire avec ou sans amplification préalable",
+   "IS6110 : séquence répétée, outil de l'étude épidémiologique",
+   "Le séquençage ne s'applique qu'aux virus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sondes 16S du groupe tuberculeux.",
+   "Vrai : 16S, gyrB, hsp65.",
+   "Vrai : avec ou sans amplification.",
+   "Vrai : IS6110 outil épidémiologique.",
+   "Faux : s'applique aux bactéries."
+  ]
+ },
+ {
+  "q": "Concernant la durée et l'observance du traitement antituberculeux, lesquelles sont exactes ?",
+  "options": [
+   "Traitement standard long et complexe, d'une durée minimale de 6 mois",
+   "Médicaments utilisés depuis plus de 40 ans",
+   "La mauvaise adhésion thérapeutique favorise l'émergence de résistances",
+   "Depuis 40 ans, rien n'a été entrepris selon le cours",
+   "Un traitement de 2 mois suffit pour les formes sensibles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : minimum 6 mois.",
+   "Vrai : molécules anciennes > 40 ans.",
+   "Vrai : mauvaise adhésion = résistance.",
+   "Vrai : constat du cours.",
+   "Faux : 6 mois minimum."
+  ]
+ },
+ {
+  "q": "Concernant l'isoniazide, lesquelles sont exactes ?",
+  "options": [
+   "Découvert en 1952",
+   "Proportion de mutants résistants : 1/10⁵ chez les souches sauvages",
+   "Gènes de résistance : katG et inhA",
+   "Il fait partie de la quadrithérapie initiale",
+   "Il n'est actif que sur les BK extracellulaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : isoniazide 1952.",
+   "Vrai : 1/10⁵.",
+   "Vrai : katG, inhA.",
+   "Vrai : quadrithérapie initiale.",
+   "Faux : actif aussi en intracellulaire."
+  ]
+ },
+ {
+  "q": "Concernant la rifampicine, lesquelles sont exactes ?",
+  "options": [
+   "Découverte en 1967",
+   "Proportion de mutants résistants : 1/10⁸",
+   "Gène de résistance : rpoB",
+   "Active sur les BK intracellulaires « dormants »",
+   "La monorésistance à la rifampicine est fréquente"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : rifampicine 1967.",
+   "Vrai : 1/10⁸.",
+   "Vrai : rpoB.",
+   "Vrai : active sur BK dormants.",
+   "Faux : monorésistance exceptionnelle."
+  ]
+ },
+ {
+  "q": "Concernant le pyrazinamide, lesquelles sont exactes ?",
+  "options": [
+   "Actif sur les BK intracellulaires « dormants »",
+   "M. bovis (incluant le BCG) : résistance naturelle au pyrazinamide",
+   "Il fait partie de la phase initiale de 2 mois",
+   "Tableau du cours : M. tuberculosis PZA S, M. bovis PZA R",
+   "Il est maintenu pendant les 4 mois de la phase d'entretien"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : actif sur BK dormants.",
+   "Vrai : M. bovis naturellement résistant.",
+   "Vrai : phase initiale de 2 mois.",
+   "Vrai : TB S, bovis R.",
+   "Faux : arrêté après 2 mois."
+  ]
+ },
+ {
+  "q": "Concernant l'éthambutol, lesquelles sont exactes ?",
+  "options": [
+   "Il fait partie de la quadrithérapie initiale de 2 mois",
+   "Il n'est pas maintenu pendant la phase d'entretien",
+   "C'est un antituberculeux de première ligne",
+   "Il est utilisé en monothérapie préventive",
+   "Selon le cours, il est actif sur les BK dormants intracellulaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : quadrithérapie initiale.",
+   "Vrai : arrêté après 2 mois.",
+   "Vrai : première ligne.",
+   "Faux : jamais en monothérapie.",
+   "Faux : seuls RIF et PZA sont marqués actifs sur dormants."
+  ]
+ },
+ {
+  "q": "Concernant la streptomycine, lesquelles sont exactes ?",
+  "options": [
+   "Découverte par Waksman en 1944",
+   "C'est un aminoside",
+   "Elle est citée dans la multirésistance : RIF+INH +/- STR, PZA, EMB",
+   "Premier antibiotique antituberculeux découvert",
+   "Elle fait partie du traitement standard actuel de 6 mois"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Waksman 1944.",
+   "Vrai : aminoside.",
+   "Vrai : citée avec STR.",
+   "Vrai : premier ATB antituberculeux.",
+   "Faux : le standard actuel est R+H+Z+E puis R+H."
+  ]
+ },
+ {
+  "q": "Concernant le test au TCH (d'après le tableau du cours), lesquelles sont exactes ?",
+  "options": [
+   "M. tuberculosis : TCH R (résistant)",
+   "M. bovis : TCH S (sensible)",
+   "M. africanum : TCH R/s",
+   "Le TCH aide à différencier les espèces du complexe tuberculosis",
+   "M. tuberculosis : TCH S"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. tuberculosis TCH R.",
+   "Vrai : M. bovis TCH S.",
+   "Vrai : M. africanum TCH R/s.",
+   "Vrai : critère différentiel.",
+   "Faux : M. tuberculosis est TCH R."
+  ]
+ },
+ {
+  "q": "Concernant la niacine et la réduction des nitrates, lesquelles sont exactes ?",
+  "options": [
+   "M. tuberculosis synthétise de l'acide nicotinique (niacine), spécifique de l'espèce",
+   "M. tuberculosis : nitrate positif et catalase positive",
+   "M. bovis : niacine négatif et nitrate négatif",
+   "M. africanum : niacine +/- et nitrate +/-",
+   "La production de niacine est spécifique de M. bovis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : niacine spécifique de M. tuberculosis.",
+   "Vrai : nitrate+, catalase+.",
+   "Vrai : bovis niacine-, nitrate-.",
+   "Vrai : africanum +/-.",
+   "Faux : spécifique de M. tuberculosis."
+  ]
+ },
+ {
+  "q": "Concernant Mycobacterium xenopi, lesquelles sont exactes ?",
+  "options": [
+   "Croissance lente scotochromogène",
+   "Infections osseuses et articulaires post-traumatiques ou post-chirurgicales",
+   "Ubiquiste de l'environnement (réservoir hydrique)",
+   "Croissance rapide non chromogène",
+   "Responsable de la lèpre"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : croissance lente scotochromogène.",
+   "Vrai : os/articulations post-traumatiques.",
+   "Vrai : réservoir hydrique.",
+   "Faux : croissance lente.",
+   "Faux : la lèpre = M. leprae."
+  ]
+ },
+ {
+  "q": "Concernant Mycobacterium scrofulaceum, lesquelles sont exactes ?",
+  "options": [
+   "Croissance lente scotochromogène",
+   "Responsable d'adénites chez l'enfant",
+   "Scotochromogène : pigmenté à l'obscurité comme à la lumière",
+   "Il fait partie du complexe tuberculosis",
+   "Croissance rapide en moins de 7 jours"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : croissance lente scotochromogène.",
+   "Vrai : adénites de l'enfant.",
+   "Vrai : pigmentation indépendante de la lumière.",
+   "Faux : mycobactérie atypique.",
+   "Faux : croissance lente."
+  ]
+ },
+ {
+  "q": "Concernant Mycobacterium abscessus, lesquelles sont exactes ?",
+  "options": [
+   "Croissance rapide non chromogène",
+   "Responsable de mycobactérioses, notamment nosocomiales et post-procédures",
+   "Nombreuses résistances naturelles aux antibiotiques",
+   "Croissance lente",
+   "Il fait partie du complexe tuberculosis"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : croissance rapide non chromogène.",
+   "Vrai : mycobactérioses nosocomiales.",
+   "Vrai : résistances naturelles.",
+   "Faux : croissance rapide.",
+   "Faux : atypique."
+  ]
+ },
+ {
+  "q": "Concernant Mycobacterium fortuitum, lesquelles sont exactes ?",
+  "options": [
+   "Croissance rapide non chromogène",
+   "Croissance à 25-30 °C sur milieu enrichi en moins de 7 jours",
+   "Infections cutanées et sous-cutanées, notamment après piercing",
+   "Infections nosocomiales possibles",
+   "Mycobactérie à croissance lente (21 jours sur LJ)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : croissance rapide non chromogène.",
+   "Vrai : 25-30 °C < 7 jours.",
+   "Vrai : cutanées/sous-cutanées, piercing.",
+   "Vrai : nosocomiales.",
+   "Faux : croissance rapide."
+  ]
+ },
+ {
+  "q": "Concernant Mycobacterium haemophilum, lesquelles sont exactes ?",
+  "options": [
+   "La culture nécessite de l'hémine (sang)",
+   "Infections cutanées et sous-cutanées chez le patient sidéen",
+   "Formes disséminées chez l'immunodéprimé",
+   "Il pousse sur Löwenstein-Jensen standard sans supplément",
+   "Il fait partie du complexe tuberculosis"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : exige de l'hémine.",
+   "Vrai : cutanées chez le sidéen.",
+   "Vrai : disséminées chez l'immunodéprimé.",
+   "Faux : supplément en hémine requis.",
+   "Faux : atypique."
+  ]
+ },
+ {
+  "q": "Concernant les mycobactéries saprophytes, lesquelles sont exactes ?",
+  "options": [
+   "M. gordonae, M. chelonae, M. flavescens sont des saprophytes",
+   "Elles sont habituellement isolées en tant que contaminants",
+   "L'homme peut être colonisé au niveau des muqueuses",
+   "Ce sont des pathogènes stricts de l'homme",
+   "Elles ne sont jamais retrouvées dans l'environnement hydrique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : saprophytes cités.",
+   "Vrai : souvent contaminants.",
+   "Vrai : colonisation des muqueuses.",
+   "Faux : saprophytes environnementaux.",
+   "Faux : réservoir hydrique."
+  ]
+ },
+ {
+  "q": "Concernant les contaminations par les mycobactéries atypiques, lesquelles sont exactes ?",
+  "options": [
+   "Elles peuvent contaminer les réactifs de laboratoire",
+   "Elles peuvent contaminer les liquides de dialyse",
+   "Elles peuvent contaminer certaines solutions antiseptiques",
+   "Grande résistance au chlore",
+   "Un isolement unique affirme toujours une mycobactériose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réactifs de laboratoire.",
+   "Vrai : liquides de dialyse.",
+   "Vrai : solutions antiseptiques.",
+   "Vrai : résistance au chlore.",
+   "Faux : souvent simple contaminant."
+  ]
+ },
+ {
+  "q": "Devant des BAAR à l'examen direct, lesquelles sont exactes ?",
+  "options": [
+   "L'examen direct donne un diagnostic de genre mycobactérien",
+   "Un BAAR peut être M. tuberculosis ou une mycobactérie atypique",
+   "L'amplification génique aide à identifier l'espèce (tuberculose active ou mycobactériose)",
+   "L'examen direct distingue à lui seul M. tuberculosis de M. avium",
+   "La culture permet le diagnostic de certitude et l'identification"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : diagnostic de genre.",
+   "Vrai : BK ou atypique.",
+   "Vrai : amplification = TB ou mycobactériose.",
+   "Faux : l'ED ne distingue pas les espèces.",
+   "Vrai : culture = certitude + identification."
+  ]
+ },
+ {
+  "q": "Concernant la tuberculose urogénitale et les urines, lesquelles sont exactes ?",
+  "options": [
+   "Prélèvement : 50 ml des urines de 24 h ou urines totales du matin",
+   "Répéter le prélèvement 3 jours de suite",
+   "Exploiter 2 ml du culot de centrifugation",
+   "La cystite est une localisation extra-pulmonaire possible",
+   "Un ECBU standard suffit au diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 50 ml/24 h ou totales du matin.",
+   "Vrai : 3 jours de suite.",
+   "Vrai : 2 ml du culot.",
+   "Vrai : cystite tuberculeuse.",
+   "Faux : culture spécifique sur milieux enrichis requise."
+  ]
+ },
+ {
+  "q": "Concernant la méningite tuberculeuse et le LCR, lesquelles sont exactes ?",
+  "options": [
+   "Ponction aseptique : 3 à 4 tubes",
+   "Cytologie, biochimie, culot pour bactériologie et biologie moléculaire",
+   "La méningite est une forme gravissime",
+   "L'amplification sur LCR à examen direct négatif n'a pas d'indication formelle : interprétation prudente",
+   "L'examen direct du LCR est très sensible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 3-4 tubes.",
+   "Vrai : cyto, biochimie, culot.",
+   "Vrai : forme gravissime.",
+   "Vrai : prudence si ED-.",
+   "Faux : ED du LCR peu sensible."
+  ]
+ },
+ {
+  "q": "Concernant la miliaire et les prélèvements sanguins, lesquelles sont exactes ?",
+  "options": [
+   "Hémoculture et myéloculture indiquées dans la miliaire",
+   "Sang prélevé sur anticoagulant",
+   "La miliaire survient chez l'immunodéprimé",
+   "L'IDR est souvent négative dans la miliaire",
+   "Les hémocultures sont l'examen de première intention dans la tuberculose pulmonaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : hémoculture, myéloculture.",
+   "Vrai : sang sur anticoagulant.",
+   "Vrai : immunodéprimé.",
+   "Vrai : IDR souvent négative.",
+   "Faux : peu d'indications en TB pulmonaire."
+  ]
+ },
+ {
+  "q": "Concernant la déclaration et la santé publique, lesquelles sont exactes ?",
+  "options": [
+   "La tuberculose est une maladie à déclaration obligatoire",
+   "Stratégie DOTS : dépistage et traitement précoce des malades",
+   "Isolement des formes contagieuses (bacillifères)",
+   "Enquête autour du cas",
+   "La déclaration n'est obligatoire que pour les formes multirésistantes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : déclaration obligatoire.",
+   "Vrai : DOTS.",
+   "Vrai : isolement des bacillifères.",
+   "Vrai : enquête autour du cas.",
+   "Faux : toute tuberculose est à déclaration obligatoire."
+  ]
+ },
+ {
+  "q": "Concernant les déterminants socio-économiques de la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Facteurs de risque : promiscuité, manque d'hygiène, confinement",
+   "Dénutrition et bas niveau socio-économique",
+   "L'amélioration du niveau socio-économique fait partie de la prévention",
+   "La tuberculose touche tous les pays et toutes les tranches d'âge",
+   "La tuberculose est une maladie exclusivement des pays développés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : promiscuité, hygiène, confinement.",
+   "Vrai : dénutrition, bas niveau socio-économique.",
+   "Vrai : prévention socio-économique.",
+   "Vrai : tous pays, tous âges.",
+   "Faux : 95 % des cas dans les pays en voie de développement."
+  ]
+ },
+ {
+  "q": "Concernant l'enquête autour d'un cas de tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Le typage moléculaire identifie les transmissions nosocomiales",
+   "Les tests IGRA sont indiqués dans l'enquête autour d'un cas",
+   "La notion de contage est essentielle",
+   "L'IDR est utilisée dans l'enquête",
+   "L'enquête ne concerne que le patient lui-même"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : typage = transmissions nosocomiales.",
+   "Vrai : IGRA indiqués.",
+   "Vrai : contage +++.",
+   "Vrai : IDR.",
+   "Faux : enquête autour du cas = entourage."
+  ]
+ },
+ {
+  "q": "Concernant le dépistage avant traitement par anti-TNF, lesquelles sont exactes ?",
+  "options": [
+   "Les tests sanguins IGRA sont recommandés avant anti-TNF",
+   "L'IDR est également utilisée",
+   "Le but est de dépister une infection tuberculeuse latente",
+   "Les anti-TNF favorisent la réactivation de bacilles quiescents",
+   "Aucun dépistage n'est nécessaire avant anti-TNF"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IGRA avant anti-TNF (HAS 2006).",
+   "Vrai : IDR aussi.",
+   "Vrai : dépister l'infection latente.",
+   "Vrai : risque de réactivation.",
+   "Faux : dépistage obligatoire."
+  ]
+ },
+ {
+  "q": "Concernant les professionnels exposés, lesquelles sont exactes ?",
+  "options": [
+   "À l'embauche des professionnels exposés : IDR ou test sanguin",
+   "Le personnel de santé est un sujet à risque",
+   "La transmission nosocomiale de la tuberculose existe",
+   "Le laboratoire doit être de niveau de sécurité 2-3",
+   "Aucune précaution particulière n'est requise au laboratoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : dépistage à l'embauche.",
+   "Vrai : personnel de santé à risque.",
+   "Vrai : transmission nosocomiale.",
+   "Vrai : laboratoire P2-P3.",
+   "Faux : FFP2, gants, poste de sécurité requis."
+  ]
+ },
+ {
+  "q": "Concernant l'enfant non vacciné par le BCG, lesquelles sont exactes ?",
+  "options": [
+   "Les enfants non vaccinés par le BCG sont des sujets à risque",
+   "Le BCG protège à 80 % contre les formes disséminées",
+   "Le BCG protège à 50 % contre les formes pulmonaires",
+   "Le tubage gastrique est un prélèvement adapté chez l'enfant",
+   "Le BCG protège à 100 % contre toutes les formes de tuberculose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : enfants non vaccinés à risque.",
+   "Vrai : 80 % formes disséminées.",
+   "Vrai : 50 % formes pulmonaires.",
+   "Vrai : tubage gastrique chez l'enfant.",
+   "Faux : protection partielle."
+  ]
+ },
+ {
+  "q": "Concernant les sujets âgés, dénutris et les contacts, lesquelles sont exactes ?",
+  "options": [
+   "Les personnes âgées sont des sujets à risque",
+   "Les dénutris sont des sujets à risque",
+   "Un antécédent de tuberculose est un facteur de risque",
+   "Le contact avec un patient tuberculeux est un facteur de risque",
+   "L'immunité naturelle protège les sujets âgés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : personnes âgées.",
+   "Vrai : dénutris.",
+   "Vrai : antécédent de TB.",
+   "Vrai : contact tuberculeux.",
+   "Faux : immunité naturelle absente."
+  ]
+ },
+ {
+  "q": "Concernant la caverne tuberculeuse, lesquelles sont exactes ?",
+  "options": [
+   "Elle résulte du ramollissement du caséum",
+   "Elle contient environ 10⁸ bacilles",
+   "Les lésions cavitaires riches en bacilles sont la source de la contagiosité",
+   "Elle contient 100 à 1000 bacilles résistants à l'isoniazide et 1 résistant à la rifampicine",
+   "La caverne est pauvre en bacilles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ramollissement du caséum.",
+   "Vrai : 10⁸ bacilles.",
+   "Vrai : source de contagiosité.",
+   "Vrai : 100-1000 INH-R, 1 RIF-R.",
+   "Faux : riche en bacilles."
+  ]
+ },
+ {
+  "q": "Concernant la primo-infection latente et la primo-infection patente, lesquelles sont exactes ?",
+  "options": [
+   "Latente : sujet infecté non malade, avec hypersensibilité tuberculinique",
+   "Patente : envahissement ganglionnaire avec essaimage lymphatique et sanguin",
+   "Patente d'évolution favorable : encapsulation et autostérilisation spontanée",
+   "Patente d'évolution défavorable (10 %) : tuberculose maladie",
+   "La primo-infection latente est contagieuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : latente = infecté non malade.",
+   "Vrai : patente = essaimage.",
+   "Vrai : encapsulation le plus souvent.",
+   "Vrai : 10 % vers la maladie.",
+   "Faux : non bacillifère, non contagieuse."
+  ]
+ },
+ {
+  "q": "Concernant la réinfection tuberculeuse, lesquelles sont exactes ?",
+  "options": [
+   "Réinfection endogène : multiplication des bacilles de la primo-infection après un temps de latence",
+   "Réinfection exogène : rarement par de nouveaux bacilles inhalés",
+   "Le typage moléculaire différencie la réinfection de la récidive",
+   "Toute récidive est une réinfection exogène",
+   "La réactivation survient préférentiellement chez l'immunodéprimé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : endogène après latence.",
+   "Vrai : exogène rare.",
+   "Vrai : typage = réinfection vs récidive.",
+   "Faux : récidive souvent endogène.",
+   "Vrai : immunodéprimé = réactivation."
+  ]
+ },
+ {
+  "q": "Concernant l'ultrarésistance (XDR), lesquelles sont exactes ?",
+  "options": [
+   "XDR : tuberculose MDR (RIF+INH) + 1 fluoroquinolone",
+   "Plus kanamycine ou amikacine ou capréomycine",
+   "La biologie moléculaire recherche aussi les résistances de deuxième ligne",
+   "Réponse de la biologie moléculaire en 2 h à 48 h selon les techniques",
+   "XDR signifie résistance à la seule rifampicine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : MDR + fluoroquinolone.",
+   "Vrai : + kanamycine/amikacine/capréomycine.",
+   "Vrai : deuxième ligne recherchée.",
+   "Vrai : 2 h à 48 h.",
+   "Faux : XDR = MDR + résistances additionnelles."
+  ]
+ },
+ {
+  "q": "Concernant la détection moléculaire des résistances, lesquelles sont exactes ?",
+  "options": [
+   "Recherche la résistance aux antibacillaires de première ligne : RIF et INH",
+   "Recherche les résistances de deuxième ligne : fluoroquinolones, aminosides",
+   "Réalisable sur la culture ou directement sur le prélèvement",
+   "Le Xpert MTB/RIF détecte la résistance à la rifampicine via le gène rpoB",
+   "La détection moléculaire remplace toujours l'antibiogramme phénotypique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : RIF et INH.",
+   "Vrai : FQ, aminosides.",
+   "Vrai : culture ou prélèvement.",
+   "Vrai : rpoB.",
+   "Faux : l'antibiogramme phénotypique reste la référence."
+  ]
+ },
+ {
+  "q": "Concernant le test Xpert MTB/RIF et sa diffusion, lesquelles sont exactes ?",
+  "options": [
+   "Subvention FIND/OMS pour le secteur non lucratif",
+   "Prise en charge de 50 % de l'équipement",
+   "Prise en charge de 75 % du prix des réactifs",
+   "Test unitaire, sécurisé, automatisé, facile à utiliser",
+   "Test réservé aux pays développés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : subvention FIND/OMS.",
+   "Vrai : 50 % équipement.",
+   "Vrai : 75 % réactifs.",
+   "Vrai : unitaire, sécurisé, automatisé.",
+   "Faux : destiné aussi aux pays à ressources limitées."
+  ]
+ },
+ {
+  "q": "Concernant la comparaison entre le Ziehl-Neelsen et l'auramine, lesquelles sont exactes ?",
+  "options": [
+   "ZN : fuchsine phéniquée, microscope à immersion, lecture en 10 à 15 minutes",
+   "Auramine : coloration fluorescente, pas d'immersion, objectif 25 ou 40x, lecture < 5 minutes",
+   "Les deux techniques mettent en évidence des BAAR",
+   "La lecture à l'auramine est plus rapide qu'au Ziehl-Neelsen",
+   "Le Ziehl-Neelsen utilise un microscope à fluorescence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ZN, immersion, 10-15 min.",
+   "Vrai : auramine < 5 min.",
+   "Vrai : deux = BAAR.",
+   "Vrai : auramine plus rapide.",
+   "Faux : fluorescence = auramine."
+  ]
+ },
+ {
+  "q": "Concernant les étapes de la coloration de Ziehl-Neelsen, lesquelles sont exactes ?",
+  "options": [
+   "Fuchsine phéniquée à chaud",
+   "Décoloration par l'acide-alcool",
+   "Recoloration par le bleu de méthylène",
+   "Les BAAR restent rouges sur un fond bleu",
+   "Décoloration par l'alcool seul, sans acide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : fuchsine à chaud.",
+   "Vrai : acide-alcool.",
+   "Vrai : bleu de méthylène.",
+   "Vrai : BAAR rouges, fond bleu.",
+   "Faux : décoloration par l'acide-alcool."
+  ]
+ },
+ {
+  "q": "Concernant l'origine de l'acido-alcoolo-résistance, lesquelles sont exactes ?",
+  "options": [
+   "Paroi riche à 60 % en acides mycoliques",
+   "Paroi peu perméable aux substances hydrophiles",
+   "Résistance à la décoloration par l'acide-alcool",
+   "Lipides représentant 20 à 45 % de l'ensemble de la bactérie",
+   "Présence d'une capsule polysaccharidique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 60 % d'acides mycoliques.",
+   "Vrai : imperméable aux hydrophiles.",
+   "Vrai : résiste à la décoloration.",
+   "Vrai : lipides 20-45 %.",
+   "Faux : non capsulés."
+  ]
+ },
+ {
+  "q": "Concernant le contenu en GC de l'ADN des mycobactéries, lesquelles sont exactes ?",
+  "options": [
+   "61 à 71 % pour le genre Mycobacterium",
+   "M. leprae : 54 à 57 %",
+   "C'est un critère de définition du genre avec l'AAR et les acides mycoliques",
+   "Le GC% est identique chez toutes les espèces du genre",
+   "M. leprae a un GC% plus bas que les autres mycobactéries"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : GC% 61-71 %.",
+   "Vrai : M. leprae 54-57 %.",
+   "Vrai : critère définissant du genre.",
+   "Faux : M. leprae fait exception.",
+   "Vrai : 54-57 % < 61-71 %."
+  ]
+ },
+ {
+  "q": "Concernant la pleurésie tuberculeuse, lesquelles sont exactes ?",
+  "options": [
+   "La pleurésie est une circonstance évocatrice de tuberculose",
+   "Cytologie du liquide pleural : lymphocytes ++",
+   "L'ADA (adénosine désaminase) pleural est un argument diagnostique",
+   "L'IDR est un élément d'orientation",
+   "Le liquide pleural tuberculeux est riche en polynucléaires neutrophiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pleurésie évocatrice.",
+   "Vrai : lymphocytes ++.",
+   "Vrai : ADA pleural.",
+   "Vrai : IDR.",
+   "Faux : pleurésie lymphocytaire."
+  ]
+ },
+ {
+  "q": "Concernant le mal de Pott, lesquelles sont exactes ?",
+  "options": [
+   "C'est une tuberculose ostéo-articulaire vertébrale",
+   "Localisation extra-pulmonaire invalidante",
+   "Le prélèvement est une biopsie osseuse",
+   "L'IDR est un élément d'orientation",
+   "C'est une forme pulmonaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : TB vertébrale.",
+   "Vrai : invalidante.",
+   "Vrai : biopsie osseuse.",
+   "Vrai : IDR.",
+   "Faux : extra-pulmonaire."
+  ]
+ },
+ {
+  "q": "Concernant les expectorations dans la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Le BK peut survivre longtemps dans les expectorations contaminées",
+   "Prélèvement de choix : crachats du matin à jeun",
+   "Rejeter le prélèvement s'il est salivaire",
+   "Volume requis : 5 à 10 ml",
+   "Un crachat unique suffit toujours au diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : survie prolongée dans les expectorations.",
+   "Vrai : matin à jeun.",
+   "Vrai : rejeter si salivaire.",
+   "Vrai : 5-10 ml.",
+   "Faux : répéter 3 jours de suite."
+  ]
+ },
+ {
+  "q": "Concernant la fibroscopie bronchique dans la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Prélèvements possibles après efforts de toux, kinésithérapie ou fibroscopie bronchique",
+   "Le typage moléculaire surveille les contaminations par l'intermédiaire des fibroscopes",
+   "Aspiration bronchique et lavage broncho-alvéolaire possibles",
+   "La contamination par les fibroscopes fait l'objet d'une surveillance",
+   "La fibroscopie est inutile dans la tuberculose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : toux, kiné, fibroscopie.",
+   "Vrai : surveillance des fibroscopes.",
+   "Vrai : aspiration, LBA.",
+   "Vrai : surveillance des contaminations.",
+   "Faux : prélèvements bronchiques utiles."
+  ]
+ },
+ {
+  "q": "Concernant la conservation du bacille au laboratoire, lesquelles sont exactes ?",
+  "options": [
+   "La lyophilisation est un moyen de conservation",
+   "Transport différé : conservation à +4 °C (sauf sang et moelle)",
+   "Le BK résiste au froid",
+   "Le BK est très sensible à la chaleur",
+   "La congélation détruit le bacille de Koch"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : lyophilisation.",
+   "Vrai : +4 °C si différé.",
+   "Vrai : résiste au froid.",
+   "Vrai : sensible à la chaleur.",
+   "Faux : il résiste au froid donc à la congélation."
+  ]
+ },
+ {
+  "q": "Concernant la sensibilité du BK à la chaleur et aux UV, lesquelles sont exactes ?",
+  "options": [
+   "Très sensible à la chaleur, aux UV et aux rayons X",
+   "Détruit par l'alcool à 70 °C en 5 minutes",
+   "Résistant aux antiseptiques et aux détergents",
+   "La pasteurisation du lait prévient la transmission de M. bovis",
+   "Les UV favorisent la survie du bacille"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sensible chaleur, UV, rayons X.",
+   "Vrai : alcool 70 °C, 5 min.",
+   "Vrai : résiste antiseptiques/détergents.",
+   "Vrai : le lait cru est à risque, la pasteurisation protège.",
+   "Faux : les UV le détruisent."
+  ]
+ },
+ {
+  "q": "Concernant le détail du tableau OMS d'interprétation de l'examen microscopique, lesquelles sont exactes ?",
+  "options": [
+   "1 à 9 BAAR / 100 champs : 1+, résultat suspect",
+   "10 à 99 BAAR / 100 champs : 2+",
+   "1 à 9 BAAR / champ : 3+",
+   "10 à 99 BAAR / champ : 4+ ; plus de 100 / champ : 5+",
+   "Moins de 1 BAAR / 100 champs : positif faible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 1-9/100 champs = 1+.",
+   "Vrai : 10-99/100 champs = 2+.",
+   "Vrai : 1-9/champ = 3+.",
+   "Vrai : 4+ et 5+.",
+   "Faux : < 1/100 champs = négatif."
+  ]
+ },
+ {
+  "q": "Concernant l'examen direct positif et la contagiosité, lesquelles sont exactes ?",
+  "options": [
+   "Un examen direct positif prouve la contagiosité",
+   "L'isolement du patient s'impose si l'examen direct est positif",
+   "Un résultat ++++ traduit la gravité de la pathologie",
+   "Le démarrage du traitement est justifié par un examen direct positif",
+   "Un examen direct positif n'a aucune implication thérapeutique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prouve la contagiosité.",
+   "Vrai : isolement.",
+   "Vrai : valeur pronostique.",
+   "Vrai : démarrer le traitement.",
+   "Faux : il justifie le traitement et l'isolement."
+  ]
+ },
+ {
+  "q": "Concernant la comparaison entre examen direct et culture, lesquelles sont exactes ?",
+  "options": [
+   "La culture est plus sensible que l'examen direct",
+   "La culture permet le diagnostic de certitude de la tuberculose",
+   "La mise en culture des prélèvements positifs en biologie moléculaire est recommandée",
+   "L'amplification génique est plus sensible que l'examen microscopique",
+   "La culture est plus rapide que l'examen direct"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : plus sensible.",
+   "Vrai : diagnostic de certitude.",
+   "Vrai : cultiver les positifs en biologie moléculaire.",
+   "Vrai : amplification > ED.",
+   "Faux : l'ED est rapide, la culture lente."
+  ]
+ },
+ {
+  "q": "Un voyageur revenant d'Inde présente des lésions cutanées anesthésiques. Lesquelles sont exactes ?",
+  "options": [
+   "Évoquer la lèpre",
+   "Transmission par les sécrétions nasales et les ulcères cutanés",
+   "L'Inde est une zone d'endémie de la lèpre",
+   "Le diagnostic est clinique avec confirmation microscopique",
+   "La lèpre se transmet par l'eau contaminée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : lésions anesthésiques = lèpre.",
+   "Vrai : sécrétions nasales, ulcères.",
+   "Vrai : Inde endémique.",
+   "Vrai : clinique + microscopie.",
+   "Faux : transmission interhumaine directe."
+  ]
+ },
+ {
+  "q": "Concernant le test à la lépromine (Mitsuda), lesquelles sont exactes ?",
+  "options": [
+   "C'est une IDR à la lépromine",
+   "Il permet de définir la forme clinique de la lèpre",
+   "Positif dans la forme tuberculoïde",
+   "Négatif dans la forme lépromateuse",
+   "Positif dans la forme lépromateuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IDR à la lépromine.",
+   "Vrai : définit la forme.",
+   "Vrai : positif forme T.",
+   "Vrai : négatif forme L.",
+   "Faux : négatif dans la forme L."
+  ]
+ },
+ {
+  "q": "Concernant les globies dans la lèpre, lesquelles sont exactes ?",
+  "options": [
+   "BAAR groupés en amas sous forme de globies",
+   "Observés après coloration de Ziehl sur frottis",
+   "Caractéristiques de la lèpre lépromateuse multibacillaire",
+   "Prélèvement : suc dermique du lobule de l'oreille",
+   "Les globies sont des œufs du bacille"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : amas en globies.",
+   "Vrai : Ziehl sur frottis.",
+   "Vrai : forme L multibacillaire.",
+   "Vrai : suc dermique.",
+   "Faux : amas de bacilles."
+  ]
+ },
+ {
+  "q": "Concernant l'isolement de M. leprae chez l'animal, lesquelles sont exactes ?",
+  "options": [
+   "Isolement possible au niveau du coussinet plantaire",
+   "M. leprae est non cultivable in vitro",
+   "L'animal permet l'isolement du bacille",
+   "La culture sur Löwenstein-Jensen est possible",
+   "L'antibiogramme standard est réalisable"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : coussinet plantaire.",
+   "Vrai : non cultivable.",
+   "Vrai : isolement animal.",
+   "Faux : pas de culture.",
+   "Faux : pas d'antibiogramme."
+  ]
+ },
+ {
+  "q": "Concernant la polychimiothérapie de la lèpre, lesquelles sont exactes ?",
+  "options": [
+   "PCT : rifampicine + dapsone + clofazimine",
+   "Pas d'antibiogramme réalisable",
+   "Résistances acquises possibles",
+   "Intérêt de la PCR et du séquençage pour détecter les résistances",
+   "La dapsone est un antituberculeux de première ligne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : RIF + dapsone + clofazimine.",
+   "Vrai : pas d'antibiogramme.",
+   "Vrai : résistances acquises.",
+   "Vrai : PCR/séquençage.",
+   "Faux : la dapsone est un antilépreux."
+  ]
+ },
+ {
+  "q": "Concernant les formes débutante et intermédiaire de la lèpre, lesquelles sont exactes ?",
+  "options": [
+   "La lèpre indéterminée est la forme débutante",
+   "Il existe une lèpre intermédiaire (I) ou borderline",
+   "Les formes cliniques dépendent de la réponse immunitaire",
+   "L'incubation est de 2 à 10 ans",
+   "La lèpre guérit toujours spontanément"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : indéterminée = débutante.",
+   "Vrai : forme I/borderline.",
+   "Vrai : 4 formes selon l'immunité.",
+   "Vrai : 2-10 ans.",
+   "Faux : maladie chronique nécessitant traitement."
+  ]
+ },
+ {
+  "q": "Concernant le tropisme de M. leprae, lesquelles sont exactes ?",
+  "options": [
+   "Tropisme cutané et muqueux, pour les zones froides",
+   "Lésions nerveuses +++ dans la forme tuberculoïde",
+   "Évolution lente et progressive",
+   "Réservoir humain",
+   "Tropisme digestif prédominant"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : zones froides.",
+   "Vrai : nerfs+++ forme T.",
+   "Vrai : évolution lente.",
+   "Vrai : réservoir humain.",
+   "Faux : cutanéo-muqueux et nerveux."
+  ]
+ },
+ {
+  "q": "Concernant la lèpre au Maroc et dans le monde, lesquelles sont exactes ?",
+  "options": [
+   "801 cas notifiés au Maroc entre 2000 et 2017",
+   "Le diagnostic de la lèpre est clinique",
+   "Maladie chronique connue depuis 600 ans avant J.-C.",
+   "216 108 cas enregistrés dans le monde",
+   "La lèpre a totalement disparu du Maroc"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 801 cas 2000-2017.",
+   "Vrai : diagnostic clinique.",
+   "Vrai : 600 ans avant J.-C.",
+   "Vrai : 216 108 cas.",
+   "Faux : cas encore notifiés."
+  ]
+ },
+ {
+  "q": "Concernant Calmette et Guérin et la souche vaccinale, lesquelles sont exactes ?",
+  "options": [
+   "De 1908 à 1920, ils préparent le BCG",
+   "Le BCG est une souche atténuée de M. bovis",
+   "La souche vaccinale joue un rôle dans l'immunité antituberculeuse",
+   "Les bacilles vivants atténués activent les macrophages via les lymphocytes T",
+   "Le BCG est une souche virulente de M. tuberculosis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 1908-1920.",
+   "Vrai : M. bovis atténué.",
+   "Vrai : rôle vaccinal.",
+   "Vrai : activation macrophages par LT.",
+   "Faux : souche atténuée de M. bovis."
+  ]
+ },
+ {
+  "q": "Concernant les limites du BCG, lesquelles sont exactes ?",
+  "options": [
+   "L'immunité acquise par la vaccination est relative pour M. tuberculosis",
+   "80 % de protection contre les formes disséminées, 50 % contre les formes pulmonaires",
+   "Pas d'intérêt chez l'adulte",
+   "Le BCG ne protège pas des mycobactéries non tuberculeuses",
+   "Le BCG protège à 100 % contre la tuberculose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : immunité relative.",
+   "Vrai : 80 % disséminées, 50 % pulmonaires.",
+   "Vrai : pas d'intérêt adulte.",
+   "Vrai : inefficace contre atypiques.",
+   "Faux : protection partielle."
+  ]
+ },
+ {
+  "q": "Concernant les réactions croisées en immunologie tuberculeuse, lesquelles sont exactes ?",
+  "options": [
+   "Le BCG peut donner des réactions croisées avec l'IDR à la tuberculine",
+   "Le QuantiFERON a une spécificité améliorée par rapport au BCG",
+   "Réactions croisées possibles avec certaines mycobactéries non tuberculeuses",
+   "Les IGRA utilisent des antigènes spécifiques de M. tuberculosis",
+   "Le BCG rend tous les tests immunologiques ininterprétables"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : croisements IDR/BCG.",
+   "Vrai : spécificité améliorée.",
+   "Vrai : croisements avec atypiques.",
+   "Vrai : antigènes spécifiques.",
+   "Faux : les IGRA restent interprétables."
+  ]
+ },
+ {
+  "q": "Concernant le virage de l'IDR dans la primo-infection, lesquelles sont exactes ?",
+  "options": [
+   "Le virage de l'IDR signe la primo-infection tuberculeuse",
+   "La notion de contage est un argument majeur",
+   "La primo-infection peut être asymptomatique",
+   "La radiographie pulmonaire fait partie du bilan",
+   "Le virage de l'IDR signe une tuberculose maladie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : virage = primo-infection.",
+   "Vrai : contage +++.",
+   "Vrai : souvent asymptomatique.",
+   "Vrai : radio pulmonaire.",
+   "Faux : signe l'infection, pas la maladie."
+  ]
+ },
+ {
+  "q": "Concernant le programme de lutte antituberculeuse, lesquelles sont exactes ?",
+  "options": [
+   "Le traitement obéit à un programme de santé publique (CDST)",
+   "La tuberculose est à déclaration obligatoire",
+   "Dépistage et traitement précoce des malades (stratégie DOTS)",
+   "Durée minimale de traitement de 6 mois",
+   "Le traitement est purement individuel, sans programme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : programme CDST.",
+   "Vrai : déclaration obligatoire.",
+   "Vrai : DOTS.",
+   "Vrai : 6 mois minimum.",
+   "Faux : programme de santé publique."
+  ]
+ },
+ {
+  "q": "Concernant l'échec thérapeutique et la rechute, lesquelles sont exactes ?",
+  "options": [
+   "L'échec du traitement de première ligne fait penser à une TBMDR",
+   "La rechute fait penser à une TBMDR",
+   "Une culture positive sous traitement après plus de 4 mois fait penser à une TBMDR",
+   "L'interruption du traitement est un facteur de risque",
+   "La rechute est toujours due à une réinfection exogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : échec = penser MDR.",
+   "Vrai : rechute = penser MDR.",
+   "Vrai : culture+ après 4 mois.",
+   "Vrai : interruption = risque.",
+   "Faux : souvent réactivation endogène."
+  ]
+ },
+ {
+  "q": "Concernant la résistance primaire et la résistance secondaire, lesquelles sont exactes ?",
+  "options": [
+   "Primaire (initiale) : résistance chez les nouveaux cas jamais traités",
+   "Secondaire (acquise) : cas traités antérieurement pendant au moins 1 mois",
+   "La résistance secondaire résulte de la sélection de mutants sous traitement",
+   "La monothérapie favorise l'émergence d'une résistance acquise",
+   "La résistance primaire n'existe pas"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : primaire = nouveaux cas.",
+   "Vrai : secondaire = traitement ≥ 1 mois.",
+   "Vrai : sélection de mutants.",
+   "Vrai : monothérapie = risque.",
+   "Faux : elle existe."
+  ]
+ },
+ {
+  "q": "Concernant le gène rpoB, lesquelles sont exactes ?",
+  "options": [
+   "Gène impliqué dans la résistance à la rifampicine",
+   "Mutations retrouvées dans plus de 90 % des résistances à la rifampicine",
+   "Marqueur de multirésistance",
+   "Cible de détection du test Xpert MTB/RIF",
+   "Gène de résistance à l'isoniazide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : rpoB = résistance RIF.",
+   "Vrai : > 90 %.",
+   "Vrai : marqueur MDR.",
+   "Vrai : cible Xpert.",
+   "Faux : INH = katG, inhA."
+  ]
+ },
+ {
+  "q": "Concernant les gènes katG et inhA, lesquelles sont exactes ?",
+  "options": [
+   "Gènes impliqués dans la résistance à l'isoniazide",
+   "Fréquences de mutation : 50-95 % pour katG, 8-43 % pour inhA",
+   "La résistance à l'isoniazide est plus fréquente que celle à la rifampicine",
+   "Le support génétique de la résistance est identifié pour la plupart des antituberculeux",
+   "katG code la cible de la rifampicine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : katG, inhA = INH.",
+   "Vrai : 50-95 % et 8-43 %.",
+   "Vrai : INH > RIF.",
+   "Vrai : support génétique identifié.",
+   "Faux : RIF = rpoB."
+  ]
+ },
+ {
+  "q": "Concernant l'association d'antituberculeux, lesquelles sont exactes ?",
+  "options": [
+   "L'association d'au moins 2 antituberculeux prévient la sélection de mutants résistants",
+   "Double mutant INH+RIF : probabilité de 1/10¹³, très peu probable",
+   "La monothérapie est une prescription inappropriée",
+   "La quadrithérapie initiale associe 4 molécules pendant 2 mois",
+   "La monothérapie suffit si la souche est sensible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : association prévient la résistance.",
+   "Vrai : 1/10¹³.",
+   "Vrai : monothérapie proscrite.",
+   "Vrai : 4 molécules, 2 mois.",
+   "Faux : jamais de monothérapie."
+  ]
+ },
+ {
+  "q": "Concernant la caverne et les mutants résistants (calcul), lesquelles sont exactes ?",
+  "options": [
+   "Une caverne contient environ 10⁸ bacilles",
+   "100 à 1000 bacilles résistants à l'isoniazide (1/10⁵)",
+   "1 bacille résistant à la rifampicine (1/10⁸)",
+   "D'où la nécessité d'une association d'antibiotiques",
+   "La caverne contient environ 10³ bacilles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 10⁸ bacilles.",
+   "Vrai : 100-1000 INH-R.",
+   "Vrai : 1 RIF-R.",
+   "Vrai : justifie l'association.",
+   "Faux : 10⁸ bacilles."
+  ]
+ },
+ {
+  "q": "D'après le tableau du cours, concernant M. tuberculosis africanum, lesquelles sont exactes ?",
+  "options": [
+   "Aspect rough des colonies",
+   "Délai de culture de 30 à 60 jours",
+   "Pigment absent",
+   "Niacine +/- et nitrate +/-",
+   "TCH S et PZA R"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : rough.",
+   "Vrai : 30-60 jours.",
+   "Vrai : non pigmenté.",
+   "Vrai : +/-.",
+   "Faux : TCH R/s, PZA S."
+  ]
+ },
+ {
+  "q": "D'après le tableau du cours, concernant M. tuberculosis tuberculosis, lesquelles sont exactes ?",
+  "options": [
+   "Aspect rough, délai de 10 à 20 jours",
+   "Pigment absent",
+   "Niacine positif et nitrate positif",
+   "TCH R et PZA S",
+   "Aspect smooth et colonies pigmentées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : rough, 10-20 j.",
+   "Vrai : non pigmenté.",
+   "Vrai : niacine+, nitrate+.",
+   "Vrai : TCH R, PZA S.",
+   "Faux : rough non pigmenté."
+  ]
+ },
+ {
+  "q": "D'après le tableau du cours, concernant M. tuberculosis bovis, lesquelles sont exactes ?",
+  "options": [
+   "Aspect smooth, délai de 30 à 60 jours",
+   "Pigment absent",
+   "Niacine négatif et nitrate négatif",
+   "TCH S et PZA R",
+   "Colonies rugueuses en chou-fleur"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : smooth, 30-60 j.",
+   "Vrai : non pigmenté.",
+   "Vrai : niacine-, nitrate-.",
+   "Vrai : TCH S, PZA R.",
+   "Faux : chou-fleur = M. tuberculosis."
+  ]
+ },
+ {
+  "q": "Concernant la photochromogénicité et la scotochromogénicité, lesquelles sont exactes ?",
+  "options": [
+   "Photochromogène : colonies pigmentées après exposition à la lumière (M. kansasii, M. marinum)",
+   "Scotochromogène : colonies pigmentées à l'obscurité comme à la lumière (M. xenopi, M. scrofulaceum)",
+   "Non chromogène : colonies non pigmentées (M. avium, M. fortuitum)",
+   "Le test de chromogénicité fait partie de l'identification phénotypique",
+   "M. tuberculosis est photochromogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : photo = lumière.",
+   "Vrai : scoto = obscurité.",
+   "Vrai : non chromogène.",
+   "Vrai : critère phénotypique.",
+   "Faux : non pigmenté."
+  ]
+ },
+ {
+  "q": "Concernant le délai de croissance comme critère d'identification, lesquelles sont exactes ?",
+  "options": [
+   "Le délai de croissance est un critère d'identification phénotypique",
+   "M. fortuitum : croissance rapide en moins de 7 jours",
+   "M. tuberculosis : colonies en 21 jours en moyenne",
+   "M. africanum : culture en 4 à 8 semaines",
+   "Toutes les mycobactéries poussent en 48 heures"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : critère phénotypique.",
+   "Vrai : < 7 jours.",
+   "Vrai : 21 jours.",
+   "Vrai : 4-8 semaines.",
+   "Faux : croissance lente."
+  ]
+ },
+ {
+  "q": "Concernant le milieu de Coletsos, lesquelles sont exactes ?",
+  "options": [
+   "Milieu au pyruvate de sodium",
+   "Milieu solide enrichi non automatisé",
+   "Alternative au milieu de Löwenstein-Jensen",
+   "Milieu liquide automatisé",
+   "Utilisé pour la culture des mycobactéries"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : pyruvate de sodium.",
+   "Vrai : solide non automatisé.",
+   "Vrai : alternative au LJ.",
+   "Faux : milieu solide.",
+   "Vrai : culture des mycobactéries."
+  ]
+ },
+ {
+  "q": "Concernant la détection en milieu liquide automatisé, lesquelles sont exactes ?",
+  "options": [
+   "Détection par fluorescence : consommation d'O2",
+   "Détection par fluorescence : production de CO2",
+   "BACTEC MGIT 960",
+   "MB/Bact Alert 3D",
+   "Détection par le trouble visible du milieu à l'œil nu"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : consommation d'O2.",
+   "Vrai : production de CO2.",
+   "Vrai : MGIT 960.",
+   "Vrai : MB/Bact Alert 3D.",
+   "Faux : détection par fluorescence."
+  ]
+ },
+ {
+  "q": "Concernant les biopsies dans le diagnostic de la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Prélèvement aseptique",
+   "Biopsie placée en eau distillée stérile",
+   "Broyage aseptique au laboratoire",
+   "Pas de décontamination nécessaire",
+   "La biopsie est proscrite dans la tuberculose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : aseptique.",
+   "Vrai : eau distillée stérile.",
+   "Vrai : broyage aseptique.",
+   "Vrai : pas de décontamination.",
+   "Faux : biopsies ganglionnaires/osseuses utiles."
+  ]
+ },
+ {
+  "q": "Concernant le pus comme prélèvement, lesquelles sont exactes ?",
+  "options": [
+   "Pus recueilli sur seringue (sécurité ++)",
+   "Pas de décontamination nécessaire pour le pus",
+   "La suppuration est un prélèvement possible",
+   "L'écouvillon est le prélèvement de choix pour le pus",
+   "Les suppurations peuvent être d'origine tuberculeuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : seringue, sécurité.",
+   "Vrai : pas de décontamination.",
+   "Vrai : suppuration prélevable.",
+   "Faux : écouvillon à éviter.",
+   "Vrai : suppurations tuberculeuses."
+  ]
+ },
+ {
+  "q": "Concernant les selles comme prélèvement, lesquelles sont exactes ?",
+  "options": [
+   "À éviter, sauf chez le patient VIH positif",
+   "Chez le VIH+, les formes disséminées justifient ce prélèvement",
+   "Le tubage gastrique est préféré chez l'enfant",
+   "Les selles sont le prélèvement de première intention",
+   "La contamination digestive par le BK est possible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : éviter sauf VIH+.",
+   "Vrai : formes disséminées.",
+   "Vrai : tubage gastrique chez l'enfant.",
+   "Faux : prélèvement à éviter.",
+   "Vrai : contamination digestive possible."
+  ]
+ },
+ {
+  "q": "Concernant le sang et la moelle dans la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Les hémocultures ont peu d'indications",
+   "Indiquées dans la miliaire et les formes disséminées",
+   "Sang prélevé sur anticoagulant",
+   "Conservation à 37 °C ou 22 °C, et non à +4 °C",
+   "L'hémoculture est l'examen de référence de la tuberculose pulmonaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : peu d'indications.",
+   "Vrai : miliaire, disséminées.",
+   "Vrai : anticoagulant.",
+   "Vrai : 37 °C ou 22 °C.",
+   "Faux : l'examen de référence est l'examen des crachats."
+  ]
+ },
+ {
+  "q": "Concernant la fuchsine dans la coloration de Ziehl-Neelsen, lesquelles sont exactes ?",
+  "options": [
+   "La fuchsine phéniquée est le colorant du Ziehl-Neelsen",
+   "Coloration réalisée à chaud",
+   "Les BAAR apparaissent rouges",
+   "Le bleu de méthylène colore le fond en bleu",
+   "La fuchsine est un colorant fluorescent"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : fuchsine phéniquée.",
+   "Vrai : à chaud.",
+   "Vrai : BAAR rouges.",
+   "Vrai : fond bleu.",
+   "Faux : colorant du ZN, pas fluorescent."
+  ]
+ },
+ {
+  "q": "Concernant les formes extra-pulmonaires de la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Forme ganglionnaire",
+   "Forme osseuse : mal de Pott",
+   "Forme méningée",
+   "Forme rénale : cystite tuberculeuse",
+   "La tuberculose extra-pulmonaire est riche en bacilles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ganglions.",
+   "Vrai : mal de Pott.",
+   "Vrai : méningite.",
+   "Vrai : cystite.",
+   "Faux : pauvre en bacilles."
+  ]
+ },
+ {
+  "q": "Concernant la tuberculose urogénitale, lesquelles sont exactes ?",
+  "options": [
+   "La cystite tuberculeuse est une localisation possible",
+   "L'atteinte rénale est possible",
+   "Prélèvement : urines de 24 h ou du matin, 3 jours de suite",
+   "L'IDR est un élément d'orientation",
+   "Un ECBU standard avec culture de 24 h suffit au diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cystite.",
+   "Vrai : rein.",
+   "Vrai : urines 3 jours.",
+   "Vrai : IDR.",
+   "Faux : culture spécifique lente requise."
+  ]
+ },
+ {
+  "q": "Concernant l'hémoptysie dans la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Toux et crachats purulents parfois hémoptoïques",
+   "Signe de tuberculose pulmonaire évolutive",
+   "Les cavernes sont des lésions très évocatrices à la radiographie",
+   "L'altération de l'état général accompagne souvent le tableau",
+   "L'hémoptysie exclut la tuberculose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : crachats hémoptoïques.",
+   "Vrai : TB évolutive.",
+   "Vrai : cavernes évocatrices.",
+   "Vrai : AEG.",
+   "Faux : signe classique de TB."
+  ]
+ },
+ {
+  "q": "Concernant le tableau clinique de la pneumonie tuberculeuse, lesquelles sont exactes ?",
+  "options": [
+   "Asthénie, anorexie, altération de l'état général",
+   "Fièvre à 38 °C et sueurs",
+   "Elle représente 75 % des cas de tuberculose maladie",
+   "Toux chronique",
+   "Début brutal en quelques heures"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : AEG.",
+   "Vrai : fièvre, sueurs.",
+   "Vrai : 75 % des cas.",
+   "Vrai : toux chronique.",
+   "Faux : début progressif."
+  ]
+ },
+ {
+  "q": "Concernant les infiltrats des apex dans la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "La localisation apicale est très évocatrice",
+   "Elle est liée au caractère aérobie strict du bacille",
+   "Les cavernes apicales sont typiques",
+   "Les images séquellaires des sommets s'observent dans l'infection latente",
+   "La tuberculose touche préférentiellement les bases pulmonaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : apex évocateurs.",
+   "Vrai : aérobie strict.",
+   "Vrai : cavernes apicales.",
+   "Vrai : séquelles des sommets.",
+   "Faux : prédilection apicale."
+  ]
+ },
+ {
+  "q": "Concernant le caractère aérobie strict du BK, lesquelles sont exactes ?",
+  "options": [
+   "M. tuberculosis est aérobie stricte",
+   "Ce caractère explique la localisation pulmonaire",
+   "Il ne pousse pas sur milieux usuels",
+   "La détection en milieu liquide mesure la consommation d'O2",
+   "Le BK est anaérobie strict"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : aérobie stricte.",
+   "Vrai : localisation pulmonaire.",
+   "Vrai : milieux enrichis requis.",
+   "Vrai : consommation d'O2.",
+   "Faux : aérobie stricte."
+  ]
+ },
+ {
+  "q": "Concernant la tuberculose comme problème de santé mondial (OMS 1993), lesquelles sont exactes ?",
+  "options": [
+   "En 1993, l'OMS déclare la tuberculose problème de santé mondial urgent",
+   "La tuberculose peut être prévenue et guérie",
+   "Première cause de décès due à un agent infectieux unique",
+   "206 030 cas de tuberculose multirésistante détectés en 2019 (+10 % par rapport à 2018)",
+   "La tuberculose a été éradiquée en 1993"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : OMS 1993.",
+   "Vrai : prévenue et guérie.",
+   "Vrai : 1re cause de décès.",
+   "Vrai : 206 030 cas MDR en 2019.",
+   "Faux : problème toujours actuel."
+  ]
+ },
+ {
+  "q": "Concernant la menace de la tuberculose multirésistante, lesquelles sont exactes ?",
+  "options": [
+   "C'est une menace pour la sécurité sanitaire",
+   "Son coût économique est considérable",
+   "95 % des cas de tuberculose sont dans les pays en voie de développement",
+   "Au Maroc : 30 000 cas par an, incidence de 87/100 000",
+   "La tuberculose ne concerne que les pays riches"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : menace sanitaire.",
+   "Vrai : coût considérable.",
+   "Vrai : 95 % pays en développement.",
+   "Vrai : Maroc 30 000 cas/an.",
+   "Faux : surtout pays en développement."
+  ]
+ },
+ {
+  "q": "Concernant les deux urgences absolues du cours (conclusion), lesquelles sont exactes ?",
+  "options": [
+   "Identifier rapidement les sujets bacillifères",
+   "Interrompre la chaîne de transmission",
+   "Dépister rapidement les bacilles résistants pour adapter le traitement",
+   "Prévenir la contamination de la communauté soignante",
+   "Le diagnostic rapide n'a aucun intérêt en pratique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : identifier les bacillifères.",
+   "Vrai : interrompre la transmission.",
+   "Vrai : dépister les résistants.",
+   "Vrai : protéger les soignants.",
+   "Faux : le diagnostic rapide est crucial."
+  ]
+ },
+ {
+  "q": "Un patient VIH+ sous antituberculeux présente vomissements et malabsorption. Lesquelles sont exactes ?",
+  "options": [
+   "Diminution des concentrations d'antibacillaires",
+   "Facteur d'émergence de résistance",
+   "Le terrain VIH+ amplifie les possibilités de mutation",
+   "Diminution de l'adhérence (nombre de pilules, toxicité)",
+   "Les vomissements améliorent l'efficacité du traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : concentrations diminuées.",
+   "Vrai : émergence de résistance.",
+   "Vrai : VIH+ amplifie les mutations.",
+   "Vrai : adhérence diminuée.",
+   "Faux : ils la réduisent."
+  ]
+ },
+ {
+  "q": "Une infirmière est embauchée dans un service de pneumologie. Lesquelles sont exactes ?",
+  "options": [
+   "IDR ou test sanguin à l'embauche",
+   "Le personnel de santé est un sujet à risque",
+   "La transmission nosocomiale de la tuberculose existe",
+   "Le typage moléculaire peut identifier une transmission nosocomiale",
+   "Aucun dépistage n'est recommandé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : dépistage à l'embauche.",
+   "Vrai : personnel à risque.",
+   "Vrai : transmission nosocomiale.",
+   "Vrai : typage = enquête.",
+   "Faux : dépistage recommandé."
+  ]
+ },
+ {
+  "q": "Un enfant présente une adénopathie cervicale chronique ; la culture isole M. scrofulaceum. Lesquelles sont exactes ?",
+  "options": [
+   "Mycobactérie à croissance lente scotochromogène",
+   "Les adénites de l'enfant sont une forme classique des mycobactérioses",
+   "Le BCG ne protège pas contre cette infection",
+   "L'examen direct montre des BAAR",
+   "Il s'agit d'une souche du complexe tuberculosis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : lente scotochromogène.",
+   "Vrai : adénites de l'enfant.",
+   "Vrai : BCG inefficace.",
+   "Vrai : BAAR au ZN.",
+   "Faux : mycobactérie atypique."
+  ]
+ },
+ {
+  "q": "Un patient avec BPCO et bronchectasies a des expectorations chroniques ; la culture isole M. kansasii. Lesquelles sont exactes ?",
+  "options": [
+   "Forme pulmonaire chronique sur terrain à risque",
+   "M. kansasii : croissance lente photochromogène",
+   "Maladie simulant la tuberculose (mycobactériose)",
+   "Nombreuses résistances naturelles possibles aux antibiotiques",
+   "M. kansasii fait partie du complexe tuberculosis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : BPCO = terrain à risque.",
+   "Vrai : lente photochromogène.",
+   "Vrai : mycobactériose.",
+   "Vrai : résistances naturelles.",
+   "Faux : atypique."
+  ]
+ },
+ {
+  "q": "Après un piercing, une plaie s'infecte ; la culture isole M. fortuitum. Lesquelles sont exactes ?",
+  "options": [
+   "Infection cutanée et sous-cutanée à M. fortuitum",
+   "Croissance rapide (< 7 jours) à 25-30 °C",
+   "L'hygiène lors du piercing prévient ces infections",
+   "Les infections à atypiques sont de plus en plus nosocomiales",
+   "M. fortuitum est une mycobactérie à croissance lente"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cutanée/sous-cutanée.",
+   "Vrai : rapide < 7 jours.",
+   "Vrai : hygiène du piercing.",
+   "Vrai : nosocomiales croissantes.",
+   "Faux : croissance rapide."
+  ]
+ },
+ {
+  "q": "Un dialysé fébrile a des hémocultures contaminées par M. chelonae. Lesquelles sont exactes ?",
+  "options": [
+   "Les atypiques peuvent contaminer les liquides de dialyse",
+   "M. chelonae est un saprophyte",
+   "Grande résistance aux antiseptiques",
+   "Habituellement isolé en tant que contaminant",
+   "Tout isolement impose un traitement antituberculeux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : dialysats contaminables.",
+   "Vrai : saprophyte.",
+   "Vrai : résiste aux antiseptiques.",
+   "Vrai : souvent contaminant.",
+   "Faux : un isolement unique ne suffit pas."
+  ]
+ },
+ {
+  "q": "Synthèse : concernant les caractères bactériologiques du bacille de Koch, lesquelles sont exactes ?",
+  "options": [
+   "BAAR, immobile, non sporulé, non capsulé",
+   "Aérobie stricte à culture lente (division en 20 heures)",
+   "Paroi riche à 60 % en acides mycoliques",
+   "Contenu en GC de l'ADN de 61 à 71 %",
+   "Bacille à Gram négatif à paroi fine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : BAAR, immobile, non sporulé.",
+   "Vrai : aérobie strict, 20 h.",
+   "Vrai : 60 % acides mycoliques.",
+   "Vrai : GC 61-71 %.",
+   "Faux : rangé parmi les Gram positifs."
+  ]
+ },
+ {
+  "q": "Synthèse : concernant la démarche diagnostique de la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Examen direct (ZN, auramine) : rapide, peu sensible, peu spécifique",
+   "Culture : diagnostic de certitude",
+   "Biologie moléculaire : rapide, sensible, détection des résistances",
+   "Immunologie (IDR, IGRA) : infection latente et enquête autour d'un cas",
+   "La sérologie est l'examen de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ED rapide, peu sensible/spécifique.",
+   "Vrai : culture = certitude.",
+   "Vrai : moléculaire rapide et sensible.",
+   "Vrai : IDR/IGRA = latence, enquête.",
+   "Faux : pas de sérodiagnostic fiable."
+  ]
+ },
+ {
+  "q": "Synthèse : concernant le traitement de la tuberculose sensible, lesquelles sont exactes ?",
+  "options": [
+   "2 mois de rifampicine + isoniazide + pyrazinamide + éthambutol puis 4 mois de rifampicine + isoniazide",
+   "Durée totale minimale de 6 mois",
+   "Rifampicine et pyrazinamide actifs sur les BK intracellulaires dormants",
+   "M. bovis naturellement résistant au pyrazinamide",
+   "Traitement de 2 mois au total"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 2R+H+Z+E / 4R+H.",
+   "Vrai : 6 mois minimum.",
+   "Vrai : RIF et PZA sur dormants.",
+   "Vrai : bovis PZA-R naturel.",
+   "Faux : 6 mois minimum."
+  ]
+ },
+ {
+  "q": "Synthèse : concernant la prévention de la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "Maladie à déclaration obligatoire",
+   "Isolement des patients bacillifères",
+   "BCG : souche atténuée de M. bovis",
+   "Stratégie DOTS et enquête autour du cas",
+   "Le BCG protège contre les mycobactéries atypiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : déclaration obligatoire.",
+   "Vrai : isolement des bacillifères.",
+   "Vrai : BCG = M. bovis atténué.",
+   "Vrai : DOTS, enquête.",
+   "Faux : pas de protection contre les atypiques."
+  ]
+ },
+ {
+  "q": "Concernant les différentes techniques d'amplification génique citées pour le diagnostic de la tuberculose, lesquelles sont exactes ?",
+  "options": [
+   "PCR (Polymerase Chain Reaction)",
+   "LCR (Ligase Chain Reaction)",
+   "TMA (Transcription-Mediated Amplification)",
+   "SDA et puces à ADN",
+   "L'hémoculture automatisée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : PCR citée parmi les techniques d'amplification.",
+   "Vrai : LCR citée.",
+   "Vrai : TMA citée.",
+   "Vrai : SDA et puces à ADN citées.",
+   "Faux : l'hémoculture n'est pas une technique d'amplification génique."
+  ]
+ }
+]

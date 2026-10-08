@@ -1,0 +1,4448 @@
+[
+ {
+  "q": "Parmi les propositions suivantes concernant la taxonomie du virus de la rage, lesquelles sont exactes ?",
+  "options": [
+   "Son genre est Lyssavirus, du grec « lyssa » signifiant rage.",
+   "Il appartient à la famille des Rhabdoviridae.",
+   "Il appartient à l'ordre des Mononegavirales.",
+   "Il appartient à la famille des Paramyxoviridae.",
+   "Son genre est Morbillivirus."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : lyssa signifie rage en grec et donne son nom au genre Lyssavirus.",
+   "Exact : la famille du virus de la rage est Rhabdoviridae.",
+   "Exact : le virus rabique est classé dans l'ordre des Mononegavirales.",
+   "Inexact : la famille est Rhabdoviridae, pas Paramyxoviridae (même ordre cependant).",
+   "Inexact : Morbillivirus est un genre de Paramyxoviridae (virus de la rougeole)."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les sérotypes et génotypes du genre Lyssavirus ?",
+  "options": [
+   "Le sérotype 3 – génotype 3 correspond au virus Mokola.",
+   "Le sérotype 1 – génotype 1 correspond au virus de la rage et comprend toutes les souches de virus rabiques.",
+   "Le sérotype 4 – génotype 4 correspond au virus Duvenhage.",
+   "Le sérotype 1 – génotype 1 correspond au virus Mokola.",
+   "Le sérotype 2 – génotype 2 correspond au virus Lagos bat."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : Mokola est le sérotype 3 – génotype 3.",
+   "Exact : le génotype 1 regroupe toutes les souches du virus rabique classique.",
+   "Exact : Duvenhage est le sérotype 4 – génotype 4.",
+   "Inexact : le sérotype 1 – génotype 1 est le virus de la rage ; Mokola est le sérotype 3.",
+   "Exact : Lagos bat est le sérotype 2 – génotype 2."
+  ]
+ },
+ {
+  "q": "À propos de les lyssavirus apparentés au virus de la rage, quelles propositions sont correctes ?",
+  "options": [
+   "L'European Bat Lyssavirus 2 correspond au génotype 6.",
+   "Le virus Duvenhage est le sérotype 4 – génotype 4.",
+   "L'European Bat Lyssavirus 1 correspond au génotype 5.",
+   "Le virus Lagos bat est le sérotype 2 – génotype 2.",
+   "Le virus de la stomatite vésiculeuse (VSV) est un lyssavirus."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'EBL2 est le génotype 6 du sérotype 5.",
+   "Exact : Duvenhage correspond au sérotype 4 – génotype 4.",
+   "Exact : l'EBL1 est le génotype 5 du sérotype 5.",
+   "Exact : Lagos bat correspond au sérotype 2 – génotype 2.",
+   "Inexact : le VSV est le modèle du genre Vesiculovirus, pas un lyssavirus."
+  ]
+ },
+ {
+  "q": "Concernant les autres genres de la famille des Rhabdoviridae, cochez les affirmations exactes.",
+  "options": [
+   "Les genres Vesiculovirus et Ephemerovirus appartiennent à la famille des Rhabdoviridae.",
+   "Le genre Lyssavirus a pour modèle le virus de la stomatite vésiculeuse.",
+   "Le genre Vesiculovirus a pour modèle le virus de la stomatite vésiculeuse (VSV).",
+   "Le genre Ephemerovirus appartient à la famille des Paramyxoviridae.",
+   "Le genre Ephemerovirus a pour modèle le virus de la fièvre éphémère bovine."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : ce sont deux autres genres de Rhabdoviridae avec Lyssavirus.",
+   "Inexact : le modèle du genre Lyssavirus est le virus de la rage.",
+   "Exact : le VSV est le prototype du genre Vesiculovirus.",
+   "Inexact : Ephemerovirus est un genre de Rhabdoviridae.",
+   "Exact : le virus de la fièvre éphémère bovine est le modèle des Ephemerovirus."
+  ]
+ },
+ {
+  "q": "S'agissant de la morphologie du virus de la rage, quelles sont les réponses justes ?",
+  "options": [
+   "Sa longueur est de 100 à 300 nm.",
+   "Il a une morphologie sphérique de 300 nm de diamètre.",
+   "Une extrémité est arrondie et l'autre est aplatie.",
+   "Il a une morphologie cylindrique en forme de balle de revolver.",
+   "Son diamètre est d'environ 75 nm."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : la longueur varie de 100 à 300 nm.",
+   "Inexact : le virion est cylindrique de 75 nm de diamètre, pas sphérique.",
+   "Exact : l'une des extrémités est arrondie, l'autre aplatie.",
+   "Exact : le virion est cylindrique, en balle de revolver.",
+   "Exact : le diamètre du virion est de 75 nm."
+  ]
+ },
+ {
+  "q": "Au sujet de l'architecture de la particule rabique, lesquelles des propositions suivantes sont vraies ?",
+  "options": [
+   "L'enveloppe entoure une nucléocapside tubulaire de symétrie hélicoïdale.",
+   "C'est un virus enveloppé.",
+   "C'est un virus nu, dépourvu d'enveloppe.",
+   "Sa capside est icosaédrique.",
+   "Sa capside est de symétrie hélicoïdale."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : la particule associe enveloppe et capside hélicoïdale.",
+   "Exact : le virus de la rage possède une enveloppe.",
+   "Inexact : c'est un virus enveloppé, donc sensible aux solvants des lipides.",
+   "Inexact : la capside des Rhabdoviridae est hélicoïdale, pas icosaédrique.",
+   "Exact : la nucléocapside est hélicoïdale."
+  ]
+ },
+ {
+  "q": "Dans le cadre de le génome du virus de la rage, quelles propositions sont exactes ?",
+  "options": [
+   "Le génome est non segmenté.",
+   "Le génome est segmenté en 8 segments.",
+   "Le génome est un ARN de polarité positive.",
+   "Le génome est un ARN monocaténaire.",
+   "Le génome est de polarité négative."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : le génome est d'un seul tenant, non segmenté.",
+   "Inexact : le génome n'est pas segmenté (les 8 segments, c'est la grippe).",
+   "Inexact : la polarité est négative, pas positive.",
+   "Exact : le génome est un ARN simple brin.",
+   "Exact : c'est un virus à ARN de polarité négative."
+  ]
+ },
+ {
+  "q": "Relativement à les protéines structurales du virus rabique, quelles affirmations sont correctes ?",
+  "options": [
+   "La protéine G est l'ARN-polymérase du virus.",
+   "La protéine M est la protéine de matrice.",
+   "La protéine N est la nucléoprotéine étroitement associée à l'ARN viral.",
+   "La protéine L est l'ARN-polymérase ARN-dépendante.",
+   "La glycoprotéine G est le principal antigène du virus."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : la polymérase est la protéine L, pas G.",
+   "Exact : M désigne la protéine de matrice.",
+   "Exact : N est la nucléoprotéine liée au génome.",
+   "Exact : L est la polymérase du virus.",
+   "Exact : la protéine G est le principal antigène."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont exactes à propos de la glycoprotéine G du virus de la rage ?",
+  "options": [
+   "C'est une nucléoprotéine associée au génome.",
+   "C'est le principal antigène du virus.",
+   "C'est une glycoprotéine d'enveloppe.",
+   "Sa masse moléculaire est d'environ 70 kD.",
+   "C'est une protéine de matrice de 25 kD."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : la nucléoprotéine associée à l'ARN est la protéine N.",
+   "Exact : G est le principal antigène du virus rabique.",
+   "Exact : la protéine G est portée par l'enveloppe virale.",
+   "Exact : la glycoprotéine G fait environ 70 kD.",
+   "Inexact : la protéine de matrice de 25 kD est la protéine M."
+  ]
+ },
+ {
+  "q": "Un étudiant en médecine décrit le virus de la rage dans un exposé. Parmi ses affirmations, lesquelles sont exactes ?",
+  "options": [
+   "Le virus est enveloppé et sa capside est hélicoïdale.",
+   "Il mesure 75 nm de diamètre.",
+   "Il s'agit d'un virus nu à capside icosaédrique.",
+   "Son génome est un ARN négatif non segmenté.",
+   "Il s'agit d'un virus à ADN double brin."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : virus enveloppé à capside hélicoïdale.",
+   "Exact : diamètre d'environ 75 nm.",
+   "Inexact : c'est un virus enveloppé à capside hélicoïdale.",
+   "Exact : ARN monocaténaire de polarité négative, non segmenté.",
+   "Inexact : c'est un virus à ARN, pas à ADN."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes relatives à les protéines N, L, M et NS du virus rabique, lesquelles sont exactes ?",
+  "options": [
+   "N est la nucléoprotéine étroitement associée à l'ARN viral.",
+   "M est la protéine de matrice, d'environ 25 kD.",
+   "NS est une phosphoprotéine.",
+   "L est l'ARN-polymérase ARN-dépendante.",
+   "N est la glycoprotéine d'enveloppe, principal antigène."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : N est liée au génome au sein de la nucléocapside.",
+   "Exact : M est la protéine de matrice de 25 kD.",
+   "Exact : NS désigne la phosphoprotéine virale.",
+   "Exact : L assure la transcription du génome ARN négatif.",
+   "Inexact : la glycoprotéine d'enveloppe est la protéine G."
+  ]
+ },
+ {
+  "q": "Quelles propositions peut-on retenir comme exactes au sujet de l'étymologie et la classification du virus de la rage ?",
+  "options": [
+   "L'ordre des Mononegavirales regroupe des virus à ARN négatif non segmenté.",
+   "Le genre Lyssavirus appartient à la famille des Filoviridae.",
+   "Le genre Lyssavirus appartient à la famille des Rhabdoviridae.",
+   "« Lyssa » signifie chauve-souris en grec.",
+   "« Lyssa » signifie rage en grec."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : Mononegavirales = ARN monocaténaire négatif non segmenté.",
+   "Inexact : Lyssavirus appartient aux Rhabdoviridae.",
+   "Exact : Lyssavirus est un genre de Rhabdoviridae.",
+   "Inexact : lyssa signifie rage, pas chauve-souris.",
+   "Exact : lyssa = rage en grec."
+  ]
+ },
+ {
+  "q": "À propos du virus de la rage, quelles propositions relatives à la structure du virus de la rage comparée à d'autres virus sont exactes ?",
+  "options": [
+   "Comme les Herpesviridae, il possède un tégument entre capside et enveloppe.",
+   "Comme le virus de la grippe, le virus rabique est enveloppé.",
+   "Comme les entérovirus, son génome est un ARN de polarité positive.",
+   "Contrairement au virus de la grippe, son génome n'est pas segmenté.",
+   "Contrairement aux Herpesviridae, son génome est un ARN et non un ADN."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : le tégument est une structure des Herpesviridae, pas des Rhabdoviridae.",
+   "Exact : les deux virus possèdent une enveloppe.",
+   "Inexact : la polarité du génome rabique est négative.",
+   "Exact : le génome rabique est non segmenté, celui de la grippe est segmenté.",
+   "Exact : Herpesviridae = ADN ; Rhabdoviridae = ARN."
+  ]
+ },
+ {
+  "q": "Cochez les propositions exactes concernant la particule virale rabique.",
+  "options": [
+   "La polymérase L fait partie des protéines de la particule virale.",
+   "L'enveloppe est dépourvue de protéines virales.",
+   "L'enveloppe porte la glycoprotéine G.",
+   "La nucléocapside associe l'ARN génomique à la nucléoprotéine N.",
+   "Le génome nu, sans protéines associées, constitue la nucléocapside."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : L est l'ARN-polymérase ARN-dépendante du virion.",
+   "Inexact : l'enveloppe porte la glycoprotéine G.",
+   "Exact : la protéine G est la glycoprotéine d'enveloppe.",
+   "Exact : N est étroitement associée à l'ARN viral.",
+   "Inexact : la nucléocapside associe l'ARN à la nucléoprotéine N."
+  ]
+ },
+ {
+  "q": "Indiquez les affirmations correctes à propos de les dimensions du virus de la rage.",
+  "options": [
+   "La longueur est fixe à 75 nm.",
+   "Le diamètre est d'environ 200 nm.",
+   "Sa taille est de l'ordre de 20 à 30 nm.",
+   "Le diamètre est d'environ 75 nm.",
+   "La longueur varie de 100 à 300 nm."
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : la longueur varie de 100 à 300 nm.",
+   "Inexact : le diamètre est de 75 nm, pas 200 nm.",
+   "Inexact : 20 à 30 nm correspond aux picornavirus, pas au virus rabique.",
+   "Exact : 75 nm de diamètre.",
+   "Exact : longueur de 100 à 300 nm."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes au sujet de le genre Lyssavirus ?",
+  "options": [
+   "Il comprend les virus Lagos bat, Mokola et Duvenhage.",
+   "Il comprend le virus de la rage (sérotype 1 – génotype 1).",
+   "Il comprend le virus de la stomatite vésiculeuse.",
+   "Il comprend les European Bat Lyssavirus 1 et 2.",
+   "Il comprend le virus Ebola."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : ce sont des lyssavirus apparentés (sérotypes 2, 3, 4).",
+   "Exact : le virus de la rage est le sérotype 1 – génotype 1.",
+   "Inexact : le VSV appartient au genre Vesiculovirus.",
+   "Exact : EBL1 (génotype 5) et EBL2 (génotype 6) sont des lyssavirus.",
+   "Inexact : Ebola appartient à la famille des Filoviridae."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur la classification du virus rabique, lesquels sont exacts ?",
+  "options": [
+   "Ordre : Picornavirales.",
+   "Genre : Lyssavirus.",
+   "Ordre : Mononegavirales.",
+   "Famille : Rhabdoviridae.",
+   "Famille : Rhabdoviridae, genre : Vesiculovirus."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : l'ordre est Mononegavirales, pas Picornavirales.",
+   "Exact : le genre est Lyssavirus.",
+   "Exact : le virus de la rage est un Mononegavirales.",
+   "Exact : la famille est Rhabdoviridae.",
+   "Inexact : le genre du virus rabique est Lyssavirus, pas Vesiculovirus."
+  ]
+ },
+ {
+  "q": "Sélectionnez les propositions justes concernant la polarité du génome rabique.",
+  "options": [
+   "Le génome est de polarité négative : il n'est pas directement traduit.",
+   "Le génome est un ADN simple brin de polarité négative.",
+   "La polymérase virale L transcrit l'ARN génomique en ARN messagers.",
+   "Le génome est de polarité positive, directement infectieux.",
+   "Comme celui des Paramyxoviridae, le génome est un ARN négatif non segmenté."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : un ARN négatif doit d'abord être transcrit.",
+   "Inexact : c'est un ARN, pas un ADN.",
+   "Exact : L est l'ARN-polymérase ARN-dépendante.",
+   "Inexact : la polarité est négative.",
+   "Exact : les deux familles appartiennent aux Mononegavirales."
+  ]
+ },
+ {
+  "q": "Un technicien de laboratoire manipule une souche de virus rabique. Parmi les propriétés suivantes, lesquelles s'appliquent à ce virus ?",
+  "options": [
+   "C'est un virus à ADN bicaténaire.",
+   "C'est un virus enveloppé, sensible aux solvants des lipides.",
+   "Sa capside est hélicoïdale.",
+   "Sa capside est icosaédrique et nue.",
+   "Son génome est un ARN monocaténaire négatif non segmenté."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Inexact : c'est un virus à ARN.",
+   "Exact : virus enveloppé donc inactivé par les solvants des lipides.",
+   "Exact : capside à symétrie hélicoïdale.",
+   "Inexact : capside hélicoïdale et virus enveloppé.",
+   "Exact : ARN simple brin, polarité négative, non segmenté."
+  ]
+ },
+ {
+  "q": "Quelles sont les assertions exactes concernant les European Bat Lyssavirus ?",
+  "options": [
+   "Ils sont apparentés au virus de la rage au sein du genre Lyssavirus.",
+   "L'EBL2 correspond au génotype 6.",
+   "Ils appartiennent au genre Vesiculovirus.",
+   "Ils sont rattachés au sérotype 5.",
+   "L'EBL1 correspond au génotype 5."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : ce sont des lyssavirus apparentés au virus rabique.",
+   "Exact : European Bat Lyssavirus 2 = génotype 6.",
+   "Inexact : ils appartiennent au genre Lyssavirus.",
+   "Exact : les deux sont classés dans le sérotype 5.",
+   "Exact : European Bat Lyssavirus 1 = génotype 5."
+  ]
+ },
+ {
+  "q": "Parmi les items suivants sur la glycoprotéine G comme antigène, lesquels sont exacts ?",
+  "options": [
+   "Elle est la cible des anticorps neutralisants.",
+   "Elle constitue le principal antigène du virus rabique.",
+   "Elle est exposée à la surface de l'enveloppe virale.",
+   "Elle est identique à la protéine M.",
+   "C'est une protéine interne associée à l'ARN."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les anticorps neutralisants sont dirigés contre la glycoprotéine G.",
+   "Exact : G est le principal antigène.",
+   "Exact : G est la glycoprotéine d'enveloppe.",
+   "Inexact : M est la protéine de matrice, distincte de G.",
+   "Inexact : la protéine interne associée à l'ARN est N."
+  ]
+ },
+ {
+  "q": "Relevez les propositions exactes à propos de la nucléoprotéine N.",
+  "options": [
+   "Elle est une protéine structurale du virus rabique.",
+   "C'est le principal antigène d'enveloppe.",
+   "C'est une ARN-polymérase.",
+   "Elle est étroitement associée à l'ARN génomique.",
+   "Elle protège le génome au sein de la nucléocapside."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : N fait partie des protéines structurales.",
+   "Inexact : le principal antigène d'enveloppe est la glycoprotéine G.",
+   "Inexact : la polymérase est la protéine L.",
+   "Exact : N est la nucléoprotéine liée à l'ARN viral.",
+   "Exact : la nucléocapside ARN + N protège le génome."
+  ]
+ },
+ {
+  "q": "Le virus rabique : quelles propositions concernant les protéines L et NS sont exactes ?",
+  "options": [
+   "L est l'ARN-polymérase ARN-dépendante.",
+   "L et NS participent à la transcription du génome viral.",
+   "NS est une phosphoprotéine.",
+   "L est la protéine de matrice.",
+   "NS est la glycoprotéine d'enveloppe."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : L est la polymérase virale.",
+   "Exact : le complexe polymérase L – phosphoprotéine NS transcrit l'ARN génomique.",
+   "Exact : NS désigne la phosphoprotéine.",
+   "Inexact : la protéine de matrice est M.",
+   "Inexact : la glycoprotéine d'enveloppe est G."
+  ]
+ },
+ {
+  "q": "Au sujet du virus de la rage, quelles affirmations sur la protéine M du virus de la rage sont vraies ?",
+  "options": [
+   "Sa masse est d'environ 25 kD.",
+   "Elle est située sous l'enveloppe virale.",
+   "M désigne la protéine de matrice.",
+   "C'est une phosphoprotéine non structurale.",
+   "C'est le principal antigène du virus."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la protéine M fait environ 25 kD.",
+   "Exact : la protéine de matrice tapisse la face interne de l'enveloppe.",
+   "Exact : M est la protéine de matrice.",
+   "Inexact : M est une protéine structurale de matrice ; la phosphoprotéine est NS.",
+   "Inexact : le principal antigène est la glycoprotéine G."
+  ]
+ },
+ {
+  "q": "En ce qui concerne la forme du virion rabique, quelles propositions sont exactes ?",
+  "options": [
+   "Le virion est parfaitement sphérique.",
+   "Une extrémité est arrondie, l'autre aplatie.",
+   "Le virion est cylindrique.",
+   "Le virion a l'aspect d'une balle de revolver.",
+   "Le virion est filamenteux comme le virus Ebola."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : le virion est cylindrique, pas sphérique.",
+   "Exact : extrémité arrondie et extrémité aplatie.",
+   "Exact : particule cylindrique.",
+   "Exact : morphologie caractéristique en balle de revolver.",
+   "Inexact : le virion rabique est en balle de revolver, pas filamenteux."
+  ]
+ },
+ {
+  "q": "À propos de la rage, quelles propositions sur le génome des Rhabdoviridae sont correctes ?",
+  "options": [
+   "Le génome est segmenté comme celui des Orthomyxoviridae.",
+   "Il s'agit d'un ADN double brin linéaire.",
+   "Le génome n'est pas segmenté.",
+   "Il s'agit d'un ARN simple brin.",
+   "La polarité est négative."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : le génome est non segmenté, contrairement à celui de la grippe.",
+   "Inexact : c'est un ARN, pas un ADN.",
+   "Exact : génome non segmenté.",
+   "Exact : génome ARN monocaténaire.",
+   "Exact : ARN de polarité négative."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont justes s'agissant de la structure des Lyssavirus ?",
+  "options": [
+   "Présence d'un tégument entre capside et enveloppe.",
+   "Génome ARN négatif non segmenté.",
+   "Capside icosaédrique de 162 capsomères.",
+   "Présence d'une enveloppe lipidique.",
+   "Capside à symétrie hélicoïdale."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : le tégument est une structure des Herpesviridae.",
+   "Exact : ARN monocaténaire négatif non segmenté.",
+   "Inexact : la capside est hélicoïdale, pas icosaédrique.",
+   "Exact : virus enveloppé.",
+   "Exact : nucléocapside hélicoïdale."
+  ]
+ },
+ {
+  "q": "Un QCM d'examen propose : « Le virus de la rage est… ». Quelles fins de phrase sont exactes ?",
+  "options": [
+   "…un virus à ARN monocaténaire de polarité négative.",
+   "…un virus à génome non segmenté.",
+   "…un virus enveloppé à capside hélicoïdale.",
+   "…un virus à ADN bicaténaire.",
+   "…un virus nu à capside icosaédrique."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : ARN simple brin négatif.",
+   "Exact : génome non segmenté.",
+   "Exact : enveloppe + capside hélicoïdale.",
+   "Inexact : virus à ARN.",
+   "Inexact : virus enveloppé à capside hélicoïdale."
+  ]
+ },
+ {
+  "q": "Concernant le virus rabique, quelles propositions sur les antigènes du virus rabique sont exactes ?",
+  "options": [
+   "Le virus ne possède aucun antigène de surface.",
+   "La nucléoprotéine N est un antigène interne.",
+   "La protéine G est portée par l'enveloppe.",
+   "Le principal antigène est la protéine de matrice M.",
+   "Le principal antigène est la glycoprotéine G."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Inexact : la glycoprotéine G est l'antigène de surface.",
+   "Exact : N est associée à l'ARN à l'intérieur de la particule.",
+   "Exact : G est la glycoprotéine d'enveloppe.",
+   "Inexact : le principal antigène est la glycoprotéine G.",
+   "Exact : G est le principal antigène."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous sur l'ordre des Mononegavirales, lesquelles sont vraies ?",
+  "options": [
+   "Le virus de la rage en fait partie.",
+   "Les Herpesviridae en font partie.",
+   "Il regroupe des virus à ARN monocaténaire de polarité négative non segmenté.",
+   "Les Picornaviridae en font partie.",
+   "Les Paramyxoviridae en font partie."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : Rhabdoviridae = Mononegavirales.",
+   "Inexact : les herpesvirus sont des virus à ADN.",
+   "Exact : définition de l'ordre des Mononegavirales.",
+   "Inexact : les picornavirus sont des virus à ARN positif.",
+   "Exact : rougeole, oreillons, VRS sont des Mononegavirales."
+  ]
+ },
+ {
+  "q": "Quelles réponses sont correctes à propos de les souches rabiques ?",
+  "options": [
+   "Les souches rabiques sont réparties entre les sérotypes 1 à 6.",
+   "Le virus Mokola est une souche de virus rabique classique.",
+   "Les virus Lagos bat et Duvenhage sont des lyssavirus apparentés à la rage.",
+   "Le sérotype 1 – génotype 1 définit le virus de la rage proprement dit.",
+   "Toutes les souches de virus rabiques appartiennent au sérotype 1 – génotype 1."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : toutes les souches rabiques sont du sérotype 1.",
+   "Inexact : Mokola est un lyssavirus apparenté, pas le virus rabique.",
+   "Exact : sérotypes 2 et 4, apparentés au virus de la rage.",
+   "Exact : c'est le virus de la rage classique.",
+   "Exact : le sérotype 1 – génotype 1 comprend toutes les souches rabiques."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le virus de la stomatite vésiculeuse (VSV), lesquelles sont exactes ?",
+  "options": [
+   "C'est le modèle du genre Lyssavirus.",
+   "Il appartient à la famille des Rhabdoviridae.",
+   "C'est un virus rabique responsable de la rage.",
+   "Il appartient à la famille des Picornaviridae.",
+   "C'est le modèle du genre Vesiculovirus."
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Inexact : le modèle des Lyssavirus est le virus de la rage.",
+   "Exact : Vesiculovirus est un genre de Rhabdoviridae.",
+   "Inexact : c'est le prototype des Vesiculovirus, pas un virus rabique.",
+   "Inexact : il appartient aux Rhabdoviridae.",
+   "Exact : le VSV est le prototype des Vesiculovirus."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le virus de la fièvre éphémère bovine ?",
+  "options": [
+   "Comme le virus rabique, c'est un Rhabdoviridae.",
+   "C'est un virus à ARN positif de la famille des Togaviridae.",
+   "C'est un lyssavirus responsable de la rage bovine.",
+   "Il appartient à la famille des Rhabdoviridae.",
+   "C'est le modèle du genre Ephemerovirus."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : les deux virus appartiennent à la famille des Rhabdoviridae.",
+   "Inexact : c'est un Rhabdoviridae à ARN négatif.",
+   "Inexact : ce n'est pas un lyssavirus ni un virus rabique.",
+   "Exact : Ephemerovirus est un genre de Rhabdoviridae.",
+   "Exact : prototype du genre Ephemerovirus."
+  ]
+ },
+ {
+  "q": "À propos de les caractères communs des Rhabdoviridae, quelles propositions sont correctes ?",
+  "options": [
+   "Leur capside est hélicoïdale.",
+   "Ce sont des virus à ADN.",
+   "Ce sont des virus enveloppés.",
+   "Leur capside est icosaédrique.",
+   "Leur génome est un ARN négatif non segmenté."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : capside à symétrie hélicoïdale.",
+   "Inexact : ce sont des virus à ARN.",
+   "Exact : Rhabdoviridae = virus enveloppés.",
+   "Inexact : la capside est hélicoïdale.",
+   "Exact : ARN monocaténaire négatif non segmenté."
+  ]
+ },
+ {
+  "q": "Concernant le virion rabique observé en microscopie électronique, cochez les affirmations exactes.",
+  "options": [
+   "La longueur de la particule varie entre 100 et 300 nm.",
+   "Le diamètre est d'environ 75 nm.",
+   "On observe une particule en forme de balle de revolver.",
+   "On observe une particule sphérique à spicules comme un coronavirus.",
+   "On observe une capside icosaédrique nue."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 100 à 300 nm de longueur.",
+   "Exact : 75 nm de diamètre.",
+   "Exact : aspect caractéristique en balle de revolver.",
+   "Inexact : le virion rabique n'est pas sphérique.",
+   "Inexact : virus enveloppé à capside hélicoïdale."
+  ]
+ },
+ {
+  "q": "Lors d'une séance de travaux dirigés, l'enseignant demande de citer les protéines du virus de la rage. Quelles réponses sont exactes ?",
+  "options": [
+   "M : protéine de matrice.",
+   "L : ARN-polymérase ARN-dépendante.",
+   "G : glycoprotéine d'enveloppe, principal antigène.",
+   "N : nucléoprotéine associée à l'ARN.",
+   "VP1, VP2, VP3 : protéines de capside icosaédrique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : M = protéine de matrice.",
+   "Exact : L = polymérase virale.",
+   "Exact : G = glycoprotéine, principal antigène.",
+   "Exact : N = nucléoprotéine liée au génome.",
+   "Inexact : VP1-VP4 sont les protéines des picornavirus."
+  ]
+ },
+ {
+  "q": "S'agissant de la résistance du virus rabique, quelles sont les réponses justes ?",
+  "options": [
+   "Il est détruit par les UV et la lumière.",
+   "Il résiste à la chaleur à 100 °C pendant une heure.",
+   "Il est détruit par la chaleur.",
+   "Il est inactivé par la dessiccation lente.",
+   "Il est résistant aux UV."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : lumière et UV le détruisent.",
+   "Inexact : la chaleur détruit ce virus.",
+   "Exact : la chaleur détruit le virus rabique.",
+   "Exact : la dessiccation lente l'inactive.",
+   "Inexact : les UV détruisent le virus rabique."
+  ]
+ },
+ {
+  "q": "Au sujet de l'inactivation chimique du virus de la rage, lesquelles des propositions suivantes sont vraies ?",
+  "options": [
+   "Il résiste à l'eau de Javel.",
+   "Les solutions savonneuses l'inactivent.",
+   "L'eau de Javel l'inactive.",
+   "Les ammoniums quaternaires l'inactivent.",
+   "Les solvants des lipides l'inactivent."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : l'eau de Javel fait partie des agents inactivants.",
+   "Exact : les savons inactivent le virus enveloppé.",
+   "Exact : l'eau de Javel inactive le virus rabique.",
+   "Exact : les ammoniums quaternaires sont efficaces.",
+   "Exact : l'enveloppe lipidique est sensible aux solvants des lipides."
+  ]
+ },
+ {
+  "q": "Dans le cadre de les agents inactivant le virus rabique, quelles propositions sont exactes ?",
+  "options": [
+   "L'acétyléthylènimine.",
+   "La bêta-propiolactone.",
+   "L'acide phénique.",
+   "Le formol.",
+   "La glycérine à 50 %."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'acétyléthylènimine inactive le virus.",
+   "Exact : la bêta-propiolactone inactive le virus.",
+   "Exact : l'acide phénique inactive le virus.",
+   "Exact : le formol inactive le virus.",
+   "Inexact : la glycérine à 50 % conserve le virus, elle ne l'inactive pas."
+  ]
+ },
+ {
+  "q": "Relativement à la conservation du virus de la rage au laboratoire, quelles affirmations sont correctes ?",
+  "options": [
+   "Il est conservé par la glycérine à 50 %.",
+   "Il est conservé par le froid.",
+   "Il est détruit par la congélation.",
+   "Il est conservé par la lyophilisation.",
+   "Il est conservé à température ambiante en milieu sec."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : la glycérine à 50 % conserve le virus.",
+   "Exact : le froid conserve le virus rabique.",
+   "Inexact : le froid conserve le virus, il ne le détruit pas.",
+   "Exact : la lyophilisation est un mode de conservation.",
+   "Inexact : la dessiccation lente le détruit."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont exactes à propos de le comportement du virus rabique dans le milieu extérieur ?",
+  "options": [
+   "Il résiste aux solvants des lipides grâce à son enveloppe.",
+   "Il est inactivé par les savons.",
+   "Il résiste à la putréfaction.",
+   "Il est détruit par la dessiccation lente.",
+   "Il survit indéfiniment à l'air libre et au soleil."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : l'enveloppe le rend sensible aux solvants des lipides.",
+   "Exact : les solutions savonneuses l'inactivent.",
+   "Exact : le virus résiste à la putréfaction.",
+   "Exact : la dessiccation lente l'inactive.",
+   "Inexact : lumière, UV et dessiccation le détruisent."
+  ]
+ },
+ {
+  "q": "Un vétérinaire désinfecte du matériel souillé par de la salive d'un animal suspect de rage. Quels produits sont efficaces ?",
+  "options": [
+   "L'eau de Javel.",
+   "Les solutions savonneuses.",
+   "Les ammoniums quaternaires.",
+   "L'acide phénique.",
+   "La glycérine à 50 %."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'eau de Javel inactive le virus rabique.",
+   "Exact : les savons inactivent ce virus enveloppé.",
+   "Exact : les ammoniums quaternaires sont efficaces.",
+   "Exact : l'acide phénique inactive le virus.",
+   "Inexact : la glycérine conserve le virus, elle ne désinfecte pas."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes relatives à la fragilité du virus rabique, lesquelles sont exactes ?",
+  "options": [
+   "C'est un virus nu très résistant comme les entérovirus.",
+   "La chaleur le détruit.",
+   "C'est un virus enveloppé, donc fragile dans le milieu extérieur.",
+   "Il résiste à la dessiccation comme les parvovirus.",
+   "La lumière et les UV le détruisent."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Inexact : c'est un virus enveloppé, fragile, contrairement aux entérovirus nus.",
+   "Exact : la chaleur est un agent destructeur.",
+   "Exact : l'enveloppe le rend sensible aux agressions physico-chimiques.",
+   "Inexact : la dessiccation lente l'inactive.",
+   "Exact : lumière et UV détruisent le virus."
+  ]
+ },
+ {
+  "q": "Quelles propositions peut-on retenir comme exactes au sujet de les propriétés physico-chimiques du virus de la rage ?",
+  "options": [
+   "Inactivé par les solvants des lipides, car enveloppé.",
+   "Inactivé par le formol et la bêta-propiolactone.",
+   "Résistant à la putréfaction.",
+   "Détruit par la glycérine à 50 %.",
+   "Résistant à l'eau de Javel."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'enveloppe lipidique est la cible des solvants des lipides.",
+   "Exact : ces deux agents inactivent le virus.",
+   "Exact : le virus résiste à la putréfaction.",
+   "Inexact : la glycérine à 50 % le conserve.",
+   "Inexact : l'eau de Javel l'inactive."
+  ]
+ },
+ {
+  "q": "À propos du virus de la rage, quelles propositions relatives à la survie du virus rabique sont exactes ?",
+  "options": [
+   "La putréfaction ne le détruit pas.",
+   "La lyophilisation permet sa conservation.",
+   "Le froid permet sa conservation.",
+   "La dessiccation lente le conserve.",
+   "Les UV le conservent."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : il résiste à la putréfaction.",
+   "Exact : la lyophilisation conserve le virus.",
+   "Exact : le froid conserve le virus.",
+   "Inexact : la dessiccation lente le détruit.",
+   "Inexact : les UV détruisent le virus."
+  ]
+ },
+ {
+  "q": "Cochez les propositions exactes concernant l'inactivation du virus de la rage.",
+  "options": [
+   "Les détergents et savons sont efficaces.",
+   "La glycérine à 50 % l'inactive.",
+   "L'acétyléthylènimine est efficace.",
+   "La chaleur est efficace.",
+   "Le froid à -20 °C l'inactive rapidement."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les solutions savonneuses inactivent le virus.",
+   "Inexact : la glycérine à 50 % est un milieu de conservation.",
+   "Exact : cet agent inactive le virus rabique.",
+   "Exact : la chaleur détruit le virus.",
+   "Inexact : le froid conserve le virus."
+  ]
+ },
+ {
+  "q": "Indiquez les affirmations correctes à propos de la résistance du virus rabique aux agressions.",
+  "options": [
+   "Sensible : chaleur, lumière, UV.",
+   "Résistant : formol.",
+   "Résistant : putréfaction.",
+   "Sensible : solutions savonneuses, eau de Javel.",
+   "Résistant : ammoniums quaternaires."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : ces agents physiques détruisent le virus.",
+   "Inexact : le formol l'inactive.",
+   "Exact : le virus résiste à la putréfaction.",
+   "Exact : ces agents chimiques l'inactivent.",
+   "Inexact : les ammoniums quaternaires l'inactivent."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes au sujet de le virus rabique et les désinfectants ?",
+  "options": [
+   "Seule l'autoclave à 134 °C est efficace.",
+   "L'acide phénique est efficace.",
+   "L'eau de Javel est un désinfectant efficace contre ce virus.",
+   "Les désinfectants sont inefficaces car le virus est nu.",
+   "Les ammoniums quaternaires sont efficaces."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Inexact : de nombreux désinfectants usuels sont efficaces.",
+   "Exact : l'acide phénique inactive le virus.",
+   "Exact : l'eau de Javel inactive le virus rabique.",
+   "Inexact : c'est un virus enveloppé, sensible aux désinfectants.",
+   "Exact : agents inactivants cités dans le cours."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur la conservation des souches rabiques, lesquels sont exacts ?",
+  "options": [
+   "Le maintien au froid conserve le virus.",
+   "La dessiccation lente à température ambiante conserve le virus.",
+   "La glycérine à 50 % est un milieu de conservation.",
+   "La lyophilisation est une méthode de conservation.",
+   "L'exposition prolongée aux UV conserve le virus."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le froid est un mode de conservation.",
+   "Inexact : la dessiccation lente le détruit.",
+   "Exact : la glycérine à 50 % conserve le virus.",
+   "Exact : la lyophilisation conserve le virus.",
+   "Inexact : les UV détruisent le virus."
+  ]
+ },
+ {
+  "q": "Un laboratoire reçoit un prélèvement pour diagnostic de rage. Quelles précautions de transport et de conservation sont adaptées ?",
+  "options": [
+   "Transport rapide au froid.",
+   "Addition de glycérine à 50 % possible pour la conservation.",
+   "Conservation possible par congélation.",
+   "Exposition du prélèvement au soleil pour le stabiliser.",
+   "Séchage lent à l'air libre pour le conserver."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le froid conserve le virus et le transport doit être rapide.",
+   "Exact : la glycérine à 50 % conserve le virus.",
+   "Exact : le froid est un mode de conservation du virus.",
+   "Inexact : lumière et UV détruisent le virus.",
+   "Inexact : la dessiccation lente inactive le virus."
+  ]
+ },
+ {
+  "q": "Sélectionnez les propositions justes concernant l'épidémiologie de la rage.",
+  "options": [
+   "L'homme est le réservoir principal du virus.",
+   "La rage est une zoonose.",
+   "La rage est une anthroponose stricte.",
+   "Le réservoir est constitué de vertébrés à sang chaud.",
+   "L'homme est atteint accidentellement."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : le réservoir est animal ; l'homme est un hôte accidentel.",
+   "Exact : c'est une maladie animale transmissible à l'homme.",
+   "Inexact : c'est une zoonose, pas une anthroponose.",
+   "Exact : le réservoir comprend des vertébrés à sang chaud.",
+   "Exact : l'homme n'est qu'un hôte accidentel."
+  ]
+ },
+ {
+  "q": "Quelles sont les assertions exactes concernant les types de rage selon le réservoir ?",
+  "options": [
+   "La rage des rues a pour principal réservoir le chat.",
+   "Il n'existe qu'un seul type de rage, la rage canine.",
+   "La rage des chiroptères : le réservoir est constitué par les chauves-souris.",
+   "La rage canine ou rage des rues (urbaine) : le chien est le principal réservoir.",
+   "La rage selvatique (sauvage) : le réservoir est la faune sauvage."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : le principal réservoir est le chien, rarement le chat.",
+   "Inexact : on distingue rage canine, selvatique et des chiroptères.",
+   "Exact : rage des chiroptères = chauves-souris.",
+   "Exact : rage urbaine = chien, principal réservoir.",
+   "Exact : rage selvatique = faune sauvage."
+  ]
+ },
+ {
+  "q": "Parmi les items suivants sur la rage canine (urbaine), lesquels sont exacts ?",
+  "options": [
+   "Le chat peut être réservoir, mais rarement.",
+   "Le chat est le principal réservoir de la rage urbaine.",
+   "Le chien est le principal réservoir.",
+   "C'est la rage des rues.",
+   "Le principal réservoir est le renard en zone urbaine."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le chat est rarement en cause.",
+   "Inexact : le chat n'est que rarement réservoir.",
+   "Exact : le chien est le principal réservoir de la rage des rues.",
+   "Exact : la rage canine est aussi appelée rage des rues.",
+   "Inexact : en zone urbaine, c'est le chien ; le renard relève de la rage selvatique."
+  ]
+ },
+ {
+  "q": "Relevez les propositions exactes à propos de la distribution géographique des réservoirs.",
+  "options": [
+   "En Afrique : chiens, chacals, mangoustes.",
+   "En Europe : le chien est l'unique réservoir.",
+   "Au Moyen-Orient : renard et chien.",
+   "En Asie : chiens, mangoustes, loups, renards.",
+   "En Europe : renards et chauves-souris."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : chiens, chacals et mangoustes en Afrique.",
+   "Inexact : en Europe, ce sont le renard et les chauves-souris.",
+   "Exact : renard et chien au Moyen-Orient.",
+   "Exact : ces quatre animaux sont réservoirs en Asie.",
+   "Exact : les réservoirs européens sont le renard et les chauves-souris."
+  ]
+ },
+ {
+  "q": "Le virus rabique : quelles propositions concernant les réservoirs américains sont exactes ?",
+  "options": [
+   "En Amérique du Nord : renards et chauves-souris insectivores.",
+   "En Amérique du Nord : chiens et chacals.",
+   "En Amérique du Sud : uniquement le renard.",
+   "Les chauves-souris hématophages sont un réservoir en Amérique du Sud.",
+   "En Amérique du Sud : chiens et chauves-souris hématophages."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : renards et chauves-souris insectivores en Amérique du Nord.",
+   "Inexact : ce sont les renards et les chauves-souris insectivores.",
+   "Inexact : ce sont le chien et les chauves-souris hématophages.",
+   "Exact : réservoir cité pour l'Amérique du Sud.",
+   "Exact : chiens et chauves-souris hématophages en Amérique du Sud."
+  ]
+ },
+ {
+  "q": "Au sujet du virus de la rage, quelles affirmations sur la rage au Maroc sont vraies ?",
+  "options": [
+   "Le Maroc est un pays endémique pour la rage.",
+   "On estime la mortalité à 20 à 30 décès humains par an.",
+   "La rage a été éradiquée au Maroc depuis 2000.",
+   "Entre 2000 et 2014, on a enregistré 3 300 cas de rage animale.",
+   "Entre 2000 et 2014, on a enregistré 320 cas de rage humaine."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : la rage est endémique au Maroc.",
+   "Exact : 20 à 30 morts par an au Maroc.",
+   "Inexact : le Maroc reste un pays d'endémie.",
+   "Exact : 3 300 cas de rage animale entre 2000 et 2014.",
+   "Exact : 320 cas de rage humaine entre 2000 et 2014."
+  ]
+ },
+ {
+  "q": "En ce qui concerne la rage dans le monde, quelles propositions sont exactes ?",
+  "options": [
+   "La rage reste une grande cause de décès dans de nombreux pays.",
+   "La rage a disparu à l'échelle mondiale.",
+   "Le contrôle de la rage est une priorité de l'OMS.",
+   "Moins de 100 décès annuels sont dus à la rage dans le monde.",
+   "L'OMS estime à plus de 55 000 le nombre de décès annuels."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : elle figure parmi les grandes causes de décès dans de nombreux pays.",
+   "Inexact : elle tue encore plus de 55 000 personnes par an.",
+   "Exact : priorité affichée de l'OMS.",
+   "Inexact : l'OMS en recense plus de 55 000 par an.",
+   "Exact : plus de 55 000 morts par an selon l'OMS."
+  ]
+ },
+ {
+  "q": "À propos de la rage, quelles propositions sur le caractère réglementaire de la rage sont correctes ?",
+  "options": [
+   "La surveillance concerne les animaux sauvages et domestiques.",
+   "La rage est une maladie à déclaration facultative.",
+   "La rage est une maladie à déclaration obligatoire.",
+   "Tout cas suspect doit être notifié aux autorités sanitaires.",
+   "La rage ne fait l'objet d'aucune surveillance."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : surveillance active des animaux sauvages et domestiques.",
+   "Inexact : la déclaration est obligatoire.",
+   "Exact : maladie à déclaration obligatoire.",
+   "Exact : conséquence de la déclaration obligatoire.",
+   "Inexact : elle fait l'objet d'une surveillance active."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont justes s'agissant de les zoonoses virales ?",
+  "options": [
+   "Les arboviroses sont des zoonoses à transmission par vecteur.",
+   "La transmission peut être directe ou via un vecteur.",
+   "La rage est une zoonose à transmission par vecteur arthropode.",
+   "Les zoonoses sont des maladies animales transmissibles à l'homme.",
+   "La rage est un exemple de zoonose à transmission directe."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : arboviroses = transmission par vecteur arthropode.",
+   "Exact : transmission directe ou par vecteur (arboviroses).",
+   "Inexact : la rage est à transmission directe, sans vecteur.",
+   "Exact : définition des zoonoses.",
+   "Exact : la rage se transmet directement, sans vecteur."
+  ]
+ },
+ {
+  "q": "Concernant le virus rabique, quelles propositions sur les exemples de zoonoses virales à transmission directe sont exactes ?",
+  "options": [
+   "La fièvre Ebola (Filovirus).",
+   "La rage.",
+   "Les hantavirus.",
+   "La dengue.",
+   "La fièvre de Lassa (Arenavirus)."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : exemple cité dans le cours.",
+   "Exact : exemple cité dans le cours.",
+   "Exact : exemples cités dans le cours.",
+   "Inexact : la dengue est une arbovirose à transmission par vecteur.",
+   "Exact : exemple cité dans le cours."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous sur le réservoir du virus rabique, lesquelles sont vraies ?",
+  "options": [
+   "Les animaux à sang froid sont le réservoir.",
+   "Il n'existe pas de réservoir animal.",
+   "Le réservoir est constitué d'invertébrés.",
+   "Le réservoir est animal : vertébrés à sang chaud.",
+   "L'homme n'est qu'un hôte accidentel."
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : le réservoir est constitué d'animaux à sang chaud.",
+   "Inexact : le réservoir est animal.",
+   "Inexact : le réservoir est constitué de vertébrés.",
+   "Exact : réservoir constitué de vertébrés à sang chaud.",
+   "Exact : la rage atteint l'homme accidentellement."
+  ]
+ },
+ {
+  "q": "Un voyageur se rend en Asie du Sud-Est. Quels animaux peuvent y constituer un réservoir de rage ?",
+  "options": [
+   "Les primates non humains uniquement.",
+   "Les mangoustes.",
+   "Les loups.",
+   "Les renards.",
+   "Les chiens."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : les réservoirs asiatiques sont chiens, mangoustes, loups et renards.",
+   "Exact : les mangoustes sont réservoir en Asie.",
+   "Exact : les loups sont réservoir en Asie.",
+   "Exact : les renards sont réservoir en Asie.",
+   "Exact : les chiens sont réservoir en Asie."
+  ]
+ },
+ {
+  "q": "Quelles réponses sont correctes à propos de la rage selvatique ?",
+  "options": [
+   "En Europe, le renard est un réservoir de rage selvatique.",
+   "Les chauves-souris peuvent être un réservoir de rage sauvage.",
+   "La rage selvatique n'existe pas.",
+   "Le réservoir est la faune sauvage.",
+   "Le chien est le réservoir de la rage selvatique."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : le renard est cité parmi les réservoirs européens.",
+   "Exact : les chauves-souris sont réservoir en Europe.",
+   "Inexact : c'est l'un des trois types de rage selon le réservoir.",
+   "Exact : rage selvatique = rage sauvage, réservoir faune sauvage.",
+   "Inexact : le chien est le réservoir de la rage urbaine."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la rage des chiroptères, lesquelles sont exactes ?",
+  "options": [
+   "En Amérique du Nord, les chauves-souris insectivores sont réservoir.",
+   "Les oiseaux sont le réservoir de la rage des chiroptères.",
+   "Le réservoir est constitué par les chauves-souris.",
+   "Les chauves-souris ne transmettent jamais la rage.",
+   "En Amérique du Sud, les chauves-souris hématophages sont réservoir."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : citées pour l'Amérique du Nord.",
+   "Inexact : les chiroptères sont des mammifères, pas des oiseaux.",
+   "Exact : rage des chiroptères = chauves-souris.",
+   "Inexact : elles en sont un réservoir reconnu.",
+   "Exact : citées pour l'Amérique du Sud."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'histoire de la rage ?",
+  "options": [
+   "L'étiologie virale a été démontrée par Robert Koch en 1882.",
+   "Celsus (100 av. J.-C.) en a donné une des premières descriptions cliniques.",
+   "La rage est connue depuis l'Antiquité.",
+   "Aristote (322 av. J.-C.) en a donné une des premières descriptions cliniques.",
+   "L'origine infectieuse a été établie en 1808."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : elle a été démontrée par Pasteur en 1880.",
+   "Exact : Celsus, 100 avant J.-C.",
+   "Exact : maladie connue depuis l'Antiquité.",
+   "Exact : Aristote, 322 avant J.-C.",
+   "Exact : origine infectieuse établie en 1808."
+  ]
+ },
+ {
+  "q": "À propos de la découverte de la rage, quelles propositions sont correctes ?",
+  "options": [
+   "Pasteur a démontré l'étiologie virale de la rage en 1880.",
+   "Le virus de la rage a été identifié avant les travaux de Pasteur.",
+   "L'origine infectieuse de la rage a été établie en 1808.",
+   "Aristote et Celsus ont décrit cliniquement la rage humaine dans l'Antiquité.",
+   "La rage n'a été décrite qu'au XXe siècle."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Pasteur, 1880.",
+   "Inexact : l'étiologie virale date de Pasteur en 1880.",
+   "Exact : origine infectieuse établie en 1808.",
+   "Exact : premières descriptions cliniques antiques.",
+   "Inexact : elle est connue depuis l'Antiquité."
+  ]
+ },
+ {
+  "q": "Concernant la rage en Afrique, cochez les affirmations exactes.",
+  "options": [
+   "Le renard est le seul réservoir en Afrique.",
+   "L'Afrique est indemne de rage.",
+   "Les mangoustes sont un réservoir en Afrique.",
+   "Les chacals sont un réservoir en Afrique.",
+   "Les chiens sont un réservoir en Afrique."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : les réservoirs africains sont chiens, chacals et mangoustes.",
+   "Inexact : la rage y est présente avec ces réservoirs.",
+   "Exact : les mangoustes sont réservoir en Afrique.",
+   "Exact : les chacals sont réservoir en Afrique.",
+   "Exact : les chiens sont réservoir en Afrique."
+  ]
+ },
+ {
+  "q": "S'agissant de la rage au Moyen-Orient, quelles sont les réponses justes ?",
+  "options": [
+   "Le chacal est le seul réservoir.",
+   "Le Moyen-Orient est indemne de rage.",
+   "Le renard est un réservoir.",
+   "La chauve-souris hématophage est le réservoir principal.",
+   "Le chien est un réservoir."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Inexact : les réservoirs cités sont le renard et le chien.",
+   "Inexact : renard et chien y sont réservoirs.",
+   "Exact : le renard est cité au Moyen-Orient.",
+   "Inexact : elle est réservoir en Amérique du Sud.",
+   "Exact : le chien est cité au Moyen-Orient."
+  ]
+ },
+ {
+  "q": "Au sujet de le risque rabique pour les voyageurs, lesquelles des propositions suivantes sont vraies ?",
+  "options": [
+   "Il ne faut pas approcher les animaux inconnus, notamment les chiots.",
+   "Les jeunes enfants, dès l'âge de la marche, sont particulièrement exposés.",
+   "Il faut informer les voyageurs des risques.",
+   "Aucune précaution n'est nécessaire pour les voyageurs en zone d'endémie.",
+   "Les voyageurs en Afrique, Asie et Amérique du Sud sont concernés par la vaccination préventive."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : recommandation explicite du cours.",
+   "Exact : cible prioritaire de l'information et de la vaccination.",
+   "Exact : l'information des voyageurs fait partie de la prévention.",
+   "Inexact : information et vaccination préventive sont recommandées.",
+   "Exact : zones d'endémie citées pour la vaccination des voyageurs."
+  ]
+ },
+ {
+  "q": "Dans le cadre de la rage urbaine, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est prévenue par la vaccination orale des renards.",
+   "La vaccination des chiens et des chats la prévient.",
+   "Elle est aussi appelée rage des rues.",
+   "Le chien en est le principal réservoir.",
+   "L'élimination des animaux errants la prévient."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : la vaccination orale des renards concerne la faune sauvage.",
+   "Exact : vaccination des animaux de compagnie.",
+   "Exact : rage canine = rage des rues.",
+   "Exact : le chien est le principal réservoir de la rage des rues.",
+   "Exact : mesure de prévention de la rage urbaine."
+  ]
+ },
+ {
+  "q": "Relativement à la prévention de la rage dans la faune sauvage, quelles affirmations sont correctes ?",
+  "options": [
+   "La faune sauvage ne joue aucun rôle dans la rage.",
+   "La vaccination des renards se fait par injections individuelles systématiques.",
+   "Les chauves-souris hématophages d'Amérique latine causent des pertes importantes dans le cheptel bovin.",
+   "L'élimination des animaux sauvages réservoirs est envisagée mais difficile (faune protégée ou peu accessible).",
+   "La vaccination orale des renards est utilisée."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : elle est le réservoir de la rage selvatique.",
+   "Inexact : c'est une vaccination orale.",
+   "Exact : conséquence citée en Amérique latine.",
+   "Exact : limite explicitée dans le cours.",
+   "Exact : mesure citée pour la faune sauvage."
+  ]
+ },
+ {
+  "q": "Un enfant est mordu par un chiot inconnu dans un pays d'endémie. Quelles notions épidémiologiques s'appliquent ?",
+  "options": [
+   "L'information des voyageurs insiste sur le danger d'approcher un animal inconnu.",
+   "La morsure par un chiot inconnu est sans risque.",
+   "Le pays d'endémie impose d'évoquer la rage après toute morsure.",
+   "Le chiot inconnu est un animal à risque rabique.",
+   "Seule la morsure par un animal sauvage fait évoquer la rage."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : recommandation de prévention.",
+   "Inexact : le chiot inconnu est classiquement l'animal à risque.",
+   "Exact : il faut évoquer la rage après toute morsure par un animal suspect.",
+   "Exact : le cours insiste sur le danger d'approcher un animal inconnu, très souvent un chiot.",
+   "Inexact : toute morsure par un animal suspect fait évoquer la rage."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont exactes à propos de les chiroptères et la rage ?",
+  "options": [
+   "Seules les chauves-souris peuvent être porteuses asymptomatiques.",
+   "Les chauves-souris sont des oiseaux réservoirs de rage.",
+   "Les chauves-souris sont le réservoir de la rage des chiroptères.",
+   "En Europe, les chauves-souris sont citées parmi les réservoirs.",
+   "Les chauves-souris développent toujours une rage mortelle symptomatique."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : seules les chauves-souris semblent pouvoir être porteuses asymptomatiques.",
+   "Inexact : ce sont des mammifères.",
+   "Exact : rage des chiroptères = chauves-souris.",
+   "Exact : réservoirs européens : renards et chauves-souris.",
+   "Inexact : elles peuvent être porteuses asymptomatiques."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes relatives à les données marocaines sur la rage, lesquelles sont exactes ?",
+  "options": [
+   "La mortalité humaine annuelle est estimée à 20-30 décès.",
+   "Aucun cas de rage humaine n'a été enregistré depuis 2000.",
+   "De 2000 à 2014 : 3 300 cas de rage animale.",
+   "Le Maroc est un pays endémique.",
+   "De 2000 à 2014 : 320 cas de rage humaine."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : 20 à 30 morts par an.",
+   "Inexact : 320 cas humains entre 2000 et 2014.",
+   "Exact : données DELM 2000-2014.",
+   "Exact : endémie confirmée au Maroc.",
+   "Exact : données DELM 2000-2014."
+  ]
+ },
+ {
+  "q": "Quelles propositions peut-on retenir comme exactes au sujet de la rage comme zoonose ?",
+  "options": [
+   "L'homme constitue le réservoir principal.",
+   "C'est une maladie exclusivement humaine.",
+   "L'homme est un hôte accidentel.",
+   "C'est une maladie animale transmissible à l'homme.",
+   "La transmission à l'homme se fait le plus souvent par morsure."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : le réservoir est constitué de vertébrés à sang chaud animaux.",
+   "Inexact : c'est une zoonose, le réservoir est animal.",
+   "Exact : la rage atteint l'homme accidentellement.",
+   "Exact : définition de la zoonose appliquée à la rage.",
+   "Exact : la morsure est le mode principal (+++)."
+  ]
+ },
+ {
+  "q": "À propos du virus de la rage, quelles propositions relatives à les vecteurs (distributeurs) du virus rabique sont exactes ?",
+  "options": [
+   "Les moustiques sont les vecteurs de la rage.",
+   "La faune sauvage distribue la rage selvatique.",
+   "Le chien est le principal distributeur de la rage urbaine.",
+   "Le terme « vecteur » désigne ici l'animal réservoir/distributeur, vertébré à sang chaud.",
+   "La transmission se fait par piqûre d'arthropode vecteur."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : la rage est à transmission directe.",
+   "Exact : la faune sauvage est le réservoir de la rage selvatique.",
+   "Exact : chien = principal réservoir de la rage des rues.",
+   "Exact : le cours parle de réservoir et vecteur (distributeur).",
+   "Inexact : pas de vecteur arthropode dans la rage."
+  ]
+ },
+ {
+  "q": "Cochez les propositions exactes concernant la répartition mondiale des réservoirs.",
+  "options": [
+   "L'Australie est citée comme zone de rage canine.",
+   "En Amérique du Sud, le chien et la chauve-souris hématophage sont réservoirs.",
+   "L'Asie compte parmi les zones où le chien est réservoir.",
+   "En Asie, les réservoirs incluent chiens, mangoustes, loups et renards.",
+   "Aucune donnée OMS n'existe sur la mortalité mondiale."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : l'Australie n'est pas citée parmi les zones.",
+   "Exact : réservoirs sud-américains.",
+   "Exact : le chien est réservoir en Asie.",
+   "Exact : quatre réservoirs cités en Asie.",
+   "Inexact : l'OMS estime plus de 55 000 décès par an."
+  ]
+ },
+ {
+  "q": "Indiquez les affirmations correctes à propos de la notion de rage des rues.",
+  "options": [
+   "Elle se prévient par la vaccination des animaux de compagnie.",
+   "Le chien en est le principal réservoir, rarement le chat.",
+   "C'est la rage canine urbaine.",
+   "Elle ne concerne que les zones rurales.",
+   "C'est la forme selvatique de la rage."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : vaccination des chiens et chats.",
+   "Exact : chien principal, chat rarement.",
+   "Exact : rage des rues = rage canine urbaine.",
+   "Inexact : c'est la rage urbaine, dite des rues.",
+   "Inexact : la forme selvatique a pour réservoir la faune sauvage."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes au sujet de la transmission de la rage à l'homme ?",
+  "options": [
+   "La morsure est le mode principal de contamination.",
+   "La manipulation d'animaux morts peut contaminer.",
+   "La griffure peut transmettre le virus.",
+   "Le léchage sur peau érodée ou muqueuse peut transmettre le virus.",
+   "La piqûre de moustique transmet la rage."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : morsure +++ : mode principal.",
+   "Exact : voie cutanée : manipulation d'animaux morts.",
+   "Exact : voie cutanée : griffure.",
+   "Exact : léchage sur peau érodée ou muqueuses.",
+   "Inexact : pas de vecteur arthropode ; transmission directe."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur la voie cutanée de contamination, lesquels sont exacts ?",
+  "options": [
+   "Manipulation d'animaux morts.",
+   "Griffure.",
+   "Morsure.",
+   "Léchage.",
+   "Contact avec la fourrure d'un animal sain."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : voie cutanée citée.",
+   "Exact : la griffure est une voie cutanée.",
+   "Exact : morsure +++ : voie cutanée principale.",
+   "Exact : le léchage est une voie cutanée.",
+   "Inexact : ce n'est pas un mode de contamination cité."
+  ]
+ },
+ {
+  "q": "Sélectionnez les propositions justes concernant les modes rares de contamination.",
+  "options": [
+   "La greffe de rétine a causé 8 cas dans le monde.",
+   "Les soins à un homme enragé peuvent contaminer.",
+   "La voie digestive est le mode principal.",
+   "La transfusion sanguine est le mode principal.",
+   "La voie aérienne (aérosol) est un mode rare."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : 8 cas de transmission par greffe de rétine.",
+   "Exact : mode cité dans le cours.",
+   "Inexact : la voie cutanée (morsure) est le mode principal.",
+   "Inexact : le mode principal est la morsure.",
+   "Exact : voie aérienne rare : aérosol."
+  ]
+ },
+ {
+  "q": "Quelles sont les assertions exactes concernant la contagiosité interhumaine ?",
+  "options": [
+   "La rage se transmet couramment d'homme à homme par voie aérienne.",
+   "Les soins à un homme enragé exposent à la contamination.",
+   "La salive d'un patient enragé contient du virus.",
+   "La rage est hautement contagieuse d'homme à homme comme la grippe.",
+   "La transmission interhumaine habituelle n'existe pas en dehors de circonstances exceptionnelles."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Inexact : pas de transmission interhumaine aérienne habituelle.",
+   "Exact : mode de contamination cité.",
+   "Exact : diffusion centrifuge vers les glandes salivaires.",
+   "Inexact : l'homme est un hôte accidentel, pas un maillon de transmission.",
+   "Exact : seuls greffe et soins à un enragé sont cités."
+  ]
+ },
+ {
+  "q": "Parmi les items suivants sur le rôle de la salive, lesquels sont exacts ?",
+  "options": [
+   "Le léchage sur peau intacte impose vaccination et sérothérapie.",
+   "La salive d'un animal enragé est virulente.",
+   "La contamination des muqueuses par la salive relève de la catégorie d'exposition la plus grave.",
+   "Le virus diffuse de façon centrifuge vers les glandes salivaires.",
+   "La salive ne contient jamais de virus."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : catégorie I : aucun traitement si anamnèse fiable.",
+   "Exact : la morsure (salive) est le mode principal de transmission.",
+   "Exact : catégorie III : sérothérapie + vaccin.",
+   "Exact : diffusion centrifuge : cerveau vers glandes salivaires.",
+   "Inexact : le virus diffuse vers les glandes salivaires."
+  ]
+ },
+ {
+  "q": "Un homme est griffé par un chat errant : griffures bénignes sans saignement. Quelle est la conduite à tenir ?",
+  "options": [
+   "Il s'agit d'une exposition nécessitant le vaccin antirabique immédiatement.",
+   "La sérothérapie est systématiquement indiquée.",
+   "Il faut sacrifier immédiatement le chat pour analyse.",
+   "Le traitement peut être arrêté si l'animal est en bonne santé après 10 jours d'observation.",
+   "Aucune mesure n'est nécessaire."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Exact : catégorie II : vaccin immédiat.",
+   "Inexact : la sérothérapie concerne la catégorie III.",
+   "Inexact : il ne faut pas sacrifier un animal suspect.",
+   "Exact : arrêt si animal sain après 10 jours.",
+   "Inexact : la catégorie II impose la vaccination immédiate."
+  ]
+ },
+ {
+  "q": "Relevez les propositions exactes à propos de les catégories d'exposition de l'OMS.",
+  "options": [
+   "Contact ou alimentation de l'animal, léchage sur peau intacte : aucun traitement si anamnèse complète et fiable.",
+   "Peau découverte mordillée, griffures bénignes sans saignement, léchage sur peau érodée : vaccin immédiat.",
+   "Toute exposition, même minime, impose la sérothérapie.",
+   "Morsure ou griffure ayant traversé la peau : vaccin et sérothérapie.",
+   "Contamination des muqueuses par la salive : vaccin et sérothérapie."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : catégorie I : aucun traitement.",
+   "Exact : catégorie II : vaccin immédiat.",
+   "Inexact : la sérothérapie est réservée à la catégorie III.",
+   "Exact : catégorie III : sérothérapie + vaccin.",
+   "Exact : catégorie III."
+  ]
+ },
+ {
+  "q": "Le virus rabique : quelles propositions concernant l'exposition de catégorie II sont exactes ?",
+  "options": [
+   "La sérothérapie est systématique.",
+   "Le vaccin est administré immédiatement.",
+   "Le traitement est arrêté si la recherche de la rage est négative.",
+   "Exemples : peau mordillée à nu, excoriations sans saignement, léchage sur peau érodée.",
+   "Le traitement est arrêté si l'animal est en bonne santé après 10 jours d'observation."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : pas de sérothérapie en catégorie II.",
+   "Exact : catégorie II : vacciner immédiatement.",
+   "Exact : arrêt si recherche négative.",
+   "Exact : définition de la catégorie II.",
+   "Exact : arrêt possible après 10 jours d'observation."
+  ]
+ },
+ {
+  "q": "Au sujet du virus de la rage, quelles affirmations sur l'exposition de catégorie III sont vraies ?",
+  "options": [
+   "Morsures ou griffures ayant traversé la peau.",
+   "Aucun traitement n'est nécessaire.",
+   "La sérothérapie est indiquée en plus du vaccin.",
+   "Le traitement peut être arrêté si l'animal est sain après 10 jours.",
+   "Contamination des muqueuses par la salive."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : définition de la catégorie III.",
+   "Inexact : la catégorie III impose vaccin et sérothérapie.",
+   "Exact : catégorie III : sérothérapie + vaccin.",
+   "Exact : arrêt si animal en bonne santé après 10 jours.",
+   "Exact : catégorie III."
+  ]
+ },
+ {
+  "q": "En ce qui concerne l'observation de l'animal mordeur, quelles propositions sont exactes ?",
+  "options": [
+   "L'observation dure 10 jours.",
+   "Un animal suspect ne doit pas être sacrifié.",
+   "Si l'animal est en bonne santé après 10 jours, le traitement est arrêté.",
+   "Si l'animal est euthanasié et la recherche négative, le traitement est arrêté.",
+   "L'animal mordeur doit être sacrifié d'emblée pour analyse."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 10 jours d'observation.",
+   "Exact : il ne faut pas sacrifier un animal suspect.",
+   "Exact : arrêt du traitement si animal sain à 10 jours.",
+   "Exact : arrêt si recherche négative après euthanasie.",
+   "Inexact : il ne faut pas sacrifier un animal suspect."
+  ]
+ },
+ {
+  "q": "À propos de la rage, quelles propositions sur la transmission par morsure sont correctes ?",
+  "options": [
+   "Seules les morsures profondes transmettent le virus.",
+   "La morsure est un mode exceptionnel de transmission.",
+   "C'est la voie cutanée principale (morsure +++).",
+   "Toute morsure d'animal suspect impose d'évoquer la rage.",
+   "Le risque augmente avec la proximité des centres nerveux."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : griffures et léchages transmettent aussi.",
+   "Inexact : c'est le mode principal, noté +++.",
+   "Exact : la morsure est le mode principal.",
+   "Exact : il faut évoquer la rage après toute morsure suspecte.",
+   "Exact : l'invasion est d'autant plus rapide que proche des centres nerveux."
+  ]
+ },
+ {
+  "q": "Une femme est mordue à la main par un chien errant qui s'enfuit. Quelle conduite est correcte ?",
+  "options": [
+   "Lavage abondant de la plaie.",
+   "Antibiothérapie et prophylaxie antitétanique associées.",
+   "Orientation vers un centre antirabique.",
+   "Abstention de tout traitement car la plaie est petite.",
+   "Vaccination et sérothérapie (morsure ayant traversé la peau, animal non observable)."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : traitement non spécifique : lavage abondant.",
+   "Exact : traitement non spécifique de la blessure.",
+   "Exact : traitement prescrit obligatoirement en centre antirabique.",
+   "Inexact : toute morsure suspecte impose l'évaluation et le traitement.",
+   "Exact : catégorie III : animal en fuite, non observable."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont justes s'agissant de la transmission par aérosol ?",
+  "options": [
+   "Elle concerne l'inhalation d'aérosols virulents.",
+   "C'est le mode principal de transmission.",
+   "Elle n'a jamais été décrite.",
+   "L'inhalation peut être à l'origine de l'infection.",
+   "C'est un mode de contamination rare."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : voie aérienne : aérosol.",
+   "Inexact : le mode principal est la morsure.",
+   "Inexact : elle est citée comme mode rare.",
+   "Exact : l'inhalation est citée comme voie de pénétration.",
+   "Exact : voie aérienne rare."
+  ]
+ },
+ {
+  "q": "Concernant le virus rabique, quelles propositions sur la greffe de cornée et de rétine sont exactes ?",
+  "options": [
+   "La transplantation cornéenne est citée comme voie de pénétration du virus.",
+   "Aucun cas de transmission par greffe n'a été décrit.",
+   "La greffe de rétine a été à l'origine de 8 cas dans le monde.",
+   "La greffe de cornée est un mode fréquent de transmission.",
+   "La transplantation d'organe d'un donneur enragé expose au risque."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : voie de pénétration citée en physiopathologie.",
+   "Inexact : 8 cas par greffe de rétine sont décrits.",
+   "Exact : 8 cas mondiaux cités.",
+   "Inexact : c'est un mode exceptionnel.",
+   "Exact : la greffe de tissu nerveux/oculaire est une voie citée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous sur la manipulation des animaux morts, lesquelles sont vraies ?",
+  "options": [
+   "Seule la morsure par un animal vivant transmet.",
+   "Le cadavre d'un animal enragé est sans danger.",
+   "C'est une voie cutanée de contamination citée.",
+   "Le virus résistant à la putréfaction, le cadavre reste dangereux.",
+   "Des précautions (gants) s'imposent lors de la manipulation."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : la manipulation de cadavres transmet aussi.",
+   "Inexact : la manipulation d'animaux morts est contaminante.",
+   "Exact : manipulation d'animaux morts : voie cutanée.",
+   "Exact : résistance à la putréfaction + transmission par manipulation.",
+   "Exact : précaution logique face à un mode de contamination cité."
+  ]
+ },
+ {
+  "q": "Quelles réponses sont correctes à propos de le léchage comme mode de contamination ?",
+  "options": [
+   "Le léchage sur muqueuse relève de la catégorie III.",
+   "Le léchage n'est jamais contaminant.",
+   "Le léchage sur peau érodée est une exposition de catégorie II.",
+   "Tout léchage impose la sérothérapie.",
+   "Le léchage sur peau intacte ne nécessite aucun traitement si l'anamnèse est fiable."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : contamination des muqueuses par la salive = catégorie III.",
+   "Inexact : le léchage sur peau érodée ou muqueuse est contaminant.",
+   "Exact : léchage sur peau érodée = catégorie II.",
+   "Inexact : la sérothérapie concerne la catégorie III.",
+   "Exact : catégorie I : aucun traitement."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les soins aux patients enragés, lesquelles sont exactes ?",
+  "options": [
+   "Les soins à un homme enragé sont un mode de contamination cité.",
+   "Des précautions s'imposent pour le personnel soignant.",
+   "La transmission soignant-patient est le mode épidémique principal.",
+   "La salive du patient peut contenir du virus.",
+   "Aucune précaution n'est nécessaire."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : mode cité dans le cours.",
+   "Exact : précautions face à un patient excrétant du virus.",
+   "Inexact : le mode principal reste la morsure animale.",
+   "Exact : diffusion centrifuge vers les glandes salivaires.",
+   "Inexact : les soins à un enragé sont contaminants."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les fausses idées sur la transmission ?",
+  "options": [
+   "La rage ne se transmet pas par voie féco-orale.",
+   "La rage se transmet par les éternuements comme la grippe.",
+   "La rage ne se transmet pas par piqûre de moustique.",
+   "La rage ne se transmet pas par simple contact avec un animal sain.",
+   "La rage se transmet par l'eau de boisson."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : mode non cité, non décrit.",
+   "Inexact : pas de transmission aérienne interhumaine habituelle.",
+   "Exact : pas de vecteur arthropode.",
+   "Exact : il faut morsure, griffure, léchage sur peau lésée ou muqueuse.",
+   "Inexact : mode non décrit."
+  ]
+ },
+ {
+  "q": "Un enfant caresse un chien inconnu qui lui lèche les mains intactes. Que faut-il faire ?",
+  "options": [
+   "Sérothérapie immédiate.",
+   "Il s'agit d'une exposition de catégorie I.",
+   "Aucun traitement si l'anamnèse est complète et fiable.",
+   "Rassurer et informer sur les risques en cas de morsure ultérieure.",
+   "Vaccination immédiate systématique."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : la sérothérapie concerne la catégorie III.",
+   "Exact : léchage sur peau intacte = catégorie I.",
+   "Exact : catégorie I : aucun traitement.",
+   "Exact : l'information fait partie de la prévention.",
+   "Inexact : pas de vaccin en catégorie I."
+  ]
+ },
+ {
+  "q": "À propos de la pénétration du virus dans l'organisme, quelles propositions sont correctes ?",
+  "options": [
+   "La pénétration se fait par morsure ou blessure.",
+   "La transplantation cornéenne est une voie de pénétration.",
+   "La peau intacte est une voie de pénétration.",
+   "La pénétration se fait par ingestion d'aliments contaminés.",
+   "L'inhalation est une voie de pénétration."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : voie cutanée principale.",
+   "Exact : voie citée en physiopathologie.",
+   "Inexact : il faut une effraction cutanée ou une muqueuse.",
+   "Inexact : voie digestive non citée.",
+   "Exact : voie aérienne citée."
+  ]
+ },
+ {
+  "q": "Concernant les modes de contamination de l'homme cités dans le cours, cochez les affirmations exactes.",
+  "options": [
+   "Léchage.",
+   "Morsure.",
+   "Griffure.",
+   "Aérosol (rare).",
+   "Piqûre de tique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : voie cutanée.",
+   "Exact : morsure +++ : mode principal.",
+   "Exact : voie cutanée.",
+   "Exact : voie aérienne rare.",
+   "Inexact : mode non cité."
+  ]
+ },
+ {
+  "q": "S'agissant de la transmission par griffure, quelles sont les réponses justes ?",
+  "options": [
+   "La griffure ne transmet jamais la rage.",
+   "Les griffures ayant traversé la peau relèvent de la catégorie III.",
+   "La griffure est une voie cutanée de transmission.",
+   "Toute griffure impose la sérothérapie.",
+   "Les griffures bénignes sans saignement relèvent de la catégorie II."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Inexact : la griffure est un mode de transmission.",
+   "Exact : catégorie III : sérothérapie + vaccin.",
+   "Exact : voie cutanée citée.",
+   "Inexact : la sérothérapie est réservée à la catégorie III.",
+   "Exact : catégorie II."
+  ]
+ },
+ {
+  "q": "Au sujet de le risque lié aux chauves-souris, lesquelles des propositions suivantes sont vraies ?",
+  "options": [
+   "Les chauves-souris sont un réservoir de rage.",
+   "Il faut éviter de manipuler les chauves-souris à mains nues.",
+   "Les chauves-souris sont sans risque car porteuses saines.",
+   "Une morsure de chauve-souris expose à la rage.",
+   "Les chauves-souris peuvent être porteuses asymptomatiques."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : rage des chiroptères.",
+   "Exact : précaution face à un réservoir connu.",
+   "Inexact : le portage asymptomatique n'exclut pas l'excrétion.",
+   "Exact : tout mammifère réservoir mordeur expose.",
+   "Exact : seules porteuses asymptomatiques possibles."
+  ]
+ },
+ {
+  "q": "Un spéléologue explore une grotte peuplée de chauves-souris. Quelles affirmations sont exactes ?",
+  "options": [
+   "Aucune précaution n'est recommandée.",
+   "Toute morsure ou griffure impose une évaluation en centre antirabique.",
+   "Les chauves-souris sont un réservoir potentiel de rage.",
+   "La voie aérienne est un mode rare mais cité de contamination.",
+   "Le risque rabique est nul dans les grottes."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : précautions nécessaires face au réservoir.",
+   "Exact : toute exposition par un animal réservoir doit être évaluée.",
+   "Exact : rage des chiroptères.",
+   "Exact : aérosol : mode rare cité.",
+   "Inexact : les chauves-souris sont un réservoir."
+  ]
+ },
+ {
+  "q": "Dans le cadre de la physiopathologie de la rage, quelles propositions sont exactes ?",
+  "options": [
+   "Premier temps : invasion centripète du SNC.",
+   "L'infection évolue en un seul temps digestif.",
+   "L'infection évolue en deux temps.",
+   "Le virus reste localisé au point d'inoculation.",
+   "Second temps : diffusion centrifuge à partir du cerveau."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : invasion centripète du système nerveux central.",
+   "Inexact : l'évolution est nerveuse, en deux temps.",
+   "Exact : évolution en deux temps décrite dans le cours.",
+   "Inexact : le virus gagne le SNC puis diffuse.",
+   "Exact : diffusion centrifuge depuis le cerveau."
+  ]
+ },
+ {
+  "q": "Relativement à l'invasion centripète, quelles affirmations sont correctes ?",
+  "options": [
+   "Elle est d'autant plus rapide que l'innervation locale est riche.",
+   "Elle se fait par voie axonale (nerfs périphériques).",
+   "Elle est d'autant plus rapide que la morsure est proche des centres nerveux.",
+   "Elle se fait par voie sanguine (virémie).",
+   "Sa vitesse est indépendante du site de morsure."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : rapidité liée à la richesse de l'innervation.",
+   "Exact : entrée dans le SNC par la voie axonale.",
+   "Exact : rapidité liée à la proximité des centres nerveux.",
+   "Inexact : la progression est nerveuse, pas sanguine.",
+   "Inexact : elle dépend de la proximité et de l'innervation."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont exactes à propos de la diffusion centrifuge ?",
+  "options": [
+   "Elle gagne uniquement la peau.",
+   "Elle gagne les glandes salivaires.",
+   "Elle gagne le pancréas et les reins.",
+   "Elle part du cerveau vers la périphérie.",
+   "Elle précède l'invasion centripète."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : elle gagne glandes salivaires, pancréas et reins.",
+   "Exact : les glandes salivaires sont gagnées.",
+   "Exact : pancréas et reins sont gagnés.",
+   "Exact : diffusion centrifuge à partir du cerveau.",
+   "Inexact : elle fait suite à l'invasion du SNC."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes relatives à le neurotropisme du virus rabique, lesquelles sont exactes ?",
+  "options": [
+   "Le virus provoque une méningo-encéphalomyélite.",
+   "Le virus est neurotrope : il gagne le système nerveux central.",
+   "Le virus est dermotrope exclusif.",
+   "Le virus est hépatotrope.",
+   "La progression vers le SNC emprunte les axones nerveux."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : méningo-encéphalomyélite mortelle.",
+   "Exact : invasion centripète du SNC.",
+   "Inexact : le virus gagne le SNC, pas seulement la peau.",
+   "Inexact : le tropisme est nerveux, pas hépatique.",
+   "Exact : voie axonale."
+  ]
+ },
+ {
+  "q": "Quelles propositions peut-on retenir comme exactes au sujet de l'incubation de la rage ?",
+  "options": [
+   "L'incubation dure systématiquement moins d'une semaine.",
+   "Sa durée est variable, de 60 à 365 jours.",
+   "Pendant l'incubation, le virus se multiplie dans le tissu musculaire.",
+   "Il y a beaucoup de virions circulants pendant l'incubation.",
+   "L'incubation est silencieuse (asymptomatique)."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Inexact : elle dure de 60 à 365 jours.",
+   "Exact : 60 à 365 jours selon le tableau du cours.",
+   "Exact : multiplication dans le tissu musculaire.",
+   "Inexact : peu de virions à ce stade.",
+   "Exact : incubation de durée variable, silencieuse."
+  ]
+ },
+ {
+  "q": "Un patient mordu au visage développe des signes 3 semaines après la morsure, un autre mordu au pied après 3 mois. Quelle explication est correcte ?",
+  "options": [
+   "La durée d'incubation est identique quel que soit le site.",
+   "Le virus se propage par voie axonale centripète.",
+   "La richesse de l'innervation locale influence la rapidité.",
+   "La proximité des centres nerveux accélère l'invasion du SNC.",
+   "Le virus se propage par voie sanguine à vitesse constante."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : elle varie selon le site de morsure.",
+   "Exact : progression nerveuse centripète.",
+   "Exact : innervation +++ = invasion plus rapide.",
+   "Exact : invasion d'autant plus rapide que proche des centres nerveux.",
+   "Inexact : la propagation est axonale, pas sanguine."
+  ]
+ },
+ {
+  "q": "À propos du virus de la rage, quelles propositions relatives à les deux temps de l'infection rabique sont exactes ?",
+  "options": [
+   "La diffusion centrifuge explique la présence du virus dans la salive.",
+   "Temps 1 : invasion centripète du SNC.",
+   "Les deux temps sont simultanés dès l'inoculation.",
+   "Temps 2 : diffusion centrifuge vers glandes salivaires, pancréas, reins.",
+   "L'invasion centripète va du cerveau vers la peau."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : les glandes salivaires excrètent le virus.",
+   "Exact : premier temps : invasion centripète.",
+   "Inexact : l'invasion précède la diffusion centrifuge.",
+   "Exact : second temps : diffusion centrifuge.",
+   "Inexact : elle va de la périphérie vers le SNC."
+  ]
+ },
+ {
+  "q": "Cochez les propositions exactes concernant la multiplication virale initiale.",
+  "options": [
+   "Le statut immunologique est à 0 pendant l'incubation.",
+   "Le virus se multiplie massivement dans le sang d'emblée.",
+   "Le virus se multiplie d'abord dans le tissu musculaire.",
+   "Des anticorps sont détectables dès l'inoculation.",
+   "Peu de virions sont produits à ce stade."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : aucun anticorps détecté à ce stade.",
+   "Inexact : pas de virémie massive initiale.",
+   "Exact : multiplication dans le tissu musculaire.",
+   "Inexact : statut immunologique à 0 pendant l'incubation.",
+   "Exact : peu de virions pendant l'incubation."
+  ]
+ },
+ {
+  "q": "Indiquez les affirmations correctes à propos de la voie axonale.",
+  "options": [
+   "Le transport est hématogène.",
+   "Le virus emprunte les nerfs périphériques.",
+   "C'est la voie d'entrée du virus dans le SNC.",
+   "Le transport est centripète, vers les centres nerveux.",
+   "Le virus emprunte les vaisseaux lymphatiques."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : le transport est nerveux, pas sanguin.",
+   "Exact : progression le long des nerfs.",
+   "Exact : exemple d'entrée dans le SNC par la voie axonale.",
+   "Exact : invasion centripète.",
+   "Inexact : la voie est axonale, pas lymphatique."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes au sujet de la phase d'invasion du SNC ?",
+  "options": [
+   "Les anticorps apparaissent dans le sérum et le LCR lors de la phase neurologique.",
+   "Aucun anticorps n'est jamais détecté.",
+   "Peu de virions sont présents dans le SNC au début (prodromes).",
+   "Le titre viral reste nul jusqu'au coma.",
+   "Le titre en virions devient élevé lors de la phase neurologique."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : anticorps sériques et dans le LCR.",
+   "Inexact : des anticorps apparaissent en phase neurologique.",
+   "Exact : peu de virions dans le SNC aux prodromes.",
+   "Inexact : le titre est élevé dès la phase neurologique 1.",
+   "Exact : titre élevé en phase neurologique."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur les mécanismes de la salivation virulente, lesquels sont exacts ?",
+  "options": [
+   "Les glandes salivaires ne sont jamais infectées.",
+   "La morsure est ainsi le mode principal de transmission.",
+   "Le virus est excrété dans la salive.",
+   "La diffusion centrifuge gagne les glandes salivaires.",
+   "Le virus est excrété dans les urines principalement."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : elles sont gagnées par la diffusion centrifuge.",
+   "Exact : la salive virulente explique la transmission par morsure.",
+   "Exact : excrétion salivaire du virus.",
+   "Exact : les glandes salivaires sont gagnées par diffusion centrifuge.",
+   "Inexact : l'excrétion se fait dans la salive."
+  ]
+ },
+ {
+  "q": "Un patient présente une douleur au niveau de la morsure pendant les prodromes. Quelle explication physiopathologique est correcte ?",
+  "options": [
+   "La douleur est due à une surinfection bactérienne systématique.",
+   "Le virus progresse dans les nerfs périphériques.",
+   "La douleur traduit l'invasion nerveuse locale.",
+   "Les prodromes correspondent à la phase d'invasion centripète débutante.",
+   "Le virus est déjà massivement présent dans le cerveau."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : c'est un signe neurologique des prodromes.",
+   "Exact : invasion centripète par voie axonale.",
+   "Exact : le virus progresse dans les nerfs au site d'inoculation.",
+   "Exact : les prodromes suivent l'incubation, invasion débutante.",
+   "Inexact : peu de virions dans le SNC aux prodromes."
+  ]
+ },
+ {
+  "q": "Sélectionnez les propositions justes concernant les organes gagnés par la diffusion centrifuge.",
+  "options": [
+   "Le foie exclusivement.",
+   "Le pancréas.",
+   "Les glandes salivaires.",
+   "Le cœur exclusivement.",
+   "Les reins."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Inexact : les organes cités sont glandes salivaires, pancréas, reins.",
+   "Exact : gagné par diffusion centrifuge.",
+   "Exact : gagnées par diffusion centrifuge.",
+   "Inexact : les organes cités sont glandes salivaires, pancréas, reins.",
+   "Exact : gagnés par diffusion centrifuge."
+  ]
+ },
+ {
+  "q": "Quelles sont les assertions exactes concernant la rapidité d'évolution de la rage ?",
+  "options": [
+   "La profondeur de la plaie est le seul facteur de vitesse.",
+   "Le site de morsure n'influence pas la vitesse d'évolution.",
+   "La proximité des centres nerveux accélère l'invasion.",
+   "Une morsure à la face évolue plus vite qu'une morsure au pied.",
+   "Une morsure en zone richement innervée évolue plus vite."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : la proximité des centres nerveux et l'innervation comptent.",
+   "Inexact : la proximité et l'innervation influencent la vitesse.",
+   "Exact : invasion d'autant plus rapide que proche des centres nerveux.",
+   "Exact : proximité des centres nerveux = invasion plus rapide.",
+   "Exact : innervation +++ = rapidité accrue."
+  ]
+ },
+ {
+  "q": "Parmi les items suivants sur le statut viral et immunologique au cours de la rage, lesquels sont exacts ?",
+  "options": [
+   "Phase neurologique : titre viral élevé, anticorps sériques et dans le LCR.",
+   "Incubation : titre viral élevé d'emblée.",
+   "Phase neurologique : aucun anticorps détectable.",
+   "Prodromes : peu de virions dans le SNC, immunité à 0.",
+   "Incubation : peu de virions, statut immunologique à 0."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : titre élevé et anticorps en phase neurologique.",
+   "Inexact : peu de virions pendant l'incubation.",
+   "Inexact : des anticorps sont détectés dans le sérum et le LCR.",
+   "Exact : peu de virions dans le SNC et le cerveau.",
+   "Exact : tableau du cours : incubation silencieuse."
+  ]
+ },
+ {
+  "q": "Relevez les propositions exactes à propos de la méningo-encéphalomyélite rabique.",
+  "options": [
+   "Elle fait suite à la phase d'incubation silencieuse.",
+   "Son évolution est mortelle une fois déclarée.",
+   "C'est l'expression clinique de l'invasion du SNC par le virus.",
+   "C'est une atteinte limitée aux méninges.",
+   "Elle est due à la diffusion centrifuge."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : incubation silencieuse puis phases cliniques.",
+   "Exact : méningo-encéphalomyélite mortelle.",
+   "Exact : la rage provoque une méningo-encéphalomyélite.",
+   "Inexact : c'est une méningo-encéphalomyélite, pas une simple méningite.",
+   "Inexact : elle est due à l'invasion centripète du SNC."
+  ]
+ },
+ {
+  "q": "Le virus rabique : quelles propositions concernant la physiopathologie générale de l'infection rabique sont exactes ?",
+  "options": [
+   "Diffusion centrifuge vers les glandes salivaires.",
+   "Invasion centripète du SNC par voie nerveuse.",
+   "Pénétration : morsure, blessure, greffe cornéenne ou inhalation.",
+   "Dissémination hématogène massive initiale.",
+   "Latence à vie dans les ganglions sensitifs."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : second temps : diffusion centrifuge.",
+   "Exact : premier temps : invasion centripète.",
+   "Exact : voies de pénétration citées.",
+   "Inexact : la dissémination est nerveuse, pas hématogène.",
+   "Inexact : c'est le propre des Herpesviridae, pas du virus rabique."
+  ]
+ },
+ {
+  "q": "Au sujet du virus de la rage, quelles affirmations sur le tropisme du virus rabique sont vraies ?",
+  "options": [
+   "Multiplication initiale dans le tissu musculaire.",
+   "Le virus reste strictement cutané.",
+   "Tropisme nerveux (neurotrope).",
+   "Atteinte du système nerveux central puis diffusion aux glandes salivaires.",
+   "Tropisme hépatique prédominant."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le virus se multiplie d'abord dans le tissu musculaire.",
+   "Inexact : il envahit le SNC.",
+   "Exact : le virus gagne le système nerveux central.",
+   "Exact : invasion centripète puis diffusion centrifuge.",
+   "Inexact : le tropisme est nerveux."
+  ]
+ },
+ {
+  "q": "En ce qui concerne la clinique de la rage humaine, quelles propositions sont exactes ?",
+  "options": [
+   "Les prodromes sont un syndrome pseudo-grippal.",
+   "C'est une infection bénigne spontanément résolutive.",
+   "L'incubation est silencieuse puis 3 phases se succèdent.",
+   "C'est une méningo-encéphalite d'évolution mortelle.",
+   "Il existe un traitement antiviral curatif efficace une fois la maladie déclarée."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : prodromes : syndrome pseudo-grippal.",
+   "Inexact : l'évolution est mortelle une fois déclarée.",
+   "Exact : incubation silencieuse, puis prodromes, phase d'état, coma.",
+   "Exact : méningo-encéphalite d'évolution mortelle.",
+   "Inexact : pas de substance antivirale spécifique."
+  ]
+ },
+ {
+  "q": "À propos de la rage, quelles propositions sur les prodromes de la rage sont correctes ?",
+  "options": [
+   "Douleur au niveau de la morsure.",
+   "Durée : 2 à 10 jours.",
+   "Hydrophobie d'emblée.",
+   "Fièvre, nausées, anorexie.",
+   "Syndrome pseudo-grippal."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : douleur au niveau de la morsure.",
+   "Exact : les prodromes durent 2 à 10 jours.",
+   "Inexact : l'hydrophobie appartient à la phase d'état.",
+   "Exact : signes cités aux prodromes.",
+   "Exact : les prodromes sont un syndrome pseudo-grippal."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont justes s'agissant de la phase d'état (encéphalitique) ?",
+  "options": [
+   "Hallucinations et convulsions.",
+   "Spasme des muscles pharyngés lors de la déglutition.",
+   "Paralysie flasque ascendante systématique d'emblée.",
+   "Hydrophobie.",
+   "Aérophobie."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : signes encéphalitiques.",
+   "Exact : spasme pharyngé à la déglutition.",
+   "Inexact : la paralysie survient en phase tardive, pas d'emblée.",
+   "Exact : hydrophobie en phase d'état.",
+   "Exact : aérophobie en phase d'état."
+  ]
+ },
+ {
+  "q": "Concernant le virus rabique, quelles propositions sur les signes encéphalitiques sont exactes ?",
+  "options": [
+   "Anxiété, dépression.",
+   "Torpeur paisible sans agitation.",
+   "Hyperactivité.",
+   "Hallucinations.",
+   "Convulsions."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : signes cités en phase neurologique 1.",
+   "Inexact : la phase d'état associe hyperactivité et agitation.",
+   "Exact : hyperactivité en phase d'état.",
+   "Exact : signes encéphalitiques.",
+   "Exact : signes encéphalitiques."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous sur l'hydrophobie, lesquelles sont vraies ?",
+  "options": [
+   "Elle s'accompagne d'aérophobie.",
+   "C'est une peur psychologique de l'eau.",
+   "C'est un spasme pharyngé déclenché par la déglutition.",
+   "C'est un signe pathognomonique précoce des prodromes.",
+   "Elle apparaît en phase d'état."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : hydrophobie et aérophobie associées.",
+   "Inexact : c'est un spasme réflexe, pas une phobie.",
+   "Exact : spasme des muscles pharyngés lors de la déglutition.",
+   "Inexact : elle appartient à la phase d'état, pas aux prodromes.",
+   "Exact : signe de la phase encéphalitique."
+  ]
+ },
+ {
+  "q": "Un patient mordu il y a 2 mois présente fièvre, agitation, spasmes à la déglutition et refus de boire. Quel diagnostic évoquer ?",
+  "options": [
+   "Un tétanos.",
+   "Le délai de 2 mois est compatible avec l'incubation.",
+   "La rage en phase d'état.",
+   "L'hydrophobie oriente vers la rage.",
+   "Une intoxication alcoolique."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : le tétanos donne un trismus sans hydrophobie.",
+   "Exact : incubation de 60 à 365 jours.",
+   "Exact : tableau de phase encéphalitique après exposition.",
+   "Exact : spasme pharyngé à la déglutition = hydrophobie.",
+   "Inexact : le contexte d'exposition et l'hydrophobie orientent vers la rage."
+  ]
+ },
+ {
+  "q": "Quelles réponses sont correctes à propos de l'évolution terminale de la rage ?",
+  "options": [
+   "Guérison spontanée fréquente.",
+   "La phase de coma dure 0 à 14 jours.",
+   "La maladie déclarée est toujours mortelle.",
+   "Coma puis mort.",
+   "Arrêt cardiaque, hypotension, hypoventilation."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : la rage déclarée est toujours mortelle.",
+   "Exact : coma : 0 à 14 jours.",
+   "Exact : évolution constamment mortelle.",
+   "Exact : la phase d'état évolue vers le coma et la mort.",
+   "Exact : signes cités au stade de coma."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les durées des phases de la rage, lesquelles sont exactes ?",
+  "options": [
+   "Incubation : 1 à 4 jours comme la grippe.",
+   "Coma : 0 à 14 jours.",
+   "Phase neurologique 1 : 2 à 7 jours.",
+   "Prodromes : 2 à 10 jours.",
+   "Incubation : 60 à 365 jours."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : l'incubation de la rage dure 60 à 365 jours.",
+   "Exact : durée de la phase de coma.",
+   "Exact : durée de la phase neurologique 1.",
+   "Exact : durée des prodromes.",
+   "Exact : durée de l'incubation."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le pronostic de la rage déclarée ?",
+  "options": [
+   "La guérison est habituelle avec les antibiotiques.",
+   "Il n'existe pas de substance antivirale spécifique.",
+   "La rage déclarée est constamment mortelle.",
+   "La prévention (vaccination) est le seul moyen efficace.",
+   "La sérothérapie guérit la rage déclarée."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : aucun traitement curatif spécifique n'existe.",
+   "Exact : pas d'antiviral spécifique.",
+   "Exact : maladie toujours mortelle une fois déclarée.",
+   "Exact : la prévention est indispensable.",
+   "Inexact : la sérothérapie est préventive, pas curative."
+  ]
+ },
+ {
+  "q": "À propos de la phase neurologique 1, quelles propositions sont correctes ?",
+  "options": [
+   "Spasmes pharyngés, hydrophobie.",
+   "Anticorps détectés dans le sérum et le LCR.",
+   "Hyperactivité, anxiété, dépression.",
+   "Le patient est asymptomatique.",
+   "Titre en virions élevé."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : signes de la phase neurologique 1.",
+   "Exact : anticorps sériques et dans le LCR.",
+   "Exact : signes cités.",
+   "Inexact : c'est la phase encéphalitique bruyante.",
+   "Exact : titre viral élevé à ce stade."
+  ]
+ },
+ {
+  "q": "Concernant les caractères de la phase des prodromes, cochez les affirmations exactes.",
+  "options": [
+   "Fièvre.",
+   "Nausées, anorexie.",
+   "Peu de virions dans le SNC.",
+   "Hydrophobie et convulsions.",
+   "Douleur au niveau de la morsure."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : fièvre aux prodromes.",
+   "Exact : signes digestifs des prodromes.",
+   "Exact : peu de virions dans le SNC à ce stade.",
+   "Inexact : ce sont des signes de la phase d'état.",
+   "Exact : douleur au site de morsure."
+  ]
+ },
+ {
+  "q": "Un berger présente 3 jours de fièvre et de douleur à la main mordue par un chien il y a 6 semaines. Quelles propositions sont exactes ?",
+  "options": [
+   "Le délai est compatible avec l'incubation.",
+   "Un prélèvement (salive, biopsie cutanée) peut être demandé.",
+   "La douleur au site de morsure est un signe de prodromes.",
+   "Il faut évoquer la rage (prodromes).",
+   "Le diagnostic de rage est exclu car il n'y a pas d'hydrophobie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : incubation de 60 à 365 jours.",
+   "Exact : prélèvements du diagnostic direct chez le malade.",
+   "Exact : signe cité aux prodromes.",
+   "Exact : fièvre + douleur au site de morsure = prodromes.",
+   "Inexact : l'hydrophobie n'apparaît qu'en phase d'état."
+  ]
+ },
+ {
+  "q": "S'agissant de le coma rabique, quelles sont les réponses justes ?",
+  "options": [
+   "Il est réversible avec les antiviraux.",
+   "Il peut durer jusqu'à 14 jours.",
+   "Il s'accompagne d'hypotension et d'hypoventilation.",
+   "L'arrêt cardiaque peut survenir.",
+   "Il fait suite à la phase encéphalitique."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : pas d'antiviral spécifique ; évolution mortelle.",
+   "Exact : coma : 0 à 14 jours.",
+   "Exact : signes cités au stade de coma.",
+   "Exact : arrêt cardiaque cité au stade de coma.",
+   "Exact : la phase d'état évolue vers le coma."
+  ]
+ },
+ {
+  "q": "Au sujet de les diagnostics différentiels de la rage, lesquelles des propositions suivantes sont vraies ?",
+  "options": [
+   "La rage se confond toujours avec la grippe en phase d'état.",
+   "L'hydrophobie avec spasmes pharyngés oriente fortement vers la rage.",
+   "Le tétanos donne un trismus sans hydrophobie.",
+   "L'hydrophobie est spécifique du tétanos.",
+   "Toute encéphalite fébrile impose d'évoquer la rage après exposition."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Inexact : la phase d'état est encéphalitique, pas grippale.",
+   "Exact : signe très évocateur en contexte d'exposition.",
+   "Exact : le trismus tétanique diffère de l'hydrophobie.",
+   "Inexact : l'hydrophobie est un signe de rage.",
+   "Exact : il faut évoquer la rage après toute morsure suspecte."
+  ]
+ },
+ {
+  "q": "Dans le cadre de la contagiosité du patient enragé, quelles propositions sont exactes ?",
+  "options": [
+   "Les soins au patient exposent (précautions nécessaires).",
+   "La salive peut contenir du virus.",
+   "L'isolement strict en chambre stérile guérit le patient.",
+   "Le patient en phase d'état a un titre viral élevé.",
+   "Le patient est sans danger pour l'entourage."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : les soins à un enragé sont un mode de contamination.",
+   "Exact : diffusion centrifuge vers les glandes salivaires.",
+   "Inexact : aucun traitement curatif n'existe une fois la maladie déclarée.",
+   "Exact : titre en virions élevé en phase neurologique.",
+   "Inexact : la salive est virulente, des précautions s'imposent."
+  ]
+ },
+ {
+  "q": "Relativement à la phase d'état de la rage, quelles affirmations sont correctes ?",
+  "options": [
+   "Disparition complète du virus de l'organisme.",
+   "Hydrophobie et aérophobie.",
+   "Durée de 2 à 7 jours.",
+   "Apparition d'anticorps dans le sérum et le LCR.",
+   "Signes encéphalitiques : hallucinations, convulsions."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : le titre en virions est élevé à ce stade.",
+   "Exact : signes de la phase d'état.",
+   "Exact : phase neurologique 1 : 2 à 7 jours.",
+   "Exact : statut immunologique de la phase neurologique.",
+   "Exact : signes encéphalitiques cités."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont exactes à propos de l'incubation silencieuse ?",
+  "options": [
+   "Sa durée est variable.",
+   "Elle est asymptomatique.",
+   "Des anticorps sont déjà présents.",
+   "Le patient est contagieux pendant l'incubation.",
+   "Le virus se multiplie dans le tissu musculaire avec peu de virions."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : durée variable : 60 à 365 jours.",
+   "Exact : incubation silencieuse.",
+   "Inexact : statut immunologique à 0.",
+   "Inexact : pas d'excrétion virale à ce stade.",
+   "Exact : multiplication musculaire, peu de virions."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes relatives à les formes cliniques humaines, lesquelles sont exactes ?",
+  "options": [
+   "Une phase paralytique peut survenir (neurologique 2).",
+   "La forme paralytique n'existe que chez l'animal.",
+   "La forme classique est encéphalitique avec hydrophobie.",
+   "Il existe une forme bénigne spontanément curable.",
+   "L'évolution se fait vers le coma et la mort."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : phase neurologique 2 : paralysie.",
+   "Inexact : une phase paralytique est décrite chez l'homme.",
+   "Exact : phase d'état encéphalitique.",
+   "Inexact : l'évolution est mortelle une fois déclarée.",
+   "Exact : coma puis mort."
+  ]
+ },
+ {
+  "q": "Un patient en phase d'état présente une hypersalivation. Quelle explication est correcte ?",
+  "options": [
+   "L'hypersalivation signe une guérison prochaine.",
+   "La salive est virulente à ce stade.",
+   "La diffusion centrifuge a gagné les glandes salivaires.",
+   "Le spasme pharyngé empêche la déglutition de la salive.",
+   "L'hypersalivation est due à une parotidite ourlienne."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : la phase d'état évolue vers le coma et la mort.",
+   "Exact : excrétion salivaire du virus.",
+   "Exact : les glandes salivaires sont gagnées par diffusion centrifuge.",
+   "Exact : spasme des muscles pharyngés lors de la déglutition.",
+   "Inexact : c'est un signe de la rage en phase d'état."
+  ]
+ },
+ {
+  "q": "Quelles propositions peut-on retenir comme exactes au sujet de la douleur au site de morsure ?",
+  "options": [
+   "Elle survient avant les signes encéphalitiques.",
+   "C'est un signe de la phase des prodromes.",
+   "Elle est constante et pathognomonique.",
+   "Elle signe une surinfection bactérienne certaine.",
+   "Elle traduit l'atteinte nerveuse locale."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : les prodromes précèdent la phase d'état.",
+   "Exact : douleur au niveau de la morsure aux prodromes.",
+   "Inexact : c'est un signe évocateur, pas pathognomonique.",
+   "Inexact : c'est un signe neurologique, pas infectieux.",
+   "Exact : invasion nerveuse au site d'inoculation."
+  ]
+ },
+ {
+  "q": "À propos du virus de la rage, quelles propositions relatives à la mort par rage sont exactes ?",
+  "options": [
+   "Elle est constante une fois la maladie déclarée.",
+   "Elle est évitable par antibiothérapie à ce stade.",
+   "Elle survient malgré l'apparition d'anticorps.",
+   "Elle est due à l'atteinte encéphalique et aux défaillances (cardiaque, respiratoire).",
+   "Elle fait suite au coma."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : maladie toujours mortelle.",
+   "Inexact : aucun traitement curatif à ce stade.",
+   "Exact : les anticorps de phase neurologique n'empêchent pas la mort.",
+   "Exact : arrêt cardiaque, hypotension, hypoventilation.",
+   "Exact : coma puis mort."
+  ]
+ },
+ {
+  "q": "Cochez les propositions exactes concernant l'aérophobie.",
+  "options": [
+   "Elle accompagne l'hydrophobie en phase d'état.",
+   "C'est une phobie psychiatrique.",
+   "Elle traduit l'hyperexcitabilité nerveuse.",
+   "Elle est un signe des prodromes.",
+   "C'est un spasme déclenché par un courant d'air."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : hydrophobie et aérophobie associées.",
+   "Inexact : c'est un spasme réflexe d'hyperexcitabilité.",
+   "Exact : signe d'hyperexcitabilité de la phase encéphalitique.",
+   "Inexact : elle appartient à la phase d'état.",
+   "Exact : spasme provoqué par le déplacement d'air."
+  ]
+ },
+ {
+  "q": "Indiquez les affirmations correctes à propos de les troubles du comportement au cours de la rage.",
+  "options": [
+   "Agitation psychomotrice.",
+   "Anxiété et dépression.",
+   "Hyperactivité en phase d'état.",
+   "Apathie calme constante.",
+   "Hallucinations."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la phase d'état est une phase d'agitation.",
+   "Exact : signes de la phase neurologique 1.",
+   "Exact : hyperactivité citée.",
+   "Inexact : la phase d'état associe hyperactivité et agitation.",
+   "Exact : signes encéphalitiques."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes au sujet de la triade clinique évocatrice de rage ?",
+  "options": [
+   "Le diagnostic est uniquement clinique, sans confirmation possible.",
+   "La confirmation virologique reste utile.",
+   "Le contexte d'exposition est essentiel.",
+   "L'hydrophobie isolée suffit au diagnostic sans exposition.",
+   "Exposition (morsure) + hydrophobie + encéphalite = rage."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Inexact : IF, isolement et RT-PCR permettent la confirmation.",
+   "Exact : le diagnostic virologique confirme en centre de référence.",
+   "Exact : il faut évoquer la rage après toute morsure suspecte.",
+   "Inexact : le contexte d'exposition est essentiel.",
+   "Exact : association très évocatrice."
+  ]
+ },
+ {
+  "q": "Un patient présente une encéphalite fébrile après une morsure de chauve-souris. Quelles propositions sont exactes ?",
+  "options": [
+   "L'absence d'hydrophobie élimine la rage.",
+   "La rage doit être évoquée en priorité.",
+   "Le diagnostic virologique direct est réalisable en centre de référence.",
+   "La chauve-souris est un réservoir possible.",
+   "Des prélèvements (salive, LCR, biopsie cutanée) sont indiqués."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : l'hydrophobie n'est pas constante ni précoce.",
+   "Exact : encéphalite après morsure par un réservoir = rage.",
+   "Exact : IF, isolement, RT-PCR en centre de référence.",
+   "Exact : rage des chiroptères.",
+   "Exact : prélèvements du diagnostic direct."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur l'évolution globale de la rage humaine, lesquels sont exacts ?",
+  "options": [
+   "Aucun traitement curatif spécifique n'existe.",
+   "Incubation silencieuse → prodromes → phase encéphalitique → coma → mort.",
+   "La vaccination post-exposition est inefficace une fois les signes apparus.",
+   "La guérison spontanée est fréquente.",
+   "La maladie déclarée est toujours mortelle."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : pas de substance antivirale spécifique.",
+   "Exact : succession des phases décrites.",
+   "Exact : elle n'agit qu'avant la déclaration clinique.",
+   "Inexact : la rage déclarée est toujours mortelle.",
+   "Exact : évolution constamment mortelle."
+  ]
+ },
+ {
+  "q": "Sélectionnez les propositions justes concernant la rage animale.",
+  "options": [
+   "On distingue une rage spastique et une rage paralytique.",
+   "La rage paralytique est plus fréquente chez les ovins et les bovins.",
+   "Les animaux enragés guérissent spontanément.",
+   "La rage spastique survient surtout chez le chat et le chien.",
+   "Le chien enragé peut présenter un aboiement bitonal particulier."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : deux formes décrites chez l'animal.",
+   "Exact : forme paralytique : ovins et bovins.",
+   "Inexact : ils meurent rapidement après les signes.",
+   "Exact : forme spastique : chat et chien.",
+   "Exact : aboiement bitonal évocateur."
+  ]
+ },
+ {
+  "q": "Quelles sont les assertions exactes concernant la rage spastique ?",
+  "options": [
+   "Elle survient surtout chez le chat et le chien.",
+   "L'aboiement bitonal du chien est évocateur.",
+   "Elle survient surtout chez les bovins.",
+   "C'est une forme paralytique pure.",
+   "L'agressivité est très souvent présente."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : forme spastique du chat et du chien.",
+   "Exact : aboiement particulier bitonal.",
+   "Inexact : les bovins présentent plutôt la forme paralytique.",
+   "Inexact : c'est la forme spastique, avec agitation.",
+   "Exact : agressivité très souvent présente."
+  ]
+ },
+ {
+  "q": "Parmi les items suivants sur la rage paralytique, lesquels sont exacts ?",
+  "options": [
+   "Elle survient surtout chez le chat.",
+   "Elle n'existe pas chez les animaux.",
+   "C'est une forme à prédominance paralytique.",
+   "Les animaux sauvages perdent leur prudence vis-à-vis de l'homme.",
+   "Elle est plus fréquente chez les ovins et les bovins."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : le chat présente plutôt la forme spastique.",
+   "Inexact : c'est une des deux formes de la rage animale.",
+   "Exact : définition de la forme paralytique.",
+   "Exact : signe comportemental cité.",
+   "Exact : forme paralytique des ovins et bovins."
+  ]
+ },
+ {
+  "q": "Relevez les propositions exactes à propos de le comportement des animaux enragés.",
+  "options": [
+   "Les animaux enragés sont toujours paralysés d'emblée.",
+   "Un changement de comportement doit alerter.",
+   "L'agressivité est très souvent présente.",
+   "Les animaux restent craintifs et fuient l'homme.",
+   "Les animaux sauvages perdent leur prudence vis-à-vis de l'homme."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Inexact : il existe une forme spastique avec agitation.",
+   "Exact : perte de prudence et agressivité = alerte.",
+   "Exact : agressivité très souvent présente.",
+   "Inexact : ils perdent leur prudence.",
+   "Exact : perte de prudence citée."
+  ]
+ },
+ {
+  "q": "Le virus rabique : quelles propositions concernant le pronostic chez l'animal enragé sont exactes ?",
+  "options": [
+   "Seules les chauves-souris peuvent être porteuses asymptomatiques.",
+   "La mort est rapide après l'apparition des signes.",
+   "Les animaux guérissent en 10 jours.",
+   "Tous les animaux infectés restent porteurs sains.",
+   "Les animaux meurent très peu de temps après les manifestations cliniques (< 10 j)."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : seules porteuses asymptomatiques possibles.",
+   "Exact : évolution rapidement mortelle.",
+   "Inexact : ils meurent en moins de 10 jours.",
+   "Inexact : seules les chauves-souris peuvent être porteuses asymptomatiques.",
+   "Exact : mort en moins de 10 jours après les signes."
+  ]
+ },
+ {
+  "q": "Un chien errant présente agressivité, salivation et un aboiement rauque bitonal. Quelles propositions sont exactes ?",
+  "options": [
+   "L'aboiement bitonal est évocateur.",
+   "La rage spastique doit être évoquée.",
+   "Le centre antirabique doit être alerté.",
+   "L'animal ne doit pas être sacrifié mais mis en observation.",
+   "Il faut s'approcher pour l'examiner de près sans précaution."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : aboiement particulier bitonal.",
+   "Exact : tableau de rage spastique du chien.",
+   "Exact : tout animal suspect doit être signalé.",
+   "Exact : il ne faut pas sacrifier un animal suspect.",
+   "Inexact : animal agressif potentiellement enragé : précautions."
+  ]
+ },
+ {
+  "q": "Au sujet du virus de la rage, quelles affirmations sur les chauves-souris et la rage animale sont vraies ?",
+  "options": [
+   "Elles ne transmettent jamais le virus.",
+   "Elles constituent le réservoir de la rage des chiroptères.",
+   "Toute chauve-souris infectée meurt en moins de 10 jours.",
+   "Elles sont un réservoir en Europe et en Amérique.",
+   "Seules les chauves-souris peuvent être porteuses asymptomatiques."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : ce sont des réservoirs reconnus.",
+   "Exact : réservoir de la rage des chiroptères.",
+   "Inexact : elles peuvent être porteuses asymptomatiques.",
+   "Exact : citées en Europe, Amérique du Nord et du Sud.",
+   "Exact : seules porteuses asymptomatiques."
+  ]
+ },
+ {
+  "q": "En ce qui concerne la conduite face à un animal suspect, quelles propositions sont exactes ?",
+  "options": [
+   "Sacrifier d'emblée tout animal mordeur.",
+   "Si l'animal meurt, faire pratiquer la recherche de la rage.",
+   "Mettre l'animal en observation pendant 10 jours.",
+   "Ne pas sacrifier un animal suspect.",
+   "Si l'animal reste en bonne santé 10 jours, arrêter le traitement."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : il ne faut pas sacrifier un animal suspect.",
+   "Exact : recherche de la rage par les techniques de laboratoire.",
+   "Exact : 10 jours d'observation.",
+   "Exact : recommandation explicite.",
+   "Exact : arrêt si animal sain après 10 jours."
+  ]
+ },
+ {
+  "q": "À propos de la rage, quelles propositions sur la rage bovine et ovine sont correctes ?",
+  "options": [
+   "Les bovins ne sont jamais atteints.",
+   "La forme spastique avec aboiement bitonal prédomine.",
+   "En Amérique latine, les chauves-souris hématophages causent des pertes dans le cheptel bovin.",
+   "La forme paralytique prédomine.",
+   "L'agressivité peut être présente."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : les bovins présentent la forme paralytique.",
+   "Inexact : la forme spastique concerne le chat et le chien.",
+   "Exact : pertes importantes dans le cheptel bovin.",
+   "Exact : forme paralytique plus fréquente chez ovins et bovins.",
+   "Exact : agressivité très souvent présente chez l'animal."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont justes s'agissant de la mort de l'animal enragé ?",
+  "options": [
+   "La rapidité de la mort justifie l'observation de 10 jours.",
+   "L'animal survit habituellement à la maladie.",
+   "L'animal reste contagieux des mois après guérison.",
+   "Elle est constante après déclaration clinique.",
+   "Elle survient très peu de temps après les manifestations (< 10 j)."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : si l'animal survit 10 jours, il n'était pas enragé.",
+   "Inexact : la mort est rapide et constante.",
+   "Inexact : il n'y a pas de guérison avec portage prolongé.",
+   "Exact : l'évolution clinique est mortelle.",
+   "Exact : mort en moins de 10 jours."
+  ]
+ },
+ {
+  "q": "Concernant le virus rabique, quelles propositions sur les prélèvements chez le malade suspect de rage sont exactes ?",
+  "options": [
+   "Salive.",
+   "Selles.",
+   "Urines systématiquement.",
+   "Biopsie cutanée.",
+   "LCR."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : la salive est un prélèvement cité.",
+   "Inexact : les selles ne sont pas un prélèvement cité.",
+   "Inexact : les urines ne sont pas citées.",
+   "Exact : la biopsie cutanée est un prélèvement cité.",
+   "Exact : le LCR est un prélèvement cité."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous sur le diagnostic direct de la rage, lesquelles sont vraies ?",
+  "options": [
+   "Isolement viral par inoculation au souriceau : 24 heures.",
+   "La sérologie ELISA est un diagnostic direct.",
+   "RT-PCR.",
+   "Immunofluorescence (IF) ou IEA : résultat en 2 heures.",
+   "L'analyse histologique a la sensibilité et la spécificité de l'IF."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : isolement sur souriceau : 24 heures.",
+   "Inexact : la sérologie est un diagnostic indirect.",
+   "Exact : technique de diagnostic direct.",
+   "Exact : IF ou IEA : 2 heures.",
+   "Inexact : elle n'a ni la sensibilité ni la spécificité de l'IF."
+  ]
+ },
+ {
+  "q": "Quelles réponses sont correctes à propos de l'immunofluorescence dans la rage ?",
+  "options": [
+   "C'est une technique de diagnostic indirect.",
+   "Elle recherche les antigènes rabiques.",
+   "C'est une technique de diagnostic direct.",
+   "Le résultat est obtenu en 2 heures.",
+   "Elle recherche les anticorps."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : c'est un diagnostic direct.",
+   "Exact : recherche d'antigènes rabiques.",
+   "Exact : l'IF est un diagnostic direct.",
+   "Exact : IF : 2 heures.",
+   "Inexact : elle recherche les antigènes, pas les anticorps."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'isolement viral du virus rabique, lesquelles sont exactes ?",
+  "options": [
+   "Le résultat est obtenu en 24 heures.",
+   "Il se fait par inoculation au souriceau.",
+   "C'est une technique de diagnostic direct.",
+   "Il se fait sur gélose nutritive.",
+   "C'est une technique sérologique."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : délai de 24 heures.",
+   "Exact : inoculation au souriceau.",
+   "Exact : isolement = diagnostic direct.",
+   "Inexact : les virus ne cultivent pas sur gélose.",
+   "Inexact : c'est un isolement viral, pas une sérologie."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la RT-PCR dans le diagnostic de la rage ?",
+  "options": [
+   "Elle est réalisée en centre de référence.",
+   "C'est une technique de diagnostic direct.",
+   "Elle détecte les anticorps antirabiques.",
+   "Elle détecte le génome viral (ARN).",
+   "C'est une technique de diagnostic indirect."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : techniques réalisées en centres de référence.",
+   "Exact : la RT-PCR est un diagnostic direct.",
+   "Inexact : elle détecte le génome, pas les anticorps.",
+   "Exact : détection du génome ARN.",
+   "Inexact : c'est un diagnostic direct."
+  ]
+ },
+ {
+  "q": "Un patient suspect de rage est hospitalisé. Quels prélèvements demander pour le diagnostic virologique ?",
+  "options": [
+   "LCR.",
+   "Ces prélèvements permettent la recherche du virus, des antigènes rabiques et des anticorps spécifiques.",
+   "Expectoration pour culture bactérienne.",
+   "Biopsie cutanée.",
+   "Salive."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : prélèvement cité chez le malade.",
+   "Exact : triple recherche sur ces prélèvements.",
+   "Inexact : prélèvement non adapté au diagnostic de rage.",
+   "Exact : prélèvement cité chez le malade.",
+   "Exact : prélèvement cité chez le malade."
+  ]
+ },
+ {
+  "q": "À propos de l'analyse histologique dans la rage, quelles propositions sont correctes ?",
+  "options": [
+   "Elle peut mettre en évidence les corps de Negri.",
+   "Elle remplace l'IF en première intention.",
+   "Elle n'a ni la sensibilité ni la spécificité de l'IF.",
+   "Les corps de Negri sont des inclusions neuronales.",
+   "Elle est la technique de référence du diagnostic."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : corps de Negri en histologie.",
+   "Inexact : l'IF reste la technique de choix.",
+   "Exact : performance inférieure à l'IF.",
+   "Exact : corps de Negri dans la cellule neuronale.",
+   "Inexact : la référence rapide est l'IF."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic indirect de la rage, cochez les affirmations exactes.",
+  "options": [
+   "C'est la technique de choix en première intention.",
+   "Elle a peu d'intérêt car difficile à interpréter.",
+   "La sérologie ELISA recherche les anticorps dans le LCR.",
+   "Les anticorps apparaissent dans le sérum et le LCR en phase neurologique.",
+   "Le diagnostic indirect met en évidence le virus lui-même."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : le diagnostic direct est préféré.",
+   "Exact : peu d'intérêt, difficile à interpréter.",
+   "Exact : ELISA : anticorps dans le LCR.",
+   "Exact : statut immunologique de la phase neurologique.",
+   "Inexact : il met en évidence les anticorps."
+  ]
+ },
+ {
+  "q": "S'agissant de les corps de Negri, quelles sont les réponses justes ?",
+  "options": [
+   "Leur recherche se fait sur tissu nerveux.",
+   "Ce sont des inclusions observées dans les cellules neuronales.",
+   "Ce sont des virions observés en microscopie électronique.",
+   "Ils sont pathognomoniques à eux seuls sans limite de sensibilité.",
+   "Ils sont mis en évidence par l'analyse histologique."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : inclusions des cellules neuronales.",
+   "Exact : corps de Negri dans la cellule neuronale.",
+   "Inexact : ce sont des inclusions cellulaires en histologie.",
+   "Inexact : l'histologie n'a ni la sensibilité ni la spécificité de l'IF.",
+   "Exact : histologie : corps de Negri."
+  ]
+ },
+ {
+  "q": "Au sujet de le diagnostic virologique chez l'animal, lesquelles des propositions suivantes sont vraies ?",
+  "options": [
+   "Il faut sacrifier d'emblée tout animal mordeur.",
+   "L'animal est mis en observation 10 jours.",
+   "Le diagnostic de laboratoire se fait après euthanasie si l'animal meurt ou est euthanasié.",
+   "Il ne faut pas sacrifier un animal suspect.",
+   "Aucun diagnostic virologique n'est possible chez l'animal."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : il ne faut pas sacrifier un animal suspect.",
+   "Exact : 10 jours d'observation.",
+   "Exact : recherche après euthanasie si négativité attendue.",
+   "Exact : recommandation explicite.",
+   "Inexact : la recherche de la rage se fait par les techniques de laboratoire."
+  ]
+ },
+ {
+  "q": "Dans le cadre de les centres de référence pour la rage, quelles propositions sont exactes ?",
+  "options": [
+   "Les techniques diagnostiques y sont réalisées.",
+   "L'IF, l'isolement et la RT-PCR y sont pratiqués.",
+   "Aucune technique directe n'y est disponible.",
+   "Le diagnostic virologique de la rage y est centralisé.",
+   "Le diagnostic peut être fait dans n'importe quel laboratoire sans précaution."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : techniques diagnostiques des centres de référence.",
+   "Exact : techniques citées entre parenthèses.",
+   "Inexact : IF, isolement et RT-PCR y sont réalisés.",
+   "Exact : centres de référence.",
+   "Inexact : diagnostic réservé aux centres de référence."
+  ]
+ },
+ {
+  "q": "Un LCR est adressé pour suspicion de rage. Quelle technique sérologique et quelle interprétation ?",
+  "options": [
+   "Le diagnostic direct (IF, RT-PCR) est préféré.",
+   "Peu d'intérêt car difficile à interpréter.",
+   "ELISA à la recherche d'anticorps dans le LCR.",
+   "Un résultat positif confirme à lui seul sans contexte.",
+   "C'est un diagnostic direct."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le direct est la référence.",
+   "Exact : sérologie peu utile, difficile à interpréter.",
+   "Exact : diagnostic sérologique : ELISA sur LCR.",
+   "Inexact : interprétation difficile, intérêt limité.",
+   "Inexact : c'est un diagnostic indirect."
+  ]
+ },
+ {
+  "q": "Relativement à les délais des techniques diagnostiques, quelles affirmations sont correctes ?",
+  "options": [
+   "Isolement sur souriceau : 24 heures.",
+   "L'isolement viral prend plusieurs semaines.",
+   "RT-PCR : technique rapide de biologie moléculaire.",
+   "IF ou IEA : 2 heures.",
+   "L'IF nécessite 24 heures."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : délai de l'isolement.",
+   "Inexact : le délai annoncé est de 24 heures.",
+   "Exact : technique directe rapide.",
+   "Exact : délai de l'IF.",
+   "Inexact : l'IF donne un résultat en 2 heures."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont exactes à propos de la recherche des antigènes rabiques ?",
+  "options": [
+   "L'IF est la technique de référence rapide.",
+   "Elle se fait sur LCR, salive, biopsie cutanée.",
+   "Les antigènes ne sont jamais détectables ante-mortem.",
+   "L'IEA (immuno-enzymatique) est une alternative.",
+   "Elle se fait uniquement sur sérum."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : IF : 2 heures.",
+   "Exact : prélèvements cités chez le malade.",
+   "Inexact : le diagnostic direct se fait chez le malade.",
+   "Exact : IF ou IEA : 2 heures.",
+   "Inexact : LCR, salive et biopsie cutanée sont cités."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes relatives à les indications du diagnostic virologique de la rage, lesquelles sont exactes ?",
+  "options": [
+   "Confirmation après exposition à risque.",
+   "Le diagnostic virologique n'a aucun intérêt.",
+   "Toute suspicion clinique de rage.",
+   "La surveillance épidémiologique.",
+   "Le diagnostic est systématique devant toute morsure sans signes."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le diagnostic virologique est indiqué.",
+   "Inexact : il confirme la maladie et guide la surveillance.",
+   "Exact : le diagnostic confirme la suspicion clinique.",
+   "Exact : la rage est à déclaration obligatoire avec surveillance.",
+   "Inexact : il est indiqué en cas de suspicion, pas systématiquement."
+  ]
+ },
+ {
+  "q": "Quelles propositions peut-on retenir comme exactes au sujet de la biopsie cutanée dans la rage ?",
+  "options": [
+   "Elle n'a aucun intérêt dans la rage.",
+   "Elle permet la recherche du virus et des antigènes rabiques.",
+   "C'est un prélèvement cité chez le malade.",
+   "Elle complète utilement la salive et le LCR.",
+   "Elle remplace tous les autres prélèvements."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : c'est un prélèvement cité.",
+   "Exact : recherche de virus, d'antigènes et d'anticorps.",
+   "Exact : biopsie cutanée : prélèvement cité.",
+   "Exact : les trois prélèvements sont cités ensemble.",
+   "Inexact : elle complète les autres prélèvements."
+  ]
+ },
+ {
+  "q": "À propos du virus de la rage, quelles propositions relatives à le diagnostic différentiel virologique sont exactes ?",
+  "options": [
+   "L'IF utilise des anticorps spécifiques des antigènes rabiques.",
+   "L'isolement viral identifie le virus vivant.",
+   "Aucune technique directe n'existe.",
+   "La RT-PCR détecte spécifiquement le génome rabique.",
+   "La culture bactérienne standard isole le virus rabique."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : immunofluorescence spécifique.",
+   "Exact : isolement par inoculation au souriceau.",
+   "Inexact : IF, isolement et RT-PCR sont des diagnostics directs.",
+   "Exact : détection du génome viral.",
+   "Inexact : les virus ne cultivent pas sur milieux bactériens."
+  ]
+ },
+ {
+  "q": "Cochez les propositions exactes concernant la salive comme prélèvement diagnostique.",
+  "options": [
+   "La salive n'est jamais virulente.",
+   "La salive est un prélèvement de choix chez le malade.",
+   "Le virus y est excrété après diffusion centrifuge.",
+   "La RT-PCR peut y détecter le génome viral.",
+   "Seul le LCR est utilisable."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : la salive d'un enragé est virulente.",
+   "Exact : prélèvement cité chez le malade.",
+   "Exact : diffusion centrifuge vers les glandes salivaires.",
+   "Exact : recherche du virus sur la salive.",
+   "Inexact : salive, LCR et biopsie cutanée sont cités."
+  ]
+ },
+ {
+  "q": "Un enfant décède dans un tableau de rage : l'autopsie est pratiquée. Quelles affirmations sont exactes ?",
+  "options": [
+   "L'IF sur tissu nerveux est plus sensible et spécifique que l'histologie.",
+   "L'histologie seule a la même performance que l'IF.",
+   "La RT-PCR sur tissu nerveux est possible.",
+   "Aucun examen virologique n'est possible post-mortem.",
+   "L'analyse histologique peut montrer des corps de Negri neuronaux."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'histologie n'a ni la sensibilité ni la spécificité de l'IF.",
+   "Inexact : performance inférieure à l'IF.",
+   "Exact : technique de diagnostic direct.",
+   "Inexact : le diagnostic direct est possible sur tissu nerveux.",
+   "Exact : corps de Negri en histologie."
+  ]
+ },
+ {
+  "q": "Indiquez les affirmations correctes à propos de le diagnostic sérologique de la rage.",
+  "options": [
+   "Il est inutile car les anticorps n'apparaissent jamais.",
+   "Il s'agit d'un diagnostic indirect.",
+   "Il s'agit d'un diagnostic direct.",
+   "L'ELISA peut rechercher les anticorps dans le LCR.",
+   "Son intérêt est limité car difficile à interpréter."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : des anticorps apparaissent en phase neurologique.",
+   "Exact : la sérologie est un diagnostic indirect.",
+   "Inexact : c'est un diagnostic indirect.",
+   "Exact : ELISA : anticorps dans le LCR.",
+   "Exact : peu d'intérêt, difficile à interpréter."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes au sujet de la vaccination préventive contre la rage ?",
+  "options": [
+   "Voyageurs en zone d'endémie (Afrique, Asie, Amérique du Sud).",
+   "Elle est recommandée aux personnes exposées.",
+   "Elle est contre-indiquée chez les vétérinaires.",
+   "Vétérinaires, personnels de laboratoire, abattoirs, zoos, fourrières.",
+   "Gardes-chasse et taxidermistes."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : voyageurs en zone d'endémie.",
+   "Exact : vaccination recommandée pour personnes exposées.",
+   "Inexact : elle leur est au contraire recommandée.",
+   "Exact : professionnels exposés cités.",
+   "Exact : professions citées."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur le vaccin rabique Pasteur, lesquels sont exacts ?",
+  "options": [
+   "C'est un vaccin inactivé.",
+   "Il est identique au vaccin de traitement mais moins concentré (1,5 UI contre 2,5 UI).",
+   "Il est préparé sur œufs embryonnés.",
+   "Il est préparé sur cellules VERO.",
+   "C'est un vaccin vivant atténué."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : vaccin inactivé.",
+   "Exact : 1,5 UI contre 2,5 UI.",
+   "Inexact : il est préparé sur cellules VERO.",
+   "Exact : préparé sur cellules VERO.",
+   "Inexact : c'est un vaccin inactivé."
+  ]
+ },
+ {
+  "q": "Sélectionnez les propositions justes concernant le protocole de vaccination préventive.",
+  "options": [
+   "Injection unique à vie.",
+   "2 injections à un mois d'intervalle.",
+   "Puis un rappel tous les 3 ans.",
+   "Rappel tous les 10 ans uniquement.",
+   "Rappel après 1 an."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Inexact : le protocole comporte rappels.",
+   "Exact : primo-vaccination : 2 injections à 1 mois d'intervalle.",
+   "Exact : rappel tous les 3 ans ensuite.",
+   "Inexact : rappel après 1 an puis tous les 3 ans.",
+   "Exact : rappel après 1 an."
+  ]
+ },
+ {
+  "q": "Quelles sont les assertions exactes concernant les limites de la vaccination préventive ?",
+  "options": [
+   "Elle ne dispense pas d'un traitement curatif si morsure suspecte.",
+   "En cas de morsure, le sujet vacciné doit quand même être évalué en centre antirabique.",
+   "Elle protège à vie sans rappel.",
+   "Elle simplifie le traitement : la sérothérapie n'est pas indiquée.",
+   "Elle rend inutile tout traitement après exposition."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : la vaccination préventive ne dispense pas du traitement curatif.",
+   "Exact : évaluation et traitement en centre antirabique.",
+   "Inexact : des rappels sont prévus (1 an puis tous les 3 ans).",
+   "Exact : chez le sujet vacciné, pas de sérothérapie.",
+   "Inexact : un traitement curatif reste nécessaire."
+  ]
+ },
+ {
+  "q": "Parmi les items suivants sur la prévention de la rage urbaine, lesquels sont exacts ?",
+  "options": [
+   "Élimination des animaux errants.",
+   "Abattage systématique de tous les chiens.",
+   "Aucune mesure n'est efficace.",
+   "Vaccination des animaux de compagnie (chien, chat).",
+   "Surveillance active des animaux domestiques."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : mesure de prévention de la rage urbaine.",
+   "Inexact : les mesures sont vaccination et élimination des errants.",
+   "Inexact : la vaccination des carnivores domestiques est efficace.",
+   "Exact : mesure de prévention de la rage urbaine.",
+   "Exact : surveillance active des animaux domestiques."
+  ]
+ },
+ {
+  "q": "Un vétérinaire exerçant au Maroc demande une vaccination antirabique préventive. Quelles propositions sont exactes ?",
+  "options": [
+   "La vaccination préventive lui est recommandée.",
+   "La vaccination est inutile car le Maroc est indemne.",
+   "Une seule injection suffit.",
+   "Protocole : 2 injections à 1 mois d'intervalle, rappel à 1 an puis tous les 3 ans.",
+   "Le vaccin est inactivé, préparé sur cellules VERO."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : professionnel exposé : vaccination recommandée.",
+   "Inexact : le Maroc est un pays endémique.",
+   "Inexact : 2 injections puis rappels.",
+   "Exact : protocole de la vaccination préventive.",
+   "Exact : vaccin Pasteur : inactivé, cellules VERO."
+  ]
+ },
+ {
+  "q": "Relevez les propositions exactes à propos de l'information des voyageurs.",
+  "options": [
+   "Il est conseillé de caresser les chiots errants.",
+   "Les jeunes enfants dès l'âge de la marche sont particulièrement concernés.",
+   "L'interdiction d'importer un animal inconnu est rappelée.",
+   "Ne pas approcher les animaux inconnus, notamment les chiots.",
+   "Aucune information n'est nécessaire."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : il ne faut pas approcher les animaux inconnus.",
+   "Exact : cible prioritaire citée.",
+   "Exact : interdiction absolue d'importer un animal inconnu.",
+   "Exact : recommandation explicite.",
+   "Inexact : l'information des voyageurs fait partie de la prévention."
+  ]
+ },
+ {
+  "q": "Le virus rabique : quelles propositions concernant la prévention chez les enfants sont exactes ?",
+  "options": [
+   "Les jeunes enfants dès l'âge de la marche sont une cible de la vaccination en zone d'endémie.",
+   "L'information des parents fait partie de la prévention.",
+   "Ils sont plus exposés par leur comportement.",
+   "Les enfants sont naturellement immunisés.",
+   "La vaccination préventive n'est jamais indiquée chez l'enfant."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : cible citée pour la vaccination préventive.",
+   "Exact : l'information fait partie des mesures.",
+   "Exact : ils approchent facilement les animaux.",
+   "Inexact : aucune immunité naturelle n'existe.",
+   "Inexact : elle est recommandée dès l'âge de la marche en zone d'endémie."
+  ]
+ },
+ {
+  "q": "Au sujet du virus de la rage, quelles affirmations sur les professionnels exposés à la rage sont vraies ?",
+  "options": [
+   "Seuls les médecins sont concernés.",
+   "Personnels de laboratoire, abattoirs, zoos, fourrières.",
+   "Le personnel des animaleries n'est pas concerné.",
+   "Gardes-chasse, taxidermistes.",
+   "Vétérinaires."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : de nombreuses professions animalières sont concernées.",
+   "Exact : personnels cités.",
+   "Inexact : les personnels au contact des animaux sont concernés.",
+   "Exact : professions citées.",
+   "Exact : profession citée."
+  ]
+ },
+ {
+  "q": "En ce qui concerne le vaccin de traitement et le vaccin préventif, quelles propositions sont exactes ?",
+  "options": [
+   "Le vaccin préventif est moins concentré (1,5 UI contre 2,5 UI).",
+   "Les deux sont des vaccins inactivés sur cellules VERO.",
+   "Le vaccin préventif est identique au vaccin de traitement.",
+   "Le vaccin préventif est plus concentré que le vaccin de traitement.",
+   "Le vaccin de traitement est un vaccin vivant."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 1,5 UI contre 2,5 UI.",
+   "Exact : vaccin inactivé sur cellules VERO.",
+   "Exact : vaccin identique.",
+   "Inexact : il est moins concentré : 1,5 UI contre 2,5 UI.",
+   "Inexact : c'est un vaccin inactivé."
+  ]
+ },
+ {
+  "q": "À propos de la rage, quelles propositions sur la prévention collective de la rage sont correctes ?",
+  "options": [
+   "Traitement antibiotique systématique de la population.",
+   "Vaccination des animaux de compagnie.",
+   "Surveillance active des animaux sauvages et domestiques.",
+   "Élimination des animaux errants.",
+   "Vaccination orale des renards."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : pas de rôle des antibiotiques en prévention.",
+   "Exact : prévention de la rage urbaine.",
+   "Exact : mesure de prévention citée.",
+   "Exact : prévention de la rage urbaine.",
+   "Exact : prévention dans la faune sauvage."
+  ]
+ },
+ {
+  "q": "Une famille voyage en Asie avec un enfant de 2 ans. Quelles recommandations sont correctes ?",
+  "options": [
+   "Vaccination préventive recommandée (zone d'endémie, jeune enfant).",
+   "En cas de morsure : lavage de la plaie et centre antirabique.",
+   "Ne pas approcher les animaux inconnus.",
+   "Aucune précaution particulière.",
+   "La vaccination préventive dispense de tout traitement en cas de morsure."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : voyageurs en Asie + enfant dès l'âge de la marche.",
+   "Exact : conduite après exposition.",
+   "Exact : information des voyageurs.",
+   "Inexact : information et vaccination recommandées.",
+   "Inexact : elle ne dispense pas du traitement curatif."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont justes s'agissant de la vaccination orale des renards ?",
+  "options": [
+   "Elle remplace la vaccination des chiens en zone urbaine.",
+   "Elle concerne la rage des chiroptères.",
+   "C'est une mesure de prévention de la rage dans la faune sauvage.",
+   "Elle se fait par voie orale.",
+   "Elle cible le renard, réservoir de rage selvatique en Europe."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : elle concerne la faune sauvage, pas la rage urbaine.",
+   "Inexact : elle concerne les renards.",
+   "Exact : prévention de la rage dans la faune sauvage.",
+   "Exact : vaccination orale.",
+   "Exact : le renard est réservoir en Europe."
+  ]
+ },
+ {
+  "q": "Concernant le virus rabique, quelles propositions sur la concentration du vaccin rabique sont exactes ?",
+  "options": [
+   "Vaccin de traitement : 2,5 UI.",
+   "Les deux vaccins ont la même concentration.",
+   "Le vaccin préventif est moins concentré que le vaccin de traitement.",
+   "Vaccin préventif : 1,5 UI.",
+   "Le vaccin préventif est plus concentré."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le vaccin de traitement titre 2,5 UI.",
+   "Inexact : 1,5 UI contre 2,5 UI.",
+   "Exact : 1,5 UI contre 2,5 UI.",
+   "Exact : le vaccin préventif titre 1,5 UI.",
+   "Inexact : il est moins concentré."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous sur le traitement post-exposition de la rage, lesquelles sont vraies ?",
+  "options": [
+   "Il est prescrit et effectué obligatoirement dans un centre antirabique.",
+   "Le traitement de la blessure : lavage abondant, antibiothérapie, prophylaxie antitétanique.",
+   "Il n'existe pas de substance antivirale spécifique.",
+   "Le traitement antirabique comprend vaccination et sérothérapie.",
+   "Un antiviral spécifique guérit la rage déclarée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : obligatoirement en centre antirabique.",
+   "Exact : traitement non spécifique de la blessure.",
+   "Exact : pas d'antiviral spécifique.",
+   "Exact : vaccination + sérothérapie antirabiques.",
+   "Inexact : pas de substance antivirale spécifique."
+  ]
+ },
+ {
+  "q": "Quelles réponses sont correctes à propos de le protocole OMS de vaccination post-exposition ?",
+  "options": [
+   "Injection dans la fesse systématiquement.",
+   "5 injections intramusculaires.",
+   "Injection unique.",
+   "Injection dans le deltoïde.",
+   "Le pic d'anticorps est observé au 30e jour."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : les injections se font dans le deltoïde.",
+   "Exact : protocole classique : 5 injections IM.",
+   "Inexact : 5 injections.",
+   "Exact : injections dans le deltoïde.",
+   "Exact : pic au 30e jour avec le schéma OMS."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le protocole réduit de l'Institut Pasteur (2-1-1), lesquelles sont exactes ?",
+  "options": [
+   "Pic d'anticorps au 14e jour, plus précoce qu'avec le schéma OMS.",
+   "4 injections intramusculaires dans le deltoïde.",
+   "Pic d'anticorps plus tardif qu'avec le schéma OMS.",
+   "5 injections comme le protocole OMS.",
+   "Le premier jour, 2 doses en 2 points différents."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : pic au 14e jour contre 30e jour (OMS).",
+   "Exact : 4 injections IM dans le deltoïde.",
+   "Inexact : le pic est plus précoce : 14e jour.",
+   "Inexact : le 2-1-1 comporte 4 injections.",
+   "Exact : J1 : 2 doses en 2 points différents."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le traitement local de la plaie ?",
+  "options": [
+   "Antibiothérapie.",
+   "Suture immédiate sans lavage.",
+   "Lavage abondant de la plaie.",
+   "Application d'alcool sans lavage.",
+   "Prophylaxie antitétanique."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : traitement non spécifique associé.",
+   "Inexact : le lavage abondant est le geste essentiel.",
+   "Exact : lavage abondant : premier geste.",
+   "Inexact : le lavage abondant prime.",
+   "Exact : prophylaxie antitétanique associée."
+  ]
+ },
+ {
+  "q": "À propos de la sérothérapie antirabique, quelles propositions sont correctes ?",
+  "options": [
+   "Elle est indiquée dans tous les cas d'exposition.",
+   "Elle n'est pas indiquée chez le sujet déjà vacciné en préventif.",
+   "Elle remplace la vaccination.",
+   "Elle est indiquée dans les expositions de catégorie III.",
+   "Elle fait partie du traitement antirabique post-exposition."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Inexact : réservée à la catégorie III.",
+   "Exact : la vaccination préventive simplifie : pas de sérothérapie.",
+   "Inexact : elle complète la vaccination, ne la remplace pas.",
+   "Exact : catégorie III : sérothérapie.",
+   "Exact : vaccination + sérothérapie."
+  ]
+ },
+ {
+  "q": "Un homme mordu profondément à la jambe par un chien inconnu se présente au centre antirabique. Quelles propositions sont exactes ?",
+  "options": [
+   "Le traitement est obligatoire en centre antirabique.",
+   "Abstention thérapeutique et simple surveillance.",
+   "Lavage abondant de la plaie.",
+   "Exposition de catégorie III : morsure ayant traversé la peau.",
+   "Traitement : vaccination et sérothérapie."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : prescrit et effectué obligatoirement en centre antirabique.",
+   "Inexact : la catégorie III impose vaccin et sérothérapie.",
+   "Exact : traitement non spécifique de la blessure.",
+   "Exact : morsure ayant traversé la peau = catégorie III.",
+   "Exact : catégorie III : vaccin + sérothérapie."
+  ]
+ },
+ {
+  "q": "Concernant l'arrêt du traitement antirabique, cochez les affirmations exactes.",
+  "options": [
+   "Arrêt si la recherche de la rage est négative.",
+   "Arrêt si l'animal est en bonne santé après 10 jours d'observation.",
+   "Arrêt systématique au 5e jour.",
+   "L'observation de 10 jours conditionne la poursuite.",
+   "Le traitement ne doit jamais être arrêté."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : arrêt si recherche négative.",
+   "Exact : arrêt possible après 10 jours.",
+   "Inexact : l'observation de référence est de 10 jours.",
+   "Exact : 10 jours d'observation de l'animal.",
+   "Inexact : l'arrêt est prévu selon l'observation ou la recherche."
+  ]
+ },
+ {
+  "q": "S'agissant de les principes du traitement antirabique, quelles sont les réponses justes ?",
+  "options": [
+   "La sérothérapie apporte une immunité passive immédiate.",
+   "La sérothérapie seule suffit dans tous les cas.",
+   "Il associe vaccination et sérothérapie antirabiques.",
+   "La vaccination seule suffit dans tous les cas.",
+   "La vaccination stimule l'immunité active."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : apport immédiat d'anticorps.",
+   "Inexact : la vaccination est indispensable.",
+   "Exact : les deux composantes du traitement.",
+   "Inexact : la sérothérapie s'ajoute en catégorie III.",
+   "Exact : la vaccination induit une immunité active."
+  ]
+ },
+ {
+  "q": "Un sujet vacciné en préventif est mordu par un chien suspect. Quelles propositions sont exactes ?",
+  "options": [
+   "Un traitement curatif reste nécessaire (la vaccination préventive ne dispense pas).",
+   "Le traitement est simplifié : la sérothérapie n'est pas indiquée.",
+   "Le protocole de rappel vaccinal s'applique.",
+   "Aucun traitement n'est nécessaire.",
+   "La sérothérapie reste systématique."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la vaccination préventive ne dispense pas du traitement curatif.",
+   "Exact : chez le vacciné, pas de sérothérapie.",
+   "Exact : le traitement est simplifié par des rappels vaccinaux.",
+   "Inexact : un traitement curatif simplifié reste nécessaire.",
+   "Inexact : la sérothérapie n'est pas indiquée chez le vacciné."
+  ]
+ },
+ {
+  "q": "Au sujet de les principes généraux du traitement post-exposition, lesquelles des propositions suivantes sont vraies ?",
+  "options": [
+   "Pas d'antiviral spécifique : la prévention est indispensable.",
+   "55 000 personnes meurent chaque année faute de traitement.",
+   "Le traitement doit être précoce, avant l'apparition des signes.",
+   "Le traitement est efficace à tout stade de la maladie.",
+   "Une fois la maladie déclarée, le traitement post-exposition est inefficace."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : pas de substance antivirale spécifique.",
+   "Exact : 55 000 morts par an car non traitées (OMS).",
+   "Exact : il n'est efficace qu'avant la déclaration clinique.",
+   "Inexact : inefficace une fois la maladie déclarée.",
+   "Exact : la rage déclarée est toujours mortelle."
+  ]
+ }
+]

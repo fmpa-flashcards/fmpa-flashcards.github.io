@@ -1,0 +1,4398 @@
+[
+  {
+    "q": "Concernant le genre Listeria, lesquelles de ces affirmations sont exactes ?",
+    "options": [
+      "Ce sont des bactéries à Gram positif ubiquitaires",
+      "Ce sont des bactéries à Gram négatif",
+      "Listeria monocytogenes est pathogène pour l'homme",
+      "Listeria innocua est pathogène pour l'homme",
+      "Listeria ivanovii est pathogène pour l'animal"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explain": [
+      "Les Listeria sont des bactéries à Gram positif ubiquitaires",
+      "Le genre Listeria est à Gram positif, non à Gram négatif",
+      "L. monocytogenes est la seule espèce pathogène pour l'homme et l'animal",
+      "L. innocua n'est pas pathogène pour l'homme",
+      "L. ivanovii est pathogène pour l'animal"
+    ]
+  },
+  {
+    "q": "À propos des espèces du genre Listeria, lesquelles sont exactes ?",
+    "options": [
+      "Le genre comprend 7 espèces : monocytogenes, innocua, welshimeri, seeligeri, ivanovii, grayi, murrayi",
+      "Seule L. monocytogenes est pathogène pour l'homme",
+      "L. innocua n'est pas pathogène pour l'homme",
+      "L. ivanovii est pathogène pour l'homme",
+      "L. grayi est responsable de listérioses humaines"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Le genre Listeria compte 7 espèces reconnues",
+      "L. monocytogenes est la seule espèce pathogène pour l'homme",
+      "L. innocua est une espèce non pathogène",
+      "L. ivanovii est pathogène pour l'animal, non pour l'homme",
+      "L. grayi n'est pas pathogène pour l'homme"
+    ]
+  },
+  {
+    "q": "Concernant Listeria monocytogenes, agent de la listériose, lesquelles sont exactes ?",
+    "options": [
+      "C'est une anthropozoonose",
+      "C'est une maladie exclusivement animale",
+      "C'est la seule espèce du genre pathogène pour l'homme et l'animal",
+      "Sa répartition est mondiale, en augmentation avec la restauration collective",
+      "Elle ne provoque que des cas sporadiques, jamais d'épidémies"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "La listériose est une anthropozoonose (réservoir animal, transmission alimentaire)",
+      "L'homme est aussi atteint, notamment ID, nouveau-nés et femmes enceintes",
+      "Seule L. monocytogenes est pathogène pour l'homme et l'animal",
+      "Répartition mondiale en augmentation avec le développement de la restauration collective",
+      "Des épidémies alimentaires (TIAC) très médiatisées sont possibles"
+    ]
+  },
+  {
+    "q": "Quelles sont les caractéristiques de Listeria ivanovii ?",
+    "options": [
+      "Elle est pathogène pour l'animal",
+      "Elle est pathogène pour l'homme",
+      "Elle peut être isolée chez les ruminants",
+      "Elle appartient au genre Listeria",
+      "Elle est responsable de listérioses humaines"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "L. ivanovii est pathogène pour l'animal",
+      "Elle n'est pas pathogène pour l'homme",
+      "Elle est isolée chez les animaux dont les ruminants",
+      "C'est une espèce du genre Listeria",
+      "Les listérioses humaines sont dues à L. monocytogenes"
+    ]
+  },
+  {
+    "q": "Parmi les propositions suivantes concernant la taxonomie des Listeria, lesquelles sont exactes ?",
+    "options": [
+      "Le genre Listeria comprend 7 espèces",
+      "L. seeligeri n'est pas pathogène pour l'homme",
+      "L. murrayi est un pathogène humain fréquent",
+      "L. welshimeri est pathogène pour l'homme",
+      "Seule L. monocytogenes est pathogène pour l'homme"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "7 espèces : monocytogenes, innocua, welshimeri, seeligeri, ivanovii, grayi, murrayi",
+      "L. seeligeri n'est pas pathogène pour l'homme",
+      "L. murrayi n'est pas un pathogène humain",
+      "L. welshimeri n'est pas pathogène pour l'homme",
+      "L. monocytogenes est la seule espèce pathogène pour l'homme"
+    ]
+  },
+  {
+    "q": "Concernant l'épidémiologie générale de la listériose, lesquelles sont exactes ?",
+    "options": [
+      "La répartition est mondiale",
+      "Les cas augmentent avec le développement de la restauration collective",
+      "La maladie est cantonnée aux pays chauds",
+      "Les TIAC sont très médiatisées et mortelles",
+      "La létalité est de 20 à 30 % des cas"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "La listériose a une répartition mondiale",
+      "Elle augmente avec le développement de la restauration collective",
+      "La répartition est mondiale, non limitée aux pays chauds",
+      "TIAC très médiatisées, mortelles notamment chez ID, nouveau-nés, femmes enceintes",
+      "Létalité de 20 à 30 % des cas"
+    ]
+  },
+  {
+    "q": "La listériose invasive est particulièrement grave chez :",
+    "options": [
+      "Les immunodéprimés",
+      "Les nouveau-nés",
+      "Les femmes enceintes",
+      "Les adultes jeunes en bonne santé",
+      "Les personnes âgées"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Les immunodéprimés représentent 59 % des listérioses",
+      "Les nouveau-nés sont un terrain à risque majeur",
+      "Les formes materno-fœtales représentent 26 % des cas",
+      "L'adulte jeune en bonne santé n'est pas un terrain à risque particulier",
+      "Les personnes âgées sont un terrain à risque"
+    ]
+  },
+  {
+    "q": "Concernant Listeria monocytogenes comme agent pathogène, lesquelles sont exactes ?",
+    "options": [
+      "C'est une bactérie intracellulaire facultative",
+      "C'est une bactérie exclusivement extracellulaire",
+      "Elle peut provoquer une listériose invasive grave",
+      "Elle produit une exotoxine majeure de type tétanique",
+      "Elle appartient au genre Listeria"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explain": [
+      "L. monocytogenes est invasive, intracellulaire facultative",
+      "Elle survit et se multiplie dans le cytoplasme des cellules",
+      "Elle provoque septicémies, méningites et listérioses materno-fœtales",
+      "Pas d'exotoxine majeure classique ; virulence liée à internaline, listériolysine O, ActA",
+      "C'est l'espèce pathogène du genre Listeria"
+    ]
+  },
+  {
+    "q": "Les Listeria sont des bactéries :",
+    "options": [
+      "À Gram positif et ubiquitaires",
+      "À Gram négatif",
+      "Cultivant en aérobiose",
+      "Présentes dans l'environnement (sol, eau, plantes)",
+      "Sporulées"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "Bactéries à Gram positif ubiquitaires",
+      "Le genre est à Gram positif",
+      "Elles cultivent en aérobiose (microaérophiles)",
+      "Réservoir environnemental : sol, eau, plantes",
+      "Elles sont non sporulées"
+    ]
+  },
+  {
+    "q": "Concernant les espèces non pathogènes pour l'homme du genre Listeria, lesquelles sont exactes ?",
+    "options": [
+      "L. innocua",
+      "L. welshimeri",
+      "L. seeligeri",
+      "L. monocytogenes",
+      "L. grayi"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "L. innocua n'est pas pathogène pour l'homme",
+      "L. welshimeri n'est pas pathogène pour l'homme",
+      "L. seeligeri n'est pas pathogène pour l'homme",
+      "L. monocytogenes est la seule espèce pathogène pour l'homme",
+      "L. grayi n'est pas pathogène pour l'homme"
+    ]
+  },
+  {
+    "q": "Le genre Listeria se caractérise par :",
+    "options": [
+      "Des petits coccobacilles à Gram positif",
+      "17 sérovars décrits pour L. monocytogenes",
+      "7 espèces reconnues",
+      "Une seule espèce pathogène pour l'homme",
+      "Des bactéries à Gram négatif"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Petits coccobacilles à Gram positif",
+      "17 sérovars pour L. monocytogenes",
+      "7 espèces dans le genre",
+      "Seule L. monocytogenes est pathogène pour l'homme",
+      "Le genre est à Gram positif"
+    ]
+  },
+  {
+    "q": "Concernant la gravité de la listériose, lesquelles sont exactes ?",
+    "options": [
+      "Responsable de TIAC mortelles très médiatisées",
+      "40 % de séquelles neurologiques chez les survivants",
+      "Maladie toujours bénigne",
+      "Épidémies alimentaires possibles",
+      "Létalité de 2 à 3 %"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "TIAC très médiatisées, mortelles chez ID, nouveau-nés, femmes enceintes",
+      "40 % de séquelles neurologiques",
+      "C'est une maladie redoutable, non bénigne",
+      "Épidémies d'origine alimentaire décrites",
+      "La létalité est de 20 à 30 %, non de 2 à 3 %"
+    ]
+  },
+  {
+    "q": "Concernant la morphologie de Listeria monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "Petits coccobacilles à Gram positif",
+      "Dimensions de 0,4-0,5 µm sur 0,5-2,5 µm",
+      "Extrémités arrondies",
+      "Grands bacilles en longues chaînes",
+      "Cocci en diplocoques"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Petits coccobacilles à Gram positif",
+      "Dimensions : 0,4-0,5 µm / 0,5-2,5 µm",
+      "Extrémités arrondies",
+      "Ce sont de petits coccobacilles, non de grands bacilles",
+      "Ce ne sont pas des cocci en diplocoques"
+    ]
+  },
+  {
+    "q": "À l'examen direct au Gram, L. monocytogenes apparaît :",
+    "options": [
+      "Isolée ou groupée en V ou en L",
+      "En palissades",
+      "En chaînes courtes ou petits amas",
+      "En grappes de raisin",
+      "En amas irréguliers uniquement"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Groupement en V ou en L caractéristique",
+      "Disposition en palissades",
+      "Chaînes courtes ou petits amas possibles",
+      "Les grappes de raisin évoquent les staphylocoques",
+      "Les dispositions sont variées : V, L, palissades, chaînes"
+    ]
+  },
+  {
+    "q": "Concernant les structures de Listeria monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "Non capsulée",
+      "Non sporulée",
+      "Capsule épaisse",
+      "Spore terminale résistante",
+      "Petit bacille à Gram positif"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "L. monocytogenes est non capsulée",
+      "L. monocytogenes est non sporulée",
+      "Pas de capsule",
+      "Pas de spore",
+      "Petit bacille à Gram positif"
+    ]
+  },
+  {
+    "q": "La coloration de Gram de L. monocytogenes montre :",
+    "options": [
+      "Un petit bacille à Gram positif",
+      "Une bactérie intra ou extracellulaire",
+      "Des bacilles acido-alcoolo-résistants",
+      "Des formes filamenteuses ramifiées",
+      "Des cocci à Gram positif"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Petit bacille à Gram positif non sporulé",
+      "Localisation intra ou extracellulaire dans les produits pathologiques",
+      "Pas de caractère acido-alcoolo-résistant",
+      "Pas de formes filamenteuses",
+      "Ce sont des bacilles, non des cocci"
+    ]
+  },
+  {
+    "q": "L'examen direct au Gram de L. monocytogenes peut prêter à confusion avec :",
+    "options": [
+      "Les corynébactéries",
+      "Les streptocoques",
+      "Le pneumocoque",
+      "Les staphylocoques dorés",
+      "Haemophilus"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Risque de confusion avec les corynébactéries (bacilles à Gram positif)",
+      "Risque de confusion avec les streptocoques",
+      "Risque de confusion avec le pneumocoque",
+      "Pas de confusion décrite avec les staphylocoques",
+      "Risque de confusion avec Haemophilus"
+    ]
+  },
+  {
+    "q": "Concernant L. monocytogenes dans le LCR, lesquelles sont exactes ?",
+    "options": [
+      "Bactéries peu abondantes, surtout intracellulaires",
+      "Bactéries très abondantes et extracellulaires",
+      "Liquide trouble avec formule panachée ou liquide clair",
+      "Liquide toujours hémorragique",
+      "Protéinorachie constamment très élevée"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explain": [
+      "Bactéries peu abondantes, surtout intracellulaires dans le LCR",
+      "Elles sont peu abondantes et surtout intracellulaires",
+      "Aspect trouble avec formule panachée ou liquide clair",
+      "Pas de liquide hémorragique caractéristique",
+      "Protéinorachie peu élevée voire normale"
+    ]
+  },
+  {
+    "q": "La mobilité de Listeria monocytogenes :",
+    "options": [
+      "Présente à 20-25 °C",
+      "Absente à 37 °C",
+      "Présente à toutes les températures",
+      "Absente à 20 °C",
+      "Dépend de la température d'incubation"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Mobile à 20-25 °C",
+      "Immobile à 37 °C",
+      "La mobilité dépend de la température",
+      "Elle est mobile à 20-25 °C",
+      "Caractère thermo-dépendant utilisé pour l'identification"
+    ]
+  },
+  {
+    "q": "Concernant les caractères morphologiques utilisés pour l'identification, lesquelles sont exactes ?",
+    "options": [
+      "Bacille à Gram positif allongé en palissade",
+      "Mobilité à 25 °C",
+      "Capsule visible à la coloration de Gram",
+      "Spores visibles",
+      "Groupement en V ou en L"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Bacille à Gram positif allongé en palissade",
+      "La mobilité à 25 °C est un critère d'identification",
+      "L. monocytogenes est non capsulée",
+      "L. monocytogenes est non sporulée",
+      "Groupement en V ou en L évocateur"
+    ]
+  },
+  {
+    "q": "L. monocytogenes se présente au microscope comme :",
+    "options": [
+      "Un coccobacille de petite taille",
+      "Des formes en L ou en V",
+      "Des cocci à Gram négatif",
+      "Des bacilles à extrémités arrondies",
+      "Des bacilles sporulés"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Petit coccobacille à Gram positif",
+      "Groupement en V ou en L",
+      "Ce sont des bacilles à Gram positif",
+      "Extrémités arrondies",
+      "Bactérie non sporulée"
+    ]
+  },
+  {
+    "q": "Concernant la structure de L. monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "Absence de capsule",
+      "Absence de spore",
+      "Présence d'une capsule polysaccharidique",
+      "Spores centrales résistantes",
+      "Paroi de type Gram positif"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Non capsulée",
+      "Non sporulée",
+      "Pas de capsule",
+      "Pas de spore",
+      "Paroi de bactérie à Gram positif"
+    ]
+  },
+  {
+    "q": "À propos de l'examen direct des produits pathologiques, lesquelles sont exactes ?",
+    "options": [
+      "Petits bacilles à Gram positif non sporulés",
+      "Localisation intra ou extracellulaire",
+      "Bactéries toujours très abondantes dans le LCR",
+      "Risque de confusion avec les corynébactéries",
+      "L'examen direct suffit à lui seul pour affirmer le diagnostic"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Petit bacille à Gram positif non sporulé",
+      "Bactérie intra ou extracellulaire",
+      "Dans le LCR les bactéries sont peu abondantes",
+      "Confusion possible avec corynébactéries, streptocoques, pneumocoque, Haemophilus",
+      "Le diagnostic repose sur la culture et l'identification"
+    ]
+  },
+  {
+    "q": "Concernant les dimensions de L. monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "0,4-0,5 µm de largeur",
+      "0,5-2,5 µm de longueur",
+      "Taille supérieure à 10 µm",
+      "Cocci de 1 µm de diamètre",
+      "Taille comparable à celle des levures"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Largeur de 0,4-0,5 µm",
+      "Longueur de 0,5-2,5 µm",
+      "Petit coccobacille, bien inférieur à 10 µm",
+      "Ce sont des bacilles, non des cocci",
+      "Bien plus petite que les levures"
+    ]
+  },
+  {
+    "q": "Concernant les conditions de culture de L. monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "Bactérie microaérophile",
+      "Température optimale de 30 à 37 °C",
+      "Croissance possible entre -2 °C et +45 °C",
+      "Anaérobie stricte",
+      "Ne cultive pas en dessous de 20 °C"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "L. monocytogenes est microaérophile",
+      "Température optimale : 30 à 37 °C",
+      "Croissance possible entre -2 °C et +45 °C",
+      "Ce n'est pas une anaérobie stricte",
+      "Elle se multiplie même à +4 °C"
+    ]
+  },
+  {
+    "q": "La multiplication de L. monocytogenes à +4 °C :",
+    "options": [
+      "Correspond à la température de réfrigération des aliments",
+      "Explique les toxi-infections liées aux aliments réfrigérés",
+      "Est impossible",
+      "Limite le risque lié aux conserves",
+      "Impose le strict respect de la chaîne du froid"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "+4 °C est la température de réfrigération des aliments",
+      "La bactérie se multiplie dans les aliments réfrigérés",
+      "La multiplication à +4 °C est une propriété caractéristique",
+      "Le froid ne limite pas le risque, il le favorise relativement",
+      "D'où l'importance de la chaîne du froid et de l'hygiène"
+    ]
+  },
+  {
+    "q": "Concernant la culture de L. monocytogenes sur milieux usuels, lesquelles sont exactes ?",
+    "options": [
+      "Gélose au sang de mouton ou de cheval",
+      "Bouillon nutritif glucosé à 0,5 % pour le LCR",
+      "Ne cultive pas sur gélose au sang",
+      "Nécessite des milieux cellulaires",
+      "Culture facile sur milieux usuels"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Gélose au sang de mouton ou de cheval",
+      "Bouillon nutritif glucosé à 0,5 % pour le LCR",
+      "Elle cultive bien sur gélose au sang",
+      "Pas besoin de milieux cellulaires",
+      "Culture sur milieux usuels"
+    ]
+  },
+  {
+    "q": "Pour les prélèvements polycontaminés, on utilise :",
+    "options": [
+      "Des techniques d'enrichissement sélectif à +4 °C",
+      "Le milieu PALCAM",
+      "Le milieu OXFORD",
+      "La gélose au sang uniquement",
+      "La gélose MacConkey"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Enrichissement sélectif à +4 °C pour les prélèvements polycontaminés",
+      "Milieu sélectif PALCAM",
+      "Milieu sélectif OXFORD",
+      "La gélose au sang seule est insuffisante sur prélèvement polycontaminé",
+      "La gélose MacConkey est citée parmi les milieux sélectifs"
+    ]
+  },
+  {
+    "q": "Les milieux sélectifs pour Listeria peuvent contenir :",
+    "options": [
+      "De l'acide nalidixique",
+      "De la colimycine",
+      "De la trypaflavine",
+      "De la vancomycine",
+      "De l'amphotéricine B"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Acide nalidixique ajouté aux milieux ordinaires",
+      "Colimycine ajoutée aux milieux ordinaires",
+      "Trypaflavine ajoutée aux milieux ordinaires",
+      "Vancomycine non citée dans les milieux sélectifs",
+      "Amphotéricine B non citée"
+    ]
+  },
+  {
+    "q": "Parmi les propositions suivantes relatives à la culture, lesquelles sont exactes ?",
+    "options": [
+      "Pousse sur milieux usuels",
+      "Colonies sur gélose au sang",
+      "Croissance à 30-37 °C",
+      "Croissance uniquement à 45 °C",
+      "Croissance lente nécessitant 3 semaines"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Culture facile sur milieux usuels",
+      "Gélose au sang de mouton ou de cheval",
+      "Température optimale 30 à 37 °C",
+      "Croissance possible entre -2 °C et +45 °C, non limitée à 45 °C",
+      "Pas de croissance lente de 3 semaines"
+    ]
+  },
+  {
+    "q": "Concernant l'enrichissement à froid (+4 °C), lesquelles sont exactes ?",
+    "options": [
+      "Technique d'enrichissement sélectif",
+      "Utilisée pour les prélèvements polycontaminés",
+      "Inhibe la multiplication de Listeria",
+      "Favorise Listeria par rapport aux autres flores",
+      "Ne dure que quelques heures"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Enrichissement sélectif à +4 °C",
+      "Indiqué pour les prélèvements polycontaminés",
+      "Le froid favorise la multiplication de Listeria",
+      "Listeria se multiplie à +4 °C contrairement à beaucoup d'autres bactéries",
+      "L'enrichissement à froid est prolongé"
+    ]
+  },
+  {
+    "q": "Les milieux PALCAM et OXFORD sont :",
+    "options": [
+      "Des milieux sélectifs pour Listeria",
+      "Utilisés après enrichissement",
+      "Des milieux d'identification biochimique",
+      "Des milieux non sélectifs",
+      "Réservés au diagnostic sérologique"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Milieux sélectifs d'isolement de Listeria",
+      "Utilisés pour l'isolement sur prélèvements polycontaminés",
+      "Ce sont des milieux d'isolement, non des galeries biochimiques",
+      "Ce sont des milieux sélectifs",
+      "Pas de lien avec le diagnostic sérologique"
+    ]
+  },
+  {
+    "q": "Pour la culture du LCR suspect de listériose, lesquelles sont exactes ?",
+    "options": [
+      "Bouillon nutritif glucosé à 0,5 %",
+      "Incubation à 30-37 °C",
+      "Ensemencement sur gélose au sang",
+      "Culture impossible",
+      "Examen direct seul suffisant"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Bouillon nutritif glucosé à 0,5 % pour le LCR",
+      "Température optimale 30 à 37 °C",
+      "Gélose au sang de mouton ou de cheval",
+      "La culture est possible sur milieux usuels",
+      "La culture est indispensable au diagnostic"
+    ]
+  },
+  {
+    "q": "Concernant la thermotolérance de L. monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "Survit entre -2 °C et +45 °C",
+      "Détruite systématiquement par la réfrigération",
+      "Multipliée à température de réfrigération",
+      "Optimale à 30-37 °C",
+      "Détruite à 37 °C"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "Croissance possible entre -2 °C et +45 °C",
+      "Elle se multiplie à +4 °C, température de réfrigération",
+      "Multiplication à +4 °C caractéristique",
+      "Température optimale : 30 à 37 °C",
+      "37 °C est dans l'intervalle optimal"
+    ]
+  },
+  {
+    "q": "La particularité de la croissance à +4 °C de L. monocytogenes :",
+    "options": [
+      "Explique la contamination des aliments réfrigérés",
+      "Est une propriété rare parmi les bactéries pathogènes",
+      "Est utilisée pour l'enrichissement sélectif",
+      "Rend la pasteurisation inutile",
+      "Est augmentée par la congélation"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Les aliments réfrigérés sont des vecteurs de listériose",
+      "Peu de bactéries pathogènes se multiplient à +4 °C",
+      "L'enrichissement sélectif utilise le froid à +4 °C",
+      "La pasteurisation reste efficace",
+      "La congélation n'augmente pas la croissance"
+    ]
+  },
+  {
+    "q": "Concernant les milieux usuels, lesquelles sont exactes ?",
+    "options": [
+      "L. monocytogenes y cultive facilement",
+      "La gélose au sang est préférée",
+      "Le bouillon nutritif glucosé convient au LCR",
+      "Les milieux usuels sont insuffisants",
+      "Nécessite un milieu de Löwenstein-Jensen"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Culture facile sur milieux usuels",
+      "Gélose au sang de mouton ou de cheval préférée",
+      "Bouillon nutritif glucosé à 0,5 % pour le LCR",
+      "Les milieux usuels suffisent",
+      "Le Löwenstein-Jensen est réservé aux mycobactéries"
+    ]
+  },
+  {
+    "q": "L'isolement de Listeria à partir d'un prélèvement polycontaminé repose sur :",
+    "options": [
+      "L'enrichissement sélectif à +4 °C",
+      "Les milieux sélectifs (PALCAM, OXFORD)",
+      "L'ajout d'acide nalidixique, colimycine ou trypaflavine",
+      "L'ensemencement direct sur gélose au sang uniquement",
+      "La culture en anaérobiose stricte"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Techniques d'enrichissement sélectif à +4 °C",
+      "Isolement sur milieux sélectifs PALCAM, OXFORD",
+      "Milieux ordinaires additionnés d'acide nalidixique, colimycine ou trypaflavine",
+      "La gélose au sang seule est insuffisante sur prélèvement polycontaminé",
+      "Listeria est microaérophile, non anaérobie stricte"
+    ]
+  },
+  {
+    "q": "À propos de la culture sur gélose au sang, lesquelles sont exactes ?",
+    "options": [
+      "Bactérie microaérophile",
+      "Pousse sur gélose au sang de mouton",
+      "Hémolyse sur gélose au sang",
+      "Colonies strictement non hémolytiques",
+      "Croissance possible entre -2 °C et +45 °C"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "L. monocytogenes est microaérophile",
+      "Gélose au sang de mouton ou de cheval",
+      "Hémolyse liée à la listériolysine O (accentuée au CAMP test)",
+      "Elle est hémolytique, non strictement non hémolytique",
+      "Croissance possible entre -2 °C et +45 °C"
+    ]
+  },
+  {
+    "q": "Concernant les antigènes somatiques O de L. monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "Au nombre de 15, de I à XI",
+      "Au nombre de 5",
+      "Utilisés pour le sérotypage",
+      "Absents chez L. monocytogenes",
+      "De nature flagellaire"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explain": [
+      "Antigènes somatiques O : 15, de I à XI",
+      "Les antigènes H sont au nombre de 5",
+      "Les antigènes O participent au sérotypage",
+      "Ils sont bien présents",
+      "Les antigènes flagellaires sont les antigènes H"
+    ]
+  },
+  {
+    "q": "Concernant les antigènes flagellaires H, lesquelles sont exactes ?",
+    "options": [
+      "Au nombre de 5, de A à E",
+      "Au nombre de 15",
+      "Liés à la mobilité à 20-25 °C",
+      "De nature somatique",
+      "Utiles au sérotypage"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explain": [
+      "Antigènes flagellaires H : 5, de A à E",
+      "Les antigènes O sont au nombre de 15",
+      "Antigènes flagellaires liés à la mobilité à 20-25 °C",
+      "Les antigènes somatiques sont les antigènes O",
+      "Le sérotypage repose sur les antigènes O et H"
+    ]
+  },
+  {
+    "q": "Le sérotypage de L. monocytogenes :",
+    "options": [
+      "17 sérovars décrits",
+      "Sérotypes 1/2a, 1/2b et 4b responsables de 95 % des listérioses humaines",
+      "Utile dans les enquêtes épidémiologiques",
+      "Sans intérêt épidémiologique",
+      "Repose sur les antigènes O et H"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "17 sérovars pour L. monocytogenes",
+      "Les sérotypes 1/2a, 1/2b et 4b causent 95 % des listérioses humaines",
+      "Le sérotypage est utile dans les enquêtes épidémiologiques",
+      "Il a un intérêt épidémiologique majeur",
+      "Sérotypage basé sur les antigènes somatiques O et flagellaires H"
+    ]
+  },
+  {
+    "q": "Concernant les sérotypes de L. monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "1/2a, 1/2b et 4b = 95 % des listérioses humaines",
+      "Le sérotype 4b est fréquent en pathologie humaine",
+      "Il n'existe qu'un seul sérotype",
+      "Le sérotypage aide à relier les cas d'une épidémie",
+      "Tous les sérovars sont également fréquents en pathologie"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "1/2a, 1/2b et 4b représentent 95 % des listérioses humaines",
+      "Le sérotype 4b fait partie des sérotypes dominants",
+      "17 sérovars sont décrits",
+      "Le sérotypage est utile dans les enquêtes épidémiologiques",
+      "Seuls 3 sérotypes dominent en pathologie humaine"
+    ]
+  },
+  {
+    "q": "Les antigènes de L. monocytogenes comprennent :",
+    "options": [
+      "Antigènes O somatiques (15)",
+      "Antigènes H flagellaires (5)",
+      "Antigènes K capsulaires",
+      "Antigène Vi",
+      "17 sérovars au total"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Antigènes somatiques O : 15, de I à XI",
+      "Antigènes flagellaires H : 5, de A à E",
+      "Pas d'antigènes K capsulaires décrits",
+      "Pas d'antigène Vi",
+      "17 sérovars pour L. monocytogenes"
+    ]
+  },
+  {
+    "q": "Concernant le sérogroupage et le typage, lesquelles sont exactes ?",
+    "options": [
+      "Sérogroupage, lysotypie et typage moléculaire",
+      "Utilisés en enquête épidémiologique",
+      "Remplacent la culture",
+      "Sans intérêt",
+      "Permettent de tracer la source alimentaire"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Sérogroupage, lysotypie et typage moléculaire disponibles",
+      "Utiles dans les enquêtes épidémiologiques",
+      "Ils complètent la culture, ne la remplacent pas",
+      "Ils ont un intérêt épidémiologique",
+      "Le typage permet de remonter à la source de contamination"
+    ]
+  },
+  {
+    "q": "À propos des antigènes O, lesquelles sont exactes ?",
+    "options": [
+      "De I à XI",
+      "Au nombre de 15",
+      "De nature flagellaire",
+      "Au nombre de 5, de A à E",
+      "Combinés aux antigènes H pour le sérotypage"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Antigènes somatiques O : de I à XI",
+      "Au nombre de 15",
+      "Les antigènes flagellaires sont les antigènes H",
+      "Les antigènes H sont au nombre de 5, de A à E",
+      "Le sérotypage combine antigènes O et H"
+    ]
+  },
+  {
+    "q": "À propos des antigènes H, lesquelles sont exactes ?",
+    "options": [
+      "De A à E",
+      "Au nombre de 5",
+      "De nature somatique",
+      "Liés aux flagelles",
+      "Exprimés uniquement à 37 °C"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Antigènes flagellaires H : de A à E",
+      "Au nombre de 5",
+      "Les antigènes somatiques sont les antigènes O",
+      "Antigènes portés par les flagelles",
+      "La bactérie est immobile à 37 °C, mobile à 20-25 °C"
+    ]
+  },
+  {
+    "q": "Le typage moléculaire de L. monocytogenes :",
+    "options": [
+      "Complète le sérogroupage et la lysotypie",
+      "Utile dans les enquêtes épidémiques",
+      "Identifie la source de contamination",
+      "Est inutile",
+      "Remplace l'antibiogramme"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Sérogroupage, lysotypie et typage moléculaire sont complémentaires",
+      "Le typage moléculaire est utile dans les enquêtes épidémiques",
+      "Il permet de tracer la source de contamination",
+      "Il a un intérêt épidémiologique",
+      "Il ne remplace pas l'antibiogramme"
+    ]
+  },
+  {
+    "q": "Concernant les 17 sérovars de L. monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "Seuls 1/2a, 1/2b et 4b dominent en pathologie humaine",
+      "Tous sont aussi fréquents",
+      "Le sérotypage est utile en épidémiologie",
+      "Le sérotypage repose sur les antigènes O et H",
+      "Il n'existe pas de sérovars"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "1/2a, 1/2b et 4b = 95 % des listérioses humaines",
+      "Seuls 3 sérotypes dominent",
+      "Sérotypage utile dans les enquêtes épidémiologiques",
+      "Basé sur les antigènes somatiques O et flagellaires H",
+      "17 sérovars sont décrits"
+    ]
+  },
+  {
+    "q": "Les facteurs de virulence de L. monocytogenes comprennent :",
+    "options": [
+      "L'internaline",
+      "La listériolysine O",
+      "L'actine A (ActA)",
+      "Les phospholipases",
+      "Une exotoxine tétanique"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "L'internaline est un facteur de virulence",
+      "La listériolysine O est un facteur de virulence",
+      "L'actine A (ActA) est un facteur de virulence",
+      "Les phospholipases sont des facteurs de virulence",
+      "Pas d'exotoxine tétanique"
+    ]
+  },
+  {
+    "q": "L'internaline :",
+    "options": [
+      "Facteur de virulence de L. monocytogenes",
+      "Favorise la phagocytose par les cellules",
+      "Permet la traversée des barrières intestinale et placentaire",
+      "Est une toxine hémolytique",
+      "Est un antigène O"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "L'internaline est un facteur de virulence",
+      "La plupart des bactéries sont phagocytées grâce à l'internaline",
+      "Elle favorise l'invasion et la traversée des barrières",
+      "La toxine hémolytique est la listériolysine O",
+      "Les antigènes O sont somatiques, de I à XI"
+    ]
+  },
+  {
+    "q": "La listériolysine O (LLO) :",
+    "options": [
+      "Permet l'échappement du phagosome vers le cytoplasme",
+      "Est une hémolysine",
+      "Est la cible des anticorps détectés en diagnostic indirect",
+      "Est une bêta-lactamase",
+      "Est produite par L. innocua"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "La LLO permet l'échappement aux phagosomes vers le cytoplasme",
+      "C'est une cytolysine responsable de l'hémolyse",
+      "Les Ac anti-listériolysine O sont détectés en sérologie",
+      "Ce n'est pas une enzyme de résistance aux antibiotiques",
+      "L. innocua n'est pas pathogène et ne produit pas de LLO"
+    ]
+  },
+  {
+    "q": "L'actine A (ActA) :",
+    "options": [
+      "Permet la dissémination de cellule à cellule",
+      "Polymérise l'actine de la cellule hôte",
+      "Est une toxine sécrétée dans le milieu extérieur",
+      "Est un antigène flagellaire",
+      "Favorise la mobilité intracellulaire de la bactérie"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "ActA permet la dissémination aux cellules adjacentes",
+      "Elle utilise l'actine de la cellule hôte",
+      "C'est une protéine de surface, non une toxine sécrétée",
+      "Les antigènes flagellaires sont les antigènes H",
+      "Elle confère une mobilité intracellulaire à la bactérie"
+    ]
+  },
+  {
+    "q": "Les phospholipases de L. monocytogenes :",
+    "options": [
+      "Sont des facteurs de virulence",
+      "Participent à la lyse des membranes",
+      "Sont des enzymes hydrolytiques",
+      "Sont des antibiotiques",
+      "Sont produites uniquement à +4 °C"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Les phospholipases sont des facteurs de virulence",
+      "Elles lysent les membranes des vacuoles",
+      "Ce sont des enzymes qui hydrolysent les phospholipides",
+      "Ce ne sont pas des antibiotiques",
+      "Leur production n'est pas limitée au froid"
+    ]
+  },
+  {
+    "q": "Concernant le pouvoir pathogène de L. monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "Bactérie invasive intracellulaire facultative",
+      "Échappement aux phagosomes dans certaines circonstances",
+      "Inoculum massif et terrain fragile favorisent l'invasion",
+      "Bactérie toujours extracellulaire",
+      "Production de spores résistantes"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "L. monocytogenes est invasive, intracellulaire facultative",
+      "Dans certaines circonstances elle échappe aux phagosomes et gagne le cytoplasme",
+      "Inoculum massif et sujets fragiles favorisent l'échappement",
+      "Elle se multiplie dans le cytoplasme des cellules",
+      "Elle est non sporulée"
+    ]
+  },
+  {
+    "q": "La traversée des barrières par L. monocytogenes concerne :",
+    "options": [
+      "La barrière intestinale",
+      "La barrière hémato-encéphalique",
+      "La barrière placentaire",
+      "La peau intacte",
+      "La muqueuse rhinopharyngée"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Porte d'entrée digestive avec traversée de la barrière intestinale",
+      "Dissémination hématogène vers le SNC",
+      "Dissémination vers le placenta avec infection fœtale",
+      "Pas de traversée de la peau intacte décrite",
+      "Porte d'entrée digestive ou rhinopharyngée"
+    ]
+  },
+  {
+    "q": "Concernant la listériolysine O, lesquelles sont exactes ?",
+    "options": [
+      "Hémolysine responsable de l'hémolyse sur gélose au sang",
+      "Contribue à l'hémolyse accentuée au CAMP test",
+      "Cible des Ac anti-LLO en diagnostic indirect",
+      "Enzyme de la paroi bactérienne",
+      "Antibiotique naturel"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "La LLO est une cytolysine hémolytique",
+      "La β-hémolysine de S. aureus accentue l'hémolyse au CAMP test",
+      "Les anticorps anti-listériolysine O sont recherchés en sérologie",
+      "C'est une toxine, non une enzyme pariétale",
+      "Ce n'est pas un antibiotique"
+    ]
+  },
+  {
+    "q": "Les facteurs permettant la survie intracellulaire de L. monocytogenes sont :",
+    "options": [
+      "L'internaline (entrée dans les cellules)",
+      "La listériolysine O (échappement du phagosome)",
+      "ActA (dissémination intercellulaire)",
+      "Une capsule antiphagocytaire",
+      "Une spore résistante"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "L'internaline favorise la phagocytose par les cellules",
+      "La LLO permet l'échappement du phagosome vers le cytoplasme",
+      "ActA permet la dissémination aux cellules adjacentes",
+      "L. monocytogenes est non capsulée",
+      "L. monocytogenes est non sporulée"
+    ]
+  },
+  {
+    "q": "Concernant la virulence, lesquelles sont exactes ?",
+    "options": [
+      "L'inoculum massif favorise l'échappement aux phagosomes",
+      "Les sujets fragiles sont plus à risque d'invasion",
+      "La bactérie se multiplie dans le cytoplasme",
+      "Elle est systématiquement détruite par les phagocytes",
+      "Les phospholipases lysent les membranes vacuolaires"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Inoculum massif : échappement aux phagosomes",
+      "Sujets fragiles : invasion facilitée",
+      "Multiplication dans le cytoplasme après échappement",
+      "Elle échappe aux phagosomes dans certaines circonstances",
+      "Les phospholipases participent à la lyse des membranes"
+    ]
+  },
+  {
+    "q": "L. monocytogenes doit sa virulence à :",
+    "options": [
+      "Sa capacité à survivre dans les cellules phagocytaires",
+      "L'internaline",
+      "La listériolysine O",
+      "L'actine A",
+      "La production d'endotoxine LPS"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Bactérie intracellulaire facultative",
+      "Internaline : entrée dans les cellules",
+      "Listériolysine O : échappement du phagosome",
+      "Actine A : dissémination intercellulaire",
+      "Pas de LPS, c'est une bactérie à Gram positif"
+    ]
+  },
+  {
+    "q": "Concernant les toxines de L. monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "La listériolysine O est une cytolysine",
+      "Les phospholipases dégradent les phospholipides membranaires",
+      "Pas d'exotoxine classique majeure",
+      "Production de toxine botulique",
+      "Production de toxine diphtérique"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "La LLO est une cytolysine formant des pores",
+      "Les phospholipases hydrolysent les phospholipides des membranes",
+      "La virulence repose sur internaline, LLO, ActA, phospholipases",
+      "Pas de toxine botulique",
+      "Pas de toxine diphtérique"
+    ]
+  },
+  {
+    "q": "La mobilité de L. monocytogenes :",
+    "options": [
+      "Présente à 20-25 °C",
+      "Absente à 37 °C",
+      "Critère d'identification",
+      "Présente à toutes températures",
+      "Absente à 25 °C"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Mobile à 20-25 °C",
+      "Immobile à 37 °C",
+      "La mobilité à 25 °C est un critère d'identification",
+      "La mobilité dépend de la température",
+      "Elle est mobile à 25 °C"
+    ]
+  },
+  {
+    "q": "À propos de la mobilité de L. monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "Testée à 25 °C pour l'identification",
+      "Liée aux antigènes H flagellaires",
+      "Absente à 37 °C",
+      "Présente à 37 °C",
+      "Inutile au diagnostic"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "La mobilité à 25 °C est un caractère d'identification",
+      "Les antigènes H sont flagellaires",
+      "Immobile à 37 °C",
+      "Elle est immobile à 37 °C",
+      "C'est un critère utile d'identification"
+    ]
+  },
+  {
+    "q": "L'étude de la mobilité de L. monocytogenes :",
+    "options": [
+      "Se fait à température ambiante (20-25 °C)",
+      "Montre une bactérie immobile à 37 °C",
+      "Montre une bactérie mobile à 37 °C",
+      "Est un caractère du genre",
+      "N'a aucun intérêt"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Mobilité recherchée à 20-25 °C",
+      "Immobile à 37 °C",
+      "Elle est immobile à 37 °C",
+      "Caractère du genre Listeria",
+      "C'est un critère d'identification"
+    ]
+  },
+  {
+    "q": "Les antigènes H de L. monocytogenes :",
+    "options": [
+      "Sont flagellaires (A à E)",
+      "S'expriment avec la mobilité à 20-25 °C",
+      "Sont somatiques",
+      "Sont au nombre de 15",
+      "Participent au sérotypage"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Antigènes flagellaires H : 5, de A à E",
+      "Liés aux flagelles fonctionnels à 20-25 °C",
+      "Les antigènes somatiques sont les antigènes O",
+      "Les antigènes O sont au nombre de 15",
+      "Le sérotypage repose sur les antigènes O et H"
+    ]
+  },
+  {
+    "q": "Une souche de Listeria mobile à 25 °C et immobile à 37 °C évoque :",
+    "options": [
+      "L. monocytogenes",
+      "L. ivanovii",
+      "Un staphylocoque",
+      "Un streptocoque",
+      "Une entérobactérie"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "L. monocytogenes : mobile à 20-25 °C, immobile à 37 °C",
+      "Les autres espèces du genre partagent ce caractère",
+      "Les staphylocoques sont immobiles",
+      "Les streptocoques sont immobiles",
+      "Les entérobactéries ont un profil de mobilité différent"
+    ]
+  },
+  {
+    "q": "La mobilité de L. monocytogenes se distingue par :",
+    "options": [
+      "Caractère différentiel avec les corynébactéries immobiles",
+      "Utile à l'identification",
+      "Dépend de la température d'incubation",
+      "Constante quelle que soit la température",
+      "Absente chez toutes les Listeria"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Les corynébactéries sont immobiles, Listeria est mobile à 25 °C",
+      "La mobilité à 25 °C aide à l'identification",
+      "Mobile à 20-25 °C, immobile à 37 °C",
+      "Elle varie avec la température",
+      "La mobilité est un caractère du genre Listeria"
+    ]
+  },
+  {
+    "q": "La mobilité à 20-25 °C :",
+    "options": [
+      "S'observe en milieu semi-solide",
+      "Est liée aux flagelles",
+      "Est un critère du genre Listeria",
+      "N'existe pas",
+      "S'observe à 37 °C"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Mobilité observable en milieu semi-solide",
+      "Liée aux flagelles portant les antigènes H",
+      "Caractère du genre Listeria",
+      "Elle existe à 20-25 °C",
+      "À 37 °C la bactérie est immobile"
+    ]
+  },
+  {
+    "q": "Concernant les flagelles de L. monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "Portent les antigènes H",
+      "Fonctionnels à 20-25 °C",
+      "Non fonctionnels à 37 °C",
+      "Absents",
+      "De nature capsulaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Les antigènes H sont flagellaires",
+      "Mobilité à 20-25 °C",
+      "Immobile à 37 °C",
+      "Les flagelles sont présents",
+      "Pas de lien avec une capsule, la bactérie est non capsulée"
+    ]
+  },
+  {
+    "q": "Concernant la résistance de L. monocytogenes dans le milieu extérieur, lesquelles sont exactes ?",
+    "options": [
+      "Survit longtemps dans l'environnement",
+      "6 mois à 5 ans dans l'ensilage",
+      "5 à 10000 Listeria/g dans l'ensilage",
+      "Détruite rapidement dans le sol",
+      "Sensible au froid"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Capacité à survivre longtemps dans l'environnement",
+      "Survie de 6 mois à 5 ans dans l'ensilage",
+      "5 à 10000 Listeria/g dans l'ensilage",
+      "Elle survit dans le sol",
+      "Elle se multiplie à +4 °C"
+    ]
+  },
+  {
+    "q": "L'ensilage :",
+    "options": [
+      "Réservoir important de L. monocytogenes",
+      "Contient 5 à 10000 Listeria/g",
+      "La bactérie y survit 6 mois à 5 ans",
+      "Est sans risque sanitaire",
+      "Source de contamination des ruminants"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "L'ensilage est un réservoir important",
+      "5 à 10000 Listeria/g dans l'ensilage",
+      "Survie de 6 mois à 5 ans",
+      "L'ensilage contaminé est à risque",
+      "Les ruminants se contaminent via l'ensilage"
+    ]
+  },
+  {
+    "q": "La résistance dans l'environnement explique :",
+    "options": [
+      "L'ubiquité de la bactérie",
+      "La contamination des végétaux (sols, engrais)",
+      "Les cas sporadiques",
+      "L'impossibilité de toute prévention",
+      "La transmission interhumaine directe"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Bactérie ubiquitaire grâce à sa résistance",
+      "Végétaux contaminés via sols et engrais",
+      "Cas sporadiques surtout en automne et au printemps",
+      "La prévention par l'hygiène alimentaire reste possible",
+      "La transmission est alimentaire, non interhumaine directe"
+    ]
+  },
+  {
+    "q": "Concernant la survie de L. monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "Dans le sol",
+      "Dans l'eau",
+      "Sur les plantes",
+      "Uniquement dans l'organisme",
+      "Dans les aliments réfrigérés"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Survie dans le sol",
+      "Survie dans l'eau",
+      "Survie sur les plantes",
+      "Elle survit longtemps dans le milieu extérieur",
+      "Multiplication à +4 °C dans les aliments réfrigérés"
+    ]
+  },
+  {
+    "q": "La capacité à survivre longtemps dans l'environnement :",
+    "options": [
+      "Favorise la contamination des aliments",
+      "Explique le portage animal",
+      "Rend la bactérie ubiquitaire",
+      "La rend sporulante",
+      "Est liée à la capsule"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Contamination des aliments favorisée",
+      "Portage sain animal de 10 à 30 %",
+      "Bactérie ubiquitaire",
+      "Elle est non sporulée",
+      "Elle est non capsulée"
+    ]
+  },
+  {
+    "q": "Concernant l'ensilage contaminé, lesquelles sont exactes ?",
+    "options": [
+      "5 à 10000 germes/g",
+      "Survie de 6 mois à 5 ans",
+      "Source de contamination pour les ruminants",
+      "Sans danger pour l'homme",
+      "Toujours stérile"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "5 à 10000 Listeria/g dans l'ensilage",
+      "Survie de 6 mois à 5 ans",
+      "Les ruminants se contaminent par l'ensilage",
+      "L'ensilage contaminé est dangereux",
+      "L'ensilage peut être contaminé"
+    ]
+  },
+  {
+    "q": "L. monocytogenes dans le milieu extérieur :",
+    "options": [
+      "Résistante",
+      "Ubiquitaire (sol, eau, plantes)",
+      "Fragile",
+      "Détruite par la réfrigération",
+      "Capable de se multiplier à +4 °C"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Résistante dans le milieu extérieur",
+      "Ubiquitaire : sol, eau, plantes",
+      "Elle survit longtemps dans l'environnement",
+      "Elle se multiplie à +4 °C",
+      "Multiplication à la température de réfrigération"
+    ]
+  },
+  {
+    "q": "La longue survie environnementale :",
+    "options": [
+      "6 mois à 5 ans dans l'ensilage",
+      "Explique les contaminations alimentaires",
+      "Justifie l'enquête environnementale en cas d'épidémie",
+      "Est due à la sporulation",
+      "Est due à la capsule"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Survie de 6 mois à 5 ans dans l'ensilage",
+      "Contaminations alimentaires favorisées",
+      "Enquête environnementale sur les aliments suspects en cas d'épidémie",
+      "Bactérie non sporulée",
+      "Bactérie non capsulée"
+    ]
+  },
+  {
+    "q": "Le réservoir animal de L. monocytogenes :",
+    "options": [
+      "15 espèces animales",
+      "Portage sain de 10-30 % des ovins, bovins, porcins, poulets",
+      "80 % en élevage industriel",
+      "Poissons, insectes, crustacés",
+      "Uniquement les ruminants"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Réservoir : 15 espèces animales",
+      "Portage sain de 10 à 30 % des ovins, bovins, porcins, poulets",
+      "80 % si élevage industriel",
+      "Poissons, insectes, crustacés aussi concernés",
+      "De nombreuses espèces, pas seulement les ruminants"
+    ]
+  },
+  {
+    "q": "Les aliments à risque de listériose sont :",
+    "options": [
+      "Les charcuteries",
+      "Les produits laitiers (fromages au lait cru)",
+      "Les poissons fumés",
+      "Les conserves de végétaux",
+      "Les aliments cuits à cœur"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Charcuteries à risque",
+      "Produits laitiers dont fromages au lait cru",
+      "Poissons fumés et conserves",
+      "Conserves de végétaux à risque",
+      "La cuisson à cœur élimine le risque"
+    ]
+  },
+  {
+    "q": "Concernant le lait dans la transmission, lesquelles sont exactes ?",
+    "options": [
+      "Lait de mammite contaminée",
+      "Fromages au lait cru",
+      "Lait correctement pasteurisé",
+      "Lait maternel",
+      "Lait en poudre"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Lait de mammite contaminée",
+      "Fromages au lait cru à risque",
+      "La pasteurisation correcte élimine le risque",
+      "Pas de transmission par le lait maternel décrite",
+      "Le lait en poudre n'est pas cité comme vecteur"
+    ]
+  },
+  {
+    "q": "Le portage humain de L. monocytogenes :",
+    "options": [
+      "5 à 10 % des humains l'hébergent dans le tube digestif",
+      "Parfois au niveau du rhinopharynx",
+      "Concerne 100 % de la population",
+      "Jamais observé",
+      "Uniquement chez les malades"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "5 à 10 % des humains hébergent L. monocytogenes dans le tube digestif",
+      "Parfois hébergée au niveau du rhinopharynx",
+      "Le portage concerne 5 à 10 %, non 100 %",
+      "Le portage sain existe",
+      "Le portage existe chez des sujets sains"
+    ]
+  },
+  {
+    "q": "La transmission de la listériose :",
+    "options": [
+      "Indirecte associée à l'alimentation",
+      "Directe fœto-maternelle",
+      "Interhumaine respiratoire",
+      "Par les aliments contaminés",
+      "Par contact cutané avec un malade"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Transmission indirecte associée à l'alimentation",
+      "Transmission directe fœto-maternelle",
+      "Pas de transmission respiratoire interhumaine",
+      "Les aliments contaminés sont le vecteur principal",
+      "Pas de transmission par contact cutané décrite"
+    ]
+  },
+  {
+    "q": "Concernant la viande, lesquelles sont exactes ?",
+    "options": [
+      "Viande crue contaminée lors de l'abattage",
+      "Charcuteries à risque",
+      "Viande bien cuite à risque",
+      "Viande congelée à risque majeur",
+      "Viande séchée sans risque"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Viande crue contaminée lors de l'abattage",
+      "Charcuteries : aliments à risque",
+      "La cuisson à cœur élimine le risque",
+      "La congélation n'est pas citée comme facteur de risque majeur",
+      "Les produits carnés transformés sont à risque"
+    ]
+  },
+  {
+    "q": "Concernant les végétaux, lesquelles sont exactes ?",
+    "options": [
+      "Contaminés par les sols et les engrais",
+      "Conserves de végétaux à risque",
+      "Toujours sans risque",
+      "Le lavage les rend stériles",
+      "Seules les crudités sont à risque"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Végétaux contaminés via sols et engrais",
+      "Conserves de végétaux à risque",
+      "Les végétaux peuvent être contaminés",
+      "Le lavage ne stérilise pas",
+      "Les conserves de végétaux sont aussi à risque"
+    ]
+  },
+  {
+    "q": "Les cas sporadiques de listériose :",
+    "options": [
+      "Surtout en automne et au printemps",
+      "Possibles toute l'année",
+      "Uniquement en hiver",
+      "Liés à l'alimentation",
+      "Jamais d'origine alimentaire"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Cas sporadiques surtout en automne et au printemps",
+      "Ils peuvent survenir toute l'année",
+      "Pas de limitation à l'hiver",
+      "Transmission indirecte associée à l'alimentation",
+      "L'alimentation est le mode de transmission principal"
+    ]
+  },
+  {
+    "q": "Concernant les épidémies de listériose, lesquelles sont exactes ?",
+    "options": [
+      "Possibles (TIAC)",
+      "Très médiatisées",
+      "Mortelles notamment chez ID, nouveau-nés, femmes enceintes",
+      "Impossibles",
+      "Uniquement nosocomiales"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Épidémies alimentaires possibles (TIAC)",
+      "TIAC très médiatisées",
+      "Mortelles notamment chez immunodéprimés, nouveau-nés, femmes enceintes",
+      "Les épidémies sont décrites",
+      "Ce sont des épidémies alimentaires, non nosocomiales"
+    ]
+  },
+  {
+    "q": "La répartition des formes cliniques de listériose :",
+    "options": [
+      "Formes materno-fœtales : 26 %",
+      "Sujets immunodéprimés : 59 %",
+      "Sujets sans facteur de risque : 17 %",
+      "100 % chez l'immunocompétent",
+      "0 % chez la femme enceinte"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Formes materno-fœtales : 26 %",
+      "Sujets immunodéprimés : 59 %",
+      "Sujets sans facteur de risque : 17 %",
+      "Seulement 17 % sans facteur de risque",
+      "Les formes materno-fœtales représentent 26 %"
+    ]
+  },
+  {
+    "q": "La porte d'entrée de L. monocytogenes est :",
+    "options": [
+      "Digestive",
+      "Rhinopharyngée",
+      "Cutanée",
+      "Respiratoire profonde",
+      "Uniquement digestive"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Porte d'entrée digestive",
+      "Porte d'entrée rhinopharyngée",
+      "Pas de porte d'entrée cutanée décrite",
+      "Pas de porte d'entrée respiratoire profonde",
+      "Deux portes d'entrée : digestive ou rhinopharyngée"
+    ]
+  },
+  {
+    "q": "Après la porte d'entrée digestive, lesquelles sont exactes ?",
+    "options": [
+      "Gain des ganglions lymphatiques puis de la circulation sanguine",
+      "Multiplication dans le foie et la rate",
+      "Dissémination directe au cerveau sans bactériémie",
+      "Foie et rate : organes cibles",
+      "Élimination urinaire exclusive"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Ganglions lymphatiques puis circulation sanguine",
+      "Multiplication dans le foie et la rate, organes cibles",
+      "La dissémination au SNC passe par la bactériémie",
+      "Foie et rate sont les organes cibles",
+      "Pas d'élimination urinaire exclusive"
+    ]
+  },
+  {
+    "q": "Concernant le réservoir environnemental, lesquelles sont exactes ?",
+    "options": [
+      "Le sol",
+      "L'eau",
+      "Les plantes",
+      "L'air",
+      "L'ensilage"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Le sol est un réservoir",
+      "L'eau est un réservoir",
+      "Les plantes sont un réservoir",
+      "L'air n'est pas cité comme réservoir",
+      "L'ensilage est un réservoir important"
+    ]
+  },
+  {
+    "q": "La transmission fœto-maternelle :",
+    "options": [
+      "Est directe",
+      "Est transplacentaire",
+      "Survient lors de l'accouchement",
+      "Se fait par l'allaitement",
+      "Se fait par voie respiratoire"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Transmission directe fœto-maternelle",
+      "Infection in utero via le placenta",
+      "Contamination périnatale lors de l'accouchement",
+      "Pas de transmission par l'allaitement décrite",
+      "Pas de transmission respiratoire"
+    ]
+  },
+  {
+    "q": "Les aliments les plus souvent en cause dans la listériose sont :",
+    "options": [
+      "Les charcuteries",
+      "Les fromages au lait cru",
+      "Les poissons fumés",
+      "Les fruits frais lavés",
+      "L'eau embouteillée"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Charcuteries à risque",
+      "Fromages au lait cru à risque",
+      "Poissons fumés à risque",
+      "Les fruits lavés ne sont pas cités comme vecteurs majeurs",
+      "L'eau embouteillée n'est pas citée"
+    ]
+  },
+  {
+    "q": "Concernant la restauration collective, lesquelles sont exactes ?",
+    "options": [
+      "Son développement est associé à l'augmentation des cas",
+      "Les aliments réfrigérés sont à risque",
+      "Sans lien avec la listériose",
+      "Uniquement les cantines scolaires",
+      "Uniquement en été"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Augmentation des cas avec le développement de la restauration collective",
+      "Aliments réfrigérés à risque (multiplication à +4 °C)",
+      "Lien établi avec la restauration collective",
+      "Toute la restauration collective est concernée",
+      "Pas de saisonnalité estivale exclusive"
+    ]
+  },
+  {
+    "q": "Le portage sain animal :",
+    "options": [
+      "10-30 % des ovins, bovins, porcins, poulets",
+      "80 % en élevage industriel",
+      "Inexistant",
+      "Uniquement chez les poissons",
+      "Uniquement en hiver"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Portage sain de 10 à 30 % des ovins, bovins, porcins, poulets",
+      "80 % si élevage industriel",
+      "Le portage sain animal existe",
+      "De nombreuses espèces dont poissons, insectes, crustacés",
+      "Pas de saisonnalité décrite"
+    ]
+  },
+  {
+    "q": "L'enquête environnementale en cas d'épidémie :",
+    "options": [
+      "Recherche les aliments suspects",
+      "Surtout en cas de suspicion d'épidémie",
+      "Est inutile",
+      "Se limite au domicile du patient",
+      "Est systématique devant tout cas sporadique"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Enquête sur les aliments suspects",
+      "Surtout en cas de suspicion d'épidémie",
+      "Elle est utile en cas d'épidémie",
+      "Elle porte sur les aliments suspects",
+      "Elle est surtout indiquée en cas d'épidémie"
+    ]
+  },
+  {
+    "q": "Concernant la contamination des fromages, lesquelles sont exactes ?",
+    "options": [
+      "Fromages au lait cru à risque",
+      "Lait de mammite à l'origine de la contamination",
+      "La réfrigération empêche toute multiplication",
+      "La pasteurisation élimine le risque",
+      "Fromages à pâte pressée cuite sans risque"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Fromages au lait cru : aliments à risque",
+      "Lait de mammite contaminée",
+      "Listeria se multiplie à +4 °C",
+      "La pasteurisation correcte élimine le risque",
+      "Les fromages au lait cru restent à risque quelle que soit la pâte"
+    ]
+  },
+  {
+    "q": "La listériose est une anthropozoonose car :",
+    "options": [
+      "Réservoir animal (15 espèces)",
+      "Transmission par les aliments d'origine animale",
+      "L'homme peut héberger la bactérie",
+      "Transmission interhumaine exclusive",
+      "Réservoir uniquement humain"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Réservoir : 15 espèces animales",
+      "Aliments d'origine animale contaminés",
+      "5 à 10 % des humains hébergent la bactérie dans le tube digestif",
+      "La transmission est alimentaire, non interhumaine exclusive",
+      "Le réservoir est animal et environnemental"
+    ]
+  },
+  {
+    "q": "La réceptivité à L. monocytogenes :",
+    "options": [
+      "Est totale",
+      "Est particulière chez les terrains fragiles",
+      "Est nulle chez l'adulte sain",
+      "Totale mais formes graves sur terrains à risque",
+      "Limitée aux animaux"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "La réceptivité est totale",
+      "Terrain particulier : nouveau-nés, enfants, diabétiques, âgés, immunodéprimés",
+      "17 % des cas sans facteur de risque",
+      "Formes graves surtout sur terrains à risque",
+      "L'homme est réceptif"
+    ]
+  },
+  {
+    "q": "Les terrains à risque de forme grave sont :",
+    "options": [
+      "Les nouveau-nés",
+      "Les femmes enceintes",
+      "Les immunodéprimés",
+      "Les personnes âgées",
+      "Les adultes jeunes en bonne santé"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Nouveau-nés : terrain à risque",
+      "Femmes enceintes : 26 % des cas",
+      "Immunodéprimés : 59 % des cas",
+      "Personnes âgées : terrain à risque",
+      "L'adulte jeune en bonne santé n'est pas à risque particulier"
+    ]
+  },
+  {
+    "q": "Concernant les sujets immunodéprimés, lesquelles sont exactes ?",
+    "options": [
+      "59 % des listérioses",
+      "Formes septicémiques et neuroméningées",
+      "Risque faible",
+      "Formes toujours bénignes",
+      "Uniquement les transplantés"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Sujets immunodéprimés : 59 % des cas",
+      "Formes graves septicémiques et du SNC",
+      "Risque élevé de forme grave",
+      "Maladie redoutable avec létalité de 20 à 30 %",
+      "Tous les immunodéprimés sont concernés"
+    ]
+  },
+  {
+    "q": "Les enfants en bas âge et les diabétiques :",
+    "options": [
+      "Terrains à risque",
+      "Formes graves possibles",
+      "Aucun risque particulier",
+      "Immunité totale",
+      "Uniquement risque cutané"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Enfants en bas âge et diabétiques : terrains particuliers",
+      "Formes graves possibles",
+      "Ce sont des terrains à risque",
+      "Pas d'immunité totale",
+      "Formes invasives possibles"
+    ]
+  },
+  {
+    "q": "Concernant la grossesse, lesquelles sont exactes ?",
+    "options": [
+      "Terrain à risque de listériose",
+      "Listériose materno-fœtale : 26 % des cas",
+      "Aucun risque particulier",
+      "Risque uniquement au 1er trimestre",
+      "Risque fœtal grave"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "La femme enceinte est un terrain à risque",
+      "Formes materno-fœtales : 26 % des cas",
+      "La grossesse est un facteur de risque",
+      "Risque après le 5ème mois : prématurité, avortements",
+      "Infection fœtale grave possible"
+    ]
+  },
+  {
+    "q": "Les personnes âgées :",
+    "options": [
+      "Terrain à risque de listériose",
+      "Méningites fréquentes",
+      "Aucun risque particulier",
+      "Risque uniquement alimentaire",
+      "Formes toujours bénignes"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Les personnes âgées sont un terrain à risque",
+      "Atteintes neuroméningées fréquentes",
+      "Terrain à risque particulier",
+      "Le risque est lié à la gravité des formes, pas seulement à l'alimentation",
+      "Maladie redoutable, non bénigne"
+    ]
+  },
+  {
+    "q": "Concernant les sujets sans facteur de risque, lesquelles sont exactes ?",
+    "options": [
+      "17 % des cas",
+      "Formes possibles",
+      "Immunité totale",
+      "Jamais atteints",
+      "Formes uniquement cutanées"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Sujets sans facteur de risque : 17 % des cas",
+      "Des formes invasives sont possibles",
+      "Pas d'immunité totale",
+      "Ils peuvent être atteints",
+      "Formes septicémiques et neuroméningées possibles"
+    ]
+  },
+  {
+    "q": "La létalité de la listériose invasive :",
+    "options": [
+      "20 à 30 % des cas",
+      "Élevée malgré le traitement",
+      "40 % de séquelles neurologiques",
+      "Nulle",
+      "De 1 à 2 %"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Létalité de 20 à 30 % des cas",
+      "Maladie redoutable malgré le traitement",
+      "40 % de séquelles neurologiques",
+      "Létalité élevée",
+      "Létalité de 20 à 30 %, non de 1 à 2 %"
+    ]
+  },
+  {
+    "q": "Les séquelles neurologiques de la listériose :",
+    "options": [
+      "40 % des cas",
+      "Après méningo-encéphalite",
+      "Inexistantes",
+      "Uniquement auditives",
+      "Uniquement motrices"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "40 % de séquelles neurologiques",
+      "Séquelles des atteintes du SNC (méningites, méningo-encéphalites)",
+      "Les séquelles sont fréquentes",
+      "Séquelles neurologiques variées",
+      "Séquelles neurologiques variées"
+    ]
+  },
+  {
+    "q": "Concernant le pronostic de la listériose, lesquelles sont exactes ?",
+    "options": [
+      "Maladie redoutable",
+      "Létalité de 20 à 30 %",
+      "Séquelles neurologiques fréquentes",
+      "Toujours bénigne",
+      "Guérison sans séquelle constante"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "La listériose est une maladie redoutable",
+      "Létalité de 20 à 30 % des cas",
+      "40 % de séquelles neurologiques",
+      "Maladie grave, non bénigne",
+      "Séquelles fréquentes"
+    ]
+  },
+  {
+    "q": "Les formes graves surviennent surtout :",
+    "options": [
+      "Chez l'immunodéprimé",
+      "Chez le nouveau-né",
+      "Chez la femme enceinte",
+      "Chez l'adulte jeune en bonne santé",
+      "Chez la personne âgée"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Immunodéprimés : 59 % des cas",
+      "Nouveau-nés : terrain à risque majeur",
+      "Femmes enceintes : 26 % des cas",
+      "L'adulte jeune sain n'est pas à risque particulier",
+      "Personnes âgées : terrain à risque"
+    ]
+  },
+  {
+    "q": "La mortalité néonatale de la listériose :",
+    "options": [
+      "Parfois supérieure à 50 %",
+      "Élevée en cas d'infection in utero",
+      "Nulle",
+      "Faible",
+      "Liée uniquement à la prématurité"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Mortalité parfois supérieure à 50 %",
+      "Élevée en cas d'infection in utero",
+      "Mortalité élevée",
+      "Mortalité élevée du nouveau-né infecté",
+      "Liée à l'infection elle-même"
+    ]
+  },
+  {
+    "q": "L. monocytogenes est :",
+    "options": [
+      "Une bactérie invasive",
+      "Intracellulaire facultative",
+      "Strictement extracellulaire",
+      "Un parasite obligatoire",
+      "Un virus"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Bactérie invasive",
+      "Intracellulaire facultative",
+      "Elle se multiplie dans le cytoplasme",
+      "C'est une bactérie, non un parasite",
+      "C'est une bactérie, non un virus"
+    ]
+  },
+  {
+    "q": "Après ingestion de L. monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "Gain des ganglions lymphatiques puis de la circulation sanguine",
+      "Multiplication dans le foie et la rate",
+      "Élimination immédiate sans invasion",
+      "Passage direct dans les urines",
+      "Dissémination sans bactériémie"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Ganglions lymphatiques puis circulation sanguine",
+      "Foie et rate : organes cibles où elles se multiplient",
+      "Invasion avec bactériémie",
+      "Pas de passage urinaire direct",
+      "La dissémination passe par la bactériémie"
+    ]
+  },
+  {
+    "q": "Dans le foie et la rate, lesquelles sont exactes ?",
+    "options": [
+      "La plupart des bactéries sont phagocytées",
+      "L'internaline favorise la phagocytose",
+      "En cas d'inoculum massif, échappement aux phagosomes",
+      "Gain du cytoplasme",
+      "Destruction systématique des bactéries"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "La plupart sont phagocytées (internaline)",
+      "L'internaline favorise la phagocytose",
+      "Inoculum massif ou sujets fragiles : échappement aux phagosomes",
+      "Les bactéries gagnent le cytoplasme",
+      "Elles échappent dans certaines circonstances"
+    ]
+  },
+  {
+    "q": "L'échappement au phagosome :",
+    "options": [
+      "Grâce à la listériolysine O",
+      "Permet la multiplication cytoplasmique",
+      "Suivi de la dissémination aux cellules adjacentes via ActA",
+      "Impossible",
+      "Sans conséquence pathogénique"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "La listériolysine O lyse la membrane du phagosome",
+      "Multiplication dans le cytoplasme",
+      "Dissémination aux cellules adjacentes via l'actine A",
+      "L'échappement est possible",
+      "Il est à l'origine de l'invasion"
+    ]
+  },
+  {
+    "q": "La dissémination aux cellules adjacentes :",
+    "options": [
+      "Via l'actine A",
+      "Sans exposition aux anticorps",
+      "Favorise l'échappement immunitaire",
+      "Par voie sanguine exclusive",
+      "Par les toxines sécrétées"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "L'actine A permet la dissémination de cellule à cellule",
+      "Propagation intracellulaire à l'abri des anticorps",
+      "Échappement à l'immunité humorale",
+      "La dissémination intercellulaire est directe",
+      "Via ActA, non par des toxines"
+    ]
+  },
+  {
+    "q": "La bactériémie listérienne :",
+    "options": [
+      "Dissémination vers le SNC",
+      "Dissémination vers le placenta",
+      "Porte d'entrée des méningites",
+      "Toujours asymptomatique",
+      "Sans gravité"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Bactériémie vers le SNC",
+      "Bactériémie vers le placenta",
+      "Les méningites font suite à la bactériémie",
+      "La bactériémie est fébrile",
+      "Maladie grave"
+    ]
+  },
+  {
+    "q": "Les organes cibles de L. monocytogenes sont :",
+    "options": [
+      "Le foie",
+      "La rate",
+      "Le SNC",
+      "Le placenta",
+      "Le poumon"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Le foie est un organe cible",
+      "La rate est un organe cible",
+      "Le SNC est atteint après bactériémie",
+      "Le placenta est atteint avec infection fœtale",
+      "Le poumon n'est pas un organe cible principal"
+    ]
+  },
+  {
+    "q": "Concernant la phagocytose, lesquelles sont exactes ?",
+    "options": [
+      "La plupart des bactéries sont phagocytées (internaline)",
+      "L'échappement survient si inoculum massif ou sujet fragile",
+      "La bactérie se multiplie dans le cytoplasme",
+      "Les macrophages la détruisent toujours",
+      "L'internaline empêche la phagocytose"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "La plupart sont phagocytées grâce à l'internaline",
+      "Inoculum massif, sujets fragiles : échappement",
+      "Multiplication cytoplasmique après échappement",
+      "Échappement possible dans certaines circonstances",
+      "L'internaline favorise la phagocytose"
+    ]
+  },
+  {
+    "q": "La traversée placentaire explique :",
+    "options": [
+      "L'infection fœtale",
+      "Les avortements",
+      "Les accouchements prématurés",
+      "L'infection maternelle",
+      "L'absence de risque fœtal"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Infection du fœtus in utero",
+      "Avortements après le 5ème mois",
+      "Accouchements prématurés",
+      "Bactériémie maternelle avec rechute fébrile",
+      "Le risque fœtal est majeur"
+    ]
+  },
+  {
+    "q": "Le neurotropisme de L. monocytogenes se manifeste par :",
+    "options": [
+      "Méningites",
+      "Méningo-encéphalites",
+      "Encéphalites pures",
+      "Abcès cérébral",
+      "Jamais d'atteinte neurologique"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Méningites",
+      "Méningo-encéphalites",
+      "Encéphalites pures",
+      "Abcès cérébral (forme rare)",
+      "L'atteinte neurologique est caractéristique"
+    ]
+  },
+  {
+    "q": "Concernant l'internaline dans la physiopathologie, lesquelles sont exactes ?",
+    "options": [
+      "Favorise l'entrée dans les cellules",
+      "La plupart des bactéries sont phagocytées grâce à elle",
+      "C'est une hémolysine",
+      "Elle polymérise l'actine",
+      "C'est un antigène O"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "L'internaline favorise l'entrée dans les cellules",
+      "La plupart des bactéries sont phagocytées (internaline)",
+      "L'hémolysine est la listériolysine O",
+      "L'actine est polymérisée via ActA",
+      "Les antigènes O sont somatiques"
+    ]
+  },
+  {
+    "q": "La listériose invasive résulte de :",
+    "options": [
+      "La bactériémie",
+      "La dissémination hématogène au SNC et au placenta",
+      "La seule colonisation digestive",
+      "La production d'exotoxine systémique",
+      "L'inoculum massif chez un sujet fragile"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "La bactériémie dissémine la bactérie",
+      "Dissémination au SNC et au placenta",
+      "La colonisation seule ne suffit pas",
+      "Pas d'exotoxine systémique majeure",
+      "Inoculum massif et terrain fragile favorisent l'invasion"
+    ]
+  },
+  {
+    "q": "La septicémie listérienne :",
+    "options": [
+      "D'origine digestive",
+      "Chez l'adulte",
+      "Tableau fébrile avec bactériémie",
+      "Toujours bénigne",
+      "Sans porte d'entrée identifiée"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Septicémie d'origine digestive",
+      "Forme de l'adulte",
+      "Bactériémie fébrile",
+      "Maladie grave",
+      "Porte d'entrée digestive"
+    ]
+  },
+  {
+    "q": "Les infections du système nerveux central à L. monocytogenes sont :",
+    "options": [
+      "Méningites",
+      "Méningo-encéphalites",
+      "Encéphalites pures",
+      "Abcès cérébral",
+      "Jamais observées"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Méningites",
+      "Méningo-encéphalites",
+      "Encéphalites pures",
+      "Abcès cérébral (rare)",
+      "Les atteintes du SNC sont caractéristiques"
+    ]
+  },
+  {
+    "q": "La méningite à L. monocytogenes :",
+    "options": [
+      "LCR trouble avec formule panachée ou liquide clair",
+      "Bactéries peu abondantes surtout intracellulaires",
+      "Protéinorachie peu élevée voire normale",
+      "Glycorachie diminuée voire normale",
+      "Lactacidorachie élevée"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Aspect trouble avec formule panachée ou liquide clair",
+      "Bactéries peu abondantes, surtout intracellulaires",
+      "Protéinorachie peu élevée voire normale",
+      "Glycorachie diminuée voire normale",
+      "Lactacidorachie / lactacidémie élevée"
+    ]
+  },
+  {
+    "q": "Rarement, la listériose se manifeste par :",
+    "options": [
+      "Endocardite",
+      "Abcès de localisations diverses",
+      "Hépatite",
+      "Pleurésie",
+      "Uniquement méningite"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Endocardite (rare)",
+      "Abcès de localisations diverses (rare)",
+      "Hépatite (rare)",
+      "Pleurésie (rare)",
+      "De nombreuses formes rares existent"
+    ]
+  },
+  {
+    "q": "Autres formes rares de listériose :",
+    "options": [
+      "Formes cutanées",
+      "Pneumonie",
+      "Arthrite",
+      "Péritonite",
+      "Formes uniquement digestives"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Formes cutanées rares",
+      "Pneumonie rare",
+      "Arthrite rare",
+      "Péritonite rare",
+      "Les formes sont souvent invasives"
+    ]
+  },
+  {
+    "q": "Concernant l'endocardite listérienne, lesquelles sont exactes ?",
+    "options": [
+      "Forme rare",
+      "Grave",
+      "Diagnostiquée par hémocultures",
+      "Fréquente",
+      "Bénigne"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "L'endocardite est une forme rare",
+      "Forme grave",
+      "Diagnostic par hémocultures",
+      "Elle est rare",
+      "Elle est grave"
+    ]
+  },
+  {
+    "q": "L'atteinte ostéo-articulaire de la listériose :",
+    "options": [
+      "Arthrite",
+      "Ostéomyélite",
+      "Fréquente",
+      "Rare",
+      "Jamais décrite"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Arthrite décrite",
+      "Ostéomyélite décrite",
+      "Atteinte rare",
+      "Forme rare",
+      "Elle est décrite comme forme rare"
+    ]
+  },
+  {
+    "q": "Cas clinique : patient âgé diabétique, fièvre, troubles de la conscience, LCR trouble. Il faut évoquer :",
+    "options": [
+      "Une listériose neuroméningée",
+      "Une méningite à pneumocoque",
+      "Un paludisme",
+      "Une hémorragie méningée",
+      "Une tumeur cérébrale"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Terrain âgé et diabétique : penser à L. monocytogenes",
+      "Le pneumocoque reste un diagnostic différentiel",
+      "Pas de tableau de paludisme",
+      "LCR trouble infectieux, non hémorragique",
+      "Tableau aigu fébrile, non tumoral"
+    ]
+  },
+  {
+    "q": "Devant une méningite chez un sujet âgé ou immunodéprimé, lesquelles sont exactes ?",
+    "options": [
+      "Penser à L. monocytogenes",
+      "Les céphalosporines de 3e génération sont inefficaces",
+      "L'ampicilline est indiquée",
+      "Le traitement est identique à celui du pneumocoque",
+      "La dexaméthasone seule suffit"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Listeria à évoquer sur terrain à risque",
+      "Résistance naturelle aux céphalosporines de 3e génération",
+      "Traitement de choix : ampicilline + aminoside",
+      "Le traitement diffère (C3G inefficaces)",
+      "Un antibiotique actif est indispensable"
+    ]
+  },
+  {
+    "q": "La listériose cutanée :",
+    "options": [
+      "Forme rare",
+      "Porte d'entrée possible",
+      "Après contact avec des produits contaminés",
+      "Fréquente",
+      "Toujours associée à une méningite"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Forme cutanée rare",
+      "Les lésions cutanées sont des prélèvements possibles",
+      "Contact avec des produits contaminés",
+      "Elle est rare",
+      "Elle peut être isolée"
+    ]
+  },
+  {
+    "q": "L'hépatite listérienne :",
+    "options": [
+      "Forme rare",
+      "Dans le cadre d'une septicémie",
+      "Ictère fébrile possible",
+      "Forme habituelle",
+      "Toujours bénigne"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "L'hépatite est une forme rare",
+      "Survient dans le cadre d'une septicémie",
+      "Atteinte hépatique fébrile",
+      "Ce n'est pas la forme habituelle",
+      "Forme grave"
+    ]
+  },
+  {
+    "q": "Concernant la pneumonie et la pleurésie listériennes, lesquelles sont exactes ?",
+    "options": [
+      "Formes rares",
+      "Possibles",
+      "Fréquentes",
+      "Jamais décrites",
+      "Diagnostiquées par hémoculture"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Pneumonie et pleurésie : formes rares",
+      "Elles sont possibles",
+      "Elles sont rares",
+      "Elles sont décrites",
+      "Les hémocultures participent au diagnostic"
+    ]
+  },
+  {
+    "q": "La péritonite listérienne :",
+    "options": [
+      "Forme rare",
+      "Possible",
+      "Fréquente",
+      "Uniquement post-opératoire",
+      "Jamais décrite"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "La péritonite est une forme rare",
+      "Elle est possible",
+      "Elle est rare",
+      "Pas de limitation au post-opératoire",
+      "Elle est décrite"
+    ]
+  },
+  {
+    "q": "L'abcès cérébral listérien :",
+    "options": [
+      "Forme rare d'atteinte du SNC",
+      "Possible",
+      "Fréquent",
+      "Diagnostiqué par imagerie et hémoculture",
+      "Bénin"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "L'abcès cérébral est une forme rare",
+      "Il est possible",
+      "Il est rare",
+      "Imagerie et hémocultures au diagnostic",
+      "Forme grave"
+    ]
+  },
+  {
+    "q": "Devant une méningo-encéphalite fébrile, lesquelles sont exactes ?",
+    "options": [
+      "Évoquer L. monocytogenes",
+      "Hémocultures et ponction lombaire",
+      "LCR avec bactéries intracellulaires",
+      "Traitement par ceftriaxone seule",
+      "Ampicilline + aminoside"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Listeria à évoquer devant une méningo-encéphalite",
+      "Hémocultures et PL indispensables",
+      "Bactéries peu abondantes surtout intracellulaires",
+      "Résistance naturelle aux C3G",
+      "Traitement de choix : ampicilline + aminoside"
+    ]
+  },
+  {
+    "q": "La listériose de l'adulte immunocompétent :",
+    "options": [
+      "Possible (17 % sans facteur de risque)",
+      "Souvent moins grave",
+      "Impossible",
+      "Toujours mortelle",
+      "Uniquement cutanée"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "17 % des cas sans facteur de risque",
+      "Formes souvent moins graves",
+      "Elle est possible",
+      "La létalité globale est de 20 à 30 %",
+      "Formes invasives possibles"
+    ]
+  },
+  {
+    "q": "Concernant les formes septicémiques, lesquelles sont exactes ?",
+    "options": [
+      "Porte d'entrée digestive",
+      "Bactériémie",
+      "Hémocultures positives",
+      "Fièvre",
+      "Asymptomatiques"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Septicémie d'origine digestive",
+      "Bactériémie",
+      "Hémocultures : prélèvement clé",
+      "Tableau fébrile",
+      "Formes symptomatiques"
+    ]
+  },
+  {
+    "q": "Le tableau neurologique de la listériose peut associer :",
+    "options": [
+      "Fièvre",
+      "Troubles de la conscience",
+      "Signes méningés",
+      "Convulsions",
+      "Aucun signe clinique"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Tableau fébrile",
+      "Troubles de la conscience (encéphalite)",
+      "Signes méningés",
+      "Convulsions possibles",
+      "Tableau bruyant"
+    ]
+  },
+  {
+    "q": "L'infection maternelle à L. monocytogenes est souvent :",
+    "options": [
+      "Inapparente",
+      "Un syndrome pseudo-grippal",
+      "Fébrile",
+      "Toujours symptomatique et bruyante",
+      "Totalement asymptomatique sans risque"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "L'infection materno-infantile est souvent inapparente",
+      "Syndrome pseudo-grippal",
+      "Rechute fébrile avec bactériémie",
+      "Elle est souvent inapparente",
+      "Le risque fœtal est majeur"
+    ]
+  },
+  {
+    "q": "Le syndrome pseudo-grippal maternel :",
+    "options": [
+      "Survient 2 à 14 jours avant l'accouchement",
+      "Suivi d'une rechute fébrile avec bactériémie",
+      "Sans gravité fœtale",
+      "Bénin",
+      "Sans bactériémie"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Syndrome pseudo-grippal 2 à 14 jours avant l'accouchement",
+      "Rechute fébrile avec bactériémie",
+      "Risque fœtal grave",
+      "Infection grave",
+      "Bactériémie associée"
+    ]
+  },
+  {
+    "q": "Après le 5ème mois de grossesse, l'infection peut entraîner :",
+    "options": [
+      "Accouchement prématuré",
+      "Avortements",
+      "Aucun risque",
+      "Risque uniquement maternel",
+      "Mort fœtale in utero possible"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Accouchement prématuré après le 5ème mois",
+      "Avortements",
+      "Risque fœtal majeur",
+      "Le risque est surtout fœtal",
+      "Mort fœtale possible"
+    ]
+  },
+  {
+    "q": "Le nouveau-né infecté in utero présente :",
+    "options": [
+      "Un tableau évident à la naissance",
+      "Une souffrance néonatale",
+      "Une éruption cutanée",
+      "Une méningite",
+      "Un tableau toujours retardé"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Tableau évident à la naissance si infecté in utero",
+      "Souffrance néonatale",
+      "Éruption cutanée",
+      "Méningite",
+      "Le tableau est évident dès la naissance"
+    ]
+  },
+  {
+    "q": "La mortalité du nouveau-né infecté in utero :",
+    "options": [
+      "Parfois supérieure à 50 %",
+      "Élevée",
+      "Nulle",
+      "Faible",
+      "Liée uniquement à la prématurité"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Mortalité parfois supérieure à 50 %",
+      "Mortalité élevée",
+      "Mortalité très élevée",
+      "Mortalité élevée",
+      "Liée à l'infection listérienne"
+    ]
+  },
+  {
+    "q": "Le nouveau-né contaminé en période périnatale :",
+    "options": [
+      "Méningite purulente fébrile",
+      "8 à 60 jours après l'accouchement",
+      "Sans infection placentaire",
+      "Tableau évident à la naissance",
+      "Contamination lors de l'accouchement"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Méningite purulente fébrile",
+      "8 à 60 jours après l'accouchement",
+      "Sans infection placentaire",
+      "Le tableau est retardé, non évident à la naissance",
+      "Contaminé dans la période périnatale ou lors de l'accouchement"
+    ]
+  },
+  {
+    "q": "Devant tout épisode fébrile inexpliqué chez la femme enceinte, lesquelles sont exactes ?",
+    "options": [
+      "Hémoculture",
+      "Penser à la listériose",
+      "Antibiothérapie probabiliste par ampicilline",
+      "Attendre l'accouchement",
+      "Céphalosporine de 3e génération en première intention"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Hémoculture devant tout épisode fébrile inexpliqué",
+      "La listériose doit être évoquée",
+      "L'ampicilline est l'antibiotique de choix",
+      "Il faut agir sans attendre",
+      "Résistance naturelle aux C3G"
+    ]
+  },
+  {
+    "q": "L'amniocentèse dans la suspicion de listériose :",
+    "options": [
+      "Par voie trans-abdominale",
+      "En l'absence de rupture des membranes",
+      "Systématique",
+      "Contre-indiquée",
+      "Inutile"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Amniocentèse par voie trans-abdominale",
+      "En l'absence de rupture des membranes",
+      "Elle est indiquée en cas de suspicion",
+      "Elle est indiquée",
+      "Elle est utile"
+    ]
+  },
+  {
+    "q": "Les prélèvements chez la femme enceinte suspecte comprennent :",
+    "options": [
+      "Hémoculture",
+      "Placenta",
+      "Lochies",
+      "Liquide amniotique",
+      "Selles systématiques"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Hémoculture devant tout épisode fébrile inexpliqué",
+      "Examen du placenta",
+      "Examen des lochies",
+      "Amniocentèse par voie trans-abdominale",
+      "Les selles ne sont pas un prélèvement de référence"
+    ]
+  },
+  {
+    "q": "Chez le nouveau-né suspect de listériose, on prélève :",
+    "options": [
+      "Hémoculture",
+      "LCR",
+      "Sécrétions nasales, pharyngées, conjonctivales",
+      "Méconium et liquide gastrique",
+      "Uniquement les urines"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Hémoculture",
+      "LCR",
+      "Sécrétions nasales, pharyngées, conjonctivales",
+      "Méconium et liquide gastrique",
+      "De multiples prélèvements sont indiqués"
+    ]
+  },
+  {
+    "q": "La prévention chez la femme enceinte repose sur :",
+    "options": [
+      "Éviter fromages au lait cru et charcuteries",
+      "Hygiène alimentaire",
+      "Vaccination",
+      "Aucun conseil particulier",
+      "Éducation des groupes à risque"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Fromages au lait cru et charcuteries à éviter",
+      "L'hygiène alimentaire est la base de la prévention",
+      "Il n'existe pas de vaccin contre la listériose",
+      "Des conseils sont indispensables",
+      "L'éducation des groupes à risque est essentielle"
+    ]
+  },
+  {
+    "q": "La transmission mère-enfant de L. monocytogenes :",
+    "options": [
+      "Transplacentaire",
+      "Lors de l'accouchement",
+      "Par l'allaitement maternel",
+      "Directe",
+      "Par voie respiratoire"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Infection in utero via le placenta",
+      "Contamination périnatale lors de l'accouchement",
+      "Pas de transmission par l'allaitement décrite",
+      "Transmission directe fœto-maternelle",
+      "Pas de transmission respiratoire"
+    ]
+  },
+  {
+    "q": "L'éruption cutanée du nouveau-né infecté :",
+    "options": [
+      "Signe d'infection in utero",
+      "Associée à la souffrance néonatale",
+      "Bénigne",
+      "Jamais observée",
+      "Uniquement allergique"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Éruption cutanée du nouveau-né infecté in utero",
+      "Associée à la souffrance néonatale et à la méningite",
+      "Signe de gravité",
+      "Elle est décrite",
+      "Elle est infectieuse"
+    ]
+  },
+  {
+    "q": "La listériose congénitale précoce :",
+    "options": [
+      "Tableau évident à la naissance",
+      "Mortalité élevée",
+      "Méningite",
+      "Septicémie",
+      "Toujours bénigne"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Tableau évident à la naissance en cas d'infection in utero",
+      "Mortalité parfois supérieure à 50 %",
+      "Méningite néonatale",
+      "Septicémie néonatale",
+      "Forme grave"
+    ]
+  },
+  {
+    "q": "La listériose néonatale tardive :",
+    "options": [
+      "Méningite purulente fébrile 8-60 jours après la naissance",
+      "Contamination périnatale",
+      "Sans atteinte placentaire",
+      "Tableau évident à la naissance",
+      "Pronostic toujours bénin"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Méningite purulente fébrile 8 à 60 jours après l'accouchement",
+      "Contamination périnatale ou lors de l'accouchement",
+      "Sans infection placentaire",
+      "Le tableau est retardé",
+      "Forme grave"
+    ]
+  },
+  {
+    "q": "Devant une fièvre maternelle inexpliquée, lesquelles sont exactes ?",
+    "options": [
+      "Hémocultures",
+      "Amniocentèse si membranes intactes",
+      "Examen du placenta après accouchement",
+      "Attendre l'évolution",
+      "Sérologie seule suffisante"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Hémoculture devant tout épisode fébrile inexpliqué",
+      "Amniocentèse par voie trans-abdominale si membranes intactes",
+      "Examen du placenta et des lochies",
+      "Il faut agir rapidement",
+      "La sérologie est peu sensible et peu spécifique"
+    ]
+  },
+  {
+    "q": "Les prélèvements chez l'adulte suspect de listériose comprennent :",
+    "options": [
+      "Hémoculture",
+      "LCR",
+      "Lésions cutanées",
+      "Selles systématiques",
+      "Urines systématiques"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Hémoculture",
+      "LCR",
+      "Lésions cutanées",
+      "Les selles ne sont pas un prélèvement de référence",
+      "Les urines ne sont pas un prélèvement de référence"
+    ]
+  },
+  {
+    "q": "L'examen direct au Gram des produits pathologiques montre :",
+    "options": [
+      "Petit bacille à Gram positif non sporulé",
+      "Localisation intra ou extracellulaire",
+      "Des spores",
+      "Des cocci à Gram négatif",
+      "Des bacilles acido-alcoolo-résistants"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Petit bacille à Gram positif non sporulé",
+      "Bactérie intra ou extracellulaire",
+      "Bactérie non sporulée",
+      "Bacille à Gram positif",
+      "Pas de caractère acido-alcoolo-résistant"
+    ]
+  },
+  {
+    "q": "Le LCR de la méningite listérienne :",
+    "options": [
+      "Trouble avec formule panachée ou liquide clair",
+      "Bactéries peu abondantes surtout intracellulaires",
+      "Protéinorachie constamment très élevée",
+      "Glycorachie diminuée voire normale",
+      "Lactacidorachie élevée"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Aspect trouble avec formule panachée ou liquide clair",
+      "Bactéries peu abondantes, surtout intracellulaires",
+      "Protéinorachie peu élevée voire normale",
+      "Glycorachie diminuée voire normale",
+      "Lactacidorachie / lactacidémie élevée"
+    ]
+  },
+  {
+    "q": "L'identification de L. monocytogenes repose sur :",
+    "options": [
+      "La mobilité à 25 °C",
+      "L'hydrolyse rapide de l'esculine en 2-3 h",
+      "Le CAMP test",
+      "La capsule",
+      "La sporulation"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "La mobilité à 25 °C est un critère d'identification",
+      "Hydrolyse de l'esculine rapide en 2 à 3 h",
+      "CAMP test : la β-hémolysine de S. aureus accentue l'hémolyse",
+      "Bactérie non capsulée",
+      "Bactérie non sporulée"
+    ]
+  },
+  {
+    "q": "Le CAMP test :",
+    "options": [
+      "La β-hémolysine de S. aureus accentue l'hémolyse",
+      "Aide à l'identification de Listeria",
+      "Spécifique de Listeria",
+      "Toujours négatif",
+      "Inutile"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "La β-hémolysine de S. aureus accentue l'hémolyse",
+      "C'est un caractère d'identification",
+      "Le CAMP test est aussi utilisé pour d'autres bactéries",
+      "Il est positif",
+      "Il est utile à l'identification"
+    ]
+  },
+  {
+    "q": "L'hydrolyse de l'esculine par L. monocytogenes :",
+    "options": [
+      "Rapide en 2 à 3 h",
+      "Caractère d'identification",
+      "Lente en 7 jours",
+      "Absente",
+      "Non spécifique"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Hydrolyse de l'esculine rapide en 2 à 3 h",
+      "Caractère biochimique d'identification",
+      "Elle est rapide, non lente",
+      "Elle est présente",
+      "C'est un caractère d'identification du genre"
+    ]
+  },
+  {
+    "q": "La mini galerie Listeria :",
+    "options": [
+      "Identification biochimique",
+      "Confirme l'espèce",
+      "Remplace la culture",
+      "Inutile",
+      "Réservée à la recherche"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Galerie de caractères biochimiques",
+      "Elle confirme l'identification de l'espèce",
+      "Elle complète la culture",
+      "Elle est utile",
+      "Utilisée en routine"
+    ]
+  },
+  {
+    "q": "La biologie moléculaire dans le diagnostic de la listériose :",
+    "options": [
+      "Aide à l'identification",
+      "Typage moléculaire",
+      "Utile en enquête épidémique",
+      "Remplace la culture",
+      "Sans intérêt"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "La biologie moléculaire aide à l'identification",
+      "Typage moléculaire des souches",
+      "Utile dans les enquêtes épidémiologiques",
+      "Elle complète la culture",
+      "Elle a un intérêt diagnostique et épidémiologique"
+    ]
+  },
+  {
+    "q": "Le diagnostic indirect de la listériose :",
+    "options": [
+      "Détection des Ac anti-listériolysine O",
+      "Sans intérêt si le germe est isolé",
+      "Peu sensible et peu spécifique",
+      "Très sensible",
+      "Indispensable au diagnostic"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Détection des Ac dirigés contre la bactérie, notamment anti-LLO",
+      "Sans intérêt si le germe est isolé",
+      "Technique peu sensible et peu spécifique",
+      "Elle est peu sensible",
+      "La culture reste la référence"
+    ]
+  },
+  {
+    "q": "La sérologie listérienne :",
+    "options": [
+      "Peu sensible",
+      "Peu spécifique",
+      "Sans intérêt si le germe est isolé",
+      "Indispensable au diagnostic",
+      "Détecte les Ac anti-LLO"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Peu sensible",
+      "Peu spécifique",
+      "Sans intérêt si le germe est isolé",
+      "La culture est indispensable, non la sérologie",
+      "Détection des Ac anti-listériolysine O"
+    ]
+  },
+  {
+    "q": "Le sérogroupage, la lysotypie et le typage moléculaire :",
+    "options": [
+      "Utiles en enquête épidémiologique",
+      "Identifient la source de contamination",
+      "Remplacent l'antibiogramme",
+      "Sans intérêt",
+      "De routine pour tout cas sporadique"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Utiles dans les enquêtes épidémiologiques",
+      "Permettent de tracer la source",
+      "Ils ne remplacent pas l'antibiogramme",
+      "Ils ont un intérêt épidémiologique",
+      "Surtout utiles en cas d'épidémie"
+    ]
+  },
+  {
+    "q": "Devant une suspicion de listériose neuroméningée, lesquelles sont exactes ?",
+    "options": [
+      "Hémocultures",
+      "Ponction lombaire",
+      "Examen direct du LCR au Gram",
+      "Culture du LCR",
+      "Sérologie en première intention"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Hémocultures indispensables",
+      "Ponction lombaire",
+      "Examen direct du LCR à la coloration de Gram",
+      "Culture du LCR sur milieux usuels",
+      "La sérologie est peu sensible et peu spécifique"
+    ]
+  },
+  {
+    "q": "La culture du LCR suspect de listériose :",
+    "options": [
+      "Bouillon nutritif glucosé à 0,5 %",
+      "Gélose au sang",
+      "Incubation à 30-37 °C",
+      "Impossible",
+      "Examen direct seul suffisant"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Bouillon nutritif glucosé à 0,5 % pour le LCR",
+      "Gélose au sang de mouton ou de cheval",
+      "Température optimale 30 à 37 °C",
+      "La culture est possible",
+      "La culture est indispensable"
+    ]
+  },
+  {
+    "q": "Les milieux sélectifs sont indiqués pour :",
+    "options": [
+      "Les prélèvements polycontaminés",
+      "L'enrichissement à +4 °C",
+      "Les hémocultures",
+      "Le LCR pur",
+      "Les biopsies stériles"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Prélèvements polycontaminés : milieux sélectifs",
+      "Enrichissement sélectif à +4 °C",
+      "Les hémocultures se font sur milieux usuels",
+      "Le LCR se cultive sur milieux usuels",
+      "Les prélèvements stériles se cultivent sur milieux usuels"
+    ]
+  },
+  {
+    "q": "L'enrichissement sélectif à +4 °C :",
+    "options": [
+      "Favorise Listeria",
+      "Utilisé pour les aliments suspects",
+      "Dure plusieurs jours",
+      "Ne dure que quelques heures",
+      "Inutile"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Le froid à +4 °C favorise Listeria",
+      "Technique pour les aliments suspects et prélèvements polycontaminés",
+      "Enrichissement prolongé à froid",
+      "Il est prolongé",
+      "Il est utile"
+    ]
+  },
+  {
+    "q": "L'enquête alimentaire en cas de suspicion d'épidémie :",
+    "options": [
+      "Aliments suspects recherchés",
+      "Surtout en cas de suspicion d'épidémie",
+      "Inutile",
+      "Limitée aux cas sporadiques",
+      "Avec typage des souches"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Enquête environnementale : aliments suspects",
+      "Surtout en cas de suspicion d'épidémie",
+      "Elle est utile",
+      "Surtout en cas d'épidémie",
+      "Typage des souches pour relier les cas"
+    ]
+  },
+  {
+    "q": "Le diagnostic de certitude de la listériose repose sur :",
+    "options": [
+      "L'isolement du germe en culture",
+      "L'identification (mobilité, esculine, CAMP)",
+      "La sérologie seule",
+      "L'examen direct seul",
+      "La clinique seule"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "L'isolement en culture est la référence",
+      "Identification : mobilité à 25 °C, esculine, CAMP test",
+      "La sérologie est peu sensible et peu spécifique",
+      "L'examen direct est insuffisant",
+      "La clinique est évocatrice mais non suffisante"
+    ]
+  },
+  {
+    "q": "L'examen direct du placenta et des lochies :",
+    "options": [
+      "Recherche de bacilles à Gram positif",
+      "Utile au diagnostic materno-fœtal",
+      "Inutile",
+      "Remplacé par la sérologie",
+      "Uniquement histologique"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Coloration de Gram : petits bacilles à Gram positif",
+      "Placenta et lochies : prélèvements du diagnostic materno-fœtal",
+      "Il est utile",
+      "La sérologie est peu performante",
+      "L'examen direct et la culture sont utiles"
+    ]
+  },
+  {
+    "q": "Le liquide gastrique et le méconium du nouveau-né :",
+    "options": [
+      "Prélèvements utiles",
+      "Mis en culture",
+      "Examen direct",
+      "Inutiles",
+      "Uniquement en cas de diarrhée"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Méconium et liquide gastrique : prélèvements du nouveau-né",
+      "Mise en culture",
+      "Examen direct au Gram",
+      "Ils sont utiles",
+      "Indiqués devant toute suspicion"
+    ]
+  },
+  {
+    "q": "Les sécrétions nasales, pharyngées et conjonctivales du nouveau-né :",
+    "options": [
+      "Mises en culture",
+      "Recherche de Listeria",
+      "Inutiles",
+      "Uniquement d'origine virale",
+      "Examen direct au Gram"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Sécrétions nasales, pharyngées, conjonctivales mises en culture",
+      "Recherche de L. monocytogenes",
+      "Elles sont utiles",
+      "L'origine peut être bactérienne",
+      "Examen direct au Gram possible"
+    ]
+  },
+  {
+    "q": "Concernant l'antibiogramme, lesquelles sont exactes ?",
+    "options": [
+      "Indispensable avant traitement",
+      "Résistances naturelles à connaître",
+      "Inutile",
+      "Systématique",
+      "Guide le traitement"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "L'antibiogramme guide le traitement",
+      "Résistances naturelles : C3G, quinolones, fosfomycine",
+      "Il est utile",
+      "Réalisé systématiquement sur la souche isolée",
+      "Il oriente l'antibiothérapie"
+    ]
+  },
+  {
+    "q": "Le diagnostic différentiel au Gram comprend :",
+    "options": [
+      "Les corynébactéries",
+      "Les streptocoques",
+      "Le pneumocoque",
+      "Haemophilus",
+      "Les staphylocoques"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Confusion possible avec les corynébactéries",
+      "Confusion possible avec les streptocoques",
+      "Confusion possible avec le pneumocoque",
+      "Confusion possible avec Haemophilus",
+      "Pas de confusion décrite avec les staphylocoques"
+    ]
+  },
+  {
+    "q": "La résistance naturelle de L. monocytogenes concerne :",
+    "options": [
+      "Les céphalosporines de 3e génération",
+      "L'aztréonam",
+      "L'acide nalidixique",
+      "L'ampicilline",
+      "La gentamicine"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Résistance naturelle aux céphalosporines de 3e génération",
+      "Résistance naturelle à l'aztréonam",
+      "Résistance naturelle à l'acide nalidixique",
+      "Sensibilité constante aux amino-pénicillines",
+      "Sensibilité constante aux aminosides"
+    ]
+  },
+  {
+    "q": "Concernant les quinolones, lesquelles sont exactes ?",
+    "options": [
+      "Résistance naturelle à l'ofloxacine",
+      "Résistance naturelle aux fluoroquinolones récentes",
+      "Sensibilité intermédiaire à la ciprofloxacine",
+      "Sensibilité constante",
+      "Traitement de choix"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Résistance naturelle à l'ofloxacine",
+      "Résistance naturelle aux fluoroquinolones récentes",
+      "Sensibilité intermédiaire pour la ciprofloxacine",
+      "Pas de sensibilité constante",
+      "Ce ne sont pas le traitement de choix"
+    ]
+  },
+  {
+    "q": "Concernant la fosfomycine, lesquelles sont exactes ?",
+    "options": [
+      "Résistance naturelle",
+      "Inactive sur Listeria",
+      "Antibiotique de choix",
+      "Efficace en association",
+      "Bactéricide constant"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Résistance naturelle à la fosfomycine",
+      "Elle est inactive sur L. monocytogenes",
+      "Le traitement de choix est ampicilline + aminoside",
+      "Pas d'efficacité démontrée",
+      "Pas d'activité bactéricide constante"
+    ]
+  },
+  {
+    "q": "La sensibilité intermédiaire concerne :",
+    "options": [
+      "La céfalotine",
+      "La clindamycine",
+      "Le chloramphénicol",
+      "L'ampicilline",
+      "L'amoxicilline"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Sensibilité intermédiaire pour la céfalotine",
+      "Sensibilité intermédiaire pour la clindamycine",
+      "Sensibilité intermédiaire pour le chloramphénicol",
+      "Sensibilité constante aux amino-pénicillines",
+      "Sensibilité constante aux amino-pénicillines"
+    ]
+  },
+  {
+    "q": "La sensibilité constante de L. monocytogenes concerne :",
+    "options": [
+      "Les amino-pénicillines",
+      "Les aminosides",
+      "Les céphalosporines de 3e génération",
+      "La fosfomycine",
+      "Les tétracyclines"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Sensibilité constante aux amino-pénicillines",
+      "Sensibilité constante aux aminosides",
+      "Résistance naturelle aux C3G",
+      "Résistance naturelle à la fosfomycine",
+      "Résistance acquise fréquente aux tétracyclines"
+    ]
+  },
+  {
+    "q": "Concernant les résistances de L. monocytogenes, lesquelles sont exactes ?",
+    "options": [
+      "La résistance acquise à la tétracycline est la plus fréquente",
+      "La sensibilité aux amino-pénicillines reste constante",
+      "La résistance naturelle aux C3G est constante",
+      "Résistance acquise fréquente à l'ampicilline",
+      "Résistance acquise fréquente à la gentamicine"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "La résistance acquise à la tétracycline est la plus fréquente",
+      "Sensibilité constante aux amino-pénicillines",
+      "Résistance naturelle aux céphalosporines de 3e génération",
+      "Pas de résistance acquise fréquente à l'ampicilline",
+      "Pas de résistance acquise fréquente à la gentamicine"
+    ]
+  },
+  {
+    "q": "Conséquence clinique de la résistance naturelle aux C3G :",
+    "options": [
+      "Échec du traitement probabiliste des méningites par C3G seules",
+      "Nécessité d'ajouter l'ampicilline",
+      "Les C3G restent efficaces",
+      "Aucun impact clinique",
+      "La ceftriaxone seule suffit"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Les C3G seules sont inefficaces sur Listeria",
+      "L'ampicilline doit être associée devant un terrain à risque",
+      "Résistance naturelle aux C3G",
+      "Impact majeur sur le traitement probabiliste",
+      "La ceftriaxone seule est inefficace"
+    ]
+  },
+  {
+    "q": "Concernant l'aztréonam, lesquelles sont exactes ?",
+    "options": [
+      "Résistance naturelle",
+      "Inefficace sur Listeria",
+      "Efficace",
+      "Synergique avec l'ampicilline",
+      "Antibiotique de choix"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Résistance naturelle à l'aztréonam",
+      "Il est inefficace",
+      "Il n'est pas efficace",
+      "Pas de synergie décrite",
+      "Le choix est ampicilline + aminoside"
+    ]
+  },
+  {
+    "q": "Concernant l'acide nalidixique, lesquelles sont exactes ?",
+    "options": [
+      "Résistance naturelle",
+      "Utilisé dans les milieux sélectifs",
+      "Bactérie sensible",
+      "Traitement de la listériose",
+      "Sans intérêt"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Résistance naturelle à l'acide nalidixique",
+      "Ajouté aux milieux sélectifs",
+      "La bactérie est naturellement résistante",
+      "Pas utilisé en traitement",
+      "Utile dans les milieux sélectifs"
+    ]
+  },
+  {
+    "q": "La clindamycine et le chloramphénicol :",
+    "options": [
+      "Sensibilité intermédiaire",
+      "Non utilisés en traitement de choix",
+      "Traitement de choix",
+      "Bactéricides constants",
+      "Sans aucun intérêt"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Sensibilité intermédiaire",
+      "Ce ne sont pas le traitement de choix",
+      "Le choix est ampicilline + aminoside",
+      "Activité seulement intermédiaire",
+      "Ils ont une activité intermédiaire"
+    ]
+  },
+  {
+    "q": "Les amino-pénicillines (ampicilline, amoxicilline) :",
+    "options": [
+      "Sensibilité constante",
+      "Base du traitement",
+      "Résistance naturelle",
+      "Inefficaces",
+      "À associer aux aminosides"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Sensibilité constante aux amino-pénicillines",
+      "L'ampicilline est la base du traitement",
+      "Pas de résistance naturelle",
+      "Elles sont efficaces",
+      "Association ampicilline + aminoside"
+    ]
+  },
+  {
+    "q": "Les aminosides (gentamicine) :",
+    "options": [
+      "Sensibilité constante",
+      "Synergie avec l'ampicilline",
+      "Résistance naturelle",
+      "Utilisés en association",
+      "Inefficaces"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Sensibilité constante aux aminosides",
+      "Synergie ampicilline + aminoside",
+      "Pas de résistance naturelle",
+      "Traitement de choix : ampicilline + aminoside",
+      "Ils sont efficaces en association"
+    ]
+  },
+  {
+    "q": "Le traitement de choix de la listériose invasive :",
+    "options": [
+      "Association ampicilline + aminoside",
+      "Durée de 3 à 4 semaines",
+      "Monothérapie par ceftriaxone",
+      "Durée de 7 jours",
+      "Abstention thérapeutique"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explain": [
+      "Traitement de choix : ampicilline + aminoside",
+      "Durée : 3 à 4 semaines",
+      "Résistance naturelle aux C3G",
+      "Durée de 3 à 4 semaines",
+      "Traitement indispensable"
+    ]
+  },
+  {
+    "q": "En cas d'allergie aux bêta-lactamines, lesquelles sont exactes ?",
+    "options": [
+      "Triméthoprime-sulfaméthoxazole + gentamicine",
+      "Céphalosporines de 3e génération",
+      "Poursuivre l'ampicilline malgré l'allergie",
+      "Le cotrimoxazole est une alternative",
+      "L'association à la gentamicine est recommandée"
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ],
+    "explain": [
+      "En cas d'allergie : triméthoprime-sulfaméthoxazole + gentamicine",
+      "Résistance naturelle aux C3G",
+      "Contre-indiqué en cas d'allergie",
+      "Le cotrimoxazole est l'alternative",
+      "Association à la gentamicine recommandée"
+    ]
+  },
+  {
+    "q": "Chez la femme enceinte, lesquelles sont exactes ?",
+    "options": [
+      "Ampicilline pendant 3 semaines",
+      "Céphalosporine de 3e génération",
+      "Abstention thérapeutique",
+      "L'ampicilline reste la base du traitement",
+      "Tétracyclines"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "explain": [
+      "Femme enceinte : ampicilline pendant 3 semaines",
+      "Résistance naturelle aux C3G",
+      "Traitement indispensable",
+      "L'ampicilline est l'antibiotique de choix",
+      "Les tétracyclines sont contre-indiquées pendant la grossesse"
+    ]
+  },
+  {
+    "q": "La durée du traitement de la listériose :",
+    "options": [
+      "3 à 4 semaines chez l'adulte",
+      "3 semaines chez la femme enceinte",
+      "7 jours suffisent",
+      "Traitement minute",
+      "Adaptée à la forme clinique"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Durée : 3 à 4 semaines",
+      "Femme enceinte : ampicilline pendant 3 semaines",
+      "Un traitement prolongé est nécessaire",
+      "Pas de traitement minute",
+      "Durée adaptée à la forme clinique"
+    ]
+  },
+  {
+    "q": "La prévention de la listériose repose sur :",
+    "options": [
+      "L'hygiène alimentaire",
+      "La réglementation",
+      "L'éducation des groupes à risque",
+      "La vaccination",
+      "L'antibioprophylaxie systématique"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Hygiène alimentaire",
+      "Réglementation",
+      "Éducation des groupes à risque",
+      "Absence de vaccin contre la listériose",
+      "Pas d'antibioprophylaxie systématique"
+    ]
+  },
+  {
+    "q": "Concernant le vaccin contre la listériose, lesquelles sont exactes ?",
+    "options": [
+      "Il n'existe pas de vaccin contre la listériose",
+      "La prévention repose sur l'hygiène alimentaire",
+      "Un vaccin vivant atténué est recommandé",
+      "La vaccination des groupes à risque est la base",
+      "L'éducation des groupes à risque est essentielle"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Absence de vaccin contre la listériose",
+      "Prévention : hygiène alimentaire, réglementation",
+      "Pas de vaccin disponible",
+      "Pas de vaccination, mais éducation",
+      "Éducation des groupes à risque"
+    ]
+  },
+  {
+    "q": "L'éducation des groupes à risque concerne :",
+    "options": [
+      "Les femmes enceintes",
+      "Les immunodéprimés",
+      "Les personnes âgées",
+      "Les nouveau-nés",
+      "Les adultes jeunes en bonne santé"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Les femmes enceintes sont un groupe à risque",
+      "Les immunodéprimés sont un groupe à risque",
+      "Les personnes âgées sont un groupe à risque",
+      "Les nouveau-nés ne sont pas la cible de l'éducation",
+      "Les adultes jeunes sains ne sont pas à risque particulier"
+    ]
+  },
+  {
+    "q": "Les conseils alimentaires aux femmes enceintes :",
+    "options": [
+      "Éviter les fromages au lait cru",
+      "Éviter les charcuteries",
+      "Éviter les poissons fumés",
+      "Consommer sans restriction",
+      "Bien cuire les aliments"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Fromages au lait cru à éviter",
+      "Charcuteries à éviter",
+      "Poissons fumés à éviter",
+      "Des restrictions sont nécessaires",
+      "La cuisson élimine le risque"
+    ]
+  },
+  {
+    "q": "La réglementation dans la prévention :",
+    "options": [
+      "Contrôle des aliments",
+      "Hygiène de la restauration collective",
+      "Inutile",
+      "Uniquement pour l'export",
+      "Respect de la chaîne du froid"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Contrôle sanitaire des aliments",
+      "Hygiène de la restauration collective",
+      "Elle est utile",
+      "Elle concerne toute la chaîne alimentaire",
+      "La chaîne du froid limite les risques"
+    ]
+  },
+  {
+    "q": "En cas d'épidémie de listériose, lesquelles sont exactes ?",
+    "options": [
+      "Enquête environnementale",
+      "Recherche des aliments suspects",
+      "Typage des souches",
+      "Aucune mesure particulière",
+      "Fermeture systématique des commerces"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Enquête environnementale",
+      "Recherche des aliments suspects",
+      "Typage des souches pour relier les cas",
+      "Des mesures sont nécessaires",
+      "Pas de fermeture systématique"
+    ]
+  },
+  {
+    "q": "Le pronostic de la listériose s'améliore par :",
+    "options": [
+      "Un diagnostic précoce",
+      "Un traitement adapté (ampicilline)",
+      "L'éviction des C3G seules devant un terrain à risque",
+      "La vaccination",
+      "L'attente sous surveillance"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Le diagnostic précoce améliore le pronostic",
+      "L'ampicilline est le traitement de choix",
+      "Les C3G sont inefficaces (résistance naturelle)",
+      "Pas de vaccin disponible",
+      "Il faut traiter sans attendre"
+    ]
+  },
+  {
+    "q": "Concernant la listériose, en conclusion, lesquelles sont exactes ?",
+    "options": [
+      "Maladie redoutable",
+      "Savoir y penser devant un contexte évocateur",
+      "Résistance naturelle aux céphalosporines de 3e génération",
+      "Maladie bénigne",
+      "Diagnostic et traitement codifiés"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "L. monocytogenes est responsable d'une maladie redoutable",
+      "Savoir y penser devant un contexte épidémiologique, clinique ou biologique évocateur",
+      "Résistance naturelle aux céphalosporines de 3e génération",
+      "Maladie grave, non bénigne",
+      "Diagnostic biologique et traitement bien codifiés"
+    ]
+  }
+]

@@ -1,0 +1,4495 @@
+[
+ {
+  "q": "Concernant la classification des Chlamydiae, quelles affirmations sont exactes ?",
+  "options": [
+   "Elles appartiennent à l'ordre des Chlamydiales",
+   "La famille des Chlamydiaceae regroupe les espèces pathogènes pour l'homme",
+   "Le genre Chlamydia comprend les espèces C. trachomatis et C. psittaci",
+   "Le genre Chlamydophila comprend actuellement 6 espèces",
+   "C. pneumoniae appartient au genre Chlamydia"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : l'ordre des Chlamydiales est le taxon de référence.",
+   "Vrai : famille Chlamydiaceae, dont certaines espèces sont pathogènes pour l'homme.",
+   "Faux : C. psittaci appartient au genre Chlamydophila, pas au genre Chlamydia.",
+   "Vrai : le genre Chlamydophila comprend 6 espèces, dont C. pneumoniae et C. psittaci rencontrées chez l'homme.",
+   "Faux : C. pneumoniae appartient au genre Chlamydophila."
+  ]
+ },
+ {
+  "q": "À propos du genre Chlamydia et de C. trachomatis, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C. trachomatis est la seule espèce d'intérêt médical du genre Chlamydia",
+   "C. trachomatis comprend 3 biovars : trachoma, lymphogranulomatosis venereum et pneumonia de la souris",
+   "C. trachomatis compte 19 sérovars au total",
+   "Le biovar trachoma regroupe 15 sérovars",
+   "Le biovar LGV regroupe 15 sérovars"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : dans le genre Chlamydia, C. trachomatis est l'espèce pathogène pour l'homme.",
+   "Vrai : les 3 biovars sont trachoma, lymphogranulomatosis venereum (LGV) et pneumonia de la souris.",
+   "Vrai : 19 sérovars au total pour C. trachomatis.",
+   "Vrai : 15 sérovars pour le biovar trachoma.",
+   "Faux : le biovar LGV ne regroupe que 4 sérovars (L1, L2, L2a, L3)."
+  ]
+ },
+ {
+  "q": "Concernant les espèces pathogènes pour l'homme, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C. trachomatis, C. pneumoniae et C. psittaci sont pathogènes pour l'homme",
+   "Le biovar pneumonia de la souris de C. trachomatis est pathogène pour l'homme",
+   "Les infections à Chlamydia sont sérovars-spécifiques pour C. trachomatis",
+   "C. pneumoniae possède plusieurs sérovars",
+   "C. psittaci possède de nombreux sérovars"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les trois espèces sont responsables d'affections humaines.",
+   "Faux : le biovar pneumonia de la souris est un biovar murin, sans rôle pathogène humain décrit.",
+   "Vrai : chez C. trachomatis, le tableau clinique dépend du sérovar (A-C trachome, D-K IST, L1-L3 LGV).",
+   "Faux : C. pneumoniae est décrite avec un seul sérovar.",
+   "Vrai : C. psittaci compte de nombreux sérovars."
+  ]
+ },
+ {
+  "q": "À propos de la morphologie des Chlamydiae, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des bactéries intracellulaires obligatoires",
+   "Elles se colorent en Gram positif",
+   "Elles possèdent une membrane externe avec des lipopolysaccharides (LPS)",
+   "Elles sont dépourvues de peptidoglycane",
+   "Elles se multiplient librement dans le milieu extracellulaire"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les Chlamydiae sont des bactéries à multiplication intracellulaire obligatoire.",
+   "Faux : elles sont proches des bactéries à Gram négatif.",
+   "Vrai : la membrane externe contient du LPS, comme les Gram négatif.",
+   "Vrai : absence de peptidoglycane, caractère original du groupe.",
+   "Faux : elles ne se multiplient que dans le cytoplasme des cellules hôtes."
+  ]
+ },
+ {
+  "q": "Concernant les corps élémentaires (CE) des Chlamydiae, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Ils constituent la forme extracellulaire de la bactérie",
+   "Leur taille est d'environ 0,3 µm",
+   "Ce sont les particules infectieuses",
+   "Ils sont métaboliquement actifs et se multiplient par division",
+   "Ils sont dépourvus de toute activité métabolique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les corps élémentaires sont la forme extracellulaire.",
+   "Vrai : petite taille de 0,3 µm.",
+   "Vrai : les CE sont les particules infectieuses responsables de la contamination.",
+   "Faux : les CE sont incapables de multiplication ; la multiplication est le fait des corps réticulés.",
+   "Vrai : les CE n'ont aucune activité métabolique."
+  ]
+ },
+ {
+  "q": "À propos des corps réticulés (CR) des Chlamydiae, quelles affirmations sont exactes ?",
+  "options": [
+   "Ils constituent la forme intracellulaire de la bactérie",
+   "Leur taille est d'environ 1 µm",
+   "Ce sont les particules infectieuses",
+   "Ils sont métaboliquement actifs",
+   "Ils se multiplient par division binaire dans l'inclusion cytoplasmique"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les corps réticulés sont intracellulaires.",
+   "Vrai : taille d'environ 1 µm, plus grande que les CE.",
+   "Faux : les CR ne sont pas infectieux ; seuls les CE le sont.",
+   "Vrai : les CR sont métaboliquement actifs.",
+   "Vrai : ils se multiplient par division dans l'inclusion cytoplasmique."
+  ]
+ },
+ {
+  "q": "Concernant la forme de persistance des Chlamydiae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le corps aberrant est une forme de persistance responsable d'infections chroniques",
+   "Il est morphologiquement anormal",
+   "Il est viable mais non cultivable",
+   "Il correspond à la forme extracellulaire infectieuse",
+   "Il est métaboliquement inactif comme le corps élémentaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le corps aberrant résulte d'une altération du cycle et entretient l'infection chronique.",
+   "Vrai : c'est une forme morphologiquement anormale.",
+   "Vrai : viable mais non cultivable, il échappe aux cultures cellulaires.",
+   "Faux : la forme extracellulaire infectieuse est le corps élémentaire, pas le corps aberrant.",
+   "Faux : il s'agit d'une forme persistante de corps réticulé altéré, différente du CE."
+  ]
+ },
+ {
+  "q": "À propos de la structure antigénique des Chlamydiae, quelles propositions sont exactes ?",
+  "options": [
+   "L'antigène de genre est porté par le LPS",
+   "L'antigène de genre est présent à tous les stades",
+   "L'antigène spécifique d'espèce est protéique et présent à tous les stades",
+   "L'antigène spécifique de type est la protéine majeure de la membrane externe (MOMP)",
+   "Le peptidoglycane porte l'antigène de genre"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'antigène de genre est le LPS.",
+   "Vrai : le LPS antigénique est présent à tous les stades du développement.",
+   "Vrai : l'antigène spécifique d'espèce est protéique et présent à tous les stades.",
+   "Vrai : la MOMP (Major Outer Membrane Protein) est l'antigène spécifique de type.",
+   "Faux : les Chlamydiae sont dépourvues de peptidoglycane."
+  ]
+ },
+ {
+  "q": "Concernant la différenciation des trois formes de Chlamydiae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les CE, CR et corps aberrants sont antigéniquement distincts",
+   "Le CE est la seule forme infectieuse",
+   "Le CR est la seule forme capable de multiplication",
+   "Le corps aberrant est la forme responsable des infections aiguës",
+   "La différenciation CE/CR conditionne les méthodes de diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les trois formes sont antigéniquement distinctes.",
+   "Vrai : seuls les corps élémentaires sont infectieux.",
+   "Vrai : seuls les corps réticulés se multiplient par division.",
+   "Faux : le corps aberrant est la forme de persistance des infections chroniques.",
+   "Vrai : CE détectés par IF directe, CR par culture + IF ; le cycle explique les prélèvements cellulaires."
+  ]
+ },
+ {
+  "q": "À propos des caractères bactériologiques généraux des Chlamydiae, quelles propositions sont vraies ?",
+  "options": [
+   "Ce sont des bactéries à multiplication intracellulaire obligatoire",
+   "Leur culture est cellulaire et n'est pas à la portée de tous les laboratoires",
+   "Elles sont responsables d'affections polymorphes souvent chroniques",
+   "Les méthodes de diagnostic sont identiques quelle que soit l'espèce",
+   "Toutes les espèces sont pathogènes pour l'homme"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : caractère définissant de la famille Chlamydiaceae.",
+   "Vrai : la culture cellulaire est du ressort des laboratoires spécialisés.",
+   "Vrai : affections polymorphes, souvent chroniques, posant des problèmes de santé publique.",
+   "Faux : les méthodes de diagnostic varient en fonction de l'espèce.",
+   "Faux : certaines espèces sont pathogènes pour l'homme, d'autres non."
+  ]
+ },
+ {
+  "q": "Concernant la santé publique liée aux Chlamydiae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C. trachomatis est responsable de l'IST la plus fréquente",
+   "Les infections à Chlamydia sont une des principales causes de stérilité",
+   "Les Chlamydiae sont responsables de plus de 10 % des pneumonies communautaires",
+   "Le trachome touche plus de 500 millions de personnes en Asie et en Afrique",
+   "Un lien avec les maladies coronariennes est formellement établi"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : C. trachomatis est l'agent de la principale IST.",
+   "Vrai : les salpingites à Chlamydia sont une cause majeure de stérilité tubaire.",
+   "Vrai : plus de 10 % des pneumonies communautaires sont attribuées aux Chlamydiae.",
+   "Vrai : le trachome est endémique en Asie et en Afrique avec plus de 500 millions de cas.",
+   "Faux : le rôle dans les maladies coronariennes reste seulement probable."
+  ]
+ },
+ {
+  "q": "À propos de la taille des formes de Chlamydiae, quelles propositions sont exactes ?",
+  "options": [
+   "Le corps élémentaire mesure environ 0,3 µm",
+   "Le corps réticulé mesure environ 1 µm",
+   "Le corps élémentaire est plus petit que le corps réticulé",
+   "Le corps réticulé mesure environ 0,3 µm",
+   "Les deux formes ont la même taille"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : CE de petite taille, 0,3 µm.",
+   "Vrai : CR d'environ 1 µm.",
+   "Vrai : le CE (0,3 µm) est plus petit que le CR (1 µm).",
+   "Faux : c'est le corps élémentaire qui mesure 0,3 µm.",
+   "Faux : les tailles diffèrent nettement (0,3 vs 1 µm)."
+  ]
+ },
+ {
+  "q": "Concernant la comparaison corps élémentaires / corps réticulés, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le CE est extracellulaire, le CR est intracellulaire",
+   "Le CE est infectieux, le CR ne l'est pas",
+   "Le CE est métaboliquement inactif, le CR est métaboliquement actif",
+   "Le CE se multiplie par division, le CR ne se multiplie pas",
+   "Le CE est antigéniquement distinct du CR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : CE extracellulaire / CR intracellulaire.",
+   "Vrai : seules les particules CE sont infectieuses.",
+   "Vrai : CE sans activité métabolique / CR métaboliquement actif.",
+   "Faux : c'est l'inverse — seul le CR se multiplie par division.",
+   "Vrai : les formes sont antigéniquement distinctes."
+  ]
+ },
+ {
+  "q": "À propos des antigènes de la paroi des Chlamydiae, quelles propositions sont vraies ?",
+  "options": [
+   "L'antigène de genre est commun à toutes les espèces de Chlamydiae",
+   "L'antigène de genre est présent à tous les stades de l'infection",
+   "L'antigène spécifique d'espèce permet de distinguer C. trachomatis de C. pneumoniae",
+   "L'antigène spécifique de type permet la distinction des sérovars",
+   "La MOMP est un antigène de genre"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'antigène de genre (LPS) est partagé par toutes les espèces.",
+   "Vrai : présent à tous les stades du processus de multiplication.",
+   "Vrai : l'antigène spécifique d'espèce est utilisé pour l'identification d'espèce.",
+   "Vrai : la MOMP, protéine majeure de membrane externe, définit les types/sérovars.",
+   "Faux : la MOMP est l'antigène spécifique de type, pas de genre."
+  ]
+ },
+ {
+  "q": "Concernant les biovars de C. trachomatis, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le biovar trachoma comprend les sérovars A, B, Ba et C",
+   "Le biovar LGV comprend les sérovars L1, L2, L2a et L3",
+   "Le biovar trachoma comprend aussi les sérovars D à K",
+   "Le biovar pneumonia de la souris est responsable de pneumonies humaines",
+   "Les sérovars D à K appartiennent au même biovar que les sérovars A à C"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : A, B, Ba, C sont les sérovars du trachome.",
+   "Vrai : L1, L2, L2a, L3 définissent le biovar LGV.",
+   "Vrai : le biovar trachoma regroupe 15 sérovars, dont A-C et D-K.",
+   "Faux : le biovar pneumonia de la souris n'a pas de pouvoir pathogène humain.",
+   "Vrai : A-C et D-K appartiennent tous au biovar trachoma (15 sérovars)."
+  ]
+ },
+ {
+  "q": "À propos du sérotypage de C. trachomatis, quelles affirmations sont exactes ?",
+  "options": [
+   "Les sérovars A, B, Ba, C sont responsables du trachome",
+   "Les sérovars D à K sont responsables des IST génitales",
+   "Les sérovars L1 à L3 sont responsables de la lymphogranulomatose vénérienne",
+   "Parmi les IST, le sérovar E est dominant (50 %)",
+   "Parmi les IST, le sérovar A est dominant"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : A-C = trachome.",
+   "Vrai : D-K = infections génitales, oculaires et pulmonaires du nouveau-né.",
+   "Vrai : L1-L3 = LGV.",
+   "Vrai : sérovars dominants des IST : E 50 %, F 20 %, D 10 %.",
+   "Faux : le sérovar A est un sérovar de trachome, pas d'IST."
+  ]
+ },
+ {
+  "q": "Concernant les hôtes et la transmission dans la chaîne épidémiologique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C. trachomatis a pour hôte l'homme",
+   "C. pneumoniae a pour hôte l'homme",
+   "C. psittaci a pour hôtes les oiseaux, les mammifères et l'homme",
+   "C. psittaci se transmet par voie aérienne à partir de poussières infectantes",
+   "C. trachomatis se transmet uniquement par voie aérienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'homme est l'hôte de C. trachomatis.",
+   "Vrai : l'homme est l'hôte de C. pneumoniae.",
+   "Vrai : C. psittaci infecte oiseaux, mammifères et homme.",
+   "Vrai : contact avec les oiseaux et poussières infectantes.",
+   "Faux : la transmission de C. trachomatis est indirecte (mouches, mains, objets), sexuelle ou lors de l'accouchement."
+  ]
+ },
+ {
+  "q": "À propos de l'immunité anti-Chlamydiae, quelles propositions sont exactes ?",
+  "options": [
+   "L'immunité humorale n'empêche pas les recontaminations",
+   "L'immunité cellulaire n'empêche pas les recontaminations",
+   "Les infections à Chlamydia confèrent une immunité protectrice durable",
+   "Les réinfections sont possibles malgré une infection antérieure",
+   "Il existe un vaccin efficace contre les infections à Chlamydia"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : l'immunité humorale n'empêche pas les recontaminations.",
+   "Vrai : l'immunité cellulaire n'empêche pas non plus les recontaminations.",
+   "Faux : les infections ne sont pas immunisantes de façon protectrice.",
+   "Vrai : les recontaminations sont la règle en l'absence d'immunité protectrice.",
+   "Faux : aucun vaccin n'est mentionné dans la stratégie de prévention."
+  ]
+ },
+ {
+  "q": "Concernant la spécificité des tableaux cliniques selon les sérovars de C. trachomatis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le trachome est lié aux sérovars A, B, Ba, C",
+   "Les IST génitales sont liées aux sérovars D à K",
+   "La LGV est liée aux sérovars L1, L2, L2a, L3",
+   "La pneumonie du nouveau-né est liée aux sérovars D à K",
+   "L'ophtalmie du nouveau-né est liée aux sérovars A à C"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : A-C = trachome.",
+   "Vrai : D-K = IST.",
+   "Vrai : L1-L3 = lymphogranulomatose vénérienne.",
+   "Vrai : les sérovars D-K sont responsables des infections pulmonaires du nouveau-né.",
+   "Faux : l'ophtalmie néonatale est liée aux sérovars D-K (transmission maternelle lors de l'accouchement)."
+  ]
+ },
+ {
+  "q": "À propos des caractères qui rapprochent les Chlamydiae des bactéries à Gram négatif, quelles propositions sont exactes ?",
+  "options": [
+   "Elles possèdent une membrane externe",
+   "Leur membrane externe contient des lipopolysaccharides",
+   "Elles possèdent un peptidoglycane épais",
+   "Leur coloration de Gram est négative",
+   "Elles possèdent des acides teichoïques"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : présence d'une membrane externe.",
+   "Vrai : LPS dans la membrane externe.",
+   "Faux : elles sont dépourvues de peptidoglycane.",
+   "Vrai : proches des bactéries à Gram négatif.",
+   "Faux : les acides teichoïques sont caractéristiques des Gram positif."
+  ]
+ },
+ {
+  "q": "Concernant les Chlamydiae en général, lesquelles de ces propositions sont fausses ?",
+  "options": [
+   "Ce sont des bactéries extracellulaires",
+   "Elles possèdent du peptidoglycane",
+   "Toutes les espèces sont pathogènes pour l'homme",
+   "Le diagnostic direct par culture est à la portée de tous les laboratoires",
+   "Les méthodes de diagnostic varient selon l'espèce"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : ce sont des bactéries intracellulaires obligatoires.",
+   "Faux : absence de peptidoglycane.",
+   "Faux : seules certaines espèces sont pathogènes pour l'homme.",
+   "Faux : la culture cellulaire est du ressort des laboratoires spécialisés.",
+   "Vrai : les méthodes de diagnostic varient en fonction de l'espèce — proposition exacte, donc non retenue."
+  ]
+ },
+ {
+  "q": "À propos de la famille Chlamydiaceae, quelles affirmations sont exactes ?",
+  "options": [
+   "Toutes les espèces sont des bactéries à multiplication intracellulaire obligatoire",
+   "Le genre Chlamydia comprend C. trachomatis",
+   "Le genre Chlamydophila comprend C. pneumoniae et C. psittaci",
+   "Le genre Chlamydia comprend 6 espèces rencontrées chez l'homme",
+   "L'ordre des Chlamydiales contient la famille Chlamydiaceae"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : caractère commun à toutes les espèces de la famille.",
+   "Vrai : C. trachomatis est l'espèce du genre Chlamydia.",
+   "Vrai : C. pneumoniae et C. psittaci appartiennent au genre Chlamydophila.",
+   "Faux : c'est le genre Chlamydophila qui comprend 6 espèces ; le genre Chlamydia est centré sur C. trachomatis.",
+   "Vrai : ordre Chlamydiales > famille Chlamydiaceae."
+  ]
+ },
+ {
+  "q": "Concernant les formes infectieuses et non infectieuses, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le corps élémentaire est la particule infectieuse",
+   "Le corps réticulé n'est pas infectieux",
+   "Le corps aberrant est viable mais non cultivable",
+   "Le corps réticulé est la forme détectée par immunofluorescence directe",
+   "Le corps élémentaire extracellulaire est détecté par immunofluorescence directe"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le CE est la particule infectieuse.",
+   "Vrai : le CR est non infectieux.",
+   "Vrai : le corps aberrant est viable mais non cultivable.",
+   "Faux : l'IF directe détecte les corps élémentaires extracellulaires ; les inclusions intracellulaires (CR) sont révélées par culture + IF.",
+   "Vrai : l'IF directe utilise des anticorps monoclonaux spécifiques d'espèce détectant les CE."
+  ]
+ },
+ {
+  "q": "Concernant le cycle de développement des Chlamydiae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le cycle est identique pour toutes les espèces de Chlamydiae",
+   "Il débute par l'attachement du corps élémentaire à la cellule hôte",
+   "L'entrée dans la cellule se fait par phagocytose",
+   "La multiplication a lieu dans une inclusion cytoplasmique",
+   "Le cycle dure de 6 à 12 heures"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le cycle de développement est identique pour toutes les espèces.",
+   "Vrai : attachement initial du CE à la cellule hôte.",
+   "Vrai : entrée par phagocytose.",
+   "Vrai : multiplication des CR dans une inclusion cytoplasmique.",
+   "Faux : le cycle dure 48 à 72 heures."
+  ]
+ },
+ {
+  "q": "Concernant les événements du cycle chlamydien, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Attachement initial du corps élémentaire à la cellule hôte",
+   "Entrée du corps élémentaire par phagocytose",
+   "Différenciation du corps élémentaire en corps réticulé",
+   "Multiplication des corps réticulés dans l'inclusion cytoplasmique",
+   "Sortie des corps réticulés par exocytose sans lyse cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'attachement du CE initie le cycle.",
+   "Vrai : l'entrée se fait par phagocytose.",
+   "Vrai : le CE se différencie en CR après internalisation.",
+   "Vrai : les CR se multiplient par division dans l'inclusion cytoplasmique.",
+   "Faux : la sortie concerne les corps élémentaires, par éclatement de la cellule, infectant les cellules voisines."
+  ]
+ },
+ {
+  "q": "À propos de la durée et de l'issue du cycle chlamydien, quelles propositions sont exactes ?",
+  "options": [
+   "Le cycle dure 48 à 72 heures",
+   "Il se termine par la sortie des corps élémentaires par éclatement de la cellule",
+   "Les corps élémentaires libérés infectent les cellules voisines",
+   "Le cycle se termine toujours par la mort programmée sans lyse",
+   "Le cycle dure 12 à 24 heures"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : durée du cycle de 48 à 72 heures.",
+   "Vrai : sortie des CE par éclatement de la cellule hôte.",
+   "Vrai : les CE libérés infectent les cellules voisines, propageant l'infection.",
+   "Faux : la sortie se fait par éclatement (lyse) de la cellule.",
+   "Faux : le cycle dure 48 à 72 heures, pas 12 à 24 heures."
+  ]
+ },
+ {
+  "q": "Concernant l'altération du cycle et la persistance, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Une altération du cycle peut conduire à la persistance du corps réticulé",
+   "La persistance est responsable d'infections chroniques",
+   "Le corps aberrant est la forme de persistance",
+   "La persistance correspond à une multiplication accélérée des CE",
+   "Toute infection à Chlamydia évolue vers la persistance"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : parfois le cycle est altéré avec persistance du CR.",
+   "Vrai : cette persistance entretient l'infection chronique.",
+   "Vrai : le corps aberrant est la forme de persistance, morphologiquement anormale.",
+   "Faux : la persistance correspond au blocage du cycle au stade CR, pas à une multiplication accélérée.",
+   "Faux : la persistance est une éventualité (« parfois »), pas une évolution systématique."
+  ]
+ },
+ {
+  "q": "Concernant les conséquences pratiques du cycle intracellulaire obligatoire, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les prélèvements doivent ramener les cellules contenant le corps bactérien",
+   "Le diagnostic fait appel à la culture cellulaire",
+   "Le traitement utilise des antibiotiques à pénétration cellulaire",
+   "Le diagnostic peut se faire sur simple culture en milieu ordinaire",
+   "Les bêta-lactamines sont le traitement de choix"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la qualité du prélèvement exige des cellules contenant la bactérie.",
+   "Vrai : utilisation des cultures cellulaires pour le diagnostic.",
+   "Vrai : traitement par des antibiotiques à pénétration cellulaire.",
+   "Faux : les Chlamydiae ne poussent pas sur milieux ordinaires, la culture est cellulaire.",
+   "Faux : le traitement curatif repose sur tétracyclines, macrolides ou fluoroquinolones."
+  ]
+ },
+ {
+  "q": "À propos de la différenciation CE → CR, quelles propositions sont exactes ?",
+  "options": [
+   "Elle a lieu après l'entrée du CE dans la cellule hôte",
+   "Elle précède la multiplication dans l'inclusion cytoplasmique",
+   "Elle transforme une particule infectieuse inerte en forme métaboliquement active",
+   "Elle a lieu dans le milieu extracellulaire",
+   "Elle est irréversible dans tous les cas"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : après phagocytose, le CE se différencie en CR.",
+   "Vrai : la différenciation précède la phase de multiplication.",
+   "Vrai : passage d'une forme infectieuse sans activité métabolique à une forme active qui se multiplie.",
+   "Faux : la différenciation a lieu à l'intérieur de la cellule hôte.",
+   "Faux : le cycle comporte ensuite la différenciation inverse CR → CE."
+  ]
+ },
+ {
+  "q": "Concernant la différenciation CR → CE, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle succède à la multiplication des corps réticulés",
+   "Elle reconstitue des particules infectieuses",
+   "Elle précède la sortie par éclatement de la cellule",
+   "Elle a lieu dans le milieu extracellulaire",
+   "Elle produit des formes métaboliquement actives"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : après multiplication, les CR se différencient en CE.",
+   "Vrai : les CE sont les particules infectieuses.",
+   "Vrai : la sortie des CE par éclatement suit cette différenciation.",
+   "Faux : elle a lieu dans l'inclusion cytoplasmique, en intracellulaire.",
+   "Faux : les CE sont sans activité métabolique."
+  ]
+ },
+ {
+  "q": "À propos de l'inclusion cytoplasmique, quelles propositions sont exactes ?",
+  "options": [
+   "C'est le siège de la multiplication des corps réticulés",
+   "Les corps réticulés s'y multiplient par division",
+   "Les inclusions intracellulaires sont révélées par culture + immunofluorescence",
+   "L'inclusion est une structure extracellulaire",
+   "La multiplication y est de type sporulation"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la multiplication des CR a lieu dans l'inclusion cytoplasmique.",
+   "Vrai : multiplication par division binaire.",
+   "Vrai : les inclusions intracellulaires (CR) sont détectées par culture + IF.",
+   "Faux : l'inclusion est intracytoplasmique, donc intracellulaire.",
+   "Faux : la multiplication se fait par division, pas par sporulation."
+  ]
+ },
+ {
+  "q": "Concernant le caractère intracellulaire obligatoire, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Il est commun à toutes les espèces de la famille Chlamydiaceae",
+   "Il impose l'utilisation de cultures cellulaires pour le diagnostic",
+   "Il explique la nécessité d'antibiotiques à pénétration intracellulaire",
+   "Il permet la culture sur gélose au sang",
+   "Il rend inutile le prélèvement cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : toutes les espèces de la famille sont à multiplication intracellulaire obligatoire.",
+   "Vrai : la culture est cellulaire, réservée aux laboratoires spécialisés.",
+   "Vrai : le traitement repose sur des antibiotiques à pénétration cellulaire.",
+   "Faux : pas de croissance sur milieux ordinaires comme la gélose au sang.",
+   "Faux : au contraire, le prélèvement doit ramener les cellules infectées."
+  ]
+ },
+ {
+  "q": "Un biologiste décrit une bactérie de 0,3 µm, extracellulaire, infectieuse, sans activité métabolique. Quelles propositions sont exactes ?",
+  "options": [
+   "Il s'agit d'un corps élémentaire de Chlamydia",
+   "Cette forme est détectée par immunofluorescence directe",
+   "Cette forme est incapable de multiplication",
+   "Il s'agit d'un corps réticulé",
+   "Cette forme se multiplie dans l'inclusion cytoplasmique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la description correspond au corps élémentaire.",
+   "Vrai : l'IF directe détecte les corps élémentaires extracellulaires.",
+   "Vrai : le CE est incapable de multiplication.",
+   "Faux : le CR est intracellulaire, de 1 µm, métaboliquement actif.",
+   "Faux : c'est le corps réticulé qui se multiplie dans l'inclusion."
+  ]
+ },
+ {
+  "q": "Un biologiste décrit une bactérie de 1 µm, intracellulaire, métaboliquement active, se multipliant par division. Quelles propositions sont exactes ?",
+  "options": [
+   "Il s'agit d'un corps réticulé de Chlamydia",
+   "Cette forme n'est pas infectieuse",
+   "Cette forme est révélée par culture cellulaire + immunofluorescence",
+   "Il s'agit d'un corps élémentaire",
+   "Cette forme est responsable de la contamination intercellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la description correspond au corps réticulé.",
+   "Vrai : le CR est non infectieux.",
+   "Vrai : les inclusions intracellulaires (CR) sont mises en évidence par culture + IF.",
+   "Faux : le CE est extracellulaire, de 0,3 µm, infectieux.",
+   "Faux : la contamination est assurée par les corps élémentaires."
+  ]
+ },
+ {
+  "q": "Concernant la chronologie du cycle (48-72 h), lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le cycle est plus long qu'un cycle bactérien ordinaire de 20 minutes",
+   "La durée de 48 à 72 heures concerne toutes les espèces",
+   "L'incubation clinique des IST (2 jours à 2 mois) reflète en partie ce cycle lent",
+   "Le cycle dure moins de 24 heures",
+   "La lenteur du cycle favorise la chronicité des infections"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : 48-72 h est très supérieur au temps de génération bactérien habituel.",
+   "Vrai : le cycle de développement est identique pour toutes les espèces.",
+   "Faux : l'incubation clinique dépend de nombreux facteurs et n'est pas une simple lecture du cycle.",
+   "Faux : le cycle dure 48 à 72 heures.",
+   "Vrai : le cycle lent et la persistance favorisent les infections chroniques."
+  ]
+ },
+ {
+  "q": "À propos de la sortie des corps élémentaires, quelles propositions sont exactes ?",
+  "options": [
+   "Elle se fait par éclatement de la cellule hôte",
+   "Elle permet l'infection des cellules voisines",
+   "Elle succède à la différenciation des CR en CE",
+   "Elle se fait par bourgeonnement sans lyse",
+   "Elle libère des corps réticulés infectieux"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sortie par éclatement (lyse) de la cellule.",
+   "Vrai : les CE libérés infectent les cellules voisines.",
+   "Vrai : la différenciation CR → CE précède la sortie.",
+   "Faux : la sortie se fait par éclatement, pas par bourgeonnement.",
+   "Faux : ce sont des corps élémentaires qui sont libérés, et les CR ne sont pas infectieux."
+  ]
+ },
+ {
+  "q": "Concernant les particularités du cycle expliquant la clinique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le cycle intracellulaire explique les infections souvent chroniques",
+   "La persistance du CR explique les infections chroniques",
+   "L'absence d'immunité protectrice favorise les recontaminations",
+   "Le cycle extracellulaire explique la facilité du diagnostic par hémoculture",
+   "La lyse cellulaire explique l'absence de lésions tissulaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : affections polymorphes souvent chroniques.",
+   "Vrai : la persistance du CR (corps aberrant) entretient la chronicité.",
+   "Vrai : l'immunité humorale et cellulaire n'empêchent pas les recontaminations.",
+   "Faux : le cycle est intracellulaire et l'hémoculture n'est pas un outil diagnostique.",
+   "Faux : l'éclatement cellulaire participe au contraire aux lésions."
+  ]
+ },
+ {
+  "q": "À propos des formes de Chlamydiae et de leur détection au laboratoire, quelles propositions sont exactes ?",
+  "options": [
+   "Les CE extracellulaires sont détectés par immunofluorescence directe",
+   "Les inclusions intracellulaires sont révélées après culture cellulaire",
+   "Le corps aberrant est viable mais non cultivable",
+   "Toutes les formes sont cultivables sur milieux ordinaires",
+   "La culture cellulaire est la technique de référence pour C. trachomatis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'IF directe détecte les CE extracellulaires.",
+   "Vrai : inclusions (CR) révélées par culture + IF.",
+   "Vrai : le corps aberrant est viable mais non cultivable.",
+   "Faux : aucune forme ne pousse sur milieux ordinaires.",
+   "Vrai : la culture cellulaire est la technique de référence pour C. trachomatis."
+  ]
+ },
+ {
+  "q": "Concernant la phagocytose dans le cycle chlamydien, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle permet l'entrée du corps élémentaire dans la cellule hôte",
+   "Elle fait suite à l'attachement initial du CE",
+   "Elle est suivie de la différenciation du CE en CR",
+   "Elle détruit systématiquement le corps élémentaire",
+   "Elle concerne les corps réticulés extracellulaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : entrée du CE par phagocytose.",
+   "Vrai : l'attachement initial précède la phagocytose.",
+   "Vrai : après internalisation, le CE se différencie en CR.",
+   "Faux : le CE survit à la phagocytose et initie le cycle intracellulaire.",
+   "Faux : les CR sont intracellulaires et non infectieux ; la phagocytose concerne les CE."
+  ]
+ },
+ {
+  "q": "À propos des conséquences diagnostiques du cycle, quelles propositions sont exactes ?",
+  "options": [
+   "Le prélèvement doit contenir des cellules infectées",
+   "Les écouvillons à tige en bois doivent être éliminés",
+   "La cytobrosse est le meilleur moyen de prélèvement",
+   "Un prélèvement purement liquidien sans cellules est idéal",
+   "Le coton, l'alginate ou le dacron peuvent être utilisés pour l'écouvillonnage"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le prélèvement doit ramener les cellules contenant le corps bactérien.",
+   "Vrai : éliminer les écouvillons à tige en bois.",
+   "Vrai : la cytobrosse est le meilleur moyen de prélèvement.",
+   "Faux : un prélèvement sans cellules est inadapté au diagnostic des Chlamydiae.",
+   "Vrai : coton, alginate ou dacron utilisables."
+  ]
+ },
+ {
+  "q": "Concernant les liens entre cycle et traitement antibiotique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le traitement utilise des antibiotiques à pénétration cellulaire",
+   "Les tétracyclines sont actives car elles pénètrent dans la cellule",
+   "Les aminosides sont naturellement actifs sur les Chlamydiae",
+   "La localisation intracellulaire explique l'échec des antibiotiques non diffusibles",
+   "La vancomycine est le traitement de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : le cycle intracellulaire impose des antibiotiques à pénétration cellulaire.",
+   "Vrai : les tétracyclines font partie du traitement curatif.",
+   "Faux : résistance naturelle aux aminosides.",
+   "Vrai : un antibiotique ne pénétrant pas la cellule ne peut atteindre la bactérie.",
+   "Faux : résistance naturelle à la vancomycine ; le traitement repose sur tétracyclines, macrolides ou fluoroquinolones."
+  ]
+ },
+ {
+  "q": "À propos de l'ordre des événements du cycle, quelles séquences sont exactes ?",
+  "options": [
+   "CE extracellulaire → attachement → phagocytose",
+   "Phagocytose → différenciation CE en CR",
+   "CR → multiplication dans l'inclusion → différenciation en CE",
+   "CE intracellulaires → éclatement cellulaire → infection des cellules voisines",
+   "CR extracellulaire → attachement → multiplication extracellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : début du cycle par le CE extracellulaire.",
+   "Vrai : après entrée, différenciation en CR.",
+   "Vrai : multiplication puis redifférenciation.",
+   "Vrai : sortie des CE par éclatement et propagation.",
+   "Faux : le CR n'est jamais extracellulaire et ne se multiplie pas hors cellule."
+  ]
+ },
+ {
+  "q": "Concernant la persistance et le corps aberrant, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le corps aberrant dérive d'une altération du cycle de développement",
+   "Il est morphologiquement anormal",
+   "Il est responsable d'infections chroniques",
+   "Il est facilement cultivable sur culture cellulaire",
+   "Il correspond à une forme extracellulaire infectieuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : altération du cycle avec persistance du CR.",
+   "Vrai : forme morphologiquement anormale.",
+   "Vrai : forme de persistance responsable d'infection chronique.",
+   "Faux : il est viable mais non cultivable.",
+   "Faux : c'est une forme intracellulaire persistante, non infectieuse."
+  ]
+ },
+ {
+  "q": "À propos du cycle chlamydien et de l'inclusion, quelles affirmations sont exactes ?",
+  "options": [
+   "L'inclusion est intracytoplasmique",
+   "La coloration à l'iode met en évidence les inclusions par le glycogène",
+   "Les inclusions contiennent les corps réticulés en multiplication",
+   "L'inclusion est révélée par la coloration MGG après culture",
+   "L'inclusion est une structure de la paroi bactérienne"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : inclusion cytoplasmique.",
+   "Faux : la révélation fait appel à MGG ou iodo-iodure, mieux IF ou ELISA — l'iodo-iodure est cité mais l'explication par le glycogène n'est pas au programme du cours.",
+   "Vrai : les CR s'y multiplient par division.",
+   "Vrai : révélation par coloration MGG ou iodo-iodure après culture cellulaire.",
+   "Faux : l'inclusion est une vacuole de la cellule hôte, pas une structure pariétale."
+  ]
+ },
+ {
+  "q": "Concernant les caractéristiques du corps élémentaire, lesquelles de ces propositions sont fausses ?",
+  "options": [
+   "Il est intracellulaire",
+   "Il est métaboliquement actif",
+   "Il se multiplie par division",
+   "Il mesure 1 µm",
+   "Il est la forme infectieuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le CE est extracellulaire.",
+   "Faux : le CE est sans activité métabolique.",
+   "Faux : le CE est incapable de multiplication.",
+   "Faux : le CE mesure 0,3 µm (1 µm = le CR).",
+   "Vrai : le CE est bien la particule infectieuse — proposition exacte, non retenue."
+  ]
+ },
+ {
+  "q": "Concernant les caractéristiques du corps réticulé, lesquelles de ces propositions sont fausses ?",
+  "options": [
+   "Il est extracellulaire",
+   "Il est infectieux",
+   "Il est métaboliquement inactif",
+   "Il ne se multiplie pas",
+   "Il est mis en évidence dans les inclusions par culture cellulaire + immunofluorescence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le CR est intracellulaire.",
+   "Faux : le CR est non infectieux.",
+   "Faux : le CR est métaboliquement actif.",
+   "Faux : le CR se multiplie par division dans l'inclusion.",
+   "Vrai : les inclusions intracellulaires (CR) sont révélées par culture + IF — proposition exacte, non retenue."
+  ]
+ },
+ {
+  "q": "Concernant les IST à C. trachomatis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles sont dues aux sérovars D à K",
+   "L'incubation est de 2 jours à 2 mois",
+   "C. trachomatis est l'agent de l'IST la plus fréquente",
+   "Elles sont dues aux sérovars A à C",
+   "L'incubation est de 1 à 2 semaines comme la psittacose"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sérovars D, Da, E, F, G, Ga, H, I, Ia, J, K.",
+   "Vrai : incubation de 2 jours à 2 mois.",
+   "Vrai : principale IST, problème de santé publique.",
+   "Faux : les sérovars A-C sont responsables du trachome.",
+   "Faux : 1 à 2 semaines est l'incubation de C. psittaci."
+  ]
+ },
+ {
+  "q": "À propos de l'urétrite à C. trachomatis chez l'homme, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est souvent subaiguë",
+   "Elle peut être asymptomatique",
+   "Elle peut parfois être aiguë",
+   "Elle est toujours purulente et douloureuse comme la gonococcie",
+   "Elle s'accompagne constamment de fièvre élevée"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : urétrite subaiguë typique.",
+   "Vrai : formes asymptomatiques fréquentes.",
+   "Vrai : parfois tableau aigu.",
+   "Faux : l'urétrite à Chlamydia est volontiers discrète, à l'inverse de la blennorragie aiguë.",
+   "Faux : pas de fièvre systématique."
+  ]
+ },
+ {
+  "q": "Concernant les complications génitales masculines de l'infection à C. trachomatis, lesquelles sont exactes ?",
+  "options": [
+   "L'épididymite",
+   "Les prostatites",
+   "L'urétrite",
+   "L'orchite ourlienne",
+   "Le phimosis congénital"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'épididymite est une complication classique.",
+   "Vrai : les prostatites sont citées.",
+   "Vrai : l'urétrite est la manifestation initiale.",
+   "Faux : l'orchite ourlienne est due au virus des oreillons.",
+   "Faux : le phimosis congénital n'a aucun lien avec Chlamydia."
+  ]
+ },
+ {
+  "q": "À propos des infections génitales féminines à C. trachomatis, quelles propositions sont exactes ?",
+  "options": [
+   "Les vaginites",
+   "La cervicite latente et persistante",
+   "Les salpingites",
+   "L'endométrite",
+   "La cystite à E. coli"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : vaginites citées.",
+   "Vrai : cervicite latente et persistante.",
+   "Vrai : salpingites, source de stérilité tubaire.",
+   "Vrai : endométrite.",
+   "Faux : la cystite à E. coli est une infection urinaire à entérobactérie."
+  ]
+ },
+ {
+  "q": "Concernant les complications de l'infection génitale féminine à C. trachomatis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La grossesse extra-utérine (GEU)",
+   "L'infertilité tubaire",
+   "Les salpingites",
+   "Le cancer du col utérin",
+   "La stérilité est une des principales conséquences en santé publique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : GEU citée parmi les complications.",
+   "Vrai : infertilité, conséquence majeure.",
+   "Vrai : les salpingites sont à l'origine des séquelles tubaires.",
+   "Faux : le cancer du col est lié aux papillomavirus, pas à Chlamydia.",
+   "Vrai : principale cause de stérilité, problème de santé publique."
+  ]
+ },
+ {
+  "q": "À propos du syndrome de Fiessinger-Leroy-Reiter, quelles propositions sont exactes ?",
+  "options": [
+   "Il associe conjonctivite, urétrite et polyarthrite",
+   "Il est fréquent chez les sujets HLA-B27",
+   "Il peut compliquer une IST à C. trachomatis",
+   "Il associe chancre, adénite et rectite",
+   "Il est dû aux sérovars L1-L3"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : triade conjonctivite + urétrite + polyarthrite.",
+   "Vrai : fréquent chez les HLA-B27.",
+   "Vrai : complication post-infectieuse des IST à C. trachomatis.",
+   "Faux : chancre + adénite + rectite évoquent la LGV.",
+   "Faux : le syndrome de Reiter complique les IST à sérovars D-K, pas la LGV."
+  ]
+ },
+ {
+  "q": "Concernant les infections néonatales à C. trachomatis, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'ophtalmie du nouveau-né",
+   "La pneumonie du nouveau-né",
+   "Elles sont liées aux sérovars D à K",
+   "La contamination a lieu lors de l'accouchement",
+   "Elles sont liées aux sérovars A à C"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ophtalmie néonatale.",
+   "Vrai : pneumonie néonatale.",
+   "Vrai : sérovars D-K.",
+   "Vrai : transmission lors de l'accouchement (voie basse).",
+   "Faux : les sérovars A-C sont ceux du trachome."
+  ]
+ },
+ {
+  "q": "Un nouveau-né de 3 semaines présente une conjonctivite purulente puis une toux avec polypnée. Quelles propositions sont exactes ?",
+  "options": [
+   "Une infection à C. trachomatis (sérovars D-K) est évoquée",
+   "La contamination maternelle a eu lieu lors de l'accouchement",
+   "L'IgM a un intérêt diagnostique dans la pneumopathie du nouveau-né",
+   "Il s'agit d'un trachome à sérovars A-C",
+   "La mère présente probablement une infection génitale à C. trachomatis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : ophtalmie puis pneumonie néonatales typiques des sérovars D-K.",
+   "Vrai : contamination périnatale lors de l'accouchement.",
+   "Vrai : l'IgM a une indication limitée à la pneumopathie du nouveau-né.",
+   "Faux : le trachome est lié aux sérovars A-C et à une transmission indirecte.",
+   "Vrai : la source est l'infection génitale maternelle."
+  ]
+ },
+ {
+  "q": "Concernant la cervicite à C. trachomatis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est souvent latente",
+   "Elle est persistante",
+   "Elle peut être asymptomatique",
+   "Elle est toujours aiguë et douloureuse",
+   "Elle expose aux salpingites ascendantes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : cervicite latente.",
+   "Vrai : cervicite persistante.",
+   "Vrai : formes asymptomatiques fréquentes, favorisant la dissémination.",
+   "Faux : la cervicite à Chlamydia est volontiers discrète.",
+   "Vrai : l'infection peut diffuser vers le haut appareil (endométrite, salpingites)."
+  ]
+ },
+ {
+  "q": "À propos de l'épidémiologie des IST à C. trachomatis, quelles propositions sont exactes ?",
+  "options": [
+   "Le sérovar E est dominant (50 %)",
+   "Le sérovar F représente 20 %",
+   "Le sérovar D représente 10 %",
+   "Le sérovar L1 est dominant dans les IST non LGV",
+   "La transmission est sexuelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : E 50 % des IST.",
+   "Vrai : F 20 %.",
+   "Vrai : D 10 %.",
+   "Faux : L1 est un sérovar de LGV, pas des IST communes.",
+   "Vrai : transmission par contact sexuel."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'une urétrite à C. trachomatis chez l'homme, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le patient ne doit pas avoir uriné dans l'heure précédente",
+   "L'écouvillonnage urétral se fait à 2-4 cm dans l'urètre",
+   "Le premier jet d'urine peut être utilisé",
+   "La biologie moléculaire avec amplification est la méthode adaptée",
+   "L'hémoculture est l'examen de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ne pas avoir uriné dans l'heure précédente.",
+   "Vrai : écouvillonner 2 à 4 cm dans l'urètre.",
+   "Vrai : prélèvement urétral et 1er jet d'urine.",
+   "Vrai : l'amplification génique est adaptée en toute situation clinique.",
+   "Faux : l'hémoculture n'a pas de place dans le diagnostic des IST à Chlamydia."
+  ]
+ },
+ {
+  "q": "À propos du prélèvement chez la femme pour une IST à C. trachomatis, quelles propositions sont exactes ?",
+  "options": [
+   "Essuyer l'exocol puis écouvillonner le canal endocervical",
+   "La cytobrosse est le meilleur moyen de prélèvement",
+   "Les biopsies d'endomètre ou de trompes sont possibles",
+   "Le liquide du Douglas peut être prélevé",
+   "Le prélèvement vaginal superficiel sans cellules est suffisant"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : essuyer l'exocol, écouvillonner le canal endocervical.",
+   "Vrai : la cytobrosse est le meilleur moyen.",
+   "Vrai : biopsies (endomètre, trompes) possibles.",
+   "Vrai : liquide du Douglas utilisable.",
+   "Faux : le prélèvement doit ramener les cellules contenant la bactérie."
+  ]
+ },
+ {
+  "q": "Concernant la co-infection gonocoque-Chlamydia, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le gonocoque est souvent co-transmis avec C. trachomatis",
+   "La recherche de Chlamydia est souvent associée à celle du gonocoque en biologie moléculaire",
+   "Les deux sont des agents d'IST",
+   "Le traitement d'une urétrite gonococcique doit faire évoquer Chlamydia",
+   "C. trachomatis et le gonocoque appartiennent à la même famille"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : co-transmission fréquente.",
+   "Vrai : PCR souvent couplée gonocoque + Chlamydia.",
+   "Vrai : les deux sont des IST.",
+   "Vrai : devant une urétrite, les deux germes sont à rechercher.",
+   "Faux : Neisseria (Neisseriaceae) et Chlamydia (Chlamydiaceae) sont de familles différentes."
+  ]
+ },
+ {
+  "q": "Un homme de 25 ans présente un écoulement urétral discret et des brûlures mictionnelles modérées évoluant depuis 10 jours. Quelles propositions sont exactes ?",
+  "options": [
+   "Une urétrite subaiguë à C. trachomatis est évoquée",
+   "Les sérovars D-K sont en cause",
+   "Le premier jet d'urine est un prélèvement adapté au diagnostic moléculaire",
+   "Il s'agit certainement d'une blennorragie aiguë",
+   "Le partenaire doit être dépisté et traité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : tableau d'urétrite subaiguë typique de Chlamydia.",
+   "Vrai : IST = sérovars D-K.",
+   "Vrai : l'amplification peut être réalisée sur l'urine (1er jet).",
+   "Faux : la blennorragie est habituellement aiguë et purulente ; le tableau ici est subaigu.",
+   "Vrai : lutte contre les IST : dépistage et traitement des partenaires."
+  ]
+ },
+ {
+  "q": "Concernant les formes asymptomatiques des IST à C. trachomatis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles sont fréquentes, notamment chez la femme",
+   "Elles favorisent la dissémination de l'infection",
+   "Elles n'exposent à aucune complication",
+   "La cervicite peut être latente",
+   "L'urétrite peut être asymptomatique"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : formes asymptomatiques fréquentes.",
+   "Vrai : elles favorisent la dissémination silencieuse.",
+   "Faux : même asymptomatiques, elles exposent aux complications (salpingites, stérilité).",
+   "Vrai : cervicite latente et persistante.",
+   "Vrai : urétrite parfois asymptomatique."
+  ]
+ },
+ {
+  "q": "À propos de la salpingite à C. trachomatis, quelles propositions sont exactes ?",
+  "options": [
+   "Elle fait suite à l'ascension de l'infection génitale basse",
+   "Elle expose à l'infertilité tubaire",
+   "Elle expose à la grossesse extra-utérine",
+   "Le diagnostic sérologique y a un intérêt (infection haute)",
+   "La sérologie n'a aucun intérêt dans les infections hautes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : diffusion ascendante depuis la cervicite.",
+   "Vrai : séquelles tubaires et infertilité.",
+   "Vrai : GEU parmi les complications.",
+   "Vrai : la sérologie garde un intérêt dans les infections profondes ou hautes.",
+   "Faux : c'est dans les infections basses que la sérologie n'a pas d'intérêt."
+  ]
+ },
+ {
+  "q": "Concernant l'urétrite à Chlamydia et son diagnostic biologique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La culture cellulaire est la technique de référence (spécificité 100 %)",
+   "La sensibilité de la culture est de 80 à 90 %",
+   "L'amplification génique est plus sensible que la culture",
+   "L'hybridation ADN/ARN est la méthode recommandée",
+   "La sensibilité de l'amplification est de 98 % avec une spécificité de 99 %"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : technique de référence, spécificité 100 %.",
+   "Vrai : sensibilité 80-90 %.",
+   "Vrai : l'amplification est plus sensible que culture, IF et EIA.",
+   "Faux : l'hybridation ADN/ARN n'est pas recommandée.",
+   "Vrai : sensibilité 98 %, spécificité 99 % pour les trousses commerciales."
+  ]
+ },
+ {
+  "q": "À propos du traitement d'une IST à C. trachomatis, quelles propositions sont exactes ?",
+  "options": [
+   "Les tétracyclines sont actives",
+   "Les macrolides sont actifs",
+   "Les fluoroquinolones sont actives",
+   "Les aminosides sont le traitement de choix",
+   "La résistance acquise est exceptionnelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les tétracyclines font partie du traitement curatif.",
+   "Vrai : les macrolides sont actifs.",
+   "Vrai : les fluoroquinolones sont citées dans le traitement curatif.",
+   "Faux : résistance naturelle aux aminosides.",
+   "Vrai : la résistance acquise est exceptionnelle."
+  ]
+ },
+ {
+  "q": "Concernant la prévention des IST à C. trachomatis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La prévention repose sur la lutte contre les IST",
+   "Le dépistage et le traitement des partenaires sont recommandés",
+   "L'amélioration des conditions de vie est la mesure principale",
+   "L'éducation et l'usage de préservatifs sont utiles",
+   "Il existe un vaccin efficace"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : prévention des IST.",
+   "Vrai : dépistage et traitement des patients et partenaires.",
+   "Faux : l'amélioration des conditions de vie concerne le trachome, pas les IST.",
+   "Vrai : éducation, information, préservatifs.",
+   "Faux : pas de vaccin disponible."
+  ]
+ },
+ {
+  "q": "Une femme de 28 ans consulte pour leucorrhées persistantes ; l'examen retrouve une cervicite. Quelles propositions sont exactes ?",
+  "options": [
+   "Une infection à C. trachomatis (sérovars D-K) est à évoquer",
+   "Le prélèvement endocervical à la cytobrosse est indiqué",
+   "La biologie moléculaire avec amplification est l'examen de choix",
+   "La sérologie est l'examen de première intention dans cette infection basse",
+   "Un traitement par tétracyclines ou macrolides est indiqué"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : cervicite persistante évocatrice.",
+   "Vrai : écouvillonnage du canal endocervical, cytobrosse idéale.",
+   "Vrai : l'amplification génique est adaptée en toute situation.",
+   "Faux : la sérologie n'a pas d'intérêt dans les infections urogénitales basses.",
+   "Vrai : traitement curatif par tétracyclines, macrolides ou fluoroquinolones."
+  ]
+ },
+ {
+  "q": "Concernant les prostatites et épididymites à C. trachomatis, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elles compliquent une urétrite à C. trachomatis",
+   "Elles sont liées aux sérovars D-K",
+   "Le diagnostic repose sur la détection du génome par amplification",
+   "Elles sont dues aux sérovars L1-L3",
+   "Le traitement fait appel aux antibiotiques à pénétration cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : complications de l'urétrite masculine.",
+   "Vrai : IST = sérovars D-K.",
+   "Vrai : la biologie moléculaire avec amplification est adaptée.",
+   "Faux : L1-L3 = LGV.",
+   "Vrai : tétracyclines, macrolides ou fluoroquinolones."
+  ]
+ },
+ {
+  "q": "À propos de l'ophtalmie néonatale à C. trachomatis, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est due aux sérovars D à K",
+   "La contamination a lieu lors de l'accouchement",
+   "Le prélèvement est un grattage de la conjonctive inférieure",
+   "Elle est due aux sérovars A à C",
+   "La mère est porteuse d'une infection génitale à C. trachomatis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : sérovars D-K.",
+   "Vrai : contamination périnatale.",
+   "Vrai : grattage de la conjonctive inférieure après élimination des exsudats purulents.",
+   "Faux : A-C = trachome.",
+   "Vrai : la source est l'infection génitale maternelle."
+  ]
+ },
+ {
+  "q": "Concernant la pneumonie néonatale à C. trachomatis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est due aux sérovars D à K",
+   "Elle peut succéder à une ophtalmie néonatale",
+   "Les IgM ont une indication diagnostique dans ce contexte",
+   "Elle est due à C. pneumoniae",
+   "Le diagnostic de certitude repose sur la sérologie MIF au seuil de 1/512"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sérovars D-K.",
+   "Vrai : l'atteinte respiratoire peut suivre l'ophtalmie.",
+   "Vrai : l'IgM a une indication limitée à la pneumopathie du nouveau-né.",
+   "Faux : C. pneumoniae est responsable d'infections respiratoires de l'enfant/adulte, pas de la pneumonie néonatale à Chlamydia.",
+   "Faux : le seuil de 1/512 en MIF concerne C. pneumoniae."
+  ]
+ },
+ {
+  "q": "À propos des vaginites à C. trachomatis, quelles propositions sont exactes ?",
+  "options": [
+   "Elles font partie des IST à sérovars D-K",
+   "Le prélèvement endocervical est indiqué",
+   "La détection du génome par amplification est recommandée",
+   "Elles sont dues à C. psittaci",
+   "La sérologie est l'examen de choix"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les vaginites sont citées parmi les IST à C. trachomatis.",
+   "Vrai : écouvillonnage du canal endocervical.",
+   "Vrai : l'amplification génique est la méthode adaptée.",
+   "Faux : C. psittaci est responsable de psittacose respiratoire.",
+   "Faux : pas d'intérêt de la sérologie dans les infections basses."
+  ]
+ },
+ {
+  "q": "Concernant l'endométrite à C. trachomatis, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une infection génitale haute",
+   "La sérologie y garde un intérêt diagnostique",
+   "Les biopsies d'endomètre peuvent servir au diagnostic direct",
+   "C'est une infection génitale basse sans intérêt sérologique",
+   "Elle n'expose à aucune séquelle tubaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'endométrite est une infection haute.",
+   "Vrai : la sérologie a un intérêt dans les infections profondes ou hautes.",
+   "Vrai : biopsies d'endomètre possibles pour le diagnostic direct.",
+   "Faux : c'est une infection haute, la sérologie y est utile.",
+   "Faux : elle participe aux séquelles (salpingites, GEU, infertilité)."
+  ]
+ },
+ {
+  "q": "Un patient présente une polyarthrite asymétrique des grosses articulations, une conjonctivite et une urétrite récente. Il est HLA-B27. Quelles propositions sont exactes ?",
+  "options": [
+   "Le syndrome de Fiessinger-Leroy-Reiter est évoqué",
+   "Une IST à C. trachomatis est l'étiologie à rechercher",
+   "Le terrain HLA-B27 est un facteur favorisant",
+   "Il s'agit d'une LGV à sérovars L1-L3",
+   "La triade associe conjonctivite, urétrite et polyarthrite"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : triade évocatrice du syndrome de Reiter.",
+   "Vrai : C. trachomatis est l'agent classiquement en cause.",
+   "Vrai : fréquent chez les HLA-B27.",
+   "Faux : la LGV donne chancre + adénite fistulisée, pas cette triade.",
+   "Vrai : définition du syndrome."
+  ]
+ },
+ {
+  "q": "Concernant les IST à C. trachomatis et la santé publique, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est l'IST la plus fréquente",
+   "C'est un problème de santé publique",
+   "C'est une des principales causes de stérilité",
+   "Le dépistage des partenaires est recommandé",
+   "La déclaration obligatoire avec isolement est la mesure principale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IST la plus fréquente.",
+   "Vrai : problème de santé publique.",
+   "Vrai : principale cause de stérilité.",
+   "Vrai : dépistage et traitement des patients et partenaires.",
+   "Faux : pas d'isolement ; la lutte repose sur éducation, préservatifs, dépistage."
+  ]
+ },
+ {
+  "q": "À propos des diagnostics différentiels d'une urétrite, quelles propositions sont exactes ?",
+  "options": [
+   "C. trachomatis donne une urétrite souvent subaiguë",
+   "Le gonocoque donne une urétrite le plus souvent aiguë et purulente",
+   "Les deux germes sont fréquemment co-transmis",
+   "La PCR couplée recherche souvent les deux germes",
+   "C. trachomatis et le gonocoque se diagnostiquent par hémoculture"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : urétrite subaiguë à Chlamydia.",
+   "Vrai : blennorragie aiguë purulente.",
+   "Vrai : co-transmission fréquente.",
+   "Vrai : biologie moléculaire couplée.",
+   "Faux : le diagnostic est direct sur prélèvement local, pas par hémoculture."
+  ]
+ },
+ {
+  "q": "Concernant le typage des souches de C. trachomatis, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le typage a un intérêt épidémiologique",
+   "Il repose sur la culture cellulaire",
+   "La MOMP est l'antigène de typage",
+   "Le typage est systématique en routine pour guider le traitement",
+   "Le sérovar oriente le tableau clinique attendu"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : intérêt épidémiologique du typage.",
+   "Vrai : la culture permet le typage des souches.",
+   "Vrai : la MOMP est l'antigène spécifique de type.",
+   "Faux : le typage n'est pas systématique en routine.",
+   "Vrai : infections sérovars-spécifiques (A-C, D-K, L1-L3)."
+  ]
+ },
+ {
+  "q": "À propos de la résistance de C. trachomatis aux antibiotiques, quelles propositions sont exactes ?",
+  "options": [
+   "La résistance naturelle concerne les aminosides",
+   "La résistance naturelle concerne la vancomycine",
+   "La résistance naturelle concerne le métronidazole et la colimycine",
+   "La résistance acquise est exceptionnelle",
+   "La résistance aux tétracyclines est fréquente"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : résistance naturelle aux aminosides.",
+   "Vrai : résistance naturelle à la vancomycine.",
+   "Vrai : résistance naturelle au métronidazole et à la colimycine (et aux quinolones).",
+   "Vrai : résistance acquise exceptionnelle.",
+   "Faux : les tétracyclines restent le traitement curatif."
+  ]
+ },
+ {
+  "q": "Concernant le trachome, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il est dû aux sérovars A, B, Ba et C de C. trachomatis",
+   "C'est une kératoconjonctivite à répétition avec surinfections",
+   "Il évolue vers un trachome cicatriciel",
+   "Il est dû aux sérovars D à K",
+   "Il est dû à C. pneumoniae"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sérovars A-C.",
+   "Vrai : kératoconjonctivite multiple et surinfections.",
+   "Vrai : évolution vers le trachome cicatriciel.",
+   "Faux : D-K = IST.",
+   "Faux : C. pneumoniae est un agent respiratoire."
+  ]
+ },
+ {
+  "q": "À propos de l'épidémiologie du trachome, quelles propositions sont exactes ?",
+  "options": [
+   "Plus de 500 millions de cas en Asie et en Afrique",
+   "C'est une cause majeure de cécité",
+   "La transmission est indirecte (mouches, mains, objets)",
+   "C'est une IST",
+   "La transmission est aérienne par poussières infectantes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : 500 millions, Asie et Afrique.",
+   "Vrai : cause majeure de cécité.",
+   "Vrai : transmission indirecte (mouche, mains, objets).",
+   "Faux : le trachome n'est pas une IST.",
+   "Faux : la transmission aérienne concerne C. psittaci."
+  ]
+ },
+ {
+  "q": "Concernant le prélèvement dans le trachome, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le grattage de la conjonctive supérieure est indiqué",
+   "Le grattage de la conjonctive inférieure est indiqué",
+   "Le prélèvement doit ramener des cellules",
+   "La cytobrosse est le meilleur moyen de prélèvement",
+   "L'écouvillonnage urétral est l'examen de choix"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : trachome = grattage de la conjonctive supérieure.",
+   "Faux : la conjonctive inférieure concerne les conjonctivites (notamment néonatales).",
+   "Vrai : le prélèvement doit contenir les cellules infectées.",
+   "Vrai : la cytobrosse est le meilleur moyen.",
+   "Faux : l'écouvillonnage urétral concerne les IST masculines."
+  ]
+ },
+ {
+  "q": "À propos de la prévention du trachome, quelles propositions sont exactes ?",
+  "options": [
+   "L'amélioration des conditions de vie est la mesure principale",
+   "La lutte contre les mouches vecteurs est utile",
+   "L'hygiène des mains et du visage est utile",
+   "La vaccination de masse est la mesure principale",
+   "Le traitement des partenaires sexuels est la mesure principale"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : prévention du trachome = amélioration des conditions de vie.",
+   "Vrai : la mouche participe à la transmission indirecte.",
+   "Vrai : l'hygiène limite la transmission par les mains et objets.",
+   "Faux : pas de vaccin disponible.",
+   "Faux : le traitement des partenaires concerne les IST, pas le trachome."
+  ]
+ },
+ {
+  "q": "Un enfant vivant en zone d'endémie présente une conjonctivite chronique bilatérale avec photophobie. Quelles propositions sont exactes ?",
+  "options": [
+   "Un trachome à C. trachomatis (sérovars A-C) est évoqué",
+   "Le grattage de la conjonctive supérieure est le prélèvement indiqué",
+   "L'évolution peut se faire vers la cécité par trachome cicatriciel",
+   "Il s'agit d'une IST à sérovars D-K",
+   "La transmission s'est faite par contact sexuel"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : tableau évocateur de trachome en zone d'endémie.",
+   "Vrai : grattage de la conjonctive supérieure.",
+   "Vrai : le trachome cicatriciel est une cause majeure de cécité.",
+   "Faux : les IST sont dues aux sérovars D-K chez l'adulte.",
+   "Faux : transmission indirecte (mouches, mains, objets)."
+  ]
+ },
+ {
+  "q": "Concernant la physiopathologie du trachome, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les kératoconjonctivites multiples entraînent des lésions cicatricielles",
+   "Les surinfections bactériennes aggravent l'évolution",
+   "Le trachome cicatriciel est responsable de cécité",
+   "L'infection est toujours aiguë et spontanément résolutive",
+   "Les sérovars A-C ont un tropisme oculaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : kératoconjonctivites à répétition.",
+   "Vrai : surinfections favorisant la cicatrisation.",
+   "Vrai : cause majeure de cécité.",
+   "Faux : l'infection est chronique et récidivante.",
+   "Vrai : A-C = trachome oculaire."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic du trachome, quelles propositions sont exactes ?",
+  "options": [
+   "Le diagnostic direct repose sur le grattage conjonctival supérieur",
+   "La détection du génome par amplification est adaptée",
+   "La culture cellulaire est possible en laboratoire spécialisé",
+   "L'hémoculture est l'examen de référence",
+   "La sérologie est l'examen de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : grattage de la conjonctive supérieure.",
+   "Vrai : l'amplification génique est adaptée en toute situation clinique.",
+   "Vrai : la culture cellulaire reste possible (technique de référence).",
+   "Faux : l'hémoculture n'a pas de place.",
+   "Faux : le diagnostic est direct ; la sérologie n'est pas de première intention."
+  ]
+ },
+ {
+  "q": "Concernant les différences trachome / conjonctivite néonatale à Chlamydia, lesquelles sont exactes ?",
+  "options": [
+   "Le trachome est dû aux sérovars A-C, la conjonctivite néonatale aux sérovars D-K",
+   "Le trachome se transmet par voie indirecte, la conjonctivite néonatale lors de l'accouchement",
+   "Le prélèvement du trachome est le grattage supérieur, celui de la conjonctivite néonatale le grattage inférieur",
+   "Les deux sont dus aux sérovars A-C",
+   "Les deux se transmettent par contact sexuel"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : A-C vs D-K.",
+   "Vrai : indirecte (mouches, mains, objets) vs périnatale.",
+   "Vrai : conjonctive supérieure vs conjonctive inférieure.",
+   "Faux : la conjonctivite néonatale est due aux sérovars D-K.",
+   "Faux : aucun des deux ne se transmet par contact sexuel chez l'enfant."
+  ]
+ },
+ {
+  "q": "À propos du trachome cicatriciel, quelles propositions sont exactes ?",
+  "options": [
+   "Il fait suite aux kératoconjonctivites multiples et surinfections",
+   "Il est une cause majeure de cécité",
+   "Il est dû aux sérovars A, B, Ba, C",
+   "Il est dû aux sérovars L1-L3",
+   "Il guérit spontanément sans séquelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : évolution cicatricielle après infections répétées.",
+   "Vrai : cause majeure de cécité.",
+   "Vrai : sérovars A-C.",
+   "Faux : L1-L3 = LGV.",
+   "Faux : il laisse des séquelles cicatricielles cécitantes."
+  ]
+ },
+ {
+  "q": "Concernant la répartition géographique du trachome, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il sévit en Asie",
+   "Il sévit en Afrique",
+   "Il touche plus de 500 millions de personnes",
+   "Il est éradiqué dans le monde",
+   "Il sévit uniquement en Europe"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : endémie asiatique.",
+   "Vrai : endémie africaine.",
+   "Vrai : plus de 500 millions de cas.",
+   "Faux : le trachome reste un problème majeur de santé publique.",
+   "Faux : il sévit en Asie et en Afrique."
+  ]
+ },
+ {
+  "q": "À propos des sérovars du trachome, quelles propositions sont exactes ?",
+  "options": [
+   "Les sérovars A, B, Ba et C sont en cause",
+   "Ils appartiennent au biovar trachoma",
+   "Le sérovar E est un sérovar de trachome",
+   "Les sérovars L sont des sérovars de trachome",
+   "Le sérovar Ba est un sérovar de trachome"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : A, B, Ba, C.",
+   "Vrai : biovar trachoma.",
+   "Faux : E est un sérovar d'IST.",
+   "Faux : L1-L3 = LGV.",
+   "Vrai : Ba fait partie des sérovars du trachome."
+  ]
+ },
+ {
+  "q": "Concernant le traitement du trachome, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les tétracyclines sont actives",
+   "Les macrolides sont actifs",
+   "Le traitement utilise des antibiotiques à pénétration cellulaire",
+   "Les aminosides sont le traitement de choix",
+   "La chirurgie des paupières peut être nécessaire au stade cicatriciel"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les tétracyclines font partie du traitement curatif des Chlamydiae.",
+   "Vrai : les macrolides sont actifs.",
+   "Vrai : antibiotiques à pénétration cellulaire.",
+   "Faux : résistance naturelle aux aminosides.",
+   "Faux : non mentionné au programme ; le traitement médical repose sur les antibiotiques actifs."
+  ]
+ },
+ {
+  "q": "Un programme de lutte contre le trachome en zone rurale africaine comprend : hygiène du visage, lutte contre les mouches, amélioration de l'habitat. Quelles propositions sont exactes ?",
+  "options": [
+   "Ces mesures ciblent la transmission indirecte",
+   "L'amélioration des conditions de vie est la prévention recommandée",
+   "La lutte contre les mouches interrompt un mode de transmission",
+   "La vaccination est la mesure prioritaire",
+   "Le dépistage des IST est la mesure prioritaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : mouches, mains, objets = transmission indirecte.",
+   "Vrai : prévention du trachome = amélioration des conditions de vie.",
+   "Vrai : la mouche est un vecteur mécanique de la transmission.",
+   "Faux : pas de vaccin.",
+   "Faux : le trachome n'est pas une IST."
+  ]
+ },
+ {
+  "q": "Concernant le trachome et les autres chlamydioses oculaires, lesquelles sont exactes ?",
+  "options": [
+   "Le trachome touche la conjonctive supérieure en priorité pour le prélèvement",
+   "La conjonctivite à Chlamydia du nouveau-né se prélève sur la conjonctive inférieure",
+   "Les deux relèvent d'un diagnostic direct",
+   "Le trachome est une infection génitale",
+   "La conjonctivite du syndrome de Reiter est un trachome"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : grattage de la conjonctive supérieure.",
+   "Vrai : grattage de la conjonctive inférieure après élimination des exsudats.",
+   "Vrai : diagnostic direct dans les deux cas.",
+   "Faux : le trachome est une atteinte oculaire.",
+   "Faux : la conjonctivite du Reiter s'intègre à la triade post-IST, ce n'est pas un trachome."
+  ]
+ },
+ {
+  "q": "À propos de la cécité liée au trachome, quelles propositions sont exactes ?",
+  "options": [
+   "Le trachome est une cause majeure de cécité",
+   "La cécité fait suite au trachome cicatriciel",
+   "Les surinfections favorisent l'évolution cicatricielle",
+   "La cécité est due aux sérovars D-K",
+   "Le trachome est la première cause de cécité dans les pays endémiques par infection bactérienne chronique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : cause majeure de cécité.",
+   "Vrai : évolution vers le trachome cicatriciel.",
+   "Vrai : kératoconjonctivites multiples et surinfections.",
+   "Faux : le trachome est dû aux sérovars A-C.",
+   "Faux : formulation non retenue au programme ; on retient 'cause majeure de cécité'."
+  ]
+ },
+ {
+  "q": "Concernant les modes de transmission du trachome, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les mouches",
+   "Les mains souillées",
+   "Les objets contaminés",
+   "Le contact sexuel",
+   "Les poussières infectantes d'oiseaux"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : transmission indirecte par les mouches.",
+   "Vrai : par les mains.",
+   "Vrai : par les objets.",
+   "Faux : le trachome n'est pas une IST.",
+   "Faux : les poussières d'oiseaux concernent C. psittaci."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic différentiel d'une conjonctivite chronique en zone d'endémie, quelles propositions sont exactes ?",
+  "options": [
+   "Le trachome à C. trachomatis A-C est à évoquer",
+   "Le grattage conjonctival supérieur oriente le diagnostic",
+   "La détection du génome par amplification confirme le diagnostic",
+   "Une conjonctivite allergique est la seule hypothèse",
+   "Le diagnostic repose sur l'hémoculture"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : hypothèse principale en zone d'endémie.",
+   "Vrai : prélèvement de référence du trachome.",
+   "Vrai : l'amplification génique est adaptée.",
+   "Faux : l'allergie n'exclut pas le trachome et n'est pas la seule hypothèse.",
+   "Faux : pas d'hémoculture pour les Chlamydiae."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution naturelle du trachome non traité, lesquelles sont exactes ?",
+  "options": [
+   "Kératoconjonctivites multiples",
+   "Surinfections bactériennes",
+   "Trachome cicatriciel",
+   "Cécité possible",
+   "Guérison spontanée sans séquelle dans tous les cas"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infections oculaires à répétition.",
+   "Vrai : surinfections aggravantes.",
+   "Vrai : évolution cicatricielle.",
+   "Vrai : cause majeure de cécité.",
+   "Faux : l'évolution se fait vers la cicatrisation et la cécité."
+  ]
+ },
+ {
+  "q": "Concernant la lymphogranulomatose vénérienne (LGV), lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est due aux sérovars L1, L2, L2a et L3 de C. trachomatis",
+   "C'est une IST",
+   "La transmission est sexuelle",
+   "Elle est due aux sérovars D à K",
+   "Elle est due à C. psittaci"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sérovars L1, L2, L2a, L3.",
+   "Vrai : la LGV est une IST.",
+   "Vrai : transmission par contact sexuel.",
+   "Faux : D-K = IST communes.",
+   "Faux : C. psittaci = psittacose respiratoire."
+  ]
+ },
+ {
+  "q": "À propos du chancre de la LGV, quelles propositions sont exactes ?",
+  "options": [
+   "Il apparaît 1 à 3 semaines après le contage",
+   "Il est de petite taille",
+   "Il est indolore",
+   "Il est génital ou anal",
+   "Il persiste plusieurs mois sans traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 1 à 3 semaines après le contage.",
+   "Vrai : petit chancre.",
+   "Vrai : indolore.",
+   "Vrai : localisation génitale ou anale.",
+   "Faux : le chancre est spontanément résolutif."
+  ]
+ },
+ {
+  "q": "Concernant l'adénite de la LGV, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle succède au chancre",
+   "Elle fistulise en 'pomme d'arrosoir'",
+   "Elle peut s'accompagner de rectite",
+   "Elle est toujours unilatérale et douloureuse sans fistulisation",
+   "Le prélèvement est la ponction du ganglion infecté non fistulisé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : phase secondaire après le chancre.",
+   "Vrai : fistulisation caractéristique en pomme d'arrosoir.",
+   "Vrai : rectite associée possible.",
+   "Faux : la fistulisation en pomme d'arrosoir est caractéristique.",
+   "Vrai : ponction du ganglion infecté non fistulisé, sinon prélèvement de pus."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic de la LGV, quelles propositions sont exactes ?",
+  "options": [
+   "La ponction ganglionnaire est le prélèvement de choix si le ganglion n'est pas fistulisé",
+   "Le pus peut être prélevé en cas de fistulisation",
+   "La réaction de fixation du complément a un intérêt limité à la LGV et à l'ornithose",
+   "L'hémoculture est l'examen de référence",
+   "La sérologie n'a aucun intérêt"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ponction du ganglion infecté non fistulisé.",
+   "Vrai : sinon, prélèvement de pus.",
+   "Vrai : la fixation du complément est limitée à la LGV et à l'ornithose.",
+   "Faux : pas d'hémoculture pour les Chlamydiae.",
+   "Faux : la sérologie garde un intérêt dans les infections profondes comme la LGV."
+  ]
+ },
+ {
+  "q": "Un patient présente un petit chancre anal indolore spontanément résolutif suivi d'adénopathies inguinales fistulisées. Quelles propositions sont exactes ?",
+  "options": [
+   "Une LGV à C. trachomatis est évoquée",
+   "Les sérovars L1-L3 sont en cause",
+   "La fistulisation en pomme d'arrosoir est caractéristique",
+   "Il s'agit d'un chancre syphilitique",
+   "La ponction ganglionnaire est indiquée si le ganglion n'est pas fistulisé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : tableau typique de LGV.",
+   "Vrai : sérovars L1, L2, L2a, L3.",
+   "Vrai : aspect en pomme d'arrosoir.",
+   "Faux : le chancre syphilitique est dur et s'accompagne d'adénopathies non fistulisées ; ici le contexte est la LGV.",
+   "Vrai : ponction du ganglion non fistulisé."
+  ]
+ },
+ {
+  "q": "Concernant les sérovars de la LGV, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L1, L2, L2a et L3",
+   "Ils appartiennent au biovar LGV (lymphogranulomatosis venereum)",
+   "Ils sont au nombre de 4",
+   "Les sérovars D à K",
+   "Le sérovar E"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : L1, L2, L2a, L3.",
+   "Vrai : biovar lymphogranulomatosis venereum.",
+   "Vrai : 4 sérovars pour le biovar LGV.",
+   "Faux : D-K = IST communes.",
+   "Faux : E = IST commune dominante."
+  ]
+ },
+ {
+  "q": "À propos de la rectite de la LGV, quelles propositions sont exactes ?",
+  "options": [
+   "Elle peut accompagner l'adénite",
+   "Elle est liée aux sérovars L1-L3",
+   "Le chancre peut être de localisation anale",
+   "Elle est due aux sérovars A-C",
+   "Elle est une manifestation de C. pneumoniae"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : rectite associée à l'adénite.",
+   "Vrai : sérovars L1-L3.",
+   "Vrai : chancre génital ou anal.",
+   "Faux : A-C = trachome.",
+   "Faux : C. pneumoniae = infections respiratoires."
+  ]
+ },
+ {
+  "q": "Concernant le traitement de la LGV, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les tétracyclines sont actives",
+   "Les macrolides sont actifs",
+   "Le traitement utilise des antibiotiques à pénétration cellulaire",
+   "La pénicilline G est le traitement de choix",
+   "La résistance acquise est exceptionnelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : tétracyclines curatives.",
+   "Vrai : macrolides actifs.",
+   "Vrai : antibiotiques à pénétration cellulaire.",
+   "Faux : la pénicilline G n'est pas active sur les Chlamydiae (résistance naturelle liée à l'absence de peptidoglycane).",
+   "Vrai : résistance acquise exceptionnelle."
+  ]
+ },
+ {
+  "q": "À propos de la LGV et des autres IST à C. trachomatis, quelles différences sont exactes ?",
+  "options": [
+   "La LGV est due aux sérovars L1-L3, les IST communes aux sérovars D-K",
+   "La LGV donne un chancre puis une adénite fistulisée, les IST communes une urétrite/cervicite",
+   "La LGV est une infection invasive ganglionnaire",
+   "Les deux sont dues aux mêmes sérovars",
+   "Les deux se traitent par les mêmes familles d'antibiotiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : L1-L3 vs D-K.",
+   "Vrai : tableaux cliniques distincts.",
+   "Vrai : atteinte ganglionnaire invasive.",
+   "Faux : sérovars différents.",
+   "Vrai : tétracyclines, macrolides ou fluoroquinolones dans les deux cas."
+  ]
+ },
+ {
+  "q": "Concernant l'incubation et l'évolution de la LGV, lesquelles sont exactes ?",
+  "options": [
+   "Le chancre apparaît 1 à 3 semaines après le contage",
+   "Le chancre est spontanément résolutif",
+   "L'adénite succède au chancre",
+   "L'incubation est de 2 jours à 2 mois comme les IST communes",
+   "L'évolution se fait toujours vers la guérison spontanée sans traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : 1 à 3 semaines.",
+   "Vrai : chancre spontanément résolutif.",
+   "Vrai : phase ganglionnaire secondaire.",
+   "Faux : 2 jours à 2 mois est l'incubation des IST à sérovars D-K.",
+   "Faux : l'adénite fistulisée nécessite un traitement."
+  ]
+ },
+ {
+  "q": "Un patient revient d'un voyage avec un chancre génital indolore guéri spontanément et des adénopathies inguinales. Quelles propositions sont exactes ?",
+  "options": [
+   "La LGV est l'hypothèse principale",
+   "Les sérovars L1, L2, L2a, L3 sont recherchés",
+   "La sérologie (fixation du complément) peut aider au diagnostic",
+   "Il s'agit d'une urétrite à sérovars D-K",
+   "Le traitement repose sur tétracyclines ou macrolides"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : séquence chancre résolutif puis adénite = LGV.",
+   "Vrai : sérovars L1-L3.",
+   "Vrai : la fixation du complément est limitée à la LGV et à l'ornithose.",
+   "Faux : l'urétrite à D-K ne donne pas ce tableau ganglionnaire.",
+   "Vrai : antibiotiques à pénétration cellulaire."
+  ]
+ },
+ {
+  "q": "Concernant la LGV : propositions fausses à identifier.",
+  "options": [
+   "Elle est due aux sérovars D à K",
+   "Le chancre est douloureux et persistant",
+   "L'adénite ne fistulise jamais",
+   "Elle se transmet par les mouches",
+   "Elle est due aux sérovars L1-L3 de C. trachomatis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la LGV est due aux sérovars L1-L3.",
+   "Faux : le chancre est indolore et spontanément résolutif.",
+   "Faux : la fistulisation en pomme d'arrosoir est caractéristique.",
+   "Faux : transmission sexuelle, pas par les mouches (mouches = trachome).",
+   "Vrai : proposition exacte, non retenue."
+  ]
+ },
+ {
+  "q": "Concernant C. pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est une espèce du genre Chlamydophila",
+   "Son hôte est l'homme",
+   "La transmission est aérienne",
+   "Elle possède de nombreux sérovars",
+   "C'est une espèce du genre Chlamydia"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : Chlamydophila pneumoniae.",
+   "Vrai : l'homme est l'hôte.",
+   "Vrai : transmission par voie aérienne.",
+   "Faux : un seul sérovar décrit.",
+   "Faux : elle appartient au genre Chlamydophila."
+  ]
+ },
+ {
+  "q": "À propos des infections à C. pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "L'incubation est de plusieurs semaines",
+   "La pharyngite",
+   "La sinusite",
+   "La bronchite",
+   "La méningite purulente à pneumocoque"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : incubation de plusieurs semaines.",
+   "Vrai : pharyngite citée.",
+   "Vrai : sinusite citée.",
+   "Vrai : bronchite citée.",
+   "Faux : la méningite purulente à pneumocoque n'est pas une manifestation de C. pneumoniae."
+  ]
+ },
+ {
+  "q": "Concernant la pneumonie à C. pneumoniae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle fait partie des infections broncho-pulmonaires",
+   "Elle peut être grave chez l'immunodéprimé",
+   "Les Chlamydiae sont responsables de plus de 10 % des pneumonies communautaires",
+   "Le diagnostic de certitude repose sur la sérologie",
+   "L'hémoculture est l'examen de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pneumonie citée parmi les infections broncho-pulmonaires.",
+   "Vrai : formes graves chez l'immunodéprimé.",
+   "Vrai : plus de 10 % des pneumonies communautaires.",
+   "Vrai : le diagnostic de certitude repose sur la sérologie (MIF).",
+   "Faux : l'hémoculture n'a pas de place dans le diagnostic des Chlamydiae."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic sérologique de C. pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "La micro-immunofluorescence (MIF) est la méthode de référence",
+   "Le seuil diagnostique est de 1/512",
+   "La séroprévalence est très élevée",
+   "Le seuil diagnostique est de 1/64",
+   "Le seuil diagnostique est de 1/256"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la MIF est la méthode de référence.",
+   "Vrai : seuil de 1/512.",
+   "Vrai : séroprévalence très élevée dans la population.",
+   "Faux : 1/64 est le seuil des IgG pour C. trachomatis.",
+   "Faux : 1/256 est le seuil pour C. psittaci."
+  ]
+ },
+ {
+  "q": "Concernant les manifestations extra-respiratoires évoquées pour C. pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "La maladie coronarienne (lien probable)",
+   "L'asthme",
+   "L'encéphalite",
+   "La rectite",
+   "Le trachome"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : lien probable avec la maladie coronarienne.",
+   "Vrai : asthme cité.",
+   "Vrai : encéphalite citée dans le pouvoir pathogène.",
+   "Faux : la rectite est une manifestation de la LGV.",
+   "Faux : le trachome est dû aux sérovars A-C de C. trachomatis."
+  ]
+ },
+ {
+  "q": "À propos du prélèvement pour une infection respiratoire à C. pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "Le prélèvement pharyngé",
+   "L'aspiration endotrachéale",
+   "Le crachat est le prélèvement de choix",
+   "Le prélèvement doit contenir des cellules",
+   "L'écouvillonnage urétral"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : prélèvement pharyngé cité.",
+   "Vrai : aspiration endotrachéale citée.",
+   "Faux : le crachat est cité comme possible pour C. psittaci, pas comme choix pour C. pneumoniae.",
+   "Vrai : le prélèvement doit ramener les cellules infectées.",
+   "Faux : l'écouvillonnage urétral concerne les IST."
+  ]
+ },
+ {
+  "q": "Concernant la culture de C. pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est moins sensible que pour C. trachomatis",
+   "Elle n'est pas utilisée en routine",
+   "La PCR 'maison' est développée pour C. pneumoniae",
+   "C'est la technique de référence avec 100 % de spécificité",
+   "Elle est réalisée sur gélose au sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : moins sensible, non utilisée en routine.",
+   "Vrai : non utilisée en routine.",
+   "Vrai : PCR 'maison' pour C. pneumoniae (et C. psittaci).",
+   "Faux : c'est la culture de C. trachomatis qui est la technique de référence.",
+   "Faux : la culture est cellulaire, pas sur gélose."
+  ]
+ },
+ {
+  "q": "Un adulte présente une pharyngite traînante suivie d'une toux sèche et d'une pneumopathie atypique. Quelles propositions sont exactes ?",
+  "options": [
+   "Une infection à C. pneumoniae est évoquée",
+   "L'incubation de plusieurs semaines est compatible",
+   "Le diagnostic de certitude repose sur la sérologie (MIF)",
+   "Il s'agit certainement d'une pneumonie à pneumocoque",
+   "Un traitement par macrolides ou tétracyclines est indiqué"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : tableau broncho-pulmonaire évocateur.",
+   "Vrai : incubation de plusieurs semaines.",
+   "Vrai : MIF, seuil 1/512.",
+   "Faux : la pneumonie à pneumocoque est typiquement franche et brutale, différente de ce tableau atypique.",
+   "Vrai : antibiotiques à pénétration cellulaire."
+  ]
+ },
+ {
+  "q": "Concernant C. pneumoniae et C. trachomatis respiratoire, lesquelles sont exactes ?",
+  "options": [
+   "C. pneumoniae est responsable d'infections respiratoires de l'adulte",
+   "C. trachomatis (D-K) est responsable de pneumonie du nouveau-né",
+   "Le diagnostic de C. pneumoniae repose sur la sérologie",
+   "Les deux se transmettent par voie sexuelle",
+   "Les deux appartiennent au même genre"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : infections broncho-pulmonaires à C. pneumoniae.",
+   "Vrai : pneumonie néonatale à C. trachomatis D-K.",
+   "Vrai : MIF méthode de référence pour C. pneumoniae.",
+   "Faux : C. pneumoniae se transmet par voie aérienne.",
+   "Faux : Chlamydia vs Chlamydophila."
+  ]
+ },
+ {
+  "q": "À propos de la séroprévalence de C. pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "La séroprévalence est très élevée",
+   "Un titre isolé modéré doit être interprété avec prudence",
+   "Le seuil diagnostique en MIF est de 1/512",
+   "Deux prélèvements à 15 jours d'intervalle sont recommandés",
+   "Un titre de 1/64 signe une infection évolutive certaine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : séroprévalence très élevée.",
+   "Vrai : la séroprévalence élevée complique l'interprétation d'un titre isolé.",
+   "Vrai : seuil 1/512.",
+   "Vrai : deux prélèvements à 15 jours pour la séroconversion.",
+   "Faux : 1/64 est le seuil des IgG pour C. trachomatis, pas pour C. pneumoniae."
+  ]
+ },
+ {
+  "q": "Concernant les formes graves à C. pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "Elles surviennent chez l'immunodéprimé",
+   "La pneumonie peut être grave",
+   "L'encéphalite est citée",
+   "Elles surviennent uniquement chez le nouveau-né",
+   "Le traitement repose sur les aminosides"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : formes graves chez l'immunodéprimé.",
+   "Vrai : pneumonie grave possible.",
+   "Vrai : encéphalite dans le pouvoir pathogène.",
+   "Faux : les formes graves concernent l'immunodéprimé, pas spécifiquement le nouveau-né.",
+   "Faux : résistance naturelle aux aminosides."
+  ]
+ },
+ {
+  "q": "À propos de l'épidémiologie de C. pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "L'homme est le réservoir",
+   "La transmission est interhumaine par voie aérienne",
+   "Un seul sérovar est décrit",
+   "Le réservoir est aviaire",
+   "La transmission se fait par les mouches"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'homme est l'hôte.",
+   "Vrai : voie aérienne.",
+   "Vrai : un seul sérovar.",
+   "Faux : le réservoir aviaire concerne C. psittaci.",
+   "Faux : les mouches concernent le trachome."
+  ]
+ },
+ {
+  "q": "Concernant le traitement des infections à C. pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "Les tétracyclines sont actives",
+   "Les macrolides sont actifs",
+   "Les fluoroquinolones sont citées",
+   "La vancomycine est le traitement de choix",
+   "Le métronidazole est actif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : traitement curatif des Chlamydiae.",
+   "Vrai : macrolides actifs.",
+   "Vrai : fluoroquinolones citées.",
+   "Faux : résistance naturelle à la vancomycine.",
+   "Faux : résistance naturelle au métronidazole."
+  ]
+ },
+ {
+  "q": "Un patient immunodéprimé développe une pneumopathie atypique sévère. Quelles propositions sont exactes ?",
+  "options": [
+   "C. pneumoniae est un agent à évoquer",
+   "Le diagnostic de certitude repose sur la sérologie MIF",
+   "La culture n'est pas utilisée en routine",
+   "La PCR 'maison' peut aider au diagnostic",
+   "L'hémoculture est l'examen de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : formes graves chez l'immunodéprimé.",
+   "Vrai : MIF méthode de référence.",
+   "Vrai : culture moins sensible, non utilisée en routine.",
+   "Vrai : PCR 'maison' pour C. pneumoniae.",
+   "Faux : pas d'hémoculture pour les Chlamydiae."
+  ]
+ },
+ {
+  "q": "Concernant les diagnostics différentiels d'une pneumopathie atypique, lesquelles sont exactes ?",
+  "options": [
+   "C. pneumoniae : sérologie MIF, seuil 1/512",
+   "C. psittaci : contexte d'exposition aux oiseaux, seuil 1/256",
+   "Mycoplasma pneumoniae : autre agent de pneumopathie atypique",
+   "Les trois se diagnostiquent par hémoculture",
+   "C. pneumoniae et C. psittaci appartiennent au genre Chlamydophila"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : MIF 1/512 pour C. pneumoniae.",
+   "Vrai : psittacose = exposition aviaire, seuil 1/256.",
+   "Vrai : Mycoplasma pneumoniae est l'autre grand agent de pneumopathie atypique.",
+   "Faux : aucun ne se diagnostique par hémoculture.",
+   "Vrai : les deux appartiennent au genre Chlamydophila."
+  ]
+ },
+ {
+  "q": "À propos de la bronchite à C. pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "Elle fait partie des infections broncho-pulmonaires",
+   "L'incubation est de plusieurs semaines",
+   "Le diagnostic de certitude est sérologique",
+   "Elle est due aux sérovars D-K",
+   "Elle se transmet par contact sexuel"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : bronchite citée.",
+   "Vrai : incubation de plusieurs semaines.",
+   "Vrai : MIF méthode de référence.",
+   "Faux : D-K = IST à C. trachomatis.",
+   "Faux : transmission aérienne."
+  ]
+ },
+ {
+  "q": "Concernant la sinusite et la pharyngite à C. pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "Elles font partie du spectre clinique",
+   "Elles précèdent parfois la pneumonie",
+   "Le prélèvement pharyngé est adapté",
+   "Elles sont dues à C. trachomatis",
+   "Le traitement de première intention est l'amoxicilline"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : pharyngite et sinusite citées.",
+   "Vrai : l'atteinte peut diffuser vers le bas appareil respiratoire.",
+   "Vrai : prélèvement pharyngé cité.",
+   "Faux : C. trachomatis n'est pas responsable de ce tableau chez l'adulte.",
+   "Faux : les bêta-lactamines ne sont pas actives (absence de peptidoglycane) ; traitement par tétracyclines/macrolides."
+  ]
+ },
+ {
+  "q": "Un étudiant présente une toux persistante après une pharyngite ; la sérologie MIF montre des IgG à 1/1024 contre C. pneumoniae. Quelles propositions sont exactes ?",
+  "options": [
+   "Le titre dépasse le seuil diagnostique de 1/512",
+   "Une infection à C. pneumoniae est évoquée",
+   "La séroprévalence élevée impose la prudence d'interprétation",
+   "Un second prélèvement à 15 jours est utile",
+   "Le titre de 1/1024 exclut le diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 1/1024 > seuil 1/512.",
+   "Vrai : tableau compatible.",
+   "Vrai : séroprévalence très élevée, interprétation prudente.",
+   "Vrai : deux prélèvements à 15 jours recommandés.",
+   "Faux : 1/1024 dépasse le seuil, il conforte le diagnostic."
+  ]
+ },
+ {
+  "q": "Concernant C. pneumoniae : identifier les propositions fausses.",
+  "options": [
+   "Elle appartient au genre Chlamydia",
+   "Elle possède de nombreux sérovars",
+   "Son réservoir est aviaire",
+   "Elle se transmet par contact sexuel",
+   "Son incubation est de plusieurs semaines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : elle appartient au genre Chlamydophila.",
+   "Faux : un seul sérovar décrit.",
+   "Faux : l'hôte est l'homme (réservoir aviaire = C. psittaci).",
+   "Faux : transmission aérienne.",
+   "Vrai : incubation de plusieurs semaines — proposition exacte, non retenue."
+  ]
+ },
+ {
+  "q": "Concernant C. psittaci, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est une espèce du genre Chlamydophila",
+   "Elle possède de nombreux sérovars",
+   "Ses hôtes sont les oiseaux, les mammifères et l'homme",
+   "Elle possède un seul sérovar",
+   "C'est une espèce du genre Chlamydia"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : Chlamydophila psittaci.",
+   "Vrai : nombreux sérovars.",
+   "Vrai : oiseaux, mammifères, homme.",
+   "Faux : nombreux sérovars (un seul sérovar = C. pneumoniae).",
+   "Faux : genre Chlamydophila."
+  ]
+ },
+ {
+  "q": "À propos de la transmission de C. psittaci, quelles propositions sont exactes ?",
+  "options": [
+   "Le contact avec les oiseaux",
+   "Les poussières infectantes",
+   "La voie aérienne",
+   "Le contact sexuel",
+   "Les mouches"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : contact avec les oiseaux.",
+   "Vrai : poussières infectantes.",
+   "Vrai : transmission respiratoire.",
+   "Faux : le contact sexuel concerne C. trachomatis.",
+   "Faux : les mouches concernent le trachome."
+  ]
+ },
+ {
+  "q": "Concernant l'ornithose-psittacose, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'incubation est de 1 à 2 semaines",
+   "Le début est brutal",
+   "Le tableau initial est un syndrome pseudo-grippal",
+   "L'évolution se fait vers une pneumopathie atypique",
+   "L'incubation est de plusieurs semaines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 1-2 semaines d'incubation.",
+   "Vrai : début brutal.",
+   "Vrai : syndrome pseudo-grippal initial.",
+   "Vrai : évolution vers une pneumopathie atypique.",
+   "Faux : plusieurs semaines = incubation de C. pneumoniae."
+  ]
+ },
+ {
+  "q": "À propos des complications de la psittacose, quelles propositions sont exactes ?",
+  "options": [
+   "Les manifestations neurologiques",
+   "Les manifestations cardiaques",
+   "Les manifestations hépatiques",
+   "Les manifestations rénales et hématologiques",
+   "La rectite"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : complications neurologiques citées.",
+   "Vrai : complications cardiaques citées.",
+   "Vrai : complications hépatiques citées.",
+   "Vrai : complications rénales et hématologiques citées.",
+   "Faux : la rectite est une manifestation de la LGV."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic de la psittacose, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le crachat est un prélèvement possible",
+   "La culture est rarement réalisée",
+   "La PCR 'maison' est développée",
+   "La réaction de fixation du complément est limitée à la LGV et à l'ornithose",
+   "Le seuil sérologique est de 1/512"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le crachat est possible pour C. psittaci.",
+   "Vrai : culture rarement réalisée.",
+   "Vrai : PCR 'maison' pour C. psittaci.",
+   "Vrai : fixation du complément limitée LGV/ornithose.",
+   "Faux : 1/512 = seuil de C. pneumoniae ; pour C. psittaci le seuil est 1/256."
+  ]
+ },
+ {
+  "q": "À propos du seuil sérologique de C. psittaci, quelles propositions sont exactes ?",
+  "options": [
+   "Le seuil est de 1/256",
+   "Deux prélèvements à 15 jours sont recommandés",
+   "Les antigènes des trois espèces sont utilisés",
+   "Le seuil est de 1/64",
+   "Le seuil est de 1/512"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : seuil 1/256.",
+   "Vrai : deux prélèvements à 15 jours d'intervalle.",
+   "Vrai : utilisation des antigènes des trois espèces (réactions croisées).",
+   "Faux : 1/64 = seuil IgG C. trachomatis.",
+   "Faux : 1/512 = seuil C. pneumoniae."
+  ]
+ },
+ {
+  "q": "Un éleveur de perruches présente fièvre brutale, myalgies puis toux sèche avec pneumopathie atypique. Quelles propositions sont exactes ?",
+  "options": [
+   "Une psittacose à C. psittaci est évoquée",
+   "L'exposition aux oiseaux est l'élément d'orientation",
+   "L'incubation de 1 à 2 semaines est compatible",
+   "Le crachat peut servir au diagnostic direct",
+   "Il s'agit d'une infection à C. trachomatis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : tableau d'ornithose-psittacose.",
+   "Vrai : contact avec les oiseaux.",
+   "Vrai : incubation 1-2 semaines.",
+   "Vrai : crachat possible pour C. psittaci.",
+   "Faux : C. trachomatis n'est pas lié à l'exposition aviaire."
+  ]
+ },
+ {
+  "q": "Concernant le pouvoir pathogène de C. psittaci, lesquelles sont exactes ?",
+  "options": [
+   "La pneumonie",
+   "L'encéphalite",
+   "Le syndrome pseudo-grippal",
+   "La pneumopathie atypique",
+   "Le trachome"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pneumonie citée.",
+   "Vrai : encéphalite citée.",
+   "Vrai : début pseudo-grippal.",
+   "Vrai : évolution vers pneumopathie atypique.",
+   "Faux : le trachome est dû à C. trachomatis A-C."
+  ]
+ },
+ {
+  "q": "À propos des hôtes de C. psittaci, quelles propositions sont exactes ?",
+  "options": [
+   "Les oiseaux (perroquets, perruches)",
+   "Les mammifères",
+   "L'homme",
+   "Uniquement l'homme",
+   "Les mouches"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les oiseaux sont le réservoir principal.",
+   "Vrai : les mammifères sont cités comme hôtes.",
+   "Vrai : l'homme est réceptif.",
+   "Faux : l'homme n'est pas l'hôte unique.",
+   "Faux : les mouches sont des vecteurs du trachome."
+  ]
+ },
+ {
+  "q": "Concernant la prévention de la psittacose, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La surveillance des oiseaux d'élevage et de compagnie",
+   "La précaution lors du nettoyage des cages (poussières)",
+   "Il n'existe pas de vaccin humain",
+   "La vaccination des oiseaux est la mesure de routine",
+   "L'isolement systématique des patients"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le contact avec les oiseaux est le mode de contamination.",
+   "Vrai : les poussières infectantes sont la source.",
+   "Vrai : aucun vaccin mentionné au programme.",
+   "Faux : non mentionné au programme.",
+   "Faux : non mentionné ; la transmission interhumaine n'est pas le mode habituel."
+  ]
+ },
+ {
+  "q": "À propos du traitement de la psittacose, quelles propositions sont exactes ?",
+  "options": [
+   "Les tétracyclines sont actives",
+   "Les macrolides sont actifs",
+   "Le traitement utilise des antibiotiques à pénétration cellulaire",
+   "Les aminosides sont le traitement de choix",
+   "La colimycine est active"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : traitement curatif des Chlamydiae.",
+   "Vrai : macrolides actifs.",
+   "Vrai : antibiotiques à pénétration cellulaire.",
+   "Faux : résistance naturelle aux aminosides.",
+   "Faux : résistance naturelle à la colimycine."
+  ]
+ },
+ {
+  "q": "Concernant les différences entre psittacose et infection à C. pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "La psittacose est liée à une exposition aviaire, pas l'infection à C. pneumoniae",
+   "Le début de la psittacose est brutal après 1-2 semaines",
+   "L'incubation de C. pneumoniae est de plusieurs semaines",
+   "Le seuil sérologique est de 1/256 pour C. psittaci et 1/512 pour C. pneumoniae",
+   "Les deux se transmettent par contact sexuel"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : exposition aux oiseaux = psittacose.",
+   "Vrai : début brutal, incubation 1-2 semaines.",
+   "Vrai : plusieurs semaines pour C. pneumoniae.",
+   "Vrai : seuils respectifs 1/256 et 1/512.",
+   "Faux : transmission aérienne pour les deux."
+  ]
+ },
+ {
+  "q": "Un patient présente une pneumopathie atypique avec confusion et cytolyse hépatique après l'achat d'un perroquet. Quelles propositions sont exactes ?",
+  "options": [
+   "La psittacose est l'hypothèse principale",
+   "Les manifestations neurologiques et hépatiques sont des complications connues",
+   "La sérologie au seuil de 1/256 conforte le diagnostic",
+   "Il s'agit d'une infection à C. pneumoniae",
+   "La fixation du complément peut aider au diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : contexte aviaire + pneumopathie atypique.",
+   "Vrai : complications neurologiques, hépatiques citées.",
+   "Vrai : seuil 1/256 pour C. psittaci.",
+   "Faux : pas d'exposition aviaire typique pour C. pneumoniae et seuils différents.",
+   "Vrai : fixation du complément limitée à LGV/ornithose."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic direct de C. psittaci, lesquelles sont exactes ?",
+  "options": [
+   "Le crachat est un prélèvement possible",
+   "Le prélèvement pharyngé ou l'aspiration endotrachéale sont possibles",
+   "La culture est rarement réalisée",
+   "La culture est la technique de référence comme pour C. trachomatis",
+   "La PCR 'maison' est une option diagnostique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : crachat possible pour C. psittaci.",
+   "Vrai : prélèvements respiratoires possibles.",
+   "Vrai : culture rarement réalisée.",
+   "Faux : la culture de référence concerne C. trachomatis.",
+   "Vrai : PCR 'maison' pour C. psittaci."
+  ]
+ },
+ {
+  "q": "À propos de l'ornithose-psittacose : identifier les propositions fausses.",
+  "options": [
+   "Elle est due à C. trachomatis",
+   "Elle se transmet par contact sexuel",
+   "Son incubation est de 2 jours à 2 mois",
+   "Elle est due à C. psittaci",
+   "Le début est brutal après 1-2 semaines d'incubation"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : elle est due à C. psittaci (Chlamydophila).",
+   "Faux : transmission par contact avec les oiseaux et poussières infectantes.",
+   "Faux : 2 jours à 2 mois = incubation des IST à C. trachomatis.",
+   "Vrai : C. psittaci est bien l'agent de l'ornithose-psittacose — proposition exacte, non retenue.",
+   "Vrai : début brutal après 1 à 2 semaines d'incubation — proposition exacte, non retenue."
+  ]
+ },
+ {
+  "q": "Concernant les pneumopathies à Chlamydophila, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C. psittaci et C. pneumoniae appartiennent au genre Chlamydophila",
+   "Les deux donnent des pneumopathies atypiques",
+   "C. psittaci se transmet par les oiseaux, C. pneumoniae par voie aérienne interhumaine",
+   "Les deux se traitent par tétracyclines ou macrolides",
+   "Les deux ont le même seuil sérologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : même genre Chlamydophila.",
+   "Vrai : pneumopathies atypiques.",
+   "Vrai : modes de transmission distincts.",
+   "Vrai : même traitement curatif.",
+   "Faux : 1/256 pour C. psittaci vs 1/512 pour C. pneumoniae."
+  ]
+ },
+ {
+  "q": "Un vétérinaire présente un syndrome pseudo-grippal sévère avec toux. Quelles propositions sont exactes ?",
+  "options": [
+   "La psittacose est à évoquer en priorité",
+   "L'exposition professionnelle aux oiseaux est un facteur de risque",
+   "La sérologie avec un seuil de 1/256 est diagnostique",
+   "Il s'agit certainement d'une grippe saisonnière",
+   "Les tétracyclines sont le traitement curatif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : profession exposée.",
+   "Vrai : contact avec les oiseaux.",
+   "Vrai : seuil 1/256.",
+   "Faux : le contexte professionnel oriente vers la psittacose, à ne pas banaliser.",
+   "Vrai : antibiotiques à pénétration cellulaire."
+  ]
+ },
+ {
+  "q": "Concernant C. psittaci : identifier les propositions fausses.",
+  "options": [
+   "C'est une espèce du genre Chlamydia",
+   "Elle ne possède qu'un seul sérovar",
+   "Son hôte unique est l'homme",
+   "Elle se transmet par voie aérienne à partir des oiseaux",
+   "L'encéphalite fait partie de son pouvoir pathogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : genre Chlamydophila.",
+   "Faux : nombreux sérovars.",
+   "Faux : oiseaux, mammifères et homme.",
+   "Vrai : transmission aérienne à partir des oiseaux et poussières infectantes — proposition exacte, non retenue.",
+   "Vrai : l'encéphalite fait partie du pouvoir pathogène — proposition exacte, non retenue."
+  ]
+ },
+ {
+  "q": "Concernant la qualité du prélèvement pour le diagnostic des Chlamydiae, lesquelles sont exactes ?",
+  "options": [
+   "Le prélèvement doit ramener les cellules contenant le corps bactérien",
+   "Les écouvillons à tige en bois doivent être éliminés",
+   "Le coton, l'alginate ou le dacron peuvent être utilisés",
+   "La cytobrosse est le meilleur moyen de prélèvement",
+   "Un écouvillon à tige en bois est recommandé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prélèvement cellulaire exigé.",
+   "Vrai : éliminer les écouvillons à tige en bois.",
+   "Vrai : coton, alginate ou dacron utilisables.",
+   "Vrai : la cytobrosse est le meilleur moyen.",
+   "Faux : les tiges en bois sont à proscrire."
+  ]
+ },
+ {
+  "q": "À propos du transport des prélèvements à Chlamydia, quelles propositions sont exactes ?",
+  "options": [
+   "Le transport se fait dans des milieux spécifiques (2SP ou SPG)",
+   "La conservation de quelques heures se fait à +4 °C",
+   "Au-delà, la conservation se fait à -70 °C",
+   "Le transport se fait à température ambiante sans milieu",
+   "Le milieu de transport ordinaire pour bactériologie suffit"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : milieux spécifiques 2SP ou SPG.",
+   "Vrai : quelques heures à +4 °C.",
+   "Vrai : sinon -70 °C.",
+   "Faux : milieu de transport spécifique requis.",
+   "Faux : milieux spécifiques 2SP/SPG exigés."
+  ]
+ },
+ {
+  "q": "Concernant le traitement de l'échantillon au laboratoire, lesquelles sont exactes ?",
+  "options": [
+   "Les frottis ne doivent pas être trop épais",
+   "La fixation se fait au méthanol",
+   "Le prélèvement est déposé dans le milieu de transport pour la culture",
+   "La fixation se fait à la chaleur comme pour le Gram",
+   "Le frottis épais est recommandé"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : frottis pas trop épais.",
+   "Vrai : fixation au méthanol.",
+   "Vrai : dépôt dans le milieu de transport pour la culture.",
+   "Faux : fixation au méthanol, pas à la chaleur.",
+   "Faux : les frottis doivent être fins."
+  ]
+ },
+ {
+  "q": "À propos de la culture cellulaire des Chlamydiae, quelles propositions sont exactes ?",
+  "options": [
+   "L'inoculation se fait sur cellules",
+   "L'incubation dure 2 à 3 jours",
+   "La révélation utilise la coloration MGG ou l'iodo-iodure",
+   "L'immunofluorescence et l'ELISA sont de meilleures méthodes de révélation",
+   "La culture se fait sur gélose au sang en 24 h"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : inoculation des cellules.",
+   "Vrai : incubation 2 à 3 jours.",
+   "Vrai : révélation MGG ou iodo-iodure.",
+   "Vrai : mieux IF, ELISA.",
+   "Faux : culture cellulaire, pas sur gélose."
+  ]
+ },
+ {
+  "q": "Concernant la culture de C. trachomatis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est la technique de référence",
+   "La spécificité est de 100 %",
+   "La sensibilité est de 80 à 90 %",
+   "Le typage des souches a un intérêt épidémiologique",
+   "La sensibilité est de 98 %"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : technique de référence.",
+   "Vrai : spécificité 100 %.",
+   "Vrai : sensibilité 80-90 %.",
+   "Vrai : typage d'intérêt épidémiologique.",
+   "Faux : 98 % est la sensibilité de l'amplification génique."
+  ]
+ },
+ {
+  "q": "À propos des limites de la culture cellulaire, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est inadéquate sur urines, sperme, liquide articulaire et péritonéal",
+   "Elle est moins sensible pour C. pneumoniae et non utilisée en routine",
+   "Elle est rarement réalisée pour C. psittaci",
+   "Elle est à la portée de tous les laboratoires",
+   "Elle détecte le corps aberrant viable mais non cultivable"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : inadéquate sur urines, sperme, liquides articulaire et péritonéal.",
+   "Vrai : C. pneumoniae moins sensible, non utilisée en routine.",
+   "Vrai : C. psittaci rarement cultivé.",
+   "Faux : réservée aux laboratoires spécialisés.",
+   "Faux : le corps aberrant est non cultivable par définition."
+  ]
+ },
+ {
+  "q": "Concernant la détection des antigènes par méthode immuno-enzymatique (EIA), lesquelles sont exactes ?",
+  "options": [
+   "Elle est utilisable pour C. trachomatis dans les infections basses",
+   "Les tests sur membrane sont rapides",
+   "La sensibilité et la spécificité sont faibles",
+   "Un résultat positif doit être confirmé",
+   "C'est la méthode de référence pour C. trachomatis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : EIA pour C. trachomatis (infections basses).",
+   "Vrai : tests rapides sur membrane.",
+   "Vrai : faible sensibilité et spécificité.",
+   "Vrai : un résultat positif doit être confirmé.",
+   "Faux : la référence est la culture cellulaire."
+  ]
+ },
+ {
+  "q": "À propos de l'immunofluorescence directe (IFD), quelles propositions sont exactes ?",
+  "options": [
+   "Elle utilise des anticorps monoclonaux spécifiques d'espèce",
+   "Elle détecte les corps élémentaires extracellulaires",
+   "C'est une méthode rapide",
+   "La sensibilité est de 80 à 90 %",
+   "Elle est indépendante de la qualité du prélèvement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : anticorps monoclonaux spécifiques d'espèce.",
+   "Vrai : détection des CE extracellulaires.",
+   "Vrai : méthode rapide.",
+   "Vrai : sensibilité 80-90 %.",
+   "Faux : elle est opérateur- et prélèvement-dépendante."
+  ]
+ },
+ {
+  "q": "Concernant la correspondance formes / méthodes de détection, lesquelles sont exactes ?",
+  "options": [
+   "Corps élémentaires : immunofluorescence directe",
+   "Inclusions intracellulaires (corps réticulés) : culture + IF",
+   "Corps élémentaires : culture cellulaire",
+   "Inclusions intracellulaires : immunofluorescence directe",
+   "Corps aberrant : culture cellulaire"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : CE détectés par IF directe.",
+   "Vrai : inclusions (CR) révélées par culture + IF.",
+   "Faux : les CE sont détectés par IF directe, pas par culture.",
+   "Faux : les inclusions nécessitent la culture + IF.",
+   "Faux : le corps aberrant est non cultivable."
+  ]
+ },
+ {
+  "q": "À propos de l'hybridation ADN/ARN, quelles propositions sont exactes ?",
+  "options": [
+   "Elle n'est pas recommandée",
+   "Elle ne concerne que C. trachomatis",
+   "La sensibilité est variable de 60 à 90 %",
+   "La spécificité est bonne",
+   "C'est la méthode la plus sensible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : hybridation non recommandée.",
+   "Vrai : seulement pour C. trachomatis.",
+   "Vrai : sensibilité variable 60-90 %.",
+   "Vrai : bonne spécificité.",
+   "Faux : l'amplification génique est plus sensible."
+  ]
+ },
+ {
+  "q": "Concernant l'amplification génique pour C. trachomatis, lesquelles sont exactes ?",
+  "options": [
+   "Des trousses commercialisées existent",
+   "Elle est plus sensible que la culture, l'IF et l'EIA",
+   "Elle peut être réalisée sur l'urine",
+   "La sensibilité est de 98 % et la spécificité de 99 %",
+   "Elle est moins sensible que l'hybridation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : trousses commercialisées.",
+   "Vrai : plus sensible que culture, IF et EIA.",
+   "Vrai : réalisable sur l'urine.",
+   "Vrai : sensibilité 98 %, spécificité 99 %.",
+   "Faux : elle est plus sensible que l'hybridation."
+  ]
+ },
+ {
+  "q": "À propos de la PCR 'maison', quelles propositions sont exactes ?",
+  "options": [
+   "Elle est développée pour C. pneumoniae",
+   "Elle est développée pour C. psittaci",
+   "Elle est réalisée en laboratoire spécialisé",
+   "Elle remplace les trousses commerciales pour C. trachomatis",
+   "Elle concerne C. trachomatis en première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PCR 'maison' pour C. pneumoniae.",
+   "Vrai : PCR 'maison' pour C. psittaci.",
+   "Vrai : détection du génome en laboratoire spécialisé.",
+   "Faux : les trousses commerciales existent pour C. trachomatis.",
+   "Faux : C. trachomatis dispose de trousses commercialisées."
+  ]
+ },
+ {
+  "q": "Concernant les recommandations diagnostiques (l'essentiel), lesquelles sont exactes ?",
+  "options": [
+   "La détection du génome par biologie moléculaire avec amplification est adaptée en toute situation clinique",
+   "L'amplification est adaptée pour tout prélèvement",
+   "La culture et la sérologie conservent un intérêt dans des cas particuliers",
+   "La biologie moléculaire sans amplification n'est pas recommandée",
+   "La détection directe par méthode immunologique est recommandée en première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'amplification génique est adaptée dans toute situation clinique.",
+   "Vrai : et pour tout prélèvement.",
+   "Vrai : culture et sérologie, moins performantes, utiles dans des cas particuliers.",
+   "Vrai : biologie moléculaire sans amplification non recommandée.",
+   "Faux : la détection immunologique directe n'est pas recommandée."
+  ]
+ },
+ {
+  "q": "À propos du prélèvement urétral chez l'homme, quelles propositions sont exactes ?",
+  "options": [
+   "Le patient ne doit pas avoir uriné dans l'heure précédente",
+   "L'écouvillonnage se fait à 2-4 cm dans l'urètre",
+   "Le premier jet d'urine est utilisable",
+   "L'écouvillonnage se fait à 10 cm dans l'urètre",
+   "Le patient doit avoir uriné juste avant"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ne pas avoir uriné dans l'heure précédente.",
+   "Vrai : écouvillonner 2 à 4 cm.",
+   "Vrai : 1er jet d'urine utilisable.",
+   "Faux : 2 à 4 cm, pas 10 cm.",
+   "Faux : miction récente contre-indiquée avant le prélèvement."
+  ]
+ },
+ {
+  "q": "Concernant le prélèvement génital chez la femme, lesquelles sont exactes ?",
+  "options": [
+   "Essuyer l'exocol avant d'écouvillonner",
+   "Écouvillonner le canal endocervical",
+   "Utiliser la cytobrosse",
+   "Écouvillonner uniquement le vagin sans atteindre l'endocol",
+   "Les biopsies d'endomètre et de trompes sont possibles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : essuyer l'exocol.",
+   "Vrai : écouvillonner le canal endocervical.",
+   "Vrai : la cytobrosse est le meilleur moyen.",
+   "Faux : le prélèvement doit atteindre le canal endocervical.",
+   "Vrai : biopsies possibles."
+  ]
+ },
+ {
+  "q": "À propos des prélèvements respiratoires, quelles propositions sont exactes ?",
+  "options": [
+   "Le prélèvement pharyngé est possible",
+   "L'aspiration endotrachéale est possible",
+   "Le crachat est possible pour C. psittaci",
+   "L'hémoculture est le prélèvement de choix",
+   "Le LCR est le prélèvement de choix"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : prélèvement pharyngé cité.",
+   "Vrai : aspiration endotrachéale citée.",
+   "Vrai : crachat possible pour C. psittaci.",
+   "Faux : pas d'hémoculture pour les Chlamydiae.",
+   "Faux : le LCR n'est pas un prélèvement de diagnostic des Chlamydiae."
+  ]
+ },
+ {
+  "q": "Concernant le prélèvement ganglionnaire dans la LGV, lesquelles sont exactes ?",
+  "options": [
+   "La ponction du ganglion infecté non fistulisé est indiquée",
+   "En cas de fistulisation, le pus est prélevé",
+   "La biopsie-exérèse ganglionnaire est l'examen de première intention",
+   "L'hémoculture remplace la ponction",
+   "Le prélèvement urétral suffit au diagnostic de LGV"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : ponction du ganglion infecté non fistulisé.",
+   "Vrai : sinon prélèvement de pus.",
+   "Faux : c'est la ponction qui est indiquée.",
+   "Faux : pas d'hémoculture.",
+   "Faux : le diagnostic de LGV repose sur le prélèvement ganglionnaire."
+  ]
+ },
+ {
+  "q": "À propos des prélèvements oculaires, quelles propositions sont exactes ?",
+  "options": [
+   "Trachome : grattage de la conjonctive supérieure",
+   "Conjonctivite : grattage de la conjonctive inférieure après élimination des exsudats purulents",
+   "Les deux prélèvements doivent ramener des cellules",
+   "Trachome : grattage de la conjonctive inférieure",
+   "Conjonctivite : prélèvement du pus seul sans grattage"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : trachome = conjonctive supérieure.",
+   "Vrai : conjonctivite = conjonctive inférieure après élimination des exsudats.",
+   "Vrai : prélèvements cellulaires exigés.",
+   "Faux : la conjonctive inférieure concerne la conjonctivite.",
+   "Faux : le grattage cellulaire est nécessaire."
+  ]
+ },
+ {
+  "q": "Concernant les performances comparées des méthodes directes pour C. trachomatis, lesquelles sont exactes ?",
+  "options": [
+   "Amplification génique > culture en sensibilité",
+   "Amplification génique > IF directe en sensibilité",
+   "Amplification génique > EIA en sensibilité",
+   "Culture : spécificité 100 %",
+   "EIA : meilleure sensibilité que l'amplification"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'amplification est plus sensible que la culture.",
+   "Vrai : plus sensible que l'IF.",
+   "Vrai : plus sensible que l'EIA.",
+   "Vrai : spécificité de la culture 100 %.",
+   "Faux : l'EIA a une faible sensibilité."
+  ]
+ },
+ {
+  "q": "À propos de la détection des antigènes, quelles différences IFD / EIA sont exactes ?",
+  "options": [
+   "L'IFD utilise des anticorps monoclonaux spécifiques d'espèce",
+   "L'IFD détecte les corps élémentaires extracellulaires",
+   "L'EIA a une faible sensibilité et spécificité",
+   "Un EIA positif doit être confirmé",
+   "L'EIA est plus sensible que l'amplification génique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : anticorps monoclonaux spécifiques d'espèce.",
+   "Vrai : détection des CE extracellulaires.",
+   "Vrai : faible sensibilité et spécificité de l'EIA.",
+   "Vrai : confirmation d'un résultat positif.",
+   "Faux : l'amplification est plus sensible."
+  ]
+ },
+ {
+  "q": "Concernant les milieux et conditions de transport, identifier les propositions fausses.",
+  "options": [
+   "Le transport se fait dans des milieux spécifiques 2SP ou SPG",
+   "La conservation de quelques heures se fait à +4 °C",
+   "La conservation prolongée se fait à -70 °C",
+   "Le transport peut se faire à sec à température ambiante",
+   "Le milieu de Stuart suffit"
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : milieux 2SP/SPG — proposition exacte, non retenue.",
+   "Vrai : +4 °C quelques heures — exacte, non retenue.",
+   "Vrai : -70 °C sinon — exacte, non retenue.",
+   "Faux : milieu de transport spécifique requis.",
+   "Faux : le milieu de Stuart n'est pas adapté aux Chlamydiae."
+  ]
+ },
+ {
+  "q": "Un laboratoire reçoit un écouvillon urétral à tige en bois pour recherche de Chlamydia. Quelles propositions sont exactes ?",
+  "options": [
+   "Le prélèvement est non conforme (tige en bois à éliminer)",
+   "Un nouveau prélèvement avec cytobrosse ou écouvillon adapté est nécessaire",
+   "La recherche par amplification génique reste la méthode de choix sur le nouveau prélèvement",
+   "La tige en bois est le matériel recommandé",
+   "Le résultat sera interprétable sans réserve"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : éliminer les écouvillons à tige en bois.",
+   "Vrai : refaire avec matériel adapté (coton, alginate, dacron, cytobrosse).",
+   "Vrai : l'amplification génique est la méthode adaptée.",
+   "Faux : les tiges en bois sont proscrites.",
+   "Faux : prélèvement non conforme, résultat non interprétable."
+  ]
+ },
+ {
+  "q": "Concernant la place de la culture dans le diagnostic actuel, lesquelles sont exactes ?",
+  "options": [
+   "Elle reste la technique de référence pour C. trachomatis",
+   "Elle est moins performante que l'amplification génique",
+   "Elle conserve un intérêt dans des cas particuliers",
+   "Elle est la méthode de première intention en routine",
+   "Elle est réalisable dans tous les laboratoires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : technique de référence (spécificité 100 %).",
+   "Vrai : l'amplification est plus sensible.",
+   "Vrai : intérêt conservé dans des cas particuliers.",
+   "Faux : l'amplification est la méthode adaptée en toute situation.",
+   "Faux : réservée aux laboratoires spécialisés."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic direct des infections basses à C. trachomatis, quelles propositions sont exactes ?",
+  "options": [
+   "L'amplification génique est la méthode adaptée",
+   "La culture cellulaire est la technique de référence",
+   "L'EIA est utilisable mais de faible performance",
+   "L'IFD détecte les corps élémentaires",
+   "L'hybridation ADN/ARN est la méthode recommandée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : amplification adaptée.",
+   "Vrai : culture = référence.",
+   "Vrai : EIA utilisable pour les infections basses, faible sensibilité/spécificité.",
+   "Vrai : IFD détecte les CE extracellulaires.",
+   "Faux : hybridation non recommandée."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements inadaptés à la culture, lesquelles sont exactes ?",
+  "options": [
+   "Les urines",
+   "Le sperme",
+   "Le liquide articulaire",
+   "Le liquide péritonéal",
+   "L'écouvillon endocervical"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : culture inadéquate sur urines.",
+   "Vrai : inadéquate sur sperme.",
+   "Vrai : inadéquate sur liquide articulaire.",
+   "Vrai : inadéquate sur liquide péritonéal.",
+   "Faux : l'écouvillon endocervical est un bon prélèvement pour la culture."
+  ]
+ },
+ {
+  "q": "Concernant les techniques de diagnostic indirect, lesquelles sont exactes ?",
+  "options": [
+   "Le prélèvement est sanguin sur tube sec",
+   "La micro-immunofluorescence (MIF) dose les IgA, IgG et IgM",
+   "La MIF distingue les espèces (C. pneumoniae, C. trachomatis)",
+   "La réaction de fixation du complément est limitée à la LGV et à l'ornithose",
+   "Le Western Blot n'a aucune place"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prélèvement sanguin sur tube sec.",
+   "Vrai : la MIF différencie et titre IgA, IgG, IgM.",
+   "Vrai : elle distingue les espèces.",
+   "Vrai : fixation du complément limitée LGV/ornithose.",
+   "Faux : le Western Blot est cité parmi les techniques indirectes."
+  ]
+ },
+ {
+  "q": "À propos de la micro-immunofluorescence (MIF), quelles propositions sont exactes ?",
+  "options": [
+   "Elle différencie et titre toutes les classes d'immunoglobulines",
+   "Elle distingue les espèces",
+   "C'est une méthode sensible",
+   "L'interprétation est difficile",
+   "Les réactions croisées sont inexistantes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IgA, IgG, IgM différenciées et titrées.",
+   "Vrai : distingue C. pneumoniae et C. trachomatis.",
+   "Vrai : méthode sensible.",
+   "Vrai : interprétation difficile.",
+   "Faux : les réactions croisées sont nombreuses."
+  ]
+ },
+ {
+  "q": "Concernant les tests immuno-enzymatiques en sérologie, lesquelles sont exactes ?",
+  "options": [
+   "Ils permettent un diagnostic d'espèce",
+   "Ils utilisent des peptides spécifiques de la protéine de membrane externe",
+   "Ils dosent les IgG spécifiques d'espèce par peptide recombinant MOMP",
+   "Ils remplacent la MIF dans tous les cas",
+   "Ils utilisent des antigènes des trois espèces"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : diagnostic d'espèce.",
+   "Vrai : peptides spécifiques de la protéine de membrane externe.",
+   "Vrai : IgG par peptide recombinant MOMP, spécifique d'espèce.",
+   "Faux : la MIF reste la méthode de référence pour C. pneumoniae.",
+   "Faux : les antigènes des trois espèces concernent la MIF avec ses réactions croisées."
+  ]
+ },
+ {
+  "q": "À propos de l'interprétation sérologique : règles générales, quelles propositions sont exactes ?",
+  "options": [
+   "Deux prélèvements à 15 jours d'intervalle sont recommandés",
+   "Les antigènes des trois espèces sont utilisés",
+   "La séroconversion signe une infection en évolution",
+   "Une augmentation significative du titre signe une infection en évolution",
+   "Un seul prélèvement suffit toujours au diagnostic de certitude"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : deux prélèvements à 15 jours.",
+   "Vrai : utilisation des antigènes des trois espèces.",
+   "Vrai : séroconversion = infection en évolution.",
+   "Vrai : augmentation significative = infection en évolution.",
+   "Faux : deux prélèvements sont recommandés."
+  ]
+ },
+ {
+  "q": "Concernant la sérologie des infections à C. trachomatis, lesquelles sont exactes ?",
+  "options": [
+   "Elle n'a pas d'intérêt dans les infections urogénitales basses",
+   "Les faux négatifs sont fréquents dans les infections basses",
+   "Les IgM sont fugaces dans les infections basses",
+   "Elle a un intérêt dans les infections profondes ou hautes",
+   "Elle est l'examen de première intention dans l'urétrite"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas d'intérêt dans les infections basses.",
+   "Vrai : faux négatifs fréquents.",
+   "Vrai : IgM fugaces.",
+   "Vrai : intérêt dans les infections profondes ou hautes.",
+   "Faux : le diagnostic de l'urétrite est direct (amplification)."
+  ]
+ },
+ {
+  "q": "À propos des IgM anti-C. trachomatis, quelles propositions sont exactes ?",
+  "options": [
+   "Leur indication est limitée à la pneumopathie du nouveau-né",
+   "Elles sont fugaces dans les infections urogénitales basses",
+   "Elles signent à elles seules une infection génitale basse évolutive",
+   "Leur dosage est systématique dans l'urétrite",
+   "Elles sont détectées par MIF"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : indication limitée à la pneumopathie du nouveau-né.",
+   "Vrai : IgM fugaces dans les infections basses.",
+   "Faux : pas d'intérêt diagnostique dans les infections basses.",
+   "Faux : la sérologie n'a pas d'intérêt dans l'urétrite.",
+   "Vrai : la MIF titre les IgM."
+  ]
+ },
+ {
+  "q": "Concernant les IgG anti-C. trachomatis, lesquelles sont exactes ?",
+  "options": [
+   "Le dosage utilise le peptide recombinant MOMP",
+   "Il est spécifique d'espèce",
+   "Un titre d'IgG ≥ 1/64 signe une infection passée ou en cours",
+   "Un titre d'IgG ≥ 1/512 est le seuil diagnostique",
+   "Les IgA ont une valeur diagnostique additionnelle après le dosage des IgG"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : peptide recombinant MOMP.",
+   "Vrai : spécifique d'espèce.",
+   "Vrai : Ig totaux ou IgG ≥ 1/64 = infection passée ou en cours.",
+   "Faux : 1/512 est le seuil de C. pneumoniae en MIF.",
+   "Faux : les IgA n'ont pas de valeur diagnostique additionnelle après les IgG."
+  ]
+ },
+ {
+  "q": "À propos des IgA anti-C. trachomatis, quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont dosées par MIF",
+   "Elles n'ont pas de valeur diagnostique additionnelle après le dosage des IgG",
+   "Elles remplacent les IgG dans le diagnostic",
+   "Elles sont l'examen de choix dans les infections basses",
+   "Leur dosage est spécifique d'espèce par EIA"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : la MIF titre les IgA.",
+   "Vrai : pas de valeur additionnelle après les IgG.",
+   "Faux : les IgG restent la référence (peptide MOMP).",
+   "Faux : pas d'intérêt sérologique dans les infections basses.",
+   "Faux : non mentionné au programme."
+  ]
+ },
+ {
+  "q": "Une patiente présente une salpingite ; la sérologie montre une séroconversion des IgG anti-C. trachomatis entre deux prélèvements à 15 jours. Quelles propositions sont exactes ?",
+  "options": [
+   "La séroconversion signe une infection en évolution",
+   "La sérologie a un intérêt dans cette infection haute",
+   "Le peptide recombinant MOMP assure la spécificité d'espèce",
+   "La sérologie n'a aucun intérêt dans les salpingites",
+   "Un titre unique suffit à affirmer l'infection évolutive"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : séroconversion = infection en évolution.",
+   "Vrai : intérêt dans les infections profondes/hautes.",
+   "Vrai : IgG par peptide MOMP spécifique d'espèce.",
+   "Faux : la sérologie est utile dans les infections hautes.",
+   "Faux : deux prélèvements à 15 jours sont recommandés."
+  ]
+ },
+ {
+  "q": "Concernant la sérologie de C. pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "Le diagnostic de certitude repose sur la sérologie",
+   "La MIF est la méthode de référence",
+   "Le seuil est de 1/512",
+   "La séroprévalence très élevée complique l'interprétation",
+   "Le seuil est de 1/64"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : diagnostic de certitude sérologique.",
+   "Vrai : MIF méthode de référence.",
+   "Vrai : seuil 1/512.",
+   "Vrai : séroprévalence très élevée.",
+   "Faux : 1/64 = seuil IgG C. trachomatis."
+  ]
+ },
+ {
+  "q": "Concernant la sérologie de C. psittaci, lesquelles sont exactes ?",
+  "options": [
+   "Le seuil est de 1/256",
+   "La réaction de fixation du complément peut être utilisée (limitée à LGV/ornithose)",
+   "Deux prélèvements à 15 jours sont recommandés",
+   "Le seuil est de 1/512",
+   "La MIF est la méthode de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : seuil 1/256.",
+   "Vrai : fixation du complément limitée à la LGV et à l'ornithose.",
+   "Vrai : deux prélèvements à 15 jours.",
+   "Faux : 1/512 = seuil C. pneumoniae.",
+   "Faux : la MIF de référence concerne C. pneumoniae."
+  ]
+ },
+ {
+  "q": "À propos des réactions croisées en sérologie des Chlamydiae, quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont nombreuses en MIF",
+   "Elles imposent l'utilisation des antigènes des trois espèces",
+   "L'antigène de genre (LPS) explique les réactions croisées",
+   "Le peptide MOMP permet un diagnostic spécifique d'espèce",
+   "Il n'existe aucune réaction croisée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réactions croisées nombreuses.",
+   "Vrai : antigènes des trois espèces utilisés.",
+   "Vrai : le LPS, antigène de genre commun, est à l'origine des croisements.",
+   "Vrai : le peptide recombinant MOMP est spécifique d'espèce.",
+   "Faux : les réactions croisées sont nombreuses."
+  ]
+ },
+ {
+  "q": "Concernant la place de la sérologie dans le diagnostic des Chlamydiae, lesquelles sont exactes ?",
+  "options": [
+   "Infections basses à C. trachomatis : pas d'intérêt",
+   "Infections hautes/profondes à C. trachomatis : intérêt conservé",
+   "C. pneumoniae : diagnostic de certitude sérologique",
+   "C. psittaci : sérologie au seuil de 1/256",
+   "La sérologie remplace l'amplification génique en toute situation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas d'intérêt dans les infections urogénitales basses.",
+   "Vrai : intérêt dans les infections profondes ou hautes.",
+   "Vrai : MIF, seuil 1/512.",
+   "Vrai : seuil 1/256.",
+   "Faux : l'amplification génique est la méthode adaptée en toute situation clinique."
+  ]
+ },
+ {
+  "q": "Un nouveau-né présente une pneumopathie ; les IgM anti-C. trachomatis sont positives. Quelles propositions sont exactes ?",
+  "options": [
+   "Les IgM ont une indication dans la pneumopathie du nouveau-né",
+   "Une infection à C. trachomatis (sérovars D-K) est évoquée",
+   "La contamination maternelle a eu lieu lors de l'accouchement",
+   "Les IgM sont l'examen de choix dans l'urétrite de l'adulte",
+   "Un traitement par macrolides est indiqué"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : indication limitée des IgM à la pneumopathie du nouveau-né.",
+   "Vrai : sérovars D-K.",
+   "Vrai : transmission périnatale.",
+   "Faux : pas d'intérêt des IgM dans l'urétrite.",
+   "Vrai : antibiotiques à pénétration cellulaire."
+  ]
+ },
+ {
+  "q": "Concernant le traitement curatif des infections à Chlamydiae, lesquelles sont exactes ?",
+  "options": [
+   "Les tétracyclines",
+   "Les macrolides",
+   "Les fluoroquinolones",
+   "Les aminosides",
+   "La vancomycine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les tétracyclines sont le traitement curatif.",
+   "Vrai : les macrolides sont actifs.",
+   "Vrai : les fluoroquinolones sont citées.",
+   "Faux : résistance naturelle aux aminosides.",
+   "Faux : résistance naturelle à la vancomycine."
+  ]
+ },
+ {
+  "q": "À propos de la résistance naturelle des Chlamydiae, quelles propositions sont exactes ?",
+  "options": [
+   "Les aminosides",
+   "La vancomycine",
+   "Les quinolones",
+   "Le métronidazole",
+   "Les tétracyclines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : résistance naturelle aux aminosides.",
+   "Vrai : résistance naturelle à la vancomycine.",
+   "Vrai : résistance naturelle aux quinolones.",
+   "Vrai : résistance naturelle au métronidazole (et à la colimycine).",
+   "Faux : les tétracyclines sont le traitement curatif, pas une résistance."
+  ]
+ },
+ {
+  "q": "Concernant la résistance acquise des Chlamydiae, lesquelles sont exactes ?",
+  "options": [
+   "Elle est exceptionnelle",
+   "Les tétracyclines restent actives",
+   "Les macrolides restent actifs",
+   "Elle est fréquente et impose un antibiogramme systématique",
+   "Elle concerne surtout les fluoroquinolones"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : résistance acquise exceptionnelle.",
+   "Vrai : les tétracyclines restent le traitement curatif.",
+   "Vrai : les macrolides restent actifs.",
+   "Faux : la résistance acquise est exceptionnelle.",
+   "Faux : pas de résistance acquise fréquente décrite."
+  ]
+ },
+ {
+  "q": "À propos du rationnel du traitement, quelles propositions sont exactes ?",
+  "options": [
+   "Le cycle intracellulaire impose des antibiotiques à pénétration cellulaire",
+   "L'absence de peptidoglycane explique l'inefficacité des bêta-lactamines",
+   "Les tétracyclines diffusent dans la cellule",
+   "Les bêta-lactamines sont le traitement de choix",
+   "Un antibiotique non diffusible est efficace sur les formes intracellulaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : antibiotiques à pénétration cellulaire requis.",
+   "Vrai : sans peptidoglycane, pas de cible pour les bêta-lactamines.",
+   "Vrai : les tétracyclines pénètrent dans la cellule.",
+   "Faux : les bêta-lactamines ne sont pas actives.",
+   "Faux : un antibiotique doit pénétrer la cellule pour atteindre la bactérie."
+  ]
+ },
+ {
+  "q": "Concernant la prévention des infections à Chlamydiae, lesquelles sont exactes ?",
+  "options": [
+   "IST : prévention des IST (éducation, préservatifs, dépistage des partenaires)",
+   "Trachome : amélioration des conditions de vie",
+   "Psittacose : précautions lors des contacts avec les oiseaux",
+   "Il existe un vaccin efficace contre les trois espèces",
+   "L'isolement systématique des patients est la mesure principale"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : prévention des IST.",
+   "Vrai : trachome = amélioration des conditions de vie.",
+   "Vrai : éviter les poussières infectantes aviaires.",
+   "Faux : pas de vaccin.",
+   "Faux : non mentionné au programme."
+  ]
+ },
+ {
+  "q": "À propos de la prise en charge d'un couple face à une IST à C. trachomatis, quelles propositions sont exactes ?",
+  "options": [
+   "Le dépistage du partenaire est recommandé",
+   "Le traitement du partenaire est recommandé",
+   "L'éducation sur les IST est utile",
+   "Seul le patient symptomatique doit être traité",
+   "Le traitement repose sur tétracyclines, macrolides ou fluoroquinolones"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : dépistage des partenaires.",
+   "Vrai : traitement des partenaires.",
+   "Vrai : éducation, information, sensibilisation.",
+   "Faux : les partenaires asymptomatiques doivent aussi être traités.",
+   "Vrai : traitement curatif."
+  ]
+ },
+ {
+  "q": "Concernant les messages clés du cours sur les Chlamydiae, lesquelles sont exactes ?",
+  "options": [
+   "C. trachomatis est responsable de la principale IST",
+   "Le diagnostic repose sur un faisceau d'arguments biologiques",
+   "Le diagnostic varie selon l'espèce",
+   "Un examen unique suffit toujours au diagnostic",
+   "La culture cellulaire est à la portée de tous les laboratoires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : principale IST.",
+   "Vrai : faisceau d'arguments biologiques (conclusion du cours).",
+   "Vrai : méthodes de diagnostic variant selon l'espèce.",
+   "Faux : le diagnostic repose sur un faisceau d'arguments.",
+   "Faux : réservée aux laboratoires spécialisés."
+  ]
+ },
+ {
+  "q": "Un patient traité pour urétrite à C. trachomatis revient avec une récidive après un nouveau rapport non protégé. Quelles propositions sont exactes ?",
+  "options": [
+   "L'immunité n'empêche pas les recontaminations",
+   "Une réinfection est possible",
+   "Le partenaire doit être dépisté et traité",
+   "La récidive signe une résistance acquise aux tétracyclines",
+   "La prévention repose sur les préservatifs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : immunité humorale et cellulaire n'empêchent pas les recontaminations.",
+   "Vrai : réinfections possibles.",
+   "Vrai : dépistage et traitement des partenaires.",
+   "Faux : la résistance acquise est exceptionnelle ; il s'agit d'une réinfection.",
+   "Vrai : usage de préservatifs."
+  ]
+ },
+ {
+  "q": "Concernant la place des Chlamydiae parmi les bactéries, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ce sont des bactéries à Gram négatif atypiques",
+   "Elles sont dépourvues de peptidoglycane contrairement aux autres Gram négatif",
+   "Leur paroi contient du LPS comme les entérobactéries",
+   "Elles possèdent une capsule polysaccharidique",
+   "Elles sont des bactéries à multiplication intracellulaire obligatoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : proches des bactéries à Gram négatif.",
+   "Vrai : absence de peptidoglycane, caractère distinctif.",
+   "Vrai : membrane externe avec LPS.",
+   "Faux : pas de capsule décrite au programme.",
+   "Vrai : caractère définissant de la famille."
+  ]
+ },
+ {
+  "q": "Concernant l'attachement du corps élémentaire, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est la première étape du cycle de développement",
+   "Il précède l'entrée par phagocytose",
+   "Il concerne la forme extracellulaire infectieuse",
+   "Il concerne le corps réticulé",
+   "Il a lieu après la multiplication dans l'inclusion"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : attachement initial du CE.",
+   "Vrai : attachement puis phagocytose.",
+   "Vrai : le CE est la forme extracellulaire infectieuse.",
+   "Faux : le CR est intracellulaire et non infectieux.",
+   "Faux : l'attachement initie le cycle, il ne le suit pas."
+  ]
+ },
+ {
+  "q": "À propos de la transformation du CE en CR, quelles propositions sont exactes ?",
+  "options": [
+   "Elle a lieu dans la cellule hôte après phagocytose",
+   "Elle fait passer d'une forme inerte à une forme métaboliquement active",
+   "Elle précède la multiplication",
+   "Elle a lieu dans le milieu extracellulaire",
+   "Elle produit directement des particules infectieuses"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : différenciation intracellulaire post-phagocytose.",
+   "Vrai : CE inerte → CR actif.",
+   "Vrai : la multiplication des CR suit.",
+   "Faux : transformation intracellulaire.",
+   "Faux : les particules infectieuses (CE) sont produites après la phase de multiplication."
+  ]
+ },
+ {
+  "q": "Concernant la multiplication des corps réticulés, lesquelles sont exactes ?",
+  "options": [
+   "Elle a lieu dans l'inclusion cytoplasmique",
+   "Elle se fait par division",
+   "Les CR sont métaboliquement actifs pendant cette phase",
+   "Elle a lieu dans le milieu extracellulaire",
+   "Elle produit des spores"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : inclusion cytoplasmique.",
+   "Vrai : division binaire.",
+   "Vrai : CR métaboliquement actifs.",
+   "Faux : multiplication strictement intracellulaire.",
+   "Faux : pas de sporulation chez les Chlamydiae."
+  ]
+ },
+ {
+  "q": "À propos de la lyse cellulaire en fin de cycle, quelles propositions sont exactes ?",
+  "options": [
+   "Elle libère les corps élémentaires",
+   "Elle permet l'infection des cellules voisines",
+   "Elle fait suite à la différenciation des CR en CE",
+   "Elle libère des corps réticulés infectieux",
+   "Elle est sans conséquence tissulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sortie des CE par éclatement.",
+   "Vrai : infection des cellules voisines.",
+   "Vrai : différenciation CR → CE préalable.",
+   "Faux : les CR ne sont pas infectieux.",
+   "Faux : la lyse participe aux lésions tissulaires."
+  ]
+ },
+ {
+  "q": "Concernant le cycle et la chronicité, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La persistance du CR entretient l'infection chronique",
+   "Le corps aberrant est la forme de persistance",
+   "L'absence d'immunité protectrice favorise les réinfections",
+   "Le cycle de 48-72 h est compatible avec une évolution chronique",
+   "Toute infection guérit spontanément en 72 h"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : persistance du CR = infection chronique.",
+   "Vrai : corps aberrant, forme de persistance.",
+   "Vrai : pas d'immunité protectrice contre les recontaminations.",
+   "Vrai : cycle lent, affections souvent chroniques.",
+   "Faux : les infections sont volontiers chroniques."
+  ]
+ },
+ {
+  "q": "Un examen direct après culture cellulaire montre des inclusions intracytoplasmiques. Quelles propositions sont exactes ?",
+  "options": [
+   "Les inclusions contiennent des corps réticulés",
+   "La révélation a pu utiliser la coloration MGG",
+   "L'immunofluorescence est une meilleure méthode de révélation",
+   "Les inclusions contiennent des corps élémentaires extracellulaires",
+   "L'examen direct sans culture suffit à visualiser les inclusions"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les inclusions contiennent les CR en multiplication.",
+   "Vrai : révélation MGG ou iodo-iodure.",
+   "Vrai : mieux IF, ELISA.",
+   "Faux : les CE sont extracellulaires ; les inclusions sont intracellulaires.",
+   "Faux : les inclusions sont révélées après culture cellulaire."
+  ]
+ },
+ {
+  "q": "Concernant le cycle chlamydien et le prélèvement, lesquelles sont exactes ?",
+  "options": [
+   "Le caractère intracellulaire impose un prélèvement cellulaire",
+   "La cytobrosse est le meilleur moyen de prélèvement",
+   "Les écouvillons à tige en bois sont proscrits",
+   "Un prélèvement sanguin suffit au diagnostic direct",
+   "Le milieu de transport spécifique est le 2SP ou SPG"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le prélèvement doit ramener les cellules infectées.",
+   "Vrai : cytobrosse idéale.",
+   "Vrai : éliminer les tiges en bois.",
+   "Faux : le diagnostic direct se fait sur prélèvement local cellulaire.",
+   "Vrai : milieux 2SP ou SPG."
+  ]
+ },
+ {
+  "q": "Concernant les infections respiratoires hautes à C. pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "La pharyngite est une manifestation citée",
+   "La sinusite est une manifestation citée",
+   "Le prélèvement pharyngé est adapté",
+   "Le diagnostic de certitude repose sur la culture",
+   "L'amoxicilline est le traitement de choix"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : pharyngite citée.",
+   "Vrai : sinusite citée.",
+   "Vrai : prélèvement pharyngé possible.",
+   "Faux : le diagnostic de certitude repose sur la sérologie (MIF).",
+   "Faux : bêta-lactamines inefficaces ; tétracyclines/macrolides."
+  ]
+ },
+ {
+  "q": "Concernant le Western Blot dans le diagnostic des Chlamydiae, lesquelles sont exactes ?",
+  "options": [
+   "C'est une technique de diagnostic indirect",
+   "Il fait partie des techniques sérologiques citées",
+   "C'est une technique de diagnostic direct",
+   "Il remplace la MIF pour C. pneumoniae",
+   "Il détecte les corps élémentaires"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : technique indirecte (sérologique).",
+   "Vrai : cité parmi les techniques indirectes.",
+   "Faux : le diagnostic direct repose sur culture, antigènes ou génome.",
+   "Faux : la MIF reste la référence pour C. pneumoniae.",
+   "Faux : les CE sont détectés par IF directe."
+  ]
+ }
+]
