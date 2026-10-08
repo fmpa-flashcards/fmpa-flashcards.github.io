@@ -14,7 +14,7 @@ const p = profile;
 const acc = p.mcqTotal ? Math.round(p.mcqCorrect / p.mcqTotal * 100) : 0;
 const lvl = levelFor(p.xp || 0);
 const app = document.getElementById('app');
-const refLink = 'https://fmpr-flashcards.pages.dev/?ref=' + encodeURIComponent(p.referralCode || '');
+const refLink = 'https://fmpr-flashcards.github.io/?ref=' + encodeURIComponent(p.referralCode || '');
 const refBalance = p.refBalance || 0;
 const refCount = p.refCount || 0;
 const canWithdraw = refBalance >= REF_MIN_WITHDRAW;
