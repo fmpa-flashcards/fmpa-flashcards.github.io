@@ -28,7 +28,14 @@ service cloud.firestore {
     // Profil utilisateur : users/{uid}
     // ------------------------------------------------------------------
     match /users/{uid} {
-      allow read: if ownUid(uid);
+      allow read: if ownUid(uid) || isAdmin();
+
+      // Lecture du parrain par son filleul : la transaction de crédit
+      // (+15 DH / +1 filleul) lit le doc du parrain avant de le mettre à jour.
+      // Autorisé uniquement si un doc referrals lie l'appelant à ce parrain.
+      allow get: if signedIn()
+        && exists(/databases/$(db)/documents/referrals/$(request.auth.uid))
+        && get(/databases/$(db)/documents/referrals/$(request.auth.uid)).data.referrerUid == uid;
 
       // Création : pas de triche à l'inscription (pas Pro, 0 XP, 0 parrainage)
       allow create: if ownUid(uid)
@@ -88,6 +95,11 @@ service cloud.firestore {
         && get(/databases/$(db)/documents/referrals/$(request.auth.uid)).data.referrerUid == uid;
 
       allow delete: if false;
+
+      // Admin : révocation d'abonnement (repasse proTier à null uniquement).
+      allow update: if isAdmin()
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['proTier'])
+        && request.resource.data.proTier == null;
     }
 
     // ------------------------------------------------------------------
@@ -171,7 +183,7 @@ service cloud.firestore {
     //    (le doc code correspondant a usedBy == son uid)
     // ------------------------------------------------------------------
     match /claims/{uid} {
-      allow read: if ownUid(uid);
+      allow read: if ownUid(uid) || isAdmin();
       allow create: if ownUid(uid)
         && request.resource.data.serial is string
         && get(/databases/$(db)/documents/codes/$(request.resource.data.serial)).data.usedBy == request.auth.uid;
