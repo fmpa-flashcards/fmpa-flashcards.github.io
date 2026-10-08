@@ -499,7 +499,7 @@ export function tabbar(active) {
   const tabs = [
     ['home.html', 'home', '📚', 'Cartes'],
     ['qcm.html', 'mcq', '✅', 'QCM'],
-    ['preparation.html', 'prepa', '🎯', 'Prépa'],
+    ['um6ss.html', 'um6ss', '<img src="um6ss-logo.png" class="tablogo" alt="UM6SS">', 'UM6SS'],
     ['classement.html', 'leaderboard', '🏆', 'Classement'],
     ['plan.html', 'plan', '🗓️', 'Plan'],
     ['profil.html', 'profile', '👤', 'Profil'],
