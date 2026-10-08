@@ -96,10 +96,18 @@ service cloud.firestore {
 
       allow delete: if false;
 
-      // Admin : révocation d'abonnement (repasse proTier à null uniquement).
+      // Admin : activation manuelle ou révocation d'abonnement
+      // (proTier = 'cards' | 'full' | null, rien d'autre).
       allow update: if isAdmin()
         && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['proTier'])
-        && request.resource.data.proTier == null;
+        && (request.resource.data.proTier == null
+            || request.resource.data.proTier == 'cards'
+            || request.resource.data.proTier == 'full');
+
+      // Admin : marquer un solde de parrainage comme payé (remise à zéro).
+      allow update: if isAdmin()
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['refBalance'])
+        && request.resource.data.refBalance == 0;
     }
 
     // ------------------------------------------------------------------
