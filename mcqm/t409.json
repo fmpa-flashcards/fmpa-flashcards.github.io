@@ -1,0 +1,4506 @@
+[
+ {
+  "q": "Concernant l'agent de l'amibiase, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Entamoeba histolytica est un flagellé",
+   "Entamoeba histolytica est un helminthe",
+   "Entamoeba histolytica est un sporozoaire",
+   "Entamoeba histolytica est un protozoaire",
+   "Entamoeba histolytica appartient au groupe des amibes"
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "ce n'est pas un flagellé",
+   "ce n'est pas un helminthe (ver)",
+   "ce n'est pas un sporozoaire",
+   "E. histolytica est un protozoaire",
+   "c'est une amibe (rhizopode)"
+  ]
+ },
+ {
+  "q": "Concernant le trophozoïte d'E. histolytica, lesquelles sont vraies ?",
+  "options": [
+   "Le trophozoïte se déplace grâce à des cils vibratiles",
+   "Le trophozoïte est la forme végétative de multiplication",
+   "Le trophozoïte est immobile",
+   "Le trophozoïte est la forme de résistance dans le milieu extérieur",
+   "Il existe deux formes : minuta et histolytica"
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "mouvements par pseudopodes, pas de cils",
+   "trophozoïte = forme cellulaire végétative et de multiplication",
+   "à frais, mouvements vifs avec pseudopodes longs",
+   "la forme de résistance/dissémination est le kyste",
+   "minuta (10-15 μm) et histolytica (20-30 μm)"
+  ]
+ },
+ {
+  "q": "À propos de la forme minuta d'E. histolytica, quelles propositions sont correctes ?",
+  "options": [
+   "Elle mesure 10 à 15 μm de diamètre",
+   "Son ectoplasme est réfringent",
+   "Elle contient des hématies en digestion dans des vacuoles",
+   "Son endoplasme est finement granuleux",
+   "Son noyau est périphérique avec un petit caryosome central"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "taille 10-15 μm",
+   "ectoplasme réfringent",
+   "les hématies en digestion caractérisent la forme histolytica",
+   "endoplasme finement granuleux",
+   "noyau périphérique, petit caryosome central, chromatine périphérique en liséré"
+  ]
+ },
+ {
+  "q": "La forme histolytica d'E. histolytica se caractérise par lesquelles de ces éléments ?",
+  "options": [
+   "Un noyau central volumineux",
+   "Une bonne résistance à 37 °C",
+   "Une taille de 20 à 30 μm",
+   "L'absence totale de pseudopodes",
+   "La présence d'hématies en voie de digestion dans des vacuoles cytoplasmiques"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "noyau périphérique comme la minuta, pas central volumineux",
+   "supporte bien 37 °C",
+   "20-30 μm",
+   "mouvements vifs et pseudopodes longs à frais",
+   "hématies en digestion dans des vacuoles cytoplasmiques"
+  ]
+ },
+ {
+  "q": "Quelles différences permettent de distinguer la forme minuta de la forme histolytica ?",
+  "options": [
+   "La taille : 10-15 μm vs 20-30 μm",
+   "La forme minuta est la seule hématophage",
+   "La forme minuta possède 4 noyaux",
+   "La résistance à 37 °C de la forme histolytica",
+   "La présence d'hématies phagocytées dans la forme histolytica"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "différence de taille",
+   "c'est la forme histolytica qui est hématophage",
+   "les amibes ont un seul noyau ; 4 noyaux = kyste mature",
+   "la forme histolytica supporte bien 37 °C",
+   "hématies en voie de digestion = forme histolytica"
+  ]
+ },
+ {
+  "q": "Concernant l'examen à frais des trophozoïtes, lesquelles sont exactes ?",
+  "options": [
+   "Les amibes sont immobiles à température ambiante",
+   "On observe des mouvements vifs",
+   "L'ectoplasme apparaît réfringent",
+   "Les pseudopodes n'existent que dans la forme kystique",
+   "On observe des pseudopodes longs"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "elles sont mobiles",
+   "à frais : mouvements vifs",
+   "ectoplasme réfringent",
+   "le kyste n'émet pas de pseudopodes",
+   "pseudopodes longs"
+  ]
+ },
+ {
+  "q": "À propos du noyau d'Entamoeba histolytica en microscopie optique, lesquelles sont vraies ?",
+  "options": [
+   "Il y a toujours deux noyaux par trophozoïte",
+   "La chromatine périphérique est en liséré ou en pointillé",
+   "Il est central et volumineux comme celui d'E. coli",
+   "Il possède un petit caryosome central",
+   "Il est périphérique"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "un seul noyau par trophozoïte",
+   "chromatine périphérique en liséré/en pointillé",
+   "ces caractères distinguent E. histolytica des amibes non pathogènes",
+   "petit caryosome central",
+   "noyau périphérique"
+  ]
+ },
+ {
+  "q": "Concernant le kyste d'E. histolytica, quelles propositions sont exactes ?",
+  "options": [
+   "Il contient un cristalloïde épais à bouts arrondis",
+   "À maturité il possède 4 noyaux",
+   "C'est la forme de dissémination et de résistance",
+   "Sa paroi est épaisse et pigmentée",
+   "Il est sphérique, réfringent et incolore"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "cristalloïde épais à bouts arrondis",
+   "4 noyaux à maturité",
+   "forme de dissémination et de résistance",
+   "paroi mince et incolore, pas épaisse ni pigmentée",
+   "sphérique, réfringent, incolore"
+  ]
+ },
+ {
+  "q": "Quelles caractéristiques distinguent le kyste mature du kyste immature d'E. histolytica ?",
+  "options": [
+   "Le kyste mature possède 4 noyaux",
+   "Le kyste immature possède une vacuole",
+   "Le kyste mature est la forme hématophage",
+   "Le kyste immature est plus grand que le kyste mature",
+   "Le kyste immature a 1 ou 2 noyaux"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "4 noyaux à maturité",
+   "vacuole dans les kystes immatures",
+   "la forme hématophage est le trophozoïte histolytica, pas le kyste",
+   "les kystes immatures sont plus grands",
+   "1 ou 2 noyaux en phase immature"
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant les kystes d'E. histolytica sont vraies ?",
+  "options": [
+   "Ils assurent la résistance dans le milieu extérieur",
+   "Ils sont la forme contaminante ingérée",
+   "Ils sont détruits par l'ébullition de l'eau",
+   "Ils sont la forme hématophage tissulaire",
+   "Ils survivent à l'acidité gastrique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "forme de résistance",
+   "ingestion de kystes = contamination",
+   "l'ébullition les détruit (prophylaxie)",
+   "l'hématophagie est le fait du trophozoïte histolytica",
+   "la paroi résiste aux sucs digestifs"
+  ]
+ },
+ {
+  "q": "Concernant les amibes non pathogènes de l'intestin humain, lesquelles sont exactes ?",
+  "options": [
+   "Elles se distinguent d'E. histolytica par leurs caractères morphologiques en microscopie optique",
+   "Entamoeba hartmanni est non pathogène",
+   "Endolimax nanus est non pathogène",
+   "Elles provoquent une dysenterie glairo-sanglante",
+   "Entamoeba coli est une amibe non pathogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "la MO permet de différencier E. histolytica de ces amibes",
+   "E. hartmanni : non pathogène",
+   "Endolimax nanus : non pathogène",
+   "elles ne sont pas pathogènes",
+   "E. coli : amibe commensale non pathogène"
+  ]
+ },
+ {
+  "q": "À propos d'Entamoeba dispar, quelles propositions sont correctes ?",
+  "options": [
+   "E. dispar est non pathogène",
+   "La différenciation repose sur la recherche d'adhésine spécifique par ELISA ou la PCR",
+   "E. dispar est morphologiquement identique à E. histolytica",
+   "La microscopie optique ne permet pas de les différencier",
+   "E. dispar est la forme hématophage"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "E. dispar est non pathogène",
+   "ELISA adhésine ou PCR pour les distinguer",
+   "morphologiquement indiscernables en MO",
+   "la MO ne différencie pas E.h de E.d",
+   "l'hématophagie est le fait d'E. histolytica forme histolytica"
+  ]
+ },
+ {
+  "q": "Quelles méthodes permettent de différencier E. histolytica d'E. dispar ?",
+  "options": [
+   "La PCR",
+   "La microscopie optique standard",
+   "La recherche d'adhésine spécifique par ELISA",
+   "La coloration de Gram",
+   "L'observation de la taille du cristalloïde"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "PCR",
+   "la MO ne permet pas la différenciation",
+   "ELISA adhésine spécifique",
+   "la coloration de Gram est bactériologique",
+   "le cristalloïde est identique chez les deux"
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sur le diagnostic morphologique sont vraies ?",
+  "options": [
+   "La MO différencie E. histolytica des amibes non pathogènes (E. coli, E. hartmanni, Endolimax nanus)",
+   "Un seul examen de selles suffit toujours au diagnostic",
+   "Le kyste à 4 noyaux avec cristalloïde est évocateur d'E. histolytica/E. dispar",
+   "La présence d'hématies phagocytées oriente vers E. histolytica pathogène",
+   "La MO ne différencie pas E. histolytica d'E. dispar"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "la MO distingue E.h des autres amibes non pathogènes",
+   "l'EPS doit être répété 3 fois pour augmenter la sensibilité",
+   "kyste 4 noyaux + cristalloïde épais à bouts arrondis",
+   "hématies en digestion = forme histolytica",
+   "E.h et E.d indiscernables en MO"
+  ]
+ },
+ {
+  "q": "Concernant le cristalloïde du kyste amibien, lesquelles sont exactes ?",
+  "options": [
+   "Il a des bouts arrondis",
+   "Il est épais",
+   "Il permet de différencier E. histolytica d'E. dispar",
+   "Il est présent dans le kyste d'E. histolytica",
+   "Il est caractéristique du trophozoïte"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "à bouts arrondis",
+   "cristalloïde épais",
+   "identique chez E.h et E.d",
+   "présent dans le kyste",
+   "c'est une structure kystique, pas trophozoïtaire"
+  ]
+ },
+ {
+  "q": "Quelles sont les formes évolutives d'Entamoeba histolytica ?",
+  "options": [
+   "Le sporozoïte",
+   "Le mérozoïte",
+   "Le kyste",
+   "Le trophozoïte minuta",
+   "Le trophozoïte histolytica"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "pas de sporozoïte (stade des sporozoaires)",
+   "pas de mérozoïte",
+   "forme kystique de résistance",
+   "forme végétative minuta 10-15 μm",
+   "forme végétative histolytica 20-30 μm"
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sur les tailles parasitaires sont vraies ?",
+  "options": [
+   "Forme minuta : 10-15 μm",
+   "Forme histolytica : 20-30 μm",
+   "Le kyste immature est plus grand que le kyste mature",
+   "La forme histolytica est plus grande que la minuta",
+   "La forme minuta mesure 20-30 μm"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "minuta 10-15 μm",
+   "histolytica 20-30 μm",
+   "kystes immatures plus grands",
+   "histolytica > minuta",
+   "20-30 μm = forme histolytica"
+  ]
+ },
+ {
+  "q": "Concernant l'hématophagie, quelles propositions sont correctes ?",
+  "options": [
+   "Elle est le fait de la forme histolytica",
+   "Elle signe le caractère pathogène",
+   "On observe des hématies en voie de digestion dans des vacuoles cytoplasmiques",
+   "Elle est le fait du kyste",
+   "Elle est le fait de la forme minuta"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "forme histolytica hématophage",
+   "signe de pathogénicité",
+   "hématies en digestion dans des vacuoles",
+   "le kyste ne phagocyte pas",
+   "la minuta n'est pas hématophage"
+  ]
+ },
+ {
+  "q": "Quelles structures observe-t-on dans le cytoplasme du trophozoïte histolytica ?",
+  "options": [
+   "Des vacuoles contenant des hématies en digestion",
+   "Un endoplasme finement granuleux",
+   "Des cristalloïdes à bouts arrondis",
+   "Un ectoplasme réfringent",
+   "Des grains de chromatine nucléaire"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "vacuoles à hématies en digestion",
+   "endoplasme finement granuleux",
+   "cristalloïde = structure du kyste",
+   "ectoplasme réfringent",
+   "la chromatine est nucléaire, pas cytoplasmique"
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant E. histolytica sont fausses ?",
+  "options": [
+   "C'est un protozoaire",
+   "C'est un métazoaire",
+   "C'est une bactérie",
+   "C'est un virus",
+   "C'est un champignon"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "c'est bien un protozoaire (proposition vraie)",
+   "ce n'est pas un métazoaire",
+   "ce n'est pas une bactérie",
+   "ce n'est pas un virus",
+   "ce n'est pas un champignon"
+  ]
+ },
+ {
+  "q": "Concernant la contamination amibienne, lesquelles sont exactes ?",
+  "options": [
+   "La contamination directe est fréquente",
+   "La forme contaminante est le kyste",
+   "On parle de péril fécal",
+   "La contamination indirecte par l'eau ou les aliments souillés est la plus fréquente",
+   "Le trophozoïte est la forme contaminante"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "la contamination directe est rare",
+   "le kyste est la forme ingérée",
+   "péril fécal",
+   "contamination indirecte : eau/aliments souillés",
+   "le trophozoïte ne survit pas dans le milieu extérieur"
+  ]
+ },
+ {
+  "q": "Quelles sont les voies de contamination de l'amibiase ?",
+  "options": [
+   "L'eau souillée par des matières fécales",
+   "Les mouches comme vecteurs mécaniques",
+   "Les aliments souillés",
+   "Les mains sales (péril fécal)",
+   "La piqûre de moustique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "eau contaminée",
+   "les mouches transportent les kystes",
+   "aliments souillés",
+   "transmission féco-orale",
+   "pas de transmission vectorielle par piqûre"
+  ]
+ },
+ {
+  "q": "Concernant le cycle commensal non pathogène d'E. histolytica, lesquelles sont vraies ?",
+  "options": [
+   "Le dékystement libère 8 amoebules",
+   "La multiplication se fait dans le côlon sous forme minuta",
+   "Le cycle se termine par prékyste puis kyste éliminé dans le milieu extérieur",
+   "Le kyste ingéré subit un dékystement sous l'action des sucs digestifs",
+   "Ce cycle pathogène est le plus fréquent"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "8 amoebules libérées",
+   "multiplication colique forme minuta",
+   "prékyste → kyste → élimination",
+   "dékystement par les sucs digestifs",
+   "c'est le cycle commensal qui est le plus fréquent"
+  ]
+ },
+ {
+  "q": "Dans le cycle pathogène de l'amibiase, lesquelles de ces étapes sont exactes ?",
+  "options": [
+   "La forme histolytica hématophage sécrète des adhésines",
+   "Elle sécrète des enzymes protéolytiques",
+   "Il peut se former des abcès",
+   "Il se forme des ulcérations intestinales",
+   "La dissémination hématogène atteint surtout le rein"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "sécrétion d'adhésines",
+   "enzymes protéolytiques",
+   "abcès tissulaires",
+   "ulcérations de la muqueuse",
+   "la dissémination atteint surtout le foie"
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sur le cycle d'E. histolytica sont correctes ?",
+  "options": [
+   "E. histolytica est un parasite monoxène obligatoire de l'homme",
+   "Le cycle pathogène implique la forme histolytica hématophage",
+   "Le réservoir principal est l'homme",
+   "Le cycle commensal implique la forme minuta",
+   "Il existe un hôte intermédiaire obligatoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "monoxène obligatoire de l'homme",
+   "forme histolytica = cycle pathogène",
+   "réservoir : homme+++",
+   "forme minuta = cycle commensal",
+   "pas d'hôte intermédiaire"
+  ]
+ },
+ {
+  "q": "Concernant le dékystement, quelles propositions sont vraies ?",
+  "options": [
+   "Il se produit après ingestion du kyste",
+   "Il se produit dans le milieu extérieur",
+   "Il libère 8 amoebules",
+   "Il transforme le trophozoïte en kyste",
+   "Il est déclenché par les sucs digestifs"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "après ingestion du kyste",
+   "il se produit dans le tube digestif",
+   "8 amoebules",
+   "l'enkystement est l'inverse : trophozoïte → kyste",
+   "action des sucs digestifs"
+  ]
+ },
+ {
+  "q": "Quelles étapes composent le cycle commensal d'E. histolytica dans l'ordre ?",
+  "options": [
+   "Multiplication colique sous forme minuta",
+   "Ingestion du kyste",
+   "Dékystement et libération de 2 amoebules",
+   "Élimination des kystes dans les selles",
+   "Formation de prékystes puis de kystes"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "multiplication forme minuta dans le côlon",
+   "kyste ingéré",
+   "le dékystement libère 8 amoebules, pas 2",
+   "élimination et dissémination",
+   "prékyste → kyste"
+  ]
+ },
+ {
+  "q": "Concernant la dissémination du parasite, lesquelles sont exactes ?",
+  "options": [
+   "Le foie est l'organe le plus atteint lors de la dissémination hématogène",
+   "La dissémination se fait par voie aérienne",
+   "La dissémination hématogène concerne le cycle pathogène",
+   "Le kyste est la forme de dissémination",
+   "La dissémination se fait vers le milieu extérieur"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "foie+++",
+   "pas de transmission aérienne",
+   "dissémination hématogène du cycle pathogène",
+   "kyste = forme de dissémination",
+   "élimination dans le milieu extérieur"
+  ]
+ },
+ {
+  "q": "Quels facteurs déclenchent le passage du cycle commensal au cycle pathogène ?",
+  "options": [
+   "La prise d'antibiotiques est le seul facteur",
+   "La modification de la flore bactérienne intestinale",
+   "Les changements alimentaires ou climatiques",
+   "La virulence du parasite",
+   "La dégradation de l'état général"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "plusieurs facteurs favorisants existent",
+   "modification de la flore intestinale",
+   "changements climatiques/alimentaires",
+   "virulence du parasite",
+   "état général dégradé"
+  ]
+ },
+ {
+  "q": "Concernant les adhésines et enzymes d'E. histolytica, lesquelles sont vraies ?",
+  "options": [
+   "Les adhésines permettent l'adhérence aux cellules intestinales",
+   "Elles expliquent les ulcérations",
+   "Elles sont sécrétées par la forme histolytica",
+   "Les enzymes protéolytiques provoquent la nécrose tissulaire",
+   "Elles sont sécrétées par le kyste"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "adhésines = adhérence",
+   "ulcérations intestinales",
+   "sécrétion par la forme histolytica",
+   "enzymes protéolytiques = lyse tissulaire",
+   "le kyste est métaboliquement inactif"
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sur le péril fécal sont exactes ?",
+  "options": [
+   "L'hygiène fécale est la base de la prophylaxie",
+   "Il concerne la transmission par voie sexuelle exclusive",
+   "Les mouches participent à la dissémination",
+   "L'eau et les aliments souillés en sont les véhicules",
+   "Il désigne la contamination par les matières fécales"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "hygiène fécale en prophylaxie",
+   "transmission féco-orale, pas sexuelle exclusive",
+   "mouches vecteurs mécaniques",
+   "eau/aliments souillés",
+   "péril fécal = contamination fécale"
+  ]
+ },
+ {
+  "q": "Un parasite monoxène obligatoire de l'homme signifie que :",
+  "options": [
+   "Il peut se développer chez l'animal",
+   "L'homme est le réservoir principal",
+   "Son cycle ne nécessite qu'un seul hôte",
+   "Cet hôte est l'homme",
+   "Il n'a pas besoin d'hôte intermédiaire"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "obligatoire de l'homme",
+   "réservoir homme+++",
+   "monoxène = un seul hôte",
+   "hôte = l'homme",
+   "pas d'hôte intermédiaire"
+  ]
+ },
+ {
+  "q": "Concernant la multiplication d'E. histolytica, quelles propositions sont correctes ?",
+  "options": [
+   "Elle se fait sous forme végétative minuta dans le cycle commensal",
+   "Le trophozoïte est la forme de multiplication",
+   "Elle a lieu dans le côlon",
+   "Elle nécessite un vecteur",
+   "Elle a lieu dans le foie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "forme minuta dans le cycle commensal",
+   "trophozoïte = forme végétative de multiplication",
+   "multiplication dans le côlon",
+   "pas de vecteur",
+   "le foie est atteint par dissémination, pas siège de multiplication"
+  ]
+ },
+ {
+  "q": "Quelles sont les formes présentes dans la lumière colique au cours du cycle commensal ?",
+  "options": [
+   "Les trophozoïtes minuta en multiplication",
+   "Les amoebules issues du dékystement",
+   "Les kystes avant élimination",
+   "Les formes histolytica hématophages",
+   "Les prékystes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "multiplication minuta",
+   "8 amoebules après dékystement",
+   "kystes éliminés",
+   "la forme histolytica appartient au cycle pathogène",
+   "prékystes"
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sur le kyste sont vraies ?",
+  "options": [
+   "Il est détruit par la congélation systématique",
+   "Il est éliminé dans les selles des porteurs",
+   "Il résiste aux sucs digestifs",
+   "Il est ingéré avec l'eau ou les aliments souillés",
+   "Il subit le dékystement dans le tube digestif"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "la congélation ne le détruit pas de façon fiable ; l'ébullition oui",
+   "élimination fécale",
+   "résistance aux sucs digestifs",
+   "ingestion = contamination",
+   "dékystement intestinal"
+  ]
+ },
+ {
+  "q": "Concernant l'épidémiologie de l'amibiase, lesquelles sont exactes ?",
+  "options": [
+   "Elle est plus fréquente en zone tempérée",
+   "Elle touche environ 10 % de la population mondiale",
+   "Elle est endémique en zone tropicale",
+   "90 % des infectés sont des porteurs sains",
+   "Elle touche 90 % de la population mondiale"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "zone tropicale, pas tempérée",
+   "10 % de la population mondiale",
+   "endémique en zone tropicale",
+   "90 % de porteurs sains",
+   "10 %, pas 90 %"
+  ]
+ },
+ {
+  "q": "Quels sont les réservoirs d'E. histolytica ?",
+  "options": [
+   "Le milieu extérieur (sol pollué par les matières fécales)",
+   "L'eau et les aliments contaminés",
+   "Le moustique",
+   "Les mouches",
+   "L'homme"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "sol pollué par les matières fécales",
+   "eau, aliments contaminés",
+   "pas de moustique",
+   "mouches vecteurs mécaniques",
+   "réservoir : homme+++"
+  ]
+ },
+ {
+  "q": "Quels facteurs favorisent l'amibiase ?",
+  "options": [
+   "Le climat tropical",
+   "Le niveau d'hygiène insuffisant",
+   "La consommation d'eau bouillie",
+   "La dégradation de l'état général et l'immunodépression",
+   "La fatigue et le stress"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "climat",
+   "hygiène",
+   "l'eau bouillie protège, elle ne favorise pas",
+   "état immunitaire",
+   "fatigue, stress"
+  ]
+ },
+ {
+  "q": "Concernant les porteurs sains d'amibiase, lesquelles sont vraies ?",
+  "options": [
+   "Ils représentent 90 % des sujets infectés",
+   "Ils éliminent des kystes dans leurs selles",
+   "Leur dépistage fait partie de la prophylaxie",
+   "Ils participent à la dissémination",
+   "Ils présentent une dysenterie glairo-sanglante"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "90 % de porteurs sains",
+   "élimination de kystes",
+   "dépistage et traitement des porteurs",
+   "dissémination",
+   "par définition asymptomatiques"
+  ]
+ },
+ {
+  "q": "Lesquelles de ces situations exposent au péril fécal ?",
+  "options": [
+   "L'épandage des matières fécales",
+   "L'absence de latrines",
+   "La consommation d'eau bouillie",
+   "Les eaux usées non traitées",
+   "Les cultures maraîchères non protégées"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "épandage des matières fécales",
+   "absence de latrines",
+   "l'eau bouillie est une mesure de protection",
+   "eaux usées non traitées",
+   "cultures maraîchères contaminées"
+  ]
+ },
+ {
+  "q": "Concernant la répartition géographique de l'amibiase, lesquelles sont exactes ?",
+  "options": [
+   "Elle est endémique en zone tropicale",
+   "Elle est cosmopolite mais plus fréquente sous les tropiques",
+   "Le peuplement et le niveau d'hygiène influencent sa fréquence",
+   "Elle ne touche que les voyageurs",
+   "Elle est absente des zones tropicales"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "endémique en zone tropicale",
+   "cosmopolite à prédominance tropicale",
+   "peuplement, hygiène",
+   "10 % de la population mondiale",
+   "elle y est endémique"
+  ]
+ },
+ {
+  "q": "Quels éléments du milieu extérieur constituent un réservoir ?",
+  "options": [
+   "Les aliments souillés",
+   "L'eau contaminée",
+   "L'air ambiant",
+   "Les mouches",
+   "Le sol pollué par les matières fécales"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "aliments",
+   "eau",
+   "pas de transmission aérienne",
+   "mouches",
+   "sol pollué"
+  ]
+ },
+ {
+  "q": "Concernant l'immunité et l'amibiase, lesquelles sont vraies ?",
+  "options": [
+   "Les changements climatiques favorisent l'expression pathogène",
+   "L'immunité acquise protège totalement des réinfections",
+   "La virulence du parasite intervient",
+   "La fatigue et le stress sont des facteurs favorisants",
+   "La dégradation de l'état immunitaire favorise la maladie"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "changements climatiques/alimentaires",
+   "pas d'immunité stérilisante totale",
+   "virulence du parasite",
+   "fatigue, stress",
+   "état immunitaire dégradé"
+  ]
+ },
+ {
+  "q": "Lesquelles de ces mesures réduisent le réservoir humain ?",
+  "options": [
+   "La construction de latrines",
+   "L'éducation sanitaire",
+   "Le dépistage des porteurs sains",
+   "L'épandage des matières fécales",
+   "Le traitement des porteurs sains"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "latrines",
+   "éducation sanitaire",
+   "dépistage des porteurs",
+   "l'épandage est à proscrire",
+   "traitement des porteurs"
+  ]
+ },
+ {
+  "q": "Quelle est la part des formes symptomatiques parmi les sujets infectés par E. histolytica ?",
+  "options": [
+   "La minorité des infectés",
+   "Environ 10 %",
+   "La totalité des infectés",
+   "Environ 90 %",
+   "La majorité des infectés"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "la minorité est symptomatique",
+   "~10 % de formes maladie",
+   "la plupart restent asymptomatiques",
+   "90 % = porteurs sains",
+   "la majorité est asymptomatique"
+  ]
+ },
+ {
+  "q": "Concernant l'amibiase-infection, lesquelles sont exactes ?",
+  "options": [
+   "Elle s'accompagne d'une dysenterie",
+   "Elle nécessite un traitement tissulaire systématique",
+   "Elle correspond au cycle commensal",
+   "C'est une colonisation asymptomatique",
+   "Le sujet élimine des kystes"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "pas de dysenterie",
+   "amoebicides de contact, pas tissulaires",
+   "cycle commensal non pathogène",
+   "amibiase-infection = colonisation asymptomatique",
+   "élimination de kystes"
+  ]
+ },
+ {
+  "q": "Concernant l'amibiase-maladie, lesquelles sont vraies ?",
+  "options": [
+   "Elle provoque abcès et nécrose tissulaire",
+   "Elle se limite au côlon",
+   "Elle est due aux formes histolytica pathogènes",
+   "Elle est toujours asymptomatique",
+   "Elle fait suite à l'invasion tissulaire"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "abcès et nécrose tissulaire",
+   "localisations extra-coliques possibles",
+   "formes histolytica pathogènes",
+   "elle est symptomatique",
+   "invasion tissulaire"
+  ]
+ },
+ {
+  "q": "Quelles sont les formes cliniques de l'amibiase colique primitive ?",
+  "options": [
+   "L'abcès hépatique",
+   "L'amoebome",
+   "L'amibiase colique maligne",
+   "La forme diarrhéique aiguë",
+   "La forme dysentérique aiguë"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "l'abcès hépatique est extra-colique",
+   "amoebome très rare",
+   "colique maligne rare",
+   "diarrhéique aiguë = la plus fréquente",
+   "dysentérique aiguë"
+  ]
+ },
+ {
+  "q": "Concernant la forme diarrhéique aiguë, lesquelles sont exactes ?",
+  "options": [
+   "Les selles sont pâteuses",
+   "C'est une forme atténuée",
+   "C'est la forme clinique la plus fréquente",
+   "On observe 5 à 15 selles glairo-sanglantes par jour",
+   "On note des douleurs coliques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "selles pâteuses",
+   "forme atténuée",
+   "la plus fréquente",
+   "les selles glairo-sanglantes = forme dysentérique",
+   "douleurs coliques"
+  ]
+ },
+ {
+  "q": "Concernant la forme dysentérique aiguë, lesquelles sont vraies ?",
+  "options": [
+   "La fièvre est constante à 39 °C",
+   "Les selles ont l'aspect de crachats rectaux",
+   "On observe 5 à 15 selles glairo-sanglantes par jour",
+   "L'ulcération de la muqueuse rectale conduit à la chronicité",
+   "Le malade est apyrétique"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "l'apyrexie distingue de la dysenterie bacillaire",
+   "crachats rectaux",
+   "5-15 selles glairo-sanglantes",
+   "ulcération rectale → chronicité",
+   "malade apyrétique"
+  ]
+ },
+ {
+  "q": "Quels éléments distinguent la dysenterie amibienne de la dysenterie bacillaire ?",
+  "options": [
+   "Le malade amibien est apyrétique",
+   "La dysenterie bacillaire s'accompagne de fièvre élevée",
+   "Le ténesme est majeur dans la shigellose",
+   "Les selles sont glairo-sanglantes en crachats rectaux",
+   "Les deux sont toujours fébriles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "apyrexie dans l'amibiase",
+   "fièvre dans la shigellose",
+   "ténesme marqué bacillaire",
+   "crachats rectaux",
+   "l'amibiase est apyrétique"
+  ]
+ },
+ {
+  "q": "Concernant l'amibiase colique maligne, lesquelles sont exactes ?",
+  "options": [
+   "Elle survient sur terrain débilité",
+   "Elle guérit toujours spontanément sans traitement",
+   "C'est une forme rare",
+   "On observe des douleurs aiguës",
+   "Il existe des nécroses intestinales et des perforations"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "terrain débilité",
+   "forme grave nécessitant un traitement urgent",
+   "rare",
+   "douleurs aiguës",
+   "nécroses, perforations"
+  ]
+ },
+ {
+  "q": "Concernant l'amoebome, quelles propositions sont correctes ?",
+  "options": [
+   "C'est la forme la plus fréquente",
+   "Il peut simuler un cancer colique",
+   "Il a un aspect tumoral",
+   "Il s'agit d'un abcès hépatique",
+   "C'est une forme très rare"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "forme rare, pas fréquente",
+   "diagnostic différentiel du cancer",
+   "aspect tumoral",
+   "localisation colique",
+   "très rare"
+  ]
+ },
+ {
+  "q": "Quelles sont les évolutions possibles de l'amibiase intestinale ?",
+  "options": [
+   "L'amibiase hépatique",
+   "La colite post-amibienne",
+   "L'amibiase pleuro-pulmonaire",
+   "La guérison spontanée sans séquelle",
+   "L'amibiase extra-colique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "hépatique+++",
+   "colite post-amibienne",
+   "pleuro-pulmonaire",
+   "évolution vers chronicité ou localisations",
+   "amibiase extra-colique"
+  ]
+ },
+ {
+  "q": "Concernant la colite post-amibienne, lesquelles sont vraies ?",
+  "options": [
+   "Elle s'accompagne d'un abcès hépatique",
+   "Elle nécessite un amoebicide tissulaire",
+   "Elle fait suite à l'amibiase intestinale",
+   "Elle est due à la persistance de troubles fonctionnels coliques",
+   "Elle associe une alternance de diarrhées et de constipation"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "pas d'abcès hépatique",
+   "pas d'invasion tissulaire active",
+   "post-amibiase intestinale",
+   "troubles fonctionnels séquellaires",
+   "alternance diarrhées/constipation"
+  ]
+ },
+ {
+  "q": "Concernant l'abcès hépatique amibien, lesquelles sont exactes ?",
+  "options": [
+   "C'est la localisation extra-colique la plus fréquente",
+   "Le pus a un aspect « chocolat »",
+   "Le malade reste en parfait état général",
+   "La fièvre est constante entre 38 et 39 °C",
+   "On note une hépatomégalie douloureuse et lisse"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "hépatique+++",
+   "pus chocolat",
+   "il existe une altération de l'état général",
+   "fièvre 38-39 °C",
+   "hépatomégalie douloureuse/lisse"
+  ]
+ },
+ {
+  "q": "Quels signes cliniques évoquent un abcès hépatique amibien ?",
+  "options": [
+   "Une gêne spontanée à l'inspiration profonde",
+   "Une fièvre à 38-39 °C",
+   "Une apyrexie constante",
+   "Une hépatomégalie douloureuse",
+   "Une douleur de l'hypochondre droit"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "gêne à l'inspiration profonde",
+   "fièvre constante",
+   "la fièvre est constante, pas d'apyrexie",
+   "hépatomégalie douloureuse",
+   "douleur hypochondre droit"
+  ]
+ },
+ {
+  "q": "Concernant la biologie de l'abcès hépatique amibien, lesquelles sont vraies ?",
+  "options": [
+   "Sérologie amibienne positive (IFI, ELISA ou HAI)",
+   "Anémie constante et profonde",
+   "Sérologie amibienne sans intérêt",
+   "Examen parasitologique des selles toujours positif",
+   "Hyperleucocytose à polynucléaires neutrophiles"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "sérologie = seul examen spécifique",
+   "pas d'anémie constante décrite",
+   "la sérologie est l'examen clé",
+   "parasitologie sans intérêt en extra-colique",
+   "hyperleucocytose à PNN"
+  ]
+ },
+ {
+  "q": "Concernant l'imagerie de l'abcès hépatique amibien, lesquelles sont exactes ?",
+  "options": [
+   "Le scanner (TDM) montre un abcès liquidien",
+   "La radiographie standard suffit au diagnostic",
+   "L'abcès est de nature liquidienne",
+   "L'échographie montre un abcès liquidien",
+   "L'imagerie est normale"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "abcès liquidien au TDM",
+   "examens radiologiques : échographie/TDM",
+   "nature liquidienne",
+   "abcès liquidien à l'échographie",
+   "imagerie pathologique"
+  ]
+ },
+ {
+  "q": "Quelles localisations extra-coliques de l'amibiase sont possibles ?",
+  "options": [
+   "Pleuro-pulmonaire",
+   "Cérébrale (exceptionnelle)",
+   "Rénale systématique",
+   "Cutanée (exceptionnelle)",
+   "Hépatique"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "pleuro-pulmonaire",
+   "atteintes exceptionnelles possibles",
+   "pas d'atteinte rénale systématique",
+   "formes cutanées décrites",
+   "foie+++"
+  ]
+ },
+ {
+  "q": "Concernant l'amibiase pleuro-pulmonaire, lesquelles sont vraies ?",
+  "options": [
+   "Elle fait suite le plus souvent à un abcès hépatique du dôme",
+   "Elle est la localisation extra-colique la plus fréquente",
+   "Elle résulte d'une rupture trans-diaphragmatique",
+   "Elle peut donner une expectoration chocolat",
+   "Elle est due à l'inhalation de kystes"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "extension d'un abcès du dôme hépatique",
+   "le foie reste la première localisation",
+   "rupture à travers le diaphragme",
+   "vomique chocolat",
+   "pas d'inhalation"
+  ]
+ },
+ {
+  "q": "Quels arguments orientent vers une amibiase-maladie extra-colique ?",
+  "options": [
+   "Un abcès liquidien à l'imagerie",
+   "Un contexte épidémiologique (zone d'endémie, péril fécal)",
+   "La notion d'un épisode colique antérieur",
+   "Une sérologie amibienne positive",
+   "Un examen parasitologique des selles négatif qui élimine le diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "abcès liquidien",
+   "contexte épidémiologique",
+   "épisode colique antérieur",
+   "sérologie spécifique",
+   "la parasitologie est sans intérêt en extra-colique"
+  ]
+ },
+ {
+  "q": "Concernant le pus de l'abcès amibien, lesquelles sont exactes ?",
+  "options": [
+   "Il est le plus souvent stérile sur le plan bactériologique",
+   "Il contient des hématies lysées",
+   "Il a un aspect « chocolat »",
+   "Il est franchement purulent à polynucléaires altérés comme un abcès à pyogènes",
+   "Les amibes y sont rarement retrouvées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "stérile en bactériologie",
+   "hématies lysées = couleur chocolat",
+   "pus chocolat",
+   "aspect différent de l'abcès bactérien",
+   "amibes rares dans le pus, présentes en périphérie"
+  ]
+ },
+ {
+  "q": "Quelles complications peut présenter l'amibiase colique ?",
+  "options": [
+   "Les perforations intestinales",
+   "Le choc infectieux (forme maligne)",
+   "L'hémorragie digestive",
+   "La cirrhose hépatique",
+   "La chronicité après ulcération rectale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "perforations",
+   "choc infectieux",
+   "hémorragie sur ulcérations",
+   "pas de cirrhose",
+   "chronicité"
+  ]
+ },
+ {
+  "q": "Concernant la physiopathologie des lésions coliques, lesquelles sont vraies ?",
+  "options": [
+   "Les enzymes protéolytiques lysent les tissus",
+   "Les adhésines permettent l'adhérence à la muqueuse",
+   "Il se forme des ulcérations en « bouton de chemise »",
+   "La nécrose tissulaire favorise les abcès",
+   "Les lésions sont dues à une toxine préformée ingérée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "enzymes protéolytiques",
+   "adhésines",
+   "ulcérations typiques",
+   "nécrose et abcès",
+   "lésions par invasion tissulaire, pas toxine préformée"
+  ]
+ },
+ {
+  "q": "Un patient présente 10 selles glairo-sanglantes par jour, apyrétique, de retour d'une zone tropicale. Quelles propositions sont correctes ?",
+  "options": [
+   "Le traitement fait appel aux imidazolés",
+   "L'examen des selles doit être immédiat à 37 °C",
+   "On recherche des trophozoïtes forme histolytica",
+   "Le diagnostic évoqué est la dysenterie amibienne",
+   "La fièvre élevée est attendue"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "amoebicide tissulaire",
+   "glaire sanglante = examen immédiat à 37 °C",
+   "recherche de trophozoïtes histolytica",
+   "tableau de dysenterie amibienne",
+   "malade apyrétique"
+  ]
+ },
+ {
+  "q": "Un patient présente une hépatomégalie douloureuse, une fièvre à 38,5 °C et une AEG. Quelles propositions sont exactes ?",
+  "options": [
+   "L'échographie recherche un abcès liquidien",
+   "L'hyperleucocytose à PNN est attendue",
+   "Il faut évoquer un abcès hépatique amibien",
+   "La sérologie amibienne est l'examen spécifique",
+   "L'examen parasitologique des selles est l'examen de choix"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "abcès liquidien à l'écho",
+   "hyperleucocytose à PNN",
+   "abcès hépatique amibien à évoquer",
+   "sérologie = seul examen spécifique",
+   "parasitologie sans intérêt"
+  ]
+ },
+ {
+  "q": "Concernant l'amibiase chez le sujet débilité, lesquelles sont vraies ?",
+  "options": [
+   "Le risque de forme colique maligne est accru",
+   "La maladie est toujours bénigne",
+   "Les perforations sont possibles",
+   "Les nécroses intestinales sont possibles",
+   "Le choc infectieux peut survenir"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "terrain débilité = forme maligne",
+   "formes graves possibles",
+   "perforations",
+   "nécroses intestinales",
+   "choc infectieux"
+  ]
+ },
+ {
+  "q": "Quelles différences y a-t-il entre amibiase-infection et amibiase-maladie ?",
+  "options": [
+   "L'amibiase-maladie provoque nécrose et abcès",
+   "L'amibiase-maladie implique les formes histolytica",
+   "Il n'y a aucune différence",
+   "L'amibiase-infection est asymptomatique",
+   "L'amibiase-infection correspond au portage sain de kystes"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "abcès et nécrose tissulaire",
+   "maladie = formes histolytica pathogènes",
+   "distinction fondamentale",
+   "infection = colonisation asymptomatique",
+   "portage sain"
+  ]
+ },
+ {
+  "q": "Concernant les ulcérations amibiennes, lesquelles sont exactes ?",
+  "options": [
+   "Elles guérissent toujours sans traitement",
+   "Elles siègent sur la muqueuse colique",
+   "Elles résultent de l'action des enzymes protéolytiques",
+   "L'ulcération rectale favorise la chronicité",
+   "Elles sont dues aux kystes"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "nécessitent un traitement",
+   "muqueuse colique",
+   "enzymes protéolytiques",
+   "ulcération rectale → chronicité",
+   "dues aux trophozoïtes histolytica"
+  ]
+ },
+ {
+  "q": "Quels signes font suspecter une forme dysentérique plutôt qu'une forme diarrhéique simple ?",
+  "options": [
+   "Des selles pâteuses peu nombreuses",
+   "Un nombre de selles de 5 à 15 par jour",
+   "Des selles glairo-sanglantes",
+   "L'apyrexie",
+   "L'aspect de crachats rectaux"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "selles pâteuses = forme diarrhéique",
+   "5-15 selles/jour",
+   "glaire sanglante",
+   "apyrexie commune aux deux",
+   "crachats rectaux"
+  ]
+ },
+ {
+  "q": "Concernant l'évolution naturelle de l'amibiase intestinale non traitée, lesquelles sont vraies ?",
+  "options": [
+   "Guérison systématique sans séquelle",
+   "Possibilité de colite post-amibienne",
+   "Possibilité de forme maligne sur terrain débilité",
+   "Possibilité de chronicité",
+   "Possibilité de localisation hépatique"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "pas de guérison systématique",
+   "colite post-amibienne",
+   "forme maligne possible",
+   "chronicité",
+   "amibiase hépatique"
+  ]
+ },
+ {
+  "q": "Quels organes peuvent être atteints par dissémination hématogène ?",
+  "options": [
+   "La plèvre",
+   "Le cerveau (exceptionnellement)",
+   "Le foie",
+   "Le poumon",
+   "Le rein de façon constante"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "plèvre",
+   "exceptionnellement cerveau",
+   "foie+++",
+   "poumon",
+   "pas d'atteinte rénale constante"
+  ]
+ },
+ {
+  "q": "Concernant la douleur de l'abcès hépatique amibien, lesquelles sont exactes ?",
+  "options": [
+   "Elle est typiquement épigastrique isolée",
+   "Elle siège à l'hypochondre droit",
+   "L'hépatomégalie est douloureuse",
+   "Il existe une gêne à l'inspiration profonde",
+   "Elle est soulagée par l'alimentation"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "hypochondre droit, pas épigastre isolé",
+   "hypochondre droit",
+   "hépatomégalie douloureuse/lisse",
+   "gêne à l'inspiration profonde",
+   "pas de lien avec l'alimentation"
+  ]
+ },
+ {
+  "q": "Un abcès hépatique amibien rompu dans la plèvre peut donner :",
+  "options": [
+   "Un épanchement pleural",
+   "Une dyspnée",
+   "Une hématurie",
+   "Une vomique chocolat",
+   "Une douleur thoracique"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "épanchement pleural",
+   "dyspnée",
+   "pas d'hématurie",
+   "expectoration chocolat",
+   "douleur thoracique"
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic de présomption de l'amibiase intestinale, lesquelles sont exactes ?",
+  "options": [
+   "Il suffit à affirmer le diagnostic",
+   "La notion de péril fécal est un argument",
+   "Il repose sur des éléments cliniques",
+   "Le retour d'une zone d'endémie est un argument",
+   "Il repose sur des éléments épidémiologiques"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "la présomption doit être confirmée",
+   "péril fécal",
+   "éléments cliniques",
+   "zone tropicale",
+   "éléments épidémiologiques"
+  ]
+ },
+ {
+  "q": "Selon l'aspect des selles, que faut-il rechercher ?",
+  "options": [
+   "Selles diarrhéiques : kystes immatures",
+   "Selles moulées : trophozoïtes mobiles",
+   "Glaire sanglante : examen différé à froid",
+   "Selles moulées : kystes d'E. histolytica",
+   "Glaire sanglante : trophozoïtes forme histolytica à 37 °C en examen immédiat"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "selles diarrhéiques → kystes immatures",
+   "les trophozoïtes ne survivent pas dans les selles moulées",
+   "examen immédiat à chaud",
+   "selles moulées → kystes",
+   "glaire sanglante → examen immédiat à 37 °C"
+  ]
+ },
+ {
+  "q": "Concernant l'examen parasitologique des selles, lesquelles sont vraies ?",
+  "options": [
+   "Il se fait sur selles fraîchement émises",
+   "Il doit être répété 3 fois pour augmenter la sensibilité",
+   "Un seul examen négatif élimine le diagnostic",
+   "L'observation microscopique doit être rapide",
+   "Il est complété par des méthodes d'enrichissement"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "selles fraîchement émises",
+   "répété 3 fois",
+   "un examen négatif n'élimine pas",
+   "observation rapide",
+   "méthodes d'enrichissement"
+  ]
+ },
+ {
+  "q": "Pourquoi répéter 3 fois l'examen parasitologique des selles ?",
+  "options": [
+   "Pour augmenter la sensibilité du diagnostic",
+   "Pour remplacer la sérologie",
+   "Pour différencier E. histolytica d'E. dispar",
+   "Car l'élimination des kystes est intermittente",
+   "Car un examen unique a une sensibilité insuffisante"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "augmenter la sensibilité",
+   "ne remplace pas la sérologie",
+   "la répétition ne différencie pas E.h/E.d",
+   "élimination intermittente",
+   "sensibilité d'un examen unique insuffisante"
+  ]
+ },
+ {
+  "q": "Concernant l'examen de la glaire sanglante, lesquelles sont exactes ?",
+  "options": [
+   "Il doit être immédiat",
+   "On recherche des kystes matures",
+   "On recherche des trophozoïtes sous forme histolytica",
+   "Il se fait à 37 °C",
+   "Il peut attendre 48 heures"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "examen immédiat",
+   "pas de kystes dans la glaire sanglante",
+   "trophozoïtes histolytica",
+   "à 37 °C",
+   "les trophozoïtes sont fragiles"
+  ]
+ },
+ {
+  "q": "Quelles méthodes d'enrichissement sont utilisées en parasitologie des selles ?",
+  "options": [
+   "La concentration par flottation",
+   "La méthode de Ritchie",
+   "La culture sur gélose au sang",
+   "La coloration de Gram",
+   "La méthode de Bailenger"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "flottation",
+   "Ritchie",
+   "pas de culture bactérienne",
+   "coloration bactériologique",
+   "Bailenger"
+  ]
+ },
+ {
+  "q": "Concernant la sérologie de l'amibiase intestinale, lesquelles sont vraies ?",
+  "options": [
+   "Elle n'est pas l'examen de choix",
+   "Elle est constamment fortement positive",
+   "Elle est négative ou faiblement positive",
+   "Elle est le seul examen spécifique en localisation extra-colique",
+   "Elle remplace l'examen des selles"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "l'EPS est l'examen de choix",
+   "pas constamment positive",
+   "négative ou faiblement positive",
+   "cela concerne l'extra-colique",
+   "ne remplace pas l'EPS"
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic de l'amibiase extra-colique, lesquelles sont exactes ?",
+  "options": [
+   "Le diagnostic parasitologique est sans intérêt",
+   "L'examen des selles est l'examen de choix",
+   "La notion d'un épisode colique antérieur oriente",
+   "Les techniques utilisées sont l'IFI, l'ELISA et l'HAI",
+   "La sérologie amibienne est le seul examen spécifique"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "parasitologie sans intérêt",
+   "l'EPS n'est pas contributif",
+   "épisode colique antérieur",
+   "IFI, ELISA, HAI",
+   "sérologie = seul examen spécifique"
+  ]
+ },
+ {
+  "q": "Quelles techniques sérologiques sont utilisées pour l'amibiase ?",
+  "options": [
+   "L'hémagglutination indirecte (HAI)",
+   "La recherche d'adhésine par ELISA",
+   "Le test de Coombs",
+   "L'immunofluorescence indirecte (IFI)",
+   "L'ELISA"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "HAI",
+   "ELISA adhésine pour E.h/E.d",
+   "test d'immuno-hématologie",
+   "IFI",
+   "ELISA"
+  ]
+ },
+ {
+  "q": "Concernant la différenciation E. histolytica / E. dispar au laboratoire, lesquelles sont vraies ?",
+  "options": [
+   "La sérologie intestinale tranche",
+   "La PCR est utile",
+   "La microscopie optique est insuffisante",
+   "La culture est l'examen de routine",
+   "La recherche d'adhésine spécifique par ELISA est utile"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "sérologie intestinale négative/faiblement positive",
+   "PCR",
+   "MO insuffisante",
+   "pas de culture de routine",
+   "ELISA adhésine spécifique"
+  ]
+ },
+ {
+  "q": "La présence d'amibes non pathogènes dans les selles signifie :",
+  "options": [
+   "Une contamination liée au péril fécal",
+   "Une exposition au risque amibien",
+   "La nécessité de rechercher E. histolytica",
+   "Une amibiase-maladie",
+   "Qu'elles sont pathogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "signe une contamination féco-orale",
+   "marqueur d'exposition",
+   "rechercher E. histolytica associé",
+   "elles ne sont pas pathogènes",
+   "non pathogènes en général"
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'orientation de l'amibiase hépatique, lesquelles sont exactes ?",
+  "options": [
+   "Sérologie amibienne positive",
+   "Notion d'un épisode colique antérieur",
+   "Abcès liquidien à l'échographie ou au TDM",
+   "Trophozoïtes dans les selles systématiquement",
+   "Hyperleucocytose à PNN"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "sérologie spécifique",
+   "épisode colique antérieur",
+   "abcès liquidien",
+   "parasitologie sans intérêt",
+   "hyperleucocytose à PNN"
+  ]
+ },
+ {
+  "q": "Quels examens radiologiques sont utiles devant un abcès hépatique amibien ?",
+  "options": [
+   "La radiographie thoracique systématique",
+   "L'échographie cardiaque",
+   "Le scanner abdominal (TDM)",
+   "L'IRM hépatique",
+   "L'échographie hépatique"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "pas systématique",
+   "non indiquée",
+   "TDM : abcès liquidien",
+   "IRM possible",
+   "échographie : abcès liquidien"
+  ]
+ },
+ {
+  "q": "Concernant l'examen parasitologique dans l'amibiase-maladie extra-colique, lesquelles sont vraies ?",
+  "options": [
+   "Les amibes se trouvent en périphérie de l'abcès, pas dans le pus",
+   "La ponction de l'abcès retrouve rarement les amibes",
+   "La sérologie le remplace",
+   "Il est sans intérêt diagnostique",
+   "Il est l'examen de choix"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "périphérie de l'abcès",
+   "amibes rares dans le pus",
+   "sérologie = examen spécifique",
+   "sans intérêt",
+   "ce n'est pas l'examen de choix"
+  ]
+ },
+ {
+  "q": "Un examen de selles montre des kystes à 4 noyaux avec cristalloïde. Quelles propositions sont correctes ?",
+  "options": [
+   "Il peut s'agir d'E. histolytica",
+   "Il peut s'agir d'E. dispar",
+   "Une confirmation par ELISA adhésine ou PCR est nécessaire",
+   "Il s'agit d'E. coli",
+   "Le diagnostic d'E. histolytica est certain"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "E.h possible",
+   "E.d possible (indiscernables)",
+   "ELISA/PCR pour trancher",
+   "E. coli a un kyste différent",
+   "pas de certitude en MO"
+  ]
+ },
+ {
+  "q": "Concernant les selles moulées, lesquelles sont exactes ?",
+  "options": [
+   "On y recherche les kystes d'E. histolytica",
+   "Les kystes doivent être distingués de ceux des amibes non pathogènes",
+   "On y trouve des trophozoïtes mobiles",
+   "Les selles moulées éliminent le diagnostic",
+   "L'examen doit être rapide et complété par enrichissement"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "recherche de kystes",
+   "distinguer des amibes non pathogènes",
+   "les trophozoïtes ne survivent pas dans les selles moulées",
+   "les porteurs éliminent des kystes dans des selles moulées",
+   "rapidité + enrichissement"
+  ]
+ },
+ {
+  "q": "Quelles erreurs faut-il éviter dans le diagnostic de l'amibiase intestinale ?",
+  "options": [
+   "Se contenter d'un seul examen de selles",
+   "Répéter l'examen 3 fois",
+   "Confondre E. histolytica et E. dispar en microscopie",
+   "Examiner des selles non fraîches pour la glaire sanglante",
+   "Oublier les méthodes d'enrichissement"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "répéter 3 fois",
+   "la répétition est recommandée",
+   "indiscernables en MO",
+   "examen immédiat à 37 °C",
+   "enrichissement nécessaire"
+  ]
+ },
+ {
+  "q": "Concernant la NFS dans l'abcès hépatique amibien, lesquelles sont vraies ?",
+  "options": [
+   "À polynucléaires neutrophiles",
+   "Anémie systématique",
+   "Hyperéosinophilie constante",
+   "Hyperleucocytose",
+   "Thrombopénie constante"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "à PNN",
+   "pas d'anémie systématique",
+   "pas d'hyperéosinophilie typique",
+   "hyperleucocytose",
+   "pas de thrombopénie constante"
+  ]
+ },
+ {
+  "q": "Le diagnostic différentiel d'un abcès hépatique amibien inclut :",
+  "options": [
+   "L'hydatidose hépatique",
+   "L'hépatocarcinome nécrosé",
+   "L'amibiase intestinale",
+   "La lithiase vésiculaire simple",
+   "L'abcès hépatique à pyogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "kyste hydatique",
+   "CHC nécrosé",
+   "pas un diagnostic différentiel",
+   "pas un abcès",
+   "abcès bactérien"
+  ]
+ },
+ {
+  "q": "Concernant la ponction d'un abcès hépatique amibien, lesquelles sont exactes ?",
+  "options": [
+   "L'examen bactériologique est le plus souvent stérile",
+   "Elle ramène un pus franc à pyogènes",
+   "Le liquide a un aspect chocolat",
+   "Elle est systématique à visée diagnostique",
+   "Les amibes sont rarement retrouvées dans le pus"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "stérile en bactériologie",
+   "aspect différent du pus bactérien",
+   "pus chocolat",
+   "diagnostic = sérologie + imagerie",
+   "amibes en périphérie"
+  ]
+ },
+ {
+  "q": "Quels arguments épidémiologiques orientent vers l'amibiase ?",
+  "options": [
+   "Un séjour en zone polaire",
+   "La notion de péril fécal",
+   "Un séjour en zone tropicale",
+   "Un contage familial ou collectif",
+   "La consommation d'eau non traitée"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "pas de zone polaire",
+   "péril fécal",
+   "zone tropicale",
+   "contage",
+   "eau non traitée"
+  ]
+ },
+ {
+  "q": "Concernant l'examen à 37 °C de la glaire sanglante, lesquelles sont vraies ?",
+  "options": [
+   "On recherche des kystes",
+   "On observe des pseudopodes",
+   "La chaleur maintient la mobilité des trophozoïtes",
+   "On identifie la forme histolytica hématophage",
+   "Le froid améliore l'observation"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "trophozoïtes, pas kystes",
+   "pseudopodes visibles",
+   "37 °C = mobilité",
+   "forme histolytica",
+   "le froid immobilise"
+  ]
+ },
+ {
+  "q": "Quelle est la place de la coproculture dans le diagnostic de l'amibiase ?",
+  "options": [
+   "Elle est systématique",
+   "Elle est remplacée par l'ELISA adhésine et la PCR pour E.h/E.d",
+   "L'examen direct et l'enrichissement suffisent",
+   "Elle n'a pas de place en routine",
+   "Elle est l'examen de choix"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "pas systématique",
+   "ELISA/PCR pour la différenciation",
+   "direct + enrichissement",
+   "pas de coproculture de routine",
+   "l'EPS est l'examen de choix"
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic biologique global, lesquelles sont exactes ?",
+  "options": [
+   "Amibiase extra-colique : parasitologie sans intérêt",
+   "Amibiase intestinale : sérologie = examen de choix",
+   "Amibiase intestinale : examen parasitologique des selles répété 3 fois",
+   "Amibiase intestinale : sérologie peu contributive",
+   "Amibiase extra-colique : sérologie spécifique (IFI, ELISA, HAI)"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "parasitologie sans intérêt",
+   "l'EPS est l'examen de choix",
+   "EPS x3",
+   "sérologie négative/faiblement positive",
+   "sérologie spécifique"
+  ]
+ },
+ {
+  "q": "Un patient fébrile à 38,7 °C avec hépatomégalie douloureuse et sérologie amibienne positive : quelles propositions sont correctes ?",
+  "options": [
+   "Le diagnostic est un abcès hépatique amibien",
+   "Le traitement repose sur les imidazolés",
+   "La ponction systématique est nécessaire",
+   "L'examen des selles est indispensable au diagnostic",
+   "L'échographie doit montrer un abcès liquidien"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "tableau typique",
+   "amoebicide tissulaire",
+   "diagnostic clinico-sérologique",
+   "parasitologie sans intérêt",
+   "abcès liquidien"
+  ]
+ },
+ {
+  "q": "Concernant les amoebicides de contact, lesquelles sont exactes ?",
+  "options": [
+   "Ils diffusent dans les tissus",
+   "Ils sont indiqués dans l'amibiase-invasion (portage)",
+   "L'Humatin (paromomycine) : 2 g/j pendant 10 jours",
+   "L'Intétrix (tiliquinol + tilbroquinol) : 4 à 6 gélules/j pendant 10 jours",
+   "Ils traitent l'abcès hépatique"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "action intraluminale, pas de diffusion tissulaire",
+   "amibiase-invasion = portage",
+   "Humatin 2 g/j x 10 j",
+   "Intétrix 4-6 gél/j x 10 j",
+   "l'abcès relève des imidazolés"
+  ]
+ },
+ {
+  "q": "Concernant les amoebicides tissulaires, lesquelles sont vraies ?",
+  "options": [
+   "Ils sont indiqués dans le simple portage",
+   "Ce sont les imidazolés",
+   "Ils sont indiqués dans l'amibiase intestinale aiguë et tissulaire",
+   "Ils comprennent le métronidazole",
+   "Ils diffusent dans les tissus"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "le portage relève des amoebicides de contact",
+   "imidazolés",
+   "formes aiguës et tissulaires",
+   "Flagyl = métronidazole",
+   "diffusion tissulaire"
+  ]
+ },
+ {
+  "q": "Concernant le Flagyl (métronidazole), lesquelles sont exactes ?",
+  "options": [
+   "Il traite l'abcès hépatique amibien",
+   "C'est un amoebicide tissulaire",
+   "Posologie : 1,5 à 2 g/j pendant 5 à 10 jours",
+   "C'est un amoebicide de contact",
+   "Il est indiqué dans la dysenterie amibienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "traitement de l'abcès hépatique",
+   "imidazolé tissulaire",
+   "1,5-2 g/j x 5-10 j",
+   "pas un amoebicide de contact",
+   "dysenterie amibienne"
+  ]
+ },
+ {
+  "q": "Concernant le Tibéral (ornidazole), lesquelles sont vraies ?",
+  "options": [
+   "Posologie : 2 g/j pendant 7 jours",
+   "C'est un amoebicide de contact",
+   "C'est un amoebicide tissulaire",
+   "C'est un imidazolé",
+   "Il est indiqué dans l'amibiase tissulaire"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "2 g/j x 7 j",
+   "pas de contact",
+   "tissulaire",
+   "ornidazole = imidazolé",
+   "formes tissulaires"
+  ]
+ },
+ {
+  "q": "Concernant le Flagentyl (secnidazole), lesquelles sont exactes ?",
+  "options": [
+   "Il s'administre en prise unique de 2 g",
+   "Il nécessite 10 jours de traitement",
+   "C'est un amoebicide tissulaire",
+   "Il est indiqué dans le portage simple",
+   "C'est un imidazolé"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "2 g en prise unique",
+   "prise unique",
+   "tissulaire",
+   "le portage relève des amoebicides de contact",
+   "secnidazole = imidazolé"
+  ]
+ },
+ {
+  "q": "Concernant la Fasigyne (tinidazole), lesquelles sont vraies ?",
+  "options": [
+   "La posologie est adaptée au poids",
+   "C'est un amoebicide de contact",
+   "C'est un amoebicide tissulaire",
+   "C'est un imidazolé",
+   "Posologie : 30 à 40 mg/kg/j pendant 5 jours"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "posologie pondérale",
+   "pas de contact",
+   "tissulaire",
+   "tinidazole = imidazolé",
+   "30-40 mg/kg/j x 5 j"
+  ]
+ },
+ {
+  "q": "Quel est le délai de négativation des selles sous imidazolés ?",
+  "options": [
+   "3 à 4 jours",
+   "24 heures",
+   "Plus d'un mois",
+   "Moins d'une semaine",
+   "10 jours systématiquement"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "négativation en 3-4 j",
+   "pas 24 h",
+   "pas un mois",
+   "moins d'une semaine",
+   "3-4 jours"
+  ]
+ },
+ {
+  "q": "Concernant la conduite thérapeutique, lesquelles sont exactes ?",
+  "options": [
+   "Amibiase-invasion : amoebicides de contact",
+   "Abcès hépatique : métronidazole en première intention",
+   "Amibiase intestinale aiguë : imidazolés",
+   "Portage simple : imidazolés seuls",
+   "Amibiase tissulaire : imidazolés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "invasion = contact",
+   "abcès hépatique = métronidazole",
+   "intestinale aiguë = tissulaire",
+   "portage = amoebicides de contact",
+   "tissulaire = imidazolés"
+  ]
+ },
+ {
+  "q": "Quelles précautions accompagnent le traitement par imidazolés ?",
+  "options": [
+   "Associer systématiquement un antibiotique",
+   "Éviter l'alcool (effet antabuse)",
+   "Respecter la posologie et la durée",
+   "Surveiller la négativation des selles",
+   "Poursuivre le traitement malgré les vomissements sans avis"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "pas d'antibiotique systématique",
+   "effet antabuse avec l'alcool",
+   "observance",
+   "contrôle de négativation",
+   "avis médical en cas d'intolérance"
+  ]
+ },
+ {
+  "q": "Concernant l'Intétrix, lesquelles sont vraies ?",
+  "options": [
+   "Il associe tiliquinol et tilbroquinol",
+   "Il traite l'abcès hépatique",
+   "Il diffuse dans le foie",
+   "Posologie : 4 à 6 gélules/j pendant 10 jours",
+   "C'est un amoebicide de contact"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "tiliquinol + tilbroquinol",
+   "pas d'action sur l'abcès",
+   "pas de diffusion tissulaire",
+   "4-6 gél/j x 10 j",
+   "amoebicide de contact"
+  ]
+ },
+ {
+  "q": "Concernant l'Humatin (paromomycine), lesquelles sont exactes ?",
+  "options": [
+   "Posologie : 2 g/j pendant 10 jours",
+   "Il traite les formes tissulaires",
+   "Il est indiqué dans l'amibiase-invasion",
+   "C'est un imidazolé",
+   "C'est un amoebicide de contact"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "2 g/j x 10 j",
+   "pas de diffusion tissulaire",
+   "amibiase-invasion",
+   "aminoside, pas imidazolé",
+   "amoebicide de contact"
+  ]
+ },
+ {
+  "q": "Un patient présente une dysenterie amibienne confirmée. Quelles propositions thérapeutiques sont correctes ?",
+  "options": [
+   "Secnidazole 2 g en prise unique",
+   "Ornidazole 2 g/j pendant 7 jours",
+   "Métronidazole 1,5-2 g/j pendant 5 à 10 jours",
+   "Intétrix seul",
+   "Paromomycine seule"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Flagentyl",
+   "Tibéral",
+   "Flagyl",
+   "amoebicide de contact insuffisant seul",
+   "insuffisant seul"
+  ]
+ },
+ {
+  "q": "Un patient présente un abcès hépatique amibien. Quelles propositions sont correctes ?",
+  "options": [
+   "Métronidazole en première intention",
+   "Les amoebicides de contact suffisent",
+   "L'Intétrix seul est insuffisant",
+   "Un amoebicide tissulaire est nécessaire",
+   "La ponction n'est pas systématique"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "métronidazole",
+   "diffusion tissulaire nécessaire",
+   "contact insuffisant",
+   "imidazolé tissulaire",
+   "traitement médical premier"
+  ]
+ },
+ {
+  "q": "Concernant l'association thérapeutique dans l'amibiase, lesquelles sont vraies ?",
+  "options": [
+   "Le métronidazole seul suffit toujours dans le portage",
+   "L'association éradique les formes tissulaires et luminales",
+   "On peut associer un amoebicide tissulaire et un amoebicide de contact",
+   "L'association n'a aucun intérêt",
+   "L'Intétrix seul suffit dans l'abcès hépatique"
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "le portage relève du contact",
+   "éradication complète",
+   "tissulaire + contact",
+   "association logique",
+   "contact insuffisant dans l'abcès"
+  ]
+ },
+ {
+  "q": "Quels sont les effets indésirables des imidazolés à connaître ?",
+  "options": [
+   "Goût métallique",
+   "Effet antabuse avec l'alcool",
+   "Nausées et troubles digestifs",
+   "Neuropathie en cas de traitement prolongé",
+   "Aucun effet indésirable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "goût métallique",
+   "antabuse",
+   "troubles digestifs",
+   "neuropathie si prolongé",
+   "effets indésirables existants"
+  ]
+ },
+ {
+  "q": "Concernant le suivi après traitement d'une amibiase intestinale, lesquelles sont exactes ?",
+  "options": [
+   "Contrôle de la négativation des selles",
+   "Aucun suivi nécessaire",
+   "Examen parasitologique de contrôle",
+   "Surveillance clinique",
+   "Sérologie systématique"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "négativation des selles",
+   "suivi nécessaire",
+   "EPS de contrôle",
+   "surveillance clinique",
+   "sérologie peu contributive en intestinal"
+  ]
+ },
+ {
+  "q": "Quelles sont les contre-indications ou précautions des imidazolés ?",
+  "options": [
+   "Aucune précaution",
+   "Consommation d'alcool",
+   "Insuffisance hépatique sévère",
+   "Antécédent de neuropathie",
+   "Grossesse (principe de précaution au 1er trimestre)"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "précautions nécessaires",
+   "effet antabuse",
+   "métabolisme hépatique",
+   "neuropathie",
+   "précaution 1er trimestre"
+  ]
+ },
+ {
+  "q": "Concernant la paromomycine, lesquelles sont vraies ?",
+  "options": [
+   "Son action est intraluminale",
+   "Elle appartient aux aminosides",
+   "Elle est indiquée dans le portage",
+   "Elle est peu absorbée par voie orale",
+   "Elle diffuse dans le foie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "action de contact",
+   "aminoside",
+   "amibiase-invasion",
+   "faible absorption",
+   "pas de diffusion"
+  ]
+ },
+ {
+  "q": "Quel traitement pour un porteur sain d'E. histolytica en zone d'endémie ?",
+  "options": [
+   "Un amoebicide de contact",
+   "Intétrix 4-6 gélules/j pendant 10 jours",
+   "Métronidazole seul systématique",
+   "Paromomycine 2 g/j pendant 10 jours",
+   "Aucun traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "amoebicide de contact",
+   "Intétrix",
+   "le portage ne relève pas des imidazolés seuls",
+   "Humatin",
+   "traitement du porteur = prophylaxie"
+  ]
+ },
+ {
+  "q": "Concernant la durée des traitements, lesquelles sont exactes ?",
+  "options": [
+   "Ornidazole : 7 jours",
+   "Métronidazole : 5 à 10 jours",
+   "Intétrix : 3 jours",
+   "Secnidazole : prise unique",
+   "Tinidazole : 5 jours"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Tibéral 7 j",
+   "Flagyl 5-10 j",
+   "Intétrix 10 jours",
+   "Flagentyl prise unique",
+   "Fasigyne 5 j"
+  ]
+ },
+ {
+  "q": "Concernant la prophylaxie générale de l'amibiase, lesquelles sont exactes ?",
+  "options": [
+   "Hygiène fécale",
+   "Épandage des matières fécales sur les cultures",
+   "Construction de latrines",
+   "Traitement des eaux usées",
+   "Éducation sanitaire"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "hygiène fécale",
+   "l'épandage est à proscrire",
+   "latrines",
+   "traitement des eaux usées",
+   "éducation sanitaire"
+  ]
+ },
+ {
+  "q": "Quelles mesures protègent les cultures maraîchères ?",
+  "options": [
+   "Proscription de l'épandage des matières fécales",
+   "Protection des cultures maraîchères",
+   "Traitement des eaux usées d'irrigation",
+   "Lavage des crudités",
+   "Irrigation avec des eaux usées brutes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "pas d'épandage",
+   "protection des cultures",
+   "eaux traitées",
+   "lavage des crudités",
+   "eaux brutes interdites"
+  ]
+ },
+ {
+  "q": "Concernant la lutte contre les mouches, lesquelles sont vraies ?",
+  "options": [
+   "La protection des aliments contre les mouches est nécessaire",
+   "Les mouches sont des vecteurs mécaniques des kystes",
+   "Les mouches transmettent par piqûre",
+   "La lutte contre les mouches fait partie de la prophylaxie",
+   "Les mouches sont des hôtes intermédiaires"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "protection des aliments",
+   "vecteurs mécaniques",
+   "pas de piqûre",
+   "lutte anti-mouches",
+   "pas d'hôte intermédiaire"
+  ]
+ },
+ {
+  "q": "Concernant la prophylaxie individuelle, lesquelles sont exactes ?",
+  "options": [
+   "Hygiène manuelle",
+   "Lavage des crudités",
+   "Ébullition de l'eau",
+   "Traitement de l'eau de boisson",
+   "Consommation d'eau du robinet non traitée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "hygiène des mains",
+   "lavage des crudités",
+   "ébullition",
+   "eau de boisson traitée",
+   "l'eau non traitée expose au péril fécal"
+  ]
+ },
+ {
+  "q": "Quels procédés rendent l'eau potable vis-à-vis des kystes amibiens ?",
+  "options": [
+   "La filtration",
+   "L'exposition au soleil seul",
+   "La stérilisation",
+   "La simple décantation",
+   "L'ébullition"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "filtration",
+   "soleil insuffisant",
+   "stérilisation",
+   "décantation insuffisante",
+   "ébullition"
+  ]
+ },
+ {
+  "q": "Concernant le dépistage des porteurs sains, lesquelles sont vraies ?",
+  "options": [
+   "Les porteurs sont traités",
+   "Il est inutile",
+   "Il concerne les collectivités",
+   "Il fait partie de la prophylaxie générale",
+   "Il réduit le réservoir humain"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "traitement des porteurs",
+   "utile",
+   "collectivités",
+   "prophylaxie générale",
+   "réduction du réservoir"
+  ]
+ },
+ {
+  "q": "Quelles mesures d'hygiène fécale sont recommandées ?",
+  "options": [
+   "Traitement des eaux usées",
+   "Rejet direct des excréments dans les rivières",
+   "Proscription de l'épandage des matières fécales",
+   "Construction de latrines",
+   "Éducation sanitaire"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "eaux usées traitées",
+   "rejet direct interdit",
+   "pas d'épandage",
+   "latrines",
+   "éducation"
+  ]
+ },
+ {
+  "q": "Un voyageur se rend en zone d'endémie amibienne. Quels conseils sont corrects ?",
+  "options": [
+   "Se laver les mains",
+   "Éviter les crudités non lavées",
+   "Éviter les glaçons d'origine douteuse",
+   "Consommer l'eau du robinet sans précaution",
+   "Boire de l'eau bouillie ou encapsulée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "hygiène manuelle",
+   "crudités lavées",
+   "glaçons suspects",
+   "eau du robinet à risque",
+   "eau bouillie/encapsulée"
+  ]
+ },
+ {
+  "q": "Concernant la chaîne de transmission, quelles interventions la rompent ?",
+  "options": [
+   "Les latrines (confinement des excréments)",
+   "La lutte contre les mouches",
+   "Le traitement des eaux usées",
+   "L'épandage des matières fécales",
+   "L'hygiène des mains"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "latrines",
+   "mouches",
+   "eaux usées",
+   "l'épandage entretient la transmission",
+   "mains"
+  ]
+ },
+ {
+  "q": "Quelles affirmations sur la prophylaxie sont fausses ?",
+  "options": [
+   "L'hygiène fécale est la base de la prévention",
+   "L'eau bouillie reste contaminante",
+   "L'épandage des matières fécales est sans risque",
+   "La chimioprophylaxie systématique est recommandée",
+   "Il existe un vaccin efficace contre l'amibiase"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "proposition vraie : l'hygiène fécale prévient",
+   "l'ébullition détruit les kystes",
+   "l'épandage est à proscrire",
+   "pas de chimioprophylaxie systématique",
+   "pas de vaccin"
+  ]
+ },
+ {
+  "q": "Concernant l'eau de lavage des crudités, lesquelles sont exactes ?",
+  "options": [
+   "L'eau souillée contamine les crudités",
+   "Elle doit être traitée",
+   "L'eau du robinet en zone d'endémie est toujours sûre",
+   "L'ébullition est efficace",
+   "La filtration est efficace"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "crudités = véhicule",
+   "eau traitée",
+   "eau à risque en endémie",
+   "ébullition",
+   "filtration"
+  ]
+ },
+ {
+  "q": "Quels acteurs sont impliqués dans la prophylaxie générale ?",
+  "options": [
+   "Aucun acteur collectif",
+   "Les autorités sanitaires",
+   "Les porteurs dépistés et traités",
+   "Les collectivités (assainissement)",
+   "La population éduquée"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "action collective nécessaire",
+   "autorités sanitaires",
+   "porteurs traités",
+   "assainissement collectif",
+   "éducation"
+  ]
+ },
+ {
+  "q": "Concernant les latrines, lesquelles sont vraies ?",
+  "options": [
+   "Elles confinent les matières fécales",
+   "Elles remplacent le traitement de l'eau",
+   "Elles réduisent la contamination du sol",
+   "Elles sont inutiles en zone rurale",
+   "Elles font partie de l'hygiène fécale"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "confinement",
+   "mesures complémentaires",
+   "sol protégé",
+   "utiles partout",
+   "hygiène fécale"
+  ]
+ },
+ {
+  "q": "Quelles mesures individuelles simples protègent du péril fécal ?",
+  "options": [
+   "La vaccination",
+   "Le lavage des mains",
+   "Le lavage des crudités à l'eau traitée",
+   "L'ébullition de l'eau de boisson",
+   "La chimioprophylaxie systématique"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "pas de vaccin",
+   "hygiène manuelle",
+   "crudités lavées à l'eau traitée",
+   "ébullition de l'eau",
+   "pas de chimioprophylaxie systématique"
+  ]
+ },
+ {
+  "q": "Concernant le traitement des eaux usées, lesquelles sont exactes ?",
+  "options": [
+   "Il fait partie de la prophylaxie générale",
+   "Il protège les cultures maraîchères irriguées",
+   "Il est inutile",
+   "Il remplace l'hygiène individuelle",
+   "Il réduit la dissémination des kystes"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "prophylaxie générale",
+   "irrigation sûre",
+   "utile",
+   "mesures complémentaires",
+   "moins de kystes"
+  ]
+ },
+ {
+  "q": "Quels aliments sont à risque en zone d'endémie ?",
+  "options": [
+   "Les fruits non pelés",
+   "L'eau non traitée",
+   "Les aliments cuits servis chauds",
+   "Les crudités mal lavées",
+   "Les aliments exposés aux mouches"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "fruits non pelés",
+   "eau",
+   "cuisson = protection",
+   "crudités",
+   "mouches vecteurs"
+  ]
+ },
+ {
+  "q": "Concernant l'éducation sanitaire, lesquelles sont vraies ?",
+  "options": [
+   "Elle fait partie de la prophylaxie générale",
+   "Elle est inefficace",
+   "Elle porte sur l'hygiène des mains",
+   "Elle cible les collectivités",
+   "Elle porte sur l'hygiène fécale"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "prophylaxie générale",
+   "efficace",
+   "mains",
+   "collectivités",
+   "hygiène fécale"
+  ]
+ },
+ {
+  "q": "Un restaurateur en zone d'endémie doit :",
+  "options": [
+   "Laver les crudités à l'eau traitée",
+   "Protéger les aliments des mouches",
+   "Utiliser une eau de boisson traitée",
+   "Faire respecter l'hygiène des mains au personnel",
+   "Utiliser l'eau brute pour laver les légumes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "crudités à l'eau traitée",
+   "protection anti-mouches",
+   "eau traitée",
+   "hygiène du personnel",
+   "eau brute interdite"
+  ]
+ },
+ {
+  "q": "Concernant la stérilisation de l'eau, lesquelles sont exactes ?",
+  "options": [
+   "Elle fait partie de la prophylaxie individuelle",
+   "Elle détruit les kystes d'E. histolytica",
+   "Elle est inefficace sur les kystes",
+   "Elle concerne l'eau de boisson et de lavage des crudités",
+   "Elle remplace les latrines"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "prophylaxie individuelle",
+   "kystes détruits",
+   "efficace",
+   "boisson et crudités",
+   "mesures complémentaires"
+  ]
+ },
+ {
+  "q": "Quelles mesures ciblent le réservoir « milieu extérieur » ?",
+  "options": [
+   "La propreté du sol (pas d'épandage)",
+   "La lutte contre les mouches",
+   "La protection des cultures maraîchères",
+   "Le traitement des eaux usées",
+   "Le dépistage des porteurs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "sol",
+   "mouches",
+   "cultures",
+   "eaux usées",
+   "les porteurs = réservoir humain"
+  ]
+ },
+ {
+  "q": "Un enfant en zone tropicale présente des selles pâteuses et des douleurs coliques sans fièvre. Quelles propositions sont correctes ?",
+  "options": [
+   "Le diagnostic évoqué est l'amibiase diarrhéique aiguë",
+   "Le traitement repose sur les imidazolés",
+   "L'examen des selles recherche des kystes",
+   "La fièvre élevée est attendue",
+   "C'est la forme clinique la plus fréquente"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "forme diarrhéique aiguë",
+   "amoebicide tissulaire",
+   "selles diarrhéiques → kystes",
+   "malade apyrétique",
+   "la plus fréquente"
+  ]
+ },
+ {
+  "q": "Chez un patient avec dysenterie glairo-sanglante apyrétique, quels examens sont indiqués ?",
+  "options": [
+   "Examen immédiat des selles à 37 °C",
+   "Sérologie amibienne en première intention",
+   "Examen parasitologique répété 3 fois",
+   "Recherche de trophozoïtes forme histolytica",
+   "Hémoculture systématique"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "glaire sanglante = immédiat à 37 °C",
+   "sérologie peu contributive en intestinal",
+   "EPS x3",
+   "trophozoïtes histolytica",
+   "pas d'hémoculture systématique"
+  ]
+ },
+ {
+  "q": "Quelles associations diagnostiques sont correctes ?",
+  "options": [
+   "Selles moulées → recherche de trophozoïtes",
+   "Selles diarrhéiques → recherche de kystes immatures",
+   "Selles moulées → recherche de kystes",
+   "Glaire sanglante → examen immédiat à 37 °C",
+   "Abcès hépatique → sérologie amibienne"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "pas de trophozoïtes dans les selles moulées",
+   "diarrhéiques = kystes immatures",
+   "moulées = kystes",
+   "glaire = immédiat 37 °C",
+   "abcès = sérologie"
+  ]
+ },
+ {
+  "q": "Quelles associations thérapeutiques sont correctes ?",
+  "options": [
+   "Abcès hépatique → métronidazole",
+   "Amoebome → exérèse chirurgicale première",
+   "Dysenterie aiguë → imidazolés",
+   "Colite post-amibienne → imidazolés systématiques",
+   "Portage → amoebicides de contact"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "abcès = métronidazole",
+   "traitement médical",
+   "aiguë = tissulaire",
+   "troubles fonctionnels, pas d'imidazolés systématiques",
+   "invasion = contact"
+  ]
+ },
+ {
+  "q": "Concernant les formes graves, lesquelles sont exactes ?",
+  "options": [
+   "Perforations intestinales possibles",
+   "Choc infectieux possible",
+   "Amibiase colique maligne : terrain débilité",
+   "Forme diarrhéique : toujours grave",
+   "Amoebome : aspect tumoral"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "perforations",
+   "choc infectieux",
+   "terrain débilité",
+   "forme atténuée",
+   "aspect tumoral"
+  ]
+ },
+ {
+  "q": "Quels sont les diagnostics différentiels de la dysenterie amibienne ?",
+  "options": [
+   "La shigellose (dysenterie bacillaire)",
+   "La rectocolite hémorragique",
+   "La maladie de Crohn colique",
+   "Le cancer colique (amoebome)",
+   "L'amibiase hépatique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "shigellose fébrile",
+   "RCH",
+   "Crohn",
+   "amoebome = aspect tumoral",
+   "pas un différentiel de dysenterie"
+  ]
+ },
+ {
+  "q": "Concernant la triade de l'abcès hépatique amibien, lesquelles sont vraies ?",
+  "options": [
+   "Hépatomégalie douloureuse",
+   "Ictère franc constant",
+   "Apyrexie",
+   "Fièvre 38-39 °C",
+   "Douleur de l'hypochondre droit"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "hépatomégalie douloureuse/lisse",
+   "pas d'ictère franc",
+   "fièvre constante",
+   "fièvre constante",
+   "hypochondre droit"
+  ]
+ },
+ {
+  "q": "Quels éléments du bilan orientent vers l'origine amibienne d'un abcès hépatique ?",
+  "options": [
+   "Pus chocolat à la ponction",
+   "Hyperéosinophilie majeure",
+   "Contexte de zone d'endémie",
+   "Notion d'épisode colique antérieur",
+   "Sérologie amibienne positive"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "pus chocolat",
+   "hyperleucocytose à PNN, pas d'éosinophilie",
+   "endémie",
+   "épisode colique",
+   "sérologie spécifique"
+  ]
+ },
+ {
+  "q": "Concernant E. histolytica et E. coli, lesquelles sont exactes ?",
+  "options": [
+   "E. histolytica est pathogène, E. coli ne l'est pas",
+   "E. coli est un marqueur de péril fécal",
+   "Les deux sont hématophages",
+   "E. coli donne des abcès hépatiques",
+   "La MO les différencie"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "pathogène vs commensal",
+   "contamination féco-orale",
+   "seul E.h est hématophage",
+   "pas d'abcès",
+   "caractères morphologiques distincts"
+  ]
+ },
+ {
+  "q": "Quelles propositions sur le kyste sont correctes ?",
+  "options": [
+   "Forme contaminante",
+   "Forme de dissémination",
+   "Forme de résistance",
+   "Forme de multiplication",
+   "4 noyaux à maturité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "ingestion = contamination",
+   "dissémination",
+   "résistance",
+   "la multiplication = trophozoïte",
+   "4 noyaux"
+  ]
+ },
+ {
+  "q": "Quelles propositions sur le trophozoïte sont correctes ?",
+  "options": [
+   "Fragile dans le milieu extérieur",
+   "Mobile par pseudopodes",
+   "Forme de résistance",
+   "Forme végétative",
+   "Forme de multiplication"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "fragile hors de l'hôte",
+   "pseudopodes",
+   "la résistance = kyste",
+   "végétative",
+   "multiplication"
+  ]
+ },
+ {
+  "q": "Concernant la forme minuta, lesquelles sont vraies ?",
+  "options": [
+   "10-15 μm",
+   "Non hématophage",
+   "Cycle commensal",
+   "Multiplication colique",
+   "20-30 μm"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "10-15 μm",
+   "pas d'hématies phagocytées",
+   "commensal",
+   "multiplication dans le côlon",
+   "20-30 μm = histolytica"
+  ]
+ },
+ {
+  "q": "Concernant la forme histolytica, lesquelles sont vraies ?",
+  "options": [
+   "Sécrète adhésines et enzymes protéolytiques",
+   "Hématophage",
+   "20-30 μm",
+   "10-15 μm",
+   "Cycle pathogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "adhésines + protéases",
+   "hématies en digestion",
+   "20-30 μm",
+   "10-15 μm = minuta",
+   "pathogène"
+  ]
+ },
+ {
+  "q": "Quels sont les deux grands types de cycles d'E. histolytica ?",
+  "options": [
+   "Le cycle avec hôte intermédiaire",
+   "Le cycle sporozoïte",
+   "Le cycle pathogène",
+   "Le cycle sexué",
+   "Le cycle commensal non pathogène"
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "monoxène",
+   "pas de sporozoïte",
+   "pathogène à forme histolytica",
+   "pas de cycle sexué décrit",
+   "commensal, le plus fréquent"
+  ]
+ },
+ {
+  "q": "Concernant l'ulcération rectale au cours de la dysenterie, lesquelles sont exactes ?",
+  "options": [
+   "Elle est due aux kystes",
+   "Elle résulte de l'action des enzymes protéolytiques",
+   "Elle est sans conséquence",
+   "Elle favorise la chronicité",
+   "Elle impose un traitement par imidazolés"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "due aux trophozoïtes",
+   "protéases",
+   "elle entretient la maladie",
+   "chronicité",
+   "traitement tissulaire"
+  ]
+ },
+ {
+  "q": "Un patient traité par métronidazole pour dysenterie amibienne : quelles propositions de suivi sont correctes ?",
+  "options": [
+   "Surveillance de l'observance",
+   "Contrôle de la négativation des selles en 3-4 jours",
+   "Arrêt du suivi dès la disparition des symptômes",
+   "Sérologie de contrôle systématique",
+   "Examen parasitologique de contrôle"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "observance",
+   "négativation 3-4 j",
+   "suivi parasitologique nécessaire",
+   "sérologie peu utile en intestinal",
+   "EPS de contrôle"
+  ]
+ },
+ {
+  "q": "Quelles interactions médicamenteuses ou précautions concernent le métronidazole ?",
+  "options": [
+   "Effet antabuse avec l'alcool",
+   "Éviter l'alcool pendant le traitement",
+   "Risque de neuropathie si prolongé",
+   "Association libre avec l'alcool",
+   "Aucune précaution"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "antabuse",
+   "pas d'alcool",
+   "neuropathie",
+   "alcool proscrit",
+   "précautions nécessaires"
+  ]
+ },
+ {
+  "q": "Concernant la négativation des selles, lesquelles sont vraies ?",
+  "options": [
+   "Elle survient en 3-4 jours sous imidazolés",
+   "Elle n'a aucun intérêt",
+   "Elle est immédiate",
+   "Elle est contrôlée par EPS",
+   "Elle signe l'efficacité du traitement"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "3-4 jours",
+   "intérêt du suivi",
+   "pas immédiate",
+   "contrôle parasitologique",
+   "efficacité"
+  ]
+ },
+ {
+  "q": "Quels signes doivent faire évoquer une complication hépatique après une dysenterie ?",
+  "options": [
+   "Hépatomégalie douloureuse",
+   "Douleur de l'hypochondre droit",
+   "Fièvre 38-39 °C",
+   "Altération de l'état général",
+   "Selles glairo-sanglantes persistantes isolées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "hépatomégalie",
+   "hypochondre droit",
+   "fièvre",
+   "AEG",
+   "les selles isolées n'annoncent pas l'abcès"
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic différentiel de l'hépatomégalie douloureuse fébrile, lesquels sont à évoquer ?",
+  "options": [
+   "Hépatite virale aiguë bénigne",
+   "Cholécystite aiguë",
+   "Hydatidose surinfectée",
+   "Abcès hépatique à pyogènes",
+   "Abcès hépatique amibien"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "l'hépatite donne rarement une hépatomégalie douloureuse fébrile abcédée",
+   "cholécystite",
+   "hydatique",
+   "pyogènes",
+   "amibien"
+  ]
+ },
+ {
+  "q": "Quelles sont les localisations possibles de l'amibiase-maladie ?",
+  "options": [
+   "Hépatique",
+   "Cutanée (rare)",
+   "Méningée systématique",
+   "Colique",
+   "Pleuro-pulmonaire"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "foie+++",
+   "rare",
+   "pas de méningite systématique",
+   "côlon",
+   "pleuro-pulmonaire"
+  ]
+ },
+ {
+  "q": "Concernant la dissémination hématogène, lesquelles sont exactes ?",
+  "options": [
+   "Elle concerne le cycle pathogène",
+   "Elle passe par voie lymphatique exclusive",
+   "Le foie est atteint en premier via la veine porte",
+   "Elle fait suite à l'invasion colique",
+   "Elle est due aux kystes circulants"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "cycle pathogène",
+   "voie hématogène",
+   "drainage portal vers le foie",
+   "invasion colique préalable",
+   "trophozoïtes histolytica"
+  ]
+ },
+ {
+  "q": "Pourquoi le foie est-il l'organe le plus atteint ?",
+  "options": [
+   "Drainage veineux portal du côlon vers le foie",
+   "Inoculation directe",
+   "Vascularisation riche",
+   "Tropisme biliaire",
+   "Premier filtre des trophozoïtes disséminés"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "veine porte",
+   "pas d'inoculation directe",
+   "vascularisation",
+   "pas de tropisme biliaire",
+   "premier filtre"
+  ]
+ },
+ {
+  "q": "Quelles propositions sur la veine porte et l'amibiase sont correctes ?",
+  "options": [
+   "Elle transporte les kystes",
+   "Elle est le siège de la multiplication",
+   "Elle explique la prédominance hépatique",
+   "Elle draine le côlon vers le foie",
+   "Elle véhicule les trophozoïtes"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "trophozoïtes, pas kystes",
+   "pas de multiplication",
+   "foie+++",
+   "drainage portal",
+   "trophozoïtes"
+  ]
+ },
+ {
+  "q": "Concernant l'amibiase chez la femme enceinte, lesquelles sont vraies ?",
+  "options": [
+   "Avis obstétrical nécessaire",
+   "La paromomycine (peu absorbée) est une option pour le portage",
+   "Traitement systématique par Intétrix quel que soit le terme",
+   "Principe de précaution pour les imidazolés au 1er trimestre",
+   "Aucune précaution"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "avis spécialisé",
+   "paromomycine peu absorbée",
+   "évaluation au cas par cas",
+   "précaution 1er trimestre",
+   "précautions nécessaires"
+  ]
+ },
+ {
+  "q": "Quels sont les arguments en faveur d'E. histolytica plutôt que d'E. dispar devant des kystes ?",
+  "options": [
+   "La taille des kystes",
+   "La PCR",
+   "La clinique (dysenterie, abcès)",
+   "La microscopie optique seule",
+   "L'ELISA adhésine spécifique"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "tailles identiques",
+   "PCR",
+   "contexte pathogène",
+   "MO insuffisante",
+   "adhésine spécifique"
+  ]
+ },
+ {
+  "q": "Concernant les faux positifs du diagnostic, lesquelles sont vraies ?",
+  "options": [
+   "Des amibes non pathogènes peuvent faire croire à une amibiase",
+   "L'ELISA adhésine et la PCR tranchent",
+   "La clinique ne compte pas",
+   "E. dispar est indiscernable d'E. histolytica en MO",
+   "Tout kyste = E. histolytica"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "amibes non pathogènes",
+   "ELISA/PCR",
+   "la clinique oriente",
+   "E.d indiscernable",
+   "faux : plusieurs espèces"
+  ]
+ },
+ {
+  "q": "Un laboratoire signale des « amibes » sans précision. Quelles propositions sont correctes ?",
+  "options": [
+   "Traiter systématiquement par imidazolés",
+   "Ignorer le résultat",
+   "Corréler avec la clinique",
+   "Demander l'espèce et la forme (kyste/trophozoïte)",
+   "Vérifier s'il s'agit d'E. histolytica/E. dispar ou d'amibes non pathogènes"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "traitement selon l'espèce et la forme clinique",
+   "ne pas ignorer",
+   "corrélation clinique",
+   "préciser espèce/forme",
+   "diagnostic d'espèce"
+  ]
+ },
+ {
+  "q": "Quelles sont les erreurs fréquentes des étudiants sur l'amibiase ?",
+  "options": [
+   "Attribuer la dysenterie fébrile à l'amibiase",
+   "Confondre amoebicide de contact et tissulaire",
+   "Croire que la sérologie diagnostique l'amibiase intestinale",
+   "Savoir que le kyste est la forme contaminante",
+   "Penser qu'un seul EPS suffit"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "l'amibiase est apyrétique",
+   "contact vs tissulaire",
+   "sérologie peu utile en intestinal",
+   "proposition vraie",
+   "EPS x3"
+  ]
+ },
+ {
+  "q": "Concernant la contagiosité, lesquelles sont exactes ?",
+  "options": [
+   "La transmission est féco-orale",
+   "La contamination directe est rare",
+   "Le malade dysentérique est peu contagieux car il élimine des trophozoïtes fragiles",
+   "La transmission est aérienne",
+   "Le porteur sain est contagieux via ses selles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "féco-orale",
+   "directe rare",
+   "trophozoïtes fragiles",
+   "pas aérienne",
+   "porteur = kystes"
+  ]
+ },
+ {
+  "q": "Quelles mesures protègent une collectivité d'une épidémie d'amibiase ?",
+  "options": [
+   "Assainissement et latrines",
+   "Distribution d'imidazolés à toute la population",
+   "Dépistage des porteurs (cuisiniers)",
+   "Traitement des eaux usées",
+   "Éducation sanitaire"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "assainissement",
+   "pas de traitement de masse",
+   "dépistage ciblé",
+   "eaux usées",
+   "éducation"
+  ]
+ },
+ {
+  "q": "Concernant le cuisinier porteur sain, lesquelles sont vraies ?",
+  "options": [
+   "Il doit être traité (amoebicide de contact)",
+   "Il peut continuer sans traitement",
+   "Il doit être dépisté",
+   "Il est un risque de toxi-infection collective",
+   "L'hygiène des mains suffit sans traitement"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "traitement",
+   "traitement nécessaire",
+   "dépistage",
+   "risque collectif",
+   "traitement + hygiène"
+  ]
+ },
+ {
+  "q": "Quels désinfectants ou procédés sont efficaces sur les kystes ?",
+  "options": [
+   "L'ébullition",
+   "La filtration",
+   "Le simple rinçage à l'eau froide",
+   "Le vinaigre seul",
+   "La stérilisation"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "ébullition",
+   "filtration",
+   "rinçage insuffisant",
+   "vinaigre insuffisant",
+   "stérilisation"
+  ]
+ },
+ {
+  "q": "Concernant la résistance des kystes, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont détruits par l'ébullition",
+   "Ils sont détruits par le suc gastrique",
+   "Ils résistent dans le milieu extérieur",
+   "Ils résistent aux sucs digestifs",
+   "Ils résistent à la dessiccation prolongée"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "ébullition efficace",
+   "le suc gastrique ne les détruit pas",
+   "résistance extérieure",
+   "résistance digestive",
+   "la dessiccation les altère"
+  ]
+ },
+ {
+  "q": "Quelles propositions résument le cycle commensal ?",
+  "options": [
+   "8 amoebules",
+   "Prékyste puis kyste",
+   "Forme histolytica hématophage",
+   "Kyste ingéré",
+   "Forme minuta colique"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "dékystement",
+   "enkystement",
+   "cycle pathogène",
+   "ingestion",
+   "minuta"
+  ]
+ },
+ {
+  "q": "Quelles propositions résument le cycle pathogène ?",
+  "options": [
+   "Forme histolytica hématophage",
+   "Ulcérations et abcès",
+   "Dissémination hématogène vers le foie",
+   "Adhésines et enzymes protéolytiques",
+   "Kyste ingéré sans dékystement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "histolytica",
+   "ulcérations/abcès",
+   "foie+++",
+   "adhésines + protéases",
+   "le dékystement a lieu"
+  ]
+ },
+ {
+  "q": "Concernant les chiffres clés, lesquelles sont exactes ?",
+  "options": [
+   "Négativation des selles en 3-4 jours",
+   "10 % de la population mondiale touchée",
+   "5-15 selles/jour dans la dysenterie",
+   "100 % de formes symptomatiques",
+   "90 % de porteurs sains"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "3-4 jours",
+   "10 %",
+   "5-15 selles",
+   "la minorité est symptomatique",
+   "90 % porteurs sains"
+  ]
+ },
+ {
+  "q": "Quelles tailles faut-il retenir ?",
+  "options": [
+   "Minuta : 20-30 μm",
+   "Kyste mature : 4 noyaux",
+   "Kyste immature : plus grand, 1-2 noyaux",
+   "Minuta : 10-15 μm",
+   "Histolytica : 20-30 μm"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "20-30 = histolytica",
+   "4 noyaux",
+   "immature plus grand",
+   "10-15 μm",
+   "20-30 μm"
+  ]
+ },
+ {
+  "q": "Quelles posologies faut-il retenir ?",
+  "options": [
+   "Métronidazole : 1,5-2 g/j x 5-10 j",
+   "Tinidazole : 30-40 mg/kg/j x 5 j",
+   "Paromomycine : 2 g/j x 3 j",
+   "Ornidazole : 2 g/j x 7 j",
+   "Secnidazole : 2 g prise unique"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Flagyl",
+   "Fasigyne",
+   "Humatin : 10 jours",
+   "Tibéral",
+   "Flagentyl"
+  ]
+ },
+ {
+  "q": "Concernant l'Intétrix, quelles propositions sont à retenir ?",
+  "options": [
+   "Tiliquinol + tilbroquinol",
+   "Amoebicide tissulaire",
+   "Amibiase-invasion",
+   "4-6 gélules/j x 10 j",
+   "Amoebicide de contact"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "association",
+   "pas tissulaire",
+   "portage",
+   "posologie",
+   "contact"
+  ]
+ },
+ {
+  "q": "Un QCM demande les examens devant une hépatomégalie douloureuse fébrile au retour des tropiques. Quelles réponses sont correctes ?",
+  "options": [
+   "Examen parasitologique des selles en première intention",
+   "Échographie hépatique",
+   "NFS (hyperleucocytose à PNN)",
+   "Sérologie amibienne (IFI/ELISA/HAI)",
+   "Ponction systématique de l'abcès"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "sans intérêt",
+   "abcès liquidien",
+   "hyperleucocytose PNN",
+   "examen spécifique",
+   "non systématique"
+  ]
+ },
+ {
+  "q": "Quelles propositions sur la sérologie sont à retenir ?",
+  "options": [
+   "Extra-colique : sans intérêt",
+   "Intestinale : examen de choix",
+   "Extra-colique : seul examen spécifique",
+   "Techniques : IFI, ELISA, HAI",
+   "Intestinale : négative ou faiblement positive"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "c'est l'examen clé",
+   "l'EPS est l'examen de choix",
+   "spécifique",
+   "IFI/ELISA/HAI",
+   "peu contributive"
+  ]
+ },
+ {
+  "q": "Concernant les selles, que faut-il retenir ?",
+  "options": [
+   "Moulées : kystes",
+   "EPS répété 3 fois",
+   "Diarrhéiques : kystes immatures",
+   "Glaire sanglante : immédiat à 37 °C",
+   "Un EPS négatif élimine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "kystes",
+   "sensibilité",
+   "immatures",
+   "trophozoïtes histolytica",
+   "n'élimine pas"
+  ]
+ },
+ {
+  "q": "Quelles propositions sur la clinique sont à retenir ?",
+  "options": [
+   "Amoebome : aspect tumoral",
+   "Colique maligne : terrain débilité",
+   "Dysentérique : 5-15 selles glairo-sanglantes, apyrexie",
+   "Diarrhéique aiguë : la plus fréquente",
+   "Dysentérique : fièvre à 40 °C"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "très rare",
+   "rare grave",
+   "crachats rectaux",
+   "fréquente",
+   "apyrexie"
+  ]
+ },
+ {
+  "q": "Quelles propositions sur l'abcès hépatique sont à retenir ?",
+  "options": [
+   "Abcès liquidien à l'écho/TDM",
+   "Pus chocolat",
+   "Localisation extra-colique la plus fréquente",
+   "L'examen parasitologique des selles est l'examen spécifique",
+   "Fièvre 38-39 °C + AEG"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "liquidien",
+   "chocolat",
+   "foie+++",
+   "la parasitologie est sans intérêt ; la sérologie est spécifique",
+   "fièvre + AEG"
+  ]
+ },
+ {
+  "q": "Concernant la prophylaxie, que faut-il retenir ?",
+  "options": [
+   "Dépistage et traitement des porteurs",
+   "Générale : hygiène fécale, latrines, eaux usées",
+   "Individuelle : mains, eau bouillie, crudités lavées",
+   "Vaccination systématique",
+   "Lutte contre les mouches"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "porteurs",
+   "assainissement",
+   "hygiène individuelle",
+   "pas de vaccin",
+   "mouches"
+  ]
+ },
+ {
+  "q": "Quelles espèces d'amibes intestinales faut-il connaître ?",
+  "options": [
+   "Entamoeba coli (non pathogène)",
+   "Entamoeba hartmanni (non pathogène)",
+   "Naegleria fowleri (amibe intestinale non pathogène)",
+   "Entamoeba histolytica (pathogène)",
+   "Entamoeba dispar (non pathogène, indiscernable)"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "commensale",
+   "non pathogène",
+   "Naegleria fowleri est une amibe libre méningée, pas intestinale",
+   "pathogène",
+   "indiscernable en MO"
+  ]
+ },
+ {
+  "q": "Concernant la microscopie optique, que faut-il retenir ?",
+  "options": [
+   "Elle distingue E. histolytica des amibes non pathogènes",
+   "Le kyste à 4 noyaux + cristalloïde est évocateur",
+   "Elle distingue E. histolytica d'E. dispar",
+   "Elle ne distingue pas E. histolytica d'E. dispar",
+   "Les hématies phagocytées orientent vers E. histolytica"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "amibes non pathogènes",
+   "kyste typique",
+   "faux",
+   "E.d indiscernable",
+   "hématophagie"
+  ]
+ },
+ {
+  "q": "Un patient présente une alternance diarrhée-constipation après une dysenterie traitée. Quelles propositions sont correctes ?",
+  "options": [
+   "Un nouvel EPS peut être indiqué",
+   "Diagnostic : colite post-amibienne",
+   "C'est une récidive certaine",
+   "Il s'agit de troubles fonctionnels séquellaires",
+   "Il faut systématiquement reprendre les imidazolés"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "EPS de contrôle",
+   "colite post-amibienne",
+   "pas forcément une récidive",
+   "séquelles fonctionnelles",
+   "pas systématique"
+  ]
+ },
+ {
+  "q": "Quelles complications redoutées de la forme maligne faut-il connaître ?",
+  "options": [
+   "Hémorragie digestive",
+   "Pus chocolat",
+   "Nécroses intestinales",
+   "Choc infectieux",
+   "Perforations"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "hémorragie",
+   "pus chocolat = abcès hépatique",
+   "nécroses",
+   "choc",
+   "perforations"
+  ]
+ },
+ {
+  "q": "Concernant l'amoebome, quelles propositions sont à retenir ?",
+  "options": [
+   "Aspect tumoral",
+   "Diagnostic différentiel du cancer colique",
+   "Traitement médical premier",
+   "Fréquent",
+   "Très rare"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "tumoral",
+   "cancer",
+   "imidazolés",
+   "rare",
+   "très rare"
+  ]
+ },
+ {
+  "q": "Quels sont les piliers du traitement de l'amibiase ?",
+  "options": [
+   "Chirurgie première systématique",
+   "Antibiothérapie systématique",
+   "Négativation des selles en 3-4 jours",
+   "Imidazolés pour les formes aiguës et tissulaires",
+   "Amoebicides de contact pour le portage"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "traitement médical",
+   "pas d'antibiotique systématique",
+   "3-4 jours",
+   "tissulaires",
+   "contact"
+  ]
+ },
+ {
+  "q": "Concernant le terrain débilité, lesquelles sont vraies ?",
+  "options": [
+   "Choc infectieux possible",
+   "Nécroses et perforations possibles",
+   "Risque de forme colique maligne",
+   "Pas de risque particulier",
+   "Formes toujours bénignes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "choc",
+   "nécroses/perforations",
+   "maligne",
+   "risque accru",
+   "formes graves"
+  ]
+ },
+ {
+  "q": "Quelles propositions sur le péril fécal sont à retenir ?",
+  "options": [
+   "Eau et aliments souillés = véhicules",
+   "Mouches = vecteurs mécaniques",
+   "Hygiène fécale = prévention",
+   "Latrines et traitement des eaux usées",
+   "Transmission aérienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "véhicules",
+   "mouches",
+   "prévention",
+   "assainissement",
+   "féco-orale"
+  ]
+ },
+ {
+  "q": "Un examen retrouve des kystes d'amibes non pathogènes chez un sujet asymptomatique. Quelle conduite est correcte ?",
+  "options": [
+   "Rassurer : amibes non pathogènes",
+   "Expliquer le péril fécal",
+   "Rechercher E. histolytica associé",
+   "Traiter par métronidazole systématique",
+   "Renforcer l'hygiène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "non pathogènes",
+   "contamination féco-orale",
+   "recherche associée",
+   "pas d'imidazolés systématiques",
+   "hygiène"
+  ]
+ },
+ {
+  "q": "Quelles sont les 4 formes cliniques coliques à connaître ?",
+  "options": [
+   "Hépatique",
+   "Colique maligne",
+   "Diarrhéique aiguë",
+   "Amoebome",
+   "Dysentérique aiguë"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "extra-colique",
+   "rare grave",
+   "fréquente",
+   "tumoral",
+   "glairo-sanglante"
+  ]
+ },
+ {
+  "q": "Concernant l'évolution, lesquelles sont vraies ?",
+  "options": [
+   "Amibiase extra-colique possible",
+   "Pas de séquelle possible",
+   "Chronicité possible après ulcération rectale",
+   "Guérison toujours spontanée",
+   "Colite post-amibienne possible"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "hépatique+++",
+   "séquelles possibles",
+   "chronicité",
+   "traitement nécessaire",
+   "diarrhée/constipation"
+  ]
+ },
+ {
+  "q": "Quel est l'examen clé devant un abcès hépatique suspecté amibien ?",
+  "options": [
+   "La coproculture",
+   "L'échographie",
+   "La sérologie amibienne",
+   "La NFS",
+   "L'EPS"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "pas de place",
+   "abcès liquidien",
+   "spécifique",
+   "hyperleucocytose PNN",
+   "sans intérêt"
+  ]
+ },
+ {
+  "q": "Quel est l'examen clé devant une dysenterie glairo-sanglante apyrétique ?",
+  "options": [
+   "L'hémoculture",
+   "L'examen immédiat des selles à 37 °C",
+   "La recherche de trophozoïtes histolytica",
+   "La sérologie",
+   "L'EPS répété 3 fois"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "non indiquée",
+   "immédiat 37 °C",
+   "hématophages",
+   "peu contributive",
+   "sensibilité"
+  ]
+ },
+ {
+  "q": "Concernant les imidazolés, que faut-il retenir ?",
+  "options": [
+   "Négativation des selles en 3-4 jours",
+   "Métronidazole, ornidazole, secnidazole, tinidazole",
+   "Effet antabuse avec l'alcool",
+   "Amoebicides tissulaires",
+   "Action intraluminale exclusive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "3-4 jours",
+   "4 molécules",
+   "pas d'alcool",
+   "tissulaires",
+   "diffusion tissulaire"
+  ]
+ }
+]

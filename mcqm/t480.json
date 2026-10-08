@@ -1,0 +1,4582 @@
+[
+ {
+  "q": "Concernant la classification de Gell et Coombs des hypersensibilités, lesquelles sont exactes ?",
+  "options": [
+   "L'hypersensibilité de type I est médiée par les IgE fixées sur les mastocytes et les basophiles",
+   "L'hypersensibilité de type II est une cytotoxicité dépendante des anticorps IgG ou IgM dirigés contre des antigènes de surface cellulaire",
+   "L'hypersensibilité de type III est liée au dépôt tissulaire de complexes immuns antigène-anticorps",
+   "L'hypersensibilité de type IV est une réaction retardée à médiation cellulaire impliquant les lymphocytes T",
+   "Les quatre types sont tous médiés par des anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le pontage de 2 IgE par l'allergène déclenche la dégranulation des mastocytes et basophiles.",
+   "Vrai : lyse cellulaire par activation du complément ou ADCC via les cellules NK.",
+   "Vrai : les complexes immuns solubles se déposent dans les vaisseaux, les glomérules et les articulations.",
+   "Vrai : réaction à 48-72 h impliquant les LT CD4 Th1/Th17 et les macrophages.",
+   "Faux : le type IV est à médiation cellulaire, sans anticorps."
+  ]
+ },
+ {
+  "q": "Au sujet de l'hypersensibilité en général, lesquelles sont exactes ?",
+  "options": [
+   "C'est une réponse immunitaire excessive ou inappropriée dirigée contre un antigène",
+   "Elle nécessite toujours une phase de sensibilisation préalable avant la phase effectrice",
+   "Elle met en jeu les mêmes effecteurs que la réponse immunitaire protectrice normale",
+   "Elle peut être dirigée contre des antigènes du soi, réalisant alors une maladie auto-immune",
+   "Elle est toujours bénéfique pour l'organisme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : définition de l'hypersensibilité.",
+   "Vrai : le premier contact sensibilise, la réexposition déclenche les lésions.",
+   "Vrai : anticorps, complément, lymphocytes et phagocytes sont les effecteurs des deux.",
+   "Vrai : l'auto-immunité est une hypersensibilité dirigée contre le soi.",
+   "Faux : elle est par définition pathogène et lésionnelle."
+  ]
+ },
+ {
+  "q": "Concernant les délais des réactions d'hypersensibilité, lesquelles sont exactes ?",
+  "options": [
+   "La réaction de type I survient en quelques minutes après le contact avec l'allergène",
+   "La réaction de type IV est dite retardée car elle apparaît en 48 à 72 heures",
+   "Le phénomène d'Arthus (type III) apparaît en 4 à 8 heures au point d'injection",
+   "La maladie sérique (type III) survient 7 à 10 jours après l'injection d'un sérum hétérologue",
+   "La réaction de type II est toujours immédiate comme le choc anaphylactique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : dégranulation mastocytaire immédiate.",
+   "Vrai : délai nécessaire au recrutement et à l'activation des LT et macrophages.",
+   "Vrai : dépôt local de complexes immuns avec vascularite nécrosante.",
+   "Vrai : délai de formation des anticorps anti-sérum puis des complexes immuns.",
+   "Faux : le type II est cytotoxique (hémolyse, cytopénies) et n'est pas un choc anaphylactique."
+  ]
+ },
+ {
+  "q": "Parmi les cellules et molécules suivantes, lesquelles participent à l'hypersensibilité de type I ?",
+  "options": [
+   "Les mastocytes tissulaires porteurs de récepteurs FcεRI de haute affinité pour les IgE",
+   "Les polynucléaires basophiles circulants porteurs de récepteurs FcεRI",
+   "Les polynucléaires éosinophiles recrutés par l'IL-5 lors de la phase tardive",
+   "Les lymphocytes T helper de profil Th2 producteurs d'IL-4, d'IL-5 et d'IL-13",
+   "Les lymphocytes T cytotoxiques CD8 producteurs de perforine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cellule effectrice principale de l'allergie immédiate.",
+   "Vrai : équivalent circulant du mastocyte dans l'allergie.",
+   "Vrai : les éosinophiles entretiennent l'inflammation allergique tardive.",
+   "Vrai : le profil Th2 oriente la commutation isotypique vers les IgE.",
+   "Faux : les LT CD8 cytotoxiques interviennent dans l'hypersensibilité de type IV, pas de type I."
+  ]
+ },
+ {
+  "q": "Concernant les immunoglobulines E, lesquelles sont exactes ?",
+  "options": [
+   "Leur taux sérique est très faible, de l'ordre de 0,003 g/l",
+   "Elles possèdent une chaîne lourde epsilon à 4 domaines constants (CH1 à CH4)",
+   "Elles se fixent par leur fragment Fc sur les récepteurs FcεRI des mastocytes et des basophiles",
+   "Leur dosage immunologique par ELISA est utile dans l'exploration des hypersensibilités",
+   "Elles activent fortement la voie classique du complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les IgE sont l'isotype le moins abondant du sérum.",
+   "Vrai : la chaîne ε comporte VH puis CH1, CH2, CH3 et CH4.",
+   "Vrai : cette fixation les arme en attente de l'allergène.",
+   "Vrai : IgE totales et IgE spécifiques (RAST) orientent le diagnostic allergologique.",
+   "Faux : les IgE n'activent pas le complément ; ce sont IgM et IgG qui le font."
+  ]
+ },
+ {
+  "q": "Au sujet de la sensibilisation allergique (phase 1 de l'hypersensibilité de type I), lesquelles sont exactes ?",
+  "options": [
+   "L'allergène est capté et présenté aux lymphocytes T CD4 naïfs qui se différencient en Th2",
+   "L'IL-4 sécrétée par les Th2 induit la commutation isotypique des lymphocytes B vers les IgE",
+   "Les IgE produites se fixent sur les récepteurs FcεRI des mastocytes sans provoquer de symptômes",
+   "Cette phase est cliniquement silencieuse et prépare la phase effectrice",
+   "La dégranulation des mastocytes survient dès cette première phase"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la présentation antigénique oriente la réponse vers le profil Th2.",
+   "Vrai : l'IL-4 est la cytokine clé du switch vers IgE.",
+   "Vrai : les mastocytes sont armés mais pas encore activés.",
+   "Vrai : aucun symptôme tant que l'allergène ne ponte pas les IgE fixées.",
+   "Faux : la dégranulation n'a lieu qu'à la réexposition, lors de la phase effectrice."
+  ]
+ },
+ {
+  "q": "Concernant la phase effectrice de l'hypersensibilité de type I, lesquelles sont exactes ?",
+  "options": [
+   "La réexposition à l'allergène ponte deux molécules d'IgE fixées sur un mastocyte",
+   "Ce pontage déclenche la dégranulation avec libération de médiateurs préformés",
+   "L'histamine libérée provoque vasodilatation, augmentation de la perméabilité vasculaire et contraction des muscles lisses",
+   "Les leucotriènes C4, D4 et E4 néoformés entretiennent le bronchospasme et l'inflammation",
+   "La réaction nécessite l'activation du complément par la voie alterne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le pontage d'au moins 2 IgE est le signal d'activation.",
+   "Vrai : exocytose des granules contenant histamine, héparine, tryptase.",
+   "Vrai : effets vasculaires et bronchiques caractéristiques de l'allergie.",
+   "Vrai : anciennement SRS-A (slow reacting substance of anaphylaxis).",
+   "Faux : la dégranulation IgE-dépendante n'implique pas le complément."
+  ]
+ },
+ {
+  "q": "Parmi les médiateurs de l'hypersensibilité immédiate, lesquels sont des médiateurs préformés des granules mastocytaires ?",
+  "options": [
+   "L'histamine",
+   "L'héparine",
+   "La tryptase",
+   "Le PAF-acéther (platelet activating factor)",
+   "La prostaglandine D2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : amine vasoactive stockée dans les granules.",
+   "Vrai : glycosaminoglycane stocké avec l'histamine.",
+   "Vrai : protéase neutre marqueur de la dégranulation mastocytaire.",
+   "Vrai : médiateur lipidique préformé cité dans le cours.",
+   "Faux : la PGD2 est un médiateur néoformé, synthétisé à partir de l'acide arachidonique après activation."
+  ]
+ },
+ {
+  "q": "Parmi les médiateurs suivants, lesquels sont néoformés après activation du mastocyte ?",
+  "options": [
+   "Les prostaglandines, notamment la PGD2",
+   "Les leucotriènes C4, D4 et E4",
+   "Les cytokines IL-4, IL-5, IL-13 et TNF-alpha",
+   "L'histamine",
+   "La sérotonine plaquettaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : dérivés de l'acide arachidonique par la cyclo-oxygénase.",
+   "Vrai : dérivés de l'acide arachidonique par la lipoxygénase.",
+   "Vrai : synthèse de novo responsable de la phase tardive (4-8 h).",
+   "Faux : l'histamine est préformée dans les granules.",
+   "Faux : médiateur préformé, non synthétisé par le mastocyte activé."
+  ]
+ },
+ {
+  "q": "Concernant les manifestations cliniques de l'hypersensibilité de type I, lesquelles sont exactes ?",
+  "options": [
+   "La rhinite allergique et la conjonctivite allergique sont des formes localisées fréquentes",
+   "L'asthme allergique associe bronchospasme, œdème et hypersécrétion bronchique",
+   "L'urticaire aiguë traduit une vasodilatation et un œdème dermique liés à l'histamine",
+   "Le choc anaphylactique est la forme généralisée la plus grave, avec collapsus cardiovasculaire",
+   "L'eczéma de contact au nickel en est une manifestation typique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : atteintes des muqueuses respiratoire et oculaire.",
+   "Vrai : triade de l'obstruction bronchique allergique.",
+   "Vrai : papules prurigineuses fugaces caractéristiques.",
+   "Vrai : urgence vitale nécessitant l'adrénaline en intramusculaire.",
+   "Faux : l'eczéma de contact est une hypersensibilité retardée de type IV, à médiation cellulaire."
+  ]
+ },
+ {
+  "q": "Au sujet du choc anaphylactique, lesquelles sont exactes ?",
+  "options": [
+   "Il peut être déclenché par des médicaments (pénicillines), des venins d'hyménoptères ou des aliments",
+   "Il associe hypotension, tachycardie, bronchospasme et parfois œdème laryngé",
+   "Le traitement d'urgence repose sur l'adrénaline en intramusculaire",
+   "Le dosage de la tryptase sérique aide à confirmer la dégranulation mastocytaire",
+   "Il est prévenu efficacement par les antihistaminiques H1 pris au long cours"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : principaux déclencheurs de l'anaphylaxie IgE-médiée.",
+   "Vrai : tableau de collapsus vasoplégique et d'obstruction aérienne.",
+   "Vrai : l'adrénaline est le seul traitement du choc anaphylactique.",
+   "Vrai : la tryptase, protéase mastocytaire, s'élève dans les heures qui suivent.",
+   "Faux : les antihistaminiques ne préviennent ni ne traitent le choc ; seule l'éviction et l'adrénaline comptent, plus la désensibilisation."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic biologique et cutané de l'allergie de type I, lesquelles sont exactes ?",
+  "options": [
+   "Le prick-test cutané explore la dégranulation mastocytaire locale après dépôt d'allergène",
+   "Le dosage des IgE spécifiques (RAST, ImmunoCAP) par technique immuno-enzymatique type ELISA est contributif",
+   "Le test de dégranulation des basophiles met en évidence une activation IgE-dépendante in vitro",
+   "L'élévation des IgE totales est constante et spécifique du diagnostic d'allergie",
+   "Le patch-test est l'examen de référence pour l'allergie immédiate"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : papule œdémateuse en 15-20 minutes en cas de positivité.",
+   "Vrai : détection des IgE spécifiques d'un allergène donné.",
+   "Vrai : mesure l'activation des basophiles du patient en présence de l'allergène.",
+   "Faux : les IgE totales peuvent être normales et s'élèvent aussi dans les parasitoses.",
+   "Faux : le patch-test explore l'hypersensibilité retardée de type IV."
+  ]
+ },
+ {
+  "q": "Concernant le traitement de l'allergie de type I, lesquelles sont exactes ?",
+  "options": [
+   "L'éviction de l'allergène est la mesure de première intention",
+   "Les antihistaminiques H1 bloquent les effets de l'histamine sur ses récepteurs",
+   "Les corticoïdes et les bronchodilatateurs bêta-2 mimétiques sont utilisés dans l'asthme allergique",
+   "L'immunothérapie spécifique (désensibilisation) est le seul traitement capable de modifier l'histoire naturelle de l'allergie",
+   "Les antibiotiques constituent le traitement de fond de l'asthme allergique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : supprimer le contact avec l'allergène reste la base.",
+   "Vrai : antagonistes compétitifs des récepteurs H1.",
+   "Vrai : anti-inflammatoires et bronchodilatateurs de la crise et du fond.",
+   "Vrai : induit une tolérance via IgG4 bloquantes et Treg.",
+   "Faux : les antibiotiques n'ont aucune place dans l'allergie non compliquée."
+  ]
+ },
+ {
+  "q": "Au sujet de l'omalizumab et des biothérapies de l'allergie, lesquelles sont exactes ?",
+  "options": [
+   "L'omalizumab est un anticorps monoclonal anti-IgE",
+   "Il se lie aux IgE circulantes et empêche leur fixation sur les récepteurs FcεRI",
+   "Il est indiqué dans l'asthme allergique sévère non contrôlé",
+   "Il agit en quelques minutes comme l'adrénaline dans le choc anaphylactique",
+   "Il remplace l'éviction de l'allergène dans tous les cas"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : anticorps monoclonal humanisé dirigé contre les IgE.",
+   "Vrai : il piège les IgE libres et diminue l'expression des FcεRI.",
+   "Vrai : asthme sévère à composante allergique.",
+   "Faux : c'est un traitement de fond, sans effet sur la crise aiguë.",
+   "Faux : l'éviction reste nécessaire ; l'omalizumab est un traitement d'appoint."
+  ]
+ },
+ {
+  "q": "Concernant l'hypersensibilité de type II, lesquelles sont exactes ?",
+  "options": [
+   "Elle est médiée par des IgG ou des IgM dirigées contre des antigènes de la surface cellulaire ou de la matrice extracellulaire",
+   "La lyse de la cellule cible se fait par opsonisation et activation du complément jusqu'au complexe d'attaque membranaire",
+   "La cytotoxicité cellulaire dépendante des anticorps (ADCC) fait intervenir les cellules NK via leur récepteur FcγRIII (CD16)",
+   "Elle met en jeu des complexes immuns solubles qui se déposent dans les tissus",
+   "Elle est à médiation cellulaire T sans aucun anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : anticorps cytotoxiques anti-membranaires.",
+   "Vrai : C3b opsonise, le MAC perfore la membrane.",
+   "Vrai : le CD16 des NK reconnaît le Fc des IgG fixées sur la cible.",
+   "Faux : les complexes immuns solubles définissent le type III, pas le type II.",
+   "Faux : c'est la définition du type IV."
+  ]
+ },
+ {
+  "q": "Parmi les situations suivantes, lesquelles relèvent d'une hypersensibilité de type II ?",
+  "options": [
+   "Les réactions transfusionnelles par incompatibilité ABO avec hémolyse aiguë",
+   "Les anémies hémolytiques auto-immunes à auto-anticorps anti-érythrocytaires",
+   "La maladie hémolytique du nouveau-né par allo-immunisation anti-Rh",
+   "Les thrombopénies auto-immunes à anticorps anti-plaquettaires",
+   "L'eczéma de contact au nickel"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IgM anti-A ou anti-B activant le complément sur les globules rouges transfusés.",
+   "Vrai : auto-Ac fixés sur les hématies, test de Coombs direct positif.",
+   "Vrai : IgG maternelles anti-D traversant le placenta et lysant les hématies fœtales.",
+   "Vrai : auto-Ac anti-plaquettes avec destruction splénique.",
+   "Faux : l'eczéma de contact est une hypersensibilité retardée de type IV."
+  ]
+ },
+ {
+  "q": "Au sujet du test de Coombs, lesquelles sont exactes ?",
+  "options": [
+   "Le test de Coombs direct détecte les anticorps fixés à la surface des globules rouges du patient",
+   "Le test de Coombs indirect détecte les anticorps libres dans le sérum du patient",
+   "Un Coombs direct positif est caractéristique des anémies hémolytiques auto-immunes",
+   "Le Coombs indirect est utilisé dans le bilan pré-transfusionnel pour dépister les agglutinines irrégulières",
+   "Le test de Coombs explore l'hypersensibilité de type III"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : antiglobuline révélant les Ac ou le complément fixés in vivo.",
+   "Vrai : sérum du patient + hématies tests + antiglobuline.",
+   "Vrai : auto-Ac anti-érythrocytaires fixés in vivo.",
+   "Vrai : recherche d'allo-Ac avant toute transfusion.",
+   "Faux : il explore les Ac anti-érythrocytaires, donc le type II."
+  ]
+ },
+ {
+  "q": "Concernant l'ADCC (cytotoxicité cellulaire dépendante des anticorps), lesquelles sont exactes ?",
+  "options": [
+   "Elle est médiée principalement par les IgG",
+   "La cellule NK reconnaît le fragment Fc de l'IgG via son récepteur CD16 (FcγRIII)",
+   "Elle aboutit à la mort de la cellule cible par apoptose",
+   "Elle nécessite l'activation du complément",
+   "Elle intervient dans la lyse des cellules tumorales opsonisées par des IgG"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les IgG sont l'isotype de l'ADCC.",
+   "Vrai : le CD16 lie le Fc des IgG fixées sur la cible.",
+   "Vrai : libération de perforine et granzymes par la NK.",
+   "Faux : l'ADCC est indépendante du complément.",
+   "Vrai : mécanisme exploité par les anticorps monoclonaux thérapeutiques."
+  ]
+ },
+ {
+  "q": "Parmi les maladies auto-immunes suivantes, lesquelles sont des hypersensibilités de type II à auto-anticorps cytotoxiques ?",
+  "options": [
+   "La maladie de Basedow par anticorps anti-récepteur de la TSH à effet stimulant",
+   "La myasthénie par anticorps anti-récepteur de l'acétylcholine",
+   "Le pemphigus par anticorps anti-desmogléine",
+   "La maladie de Goodpasture par anticorps anti-membrane basale glomérulaire",
+   "La polyarthrite rhumatoïde par complexes immuns"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ac stimulants du récepteur TSH, prototype du type II à effet agoniste.",
+   "Vrai : Ac bloquant la transmission neuromusculaire.",
+   "Vrai : Ac anti-jonctions interkératinocytaires avec décollement cutané.",
+   "Vrai : Ac anti-collagène IV avec glomérulonéphrite et hémorragie alvéolaire.",
+   "Faux : la PR est une maladie à complexes immuns, donc de type III."
+  ]
+ },
+ {
+  "q": "Au sujet de la maladie hémolytique du nouveau-né, lesquelles sont exactes ?",
+  "options": [
+   "Elle résulte d'une allo-immunisation maternelle contre un antigène érythrocytaire fœtal, le plus souvent l'antigène D (Rh)",
+   "Les IgG maternelles anti-D traversent le placenta et lysent les hématies du fœtus",
+   "La prévention repose sur l'injection d'immunoglobulines anti-D à la mère Rh négatif",
+   "Elle est une hypersensibilité de type II",
+   "Elle est due à des IgE maternelles transmises au fœtus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : mère Rh- porteuse d'un fœtus Rh+.",
+   "Vrai : seules les IgG franchissent la barrière placentaire.",
+   "Vrai : les anti-D saturent les hématies fœtales et préviennent l'immunisation.",
+   "Vrai : lyse des hématies par anticorps.",
+   "Faux : les IgE ne traversent pas le placenta ; ce sont les IgG."
+  ]
+ },
+ {
+  "q": "Concernant les réactions transfusionnelles hémolytiques, lesquelles sont exactes ?",
+  "options": [
+   "L'incompatibilité ABO expose à une hémolyse intravasculaire aiguë médiée par des IgM naturelles",
+   "L'activation du complément par les IgM anti-A ou anti-B aboutit au complexe d'attaque membranaire",
+   "Le tableau associe frissons, lombalgies, hémoglobinurie et risque de choc",
+   "La vérification ultime au lit du patient prévient ces accidents",
+   "Elles sont des hypersensibilités de type I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : isoagglutinines anti-A/anti-B de classe IgM.",
+   "Vrai : les IgM sont de puissants activateurs de la voie classique.",
+   "Vrai : tableau d'hémolyse aiguë potentiellement mortelle.",
+   "Vrai : contrôle ABO du receveur et du concentré avant transfusion.",
+   "Faux : ce sont des réactions cytotoxiques de type II."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'hypersensibilité de type II, lesquelles sont exactes ?",
+  "options": [
+   "Les auto-anticorps peuvent avoir un effet stimulant sur un récepteur, comme dans la maladie de Basedow",
+   "Ils peuvent avoir un effet bloquant, comme les anti-récepteur de l'acétylcholine dans la myasthénie",
+   "L'opsonisation par le C3b favorise la phagocytose des cellules cibles par les macrophages spléniques",
+   "Le type II implique toujours des complexes immuns solubles circulants",
+   "Le type II est exploré par le dosage des IgE spécifiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les anticorps anti-RTSH miment la TSH.",
+   "Vrai : blocage de la jonction neuromusculaire.",
+   "Vrai : clairance splénique des hématies opsonisées dans les AHAI.",
+   "Faux : les Ac du type II sont fixés sur les cellules, pas en complexes solubles.",
+   "Faux : les IgE spécifiques explorent le type I."
+  ]
+ },
+ {
+  "q": "Concernant l'hypersensibilité de type III, lesquelles sont exactes ?",
+  "options": [
+   "Elle est due au dépôt tissulaire de complexes immuns antigène-anticorps solubles",
+   "Les anticorps impliqués sont principalement des IgG et des IgM",
+   "Le dépôt se fait préférentiellement dans les vaisseaux, les glomérules rénaux et les articulations",
+   "L'activation du complément au site du dépôt recrute les polynucléaires neutrophiles responsables des lésions",
+   "Elle est à médiation cellulaire T exclusive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : définition de l'hypersensibilité à complexes immuns.",
+   "Vrai : isotypes activateurs du complément.",
+   "Vrai : zones de filtration et de turbulence hémodynamique.",
+   "Vrai : C3a/C5a chimiotactiques, enzymes lysosomiales des PNN.",
+   "Faux : c'est une hypersensibilité humorale à anticorps."
+  ]
+ },
+ {
+  "q": "Au sujet du phénomène d'Arthus, lesquelles sont exactes ?",
+  "options": [
+   "C'est une réaction locale d'hypersensibilité de type III au point d'injection d'un antigène",
+   "Il survient 4 à 8 heures après l'injection chez un sujet déjà immunisé",
+   "Il associe œdème, érythème, induration puis nécrose hémorragique locale",
+   "Il est dû au dépôt local de complexes immuns avec vascularite",
+   "C'est une réaction immédiate IgE-dépendante"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prototype expérimental du type III local.",
+   "Vrai : délai de formation des complexes immuns in situ.",
+   "Vrai : vascularite nécrosante des petits vaisseaux.",
+   "Vrai : activation locale du complément et afflux de PNN.",
+   "Faux : la réaction IgE immédiate survient en quelques minutes."
+  ]
+ },
+ {
+  "q": "Concernant la maladie sérique, lesquelles sont exactes ?",
+  "options": [
+   "C'est une hypersensibilité de type III généralisée survenant 7 à 10 jours après injection d'un sérum hétérologue",
+   "Elle associe fièvre, arthralgies, urticaire et adénopathies",
+   "Une glomérulonéphrite par dépôt de complexes immuns peut compliquer le tableau",
+   "Elle est due à la formation d'anticorps anti-protéines du sérum étranger",
+   "Elle survient dès la première minute suivant l'injection"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : délai nécessaire à la synthèse des anticorps.",
+   "Vrai : tableau systémique de vascularite à complexes immuns.",
+   "Vrai : dépôt glomérulaire des complexes immuns circulants.",
+   "Vrai : les protéines du sérum animal sont immunogènes.",
+   "Faux : le délai est de 7 à 10 jours, pas immédiat."
+  ]
+ },
+ {
+  "q": "Parmi les maladies suivantes, lesquelles sont des maladies à complexes immuns (type III) ?",
+  "options": [
+   "Le lupus érythémateux disséminé",
+   "La glomérulonéphrite aiguë post-streptococcique",
+   "La polyarthrite rhumatoïde",
+   "Les vascularites à complexes immuns",
+   "L'asthme allergique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : complexes immuns anti-ADN natif déposés en multiples organes.",
+   "Vrai : complexes immuns anti-streptococciques déposés dans les glomérules.",
+   "Vrai : facteur rhumatoïde (IgM anti-IgG) formant des complexes immuns.",
+   "Vrai : vascularites par dépôt de complexes immuns pariétaux.",
+   "Faux : l'asthme allergique est une hypersensibilité de type I IgE-médiée."
+  ]
+ },
+ {
+  "q": "Au sujet du lupus érythémateux disséminé, lesquelles sont exactes ?",
+  "options": [
+   "C'est une maladie auto-immune systémique à complexes immuns",
+   "Les anticorps anti-ADN natif et anti-Sm sont les plus spécifiques",
+   "Les complexes immuns se déposent dans la peau, les articulations, les reins et les séreuses",
+   "La glomérulonéphrite lupique est une complication redoutée",
+   "C'est une hypersensibilité de type IV pure"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prototype des maladies à complexes immuns systémiques.",
+   "Vrai : marqueurs immunologiques du lupus.",
+   "Vrai : atteinte multiviscérale par dépôt des complexes.",
+   "Vrai : néphropathie lupique pouvant conduire à l'insuffisance rénale.",
+   "Faux : le lupus est une hypersensibilité de type III."
+  ]
+ },
+ {
+  "q": "Concernant le facteur rhumatoïde, lesquelles sont exactes ?",
+  "options": [
+   "C'est un auto-anticorps le plus souvent de classe IgM dirigé contre le fragment Fc des IgG",
+   "Il participe à la formation de complexes immuns dans la polyarthrite rhumatoïde",
+   "Il est détecté par les tests au latex et la réaction de Waaler-Rose",
+   "Il est totalement spécifique de la polyarthrite rhumatoïde",
+   "Il s'agit d'une IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : définition du facteur rhumatoïde.",
+   "Vrai : complexes immuns à l'origine de la synovite.",
+   "Vrai : techniques d'agglutination classiques.",
+   "Faux : il peut être positif dans d'autres connectivites et infections chroniques.",
+   "Faux : c'est une IgM anti-IgG."
+  ]
+ },
+ {
+  "q": "Parmi les propositions sur les cryoglobulinémies, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des immunoglobulines qui précipitent à froid et se resolubilisent à 37°C",
+   "La cryoglobulinémie mixte est souvent associée à l'infection chronique par le virus de l'hépatite C",
+   "Elles peuvent entraîner une vascularite par dépôt de complexes immuns",
+   "Leur recherche se fait sur sérum maintenu à 37°C jusqu'au laboratoire",
+   "Elles relèvent d'une hypersensibilité de type I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : définition physico-chimique des cryoglobulines.",
+   "Vrai : association classique VHC-cryoglobulinémie mixte.",
+   "Vrai : purpura vasculaire, neuropathie, glomérulonéphrite.",
+   "Vrai : le prélèvement ne doit pas refroidir avant centrifugation.",
+   "Faux : ce sont des complexes immuns, donc type III."
+  ]
+ },
+ {
+  "q": "Concernant la vascularite à complexes immuns, lesquelles sont exactes ?",
+  "options": [
+   "Le dépôt pariétal de complexes immuns active le complément",
+   "Les anaphylatoxines C3a et C5a recrutent les polynucléaires neutrophiles",
+   "Les enzymes lysosomiales des neutrophiles lèsent la paroi vasculaire",
+   "Le purpura vasculaire en est une traduction clinique",
+   "Elle est médiée par les lymphocytes T CD8 cytotoxiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : activation de la voie classique in situ.",
+   "Vrai : chimiotactisme des PNN vers le dépôt.",
+   "Vrai : nécrose de la paroi des petits vaisseaux.",
+   "Vrai : purpura infiltré non thrombopénique.",
+   "Faux : les LT CD8 interviennent dans le type IV."
+  ]
+ },
+ {
+  "q": "Concernant l'hypersensibilité de type IV, lesquelles sont exactes ?",
+  "options": [
+   "C'est une hypersensibilité retardée survenant en 24 à 72 heures",
+   "Elle est à médiation cellulaire T, sans anticorps impliqué",
+   "Les lymphocytes Th1 activent les macrophages par l'interféron gamma",
+   "Les lymphocytes T cytotoxiques CD8 peuvent participer à la destruction des cellules cibles",
+   "Les IgE jouent un rôle central dans sa physiopathologie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : délai du recrutement lymphocytaire et macrophagique.",
+   "Vrai : aucun anticorps dans le type IV.",
+   "Vrai : l'IFN-γ est la cytokine clé de l'activation macrophagique.",
+   "Vrai : cytotoxicité directe des LT CD8 contre les cellules cibles.",
+   "Faux : les IgE sont les médiatrices du type I."
+  ]
+ },
+ {
+  "q": "Au sujet de l'intradermoréaction à la tuberculine, lesquelles sont exactes ?",
+  "options": [
+   "C'est un test d'hypersensibilité retardée de type IV",
+   "La lecture se fait à 48-72 heures en mesurant l'induration",
+   "Une induration significative traduit une immunité cellulaire T dirigée contre Mycobacterium tuberculosis",
+   "Elle explore la production d'anticorps anti-tuberculeux",
+   "Un résultat positif affirme à lui seul une tuberculose maladie active"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : réaction locale à médiation T.",
+   "Vrai : on mesure le diamètre de l'induration, pas l'érythème.",
+   "Vrai : elle témoigne d'un contact avec le bacille ou d'une vaccination BCG.",
+   "Faux : c'est l'immunité cellulaire, pas humorale, qui est testée.",
+   "Faux : elle ne distingue pas infection latente, BCG et tuberculose active."
+  ]
+ },
+ {
+  "q": "Concernant l'eczéma de contact allergique, lesquelles sont exactes ?",
+  "options": [
+   "C'est une hypersensibilité retardée de type IV",
+   "Le nickel, le chrome et les parfums en sont des déclencheurs classiques",
+   "L'antigène est un haptène qui se lie à une protéine cutanée pour devenir immunogène",
+   "Les cellules de Langerhans présentent l'antigène aux lymphocytes T",
+   "Le prick-test est l'examen diagnostique de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : eczéma allergique = type IV à médiation T.",
+   "Vrai : principaux allergènes de contact.",
+   "Vrai : le complexe haptène-protéine est présenté aux LT.",
+   "Vrai : cellules dendritiques épidermiques présentatrices d'antigène.",
+   "Faux : c'est le patch-test (test épicutané lu à 48-96 h), pas le prick-test."
+  ]
+ },
+ {
+  "q": "Au sujet du granulome immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "Il résulte d'une hypersensibilité retardée de type IV persistante",
+   "Les macrophages activés se transforment en cellules épithélioïdes et cellules géantes multinucléées",
+   "La tuberculose et la sarcoïdose en sont des exemples",
+   "L'interféron gamma des Th1 entretient l'activation macrophagique",
+   "Il est constitué d'anticorps précipités autour de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : inflammation chronique à médiation T.",
+   "Vrai : organisation caractéristique du granulome épithélioïde.",
+   "Vrai : granulomatoses infectieuses et inflammatoires.",
+   "Vrai : cytokine centrale du granulome.",
+   "Faux : le granulome est cellulaire, sans dépôt d'anticorps."
+  ]
+ },
+ {
+  "q": "Concernant le rejet cellulaire aigu de greffe d'organe, lesquelles sont exactes ?",
+  "options": [
+   "C'est une hypersensibilité de type IV dirigée contre les antigènes HLA du donneur",
+   "Les lymphocytes T CD8 cytotoxiques du receveur détruisent les cellules du greffon",
+   "Les lymphocytes Th1 amplifient la réponse par l'interféron gamma",
+   "La prévention repose sur les immunosuppresseurs (ciclosporine, tacrolimus)",
+   "Il est prévenu par la désensibilisation aux IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : alloréactivité T contre le CMH du donneur.",
+   "Vrai : lyse directe des cellules du greffon.",
+   "Vrai : activation macrophagique et inflammation du greffon.",
+   "Vrai : inhibition de l'activation lymphocytaire T.",
+   "Faux : la désensibilisation concerne l'allergie IgE-médiée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les lymphocytes Th1, lesquelles sont exactes ?",
+  "options": [
+   "Ils sécrètent l'interféron gamma, l'IL-2 et le TNF-alpha",
+   "Ils activent les macrophages et favorisent la phagocytose des pathogènes intracellulaires",
+   "Ils induisent l'hypersensibilité retardée",
+   "Ils participent à la différenciation des lymphocytes T cytotoxiques CD8",
+   "Ils orientent la commutation isotypique vers les IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : profil cytokinique du Th1.",
+   "Vrai : rôle dans la lutte contre virus et agents intracellulaires.",
+   "Vrai : effecteurs du type IV.",
+   "Vrai : aide à la réponse cytotoxique.",
+   "Faux : c'est l'IL-4 des Th2 qui oriente vers les IgE."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes Th17, lesquelles sont exactes ?",
+  "options": [
+   "Ils sécrètent l'IL-17 à activité pro-inflammatoire",
+   "Ils sont impliqués dans les maladies auto-immunes et les inflammations chroniques",
+   "Ils participent à la défense contre les bactéries extracellulaires et les mycoses",
+   "Ils sécrètent le TGF-bêta et l'IL-10 comme les Treg",
+   "Ils sont les principaux effecteurs de l'allergie immédiate"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : cytokine signature du Th17.",
+   "Vrai : rôle pathogène dans la PR, la SEP, le psoriasis.",
+   "Vrai : recrutement des neutrophiles contre pathogènes extracellulaires.",
+   "Faux : TGF-β et IL-10 sont les cytokines des Treg.",
+   "Faux : l'allergie immédiate est Th2/IgE-dépendante."
+  ]
+ },
+ {
+  "q": "Au sujet du diabète de type 1, lesquelles sont exactes ?",
+  "options": [
+   "C'est une maladie auto-immune par destruction des cellules bêta pancréatiques",
+   "La destruction est à médiation cellulaire T avec participation des auto-anticorps (anti-GAD, anti-IA2)",
+   "Il survient classiquement chez l'enfant ou l'adulte jeune",
+   "Il est associé aux haplotypes HLA-DR3 et DR4",
+   "Il se traite par antidiabétiques oraux en première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : insulite auto-immune.",
+   "Vrai : composante cellulaire prédominante et auto-Ac marqueurs.",
+   "Vrai : diabète juvénile.",
+   "Vrai : susceptibilité génétique HLA de classe II.",
+   "Faux : l'insulinopénie absolue impose l'insulinothérapie à vie."
+  ]
+ },
+ {
+  "q": "Parmi les maladies suivantes, lesquelles relèvent principalement d'une hypersensibilité de type IV ?",
+  "options": [
+   "L'eczéma de contact allergique",
+   "La réaction tuberculinique",
+   "Le rejet cellulaire aigu de greffe",
+   "La sarcoïdose",
+   "Le choc anaphylactique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : dermatite de contact allergique.",
+   "Vrai : IDR à la tuberculine.",
+   "Vrai : rejet à médiation T.",
+   "Vrai : granulomatose à médiation Th1.",
+   "Faux : le choc anaphylactique est de type I."
+  ]
+ },
+ {
+  "q": "Concernant la tolérance immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "C'est l'état de non-réponse spécifique du système immunitaire vis-à-vis du soi",
+   "La tolérance centrale s'établit dans le thymus pour les LT et dans la moelle osseuse pour les LB",
+   "La sélection négative élimine les lymphocytes fortement auto-réactifs",
+   "La tolérance périphérique fait intervenir l'anergie, la délétion et les lymphocytes T régulateurs",
+   "La tolérance est un état définitif qui ne peut jamais être rompu"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : définition de la tolérance au soi.",
+   "Vrai : organes lymphoïdes primaires, lieux de la sélection.",
+   "Vrai : délétion clonale des lymphocytes auto-réactifs.",
+   "Vrai : mécanismes de contrôle des auto-réactifs échappés.",
+   "Faux : sa rupture est précisément à l'origine des maladies auto-immunes."
+  ]
+ },
+ {
+  "q": "Au sujet de la sélection thymique, lesquelles sont exactes ?",
+  "options": [
+   "La sélection positive retient les thymocytes reconnaissant les molécules CMH du soi",
+   "La sélection négative élimine les thymocytes reconnaissant trop fortement les peptides du soi",
+   "Le lymphocyte T mature est restreint aux molécules CMH du soi et auto-tolérant",
+   "Un défaut de sélection négative expose aux maladies auto-immunes",
+   "La sélection thymique concerne les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : éducation à la restriction CMH.",
+   "Vrai : délétion des clones auto-réactifs.",
+   "Vrai : double propriété du LT mature selon le cours.",
+   "Vrai : échappement de clones auto-réactifs.",
+   "Faux : les LB sont sélectionnés dans la moelle osseuse."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes T régulateurs (Treg), lesquelles sont exactes ?",
+  "options": [
+   "Ils expriment CD4, CD25 et le facteur de transcription Foxp3",
+   "Ils sécrètent le TGF-bêta et l'IL-10 à activité anti-inflammatoire",
+   "Ils régulent l'activation des lymphocytes T effecteurs",
+   "Ils induisent la tolérance et préviennent l'auto-immunité",
+   "Ils sécrètent l'IL-4 et l'IL-5 comme les Th2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : phénotype du Treg naturel.",
+   "Vrai : cytokines immunosuppressives selon le cours.",
+   "Vrai : contrôle des réponses effectrices.",
+   "Vrai : gardiens de la tolérance périphérique.",
+   "Faux : IL-4 et IL-5 sont les cytokines des Th2."
+  ]
+ },
+ {
+  "q": "D'après le cours, comment peut-on induire un état de tolérance en cas d'auto-immunité ?",
+  "options": [
+   "Par injection intrathymique de l'antigène en question, réalisant une tolérance centrale",
+   "La tolérance élimine ou inactive les lymphocytes auto-réactifs dirigés contre le soi",
+   "Par administration orale de fortes doses d'antigène dans certains modèles",
+   "Par injection d'IgE spécifiques de l'auto-antigène",
+   "Par stimulation des lymphocytes T cytotoxiques anti-soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : notion de tolérance centrale citée dans le cours.",
+   "Vrai : délétion ou anergie des clones auto-réactifs.",
+   "Vrai : la tolérance orale est un mécanisme classique de tolérance périphérique.",
+   "Faux : les IgE n'induisent pas de tolérance.",
+   "Faux : stimuler des LT anti-soi aggraverait l'auto-immunité."
+  ]
+ },
+ {
+  "q": "Parmi les mécanismes de rupture de la tolérance, lesquels sont classiquement admis ?",
+  "options": [
+   "Le mimétisme moléculaire entre un antigène microbien et un antigène du soi",
+   "La présentation d'antigènes cryptiques normalement séquestrés (œil, testicule, thyroïde)",
+   "Un défaut de sélection centrale ou périphérique des lymphocytes auto-réactifs",
+   "L'action des superantigènes activant polyclonalement les lymphocytes T",
+   "La production d'IgE spécifiques du soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : exemple du streptocoque et du rhumatisme articulaire aigu.",
+   "Vrai : sites immuno-privilégiés exposés après traumatisme.",
+   "Vrai : échappement de la délétion clonale.",
+   "Vrai : activation massive contournant la spécificité antigénique.",
+   "Faux : l'auto-immunité implique IgG/IgM auto-Ac, pas les IgE."
+  ]
+ },
+ {
+  "q": "Concernant les facteurs favorisant les maladies auto-immunes, lesquels sont exactes ?",
+  "options": [
+   "Une prédisposition génétique liée à certains haplotypes HLA (ex. HLA-B27, HLA-DR4)",
+   "Le sexe féminin, pour la plupart des connectivites",
+   "Des facteurs environnementaux : infections, médicaments, UV",
+   "Un déficit en lymphocytes T régulateurs",
+   "Le groupe sanguin ABO"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : association HLA-maladies auto-immunes.",
+   "Vrai : nette prédominance féminine (lupus, Basedow, PR).",
+   "Vrai : déclencheurs environnementaux reconnus.",
+   "Vrai : perte du contrôle périphérique de l'auto-réactivité.",
+   "Faux : le groupe ABO n'est pas un facteur de risque établi."
+  ]
+ },
+ {
+  "q": "Au sujet de la définition de l'auto-immunité selon le cours, lesquelles sont exactes ?",
+  "options": [
+   "C'est une rupture de la tolérance au soi",
+   "Des lymphocytes B auto-réactifs produisent des auto-anticorps",
+   "Ces auto-anticorps ou des LT auto-réactifs attaquent les propres tissus de l'organisme",
+   "Le système immunitaire fabrique des auto-Ac dirigés contre ses propres constituants",
+   "C'est une réponse dirigée exclusivement contre des antigènes microbiens"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : définition du cours.",
+   "Vrai : les LB auto-réactifs sont à l'origine des auto-Ac.",
+   "Vrai : effecteurs humoraux et cellulaires anti-soi.",
+   "Vrai : notion de maladies où le SI fabrique des auto-Ac.",
+   "Faux : elle est dirigée contre le soi, pas contre les microbes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles distinguent maladies auto-immunes spécifiques d'organe et systémiques ?",
+  "options": [
+   "La thyroïdite de Hashimoto est une maladie spécifique d'organe",
+   "Le lupus érythémateux disséminé est une maladie systémique",
+   "La polyarthrite rhumatoïde est une maladie systémique à complexes immuns",
+   "La myasthénie est une maladie spécifique d'organe (jonction neuromusculaire)",
+   "Le diabète de type 2 est une maladie auto-immune systémique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : auto-Ac anti-thyroperoxydase, atteinte thyroïdienne.",
+   "Vrai : atteinte multiviscérale à complexes immuns.",
+   "Vrai : atteinte articulaire prédominante mais systémique.",
+   "Vrai : auto-Ac anti-récepteur de l'acétylcholine.",
+   "Faux : le diabète de type 2 est métabolique avec insulinorésistance, non auto-immun."
+  ]
+ },
+ {
+  "q": "Concernant la maladie de Basedow, lesquelles sont exactes ?",
+  "options": [
+   "C'est une hyperthyroïdie auto-immune par anticorps anti-récepteur de la TSH à effet stimulant",
+   "Elle associe goitre vasculaire, signes d'hyperthyroïdie et orbitopathie",
+   "Les anticorps anti-récepteur de la TSH (TRAK) en sont le marqueur",
+   "C'est une hypersensibilité de type II à effet agoniste",
+   "C'est une hypothyroïdie par destruction thyroïdienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ac stimulants mimant l'action de la TSH.",
+   "Vrai : triade clinique de Basedow.",
+   "Vrai : dosage diagnostique des TRAK.",
+   "Vrai : prototype du type II stimulant.",
+   "Faux : c'est une hyperthyroïdie ; l'hypothyroïdie auto-immune est la thyroïdite de Hashimoto."
+  ]
+ },
+ {
+  "q": "Au sujet de la thyroïdite de Hashimoto, lesquelles sont exactes ?",
+  "options": [
+   "C'est une hypothyroïdie auto-immune par destruction lymphocytaire de la thyroïde",
+   "Les anticorps anti-thyroperoxydase (anti-TPO) en sont le marqueur principal",
+   "Elle évolue vers l'atrophie thyroïdienne et l'hypothyroïdie définitive",
+   "Le traitement repose sur l'hormonothérapie substitutive par lévothyroxine",
+   "Les anticorps anti-récepteur de la TSH stimulants en sont caractéristiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : thyroïdite lymphocytaire chronique.",
+   "Vrai : anti-TPO très sensibles.",
+   "Vrai : destruction progressive du parenchyme.",
+   "Vrai : substitution hormonale à vie.",
+   "Faux : les TRAK stimulants caractérisent Basedow."
+  ]
+ },
+ {
+  "q": "Concernant la myasthénie auto-immune, lesquelles sont exactes ?",
+  "options": [
+   "Elle est due à des auto-anticorps anti-récepteur de l'acétylcholine à effet bloquant",
+   "Elle se traduit par une fatigabilité musculaire s'aggravant à l'effort",
+   "L'atteinte oculaire (ptosis, diplopie) est fréquente et révélatrice",
+   "Une hyperplasie ou un thymome est souvent associé",
+   "C'est une hypersensibilité de type III"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : blocage de la transmission neuromusculaire.",
+   "Vrai : faiblesse fluctuante, signe cardinal.",
+   "Vrai : muscles oculaires souvent atteints en premier.",
+   "Vrai : rôle du thymus, thymectomie parfois indiquée.",
+   "Faux : c'est un type II par Ac bloquants."
+  ]
+ },
+ {
+  "q": "Au sujet de la sclérose en plaques, lesquelles sont exactes ?",
+  "options": [
+   "C'est une maladie auto-immune démyélinisante du système nerveux central",
+   "La destruction de la myéline est à médiation cellulaire T avec participation humorale",
+   "Elle évolue par poussées et rémissions",
+   "La ponction lombaire montre une synthèse intrathécale d'IgG (bandes oligoclonales)",
+   "C'est une maladie à complexes immuns de type III"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : atteinte de la substance blanche encéphalique et médullaire.",
+   "Vrai : LT auto-réactifs anti-myéline.",
+   "Vrai : évolution typique en poussées.",
+   "Vrai : profil oligoclonal du LCR.",
+   "Faux : c'est une auto-immunité à médiation cellulaire, pas à complexes immuns."
+  ]
+ },
+ {
+  "q": "Concernant l'anémie de Biermer, lesquelles sont exactes ?",
+  "options": [
+   "C'est une anémie macrocytaire par carence en vitamine B12 d'origine auto-immune",
+   "Elle est due à des auto-anticorps anti-facteur intrinsèque et anti-cellules pariétales gastriques",
+   "Elle s'accompagne d'une gastrite atrophique fundique",
+   "Le traitement repose sur la vitaminothérapie B12 parentérale à vie",
+   "C'est une anémie hémolytique auto-immune"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : défaut d'absorption de la B12.",
+   "Vrai : Ac bloquant la liaison B12-facteur intrinsèque.",
+   "Vrai : atrophie de la muqueuse fundique.",
+   "Vrai : supplémentation B12 IM mensuelle.",
+   "Faux : c'est une anémie mégaloblastique par carence, non hémolytique."
+  ]
+ },
+ {
+  "q": "Parmi les auto-anticorps suivants, lesquels sont caractéristiques des maladies indiquées ?",
+  "options": [
+   "Anti-ADN natif et anti-Sm : lupus érythémateux disséminé",
+   "Anti-CCP (peptides citrullinés) : polyarthrite rhumatoïde",
+   "Anti-récepteur de l'acétylcholine : myasthénie",
+   "Anti-GAD et anti-IA2 : diabète de type 1",
+   "Anti-IgE : lupus érythémateux disséminé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : marqueurs spécifiques du lupus.",
+   "Vrai : très spécifiques de la PR.",
+   "Vrai : marqueurs de la myasthénie.",
+   "Vrai : marqueurs de l'auto-immunité anti-îlots.",
+   "Faux : il n'existe pas d'anti-IgE marqueur du lupus."
+  ]
+ },
+ {
+  "q": "Concernant la polyarthrite rhumatoïde, lesquelles sont exactes ?",
+  "options": [
+   "C'est un rhumatisme inflammatoire chronique auto-immun touchant les synoviales",
+   "L'atteinte est bilatérale et symétrique, prédominant aux petites articulations des mains",
+   "Le facteur rhumatoïde et les anti-CCP en sont les marqueurs biologiques",
+   "Elle est associée à l'haplotype HLA-DR4",
+   "C'est une arthrite infectieuse septique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : synovite chronique destructrice.",
+   "Vrai : polyarthrite distale symétrique.",
+   "Vrai : auto-Ac diagnostiques.",
+   "Vrai : susceptibilité HLA de classe II.",
+   "Faux : c'est une maladie auto-immune, non infectieuse."
+  ]
+ },
+ {
+  "q": "Au sujet du syndrome de Goodpasture, lesquelles sont exactes ?",
+  "options": [
+   "Il est dû à des auto-anticorps anti-membrane basale glomérulaire (anti-collagène IV)",
+   "Il associe glomérulonéphrite rapidement progressive et hémorragie intra-alvéolaire",
+   "C'est une hypersensibilité de type II",
+   "Le traitement associe plasmaphérèses et immunosuppresseurs",
+   "C'est une maladie à complexes immuns circulants"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ac anti-domaine NC1 du collagène IV.",
+   "Vrai : atteinte rénale et pulmonaire simultanées.",
+   "Vrai : Ac cytotoxiques fixés sur les membranes basales.",
+   "Vrai : épuration des auto-Ac et immunosuppression.",
+   "Faux : les Ac sont fixés in situ, ce n'est pas un type III."
+  ]
+ },
+ {
+  "q": "Concernant le pemphigus, lesquelles sont exactes ?",
+  "options": [
+   "C'est une dermatose bulleuse auto-immune par auto-anticorps anti-desmogléine",
+   "Les anticorps provoquent un décollement intra-épidermique (acantholyse)",
+   "L'immunofluorescence directe montre un dépôt interkératinocytaire en résille",
+   "C'est une hypersensibilité de type II",
+   "C'est une dermatose à complexes immuns de type III"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ac anti-jonctions desmosomales.",
+   "Vrai : perte de cohésion des kératinocytes.",
+   "Vrai : aspect en mailles de filet caractéristique.",
+   "Vrai : Ac cytotoxiques anti-structures membranaires.",
+   "Faux : pas de complexes immuns solubles."
+  ]
+ },
+ {
+  "q": "Parmi les maladies suivantes, lesquelles sont des maladies auto-immunes spécifiques d'organe ?",
+  "options": [
+   "La thyroïdite de Hashimoto",
+   "La myasthénie",
+   "Le diabète de type 1",
+   "L'anémie de Biermer",
+   "Le lupus érythémateux disséminé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : thyroïde.",
+   "Vrai : jonction neuromusculaire.",
+   "Vrai : cellules bêta pancréatiques.",
+   "Vrai : muqueuse gastrique fundique.",
+   "Faux : le lupus est une connectivite systémique."
+  ]
+ },
+ {
+  "q": "Concernant le vitiligo, lesquelles sont exactes ?",
+  "options": [
+   "C'est une dépigmentation cutanée par destruction auto-immune des mélanocytes",
+   "Il est souvent associé à d'autres maladies auto-immunes (thyroïdites, diabète type 1)",
+   "Des auto-anticorps anti-mélanocytes et une cytotoxicité T sont impliqués",
+   "C'est une hypersensibilité de type I",
+   "Il s'agit d'une infection mycosique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : perte des mélanocytes épidermiques.",
+   "Vrai : poly-auto-immunité fréquente.",
+   "Vrai : mécanismes humoraux et cellulaires.",
+   "Faux : aucune IgE impliquée.",
+   "Faux : ce n'est pas une mycose."
+  ]
+ },
+ {
+  "q": "Au sujet de la maladie cœliaque, lesquelles sont exactes ?",
+  "options": [
+   "C'est une entéropathie auto-immune déclenchée par le gluten chez des sujets prédisposés",
+   "Les anticorps anti-transglutaminase tissulaire (anti-tTG) en sont le marqueur",
+   "Elle est fortement associée aux haplotypes HLA-DQ2 et DQ8",
+   "L'atrophie villositaire duodénale en est la lésion histologique",
+   "Le traitement repose sur les immunosuppresseurs au long cours"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : intolérance permanente au gluten.",
+   "Vrai : Ac très sensibles et spécifiques.",
+   "Vrai : quasi tous les patients portent DQ2 ou DQ8.",
+   "Vrai : diagnostic histologique sur biopsies duodénales.",
+   "Faux : le traitement est le régime sans gluten strict à vie."
+  ]
+ },
+ {
+  "q": "D'après le cours, comment recherche-t-on les auto-anticorps en laboratoire ?",
+  "options": [
+   "Par immunofluorescence (IF) directe ou indirecte",
+   "Par technique ELISA",
+   "Ces techniques sont qualitatives",
+   "Par dosage des IgE spécifiques",
+   "Par le test de Coombs direct systématique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : IF sur coupes tissulaires ou cellules Hep-2 pour les AAN.",
+   "Vrai : ELISA pour le dosage des auto-Ac spécifiques.",
+   "Vrai : exploration qualitative selon le cours.",
+   "Faux : les IgE spécifiques explorent l'allergie, pas l'auto-immunité.",
+   "Faux : le Coombs explore les Ac anti-érythrocytaires."
+  ]
+ },
+ {
+  "q": "Concernant les anticorps antinucléaires (AAN), lesquelles sont exactes ?",
+  "options": [
+   "Ils sont recherchés par immunofluorescence indirecte sur cellules Hep-2",
+   "Un titre élevé avec aspect homogène ou moucheté oriente vers une connectivite",
+   "Ils sont sensibles mais peu spécifiques, pouvant être positifs chez le sujet sain âgé",
+   "Leur positivité isolée suffit à affirmer un lupus",
+   "Ils sont recherchés par prick-test"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : substrat cellulaire de référence.",
+   "Vrai : aspects fluorescents orientant le diagnostic.",
+   "Vrai : positivité non spécifique possible.",
+   "Faux : le diagnostic de lupus repose sur des critères clinico-biologiques.",
+   "Faux : le prick-test explore l'allergie IgE-médiée."
+  ]
+ },
+ {
+  "q": "Parmi les traitements suivants des maladies auto-immunes, lesquels sont des immunosuppresseurs classiques ?",
+  "options": [
+   "Les corticoïdes",
+   "L'azathioprine",
+   "Le cyclophosphamide",
+   "Le méthotrexate",
+   "L'adrénaline"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : anti-inflammatoires et immunosuppresseurs de référence.",
+   "Vrai : antimétabolite inhibant la prolifération lymphocytaire.",
+   "Vrai : alkylant utilisé dans les formes sévères.",
+   "Vrai : traitement de fond de la PR notamment.",
+   "Faux : l'adrénaline traite le choc anaphylactique, pas l'auto-immunité."
+  ]
+ },
+ {
+  "q": "Concernant les biothérapies des maladies auto-immunes, lesquelles sont exactes ?",
+  "options": [
+   "Le rituximab est un anticorps monoclonal anti-CD20 déplétant les lymphocytes B",
+   "Les anti-TNF alpha sont utilisés dans la polyarthrite rhumatoïde",
+   "Elles ciblent spécifiquement un acteur de la réponse immunitaire",
+   "Elles exposent à un risque accru d'infections",
+   "Elles sont dénuées de tout effet indésirable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : déplétion B dans la PR, le lupus, les vascularites.",
+   "Vrai : infliximab, adalimumab, étanercept.",
+   "Vrai : thérapies ciblées.",
+   "Vrai : infections opportunistes et réactivation tuberculeuse.",
+   "Faux : risque infectieux et immunogène réel."
+  ]
+ },
+ {
+  "q": "Au sujet des échanges plasmatiques (plasmaphérèses) dans les maladies auto-immunes, lesquelles sont exactes ?",
+  "options": [
+   "Ils permettent l'épuration rapide des auto-anticorps pathogènes circulants",
+   "Ils sont indiqués dans le syndrome de Goodpasture et certaines vascularites",
+   "Ils sont utilisés dans les poussées sévères de myasthénie",
+   "Ils doivent être relayés par un traitement immunosuppresseur",
+   "Ils stimulent la production d'auto-anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : élimination extracorporelle des Ig pathogènes.",
+   "Vrai : indications validées.",
+   "Vrai : crise myasthénique.",
+   "Vrai : sinon rebond de la synthèse d'Ac.",
+   "Faux : ils les éliminent, avec parfois un rebond sans relais."
+  ]
+ },
+ {
+  "q": "Concernant la corticothérapie des maladies auto-immunes, lesquelles sont exactes ?",
+  "options": [
+   "Elle a une action anti-inflammatoire et immunosuppressive",
+   "Elle est souvent utilisée en bolus IV dans les poussées sévères",
+   "Un traitement prolongé expose à de nombreux effets indésirables (ostéoporose, diabète, infections)",
+   "Elle permet une épargne cortisonique lorsqu'elle est associée aux immunosuppresseurs",
+   "Elle guérit définitivement la maladie auto-immune"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : inhibition de l'activation lymphocytaire et de l'inflammation.",
+   "Vrai : méthylprednisolone en flash.",
+   "Vrai : effets secondaires dose et durée-dépendants.",
+   "Faux : ce sont les immunosuppresseurs qui permettent l'épargne cortisonique.",
+   "Faux : elle contrôle la maladie sans la guérir."
+  ]
+ },
+ {
+  "q": "D'après le cours, qu'est-ce que la maladie de Bruton ?",
+  "options": [
+   "Une agammaglobulinémie liée à l'X",
+   "Un déficit congénital de l'immunité humorale avec absence de lymphocytes B matures",
+   "Elle expose à des infections bactériennes récidivantes dès la petite enfance",
+   "Elle est due à un déficit en lymphocytes T CD4",
+   "Elle se traite par substitution en immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : transmission récessive liée à l'X.",
+   "Vrai : blocage de la maturation B, pas de plasmocytes.",
+   "Vrai : après la disparition des Ac maternels vers 6 mois.",
+   "Faux : les LT sont normaux ; c'est un déficit B.",
+   "Vrai : Ig polyvalentes IV ou SC à vie."
+  ]
+ },
+ {
+  "q": "Concernant la physiopathologie de la maladie de Bruton, lesquelles sont exactes ?",
+  "options": [
+   "Elle est due à une mutation du gène BTK codant une tyrosine kinase",
+   "La maturation des lymphocytes B est bloquée au stade pré-B dans la moelle osseuse",
+   "Les immunoglobulines de toutes les classes sont effondrées",
+   "Les ganglions lymphatiques sont dépourvus de centres germinatifs",
+   "Les lymphocytes T sont absents"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Bruton tyrosine kinase, signalisation du BCR.",
+   "Vrai : arrêt de la différenciation B.",
+   "Vrai : agammaglobulinémie.",
+   "Vrai : pas de follicules B fonctionnels.",
+   "Faux : l'immunité cellulaire T est conservée."
+  ]
+ },
+ {
+  "q": "Au sujet des infections de la maladie de Bruton, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont à bactéries pyogènes extracellulaires encapsulées (pneumocoque, Haemophilus influenzae)",
+   "Elles touchent surtout les voies respiratoires (otites, sinusites, pneumopathies)",
+   "Elles débutent après 6 mois, à la disparition des anticorps maternels",
+   "Les infections virales et fongiques sont au premier plan",
+   "La vaccination par vaccins vivants est sans danger"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : défaut d'opsonisation par les Ac.",
+   "Vrai : infections sinopulmonaires récidivantes.",
+   "Vrai : protection maternelle transplacentaire les 6 premiers mois.",
+   "Faux : l'immunité antivirale T-dépendante est préservée.",
+   "Faux : les vaccins vivants sont contre-indiqués dans les DIP."
+  ]
+ },
+ {
+  "q": "D'après le cours, qu'est-ce que le syndrome hyper-IgM lié à l'X ?",
+  "options": [
+   "Un déficit en ligand du CD40 (CD40L) exprimé par les lymphocytes T",
+   "Le dialogue T-B (conjugué T-B) ne fonctionne pas",
+   "Il n'y a pas de commutation isotypique : IgM normales ou élevées",
+   "Il existe un déficit en IgG, IgA et IgE",
+   "C'est un déficit isolé en IgM"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CD154 défectueux sur les LT activés.",
+   "Vrai : pas de signal CD40-CD40L vers le LB.",
+   "Vrai : hyper-IgM caractéristique.",
+   "Vrai : seules les IgM sont produites.",
+   "Faux : les IgM sont normales ou augmentées, pas déficitaires."
+  ]
+ },
+ {
+  "q": "Concernant le syndrome hyper-IgM lié à l'X, lesquelles sont exactes ?",
+  "options": [
+   "Les infections à Pneumocystis jirovecii sont classiques",
+   "Les ganglions présentent une hyperplasie des centres germinatifs",
+   "C'est un déficit combiné touchant l'immunité humorale et cellulaire",
+   "Le traitement curatif est la greffe de moelle osseuse",
+   "Les IgG sont élevées"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : déficit de l'immunité T-dépendante anti-Pneumocystis.",
+   "Faux : il y a une hyperplasie des zones T, pas de centres germinatifs fonctionnels.",
+   "Vrai : le CD40L intervient aussi dans l'activation macrophagique.",
+   "Vrai : seul traitement curatif.",
+   "Faux : les IgG sont effondrées par défaut de commutation."
+  ]
+ },
+ {
+  "q": "Au sujet du déficit immunitaire commun variable (DICV), lesquelles sont exactes ?",
+  "options": [
+   "C'est le déficit humoral symptomatique le plus fréquent de l'adulte",
+   "Les IgG sont basses avec baisse des IgA et/ou des IgM",
+   "Les lymphocytes B sont présents mais leur différenciation en plasmocytes est défectueuse",
+   "Il expose aux infections sinopulmonaires récidivantes et aux maladies auto-immunes",
+   "Il se révèle toujours dans la petite enfance"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : révélation à l'âge adulte jeune le plus souvent.",
+   "Vrai : hypogammaglobulinémie.",
+   "Vrai : LB présents, défaut de différenciation terminale.",
+   "Vrai : infections et auto-immunité associées.",
+   "Faux : début à tout âge, souvent adulte."
+  ]
+ },
+ {
+  "q": "D'après le cours, qu'est-ce que le déficit sélectif en IgA ?",
+  "options": [
+   "Le déficit humoral le plus fréquent",
+   "Il se traduit par l'absence ou un taux très bas d'IgA avec autres Ig normales",
+   "Il expose à des infections respiratoires et digestives récidivantes",
+   "Il expose à un risque de réaction transfusionnelle par anticorps anti-IgA",
+   "Il est toujours symptomatique et grave"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : environ 1/600 dans la population générale.",
+   "Vrai : déficit isolé en IgA.",
+   "Vrai : défaut de l'immunité des muqueuses.",
+   "Vrai : choc anaphylactique transfusionnel chez les déficitaires avec anti-IgA.",
+   "Faux : la plupart des cas sont asymptomatiques."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'un déficit de l'immunité humorale, lesquelles sont exactes ?",
+  "options": [
+   "Le dosage pondéral des immunoglobulines par néphélémétrie est l'examen clé",
+   "L'électrophorèse des protéines sériques montre une hypogammaglobulinémie",
+   "La numération des lymphocytes B circulants en cytométrie de flux est contributive",
+   "L'immunophénotypage précise les anomalies et stades de maturation des LB",
+   "Le dosage des IgE spécifiques suffit au diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : néphélémétrie citée dans le cours.",
+   "Vrai : effondrement du pic des gammaglobulines.",
+   "Vrai : LB absents dans Bruton, présents dans le DICV.",
+   "Vrai : exploration selon le cours.",
+   "Faux : les IgE explorent l'allergie."
+  ]
+ },
+ {
+  "q": "Parmi les déficits humoraux suivants, lesquels sont congénitaux ?",
+  "options": [
+   "La maladie de Bruton",
+   "Le syndrome hyper-IgM lié à l'X",
+   "Le déficit sélectif en IgA",
+   "Le déficit immunitaire commun variable",
+   "L'hypogammaglobulinémie du myélome multiple"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : génétique liée à l'X.",
+   "Vrai : génétique liée à l'X.",
+   "Vrai : prédisposition génétique.",
+   "Vrai : primitif, souvent génétique.",
+   "Faux : le myélome est acquis."
+  ]
+ },
+ {
+  "q": "Au sujet des hypogammaglobulinémies acquises, lesquelles sont exactes ?",
+  "options": [
+   "Le myélome multiple peut s'accompagner d'une immunoparésie",
+   "La leucémie lymphoïde chronique expose aux infections par hypogammaglobulinémie",
+   "Le syndrome néphrotique entraîne une perte urinaire d'immunoglobulines",
+   "Les traitements immunosuppresseurs peuvent induire une hypogammaglobulinémie",
+   "Elles sont toujours liées à l'X"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le clone plasmocytaire supprime les Ig polyclonales.",
+   "Vrai : déficit humoral secondaire de la LLC.",
+   "Vrai : fuite protéique glomérulaire.",
+   "Vrai : corticoïdes, rituximab notamment.",
+   "Faux : elles sont acquises, non héréditaires."
+  ]
+ },
+ {
+  "q": "D'après le cours, qu'est-ce que le syndrome de DiGeorge ?",
+  "options": [
+   "Une hypoplasie ou aplasie thymique",
+   "Il est dû à une délétion du chromosome 22q11",
+   "C'est un déficit de l'immunité cellulaire T",
+   "Il expose à des infections virales et fongiques récidivantes",
+   "C'est un déficit isolé en lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : défaut de développement du thymus.",
+   "Vrai : microdélétion 22q11.2.",
+   "Vrai : pas de maturation T.",
+   "Vrai : défaut de l'immunité antivirale et antifongique.",
+   "Faux : les LB sont présents."
+  ]
+ },
+ {
+  "q": "Concernant le syndrome de DiGeorge, lesquelles sont exactes ?",
+  "options": [
+   "Il associe cardiopathie conotroncale, hypocalcémie et déficit immunitaire",
+   "L'hypocalcémie est due à l'hypoplasie des parathyroïdes",
+   "La numération des lymphocytes T CD3 est basse",
+   "La greffe de thymus peut être proposée dans les formes complètes",
+   "Les IgG sont effondrées par absence de LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : triade classique (cœur, calcium, immunité).",
+   "Vrai : agénésie des parathyroïdes.",
+   "Vrai : lymphopénie T.",
+   "Vrai : traitement des aplasies thymiques complètes.",
+   "Faux : les LB sont présents ; le déficit est T."
+  ]
+ },
+ {
+  "q": "D'après le cours, qu'est-ce que le déficit immunitaire combiné sévère (DICS) ?",
+  "options": [
+   "Un déficit congénital touchant à la fois les lymphocytes B et T",
+   "La forme liée à l'X est due au déficit de la chaîne gamma commune des récepteurs aux cytokines",
+   "Le déficit en adénosine désaminase (ADA) en est une cause",
+   "Il expose à des infections graves et précoces, potentiellement mortelles sans greffe de moelle osseuse",
+   "C'est un déficit acquis de l'adulte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : atteinte combinée humorale et cellulaire.",
+   "Vrai : γc commune aux récepteurs IL-2, IL-4, IL-7, IL-9, IL-15 et IL-21.",
+   "Vrai : toxicité des métabolites puriques pour les lymphocytes.",
+   "Vrai : infections opportunistes dès les premiers mois de vie.",
+   "Faux : c'est un déficit primitif congénital."
+  ]
+ },
+ {
+  "q": "Concernant le DICS lié à l'X (déficit en chaîne gamma commune), lesquelles sont exactes ?",
+  "options": [
+   "Les lymphocytes T et NK sont absents, les LB sont présents mais non fonctionnels (phénotype T- B+ NK-)",
+   "L'IL-7, indispensable à la lymphopoïèse T, ne peut plus signaler",
+   "La transmission est récessive liée à l'X : garçons atteints, mères conductrices",
+   "Le diagnostic peut être évoqué devant une lymphopénie profonde chez un nourrisson",
+   "Les IgA sont le seul isotype effondré"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : phénotype caractéristique.",
+   "Vrai : l'IL-7 utilise la chaîne γc.",
+   "Vrai : hérédité liée à l'X.",
+   "Vrai : lymphopénie < 3000/mm³ chez le nourrisson.",
+   "Faux : toutes les classes d'Ig sont effondrées."
+  ]
+ },
+ {
+  "q": "Au sujet du syndrome de Wiskott-Aldrich, lesquelles sont exactes ?",
+  "options": [
+   "C'est un déficit immunitaire lié à l'X",
+   "Il associe eczéma, thrombopénie à petites plaquettes et infections récidivantes",
+   "Il est dû à une mutation du gène WAS codant une protéine du cytosquelette",
+   "Il expose aux maladies auto-immunes et aux lymphomes",
+   "C'est un déficit isolé du complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : transmission récessive liée à l'X.",
+   "Vrai : triade clinique classique.",
+   "Vrai : protéine WASP de polymérisation de l'actine.",
+   "Vrai : dérégulation immune et risque lymphomateux.",
+   "Faux : c'est un déficit combiné avec anomalie plaquettaire."
+  ]
+ },
+ {
+  "q": "Concernant l'exploration d'un déficit de l'immunité cellulaire, lesquelles sont exactes ?",
+  "options": [
+   "La numération des sous-populations lymphocytaires (LT CD4, CD8) en cytométrie de flux",
+   "L'immunophénotypage précisant les anomalies et stades de maturation des LT",
+   "Les tests de prolifération lymphocytaire en présence de mitogènes",
+   "L'intradermoréaction à la tuberculine, témoin de l'immunité cellulaire",
+   "Le dosage des IgE totales"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CMF des sous-populations selon le cours.",
+   "Vrai : immunophénotypage selon le cours.",
+   "Vrai : réponse proliférative aux mitogènes et antigènes.",
+   "Vrai : anergie tuberculinique dans les déficits T profonds.",
+   "Faux : les IgE explorent l'allergie."
+  ]
+ },
+ {
+  "q": "Parmi les déficits suivants, lesquels sont des déficits combinés ?",
+  "options": [
+   "Le DICS lié à l'X (chaîne gamma commune)",
+   "Le déficit en adénosine désaminase",
+   "Le syndrome de Wiskott-Aldrich",
+   "Le syndrome de DiGeorge complet",
+   "La maladie de Bruton"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : atteinte T, B et NK.",
+   "Vrai : atteinte T, B et NK.",
+   "Vrai : déficit humoral et cellulaire avec thrombopénie.",
+   "Vrai : aplasie thymique avec retentissement humoral T-dépendant.",
+   "Faux : déficit purement humoral B."
+  ]
+ },
+ {
+  "q": "D'après le cours, quelles anomalies définissent les déficits du système phagocytaire ?",
+  "options": [
+   "Une anomalie du nombre : agranulocytose (< 500/mm³) ou granulopénie (< 1500/mm³)",
+   "Une anomalie de la fonction : chimiotactisme ou bactéricidie défaillante",
+   "Les déficits en molécules d'adhésion (LAD1 et LAD2)",
+   "Les déficits en complément",
+   "Un excès de polynucléaires neutrophiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : seuils du cours.",
+   "Vrai : défaut de migration ou de killing.",
+   "Vrai : LAD cités dans le cours.",
+   "Vrai : déficits du complément cités avec les déficits phagocytaires.",
+   "Faux : c'est un déficit, pas un excès."
+  ]
+ },
+ {
+  "q": "Concernant la granulomatose septique chronique, lesquelles sont exactes ?",
+  "options": [
+   "Elle est due à un déficit de la NADPH oxydase phagocytaire",
+   "Les phagocytes ne produisent pas de dérivés oxygénés bactéricides (H2O2)",
+   "Le test au NBT (nitrobleu de tétrazolium) est négatif",
+   "Les infections à germes catalase positifs (Staphylococcus aureus, Aspergillus) sont classiques",
+   "C'est un déficit de l'immunité humorale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : défaut de l'explosion oxydative.",
+   "Vrai : pas de H2O2 microbicide.",
+   "Vrai : le NBT n'est pas réduit.",
+   "Vrai : les germes catalase+ détruisent leur propre H2O2.",
+   "Faux : c'est un déficit phagocytaire."
+  ]
+ },
+ {
+  "q": "Au sujet des déficits en molécules d'adhésion leucocytaire (LAD), lesquelles sont exactes ?",
+  "options": [
+   "Le LAD1 est dû à un déficit en CD18 (chaîne bêta-2 des intégrines)",
+   "Le défaut d'adhésion empêche la diapédèse des neutrophiles vers les foyers infectieux",
+   "Le retard de chute du cordon ombilical est un signe évocateur",
+   "Les infections sont sans pus malgré une hyperleucocytose",
+   "C'est un déficit en immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : intégrines β2 CD11/CD18.",
+   "Vrai : les PNN ne migrent pas dans les tissus.",
+   "Vrai : signe néonatal classique.",
+   "Vrai : pas de recrutement de PNN au foyer.",
+   "Faux : déficit de l'adhésion leucocytaire."
+  ]
+ },
+ {
+  "q": "D'après le cours, quelles sont les conséquences d'un déficit en complément ?",
+  "options": [
+   "Un déficit en C3 expose aux infections à germes encapsulés par défaut d'opsonisation",
+   "Un déficit en C5 à C9 expose aux infections à germes Gram négatif (Neisseria)",
+   "Des infections récidivantes à bactéries encapsulées (pneumocoque, Neisseria)",
+   "Un défaut de lyse par le complexe d'attaque membranaire",
+   "Une protection contre les maladies auto-immunes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : C3b = opsonine majeure.",
+   "Vrai : voie terminale du MAC anti-Neisseria.",
+   "Vrai : conséquence citée dans le cours.",
+   "Vrai : le MAC ne peut se former.",
+   "Faux : les déficits en fractions précoces exposent au contraire au lupus."
+  ]
+ },
+ {
+  "q": "Concernant l'angiœdème héréditaire, lesquelles sont exactes ?",
+  "options": [
+   "Il est dû à un déficit en C1 inhibiteur (C1INH)",
+   "Il se traduit par des œdèmes récidivants sans urticaire ni prurit",
+   "L'œdème laryngé peut engager le pronostic vital",
+   "Le C4 est abaissé même en dehors des crises",
+   "C'est une allergie IgE-médiée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : déficit quantitatif ou fonctionnel en C1INH.",
+   "Vrai : œdème bradykinique, non histaminique.",
+   "Vrai : asphyxie possible.",
+   "Vrai : consommation permanente de la voie classique.",
+   "Faux : pas d'IgE, pas d'histamine ; les antihistaminiques sont inefficaces."
+  ]
+ },
+ {
+  "q": "Parmi les déficits du complément suivants, lesquels exposent aux infections à Neisseria meningitidis ?",
+  "options": [
+   "Le déficit en C5",
+   "Le déficit en C6",
+   "Le déficit en C7",
+   "Le déficit en C8",
+   "Le déficit en C1 inhibiteur"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : voie terminale commune du MAC.",
+   "Vrai : composant du complexe d'attaque membranaire.",
+   "Vrai : composant du complexe d'attaque membranaire.",
+   "Vrai : composant du complexe d'attaque membranaire.",
+   "Faux : le déficit en C1INH donne un angiœdème, pas d'infections à Neisseria."
+  ]
+ },
+ {
+  "q": "Au sujet du syndrome de Chédiak-Higashi, lesquelles sont exactes ?",
+  "options": [
+   "C'est un déficit de la fonction des granules des phagocytes et des NK",
+   "Les polynucléaires présentent des granulations géantes",
+   "Il associe albinisme partiel, infections récidivantes et neuropathie",
+   "La phase accélérée lymphohistiocytaire peut être mortelle",
+   "C'est un déficit en IgA"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : anomalie du trafic des lysosomes.",
+   "Vrai : granules géants caractéristiques.",
+   "Vrai : triade clinique.",
+   "Vrai : hémophagocytose secondaire.",
+   "Faux : déficit phagocytaire et NK."
+  ]
+ },
+ {
+  "q": "D'après le cours, qu'est-ce que le SIDA ?",
+  "options": [
+   "Un déficit acquis de l'immunité par diminution des lymphocytes T CD4",
+   "Il est dû au VIH, rétrovirus à tropisme CD4",
+   "La déplétion en LTCD4 expose aux infections opportunistes",
+   "C'est un déficit congénital de l'enfant",
+   "Il se traite par substitution en immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : définition du cours.",
+   "Vrai : le VIH infecte et détruit les LT CD4.",
+   "Vrai : immunodépression cellulaire acquise.",
+   "Faux : c'est un déficit acquis.",
+   "Faux : traitement antirétroviral, pas Ig."
+  ]
+ },
+ {
+  "q": "Concernant le VIH, lesquelles sont exactes ?",
+  "options": [
+   "La gp120 virale se lie au CD4 puis aux corécepteurs CCR5 ou CXCR4",
+   "La transcriptase inverse convertit l'ARN viral en ADN proviral intégré",
+   "Les lymphocytes T CD4, les macrophages et les cellules dendritiques sont infectés",
+   "Le stade SIDA est défini par des CD4 < 200/mm³ ou une infection opportuniste",
+   "Le VIH infecte les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : double ancrage d'entrée.",
+   "Vrai : rétrotranscription caractéristique des rétrovirus.",
+   "Vrai : cellules cibles exprimant CD4.",
+   "Vrai : définition CDC du SIDA.",
+   "Faux : les LB n'expriment pas le CD4."
+  ]
+ },
+ {
+  "q": "Parmi les infections suivantes, lesquelles sont des infections opportunistes du SIDA ?",
+  "options": [
+   "La pneumocystose à Pneumocystis jirovecii",
+   "La toxoplasmose cérébrale",
+   "La cryptococcose neuroméningée",
+   "La candidose œsophagienne",
+   "La pneumopathie à pneumocoque chez le sujet sain"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pneumopathie interstitielle du SIDA profond.",
+   "Vrai : abcès cérébraux à toxoplasme.",
+   "Vrai : méningite à Cryptococcus neoformans.",
+   "Vrai : mycose œsophagienne classante.",
+   "Faux : le pneumocoque infecte aussi le sujet immunocompétent."
+  ]
+ },
+ {
+  "q": "Concernant les tumeurs associées au SIDA, lesquelles sont exactes ?",
+  "options": [
+   "Le sarcome de Kaposi lié à HHV-8",
+   "Les lymphomes non hodgkiniens, notamment cérébraux primitifs",
+   "Le cancer invasif du col utérin",
+   "Elles sont favorisées par l'immunodépression cellulaire",
+   "Le cancer du poumon n'est jamais observé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : tumeur vasculaire classante.",
+   "Vrai : lymphomes EBV-induits classants.",
+   "Vrai : cancer HPV-induit classant.",
+   "Vrai : défaut de surveillance immunitaire T.",
+   "Faux : le cancer bronchique est plus fréquent chez les patients VIH."
+  ]
+ },
+ {
+  "q": "Au sujet du diagnostic et du suivi de l'infection à VIH, lesquelles sont exactes ?",
+  "options": [
+   "Le dépistage repose sur la sérologie ELISA avec confirmation par Western blot",
+   "La numération des LTCD4 en cytométrie de flux évalue le degré d'immunodépression",
+   "La charge virale plasmatique guide le traitement antirétroviral",
+   "Le Western blot est aussi utilisé pour identifier les anticorps anti-VIH selon le cours",
+   "Le diagnostic repose sur le dosage des IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : stratégie sérologique classique.",
+   "Vrai : CMF des sous-populations selon le cours.",
+   "Vrai : ARN plasmatique, objectif d'indétectabilité.",
+   "Vrai : identification d'Ac anti-VIH par WB citée dans le cours.",
+   "Faux : aucun rôle des IgE."
+  ]
+ },
+ {
+  "q": "Concernant le traitement antirétroviral, lesquelles sont exactes ?",
+  "options": [
+   "Il associe au moins trois molécules (trithérapie)",
+   "Les inhibiteurs de la transcriptase inverse en sont la base historique",
+   "Les antiprotéases et les anti-intégrases en font partie",
+   "L'objectif est une charge virale indétectable et la restauration immunitaire",
+   "Il éradique définitivement le provirus intégré"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : multithérapie pour éviter les résistances.",
+   "Vrai : INTI et INNTI.",
+   "Vrai : classes modernes.",
+   "Vrai : indétectable = intransmissible.",
+   "Faux : le réservoir proviral persiste ; le traitement est suspensif."
+  ]
+ },
+ {
+  "q": "Parmi les causes suivantes de déficit immunitaire acquis, lesquelles sont exactes ?",
+  "options": [
+   "L'infection à VIH",
+   "La dénutrition protéino-énergétique sévère",
+   "Les traitements immunosuppresseurs et la corticothérapie prolongée",
+   "La chimiothérapie anticancéreuse",
+   "La maladie de Bruton"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : SIDA.",
+   "Vrai : première cause mondiale de DIP acquis.",
+   "Vrai : iatrogénie immunosuppressive.",
+   "Vrai : aplasie et lymphopénie chimio-induites.",
+   "Faux : déficit primitif congénital."
+  ]
+ },
+ {
+  "q": "Concernant la prophylaxie des infections opportunistes au cours du SIDA, lesquelles sont exactes ?",
+  "options": [
+   "Le cotrimoxazole prévient la pneumocystose et la toxoplasmose quand les CD4 sont bas",
+   "La prophylaxie est guidée par le taux de LTCD4",
+   "La restauration immunitaire sous traitement antirétroviral permet d'arrêter les prophylaxies",
+   "La vaccination par vaccins vivants est recommandée à tous les stades",
+   "Aucune prophylaxie n'est nécessaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : prophylaxie de référence.",
+   "Vrai : seuils de CD4 adaptés à chaque pathogène.",
+   "Vrai : arrêt possible après remontée durable des CD4.",
+   "Faux : les vaccins vivants sont contre-indiqués en immunodépression profonde.",
+   "Faux : les prophylaxies réduisent la mortalité."
+  ]
+ },
+ {
+  "q": "D'après le cours, quel est le rôle des anaphylatoxines du complément dans l'hypersensibilité de type I ?",
+  "options": [
+   "C3a, C4a et C5a se lient aux récepteurs des mastocytes et des basophiles",
+   "Elles provoquent la dégranulation de ces cellules",
+   "Elles entraînent vasodilatation et contraction des muscles lisses",
+   "Elles sont générées par activation du complément au cours de la réaction allergique",
+   "Elles sont des immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : récepteurs des anaphylatoxines sur mastocytes et basophiles.",
+   "Vrai : dégranulation complément-dépendante.",
+   "Vrai : effets vasculaires et bronchiques.",
+   "Vrai : fragments issus du clivage de C3, C4 et C5.",
+   "Faux : ce sont des peptides du complément."
+  ]
+ },
+ {
+  "q": "Concernant les polynucléaires éosinophiles dans l'allergie, lesquelles sont exactes ?",
+  "options": [
+   "Ils représentent 1 à 5 % des globules blancs (100 à 500/µl)",
+   "Ils interviennent dans les infections parasitaires et les allergies",
+   "Ils sont recrutés par l'IL-5 lors de la phase tardive de la réaction allergique",
+   "Leurs protéines cationiques lèsent les tissus (ex. épithélium bronchique)",
+   "Ils sont les cellules de l'hypersensibilité immédiate"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : valeurs du cours.",
+   "Vrai : fonctions citées dans le cours.",
+   "Vrai : IL-5 = cytokine éosinophilique des Th2.",
+   "Vrai : MBP et ECP cytotoxiques pour l'épithélium.",
+   "Faux : la cellule de l'HS immédiate est le mastocyte."
+  ]
+ },
+ {
+  "q": "Au sujet des polynucléaires basophiles, lesquelles sont exactes ?",
+  "options": [
+   "Ils représentent environ 1 % des globules blancs (< 100/µl)",
+   "Ils portent des récepteurs FcεRI de haute affinité pour les IgE",
+   "Après activation, ils sécrètent des médiateurs de l'inflammation",
+   "Ils sont l'équivalent circulant du mastocyte tissulaire",
+   "Ils phagocytent les bactéries comme les neutrophiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : valeurs du cours.",
+   "Vrai : armés par les IgE comme les mastocytes.",
+   "Vrai : histamine et médiateurs lipidiques.",
+   "Vrai : même fonction effectrice dans le sang.",
+   "Faux : leur phagocytose est négligeable."
+  ]
+ },
+ {
+  "q": "Concernant le mastocyte, lesquelles sont exactes ?",
+  "options": [
+   "Il est présent dans le tissu conjonctif et au niveau des portes d'entrée (peau, muqueuses)",
+   "C'est la première cellule impliquée dans l'inflammation et la cellule de l'hypersensibilité immédiate",
+   "Son activation libère des médiateurs préformés : histamine, PAF-acéther",
+   "Son activation libère des médiateurs néoformés : prostaglandines, leucotriènes",
+   "Il circule en grand nombre dans le sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : localisation tissulaire selon le cours.",
+   "Vrai : définition du cours.",
+   "Vrai : médiateurs préformés du cours.",
+   "Vrai : médiateurs néoformés du cours.",
+   "Faux : c'est une cellule tissulaire ; son équivalent circulant est le basophile."
+  ]
+ },
+ {
+  "q": "Parmi les allergènes suivants, lesquels sont des pneumallergènes classiques ?",
+  "options": [
+   "Les acariens de la poussière de maison",
+   "Les pollens de graminées",
+   "Les phanères d'animaux (chat, chien)",
+   "Les moisissures",
+   "Le nickel"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Dermatophagoides, premier pneumallergène.",
+   "Vrai : pollinose saisonnière.",
+   "Vrai : allergènes animaux perannuels.",
+   "Vrai : Alternaria, Aspergillus.",
+   "Faux : le nickel est un allergène de contact (type IV)."
+  ]
+ },
+ {
+  "q": "Concernant les trophallergènes, lesquelles sont exactes ?",
+  "options": [
+   "L'arachide, les fruits à coque, le lait et l'œuf en sont des exemples",
+   "Ils peuvent déclencher un choc anaphylactique",
+   "Le diagnostic repose sur l'interrogatoire, les prick-tests et les IgE spécifiques",
+   "L'éviction est la base du traitement",
+   "Ils provoquent un eczéma de contact"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : principaux allergènes alimentaires.",
+   "Vrai : anaphylaxie alimentaire grave.",
+   "Vrai : bilan allergologique standard.",
+   "Vrai : régime d'éviction strict.",
+   "Faux : pas de type IV dans l'allergie alimentaire IgE-médiée."
+  ]
+ },
+ {
+  "q": "Au sujet de la désensibilisation (immunothérapie spécifique), lesquelles sont exactes ?",
+  "options": [
+   "Elle consiste en l'administration de doses croissantes d'allergène",
+   "Elle induit des IgG4 bloquantes et des lymphocytes T régulateurs",
+   "C'est le seul traitement capable de modifier l'histoire naturelle de l'allergie",
+   "Elle est indiquée dans l'allergie aux venins d'hyménoptères et les rhinites sévères",
+   "Elle agit en quelques minutes sur le choc anaphylactique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : protocole d'induction de tolérance.",
+   "Vrai : IgG4 compétitives des IgE et Treg.",
+   "Vrai : traitement curatif de l'allergie.",
+   "Vrai : indications validées.",
+   "Faux : traitement de fond sur plusieurs années, sans effet sur la crise aiguë."
+  ]
+ },
+ {
+  "q": "Concernant la phase tardive de la réaction allergique, lesquelles sont exactes ?",
+  "options": [
+   "Elle survient 4 à 8 heures après le contact allergénique",
+   "Elle est due aux médiateurs néoformés et aux cytokines (IL-4, IL-5, IL-13)",
+   "Les éosinophiles infiltrent les tissus et entretiennent l'inflammation",
+   "Elle explique la persistance des symptômes asthmatiques",
+   "Elle est médiée par les IgG"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : délai de la réponse tardive.",
+   "Vrai : synthèse de novo après activation.",
+   "Vrai : inflammation éosinophilique tissulaire.",
+   "Vrai : hyperréactivité bronchique prolongée.",
+   "Faux : elle reste IgE-dépendante dans son initiation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'asthme allergique, lesquelles sont exactes ?",
+  "options": [
+   "Le bronchospasme est dû à la contraction des muscles lisses bronchiques",
+   "L'œdème et l'hypersécrétion de mucus aggravent l'obstruction",
+   "L'IL-4 favorise la production d'IgE selon le cours (cytokines et pathologies)",
+   "Les corticoïdes inhalés en sont le traitement de fond",
+   "Les antibiotiques en sont le traitement de fond"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : effet des médiateurs sur le muscle lisse.",
+   "Vrai : composante inflammatoire de l'obstruction.",
+   "Vrai : l'IL-4 est associée à l'allergie dans le cours.",
+   "Vrai : anti-inflammatoires de référence.",
+   "Faux : pas d'indication hors surinfection."
+  ]
+ },
+ {
+  "q": "Concernant l'urticaire allergique aiguë, lesquelles sont exactes ?",
+  "options": [
+   "Elle est due à une vasodilatation et un œdème dermique liés à l'histamine",
+   "Les papules sont prurigineuses, œdémateuses et fugaces",
+   "Les antihistaminiques H1 en sont le traitement symptomatique",
+   "L'œdème de Quincke associé peut menacer les voies aériennes",
+   "C'est une hypersensibilité de type IV"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : mécanisme histaminique.",
+   "Vrai : lésions migratrices caractéristiques.",
+   "Vrai : blocage des récepteurs H1.",
+   "Vrai : œdème laryngé = urgence.",
+   "Faux : c'est un type I IgE-dépendant."
+  ]
+ },
+ {
+  "q": "Concernant le rhumatisme articulaire aigu, lesquelles sont exactes ?",
+  "options": [
+   "C'est une complication auto-immune d'une angine à streptocoque bêta-hémolytique du groupe A",
+   "Le mimétisme moléculaire entre les antigènes streptococciques et cardiaques en est le mécanisme",
+   "Il peut laisser des séquelles valvulaires cardiaques",
+   "Les anticorps anti-streptococciques (ASLO) en sont le marqueur",
+   "C'est une hypersensibilité de type I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : post-streptococcique.",
+   "Vrai : exemple classique de mimétisme moléculaire.",
+   "Vrai : valvulopathie rhumatismale.",
+   "Vrai : ASLO élevés.",
+   "Faux : mécanisme auto-immun par mimétisme, types II/III."
+  ]
+ },
+ {
+  "q": "Au sujet des anémies hémolytiques auto-immunes, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont dues à des auto-anticorps anti-érythrocytaires",
+   "Le test de Coombs direct est positif",
+   "La destruction des hématies opsonisées a lieu surtout dans la rate",
+   "Les anticorps sont le plus souvent des IgG actives à chaud",
+   "Ce sont des hypersensibilités de type III"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : auto-Ac anti-membrane érythrocytaire.",
+   "Vrai : Ac fixés in vivo sur les hématies.",
+   "Vrai : érythrophagocytose splénique.",
+   "Vrai : AHAI à anticorps chauds.",
+   "Faux : c'est un type II cytotoxique."
+  ]
+ },
+ {
+  "q": "Concernant le purpura thrombopénique immunologique, lesquelles sont exactes ?",
+  "options": [
+   "Il est dû à des auto-anticorps anti-plaquettaires",
+   "Les plaquettes opsonisées sont détruites dans la rate",
+   "Il se traduit par un purpura et un risque hémorragique",
+   "Les corticoïdes et les immunoglobulines IV en sont des traitements",
+   "C'est une hypersensibilité de type IV"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : auto-Ac anti-GPIIb/IIIa notamment.",
+   "Vrai : clairance splénique.",
+   "Vrai : thrombopénie < 100 G/L symptomatique.",
+   "Vrai : traitements de première ligne.",
+   "Faux : type II cytotoxique."
+  ]
+ },
+ {
+  "q": "Parmi les maladies auto-immunes suivantes, lesquelles sont médiées par des auto-anticorps bloquants ou stimulants (type II fonctionnel) ?",
+  "options": [
+   "La maladie de Basedow (stimulation du récepteur de la TSH)",
+   "La myasthénie (blocage du récepteur de l'acétylcholine)",
+   "L'anémie de Biermer (blocage du facteur intrinsèque)",
+   "Le diabète insipide central auto-immun",
+   "Le lupus érythémateux disséminé"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : Ac agonistes du RTSH.",
+   "Vrai : Ac antagonistes du RAch.",
+   "Vrai : Ac anti-facteur intrinsèque.",
+   "Faux : le diabète insipide central est rarement auto-immun par Ac fonctionnels.",
+   "Faux : le lupus est une maladie à complexes immuns (type III)."
+  ]
+ },
+ {
+  "q": "Concernant la polyendocrinopathie auto-immune, lesquelles sont exactes ?",
+  "options": [
+   "Elle associe plusieurs atteintes endocriniennes auto-immunes chez un même patient",
+   "Le syndrome APECED associe candidose cutanéomuqueuse, hypoparathyroïdie et insuffisance surrénalienne",
+   "Il est dû à une mutation du gène AIRE impliqué dans la tolérance centrale",
+   "Le diabète de type 1 et la thyroïdite de Hashimoto peuvent s'y associer",
+   "C'est une immunodéficience primitive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : poly-auto-immunité endocrinienne.",
+   "Vrai : triade de l'APECED.",
+   "Vrai : AIRE = régulateur de la sélection thymique négative.",
+   "Vrai : atteintes associées fréquentes.",
+   "Faux : c'est une maladie auto-immune par défaut de tolérance centrale."
+  ]
+ },
+ {
+  "q": "Au sujet des vascularites à ANCA, lesquelles sont exactes ?",
+  "options": [
+   "Les ANCA sont des auto-anticorps anti-cytoplasme des polynucléaires neutrophiles",
+   "La granulomatose avec polyangéite (Wegener) est associée aux c-ANCA anti-PR3",
+   "La polyangéite microscopique est associée aux p-ANCA anti-MPO",
+   "Elles relèvent d'une hypersensibilité de type II",
+   "Leur traitement repose sur corticoïdes et immunosuppresseurs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : définition des ANCA.",
+   "Vrai : c-ANCA anti-protéinase 3.",
+   "Vrai : p-ANCA anti-myéloperoxydase.",
+   "Faux : vascularites nécrosantes pauci-immunes, pas à complexes immuns ni type II pur.",
+   "Vrai : induction puis entretien."
+  ]
+ },
+ {
+  "q": "Concernant le syndrome des antiphospholipides, lesquelles sont exactes ?",
+  "options": [
+   "Il est dû à des auto-anticorps antiphospholipides (anticoagulant lupique, anticardiolipine, anti-bêta2GP1)",
+   "Il se traduit par des thromboses veineuses et/ou artérielles récidivantes",
+   "Il est une cause de fausses couches à répétition",
+   "Il peut être primitif ou associé au lupus",
+   "C'est une hypersensibilité de type I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : triple positivité possible.",
+   "Vrai : événements thrombotiques.",
+   "Vrai : morbidité obstétricale.",
+   "Vrai : SAPL primitif ou lupique.",
+   "Faux : thrombophilie auto-immune, pas d'allergie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la grossesse et l'auto-immunité, lesquelles sont exactes ?",
+  "options": [
+   "Les IgG maternelles traversent le placenta, pas les IgE",
+   "Le lupus néonatal est dû au passage transplacentaire d'anti-SSA/Ro maternels",
+   "Le bloc auriculoventriculaire congénital peut compliquer un lupus néonatal",
+   "La myasthénie néonatale transitoire est due aux anti-RAch maternels",
+   "Les auto-anticorps ne traversent jamais le placenta"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : seules les IgG franchissent la barrière placentaire.",
+   "Vrai : anti-Ro/SSA et anti-La/SSB.",
+   "Vrai : BAV complet irréversible.",
+   "Vrai : hypotonie néonatale transitoire.",
+   "Faux : les IgG auto-immunes traversent."
+  ]
+ },
+ {
+  "q": "Concernant la spondylarthrite ankylosante, lesquelles sont exactes ?",
+  "options": [
+   "C'est un rhumatisme inflammatoire axial touchant les sacro-iliaques et le rachis",
+   "Elle est fortement associée à l'antigène HLA-B27",
+   "L'atteinte évolue vers l'ankylose rachidienne",
+   "Les anti-TNF alpha en sont un traitement de fond",
+   "Le facteur rhumatoïde y est constamment positif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sacro-iliite bilatérale.",
+   "Vrai : 90 % des patients HLA-B27.",
+   "Vrai : colonne bambou.",
+   "Vrai : biothérapies de référence.",
+   "Faux : le FR est négatif dans les spondylarthropathies."
+  ]
+ },
+ {
+  "q": "Au sujet du syndrome de Gougerot-Sjögren, lesquelles sont exactes ?",
+  "options": [
+   "C'est une maladie auto-immune des glandes exocrines (larmes, salive)",
+   "Il se traduit par un syndrome sec oculaire et buccal",
+   "Les anticorps anti-SSA/Ro et anti-SSB/La en sont les marqueurs",
+   "Il expose à un risque accru de lymphome",
+   "C'est une hypersensibilité de type I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infiltration lymphocytaire des glandes.",
+   "Vrai : xérophtalmie et xérostomie.",
+   "Vrai : auto-Ac caractéristiques.",
+   "Vrai : lymphomes du MALT.",
+   "Faux : auto-immunité, pas d'allergie."
+  ]
+ },
+ {
+  "q": "Concernant la cirrhose biliaire primitive, lesquelles sont exactes ?",
+  "options": [
+   "C'est une cholestase chronique auto-immune par destruction des canaux biliaires interlobulaires",
+   "Les anticorps anti-mitochondries (anti-M2) en sont le marqueur",
+   "Elle touche préférentiellement la femme d'âge moyen",
+   "L'acide ursodésoxycholique en est le traitement",
+   "C'est une hépatite virale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cholangite destructrice non suppurée.",
+   "Vrai : anti-M2 très spécifiques.",
+   "Vrai : prédominance féminine.",
+   "Vrai : AUDC au long cours.",
+   "Faux : maladie auto-immune, non virale."
+  ]
+ },
+ {
+  "q": "Au sujet de l'hépatite auto-immune, lesquelles sont exactes ?",
+  "options": [
+   "C'est une hépatite chronique non virale à médiation immune",
+   "Les anticorps anti-muscle lisse et anti-LKM1 en sont des marqueurs",
+   "L'hypergammaglobulinémie polyclonale est caractéristique",
+   "Les corticoïdes et l'azathioprine en sont le traitement",
+   "Elle est due au virus de l'hépatite C"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : hépatite d'origine dysimmunitaire.",
+   "Vrai : HAI type 1 (anti-ML) et type 2 (anti-LKM1).",
+   "Vrai : élévation polyclonale des IgG.",
+   "Vrai : immunosuppression de référence.",
+   "Faux : les sérologies virales sont négatives."
+  ]
+ },
+ {
+  "q": "Concernant la pemphigoïde bulleuse, lesquelles sont exactes ?",
+  "options": [
+   "C'est une dermatose bulleuse auto-immune du sujet âgé",
+   "Les auto-anticorps sont dirigés contre BP180 et BP230 de la jonction dermo-épidermique",
+   "Le décollement est sous-épidermique avec bulles tendues",
+   "L'immunofluorescence directe montre un dépôt linéaire le long de la membrane basale",
+   "C'est une hypersensibilité de type III"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bulleuse du sujet âgé.",
+   "Vrai : antigènes hémidesmosomaux.",
+   "Vrai : bulles tendues non fragiles.",
+   "Vrai : dépôt linéaire d'IgG et C3.",
+   "Faux : type II par Ac anti-membrane basale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la sclérodermie systémique, lesquelles sont exactes ?",
+  "options": [
+   "C'est une connectivite associant fibrose cutanée et atteinte viscérale",
+   "Les anticorps anti-centromères et anti-Scl70 (topo-isomérase I) en sont des marqueurs",
+   "Le phénomène de Raynaud en est souvent le premier signe",
+   "L'atteinte pulmonaire interstitielle conditionne le pronostic",
+   "C'est une maladie à complexes immuns de type III pur"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sclérose cutanée et viscérale.",
+   "Vrai : Ac spécifiques des formes limitée et diffuse.",
+   "Vrai : acrosyndrome inaugural fréquent.",
+   "Vrai : fibrose pulmonaire redoutée.",
+   "Faux : fibrose et vascularite, pas une maladie à CIC."
+  ]
+ },
+ {
+  "q": "Concernant la dermatomyosite, lesquelles sont exactes ?",
+  "options": [
+   "C'est une myopathie inflammatoire auto-immune",
+   "Elle associe faiblesse musculaire proximale et signes cutanés (érythème lilas des paupières)",
+   "Les anticorps anti-Mi2 et anti-Jo1 en sont des marqueurs",
+   "Elle peut être paranéoplasique",
+   "C'est une hypersensibilité de type I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : atteinte musculaire dysimmunitaire.",
+   "Vrai : héliotrope et papules de Gottron.",
+   "Vrai : Ac spécifiques des myosites.",
+   "Vrai : recherche de néoplasie associée.",
+   "Faux : auto-immunité à médiation cellulaire et humorale."
+  ]
+ },
+ {
+  "q": "Au sujet du psoriasis, lesquelles sont exactes ?",
+  "options": [
+   "C'est une dermatose inflammatoire chronique à médiation Th17",
+   "L'IL-17 et l'IL-23 sont des cytokines clés de sa physiopathologie",
+   "Les biothérapies anti-IL17 et anti-IL23 en sont des traitements",
+   "Il peut s'associer à un rhumatisme psoriasique",
+   "C'est une dermatose à complexes immuns"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : axe IL-23/Th17.",
+   "Vrai : cytokines cibles thérapeutiques.",
+   "Vrai : sécukinumab, ixékizumab, guselkumab.",
+   "Vrai : atteinte articulaire associée.",
+   "Faux : inflammation à médiation T."
+  ]
+ },
+ {
+  "q": "Concernant la rectocolite hémorragique et la maladie de Crohn, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des maladies inflammatoires chroniques de l'intestin à composante dysimmunitaire",
+   "Les Th17 et le TNF-alpha participent à l'inflammation",
+   "Les anti-TNF alpha en sont des traitements",
+   "La maladie de Crohn peut toucher tout le tube digestif de façon segmentaire et transmurale",
+   "Ce sont des hypersensibilités de type I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : MICI.",
+   "Vrai : cytokines pro-inflammatoires.",
+   "Vrai : biothérapies des MICI.",
+   "Vrai : atteinte transmurale discontinue.",
+   "Faux : pas d'IgE impliquées."
+  ]
+ },
+ {
+  "q": "Parmi les auto-anticorps suivants, lesquels correspondent aux maladies indiquées ?",
+  "options": [
+   "Anti-mitochondries (anti-M2) : cirrhose biliaire primitive",
+   "Anti-muscle lisse : hépatite auto-immune de type 1",
+   "Anti-SSA/Ro et anti-SSB/La : syndrome de Gougerot-Sjögren",
+   "Anti-centromères : sclérodermie forme limitée (CREST)",
+   "Anti-ADN natif : polyarthrite rhumatoïde"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : marqueur de la CBP.",
+   "Vrai : marqueur de l'HAI type 1.",
+   "Vrai : marqueurs du Sjögren.",
+   "Vrai : syndrome CREST.",
+   "Faux : l'anti-ADN natif est un marqueur du lupus."
+  ]
+ },
+ {
+  "q": "Concernant l'exploration du complément, lesquelles sont exactes ?",
+  "options": [
+   "Le CH50 explore l'activité hémolytique globale de la voie classique",
+   "Un CH50 effondré oriente vers un déficit en fraction du complément",
+   "Le dosage du C3 et du C4 est utile devant des infections récidivantes",
+   "Le dosage du C1 inhibiteur et du C4 explore l'angiœdème héréditaire",
+   "Le CH50 explore les IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : hémolyse 50 % des hématies de mouton sensibilisées.",
+   "Vrai : déficit en C1-C9.",
+   "Vrai : bilan des déficits et des consommations.",
+   "Vrai : C4 bas et C1INH bas ou dysfonctionnel.",
+   "Faux : le CH50 n'explore pas les IgE."
+  ]
+ },
+ {
+  "q": "Au sujet de la numération formule sanguine dans les déficits immunitaires, lesquelles sont exactes ?",
+  "options": [
+   "L'agranulocytose se définit par des granulocytes < 500/mm³",
+   "La granulopénie se définit par des granulocytes < 1500/mm³",
+   "Une lymphopénie profonde chez le nourrisson fait évoquer un DICS",
+   "Le frottis sanguin précise les morphologies des granulocytes",
+   "Une neutropénie est toujours d'origine auto-immune"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : seuil cité dans le cours.",
+   "Vrai : seuil cité dans le cours.",
+   "Vrai : signe d'alerte du SCID.",
+   "Vrai : examen cité dans le cours.",
+   "Faux : causes médicamenteuses, infectieuses et congénitales possibles."
+  ]
+ },
+ {
+  "q": "Concernant l'électrophorèse des protéines sériques en immunologie, lesquelles sont exactes ?",
+  "options": [
+   "L'hypogammaglobulinémie évoque un déficit humoral",
+   "Un pic monoclonal évoque un syndrome lymphoprolifératif",
+   "L'immunofixation caractérise le pic monoclonal",
+   "Une hypergammaglobulinémie polyclonale évoque une hépatite auto-immune ou une connectivite",
+   "Elle dose les IgE spécifiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : effondrement des gammaglobulines.",
+   "Vrai : gammapathie monoclonale.",
+   "Vrai : typage de la chaîne lourde et légère.",
+   "Vrai : activation B polyclonale des MAI.",
+   "Faux : les IgE spécifiques se dosent par immuno-essais."
+  ]
+ },
+ {
+  "q": "Parmi les explorations suivantes, lesquelles sont citées dans le cours devant une suspicion de déficit immunitaire ?",
+  "options": [
+   "La numération des sous-populations lymphocytaires (LB et LT) en cytométrie de flux",
+   "Le dosage pondéral des immunoglobulines",
+   "L'immunophénotypage des anomalies et stades de maturation des LB et LT",
+   "L'exploration du complément (voie alterne et commune)",
+   "Le prick-test"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CMF selon le cours.",
+   "Vrai : dosage pondéral selon le cours.",
+   "Vrai : immunophénotypage selon le cours.",
+   "Vrai : exploration du complément selon le cours.",
+   "Faux : le prick-test explore l'allergie."
+  ]
+ },
+ {
+  "q": "Concernant le test au NBT, lesquelles sont exactes ?",
+  "options": [
+   "Il explore la fonction bactéricide oxydative des phagocytes",
+   "Il est négatif dans la granulomatose septique chronique",
+   "Le principe est la réduction du nitrobleu de tétrazolium par les dérivés oxygénés",
+   "Il explore la production d'anticorps",
+   "Il est positif chez le sujet sain"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : explosion oxydative.",
+   "Vrai : pas de H2O2 dans la CGD.",
+   "Vrai : précipité bleu de formazan.",
+   "Faux : il explore les phagocytes, pas les Ac.",
+   "Vrai : réduction normale chez le témoin."
+  ]
+ },
+ {
+  "q": "Au sujet du syndrome d'hyper-IgE (Job-Buckley), lesquelles sont exactes ?",
+  "options": [
+   "Il est dû le plus souvent à une mutation de STAT3",
+   "Il associe eczéma, infections cutanées et pulmonaires à staphylocoque",
+   "Les IgE sériques sont très élevées",
+   "Le défaut de Th17 explique la susceptibilité aux staphylocoques et aux candidoses",
+   "C'est un déficit en IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : STAT3 autosomique dominant.",
+   "Vrai : triade cutanéo-pulmonaire.",
+   "Vrai : IgE > 2000 UI/ml.",
+   "Vrai : défaut de différenciation Th17.",
+   "Faux : les IgE sont très élevées, non déficitaires."
+  ]
+ },
+ {
+  "q": "Concernant l'ataxie-télangiectasie, lesquelles sont exactes ?",
+  "options": [
+   "C'est un déficit immunitaire combiné avec ataxie cérébelleuse et télangiectasies",
+   "Elle est due à une mutation du gène ATM (réparation de l'ADN)",
+   "Les IgA et IgG2 sont souvent déficitaires",
+   "Il existe un risque accru de lymphomes",
+   "C'est un déficit isolé en complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : triade clinique.",
+   "Vrai : anomalie de réparation des cassures double-brin.",
+   "Vrai : déficit humoral associé.",
+   "Vrai : instabilité génomique et lymphomes.",
+   "Faux : déficit combiné avec atteinte neurologique."
+  ]
+ },
+ {
+  "q": "Parmi les vaccins suivants, lesquels sont contre-indiqués dans les déficits immunitaires profonds ?",
+  "options": [
+   "Le BCG",
+   "Le vaccin oral contre la poliomyélite",
+   "Le ROR (rougeole-oreillons-rubéole)",
+   "Le vaccin contre la fièvre jaune",
+   "Le vaccin inactivé contre la grippe"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : BCG = mycobactérie vivante atténuée.",
+   "Vrai : poliovirus vivant atténué.",
+   "Vrai : virus vivants atténués.",
+   "Vrai : virus vivant atténué.",
+   "Faux : vaccin inactivé autorisé."
+  ]
+ },
+ {
+  "q": "Concernant la substitution en immunoglobulines, lesquelles sont exactes ?",
+  "options": [
+   "Elle est indiquée dans les déficits humoraux primitifs (Bruton, DICV)",
+   "Elle apporte des IgG polyvalentes par voie IV ou sous-cutanée",
+   "Elle réduit la fréquence et la gravité des infections bactériennes",
+   "Elle est administrée à vie dans les déficits primitifs",
+   "Elle corrige le déficit en lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : indication principale de la substitution.",
+   "Vrai : Ig polyvalentes humaines IV ou SC.",
+   "Vrai : protection anti-infectieuse démontrée.",
+   "Vrai : le déficit humoral primitif est définitif.",
+   "Faux : elle ne restaure pas l'immunité cellulaire T."
+  ]
+ },
+ {
+  "q": "Parmi les couples suivants (mécanisme - exemple), lesquels sont corrects ?",
+  "options": [
+   "Type I IgE - choc anaphylactique",
+   "Type II cytotoxique - anémie hémolytique auto-immune",
+   "Type III complexes immuns - lupus érythémateux disséminé",
+   "Type IV cellulaire - eczéma de contact",
+   "Type I IgE - polyarthrite rhumatoïde"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : anaphylaxie = type I.",
+   "Vrai : AHAI = type II.",
+   "Vrai : LED = type III.",
+   "Vrai : eczéma de contact = type IV.",
+   "Faux : la PR est une maladie à complexes immuns (type III)."
+  ]
+ },
+ {
+  "q": "Concernant les délais respectifs des hypersensibilités, lesquelles sont exactes ?",
+  "options": [
+   "Type I : quelques minutes après le contact",
+   "Phénomène d'Arthus (type III local) : 4 à 8 heures",
+   "Type IV : 48 à 72 heures",
+   "Maladie sérique (type III) : 7 à 10 jours après l'injection",
+   "Type IV : 15 minutes après le contact"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : dégranulation mastocytaire immédiate.",
+   "Vrai : dépôt local de complexes immuns.",
+   "Vrai : hypersensibilité retardée à médiation T.",
+   "Vrai : délai de synthèse des anticorps.",
+   "Faux : le type IV est retardé, jamais en 15 minutes."
+  ]
+ },
+ {
+  "q": "Parmi les effecteurs suivants, lesquels caractérisent chaque type d'hypersensibilité ?",
+  "options": [
+   "Type I : IgE, mastocytes, basophiles, éosinophiles",
+   "Type II : IgG/IgM cytotoxiques, complément, cellules NK (ADCC)",
+   "Type III : complexes immuns IgG/IgM, complément, polynucléaires neutrophiles",
+   "Type IV : lymphocytes T CD4 Th1, macrophages, LT CD8",
+   "Type II : IgE et mastocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : effecteurs de l'allergie immédiate.",
+   "Vrai : effecteurs de la cytotoxicité.",
+   "Vrai : effecteurs des maladies à complexes immuns.",
+   "Vrai : effecteurs de l'hypersensibilité retardée.",
+   "Faux : IgE et mastocytes définissent le type I."
+  ]
+ },
+ {
+  "q": "Concernant les tests diagnostiques des hypersensibilités, lesquelles sont exactes ?",
+  "options": [
+   "Prick-test : hypersensibilité de type I",
+   "Patch-test : hypersensibilité de type IV",
+   "Test de Coombs direct : hypersensibilité de type II",
+   "Intradermoréaction à la tuberculine : hypersensibilité de type IV",
+   "Dosage des IgE spécifiques : hypersensibilité de type III"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : test cutané de l'allergie immédiate.",
+   "Vrai : test épicutané de l'allergie retardée.",
+   "Vrai : Ac anti-érythrocytaires fixés.",
+   "Vrai : immunité cellulaire anti-tuberculeuse.",
+   "Faux : les IgE spécifiques explorent le type I."
+  ]
+ },
+ {
+  "q": "Un patient présente après injection de pénicilline un collapsus avec bronchospasme. Parmi les propositions, lesquelles sont exactes ?",
+  "options": [
+   "Le tableau évoque un choc anaphylactique, hypersensibilité de type I",
+   "La pénicilline a joué le rôle d'haptène",
+   "Le traitement d'urgence est l'adrénaline IM",
+   "Une sensibilisation préalable par un contact antérieur était nécessaire",
+   "Il s'agit d'une hypersensibilité de type IV"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : collapsus + bronchospasme = anaphylaxie.",
+   "Vrai : petite molécule liée aux protéines porteuses.",
+   "Vrai : adrénaline sans délai.",
+   "Vrai : premier contact sensibilisant silencieux.",
+   "Faux : le type IV est retardé et cutané."
+  ]
+ },
+ {
+  "q": "Une femme Rh négatif accouche d'un enfant Rh positif ictérique avec anémie. Lesquelles sont exactes ?",
+  "options": [
+   "Le tableau évoque une maladie hémolytique du nouveau-né",
+   "Des IgG maternelles anti-D traversent le placenta",
+   "C'est une hypersensibilité de type II",
+   "La prévention des grossesses ultérieures repose sur les immunoglobulines anti-D",
+   "C'est une hypersensibilité de type I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ictère et anémie néonatals.",
+   "Vrai : allo-immunisation maternelle anti-D.",
+   "Vrai : lyse des hématies par anticorps.",
+   "Vrai : anti-D à la mère Rh- après accouchement.",
+   "Faux : pas d'IgE impliquées."
+  ]
+ },
+ {
+  "q": "Un patient présente arthralgies, érythème malaire, protéinurie et anti-ADN natif positifs. Lesquelles sont exactes ?",
+  "options": [
+   "Le tableau évoque un lupus érythémateux disséminé",
+   "C'est une maladie à complexes immuns (type III)",
+   "La glomérulonéphrite lupique explique la protéinurie",
+   "Les anti-ADN natif et anti-Sm sont les marqueurs les plus spécifiques",
+   "C'est une hypersensibilité de type I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : critères clinico-biologiques du lupus.",
+   "Vrai : dépôt de complexes immuns multiviscéral.",
+   "Vrai : atteinte rénale lupique.",
+   "Vrai : marqueurs immunologiques du LED.",
+   "Faux : pas d'IgE dans le lupus."
+  ]
+ },
+ {
+  "q": "Un maçon présente un eczéma des mains au ciment (chrome). Lesquelles sont exactes ?",
+  "options": [
+   "Le tableau évoque un eczéma de contact allergique",
+   "C'est une hypersensibilité de type IV",
+   "Le chrome est un haptène",
+   "Le patch-test au chrome confirmera le diagnostic",
+   "Le prick-test au chrome est l'examen de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : dermatite de contact professionnelle.",
+   "Vrai : médiation T retardée.",
+   "Vrai : sensibilisation aux sels de chrome.",
+   "Vrai : test épicutané lu à 48-96 h.",
+   "Faux : le prick-test explore le type I."
+  ]
+ },
+ {
+  "q": "Un nourrisson de 8 mois présente otites et pneumopathies récidivantes à pneumocoque. Lesquelles sont exactes ?",
+  "options": [
+   "Le tableau peut évoquer une maladie de Bruton",
+   "Le dosage pondéral des Ig montrera une agammaglobulinémie",
+   "Les lymphocytes B matures seront absents en cytométrie de flux",
+   "Le début après 6 mois correspond à la disparition des Ac maternels",
+   "Le tableau évoque un déficit en IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infections pyogènes du nourrisson.",
+   "Vrai : effondrement des Ig.",
+   "Vrai : blocage de la maturation B.",
+   "Vrai : fin de la protection maternelle.",
+   "Faux : les IgE ne protègent pas des pyogènes."
+  ]
+ },
+ {
+  "q": "Un patient VIH présente une pneumopathie interstitielle à Pneumocystis. Lesquelles sont exactes ?",
+  "options": [
+   "Le taux de LTCD4 est probablement < 200/mm³",
+   "C'est une infection opportuniste du SIDA",
+   "Le cotrimoxazole en est le traitement et la prophylaxie",
+   "La restauration immunitaire sous antirétroviraux est l'objectif",
+   "C'est une infection du sujet immunocompétent"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : seuil des infections opportunistes.",
+   "Vrai : pneumocystose classante SIDA.",
+   "Vrai : sulfaméthoxazole-triméthoprime.",
+   "Vrai : trithérapie antirétrovirale.",
+   "Faux : Pneumocystis est opportuniste."
+  ]
+ },
+ {
+  "q": "Concernant le rejet de greffe, lesquelles sont exactes ?",
+  "options": [
+   "Le rejet hyperaigu est dû à des anticorps préformés anti-HLA (type II)",
+   "Le rejet cellulaire aigu est à médiation T (type IV)",
+   "Le rejet chronique associe vascularite et fibrose du greffon",
+   "La compatibilité HLA donneur-receveur réduit le risque de rejet",
+   "Le rejet hyperaigu est prévenu par la désensibilisation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ac cytotoxiques préformés.",
+   "Vrai : alloréactivité T.",
+   "Vrai : artériopathie chronique du greffon.",
+   "Vrai : cross-match et typage HLA.",
+   "Faux : la désensibilisation concerne l'allergie."
+  ]
+ },
+ {
+  "q": "Parmi les cytokines suivantes et leurs implications pathologiques citées dans le cours, lesquelles sont correctes ?",
+  "options": [
+   "IL-4 : allergie",
+   "IL-10 : lupus érythémateux disséminé",
+   "IFN-gamma : hypersensibilité retardée et activation macrophagique",
+   "IL-17 : maladies auto-immunes et inflammations chroniques",
+   "IL-4 : activation des lymphocytes T cytotoxiques CD8"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IL-4 associée à l'allergie dans le cours.",
+   "Vrai : IL-10 associée au LED dans le cours.",
+   "Vrai : IFN-γ des Th1.",
+   "Vrai : Th17 pro-inflammatoire selon le cours.",
+   "Faux : l'IL-4 oriente vers les IgE, pas vers la cytotoxicité."
+  ]
+ },
+ {
+  "q": "Concernant l'allergie médicamenteuse, lesquelles sont exactes ?",
+  "options": [
+   "Un même médicament peut provoquer plusieurs types d'hypersensibilité",
+   "La pénicilline peut donner un choc anaphylactique (type I)",
+   "Les sulfamides peuvent donner des cytopénies (type II)",
+   "Certains médicaments donnent des vascularites à complexes immuns (type III)",
+   "L'allergie médicamenteuse est toujours de type I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : polymorphisme des réactions médicamenteuses.",
+   "Vrai : anaphylaxie aux bêtalactamines.",
+   "Vrai : anémies et thrombopénies immuno-allergiques.",
+   "Vrai : maladie sérique médicamenteuse.",
+   "Faux : tous les types sont possibles."
+  ]
+ },
+ {
+  "q": "Au sujet de la thrombopénie induite par l'héparine (TIH), lesquelles sont exactes ?",
+  "options": [
+   "Elle est due à des anticorps anti-complexe héparine-facteur plaquettaire 4",
+   "C'est une hypersensibilité de type II",
+   "Elle est paradoxalement thrombogène malgré la thrombopénie",
+   "L'héparine doit être arrêtée et relayée",
+   "C'est une allergie IgE-médiée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ac anti-PF4/héparine.",
+   "Vrai : activation plaquettaire par les Ac.",
+   "Vrai : thromboses veineuses et artérielles.",
+   "Vrai : arrêt de toute héparine.",
+   "Faux : pas d'IgE."
+  ]
+ },
+ {
+  "q": "Concernant l'œdème de Quincke, lesquelles sont exactes ?",
+  "options": [
+   "L'œdème allergique est histaminique, avec urticaire et prurit",
+   "L'œdème bradykinique (déficit en C1INH) est sans urticaire ni prurit",
+   "L'œdème laryngé peut engager le pronostic vital dans les deux formes",
+   "L'adrénaline traite l'œdème allergique mais pas l'œdème bradykinique",
+   "Les antihistaminiques traitent l'œdème bradykinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : œdème histaminique allergique.",
+   "Vrai : œdème du déficit en C1INH.",
+   "Vrai : asphyxie possible.",
+   "Vrai : l'œdème bradykinique nécessite concentré de C1INH ou icatibant.",
+   "Faux : inefficaces sur la bradykinine."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la tolérance orale, lesquelles sont exactes ?",
+  "options": [
+   "C'est un mécanisme de tolérance périphérique vis-à-vis des antigènes alimentaires",
+   "Elle fait intervenir les lymphocytes T régulateurs",
+   "Son défaut participe à l'allergie alimentaire",
+   "Elle repose sur la production d'IgE",
+   "Elle est médiée par les mastocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : non-réponse aux Ag ingérés.",
+   "Vrai : Treg inducteurs de tolérance.",
+   "Vrai : rupture de tolérance orale et allergie.",
+   "Faux : elle s'oppose à la réponse IgE.",
+   "Faux : pas de mastocytes impliqués."
+  ]
+ },
+ {
+  "q": "Concernant le gène AIRE, lesquelles sont exactes ?",
+  "options": [
+   "Il contrôle l'expression des antigènes tissulaires dans le thymus",
+   "Sa mutation est responsable du syndrome APECED",
+   "Il participe à la sélection négative (tolérance centrale)",
+   "Son défaut expose à de multiples maladies auto-immunes endocriniennes",
+   "Il code une immunoglobuline"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : autoimmune regulator.",
+   "Vrai : polyendocrinopathie auto-immune de type 1.",
+   "Vrai : délétion thymique des auto-réactifs.",
+   "Vrai : candidose, hypoparathyroïdie, insuffisance surrénalienne.",
+   "Faux : c'est un facteur de transcription."
+  ]
+ },
+ {
+  "q": "Au sujet de l'anergie lymphocytaire, lesquelles sont exactes ?",
+  "options": [
+   "C'est un mécanisme de tolérance périphérique",
+   "Elle résulte d'une reconnaissance antigénique sans signal de costimulation",
+   "Le lymphocyte anergique ne répond plus à l'antigène",
+   "Elle concerne les lymphocytes T et B auto-réactifs",
+   "C'est une activation lymphocytaire maximale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : tolérance périphérique.",
+   "Vrai : signal 1 sans signal 2 (B7-CD28).",
+   "Vrai : inactivation fonctionnelle.",
+   "Vrai : mécanisme commun T et B.",
+   "Faux : c'est l'inverse d'une activation."
+  ]
+ },
+ {
+  "q": "Concernant les superantigènes, lesquelles sont exactes ?",
+  "options": [
+   "Ils activent polyclonalement les lymphocytes T en pontant CMH II et TCR",
+   "Le choc toxique staphylococcique en est un exemple",
+   "Ils peuvent rompre la tolérance et favoriser l'auto-immunité",
+   "Ils nécessitent une présentation antigénique classique restreinte",
+   "Ce sont des IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : liaison hors sillon peptidique.",
+   "Vrai : TSST-1 du staphylocoque doré.",
+   "Vrai : activation massive contournant la spécificité.",
+   "Faux : pas d'apprêtement ni de restriction fine.",
+   "Faux : protéines microbiennes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les maladies auto-immunes et le sexe, lesquelles sont exactes ?",
+  "options": [
+   "La plupart des connectivites prédominent chez la femme",
+   "Le lupus touche environ 9 femmes pour 1 homme",
+   "La polyarthrite rhumatoïde est plus fréquente chez la femme",
+   "La spondylarthrite ankylosante prédomine chez l'homme",
+   "Les maladies auto-immunes touchent également les deux sexes sans exception"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prédominance féminine globale.",
+   "Vrai : sex-ratio du LED.",
+   "Vrai : 3 femmes pour 1 homme.",
+   "Vrai : prédominance masculine.",
+   "Faux : dimorphisme sexuel marqué."
+  ]
+ },
+ {
+  "q": "Concernant le traitement de fond de la polyarthrite rhumatoïde, lesquelles sont exactes ?",
+  "options": [
+   "Le méthotrexate en est le traitement de fond de référence",
+   "Les anti-TNF alpha sont indiqués en cas d'échec ou d'intolérance",
+   "Le rituximab (anti-CD20) est une option",
+   "L'objectif est la rémission ou une faible activité de la maladie",
+   "Les antibiotiques en sont le traitement de fond"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : DMARD de première ligne.",
+   "Vrai : biothérapies de seconde ligne.",
+   "Vrai : déplétion B efficace.",
+   "Vrai : stratégie treat-to-target.",
+   "Faux : pas d'indication."
+  ]
+ },
+ {
+  "q": "Au sujet du suivi biologique des vascularites à ANCA, lesquelles sont exactes ?",
+  "options": [
+   "Le titre des ANCA aide au diagnostic mais ne suffit pas seul au suivi",
+   "La CRP et la VS reflètent l'activité inflammatoire",
+   "La créatininémie surveille l'atteinte rénale",
+   "La recherche d'hématurie et de protéinurie est systématique",
+   "Le dosage des IgE guide le traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ANCA diagnostiques, suivi imparfait.",
+   "Vrai : marqueurs d'inflammation.",
+   "Vrai : surveillance rénale.",
+   "Vrai : atteinte glomérulaire fréquente.",
+   "Faux : aucun rôle des IgE."
+  ]
+ },
+ {
+  "q": "Concernant la réaction du greffon contre l'hôte (GVH), lesquelles sont exactes ?",
+  "options": [
+   "Les lymphocytes T du donneur attaquent les tissus du receveur",
+   "C'est une hypersensibilité de type IV inversée",
+   "Elle complique les greffes de moelle osseuse allogéniques",
+   "La peau, le foie et le tube digestif sont les cibles principales",
+   "Elle est prévenue par les immunoglobulines anti-D"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : alloréactivité du greffon.",
+   "Vrai : les LT du greffon rejettent l'hôte.",
+   "Vrai : complication de l'allogreffe de CSH.",
+   "Vrai : triade cutanéo-hépato-digestive.",
+   "Faux : les anti-D préviennent la MHNN."
+  ]
+ },
+ {
+  "q": "Un enfant présente un retard de chute du cordon et des infections sans pus. Lesquelles sont exactes ?",
+  "options": [
+   "Le tableau évoque un déficit en molécules d'adhésion (LAD)",
+   "Le défaut porte sur les intégrines bêta-2 (CD18)",
+   "Les neutrophiles ne peuvent pas migrer vers les foyers infectieux",
+   "L'hyperleucocytose contraste avec l'absence de pus",
+   "Le tableau évoque une allergie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : signe néonatal du LAD.",
+   "Vrai : CD11/CD18 défectueux.",
+   "Vrai : défaut de diapédèse.",
+   "Vrai : PNN bloqués dans le sang.",
+   "Faux : déficit phagocytaire, pas d'allergie."
+  ]
+ },
+ {
+  "q": "Un adolescent présente des méningites récidivantes à méningocoque. Lesquelles sont exactes ?",
+  "options": [
+   "Un déficit en fraction terminale du complément (C5-C9) doit être évoqué",
+   "Le complexe d'attaque membranaire est indispensable à la lyse des Neisseria",
+   "Le CH50 est effondré",
+   "La vaccination antiméningococcique est recommandée",
+   "Le tableau évoque un déficit en IgA"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infections à Neisseria = déficit C5-C9.",
+   "Vrai : MAC anti-méningocoque.",
+   "Vrai : activité hémolytique globale nulle.",
+   "Vrai : protection vaccinale indispensable.",
+   "Faux : le déficit en IgA donne des infections respiratoires."
+  ]
+ },
+ {
+  "q": "Une patiente présente des œdèmes récidivants du visage sans urticaire. Lesquelles sont exactes ?",
+  "options": [
+   "Un angiœdème héréditaire par déficit en C1INH doit être évoqué",
+   "Le C4 est abaissé même en dehors des crises",
+   "Les antihistaminiques et les corticoïdes sont inefficaces",
+   "Le traitement de la crise repose sur le concentré de C1INH ou l'icatibant",
+   "C'est une allergie alimentaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : œdème bradykinique sans prurit.",
+   "Vrai : consommation permanente de C4.",
+   "Vrai : pas d'histamine en cause.",
+   "Vrai : traitements spécifiques de la crise.",
+   "Faux : pas d'IgE, pas d'allergène."
+  ]
+ },
+ {
+  "q": "Un nourrisson présente eczéma, thrombopénie à petites plaquettes et otites récidivantes. Lesquelles sont exactes ?",
+  "options": [
+   "Le tableau évoque un syndrome de Wiskott-Aldrich",
+   "C'est un déficit immunitaire lié à l'X",
+   "Les plaquettes sont petites (microthrombopénie)",
+   "La greffe de moelle osseuse est le traitement curatif",
+   "C'est une allergie au lait"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : triade du Wiskott-Aldrich.",
+   "Vrai : gène WAS lié à l'X.",
+   "Vrai : volume plaquettaire diminué.",
+   "Vrai : greffe de CSH curative.",
+   "Faux : déficit immunitaire primitif."
+  ]
+ },
+ {
+  "q": "Concernant la splénectomie et le risque infectieux, lesquelles sont exactes ?",
+  "options": [
+   "La rate est essentielle à l'épuration des bactéries encapsulées opsonisées",
+   "Le risque d'infections fulminantes à pneumocoque est accru (OPSI)",
+   "La vaccination antipneumococcique, antiméningococcique et anti-Haemophilus est recommandée",
+   "Une antibioprophylaxie peut être proposée",
+   "La splénectomie n'a aucune conséquence immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : phagocytose splénique des germes opsonisés.",
+   "Vrai : overwhelming post-splenectomy infection.",
+   "Vrai : vaccins anti-encapsulés.",
+   "Vrai : pénicilline au long cours chez l'enfant.",
+   "Faux : asplénie = déficit immunitaire acquis."
+  ]
+ },
+ {
+  "q": "Au sujet de l'agranulocytose médicamenteuse, lesquelles sont exactes ?",
+  "options": [
+   "Elle se définit par des neutrophiles < 500/mm³",
+   "Les antithyroïdiens de synthèse (carbimazole) et le clozapine en sont des causes classiques",
+   "Le mécanisme est toxique ou immuno-allergique",
+   "Elle expose aux infections bactériennes et fongiques graves",
+   "C'est un déficit congénital"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : seuil du cours.",
+   "Vrai : médicaments à risque connus.",
+   "Vrai : toxicité directe ou Ac anti-PNN.",
+   "Vrai : neutropénie profonde fébrile = urgence.",
+   "Faux : cause acquise iatrogène."
+  ]
+ },
+ {
+  "q": "Concernant le purpura rhumatoïde (vascularite à IgA), lesquelles sont exactes ?",
+  "options": [
+   "C'est une vascularite à complexes immuns à IgA de l'enfant",
+   "Il associe purpura vasculaire des membres inférieurs, arthralgies et douleurs abdominales",
+   "Une atteinte rénale (glomérulonéphrite à IgA) peut survenir",
+   "C'est une hypersensibilité de type III",
+   "C'est une thrombopénie auto-immune"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : vascularite leucocytoclasique à IgA.",
+   "Vrai : triade clinique.",
+   "Vrai : néphropathie à IgA possible.",
+   "Vrai : dépôts d'IgA pariétaux.",
+   "Faux : les plaquettes sont normales."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la périartérite noueuse, lesquelles sont exactes ?",
+  "options": [
+   "C'est une vascularite nécrosante des artères de moyen calibre",
+   "Elle est classiquement associée à l'infection par le virus de l'hépatite B",
+   "Les complexes immuns participent à sa physiopathologie",
+   "Les ANCA y sont habituellement négatifs",
+   "C'est une hypersensibilité de type I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : PAN des artères musculaires.",
+   "Vrai : association VHB historique.",
+   "Vrai : vascularite à complexes immuns.",
+   "Vrai : ANCA négatifs contrairement aux vascularites des petits vaisseaux.",
+   "Faux : pas d'IgE."
+  ]
+ },
+ {
+  "q": "Concernant l'allergie au latex, lesquelles sont exactes ?",
+  "options": [
+   "C'est une hypersensibilité de type I IgE-médiée",
+   "Les professionnels de santé et les patients multi-opérés sont à risque",
+   "Elle est croisée avec l'allergie à certains fruits (banane, avocat, kiwi)",
+   "Le choc per-opératoire en est une forme grave",
+   "C'est une hypersensibilité de type IV"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IgE anti-protéines du latex.",
+   "Vrai : exposition répétée aux gants.",
+   "Vrai : syndrome latex-fruits.",
+   "Vrai : anaphylaxie au bloc opératoire.",
+   "Faux : le type IV au latex (additifs des gants) existe mais l'allergie grave est de type I."
+  ]
+ },
+ {
+  "q": "Au sujet de la dermatite atopique, lesquelles sont exactes ?",
+  "options": [
+   "C'est une dermatose inflammatoire chronique du nourrisson et de l'enfant",
+   "Elle est associée à un terrain atopique (asthme, rhinite allergique)",
+   "Les IgE totales sont souvent élevées",
+   "La barrière cutanée est altérée (déficit en filaggrine)",
+   "C'est une hypersensibilité de type IV pure"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : eczéma atopique.",
+   "Vrai : marche atopique.",
+   "Vrai : hyper-IgE fréquente.",
+   "Vrai : mutation FLG et sécheresse cutanée.",
+   "Faux : composante IgE/Th2 prédominante."
+  ]
+ },
+ {
+  "q": "Concernant l'allergie aux venins d'hyménoptères, lesquelles sont exactes ?",
+  "options": [
+   "Elle peut provoquer un choc anaphylactique",
+   "La désensibilisation est très efficace et indiquée après une réaction sévère",
+   "Le patient doit disposer d'un stylo auto-injecteur d'adrénaline",
+   "Le dosage des IgE spécifiques anti-venin confirme le diagnostic",
+   "Les antihistaminiques suffisent en cas de choc"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : anaphylaxie aux guêpes/abeilles.",
+   "Vrai : immunothérapie aux venins.",
+   "Vrai : trousse d'urgence avec adrénaline.",
+   "Vrai : IgE anti-venin.",
+   "Faux : seul l'adrénaline traite le choc."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la tryptase, lesquelles sont exactes ?",
+  "options": [
+   "C'est une protéase des granules des mastocytes",
+   "Son élévation sérique confirme une dégranulation mastocytaire",
+   "Elle est dosée devant une suspicion de choc anaphylactique",
+   "Elle est spécifique du mastocyte",
+   "C'est une immunoglobuline"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : enzyme mastocytaire.",
+   "Vrai : marqueur de l'anaphylaxie.",
+   "Vrai : prélèvement dans les heures suivant le choc.",
+   "Vrai : non produite par les basophiles.",
+   "Faux : c'est une enzyme."
+  ]
+ },
+ {
+  "q": "Concernant le syndrome de Lambert-Eaton, lesquelles sont exactes ?",
+  "options": [
+   "C'est un syndrome myasthénique par auto-anticorps anti-canaux calciques présynaptiques",
+   "La force musculaire s'améliore à l'effort répété",
+   "Il est souvent paranéoplasique (cancer bronchique à petites cellules)",
+   "C'est une hypersensibilité de type II",
+   "C'est une myopathie inflammatoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ac anti-VGCC.",
+   "Vrai : facilitation post-tétanique.",
+   "Vrai : syndrome paranéoplasique classique.",
+   "Vrai : Ac bloquant la libération d'acétylcholine.",
+   "Faux : atteinte de la jonction, pas du muscle."
+  ]
+ },
+ {
+  "q": "Au sujet de la neuromyélite optique (Devic), lesquelles sont exactes ?",
+  "options": [
+   "C'est une maladie auto-immune démyélinisante du SNC",
+   "Les anticorps anti-aquaporine 4 en sont le marqueur",
+   "Elle associe névrite optique et myélite transverse",
+   "Le rituximab en est un traitement",
+   "C'est une sclérose en plaques classique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : atteinte optico-spinale.",
+   "Vrai : anti-AQP4 pathogènes.",
+   "Vrai : tableau clinico-radiologique.",
+   "Vrai : déplétion B efficace.",
+   "Faux : entité distincte de la SEP."
+  ]
+ },
+ {
+  "q": "Concernant le déficit sélectif en sous-classe d'IgG, lesquelles sont exactes ?",
+  "options": [
+   "Le déficit en IgG2 expose aux infections à bactéries encapsulées",
+   "Les IgG totales peuvent être normales",
+   "Il se traduit par des infections sinopulmonaires récidivantes",
+   "Le diagnostic repose sur le dosage des sous-classes d'IgG",
+   "C'est le déficit humoral le plus fréquent"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IgG2 anti-polysaccharides.",
+   "Vrai : déficit isolé de sous-classe.",
+   "Vrai : infections à pyogènes.",
+   "Vrai : dosage spécifique.",
+   "Faux : le plus fréquent est le déficit en IgA."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'immunosénescence, lesquelles sont exactes ?",
+  "options": [
+   "Le vieillissement s'accompagne d'une involution thymique",
+   "La diversité du répertoire T diminue avec l'âge",
+   "La réponse vaccinale est moins bonne chez le sujet âgé",
+   "Le risque infectieux et néoplasique augmente",
+   "L'immunité s'améliore avec l'âge"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : atrophie thymique physiologique.",
+   "Vrai : restriction du répertoire.",
+   "Vrai : immunogénicité vaccinale réduite.",
+   "Vrai : défaut de surveillance immune.",
+   "Faux : elle décline."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination du patient atteint de déficit immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "Les vaccins inactivés sont autorisés",
+   "Les vaccins vivants atténués sont contre-indiqués dans les déficits profonds",
+   "La réponse vaccinale peut être diminuée",
+   "La vaccination de l'entourage (cocooning) protège le patient",
+   "Tous les vaccins sont interdits"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas de réplication.",
+   "Vrai : risque de maladie vaccinale.",
+   "Vrai : immunogénicité réduite.",
+   "Vrai : immunité de groupe familiale.",
+   "Faux : les vaccins inactivés restent indiqués."
+  ]
+ },
+ {
+  "q": "Au sujet des immunoglobulines anti-D, lesquelles sont exactes ?",
+  "options": [
+   "Elles préviennent l'allo-immunisation anti-D chez la mère Rh négatif",
+   "Elles saturent les hématies fœtales Rh positif passées dans la circulation maternelle",
+   "Elles sont injectées après l'accouchement et après tout événement à risque",
+   "Elles préviennent la maladie hémolytique du nouveau-né des grossesses suivantes",
+   "Ce sont des IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : immunoprophylaxie anti-D.",
+   "Vrai : clairance des hématies fœtales.",
+   "Vrai : post-partum, fausse couche, amniocentèse.",
+   "Vrai : protection des grossesses ultérieures.",
+   "Faux : ce sont des IgG humaines."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le facteur du complément C3, lesquelles sont exactes ?",
+  "options": [
+   "C'est la fraction centrale du complément, commune aux trois voies",
+   "Son clivage produit C3a (anaphylatoxine) et C3b (opsonine)",
+   "Le C3b participe à la formation des C5 convertases",
+   "Un déficit en C3 expose aux infections à germes encapsulés",
+   "Le C3 est une immunoglobuline"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : convergence des voies classique, alterne et lectine.",
+   "Vrai : double fonction inflammatoire et opsonisante.",
+   "Vrai : amplification vers la voie terminale.",
+   "Vrai : défaut d'opsonisation selon le cours.",
+   "Faux : c'est une protéine plasmatique du complément."
+  ]
+ },
+ {
+  "q": "Concernant les anaphylatoxines, lesquelles sont exactes ?",
+  "options": [
+   "C3a, C4a et C5a sont des anaphylatoxines",
+   "Elles provoquent la dégranulation des mastocytes et des basophiles",
+   "Le C5a est un puissant chimiotactique des neutrophiles",
+   "Elles participent aux lésions des hypersensibilités de types I et III",
+   "Elles sont des anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : petits fragments du complément.",
+   "Vrai : récepteurs sur mastocytes et basophiles (cours).",
+   "Vrai : recrutement des PNN.",
+   "Vrai : inflammation des types I et III.",
+   "Faux : peptides du complément."
+  ]
+ },
+ {
+  "q": "Au sujet de la maladie sérique médicamenteuse, lesquelles sont exactes ?",
+  "options": [
+   "Elle survient 7 à 10 jours après l'introduction du médicament",
+   "Elle associe fièvre, arthralgies et éruption",
+   "C'est une hypersensibilité de type III",
+   "L'arrêt du médicament en est le traitement",
+   "Elle survient en quelques minutes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : délai de formation des Ac.",
+   "Vrai : tableau de vascularite à CIC.",
+   "Vrai : complexes immuns médicamenteux.",
+   "Vrai : éviction du médicament causal.",
+   "Faux : délai de 7 à 10 jours."
+  ]
+ },
+ {
+  "q": "Concernant le lupus néonatal, lesquelles sont exactes ?",
+  "options": [
+   "Il est dû au passage transplacentaire des anti-SSA/Ro maternels",
+   "Il peut se traduire par un bloc auriculoventriculaire congénital",
+   "Les lésions cutanées sont transitoires",
+   "Le BAV congénital est irréversible et peut nécessiter un pacemaker",
+   "Il est dû aux IgE maternelles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ac maternels anti-Ro/La.",
+   "Vrai : atteinte du tissu conductif fœtal.",
+   "Vrai : disparaissent avec les Ac maternels.",
+   "Vrai : BAV complet définitif.",
+   "Faux : les IgE ne traversent pas le placenta."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la SEP et ses traitements, lesquelles sont exactes ?",
+  "options": [
+   "Les corticoïdes IV traitent les poussées",
+   "Les immunomodulateurs (interféron bêta) réduisent la fréquence des poussées",
+   "Le natalizumab (anti-intégrine alpha-4) est un traitement de fond",
+   "L'objectif est de prévenir le handicap",
+   "Les antibiotiques traitent les poussées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bolus de méthylprednisolone.",
+   "Vrai : traitement de fond historique.",
+   "Vrai : blocage de la migration lymphocytaire.",
+   "Vrai : prévention des poussées et de la progression.",
+   "Faux : pas d'indication."
+  ]
+ },
+ {
+  "q": "Concernant les connectivites mixtes, lesquelles sont exactes ?",
+  "options": [
+   "Le syndrome de Sharp associe signes de lupus, sclérodermie et polymyosite",
+   "Les anticorps anti-RNP en sont le marqueur",
+   "C'est une maladie auto-immune systémique",
+   "Le phénomène de Raynaud y est fréquent",
+   "C'est une hypersensibilité de type I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : connectivite mixte.",
+   "Vrai : anti-U1-RNP à taux élevé.",
+   "Vrai : atteinte multiviscérale.",
+   "Vrai : acrosyndrome fréquent.",
+   "Faux : auto-immunité systémique."
+  ]
+ },
+ {
+  "q": "Au sujet du dosage des auto-anticorps par ELISA, lesquelles sont exactes ?",
+  "options": [
+   "C'est une technique immuno-enzymatique quantitative",
+   "Elle permet le dosage des anti-ADN, anti-CCP, anti-transglutaminase",
+   "Elle est citée dans le cours pour la recherche d'auto-Ac dans les maladies AI",
+   "Elle permet le suivi des titres d'auto-Ac sous traitement",
+   "Elle explore l'hypersensibilité de type IV"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ELISA quantitative.",
+   "Vrai : auto-Ac dosables en routine.",
+   "Vrai : IF et ELISA cités dans le cours.",
+   "Vrai : cinétique des titres.",
+   "Faux : le type IV est cellulaire."
+  ]
+ },
+ {
+  "q": "Concernant l'immunofluorescence en auto-immunité, lesquelles sont exactes ?",
+  "options": [
+   "L'IFI sur cellules Hep-2 recherche les anticorps antinucléaires",
+   "L'IFD cutanée du lupus montre un dépôt jonctionnel (bande lupique)",
+   "L'IFD du pemphigus montre un dépôt interkératinocytaire",
+   "Elle est citée dans le cours pour la recherche d'auto-Ac",
+   "Elle dose les IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : substrat Hep-2.",
+   "Vrai : lupus band test.",
+   "Vrai : aspect en résille.",
+   "Vrai : IF citée dans le cours.",
+   "Faux : pas de dosage d'IgE par IF."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles sont des urgences immunologiques ?",
+  "options": [
+   "Le choc anaphylactique",
+   "L'œdème laryngé bradykinique",
+   "La crise myasthénique avec atteinte respiratoire",
+   "L'agranulocytose fébrile",
+   "L'eczéma de contact chronique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : adrénaline immédiate.",
+   "Vrai : risque d'asphyxie.",
+   "Vrai : détresse respiratoire.",
+   "Vrai : urgence infectieuse.",
+   "Faux : pathologie chronique non urgente."
+  ]
+ },
+ {
+  "q": "Concernant la prévention de l'allo-immunisation transfusionnelle, lesquelles sont exactes ?",
+  "options": [
+   "Le groupage ABO et Rh(D) est obligatoire avant toute transfusion",
+   "La recherche d'agglutinines irrégulières (RAI) dépiste les allo-Ac",
+   "Le phénotypage Rh-Kell est indiqué chez les femmes en âge de procréer et les polytransfusés",
+   "La transfusion de concentrés phénotypés réduit l'allo-immunisation",
+   "Aucune vérification n'est nécessaire en urgence vitale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : déterminations réglementaires.",
+   "Vrai : Coombs indirect systématique.",
+   "Vrai : prévention de l'immunisation anti-Rh et Kell.",
+   "Vrai : CGR phénotypés.",
+   "Faux : les vérifications restent obligatoires, adaptées à l'urgence."
+  ]
+ },
+ {
+  "q": "Au sujet des immunoglobulines polyvalentes IV, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont utilisées à dose substitutive dans les déficits humoraux",
+   "À fortes doses, elles ont un effet immunomodulateur (PTI, Kawasaki, Guillain-Barré)",
+   "Elles peuvent provoquer des réactions (frissons, céphalées)",
+   "Elles apportent une protection passive immédiate",
+   "Elles stimulent la production de lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : substitution des DIP.",
+   "Vrai : 2 g/kg immunomodulateurs.",
+   "Vrai : effets indésirables de la perfusion.",
+   "Vrai : Ac passifs.",
+   "Faux : pas d'effet sur les LT."
+  ]
+ },
+ {
+  "q": "Concernant la maladie de Kawasaki, lesquelles sont exactes ?",
+  "options": [
+   "C'est une vascularite aiguë du petit enfant",
+   "Elle peut compliquer d'anévrismes coronaires",
+   "Le traitement repose sur les immunoglobulines IV et l'aspirine",
+   "C'est une vascularite à complexes immuns présumée",
+   "C'est une hypersensibilité de type I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : vascularite pédiatrique fébrile.",
+   "Vrai : atteinte coronaire redoutée.",
+   "Vrai : IgIV + aspirine anti-inflammatoire.",
+   "Vrai : vascularite inflammatoire aiguë.",
+   "Faux : pas d'IgE."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les haptènes, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont de petites molécules non immunogènes seules",
+   "Liés à une protéine porteuse, ils deviennent immunogènes",
+   "La pénicilline est un haptène classique",
+   "Le nickel est un haptène des eczémas de contact",
+   "Ils induisent toujours une réponse IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : antigénicité sans immunogénicité.",
+   "Vrai : complexe haptène-porteur immunogène.",
+   "Vrai : allergie aux bêtalactamines.",
+   "Vrai : eczéma de contact au nickel.",
+   "Faux : ils peuvent induire tout type de réponse."
+  ]
+ },
+ {
+  "q": "Concernant la désensibilisation aux venins, lesquelles sont exactes ?",
+  "options": [
+   "Elle est indiquée après une réaction systémique sévère",
+   "Elle utilise des extraits purifiés de venins",
+   "Son efficacité dépasse 90 %",
+   "Elle est poursuivie plusieurs années",
+   "Elle remplace la trousse d'adrénaline"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : anaphylaxie aux hyménoptères.",
+   "Vrai : venins standardisés.",
+   "Vrai : excellente protection.",
+   "Vrai : 3 à 5 ans de traitement.",
+   "Faux : la trousse d'urgence reste indispensable."
+  ]
+ },
+ {
+  "q": "Au sujet du bilan d'une vascularite, lesquelles sont exactes ?",
+  "options": [
+   "La biopsie avec examen histologique est souvent déterminante",
+   "Les ANCA orientent vers les vascularites des petits vaisseaux",
+   "La recherche d'une hépatite B est utile devant une périartérite noueuse",
+   "La cryoglobulinémie est recherchée devant un purpura vasculaire",
+   "Le prick-test en est l'examen clé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : histologie de la vascularite.",
+   "Vrai : marqueurs des vascularites nécrosantes.",
+   "Vrai : association VHB-PAN.",
+   "Vrai : cryoglobulinémie et purpura.",
+   "Faux : le prick-test explore l'allergie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le complément et l'auto-immunité, lesquelles sont exactes ?",
+  "options": [
+   "Les déficits en fractions précoces (C1, C2, C4) exposent au lupus",
+   "La consommation du complément (C3, C4 bas) traduit l'activité du lupus",
+   "Le C1q est impliqué dans la clairance des complexes immuns et des corps apoptotiques",
+   "Un C4 effondré isolé évoque un déficit en C1INH",
+   "Le complément n'a aucun rôle dans l'auto-immunité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : défaut de clairance des CIC.",
+   "Vrai : hypocomplémentémie du LED actif.",
+   "Vrai : rôle du C1q dans l'épuration.",
+   "Vrai : consommation permanente de la voie classique.",
+   "Faux : rôle central démontré."
+  ]
+ },
+ {
+  "q": "Concernant la corticothérapie au long cours, lesquelles sont exactes ?",
+  "options": [
+   "Elle expose à l'ostéoporose",
+   "Elle favorise le diabète et la prise de poids",
+   "Elle augmente le risque infectieux",
+   "Son arrêt brutal expose à l'insuffisance surrénalienne",
+   "Elle est dénuée d'effets indésirables à faible dose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : déminéralisation osseuse.",
+   "Vrai : effets métaboliques.",
+   "Vrai : immunodépression.",
+   "Vrai : freinage de l'axe corticotrope.",
+   "Faux : effets dose-dépendants même à faible dose."
+  ]
+ },
+ {
+  "q": "Au sujet des infections chez le patient sous anti-TNF alpha, lesquelles sont exactes ?",
+  "options": [
+   "Le risque de réactivation tuberculeuse est accru",
+   "Un dépistage de la tuberculose latente est obligatoire avant traitement",
+   "Les infections opportunistes sont plus fréquentes",
+   "La vaccination par vaccins vivants est déconseillée sous traitement",
+   "Il n'y a aucun risque infectieux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : rôle du TNF dans le granulome.",
+   "Vrai : IDR/Quantiféron pré-thérapeutique.",
+   "Vrai : immunodépression ciblée.",
+   "Vrai : vaccins vivants contre-indiqués.",
+   "Faux : risque réel et surveillé."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles définissent correctement l'hypersensibilité ?",
+  "options": [
+   "Réponse immunitaire excessive ou inappropriée",
+   "Dirigée contre un antigène du soi ou du non-soi",
+   "Responsable de lésions tissulaires",
+   "Nécessitant une sensibilisation préalable",
+   "Toujours protectrice pour l'organisme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : définition générale.",
+   "Vrai : allergènes et auto-antigènes.",
+   "Vrai : caractère pathogène.",
+   "Vrai : premier contact sensibilisant.",
+   "Faux : elle est par définition délétère."
+  ]
+ },
+ {
+  "q": "Concernant la classification de Gell et Coombs, lesquelles sont exactes ?",
+  "options": [
+   "Les types I, II et III sont à médiation humorale (anticorps)",
+   "Le type IV est à médiation cellulaire",
+   "Plusieurs types peuvent coexister dans une même maladie",
+   "Le type I est immédiat, le type IV est retardé",
+   "Le type II est à complexes immuns"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IgE, IgG/IgM cytotoxiques, CIC.",
+   "Vrai : lymphocytes T.",
+   "Vrai : chevauchements fréquents (ex. LED).",
+   "Vrai : minutes vs 48-72 h.",
+   "Faux : les complexes immuns définissent le type III."
+  ]
+ },
+ {
+  "q": "Au sujet de l'exploration d'une anaphylaxie, lesquelles sont exactes ?",
+  "options": [
+   "Le dosage de la tryptase dans les heures qui suivent confirme la dégranulation mastocytaire",
+   "L'interrogatoire précise le délai et l'agent déclenchant",
+   "Le bilan allergologique à distance comprend prick-tests et IgE spécifiques",
+   "Le test de provocation est l'examen de référence mais à risque",
+   "Le dosage des auto-anticorps est l'examen clé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : tryptase élevée.",
+   "Vrai : chronologie et déclencheur.",
+   "Vrai : bilan à 4-6 semaines.",
+   "Vrai : gold standard sous surveillance.",
+   "Faux : pas d'auto-Ac dans l'anaphylaxie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les déficits immunitaires primitifs, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont le plus souvent d'origine génétique",
+   "Ils peuvent toucher l'immunité humorale, cellulaire, phagocytaire ou le complément",
+   "Le diagnostic repose sur la NFS, le dosage des Ig, la CMF et l'exploration du complément",
+   "La greffe de moelle osseuse peut être curative dans les formes sévères",
+   "Ils sont toujours symptomatiques dès la naissance"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : anomalies monogéniques.",
+   "Vrai : quatre grands groupes.",
+   "Vrai : bilan immunologique standard.",
+   "Vrai : SCID, Wiskott-Aldrich.",
+   "Faux : révélation parfois tardive (DICV, déficit IgA)."
+  ]
+ },
+ {
+  "q": "Concernant les signes d'alerte d'un déficit immunitaire primitif, lesquelles sont exactes ?",
+  "options": [
+   "Des infections récidivantes, sévères ou à germes opportunistes",
+   "Un retard de croissance staturo-pondérale",
+   "Des infections familiales ou une consanguinité",
+   "Une mauvaise réponse aux antibiotiques",
+   "Une rhinite allergique saisonnière isolée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infections anormales par leur fréquence ou gravité.",
+   "Vrai : retentissement général.",
+   "Vrai : hérédité évocatrice.",
+   "Vrai : infections traînantes.",
+   "Faux : allergie banale, pas un DIP."
+  ]
+ },
+ {
+  "q": "Au sujet du traitement des déficits immunitaires primitifs, lesquelles sont exactes ?",
+  "options": [
+   "La substitution en immunoglobulines pour les déficits humoraux",
+   "L'antibioprophylaxie dans les déficits phagocytaires et humoraux",
+   "La greffe de cellules souches hématopoïétiques pour les formes sévères",
+   "La thérapie génique pour certains DICS",
+   "Les antihistaminiques au long cours"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ig substitutives.",
+   "Vrai : cotrimoxazole notamment.",
+   "Vrai : SCID et autres DIP sévères.",
+   "Vrai : ADA-SCID, DICS lié à l'X.",
+   "Faux : pas d'indication."
+  ]
+ },
+ {
+  "q": "Concernant les liens entre hypersensibilité et auto-immunité, lesquelles sont exactes ?",
+  "options": [
+   "L'auto-immunité est une hypersensibilité dirigée contre les antigènes du soi",
+   "Le lupus associe hypersensibilités de types II et III",
+   "La myasthénie est une hypersensibilité de type II auto-immune",
+   "Le diabète de type 1 associe auto-anticorps et hypersensibilité de type IV",
+   "L'allergie IgE-médiée est une maladie auto-immune"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : rupture de tolérance au soi.",
+   "Vrai : cytopénies auto-immunes (II) et complexes immuns (III).",
+   "Vrai : Ac anti-récepteur de l'acétylcholine.",
+   "Vrai : insulite T et auto-Ac anti-îlots.",
+   "Faux : l'allergie est dirigée contre des allergènes exogènes."
+  ]
+ }
+]

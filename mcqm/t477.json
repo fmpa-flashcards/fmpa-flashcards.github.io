@@ -1,0 +1,4510 @@
+[
+ {
+  "q": "Concernant l'immunité innée, parmi les propositions suivantes, lesquelles sont exactes ?",
+  "options": [
+   "Elle est activée immédiatement après l'invasion par un agent pathogène",
+   "Elle est hautement spécifique de chaque antigène",
+   "Elle est dépourvue de mémoire immunologique",
+   "Sa première réponse nécessite plusieurs jours pour se mettre en place",
+   "Elle est précoce et puissante, capable de bloquer la plupart des microorganismes"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'immunité innée est l'ensemble des défenses activées immédiatement après l'invasion.",
+   "Faux : elle est peu spécifique, contrairement à l'immunité adaptative qui est très spécifique.",
+   "Vrai : l'immunité innée ne développe pas de mémoire immunologique.",
+   "Faux : elle est immédiate ; la réponse en plusieurs jours caractérise la primo-réponse adaptative.",
+   "Vrai : elle est précoce et puissante et peut éradiquer la plupart des microorganismes."
+  ]
+ },
+ {
+  "q": "Concernant les différences entre immunité innée et immunité adaptative, quelles propositions sont exactes ?",
+  "options": [
+   "L'immunité innée repose sur des récepteurs codés par le génome (PRR)",
+   "L'immunité adaptative nécessite une première exposition pour développer une mémoire",
+   "L'immunité innée est plus lente que l'immunité adaptative",
+   "L'immunité adaptative est pourvue de mémoire immunologique",
+   "L'immunité innée reconnaît des motifs structuraux communs à de nombreux pathogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les PRR sont des récepteurs germline, préformés et immédiatement disponibles.",
+   "Vrai : la mémoire adaptative suppose une première rencontre avec l'antigène.",
+   "Faux : l'immunité innée est immédiate, donc plus rapide que la primo-réponse adaptative.",
+   "Vrai : la mémoire immunologique est la propriété cardinale de l'immunité adaptative.",
+   "Vrai : elle reconnaît des PAMP, motifs partagés par de nombreuses espèces microbiennes."
+  ]
+ },
+ {
+  "q": "Lorsqu'un agent pathogène franchit les barrières épithéliales, quelles sont les composantes de l'immunité innée qui le prennent en charge ?",
+  "options": [
+   "Les phagocytes (PNN, macrophages)",
+   "Les cellules NK",
+   "Le système du complément",
+   "Les anticorps spécifiques produits par les plasmocytes",
+   "Les lymphocytes T cytotoxiques mémoires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les phagocytes assurent la phagocytose et la dégradation de l'agent pathogène.",
+   "Vrai : les NK constituent une première ligne de défense cytotoxique.",
+   "Vrai : le complément (opsonisation, lyse, inflammation) est un effecteur majeur de l'inné.",
+   "Faux : les anticorps relèvent de l'immunité adaptative humorale.",
+   "Faux : les LT cytotoxiques mémoires relèvent de l'immunité adaptative cellulaire."
+  ]
+ },
+ {
+  "q": "Concernant les missions du système immunitaire, quelles propositions sont exactes ?",
+  "options": [
+   "Reconnaître et tolérer ce qui lui appartient : le soi",
+   "Déceler et rejeter ce qui lui est étranger : le non-soi",
+   "Rejeter systématiquement ses propres constituants normaux",
+   "Éliminer ses propres constituants altérés, comme les cellules tumorales",
+   "Tolérer les agents infectieux étrangers"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : la tolérance du soi est une mission fondamentale du système immunitaire.",
+   "Vrai : le rejet du non-soi (agents infectieux, substances étrangères) en est l'autre mission.",
+   "Faux : les constituants normaux du soi sont tolérés, non rejetés.",
+   "Vrai : les cellules tumorales, constituants altérés du soi, sont des cibles du système immunitaire.",
+   "Faux : les agents infectieux doivent être détectés et rejetés, non tolérés."
+  ]
+ },
+ {
+  "q": "Quelle est la première ligne de défense rencontrée par un agent pathogène ?",
+  "options": [
+   "Les barrières épithéliales (peau et muqueuses)",
+   "Les ganglions lymphatiques",
+   "Les lymphocytes T mémoires",
+   "Les anticorps sériques circulants",
+   "Après leur franchissement : les phagocytes, les cellules NK et le complément"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Vrai : la peau et les muqueuses constituent le premier obstacle rencontré par l'agent pathogène.",
+   "Faux : les ganglions sont des organes lymphoïdes secondaires, lieu de la réponse adaptative.",
+   "Faux : les LT mémoires interviennent dans la réponse adaptative secondaire.",
+   "Faux : les anticorps sériques relèvent de l'immunité humorale adaptative.",
+   "Vrai : une fois les barrières franchies, phagocytes, NK et complément prennent le relais."
+  ]
+ },
+ {
+  "q": "Concernant le déroulement de la réponse immunitaire innée, quelles propositions sont exactes ?",
+  "options": [
+   "Reconnaissance du pathogène par les PNN, les macrophages et les DC",
+   "Phagocytose de l'agent pathogène",
+   "Dégradation de l'agent pathogène capturé",
+   "Déclenchement de la réaction inflammatoire",
+   "Formation d'une mémoire immunologique spécifique de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la reconnaissance par les cellules phagocytaires initie la réponse innée.",
+   "Vrai : la phagocytose internalise l'agent pathogène dans un phagosome.",
+   "Vrai : la dégradation fait appel à des mécanismes oxygène-dépendants et lysosomiaux.",
+   "Vrai : les phagocytes activés déclenchent la réaction inflammatoire.",
+   "Faux : l'immunité innée ne produit pas de mémoire immunologique spécifique."
+  ]
+ },
+ {
+  "q": "L'immunité innée est qualifiée de « naturelle » car lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Elle existe dès la naissance, sans exposition préalable à l'agent pathogène",
+   "Ses récepteurs sont codés par le génome et préformés",
+   "Elle est immédiatement disponible lors d'une agression",
+   "Elle nécessite une immunisation préalable pour être efficace",
+   "Elle repose sur des récepteurs générés par recombinaison somatique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'immunité naturelle ne requiert aucun contact préalable avec le pathogène.",
+   "Vrai : les PRR sont des récepteurs germline, présents avant toute infection.",
+   "Vrai : son caractère préformé explique sa rapidité d'action.",
+   "Faux : aucune immunisation préalable n'est nécessaire, contrairement à l'adaptatif.",
+   "Faux : la recombinaison somatique concerne les récepteurs TCR et BCR de l'adaptatif."
+  ]
+ },
+ {
+  "q": "Concernant la spécificité de la reconnaissance immunitaire, quelles propositions sont exactes ?",
+  "options": [
+   "L'immunité innée reconnaît des motifs structuraux partagés par de nombreux pathogènes",
+   "L'immunité adaptative reconnaît des épitopes antigéniques très spécifiques",
+   "L'immunité innée distingue chaque variant antigénique d'un même pathogène",
+   "Les récepteurs de l'adaptatif (TCR, BCR) sont générés par recombinaison somatique",
+   "L'immunité innée possède une mémoire spécifique de chaque antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : les PAMP sont des motifs communs à de nombreuses espèces microbiennes.",
+   "Vrai : la reconnaissance adaptative est fine et spécifique de chaque épitope.",
+   "Faux : l'immunité innée est peu spécifique et ne distingue pas les variants antigéniques.",
+   "Vrai : la diversité des TCR et BCR naît de la recombinaison somatique des gènes.",
+   "Faux : l'immunité innée est dépourvue de mémoire immunologique."
+  ]
+ },
+ {
+  "q": "Concernant la cinétique des réponses immunitaires, quelles propositions sont exactes ?",
+  "options": [
+   "La réponse innée se met en place en quelques minutes à quelques heures",
+   "La primo-réponse adaptative nécessite plusieurs jours",
+   "La réponse secondaire adaptative est plus rapide grâce à la mémoire",
+   "La réponse innée nécessite une expansion clonale lymphocytaire préalable",
+   "L'immunité adaptative est toujours plus rapide que l'immunité innée"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les effecteurs de l'inné sont préformés et agissent immédiatement.",
+   "Vrai : l'activation et l'expansion clonale des lymphocytes prennent plusieurs jours.",
+   "Vrai : les lymphocytes mémoires permettent une réponse secondaire rapide et intense.",
+   "Faux : l'expansion clonale est le propre de la réponse adaptative.",
+   "Faux : seule la réponse mémoire adaptative est rapide ; la primo-réponse est lente."
+  ]
+ },
+ {
+  "q": "Quelles cellules sont « à cheval » entre l'immunité innée et l'immunité adaptative ?",
+  "options": [
+   "Les cellules NK",
+   "Les cellules dendritiques",
+   "Les macrophages",
+   "Les polynucléaires neutrophiles",
+   "Les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les NK, cellules de l'inné, participent aussi à l'orientation de l'adaptatif.",
+   "Vrai : les DC, sentinelles de l'inné, initient la réponse adaptative.",
+   "Vrai : les macrophages, phagocytes de l'inné, sont aussi des CPA.",
+   "Faux : les PNN sont des effecteurs strictement de l'immunité innée.",
+   "Faux : les LB sont des cellules de l'immunité adaptative humorale."
+  ]
+ },
+ {
+  "q": "Concernant les éléments du système immunitaire, quelles propositions sont exactes ?",
+  "options": [
+   "Des tissus et des organes lymphoïdes",
+   "Des cellules immunitaires",
+   "Des molécules solubles et membranaires",
+   "Uniquement des anticorps circulants",
+   "Uniquement des organes lymphoïdes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les organes lymphoïdes primaires et secondaires structurent le système immunitaire.",
+   "Vrai : les cellules (phagocytes, lymphocytes, NK, DC) en sont les effecteurs.",
+   "Vrai : les molécules (complément, cytokines, immunoglobulines) en sont les médiateurs.",
+   "Faux : les anticorps n'en sont qu'une composante humorale.",
+   "Faux : les organes lymphoïdes n'en sont que le support anatomique."
+  ]
+ },
+ {
+  "q": "Concernant l'immunité de l'organisme, quelles propositions sont exactes ?",
+  "options": [
+   "C'est l'ensemble des mécanismes biologiques de défense de l'organisme",
+   "Elle reconnaît et tolère le soi",
+   "Elle décèle et rejette le non-soi",
+   "Elle tolère les substances étrangères et les agents infectieux",
+   "Elle rejette les constituants normaux du soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'immunité désigne l'ensemble des mécanismes biologiques de défense.",
+   "Vrai : la tolérance du soi évite les réactions auto-immunes.",
+   "Vrai : le rejet du non-soi élimine agents infectieux et substances étrangères.",
+   "Faux : les substances étrangères et agents infectieux doivent être rejetés.",
+   "Faux : les constituants normaux du soi sont tolérés."
+  ]
+ },
+ {
+  "q": "Concernant la peau comme barrière de l'immunité innée, quelles propositions sont exactes ?",
+  "options": [
+   "La peau est une barrière vivante et étanche",
+   "En cas de blessure, elle devient une porte d'entrée pour les agents pathogènes",
+   "La peau et les muqueuses sont des barrières physico-chimiques interfaces avec le milieu extérieur",
+   "La peau est une barrière stérile dépourvue de cellules vivantes",
+   "Les barrières épithéliales sont franchies sans aucune conséquence pour l'organisme"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la peau est une barrière vivante, étanche, en interface avec le milieu extérieur.",
+   "Vrai : toute blessure cutanée crée une porte d'entrée pour les agents pathogènes.",
+   "Vrai : peau et muqueuses associent des moyens physiques et chimiques de défense.",
+   "Faux : la peau est un tissu vivant, non une barrière stérile inerte.",
+   "Faux : leur franchissement déclenche la prise en charge par les effecteurs de l'inné."
+  ]
+ },
+ {
+  "q": "Par quels moyens les muqueuses se défendent-elles contre les agents pathogènes ?",
+  "options": [
+   "La salive et les larmes, qui contiennent des substances antimicrobiennes",
+   "Les cils des muqueuses respiratoires",
+   "Le milieu acide de certaines muqueuses et sécrétions",
+   "Les sécrétions digestives, respiratoires et uro-génitales",
+   "Les muqueuses sont dépourvues de tout moyen de défense chimique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : salive et larmes véhiculent des substances antimicrobiennes.",
+   "Vrai : les cils assurent l'épuration mécanique des muqueuses respiratoires.",
+   "Vrai : l'acidité de certaines sécrétions s'oppose à la prolifération microbienne.",
+   "Vrai : les sécrétions des tractus digestif, respiratoire et uro-génital participent à la défense.",
+   "Faux : les muqueuses disposent de nombreux moyens chimiques de défense."
+  ]
+ },
+ {
+  "q": "Concernant les barrières épithéliales, quelles propositions sont exactes ?",
+  "options": [
+   "Une blessure cutanée constitue une porte d'entrée pour les agents pathogènes",
+   "La peau est une barrière physico-chimique en interface avec le milieu extérieur",
+   "Les muqueuses des tractus digestif, respiratoire et uro-génital sont des barrières",
+   "La peau est une barrière inerte et dépourvue de cellules vivantes",
+   "Les barrières épithéliales n'opposent que des moyens mécaniques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la rupture de la barrière cutanée ouvre une voie d'invasion microbienne.",
+   "Vrai : la peau combine des défenses physiques et chimiques.",
+   "Vrai : ces trois tractus muqueux sont des interfaces avec le milieu extérieur.",
+   "Faux : la peau est un tissu vivant.",
+   "Faux : elles associent moyens physiques (cils) et chimiques (sécrétions, acidité)."
+  ]
+ },
+ {
+  "q": "Quelles sécrétions participent à la défense antimicrobienne des muqueuses ?",
+  "options": [
+   "La salive",
+   "Les larmes",
+   "Les sécrétions digestives",
+   "Les sécrétions respiratoires et uro-génitales",
+   "Des sécrétions totalement dépourvues de substances antimicrobiennes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la salive contient des substances antimicrobiennes.",
+   "Vrai : les larmes participent à la défense de la muqueuse oculaire.",
+   "Vrai : les sécrétions digestives (acidité, enzymes) luttent contre les pathogènes.",
+   "Vrai : les sécrétions respiratoires et uro-génitales ont une activité antimicrobienne.",
+   "Faux : ces sécrétions sont riches en substances antimicrobiennes."
+  ]
+ },
+ {
+  "q": "Concernant les moyens physico-chimiques des muqueuses, quelles propositions sont exactes ?",
+  "options": [
+   "Les cils contribuent à l'élimination mécanique des agents pathogènes",
+   "Les enzymes des sécrétions participent à la lutte antimicrobienne",
+   "Le milieu acide de certaines sécrétions s'oppose aux agents pathogènes",
+   "Ces moyens de défense sont purement physiques",
+   "Ces moyens sont inefficaces contre les bactéries"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les cils des muqueuses respiratoires assurent l'épuration mucociliaire.",
+   "Vrai : les enzymes des sécrétions (salive, larmes, sucs digestifs) attaquent les microbes.",
+   "Vrai : l'acidité constitue un milieu hostile à de nombreux agents pathogènes.",
+   "Faux : ils associent des moyens physiques et chimiques.",
+   "Faux : ils contribuent efficacement à limiter les infections bactériennes."
+  ]
+ },
+ {
+  "q": "Lorsqu'un agent pathogène franchit les barrières épithéliales, par quelles composantes est-il pris en charge ?",
+  "options": [
+   "Les phagocytes",
+   "Les cellules NK",
+   "Le système du complément",
+   "Les plasmocytes producteurs d'anticorps",
+   "Aucune défense : l'organisme est sans recours"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les phagocytes (PNN, macrophages, DC) assurent la reconnaissance et la phagocytose.",
+   "Vrai : les NK exercent une cytotoxicité contre les cellules infectées.",
+   "Vrai : le complément agit par opsonisation, lyse et inflammation.",
+   "Faux : les plasmocytes relèvent de la réponse humorale adaptative, plus tardive.",
+   "Faux : de multiples effecteurs de l'immunité innée prennent le relais."
+  ]
+ },
+ {
+  "q": "Concernant la place des barrières dans la défense de l'organisme, quelles propositions sont exactes ?",
+  "options": [
+   "Elles constituent la toute première ligne de défense",
+   "Elles agissent avant toute intervention des cellules immunitaires",
+   "Les ganglions lymphatiques constituent la première ligne de défense",
+   "Les anticorps sériques constituent la première ligne de défense",
+   "Elles ne protègent que contre les virus"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : peau et muqueuses sont le premier obstacle rencontré par l'agent pathogène.",
+   "Vrai : elles s'opposent à l'invasion avant le recrutement des cellules immunitaires.",
+   "Faux : les ganglions sont le lieu de la réponse adaptative, après l'invasion.",
+   "Faux : les anticorps interviennent dans la réponse humorale adaptative.",
+   "Faux : elles s'opposent à l'ensemble des agents pathogènes."
+  ]
+ },
+ {
+  "q": "Concernant la peau, barrière de l'immunité innée, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un tissu vivant",
+   "C'est une barrière étanche",
+   "Sa blessure ouvre une porte d'entrée aux agents pathogènes",
+   "C'est une barrière inerte et morte",
+   "Elle reste imperméable aux cellules immunitaires en toutes circonstances"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la peau est décrite comme une barrière vivante.",
+   "Vrai : son étanchéité s'oppose à la pénétration microbienne.",
+   "Vrai : toute effraction cutanée expose à l'invasion par les agents pathogènes.",
+   "Faux : la peau est un tissu vivant et actif.",
+   "Faux : lors de l'inflammation, les leucocytes traversent les tissus vers le site agressé."
+  ]
+ },
+ {
+  "q": "Quelles muqueuses constituent des barrières de l'immunité innée ?",
+  "options": [
+   "La muqueuse du tractus digestif",
+   "La muqueuse du tractus respiratoire",
+   "La muqueuse du tractus uro-génital",
+   "Des interfaces avec le milieu extérieur défendues par leurs sécrétions",
+   "Uniquement la muqueuse du tractus urinaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la muqueuse digestive est une barrière physico-chimique majeure.",
+   "Vrai : la muqueuse respiratoire (cils, sécrétions) filtre l'air inspiré.",
+   "Vrai : la muqueuse uro-génitale participe à la défense contre les pathogènes.",
+   "Vrai : ces muqueuses sont des interfaces avec le milieu extérieur.",
+   "Faux : les trois tractus (digestif, respiratoire, uro-génital) sont concernés."
+  ]
+ },
+ {
+  "q": "Concernant les substances antimicrobiennes des sécrétions muqueuses, quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont présentes dans la salive et les larmes",
+   "Elles participent à la lutte contre les agents pathogènes",
+   "Les sécrétions digestives, respiratoires et uro-génitales en contiennent",
+   "Ce sont des anticorps spécifiques",
+   "Les muqueuses en sont totalement dépourvues"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : salive, larmes et sécrétions muqueuses véhiculent ces substances.",
+   "Vrai : elles constituent un moyen chimique de défense des muqueuses.",
+   "Vrai : les trois tractus muqueux sécrètent des substances antimicrobiennes.",
+   "Faux : les anticorps sont des immunoglobulines de l'immunité adaptative.",
+   "Faux : les muqueuses se défendent notamment par ces sécrétions."
+  ]
+ },
+ {
+  "q": "Concernant le milieu acide comme moyen de défense, quelles propositions sont exactes ?",
+  "options": [
+   "Le milieu acide de certaines muqueuses lutte contre les agents pathogènes",
+   "Les enzymes des sécrétions participent également à cette lutte",
+   "Les cils constituent le versant mécanique de cette défense",
+   "L'acidité favorise la prolifération des agents pathogènes",
+   "Ces moyens de défense sont exclusivement chimiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'acidité de certaines sécrétions s'oppose au développement microbien.",
+   "Vrai : les enzymes des sécrétions (salive, larmes, sucs digestifs) attaquent les microbes.",
+   "Vrai : les cils assurent l'élimination mécanique, notamment au niveau respiratoire.",
+   "Faux : l'acidité crée un milieu hostile aux agents pathogènes.",
+   "Faux : la défense muqueuse associe moyens physiques (cils) et chimiques."
+  ]
+ },
+ {
+  "q": "Quelles sont les conséquences d'une brèche de la barrière cutanée ?",
+  "options": [
+   "Elle constitue une porte d'entrée pour les agents pathogènes",
+   "Elle impose la mise en jeu des effecteurs de l'immunité innée",
+   "Elle reste sans aucune conséquence pour l'organisme",
+   "La peau conserve son étanchéité malgré la blessure",
+   "Seuls les virus peuvent franchir une blessure cutanée"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : en cas de blessure, la peau devient une porte d'entrée pour les agents pathogènes.",
+   "Vrai : phagocytes, NK et complément prennent alors en charge l'agresseur.",
+   "Faux : la rupture de la barrière expose à l'invasion microbienne.",
+   "Faux : la blessure rompt l'étanchéité de la barrière cutanée.",
+   "Faux : tout agent pathogène peut profiter de cette porte d'entrée."
+  ]
+ },
+ {
+  "q": "Concernant les polynucléaires neutrophiles (PNN), quelles propositions sont exactes ?",
+  "options": [
+   "Ils représentent 40 à 75 % des globules blancs",
+   "Leur nombre absolu est de 4000 à 7000 /µl",
+   "Leur noyau est polylobé",
+   "Leurs granulations cytoplasmiques sont azyrophiles",
+   "Ils sont incapables de phagocytose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les PNN constituent 40 à 75 % des globules blancs.",
+   "Vrai : leur nombre absolu se situe entre 4000 et 7000 /µl.",
+   "Vrai : le noyau polylobé est caractéristique des PNN.",
+   "Vrai : leurs granules cytoplasmiques sont décrits comme azyrophiles.",
+   "Faux : la phagocytose est la fonction principale des PNN."
+  ]
+ },
+ {
+  "q": "Concernant les fonctions des PNN, quelles propositions sont exactes ?",
+  "options": [
+   "La phagocytose est leur fonction principale",
+   "Ils sont recrutés précocement vers le site de l'agression",
+   "Ils sécrètent principalement des peptides antimicrobiens (défensines)",
+   "Ils produisent des anticorps spécifiques",
+   "Ils présentent l'antigène via les molécules CMH de classe II comme les DC"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la phagocytose est la fonction cardinale des PNN.",
+   "Vrai : les PNN font partie des premières cellules recrutées vers le site lésé.",
+   "Vrai : les PNN sont la principale source des peptides antimicrobiens.",
+   "Faux : la production d'anticorps est le fait des plasmocytes (immunité adaptative).",
+   "Faux : les PNN ne sont pas des cellules présentatrices d'antigène professionnelles."
+  ]
+ },
+ {
+  "q": "Concernant les polynucléaires éosinophiles (PNE), quelles propositions sont exactes ?",
+  "options": [
+   "Ils représentent 1 à 5 % des globules blancs (100 à 500 /µl)",
+   "Leur noyau est bilobé",
+   "Ils agissent dans les infections parasitaires et les allergies",
+   "Leur activité phagocytaire est supérieure à celle des PNN",
+   "Leurs granulations cytoplasmiques sont éosinophiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les PNE représentent 1 à 5 % des GB, soit 100 à 500 /µl.",
+   "Vrai : le noyau bilobé (en besace) caractérise les PNE.",
+   "Vrai : les PNE interviennent dans la défense antiparasitaire et les allergies.",
+   "Faux : leur phagocytose est inférieure à celle des PNN.",
+   "Vrai : leurs granulations cytoplasmiques fixent l'éosine."
+  ]
+ },
+ {
+  "q": "Concernant les PNE, quelles propositions sont exactes ?",
+  "options": [
+   "Leurs granulations cytoplasmiques sont éosinophiles",
+   "Ils participent à la défense contre les parasites",
+   "Ils sont recrutés lors des réactions allergiques et inflammatoires",
+   "Ce sont les principales cellules phagocytaires du sang",
+   "Ils sont dépourvus de granulations cytoplasmiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les granulations éosinophiles sont caractéristiques des PNE.",
+   "Vrai : l'action antiparasitaire est une fonction majeure des PNE.",
+   "Vrai : les PNE interviennent dans les allergies et l'inflammation.",
+   "Faux : les PNN sont les principales cellules phagocytaires du sang.",
+   "Faux : les PNE possèdent des granulations cytoplasmiques éosinophiles."
+  ]
+ },
+ {
+  "q": "Concernant les polynucléaires basophiles (PNB), quelles propositions sont exactes ?",
+  "options": [
+   "Ils représentent environ 1 % des globules blancs (< 100 /µl)",
+   "Leurs granulations cytoplasmiques sont volumineuses et noirâtres",
+   "Après activation, ils sécrètent des médiateurs de l'inflammation",
+   "Ce sont les principales cellules phagocytaires du sang",
+   "Ils sont dépourvus de toute granulation cytoplasmique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les PNB représentent environ 1 % des GB, soit moins de 100 /µl.",
+   "Vrai : leurs grosses granulations cytoplasmiques apparaissent noirâtres.",
+   "Vrai : activés, les PNB libèrent des médiateurs de l'inflammation.",
+   "Faux : les PNN sont les principales cellules phagocytaires.",
+   "Faux : les PNB sont caractérisés par leurs volumineuses granulations."
+  ]
+ },
+ {
+  "q": "Concernant la localisation des mastocytes, quelles propositions sont exactes ?",
+  "options": [
+   "Ils sont présents dans le tissu conjonctif",
+   "Ils siègent aux portes d'entrée de l'organisme : peau, muqueuses digestive et respiratoire",
+   "Ils sont la première cellule impliquée dans l'inflammation (immunité innée)",
+   "Ils circulent exclusivement dans le sang",
+   "Ils sont localisés uniquement dans la moelle osseuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les mastocytes résident dans le tissu conjonctif.",
+   "Vrai : ils sont strategically placés aux portes d'entrée (peau, muqueuses).",
+   "Vrai : le mastocyte est la première cellule impliquée dans l'inflammation.",
+   "Faux : les mastocytes sont des cellules tissulaires, non circulantes.",
+   "Faux : ils siègent dans les tissus conjonctifs et les muqueuses, non dans la moelle."
+  ]
+ },
+ {
+  "q": "Concernant les médiateurs libérés par le mastocyte activé, quelles propositions sont exactes ?",
+  "options": [
+   "L'histamine, médiateur préformé",
+   "Le PAF-acéther, médiateur préformé",
+   "Les prostaglandines (PG), médiateurs néoformés",
+   "Les leucotriènes (LT), médiateurs néoformés",
+   "L'interféron gamma, médiateur préformé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'histamine est stockée dans les granules et libérée lors de la dégranulation.",
+   "Vrai : le PAF-acéther fait partie des médiateurs préformés du mastocyte.",
+   "Vrai : les prostaglandines sont synthétisées de novo après activation.",
+   "Vrai : les leucotriènes sont des médiateurs lipidiques néoformés.",
+   "Faux : l'IFNγ est une cytokine produite notamment par les NK et les macrophages."
+  ]
+ },
+ {
+  "q": "Concernant le mastocyte, quelles propositions sont exactes ?",
+  "options": [
+   "C'est la cellule de l'hypersensibilité immédiate (type I)",
+   "Sa dégranulation peut être déclenchée par les anaphylatoxines du complément",
+   "L'histamine qu'il libère provoque vasodilatation et hyper-perméabilité",
+   "Il phagocyte activement les bactéries comme les PNN",
+   "C'est un lymphocyte"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le mastocyte est l'effecteur de l'hypersensibilité immédiate de type I.",
+   "Vrai : C3a, C4a et C5a se lient aux récepteurs des mastocytes et provoquent leur dégranulation.",
+   "Vrai : l'histamine est responsable de la vasodilatation et de l'œdème inflammatoire.",
+   "Faux : le mastocyte n'est pas une cellule phagocytaire ; c'est le PNN qui phagocyte.",
+   "Faux : le mastocyte est une cellule myéloïde tissulaire, non un lymphocyte."
+  ]
+ },
+ {
+  "q": "Concernant l'origine des monocytes et des macrophages, quelles propositions sont exactes ?",
+  "options": [
+   "Les monocytes sanguins dérivent des promonocytes médullaires",
+   "La filiation est : CSH → CSM → CFU-GM → promonocyte",
+   "Le promonocyte quitte la moelle osseuse vers le sang",
+   "En tissus, les monocytes se différencient en macrophages",
+   "Les monocytes naissent et maturent dans le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le promonocyte médullaire est le précurseur du monocyte sanguin.",
+   "Vrai : cette filiation myéloïde conduit du progéniteur au promonocyte.",
+   "Vrai : le promonocyte gagne le sang où il devient monocyte.",
+   "Vrai : le monocyte circulant se différencie en macrophage dans les tissus.",
+   "Faux : le thymus est le lieu de maturation des lymphocytes T, non des monocytes."
+  ]
+ },
+ {
+  "q": "Concernant les macrophages tissulaires, quelles propositions sont exactes ?",
+  "options": [
+   "Les cellules de Kupffer sont les macrophages du foie",
+   "La microglie est le macrophage du système nerveux central",
+   "Les cellules mésangiales sont les macrophages du rein",
+   "Les macrophages tissulaires dérivent des monocytes sanguins",
+   "Les macrophages tissulaires ne participent pas à la phagocytose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les cellules de Kupffer sont les macrophages résidents du foie.",
+   "Vrai : la microglie assure les fonctions macrophagiques dans le SNC.",
+   "Vrai : les cellules mésangiales du rein ont une activité macrophagique.",
+   "Vrai : les macrophages tissulaires dérivent des monocytes circulants.",
+   "Faux : la phagocytose est une fonction principale des macrophages."
+  ]
+ },
+ {
+  "q": "Concernant les marqueurs des macrophages (cellules présentatrices d'antigène), quelles propositions sont exactes ?",
+  "options": [
+   "Les molécules CMH de classe II",
+   "B7-1 (CD80), molécule de costimulation",
+   "B7-2 (CD86), molécule de costimulation",
+   "CD40, molécule de costimulation",
+   "Le TCR (récepteur T pour l'antigène)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le CMH II permet la présentation de l'antigène aux LT CD4+.",
+   "Vrai : B7-1 (CD80) est une molécule de costimulation des CPA.",
+   "Vrai : B7-2 (CD86) est une molécule de costimulation des CPA.",
+   "Vrai : CD40 participe à la costimulation par les CPA.",
+   "Faux : le TCR est le récepteur antigénique des lymphocytes T."
+  ]
+ },
+ {
+  "q": "Concernant les fonctions principales des macrophages, quelles propositions sont exactes ?",
+  "options": [
+   "La phagocytose",
+   "La présentation de l'antigène",
+   "La sécrétion de cytokines (IFNγ, TNFα)",
+   "La production d'anticorps spécifiques",
+   "La sécrétion d'histamine préformée"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les macrophages sont des phagocytes mononucléés.",
+   "Vrai : en tant que CPA, ils présentent l'antigène via le CMH II.",
+   "Vrai : ils sécrètent notamment l'IFNγ et le TNFα.",
+   "Faux : les anticorps sont produits par les plasmocytes.",
+   "Faux : l'histamine préformée est libérée par les mastocytes et les basophiles."
+  ]
+ },
+ {
+  "q": "Concernant les phagocytes mononucléés, quelles propositions sont exactes ?",
+  "options": [
+   "Ils comprennent les monocytes et les macrophages",
+   "Ils assurent la phagocytose des agents pathogènes",
+   "Ils sont des cellules présentatrices d'antigène",
+   "Ils sécrètent des cytokines pro-inflammatoires",
+   "Ce sont des lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : monocytes (sang) et macrophages (tissus) forment cette famille.",
+   "Vrai : la phagocytose est leur fonction cardinale.",
+   "Vrai : ils expriment le CMH II et les molécules de costimulation.",
+   "Vrai : ils produisent IL-1, IL-6, TNFα et des chimiokines.",
+   "Faux : ce sont des cellules myéloïdes, non des lymphocytes."
+  ]
+ },
+ {
+  "q": "Concernant les cellules granulocytaires, quelles propositions sont exactes ?",
+  "options": [
+   "Elles comprennent les PNN, les PNE et les PNB",
+   "Les mastocytes leur sont fonctionnellement associés dans l'inflammation",
+   "Le noyau polylobé caractérise les PNN",
+   "Toutes les cellules granulocytaires phagocytent activement",
+   "Les PNE luttent contre les infections parasitaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les trois types de polynucléaires forment les granulocytes.",
+   "Vrai : mastocytes et granulocytes coopèrent dans la réaction inflammatoire.",
+   "Vrai : le noyau polylobé est typique du PNN.",
+   "Faux : les PNE phagocytent peu et les PNB/mastocytes ne phagocytent pas.",
+   "Vrai : la défense antiparasitaire est une fonction majeure des PNE."
+  ]
+ },
+ {
+  "q": "Concernant les PNN et les macrophages, quelles propositions sont exactes ?",
+  "options": [
+   "Les PNN sont des phagocytes polynucléés",
+   "Les macrophages sont des phagocytes mononucléés",
+   "Les deux types cellulaires assurent la phagocytose",
+   "Les PNN présentent l'antigène via le CMH de classe II",
+   "Les macrophages sont des cellules présentatrices d'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les PNN appartiennent aux granulocytes polynucléés.",
+   "Vrai : les macrophages dérivent des monocytes mononucléés.",
+   "Vrai : la phagocytose est leur fonction commune.",
+   "Faux : les PNN ne sont pas des CPA ; ce rôle revient aux macrophages et DC.",
+   "Vrai : les macrophages expriment CMH II et molécules de costimulation."
+  ]
+ },
+ {
+  "q": "Concernant le recrutement des cellules vers le site inflammatoire, quelles propositions sont exactes ?",
+  "options": [
+   "Les monocytes, les PNN et les PNE sont recrutés vers le site de la lésion",
+   "Les lymphocytes arrivent dans un second temps",
+   "Ce recrutement résulte du chimiotactisme induit par les médiateurs",
+   "Les lymphocytes sont les premières cellules recrutées",
+   "Aucun recrutement cellulaire n'accompagne l'inflammation"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : monocytes, PNN puis PNE affluent vers le site agressé.",
+   "Vrai : les lymphocytes sont recrutés après les cellules de l'inné.",
+   "Vrai : chimiokines et anaphylatoxines attirent les leucocytes circulants.",
+   "Faux : les cellules de l'immunité innée sont recrutées en premier.",
+   "Faux : l'afflux leucocytaire est une caractéristique de l'inflammation."
+  ]
+ },
+ {
+  "q": "Concernant les marqueurs cellulaires (CD), quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des structures de surface permettant de distinguer les populations cellulaires",
+   "Les classes de différenciation (CD) en sont un exemple",
+   "Les récepteurs de surface peuvent servir de marqueurs",
+   "La réponse proliférative in vitro peut servir de marqueur fonctionnel",
+   "Tous les marqueurs CD sont des immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : un marqueur cellulaire distingue deux populations cellulaires.",
+   "Vrai : les antigènes de différenciation CD identifient lignées et stades.",
+   "Vrai : les récepteurs de surface participent à l'immunophénotypage.",
+   "Vrai : des critères fonctionnels (prolifération, production d'Ac) sont aussi utilisés.",
+   "Faux : les CD regroupent des molécules de nature variée, non que des Ig."
+  ]
+ },
+ {
+  "q": "Quelles cellules appartiennent à l'immunité innée ?",
+  "options": [
+   "Les cellules NK",
+   "Les polynucléaires neutrophiles",
+   "Les mastocytes",
+   "Les cellules dendritiques",
+   "Les lymphocytes T cytotoxiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les NK sont des lymphocytes de l'immunité innée.",
+   "Vrai : les PNN sont les phagocytes majeurs de l'inné.",
+   "Vrai : les mastocytes initient la réaction inflammatoire.",
+   "Vrai : les DC sont les sentinelles qui initient l'adaptatif.",
+   "Faux : les LT cytotoxiques sont des effecteurs de l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Quelles cellules appartiennent à l'immunité adaptative ?",
+  "options": [
+   "Les lymphocytes T",
+   "Les lymphocytes B",
+   "Les plasmocytes, dérivés des lymphocytes B",
+   "Les polynucléaires neutrophiles",
+   "Les mastocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les LT sont les effecteurs de l'immunité cellulaire adaptative.",
+   "Vrai : les LB sont les effecteurs de l'immunité humorale adaptative.",
+   "Vrai : les plasmocytes, issus des LB, produisent les anticorps.",
+   "Faux : les PNN sont des phagocytes de l'immunité innée.",
+   "Faux : les mastocytes sont des cellules de l'immunité innée."
+  ]
+ },
+ {
+  "q": "Quelles cellules sont à cheval entre l'immunité innée et l'immunité adaptative ?",
+  "options": [
+   "Les cellules NK",
+   "Les cellules dendritiques",
+   "Les macrophages",
+   "Les polynucléaires neutrophiles",
+   "Les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les NK, bien qu'innés, orientent la réponse adaptative par leurs cytokines.",
+   "Vrai : les DC font le lien en initiant la réponse adaptative.",
+   "Vrai : les macrophages, phagocytes innés, sont aussi des CPA.",
+   "Faux : les PNN sont des effecteurs strictement innés.",
+   "Faux : les LB appartiennent à l'immunité adaptative humorale."
+  ]
+ },
+ {
+  "q": "Concernant le rôle des macrophages dans la réaction inflammatoire, quelles propositions sont exactes ?",
+  "options": [
+   "Ils sécrètent IL-1, IL-6 et TNF une fois activés",
+   "Ils sécrètent des chimiokines attirant les leucocytes",
+   "Ils expriment ICAM à leur surface pour assurer le rolling leucocytaire",
+   "Ils phagocytent les agents pathogènes opsonisés",
+   "Leurs médiateurs induisent localement la coagulation"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : IL-1, IL-6 et TNF sont les cytokines pro-inflammatoires des phagocytes activés.",
+   "Vrai : macrophages et DC produisent les chimiokines du recrutement.",
+   "Faux : ICAM est exprimée par les cellules endothéliales vasculaires, non par les macrophages.",
+   "Vrai : les macrophages phagocytent via leurs récepteurs du complément et Fc.",
+   "Vrai : les médiateurs des phagocytes activés induisent localement la coagulation."
+  ]
+ },
+ {
+  "q": "Concernant les PNN, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont les globules blancs les plus nombreux du sang",
+   "Ce sont des phagocytes de première ligne",
+   "Leurs granules sont riches en enzymes et en peptides antimicrobiens",
+   "Ils présentent l'antigène aux lymphocytes T",
+   "Ils ont une longue durée de vie dans les tissus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : avec 40 à 75 % des GB, les PNN sont les leucocytes les plus nombreux.",
+   "Vrai : ils sont parmi les premiers recrutés et phagocytent activement.",
+   "Vrai : la fusion de leurs lysosomes déverse enzymes et peptides antimicrobiens.",
+   "Faux : les PNN ne sont pas des cellules présentatrices d'antigène.",
+   "Faux : les PNN ont une durée de vie courte, surtout après activation."
+  ]
+ },
+ {
+  "q": "Concernant les éosinophiles, quelles propositions sont exactes ?",
+  "options": [
+   "Ils sont impliqués dans les réactions allergiques",
+   "Ils participent à la défense contre les infections parasitaires",
+   "Leur activité phagocytaire est inférieure à celle des PNN",
+   "Leur noyau est bilobé",
+   "Ce sont les principaux producteurs d'histamine de l'organisme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les PNE sont des acteurs des manifestations allergiques.",
+   "Vrai : la lutte antiparasitaire est leur fonction de défense majeure.",
+   "Vrai : leur phagocytose est décrite comme inférieure à celle des PNN.",
+   "Vrai : le noyau en besace (bilobé) caractérise les PNE.",
+   "Faux : l'histamine est surtout libérée par les mastocytes et les basophiles."
+  ]
+ },
+ {
+  "q": "Concernant les basophiles et les mastocytes, quelles propositions sont exactes ?",
+  "options": [
+   "Les deux types cellulaires libèrent des médiateurs de l'inflammation",
+   "Les basophiles sont circulants tandis que les mastocytes sont tissulaires",
+   "Les granulations des basophiles sont volumineuses et noirâtres",
+   "Les mastocytes sont des lymphocytes",
+   "Les deux interviennent dans l'hypersensibilité immédiate de type I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : basophiles et mastocytes libèrent histamine et médiateurs néoformés.",
+   "Vrai : les basophiles circulent dans le sang, les mastocytes résident dans les tissus.",
+   "Vrai : les grosses granulations noirâtres sont typiques des PNB.",
+   "Faux : le mastocyte est une cellule myéloïde tissulaire.",
+   "Vrai : les deux participent aux réactions d'hypersensibilité immédiate."
+  ]
+ },
+ {
+  "q": "Concernant les cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "Elles représentent 5 à 10 % des lymphocytes du sang",
+   "Elles dérivent d'un précurseur lymphoïde",
+   "On les trouve dans la moelle osseuse, la rate et certaines muqueuses (urogénitale)",
+   "Ce sont de grands lymphocytes (10-12 µm) à granulations cytotoxiques",
+   "Elles expriment un TCR spécifique de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les NK constituent 5 à 10 % des lymphocytes sanguins.",
+   "Vrai : leur précurseur est la cellule souche lymphoïde.",
+   "Vrai : MO, rate et muqueuses (urogénitale) sont leurs sites de localisation.",
+   "Vrai : ce sont des LGL (Large Granular Lymphocytes) de 10 à 12 µm.",
+   "Faux : les NK n'expriment pas de TCR, contrairement aux lymphocytes T."
+  ]
+ },
+ {
+  "q": "Concernant les marqueurs des cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "Absence d'expression du récepteur T pour l'antigène (TCR)",
+   "Expression du CD16 (FcγRIII)",
+   "Expression du CD2 et du CD56",
+   "Aspect de LGL (Large Granular Lymphocyte)",
+   "Expression du CD4 comme les lymphocytes T helper"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'absence de TCR distingue les NK des lymphocytes T.",
+   "Vrai : le CD16 (FcγRIII) est un marqueur des NK cytotoxiques.",
+   "Vrai : CD2 et CD56 sont exprimés par les cellules NK.",
+   "Vrai : leurs granulations cytotoxiques leur donnent l'aspect LGL.",
+   "Faux : le CD4 est le marqueur des LT helper, non des NK."
+  ]
+ },
+ {
+  "q": "Concernant les deux populations de cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "Les NK CD16+++ (90 %) sont fortement cytotoxiques",
+   "Les NK CD56+++ (10 %) sont peu cytotoxiques",
+   "Leurs granulations contiennent des granzymes et de la perforine",
+   "Tous les NK ont la même activité cytotoxique",
+   "Les NK représentent la majorité des lymphocytes sanguins"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la population majoritaire CD16+++ assure la cytotoxicité.",
+   "Vrai : la population minoritaire CD56+++ est peu cytotoxique.",
+   "Vrai : granzymes et perforine sont stockées dans leurs granulations.",
+   "Faux : les deux populations sont fonctionnellement différentes.",
+   "Faux : les NK ne représentent que 5 à 10 % des lymphocytes du sang."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs activateurs des NK (KAR), quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des récepteurs activateurs de la lyse cellulaire",
+   "Ils reconnaissent des molécules de surface exprimées sur les cellules stressées",
+   "CD28, CD2 et CD16 sont cités parmi ces récepteurs",
+   "La liaison d'un KAR déclenche la lyse de la cellule cible",
+   "Les KAR reconnaissent les molécules CMH de classe I du soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les KAR (Killer Activating Receptors) activent la lyse.",
+   "Vrai : ils détectent les molécules de stress des cellules infectées ou tumorales.",
+   "Vrai : CD28, CD2 et CD16 figurent parmi les récepteurs activateurs.",
+   "Vrai : l'engagement des KAR aboutit à la destruction de la cible.",
+   "Faux : le CMH I du soi est le ligand des récepteurs inhibiteurs."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs inhibiteurs des NK, quelles propositions sont exactes ?",
+  "options": [
+   "Les KIR appartiennent à la famille des immunoglobulines",
+   "Les CLIR appartiennent à la famille des lectines de type C",
+   "Leurs ligands sont les molécules du CMH de classe I",
+   "Leur engagement transmet un signal négatif qui empêche la lyse",
+   "Leur engagement active la lyse de la cellule cible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les KIR (Killer Inhibitory Receptors) sont de type Ig.",
+   "Vrai : les CLIR sont des récepteurs inhibiteurs de type lectine C.",
+   "Vrai : les récepteurs inhibiteurs reconnaissent le CMH I.",
+   "Vrai : le signal inhibiteur bloque l'action des récepteurs activateurs.",
+   "Faux : ce sont les récepteurs activateurs qui déclenchent la lyse."
+  ]
+ },
+ {
+  "q": "Concernant le mécanisme de reconnaissance du « soi » par les NK, quelles propositions sont exactes ?",
+  "options": [
+   "Les molécules CMH de classe I sont exprimées sur toutes les cellules nucléées normales",
+   "Leur expression est abaissée ou abolie sur les cellules infectées ou tumorales",
+   "La reconnaissance du CMH I du soi transmet un signal négatif qui empêche la lyse",
+   "La perte d'expression du CMH I rend la cellule vulnérable aux NK",
+   "Les NK lysent préférentiellement les cellules exprimant fortement le CMH I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le CMH I est présent sur toutes les cellules nucléées normales.",
+   "Vrai : infection ou transformation tumorale réduisent l'expression du CMH I.",
+   "Vrai : les récepteurs inhibiteurs activés par le CMH I du soi bloquent la lyse.",
+   "Vrai : c'est le concept du « missing self » : l'absence de CMH I lève l'inhibition.",
+   "Faux : une forte expression du CMH I protège la cellule de la lyse par les NK."
+  ]
+ },
+ {
+  "q": "Concernant la cytotoxicité directe des cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est médiée par les interactions KIR/KAR",
+   "Elle s'accompagne de la libération de perforines et de granzymes",
+   "Elle aboutit à la nécrose de la cellule infectée",
+   "Elle repose sur la sécrétion d'anticorps spécifiques",
+   "Elle nécessite une sensibilisation préalable par l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la balance entre récepteurs activateurs et inhibiteurs décide de la lyse.",
+   "Vrai : perforines et granzymes sont libérées vers la cellule cible.",
+   "Vrai : cette cytotoxicité directe conduit à la nécrose de la cellule infectée.",
+   "Faux : les NK ne produisent pas d'anticorps.",
+   "Faux : les NK agissent sans sensibilisation préalable, propre de l'inné."
+  ]
+ },
+ {
+  "q": "Concernant la cytotoxicité indirecte des cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "Elle repose sur la sécrétion de cytokines comme l'IFN et le TNF",
+   "Elle induit l'apoptose avec fragmentation de l'ADN",
+   "Les NK constituent une première ligne de défense contre les cellules infectées",
+   "Les NK agissent uniquement par contact direct avec la cible",
+   "Les NK produisent des immunoglobulines cytotoxiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'IFN et le TNF sécrétés par les NK ont une action cytotoxique indirecte.",
+   "Vrai : ces cytokines induisent l'apoptose avec fragmentation de l'ADN.",
+   "Vrai : les NK sont une première ligne de défense contre les cellules infectées.",
+   "Faux : la voie cytokinique agit à distance, sans contact obligatoire.",
+   "Faux : les NK ne synthétisent pas d'immunoglobulines."
+  ]
+ },
+ {
+  "q": "Concernant les NK et les molécules CMH de classe I, quelles propositions sont exactes ?",
+  "options": [
+   "Les récepteurs inhibiteurs des NK reconnaissent le CMH de classe I",
+   "En présence du CMH I du soi, la lyse est inhibée",
+   "La perte d'expression du CMH I rend la cellule vulnérable aux NK",
+   "Les NK tuent préférentiellement les cellules exprimant normalement le CMH I",
+   "Les NK sont activés par les molécules CMH de classe II"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : KIR et CLIR ont pour ligands les molécules du CMH I.",
+   "Vrai : le signal négatif transmis empêche les récepteurs activateurs d'agir.",
+   "Vrai : la disparition du CMH I lève l'inhibition et déclenche la lyse.",
+   "Faux : l'expression normale du CMH I protège du « missing self ».",
+   "Faux : le CMH II est le ligand du CD4 des LT helper, non des NK."
+  ]
+ },
+ {
+  "q": "Concernant les différences entre cellules NK et lymphocytes T cytotoxiques, quelles propositions sont exactes ?",
+  "options": [
+   "Les NK appartiennent à l'immunité innée et agissent sans sensibilisation préalable",
+   "Les LT cytotoxiques appartiennent à l'immunité adaptative et sont spécifiques",
+   "Les NK n'expriment pas de TCR",
+   "Les deux types cellulaires libèrent perforines et granzymes",
+   "Les NK produisent des anticorps cytotoxiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les NK tuent sans exposition antigénique préalable.",
+   "Vrai : les LTc reconnaissent spécifiquement l'antigène présenté par le CMH I.",
+   "Vrai : l'absence de TCR est un marqueur distinctif des NK.",
+   "Vrai : perforines et granzymes sont leurs armes cytotoxiques communes.",
+   "Faux : les NK ne produisent aucun anticorps."
+  ]
+ },
+ {
+  "q": "Concernant le CD16 des cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "Le CD16 est le FcγRIII",
+   "C'est un récepteur du fragment Fc des immunoglobulines",
+   "Il marque la population NK majoritaire (90 %), fortement cytotoxique",
+   "Il permet la cytotoxicité dépendante des anticorps (ADCC)",
+   "C'est un récepteur du complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le CD16 correspond au récepteur FcγRIII.",
+   "Vrai : il lie le fragment Fc des IgG fixées sur la cible.",
+   "Vrai : les NK CD16+++ (90 %) sont les plus cytotoxiques.",
+   "Vrai : via le CD16, les NK lysent les cibles opsonisées par les anticorps.",
+   "Faux : les récepteurs du complément sont les CR (CR1, CR2, CR4)."
+  ]
+ },
+ {
+  "q": "Concernant la localisation des cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "On les trouve dans le sang (5 à 10 % des lymphocytes)",
+   "On les trouve dans la moelle osseuse",
+   "On les trouve dans la rate",
+   "On les trouve dans certaines muqueuses, comme la muqueuse urogénitale",
+   "Elles sont localisées exclusivement dans les ganglions lymphatiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les NK représentent 5 à 10 % des lymphocytes sanguins.",
+   "Vrai : la moelle osseuse est un site de localisation des NK.",
+   "Vrai : la rate héberge des cellules NK.",
+   "Vrai : certaines muqueuses (urogénitale) contiennent des NK.",
+   "Faux : les NK sont largement distribués (sang, MO, rate, muqueuses)."
+  ]
+ },
+ {
+  "q": "Concernant les granulations des cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "Elles contiennent de la perforine",
+   "Elles contiennent des granzymes",
+   "Elles donnent aux NK l'aspect de LGL (Large Granular Lymphocyte)",
+   "Elles sont libérées lors de la cytotoxicité directe",
+   "Elles contiennent de l'histamine préformée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la perforine est stockée dans les granules cytotoxiques.",
+   "Vrai : les granzymes sont les protéases cytotoxiques des granules.",
+   "Vrai : ces granulations font des NK des « larges lymphocytes granuleux ».",
+   "Vrai : la dégranulation polarisée libère perforine et granzymes vers la cible.",
+   "Faux : l'histamine est stockée dans les mastocytes et les basophiles."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines produites par les cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "Les NK sécrètent de l'interféron (IFN)",
+   "L'IFN des NK participe à l'élimination des cellules infectées",
+   "L'IFN est une cytokine de l'immunité innée",
+   "Les NK sécrètent des immunoglobulines",
+   "L'IFN est une anaphylatoxine du complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les NK activés produisent de l'IFN.",
+   "Vrai : l'IFN induit l'apoptose des cellules infectées (cytotoxicité indirecte).",
+   "Vrai : l'IFN figure parmi les cytokines de l'immunité innée.",
+   "Faux : les NK ne produisent pas d'immunoglobulines.",
+   "Faux : les anaphylatoxines sont C3a, C4a et C5a."
+  ]
+ },
+ {
+  "q": "Concernant le rôle de première ligne des cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "Elles défendent contre les cellules infectées par les virus",
+   "Elles défendent contre les cellules tumorales",
+   "Elles agissent avant l'intervention des lymphocytes T cytotoxiques",
+   "Elles agissent uniquement contre les bactéries extracellulaires",
+   "Elles interviennent après la mise en place de la réponse adaptative"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les NK lysent les cellules dont le CMH I est altéré par l'infection virale.",
+   "Vrai : les cellules tumorales ayant perdu le CMH I sont des cibles des NK.",
+   "Vrai : les NK, innés, agissent avant les LTc qui nécessitent une activation.",
+   "Faux : les NK ciblent les cellules infectées ou tumorales, non les bactéries libres.",
+   "Faux : les NK sont des effecteurs précoces de l'immunité innée."
+  ]
+ },
+ {
+  "q": "Concernant l'équilibre entre signaux activateurs et inhibiteurs des NK, quelles propositions sont exactes ?",
+  "options": [
+   "La lyse résulte de la balance entre signaux activateurs et inhibiteurs",
+   "Un excès de signaux activateurs déclenche la lyse de la cible",
+   "Le CMH I du soi fait pencher la balance vers l'inhibition",
+   "Les NK lysent leurs cibles sans aucun mécanisme de contrôle",
+   "Seuls des signaux activateurs existent à la surface des NK"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'intégration des signaux KAR et KIR/CLIR décide du déclenchement de la lyse.",
+   "Vrai : la prédominance des signaux activateurs aboutit à la cytotoxicité.",
+   "Vrai : la reconnaissance du CMH I du soi transmet un signal négatif protecteur.",
+   "Faux : les récepteurs inhibiteurs contrôlent étroitement l'activité lytique.",
+   "Faux : les NK portent aussi des récepteurs inhibiteurs (KIR, CLIR)."
+  ]
+ },
+ {
+  "q": "Concernant les cellules dendritiques (DC), quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont présentes dans tous les tissus",
+   "Elles représentent 0,3 % des cellules du sang",
+   "Elles représentent 2 à 3 % des cellules des organes lymphoïdes",
+   "La DC immature assure la capture de l'antigène",
+   "La DC mature phagocyte mieux que la DC immature"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les DC sont des sentinelles distribuées dans tous les tissus.",
+   "Vrai : elles sont rares dans le sang (0,3 % des cellules).",
+   "Vrai : elles représentent 2 à 3 % des cellules des organes lymphoïdes.",
+   "Vrai : la capture de l'antigène est la fonction de la DC immature.",
+   "Faux : la DC mature perd sa capacité de capture au profit de la présentation."
+  ]
+ },
+ {
+  "q": "Concernant le rôle des DC dans l'initiation de l'immunité adaptative, quelles propositions sont exactes ?",
+  "options": [
+   "Les DC tissulaires phagocytent l'agent pathogène",
+   "Elles augmentent l'expression des molécules CMH de classe II",
+   "Elles augmentent l'expression des molécules de costimulation (B7)",
+   "Matures, elles migrent vers les ganglions et présentent l'antigène apprêté aux LT",
+   "Elles présentent l'antigène uniquement aux lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les DC résiduelles tissulaires phagocytent l'agent pathogène.",
+   "Vrai : la maturation s'accompagne d'une surexpression du CMH II.",
+   "Vrai : les molécules de costimulation B7 sont induites lors de la maturation.",
+   "Vrai : les DC matures migrent vers les ganglions régionaux pour présenter l'Ag aux LT.",
+   "Faux : les DC présentent l'antigène aux lymphocytes T immunocompétents."
+  ]
+ },
+ {
+  "q": "Concernant les DC en tant que cellules présentatrices d'antigène, quelles propositions sont exactes ?",
+  "options": [
+   "Elles expriment les molécules CMH de classe II",
+   "Elles expriment B7-1 (CD80), B7-2 (CD86) et CD40",
+   "Ce sont les plus puissantes cellules présentatrices d'antigène",
+   "Elles migrent par le sang ou la lymphe vers les organes lymphoïdes",
+   "Elles ne jouent aucun rôle dans l'initiation de la réponse adaptative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le CMH II permet la présentation aux LT CD4+.",
+   "Vrai : B7-1, B7-2 et CD40 sont leurs molécules de costimulation.",
+   "Vrai : les DC sont décrites comme de puissantes CPA.",
+   "Vrai : elles gagnent les organes lymphoïdes par voie sanguine ou lymphatique.",
+   "Faux : elles déclenchent la réponse immunitaire adaptative."
+  ]
+ },
+ {
+  "q": "Concernant la maturation des cellules dendritiques, quelles propositions sont exactes ?",
+  "options": [
+   "La DC immature capture efficacement l'antigène",
+   "La DC mature présente efficacement l'antigène",
+   "La maturation s'accompagne d'une migration vers les ganglions",
+   "La DC mature privilégie la présentation au détriment de la capture",
+   "La maturation diminue l'expression des molécules CMH de classe II"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la capture est la fonction dominante de la DC immature tissulaire.",
+   "Vrai : la présentation aux lymphocytes est la fonction de la DC mature.",
+   "Vrai : les DC matures migrent vers les ganglions régionaux.",
+   "Vrai : maturation = perte de la phagocytose au profit de la présentation.",
+   "Faux : la maturation augmente l'expression du CMH II et de B7."
+  ]
+ },
+ {
+  "q": "Concernant les DC tissulaires résiduelles après une agression, quelles propositions sont exactes ?",
+  "options": [
+   "Elles ont phagocyté l'agent pathogène dans les tissus",
+   "Elles augmentent l'expression des molécules de costimulation",
+   "Elles présentent l'antigène apprêté aux lymphocytes T",
+   "Elles restent immobiles dans les tissus périphériques",
+   "Elles se différencient en plasmocytes sécréteurs d'anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les DC résiduelles tissulaires phagocytent l'agent pathogène.",
+   "Vrai : la maturation induit B7 et CD40.",
+   "Vrai : elles présentent l'Ag apprêté aux LT immunocompétents dans les ganglions.",
+   "Faux : les DC matures migrent vers les ganglions régionaux.",
+   "Faux : les plasmocytes dérivent des lymphocytes B, non des DC."
+  ]
+ },
+ {
+  "q": "Concernant l'apprêtement de l'antigène par les DC, quelles propositions sont exactes ?",
+  "options": [
+   "L'antigène est dégradé puis présenté sous forme de peptides",
+   "Les peptides sont associés aux molécules CMH de classe II",
+   "Le complexe est reconnu par les lymphocytes T CD4+",
+   "L'antigène est présenté sous forme native non dégradée",
+   "L'apprêtement est assuré uniquement par les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'Ag phagocyté est dégradé en peptides avant présentation.",
+   "Vrai : les DC présentent via les molécules CMH de classe II.",
+   "Vrai : le CMH II présente aux LT CD4+ helper.",
+   "Faux : l'apprêtement suppose une dégradation protéolytique préalable.",
+   "Faux : les DC sont les CPA les plus puissantes pour l'apprêtement."
+  ]
+ },
+ {
+  "q": "Concernant la migration des cellules présentatrices d'antigène, quelles propositions sont exactes ?",
+  "options": [
+   "Les DC matures migrent vers les ganglions lymphatiques régionaux",
+   "L'activation des TLR augmente la capacité de migration des CPA",
+   "La migration s'effectue par voie lymphatique ou sanguine",
+   "Les DC migrent vers la moelle osseuse pour présenter l'antigène",
+   "La migration des CPA est inutile à la réponse adaptative"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les DC matures gagnent les ganglions régionaux.",
+   "Vrai : le complexe ligand-TLR augmente la migration des CPA vers les ganglions.",
+   "Vrai : sang et lymphe sont les voies de migration des DC.",
+   "Faux : la présentation aux LT a lieu dans les ganglions, non dans la moelle.",
+   "Faux : cette migration est indispensable à l'initiation de l'adaptatif."
+  ]
+ },
+ {
+  "q": "Concernant les DC et les macrophages, quelles propositions sont exactes ?",
+  "options": [
+   "Les deux sont des cellules présentatrices d'antigène",
+   "Les deux expriment le CMH II et les molécules de costimulation B7",
+   "La DC est la plus puissante des cellules présentatrices d'antigène",
+   "Les macrophages ne sont pas capables de phagocytose",
+   "Les DC ne sécrètent aucune cytokine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : DC et macrophages sont des CPA.",
+   "Vrai : CMH II, B7-1/CD80, B7-2/CD86 et CD40 sont leurs marqueurs communs.",
+   "Vrai : les DC sont décrites comme de puissantes CPA.",
+   "Faux : la phagocytose est une fonction principale des macrophages.",
+   "Faux : les DC activées sécrètent des chimiokines."
+  ]
+ },
+ {
+  "q": "Concernant les molécules de costimulation des CPA, quelles propositions sont exactes ?",
+  "options": [
+   "B7-1 correspond au CD80",
+   "B7-2 correspond au CD86",
+   "CD40 est une molécule de costimulation",
+   "Elles sont nécessaires à l'activation des lymphocytes T",
+   "Elles sont exprimées uniquement par les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : B7-1 (CD80) est exprimée par les CPA (macrophages, DC).",
+   "Vrai : B7-2 (CD86) est exprimée par les CPA.",
+   "Vrai : CD40 participe à la costimulation.",
+   "Vrai : sans costimulation, la présentation antigénique n'active pas le LT.",
+   "Faux : elles sont exprimées par les CPA (DC, macrophages), pas seulement les LB."
+  ]
+ },
+ {
+  "q": "Concernant les DC et la réaction inflammatoire, quelles propositions sont exactes ?",
+  "options": [
+   "Les DC activées sécrètent des chimiokines",
+   "Elles participent au recrutement des cellules de l'inflammation",
+   "Elles contribuent au déclenchement de la réaction inflammatoire",
+   "Les DC sont insensibles aux PAMP",
+   "Les DC n'expriment pas de récepteurs Toll-like"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : macrophages et DC activés produisent des chimiokines.",
+   "Vrai : l'activation des TLR recrute les cellules de l'inflammation.",
+   "Vrai : les DC participent à l'initiation de l'inflammation.",
+   "Faux : les DC expriment des TLR qui reconnaissent les PAMP.",
+   "Faux : les DC figurent parmi les cellules exprimant les TLR."
+  ]
+ },
+ {
+  "q": "Concernant l'initiation de l'immunité adaptative par les DC, quelles propositions sont exactes ?",
+  "options": [
+   "Les DC déclenchent la réponse immunitaire adaptative",
+   "La présentation a lieu dans les ganglions régionaux aux LT immunocompétents",
+   "Les DC constituent le lien entre immunité innée et immunité adaptative",
+   "Les DC produisent les anticorps de la réponse humorale",
+   "L'activation des LT se fait dans les tissus périphériques sans migration des DC"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les DC matures déclenchent la réponse adaptative.",
+   "Vrai : elles présentent l'Ag apprêté aux LT dans les ganglions régionaux.",
+   "Vrai : sentinelles de l'inné devenant initiatrices de l'adaptatif, elles font le lien.",
+   "Faux : les anticorps sont produits par les plasmocytes.",
+   "Faux : les DC doivent migrer vers les ganglions pour rencontrer les LT."
+  ]
+ },
+ {
+  "q": "Concernant la représentation quantitative des DC, quelles propositions sont exactes ?",
+  "options": [
+   "Elles représentent 0,3 % des cellules du sang",
+   "Elles représentent 2 à 3 % des cellules des organes lymphoïdes",
+   "C'est une population rare mais très puissante",
+   "Elles sont majoritaires parmi les cellules du sang",
+   "Elles sont absentes des tissus périphériques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les DC sont rares dans le sang (0,3 %).",
+   "Vrai : elles représentent 2 à 3 % des cellules des organes lymphoïdes.",
+   "Vrai : malgré leur rareté, ce sont les plus puissantes CPA.",
+   "Faux : elles ne représentent qu'une infime fraction des cellules sanguines.",
+   "Faux : elles sont présentes dans tous les tissus."
+  ]
+ },
+ {
+  "q": "Concernant les peptides antimicrobiens, quelles propositions sont exactes ?",
+  "options": [
+   "On en dénombre environ 800",
+   "Ils sont composés de 6 à 59 acides aminés",
+   "Ils sont sécrétés principalement par les PNN et les cellules épithéliales du pancréas et du rein",
+   "Leur action est rapide (quelques minutes) contre une grande variété d'agents pathogènes",
+   "Ils nécessitent plusieurs jours pour exercer leur activité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : environ 800 peptides antimicrobiens sont décrits.",
+   "Vrai : ce sont de petits peptides de 6 à 59 acides aminés.",
+   "Vrai : PNN (+++) et cellules épithéliales du pancréas et du rein les sécrètent.",
+   "Vrai : ils tuent rapidement une grande variété d'agents pathogènes.",
+   "Faux : leur action se compte en minutes, propre de l'immunité innée."
+  ]
+ },
+ {
+  "q": "Concernant les mécanismes d'action des peptides antimicrobiens, quelles propositions sont exactes ?",
+  "options": [
+   "Déstabilisation des membranes des agents pathogènes",
+   "Inhibition de la synthèse d'ADN, d'ARN et de protéines microbiennes",
+   "Activation d'enzymes antimicrobiennes",
+   "Opsonisation des bactéries par le C3b",
+   "Production d'anticorps neutralisants"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les peptides antimicrobiens déstabilisent les membranes microbiennes.",
+   "Vrai : ils inhibent les synthèses d'acides nucléiques et de protéines des microbes.",
+   "Vrai : ils activent des enzymes à activité antimicrobienne.",
+   "Faux : l'opsonisation par le C3b relève du système du complément.",
+   "Faux : les anticorps sont produits par les plasmocytes (adaptatif)."
+  ]
+ },
+ {
+  "q": "Concernant les lectines et la MBL, quelles propositions sont exactes ?",
+  "options": [
+   "Les lectines reconnaissent des oses bactériens : mannose, fucose, galactose",
+   "La MBL (mannose binding lectin) se fixe sur l'agent pathogène",
+   "La MBL active le complément par la voie des lectines",
+   "La MBL est l'équivalent du C1q de la voie classique",
+   "La MBL reconnaît les complexes antigène-anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les lectines lient des résidus osidiques des parois bactériennes.",
+   "Vrai : la MBL se fixe sur les motifs mannose de l'agent pathogène.",
+   "Vrai : la fixation de la MBL déclenche la voie des lectines du complément.",
+   "Vrai : la MBL est décrite comme l'équivalent du C1q.",
+   "Faux : la MBL reconnaît directement le pathogène, sans anticorps."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs de la famille des pentraxines, quelles propositions sont exactes ?",
+  "options": [
+   "Ils sont produits par le foie en réponse à une infection",
+   "La protéine C réactive (CRP) en est le principal représentant",
+   "Le sérum amyloïde P (SAP) en fait partie",
+   "La pentraxine 3 (PTX3) en fait partie",
+   "Ils sont synthétisés par les plasmocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les pentraxines sont des protéines de la phase aiguë produites par le foie.",
+   "Vrai : la CRP est la pentraxine la plus connue.",
+   "Vrai : le SAP est l'un des trois principaux récepteurs de cette famille.",
+   "Vrai : la PTX3 complète la famille des pentraxines.",
+   "Faux : les plasmocytes produisent des immunoglobulines, non des pentraxines."
+  ]
+ },
+ {
+  "q": "Concernant les ligands reconnus par les pentraxines, quelles propositions sont exactes ?",
+  "options": [
+   "Des composants glucidiques (polysaccharides) de surface des pathogènes",
+   "Des composants lipidiques (phosphorylcholines)",
+   "Des motifs présents à la surface de nombreux agents pathogènes",
+   "Des motifs peptidiques uniques à chaque souche bactérienne",
+   "Les fragments Fc des immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les pentraxines reconnaissent des polysaccharides microbiens.",
+   "Vrai : les phosphorylcholines sont des ligands lipidiques des pentraxines.",
+   "Vrai : ces motifs sont partagés par de nombreux agents pathogènes.",
+   "Faux : les pentraxines reconnaissent des motifs communs, non uniques.",
+   "Faux : le fragment Fc est reconnu par les récepteurs Fc, non les pentraxines."
+  ]
+ },
+ {
+  "q": "Concernant la production des molécules solubles de l'immunité innée, quelles propositions sont exactes ?",
+  "options": [
+   "Les peptides antimicrobiens sont produits localement",
+   "Les interférons (IFN) sont produits localement",
+   "Les protéines du complément parviennent au site par voie sanguine",
+   "Les pentraxines parviennent au site d'agression par voie sanguine",
+   "Les pentraxines sont produites localement par les PNN"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : peptides antimicrobiens et IFN sont sécrétés au site de l'agression.",
+   "Vrai : l'IFN fait partie des molécules solubles produites localement.",
+   "Vrai : le complément, protéine sérique, gagne le site par le sang.",
+   "Vrai : les pentraxines hépatiques parviennent au site par voie sanguine.",
+   "Faux : les pentraxines sont produites par le foie, à distance du site."
+  ]
+ },
+ {
+  "q": "Concernant les défensines et les cathélicidines, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des familles de peptides antimicrobiens",
+   "Elles sont sécrétées par les PNN et les cellules épithéliales",
+   "Leur action antimicrobienne est rapide",
+   "Ce sont des immunoglobulines",
+   "Elles nécessitent l'activation du complément pour agir"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : défensines et cathélicidines sont des peptides antimicrobiens.",
+   "Vrai : PNN et cellules épithéliales en sont les principales sources.",
+   "Vrai : elles tuent les pathogènes en quelques minutes.",
+   "Faux : ce sont des peptides innés, non des anticorps.",
+   "Faux : elles agissent directement, indépendamment du complément."
+  ]
+ },
+ {
+  "q": "Concernant la protéine C réactive (CRP), quelles propositions sont exactes ?",
+  "options": [
+   "C'est une pentraxine",
+   "C'est une protéine de la phase aiguë de l'infection",
+   "Elle est produite par le foie",
+   "Elle peut activer la voie classique du complément",
+   "C'est un anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la CRP appartient à la famille des pentraxines.",
+   "Vrai : la CRP est la protéine de la phase aiguë la plus connue.",
+   "Vrai : le foie la produit en réponse à l'infection.",
+   "Vrai : la CRP figure parmi les activateurs de la voie classique.",
+   "Faux : la CRP est une protéine innée, non une immunoglobuline."
+  ]
+ },
+ {
+  "q": "Concernant les interférons parmi les molécules solubles de l'inné, quelles propositions sont exactes ?",
+  "options": [
+   "Ils sont produits localement au site de l'agression",
+   "Ils font partie des molécules solubles de l'immunité innée",
+   "L'IFNβ est une cytokine de l'immunité innée",
+   "Ils sont stockés en grande quantité dans les cellules au repos",
+   "Ils sont produits uniquement par les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'IFN est sécrété localement lors de l'agression.",
+   "Vrai : l'IFN figure parmi les molécules solubles de l'immunité innée.",
+   "Vrai : l'IFNβ est classé parmi les cytokines de l'immunité innée.",
+   "Faux : les cytokines ne sont pas stockées ; leur synthèse est induite.",
+   "Faux : l'IFN est produit par de nombreuses cellules, non les seuls LB."
+  ]
+ },
+ {
+  "q": "Concernant les rôles des molécules solubles de l'immunité innée, quelles propositions sont exactes ?",
+  "options": [
+   "Tuer directement les agents pathogènes (peptides antimicrobiens)",
+   "Opsoniser les pathogènes pour faciliter leur phagocytose (complément)",
+   "Activer la réaction inflammatoire (anaphylatoxines)",
+   "Reconnaître les motifs microbiens (MBL, CRP)",
+   "Produire des anticorps spécifiques contre l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les peptides antimicrobiens tuent directement les microbes.",
+   "Vrai : le C3b opsonise et facilite la phagocytose.",
+   "Vrai : C3a, C4a et C5a déclenchent l'inflammation.",
+   "Vrai : MBL et CRP sont des récepteurs solubles de motifs microbiens.",
+   "Faux : les anticorps sont produits par les plasmocytes (adaptatif)."
+  ]
+ },
+ {
+  "q": "Concernant les molécules parvenant au site d'agression par voie sanguine, quelles propositions sont exactes ?",
+  "options": [
+   "Les protéines du complément",
+   "Les pentraxines (CRP, SAP, PTX3)",
+   "Elles sont produites à distance puis véhiculées par le sang",
+   "Les peptides antimicrobiens y circulent à forte concentration",
+   "L'interféron n'agit qu'à distance par voie sanguine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le complément est un ensemble de protéines sériques.",
+   "Vrai : les pentraxines hépatiques gagnent le site par le sang.",
+   "Vrai : ces molécules sont synthétisées à distance de l'agression.",
+   "Faux : les peptides antimicrobiens sont produits localement.",
+   "Faux : l'IFN est produit localement au site de l'agression."
+  ]
+ },
+ {
+  "q": "Concernant les lectines de l'immunité innée, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des récepteurs solubles de l'immunité innée",
+   "Elles reconnaissent des oses bactériens (mannose, fucose, galactose)",
+   "La MBL est la lectine liant le mannose",
+   "La fixation de la MBL active le complément",
+   "Ce sont des anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les lectines comme la MBL sont des récepteurs solubles innés.",
+   "Vrai : elles lient des résidus osidiques des parois bactériennes.",
+   "Vrai : MBL signifie « mannose binding lectin ».",
+   "Vrai : la MBL fixée déclenche la voie des lectines du complément.",
+   "Faux : les lectines sont des protéines innées, non des immunoglobulines."
+  ]
+ },
+ {
+  "q": "Concernant le sérum amyloïde P (SAP), quelles propositions sont exactes ?",
+  "options": [
+   "C'est une pentraxine",
+   "Il est produit par le foie en réponse à une infection",
+   "Il reconnaît des composants glucidiques ou lipidiques des pathogènes",
+   "C'est une protéine de la phase aiguë",
+   "C'est une immunoglobuline"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le SAP appartient à la famille des pentraxines.",
+   "Vrai : comme les autres pentraxines, il est d'origine hépatique.",
+   "Vrai : il lie polysaccharides et phosphorylcholines microbiens.",
+   "Vrai : les pentraxines sont des protéines de la phase aiguë.",
+   "Faux : le SAP n'est pas un anticorps."
+  ]
+ },
+ {
+  "q": "Concernant la pentraxine 3 (PTX3), quelles propositions sont exactes ?",
+  "options": [
+   "C'est un récepteur de la famille des pentraxines",
+   "Elle est produite en réponse à une infection",
+   "Elle reconnaît des motifs présents à la surface des pathogènes",
+   "Elle appartient aux protéines de la phase aiguë de l'infection",
+   "C'est un récepteur membranaire des lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la PTX3 est l'un des trois principaux récepteurs pentraxines.",
+   "Vrai : sa production est induite par l'infection.",
+   "Vrai : elle reconnaît des composants microbiens de surface.",
+   "Vrai : les pentraxines sont des protéines de la phase aiguë.",
+   "Faux : la PTX3 est une molécule soluble, non un récepteur membranaire."
+  ]
+ },
+ {
+  "q": "Concernant l'activité des peptides antimicrobiens, quelles propositions sont exactes ?",
+  "options": [
+   "Ils tuent une grande variété d'agents pathogènes",
+   "Ils sont composés de 6 à 59 acides aminés",
+   "Les PNN en sont les principaux producteurs",
+   "Leur action se compte en quelques minutes",
+   "Ils sont spécifiques d'un seul agent pathogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ils ont un large spectre antimicrobien.",
+   "Vrai : ce sont de petits peptides de 6 à 59 acides aminés.",
+   "Vrai : les PNN (+++) sont leur principale source.",
+   "Vrai : leur rapidité d'action est caractéristique de l'inné.",
+   "Faux : ils sont peu spécifiques et actifs contre de nombreux pathogènes."
+  ]
+ },
+ {
+  "q": "Concernant le complément en tant que molécule soluble de l'inné, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un ensemble de protéines sériques circulant à l'état inactif",
+   "Ses protéines s'activent en cascade",
+   "Il parvient au site d'agression par voie sanguine",
+   "Il aboutit à la formation du complexe d'attaque membranaire",
+   "Il est stocké dans les granules des polynucléaires neutrophiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : plus de 30 protéines sériques inactives composent le complément.",
+   "Vrai : l'activation en cascade est son mode de fonctionnement.",
+   "Vrai : protéine sérique, il gagne le site inflammatoire par le sang.",
+   "Vrai : le CAM est l'aboutissement lytique de son activation.",
+   "Faux : les granules des PNN contiennent enzymes et peptides antimicrobiens."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs Toll-like (TLR), quelles propositions sont exactes ?",
+  "options": [
+   "Il existe 11 TLR, de TLR1 à TLR11",
+   "TLR1, TLR2, TLR4, TLR5, TLR6, TLR10 et TLR11 sont membranaires",
+   "TLR3, TLR7, TLR8 et TLR9 sont endosomaux (intracytoplasmiques)",
+   "Tous les TLR sont exprimés à la surface cellulaire",
+   "Il n'existe que 4 TLR chez l'homme"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la famille des TLR compte 11 membres.",
+   "Vrai : ces 7 TLR sont exprimés sur la membrane des cellules.",
+   "Vrai : ces 4 TLR sont localisés dans l'endosome.",
+   "Faux : TLR3, 7, 8 et 9 sont intracellulaires, non membranaires.",
+   "Faux : on dénombre 11 TLR."
+  ]
+ },
+ {
+  "q": "Quelles cellules immunitaires expriment les récepteurs Toll-like ?",
+  "options": [
+   "Les macrophages",
+   "Les cellules dendritiques",
+   "Les cellules NK",
+   "Les polynucléaires neutrophiles",
+   "Les érythrocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les macrophages expriment les TLR.",
+   "Vrai : les DC expriment les TLR.",
+   "Vrai : les NK expriment les TLR.",
+   "Vrai : les PNN (et PNE) expriment les TLR.",
+   "Faux : les érythrocytes, sans noyau, n'expriment pas de TLR."
+  ]
+ },
+ {
+  "q": "Quelles cellules non immunitaires expriment les récepteurs Toll-like ?",
+  "options": [
+   "Les fibroblastes",
+   "Les synoviocytes",
+   "Les kératinocytes",
+   "Les cellules épithéliales intestinales, respiratoires et urogénitales",
+   "Les TLR ne sont exprimés que par les cellules immunitaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les fibroblastes expriment des TLR.",
+   "Vrai : les synoviocytes expriment des TLR.",
+   "Vrai : les kératinocytes expriment des TLR.",
+   "Vrai : les cellules épithéliales des muqueuses expriment des TLR.",
+   "Faux : de nombreuses cellules non immunes expriment aussi des TLR."
+  ]
+ },
+ {
+  "q": "Concernant la structure des récepteurs Toll-like, quelles propositions sont exactes ?",
+  "options": [
+   "Ils comportent 3 domaines",
+   "Le domaine extracellulaire, riche en leucine (LRR), assure la reconnaissance",
+   "Le domaine transmembranaire traverse la membrane cellulaire",
+   "Le domaine cytoplasmique TIR (Toll/IL-1R) assure la transduction du signal",
+   "Le domaine TIR assure la reconnaissance de l'agent pathogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : extracellulaire, transmembranaire et cytoplasmique.",
+   "Vrai : le LRR (Leucine Rich Repeats) reconnaît le ligand.",
+   "Vrai : un segment transmembranaire ancre le récepteur.",
+   "Vrai : le domaine TIR transmet le signal vers l'intérieur cellulaire.",
+   "Faux : la reconnaissance est le fait du domaine extracellulaire LRR."
+  ]
+ },
+ {
+  "q": "Concernant le domaine extracellulaire des TLR, quelles propositions sont exactes ?",
+  "options": [
+   "Il est riche en leucine (LRR : Leucine Rich Repeats)",
+   "Il est responsable de la reconnaissance de l'agent pathogène",
+   "Il est situé à l'extérieur de la cellule (ou dans la lumière endosomale)",
+   "Il transmet le signal vers l'intérieur de la cellule",
+   "Il est situé dans le cytoplasme"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les répétitions riches en leucine caractérisent ce domaine.",
+   "Vrai : le LRR lie le PAMP et assure la reconnaissance.",
+   "Vrai : c'est le domaine de liaison au ligand, extracellulaire.",
+   "Faux : la transduction du signal est assurée par le domaine TIR.",
+   "Faux : le domaine cytoplasmique est le TIR."
+  ]
+ },
+ {
+  "q": "Concernant le domaine cytoplasmique TIR des TLR, quelles propositions sont exactes ?",
+  "options": [
+   "TIR signifie Toll/IL-1R",
+   "Il est situé dans le cytoplasme",
+   "Il est responsable de la transduction du signal",
+   "Il assure la reconnaissance du ligand microbien",
+   "Il est extracellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : TIR = domaine Toll / récepteur de l'IL-1.",
+   "Vrai : c'est le domaine intracellulaire du TLR.",
+   "Vrai : il transmet le signal d'activation vers la cellule.",
+   "Faux : la reconnaissance est assurée par le domaine LRR extracellulaire.",
+   "Faux : le domaine extracellulaire est le LRR."
+  ]
+ },
+ {
+  "q": "Concernant les PAMP, ligands des TLR, quelles propositions sont exactes ?",
+  "options": [
+   "Ils sont absents des cellules de l'hôte",
+   "Ils sont communs à de nombreuses espèces d'agents pathogènes",
+   "Ils sont essentiels à la survie des microorganismes",
+   "Ils sont uniques à chaque souche bactérienne",
+   "Ils sont présents à l'état normal dans les cellules de l'hôte"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les PAMP (motifs moléculaires associés aux pathogènes) n'existent pas chez l'hôte.",
+   "Vrai : ce sont des motifs partagés par de nombreuses espèces microbiennes.",
+   "Vrai : leur caractère indispensable limite l'échappement microbien.",
+   "Faux : ils sont au contraire partagés par de nombreuses espèces.",
+   "Faux : leur absence des cellules de l'hôte fonde la distinction soi/non-soi."
+  ]
+ },
+ {
+  "q": "Concernant les ligands des différents TLR, quelles propositions sont exactes ?",
+  "options": [
+   "TLR2 : lipoprotéines des bactéries",
+   "TLR4 : LPS bactériens",
+   "TLR7 et TLR8 : ARN simple brin des virus à ARN",
+   "TLR9 : ADN",
+   "TLR4 : ARN double brin viral"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le TLR2 reconnaît les lipoprotéines bactériennes.",
+   "Vrai : le TLR4 reconnaît le lipopolysaccharide bactérien.",
+   "Vrai : TLR7 et TLR8 reconnaissent l'ARNsb des virus à ARN.",
+   "Vrai : le TLR9 reconnaît l'ADN (bactérien/viral).",
+   "Faux : l'ARN double brin est reconnu par le TLR3 endosomal."
+  ]
+ },
+ {
+  "q": "Concernant les TLR endosomaux, quelles propositions sont exactes ?",
+  "options": [
+   "Ils reconnaissent des acides nucléiques microbiens",
+   "Il s'agit de TLR3, TLR7, TLR8 et TLR9",
+   "Ils sont localisés dans l'endosome (intracytoplasmiques)",
+   "Ils sont exposés à la surface cellulaire",
+   "Ils reconnaissent le LPS bactérien"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les TLR endosomaux détectent ADN et ARN microbiens.",
+   "Vrai : TLR3, 7, 8 et 9 sont les TLR intracellulaires.",
+   "Vrai : leur localisation endosomale les met au contact des acides nucléiques.",
+   "Faux : ils sont intracytoplasmiques, non membranaires.",
+   "Faux : le LPS est reconnu par le TLR4 membranaire."
+  ]
+ },
+ {
+  "q": "Concernant les TLR membranaires, quelles propositions sont exactes ?",
+  "options": [
+   "Il s'agit de TLR1, TLR2, TLR4, TLR5, TLR6, TLR10 et TLR11",
+   "Ils reconnaissent des composants pariétaux bactériens",
+   "Ils sont exprimés à la surface des cellules",
+   "Ils sont localisés dans l'endosome",
+   "TLR9 fait partie des TLR membranaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ces 7 TLR sont exprimés sur la membrane cellulaire.",
+   "Vrai : ils détectent lipoprotéines, LPS et autres composants de paroi.",
+   "Vrai : leur domaine LRR est exposé au milieu extracellulaire.",
+   "Faux : les TLR endosomaux sont TLR3, 7, 8 et 9.",
+   "Faux : le TLR9 est un TLR endosomal."
+  ]
+ },
+ {
+  "q": "Concernant les DAMP, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des molécules endogènes qui signalent un danger",
+   "Elles sont libérées au cours des lésions cellulaires",
+   "Elles peuvent activer les récepteurs de l'immunité innée",
+   "Ce sont des PAMP d'origine bactérienne",
+   "Elles sont reconnues uniquement par l'immunité adaptative"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : DAMP = motifs moléculaires associés aux dégâts, d'origine endogène.",
+   "Vrai : la souffrance cellulaire libère ces signaux de danger.",
+   "Vrai : les DAMP activent les PRR et déclenchent l'inflammation stérile.",
+   "Faux : les PAMP sont d'origine microbienne, les DAMP d'origine endogène.",
+   "Faux : les DAMP sont reconnues par les PRR de l'immunité innée."
+  ]
+ },
+ {
+  "q": "Concernant les fonctions du complexe ligand-TLR, quelles propositions sont exactes ?",
+  "options": [
+   "Il augmente la fonction de présentation de l'antigène par les CPA",
+   "Il augmente la capacité de migration des CPA vers les ganglions",
+   "Il active et recrute les cellules de l'inflammation",
+   "Il induit la formation de molécules chimiotactiques et d'adhésion",
+   "Il inhibe toute réponse inflammatoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la signalisation TLR renforce la présentation antigénique.",
+   "Vrai : elle favorise la migration des CPA vers les ganglions.",
+   "Vrai : elle active et recrute les cellules de l'inflammation.",
+   "Vrai : chimiokines et molécules d'adhésion sont induites sur cellules et endothélium.",
+   "Faux : le complexe ligand-TLR est pro-inflammatoire."
+  ]
+ },
+ {
+  "q": "Concernant les TLR et les cellules présentatrices d'antigène, quelles propositions sont exactes ?",
+  "options": [
+   "La signalisation TLR augmente la présentation de l'antigène",
+   "Elle favorise la migration des CPA vers les ganglions lymphatiques",
+   "Les cellules dendritiques expriment des TLR",
+   "Les TLR inhibent la maturation des cellules dendritiques",
+   "Les macrophages n'expriment pas de TLR"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'activation des TLR renforce la fonction de présentation.",
+   "Vrai : les CPA activées migrent vers les ganglions régionaux.",
+   "Vrai : les DC figurent parmi les cellules exprimant les TLR.",
+   "Faux : les TLR favorisent la maturation des DC.",
+   "Faux : les macrophages expriment les TLR."
+  ]
+ },
+ {
+  "q": "Concernant les chimiokines induites par l'activation des TLR, quelles propositions sont exactes ?",
+  "options": [
+   "Elles attirent les leucocytes vers le site inflammatoire",
+   "Elles sont produites après activation des récepteurs Toll-like",
+   "Les macrophages et les DC en sont des sources",
+   "Ce sont des anticorps",
+   "Elles inhibent le recrutement leucocytaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les chimiokines sont des cytokines chimio-attractantes.",
+   "Vrai : le complexe ligand-TLR induit leur formation.",
+   "Vrai : macrophages et DC activés sécrètent des chimiokines.",
+   "Faux : les chimiokines sont des cytokines, non des anticorps.",
+   "Faux : elles favorisent le recrutement des cellules sanguines."
+  ]
+ },
+ {
+  "q": "Concernant les molécules d'adhésion induites lors de l'inflammation, quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont induites sur les cellules sanguines et sur l'endothélium vasculaire",
+   "Elles participent au recrutement des leucocytes",
+   "ICAM signifie molécule d'adhésion intercellulaire",
+   "Elles empêchent la diapédèse des leucocytes",
+   "Elles sont exprimées uniquement sur les érythrocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'activation des TLR induit ces molécules sur cellules et endothélium.",
+   "Vrai : elles permettent l'arrêt et la transmigration des leucocytes.",
+   "Vrai : ICAM = InterCellular Adhesion Molecule.",
+   "Faux : elles sont indispensables à la diapédèse.",
+   "Faux : elles concernent leucocytes et cellules endothéliales."
+  ]
+ },
+ {
+  "q": "Concernant le couple TLR4/LPS, quelles propositions sont exactes ?",
+  "options": [
+   "Le LPS est un PAMP des bactéries à Gram négatif",
+   "Le LPS est reconnu par le TLR4",
+   "Le LPS est essentiel à la survie des bactéries qui le portent",
+   "Le LPS est présent dans les cellules de l'hôte",
+   "Le LPS est reconnu par le TLR9"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le lipopolysaccharide est un composant pariétal des Gram négatif.",
+   "Vrai : le TLR4 est le récepteur du LPS bactérien.",
+   "Vrai : comme tout PAMP, il est indispensable au microorganisme.",
+   "Faux : les PAMP sont absents des cellules de l'hôte.",
+   "Faux : le TLR9 reconnaît l'ADN, non le LPS."
+  ]
+ },
+ {
+  "q": "Concernant la reconnaissance de l'ADN microbien par le TLR9, quelles propositions sont exactes ?",
+  "options": [
+   "L'ADN bactérien/viral est un PAMP",
+   "Il est reconnu par le TLR9 endosomal",
+   "Sous cette forme, il est absent des cellules de l'hôte",
+   "Il est reconnu à la surface cellulaire",
+   "Il est reconnu par le TLR4"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'ADN microbien est un motif moléculaire associé aux pathogènes.",
+   "Vrai : le TLR9, endosomal, détecte l'ADN microbien.",
+   "Vrai : les PAMP sont absents des cellules de l'hôte.",
+   "Faux : le TLR9 est intracellulaire, dans l'endosome.",
+   "Faux : le TLR4 reconnaît le LPS bactérien."
+  ]
+ },
+ {
+  "q": "Concernant la reconnaissance de l'ARN viral, quelles propositions sont exactes ?",
+  "options": [
+   "L'ARN simple brin des virus à ARN est reconnu par TLR7 et TLR8",
+   "Cette reconnaissance a lieu dans l'endosome",
+   "L'ARN viral est un PAMP",
+   "L'ARN viral est reconnu par le TLR2",
+   "Cette reconnaissance a lieu à la surface cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : TLR7 et TLR8 sont les récepteurs de l'ARNsb viral.",
+   "Vrai : TLR7 et TLR8 sont des TLR endosomaux.",
+   "Vrai : l'ARN viral est un motif associé aux pathogènes.",
+   "Faux : le TLR2 reconnaît les lipoprotéines bactériennes.",
+   "Faux : TLR7 et TLR8 sont intracytoplasmiques."
+  ]
+ },
+ {
+  "q": "Concernant les lipoprotéines bactériennes, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des PAMP",
+   "Elles sont reconnues par le TLR2",
+   "Elles sont communes à de nombreuses espèces bactériennes",
+   "Elles sont absentes des cellules de l'hôte",
+   "Elles sont reconnues par le TLR4"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les lipoprotéines sont des motifs associés aux pathogènes.",
+   "Vrai : le TLR2 est le récepteur des lipoprotéines bactériennes.",
+   "Vrai : comme tout PAMP, elles sont partagées par de nombreuses espèces.",
+   "Vrai : les PAMP sont absents des cellules de l'hôte.",
+   "Faux : le TLR4 reconnaît le LPS."
+  ]
+ },
+ {
+  "q": "Concernant les PRR (récepteurs de reconnaissance du pathogène), quelles propositions sont exactes ?",
+  "options": [
+   "PRR signifie récepteur de reconnaissance du pathogène",
+   "Ils comprennent les TLR, les récepteurs scavengers et les protéines NOD",
+   "La reconnaissance peut être directe ou indirecte",
+   "Tous les PRR sont localisés dans le cytoplasme",
+   "Les PRR nécessitent une maturation antigénique préalable"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les PRR sont les récepteurs de l'immunité innée.",
+   "Vrai : TLR, scavengers, NOD, lectines en font partie.",
+   "Vrai : directe (TLR, scavenger) ou indirecte (CR, FcIgR).",
+   "Faux : les TLR membranaires et les scavengers sont en surface.",
+   "Faux : les PRR sont préformés et immédiatement fonctionnels."
+  ]
+ },
+ {
+  "q": "Concernant la signalisation déclenchée par le complexe ligand-TLR, quelles propositions sont exactes ?",
+  "options": [
+   "Le complexe ligand-TLR active la cellule qui l'exprime",
+   "Il induit l'expression de gènes pro-inflammatoires",
+   "Il aboutit à la sécrétion de cytokines et de chimiokines",
+   "Il n'a aucun effet sur la cellule",
+   "Il inhibe la phagocytose"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la liaison du ligand déclenche la transduction via le domaine TIR.",
+   "Vrai : des programmes géniques pro-inflammatoires sont activés.",
+   "Vrai : cytokines (IL-1, IL-6, TNF) et chimiokines sont produites.",
+   "Faux : la signalisation TLR active puissamment la cellule.",
+   "Faux : elle renforce au contraire les fonctions effectrices."
+  ]
+ },
+ {
+  "q": "Concernant les TLR des cellules non immunitaires, quelles propositions sont exactes ?",
+  "options": [
+   "Les kératinocytes expriment des TLR",
+   "Les fibroblastes expriment des TLR",
+   "Les cellules épithéliales des muqueuses expriment des TLR",
+   "Ils participent à la défense locale des tissus",
+   "Les cellules épithéliales ne participent pas à l'immunité innée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les kératinocytes de la peau expriment des TLR.",
+   "Vrai : les fibroblastes expriment des TLR.",
+   "Vrai : les cellules épithéliales intestinales, respiratoires et urogénitales les expriment.",
+   "Vrai : ils permettent aux tissus de détecter localement les pathogènes.",
+   "Faux : les cellules épithéliales participent activement à la défense innée."
+  ]
+ },
+ {
+  "q": "Concernant le nombre et la répartition des TLR, quelles propositions sont exactes ?",
+  "options": [
+   "On dénombre 11 TLR",
+   "Ils sont numérotés de TLR1 à TLR11",
+   "7 TLR sont membranaires",
+   "4 TLR sont endosomaux",
+   "On dénombre 20 TLR chez l'homme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la famille compte 11 récepteurs Toll-like.",
+   "Vrai : la nomenclature va de TLR1 à TLR11.",
+   "Vrai : TLR1, 2, 4, 5, 6, 10 et 11 sont membranaires.",
+   "Vrai : TLR3, 7, 8 et 9 sont endosomaux.",
+   "Faux : il n'existe que 11 TLR décrits."
+  ]
+ },
+ {
+  "q": "Concernant les PAMP par rapport aux antigènes de l'adaptatif, quelles propositions sont exactes ?",
+  "options": [
+   "Les PAMP sont partagés par de nombreux agents pathogènes",
+   "Les antigènes reconnus par l'adaptatif sont très spécifiques",
+   "Les PAMP sont reconnus par des récepteurs codés par le génome",
+   "La reconnaissance des PAMP nécessite une recombinaison somatique",
+   "Les PAMP sont uniques à chaque individu infecté"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les PAMP sont des motifs communs à de nombreuses espèces.",
+   "Vrai : TCR et BCR reconnaissent des épitopes spécifiques.",
+   "Vrai : les PRR sont des récepteurs germline préformés.",
+   "Faux : la recombinaison somatique concerne TCR et BCR.",
+   "Faux : les PAMP sont des motifs microbiens, non individuels."
+  ]
+ },
+ {
+  "q": "Concernant les DAMP, exemples et propriétés, quelles propositions sont exactes ?",
+  "options": [
+   "Les protéines de choc thermique libérées par les cellules lésées sont des DAMP",
+   "L'HMGB1 libéré par les cellules nécrotiques est un DAMP",
+   "L'ATP extracellulaire est un signal de danger",
+   "L'acide urique cristallisé est un signal de danger endogène",
+   "Le LPS bactérien est un DAMP"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les HSP libérées lors des lésions signalent un danger.",
+   "Vrai : HMGB1 est une alarmine endogène typique.",
+   "Vrai : l'ATP extracellulaire alerte les cellules immunitaires.",
+   "Vrai : les cristaux d'acide urique activent l'inflammation stérile.",
+   "Faux : le LPS est un PAMP d'origine bactérienne."
+  ]
+ },
+ {
+  "q": "Concernant les conséquences vasculaires de l'activation des TLR, quelles propositions sont exactes ?",
+  "options": [
+   "Expression de molécules d'adhésion sur l'endothélium",
+   "Hyper-perméabilité vasculaire",
+   "Recrutement des leucocytes circulants",
+   "Vasoconstriction intense et durable",
+   "Inhibition du rolling leucocytaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ICAM et autres molécules d'adhésion sont induites sur l'endothélium.",
+   "Vrai : les médiateurs augmentent la perméabilité vasculaire.",
+   "Vrai : chimiokines et molécules d'adhésion attirent les leucocytes.",
+   "Faux : l'inflammation s'accompagne de vasodilatation.",
+   "Faux : le rolling est la première étape du recrutement leucocytaire."
+  ]
+ },
+ {
+  "q": "Concernant les TLR et le lien entre immunité innée et adaptative, quelles propositions sont exactes ?",
+  "options": [
+   "Les TLR participent au lien entre immunité innée et adaptative",
+   "Ils favorisent la maturation des cellules dendritiques",
+   "Ils augmentent la présentation de l'antigène aux lymphocytes",
+   "Les TLR sont des récepteurs antigéniques des lymphocytes T",
+   "L'activation des TLR inhibe la réponse adaptative"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la signalisation TLR oriente et initie la réponse adaptative.",
+   "Vrai : les DC maturent sous l'effet des signaux TLR.",
+   "Vrai : le complexe ligand-TLR augmente la présentation antigénique.",
+   "Faux : le récepteur antigénique des LT est le TCR.",
+   "Faux : les TLR favorisent au contraire la réponse adaptative."
+  ]
+ },
+ {
+  "q": "Concernant la spécificité des récepteurs Toll-like, quelles propositions sont exactes ?",
+  "options": [
+   "Chaque TLR reconnaît un type de motif microbien (PAMP)",
+   "Leur combinaison assure un large spectre de reconnaissance",
+   "Ils sont moins spécifiques que les récepteurs TCR et BCR",
+   "Chaque TLR ne reconnaît qu'un seul agent pathogène",
+   "Ils sont aussi spécifiques qu'un anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : chaque TLR est dédié à une famille de PAMP.",
+   "Vrai : l'ensemble des 11 TLR couvre un large spectre microbien.",
+   "Vrai : la reconnaissance innée est peu spécifique comparée à l'adaptatif.",
+   "Faux : un TLR reconnaît un motif partagé par de nombreux pathogènes.",
+   "Faux : l'anticorps est d'une spécificité bien supérieure."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs scavengers, quelles propositions sont exactes ?",
+  "options": [
+   "Ils sont exprimés par les macrophages et les cellules dendritiques",
+   "On en distingue 5 classes de molécules (A à E)",
+   "Ils reconnaissent une grande variété de ligands (lipoprotéines, LPS d'E. coli, S. aureus)",
+   "Ils assurent l'internalisation des agents pathogènes",
+   "Ils sont exprimés uniquement par les lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : macrophages et DC portent les récepteurs scavengers.",
+   "Vrai : les scavengers se répartissent en 5 classes (A à E).",
+   "Vrai : lipoprotéines et LPS (E. coli, S. aureus) sont leurs ligands.",
+   "Vrai : l'internalisation des pathogènes est l'un de leurs rôles.",
+   "Faux : ce sont des récepteurs des phagocytes, non des lymphocytes."
+  ]
+ },
+ {
+  "q": "Concernant les rôles des récepteurs scavengers, quelles propositions sont exactes ?",
+  "options": [
+   "Internalisation des agents pathogènes",
+   "Phagocytose des cellules apoptotiques de l'hôte",
+   "Reconnaissance d'une grande variété de ligands microbiens",
+   "Production d'anticorps spécifiques",
+   "Présentation exclusive via le CMH de classe I"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les scavengers internalisent les pathogènes liés.",
+   "Vrai : ils participent à l'élimination des cellules apoptotiques du soi.",
+   "Vrai : lipoprotéines, LPS et autres ligands sont reconnus.",
+   "Faux : les anticorps sont produits par les plasmocytes.",
+   "Faux : les macrophages présentent surtout via le CMH II."
+  ]
+ },
+ {
+  "q": "Concernant les protéines NOD, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des protéines cytosoliques",
+   "On en distingue deux membres : NOD1 et NOD2",
+   "Elles reconnaissent les peptidoglycanes bactériens",
+   "Ce sont des récepteurs membranaires",
+   "Elles reconnaissent l'ADN viral endosomal"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : NOD = Nucleotide-binding Oligomerization Domain, protéines du cytosol.",
+   "Vrai : NOD1 et NOD2 sont les deux membres décrits.",
+   "Vrai : elles détectent les peptidoglycanes dans le cytoplasme.",
+   "Faux : les NOD sont intracellulaires, non membranaires.",
+   "Faux : l'ADN viral est reconnu par le TLR9 endosomal."
+  ]
+ },
+ {
+  "q": "Concernant les protéines NOD par rapport aux TLR, quelles propositions sont exactes ?",
+  "options": [
+   "Les NOD sont des récepteurs intracytosoliques",
+   "Les TLR sont membranaires ou endosomaux",
+   "Les deux familles reconnaissent des PAMP",
+   "Les NOD reconnaissent les peptidoglycanes bactériens",
+   "Les NOD sont des anticorps intracellulaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les protéines NOD surveillent le cytosol.",
+   "Vrai : les TLR sont en surface ou dans l'endosome.",
+   "Vrai : NOD et TLR sont des PRR reconnaissant des motifs microbiens.",
+   "Vrai : les peptidoglycanes sont les ligands des NOD1/NOD2.",
+   "Faux : les NOD sont des PRR innés, non des immunoglobulines."
+  ]
+ },
+ {
+  "q": "Concernant le peptidoglycane, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un composant de la paroi des bactéries",
+   "C'est un PAMP",
+   "Il est reconnu par les protéines NOD1 et NOD2",
+   "Il est présent dans les cellules humaines",
+   "Il est reconnu par le TLR4"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le peptidoglycane structure la paroi bactérienne.",
+   "Vrai : c'est un motif moléculaire associé aux pathogènes.",
+   "Vrai : NOD1 et NOD2 détectent les peptidoglycanes cytosoliques.",
+   "Faux : les PAMP sont absents des cellules de l'hôte.",
+   "Faux : le TLR4 reconnaît le LPS."
+  ]
+ },
+ {
+  "q": "Concernant l'élimination des cellules apoptotiques de l'hôte, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est assurée notamment par les récepteurs scavengers",
+   "Elle se fait sans déclencher de réaction inflammatoire",
+   "Les macrophages y participent par phagocytose",
+   "Les cellules apoptotiques sont reconnues comme un danger infectieux",
+   "Elles sont ignorées par l'immunité innée"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les scavengers participent à la phagocytose des cellules apoptotiques.",
+   "Vrai : cette clairance physiologique est non inflammatoire.",
+   "Vrai : les macrophages éliminent les débris apoptotiques du soi.",
+   "Faux : l'apoptose physiologique ne libère pas de signaux de danger.",
+   "Faux : l'immunité innée assure activement cette élimination."
+  ]
+ },
+ {
+  "q": "Parmi les récepteurs suivants, lesquels appartiennent à l'immunité innée ?",
+  "options": [
+   "Les récepteurs Toll-like",
+   "Les récepteurs scavengers",
+   "Les protéines NOD",
+   "Les lectines comme la MBL",
+   "Le TCR des lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les TLR sont les PRR les plus connus de l'inné.",
+   "Vrai : les scavengers sont des PRR des phagocytes.",
+   "Vrai : les NOD sont des PRR cytosoliques.",
+   "Vrai : la MBL est un récepteur soluble de l'inné.",
+   "Faux : le TCR est le récepteur antigénique de l'adaptatif."
+  ]
+ },
+ {
+  "q": "Concernant la reconnaissance directe de l'agent pathogène, quelles propositions sont exactes ?",
+  "options": [
+   "Elle fait intervenir les récepteurs Toll-like",
+   "Elle fait intervenir les récepteurs scavengers",
+   "Elle fait intervenir les récepteurs du complément (CR)",
+   "Elle fait intervenir les récepteurs du fragment Fc des Ig (FcIgR)",
+   "Elle fait intervenir les anticorps spécifiques"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : les TLR reconnaissent directement les PAMP.",
+   "Vrai : les scavengers lient directement les ligands microbiens.",
+   "Faux : les CR assurent une reconnaissance indirecte via l'opsonisation.",
+   "Faux : les FcIgR assurent une reconnaissance indirecte via les anticorps.",
+   "Faux : les anticorps relèvent de l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Concernant la reconnaissance indirecte de l'agent pathogène, quelles propositions sont exactes ?",
+  "options": [
+   "Elle fait intervenir les récepteurs du complément (CR)",
+   "Elle fait intervenir les récepteurs du fragment Fc des Ig (FcIgR)",
+   "Elle suppose une opsonisation préalable par C3b/C4b ou par les anticorps",
+   "Elle fait intervenir les récepteurs Toll-like",
+   "Elle est assurée uniquement par les lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les CR des phagocytes reconnaissent les pathogènes opsonisés par le complément.",
+   "Vrai : les FcIgR reconnaissent les pathogènes opsonisés par les anticorps.",
+   "Vrai : l'opsonisation (C3b, C4b, Ac) précède cette reconnaissance.",
+   "Faux : les TLR assurent une reconnaissance directe des PAMP.",
+   "Faux : elle est assurée par les phagocytes de l'inné."
+  ]
+ },
+ {
+  "q": "Concernant les opsonines de l'immunité innée, quelles propositions sont exactes ?",
+  "options": [
+   "Le C3b du complément",
+   "Le C4b du complément",
+   "La MBL (mannose binding lectin)",
+   "La CRP (protéine C réactive)",
+   "L'IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le C3b est l'opsonine majeure du complément.",
+   "Vrai : le C4b opsonise l'agent pathogène.",
+   "Vrai : la MBL fixée sur le pathogène favorise sa phagocytose.",
+   "Vrai : la CRP opsonise les motifs microbiens.",
+   "Faux : l'IgE est une immunoglobuline de l'adaptatif (allergie, parasites)."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs du fragment Fc des immunoglobulines (FcIgR), quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des récepteurs du fragment Fc des Ig",
+   "Ils permettent la reconnaissance indirecte des pathogènes opsonisés",
+   "Ils sont exprimés par les cellules phagocytaires",
+   "Ce sont des récepteurs du complément",
+   "Le CD16 des NK est un FcγRIII"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les FcIgR lient le fragment Fc des immunoglobulines.",
+   "Vrai : ils reconnaissent les pathogènes recouverts d'anticorps.",
+   "Vrai : phagocytes et NK portent des récepteurs Fc.",
+   "Faux : les récepteurs du complément sont les CR.",
+   "Vrai : le CD16 (FcγRIII) des NK lie les IgG."
+  ]
+ },
+ {
+  "q": "Concernant le complément dans la reconnaissance de l'agent pathogène, quelles propositions sont exactes ?",
+  "options": [
+   "C3b et C4b opsonisent l'agent pathogène",
+   "Les fragments opsonisants sont reconnus par les récepteurs CR des phagocytes",
+   "C3a et C5a ont un effet inflammatoire et chimio-attractant",
+   "Le complément ne participe pas à la reconnaissance du pathogène",
+   "Le complexe d'attaque membranaire est une opsonine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : C3b et C4b recouvrent la surface de l'agent pathogène.",
+   "Vrai : CR1, CR2 et CR4 lient ces fragments opsonisants.",
+   "Vrai : C3a et C5a attirent les cellules de l'immunité innée.",
+   "Faux : l'opsonisation par le complément est un mode majeur de reconnaissance.",
+   "Faux : le CAM est un effecteur lytique, non une opsonine."
+  ]
+ },
+ {
+  "q": "Concernant le système du complément, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un ensemble de plus de 30 protéines sériques",
+   "Il représente 5 % des protéines sériques totales, soit 3 g/l",
+   "Ses protéines circulent à l'état inactif et s'activent en cascade",
+   "C'est un effecteur majeur de l'immunité innée et humorale",
+   "Ses protéines circulent en permanence à l'état actif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : plus de 30 protéines composent le système du complément.",
+   "Vrai : il représente 5 % des protéines sériques (3 g/l).",
+   "Vrai : l'activation en cascade est son mode de fonctionnement.",
+   "Vrai : il est un effecteur majeur de la réponse innée et humorale.",
+   "Faux : les protéines circulent inactives et sont activées à la demande."
+  ]
+ },
+ {
+  "q": "Concernant la nomenclature du complément, quelles propositions sont exactes ?",
+  "options": [
+   "Les composants des voies classique et commune sont désignés par C suivie d'un numéro, de C1 à C9",
+   "Les composants de la voie alterne sont des facteurs désignés par une lettre majuscule (B, D, properdine P)",
+   "Voie des lectines : MBL ≡ C1q ; MASP1 et MASP2 ≡ C1r et C1s",
+   "Le complexe C1 comprend C1q, C1r et C1s",
+   "Les composants de la voie classique sont désignés par des lettres grecques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : de C1 (C1q, C1r, C1s) à C9, soit 11 composants au total.",
+   "Vrai : facteurs B, D et properdine P pour la voie alterne.",
+   "Vrai : MBL équivaut à C1q, MASP1/2 aux sérine-protéases C1r/C1s.",
+   "Vrai : C1 = C1q + C1r2 + C1s2.",
+   "Faux : la nomenclature utilise la lettre C suivie d'un chiffre."
+  ]
+ },
+ {
+  "q": "Concernant la synthèse des protéines du complément, quelles propositions sont exactes ?",
+  "options": [
+   "Les hépatocytes en sont le site principal de synthèse",
+   "Les macrophages et les monocytes les synthétisent",
+   "Les cellules épithéliales intestinales les synthétisent",
+   "Les fibroblastes et les lymphocytes les synthétisent",
+   "Elles sont synthétisées exclusivement par la moelle osseuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les hépatocytes sont la source principale (+++).",
+   "Vrai : macrophages et monocytes produisent des composants du complément.",
+   "Vrai : les cellules épithéliales intestinales participent à la synthèse.",
+   "Vrai : fibroblastes et lymphocytes en synthétisent également.",
+   "Faux : la synthèse est surtout hépatique, non exclusivement médullaire."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs du complément, quelles propositions sont exactes ?",
+  "options": [
+   "CR1 : récepteur de C3b et C4b",
+   "CR2 : récepteur de C3d et iC3b",
+   "CR4 : récepteur de iC3b",
+   "C3aR et C5aR : récepteurs de C3a/C4a et de C5a",
+   "CR1 est le récepteur de l'histamine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CR1 lie les fragments opsonisants C3b et C4b.",
+   "Vrai : CR2 lie C3d et iC3b.",
+   "Vrai : CR4 est le récepteur de iC3b.",
+   "Vrai : C3aR et C5aR lient les anaphylatoxines.",
+   "Faux : l'histamine agit sur ses propres récepteurs histaminiques."
+  ]
+ },
+ {
+  "q": "Concernant le clivage des composants du complément, quelles propositions sont exactes ?",
+  "options": [
+   "Le gros fragment (désigné par b) se fixe à la surface des cellules cibles",
+   "Le petit fragment (désigné par a), libre, a des effets pro-inflammatoires",
+   "Exception : pour C2, c'est C2a qui est le gros fragment",
+   "La forme active est notée par une barre horizontale (ex : C4b2a)",
+   "Le petit fragment a se fixe toujours à la membrane de la cible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le fragment b se fixe sur la cible et active le facteur suivant.",
+   "Vrai : le fragment a libre est pro-inflammatoire (anaphylatoxines).",
+   "Vrai : C2 fait exception : C2a est le gros fragment.",
+   "Vrai : la barre horizontale note la forme enzymatique active.",
+   "Faux : le fragment a est libre ; c'est le fragment b qui se fixe."
+  ]
+ },
+ {
+  "q": "Concernant les formes active et inactive des composants, quelles propositions sont exactes ?",
+  "options": [
+   "La forme inactive est notée par la lettre i devant le chiffre (ex : iC3b)",
+   "La forme active est notée par une barre horizontale (ex : C4b2a)",
+   "L'activation procède par cascade enzymatique",
+   "Chaque fragment activé active à son tour la protéine suivante",
+   "Les composants restent inchangés après leur activation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : iC3b désigne la forme inactive du C3b.",
+   "Vrai : la barre surmonte la forme enzymatiquement active.",
+   "Vrai : le complément fonctionne par cascade enzymatique.",
+   "Vrai : chaque étape amplifie la suivante.",
+   "Faux : l'activation clive la protéine en deux fragments actifs."
+  ]
+ },
+ {
+  "q": "Concernant les activateurs de la voie classique du complément, quelles propositions sont exactes ?",
+  "options": [
+   "Les complexes antigène-anticorps",
+   "Les IgM surtout",
+   "Les IgG",
+   "La protéine C réactive (CRP)",
+   "La voie classique est indépendante des anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les complexes immuns Ag-Ac initient la voie classique.",
+   "Vrai : l'IgM est l'activateur le plus puissant (+++).",
+   "Vrai : les IgG activent également la voie classique.",
+   "Vrai : la CRP figure parmi les activateurs de la voie classique.",
+   "Faux : la voie classique dépend des complexes Ag-Ac."
+  ]
+ },
+ {
+  "q": "Concernant l'initiation de la voie classique, quelles propositions sont exactes ?",
+  "options": [
+   "Le complexe C1 (C1q, C1r2, C1s2) intervient en premier",
+   "C1q se fixe sur le complexe antigène-anticorps",
+   "C1r2 et C1s2 viennent ensuite se fixer sur C1q",
+   "Il se forme une C1 estérase, avec intervention du Ca2+",
+   "C1q se fixe directement sur l'antigène seul, sans anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : C1 = C1q, C1r2, C1s2 initie la voie classique.",
+   "Vrai : C1q est la sous-unité de reconnaissance du complexe immun.",
+   "Vrai : C1r2 et C1s2 s'associent à C1q fixé.",
+   "Vrai : le calcium permet la formation de la C1 estérase active.",
+   "Faux : C1q reconnaît le complexe Ag-Ac, non l'antigène isolé."
+  ]
+ },
+ {
+  "q": "Concernant la voie alterne du complément, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est indépendante des anticorps",
+   "Elle est activée par des constituants pariétaux (LPS), des parasites, des champignons",
+   "Les cellules infectées par des virus ou tumorales peuvent l'activer",
+   "Le C3 sérique s'hydrolyse spontanément en C3a et C3b",
+   "Elle nécessite la formation préalable de complexes immuns"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la voie alterne appartient à l'immunité innée, sans anticorps.",
+   "Vrai : LPS, parasites et champignons déclenchent la voie alterne.",
+   "Vrai : les surfaces altérées (infection virale, tumeur) l'activent.",
+   "Vrai : l'hydrolyse spontanée du C3 (« tick-over ») l'initie.",
+   "Faux : aucun complexe immun n'est requis."
+  ]
+ },
+ {
+  "q": "Concernant la C3 convertase de la voie alterne, quelles propositions sont exactes ?",
+  "options": [
+   "Elle se forme à partir de C3b, du facteur B et du facteur D",
+   "Elle est notée C3bBb",
+   "Elle clive le C3 en C3a et C3b",
+   "Elle entretient une boucle d'amplification",
+   "C'est une C5 convertase"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : C3b se lie au facteur B, clivé par le facteur D.",
+   "Vrai : C3bBb est la C3 convertase alterne.",
+   "Vrai : elle clive le C3, générant davantage de C3b.",
+   "Vrai : cette boucle amplifie l'activation du complément.",
+   "Faux : la C5 convertase alterne est C3bBbC3b."
+  ]
+ },
+ {
+  "q": "Concernant la C5 convertase de la voie alterne, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est notée C3bBbC3b",
+   "C'est une C5 convertase amplificatrice",
+   "Elle clive le C5",
+   "Son clivage libère C5a (anaphylatoxine) et C5b (qui initie le CAM)",
+   "Elle clive le C3"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la fixation d'un C3b supplémentaire sur C3bBb donne C3bBbC3b.",
+   "Vrai : elle est qualifiée de C5 convertase amplificatrice.",
+   "Vrai : elle clive le C5.",
+   "Vrai : C5a est pro-inflammatoire et C5b initie le complexe d'attaque membranaire.",
+   "Faux : le C3 est clivé par la C3 convertase."
+  ]
+ },
+ {
+  "q": "Concernant la voie des lectines du complément, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est indépendante des anticorps",
+   "La MBL se lie au mannose du microbe",
+   "MASP1 et MASP2 se lient à la MBL",
+   "Le complexe MBL-MASP clive C4 et C2",
+   "Elle utilise les facteurs B et D comme la voie alterne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la voie des lectines appartient à l'immunité innée.",
+   "Vrai : la MBL reconnaît les résidus mannose microbiens.",
+   "Vrai : les sérine-protéases MASP1/2 s'associent à la MBL.",
+   "Vrai : ce complexe clive C4 et C2, comme la voie classique.",
+   "Faux : les facteurs B et D sont propres à la voie alterne."
+  ]
+ },
+ {
+  "q": "Concernant les analogies entre voie des lectines et voie classique, quelles propositions sont exactes ?",
+  "options": [
+   "Le mécanisme de la voie des lectines ressemble à celui de la voie classique",
+   "La MBL est l'équivalent du C1q",
+   "MASP1 et MASP2 sont les équivalents de C1r et C1s",
+   "La cascade enzymatique est ensuite identique à celle de la voie classique",
+   "La voie des lectines nécessite des anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les deux voies convergent après le clivage de C4 et C2.",
+   "Vrai : MBL ≡ C1q (sous-unité de reconnaissance).",
+   "Vrai : MASP1/2 ≡ C1r/C1s (sérine-protéases).",
+   "Vrai : la cascade C4b2a puis commune est identique.",
+   "Faux : la voie des lectines est indépendante des anticorps."
+  ]
+ },
+ {
+  "q": "Concernant la formation du complexe d'attaque membranaire (CAM), quelles propositions sont exactes ?",
+  "options": [
+   "C5b fixé à la membrane se lie à C6 puis à C7",
+   "Le complexe C5b-6-7 fixe une molécule de C8, équivalent de la perforine",
+   "Plusieurs molécules de C9 (poly-C9) s'assemblent ensuite",
+   "Il se forme un canal transmembranaire qui lyse la cellule cible",
+   "Le CAM est formé uniquement de C3b"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : C5b recrute successivement C6 et C7 à la membrane.",
+   "Vrai : C8 (≡ perforine) s'insère dans le complexe.",
+   "Vrai : la polymérisation du C9 forme le pore.",
+   "Vrai : ce canal transmembranaire provoque la lyse osmotique.",
+   "Faux : le CAM = C5b, C6, C7, C8 et poly-C9."
+  ]
+ },
+ {
+  "q": "Concernant la lyse par le complément, quelles propositions sont exactes ?",
+  "options": [
+   "Le complexe d'attaque membranaire attaque la cellule cible",
+   "Les cibles possibles sont les virus, les globules rouges et les cellules nucléées",
+   "La lyse cellulaire est une des fonctions du complément",
+   "Le complément ne peut lyser que les bactéries à Gram positif",
+   "La formation du CAM nécessite la génération préalable de C5b"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le CAM perfore la membrane de la cible.",
+   "Vrai : virus enveloppés, GR et cellules nucléées peuvent être lysés.",
+   "Vrai : lyse, opsonisation et inflammation sont ses trois fonctions.",
+   "Faux : le spectre lytique est large, non limité aux Gram positif.",
+   "Vrai : C5b, issu du clivage du C5, initie l'assemblage du CAM."
+  ]
+ },
+ {
+  "q": "Concernant la régulation de l'activation du complément, quelles propositions sont exactes ?",
+  "options": [
+   "Les composants activés perdent rapidement leur activité en diffusant loin des cibles",
+   "Le C1-INH inhibe le complexe C1",
+   "La C4BP empêche la formation de la C3 convertase",
+   "MCP, CR1, facteur I, facteur H et DAF dissocient la C3 convertase",
+   "Le facteur B stabilise définitivement la C3 convertase"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la labilité des composants limite l'activation à proximité de la cible.",
+   "Vrai : le C1-INH est l'inhibiteur du C1.",
+   "Vrai : la C4BP (protéine liant C4) bloque la C3 convertase.",
+   "Vrai : MCP, CR1, facteur I, H et DAF dissocient la C3 convertase.",
+   "Faux : la C3 convertase est au contraire dissociée par les régulateurs."
+  ]
+ },
+ {
+  "q": "Concernant les protéines régulatrices du complément, quelles propositions sont exactes ?",
+  "options": [
+   "La protéine S inhibe le complexe d'attaque membranaire",
+   "DAF signifie facteur accélérant le déclin (de la convertase)",
+   "MCP signifie protéine cofacteur membranaire",
+   "Le facteur I participe à l'inactivation des convertases",
+   "La protéine S active le complexe d'attaque membranaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la protéine S inhibe la formation du CAM.",
+   "Vrai : DAF = Decay Accelerating Factor.",
+   "Vrai : MCP = Membrane Cofactor Protein.",
+   "Vrai : le facteur I, avec ses cofacteurs, inactive C3b/C4b.",
+   "Faux : la protéine S est inhibitrice du CAM."
+  ]
+ },
+ {
+  "q": "Concernant les anaphylatoxines du complément, quelles propositions sont exactes ?",
+  "options": [
+   "C3a, C4a et C5a sont des anaphylatoxines",
+   "Elles se lient aux récepteurs des mastocytes et des basophiles",
+   "Elles provoquent la dégranulation de ces cellules",
+   "Elles induisent vasodilatation et contraction des muscles lisses (HS type I)",
+   "Elles inhibent le chimiotactisme des polynucléaires neutrophiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : C3a, C4a et C5a sont les anaphylatoxines.",
+   "Vrai : mastocytes et basophiles portent leurs récepteurs.",
+   "Vrai : la liaison déclenche la dégranulation (médiateurs préformés et néoformés).",
+   "Vrai : vasodilatation et bronchoconstriction caractérisent l'HS de type I.",
+   "Faux : C3a et C5a favorisent au contraire le chimiotactisme."
+  ]
+ },
+ {
+  "q": "Concernant C3a et C5a, quelles propositions sont exactes ?",
+  "options": [
+   "Ils favorisent le chimiotactisme et l'adhésion des monocytes et des PNN à l'endothélium",
+   "Le C3b est l'opsonine majeure du complément",
+   "Le phagocyte se lie au C3b via ses récepteurs CR1, CR2 et CR4",
+   "L'opsonisation facilite la phagocytose de l'agent pathogène",
+   "L'opsonisation empêche la phagocytose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : C3a et C5a attirent et font adhérer monocytes et PNN.",
+   "Vrai : le C3b est décrit comme l'opsonine majeure.",
+   "Vrai : CR1, CR2 et CR4 lient les fragments opsonisants.",
+   "Vrai : le pathogène opsonisé est plus facilement phagocyté.",
+   "Faux : l'opsonisation favorise la phagocytose."
+  ]
+ },
+ {
+  "q": "Concernant l'opsonisation par le complément, quelles propositions sont exactes ?",
+  "options": [
+   "Le C3b se fixe à la surface de la cellule cible",
+   "Les cibles peuvent être des cellules infectées ou tumorales",
+   "Le C3b fixé est reconnu par les récepteurs CR du phagocyte",
+   "L'opsonisation facilite la phagocytose de la cible",
+   "Le C5a est la principale opsonine du complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le C3b recouvre la surface de l'agent pathogène.",
+   "Vrai : cellules infectées ou tumorales sont opsonisées.",
+   "Vrai : CR1, CR2, CR4 lient le C3b et déclenchent la phagocytose.",
+   "Vrai : l'opsonisation est un pont entre pathogène et phagocyte.",
+   "Faux : le C5a est une anaphylatoxine, non une opsonine."
+  ]
+ },
+ {
+  "q": "Concernant l'exploration fonctionnelle du complément (CH50), quelles propositions sont exactes ?",
+  "options": [
+   "Le CH50 mesure l'activité fonctionnelle de la voie classique",
+   "Le test utilise des globules rouges comme cibles",
+   "C'est une étude qualitative (fonctionnelle) du complément",
+   "Le CH50 explore la voie alterne",
+   "Le dosage néphélémétrique des composants est une étude quantitative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le CH50 évalue l'activité hémolytique de la voie classique.",
+   "Vrai : la lyse de globules rouges sensibilisés est mesurée.",
+   "Vrai : il s'agit d'une exploration fonctionnelle.",
+   "Faux : le CH50 explore la voie classique (et commune).",
+   "Vrai : la néphélémétrie dose quantitativement les composants."
+  ]
+ },
+ {
+  "q": "Concernant le dosage des composants du complément, quelles propositions sont exactes ?",
+  "options": [
+   "C1, C2 et C4 explorent la voie classique",
+   "C3 et le facteur B explorent la voie alterne",
+   "Le dosage se fait par néphélémétrie",
+   "Le CH50 est une exploration fonctionnelle de la voie classique",
+   "Le dosage des immunoglobulines explore le complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : C1, C2, C4 sont les composants dosés pour la voie classique.",
+   "Vrai : C3 et le facteur B sont dosés pour la voie alterne.",
+   "Vrai : la néphélémétrie est la technique de dosage quantitatif.",
+   "Vrai : le CH50 mesure l'activité fonctionnelle sur GR.",
+   "Faux : les Ig explorent l'immunité humorale adaptative."
+  ]
+ },
+ {
+  "q": "Concernant les variations pathologiques du taux de complément, quelles propositions sont exactes ?",
+  "options": [
+   "Une diminution peut résulter d'une déperdition",
+   "Une diminution peut résulter d'un défaut de synthèse",
+   "Une diminution peut traduire une utilisation excessive (complexes immuns)",
+   "Une augmentation peut résulter d'une synthèse importante lors de l'inflammation",
+   "Le taux du complément est toujours stable, quelles que soient les circonstances"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les pertes (protéinurie, etc.) diminuent le taux.",
+   "Vrai : l'insuffisance hépatique réduit la synthèse.",
+   "Vrai : la consommation par les complexes immuns abaisse le taux.",
+   "Vrai : l'inflammation stimule la synthèse hépatique (phase aiguë).",
+   "Faux : le taux varie selon synthèse, consommation et dégradation."
+  ]
+ },
+ {
+  "q": "Concernant les déficits en complément, quelles propositions sont exactes ?",
+  "options": [
+   "Un déficit en C3 expose aux infections à germes encapsulés par défaut d'opsonisation",
+   "Un déficit en C5 à C9 expose aux infections à germes à Gram négatif",
+   "Des déficits existent pour tous les composants et les protéines régulatrices",
+   "Le déficit en C1-INH expose à l'œdème angioneurotique",
+   "Les déficits en complément protègent contre les infections"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sans C3, l'opsonisation des germes encapsulés est défaillante.",
+   "Vrai : sans CAM (C5-C9), les Gram négatif ne sont plus lysés.",
+   "Vrai : chaque composant et régulateur peut être déficitaire.",
+   "Vrai : le déficit en C1-INH provoque des œdèmes angioneurotiques.",
+   "Faux : les déficits exposent au contraire aux infections."
+  ]
+ },
+ {
+  "q": "Concernant les trois voies d'activation du complément, quelles propositions sont exactes ?",
+  "options": [
+   "Il existe trois voies d'activation : classique, alterne et des lectines",
+   "La voie classique dépend des complexes antigène-anticorps",
+   "Les voies alterne et des lectines appartiennent à l'immunité innée",
+   "Les trois voies nécessitent des anticorps",
+   "Les trois voies convergent vers le clivage du C3"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : classique, alterne et lectines sont les trois voies.",
+   "Vrai : la voie classique est initiée par les complexes immuns.",
+   "Vrai : alterne et lectines sont indépendantes des anticorps.",
+   "Faux : seules la voie classique nécessite des anticorps.",
+   "Vrai : le C3 est le point de convergence des trois voies."
+  ]
+ },
+ {
+  "q": "Concernant la C3 convertase de la voie classique (C4b2a), quelles propositions sont exactes ?",
+  "options": [
+   "Elle est notée C4b2a (forme active, barrée)",
+   "Elle résulte du clivage de C4 et de C2",
+   "Elle clive le C3 en C3a et C3b",
+   "Elle se forme après l'activation du complexe C1",
+   "C'est une C5 convertase"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : C4b2a est la C3 convertase classique.",
+   "Vrai : C4b et C2a (gros fragment de C2) la composent.",
+   "Vrai : elle clive le C3, alimentant la cascade.",
+   "Vrai : elle fait suite à la C1 estérase.",
+   "Faux : la C5 convertase classique est C4b2aC3b."
+  ]
+ },
+ {
+  "q": "Concernant l'exception du C2 dans la nomenclature, quelles propositions sont exactes ?",
+  "options": [
+   "Pour C2, c'est C2a qui est le gros fragment",
+   "C2b est donc le petit fragment du C2",
+   "Pour les autres composants, a = petit fragment et b = gros fragment",
+   "C2 suit la règle générale des autres composants",
+   "C2a se fixe à la surface de la cible comme les autres fragments b"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : C2 fait exception : C2a est le gros fragment.",
+   "Vrai : C2b est le petit fragment libre.",
+   "Vrai : la règle générale est a = petit, b = gros.",
+   "Faux : C2 est l'exception à cette règle.",
+   "Vrai : C2a, gros fragment, participe à la C3 convertase fixée."
+  ]
+ },
+ {
+  "q": "Concernant la properdine (facteur P), quelles propositions sont exactes ?",
+  "options": [
+   "C'est un composant de la voie alterne",
+   "Elle stabilise la C3 convertase alterne (C3bBb)",
+   "Elle est désignée par une lettre majuscule, comme les facteurs B et D",
+   "Elle participe à l'amplification de la voie alterne",
+   "C'est un composant de la voie classique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la properdine (P) appartient à la voie alterne.",
+   "Vrai : elle stabilise C3bBb et prolonge son activité.",
+   "Vrai : les composants de la voie alterne sont désignés par des lettres.",
+   "Vrai : elle favorise la boucle d'amplification.",
+   "Faux : la voie classique utilise les composants C1 à C9."
+  ]
+ },
+ {
+  "q": "Concernant les facteurs B et D, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des composants de la voie alterne",
+   "Le facteur B se lie au C3b",
+   "Le facteur D clive le facteur B lié au C3b",
+   "Ils sont désignés par des lettres majuscules",
+   "Ce sont des composants de la voie classique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : B et D sont les facteurs de la voie alterne.",
+   "Vrai : le facteur B s'associe au C3b.",
+   "Vrai : le facteur D clive le facteur B pour former C3bBb.",
+   "Vrai : la nomenclature de la voie alterne utilise des lettres.",
+   "Faux : la voie classique utilise C1 à C9."
+  ]
+ },
+ {
+  "q": "Concernant le C1-INH, quelles propositions sont exactes ?",
+  "options": [
+   "C'est l'inhibiteur du complexe C1",
+   "C'est une protéine régulatrice du complément",
+   "Son déficit expose à l'œdème angioneurotique",
+   "Il active le complexe C1",
+   "C'est un composant de la voie alterne"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le C1-INH inhibe la C1 estérase.",
+   "Vrai : c'est un régulateur de l'activation du complément.",
+   "Vrai : son déficit provoque des accès d'œdème angioneurotique.",
+   "Faux : c'est un inhibiteur, non un activateur.",
+   "Faux : il régule la voie classique."
+  ]
+ },
+ {
+  "q": "Concernant le C5a, quelles propositions sont exactes ?",
+  "options": [
+   "C'est une anaphylatoxine puissante",
+   "C'est un facteur chimio-attractant pour monocytes et PNN",
+   "Il se lie à son récepteur C5aR",
+   "Il est libéré lors du clivage du C5 par la C5 convertase",
+   "C'est l'opsonine majeure du complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le C5a est la plus puissante des anaphylatoxines.",
+   "Vrai : il attire monocytes et PNN vers le site inflammatoire.",
+   "Vrai : le C5aR est son récepteur membranaire.",
+   "Vrai : le clivage du C5 libère C5a et C5b.",
+   "Faux : l'opsonine majeure est le C3b."
+  ]
+ },
+ {
+  "q": "Concernant le C3, composant central du complément, quelles propositions sont exactes ?",
+  "options": [
+   "C'est le composant central du système du complément",
+   "Il est clivé en C3a (anaphylatoxine) et C3b (opsonine)",
+   "C'est le point de convergence des trois voies d'activation",
+   "Il n'intervient que dans la voie classique",
+   "Il est synthétisé par les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le C3 occupe une position centrale dans le système.",
+   "Vrai : son clivage génère un fragment inflammatoire et un opsonisant.",
+   "Vrai : classique, alterne et lectines convergent vers le C3.",
+   "Faux : il est commun aux trois voies.",
+   "Faux : il est surtout synthétisé par les hépatocytes."
+  ]
+ },
+ {
+  "q": "Concernant le CAM et la perforine des NK, quelles propositions sont exactes ?",
+  "options": [
+   "Les deux forment des pores dans la membrane de la cible",
+   "Le C8 du CAM est l'équivalent de la perforine",
+   "Le CAM utilise le poly-C9 tandis que les NK libèrent perforine et granzymes",
+   "Le CAM libère des granzymes dans la cellule cible",
+   "La perforine des NK forme le complexe d'attaque membranaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : pores transmembranaires et lyse sont leur mécanisme commun.",
+   "Vrai : C8 est décrit comme l'équivalent de la perforine.",
+   "Vrai : poly-C9 d'un côté, perforine/granzymes de l'autre.",
+   "Faux : le CAM ne libère pas de granzymes.",
+   "Faux : la perforine des NK est distincte du CAM du complément."
+  ]
+ },
+ {
+  "q": "Concernant le complément et la réaction inflammatoire, quelles propositions sont exactes ?",
+  "options": [
+   "Les anaphylatoxines C3a, C4a et C5a déclenchent l'inflammation",
+   "C3a et C5a recrutent PNN et monocytes vers le site",
+   "La dégranulation des mastocytes provoque vasodilatation",
+   "Le complément inhibe la réaction inflammatoire",
+   "C3a et C5a favorisent l'adhésion des leucocytes à l'endothélium"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les anaphylatoxines sont des médiateurs pro-inflammatoires.",
+   "Vrai : leur effet chimio-attractant recrute les cellules de l'inné.",
+   "Vrai : l'histamine libérée dilate les vaisseaux.",
+   "Faux : le complément est un activateur majeur de l'inflammation.",
+   "Vrai : elles favorisent l'adhésion aux cellules endothéliales."
+  ]
+ },
+ {
+  "q": "Concernant le complément et la phagocytose, quelles propositions sont exactes ?",
+  "options": [
+   "L'opsonisation par le C3b facilite la phagocytose",
+   "Les phagocytes reconnaissent le C3b via CR1, CR2 et CR4",
+   "La phagocytose des pathogènes opsonisés est plus efficace",
+   "L'opsonisation est assurée uniquement par les anticorps",
+   "Sans opsonisation, aucune phagocytose n'est possible"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le C3b est l'opsonine majeure du complément.",
+   "Vrai : ces récepteurs lient les fragments opsonisants.",
+   "Vrai : l'opsonisation est un pont entre pathogène et phagocyte.",
+   "Faux : le complément (C3b, C4b) opsonise indépendamment des anticorps.",
+   "Faux : la reconnaissance directe par les PRR permet aussi la phagocytose."
+  ]
+ },
+ {
+  "q": "Concernant la protection des cellules de l'hôte contre le complément, quelles propositions sont exactes ?",
+  "options": [
+   "Les cellules du soi expriment des régulateurs membranaires (MCP, DAF, CR1)",
+   "La protéine S inhibe la formation du CAM sur le soi",
+   "Le facteur I inactive le C3b déposé sur les cellules saines",
+   "Le complément lyse indifféremment les cellules de l'hôte",
+   "La régulation protège le soi d'une activation abusive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : MCP, DAF et CR1 protègent les membranes du soi.",
+   "Vrai : la protéine S s'oppose à l'assemblage du CAM.",
+   "Vrai : le facteur I clive le C3b en iC3b inactif.",
+   "Faux : les régulateurs restreignent l'activation aux surfaces étrangères.",
+   "Vrai : cette régulation évite l'autolyse des tissus sains."
+  ]
+ },
+ {
+  "q": "Concernant les médiateurs sécrétés par les phagocytes activés, quelles propositions sont exactes ?",
+  "options": [
+   "IL-1, IL-6 et TNF",
+   "Ils induisent localement la coagulation",
+   "Ils induisent l'hyper-perméabilité vasculaire",
+   "Ils induisent l'expression des molécules d'adhésion (ICAM) sur l'endothélium",
+   "Ils inhibent la sécrétion des chimiokines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IL-1, IL-6 et TNF sont les cytokines des phagocytes activés.",
+   "Vrai : la coagulation locale participe au confinement de l'infection.",
+   "Vrai : l'hyper-perméabilité permet l'exsudation plasmatique.",
+   "Vrai : ICAM sur l'endothélium permet l'adhésion des leucocytes.",
+   "Faux : macrophages et DC activés sécrètent au contraire des chimiokines."
+  ]
+ },
+ {
+  "q": "Concernant prostaglandines, leucotriènes et chimiokines, quelles propositions sont exactes ?",
+  "options": [
+   "Les phagocytes activés sécrètent des prostaglandines (PG) et des leucotriènes (LT)",
+   "Les macrophages et les DC sécrètent des chimiokines",
+   "L'ensemble de ces médiateurs entraîne chimiotactisme et afflux des cellules sanguines",
+   "Les PG et les LT sont des médiateurs préformés stockés dans les granules",
+   "L'ordre d'arrivée est : monocytes, PNN, PNE puis lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : PG et LT sont produits par les phagocytes activés.",
+   "Vrai : macrophages et DC sont sources de chimiokines.",
+   "Vrai : ces médiateurs attirent les leucocytes vers la lésion.",
+   "Faux : PG et LT sont des médiateurs néoformés, synthétisés à la demande.",
+   "Vrai : les cellules de l'inné précèdent les lymphocytes."
+  ]
+ },
+ {
+  "q": "Concernant les étapes du recrutement leucocytaire (diapédèse), quelles propositions sont exactes ?",
+  "options": [
+   "Le rolling ou adhésion faible",
+   "L'adhésion forte à l'endothélium vasculaire",
+   "L'extravasation ou diapédèse des leucocytes",
+   "Les molécules d'adhésion (ICAM) participent à ce processus",
+   "La diapédèse précède toujours le rolling"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le rolling est l'adhésion faible initiale, médiée par les sélectines.",
+   "Vrai : l'adhésion forte (intégrines/ICAM) arrête le leucocyte.",
+   "Vrai : la transmigration endothéliale fait passer le leucocyte dans le tissu.",
+   "Vrai : ICAM est la molécule d'adhésion intercellulaire de l'endothélium.",
+   "Faux : le rolling est la première étape, suivie de l'adhésion puis de la diapédèse."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines de l'immunité innée, quelles propositions sont exactes ?",
+  "options": [
+   "IL-1",
+   "TNFα",
+   "IL-6",
+   "IL-12, IFNβ et TNFβ",
+   "IL-2 et IL-4"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'IL-1 est une cytokine pro-inflammatoire de l'inné.",
+   "Vrai : le TNFα est une cytokine majeure de l'inné.",
+   "Vrai : l'IL-6 est une cytokine de l'immunité innée.",
+   "Vrai : IL-12, IFNβ et TNFβ complètent cette famille.",
+   "Faux : IL-2 et IL-4 sont des cytokines de l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Concernant les caractères généraux des cytokines, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des glycoprotéines de faible poids moléculaire (8 à 25 kDa)",
+   "Elles ne sont pas stockées : leur synthèse est induite de novo",
+   "Elles sont sécrétées en faible quantité, de façon transitoire, avec une demi-vie courte",
+   "Leur action peut être autocrine, paracrine ou endocrine",
+   "Elles sont stockées en grande quantité dans les granules des lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les cytokines sont de petites glycoprotéines (8-25 kDa).",
+   "Vrai : aucune cytokine n'est stockée au repos ; la synthèse est induite.",
+   "Vrai : sécrétion de l'ordre de la picomole, transitoire, demi-vie courte.",
+   "Vrai : elles agissent sur la cellule productrice, le voisinage ou à distance.",
+   "Faux : les cytokines ne sont pas stockées dans des granules."
+  ]
+ },
+ {
+  "q": "Concernant l'histamine dans l'inflammation, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un médiateur préformé des mastocytes",
+   "Elle provoque vasodilatation et hyper-perméabilité vasculaire",
+   "Elle est libérée lors de la dégranulation induite par les anaphylatoxines",
+   "Elle est impliquée dans l'hypersensibilité immédiate de type I",
+   "C'est un peptide antimicrobien"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'histamine est stockée dans les granules des mastocytes.",
+   "Vrai : elle dilate les vaisseaux et augmente leur perméabilité.",
+   "Vrai : C3a, C4a et C5a déclenchent la dégranulation des mastocytes.",
+   "Vrai : l'histamine est le médiateur de l'HS immédiate.",
+   "Faux : les peptides antimicrobiens sont les défensines et cathélicidines."
+  ]
+ },
+ {
+  "q": "Concernant les interférons de l'immunité innée, quelles propositions sont exactes ?",
+  "options": [
+   "Les IFN de type I sont produits précocement lors des infections virales",
+   "Ils induisent un état antiviral dans les cellules",
+   "L'IFNγ est sécrété par les cellules NK et les macrophages",
+   "L'IFN fait partie des molécules solubles de l'immunité innée",
+   "Les interférons sont des immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IFNα et IFNβ sont les cytokines antivirales précoces.",
+   "Vrai : ils rendent les cellules résistantes à la réplication virale.",
+   "Vrai : NK et macrophages produisent l'IFNγ.",
+   "Vrai : l'IFN est produit localement parmi les molécules solubles.",
+   "Faux : les interférons sont des cytokines, non des anticorps."
+  ]
+ },
+ {
+  "q": "Concernant les chimiokines, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des cytokines chimio-attractantes pour les leucocytes",
+   "Elles sont sécrétées par les macrophages et les DC activés",
+   "Leur production est induite après activation des récepteurs Toll-like",
+   "Ce sont des anticorps",
+   "Elles inhibent le recrutement des cellules sanguines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les chimiokines attirent les leucocytes vers le site inflammatoire.",
+   "Vrai : macrophages et DC activés en sont les principales sources.",
+   "Vrai : le complexe ligand-TLR induit leur formation.",
+   "Faux : les chimiokines sont des cytokines.",
+   "Faux : elles favorisent l'afflux des cellules sanguines."
+  ]
+ },
+ {
+  "q": "Concernant ICAM, quelles propositions sont exactes ?",
+  "options": [
+   "ICAM signifie molécule d'adhésion intercellulaire",
+   "Elle est exprimée sur les cellules endothéliales vasculaires",
+   "Son expression est induite par les médiateurs de l'inflammation (IL-1, TNF)",
+   "Elle participe à l'adhésion forte des leucocytes",
+   "Elle est exprimée uniquement au repos, jamais en inflammation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ICAM = InterCellular Adhesion Molecule.",
+   "Vrai : l'endothélium vasculaire exprime ICAM.",
+   "Vrai : IL-1 et TNF induisent son expression endothéliale.",
+   "Vrai : ICAM permet l'adhésion forte puis la diapédèse.",
+   "Faux : son expression est induite par l'inflammation."
+  ]
+ },
+ {
+  "q": "Concernant les signes cardinaux de l'inflammation, quelles propositions sont exactes ?",
+  "options": [
+   "La rougeur, liée à la vasodilatation",
+   "La chaleur, liée à l'hyperhémie",
+   "La tuméfaction, liée à l'œdème par hyper-perméabilité",
+   "La douleur, liée aux médiateurs (prostaglandines, histamine)",
+   "Ils traduisent une réponse de l'immunité adaptative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la vasodilatation rougit le site inflammatoire.",
+   "Vrai : l'afflux sanguin réchauffe la zone.",
+   "Vrai : l'exsudation plasmatique tuméfie les tissus.",
+   "Vrai : PG et histamine sensibilisent les terminaisons nerveuses.",
+   "Faux : ce sont les manifestations de l'inflammation innée."
+  ]
+ },
+ {
+  "q": "Concernant les effets locaux des médiateurs de l'inflammation, quelles propositions sont exactes ?",
+  "options": [
+   "Vasodilatation",
+   "Hyper-perméabilité vasculaire",
+   "Afflux des leucocytes vers le site",
+   "Coagulation locale",
+   "Vasoconstriction intense et durable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : histamine et anaphylatoxines dilatent les vaisseaux.",
+   "Vrai : l'exsudation plasmatique suit l'hyper-perméabilité.",
+   "Vrai : chimiokines et anaphylatoxines attirent les leucocytes.",
+   "Vrai : les médiateurs des phagocytes activés induisent la coagulation.",
+   "Faux : l'inflammation aiguë s'accompagne de vasodilatation."
+  ]
+ },
+ {
+  "q": "Concernant les effets systémiques de l'inflammation, quelles propositions sont exactes ?",
+  "options": [
+   "La fièvre, médiée par IL-1, IL-6 et TNF",
+   "La production hépatique des protéines de la phase aiguë (CRP)",
+   "Ces effets sont déclenchés par les cytokines pro-inflammatoires",
+   "La fièvre passe par les prostaglandines hypothalamiques",
+   "L'inflammation reste toujours strictement locale, sans retentissement général"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IL-1, IL-6 et TNF sont les cytokines pyrogènes.",
+   "Vrai : le foie produit CRP et autres protéines de la phase aiguë.",
+   "Vrai : les cytokines agissent aussi par voie endocrine.",
+   "Vrai : les PG au niveau hypothalamique élèvent le point de consigne thermique.",
+   "Faux : l'inflammation a des effets systémiques (fièvre, phase aiguë)."
+  ]
+ },
+ {
+  "q": "Concernant le PAF-acéther, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un médiateur préformé des mastocytes",
+   "C'est un médiateur pro-inflammatoire",
+   "Il est libéré lors de la dégranulation du mastocyte",
+   "Il active les plaquettes",
+   "C'est une cytokine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le PAF-acéther est stocké dans les granules du mastocyte.",
+   "Vrai : il participe à la réaction inflammatoire.",
+   "Vrai : la dégranulation libère les médiateurs préformés.",
+   "Vrai : PAF = Platelet Activating Factor.",
+   "Faux : c'est un médiateur lipidique, non une cytokine."
+  ]
+ },
+ {
+  "q": "Concernant les leucotriènes, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des médiateurs néoformés",
+   "Ils sont produits par les mastocytes et les phagocytes activés",
+   "Le LTB4 est chimio-attractant pour les polynucléaires neutrophiles",
+   "Ils provoquent une bronchoconstriction",
+   "Ils sont stockés dans les granules des mastocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les leucotriènes sont synthétisés de novo après activation.",
+   "Vrai : mastocytes et phagocytes les produisent.",
+   "Vrai : le LTB4 attire les PNN vers le site inflammatoire.",
+   "Vrai : les leucotriènes contractent les muscles lisses bronchiques.",
+   "Faux : les médiateurs préformés sont histamine et PAF-acéther."
+  ]
+ },
+ {
+  "q": "Concernant les prostaglandines de l'inflammation, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des médiateurs néoformés",
+   "Elles provoquent vasodilatation et douleur",
+   "La PGE2 participe à la genèse de la fièvre",
+   "Elles sont stockées préformées dans les granules",
+   "Elles sont uniquement anti-inflammatoires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les PG sont synthétisées à la demande après activation.",
+   "Vrai : vasodilatation et sensibilisation nociceptive sont leurs effets.",
+   "Vrai : la PGE2 hypothalamique élève la température.",
+   "Faux : seuls histamine et PAF sont préformés.",
+   "Faux : les PG de l'inflammation sont pro-inflammatoires."
+  ]
+ },
+ {
+  "q": "Concernant la résolution de l'inflammation, quelles propositions sont exactes ?",
+  "options": [
+   "L'inflammation aiguë est normalement résolutive",
+   "Des médiateurs anti-inflammatoires (IL-10, TGFβ) contrôlent la réaction",
+   "Une inflammation non résolue peut devenir chronique",
+   "L'inflammation aiguë dure toujours plusieurs mois",
+   "Il n'existe aucun mécanisme de contrôle de l'inflammation"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'inflammation aiguë régresse après élimination de l'agresseur.",
+   "Vrai : IL-10 et TGFβ freinent la réaction inflammatoire.",
+   "Vrai : la persistance du stimulus conduit à la chronicité.",
+   "Faux : l'inflammation aiguë se compte en jours.",
+   "Faux : régulateurs du complément et cytokines anti-inflammatoires la contrôlent."
+  ]
+ },
+ {
+  "q": "Concernant la reconnaissance de l'agent pathogène par les phagocytes, quelles propositions sont exactes ?",
+  "options": [
+   "La reconnaissance directe se fait par les TLR et les récepteurs scavengers",
+   "La reconnaissance indirecte se fait par les récepteurs du complément (CR) et les FcIgR",
+   "C3b et C4b opsonisent l'agent pathogène",
+   "C3a et C5a ont un effet inflammatoire et chimio-attractant",
+   "La reconnaissance indirecte ne fait jamais intervenir le complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : TLR et scavengers lient directement les motifs microbiens.",
+   "Vrai : CR et FcIgR reconnaissent les pathogènes opsonisés.",
+   "Vrai : ces fragments du complément recouvrent la cible.",
+   "Vrai : ils attirent les cellules de l'immunité innée.",
+   "Faux : le complément (C3b/C4b) est au cœur de la reconnaissance indirecte."
+  ]
+ },
+ {
+  "q": "Concernant les étapes de la phagocytose, quelles propositions sont exactes ?",
+  "options": [
+   "Le phagocyte émet des pseudopodes qui entourent l'agent pathogène",
+   "L'internalisation forme un phagosome",
+   "La fusion du phagosome avec un lysosome forme un phagolysosome",
+   "Le contenu enzymatique du lysosome agit sur l'agent pathogène",
+   "Le phagosome fusionne avec le noyau de la cellule"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les pseudopodes encerclent la cible à internaliser.",
+   "Vrai : la vésicule d'internalisation est le phagosome.",
+   "Vrai : la fusion phagosome-lysosome donne le phagolysosome.",
+   "Vrai : les hydrolases lysosomiales dégradent l'agent pathogène.",
+   "Faux : le phagosome fusionne avec le lysosome, non le noyau."
+  ]
+ },
+ {
+  "q": "Concernant le mécanisme oxygène-dépendant de dégradation, quelles propositions sont exactes ?",
+  "options": [
+   "Il génère des dérivés de l'oxygène (radicaux libres oxygénés)",
+   "Il génère des dérivés nitrés (radicaux azotés)",
+   "Ces radicaux sont nocifs pour l'agent pathogène",
+   "Les deux types de mécanismes participent à la dégradation de l'agent capturé",
+   "La dégradation phagocytaire est indépendante de tout mécanisme oxydatif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les radicaux libres oxygénés tuent les microbes phagocytés.",
+   "Vrai : les dérivés nitrés participent à la bactéricidie.",
+   "Vrai : ces espèces réactives détruisent l'agent pathogène.",
+   "Vrai : mécanismes oxydatifs et lysosomiaux sont complémentaires.",
+   "Faux : le mécanisme oxygène-dépendant est essentiel à la bactéricidie."
+  ]
+ },
+ {
+  "q": "Concernant le mécanisme lysosomial de dégradation, quelles propositions sont exactes ?",
+  "options": [
+   "Il repose sur la fusion des lysosomes avec le phagosome, surtout dans le PNN",
+   "Les lysosomes déversent un contenu riche en enzymes et en peptides antimicrobiens",
+   "Cette fusion forme le phagolysosome digestif",
+   "Les lysosomes sont des mitochondries",
+   "Le contenu lysosomial est enzymatiquement inactif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la fusion lysosomiale est particulièrement active dans le PNN.",
+   "Vrai : enzymes et peptides antimicrobiens sont déversés sur la cible.",
+   "Vrai : le phagolysosome est le compartiment de dégradation.",
+   "Faux : les lysosomes sont des organites digestifs, non des mitochondries.",
+   "Faux : leur contenu enzymatique dégrade l'agent pathogène."
+  ]
+ },
+ {
+  "q": "Concernant la séquence reconnaissance-phagocytose-dégradation, quelles propositions sont exactes ?",
+  "options": [
+   "La reconnaissance précède la phagocytose qui précède la dégradation",
+   "Les pseudopodes entourent l'agent pathogène puis l'internalisent",
+   "Le phagosome fusionne avec le lysosome",
+   "La dégradation combine mécanismes oxydatifs et enzymatiques",
+   "La dégradation précède la reconnaissance"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : c'est la cascade d'événements de la réponse innée.",
+   "Vrai : l'extension des pseudopodes initie l'internalisation.",
+   "Vrai : le phagolysosome en résulte.",
+   "Vrai : radicaux libres et hydrolases coopèrent.",
+   "Faux : la reconnaissance est la première étape."
+  ]
+ },
+ {
+  "q": "Concernant les PNN dans la dégradation du pathogène, quelles propositions sont exactes ?",
+  "options": [
+   "Leurs granules sont riches en enzymes protéolytiques",
+   "Ils libèrent des peptides antimicrobiens",
+   "Ils produisent des radicaux libres oxygénés",
+   "Les PNN ne participent pas à la dégradation",
+   "Ils utilisent aussi un mécanisme oxygène-indépendant (lysosomial)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les granules des PNN contiennent de nombreuses enzymes.",
+   "Vrai : défensines et cathélicidines sont libérées.",
+   "Vrai : l'explosion oxydative génère des radicaux bactéricides.",
+   "Faux : les PNN sont les principaux effecteurs de la dégradation.",
+   "Vrai : la fusion des lysosomes complète l'arsenal."
+  ]
+ },
+ {
+  "q": "Concernant les macrophages dans la dégradation et la présentation, quelles propositions sont exactes ?",
+  "options": [
+   "Ils dégradent l'agent pathogène dans le phagolysosome",
+   "Les peptides issus de la dégradation sont présentés via le CMH de classe II",
+   "Ils sécrètent des cytokines pro-inflammatoires pendant ce processus",
+   "Les macrophages ne dégradent pas l'agent pathogène",
+   "La dégradation est inutile à la présentation antigénique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le phagolysosome du macrophage dégrade la cible.",
+   "Vrai : l'apprêtement alimente la présentation par le CMH II.",
+   "Vrai : IL-1, IL-6 et TNF sont sécrétés par les macrophages activés.",
+   "Faux : la dégradation est une fonction majeure des macrophages.",
+   "Faux : l'apprêtement suppose la dégradation protéolytique."
+  ]
+ },
+ {
+  "q": "Concernant l'efficacité de la phagocytose, quelles propositions sont exactes ?",
+  "options": [
+   "La plupart des microorganismes sont ainsi éradiqués",
+   "Certains pathogènes échappent en inhibant la fusion phagosome-lysosome",
+   "L'éradication par phagocytose est systématique et totale",
+   "Aucun agent pathogène ne résiste à la phagocytose",
+   "La phagocytose est un mécanisme inefficace"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : l'immunité innée bloque et éradique la plupart des microorganismes.",
+   "Vrai : certains pathogènes intracellulaires bloquent la maturation du phagosome.",
+   "Faux : des mécanismes d'échappement existent.",
+   "Faux : plusieurs pathogènes survivent dans les phagocytes.",
+   "Faux : c'est un pilier de la défense innée."
+  ]
+ },
+ {
+  "q": "Concernant les déficits quantitatifs des phagocytes, quelles propositions sont exactes ?",
+  "options": [
+   "L'agranulocytose se définit par des granulocytes < 500 /mm3",
+   "La granulopénie se définit par des granulocytes < 1500 /mm3",
+   "Des anomalies du chimiotactisme peuvent s'y associer",
+   "Une bactéricidie défaillante peut s'y associer",
+   "L'agranulocytose se définit par des granulocytes > 5000 /mm3"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : < 500/mm3 définit l'agranulocytose.",
+   "Vrai : < 1500/mm3 définit la granulopénie.",
+   "Vrai : les anomalies du chimiotactisme altèrent la fonction phagocytaire.",
+   "Vrai : la bactéricidie peut être défaillante.",
+   "Faux : l'agranulocytose est un effondrement, non un excès."
+  ]
+ },
+ {
+  "q": "Concernant les déficits en molécules d'adhésion leucocytaire (LAD), quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des déficits en molécules d'adhésion",
+   "On en distingue LAD1 et LAD2",
+   "Ils altèrent le recrutement des leucocytes vers les sites inflammatoires",
+   "Ils n'affectent pas la diapédèse",
+   "Ce sont des déficits du système du complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : LAD = Leukocyte Adhesion Deficiency.",
+   "Vrai : LAD1 et LAD2 sont les deux formes décrites.",
+   "Vrai : sans adhésion, les leucocytes ne gagnent pas le site lésé.",
+   "Faux : la diapédèse, qui requiert l'adhésion, est compromise.",
+   "Faux : ce sont des déficits de la fonction phagocytaire."
+  ]
+ },
+ {
+  "q": "Concernant l'exploration biologique de l'immunité innée, quelles propositions sont exactes ?",
+  "options": [
+   "La NFS précise la valeur absolue des GB, des PNN et des monocytes",
+   "Le frottis sanguin étudie la morphologie des granulocytes",
+   "L'exploration du complément évalue les voies alterne et commune",
+   "Le dosage des cytokines explore l'activation innée",
+   "Le dosage des immunoglobulines explore spécifiquement la fonction phagocytaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la numération-formule sanguine quantifie PNN et monocytes.",
+   "Vrai : le frottis apprécie la morphologie des granulocytes.",
+   "Vrai : voies alterne et commune (classique) sont explorées.",
+   "Vrai : les cytokines reflètent l'activation des cellules de l'inné.",
+   "Faux : les Ig explorent l'immunité humorale adaptative."
+  ]
+ },
+ {
+  "q": "Concernant les déficits du système du complément, quelles propositions sont exactes ?",
+  "options": [
+   "Des déficits existent pour tous les composants et les protéines régulatrices",
+   "Le déficit en C3 expose aux infections à germes encapsulés (défaut d'opsonisation)",
+   "Le déficit en C5 à C9 expose aux infections à germes à Gram négatif",
+   "Le déficit en C1-INH expose à l'œdème angioneurotique",
+   "Les déficits en complément protègent contre les infections"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : chaque composant et régulateur peut être déficitaire.",
+   "Vrai : sans C3, l'opsonisation des encapsulés est défaillante.",
+   "Vrai : sans CAM, les bactéries à Gram négatif ne sont plus lysées.",
+   "Vrai : le déficit en C1-INH provoque des œdèmes angioneurotiques.",
+   "Faux : ces déficits exposent au contraire aux infections."
+  ]
+ },
+ {
+  "q": "Devant des infections récidivantes évocatrices d'un déficit immunitaire, quelles propositions sont exactes ?",
+  "options": [
+   "Un déficit de l'immunité innée doit être évoqué",
+   "Le bilan comporte NFS, exploration du complément et dosage des cytokines",
+   "Les déficits phagocytaires exposent surtout aux infections bactériennes",
+   "Ces infections sont toujours d'origine adaptative",
+   "Aucun bilan biologique n'est nécessaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les déficits innés (phagocytes, complément) donnent des infections récidivantes.",
+   "Vrai : NFS, frottis, complément et cytokines sont les tests d'orientation.",
+   "Vrai : la bactéricidie défaillante expose aux infections bactériennes.",
+   "Faux : les déficits de l'inné en sont une cause fréquente.",
+   "Faux : le bilan biologique oriente le diagnostic."
+  ]
+ },
+ {
+  "q": "Concernant la granulopénie, quelles propositions sont exactes ?",
+  "options": [
+   "Elle se définit par des granulocytes < 1500 /mm3",
+   "Elle expose aux infections bactériennes",
+   "La NFS permet de la détecter",
+   "C'est un excès de granulocytes circulants",
+   "Elle est sans conséquence clinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : < 1500/mm3 définit la granulopénie.",
+   "Vrai : la baisse des phagocytes favorise les infections bactériennes.",
+   "Vrai : la numération-formule sanguine la met en évidence.",
+   "Faux : c'est une diminution, non un excès.",
+   "Faux : elle expose à un risque infectieux."
+  ]
+ },
+ {
+  "q": "Concernant la bactéricidie des phagocytes, quelles propositions sont exactes ?",
+  "options": [
+   "Elle dépend des radicaux libres oxygénés et azotés",
+   "Elle dépend des enzymes des lysosomes",
+   "Sa défaillance expose aux infections bactériennes récidivantes",
+   "Elle est assurée par les anticorps",
+   "Les peptides antimicrobiens y participent"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les dérivés de l'oxygène et les dérivés nitrés tuent les bactéries.",
+   "Vrai : les hydrolases lysosomiales dégradent les bactéries phagocytées.",
+   "Vrai : une bactéricidie défaillante est un déficit de l'inné.",
+   "Faux : les anticorps opsonisent mais ne tuent pas directement.",
+   "Vrai : défensines et cathélicidines complètent la bactéricidie."
+  ]
+ },
+ {
+  "q": "Concernant la synthèse sur l'immunité innée, quelles propositions sont exactes ?",
+  "options": [
+   "C'est la première ligne de défense contre les infections",
+   "Son installation est rapide et peu spécifique",
+   "Elle fait appel à des molécules solubles et à des cellules variées",
+   "Elle fait souvent le lien avec l'immunité adaptative",
+   "Elle nécessite une mémoire immunologique préalable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'immunité innée est la première ligne de défense.",
+   "Vrai : rapide et peu spécifique, sans mémoire.",
+   "Vrai : complément, cytokines, phagocytes, NK et DC coopèrent.",
+   "Vrai : via les DC et les cytokines, elle initie l'adaptatif.",
+   "Faux : elle est dépourvue de mémoire immunologique."
+  ]
+ }
+]

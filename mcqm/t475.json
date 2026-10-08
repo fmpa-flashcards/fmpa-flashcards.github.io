@@ -1,0 +1,4500 @@
+[
+ {
+  "q": "Concernant les cytokines, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Ce sont des glycoprotéines de faible poids moléculaire (8 à 25 kDa).",
+   "Plus de 200 cytokines humaines ont été identifiées.",
+   "La plupart ont une structure tridimensionnelle hélicoïdale.",
+   "Elles sont stockées dans les granules des cellules au repos avant d'être sécrétées.",
+   "Elles assurent l'échange intercellulaire d'informations entre populations de cellules."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : glycoprotéines de 8 à 25 kDa.",
+   "Exact : plus de 200 cytokines humaines identifiées.",
+   "Exact : structure le plus souvent hélicoïdale.",
+   "Faux : les cytokines ne sont pas stockées dans les cellules au repos.",
+   "Exact : ce sont des molécules de communication entre cellules."
+  ]
+ },
+ {
+  "q": "Les cytokines sont regroupées en 4 familles. Lesquelles de ces propositions en font partie ?",
+  "options": [
+   "Les hématopoïétines.",
+   "Les interleukines (IL).",
+   "La famille des TNF (Tumor Necrosis Factor).",
+   "Les chimiokines.",
+   "Les interférons."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : famille des hématopoïétines.",
+   "Exact : famille des interleukines.",
+   "Exact : famille des TNF.",
+   "Exact : famille des chimiokines.",
+   "Faux : les interférons sont rattachés à une classe de récepteurs (classe II), ce n'est pas une des 4 familles citées dans le cours."
+  ]
+ },
+ {
+  "q": "Quelles sont les principales cellules productrices de cytokines ?",
+  "options": [
+   "Les lymphocytes T.",
+   "Les cellules Natural Killer (NK).",
+   "Les cellules présentatrices d'antigène (cellules dendritiques, macrophages).",
+   "Les cellules endothéliales, stromales et épithéliales.",
+   "Uniquement les lymphocytes B."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les lymphocytes T sont de grands producteurs de cytokines.",
+   "Exact : les cellules NK produisent des cytokines.",
+   "Exact : les CPA (DC, macrophages) produisent des cytokines.",
+   "Exact : les cellules endothéliales/stromales/épithéliales produisent des cytokines.",
+   "Faux : les cytokines sont produites par de nombreuses populations cellulaires, pas seulement les LB."
+  ]
+ },
+ {
+  "q": "Concernant l'origine des cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Une même cytokine peut être produite par différentes cellules.",
+   "Une même cellule peut produire différentes cytokines.",
+   "Chaque cytokine est produite par un seul type cellulaire.",
+   "Les cellules dendritiques et les macrophages produisent des cytokines.",
+   "Les lymphocytes T activés produisent des cytokines."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : une cytokine peut avoir plusieurs cellules productrices.",
+   "Exact : une cellule peut sécréter plusieurs cytokines différentes.",
+   "Faux : c'est l'inverse, une cytokine a généralement plusieurs sources cellulaires.",
+   "Exact : les CPA (cellules dendritiques, macrophages) produisent des cytokines.",
+   "Exact : les LT activés sont des producteurs majeurs de cytokines."
+  ]
+ },
+ {
+  "q": "Concernant la synthèse des cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les cytokines ne sont pas stockées dans les cellules au repos.",
+   "Leur synthèse est induite de novo après activation par un antigène.",
+   "Une synthèse spontanée existe dans la moelle osseuse et le thymus.",
+   "Elles sont sécrétées en faible quantité (de l'ordre de la dizaine de picomoles) et de façon transitoire.",
+   "Elles sont sécrétées en grande quantité de façon permanente."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : pas de stockage intracellulaire au repos.",
+   "Exact : synthèse induite de novo par l'activation antigénique.",
+   "Exact : synthèse spontanée possible dans la moelle osseuse et le thymus.",
+   "Exact : sécrétion en faible quantité et transitoire.",
+   "Faux : sécrétion faible et transitoire, jamais massive et permanente."
+  ]
+ },
+ {
+  "q": "Quelles sont les conséquences de la courte demi-vie des cytokines ?",
+  "options": [
+   "Elle limite leur temps d'action.",
+   "Elle limite leur champ d'action.",
+   "Elle impose une synthèse renouvelée en cas de stimulation persistante.",
+   "Elle rend leur action strictement endocrine.",
+   "Elle explique qu'elles agissent à des concentrations très faibles."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : une demi-vie courte limite la durée d'action.",
+   "Exact : une demi-vie courte limite la diffusion et donc le champ d'action.",
+   "Exact : une stimulation prolongée nécessite une production continue.",
+   "Faux : elles agissent en mode autocrine, paracrine et endocrine.",
+   "Exact : la demi-vie courte va de pair avec une activité à très faible concentration."
+  ]
+ },
+ {
+  "q": "Selon la distance entre la cellule sécrétrice et la cellule cible, on distingue trois modes d'action des cytokines. Lesquels ?",
+  "options": [
+   "Le mode autocrine : action sur la cellule qui les a sécrétées.",
+   "Le mode paracrine : action sur l'environnement immédiat.",
+   "Le mode endocrine : action à distance via la voie sanguine.",
+   "Le mode juxtacrine : action uniquement par contact membranaire direct.",
+   "Le mode téléocrine : action à distance sans passer par le sang."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le mode autocrine vise la cellule productrice elle-même.",
+   "Exact : le mode paracrine vise les cellules voisines.",
+   "Exact : le mode endocrine agit à distance par voie sanguine.",
+   "Faux : le cours ne retient que autocrine, paracrine et endocrine.",
+   "Faux : ce mode n'existe pas ; l'action à distance se fait par voie sanguine."
+  ]
+ },
+ {
+  "q": "Concernant l'activité en cascade des cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Une cytokine produite par une cellule active d'autres cellules qui produisent une ou plusieurs cytokines.",
+   "Elle permet l'amplification de la réponse immunitaire.",
+   "Elle implique une production séquentielle de plusieurs cytokines.",
+   "Chaque cytokine n'agit que sur un seul type cellulaire.",
+   "Elle se produit indépendamment de tout récepteur membranaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : c'est la définition de l'activité en cascade.",
+   "Exact : la cascade amplifie et coordonne la réponse.",
+   "Exact : la production de cytokines s'enchaîne de cellule en cellule.",
+   "Faux : une cytokine agit généralement sur plusieurs types cellulaires.",
+   "Faux : toute action des cytokines passe par la fixation à un récepteur."
+  ]
+ },
+ {
+  "q": "Les cytokines interviennent dans la coopération entre différentes populations de cellules. Lesquelles ?",
+  "options": [
+   "Les lymphocytes.",
+   "Les cellules de l'immunité innée.",
+   "Les cellules hématopoïétiques.",
+   "Les cellules nerveuses uniquement.",
+   "Les cellules musculaires striées uniquement."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la réponse immunitaire résulte de la coopération entre lymphocytes et autres cellules.",
+   "Exact : les cellules de l'immunité innée participent à cette coopération.",
+   "Exact : les cellules hématopoïétiques sont concernées.",
+   "Faux : ce ne sont pas des acteurs de la coopération immunitaire décrite.",
+   "Faux : ce ne sont pas des acteurs de la coopération immunitaire décrite."
+  ]
+ },
+ {
+  "q": "Concernant les interleukines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elles forment une des 4 familles de cytokines.",
+   "Leur nom vient du fait qu'elles assurent la communication entre leucocytes.",
+   "L'IL-2 est une interleukine de l'immunité adaptative.",
+   "L'IL-1 est une interleukine de l'immunité innée.",
+   "Toutes les interleukines sont pro-inflammatoires."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les interleukines constituent une famille de cytokines.",
+   "Exact : 'inter-leukine' = communication entre leucocytes.",
+   "Exact : l'IL-2 appartient aux cytokines de l'immunité adaptative.",
+   "Exact : l'IL-1 appartient aux cytokines de l'immunité innée.",
+   "Faux : certaines sont anti-inflammatoires (ex : IL-10) ou régulatrices."
+  ]
+ },
+ {
+  "q": "Concernant la famille des hématopoïétines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une des 4 familles de cytokines.",
+   "Elle comprend l'érythropoïétine (EPO) et la thrombopoïétine (TPO).",
+   "Elle comprend le G-CSF et le GM-CSF.",
+   "Ses récepteurs appartiennent aux récepteurs des cytokines de classe I.",
+   "Elle ne comprend que des cytokines de l'immunité innée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les hématopoïétines forment une famille de cytokines.",
+   "Exact : EPO et TPO sont des hématopoïétines.",
+   "Exact : G-CSF et GM-CSF sont des hématopoïétines.",
+   "Exact : leurs récepteurs sont les récepteurs de classe I.",
+   "Faux : elle regroupe surtout des facteurs de croissance hématopoïétique."
+  ]
+ },
+ {
+  "q": "Concernant les chimiokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elles forment une des 4 familles de cytokines.",
+   "Leur rôle principal est le chimiotactisme des cellules immunitaires.",
+   "Leurs récepteurs forment une classe à part (récepteurs des chimiokines).",
+   "Elles sont stockées en grande quantité dans les cellules au repos.",
+   "Elles n'agissent qu'en mode endocrine."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les chimiokines forment une famille de cytokines.",
+   "Exact : elles attirent les cellules vers le site d'inflammation.",
+   "Exact : les récepteurs des chimiokines constituent une classe de récepteurs.",
+   "Faux : les cytokines ne sont pas stockées dans les cellules au repos.",
+   "Faux : elles agissent surtout en mode paracrine."
+  ]
+ },
+ {
+  "q": "Concernant la famille des TNF, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "TNF signifie Tumor Necrosis Factor.",
+   "Elle constitue une des 4 familles de cytokines.",
+   "Le TNFα est une cytokine de l'immunité innée.",
+   "Ses récepteurs appartiennent aux récepteurs des cytokines de classe III.",
+   "Le TNFα est une cytokine exclusivement anti-inflammatoire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : TNF = Tumor Necrosis Factor.",
+   "Exact : la famille des TNF est une des 4 familles.",
+   "Exact : le TNFα est classé parmi les cytokines de l'immunité innée.",
+   "Exact : récepteurs des TNF = récepteurs de classe III.",
+   "Faux : le TNFα est une cytokine pro-inflammatoire majeure."
+  ]
+ },
+ {
+  "q": "Quelles propriétés générales caractérisent les cytokines ?",
+  "options": [
+   "Elles agissent à très faible concentration.",
+   "Elles sont sécrétées de façon transitoire.",
+   "Elles ont une demi-vie courte.",
+   "Elles sont stockées en réserve dans le cytoplasme.",
+   "Elles agissent uniquement sur un seul type cellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : activité à l'ordre de la dizaine de picomoles.",
+   "Exact : la sécrétion est transitoire.",
+   "Exact : la demi-vie est courte, ce qui limite temps et champ d'action.",
+   "Faux : les cytokines ne sont pas stockées dans les cellules au repos.",
+   "Faux : une cytokine agit généralement sur plusieurs types cellulaires."
+  ]
+ },
+ {
+  "q": "Concernant la réponse immunitaire (RI), lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle résulte de la coopération entre différentes populations de cellules.",
+   "Les cytokines assurent l'échange d'informations entre ces cellules.",
+   "Elle ne fait intervenir que les lymphocytes.",
+   "Elle ne fait intervenir que l'immunité innée.",
+   "Les cellules hématopoïétiques participent à la réponse immunitaire."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : la RI résulte d'une coopération cellulaire.",
+   "Exact : les cytokines sont les molécules de communication.",
+   "Faux : de nombreuses populations cellulaires coopèrent, pas seulement les lymphocytes.",
+   "Faux : immunités innée et adaptative coopèrent.",
+   "Exact : les cellules hématopoïétiques participent."
+  ]
+ },
+ {
+  "q": "Le mode d'action autocrine des cytokines se caractérise par :",
+  "options": [
+   "Une action sur la cellule qui les a sécrétées.",
+   "L'exemple de l'IL-2 qui stimule la prolifération des LT qui la produisent.",
+   "Une action sur les cellules de l'environnement immédiat.",
+   "Une action à distance via la voie sanguine.",
+   "Une diffusion systémique obligatoire."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : autocrine = action sur la cellule productrice elle-même.",
+   "Exact : l'IL-2 agit en autocrine sur les LT activés.",
+   "Faux : c'est la définition du mode paracrine.",
+   "Faux : c'est la définition du mode endocrine.",
+   "Faux : l'action autocrine ne nécessite aucune diffusion systémique."
+  ]
+ },
+ {
+  "q": "Le mode d'action paracrine des cytokines se caractérise par :",
+  "options": [
+   "Une action sur les cellules de l'environnement immédiat.",
+   "Une diffusion limitée à courte distance.",
+   "Une action sur la cellule productrice elle-même.",
+   "Une action à distance via la voie sanguine.",
+   "Une sécrétion en grande quantité dans la circulation générale."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : paracrine = environnement immédiat.",
+   "Exact : la diffusion reste locale.",
+   "Faux : c'est la définition du mode autocrine.",
+   "Faux : c'est la définition du mode endocrine.",
+   "Faux : la sécrétion est faible et locale, pas massive ni systémique."
+  ]
+ },
+ {
+  "q": "Le mode d'action endocrine des cytokines se caractérise par :",
+  "options": [
+   "Une action à distance de la cellule sécrétrice.",
+   "Un transport par la voie sanguine.",
+   "L'exemple de l'IL-1 et du TNFα qui provoquent de la fièvre à distance.",
+   "Une action limitée à la cellule productrice.",
+   "Une action limitée aux cellules voisines."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : endocrine = action à distance.",
+   "Exact : le vecteur est la voie sanguine.",
+   "Exact : IL-1 et TNFα agissent sur l'hypothalamus à distance.",
+   "Faux : c'est la définition du mode autocrine.",
+   "Faux : c'est la définition du mode paracrine."
+  ]
+ },
+ {
+  "q": "Concernant la structure des cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ce sont des glycoprotéines.",
+   "Leur poids moléculaire est compris entre 8 et 25 kDa.",
+   "La plupart ont une structure tridimensionnelle hélicoïdale.",
+   "Ce sont des immunoglobulines.",
+   "Ce sont des lipides membranaires."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les cytokines sont des glycoprotéines.",
+   "Exact : faible poids moléculaire de 8 à 25 kDa.",
+   "Exact : structure le plus souvent hélicoïdale.",
+   "Faux : les immunoglobulines sont les anticorps, pas les cytokines.",
+   "Faux : ce sont des protéines, pas des lipides."
+  ]
+ },
+ {
+  "q": "Les cytokines diffèrent des hormones classiques par lesquelles de ces caractéristiques ?",
+  "options": [
+   "Une sécrétion en très faible quantité et transitoire.",
+   "Une demi-vie courte.",
+   "Des modes d'action autocrine et paracrine en plus du mode endocrine.",
+   "Une production par de nombreuses cellules différentes.",
+   "Une action exclusivement à distance via le sang."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : sécrétion faible et transitoire, typique des cytokines.",
+   "Exact : demi-vie courte, contrairement à beaucoup d'hormones.",
+   "Exact : les hormones agissent surtout en endocrine.",
+   "Exact : une cytokine a plusieurs cellules productrices possibles.",
+   "Faux : les cytokines agissent aussi en autocrine et paracrine."
+  ]
+ },
+ {
+  "q": "Concernant les cellules productrices de cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les lymphocytes T activés sont des producteurs majeurs.",
+   "Les macrophages activés produisent des cytokines pro-inflammatoires.",
+   "Les cellules dendritiques produisent des cytokines orientant la réponse adaptative.",
+   "Les cellules NK produisent des cytokines comme l'IFNγ.",
+   "Seules les cellules de l'immunité adaptative produisent des cytokines."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LT activés produisent de nombreuses cytokines.",
+   "Exact : les macrophages produisent IL-1, TNFα, IL-6.",
+   "Exact : les DC produisent IL-12 et orientent la différenciation Th.",
+   "Exact : les NK produisent notamment de l'IFNγ.",
+   "Faux : les cellules de l'immunité innée en produisent aussi."
+  ]
+ },
+ {
+  "q": "La synthèse de novo des cytokines signifie que :",
+  "options": [
+   "Elles ne sont pas préformées ni stockées dans la cellule au repos.",
+   "Leur production nécessite une activation cellulaire (ex : par un antigène).",
+   "La transcription des gènes de cytokines est induite par la stimulation.",
+   "Elles sont libérées à partir de granules préexistants.",
+   "Leur synthèse est constitutive et permanente dans toutes les cellules."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : pas de stock intracellulaire au repos.",
+   "Exact : la synthèse est induite par l'activation.",
+   "Exact : l'activation induit la transcription des gènes cytokiniques.",
+   "Faux : il n'y a pas de granules de stockage de cytokines.",
+   "Faux : la synthèse est induite et transitoire, pas constitutive."
+  ]
+ },
+ {
+  "q": "Concernant la quantité et la cinétique de sécrétion des cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La sécrétion se fait en faible quantité, de l'ordre de la dizaine de picomoles.",
+   "La sécrétion est transitoire.",
+   "La demi-vie des cytokines est courte.",
+   "La sécrétion se fait en quantité massive et durable.",
+   "Les cytokines persistent des semaines dans la circulation."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : sécrétion en faible quantité (dizaine de picomoles).",
+   "Exact : sécrétion transitoire.",
+   "Exact : demi-vie courte limitant temps et champ d'action.",
+   "Faux : la sécrétion est faible et transitoire.",
+   "Faux : la demi-vie courte empêche une persistance prolongée."
+  ]
+ },
+ {
+  "q": "Quelles propositions illustrent le principe 'une cytokine, différentes cellules' ?",
+  "options": [
+   "Le TNFα agit sur les macrophages, les cellules endothéliales et l'hypothalamus.",
+   "L'IL-2 agit sur les LT, les LB et les cellules NK.",
+   "L'IL-6 agit sur les hépatocytes, les LB et l'hypothalamus.",
+   "Chaque cytokine n'a qu'une seule cellule cible.",
+   "Une cytokine n'est produite que par un seul type cellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le TNFα a de multiples cellules cibles.",
+   "Exact : l'IL-2 agit sur plusieurs populations lymphocytaires.",
+   "Exact : l'IL-6 agit sur le foie, les LB et le centre thermorégulateur.",
+   "Faux : c'est l'inverse du principe énoncé.",
+   "Faux : c'est l'inverse du principe énoncé."
+  ]
+ },
+ {
+  "q": "Quelles propositions illustrent le principe 'une cellule, différentes cytokines' ?",
+  "options": [
+   "Un macrophage activé produit IL-1, TNFα et IL-6.",
+   "Un LT activé produit IL-2, IFNγ et TNFα.",
+   "Une cellule dendritique produit IL-12 et des chimiokines.",
+   "Une cellule ne peut produire qu'une seule cytokine.",
+   "Chaque cytokine provient d'un seul type cellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le macrophage activé sécrète plusieurs cytokines.",
+   "Exact : le LT activé produit plusieurs cytokines.",
+   "Exact : la DC produit plusieurs médiateurs.",
+   "Faux : c'est l'inverse du principe énoncé.",
+   "Faux : c'est l'inverse du principe énoncé."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines de l'immunité, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elles permettent la communication entre cellules de l'immunité innée et adaptative.",
+   "Elles coordonnent la prolifération et la différenciation des cellules immunitaires.",
+   "Elles participent à la régulation de l'inflammation.",
+   "Elles sont sans effet sur l'hématopoïèse.",
+   "Elles n'interviennent que dans l'immunité adaptative."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : elles relient innée et adaptative.",
+   "Exact : elles induisent prolifération et différenciation.",
+   "Exact : elles régulent positivement ou négativement l'inflammation.",
+   "Faux : certaines cytokines (EPO, G-CSF...) régulent l'hématopoïèse.",
+   "Faux : elles interviennent aussi dans l'immunité innée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles concernent les hématopoïétines ?",
+  "options": [
+   "L'érythropoïétine (EPO) stimule la production des globules rouges.",
+   "La thrombopoïétine (TPO) stimule la production des plaquettes.",
+   "Le G-CSF stimule la production des polynucléaires neutrophiles.",
+   "Le GM-CSF stimule la production des granulocytes et des macrophages.",
+   "L'IL-2 stimule la production des globules rouges."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'EPO stimule l'érythropoïèse.",
+   "Exact : la TPO stimule la mégacaryopoïèse et les plaquettes.",
+   "Exact : le G-CSF stimule la granulopoïèse neutrophile.",
+   "Exact : le GM-CSF stimule granulocytes et macrophages.",
+   "Faux : l'IL-2 est un facteur de croissance des lymphocytes T."
+  ]
+ },
+ {
+  "q": "Concernant le nombre de cytokines identifiées, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Plus de 200 cytokines humaines ont été identifiées.",
+   "De nouvelles cytokines sont encore découvertes.",
+   "Il n'existe qu'une dizaine de cytokines connues.",
+   "Les cytokines forment un réseau complexe et redondant.",
+   "Chaque cytokine a une fonction totalement unique et non redondante."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : plus de 200 cytokines humaines identifiées.",
+   "Exact : la découverte de nouvelles cytokines se poursuit.",
+   "Faux : on en connaît plus de 200.",
+   "Exact : redondance et pléiotropie caractérisent le réseau cytokinique.",
+   "Faux : les fonctions cytokiniques sont souvent redondantes."
+  ]
+ },
+ {
+  "q": "Les cytokines agissent sur leurs cellules cibles grâce à :",
+  "options": [
+   "La fixation sur des récepteurs membranaires spécifiques.",
+   "L'activation de seconds messagers intracellulaires.",
+   "Une cascade de réactions biochimiques intracellulaires.",
+   "Une diffusion passive à travers la membrane plasmique.",
+   "Une action directe sur l'ADN sans récepteur."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : fixation sur des récepteurs membranaires spécifiques.",
+   "Exact : activation de seconds messagers intracellulaires.",
+   "Exact : cascade biochimique aboutissant à l'effet spécifique.",
+   "Faux : les cytokines sont hydrosolubles et agissent via des récepteurs.",
+   "Faux : tout effet cytokinique passe par un récepteur membranaire."
+  ]
+ },
+ {
+  "q": "Les effets spécifiques des cytokines sur les cellules cibles comprennent :",
+  "options": [
+   "La prolifération cellulaire.",
+   "La différenciation cellulaire.",
+   "L'activation fonctionnelle (ex : macrophages).",
+   "La régulation de l'apoptose.",
+   "Uniquement la destruction de la cellule cible."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les cytokines induisent la prolifération.",
+   "Exact : elles induisent la différenciation.",
+   "Exact : elles activent les fonctions effectrices.",
+   "Exact : certaines cytokines régulent la survie ou l'apoptose.",
+   "Faux : les effets sont variés, pas limités à la destruction."
+  ]
+ },
+ {
+  "q": "Concernant les modes d'action des cytokines, lesquelles de ces associations sont correctes ?",
+  "options": [
+   "Autocrine : IL-2 sur le LT producteur lui-même.",
+   "Paracrine : IL-12 de la cellule dendritique sur le LT voisin.",
+   "Endocrine : IL-1 et TNFα sur l'hypothalamus à l'origine de la fièvre.",
+   "Autocrine : action à distance via le sang.",
+   "Endocrine : action sur la cellule productrice elle-même."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'IL-2 agit en autocrine sur le LT qui la produit.",
+   "Exact : l'IL-12 agit en paracrine sur les LT voisins.",
+   "Exact : IL-1 et TNFα pyrogènes agissent en endocrine.",
+   "Faux : l'action à distance via le sang définit le mode endocrine.",
+   "Faux : l'action sur la cellule productrice définit le mode autocrine."
+  ]
+ },
+ {
+  "q": "Quelles différences distinguent une action paracrine d'une action endocrine des cytokines ?",
+  "options": [
+   "L'action paracrine est locale, l'action endocrine est à distance.",
+   "L'action endocrine utilise la voie sanguine, pas la paracrine.",
+   "L'action paracrine concerne l'environnement immédiat de la cellule sécrétrice.",
+   "L'action endocrine nécessite des concentrations plus élevées que la paracrine.",
+   "L'action paracrine est systémique et l'endocrine est locale."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : paracrine = locale, endocrine = à distance.",
+   "Exact : seule l'endocrine passe par la voie sanguine.",
+   "Exact : le paracrine vise les cellules voisines.",
+   "Faux : les cytokines agissent à très faible concentration dans les deux cas.",
+   "Faux : c'est l'inverse."
+  ]
+ },
+ {
+  "q": "Concernant la coopération cellulaire dans la réponse immunitaire, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les CPA produisent des cytokines qui activent les lymphocytes.",
+   "Les lymphocytes T produisent des cytokines qui activent les macrophages.",
+   "Les cellules NK produisent des cytokines qui modulent la réponse adaptative.",
+   "Les cellules agissent de façon totalement isolée les unes des autres.",
+   "Aucune communication intercellulaire n'est nécessaire à la réponse immunitaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les CPA activent les LT via cytokines et présentation antigénique.",
+   "Exact : l'IFNγ des LT active les macrophages.",
+   "Exact : l'IFNγ des NK oriente la réponse adaptative.",
+   "Faux : la réponse immunitaire repose sur la coopération cellulaire.",
+   "Faux : les cytokines assurent justement cette communication."
+  ]
+ },
+ {
+  "q": "Parmi les cytokines suivantes, lesquelles appartiennent à la famille des interleukines ?",
+  "options": [
+   "L'IL-1.",
+   "L'IL-2.",
+   "L'IL-6.",
+   "L'IL-12.",
+   "L'érythropoïétine (EPO)."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-1 est une interleukine.",
+   "Exact : l'IL-2 est une interleukine.",
+   "Exact : l'IL-6 est une interleukine.",
+   "Exact : l'IL-12 est une interleukine.",
+   "Faux : l'EPO est une hématopoïétine."
+  ]
+ },
+ {
+  "q": "Parmi les cytokines suivantes, lesquelles appartiennent à la famille des hématopoïétines ?",
+  "options": [
+   "Le G-CSF.",
+   "Le GM-CSF.",
+   "La thrombopoïétine (TPO).",
+   "L'érythropoïétine (EPO).",
+   "L'IL-17."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le G-CSF est une hématopoïétine.",
+   "Exact : le GM-CSF est une hématopoïétine.",
+   "Exact : la TPO est une hématopoïétine.",
+   "Exact : l'EPO est une hématopoïétine.",
+   "Faux : l'IL-17 est une cytokine de l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Concernant les propriétés des cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elles agissent en réseau avec des effets en cascade.",
+   "Elles ont des effets pléiotropes (plusieurs effets sur plusieurs cellules).",
+   "Leurs effets sont souvent redondants entre cytokines différentes.",
+   "Chaque cytokine a un effet unique sur une seule cellule.",
+   "Elles agissent indépendamment les unes des autres."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : activité en cascade décrite dans le cours.",
+   "Exact : une cytokine agit sur différentes cellules (pléiotropie).",
+   "Exact : plusieurs cytokines peuvent avoir des effets similaires.",
+   "Faux : pléiotropie et redondance sont la règle.",
+   "Faux : elles fonctionnent en réseau et en cascade."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant la demi-vie des cytokines ?",
+  "options": [
+   "Elle est courte.",
+   "Elle limite le temps d'action des cytokines.",
+   "Elle limite le champ d'action des cytokines.",
+   "Elle est de plusieurs semaines.",
+   "Elle permet une action prolongée sans nouvelle synthèse."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : demi-vie courte.",
+   "Exact : elle limite le temps d'action.",
+   "Exact : elle limite le champ d'action.",
+   "Faux : la demi-vie est courte, pas de plusieurs semaines.",
+   "Faux : une action prolongée exige une synthèse renouvelée."
+  ]
+ },
+ {
+  "q": "Concernant la sécrétion des cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle est induite par l'activation cellulaire.",
+   "Elle est transitoire.",
+   "Elle se fait en faible quantité.",
+   "Elle est constitutive et permanente dans toutes les cellules.",
+   "Elle nécessite un stockage préalable dans des granules."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : synthèse induite de novo après activation.",
+   "Exact : sécrétion transitoire.",
+   "Exact : faible quantité (dizaine de picomoles).",
+   "Faux : la sécrétion est induite et transitoire.",
+   "Faux : les cytokines ne sont pas stockées."
+  ]
+ },
+ {
+  "q": "Les cytokines de l'immunité innée listées dans le cours comprennent :",
+  "options": [
+   "L'IL-1.",
+   "Le TNFα.",
+   "L'IL-6.",
+   "L'IL-12.",
+   "L'IL-2."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IL-1 = cytokine de l'immunité innée.",
+   "Exact : TNFα = cytokine de l'immunité innée.",
+   "Exact : IL-6 = cytokine de l'immunité innée.",
+   "Exact : IL-12 = cytokine de l'immunité innée.",
+   "Faux : l'IL-2 est une cytokine de l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Les cytokines de l'immunité adaptative listées dans le cours comprennent :",
+  "options": [
+   "L'IL-2.",
+   "L'IL-4.",
+   "L'IL-10.",
+   "Le TGFβ.",
+   "L'IL-1."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IL-2 = cytokine de l'immunité adaptative.",
+   "Exact : IL-4 = cytokine de l'immunité adaptative.",
+   "Exact : IL-10 = cytokine de l'immunité adaptative.",
+   "Exact : TGFβ = cytokine de l'immunité adaptative.",
+   "Faux : l'IL-1 est une cytokine de l'immunité innée."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines de l'hématopoïèse listées dans le cours, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'érythropoïétine (EPO), la thrombopoïétine (TPO), le G-CSF et le GM-CSF en font partie.",
+   "L'IL-3, l'IL-5, l'IL-6, l'IL-7 et l'IL-11 en font aussi partie.",
+   "L'IL-2 en fait partie.",
+   "L'IFNγ en fait partie.",
+   "Le TNFα en fait partie."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : EPO, TPO, G-CSF, GM-CSF sont des cytokines de l'hématopoïèse.",
+   "Exact : IL-3, IL-5, IL-6, IL-7, IL-11 participent aussi à l'hématopoïèse.",
+   "Faux : l'IL-2 est une cytokine de l'immunité adaptative.",
+   "Faux : l'IFNγ est une cytokine de l'immunité adaptative.",
+   "Faux : le TNFα est une cytokine de l'immunité innée."
+  ]
+ },
+ {
+  "q": "Concernant l'expression des récepteurs des cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils sont exprimés en petit nombre à la surface des cellules.",
+   "Ils sont exprimés à la surface de nombreuses cellules.",
+   "Les lymphocytes B et T expriment des récepteurs de cytokines.",
+   "Les macrophages et les cellules NK expriment des récepteurs de cytokines.",
+   "Seules les cellules hématopoïétiques expriment des récepteurs de cytokines."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : petit nombre de récepteurs par cellule.",
+   "Exact : exprimés sur de nombreux types cellulaires.",
+   "Exact : LB et LT portent des récepteurs de cytokines.",
+   "Exact : macrophages et NK portent des récepteurs de cytokines.",
+   "Faux : fibroblastes, cellules endothéliales, nerveuses... les expriment aussi."
+  ]
+ },
+ {
+  "q": "Quels types cellulaires expriment des récepteurs de cytokines ?",
+  "options": [
+   "Les lymphocytes B.",
+   "Les lymphocytes T.",
+   "Les fibroblastes.",
+   "Les cellules endothéliales.",
+   "Aucune cellule en dehors du système immunitaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LB expriment des récepteurs de cytokines.",
+   "Exact : les LT expriment des récepteurs de cytokines.",
+   "Exact : les fibroblastes expriment des récepteurs de cytokines.",
+   "Exact : les cellules endothéliales expriment des récepteurs de cytokines.",
+   "Faux : de nombreuses cellules non immunitaires les expriment aussi."
+  ]
+ },
+ {
+  "q": "Concernant le mécanisme d'action des cytokines sur leurs récepteurs, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les cytokines se fixent sur leurs récepteurs membranaires spécifiques.",
+   "La fixation active des seconds messagers intracellulaires.",
+   "Une cascade de réactions biochimiques s'ensuit dans la cellule.",
+   "L'effet final est spécifique de la cytokine (prolifération, différenciation...).",
+   "Les cytokines traversent la membrane pour agir directement sur l'ADN."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : fixation sur des récepteurs membranaires spécifiques.",
+   "Exact : activation de seconds messagers intracellulaires.",
+   "Exact : cascade de réactions biochimiques.",
+   "Exact : effet spécifique (prolifération, différenciation...).",
+   "Faux : l'action passe par le récepteur membranaire, pas de traversée directe."
+  ]
+ },
+ {
+  "q": "Les récepteurs des cytokines sont classés en 5 classes selon leur structure moléculaire. Lesquelles ?",
+  "options": [
+   "Les récepteurs des hématopoïétines (récepteurs des cytokines de classe I).",
+   "Les récepteurs des interférons (récepteurs des cytokines de classe II).",
+   "Les récepteurs des TNF (récepteurs des cytokines de classe III).",
+   "Les récepteurs de la superfamille des immunoglobulines.",
+   "Les récepteurs des hormones stéroïdiennes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : récepteurs des hématopoïétines = classe I.",
+   "Exact : récepteurs des interférons = classe II.",
+   "Exact : récepteurs des TNF = classe III.",
+   "Exact : récepteurs de la superfamille des Ig.",
+   "Faux : les récepteurs des hormones stéroïdiennes sont intracellulaires, hors classification."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs des cytokines de classe I, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ce sont les récepteurs des hématopoïétines.",
+   "Ils lient par exemple l'IL-2, l'IL-4, l'IL-6, l'EPO et le G-CSF.",
+   "Ils transmettent le signal via la voie JAK/STAT.",
+   "Ce sont des récepteurs couplés aux protéines G.",
+   "Ils lient les interférons."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : classe I = récepteurs des hématopoïétines.",
+   "Exact : ils lient IL-2, IL-4, IL-6, EPO, G-CSF, etc.",
+   "Exact : signalisation JAK/STAT caractéristique.",
+   "Faux : les récepteurs couplés aux protéines G sont ceux des chimiokines.",
+   "Faux : les interférons lient les récepteurs de classe II."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs des cytokines de classe II, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ce sont les récepteurs des interférons (IFN).",
+   "Ils lient l'IFNα, l'IFNβ et l'IFNγ.",
+   "Ils transmettent le signal via la voie JAK/STAT.",
+   "L'IL-10 utilise aussi un récepteur de cette classe.",
+   "Ils lient le TNFα."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : classe II = récepteurs des interférons.",
+   "Exact : ils lient IFNα, IFNβ (type I) et IFNγ (type II).",
+   "Exact : signalisation JAK/STAT.",
+   "Exact : le récepteur de l'IL-10 appartient à la classe II.",
+   "Faux : le TNFα lie les récepteurs de classe III."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs des cytokines de classe III, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ce sont les récepteurs des TNF.",
+   "On distingue notamment le TNFR1 et le TNFR2.",
+   "Ils peuvent transmettre des signaux de survie ou d'apoptose.",
+   "Ils lient les hématopoïétines.",
+   "Ils lient les chimiokines."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : classe III = récepteurs des TNF.",
+   "Exact : TNFR1 (p55) et TNFR2 (p75) sont les deux récepteurs du TNFα.",
+   "Exact : selon le contexte, survie (NF-κB) ou apoptose.",
+   "Faux : les hématopoïétines lient les récepteurs de classe I.",
+   "Faux : les chimiokines ont leurs propres récepteurs."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs de la superfamille des immunoglobulines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils forment une des 5 classes de récepteurs de cytokines.",
+   "Le récepteur de l'IL-1 en fait partie.",
+   "Ils possèdent des domaines de type immunoglobuline dans leur partie extracellulaire.",
+   "Ce sont des récepteurs nucléaires.",
+   "Ils lient les interférons."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : c'est une des 5 classes de récepteurs.",
+   "Exact : l'IL-1R appartient à la superfamille des Ig.",
+   "Exact : domaines Ig-like extracellulaires caractéristiques.",
+   "Faux : ce sont des récepteurs membranaires.",
+   "Faux : les interférons lient les récepteurs de classe II."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs des chimiokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils forment une des 5 classes de récepteurs de cytokines.",
+   "Ce sont des récepteurs à 7 domaines transmembranaires couplés aux protéines G.",
+   "Ils permettent la migration dirigée des leucocytes (chimiotactisme).",
+   "Ils lient les hématopoïétines.",
+   "Ils transmettent le signal via JAK/STAT."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : c'est une des 5 classes de récepteurs.",
+   "Exact : récepteurs heptahélicoïdaux couplés aux protéines G.",
+   "Exact : ils dirigent la migration des leucocytes vers l'inflammation.",
+   "Faux : les hématopoïétines lient les récepteurs de classe I.",
+   "Faux : la voie JAK/STAT est celle des récepteurs de classe I et II."
+  ]
+ },
+ {
+  "q": "Associez chaque cytokine à sa classe de récepteur. Lesquelles de ces associations sont correctes ?",
+  "options": [
+   "EPO : récepteur de classe I.",
+   "IFNγ : récepteur de classe II.",
+   "TNFα : récepteur de classe III.",
+   "IL-1 : récepteur de la superfamille des Ig.",
+   "IL-8 (CXCL8) : récepteur de classe I."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'EPO lie un récepteur de classe I.",
+   "Exact : l'IFNγ lie un récepteur de classe II.",
+   "Exact : le TNFα lie un récepteur de classe III.",
+   "Exact : l'IL-1 lie un récepteur de la superfamille des Ig.",
+   "Faux : l'IL-8 est une chimiokine, elle lie un récepteur des chimiokines."
+  ]
+ },
+ {
+  "q": "Concernant la spécificité des récepteurs de cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Chaque cytokine se fixe sur son récepteur membranaire spécifique.",
+   "La fixation est nécessaire au déclenchement de l'effet biologique.",
+   "Un même récepteur peut être partagé par plusieurs cytokines.",
+   "Les cytokines agissent sans récepteur par diffusion simple.",
+   "Tous les récepteurs de cytokines ont la même structure."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : fixation sur des récepteurs spécifiques.",
+   "Exact : pas d'effet sans fixation au récepteur.",
+   "Exact : ex : la chaîne γc est commune aux récepteurs de l'IL-2, IL-4, IL-7, IL-15, IL-21.",
+   "Faux : tout effet cytokinique passe par un récepteur.",
+   "Faux : 5 classes structurales distinctes existent."
+  ]
+ },
+ {
+  "q": "Le récepteur de l'IL-2 (IL-2R) :",
+  "options": [
+   "La chaîne α du récepteur de l'IL-2 est le CD25.",
+   "Il comprend les chaînes α (CD25), β (CD122) et γc (CD132).",
+   "La forme de haute affinité (αβγ) est exprimée par les LT activés.",
+   "Le CD25 est la cible de l'anticorps anti-CD25 utilisé en prévention du rejet de greffe.",
+   "Le CD25 est la chaîne β du récepteur de l'IL-2."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CD25 = IL-2Rα.",
+   "Exact : IL-2R = CD25/CD122/CD132.",
+   "Exact : le trimère αβγ est le récepteur de haute affinité des LT activés.",
+   "Exact : l'anti-CD25 bloque la signalisation IL-2 des LT activés.",
+   "Faux : le CD25 est la chaîne α, la chaîne β est le CD122."
+  ]
+ },
+ {
+  "q": "Concernant la signalisation des récepteurs de cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La fixation de la cytokine active des seconds messagers intracellulaires.",
+   "La voie JAK/STAT est la voie majeure des récepteurs de classe I et II.",
+   "Les récepteurs des chimiokines signalent via les protéines G.",
+   "Les récepteurs du TNF peuvent activer NF-κB.",
+   "La signalisation cytokinique ne fait intervenir aucune protéine intracellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : activation de seconds messagers intracellulaires.",
+   "Exact : JAK/STAT = voie canonique des classes I et II.",
+   "Exact : récepteurs des chimiokines couplés aux protéines G.",
+   "Exact : TNFR1 active notamment NF-κB (survie/inflammation).",
+   "Faux : toute la signalisation repose sur des protéines intracellulaires."
+  ]
+ },
+ {
+  "q": "Concernant le nombre de récepteurs de cytokines à la surface des cellules, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils sont exprimés en petit nombre par cellule.",
+   "Malgré leur faible nombre, ils suffisent à déclencher une réponse.",
+   "Leur nombre peut augmenter après activation cellulaire.",
+   "Ils sont exprimés en très grand nombre comme les récepteurs hormonaux classiques.",
+   "Leur faible nombre empêche toute réponse cellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : petit nombre de récepteurs à la surface.",
+   "Exact : les cytokines agissent à très faible concentration.",
+   "Exact : ex : le CD25 (IL-2Rα) est induit sur les LT activés.",
+   "Faux : le cours précise 'petit nombre'.",
+   "Faux : ce petit nombre suffit à une signalisation efficace."
+  ]
+ },
+ {
+  "q": "Quelles cellules expriment des récepteurs de cytokines en dehors des cellules immunitaires ?",
+  "options": [
+   "Les fibroblastes.",
+   "Les cellules endothéliales.",
+   "Les cellules nerveuses.",
+   "Les hépatocytes (ex : récepteur de l'IL-6).",
+   "Aucune cellule non immunitaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les fibroblastes portent des récepteurs de cytokines.",
+   "Exact : les cellules endothéliales portent des récepteurs de cytokines.",
+   "Exact : les cellules nerveuses portent des récepteurs de cytokines.",
+   "Exact : l'IL-6 agit sur les hépatocytes (protéines de la phase aiguë).",
+   "Faux : de nombreuses cellules non immunitaires les expriment."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs solubles des cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Des formes solubles de récepteurs existent dans la circulation.",
+   "Elles peuvent neutraliser la cytokine en la captant.",
+   "Le récepteur soluble du TNF est utilisé comme base thérapeutique (étanercept).",
+   "Elles amplifient toujours l'action des cytokines.",
+   "Elles n'existent que pour les chimiokines."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : des récepteurs solubles circulent (ex : sTNFR, sIL-2R).",
+   "Exact : elles agissent comme leurres en captant la cytokine.",
+   "Exact : l'étanercept est un récepteur soluble du TNF (anti-TNFα).",
+   "Faux : elles inhibent généralement l'action cytokinique.",
+   "Faux : elles existent pour de nombreuses cytokines (TNF, IL-2, IL-6...)."
+  ]
+ },
+ {
+  "q": "La chaîne γc (gamma commune, CD132) :",
+  "options": [
+   "Elle est partagée par les récepteurs de l'IL-2, l'IL-4, l'IL-7, l'IL-15 et l'IL-21.",
+   "Son déficit génétique cause un déficit immunitaire combiné sévère (DICS).",
+   "C'est une chaîne des récepteurs de cytokines de classe I.",
+   "Elle est spécifique du récepteur de l'IL-2.",
+   "Elle appartient aux récepteurs des chimiokines."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : γc commune à IL-2, IL-4, IL-7, IL-9, IL-15, IL-21.",
+   "Exact : le déficit en γc cause le DICS lié à l'X.",
+   "Exact : ces récepteurs sont de classe I.",
+   "Faux : elle est partagée par plusieurs récepteurs.",
+   "Faux : elle appartient aux récepteurs de classe I."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs des interférons de type I (IFNα/β), lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils appartiennent aux récepteurs des cytokines de classe II.",
+   "L'IFNα et l'IFNβ partagent le même récepteur (IFNAR).",
+   "Ils transmettent le signal via JAK/STAT.",
+   "Ils appartiennent aux récepteurs de classe I.",
+   "Ils sont couplés aux protéines G."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : récepteurs des IFN = classe II.",
+   "Exact : IFNAR1/IFNAR2 lient IFNα et IFNβ.",
+   "Exact : signalisation JAK/STAT.",
+   "Faux : ce sont des récepteurs de classe II.",
+   "Faux : le couplage aux protéines G concerne les récepteurs des chimiokines."
+  ]
+ },
+ {
+  "q": "Concernant le récepteur de l'IFNγ, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Il appartient aux récepteurs des cytokines de classe II.",
+   "Il est exprimé sur les macrophages, qu'il active.",
+   "Il transmet le signal via JAK/STAT.",
+   "Son déficit génétique expose aux infections mycobactériennes.",
+   "Il appartient aux récepteurs de classe III."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : récepteur de l'IFNγ = classe II.",
+   "Exact : l'IFNγ est le principal activateur des macrophages.",
+   "Exact : signalisation JAK/STAT.",
+   "Exact : le déficit de l'axe IL-12/IFNγ expose aux mycobactéries.",
+   "Faux : la classe III regroupe les récepteurs des TNF."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant la classification des récepteurs de cytokines ?",
+  "options": [
+   "Elle repose sur la structure moléculaire des récepteurs.",
+   "On distingue 5 classes de récepteurs.",
+   "Les récepteurs des hématopoïétines forment la classe I.",
+   "Les récepteurs des interférons forment la classe II.",
+   "Les récepteurs des chimiokines forment la classe IV numérotée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : classification selon la structure moléculaire.",
+   "Exact : 5 classes de récepteurs.",
+   "Exact : classe I = hématopoïétines.",
+   "Exact : classe II = interférons.",
+   "Faux : les récepteurs des chimiokines forment une classe à part, non numérotée."
+  ]
+ },
+ {
+  "q": "Concernant les effets déclenchés par la fixation des cytokines sur leurs récepteurs, lesquels sont possibles ?",
+  "options": [
+   "La prolifération de la cellule cible.",
+   "La différenciation de la cellule cible.",
+   "L'activation des fonctions effectrices.",
+   "L'inhibition de certaines fonctions (cytokines régulatrices).",
+   "Aucun effet intracellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les cytokines induisent la prolifération.",
+   "Exact : elles induisent la différenciation.",
+   "Exact : elles activent les fonctions (ex : macrophages).",
+   "Exact : IL-10, TGFβ inhibent l'inflammation.",
+   "Faux : la fixation déclenche une cascade intracellulaire."
+  ]
+ },
+ {
+  "q": "Un anticorps monoclonal dirigé contre un récepteur de cytokine :",
+  "options": [
+   "Peut bloquer la fixation de la cytokine et son effet.",
+   "L'anti-CD25 (anti-IL-2Rα) est utilisé en prévention du rejet de greffe.",
+   "Les antagonistes du TNFα sont utilisés dans la polyarthrite rhumatoïde.",
+   "Ne peut jamais avoir d'effet thérapeutique.",
+   "Agit en augmentant la synthèse de la cytokine."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : blocage du récepteur = blocage de l'effet.",
+   "Exact : anti-CD25 en prévention du rejet de greffe.",
+   "Exact : anti-TNFα dans la polyarthrite rhumatoïde.",
+   "Faux : plusieurs biothérapies ciblent cytokines ou récepteurs.",
+   "Faux : il bloque la signalisation, il ne stimule pas la synthèse."
+  ]
+ },
+ {
+  "q": "Concernant la régulation de l'expression des récepteurs de cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'activation cellulaire peut induire l'expression de nouveaux récepteurs.",
+   "Les LT activés expriment le CD25 (IL-2Rα) de haute affinité.",
+   "L'expression des récepteurs est totalement fixe et invariable.",
+   "Les cytokines peuvent moduler l'expression de leurs propres récepteurs.",
+   "Seules les cellules au repos expriment des récepteurs de cytokines."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : l'activation induit de nouveaux récepteurs.",
+   "Exact : CD25 induit sur les LT activés.",
+   "Faux : l'expression est régulée et variable.",
+   "Exact : boucles de régulation positives ou négatives.",
+   "Faux : les cellules activées expriment davantage de récepteurs."
+  ]
+ },
+ {
+  "q": "Quelles sont les caractéristiques des récepteurs des cytokines de classe I ?",
+  "options": [
+   "Ils lient les hématopoïétines et de nombreuses interleukines.",
+   "Ils utilisent la voie JAK/STAT.",
+   "Certains partagent des chaînes communes (ex : γc, gp130).",
+   "Ils sont couplés aux protéines G.",
+   "Ils lient les interférons."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : classe I = hématopoïétines et interleukines (IL-2, IL-6...).",
+   "Exact : signalisation JAK/STAT.",
+   "Exact : chaînes partagées γc, gp130, βc.",
+   "Faux : le couplage aux protéines G concerne les chimiokines.",
+   "Faux : les interférons lient la classe II."
+  ]
+ },
+ {
+  "q": "La gp130 :",
+  "options": [
+   "Est une chaîne de signalisation commune à plusieurs récepteurs de cytokines.",
+   "Est partagée par les récepteurs de l'IL-6, l'IL-11 et d'autres cytokines.",
+   "Participe à la signalisation JAK/STAT.",
+   "Est le récepteur spécifique du TNFα.",
+   "Est un récepteur des chimiokines."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : gp130 = chaîne commune de signalisation.",
+   "Exact : partagée par IL-6, IL-11, LIF, oncostatine M...",
+   "Exact : signalisation JAK/STAT via gp130.",
+   "Faux : le TNFα lie TNFR1/TNFR2 (classe III).",
+   "Faux : gp130 appartient aux récepteurs de classe I."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs des cytokines, lesquelles de ces propositions sont FAUSSES ?",
+  "options": [
+   "Les cytokines agissent sans se fixer à un récepteur.",
+   "Tous les récepteurs de cytokines sont intracellulaires.",
+   "Il n'existe qu'une seule classe de récepteurs de cytokines.",
+   "Les récepteurs des cytokines sont des récepteurs membranaires spécifiques.",
+   "La fixation active des seconds messagers intracellulaires."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : toute action cytokinique passe par un récepteur.",
+   "Faux : ce sont des récepteurs membranaires.",
+   "Faux : il existe 5 classes de récepteurs.",
+   "Exact : récepteurs membranaires spécifiques (proposition vraie).",
+   "Exact : activation de seconds messagers (proposition vraie)."
+  ]
+ },
+ {
+  "q": "L'étanercept :",
+  "options": [
+   "Est un récepteur soluble du TNFα (protéine de fusion).",
+   "Agit comme un antagoniste du TNFα.",
+   "Est utilisé dans la polyarthrite rhumatoïde.",
+   "Est un anticorps anti-CD25.",
+   "Stimule la production de TNFα."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : récepteur soluble du TNF fusionné à un fragment Fc.",
+   "Exact : il capte le TNFα et bloque son action.",
+   "Exact : indiqué dans la polyarthrite rhumatoïde.",
+   "Faux : l'anti-CD25 (basiliximab) cible l'IL-2Rα.",
+   "Faux : il neutralise le TNFα, il ne le stimule pas."
+  ]
+ },
+ {
+  "q": "Concernant les 5 classes de récepteurs des cytokines, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Classe I : récepteurs des hématopoïétines.",
+   "Classe II : récepteurs des interférons.",
+   "Classe III : récepteurs des TNF.",
+   "Superfamille des Ig : ex. récepteur de l'IL-1.",
+   "Classe I : récepteurs des chimiokines."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : classe I = hématopoïétines.",
+   "Exact : classe II = interférons.",
+   "Exact : classe III = TNF.",
+   "Exact : l'IL-1R appartient à la superfamille des Ig.",
+   "Faux : les chimiokines ont leurs propres récepteurs (classe à part)."
+  ]
+ },
+ {
+  "q": "Quelles propositions décrivent correctement la cascade déclenchée par les récepteurs de cytokines ?",
+  "options": [
+   "Fixation de la cytokine sur son récepteur membranaire spécifique.",
+   "Activation de seconds messagers intracellulaires.",
+   "Cascade de réactions biochimiques.",
+   "Effet cellulaire spécifique (prolifération, différenciation...).",
+   "Entrée directe de la cytokine dans le noyau."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : première étape = fixation au récepteur.",
+   "Exact : activation de seconds messagers.",
+   "Exact : cascade biochimique intracellulaire.",
+   "Exact : effet final spécifique de la cytokine.",
+   "Faux : la cytokine n'entre pas dans le noyau."
+  ]
+ },
+ {
+  "q": "Le basiliximab :",
+  "options": [
+   "Est un anticorps monoclonal anti-CD25.",
+   "Bloque la chaîne α du récepteur de l'IL-2.",
+   "Est utilisé en prévention du rejet aigu de greffe.",
+   "Est un antagoniste du TNFα.",
+   "Stimule la prolifération des lymphocytes T."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : basiliximab = anti-CD25.",
+   "Exact : il bloque l'IL-2Rα (CD25).",
+   "Exact : indiqué en prévention du rejet de greffe.",
+   "Faux : les anti-TNFα sont l'infliximab, l'adalimumab, l'étanercept.",
+   "Faux : il inhibe la prolifération T dépendante de l'IL-2."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs de cytokines et leurs ligands, lesquelles de ces associations sont correctes ?",
+  "options": [
+   "IL-6 : récepteur de classe I utilisant gp130.",
+   "IL-12 : récepteur de classe I.",
+   "IFNβ : récepteur de classe II.",
+   "Chimiokines : récepteurs couplés aux protéines G.",
+   "TNFβ : récepteur de classe I."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-6 signale via gp130 (classe I).",
+   "Exact : l'IL-12 lie un récepteur de classe I.",
+   "Exact : l'IFNβ lie un récepteur de classe II.",
+   "Exact : récepteurs des chimiokines = RCPG.",
+   "Faux : le TNFβ (lymphotoxine α) lie les récepteurs du TNF (classe III)."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies à propos des récepteurs membranaires des cytokines ?",
+  "options": [
+   "Ils sont spécifiques de leurs cytokines.",
+   "Ils sont exprimés en petit nombre à la surface cellulaire.",
+   "Ils sont présents sur de nombreux types cellulaires.",
+   "Ils déclenchent une signalisation intracellulaire après fixation.",
+   "Ils sont tous identiques entre eux."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : récepteurs spécifiques de chaque cytokine.",
+   "Exact : exprimés en petit nombre.",
+   "Exact : présents sur de nombreuses cellules.",
+   "Exact : activation de seconds messagers intracellulaires.",
+   "Faux : 5 classes structurales distinctes."
+  ]
+ },
+ {
+  "q": "Concernant la voie JAK/STAT, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est la voie de signalisation majeure des récepteurs de cytokines de classe I et II.",
+   "Les JAK sont des tyrosines kinases associées aux récepteurs.",
+   "Les STAT activés migrent dans le noyau et régulent la transcription.",
+   "Elle est utilisée par les récepteurs des chimiokines.",
+   "Elle ne concerne que les récepteurs du TNF."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : voie canonique des classes I et II.",
+   "Exact : Janus kinases associées aux récepteurs.",
+   "Exact : les STAT sont des facteurs de transcription.",
+   "Faux : les chimiokines signalent via les protéines G.",
+   "Faux : les récepteurs du TNF utilisent d'autres voies (NF-κB, caspases)."
+  ]
+ },
+ {
+  "q": "Un déficit génétique d'un récepteur de cytokine peut entraîner :",
+  "options": [
+   "Un déficit immunitaire (ex : déficit en γc = DICS lié à l'X).",
+   "Une susceptibilité accrue aux infections.",
+   "Un déficit de la signalisation de plusieurs cytokines si la chaîne est partagée.",
+   "Une hyperproduction de cytokines.",
+   "Toujours une maladie auto-immune."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : déficit en γc = déficit immunitaire combiné sévère.",
+   "Exact : la signalisation cytokinique défectueuse expose aux infections.",
+   "Exact : une chaîne commune (γc, gp130) affecte plusieurs cytokines.",
+   "Faux : un déficit de récepteur réduit la signalisation, pas l'inverse.",
+   "Faux : le tableau principal est le déficit immunitaire."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs des cytokines de classe III, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils lient les membres de la famille des TNF.",
+   "Le TNFα et le TNFβ (lymphotoxine α) partagent ces récepteurs.",
+   "Ils peuvent induire l'apoptose via des domaines de mort.",
+   "Ils utilisent la voie JAK/STAT comme voie principale.",
+   "Ils sont couplés aux protéines G."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : classe III = récepteurs des TNF.",
+   "Exact : TNFα et TNFβ lient TNFR1/TNFR2.",
+   "Exact : TNFR1 possède un domaine de mort (apoptose).",
+   "Faux : JAK/STAT est la voie des classes I et II.",
+   "Faux : le couplage aux protéines G concerne les chimiokines."
+  ]
+ },
+ {
+  "q": "Quelles propositions illustrent la diversité des récepteurs de cytokines ?",
+  "options": [
+   "5 classes structurales distinctes existent.",
+   "Certains sont couplés aux protéines G (chimiokines).",
+   "Certains utilisent JAK/STAT (classes I et II).",
+   "Certains appartiennent à la superfamille des Ig (IL-1R).",
+   "Tous utilisent exactement la même voie de signalisation."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 5 classes de récepteurs.",
+   "Exact : récepteurs des chimiokines = RCPG.",
+   "Exact : classes I et II = JAK/STAT.",
+   "Exact : IL-1R = superfamille des Ig.",
+   "Faux : les voies de signalisation diffèrent selon la classe."
+  ]
+ },
+ {
+  "q": "Concernant l'érythropoïétine (EPO), lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'hématopoïèse.",
+   "Elle stimule la production des globules rouges.",
+   "Elle est produite principalement par le rein en réponse à l'hypoxie.",
+   "Elle est utilisée en thérapeutique dans les anémies des insuffisances rénales chroniques.",
+   "C'est une cytokine de l'immunité innée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'EPO est une cytokine de l'hématopoïèse.",
+   "Exact : elle stimule l'érythropoïèse.",
+   "Exact : produite par les cellules interstitielles rénales lors d'hypoxie.",
+   "Exact : indication = anémies des IRC.",
+   "Faux : c'est une cytokine de l'hématopoïèse."
+  ]
+ },
+ {
+  "q": "Concernant la thrombopoïétine (TPO), lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'hématopoïèse.",
+   "Elle stimule la production des plaquettes via les mégacaryocytes.",
+   "Elle est produite principalement par le foie.",
+   "C'est une interleukine de l'immunité adaptative.",
+   "Elle stimule la production des globules rouges."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la TPO est une cytokine de l'hématopoïèse.",
+   "Exact : elle stimule la mégacaryopoïèse et les plaquettes.",
+   "Exact : production hépatique principale.",
+   "Faux : c'est une hématopoïétine, pas une interleukine adaptative.",
+   "Faux : les globules rouges dépendent de l'EPO."
+  ]
+ },
+ {
+  "q": "Concernant le G-CSF, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'hématopoïèse.",
+   "Il stimule la production des polynucléaires neutrophiles.",
+   "Il est utilisé en thérapeutique dans les neutropénies post-chimiothérapie.",
+   "C'est une cytokine de l'immunité adaptative.",
+   "Il stimule la production des lymphocytes."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le G-CSF est une cytokine de l'hématopoïèse.",
+   "Exact : Granulocyte-CSF = lignée neutrophile.",
+   "Exact : indication = neutropénies post-chimiothérapie.",
+   "Faux : c'est une cytokine de l'hématopoïèse.",
+   "Faux : il agit sur la lignée granulocytaire, pas lymphocytaire."
+  ]
+ },
+ {
+  "q": "Concernant le GM-CSF, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'hématopoïèse.",
+   "Il stimule la production des granulocytes et des macrophages.",
+   "Il active aussi les fonctions des macrophages et des polynucléaires.",
+   "C'est une cytokine exclusive de l'immunité adaptative.",
+   "Il inhibe l'hématopoïèse."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le GM-CSF est une cytokine de l'hématopoïèse.",
+   "Exact : Granulocyte-Macrophage CSF.",
+   "Exact : il stimule aussi les fonctions des phagocytes.",
+   "Faux : c'est une cytokine de l'hématopoïèse.",
+   "Faux : il stimule l'hématopoïèse, il ne l'inhibe pas."
+  ]
+ },
+ {
+  "q": "Parmi ces interleukines, lesquelles participent à l'hématopoïèse selon le cours ?",
+  "options": [
+   "L'IL-3.",
+   "L'IL-5.",
+   "L'IL-6.",
+   "L'IL-7.",
+   "L'IL-2."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-3 participe à l'hématopoïèse.",
+   "Exact : l'IL-5 participe à l'hématopoïèse.",
+   "Exact : l'IL-6 participe à l'hématopoïèse.",
+   "Exact : l'IL-7 participe à l'hématopoïèse.",
+   "Faux : l'IL-2 est une cytokine de l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Concernant l'IL-3, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'hématopoïèse.",
+   "Elle agit sur de nombreuses lignées (multi-CSF).",
+   "Elle est produite notamment par les lymphocytes T activés.",
+   "C'est une cytokine de l'immunité adaptative.",
+   "Elle stimule uniquement les globules rouges."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'IL-3 est une cytokine de l'hématopoïèse.",
+   "Exact : facteur multi-lignées (multi-CSF).",
+   "Exact : produite par les LT activés.",
+   "Faux : c'est une cytokine de l'hématopoïèse.",
+   "Faux : elle agit sur plusieurs lignées myéloïdes."
+  ]
+ },
+ {
+  "q": "Concernant l'IL-5, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'hématopoïèse.",
+   "Elle stimule la croissance et la différenciation des éosinophiles.",
+   "Elle intervient dans les réponses contre les parasites.",
+   "C'est une cytokine de l'immunité innée selon le cours.",
+   "Elle stimule la production des plaquettes."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'IL-5 est une cytokine de l'hématopoïèse.",
+   "Exact : facteur de croissance des éosinophiles.",
+   "Exact : éosinophiles = défense antiparasitaire.",
+   "Faux : elle est classée parmi les cytokines de l'hématopoïèse.",
+   "Faux : les plaquettes dépendent de la TPO."
+  ]
+ },
+ {
+  "q": "Concernant l'IL-7, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'hématopoïèse.",
+   "Elle est essentielle au développement et à la survie des lymphocytes.",
+   "Elle est produite par les cellules stromales.",
+   "C'est une cytokine pro-inflammatoire de l'immunité innée.",
+   "Elle stimule la production des neutrophiles."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'IL-7 est une cytokine de l'hématopoïèse.",
+   "Exact : survie et homéostasie des lymphocytes T.",
+   "Exact : produite par le stroma (thymus, moelle).",
+   "Faux : c'est une cytokine de l'hématopoïèse/lymphopoïèse.",
+   "Faux : les neutrophiles dépendent du G-CSF."
+  ]
+ },
+ {
+  "q": "Concernant l'IL-11, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'hématopoïèse.",
+   "Elle stimule la mégacaryopoïèse et la production de plaquettes.",
+   "Elle signale via la chaîne gp130.",
+   "C'est une cytokine de l'immunité adaptative.",
+   "Elle inhibe la production plaquettaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'IL-11 est une cytokine de l'hématopoïèse.",
+   "Exact : elle stimule la production de plaquettes.",
+   "Exact : récepteur utilisant gp130.",
+   "Faux : c'est une cytokine de l'hématopoïèse.",
+   "Faux : elle stimule la mégacaryopoïèse."
+  ]
+ },
+ {
+  "q": "Concernant l'IL-1, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'immunité innée.",
+   "Elle est produite principalement par les macrophages activés.",
+   "Elle est pyrogène (provoque de la fièvre).",
+   "Elle active les lymphocytes T.",
+   "C'est une cytokine anti-inflammatoire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-1 est une cytokine de l'immunité innée.",
+   "Exact : produite par les macrophages activés.",
+   "Exact : pyrogène endogène agissant sur l'hypothalamus.",
+   "Exact : co-stimulateur des LT.",
+   "Faux : l'IL-1 est pro-inflammatoire."
+  ]
+ },
+ {
+  "q": "Concernant le TNFα, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'immunité innée.",
+   "Il est produit principalement par les macrophages activés.",
+   "Il est pyrogène et pro-inflammatoire.",
+   "À forte dose, il peut provoquer un choc septique.",
+   "C'est une cytokine anti-inflammatoire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TNFα est une cytokine de l'immunité innée.",
+   "Exact : produit par les macrophages activés.",
+   "Exact : pyrogène et pro-inflammatoire majeur.",
+   "Exact : le TNFα en excès participe au choc septique.",
+   "Faux : le TNFα est pro-inflammatoire."
+  ]
+ },
+ {
+  "q": "Concernant l'IL-6, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'immunité innée.",
+   "Elle est pyrogène.",
+   "Elle stimule la synthèse hépatique des protéines de la phase aiguë (CRP).",
+   "Elle participe aussi à l'hématopoïèse selon le cours.",
+   "C'est une cytokine exclusivement anti-inflammatoire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-6 est une cytokine de l'immunité innée.",
+   "Exact : pyrogène endogène.",
+   "Exact : elle induit CRP et fibrinogène par les hépatocytes.",
+   "Exact : le cours la cite aussi parmi les cytokines de l'hématopoïèse.",
+   "Faux : l'IL-6 est principalement pro-inflammatoire."
+  ]
+ },
+ {
+  "q": "Concernant l'IL-12, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'immunité innée.",
+   "Elle est produite par les cellules dendritiques et les macrophages.",
+   "Elle induit la différenciation Th1 et la production d'IFNγ.",
+   "Elle active les cellules NK.",
+   "C'est une cytokine de l'immunité adaptative selon le cours."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-12 est une cytokine de l'immunité innée.",
+   "Exact : produite par DC et macrophages.",
+   "Exact : elle oriente vers Th1 et induit l'IFNγ.",
+   "Exact : elle stimule les NK.",
+   "Faux : le cours la classe dans l'immunité innée."
+  ]
+ },
+ {
+  "q": "Concernant l'IFNβ, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'immunité innée.",
+   "C'est un interféron de type I aux propriétés antivirales.",
+   "Il est utilisé en thérapeutique dans la sclérose en plaques.",
+   "C'est une cytokine de l'immunité adaptative.",
+   "Il stimule la prolifération des lymphocytes T."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'IFNβ est une cytokine de l'immunité innée.",
+   "Exact : interféron de type I, activité antivirale.",
+   "Exact : traitement de fond de la sclérose en plaques.",
+   "Faux : c'est une cytokine de l'immunité innée.",
+   "Faux : le facteur de croissance des LT est l'IL-2."
+  ]
+ },
+ {
+  "q": "Concernant le TNFβ, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Il est aussi appelé lymphotoxine α.",
+   "Le cours le classe parmi les cytokines de l'immunité innée.",
+   "Il partage les récepteurs du TNFα (classe III).",
+   "Il est produit par les lymphocytes.",
+   "C'est un interféron."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : TNFβ = lymphotoxine α.",
+   "Exact : classé dans l'immunité innée par le cours.",
+   "Exact : il lie TNFR1/TNFR2 comme le TNFα.",
+   "Exact : produit principalement par les lymphocytes.",
+   "Faux : ce n'est pas un interféron."
+  ]
+ },
+ {
+  "q": "Concernant l'IL-2, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'immunité adaptative.",
+   "Elle est produite par les lymphocytes T activés.",
+   "C'est le principal facteur de croissance des lymphocytes T.",
+   "Elle agit en mode autocrine sur les LT.",
+   "C'est une cytokine de l'immunité innée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-2 est une cytokine de l'immunité adaptative.",
+   "Exact : produite par les LT activés.",
+   "Exact : T-cell growth factor.",
+   "Exact : action autocrine sur le LT producteur.",
+   "Faux : c'est une cytokine de l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Concernant l'IL-4, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'immunité adaptative.",
+   "Elle est produite par les lymphocytes Th2.",
+   "Elle induit la commutation isotypique vers les IgE.",
+   "Elle stimule la croissance des lymphocytes B.",
+   "C'est une cytokine de l'immunité innée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-4 est une cytokine de l'immunité adaptative.",
+   "Exact : cytokine signature des Th2.",
+   "Exact : elle induit le switch vers les IgE.",
+   "Exact : facteur de croissance des LB.",
+   "Faux : c'est une cytokine de l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Concernant l'IL-10, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'immunité adaptative.",
+   "C'est une cytokine anti-inflammatoire.",
+   "Elle inhibe l'activation des macrophages.",
+   "Elle est produite notamment par les lymphocytes T régulateurs.",
+   "C'est une cytokine pro-inflammatoire majeure."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-10 est une cytokine de l'immunité adaptative.",
+   "Exact : principale cytokine anti-inflammatoire.",
+   "Exact : elle freine les macrophages et les Th1.",
+   "Exact : produite par les Treg (et d'autres cellules).",
+   "Faux : l'IL-10 est anti-inflammatoire."
+  ]
+ },
+ {
+  "q": "Concernant le TGFβ, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'immunité adaptative.",
+   "C'est une cytokine immunosuppressive.",
+   "Il participe à la différenciation des lymphocytes T régulateurs.",
+   "Il intervient dans la cicatrisation et la fibrose.",
+   "C'est une cytokine pro-inflammatoire de l'immunité innée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TGFβ est une cytokine de l'immunité adaptative.",
+   "Exact : puissant immunosuppresseur.",
+   "Exact : il induit les Treg.",
+   "Exact : rôle dans la réparation tissulaire et la fibrose.",
+   "Faux : c'est une cytokine régulatrice de l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Concernant l'IFNγ, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'immunité adaptative.",
+   "C'est un interféron de type II.",
+   "Il est produit par les lymphocytes Th1 et les cellules NK.",
+   "C'est le principal activateur des macrophages.",
+   "C'est une cytokine de l'immunité innée selon le cours."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IFNγ est une cytokine de l'immunité adaptative.",
+   "Exact : seul interféron de type II.",
+   "Exact : produit par Th1 et NK.",
+   "Exact : il active les macrophages (bactéricidie).",
+   "Faux : le cours le classe dans l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Concernant l'IL-17, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une cytokine de l'immunité adaptative.",
+   "Elle est produite par les lymphocytes Th17.",
+   "Elle recrute et active les polynucléaires neutrophiles.",
+   "Elle intervient dans la défense contre les champignons et bactéries extracellulaires.",
+   "C'est une cytokine de l'immunité innée selon le cours."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-17 est une cytokine de l'immunité adaptative.",
+   "Exact : produite par les Th17.",
+   "Exact : elle attire les neutrophiles.",
+   "Exact : défense antifongique et antibactérienne extracellulaire.",
+   "Faux : le cours la classe dans l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Les cytokines de l'immunité innée ont pour caractéristiques :",
+  "options": [
+   "Elles sont produites rapidement après contact avec l'agent pathogène.",
+   "Elles comprennent IL-1, TNFα, IL-6, IL-12, IFNβ et TNFβ.",
+   "Elles sont produites par macrophages, DC et NK.",
+   "Elles orientent la réponse adaptative ultérieure.",
+   "Elles nécessitent une expansion clonale préalable."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : production rapide, sans délai de sensibilisation.",
+   "Exact : liste du cours pour l'immunité innée.",
+   "Exact : macrophages, DC, NK sont les producteurs.",
+   "Exact : ex : l'IL-12 oriente vers Th1.",
+   "Faux : l'expansion clonale concerne l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Les cytokines de l'immunité adaptative ont pour caractéristiques :",
+  "options": [
+   "Elles sont produites par les lymphocytes T activés.",
+   "Elles comprennent IL-2, IL-4, IL-10, TGFβ, IFNγ et IL-17.",
+   "Elles régulent la prolifération et la différenciation lymphocytaire.",
+   "Certaines sont immunosuppressives (IL-10, TGFβ).",
+   "Elles sont produites avant tout contact avec l'antigène."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : produites par les LT activés.",
+   "Exact : liste du cours pour l'immunité adaptative.",
+   "Exact : elles contrôlent prolifération et différenciation.",
+   "Exact : IL-10 et TGFβ sont régulatrices.",
+   "Faux : elles sont produites après activation antigénique."
+  ]
+ },
+ {
+  "q": "Concernant les interférons, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'IFNβ est une cytokine de l'immunité innée.",
+   "L'IFNγ est une cytokine de l'immunité adaptative.",
+   "Les interférons de type I (α, β) ont une activité antivirale.",
+   "Leurs récepteurs appartiennent à la classe II.",
+   "Tous les interférons appartiennent à l'immunité adaptative."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IFNβ = immunité innée (cours).",
+   "Exact : IFNγ = immunité adaptative (cours).",
+   "Exact : IFNα/β = défense antivirale.",
+   "Exact : récepteurs des IFN = classe II.",
+   "Faux : IFNβ est classé dans l'immunité innée."
+  ]
+ },
+ {
+  "q": "Associez chaque cytokine à sa fonction principale. Lesquelles de ces associations sont correctes ?",
+  "options": [
+   "IL-2 : croissance des lymphocytes T.",
+   "EPO : érythropoïèse.",
+   "G-CSF : production des neutrophiles.",
+   "IL-4 : commutation vers les IgE.",
+   "IL-12 : commutation vers les IgE."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-2 est le facteur de croissance des LT.",
+   "Exact : l'EPO stimule les globules rouges.",
+   "Exact : le G-CSF stimule les neutrophiles.",
+   "Exact : l'IL-4 induit le switch IgE.",
+   "Faux : l'IL-12 oriente vers Th1/IFNγ, pas vers les IgE."
+  ]
+ },
+ {
+  "q": "Associez chaque cytokine à sa fonction principale. Lesquelles de ces associations sont correctes ?",
+  "options": [
+   "TNFα : inflammation et fièvre.",
+   "IL-6 : protéines de la phase aiguë.",
+   "IFNγ : activation des macrophages.",
+   "IL-10 : inhibition de l'inflammation.",
+   "TGFβ : activation des macrophages."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le TNFα est pro-inflammatoire et pyrogène.",
+   "Exact : l'IL-6 induit CRP et phase aiguë.",
+   "Exact : l'IFNγ est l'activateur majeur des macrophages.",
+   "Exact : l'IL-10 est anti-inflammatoire.",
+   "Faux : le TGFβ est immunosuppresseur, pas activateur."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines pyrogènes, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'IL-1 est pyrogène.",
+   "Le TNFα est pyrogène.",
+   "L'IL-6 est pyrogène.",
+   "Elles agissent en mode endocrine sur l'hypothalamus.",
+   "L'IL-10 est pyrogène."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-1 est un pyrogène endogène.",
+   "Exact : le TNFα est pyrogène.",
+   "Exact : l'IL-6 est pyrogène.",
+   "Exact : action endocrine sur le centre thermorégulateur.",
+   "Faux : l'IL-10 est anti-inflammatoire, non pyrogène."
+  ]
+ },
+ {
+  "q": "Concernant l'orientation de la réponse Th par les cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'IL-12 oriente vers une réponse Th1.",
+   "L'IL-4 oriente vers une réponse Th2.",
+   "Le TGFβ associé à l'IL-6 oriente vers Th17.",
+   "Le TGFβ seul favorise les T régulateurs.",
+   "L'IFNγ oriente vers une réponse Th2."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-12 induit Th1.",
+   "Exact : l'IL-4 induit Th2.",
+   "Exact : TGFβ + IL-6 induit Th17.",
+   "Exact : TGFβ seul induit les Treg.",
+   "Faux : l'IFNγ est la cytokine signature des Th1."
+  ]
+ },
+ {
+  "q": "Les chimiokines :",
+  "options": [
+   "Sont des cytokines chimioattractantes.",
+   "Dirigent la migration des leucocytes vers les sites inflammatoires.",
+   "L'IL-8 (CXCL8) attire les polynucléaires neutrophiles.",
+   "Forment une des 4 familles de cytokines.",
+   "Agissent uniquement en mode endocrine."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : chimiokines = cytokines chimiotactiques.",
+   "Exact : elles guident la migration leucocytaire.",
+   "Exact : l'IL-8 est le chimioattractant majeur des neutrophiles.",
+   "Exact : une des 4 familles du cours.",
+   "Faux : elles agissent surtout en mode paracrine."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines et l'inflammation, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "IL-1, TNFα et IL-6 sont des cytokines pro-inflammatoires.",
+   "L'IL-10 est une cytokine anti-inflammatoire.",
+   "Le TGFβ a des effets immunosuppresseurs.",
+   "Toutes les cytokines sont pro-inflammatoires.",
+   "L'inflammation ne fait intervenir aucune cytokine."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IL-1, TNFα, IL-6 = triade pro-inflammatoire.",
+   "Exact : l'IL-10 freine l'inflammation.",
+   "Exact : le TGFβ est immunosuppresseur.",
+   "Faux : IL-10 et TGFβ sont régulatrices/anti-inflammatoires.",
+   "Faux : les cytokines orchestrent l'inflammation."
+  ]
+ },
+ {
+  "q": "Quelles cytokines interviennent dans la défense antivirale ?",
+  "options": [
+   "L'IFNα.",
+   "L'IFNβ.",
+   "L'IFNγ.",
+   "L'IL-12 (via l'induction d'IFNγ).",
+   "L'IL-4."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IFNα a une activité antivirale.",
+   "Exact : l'IFNβ a une activité antivirale.",
+   "Exact : l'IFNγ participe à la défense antivirale.",
+   "Exact : l'IL-12 induit l'IFNγ des NK.",
+   "Faux : l'IL-4 oriente vers Th2/IgE, pas l'antiviral."
+  ]
+ },
+ {
+  "q": "Quelles cytokines sont principalement produites par les macrophages activés ?",
+  "options": [
+   "L'IL-1.",
+   "Le TNFα.",
+   "L'IL-6.",
+   "L'IL-12.",
+   "L'IL-2."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les macrophages produisent de l'IL-1.",
+   "Exact : les macrophages produisent du TNFα.",
+   "Exact : les macrophages produisent de l'IL-6.",
+   "Exact : les macrophages produisent de l'IL-12.",
+   "Faux : l'IL-2 est produite par les LT activés."
+  ]
+ },
+ {
+  "q": "Quelles cytokines sont principalement produites par les lymphocytes T activés ?",
+  "options": [
+   "L'IL-2.",
+   "L'IFNγ.",
+   "L'IL-4.",
+   "L'IL-17.",
+   "L'EPO."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LT activés produisent de l'IL-2.",
+   "Exact : les Th1 produisent de l'IFNγ.",
+   "Exact : les Th2 produisent de l'IL-4.",
+   "Exact : les Th17 produisent de l'IL-17.",
+   "Faux : l'EPO est produite par le rein."
+  ]
+ },
+ {
+  "q": "Concernant le rôle des cytokines dans l'hématopoïèse, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'EPO stimule la lignée érythroïde.",
+   "La TPO stimule la lignée mégacaryocytaire.",
+   "Le G-CSF stimule la lignée granulocytaire neutrophile.",
+   "L'IL-7 stimule la lignée lymphoïde.",
+   "L'IL-2 stimule la lignée érythroïde."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : EPO = globules rouges.",
+   "Exact : TPO = plaquettes.",
+   "Exact : G-CSF = neutrophiles.",
+   "Exact : IL-7 = lymphocytes.",
+   "Faux : l'IL-2 stimule les lymphocytes T."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines de l'immunité innée du cours, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'IL-1, le TNFα et l'IL-6 sont produits précocement lors de l'infection.",
+   "L'IL-12 fait le lien entre immunité innée et adaptative.",
+   "L'IFNβ participe à la défense antivirale innée.",
+   "Le TNFβ (lymphotoxine α) appartient à la famille des TNF.",
+   "L'IL-2 appartient à l'immunité innée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : triade pro-inflammatoire précoce.",
+   "Exact : l'IL-12 oriente la réponse Th1 adaptative.",
+   "Exact : IFNβ = interféron de type I.",
+   "Exact : TNFβ = membre de la famille des TNF.",
+   "Faux : l'IL-2 est une cytokine de l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines de l'immunité adaptative du cours, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'IL-2 assure l'expansion clonale des LT.",
+   "L'IL-4, l'IL-10 et le TGFβ régulent la réponse.",
+   "L'IFNγ et l'IL-17 sont des cytokines effectrices.",
+   "L'IL-1 appartient à l'immunité adaptative.",
+   "Le TNFα appartient à l'immunité adaptative."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'IL-2 = facteur de croissance des LT.",
+   "Exact : IL-4, IL-10, TGFβ = régulation.",
+   "Exact : IFNγ (Th1) et IL-17 (Th17) = effectrices.",
+   "Faux : l'IL-1 est une cytokine de l'immunité innée.",
+   "Faux : le TNFα est une cytokine de l'immunité innée."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant l'IL-6 ?",
+  "options": [
+   "C'est une cytokine de l'immunité innée.",
+   "Elle est aussi citée parmi les cytokines de l'hématopoïèse.",
+   "Elle induit la synthèse des protéines de la phase aiguë.",
+   "Elle est pyrogène.",
+   "C'est une cytokine exclusivement immunosuppressive."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IL-6 = immunité innée (cours).",
+   "Exact : le cours la cite aussi en hématopoïèse.",
+   "Exact : elle stimule CRP et fibrinogène hépatiques.",
+   "Exact : pyrogène endogène.",
+   "Faux : l'IL-6 est principalement pro-inflammatoire."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant le GM-CSF ?",
+  "options": [
+   "C'est une hématopoïétine.",
+   "Il stimule granulocytes et macrophages.",
+   "Il appartient à la famille des hématopoïétines du cours.",
+   "C'est une interleukine de l'immunité adaptative.",
+   "Il inhibe la différenciation myéloïde."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le GM-CSF est une hématopoïétine.",
+   "Exact : Granulocyte-Macrophage Colony Stimulating Factor.",
+   "Exact : cité parmi les cytokines de l'hématopoïèse.",
+   "Faux : ce n'est pas une interleukine adaptative.",
+   "Faux : il stimule la différenciation myéloïde."
+  ]
+ },
+ {
+  "q": "Concernant la coopération entre immunité innée et adaptative via les cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'IL-12 des DC oriente les LT vers Th1.",
+   "L'IFNγ des NK active les macrophages.",
+   "L'IL-1 et le TNFα favorisent l'activation lymphocytaire.",
+   "Les deux immunités fonctionnent sans aucun échange.",
+   "Seule l'immunité adaptative produit des cytokines."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'IL-12 oriente la réponse adaptative.",
+   "Exact : l'IFNγ des NK active les macrophages.",
+   "Exact : IL-1/TNFα co-stimulent les lymphocytes.",
+   "Faux : les cytokines relient les deux immunités.",
+   "Faux : l'immunité innée produit de nombreuses cytokines."
+  ]
+ },
+ {
+  "q": "Les pathologies liées aux cytokines peuvent résulter de :",
+  "options": [
+   "Un défaut génétique de la cytokine ou de son récepteur.",
+   "Une expression trop importante de la cytokine.",
+   "Une expression insuffisante de la cytokine.",
+   "Une hyperproduction de cytokines.",
+   "Jamais d'un trouble de la régulation cytokinique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : défaut génétique de la cytokine ou de son récepteur.",
+   "Exact : excès d'expression = pathologie.",
+   "Exact : défaut d'expression = pathologie.",
+   "Exact : l'hyperproduction de cytokines est pathogène.",
+   "Faux : les troubles de régulation sont une cause majeure."
+  ]
+ },
+ {
+  "q": "Un défaut génétique de la chaîne γc (CD132) entraîne :",
+  "options": [
+   "Un déficit immunitaire combiné sévère (DICS).",
+   "L'absence de signalisation de l'IL-2, l'IL-4, l'IL-7, l'IL-15 et l'IL-21.",
+   "Une susceptibilité majeure aux infections dès la petite enfance.",
+   "Une hyperproduction de cytokines.",
+   "Une maladie limitée à la lignée érythroïde."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : déficit en γc = DICS lié à l'X.",
+   "Exact : γc est partagée par ces récepteurs.",
+   "Exact : infections sévères précoces.",
+   "Faux : c'est un défaut de signalisation, pas une hyperproduction.",
+   "Faux : c'est un déficit lymphocytaire global."
+  ]
+ },
+ {
+  "q": "L'hyperproduction de cytokines peut être responsable de :",
+  "options": [
+   "Choc septique (TNFα, IL-1 en excès).",
+   "Syndromes d'activation macrophagique.",
+   "Syndrome de relargage cytokinique (ex : immunothérapies).",
+   "Fièvre prolongée.",
+   "Une immunosuppression par excès d'IL-10 uniquement."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le choc septique est lié à l'orage cytokinique.",
+   "Exact : hyperproduction dans l'activation macrophagique.",
+   "Exact : CRS des CAR-T et anticorps bispécifiques.",
+   "Exact : les pyrogènes en excès entretiennent la fièvre.",
+   "Faux : l'hyperproduction pathogène concerne surtout les pro-inflammatoires."
+  ]
+ },
+ {
+  "q": "Concernant les usages thérapeutiques des interférons, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les IFN sont utilisés dans les hépatites B et C.",
+   "L'IFNβ est utilisé dans la sclérose en plaques.",
+   "Les IFN sont utilisés dans les lymphomes et les myélomes.",
+   "Les IFN sont utilisés dans les anémies des IRC.",
+   "Les IFN sont utilisés dans les neutropénies post-chimiothérapie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : hépatites B et C = indication des IFN.",
+   "Exact : sclérose en plaques = indication de l'IFNβ.",
+   "Exact : lymphomes et myélomes = indications des IFN.",
+   "Faux : les anémies des IRC relèvent de l'EPO.",
+   "Faux : les neutropénies post-chimiothérapie relèvent du G-CSF."
+  ]
+ },
+ {
+  "q": "Le G-CSF en thérapeutique :",
+  "options": [
+   "Est utilisé dans les neutropénies post-chimiothérapie.",
+   "Stimule la production des polynucléaires neutrophiles.",
+   "Est une cytokine de l'hématopoïèse.",
+   "Est utilisé dans les hépatites virales.",
+   "Est un antagoniste du TNFα."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : indication = neutropénies post-chimiothérapie.",
+   "Exact : il stimule la lignée neutrophile.",
+   "Exact : c'est une hématopoïétine.",
+   "Faux : les hépatites relèvent des interférons.",
+   "Faux : les anti-TNFα sont une classe distincte."
+  ]
+ },
+ {
+  "q": "L'érythropoïétine en thérapeutique :",
+  "options": [
+   "Est utilisée dans les anémies des insuffisances rénales chroniques.",
+   "Stimule la production des globules rouges.",
+   "Est une cytokine de l'hématopoïèse.",
+   "Est utilisée dans la sclérose en plaques.",
+   "Est un anticorps anti-CD25."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : indication = anémies des IRC.",
+   "Exact : elle stimule l'érythropoïèse.",
+   "Exact : c'est une hématopoïétine.",
+   "Faux : la SEP relève de l'IFNβ.",
+   "Faux : l'anti-CD25 est le basiliximab."
+  ]
+ },
+ {
+  "q": "Les antagonistes du TNFα :",
+  "options": [
+   "Sont utilisés dans la polyarthrite rhumatoïde.",
+   "Bloquant l'action du TNFα pro-inflammatoire.",
+   "Comprennent l'infliximab, l'adalimumab et l'étanercept.",
+   "Sont utilisés dans les anémies des IRC.",
+   "Stimulent la production de TNFα."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : indication = polyarthrite rhumatoïde.",
+   "Exact : ils neutralisent le TNFα.",
+   "Exact : infliximab, adalimumab, étanercept = anti-TNFα.",
+   "Faux : les anémies des IRC relèvent de l'EPO.",
+   "Faux : ils bloquent le TNFα, ils ne le stimulent pas."
+  ]
+ },
+ {
+  "q": "L'anti-CD25 (CD25 = IL-2Rα) :",
+  "options": [
+   "Est utilisé dans la prévention des rejets de greffes.",
+   "Bloque la signalisation de l'IL-2 sur les lymphocytes T activés.",
+   "Le basiliximab en est un exemple.",
+   "Est un antagoniste du TNFα.",
+   "Stimule la prolifération lymphocytaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : indication = prévention du rejet de greffe.",
+   "Exact : blocage de l'IL-2Rα des LT activés.",
+   "Exact : basiliximab = anti-CD25.",
+   "Faux : les anti-TNFα forment une autre classe.",
+   "Faux : il inhibe la prolifération T IL-2 dépendante."
+  ]
+ },
+ {
+  "q": "Associez chaque cytokine à son usage thérapeutique. Lesquelles de ces associations sont correctes ?",
+  "options": [
+   "IFN : hépatites B et C.",
+   "G-CSF : neutropénies post-chimiothérapie.",
+   "EPO : anémies des insuffisances rénales chroniques.",
+   "Anti-TNFα : polyarthrite rhumatoïde.",
+   "Anti-CD25 : hépatites virales."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IFN = hépatites B et C.",
+   "Exact : G-CSF = neutropénies post-chimiothérapie.",
+   "Exact : EPO = anémies des IRC.",
+   "Exact : anti-TNFα = polyarthrite rhumatoïde.",
+   "Faux : l'anti-CD25 sert en prévention du rejet de greffe."
+  ]
+ },
+ {
+  "q": "Associez chaque biothérapie à sa cible. Lesquelles de ces associations sont correctes ?",
+  "options": [
+   "Basiliximab : CD25 (IL-2Rα).",
+   "Infliximab : TNFα.",
+   "Étanercept : récepteur soluble du TNF.",
+   "Tocilizumab : récepteur de l'IL-6.",
+   "Basiliximab : TNFα."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : basiliximab = anti-CD25.",
+   "Exact : infliximab = anti-TNFα.",
+   "Exact : étanercept = récepteur soluble du TNF.",
+   "Exact : tocilizumab = anti-IL-6R.",
+   "Faux : le basiliximab cible le CD25."
+  ]
+ },
+ {
+  "q": "L'interféron β dans la sclérose en plaques :",
+  "options": [
+   "Est un traitement de fond immunomodulateur.",
+   "Réduit la fréquence des poussées.",
+   "Est une cytokine de l'immunité innée.",
+   "Est un antagoniste du TNFα.",
+   "Stimule la production de globules rouges."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'IFNβ est immunomodulateur dans la SEP.",
+   "Exact : il diminue la fréquence des poussées.",
+   "Exact : l'IFNβ est classé dans l'immunité innée.",
+   "Faux : les anti-TNFα sont une autre classe.",
+   "Faux : l'érythropoïèse dépend de l'EPO."
+  ]
+ },
+ {
+  "q": "Dans la polyarthrite rhumatoïde, le rationnel des antagonistes du TNFα est que :",
+  "options": [
+   "Le TNFα est une cytokine pro-inflammatoire majeure.",
+   "Le TNFα participe à la destruction articulaire.",
+   "Bloquer le TNFα réduit l'inflammation synoviale.",
+   "Le TNFα est une cytokine anti-inflammatoire.",
+   "Le TNFα n'intervient pas dans la PR."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le TNFα est pro-inflammatoire.",
+   "Exact : il contribue aux lésions articulaires.",
+   "Exact : son blocage contrôle l'inflammation.",
+   "Faux : le TNFα est pro-inflammatoire.",
+   "Faux : le TNFα est central dans la PR."
+  ]
+ },
+ {
+  "q": "Dans la prévention du rejet de greffe, le rationnel de l'anti-CD25 est que :",
+  "options": [
+   "Le CD25 est la chaîne α du récepteur de l'IL-2.",
+   "L'IL-2 est indispensable à la prolifération des LT alloréactifs.",
+   "Bloquer le CD25 inhibe l'expansion des LT dirigés contre le greffon.",
+   "Le CD25 est exprimé par les LT activés.",
+   "L'IL-2 inhibe la prolifération lymphocytaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CD25 = IL-2Rα.",
+   "Exact : l'IL-2 est le facteur de croissance des LT.",
+   "Exact : blocage de l'expansion alloréactive.",
+   "Exact : CD25 induit sur les LT activés.",
+   "Faux : l'IL-2 stimule la prolifération des LT."
+  ]
+ },
+ {
+  "q": "Un défaut de production d'IFNγ ou de son récepteur expose principalement à :",
+  "options": [
+   "Des infections à mycobactéries.",
+   "Des infections à germes intracellulaires.",
+   "Un défaut d'activation des macrophages.",
+   "Des infections virales bénignes uniquement.",
+   "Aucune conséquence clinique."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'axe IL-12/IFNγ protège des mycobactéries.",
+   "Exact : les germes intracellulaires nécessitent les macrophages activés.",
+   "Exact : l'IFNγ est l'activateur majeur des macrophages.",
+   "Faux : le tableau est celui d'infections sévères.",
+   "Faux : le déficit a des conséquences graves."
+  ]
+ },
+ {
+  "q": "L'anakinra :",
+  "options": [
+   "Est un antagoniste du récepteur de l'IL-1 (IL-1Ra).",
+   "Bloque l'action pro-inflammatoire de l'IL-1.",
+   "Est utilisé dans certaines maladies auto-inflammatoires.",
+   "Est un antagoniste du TNFα.",
+   "Stimule la production d'IL-1."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : anakinra = IL-1Ra recombinant.",
+   "Exact : il bloque le récepteur de l'IL-1.",
+   "Exact : indiqué dans les maladies auto-inflammatoires.",
+   "Faux : les anti-TNFα sont une autre classe.",
+   "Faux : il bloque l'IL-1, il ne la stimule pas."
+  ]
+ },
+ {
+  "q": "Le tocilizumab :",
+  "options": [
+   "Est un anticorps anti-récepteur de l'IL-6.",
+   "Bloque la signalisation pro-inflammatoire de l'IL-6.",
+   "Est utilisé dans la polyarthrite rhumatoïde.",
+   "Est un antagoniste du TNFα.",
+   "Est une forme d'érythropoïétine."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : tocilizumab = anti-IL-6R.",
+   "Exact : il bloque l'IL-6 pro-inflammatoire.",
+   "Exact : indiqué dans la PR.",
+   "Faux : les anti-TNFα sont une autre classe.",
+   "Faux : l'EPO est une cytokine de l'hématopoïèse."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines en thérapeutique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les cytokines peuvent être administrées comme médicaments (IFN, G-CSF, EPO).",
+   "Les cytokines peuvent être bloquées par des anticorps (anti-TNFα, anti-CD25).",
+   "Les récepteurs solubles peuvent servir d'antagonistes (étanercept).",
+   "Aucune cytokine n'a d'usage thérapeutique.",
+   "On ne peut ni administrer ni bloquer les cytokines."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IFN, G-CSF, EPO sont des cytokines médicaments.",
+   "Exact : anti-TNFα, anti-CD25 = blocage thérapeutique.",
+   "Exact : l'étanercept est un récepteur soluble leurre.",
+   "Faux : de nombreuses biothérapies ciblent les cytokines.",
+   "Faux : administration et blocage sont deux stratégies validées."
+  ]
+ },
+ {
+  "q": "Les interférons en thérapeutique :",
+  "options": [
+   "L'IFNα est utilisé dans les hépatites B et C chroniques.",
+   "L'IFNβ est utilisé dans la sclérose en plaques.",
+   "Les IFN ont une activité antivirale et immunomodulatrice.",
+   "Les IFN sont utilisés dans les lymphomes et les myélomes.",
+   "Les IFN sont des antagonistes du TNFα."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IFNα = hépatites B et C.",
+   "Exact : IFNβ = sclérose en plaques.",
+   "Exact : activité antivirale et immunomodulatrice.",
+   "Exact : lymphomes et myélomes = indications.",
+   "Faux : les anti-TNFα forment une classe distincte."
+  ]
+ },
+ {
+  "q": "Concernant les effets indésirables des cytokines thérapeutiques, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les IFN peuvent provoquer un syndrome pseudo-grippal.",
+   "L'EPO peut favoriser les thromboses à forte dose.",
+   "Le G-CSF peut provoquer des douleurs osseuses.",
+   "Les anti-TNFα exposent aux infections (tuberculose).",
+   "Les cytokines thérapeutiques n'ont aucun effet indésirable."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : syndrome pseudo-grippal classique des IFN.",
+   "Exact : l'EPO augmente le risque thrombotique.",
+   "Exact : douleurs osseuses sous G-CSF.",
+   "Exact : les anti-TNFα réactivent la tuberculose.",
+   "Faux : tout traitement cytokinique a des effets indésirables."
+  ]
+ },
+ {
+  "q": "Le syndrome de relargage cytokinique :",
+  "options": [
+   "Est lié à une hyperproduction brutale de cytokines pro-inflammatoires.",
+   "Peut survenir lors d'immunothérapies (CAR-T, anticorps bispécifiques).",
+   "Associe fièvre, hypotension et défaillance multiviscérale.",
+   "Peut être traité par blocage de l'IL-6 (tocilizumab).",
+   "Est sans gravité et ne nécessite aucun traitement."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : orage cytokinique brutal.",
+   "Exact : complication des CAR-T et bispécifiques.",
+   "Exact : fièvre, hypotension, défaillances d'organes.",
+   "Exact : le tocilizumab est le traitement de référence.",
+   "Faux : c'est une urgence potentiellement mortelle."
+  ]
+ },
+ {
+  "q": "Concernant le rôle pathogène du TNFα, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "En excès, il participe au choc septique.",
+   "Il est impliqué dans la polyarthrite rhumatoïde.",
+   "Il est impliqué dans la maladie de Crohn.",
+   "Il est impliqué dans le psoriasis.",
+   "Il n'a aucun rôle pathologique connu."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : TNFα = médiateur du choc septique.",
+   "Exact : cible thérapeutique dans la PR.",
+   "Exact : anti-TNFα efficaces dans Crohn.",
+   "Exact : anti-TNFα utilisés dans le psoriasis.",
+   "Faux : le TNFα a de nombreux rôles pathogènes."
+  ]
+ },
+ {
+  "q": "Une expression insuffisante de cytokines peut entraîner :",
+  "options": [
+   "Des déficits immunitaires.",
+   "Une susceptibilité accrue aux infections.",
+   "Un défaut de régulation de l'inflammation.",
+   "Une hyperproduction compensatrice sans conséquence.",
+   "Toujours une guérison spontanée."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : un défaut cytokinique = déficit immunitaire.",
+   "Exact : la protection anti-infectieuse est altérée.",
+   "Exact : ex : défaut d'IL-10 = inflammation intestinale.",
+   "Faux : l'insuffisance a des conséquences cliniques.",
+   "Faux : c'est une situation pathologique."
+  ]
+ },
+ {
+  "q": "Concernant les anticorps anti-cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils neutralisent la cytokine circulante.",
+   "L'infliximab neutralise le TNFα.",
+   "Le sécukinumab neutralise l'IL-17.",
+   "Ils augmentent la production de la cytokine ciblée.",
+   "Ils n'ont aucune indication en rhumatologie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : neutralisation de la cytokine cible.",
+   "Exact : infliximab = anti-TNFα.",
+   "Exact : sécukinumab = anti-IL-17.",
+   "Faux : ils bloquent l'action, pas la production.",
+   "Faux : PR, spondylarthrite, psoriasis = indications majeures."
+  ]
+ },
+ {
+  "q": "Le déficit en IL-12 ou en son récepteur expose à :",
+  "options": [
+   "Des infections à mycobactéries.",
+   "Un défaut de production d'IFNγ.",
+   "Un défaut d'orientation Th1.",
+   "Une hyperproduction d'IFNγ.",
+   "Aucune infection particulière."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : axe IL-12/IFNγ = protection antimycobactérienne.",
+   "Exact : l'IL-12 induit l'IFNγ.",
+   "Exact : l'IL-12 oriente vers Th1.",
+   "Faux : c'est un défaut de production d'IFNγ.",
+   "Faux : les infections mycobactériennes sont typiques."
+  ]
+ },
+ {
+  "q": "Concernant l'usage des cytokines en cancérologie, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les IFN sont utilisés dans les lymphomes et les myélomes.",
+   "L'IL-2 à forte dose a été utilisée dans le cancer du rein métastatique.",
+   "Le G-CSF corrige les neutropénies des chimiothérapies anticancéreuses.",
+   "L'EPO corrige les anémies des chimiothérapies.",
+   "Aucune cytokine n'est utilisée en cancérologie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IFN = lymphomes et myélomes.",
+   "Exact : IL-2 forte dose = rein métastatique, mélanome.",
+   "Exact : G-CSF = neutropénies post-chimiothérapie.",
+   "Exact : EPO = anémies chimio-induites.",
+   "Faux : plusieurs cytokines sont utilisées en cancérologie."
+  ]
+ },
+ {
+  "q": "L'omalizumab :",
+  "options": [
+   "Est un anticorps anti-IgE.",
+   "Bloque indirectement les effets de l'IL-4 sur la production d'IgE.",
+   "Est utilisé dans l'asthme allergique sévère.",
+   "Est un antagoniste du TNFα.",
+   "Stimule la production d'IgE."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : omalizumab = anti-IgE.",
+   "Exact : en captant les IgE, il bloque l'axe IL-4/IgE.",
+   "Exact : indiqué dans l'asthme allergique sévère.",
+   "Faux : les anti-TNFα sont une autre classe.",
+   "Faux : il réduit les IgE libres."
+  ]
+ },
+ {
+  "q": "Concernant les petites molécules ciblant la signalisation cytokinique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les inhibiteurs de JAK (tofacitinib) bloquent la signalisation de nombreuses cytokines.",
+   "Ils sont utilisés dans la polyarthrite rhumatoïde.",
+   "Ils agissent en aval des récepteurs de classe I et II.",
+   "Ce sont des anticorps monoclonaux.",
+   "Ils stimulent la voie JAK/STAT."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les JAK-inhibiteurs bloquent la signalisation cytokinique.",
+   "Exact : indiqués dans la PR et d'autres maladies inflammatoires.",
+   "Exact : ils inhibent les JAK associées aux récepteurs.",
+   "Faux : ce sont des petites molécules orales.",
+   "Faux : ils inhibent la voie JAK/STAT."
+  ]
+ },
+ {
+  "q": "Quelles situations relèvent d'un blocage thérapeutique des cytokines ?",
+  "options": [
+   "Polyarthrite rhumatoïde (anti-TNFα, anti-IL-6R).",
+   "Psoriasis (anti-IL-17, anti-TNFα).",
+   "Maladie de Crohn (anti-TNFα).",
+   "Prévention du rejet de greffe (anti-CD25).",
+   "Neutropénie post-chimiothérapie (anti-TNFα)."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : PR = anti-TNFα, anti-IL-6R.",
+   "Exact : psoriasis = anti-IL-17, anti-TNFα.",
+   "Exact : Crohn = anti-TNFα.",
+   "Exact : rejet de greffe = anti-CD25.",
+   "Faux : la neutropénie relève du G-CSF, pas d'un blocage."
+  ]
+ },
+ {
+  "q": "Quelles situations relèvent d'une administration thérapeutique de cytokines ?",
+  "options": [
+   "Neutropénies post-chimiothérapie (G-CSF).",
+   "Anémies des IRC (EPO).",
+   "Hépatites B et C (IFNα).",
+   "Sclérose en plaques (IFNβ).",
+   "Polyarthrite rhumatoïde (IFNγ)."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : G-CSF = neutropénies post-chimiothérapie.",
+   "Exact : EPO = anémies des IRC.",
+   "Exact : IFNα = hépatites B et C.",
+   "Exact : IFNβ = sclérose en plaques.",
+   "Faux : la PR relève du blocage du TNFα, pas de l'IFNγ."
+  ]
+ },
+ {
+  "q": "Concernant les pathologies liées aux cytokines citées dans le cours, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Un défaut génétique de la cytokine peut être pathogène.",
+   "Un défaut génétique du récepteur peut être pathogène.",
+   "Une hyperproduction de cytokines peut être pathogène.",
+   "Seule l'absence totale de cytokines est pathogène.",
+   "Les cytokines ne sont jamais impliquées en pathologie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : défaut génétique de la cytokine = pathologie.",
+   "Exact : défaut génétique du récepteur = pathologie.",
+   "Exact : l'hyperproduction est pathogène.",
+   "Faux : l'excès comme l'insuffisance sont pathogènes.",
+   "Faux : les cytokines sont impliquées dans de nombreuses pathologies."
+  ]
+ },
+ {
+  "q": "Le dupilumab :",
+  "options": [
+   "Est un anticorps anti-récepteur de l'IL-4 (IL-4Rα).",
+   "Bloque la signalisation de l'IL-4 et de l'IL-13.",
+   "Est utilisé dans la dermatite atopique et l'asthme.",
+   "Est un antagoniste du TNFα.",
+   "Stimule la réponse Th2."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : dupilumab = anti-IL-4Rα.",
+   "Exact : il bloque IL-4 et IL-13 (chaîne commune).",
+   "Exact : dermatite atopique, asthme, polypose nasale.",
+   "Faux : les anti-TNFα sont une autre classe.",
+   "Faux : il inhibe la voie Th2."
+  ]
+ },
+ {
+  "q": "Concernant la fièvre liée aux cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'IL-1, le TNFα et l'IL-6 sont des pyrogènes endogènes.",
+   "Elles agissent sur l'hypothalamus en mode endocrine.",
+   "Une hyperproduction cytokinique entretient la fièvre.",
+   "Le blocage de l'IL-1 peut faire baisser la fièvre.",
+   "La fièvre n'implique aucune cytokine."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IL-1, TNFα, IL-6 = pyrogènes.",
+   "Exact : action endocrine sur le centre thermorégulateur.",
+   "Exact : l'excès de pyrogènes prolonge la fièvre.",
+   "Exact : l'anakinra (anti-IL-1) est antipyrétique.",
+   "Faux : les cytokines sont les médiateurs de la fièvre."
+  ]
+ },
+ {
+  "q": "Dans le choc septique, le rôle des cytokines est que :",
+  "options": [
+   "Le TNFα et l'IL-1 sont produits en excès.",
+   "Ils provoquent vasodilatation et hypotension.",
+   "Ils participent à la défaillance multiviscérale.",
+   "Le blocage cytokinique est une piste thérapeutique étudiée.",
+   "Les cytokines n'y jouent aucun rôle."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : orage cytokinique avec TNFα et IL-1.",
+   "Exact : vasoplégie et hypotension.",
+   "Exact : défaillance multiviscérale.",
+   "Exact : anti-TNF, anti-IL-1 évalués dans le sepsis.",
+   "Faux : les cytokines sont centrales dans le choc septique."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines et les maladies auto-immunes, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le TNFα est une cible thérapeutique dans la PR.",
+   "L'IL-17 est une cible thérapeutique dans le psoriasis.",
+   "L'IL-6 est une cible thérapeutique dans la PR.",
+   "Le blocage cytokinique n'a aucun intérêt dans l'auto-immunité.",
+   "Toutes les maladies auto-immunes relèvent du même blocage."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : anti-TNFα = traitement de la PR.",
+   "Exact : anti-IL-17 = traitement du psoriasis.",
+   "Exact : anti-IL-6R (tocilizumab) = traitement de la PR.",
+   "Faux : le blocage cytokinique a révolutionné ces maladies.",
+   "Faux : la cible dépend de la maladie."
+  ]
+ },
+ {
+  "q": "L'ustékinumab :",
+  "options": [
+   "Est un anticorps anti-p40 commune à l'IL-12 et l'IL-23.",
+   "Bloque les voies Th1 et Th17.",
+   "Est utilisé dans le psoriasis et la maladie de Crohn.",
+   "Est un antagoniste du TNFα.",
+   "Stimule la production d'IL-12."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : anti-p40 (IL-12/IL-23).",
+   "Exact : il freine les voies Th1 et Th17.",
+   "Exact : psoriasis, Crohn, rectocolite hémorragique.",
+   "Faux : les anti-TNFα sont une autre classe.",
+   "Faux : il bloque l'IL-12/IL-23."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines hématopoïétiques en thérapeutique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le G-CSF traite les neutropénies post-chimiothérapie.",
+   "L'EPO traite les anémies des insuffisances rénales chroniques.",
+   "Le GM-CSF peut être utilisé pour stimuler la lignée myéloïde.",
+   "L'IL-11 (oprelvekin) stimule les plaquettes dans les thrombopénies.",
+   "Aucune cytokine hématopoïétique n'est utilisée en thérapeutique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : G-CSF = neutropénies post-chimiothérapie.",
+   "Exact : EPO = anémies des IRC.",
+   "Exact : GM-CSF = stimulation myéloïde.",
+   "Exact : IL-11 = thrombopénies chimio-induites.",
+   "Faux : plusieurs sont utilisées en thérapeutique."
+  ]
+ },
+ {
+  "q": "Un patient traité par anti-TNFα doit être surveillé pour :",
+  "options": [
+   "Le risque de réactivation tuberculeuse.",
+   "Le risque d'infections opportunistes.",
+   "Le risque de réactions au site d'injection ou de perfusion.",
+   "Une stimulation de l'immunité antitumorale.",
+   "Aucun risque particulier."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : dépistage et surveillance de la tuberculose.",
+   "Exact : les anti-TNFα sont immunosuppresseurs.",
+   "Exact : réactions locales ou liées à la perfusion.",
+   "Faux : ils diminuent la surveillance immunitaire.",
+   "Faux : la surveillance infectieuse est indispensable."
+  ]
+ },
+ {
+  "q": "Concernant le rationnel des biothérapies anti-cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elles ciblent une cytokine ou son récepteur impliqué dans la maladie.",
+   "Elles peuvent neutraliser la cytokine (infliximab).",
+   "Elles peuvent bloquer le récepteur (tocilizumab, basiliximab).",
+   "Elles peuvent mimer un récepteur soluble (étanercept).",
+   "Elles stimulent toujours la cytokine ciblée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : ciblage précis d'une voie cytokinique.",
+   "Exact : neutralisation de la cytokine.",
+   "Exact : blocage du récepteur.",
+   "Exact : récepteur soluble leurre.",
+   "Faux : elles inhibent la voie ciblée."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant l'IL-1Ra (anakinra) ?",
+  "options": [
+   "C'est l'antagoniste naturel du récepteur de l'IL-1.",
+   "L'anakinra en est la forme recombinante thérapeutique.",
+   "Il est utilisé dans les maladies auto-inflammatoires.",
+   "C'est un anticorps anti-TNFα.",
+   "Il stimule le récepteur de l'IL-1."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IL-1Ra = antagoniste naturel de l'IL-1R.",
+   "Exact : anakinra = IL-1Ra recombinant.",
+   "Exact : maladies auto-inflammatoires (ex : goutte, Still).",
+   "Faux : les anti-TNFα sont une autre classe.",
+   "Faux : il bloque le récepteur de l'IL-1."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines, lesquelles de ces propositions générales sont exactes ?",
+  "options": [
+   "Ce sont des glycoprotéines de 8 à 25 kDa.",
+   "Plus de 200 ont été identifiées chez l'homme.",
+   "Elles ne sont pas stockées dans les cellules au repos.",
+   "Elles agissent via des récepteurs membranaires spécifiques.",
+   "Elles sont toutes pro-inflammatoires."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : glycoprotéines de faible poids moléculaire.",
+   "Exact : plus de 200 cytokines humaines identifiées.",
+   "Exact : synthèse induite de novo, pas de stockage.",
+   "Exact : fixation sur des récepteurs spécifiques.",
+   "Faux : IL-10 et TGFβ sont anti-inflammatoires/régulatrices."
+  ]
+ },
+ {
+  "q": "Les 4 familles de cytokines du cours sont :",
+  "options": [
+   "Les hématopoïétines.",
+   "Les interleukines.",
+   "La famille des TNF.",
+   "Les chimiokines.",
+   "Les interférons."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : famille des hématopoïétines.",
+   "Exact : famille des interleukines.",
+   "Exact : famille des TNF.",
+   "Exact : famille des chimiokines.",
+   "Faux : les interférons sont classés par leurs récepteurs (classe II)."
+  ]
+ },
+ {
+  "q": "Les 5 classes de récepteurs de cytokines sont :",
+  "options": [
+   "Classe I : hématopoïétines.",
+   "Classe II : interférons.",
+   "Classe III : TNF.",
+   "Superfamille des Ig.",
+   "Récepteurs nucléaires des hormones stéroïdiennes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : classe I = hématopoïétines.",
+   "Exact : classe II = interférons.",
+   "Exact : classe III = TNF.",
+   "Exact : superfamille des Ig (ex : IL-1R).",
+   "Faux : les récepteurs nucléaires hormonaux sont intracellulaires, hors classification."
+  ]
+ },
+ {
+  "q": "Concernant les modes d'action des cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Autocrine : sur la cellule productrice.",
+   "Paracrine : sur l'environnement immédiat.",
+   "Endocrine : à distance par voie sanguine.",
+   "Les trois modes peuvent coexister pour une même cytokine.",
+   "Il n'existe que le mode endocrine."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : autocrine = cellule productrice.",
+   "Exact : paracrine = cellules voisines.",
+   "Exact : endocrine = distance via le sang.",
+   "Exact : ex : l'IL-2 agit en autocrine et paracrine.",
+   "Faux : trois modes existent."
+  ]
+ },
+ {
+  "q": "Les cytokines de l'hématopoïèse comprennent :",
+  "options": [
+   "L'EPO et la TPO.",
+   "Le G-CSF et le GM-CSF.",
+   "L'IL-3, l'IL-5, l'IL-6, l'IL-7 et l'IL-11.",
+   "L'IL-2 et l'IFNγ.",
+   "L'IL-1 et le TNFα."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : EPO, TPO = hématopoïèse.",
+   "Exact : G-CSF, GM-CSF = hématopoïèse.",
+   "Exact : IL-3, 5, 6, 7, 11 = hématopoïèse.",
+   "Faux : IL-2 et IFNγ = immunité adaptative.",
+   "Faux : IL-1 et TNFα = immunité innée."
+  ]
+ },
+ {
+  "q": "Les cytokines de l'immunité innée comprennent :",
+  "options": [
+   "L'IL-1 et le TNFα.",
+   "L'IL-6 et l'IL-12.",
+   "L'IFNβ et le TNFβ.",
+   "L'IL-2 et l'IL-4.",
+   "L'IL-10 et le TGFβ."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IL-1, TNFα = immunité innée.",
+   "Exact : IL-6, IL-12 = immunité innée.",
+   "Exact : IFNβ, TNFβ = immunité innée.",
+   "Faux : IL-2, IL-4 = immunité adaptative.",
+   "Faux : IL-10, TGFβ = immunité adaptative."
+  ]
+ },
+ {
+  "q": "Les cytokines de l'immunité adaptative comprennent :",
+  "options": [
+   "L'IL-2 et l'IL-4.",
+   "L'IL-10 et le TGFβ.",
+   "L'IFNγ et l'IL-17.",
+   "L'IL-1 et le TNFα.",
+   "L'IL-6 et l'IL-12."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IL-2, IL-4 = adaptative.",
+   "Exact : IL-10, TGFβ = adaptative.",
+   "Exact : IFNγ, IL-17 = adaptative.",
+   "Faux : IL-1, TNFα = innée.",
+   "Faux : IL-6, IL-12 = innée."
+  ]
+ },
+ {
+  "q": "Concernant la synthèse des cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle est induite de novo après activation.",
+   "Elle est spontanée dans la moelle osseuse et le thymus.",
+   "La sécrétion est faible et transitoire.",
+   "La demi-vie est courte.",
+   "Les cytokines sont stockées en granules."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : synthèse induite de novo.",
+   "Exact : synthèse spontanée dans MO et thymus.",
+   "Exact : sécrétion faible et transitoire.",
+   "Exact : demi-vie courte.",
+   "Faux : pas de stockage dans les cellules au repos."
+  ]
+ },
+ {
+  "q": "L'activité en cascade des cytokines :",
+  "options": [
+   "Signifie qu'une cytokine en active d'autres qui produisent d'autres cytokines.",
+   "Permet l'amplification de la réponse immunitaire.",
+   "Coordonne les différentes populations cellulaires.",
+   "Se limite à une seule cytokine et une seule cellule.",
+   "Est indépendante des récepteurs."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définition de l'activité en cascade.",
+   "Exact : amplification de la réponse.",
+   "Exact : coordination intercellulaire.",
+   "Faux : la cascade implique plusieurs cytokines et cellules.",
+   "Faux : elle passe par les récepteurs."
+  ]
+ },
+ {
+  "q": "Le CD25 :",
+  "options": [
+   "Est la chaîne α du récepteur de l'IL-2.",
+   "Est exprimé par les lymphocytes T activés.",
+   "Est la cible du basiliximab en prévention du rejet de greffe.",
+   "Est la chaîne β du récepteur de l'IL-2.",
+   "Est un récepteur des chimiokines."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : CD25 = IL-2Rα.",
+   "Exact : induit sur les LT activés.",
+   "Exact : anti-CD25 = prévention du rejet.",
+   "Faux : la chaîne β est le CD122.",
+   "Faux : les chimiokines ont leurs propres récepteurs."
+  ]
+ },
+ {
+  "q": "Concernant les usages thérapeutiques des cytokines, lesquelles de ces associations sont correctes ?",
+  "options": [
+   "IFN : hépatites B et C, sclérose en plaques, lymphomes, myélomes.",
+   "G-CSF : neutropénies post-chimiothérapie.",
+   "EPO : anémies des insuffisances rénales chroniques.",
+   "Anti-TNFα : polyarthrite rhumatoïde.",
+   "Anti-CD25 : neutropénies post-chimiothérapie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : indications des interférons.",
+   "Exact : indication du G-CSF.",
+   "Exact : indication de l'EPO.",
+   "Exact : indication des anti-TNFα.",
+   "Faux : l'anti-CD25 sert en prévention du rejet de greffe."
+  ]
+ },
+ {
+  "q": "Quelles cytokines sont pro-inflammatoires ?",
+  "options": [
+   "L'IL-1.",
+   "Le TNFα.",
+   "L'IL-6.",
+   "L'IL-17.",
+   "L'IL-10."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-1 est pro-inflammatoire.",
+   "Exact : le TNFα est pro-inflammatoire.",
+   "Exact : l'IL-6 est pro-inflammatoire.",
+   "Exact : l'IL-17 est pro-inflammatoire.",
+   "Faux : l'IL-10 est anti-inflammatoire."
+  ]
+ },
+ {
+  "q": "Quelles cytokines sont anti-inflammatoires ou immunosuppressives ?",
+  "options": [
+   "L'IL-10.",
+   "Le TGFβ.",
+   "L'IL-1Ra (antagoniste naturel de l'IL-1).",
+   "Le TNFα.",
+   "L'IL-6."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'IL-10 est anti-inflammatoire.",
+   "Exact : le TGFβ est immunosuppresseur.",
+   "Exact : l'IL-1Ra bloque l'IL-1.",
+   "Faux : le TNFα est pro-inflammatoire.",
+   "Faux : l'IL-6 est pro-inflammatoire."
+  ]
+ },
+ {
+  "q": "Concernant les cellules productrices de cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les lymphocytes T.",
+   "Les cellules NK.",
+   "Les CPA (cellules dendritiques, macrophages).",
+   "Les cellules endothéliales.",
+   "Exclusivement les lymphocytes B."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LT produisent des cytokines.",
+   "Exact : les NK produisent des cytokines.",
+   "Exact : les CPA produisent des cytokines.",
+   "Exact : les cellules endothéliales produisent des cytokines.",
+   "Faux : de nombreuses populations en produisent."
+  ]
+ },
+ {
+  "q": "La voie JAK/STAT :",
+  "options": [
+   "Est la voie majeure des récepteurs de classe I et II.",
+   "Fait intervenir des tyrosines kinases (JAK).",
+   "Aboutit à l'activation transcriptionnelle par les STAT.",
+   "Est la voie des récepteurs des chimiokines.",
+   "Est la voie principale des récepteurs du TNF."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : voie canonique des classes I et II.",
+   "Exact : Janus kinases associées aux récepteurs.",
+   "Exact : les STAT sont des facteurs de transcription.",
+   "Faux : les chimiokines signalent via les protéines G.",
+   "Faux : les TNFR utilisent NF-κB et les caspases."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs des chimiokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils forment une classe à part de récepteurs de cytokines.",
+   "Ce sont des récepteurs à 7 domaines transmembranaires.",
+   "Ils sont couplés aux protéines G.",
+   "Ils utilisent la voie JAK/STAT.",
+   "Ils lient les interférons."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : classe à part de récepteurs.",
+   "Exact : récepteurs heptahélicoïdaux.",
+   "Exact : couplage aux protéines G.",
+   "Faux : JAK/STAT = classes I et II.",
+   "Faux : les interférons lient la classe II."
+  ]
+ },
+ {
+  "q": "Un déficit génétique touchant une cytokine ou son récepteur peut se manifester par :",
+  "options": [
+   "Un déficit immunitaire.",
+   "Des infections récidivantes.",
+   "Un défaut de signalisation spécifique.",
+   "Une hyperproduction de la cytokine déficiente.",
+   "Aucun symptôme dans tous les cas."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : défaut cytokinique = déficit immunitaire.",
+   "Exact : susceptibilité aux infections.",
+   "Exact : la voie de signalisation est interrompue.",
+   "Faux : le déficit réduit la signalisation.",
+   "Faux : les conséquences cliniques sont réelles."
+  ]
+ },
+ {
+  "q": "Concernant l'IL-2 et son récepteur, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'IL-2 est produite par les LT activés.",
+   "Le CD25 est la chaîne α de haute affinité.",
+   "L'IL-2 agit en autocrine sur les LT.",
+   "L'anti-CD25 bloque cette voie en transplantation.",
+   "L'IL-2 est une cytokine de l'immunité innée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LT activés produisent l'IL-2.",
+   "Exact : CD25 = IL-2Rα.",
+   "Exact : action autocrine de l'IL-2.",
+   "Exact : basiliximab en prévention du rejet.",
+   "Faux : l'IL-2 est une cytokine de l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Concernant les interférons, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'IFNβ est classé dans l'immunité innée.",
+   "L'IFNγ est classé dans l'immunité adaptative.",
+   "Leurs récepteurs sont de classe II.",
+   "L'IFNβ est utilisé dans la sclérose en plaques.",
+   "Les interférons sont des chimiokines."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IFNβ = immunité innée (cours).",
+   "Exact : IFNγ = immunité adaptative (cours).",
+   "Exact : récepteurs des IFN = classe II.",
+   "Exact : IFNβ = traitement de la SEP.",
+   "Faux : les interférons ne sont pas des chimiokines."
+  ]
+ },
+ {
+  "q": "Quelles propositions décrivent correctement le TNFα ?",
+  "options": [
+   "C'est une cytokine de l'immunité innée.",
+   "Il est produit par les macrophages activés.",
+   "Ses récepteurs sont de classe III.",
+   "Il est la cible des anti-TNFα dans la PR.",
+   "C'est une cytokine anti-inflammatoire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : TNFα = immunité innée.",
+   "Exact : produit par les macrophages.",
+   "Exact : TNFR = classe III.",
+   "Exact : anti-TNFα = PR.",
+   "Faux : le TNFα est pro-inflammatoire."
+  ]
+ },
+ {
+  "q": "Quelles propositions décrivent correctement l'EPO ?",
+  "options": [
+   "C'est une cytokine de l'hématopoïèse.",
+   "Elle stimule l'érythropoïèse.",
+   "Son récepteur est de classe I.",
+   "Elle est utilisée dans les anémies des IRC.",
+   "C'est une interleukine."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : EPO = hématopoïèse.",
+   "Exact : elle stimule les globules rouges.",
+   "Exact : récepteur de classe I.",
+   "Exact : anémies des IRC = indication.",
+   "Faux : l'EPO est une hématopoïétine."
+  ]
+ },
+ {
+  "q": "Concernant la régulation de la réponse immunitaire par les cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'IL-12 oriente vers Th1.",
+   "L'IL-4 oriente vers Th2.",
+   "L'IL-10 et le TGFβ freinent l'inflammation.",
+   "L'IFNγ active les macrophages.",
+   "Les cytokines n'ont aucun rôle régulateur."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IL-12 = Th1.",
+   "Exact : IL-4 = Th2.",
+   "Exact : IL-10, TGFβ = régulation négative.",
+   "Exact : IFNγ = activation macrophagique.",
+   "Faux : les cytokines sont les régulateurs majeurs."
+  ]
+ },
+ {
+  "q": "Les effets des cytokines sur les cellules cibles incluent :",
+  "options": [
+   "La prolifération.",
+   "La différenciation.",
+   "L'activation fonctionnelle.",
+   "L'apoptose dans certains cas.",
+   "Uniquement la nécrose."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les cytokines induisent la prolifération.",
+   "Exact : elles induisent la différenciation.",
+   "Exact : elles activent les fonctions effectrices.",
+   "Exact : ex : TNFα via TNFR1 (domaine de mort).",
+   "Faux : les effets sont variés."
+  ]
+ },
+ {
+  "q": "Concernant la structure des cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ce sont des glycoprotéines.",
+   "Leur poids moléculaire est de 8 à 25 kDa.",
+   "La plupart ont une structure hélicoïdale.",
+   "Ce sont des anticorps.",
+   "Ce sont des glycolipides."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : glycoprotéines.",
+   "Exact : 8 à 25 kDa.",
+   "Exact : structure hélicoïdale majoritaire.",
+   "Faux : les anticorps sont les immunoglobulines.",
+   "Faux : ce sont des protéines glycosylées."
+  ]
+ },
+ {
+  "q": "Quelles associations cytokine / producteur sont correctes ?",
+  "options": [
+   "IL-2 : lymphocytes T activés.",
+   "TNFα : macrophages activés.",
+   "IL-12 : cellules dendritiques.",
+   "IFNγ : cellules NK et Th1.",
+   "EPO : lymphocytes B."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IL-2 = LT activés.",
+   "Exact : TNFα = macrophages.",
+   "Exact : IL-12 = DC.",
+   "Exact : IFNγ = NK et Th1.",
+   "Faux : l'EPO est produite par le rein."
+  ]
+ },
+ {
+  "q": "Quelles associations cytokine / classe de récepteur sont correctes ?",
+  "options": [
+   "IL-6 : classe I.",
+   "IFNα : classe II.",
+   "TNFα : classe III.",
+   "IL-1 : superfamille des Ig.",
+   "IL-8 : classe II."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IL-6 = classe I (gp130).",
+   "Exact : IFNα = classe II.",
+   "Exact : TNFα = classe III.",
+   "Exact : IL-1 = superfamille des Ig.",
+   "Faux : l'IL-8 est une chimiokine."
+  ]
+ },
+ {
+  "q": "Concernant les biothérapies anti-cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'infliximab neutralise le TNFα.",
+   "Le basiliximab bloque le CD25.",
+   "L'étanercept est un récepteur soluble du TNF.",
+   "Le tocilizumab bloque le récepteur de l'IL-6.",
+   "Elles stimulent la voie cytokinique ciblée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : infliximab = anti-TNFα.",
+   "Exact : basiliximab = anti-CD25.",
+   "Exact : étanercept = TNFR soluble.",
+   "Exact : tocilizumab = anti-IL-6R.",
+   "Faux : elles inhibent la voie ciblée."
+  ]
+ },
+ {
+  "q": "L'hyperproduction de cytokines est impliquée dans :",
+  "options": [
+   "Le choc septique.",
+   "Le syndrome de relargage cytokinique.",
+   "Les maladies auto-inflammatoires.",
+   "La fièvre prolongée.",
+   "L'immunodéficience par défaut de production."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : TNFα/IL-1 en excès = choc septique.",
+   "Exact : orage cytokinique des immunothérapies.",
+   "Exact : excès d'IL-1 dans les auto-inflammatoires.",
+   "Exact : pyrogènes en excès = fièvre.",
+   "Faux : c'est l'insuffisance, pas l'hyperproduction."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines de l'hématopoïèse, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Leurs récepteurs sont de classe I.",
+   "L'EPO, la TPO, le G-CSF et le GM-CSF en font partie.",
+   "Plusieurs sont utilisées en thérapeutique.",
+   "Elles n'agissent que sur la moelle osseuse.",
+   "L'IL-2 en fait partie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : récepteurs des hématopoïétines = classe I.",
+   "Exact : liste du cours.",
+   "Exact : EPO, G-CSF utilisés en clinique.",
+   "Faux : ex : l'EPO agit aussi hors moelle (neuroprotection étudiée).",
+   "Faux : l'IL-2 est une cytokine de l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Concernant les chimiokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elles forment une des 4 familles de cytokines.",
+   "Elles attirent les leucocytes vers l'inflammation.",
+   "Leurs récepteurs sont couplés aux protéines G.",
+   "L'IL-8 attire les neutrophiles.",
+   "Elles sont stockées dans les cellules au repos."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : une des 4 familles.",
+   "Exact : chimiotactisme des leucocytes.",
+   "Exact : récepteurs heptahélicoïdaux.",
+   "Exact : IL-8 = chimioattractant des neutrophiles.",
+   "Faux : les cytokines ne sont pas stockées."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant l'IL-1 ?",
+  "options": [
+   "C'est une cytokine de l'immunité innée.",
+   "Elle est produite par les macrophages activés.",
+   "Elle est pyrogène.",
+   "Son récepteur appartient à la superfamille des Ig.",
+   "C'est une cytokine anti-inflammatoire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IL-1 = immunité innée.",
+   "Exact : produite par les macrophages.",
+   "Exact : pyrogène endogène.",
+   "Exact : IL-1R = superfamille des Ig.",
+   "Faux : l'IL-1 est pro-inflammatoire."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant l'IFNγ ?",
+  "options": [
+   "C'est une cytokine de l'immunité adaptative.",
+   "C'est un interféron de type II.",
+   "Il active les macrophages.",
+   "Son récepteur est de classe II.",
+   "C'est une cytokine de l'immunité innée selon le cours."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IFNγ = adaptative.",
+   "Exact : seul interféron de type II.",
+   "Exact : activateur majeur des macrophages.",
+   "Exact : récepteur de classe II.",
+   "Faux : le cours le classe dans l'adaptative."
+  ]
+ },
+ {
+  "q": "Concernant les propriétés générales des cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Action à très faible concentration.",
+   "Sécrétion transitoire.",
+   "Demi-vie courte.",
+   "Effets en cascade et en réseau.",
+   "Stockage intracellulaire prolongé."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : activité à la dizaine de picomoles.",
+   "Exact : sécrétion transitoire.",
+   "Exact : demi-vie courte.",
+   "Exact : activité en cascade décrite dans le cours.",
+   "Faux : pas de stockage dans les cellules au repos."
+  ]
+ },
+ {
+  "q": "Quelles cytokines interviennent dans la phase aiguë de l'inflammation ?",
+  "options": [
+   "L'IL-1.",
+   "Le TNFα.",
+   "L'IL-6.",
+   "L'IL-10.",
+   "Le TGFβ."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'IL-1 est pro-inflammatoire précoce.",
+   "Exact : le TNFα est pro-inflammatoire précoce.",
+   "Exact : l'IL-6 induit les protéines de la phase aiguë.",
+   "Faux : l'IL-10 est anti-inflammatoire.",
+   "Faux : le TGFβ est immunosuppresseur."
+  ]
+ },
+ {
+  "q": "Concernant le G-CSF, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une hématopoïétine.",
+   "Il stimule les polynucléaires neutrophiles.",
+   "Il est utilisé dans les neutropénies post-chimiothérapie.",
+   "C'est une cytokine de l'immunité adaptative.",
+   "Il bloque le TNFα."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le G-CSF est une hématopoïétine.",
+   "Exact : lignée granulocytaire neutrophile.",
+   "Exact : indication = neutropénies post-chimiothérapie.",
+   "Faux : c'est une cytokine de l'hématopoïèse.",
+   "Faux : il ne bloque pas le TNFα."
+  ]
+ },
+ {
+  "q": "Concernant l'IL-6, lesquelles de ces propositions sont FAUSSES ?",
+  "options": [
+   "C'est une cytokine exclusivement anti-inflammatoire.",
+   "Elle est produite uniquement par les lymphocytes T.",
+   "Elle n'a aucun rôle dans la fièvre.",
+   "C'est une cytokine de l'immunité innée.",
+   "Elle stimule les protéines de la phase aiguë."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : l'IL-6 est principalement pro-inflammatoire.",
+   "Faux : macrophages, fibroblastes, endothélium la produisent.",
+   "Faux : l'IL-6 est pyrogène.",
+   "Exact : l'IL-6 est bien une cytokine de l'immunité innée.",
+   "Exact : elle induit CRP et fibrinogène."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs solubles des cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils peuvent capter la cytokine et la neutraliser.",
+   "L'étanercept est un récepteur soluble du TNF utilisé en thérapeutique.",
+   "Ils existent pour le TNF et l'IL-2 entre autres.",
+   "Ils amplifient systématiquement l'action cytokinique.",
+   "Ils sont tous couplés aux protéines G."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : effet leurre neutralisant.",
+   "Exact : étanercept = TNFR soluble thérapeutique.",
+   "Exact : sTNFR, sIL-2R existent.",
+   "Faux : ils inhibent généralement l'action.",
+   "Faux : ce sont des formes solubles, non membranaires."
+  ]
+ },
+ {
+  "q": "Quelles propositions illustrent la pléiotropie des cytokines ?",
+  "options": [
+   "Le TNFα agit sur macrophages, endothélium et hypothalamus.",
+   "L'IL-6 agit sur hépatocytes, lymphocytes et hypothalamus.",
+   "L'IL-2 agit sur LT, LB et NK.",
+   "Chaque cytokine n'a qu'une seule cible.",
+   "Chaque cytokine n'a qu'un seul effet."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : multiples cibles du TNFα.",
+   "Exact : multiples cibles de l'IL-6.",
+   "Exact : multiples cibles de l'IL-2.",
+   "Faux : c'est l'inverse de la pléiotropie.",
+   "Faux : c'est l'inverse de la pléiotropie."
+  ]
+ },
+ {
+  "q": "Quelles propositions illustrent la redondance des cytokines ?",
+  "options": [
+   "IL-1, TNFα et IL-6 sont tous pyrogènes.",
+   "Plusieurs cytokines stimulent la prolifération lymphocytaire.",
+   "L'IL-4 et l'IL-13 partagent des effets sur les LB.",
+   "Chaque fonction immunitaire dépend d'une seule cytokine.",
+   "Aucune cytokine ne partage d'effet avec une autre."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : trois pyrogènes endogènes.",
+   "Exact : IL-2, IL-4, IL-7, IL-15... = croissance lymphocytaire.",
+   "Exact : effets redondants via l'IL-4Rα.",
+   "Faux : c'est l'inverse de la redondance.",
+   "Faux : c'est l'inverse de la redondance."
+  ]
+ },
+ {
+  "q": "Concernant la communication intercellulaire par les cytokines, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les CPA informent les lymphocytes via les cytokines.",
+   "Les LT informent les macrophages via l'IFNγ.",
+   "Les NK modulent la réponse adaptative via l'IFNγ.",
+   "Les cellules immunitaires agissent sans communiquer.",
+   "Les cytokines ne concernent que l'immunité innée."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les CPA activent les LT.",
+   "Exact : l'IFNγ des LT active les macrophages.",
+   "Exact : l'IFNγ des NK oriente l'adaptative.",
+   "Faux : la coopération exige la communication.",
+   "Faux : elles concernent aussi l'adaptative."
+  ]
+ },
+ {
+  "q": "Un anticorps monoclonal anti-cytokine :",
+  "options": [
+   "Neutralise la cytokine circulante.",
+   "Peut traiter des maladies inflammatoires.",
+   "Exemples : infliximab (anti-TNFα), sécukinumab (anti-IL-17).",
+   "Augmente la synthèse de la cytokine.",
+   "N'a aucune utilité clinique."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : neutralisation de la cible.",
+   "Exact : PR, psoriasis, Crohn...",
+   "Exact : anti-TNFα, anti-IL-17.",
+   "Faux : il bloque l'action de la cytokine.",
+   "Faux : utilité majeure démontrée."
+  ]
+ },
+ {
+  "q": "Concernant les petites molécules inhibitrices de JAK, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elles bloquent la signalisation de nombreuses cytokines.",
+   "Le tofacitinib en est un exemple.",
+   "Elles sont utilisées dans la polyarthrite rhumatoïde.",
+   "Ce sont des anticorps monoclonaux.",
+   "Elles activent la voie JAK/STAT."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : inhibition de la signalisation cytokinique.",
+   "Exact : tofacitinib = JAK-inhibiteur.",
+   "Exact : indiqué dans la PR.",
+   "Faux : ce sont des petites molécules orales.",
+   "Faux : elles inhibent JAK/STAT."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies à propos des cytokines et de la fièvre ?",
+  "options": [
+   "IL-1, TNFα et IL-6 sont des pyrogènes endogènes.",
+   "Elles agissent sur l'hypothalamus par voie sanguine.",
+   "L'anakinra (anti-IL-1) peut faire baisser la fièvre.",
+   "L'IL-10 est un pyrogène majeur.",
+   "La fièvre est indépendante des cytokines."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : triade pyrogène.",
+   "Exact : mode endocrine sur le centre thermorégulateur.",
+   "Exact : blocage de l'IL-1 = effet antipyrétique.",
+   "Faux : l'IL-10 est anti-inflammatoire.",
+   "Faux : les cytokines médient la fièvre."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines dans le choc septique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le TNFα et l'IL-1 y sont produits en excès.",
+   "Ils entraînent vasodilatation et hypotension.",
+   "Ils contribuent à la défaillance multiviscérale.",
+   "Leur blocage est une piste thérapeutique.",
+   "Ils n'y jouent aucun rôle."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : orage cytokinique.",
+   "Exact : vasoplégie.",
+   "Exact : défaillances d'organes.",
+   "Exact : anti-TNF, anti-IL-1 étudiés.",
+   "Faux : rôle central démontré."
+  ]
+ },
+ {
+  "q": "Les cytokines de l'immunité adaptative se caractérisent par :",
+  "options": [
+   "Une production par les lymphocytes T activés.",
+   "Un rôle dans l'expansion clonale (IL-2).",
+   "Un rôle régulateur (IL-10, TGFβ).",
+   "Des fonctions effectrices (IFNγ, IL-17).",
+   "Une production avant tout contact antigénique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : produites par les LT activés.",
+   "Exact : l'IL-2 = expansion clonale.",
+   "Exact : IL-10, TGFβ = régulation.",
+   "Exact : IFNγ, IL-17 = effectrices.",
+   "Faux : production après activation antigénique."
+  ]
+ }
+]

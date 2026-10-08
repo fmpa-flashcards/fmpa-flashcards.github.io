@@ -1,0 +1,4561 @@
+[
+ {
+  "q": "Concernant les sources d'énergie des bactéries, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les bactéries chimiotrophes utilisent des composés minéraux ou organiques comme source d'énergie.",
+   "Les bactéries chimiolithotrophes utilisent un élément minéral comme source d'énergie.",
+   "Les bactéries chimioorganotrophes utilisent un élément organique comme source d'énergie.",
+   "Les bactéries phototrophes utilisent la lumière comme source d'énergie.",
+   "Les bactéries chimiotrophes utilisent exclusivement la lumière comme source d'énergie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : chimiotrophe = énergie tirée de composés minéraux ou organiques.",
+   "Exact : chimiolithotrophe = élément minéral.",
+   "Exact : chimioorganotrophe = élément organique.",
+   "Exact : phototrophe = énergie lumineuse.",
+   "Faux : la lumière est la source d'énergie des phototrophes, pas des chimiotrophes."
+  ]
+ },
+ {
+  "q": "À propos des sources de carbone, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les bactéries autotrophes utilisent le CO2 comme seule source de carbone.",
+   "Les bactéries hétérotrophes utilisent le CO2 ou des substances hydrocarbonées.",
+   "Les bactéries hétérotrophes utilisent exclusivement des substances minérales comme source de carbone.",
+   "Les bactéries hétérotrophes sont incapables d'utiliser les sucres.",
+   "Toutes les bactéries sont autotrophes."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : autotrophe = CO2 exclusivement.",
+   "Exact : hétérotrophe = CO2 ou substances hydrocarbonées.",
+   "Faux : les hétérotrophes utilisent des substances hydrocarbonées, organiques.",
+   "Faux : les sucres divers sont cités comme sources de carbone des hétérotrophes.",
+   "Faux : il existe des bactéries hétérotrophes."
+  ]
+ },
+ {
+  "q": "Concernant les autres besoins nutritifs des bactéries, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les bactéries ont besoin d'une source d'azote et de soufre.",
+   "Les ions et les oligoéléments font partie des besoins inorganiques.",
+   "Certaines bactéries (auxotrophes) exigent des facteurs de croissance du milieu.",
+   "Les bactéries n'ont besoin d'aucun élément minéral.",
+   "Les bactéries auxotrophes synthétisent elles-mêmes tous leurs facteurs de croissance."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : source d'azote et de soufre citée dans le cours.",
+   "Exact : besoins inorganiques = ions, oligoéléments.",
+   "Exact : les auxotrophes exigent des facteurs de croissance du milieu.",
+   "Faux : les besoins inorganiques (ions, oligoéléments) sont indispensables.",
+   "Faux : c'est l'inverse, les auxotrophes ne les synthétisent pas et les exigent du milieu."
+  ]
+ },
+ {
+  "q": "Concernant la pénétration des nutriments dans les bactéries, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Tous les nutriments doivent traverser la paroi bactérienne puis la membrane cytoplasmique.",
+   "Les porines et les perméases participent au transport des nutriments.",
+   "La diffusion libre ne concerne qu'un petit nombre de molécules.",
+   "La sortie des métabolites utilise les mêmes mécanismes, ou survient lors de la lyse bactérienne.",
+   "Les nutriments pénètrent directement dans le cytoplasme sans franchir aucune barrière."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : ordre cité = paroi puis membrane cytoplasmique.",
+   "Exact : protéines de transport citées = porines, perméases.",
+   "Exact : diffusion libre = petit nombre de molécules.",
+   "Exact : sortie par les mêmes mécanismes ou lors de la lyse.",
+   "Faux : la paroi et la membrane cytoplasmique doivent être traversées."
+  ]
+ },
+ {
+  "q": "Une bactérie du sol oxyde un composé soufré minéral pour produire son énergie. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est une bactérie chimiotrophe.",
+   "C'est une bactérie chimiolithotrophe.",
+   "C'est une bactérie phototrophe.",
+   "C'est une bactérie chimioorganotrophe.",
+   "Si elle n'utilise que le CO2 comme source de carbone, c'est une bactérie autotrophe."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : énergie tirée d'un composé minéral = chimiotrophe.",
+   "Exact : élément minéral = chimiolithotrophe.",
+   "Faux : aucune lumière n'intervient ici.",
+   "Faux : le substrat énergétique est minéral, non organique.",
+   "Exact : CO2 exclusif = autotrophe."
+  ]
+ },
+ {
+  "q": "À propos des bactéries hétérotrophes, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles peuvent utiliser des substances hydrocarbonées comme source de carbone.",
+   "La plupart des bactéries d'intérêt médical sont des chimioorganotrophes hétérotrophes.",
+   "Elles utilisent exclusivement le CO2 comme source de carbone.",
+   "Elles sont incapables d'utiliser l'acide lactique.",
+   "Si elles sont chimioorganotrophes, elles puisent leur énergie dans des composés organiques."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : substances hydrocarbonées citées dans le cours.",
+   "Exact : les pathogènes utilisent des composés organiques (énergie et carbone).",
+   "Faux : c'est la définition des autotrophes.",
+   "Faux : l'acide lactique est cité parmi les substrats utilisables.",
+   "Exact : chimioorganotrophe = élément organique comme source d'énergie."
+  ]
+ },
+ {
+  "q": "Concernant l'auxotrophie, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Une bactérie auxotrophe exige du milieu des facteurs de croissance qu'elle ne synthétise pas.",
+   "Les vitamines peuvent constituer des facteurs de croissance.",
+   "Le sang, l'hémoglobine et les protéines peuvent apporter des facteurs de croissance.",
+   "Une bactérie prototrophe exige les mêmes facteurs du milieu extérieur.",
+   "Toutes les bactéries sont auxotrophes."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définition de l'auxotrophie.",
+   "Exact : vitamines supplémentaires citées comme facteurs de croissance.",
+   "Exact : sang, protéines, hémoglobine cités dans le cours.",
+   "Faux : la prototrophe synthétise elle-même ces composés.",
+   "Faux : seules certaines bactéries sont auxotrophes."
+  ]
+ },
+ {
+  "q": "Concernant les protéines de transport des nutriments, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ce sont des protéines membranaires.",
+   "Elles permettent le passage des nutriments à travers la membrane cytoplasmique.",
+   "Les porines sont des protéines de la membrane externe des bactéries à Gram négatif.",
+   "Les métabolites peuvent sortir de la cellule par ces mêmes mécanismes.",
+   "La diffusion libre est le principal mécanisme d'entrée des nutriments."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : porines et perméases = protéines de transport.",
+   "Exact : elles font franchir la membrane cytoplasmique aux nutriments.",
+   "Faux dans ce contexte : les porines siègent dans la membrane externe des Gram négatif, pas dans la paroi des Gram positif.",
+   "Exact : la sortie des métabolites utilise les mêmes mécanismes.",
+   "Faux : la diffusion libre ne concerne qu'un petit nombre de molécules."
+  ]
+ },
+ {
+  "q": "Concernant les besoins en azote et en soufre, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "L'azote est nécessaire à la synthèse des protéines et des acides nucléiques.",
+   "Le soufre entre dans la composition de certains acides aminés comme la cystéine et la méthionine.",
+   "Les bactéries peuvent se passer totalement d'azote.",
+   "L'azote et le soufre figurent parmi les besoins nutritifs cités dans le cours.",
+   "Seules les bactéries autotrophes ont besoin de soufre."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : l'azote est un constituant des protéines et des acides nucléiques.",
+   "Exact : acides aminés soufrés = cystéine, méthionine.",
+   "Faux : l'azote est indispensable à toute cellule.",
+   "Exact : source d'azote et de soufre citée dans le cours.",
+   "Faux : le besoin en soufre concerne toutes les bactéries."
+  ]
+ },
+ {
+  "q": "À propos des bactéries phototrophes, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles utilisent la lumière comme source d'énergie.",
+   "Elles sont nécessairement autotrophes.",
+   "Les cyanobactéries sont des exemples de bactéries phototrophes.",
+   "Elles utilisent des composés minéraux comme source d'énergie.",
+   "La photosynthèse bactérienne est un mode de production d'énergie."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : phototrophe = énergie lumineuse.",
+   "Faux : il existe des bactéries photohétérotrophes.",
+   "Exact : les cyanobactéries sont phototrophes.",
+   "Faux : les composés minéraux sont la source d'énergie des chimiolithotrophes.",
+   "Exact : la lumière fournit l'énergie via la photosynthèse."
+  ]
+ },
+ {
+  "q": "Concernant l'intérêt de la physiologie bactérienne en diagnostic, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle permet d'isoler la ou les bactéries en cause d'une maladie infectieuse.",
+   "Elle permet de dénombrer les bactéries.",
+   "Elle permet d'identifier la ou les bactéries en cause.",
+   "Elle permet de déterminer leur sensibilité aux antibiotiques.",
+   "Elle est inutile au contrôle bactériologique de l'environnement."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : isoler la bactérie en cause = intérêt cité.",
+   "Exact : dénombrer = intérêt cité.",
+   "Exact : identifier = intérêt cité.",
+   "Exact : sensibilité aux antibiotiques = intérêt cité.",
+   "Faux : le contrôle bactériologique de l'environnement est un intérêt cité."
+  ]
+ },
+ {
+  "q": "Concernant les oligoéléments, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ils sont nécessaires en très faibles quantités.",
+   "Le fer, le magnésium et le zinc en sont des exemples.",
+   "Ils participent comme cofacteurs à de nombreuses enzymes bactériennes.",
+   "Ils peuvent être totalement absents du milieu sans conséquence.",
+   "Ils remplacent la source d'énergie de la bactérie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : oligoéléments = éléments traces.",
+   "Exact : fer, magnésium, zinc sont des oligoéléments classiques.",
+   "Exact : rôle de cofacteurs enzymatiques.",
+   "Faux : leur carence bloque la croissance.",
+   "Faux : ils ne fournissent pas d'énergie."
+  ]
+ },
+ {
+  "q": "Une bactérie exigeante ne pousse que si le milieu contient de l'hémoglobine. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "L'hémoglobine lui apporte des facteurs de croissance.",
+   "C'est une bactérie auxotrophe pour ces facteurs.",
+   "Un milieu d'enrichissement est indiqué pour sa culture.",
+   "Un milieu synthétique minimal suffit toujours à sa culture.",
+   "Elle est dite prototrophe."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : hémoglobine citée comme facteur de croissance.",
+   "Exact : exigence d'un facteur du milieu = auxotrophie.",
+   "Exact : les milieux d'enrichissement permettent la croissance des exigeantes.",
+   "Faux : le milieu minimal ne contient pas le facteur exigé.",
+   "Faux : la prototrophe n'exige pas ces facteurs."
+  ]
+ },
+ {
+  "q": "Concernant la sortie des métabolites de la cellule bactérienne, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle peut emprunter les mêmes mécanismes que l'entrée des nutriments.",
+   "Elle peut survenir lors de la lyse bactérienne.",
+   "Les métabolites ne quittent jamais la cellule bactérienne.",
+   "Les perméases peuvent participer à l'excrétion des métabolites.",
+   "La lyse bactérienne libère le contenu cytoplasmique dans le milieu."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : mêmes mécanismes que l'entrée.",
+   "Exact : sortie lors de la lyse bactérienne.",
+   "Faux : les métabolites sont excrétés ou libérés à la lyse.",
+   "Exact : les protéines de transport fonctionnent dans les deux sens.",
+   "Exact : la lyse libère le contenu cellulaire."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes distinguent correctement les chimiolithotrophes des chimioorganotrophes ?",
+  "options": [
+   "Les chimiolithotrophes oxydent des composés minéraux.",
+   "Les chimioorganotrophes oxydent des composés organiques.",
+   "Les deux sont des bactéries chimiotrophes.",
+   "Les chimiolithotrophes utilisent la lumière comme source d'énergie.",
+   "Les chimioorganotrophes sont des bactéries phototrophes."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : élément minéral = chimiolithotrophe.",
+   "Exact : élément organique = chimioorganotrophe.",
+   "Exact : les deux tirent l'énergie de composés chimiques.",
+   "Faux : la lumière = phototrophes.",
+   "Faux : ce sont des chimiotrophes, pas des phototrophes."
+  ]
+ },
+ {
+  "q": "Concernant le CO2 en nutrition bactérienne, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est la source exclusive de carbone des bactéries autotrophes.",
+   "Les bactéries hétérotrophes peuvent aussi l'utiliser selon le cours.",
+   "Il ne joue aucun rôle dans la nutrition bactérienne.",
+   "Certaines bactéries capnophiles exigent une atmosphère enrichie en CO2.",
+   "Le CO2 est une source d'énergie pour les bactéries."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : autotrophe = CO2 exclusivement.",
+   "Exact : hétérotrophe = CO2 ou substances hydrocarbonées.",
+   "Faux : le CO2 est une source de carbone.",
+   "Exact : les capnophiles exigent du CO2 (ex : Neisseria).",
+   "Faux : le CO2 est une source de carbone, pas d'énergie."
+  ]
+ },
+ {
+  "q": "Concernant les besoins inorganiques, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les sels minéraux participent au système tampon assurant la constance du pH.",
+   "Le phosphore est nécessaire à la synthèse de l'ATP et des acides nucléiques.",
+   "Le potassium et le magnésium sont des ions nécessaires à la croissance.",
+   "Les besoins inorganiques n'existent pas chez les bactéries.",
+   "Les milieux synthétiques de composition définie contiennent des sels minéraux."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : système tampon et sels minéraux cités ensemble.",
+   "Exact : le phosphore entre dans l'ATP et les acides nucléiques.",
+   "Exact : K+ et Mg2+ sont des ions indispensables.",
+   "Faux : besoins inorganiques = ions, oligoéléments cités dans le cours.",
+   "Exact : sels minéraux cités dans les milieux synthétiques."
+  ]
+ },
+ {
+  "q": "Un technicien prépare un milieu à partir d'extraits de viande et de peptones. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Il s'agit d'un milieu complexe de réalisation empirique.",
+   "La composition exacte en nutriments n'est pas définie.",
+   "Il s'agit d'un milieu synthétique.",
+   "Ce type de milieu convient à la culture de nombreuses bactéries non exigeantes.",
+   "Les peptones fournissent des peptides et des acides aminés."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : extraits de viande, peptones = milieux complexes empiriques.",
+   "Exact : réalisation empirique = composition non définie.",
+   "Faux : les milieux synthétiques sont de composition définie.",
+   "Exact : les milieux complexes conviennent aux bactéries peu exigeantes.",
+   "Exact : les peptones sont des hydrolysats protéiques."
+  ]
+ },
+ {
+  "q": "Concernant les facteurs de croissance, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ce sont des composés organiques nécessaires en faible quantité.",
+   "Les vitamines du groupe B en sont des exemples classiques.",
+   "Le sang et l'hémoglobine peuvent en apporter.",
+   "Un extrait de levure peut en apporter dans un milieu semi-synthétique.",
+   "Toutes les bactéries en exigent du milieu extérieur."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : facteurs de croissance = besoins organiques en faible quantité.",
+   "Exact : les vitamines B sont des facteurs de croissance classiques.",
+   "Exact : sang, hémoglobine cités dans le cours.",
+   "Exact : extrait de levure cité pour les milieux semi-synthétiques.",
+   "Faux : seules les bactéries auxotrophes les exigent du milieu."
+  ]
+ },
+ {
+  "q": "Concernant les liens entre nutrition et examen bactériologique, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le choix des milieux de culture dépend des exigences nutritives de la bactérie recherchée.",
+   "Les milieux d'enrichissement permettent la croissance des bactéries exigeantes.",
+   "L'étude de la croissance en présence de divers substrats participe à l'identification.",
+   "Les besoins nutritifs sont sans rapport avec la culture bactérienne.",
+   "La galerie biochimique exploite les caractères nutritionnels et métaboliques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le choix des milieux est guidé par les exigences nutritives.",
+   "Exact : enrichissement = croissance des exigeantes.",
+   "Exact : croissance en présence de divers substrats = critère d'identification cité.",
+   "Faux : toute la culture repose sur les besoins nutritifs.",
+   "Exact : la galerie biochimique est citée parmi les tests d'identification."
+  ]
+ },
+ {
+  "q": "Concernant la diffusion libre à travers la membrane, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle ne concerne qu'un petit nombre de molécules.",
+   "Elle ne nécessite pas de protéine de transport.",
+   "Elle concerne les petites molécules capables de traverser la membrane.",
+   "C'est le principal mécanisme d'entrée des nutriments.",
+   "L'eau et certains gaz peuvent traverser la membrane par ce mécanisme."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : diffusion libre = petit nombre de molécules.",
+   "Exact : pas de porine ni de perméase nécessaire.",
+   "Exact : petites molécules uniquement.",
+   "Faux : le cours la limite à un petit nombre de molécules.",
+   "Exact : eau et gaz diffusent librement."
+  ]
+ },
+ {
+  "q": "À propos des bactéries chimioorganotrophes d'intérêt médical, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La plupart des bactéries pathogènes pour l'homme sont chimioorganotrophes.",
+   "Elles utilisent des composés organiques comme source d'énergie.",
+   "Elles sont généralement phototrophes.",
+   "Elles utilisent la lumière comme source d'énergie.",
+   "Elles oxydent des composés minéraux pour produire leur énergie."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : les pathogènes vivent aux dépens de substrats organiques.",
+   "Exact : élément organique = chimioorganotrophe.",
+   "Faux : phototrophe = énergie lumineuse, pas organique.",
+   "Faux : la lumière = phototrophes.",
+   "Faux : les minéraux = chimiolithotrophes."
+  ]
+ },
+ {
+  "q": "Concernant les bactéries autotrophes, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles utilisent le CO2 comme seule source de carbone.",
+   "Il existe des autotrophes phototrophes et des autotrophes chimiolithotrophes.",
+   "Elles sont toutes pathogènes pour l'homme.",
+   "Elles réduisent le CO2 pour synthétiser leurs molécules organiques.",
+   "Les hétérotrophes s'en distinguent par l'utilisation de substances hydrocarbonées."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : CO2 exclusivement.",
+   "Exact : énergie lumineuse ou minérale + CO2.",
+   "Faux : les autotrophes ne sont pas des pathogènes de l'homme.",
+   "Exact : fixation réductrice du CO2.",
+   "Exact : hétérotrophes = substances hydrocarbonées."
+  ]
+ },
+ {
+  "q": "Concernant les sources d'azote utilisables par les bactéries, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "L'azote peut être apporté sous forme de sels d'ammonium ou de nitrates.",
+   "Certaines bactéries fixent l'azote atmosphérique.",
+   "Les peptones apportent de l'azote organique.",
+   "L'azote n'est nécessaire qu'aux bactéries autotrophes.",
+   "L'azote entre dans la composition des protéines."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : ammonium et nitrates = sources d'azote minéral.",
+   "Exact : les bactéries fixatrices réduisent N2.",
+   "Exact : les peptones sont des hydrolysats protéiques azotés.",
+   "Faux : toute bactérie a besoin d'azote.",
+   "Exact : l'azote est un constituant des protéines."
+  ]
+ },
+ {
+  "q": "Concernant les milieux synthétiques, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Leur composition est définie.",
+   "Ils contiennent des acides aminés, des peptides, des bases nucléiques et des sucres.",
+   "Ils comportent un système tampon assurant la constance du pH.",
+   "Ils contiennent des sels minéraux.",
+   "Ils ne peuvent jamais contenir de facteurs de croissance."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : synthétique = composition définie.",
+   "Exact : substrats nutritifs cités dans le cours.",
+   "Exact : système tampon cité dans le cours.",
+   "Exact : sels minéraux cités dans le cours.",
+   "Faux : le cours cite sang, protéines, hémoglobine, vitamines comme facteurs de croissance possibles."
+  ]
+ },
+ {
+  "q": "À propos des milieux semi-synthétiques, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ce sont des milieux synthétiques additionnés d'un extrait d'organismes.",
+   "L'extrait de levure y apporte des facteurs de croissance pour les bactéries.",
+   "Ils sont de composition totalement définie.",
+   "Ils conviennent à la culture des bactéries exigeantes.",
+   "Ils sont identiques aux milieux complexes de réalisation empirique."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : définition du cours.",
+   "Exact : extrait de levures = facteurs de croissance.",
+   "Faux : l'extrait d'organisme est de composition indéfinie.",
+   "Exact : les facteurs apportés profitent aux exigeantes.",
+   "Faux : la base reste un milieu synthétique défini."
+  ]
+ },
+ {
+  "q": "Concernant le rôle de la paroi et de la membrane dans la nutrition, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La paroi est la première barrière franchie par les nutriments.",
+   "La membrane cytoplasmique est sélective grâce à ses protéines de transport.",
+   "Les nutriments traversent la membrane cytoplasmique avant la paroi.",
+   "Les porines facilitent le passage de petites molécules hydrophiles.",
+   "La membrane cytoplasmique est totalement imperméable."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : ordre cité = paroi puis membrane cytoplasmique.",
+   "Exact : porines et perméases assurent la sélectivité.",
+   "Faux : l'ordre est inverse.",
+   "Exact : les porines laissent passer les petites molécules hydrophiles.",
+   "Faux : nutriments et métabolites la traversent via des transporteurs."
+  ]
+ },
+ {
+  "q": "Concernant les objectifs et l'intérêt de la physiologie bactérienne, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle étudie les conditions nutritionnelles et environnementales de la croissance.",
+   "Elle étudie la division bactérienne et la dynamique de la croissance.",
+   "Elle a des implications dans la conduite d'un examen bactériologique.",
+   "Elle ne concerne que la génétique bactérienne.",
+   "Elle sert au contrôle de qualité bactériologique des aliments, des eaux et des médicaments."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : objectifs cités = conditions nutritionnelles et environnementales.",
+   "Exact : objectifs cités = division et dynamique de croissance.",
+   "Exact : implications lors de l'examen bactériologique.",
+   "Faux : la génétique est un autre chapitre.",
+   "Exact : contrôle de qualité cité dans l'introduction."
+  ]
+ },
+ {
+  "q": "Concernant les quatre modes respiratoires du cours, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les aérobies strictes exigent une teneur suffisante en oxygène moléculaire pour se multiplier.",
+   "Les micro-aérophiles se développent lorsque la teneur en oxygène est réduite (5 %).",
+   "Les aéro-anaérobies facultatives ont une croissance non affectée par la concentration en oxygène.",
+   "Les anaérobies strictes ne se développent qu'en absence d'oxygène.",
+   "Il n'existe que deux modes respiratoires chez les bactéries."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : définition des aérobies strictes.",
+   "Exact : micro-aérophiles = O2 réduit à 5 %.",
+   "Exact : définition des aéro-anaérobies facultatives.",
+   "Exact : définition des anaérobies strictes.",
+   "Faux : le cours en décrit quatre."
+  ]
+ },
+ {
+  "q": "À propos de Pseudomonas, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est une bactérie aérobie stricte.",
+   "C'est une bactérie alcalinophile.",
+   "Elle peut se multiplier en absence totale d'oxygène.",
+   "Son temps de génération in vitro est d'environ 40 minutes.",
+   "C'est une bactérie anaérobie stricte."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : exemple du cours pour les aérobies strictes.",
+   "Exact : exemple du cours pour les alcalinophiles.",
+   "Faux : l'aérobie stricte exige de l'oxygène.",
+   "Exact : temps de génération cité dans le cours.",
+   "Faux : c'est une aérobie stricte, pas une anaérobie."
+  ]
+ },
+ {
+  "q": "Concernant Campylobacter, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est une bactérie micro-aérophile.",
+   "Elle exige une atmosphère à teneur réduite en oxygène (environ 5 %).",
+   "Elle pousse aussi bien en aérobiose atmosphérique normale.",
+   "Sa culture nécessite des systèmes créant des atmosphères particulières (jarres).",
+   "C'est une bactérie anaérobie stricte."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : exemple du cours pour les micro-aérophiles.",
+   "Exact : O2 réduit à 5 % cité dans le cours.",
+   "Faux : l'oxygène atmosphérique (~21 %) est excessif pour elle.",
+   "Exact : jarres avec générateurs d'atmosphère cités dans le cours.",
+   "Faux : elle exige un peu d'oxygène, contrairement aux anaérobies strictes."
+  ]
+ },
+ {
+  "q": "À propos d'Escherichia coli, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est une bactérie aéro-anaérobie facultative.",
+   "Sa croissance n'est pas affectée par la concentration en oxygène moléculaire.",
+   "C'est une bactérie neutrophile.",
+   "Son temps de génération in vitro est de 20 à 40 minutes.",
+   "C'est une bactérie anaérobie stricte."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : exemple du cours pour les aéro-anaérobies facultatives.",
+   "Exact : définition citée dans le cours.",
+   "Exact : exemple du cours pour les neutrophiles (pH 6-8).",
+   "Exact : temps de génération cité dans le cours.",
+   "Faux : elle pousse en présence d'oxygène."
+  ]
+ },
+ {
+  "q": "Concernant Clostridium, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est une bactérie anaérobie stricte.",
+   "Elle ne se développe qu'en absence d'oxygène.",
+   "L'oxygène moléculaire est toxique pour elle.",
+   "Elle se multiplie en présence d'oxygène.",
+   "C'est un genre bactérien sporulé."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : exemple du cours pour les anaérobies strictes.",
+   "Exact : définition citée dans le cours.",
+   "Exact : les anaérobies strictes sont inhibées par l'oxygène.",
+   "Faux : incompatible avec l'anaérobiose stricte.",
+   "Exact : Clostridium forme des endospores."
+  ]
+ },
+ {
+  "q": "Concernant les exigences gazeuses et l'examen bactériologique, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles conditionnent le choix de l'atmosphère d'incubation.",
+   "Les jarres avec générateurs permettent de créer des atmosphères microaérophiles et anaérobies.",
+   "Toutes les bactéries exigent la même atmosphère d'incubation.",
+   "Le type respiratoire participe à l'identification phénotypique.",
+   "L'atmosphère d'incubation n'a aucune importance pratique."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : choix de l'atmosphère d'incubation cité dans le cours.",
+   "Exact : systèmes cités en phase analytique.",
+   "Faux : quatre modes respiratoires distincts existent.",
+   "Exact : type respiratoire cité parmi les critères d'identification.",
+   "Faux : elle est déterminante pour la croissance."
+  ]
+ },
+ {
+  "q": "À propos des anaérobies strictes, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "L'oxygène moléculaire inhibe leur croissance.",
+   "Leur culture exige l'élimination de l'oxygène du milieu.",
+   "Elles possèdent toujours une catalase.",
+   "Clostridium en est un exemple.",
+   "Elles peuvent aussi être aéro-anaérobies facultatives."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : elles ne se développent qu'en absence d'oxygène.",
+   "Exact : l'anaérobiose doit être assurée (jarres, milieux réduits).",
+   "Faux : beaucoup d'anaérobies strictes sont catalase négatives.",
+   "Exact : exemple cité dans le cours.",
+   "Faux : ce sont deux catégories respiratoires distinctes."
+  ]
+ },
+ {
+  "q": "Concernant les aérobies strictes, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles nécessitent de l'oxygène moléculaire pour se multiplier.",
+   "Pseudomonas en est un exemple.",
+   "Elles utilisent l'oxygène comme accepteur terminal d'électrons.",
+   "Elles se développent en anaérobiose.",
+   "Elles sont toutes micro-aérophiles."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : teneur suffisante en O2 exigée.",
+   "Exact : exemple cité dans le cours.",
+   "Exact : métabolisme respiratoire = O2 accepteur terminal.",
+   "Faux : incompatible avec l'aérobiose stricte.",
+   "Faux : micro-aérophiles = autre catégorie (O2 à 5 %)."
+  ]
+ },
+ {
+  "q": "Concernant les aéro-anaérobies facultatives, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles se multiplient en présence comme en absence d'oxygène.",
+   "Escherichia coli en est l'exemple du cours.",
+   "En présence d'oxygène, elles peuvent utiliser le métabolisme respiratoire.",
+   "En absence d'oxygène, elles recourent à la fermentation.",
+   "L'oxygène est toxique pour elles."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : croissance non affectée par l'oxygène.",
+   "Exact : exemple cité dans le cours.",
+   "Exact : la respiration aérobie est possible en présence d'O2.",
+   "Exact : la fermentation prend le relais en anaérobiose.",
+   "Faux : l'oxygène ne les inhibe pas."
+  ]
+ },
+ {
+  "q": "À propos des micro-aérophiles, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles exigent de faibles teneurs en oxygène.",
+   "Une teneur d'environ 5 % d'oxygène leur convient.",
+   "L'oxygène atmosphérique (~21 %) peut inhiber leur croissance.",
+   "Campylobacter en est un exemple.",
+   "Elles sont identiques aux anaérobies strictes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : O2 réduit exigé.",
+   "Exact : 5 % cité dans le cours.",
+   "Exact : l'excès d'oxygène les inhibe.",
+   "Exact : exemple cité dans le cours.",
+   "Faux : les anaérobies strictes exigent l'absence totale d'O2."
+  ]
+ },
+ {
+  "q": "Une bactérie ne pousse qu'au fond d'un tube de gélose profonde, loin de la surface. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Il s'agit probablement d'une bactérie anaérobie stricte.",
+   "L'oxygène diffusant depuis la surface inhibe sa croissance en profondeur.",
+   "Il s'agit d'une bactérie aérobie stricte.",
+   "Une culture en jarre anaérobie est indiquée pour l'isoler.",
+   "Il s'agit d'une bactérie micro-aérophile."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : les anaérobies strictes poussent au fond, à l'abri de l'O2.",
+   "Exact : le gradient d'oxygène décroît avec la profondeur.",
+   "Faux : les aérobies strictes poussent en surface.",
+   "Exact : l'anaérobiose doit être reproduite au laboratoire.",
+   "Faux : les micro-aérophiles pousseraient en zone intermédiaire."
+  ]
+ },
+ {
+  "q": "Concernant la répartition de la croissance en tube de gélose profonde, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les aérobies strictes poussent en surface du tube.",
+   "Les anaérobies strictes poussent au fond du tube.",
+   "Les aéro-anaérobies facultatives poussent sur toute la hauteur du tube.",
+   "Les micro-aérophiles poussent dans une zone intermédiaire du tube.",
+   "La répartition de la croissance n'a aucun lien avec le type respiratoire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : là où l'oxygène est abondant.",
+   "Exact : là où l'oxygène est absent.",
+   "Exact : l'oxygène ne les affecte pas.",
+   "Exact : là où la teneur en O2 est réduite.",
+   "Faux : cette répartition traduit le type respiratoire."
+  ]
+ },
+ {
+  "q": "À propos du métabolisme respiratoire, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les électrons libérés sont transférés par une chaîne respiratoire membranaire.",
+   "L'accepteur terminal des électrons est l'oxygène moléculaire.",
+   "Il s'agit de réactions cytoplasmiques anaérobies.",
+   "L'oxydation du substrat énergétique libère les électrons transférés.",
+   "Il ne produit pas d'énergie utilisable par la cellule."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : chaîne respiratoire membranaire citée dans le cours.",
+   "Exact : O2 accepteur terminal cité dans le cours.",
+   "Faux : c'est la description du métabolisme fermentatif.",
+   "Exact : l'oxydation du substrat libère les électrons.",
+   "Faux : c'est un mode de production d'énergie."
+  ]
+ },
+ {
+  "q": "Concernant le métabolisme fermentatif, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ce sont des réactions cytoplasmiques anaérobies d'oxydoréduction.",
+   "L'accepteur final d'électrons est un substrat organique.",
+   "Il se déroule aux dépens du substrat énergétique.",
+   "L'accepteur final d'électrons est l'oxygène moléculaire.",
+   "Il permet la production d'énergie en absence d'oxygène."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : définition citée dans le cours.",
+   "Exact : accepteur final organique cité dans le cours.",
+   "Exact : aux dépens du substrat énergétique (cours).",
+   "Faux : l'O2 est l'accepteur du métabolisme respiratoire.",
+   "Exact : la fermentation produit de l'énergie sans O2."
+  ]
+ },
+ {
+  "q": "Concernant la mise en évidence du métabolisme bactérien, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La production d'acide se traduit par le virage d'un indicateur coloré.",
+   "La nitrate réductase se traduit par la disparition des nitrates et l'apparition des nitrites.",
+   "On peut rechercher l'enzyme elle-même.",
+   "Aucun produit du métabolisme ne peut être mis en évidence.",
+   "L'étude des métabolismes protéique, glucidique et lipidique participe au profil métabolique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : recherche d'un produit = virage de l'indicateur.",
+   "Exact : exemple cité dans le cours.",
+   "Exact : recherche de l'enzyme elle-même citée dans le cours.",
+   "Faux : acides et nitrites sont des produits recherchés.",
+   "Exact : ces trois métabolismes sont cités dans l'identification."
+  ]
+ },
+ {
+  "q": "À propos des enzymes respiratoires en identification bactérienne, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La recherche de l'oxydase participe à l'identification phénotypique.",
+   "La recherche de la catalase participe à l'identification phénotypique.",
+   "Le type respiratoire est un critère d'identification.",
+   "Ces enzymes n'ont aucun intérêt en identification.",
+   "La combinaison des résultats donne le profil métabolique de la souche."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : oxydase citée dans le cours.",
+   "Exact : catalase citée dans le cours.",
+   "Exact : type respiratoire cité dans le cours.",
+   "Faux : ce sont des critères d'identification reconnus.",
+   "Exact : combinaison des résultats = profil métabolique (cours)."
+  ]
+ },
+ {
+  "q": "Concernant l'ATP, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est une molécule contenant des liaisons riches en énergie.",
+   "Il assure le transfert d'énergie dans la cellule bactérienne.",
+   "L'énergie récupérée sert à la croissance et à l'édification des structures cellulaires.",
+   "Il est produit uniquement par la photosynthèse.",
+   "Les métabolismes respiratoire et fermentatif produisent de l'énergie récupérée sous forme d'ATP."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : liaisons riches en énergie citées dans le cours.",
+   "Exact : transfert d'énergie grâce à l'ATP (cours).",
+   "Exact : énergie utilisée pour la croissance et l'édification (cours).",
+   "Faux : la respiration et la fermentation produisent aussi de l'ATP.",
+   "Exact : les deux modes récupèrent l'énergie des nutriments."
+  ]
+ },
+ {
+  "q": "Une bactérie réduit les nitrates en nitrites en culture. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle possède une nitrate réductase.",
+   "C'est un caractère métabolique utilisable pour l'identification.",
+   "La mise en évidence repose sur le virage d'un indicateur coloré de pH.",
+   "Ce caractère n'a aucune valeur diagnostique.",
+   "Elle est nécessairement une aérobie stricte."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : la réduction des nitrates traduit la nitrate réductase.",
+   "Exact : les caractères métaboliques servent à l'identification.",
+   "Faux : on recherche nitrates → nitrites, pas un virage d'indicateur de pH.",
+   "Faux : c'est un critère d'identification cité.",
+   "Faux : la nitrate réductase existe chez des aéro-anaérobies (ex : entérobactéries)."
+  ]
+ },
+ {
+  "q": "Concernant la fermentation, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle ne nécessite pas d'oxygène moléculaire.",
+   "Elle produit moins d'énergie que la respiration aérobie.",
+   "L'acide lactique peut en être un produit.",
+   "Elle se déroule dans la chaîne respiratoire membranaire.",
+   "Les aéro-anaérobies facultatives y recourent en anaérobiose."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : réactions anaérobies.",
+   "Exact : rendement énergétique inférieur à la respiration.",
+   "Exact : fermentation lactique des lactobacilles.",
+   "Faux : la chaîne membranaire appartient à la respiration.",
+   "Exact : E. coli fermente en absence d'O2."
+  ]
+ },
+ {
+  "q": "À propos de l'oxygène comme accepteur d'électrons, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Dans le métabolisme respiratoire, l'O2 est l'accepteur terminal des électrons.",
+   "Sa réduction produit de l'eau.",
+   "Les anaérobies strictes utilisent l'O2 comme accepteur terminal.",
+   "Certaines bactéries utilisent d'autres accepteurs terminaux comme les nitrates ou les sulfates.",
+   "La fermentation utilise l'O2 comme accepteur final d'électrons."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : définition du métabolisme respiratoire du cours.",
+   "Exact : O2 + électrons + H+ donne H2O.",
+   "Faux : les anaérobies strictes sont inhibées par l'O2.",
+   "Exact : respiration anaérobie avec nitrates ou sulfates.",
+   "Faux : l'accepteur final de la fermentation est un substrat organique."
+  ]
+ },
+ {
+  "q": "Concernant les milieux de transport du prélèvement, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ils font partie des conditions de transport citées dans le cours.",
+   "Ils maintiennent la viabilité des bactéries sans permettre leur multiplication.",
+   "Le délai de traitement du prélèvement doit être respecté.",
+   "L'environnement de transport doit être adapté.",
+   "Le prélèvement doit toujours être réalisé après une antibiothérapie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : milieux de transport cités en phase pré-analytique.",
+   "Exact : ils conservent sans enrichir.",
+   "Exact : délai de traitement cité dans le cours.",
+   "Exact : environnement de transport cité dans le cours.",
+   "Faux : le prélèvement se fait avant tout traitement antibiotique."
+  ]
+ },
+ {
+  "q": "Concernant les conditions de prélèvement, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le prélèvement se fait avant tout traitement antibiotique ou antiseptique.",
+   "Les hémocultures se réalisent au cours d'une décharge bactérienne.",
+   "Des prélèvements répétés sont parfois nécessaires.",
+   "Le moment du prélèvement n'a aucune importance.",
+   "Un traitement antibiotique préalable n'influence pas la culture."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : condition citée en phase pré-analytique.",
+   "Exact : hémocultures au cours d'une décharge bactérienne (cours).",
+   "Exact : prélèvements répétés parfois nécessaires (cours).",
+   "Faux : le moment conditionne la positivité (ex : hémocultures).",
+   "Faux : les antibiotiques inhibent la croissance et faussent la culture."
+  ]
+ },
+ {
+  "q": "À propos des atmosphères d'incubation au laboratoire, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les étuves permettent l'incubation à diverses températures (30 °C, 37 °C...).",
+   "Les jarres avec générateurs créent des atmosphères microaérophiles et anaérobies.",
+   "Le choix de l'atmosphère dépend du type respiratoire de la bactérie recherchée.",
+   "Toutes les bactéries s'incubent en aérobiose ordinaire.",
+   "Campylobacter nécessite une atmosphère microaérophile."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : étuves à diverses températures citées dans le cours.",
+   "Exact : systèmes cités en phase analytique.",
+   "Exact : choix de l'atmosphère d'incubation cité dans le cours.",
+   "Faux : anaérobies et micro-aérophiles exigent des atmosphères particulières.",
+   "Exact : micro-aérophile cité dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant la catalase, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle décompose l'eau oxygénée (H2O2) en eau et en oxygène.",
+   "Sa recherche participe à l'identification phénotypique.",
+   "Elle protège la bactérie des dérivés toxiques de l'oxygène.",
+   "Toutes les bactéries sont catalase positives.",
+   "Les staphylocoques sont catalase positifs et les streptocoques catalase négatifs."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : réaction de la catalase.",
+   "Exact : catalase citée parmi les enzymes respiratoires.",
+   "Exact : elle détoxifie le peroxyde d'hydrogène.",
+   "Faux : les streptocoques sont catalase négatifs.",
+   "Exact : distinction classique staphylocoques / streptocoques."
+  ]
+ },
+ {
+  "q": "À propos de l'oxydase, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Sa recherche participe à l'identification phénotypique.",
+   "Pseudomonas aeruginosa est oxydase positive.",
+   "Les entérobactéries sont oxydase négatives.",
+   "Toutes les bactéries sont oxydase positives.",
+   "Elle met en évidence une enzyme de la chaîne respiratoire (cytochrome oxydase)."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : oxydase citée dans le cours.",
+   "Exact : caractère classique de Pseudomonas aeruginosa.",
+   "Exact : les entérobactéries sont oxydase négatives.",
+   "Faux : beaucoup de bactéries sont oxydase négatives.",
+   "Exact : la cytochrome oxydase appartient à la chaîne respiratoire."
+  ]
+ },
+ {
+  "q": "Concernant les gaz et la croissance bactérienne, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le CO2 peut être une source de carbone pour les bactéries.",
+   "Une atmosphère enrichie en CO2 favorise certaines bactéries exigeantes capnophiles.",
+   "L'oxygène est indispensable à toutes les bactéries.",
+   "L'azote atmosphérique est utilisé comme source d'azote par toutes les bactéries.",
+   "Les exigences gazeuses figurent parmi les conditions environnementales du cours."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : CO2 = source de carbone des autotrophes.",
+   "Exact : les capnophiles exigent du CO2.",
+   "Faux : les anaérobies strictes sont inhibées par l'O2.",
+   "Faux : seules les fixatrices utilisent N2.",
+   "Exact : exigences gazeuses citées dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant la respiration anaérobie, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle utilise un accepteur terminal d'électrons autre que l'oxygène.",
+   "Les nitrates peuvent servir d'accepteurs terminaux d'électrons.",
+   "Elle est identique à la fermentation.",
+   "Elle produit plus d'énergie que la fermentation.",
+   "Elle ne fait intervenir aucune chaîne respiratoire membranaire."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : définition de la respiration anaérobie.",
+   "Exact : les nitrates sont des accepteurs alternatifs classiques.",
+   "Faux : la fermentation est cytoplasmique sans chaîne respiratoire.",
+   "Exact : son rendement dépasse celui de la fermentation.",
+   "Faux : elle utilise une chaîne respiratoire membranaire."
+  ]
+ },
+ {
+  "q": "Un étudiant confond fermentation et respiration. Lesquelles des corrections suivantes sont exactes ?",
+  "options": [
+   "La respiration utilise une chaîne respiratoire membranaire, pas la fermentation.",
+   "L'accepteur final d'électrons de la fermentation est un substrat organique.",
+   "La respiration aérobie utilise l'O2 comme accepteur terminal d'électrons.",
+   "Les deux sont des modes principaux de production d'énergie.",
+   "La fermentation est un type de respiration aérobie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : chaîne membranaire = respiration ; cytoplasmique = fermentation.",
+   "Exact : définition citée dans le cours.",
+   "Exact : définition citée dans le cours.",
+   "Exact : deux modes principaux cités dans le cours.",
+   "Faux : la fermentation est anaérobie."
+  ]
+ },
+ {
+  "q": "Concernant les bactéries mésophiles, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles poussent entre 10 et 45 °C.",
+   "Leur optimum de croissance est de 30 à 37 °C.",
+   "Les bactéries d'intérêt médical sont majoritairement mésophiles.",
+   "Elles poussent à plus de 80 °C.",
+   "Escherichia coli est une bactérie mésophile."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : intervalle cité dans le cours.",
+   "Exact : optimum cité dans le cours.",
+   "Exact : bactéries d'intérêt médical citées dans le cours.",
+   "Faux : au-delà de 80 °C = hyperthermophiles.",
+   "Exact : E. coli pousse à 37 °C."
+  ]
+ },
+ {
+  "q": "À propos des bactéries psychrophiles, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles poussent entre -15 et 20 °C.",
+   "Leur optimum de croissance est de 5 à 10 °C.",
+   "Le cours cite Listeria monocytogenes comme exemple.",
+   "Elles ne peuvent jamais se développer au réfrigérateur.",
+   "Elles sont incapables de pousser à 37 °C."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : intervalle cité dans le cours.",
+   "Exact : optimum cité dans le cours.",
+   "Exact : exemple cité dans le cours.",
+   "Faux : elles poussent aux températures de réfrigération.",
+   "Exact : 37 °C dépasse leur maximum de croissance."
+  ]
+ },
+ {
+  "q": "Concernant les thermophiles et les hyperthermophiles, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les thermophiles poussent de 45 à 70 °C.",
+   "Les hyperthermophiles poussent au-delà de 80 °C.",
+   "Aucune bactérie ne pousse au-delà de 45 °C.",
+   "Les hyperthermophiles colonisent les sources chaudes et les fumeurs océaniques.",
+   "Les bactéries d'intérêt médical sont hyperthermophiles."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : intervalle cité dans le cours.",
+   "Exact : seuil cité dans le cours.",
+   "Faux : thermophiles et hyperthermophiles dépassent 45 °C.",
+   "Exact : biotopes chauds des hyperthermophiles.",
+   "Faux : les bactéries médicales sont mésophiles."
+  ]
+ },
+ {
+  "q": "Concernant la température d'incubation au laboratoire, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "L'étuve permet d'incuber les milieux à 30 °C ou 37 °C selon les besoins.",
+   "37 °C correspond à la température corporelle humaine.",
+   "Le choix de la température dépend de la bactérie recherchée.",
+   "Toutes les bactéries poussent à 37 °C.",
+   "La température est une condition environnementale de la croissance."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : étuves à diverses températures citées dans le cours.",
+   "Exact : 37 °C = température du corps humain.",
+   "Exact : choix de la température d'incubation cité dans le cours.",
+   "Faux : psychrophiles et thermophiles exigent d'autres températures.",
+   "Exact : la température est citée parmi les conditions environnementales."
+  ]
+ },
+ {
+  "q": "À propos des bactéries neutrophiles, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles se développent à un pH compris entre 6 et 8.",
+   "Escherichia coli en est un exemple.",
+   "Elles exigent toutes un pH strictement égal à 7,0.",
+   "Elles exigent un pH supérieur à 8.",
+   "Elles ne se développent qu'en milieu acide."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : intervalle cité dans le cours.",
+   "Exact : exemple cité dans le cours.",
+   "Faux : elles tolèrent une plage de pH 6-8, pas une valeur unique.",
+   "Faux : pH > 8 = alcalinophiles.",
+   "Faux : pH < 6 = acidophiles."
+  ]
+ },
+ {
+  "q": "Concernant les bactéries alcalinophiles, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles se développent à pH alcalin (> 8).",
+   "Le cours cite Pseudomonas comme exemple.",
+   "Elles sont inhibées par les pH acides.",
+   "Elles poussent à un pH inférieur à 6.",
+   "Le pH du milieu influence leur croissance."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : définition citée dans le cours.",
+   "Exact : exemple cité dans le cours.",
+   "Exact : l'acidité s'éloigne de leur optimum.",
+   "Faux : pH < 6 = acidophiles.",
+   "Exact : le pH est une condition environnementale."
+  ]
+ },
+ {
+  "q": "À propos des bactéries acidophiles, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles se développent à pH acide (< 6).",
+   "Le cours cite Lactobacillus comme exemple.",
+   "Elles participent à la fermentation lactique.",
+   "Elles exigent un pH supérieur à 8.",
+   "La flore vaginale à pH acide est dominée par des lactobacilles."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : définition citée dans le cours.",
+   "Exact : exemple cité dans le cours.",
+   "Exact : les lactobacilles produisent de l'acide lactique.",
+   "Faux : pH > 8 = alcalinophiles.",
+   "Exact : les lactobacilles acidifient le milieu vaginal."
+  ]
+ },
+ {
+  "q": "Concernant le pH en bactériologie, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le pH est une condition environnementale de la croissance bactérienne.",
+   "Les milieux synthétiques comportent un système tampon assurant la constance du pH.",
+   "La production d'acide par fermentation fait varier le pH du milieu.",
+   "Le pH n'influence pas la croissance bactérienne.",
+   "Le virage d'un indicateur coloré traduit une variation de pH liée à la production d'acide."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le pH est cité parmi les conditions environnementales.",
+   "Exact : système tampon cité dans le cours.",
+   "Exact : la fermentation acidifie le milieu.",
+   "Faux : chaque groupe a son pH optimum.",
+   "Exact : acide = virage d'indicateur coloré (cours)."
+  ]
+ },
+ {
+  "q": "Concernant la pression osmotique, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les bactéries ont une bonne tolérance générale au sel.",
+   "Les bactéries halophiles nécessitent du chlorure de sodium.",
+   "Le cours cite Vibrio parahaemolyticus comme exemple d'halophile.",
+   "Aucune bactérie ne tolère la présence de sel.",
+   "Le sel est utilisé en conservation alimentaire pour inhiber la croissance bactérienne."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : bonne tolérance générale au sel citée dans le cours.",
+   "Exact : halophiles = exigence en NaCl.",
+   "Exact : exemple cité dans le cours.",
+   "Faux : la tolérance au sel est générale.",
+   "Exact : le sel freine la croissance (salaisons)."
+  ]
+ },
+ {
+  "q": "À propos des bactéries halophiles, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles exigent du NaCl pour se développer.",
+   "Vibrio parahaemolyticus est une bactérie halophile.",
+   "Elles sont inhibées par toute présence de sel.",
+   "Certaines sont responsables de toxi-infections alimentaires liées aux produits de la mer.",
+   "Les staphylocoques tolèrent de fortes concentrations en sel."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : exigence en chlorure de sodium.",
+   "Exact : exemple cité dans le cours.",
+   "Faux : le sel leur est nécessaire.",
+   "Exact : V. parahaemolyticus = gastro-entérites après fruits de mer.",
+   "Exact : les staphylocoques poussent à 7,5 % de NaCl (milieu Chapman)."
+  ]
+ },
+ {
+  "q": "Concernant la pression hydrostatique, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les bactéries ont une bonne tolérance générale à la pression.",
+   "Les espèces des grands fonds marins sont dites barophiles.",
+   "La pression atmosphérique normale inhibe la croissance bactérienne.",
+   "Les barophiles exigent de hautes pressions hydrostatiques pour se développer.",
+   "La pression mécanique figure parmi les conditions environnementales du cours."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : bonne tolérance générale citée dans le cours.",
+   "Exact : barophiles des grands fonds cités dans le cours.",
+   "Faux : la tolérance à la pression est générale.",
+   "Exact : les barophiles sont adaptées aux hautes pressions.",
+   "Exact : pression mécanique ou hydrostatique citée dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant l'ensemble des conditions environnementales du cours, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le pH, la température et la pression osmotique en font partie.",
+   "Les exigences gazeuses en font partie.",
+   "La pression hydrostatique en fait partie.",
+   "Elles conditionnent le choix des milieux et des conditions d'incubation.",
+   "Elles sont identiques pour toutes les espèces bactériennes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : trois conditions citées dans le cours.",
+   "Exact : quatre modes respiratoires cités dans le cours.",
+   "Exact : pression mécanique ou hydrostatique citée.",
+   "Exact : choix des milieux, température et atmosphère cités.",
+   "Faux : chaque espèce a ses propres exigences."
+  ]
+ },
+ {
+  "q": "Un laboratoire recherche Listeria monocytogenes dans un aliment. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le cours la cite comme exemple de bactérie psychrophile.",
+   "Elle peut se développer aux températures de réfrigération.",
+   "Une incubation à basse température peut la sélectionner (enrichissement à froid).",
+   "C'est une bactérie thermophile.",
+   "Elle ne pousse qu'à 37 °C."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : exemple cité dans le cours.",
+   "Exact : les psychrophiles poussent au froid.",
+   "Exact : l'enrichissement à froid sélectionne Listeria.",
+   "Faux : les thermophiles poussent de 45 à 70 °C.",
+   "Faux : elle pousse entre -15 et 20 °C."
+  ]
+ },
+ {
+  "q": "Concernant la conservation des souches bactériennes, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le froid est un moyen de conservation cité dans le cours.",
+   "La lyophilisation est un moyen de conservation cité dans le cours.",
+   "La congélation est un moyen de conservation cité dans le cours.",
+   "Le froid ralentit le métabolisme bactérien.",
+   "La conservation des souches n'a aucun intérêt en bactériologie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : froid cité dans le cours.",
+   "Exact : lyophilisation citée dans le cours.",
+   "Exact : congélation citée dans le cours.",
+   "Exact : le froid freine les réactions métaboliques.",
+   "Faux : la conservation fait partie des implications citées."
+  ]
+ },
+ {
+  "q": "À propos de la stérilisation, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle figure parmi les implications de la physiologie bactérienne citées dans le cours.",
+   "Elle vise la destruction de tous les micro-organismes, spores comprises.",
+   "L'autoclave utilise la chaleur humide sous pression.",
+   "La simple ébullition détruit toutes les spores bactériennes.",
+   "La connaissance de la thermorésistance guide le choix de la méthode de stérilisation."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : stérilisation citée dans les autres implications.",
+   "Exact : définition de la stérilisation.",
+   "Exact : principe de l'autoclave.",
+   "Faux : les spores résistent à l'ébullition.",
+   "Exact : la thermorésistance conditionne la méthode."
+  ]
+ },
+ {
+  "q": "Concernant les températures extrêmes de croissance, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les psychrophiles ont un optimum de 5 à 10 °C.",
+   "Les hyperthermophiles poussent au-delà de 80 °C.",
+   "Les mésophiles ont un optimum de 30 à 37 °C.",
+   "La température optimale est identique pour toutes les bactéries.",
+   "Les thermophiles poussent entre 45 et 70 °C."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : optimum cité dans le cours.",
+   "Exact : seuil cité dans le cours.",
+   "Exact : optimum cité dans le cours.",
+   "Faux : chaque catégorie a son optimum propre.",
+   "Exact : intervalle cité dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant l'influence de la température sur les aliments, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La réfrigération ralentit la croissance de la plupart des bactéries mésophiles.",
+   "Certaines bactéries psychrophiles peuvent se développer au réfrigérateur.",
+   "La cuisson détruit les formes végétatives bactériennes.",
+   "Le froid stérilise les aliments.",
+   "La congélation conserve les aliments en bloquant la croissance bactérienne."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le froid freine les mésophiles.",
+   "Exact : les psychrophiles poussent à 4 °C.",
+   "Exact : la chaleur détruit les formes végétatives.",
+   "Faux : le froid ralentit mais ne stérilise pas.",
+   "Exact : la congélation bloque la multiplication."
+  ]
+ },
+ {
+  "q": "À propos du pH et des milieux de culture, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Un système tampon maintient la constance du pH dans les milieux synthétiques.",
+   "La fermentation des sucres acidifie le milieu.",
+   "Les indicateurs colorés révèlent les variations de pH.",
+   "Le pH initial du milieu est sans importance.",
+   "Les bactéries acidophiles comme les lactobacilles acidifient leur environnement."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : système tampon cité dans le cours.",
+   "Exact : la fermentation produit des acides.",
+   "Exact : virage d'indicateur = variation de pH.",
+   "Faux : le pH initial conditionne la croissance.",
+   "Exact : les lactobacilles produisent de l'acide lactique."
+  ]
+ },
+ {
+  "q": "Concernant Vibrio parahaemolyticus, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est une bactérie halophile.",
+   "Elle nécessite du chlorure de sodium pour se développer.",
+   "Elle est associée aux produits de la mer.",
+   "Elle est inhibée par la présence de sel.",
+   "C'est l'exemple d'halophile cité dans le cours."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : halophile = exigence en NaCl.",
+   "Exact : les halophiles nécessitent du chlorure de sodium.",
+   "Exact : toxi-infections après consommation de fruits de mer.",
+   "Faux : le sel lui est nécessaire.",
+   "Exact : exemple cité dans le cours."
+  ]
+ },
+ {
+  "q": "À propos des bactéries barophiles, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ce sont des bactéries des grands fonds marins.",
+   "Elles tolèrent ou exigent de hautes pressions hydrostatiques.",
+   "Elles sont détruites par la pression atmosphérique normale.",
+   "La pression hydrostatique est une condition environnementale citée dans le cours.",
+   "Toutes les bactéries sont barophiles."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : grands fonds marins cités dans le cours.",
+   "Exact : adaptation aux hautes pressions.",
+   "Faux : la tolérance à la pression est générale, sans exigence exclusive.",
+   "Exact : pression mécanique ou hydrostatique citée.",
+   "Faux : seules les espèces des grands fonds sont barophiles."
+  ]
+ },
+ {
+  "q": "Un technicien incube une gélose à 37 °C pour rechercher une bactérie d'intérêt médical. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "37 °C correspond à l'optimum des bactéries mésophiles.",
+   "Les bactéries d'intérêt médical sont majoritairement mésophiles.",
+   "Cette température convient à la culture d'Escherichia coli.",
+   "Cette température convient à la culture des hyperthermophiles.",
+   "Le choix de la température d'incubation fait partie de la phase analytique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : optimum des mésophiles = 30-37 °C.",
+   "Exact : cité dans le cours.",
+   "Exact : E. coli est mésophile.",
+   "Faux : les hyperthermophiles poussent au-delà de 80 °C.",
+   "Exact : conditions d'incubation citées en phase analytique."
+  ]
+ },
+ {
+  "q": "Concernant les variations de pH au cours de la culture, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La production d'acides fait chuter le pH du milieu.",
+   "Le système tampon limite ces variations de pH.",
+   "Un pH trop acide ou trop alcalin peut inhiber la croissance.",
+   "Le pH reste toujours constant même sans système tampon.",
+   "Le virage d'un indicateur coloré traduit l'acidification du milieu."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les acides de fermentation acidifient.",
+   "Exact : rôle du tampon cité dans le cours.",
+   "Exact : chaque bactérie a son pH optimum.",
+   "Faux : sans tampon, le pH dérive.",
+   "Exact : acide = virage d'indicateur (cours)."
+  ]
+ },
+ {
+  "q": "Concernant le sel en bactériologie, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La plupart des bactéries tolèrent le sel.",
+   "Les bactéries halophiles exigent du NaCl.",
+   "De fortes concentrations en sel inhibent de nombreuses bactéries.",
+   "Le milieu Chapman sélectif contient 7,5 % de NaCl.",
+   "Le sel favorise la croissance de toutes les bactéries."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : bonne tolérance générale au sel (cours).",
+   "Exact : exigence en chlorure de sodium.",
+   "Exact : le sel est un conservateur alimentaire.",
+   "Exact : le Chapman sélectionne les staphylocoques halotolérants.",
+   "Faux : l'excès de sel inhibe beaucoup d'espèces."
+  ]
+ },
+ {
+  "q": "Concernant les catégories thermiques citées dans le cours, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les mésophiles poussent de 10 à 45 °C.",
+   "Les psychrophiles poussent de -15 à 20 °C.",
+   "Les thermophiles poussent de 45 à 70 °C.",
+   "Les hyperthermophiles poussent au-delà de 80 °C.",
+   "Les mésophiles ont un optimum de 5 à 10 °C."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : intervalle cité dans le cours.",
+   "Exact : intervalle cité dans le cours.",
+   "Exact : intervalle cité dans le cours.",
+   "Exact : seuil cité dans le cours.",
+   "Faux : 5-10 °C est l'optimum des psychrophiles."
+  ]
+ },
+ {
+  "q": "À propos de Listeria monocytogenes, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le cours la cite comme exemple de bactérie psychrophile.",
+   "Elle peut se multiplier à 4 °C.",
+   "Elle est responsable de listérioses d'origine alimentaire.",
+   "La réfrigération des aliments l'élimine.",
+   "C'est une bactérie d'intérêt médical."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : exemple cité dans le cours.",
+   "Exact : les psychrophiles poussent au froid.",
+   "Exact : listériose = infection alimentaire grave.",
+   "Faux : le froid ne la détruit pas, il la sélectionne même.",
+   "Exact : pathogène humain."
+  ]
+ },
+ {
+  "q": "Concernant l'optimum de croissance, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "L'optimum thermique des mésophiles est de 30 à 37 °C.",
+   "L'optimum thermique des psychrophiles est de 5 à 10 °C.",
+   "À l'optimum, le temps de génération est le plus court.",
+   "L'optimum de croissance est identique au minimum de croissance.",
+   "Le pH optimum des bactéries neutrophiles se situe entre 6 et 8."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : optimum cité dans le cours.",
+   "Exact : optimum cité dans le cours.",
+   "Exact : la vitesse de croissance est maximale à l'optimum.",
+   "Faux : optimum et minimum sont distincts.",
+   "Exact : neutrophiles = pH 6-8 (cours)."
+  ]
+ },
+ {
+  "q": "Concernant la pression osmotique du milieu, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle dépend de la concentration en solutés du milieu.",
+   "Les bactéries tolèrent généralement bien le sel.",
+   "Un milieu hypertonique peut provoquer une plasmolyse.",
+   "La paroi bactérienne protège la cellule des variations osmotiques.",
+   "La pression osmotique n'influence jamais la croissance bactérienne."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'osmolalité dépend des solutés.",
+   "Exact : bonne tolérance générale au sel (cours).",
+   "Exact : l'eau sort de la cellule en milieu hypertonique.",
+   "Exact : la paroi rigide s'oppose aux variations de turgescence.",
+   "Faux : c'est une condition environnementale citée."
+  ]
+ },
+ {
+  "q": "À propos des conditions physico-chimiques en identification, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles participent à l'identification phénotypique des bactéries.",
+   "La température de croissance est un critère d'identification.",
+   "Le pH de croissance est un critère d'identification.",
+   "Les exigences gazeuses (type respiratoire) sont un critère d'identification.",
+   "Seule la morphologie compte pour identifier une bactérie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : conditions physico-chimiques citées dans le cours.",
+   "Exact : les températures de croissance distinguent les espèces.",
+   "Exact : le pH optimum varie selon l'espèce.",
+   "Exact : type respiratoire cité dans le cours.",
+   "Faux : l'identification combine de nombreux critères."
+  ]
+ },
+ {
+  "q": "Concernant les bactéries des grands fonds marins, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles sont dites barophiles.",
+   "Elles supportent de fortes pressions hydrostatiques.",
+   "Elles sont toutes thermophiles.",
+   "Certaines sont psychrophiles car les grands fonds sont froids.",
+   "La pression hydrostatique est une condition environnementale citée dans le cours."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : terme cité dans le cours.",
+   "Exact : adaptation aux hautes pressions.",
+   "Faux : beaucoup vivent dans des eaux froides.",
+   "Exact : les abysses sont froids et sous haute pression.",
+   "Exact : pression mécanique ou hydrostatique citée."
+  ]
+ },
+ {
+  "q": "Concernant le choix de la température d'incubation au laboratoire, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Il dépend de la bactérie recherchée.",
+   "Les étuves permettent plusieurs températures d'incubation (30 °C, 37 °C...).",
+   "37 °C est la température usuelle pour les bactéries d'intérêt médical.",
+   "Une température inadaptée peut empêcher toute croissance.",
+   "La température d'incubation est toujours de 20 °C."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : choix de la température cité dans le cours.",
+   "Exact : étuves à diverses températures citées.",
+   "Exact : les pathogènes sont mésophiles.",
+   "Exact : hors de son intervalle, la bactérie ne pousse pas.",
+   "Faux : 20 °C ne convient ni aux mésophiles ni aux thermophiles."
+  ]
+ },
+ {
+  "q": "À propos des lactobacilles, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ce sont des bactéries acidophiles.",
+   "Le cours les cite comme exemple d'acidophiles.",
+   "Ils produisent de l'acide lactique par fermentation.",
+   "Ils sont alcalinophiles.",
+   "Ils participent à la fermentation lactique des yaourts."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : acidophiles = pH < 6.",
+   "Exact : exemple cité dans le cours.",
+   "Exact : fermentation lactique caractéristique.",
+   "Faux : les alcalinophiles poussent à pH > 8.",
+   "Exact : les ferments lactiques des produits laitiers."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes résument correctement les conditions environnementales du cours ?",
+  "options": [
+   "pH : neutrophiles (6-8), alcalinophiles (> 8), acidophiles (< 6).",
+   "Température : psychrophiles, mésophiles, thermophiles, hyperthermophiles.",
+   "Pression osmotique : bactéries halophiles exigeant du NaCl.",
+   "Pression hydrostatique : bactéries barophiles des grands fonds marins.",
+   "Exigences gazeuses : deux modes respiratoires seulement."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : trois groupes de pH cités avec exemples.",
+   "Exact : quatre catégories thermiques citées.",
+   "Exact : halophiles cités avec Vibrio parahaemolyticus.",
+   "Exact : barophiles cités dans le cours.",
+   "Faux : le cours décrit quatre modes respiratoires."
+  ]
+ },
+ {
+  "q": "Concernant la définition du métabolisme bactérien, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est l'ensemble des transformations des composés biochimiques de la cellule.",
+   "Il comprend des réactions de récupération et de transfert d'énergie.",
+   "L'énergie est utilisée pour la croissance et l'édification des structures cellulaires.",
+   "Il ne concerne que la dégradation des sucres.",
+   "Le transfert d'énergie fait intervenir des molécules à liaisons riches en énergie comme l'ATP."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : définition citée dans le cours.",
+   "Exact : récupération et transfert d'énergie cités.",
+   "Exact : énergie pour la croissance et l'édification citées.",
+   "Faux : il concerne tous les composés biochimiques.",
+   "Exact : ATP cité dans le cours."
+  ]
+ },
+ {
+  "q": "À propos des deux modes principaux de production d'énergie, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le métabolisme respiratoire utilise une chaîne respiratoire membranaire.",
+   "Le métabolisme fermentatif repose sur des réactions cytoplasmiques anaérobies.",
+   "Il n'existe qu'un seul mode de production d'énergie chez les bactéries.",
+   "Les deux modes récupèrent l'énergie contenue dans les nutriments.",
+   "Le métabolisme fermentatif utilise l'O2 comme accepteur final d'électrons."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : chaîne respiratoire membranaire citée.",
+   "Exact : réactions cytoplasmiques anaérobies citées.",
+   "Faux : le cours en décrit deux.",
+   "Exact : réactions de récupération d'énergie à partir des nutriments.",
+   "Faux : l'accepteur final est un substrat organique."
+  ]
+ },
+ {
+  "q": "Concernant l'étude du métabolisme dans l'identification, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "On étudie les métabolismes protéique, glucidique et lipidique.",
+   "La combinaison des différents résultats donne le profil métabolique de la bactérie.",
+   "Le profil métabolique est comparé aux profils des espèces types.",
+   "Le métabolisme n'aide jamais à identifier une souche.",
+   "La galerie biochimique est un outil de cette étude."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : trois métabolismes cités dans le cours.",
+   "Exact : combinaison des résultats = profil métabolique (cours).",
+   "Exact : comparaison aux profils d'espèces types (cours).",
+   "Faux : c'est un pilier de l'identification phénotypique.",
+   "Exact : galerie biochimique citée en phase analytique."
+  ]
+ },
+ {
+  "q": "Concernant la recherche d'un produit du métabolisme, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La production d'acide se traduit par le virage d'un indicateur coloré.",
+   "La présence d'une nitrate réductase se traduit par l'apparition de nitrites.",
+   "On peut rechercher l'enzyme elle-même plutôt que son produit.",
+   "Aucun produit du métabolisme ne peut être mis en évidence.",
+   "Ces recherches guident l'identification de la souche."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : exemple cité dans le cours.",
+   "Exact : disparition des nitrates et apparition des nitrites (cours).",
+   "Exact : recherche de l'enzyme elle-même citée.",
+   "Faux : acides et nitrites sont recherchés en routine.",
+   "Exact : elles alimentent le profil métabolique."
+  ]
+ },
+ {
+  "q": "À propos du métabolisme glucidique, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La fermentation des sucres produit des acides.",
+   "Le virage d'un indicateur coloré traduit cette acidification.",
+   "L'utilisation du glucose est un critère d'identification.",
+   "Aucune bactérie n'utilise les sucres comme substrats.",
+   "Les entérobactéries fermentent le glucose."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les acides sont des produits de fermentation.",
+   "Exact : acide = virage d'indicateur (cours).",
+   "Exact : caractère glucidique classique.",
+   "Faux : les sucres sont des substrats majeurs.",
+   "Exact : les entérobactéries sont glucose +."
+  ]
+ },
+ {
+  "q": "Concernant le métabolisme protéique, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La protéolyse libère des acides aminés.",
+   "La production d'indole traduit la dégradation du tryptophane.",
+   "La production d'H2S traduit le métabolisme des composés soufrés.",
+   "Le métabolisme protéique n'est jamais étudié au laboratoire.",
+   "L'uréase hydrolyse l'urée en ammoniac."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les protéases libèrent peptides et acides aminés.",
+   "Exact : tryptophanase = indole +.",
+   "Exact : H2S = réduction des composés soufrés.",
+   "Faux : il fait partie du profil métabolique.",
+   "Exact : uréase = NH3, alcalinisation du milieu."
+  ]
+ },
+ {
+  "q": "Concernant le métabolisme lipidique, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les lipases hydrolysent les lipides.",
+   "Son étude participe à l'établissement du profil métabolique.",
+   "Aucune bactérie ne dégrade les lipides.",
+   "La lécithinase dégrade la lécithine.",
+   "Il est sans intérêt pour l'identification bactérienne."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : lipases = enzymes lipolytiques.",
+   "Exact : métabolisme lipidique cité dans le cours.",
+   "Faux : de nombreuses bactéries sont lipolytiques.",
+   "Exact : ex : Clostridium perfringens (alpha-toxine).",
+   "Faux : il contribue au profil métabolique."
+  ]
+ },
+ {
+  "q": "À propos de l'énergie et de la croissance bactérienne, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "L'énergie récupérée sert à la croissance bactérienne.",
+   "Elle sert à l'édification des structures cellulaires.",
+   "L'ATP est la molécule de transfert de l'énergie.",
+   "La croissance bactérienne ne nécessite aucune énergie.",
+   "Les nutriments sont la source de cette énergie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : énergie utilisée pour la croissance (cours).",
+   "Exact : édification des structures cellulaires (cours).",
+   "Exact : ATP = liaisons riches en énergie (cours).",
+   "Faux : toute biosynthèse consomme de l'énergie.",
+   "Exact : énergie obtenue à partir des nutriments (cours)."
+  ]
+ },
+ {
+  "q": "Concernant la chaîne respiratoire bactérienne, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle est membranaire chez les bactéries.",
+   "Elle transporte les électrons jusqu'à l'accepteur terminal.",
+   "Elle est localisée dans le cytoplasme.",
+   "Les cytochromes en font partie.",
+   "L'oxydase est une enzyme de cette chaîne respiratoire."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : chaîne respiratoire membranaire (cours).",
+   "Exact : transfert des électrons jusqu'à l'accepteur terminal (cours).",
+   "Faux : la chaîne est membranaire, pas cytoplasmique.",
+   "Exact : les cytochromes sont des transporteurs d'électrons.",
+   "Exact : la cytochrome oxydase termine la chaîne."
+  ]
+ },
+ {
+  "q": "Concernant la fermentation lactique, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "L'accepteur final d'électrons est un substrat organique.",
+   "L'acide lactique est un produit de cette fermentation.",
+   "Elle est réalisée par les lactobacilles.",
+   "Elle nécessite la présence d'oxygène moléculaire.",
+   "C'est un métabolisme de type fermentatif."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : accepteur final organique (cours).",
+   "Exact : l'acide lactique donne son nom à cette fermentation.",
+   "Exact : les lactobacilles sont des fermenteurs lactiques.",
+   "Faux : la fermentation est anaérobie.",
+   "Exact : réactions cytoplasmiques anaérobies (cours)."
+  ]
+ },
+ {
+  "q": "Un laboratoire met en évidence une acidification du milieu après culture bactérienne. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Un indicateur coloré a viré dans le milieu.",
+   "La bactérie a probablement fermenté un sucre.",
+   "C'est un caractère utilisable pour l'identification.",
+   "Cela prouve un métabolisme respiratoire strict.",
+   "Le pH du milieu a diminué."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : acide = virage d'indicateur (cours).",
+   "Exact : la fermentation glucidique produit des acides.",
+   "Exact : le métabolisme glucidique sert à l'identification.",
+   "Faux : l'acidification traduit une fermentation, pas une respiration.",
+   "Exact : acidification = baisse du pH."
+  ]
+ },
+ {
+  "q": "À propos des compléments de l'identification phénotypique, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La sérotypie peut compléter l'identification.",
+   "La lysotypie peut compléter l'identification.",
+   "La toxinotypie peut compléter l'identification.",
+   "La génotypie peut compléter l'identification.",
+   "L'identification phénotypique suffit toujours, sans aucun complément."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : sérotypie citée dans le cours.",
+   "Exact : lysotypie citée dans le cours.",
+   "Exact : toxinotypie citée dans le cours.",
+   "Exact : génotypie citée dans le cours.",
+   "Faux : des compléments sont parfois nécessaires."
+  ]
+ },
+ {
+  "q": "Concernant l'antibiogramme, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Il étudie la croissance bactérienne en présence de différents antibiotiques.",
+   "Il définit pour chaque bactérie un profil de sensibilité et de résistance.",
+   "Il fait partie de la phase analytique de l'examen bactériologique.",
+   "Il remplace l'identification de la bactérie.",
+   "Il guide le choix du traitement antibiotique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : définition citée dans le cours.",
+   "Exact : profil de sensibilité/résistance cité.",
+   "Exact : étude de la sensibilité en phase analytique (cours).",
+   "Faux : il complète l'identification, ne la remplace pas.",
+   "Exact : le profil oriente l'antibiothérapie."
+  ]
+ },
+ {
+  "q": "Concernant le dénombrement bactérien, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "On ensemence un volume défini d'échantillon sur milieu de culture gélosé.",
+   "On dénombre les colonies bactériennes obtenues après incubation à 37 °C.",
+   "Le résultat permet de calculer les bactéries présentes dans l'échantillon.",
+   "Le résultat est exprimé en Unités Formant Colonie par millilitre (UFC/ml).",
+   "Le dénombrement est inutile en bactériologie médicale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : volume défini sur milieu gélosé (cours).",
+   "Exact : dénombrement des colonies après incubation (cours).",
+   "Exact : calcul des bactéries de l'échantillon (cours).",
+   "Exact : UFC/ml cité dans le cours.",
+   "Faux : il quantifie l'inoculum (ex : ECBU)."
+  ]
+ },
+ {
+  "q": "À propos de la microbiologie industrielle, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle réalise des dosages microbiologiques des vitamines et d'autres substrats.",
+   "Elle produit des enzymes d'intérêt industriel.",
+   "Elle produit des acides aminés.",
+   "Elle exploite le métabolisme des bactéries.",
+   "Elle n'a aucun lien avec la physiologie bactérienne."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : dosages microbiologiques cités dans le cours.",
+   "Exact : production d'enzymes citée dans le cours.",
+   "Exact : production d'acides aminés citée dans le cours.",
+   "Exact : elle utilise les voies métaboliques microbiennes.",
+   "Faux : elle en est une application directe."
+  ]
+ },
+ {
+  "q": "Concernant la phase pré-analytique, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le prélèvement précède tout traitement antibiotique ou antiseptique.",
+   "Les milieux de transport protègent l'échantillon pendant l'acheminement.",
+   "Le délai de traitement du prélèvement doit être respecté.",
+   "Elle n'influence pas la qualité du résultat.",
+   "L'environnement de transport doit être adapté aux bactéries recherchées."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : avant traitements antibiotiques ou antiseptiques (cours).",
+   "Exact : milieux de transport cités dans le cours.",
+   "Exact : délai de traitement cité dans le cours.",
+   "Faux : elle conditionne la fiabilité de l'examen.",
+   "Exact : environnement de transport cité dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant l'ensemencement au laboratoire, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le produit pathologique est étalé grâce à une œse.",
+   "Le produit donne naissance à autant de types de colonies qu'il y a d'espèces microbiennes dans le mélange.",
+   "La culture peut être qualitative et/ou quantitative.",
+   "L'ensemencement se fait sur des milieux stériles.",
+   "L'œse ne sert jamais en bactériologie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : étalement à l'œse cité dans le cours.",
+   "Exact : formulation citée dans le cours.",
+   "Exact : culture qualitative et/ou quantitative citée.",
+   "Exact : les milieux sont des supports nutritifs stériles.",
+   "Faux : l'œse est l'outil d'ensemencement de base."
+  ]
+ },
+ {
+  "q": "À propos des milieux d'isolement et d'enrichissement, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les milieux d'isolement sont des milieux solides.",
+   "Ils permettent d'obtenir des colonies isolées.",
+   "Les milieux d'enrichissement sont des milieux liquides.",
+   "Isolement et enrichissement désignent la même chose.",
+   "Un panel de milieux différents est utilisé selon l'analyse à effectuer."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : milieux d'isolement = solides (cours).",
+   "Exact : l'isolement donne des colonies séparées.",
+   "Exact : milieux d'enrichissement = liquides (cours).",
+   "Faux : ce sont deux fonctions distinctes.",
+   "Exact : panel de milieux cité dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant la galerie biochimique, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle fait partie des tests d'identification.",
+   "Elle explore les caractères métaboliques de la souche.",
+   "Elle permet d'établir le profil métabolique.",
+   "Elle est inutile au diagnostic bactériologique.",
+   "Elle étudie la croissance en présence de divers substrats."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : galerie biochimique citée en phase analytique.",
+   "Exact : elle teste les voies métaboliques.",
+   "Exact : elle alimente le profil métabolique.",
+   "Faux : c'est un outil d'identification majeur.",
+   "Exact : croissance en présence de divers substrats citée."
+  ]
+ },
+ {
+  "q": "Concernant le profil métabolique d'une souche, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Il résulte de la combinaison des différents résultats d'identification.",
+   "Il est comparé aux profils des espèces types.",
+   "Il permet d'identifier la souche étudiée.",
+   "Il ne comprend que l'étude de la morphologie.",
+   "Le type respiratoire et les enzymes respiratoires y contribuent."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : combinaison des différents résultats (cours).",
+   "Exact : comparaison aux profils d'espèces types (cours).",
+   "Exact : il permet d'identifier la souche (cours).",
+   "Faux : la morphologie n'en est qu'un élément.",
+   "Exact : type respiratoire, oxydase, catalase cités."
+  ]
+ },
+ {
+  "q": "Concernant les implications de la physiologie lors de l'examen bactériologique, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle guide le choix des milieux de culture.",
+   "Elle guide le choix de la température et de l'atmosphère d'incubation.",
+   "Elle éclaire les délais de croissance des espèces.",
+   "Elle fonde le dénombrement, l'identification et l'antibiogramme.",
+   "Elle est sans application pratique au laboratoire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : choix des milieux cité dans le cours.",
+   "Exact : choix température et atmosphère cité.",
+   "Exact : délais de croissance cités.",
+   "Exact : dénombrement, identification, antibiogramme cités.",
+   "Faux : tout l'examen en découle."
+  ]
+ },
+ {
+  "q": "Concernant la conclusion du cours de physiologie bactérienne, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle aide à comprendre la physiopathologie des maladies bactériennes.",
+   "Elle permet la conduite raisonnée d'un examen cytobactériologique.",
+   "Elle n'a aucun intérêt clinique.",
+   "Elle sert au contrôle de qualité bactériologique des aliments, des eaux et des médicaments.",
+   "Elle sert aux contrôles bactériologiques de l'environnement."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : compréhension de la physiopathologie citée.",
+   "Exact : conduite raisonnée de l'examen citée.",
+   "Faux : son intérêt diagnostique est central.",
+   "Exact : contrôle de qualité cité dans l'introduction.",
+   "Exact : contrôles de l'environnement cités."
+  ]
+ },
+ {
+  "q": "Concernant la définition des milieux de culture, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ce sont des supports nutritifs stériles.",
+   "Ils permettent la croissance bactérienne.",
+   "Ils sont toujours liquides.",
+   "Ils doivent être stériles avant tout ensemencement.",
+   "Ils apportent les nutriments nécessaires à la croissance."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : supports nutritifs stériles (cours).",
+   "Exact : ils permettent la croissance bactérienne (cours).",
+   "Faux : il existe des milieux solides (géloses).",
+   "Exact : la stérilité initiale est indispensable.",
+   "Exact : ils fournissent les substrats nutritifs."
+  ]
+ },
+ {
+  "q": "À propos des milieux complexes, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ils sont de réalisation empirique.",
+   "Ils contiennent des extraits de viande ou de levure.",
+   "Ils contiennent des peptones ou des protéines.",
+   "Leur composition chimique exacte est parfaitement définie.",
+   "Les extraits enzymatiques peuvent en faire partie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : complexes de réalisation empirique (cours).",
+   "Exact : extraits de viande, de levure cités.",
+   "Exact : protéines ou peptones citées.",
+   "Faux : empirique = composition non définie.",
+   "Exact : extraits enzymatiques cités."
+  ]
+ },
+ {
+  "q": "Concernant les milieux synthétiques, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Leur composition est définie.",
+   "Ils contiennent des acides aminés, des peptides, des bases nucléiques et des sucres.",
+   "Ils comportent un système tampon assurant la constance du pH.",
+   "Ils contiennent des sels minéraux.",
+   "Ils sont de réalisation empirique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : synthétiques de composition définie (cours).",
+   "Exact : substrats nutritifs cités dans le cours.",
+   "Exact : système tampon cité dans le cours.",
+   "Exact : sels minéraux cités dans le cours.",
+   "Faux : empirique qualifie les milieux complexes."
+  ]
+ },
+ {
+  "q": "Concernant les milieux semi-synthétiques, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ce sont des milieux synthétiques additionnés d'un extrait d'organismes.",
+   "L'extrait de levure y apporte des facteurs de croissance.",
+   "Ils sont de composition totalement définie.",
+   "Ils conviennent à la culture des bactéries exigeantes.",
+   "Ils sont identiques aux milieux synthétiques."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : définition citée dans le cours.",
+   "Exact : extrait de levures = facteurs de croissance (cours).",
+   "Faux : l'extrait d'organisme est indéfini.",
+   "Exact : les facteurs apportés aident les exigeantes.",
+   "Faux : l'ajout d'extrait les en distingue."
+  ]
+ },
+ {
+  "q": "À propos des milieux d'enrichissement, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ils permettent la croissance des bactéries exigeantes.",
+   "Ce sont généralement des milieux liquides.",
+   "Ils inhibent la croissance des bactéries recherchées.",
+   "Le bouillon nutritif en est un exemple classique.",
+   "Ils sont utilisés en phase analytique de l'examen."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : définition citée dans le cours.",
+   "Exact : milieux d'enrichissement = liquides (cours).",
+   "Faux : ils favorisent au contraire leur croissance.",
+   "Exact : le bouillon nutritif est un milieu d'enrichissement.",
+   "Exact : panel de milieux en phase analytique (cours)."
+  ]
+ },
+ {
+  "q": "Concernant les milieux sélectifs, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ils favorisent la croissance d'un type bactérien particulier.",
+   "Ils inhibent la croissance des autres types bactériens.",
+   "Ils peuvent contenir des antibiotiques inhibiteurs des bactéries à Gram négatif.",
+   "Ils permettent la croissance de toutes les bactéries du prélèvement.",
+   "Ils facilitent l'isolement de la bactérie recherchée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : définition citée dans le cours.",
+   "Exact : inhibition des autres types (cours).",
+   "Exact : exemple cité dans le cours (sélectifs Gram positif).",
+   "Faux : ils sont sélectifs, pas universels.",
+   "Exact : ils favorisent l'isolement ciblé."
+  ]
+ },
+ {
+  "q": "Concernant la présentation des milieux de culture, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les milieux liquides sont des bouillons de culture en tubes ou en flacons.",
+   "Les milieux solides sont des milieux gélosés en boîtes de Petri.",
+   "Tous les milieux de culture sont liquides.",
+   "La gélose (agar) est l'agent gélifiant habituel des milieux solides.",
+   "Les boîtes de Petri reçoivent les milieux solides."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : présentation citée dans le cours.",
+   "Exact : présentation citée dans le cours.",
+   "Faux : les géloses sont solides.",
+   "Exact : l'agar solidifie les milieux.",
+   "Exact : géloses en boîtes de Petri (cours)."
+  ]
+ },
+ {
+  "q": "Un laboratoire veut isoler des colonies à partir d'un prélèvement polymicrobien. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Un milieu solide d'isolement est indiqué.",
+   "L'ensemencement à l'œse permet d'obtenir des colonies isolées.",
+   "Un bouillon seul suffit à isoler des colonies séparées.",
+   "Chaque colonie provient d'une unité formant colonie initiale.",
+   "Un milieu sélectif peut aider à l'isolement."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : milieux d'isolement = solides (cours).",
+   "Exact : l'étalement à l'œse isole les colonies.",
+   "Faux : le bouillon donne une culture en mélange, pas de colonies.",
+   "Exact : une colonie dérive d'une UFC.",
+   "Exact : les sélectifs favorisent la bactérie recherchée."
+  ]
+ },
+ {
+  "q": "Concernant les milieux solides, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ils permettent l'obtention de colonies visibles à l'œil nu.",
+   "Ils servent au dénombrement des bactéries (UFC/ml).",
+   "Ils sont utilisés pour l'isolement en phase analytique.",
+   "Ils ne permettent aucune culture bactérienne.",
+   "La gélose nutritive en est un exemple."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : colonie = amas visible (cours).",
+   "Exact : dénombrement sur milieu gélosé (cours).",
+   "Exact : milieux d'isolement = solides (cours).",
+   "Faux : la plupart des isolements se font sur gélose.",
+   "Exact : milieu solide non sélectif classique."
+  ]
+ },
+ {
+  "q": "À propos des milieux liquides, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La croissance bactérienne s'y traduit par un trouble du bouillon.",
+   "Ils servent à l'enrichissement des bactéries exigeantes.",
+   "Ils permettent d'obtenir des colonies isolées.",
+   "Le trouble apparaît après incubation de 2 à 15 jours à 37 °C selon le cours.",
+   "Ils sont présentés en tubes ou en flacons."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : trouble du bouillon cité dans le cours.",
+   "Exact : enrichissement = milieux liquides (cours).",
+   "Faux : les colonies s'obtiennent sur milieux solides.",
+   "Exact : délai cité dans le cours.",
+   "Exact : bouillons en tubes ou flacons (cours)."
+  ]
+ },
+ {
+  "q": "Concernant le choix des milieux au laboratoire, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Il dépend de l'analyse à effectuer.",
+   "Un panel de différents milieux de culture est utilisé.",
+   "Il tient compte des exigences nutritives de la bactérie recherchée.",
+   "Il tient compte du type respiratoire de la bactérie recherchée.",
+   "Un seul milieu convient à toutes les analyses bactériologiques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : panel variable selon l'analyse (cours).",
+   "Exact : panel de milieux cité dans le cours.",
+   "Exact : les exigences nutritives guident le choix.",
+   "Exact : l'atmosphère et le milieu dépendent du type respiratoire.",
+   "Faux : chaque analyse a son panel adapté."
+  ]
+ },
+ {
+  "q": "Concernant un milieu sélectif des bactéries à Gram positif contenant un antibiotique anti-Gram négatif, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est l'exemple de milieu sélectif cité dans le cours.",
+   "Il inhibe la croissance des bactéries à Gram négatif.",
+   "Il favorise la croissance des bactéries à Gram positif.",
+   "Il inhibe aussi les bactéries à Gram positif.",
+   "C'est un milieu sélectif."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : exemple cité dans le cours.",
+   "Exact : antibiotiques inhibiteurs des Gram négatif (cours).",
+   "Exact : il favorise le type recherché.",
+   "Faux : l'antibiotique cible les Gram négatif.",
+   "Exact : il sélectionne un type bactérien."
+  ]
+ },
+ {
+  "q": "À propos de la stérilité des milieux de culture, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les milieux sont des supports nutritifs stériles.",
+   "La stérilisation des milieux se fait généralement à l'autoclave.",
+   "Un milieu contaminé fausse les résultats de l'examen.",
+   "La stérilité initiale des milieux est inutile.",
+   "L'autoclave détruit aussi les spores bactériennes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : supports nutritifs stériles (cours).",
+   "Exact : chaleur humide sous pression en routine.",
+   "Exact : une contamination parasite la lecture.",
+   "Faux : la stérilité est la base de la culture.",
+   "Exact : 121 °C détruit les formes sporulées."
+  ]
+ },
+ {
+  "q": "Concernant les facteurs de croissance apportés par les milieux, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le sang peut apporter des facteurs de croissance.",
+   "L'hémoglobine peut apporter des facteurs de croissance.",
+   "Les vitamines supplémentaires peuvent apporter des facteurs de croissance.",
+   "Les protéines peuvent apporter des facteurs de croissance.",
+   "Ils sont inutiles aux bactéries exigeantes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : sang cité dans le cours.",
+   "Exact : hémoglobine citée dans le cours.",
+   "Exact : vitamines supplémentaires citées.",
+   "Exact : protéines citées dans le cours.",
+   "Faux : les exigeantes en dépendent."
+  ]
+ },
+ {
+  "q": "Concernant la gélose au sang, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est un milieu enrichi.",
+   "Le sang y apporte des facteurs de croissance.",
+   "Elle permet de mettre en évidence l'hémolyse bactérienne.",
+   "C'est un milieu synthétique de composition définie.",
+   "Elle convient à la culture des bactéries exigeantes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : milieu enrichi classique.",
+   "Exact : sang = facteurs de croissance (cours).",
+   "Exact : les hémolyses alpha, bêta, gamma s'y lisent.",
+   "Faux : le sang est de composition indéfinie.",
+   "Exact : les exigeantes y poussent bien."
+  ]
+ },
+ {
+  "q": "À propos des bouillons d'enrichissement, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ils favorisent la multiplication des bactéries exigeantes.",
+   "Ce sont des milieux liquides.",
+   "Ils permettent l'isolement direct de colonies séparées.",
+   "Ils précèdent souvent l'isolement sur gélose.",
+   "Le trouble du bouillon traduit la croissance bactérienne."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : croissance des exigeantes (cours).",
+   "Exact : enrichissement = liquides (cours).",
+   "Faux : les colonies s'obtiennent sur milieux solides.",
+   "Exact : enrichissement puis isolement = démarche classique.",
+   "Exact : trouble du bouillon cité dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant les milieux d'isolement, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ce sont des milieux solides.",
+   "Ils permettent d'obtenir des colonies séparées.",
+   "Ils sont utilisés en phase analytique.",
+   "Ils sont toujours liquides.",
+   "Chaque colonie correspond à une unité formant colonie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : milieux d'isolement = solides (cours).",
+   "Exact : l'isolement donne des colonies distinctes.",
+   "Exact : choix des milieux en phase analytique (cours).",
+   "Faux : les liquides servent à l'enrichissement.",
+   "Exact : une colonie dérive d'une UFC."
+  ]
+ },
+ {
+  "q": "Un technicien ensemence une gélose à l'aide d'une œse. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "L'œse doit être stérile avant l'ensemencement.",
+   "L'étalement vise à obtenir des colonies isolées.",
+   "Le produit donne autant de types de colonies qu'il y a d'espèces microbiennes dans le mélange.",
+   "L'ensemencement peut être qualitatif et/ou quantitatif.",
+   "L'œse ne sert qu'en milieu liquide."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la stérilité de l'œse évite les contaminations.",
+   "Exact : l'étalement en stries isole les colonies.",
+   "Exact : formulation citée dans le cours.",
+   "Exact : culture qualitative et/ou quantitative (cours).",
+   "Faux : l'œse sert surtout sur milieux solides."
+  ]
+ },
+ {
+  "q": "Concernant les conditions d'incubation des milieux ensemencés, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les étuves maintiennent la température d'incubation choisie.",
+   "Les jarres créent des atmosphères microaérophiles ou anaérobies.",
+   "37 °C est la température usuelle pour les bactéries d'intérêt médical.",
+   "L'incubation se fait à température ambiante non contrôlée.",
+   "La durée d'incubation dépend des délais de croissance de l'espèce."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : étuves à diverses températures (cours).",
+   "Exact : jarres avec générateurs d'atmosphère (cours).",
+   "Exact : les pathogènes sont mésophiles.",
+   "Faux : la température est contrôlée en étuve.",
+   "Exact : les délais de croissance guident la durée."
+  ]
+ },
+ {
+  "q": "À propos des milieux de transport, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ils font partie des conditions de transport du prélèvement.",
+   "Ils préservent la viabilité des bactéries sans favoriser leur multiplication.",
+   "Ils remplacent les milieux de culture pour l'isolement.",
+   "Le délai d'acheminement au laboratoire doit être court.",
+   "L'environnement de transport doit être adapté."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : milieux de transport cités (cours).",
+   "Exact : ils conservent sans enrichir.",
+   "Faux : la culture se fait sur milieux de culture.",
+   "Exact : délai de traitement cité dans le cours.",
+   "Exact : environnement de transport cité."
+  ]
+ },
+ {
+  "q": "Concernant les peptones, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ce sont des hydrolysats de protéines.",
+   "Elles apportent des peptides et des acides aminés.",
+   "Elles entrent dans la composition des milieux complexes.",
+   "Ce sont des glucides.",
+   "Elles constituent une source d'azote organique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les peptones sont des digestats protéiques.",
+   "Exact : peptides et acides aminés assimilables.",
+   "Exact : protéines ou peptones citées (cours).",
+   "Faux : ce sont des dérivés protéiques, pas des sucres.",
+   "Exact : l'azote organique nourrit les hétérotrophes."
+  ]
+ },
+ {
+  "q": "Concernant les extraits de viande et de levure, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ils entrent dans les milieux complexes de réalisation empirique.",
+   "L'extrait de levure apporte des facteurs de croissance.",
+   "Leur composition chimique exacte est indéfinie.",
+   "Ce sont des milieux synthétiques.",
+   "Ils fournissent des nutriments variés aux bactéries."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : extraits de viande, de levure cités (cours).",
+   "Exact : extrait de levures = facteurs de croissance (cours).",
+   "Exact : réalisation empirique = composition indéfinie.",
+   "Faux : les synthétiques sont de composition définie.",
+   "Exact : ce sont des sources nutritives riches."
+  ]
+ },
+ {
+  "q": "À propos du système tampon des milieux de culture, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Il assure la constance du pH du milieu.",
+   "Il compense l'acidification liée à la fermentation.",
+   "Il figure dans la composition des milieux synthétiques.",
+   "Il est inutile en bactériologie.",
+   "Les phosphates en sont des exemples classiques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : constance du pH citée dans le cours.",
+   "Exact : il neutralise les acides produits.",
+   "Exact : système tampon cité dans le cours.",
+   "Faux : il stabilise les conditions de croissance.",
+   "Exact : les tampons phosphates sont classiques."
+  ]
+ },
+ {
+  "q": "Concernant les sels minéraux des milieux de culture, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ils apportent des ions nécessaires à la croissance.",
+   "Ils participent au système tampon du milieu.",
+   "Ils figurent dans les milieux synthétiques de composition définie.",
+   "Ils constituent une source d'énergie pour les bactéries.",
+   "Le NaCl et les phosphates en sont des exemples."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : sels minéraux cités dans le cours.",
+   "Exact : les phosphates tamponnent le pH.",
+   "Exact : sels minéraux cités (cours).",
+   "Faux : ils n'apportent pas d'énergie.",
+   "Exact : exemples classiques de sels minéraux."
+  ]
+ },
+ {
+  "q": "Un laboratoire prépare un milieu synthétique additionné d'extrait de levure. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est un milieu semi-synthétique.",
+   "L'extrait de levure y apporte des facteurs de croissance.",
+   "La base synthétique est de composition définie.",
+   "C'est un milieu complexe de réalisation empirique.",
+   "Il convient à la culture des bactéries exigeantes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : définition du semi-synthétique (cours).",
+   "Exact : extrait de levures = facteurs de croissance (cours).",
+   "Exact : base synthétique définie.",
+   "Faux : la base n'est pas empirique.",
+   "Exact : les facteurs profitent aux exigeantes."
+  ]
+ },
+ {
+  "q": "Concernant les boîtes de Petri, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles reçoivent les milieux gélosés.",
+   "Elles permettent l'observation des colonies.",
+   "Elles servent à la culture en bouillon.",
+   "Elles s'incubent généralement retournées pour éviter la condensation.",
+   "Elles doivent être stériles avant emploi."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : milieux gélosés en boîtes de Petri (cours).",
+   "Exact : lecture des colonies sur gélose.",
+   "Faux : les bouillons vont en tubes ou flacons.",
+   "Exact : l'inversion évite que la condensation ruisselle sur la gélose.",
+   "Exact : la stérilité est indispensable."
+  ]
+ },
+ {
+  "q": "À propos de la lecture des cultures bactériennes, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Sur gélose, on observe les colonies (aspect, taille, couleur).",
+   "En bouillon, on observe le trouble traduisant la croissance.",
+   "Les aspects S, M et R décrivent la morphologie des colonies.",
+   "La lecture se fait après une incubation adaptée à l'espèce.",
+   "L'aspect des colonies n'a aucun intérêt diagnostique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la lecture des géloses décrit les colonies.",
+   "Exact : trouble du bouillon cité dans le cours.",
+   "Exact : S lisse, M muqueux, R rugueux (cours).",
+   "Exact : l'incubation suit les délais de croissance.",
+   "Faux : l'aspect des colonies oriente l'identification."
+  ]
+ },
+ {
+  "q": "Concernant les exemples de milieux sélectifs, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Un milieu avec antibiotique anti-Gram négatif sélectionne les Gram positif.",
+   "Le milieu Chapman (7,5 % de NaCl) sélectionne les staphylocoques.",
+   "La gélose MacConkey sélectionne les bacilles à Gram négatif.",
+   "Les milieux sélectifs inhibent les bactéries non recherchées.",
+   "Un milieu sélectif permet la croissance de toutes les bactéries."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : exemple cité dans le cours.",
+   "Exact : le sel sélectionne les staphylocoques halotolérants.",
+   "Exact : MacConkey = sélectif des entérobactéries.",
+   "Exact : définition des milieux sélectifs (cours).",
+   "Faux : ils sont sélectifs, pas universels."
+  ]
+ },
+ {
+  "q": "À propos des milieux d'enrichissement en pratique, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ils sont indiqués pour les bactéries exigeantes.",
+   "Ce sont des milieux liquides.",
+   "Le bouillon au sang en est un exemple.",
+   "Ils donnent directement des colonies isolées.",
+   "Ils augmentent la charge bactérienne avant l'isolement sur gélose."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : croissance des exigeantes (cours).",
+   "Exact : enrichissement = liquides (cours).",
+   "Exact : le sang enrichit le bouillon.",
+   "Faux : les colonies s'obtiennent sur milieux solides.",
+   "Exact : l'enrichissement multiplie les bactéries recherchées."
+  ]
+ },
+ {
+  "q": "Concernant la distinction entre milieux sélectifs et milieux d'enrichissement, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les milieux sélectifs inhibent les bactéries non recherchées.",
+   "Les milieux d'enrichissement favorisent les bactéries exigeantes.",
+   "Un milieu peut être à la fois sélectif et d'enrichissement.",
+   "Les deux types sont toujours solides.",
+   "Les deux facilitent l'isolement de la bactérie recherchée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : inhibition des autres types (cours).",
+   "Exact : croissance des exigeantes (cours).",
+   "Exact : ex : bouillon sélectif d'enrichissement.",
+   "Faux : l'enrichissement est liquide.",
+   "Exact : les deux servent la recherche ciblée."
+  ]
+ },
+ {
+  "q": "Concernant la préparation des milieux de culture, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les milieux complexes sont de réalisation empirique.",
+   "Les milieux synthétiques sont de composition définie.",
+   "La stérilisation suit la préparation des milieux.",
+   "Le pH est ajusté avant la stérilisation.",
+   "Aucune précaution n'est nécessaire lors de la préparation."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : complexes empiriques (cours).",
+   "Exact : synthétiques définis (cours).",
+   "Exact : les milieux doivent être stériles.",
+   "Exact : le pH est réglé avant autoclavage.",
+   "Faux : la préparation exige rigueur et stérilité."
+  ]
+ },
+ {
+  "q": "Un étudiant affirme que tous les milieux de culture se valent. Lesquelles des corrections suivantes sont exactes ?",
+  "options": [
+   "Les milieux complexes sont empiriques, les synthétiques de composition définie.",
+   "Les sélectifs inhibent certaines bactéries, contrairement aux milieux d'enrichissement.",
+   "Les solides permettent l'isolement, les liquides l'enrichissement.",
+   "Le choix du milieu dépend de l'analyse à effectuer.",
+   "Il existe un milieu universel convenant à toutes les analyses."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : distinction citée dans le cours.",
+   "Exact : sélectif = inhibition ; enrichissement = stimulation.",
+   "Exact : isolement = solides, enrichissement = liquides (cours).",
+   "Exact : panel selon l'analyse (cours).",
+   "Faux : chaque analyse a son panel."
+  ]
+ },
+ {
+  "q": "Concernant la reproduction bactérienne, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les bactéries sont des organismes asexués.",
+   "La reproduction a lieu par division cellulaire binaire (scissiparité).",
+   "Elle comprend l'allongement de la bactérie.",
+   "Elle comprend la duplication des constituants cellulaires.",
+   "Elle fait intervenir une méiose avec brassage génétique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : organismes asexués (cours).",
+   "Exact : reproduction binaire = scissiparité (cours).",
+   "Exact : première phase citée dans le cours.",
+   "Exact : deuxième phase citée dans le cours.",
+   "Faux : pas de méiose chez les bactéries."
+  ]
+ },
+ {
+  "q": "À propos de la scissiparité, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est une reproduction binaire.",
+   "Une cellule mère donne deux cellules filles.",
+   "C'est un mode de reproduction asexuée.",
+   "Elle fait intervenir des gamètes mâle et femelle.",
+   "Les cellules filles sont génétiquement identiques, hors mutation."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : division binaire (cours).",
+   "Exact : une cellule en donne deux.",
+   "Exact : organismes asexués (cours).",
+   "Faux : aucun gamète chez les bactéries.",
+   "Exact : la scissiparité est une mitose sans brassage."
+  ]
+ },
+ {
+  "q": "Concernant le temps de génération d'Escherichia coli, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Il est de 20 à 40 minutes in vitro.",
+   "Il est d'environ 5 heures in vivo.",
+   "Il est plus court in vitro qu'in vivo.",
+   "Il est de 24 à 48 heures in vivo.",
+   "Il dépend de l'espèce et des conditions du milieu extérieur."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : temps cité dans le cours.",
+   "Exact : temps cité dans le cours.",
+   "Exact : 20-40 min < 5 h.",
+   "Faux : 24-48 h = Mycobacterium tuberculosis.",
+   "Exact : temps de division dépendant de l'espèce et du milieu (cours)."
+  ]
+ },
+ {
+  "q": "À propos de Staphylococcus aureus, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Son temps de génération in vitro est d'environ 40 minutes.",
+   "Son temps de génération in vivo est de 3 à 5 heures.",
+   "Il se multiplie plus vite in vivo qu'in vitro.",
+   "C'est une bactérie d'intérêt médical.",
+   "Son temps de division dépend de l'espèce et des conditions du milieu."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : temps cité dans le cours.",
+   "Exact : temps cité dans le cours.",
+   "Faux : 40 min < 3-5 h, donc plus vite in vitro.",
+   "Exact : pathogène humain majeur.",
+   "Exact : principe cité dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant Mycobacterium tuberculosis, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Son temps de génération in vitro est de 120 à 240 minutes.",
+   "Son temps de génération in vivo est de 24 à 48 heures.",
+   "C'est une bactérie à croissance lente.",
+   "Ses cultures nécessitent plusieurs semaines d'incubation.",
+   "Son temps de génération est de 20 minutes in vitro."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : temps cité dans le cours.",
+   "Exact : temps cité dans le cours.",
+   "Exact : croissance lente caractéristique.",
+   "Exact : 3 à 8 semaines sur Löwenstein-Jensen.",
+   "Faux : 20 min = ordre de grandeur d'E. coli."
+  ]
+ },
+ {
+  "q": "Concernant les délais de croissance, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ils dépendent de l'espèce bactérienne.",
+   "Ils dépendent des conditions du milieu extérieur.",
+   "Ils sont identiques pour toutes les bactéries.",
+   "Ils conditionnent la durée d'incubation au laboratoire.",
+   "M. tuberculosis impose des délais de culture longs."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : temps de division dépendant de l'espèce (cours).",
+   "Exact : dépendant des conditions du milieu (cours).",
+   "Faux : 20 min à 48 h selon l'espèce.",
+   "Exact : l'incubation s'adapte aux délais.",
+   "Exact : 120-240 min in vitro, semaines de culture."
+  ]
+ },
+ {
+  "q": "À propos de la croissance en milieu solide, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Une bactérie déposée sur gélose forme un amas visible : la colonie.",
+   "La colonie apparaît en 24 à 72 heures à 37 °C.",
+   "Il faut environ 1 million de bactéries, soit 20 générations.",
+   "Les colonies sont visibles à l'œil nu dès la première division.",
+   "Il existe trois aspects de colonies : S (lisse), M (muqueux), R (rugueux)."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : colonie = amas visible (cours).",
+   "Exact : délai cité dans le cours.",
+   "Exact : 1 million = 20 générations (cours).",
+   "Faux : 2^20 bactéries sont nécessaires.",
+   "Exact : aspects S, M, R cités dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant les aspects des colonies, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "S signifie lisse (smooth).",
+   "M signifie muqueux.",
+   "R signifie rugueux (rough).",
+   "L'aspect des colonies aide à l'identification.",
+   "Toutes les colonies bactériennes ont le même aspect."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : S = smooth (cours).",
+   "Exact : M = muqueux (cours).",
+   "Exact : R = rough (cours).",
+   "Exact : la morphologie des colonies oriente le diagnostic.",
+   "Faux : l'aspect varie selon l'espèce."
+  ]
+ },
+ {
+  "q": "Concernant la croissance en milieu liquide, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle se traduit par un trouble du bouillon.",
+   "Le trouble apparaît après incubation de 2 à 15 jours à 37 °C selon le cours.",
+   "Le trouble traduit la multiplication bactérienne.",
+   "Un bouillon resté limpide traduit l'absence de croissance.",
+   "Le trouble apparaît en quelques minutes après l'ensemencement."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : trouble du bouillon cité dans le cours.",
+   "Exact : délai cité dans le cours.",
+   "Exact : le trouble = biomasse bactérienne.",
+   "Exact : un bouillon limpide = pas de croissance.",
+   "Faux : il faut des générations successives."
+  ]
+ },
+ {
+  "q": "À propos du dénombrement sur milieu gélosé, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "On ensemence un volume défini d'échantillon.",
+   "On compte les colonies après incubation à 37 °C.",
+   "Le résultat s'exprime en UFC/ml.",
+   "Chaque colonie dérive d'une unité formant colonie.",
+   "On compte les bactéries une par une au microscope."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : volume défini sur milieu gélosé (cours).",
+   "Exact : dénombrement après incubation (cours).",
+   "Exact : UFC/ml cité dans le cours.",
+   "Exact : UFC = unité formant colonie.",
+   "Faux : on compte les colonies, pas les cellules."
+  ]
+ },
+ {
+  "q": "Concernant Pseudomonas aeruginosa, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Son temps de génération in vitro est d'environ 40 minutes.",
+   "Son temps de génération in vivo est d'environ 4 heures.",
+   "C'est une bactérie aérobie stricte.",
+   "C'est une bactérie anaérobie stricte.",
+   "C'est une bactérie d'intérêt médical."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : temps cité dans le cours.",
+   "Exact : temps cité dans le cours.",
+   "Exact : exemple du cours pour les aérobies strictes.",
+   "Faux : incompatible avec l'aérobiose stricte.",
+   "Exact : pathogène opportuniste majeur."
+  ]
+ },
+ {
+  "q": "Concernant les trois phases de la reproduction bactérienne, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "L'allongement de la bactérie.",
+   "La duplication des constituants.",
+   "La séparation des deux cellules filles.",
+   "La conjugaison.",
+   "L'ordre chronologique est : allongement, duplication, séparation."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : première phase citée dans le cours.",
+   "Exact : deuxième phase citée dans le cours.",
+   "Exact : troisième phase citée dans le cours.",
+   "Faux : la conjugaison est un transfert génétique, pas une phase de division.",
+   "Exact : ordre cité dans le cours."
+  ]
+ },
+ {
+  "q": "Un laboratoire suit une culture d'Escherichia coli en bouillon à 37 °C. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le trouble du bouillon traduit la croissance bactérienne.",
+   "Le temps de génération est de l'ordre de 20 à 40 minutes.",
+   "C'est une bactérie aéro-anaérobie facultative.",
+   "Le bouillon restera toujours limpide.",
+   "L'incubation à 37 °C est adaptée à cette espèce."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : trouble du bouillon (cours).",
+   "Exact : temps cité dans le cours.",
+   "Exact : exemple du cours.",
+   "Faux : la croissance trouble le bouillon.",
+   "Exact : E. coli est mésophile."
+  ]
+ },
+ {
+  "q": "À propos de l'apparition des colonies en 24 à 72 heures, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Ce délai concerne les bactéries à croissance rapide incubées à 37 °C.",
+   "Il faut environ 20 générations pour obtenir une colonie visible.",
+   "Mycobacterium tuberculosis donne des colonies visibles en 24 heures.",
+   "Le délai d'apparition dépend de l'espèce bactérienne.",
+   "Une colonie visible contient environ un million de bactéries."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : 24-72 h à 37 °C (cours).",
+   "Exact : 20 générations citées dans le cours.",
+   "Faux : sa croissance est lente (semaines).",
+   "Exact : délais dépendant de l'espèce (cours).",
+   "Exact : dès 1 million de bactéries (cours)."
+  ]
+ },
+ {
+  "q": "Concernant la morphologie des colonies, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La taille des colonies varie selon l'espèce bactérienne.",
+   "La couleur des colonies peut orienter l'identification.",
+   "L'aspect S, M ou R est un caractère descriptif.",
+   "L'hémolyse sur gélose au sang est un caractère des colonies.",
+   "L'aspect des colonies est toujours identique quelle que soit l'espèce."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la taille est un caractère d'espèce.",
+   "Exact : les pigments orientent le diagnostic.",
+   "Exact : S lisse, M muqueux, R rugueux (cours).",
+   "Exact : les hémolyses se lisent autour des colonies.",
+   "Faux : l'aspect varie selon l'espèce."
+  ]
+ },
+ {
+  "q": "Concernant la croissance bactérienne et l'antibiogramme, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "L'antibiogramme étudie la croissance en présence de différents antibiotiques.",
+   "L'absence de croissance autour du disque traduit la sensibilité.",
+   "La croissance en présence de l'antibiotique traduit la résistance.",
+   "L'antibiogramme ne repose pas sur la croissance bactérienne.",
+   "Il définit un profil de sensibilité et de résistance."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : définition citée dans le cours.",
+   "Exact : la zone d'inhibition traduit la sensibilité.",
+   "Exact : pousser malgré l'antibiotique = résistance.",
+   "Faux : tout l'antibiogramme repose sur la croissance.",
+   "Exact : profil de sensibilité/résistance cité."
+  ]
+ },
+ {
+  "q": "À propos des bactéries à croissance lente, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Mycobacterium tuberculosis en est un exemple.",
+   "Leur temps de génération se compte en heures.",
+   "Les délais de rendu des résultats sont allongés.",
+   "Toutes les bactéries sont à croissance rapide.",
+   "La durée d'incubation doit être prolongée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : 120-240 min in vitro, 24-48 h in vivo.",
+   "Exact : temps de génération de plusieurs heures.",
+   "Exact : les cultures durent des semaines.",
+   "Faux : les temps varient de 20 min à 48 h.",
+   "Exact : l'incubation suit les délais de croissance."
+  ]
+ },
+ {
+  "q": "Concernant la multiplication bactérienne, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle est exponentielle pendant la phase de croissance exponentielle.",
+   "20 générations donnent environ 1 million de bactéries (2 puissance 20).",
+   "Elle est nulle pendant la phase de latence.",
+   "Elle s'arrête pendant la phase stationnaire.",
+   "Elle est constante dans toutes les phases de la courbe."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : phase exponentielle = taux maximal.",
+   "Exact : 2^20 ≈ 1 048 576 (cours).",
+   "Exact : croissance nulle en latence (cours).",
+   "Exact : arrêt de la reproduction en stationnaire (cours).",
+   "Faux : le taux varie selon la phase."
+  ]
+ },
+ {
+  "q": "Un étudiant affirme que le temps de génération est fixe pour une espèce. Lesquelles des corrections suivantes sont exactes ?",
+  "options": [
+   "Il dépend de l'espèce bactérienne.",
+   "Il dépend des conditions du milieu extérieur.",
+   "Il est plus long in vivo qu'in vitro.",
+   "Il est identique in vivo et in vitro.",
+   "Exemple : E. coli, 20-40 min in vitro contre environ 5 h in vivo."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : temps dépendant de l'espèce (cours).",
+   "Exact : dépendant des conditions du milieu (cours).",
+   "Exact : les temps in vivo cités sont plus longs.",
+   "Faux : les valeurs du cours diffèrent.",
+   "Exact : valeurs citées dans le cours."
+  ]
+ },
+ {
+  "q": "À propos de la culture quantitative, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "L'ensemencement peut être quantitatif.",
+   "Le dénombrement s'exprime en UFC/ml.",
+   "Elle permet de calculer la charge bactérienne de l'échantillon.",
+   "Elle est uniquement qualitative.",
+   "Un volume défini d'échantillon est ensemencé."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : culture qualitative et/ou quantitative (cours).",
+   "Exact : UFC/ml cité dans le cours.",
+   "Exact : calcul des bactéries de l'échantillon (cours).",
+   "Faux : elle est quantitative par définition.",
+   "Exact : volume défini sur milieu gélosé (cours)."
+  ]
+ },
+ {
+  "q": "Concernant les colonies bactériennes, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles sont visibles à l'œil nu.",
+   "Elles résultent de la multiplication d'une bactérie initiale.",
+   "Leur aspect (S, M, R) est noté lors de la lecture.",
+   "Elles apparaissent immédiatement après l'ensemencement.",
+   "Elles permettent l'obtention de cultures pures par repiquage."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : amas visible à l'œil nu (cours).",
+   "Exact : une colonie dérive d'une UFC.",
+   "Exact : aspects S, M, R cités dans le cours.",
+   "Faux : il faut 24 à 72 h à 37 °C.",
+   "Exact : le repiquage d'une colonie donne une culture pure."
+  ]
+ },
+ {
+  "q": "Concernant la comparaison des temps de génération in vitro et in vivo, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le temps de génération est plus court in vitro qu'in vivo.",
+   "Les défenses de l'hôte ralentissent la croissance in vivo.",
+   "Les conditions nutritives diffèrent entre les deux situations.",
+   "Le temps de génération est identique dans les deux cas.",
+   "Exemple : S. aureus, 40 min in vitro contre 3 à 5 h in vivo."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les valeurs du cours sont plus courtes in vitro.",
+   "Exact : l'immunité freine la multiplication.",
+   "Exact : le milieu de culture est optimisé.",
+   "Faux : les valeurs du cours diffèrent.",
+   "Exact : valeurs citées dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant l'introduction à la dynamique de la croissance, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La courbe de croissance compte six phases selon le cours.",
+   "La phase de latence dure 2 à 3 heures.",
+   "Le taux de croissance est maximal en phase exponentielle.",
+   "Le taux de croissance est nul en phase stationnaire.",
+   "La courbe de croissance ne comporte qu'une seule phase."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : six phases citées dans le cours.",
+   "Exact : phase de latence de 2-3 h (cours).",
+   "Exact : taux maximal en exponentielle (cours).",
+   "Exact : taux nul en stationnaire (cours).",
+   "Faux : le cours en décrit six."
+  ]
+ },
+ {
+  "q": "Concernant la phase de latence, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est la phase 1 de la courbe de croissance.",
+   "Elle dure 2 à 3 heures.",
+   "La croissance y est nulle.",
+   "Les bactéries s'y accoutument à l'environnement.",
+   "Le taux de croissance y est maximal."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : phase 1 citée dans le cours.",
+   "Exact : durée citée dans le cours.",
+   "Exact : croissance nulle citée dans le cours.",
+   "Exact : accoutumance à l'environnement citée.",
+   "Faux : le taux maximal est en phase exponentielle."
+  ]
+ },
+ {
+  "q": "À propos de la phase d'accélération, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est la phase 2 de la courbe de croissance.",
+   "La vitesse de croissance y augmente.",
+   "Elle suit la phase de latence.",
+   "Elle précède la phase de croissance exponentielle.",
+   "La croissance y est nulle."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : phase 2 citée dans le cours.",
+   "Exact : augmentation de la vitesse (cours).",
+   "Exact : ordre des phases du cours.",
+   "Exact : ordre des phases du cours.",
+   "Faux : la croissance y a démarré."
+  ]
+ },
+ {
+  "q": "Concernant la phase de croissance exponentielle, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est la phase 3 de la courbe de croissance.",
+   "Le taux de croissance y est maximal.",
+   "La multiplication bactérienne y est la plus rapide.",
+   "C'est la phase idéale pour étudier la sensibilité aux antibiotiques.",
+   "La croissance y est nulle."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : phase 3 citée dans le cours.",
+   "Exact : taux maximal cité dans le cours.",
+   "Exact : vitesse maximale de multiplication.",
+   "Exact : les antibiotiques agissent mieux sur les bactéries en division.",
+   "Faux : c'est la phase de multiplication maximale."
+  ]
+ },
+ {
+  "q": "Concernant la phase de ralentissement, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est la phase 4 de la courbe de croissance.",
+   "La vitesse de croissance y diminue.",
+   "Les nutriments du milieu de culture s'épuisent.",
+   "Les déchets du métabolisme s'accumulent.",
+   "Le taux de croissance y est maximal."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : phase 4 citée dans le cours.",
+   "Exact : diminution de la vitesse (cours).",
+   "Exact : épuisement des nutriments (cours).",
+   "Exact : accumulation des déchets (cours).",
+   "Faux : le taux maximal est en phase exponentielle."
+  ]
+ },
+ {
+  "q": "À propos de la phase stationnaire, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est la phase 5 de la courbe de croissance.",
+   "La reproduction s'y arrête.",
+   "Un facteur limitant de l'environnement en est la cause.",
+   "Le taux de croissance y est nul.",
+   "Le nombre de bactéries y augmente fortement."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : phase 5 citée dans le cours.",
+   "Exact : arrêt de la reproduction (cours).",
+   "Exact : facteur limitant cité dans le cours.",
+   "Exact : taux nul cité dans le cours.",
+   "Faux : la population se stabilise."
+  ]
+ },
+ {
+  "q": "Concernant la phase de déclin, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est la phase 6 de la courbe de croissance.",
+   "Les ressources du milieu sont épuisées.",
+   "Le nombre de bactéries diminue.",
+   "Les bactéries meurent et se lysent.",
+   "La croissance y est maximale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : phase 6 citée dans le cours.",
+   "Exact : ressources épuisées (cours).",
+   "Exact : diminution du nombre (cours).",
+   "Exact : la mort cellulaire dépasse les divisions.",
+   "Faux : la population décline."
+  ]
+ },
+ {
+  "q": "Concernant l'ordre des phases de la courbe de croissance, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Latence, puis accélération, puis croissance exponentielle.",
+   "Croissance exponentielle, puis ralentissement, puis phase stationnaire.",
+   "Phase stationnaire, puis phase de déclin.",
+   "Phase de déclin, puis latence, puis exponentielle.",
+   "La courbe compte six phases."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : phases 1, 2, 3 dans l'ordre.",
+   "Exact : phases 3, 4, 5 dans l'ordre.",
+   "Exact : phases 5 puis 6.",
+   "Faux : le déclin est la dernière phase.",
+   "Exact : six phases citées dans le cours."
+  ]
+ },
+ {
+  "q": "Un laboratoire ensemence un bouillon à 8 heures du matin. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Vers 10-11 h, la culture est encore en phase de latence.",
+   "La croissance est nulle pendant la phase de latence.",
+   "La phase exponentielle suit la phase d'accélération.",
+   "Le trouble du bouillon est visible dès l'ensemencement.",
+   "Pendant la latence, les bactéries s'adaptent au milieu."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : latence de 2-3 h (cours).",
+   "Exact : croissance nulle en latence (cours).",
+   "Exact : ordre des phases du cours.",
+   "Faux : le trouble nécessite des générations.",
+   "Exact : accoutumance à l'environnement (cours)."
+  ]
+ },
+ {
+  "q": "À propos du taux de croissance au cours de la courbe, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Il est nul en phase de latence.",
+   "Il est maximal en phase de croissance exponentielle.",
+   "Il diminue en phase de ralentissement.",
+   "Il est nul en phase stationnaire.",
+   "Il est constant tout au long de la courbe."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : croissance nulle (cours).",
+   "Exact : taux maximal (cours).",
+   "Exact : diminution de la vitesse (cours).",
+   "Exact : taux nul (cours).",
+   "Faux : il varie selon la phase."
+  ]
+ },
+ {
+  "q": "Concernant les causes du ralentissement de la croissance, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "L'épuisement des nutriments du milieu.",
+   "L'accumulation des déchets du métabolisme.",
+   "La variation du pH du milieu.",
+   "L'augmentation des nutriments disponibles.",
+   "L'apparition d'un facteur limitant de l'environnement."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : épuisement cité dans le cours.",
+   "Exact : accumulation des déchets citée.",
+   "Exact : les acides produits modifient le pH.",
+   "Faux : c'est l'épuisement qui freine.",
+   "Exact : facteur limitant cité pour la stationnaire."
+  ]
+ },
+ {
+  "q": "Concernant la courbe de croissance en milieu liquide, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "L'axe des abscisses représente le temps.",
+   "L'axe des ordonnées représente le nombre de bactéries.",
+   "La courbe du cours montre six phases.",
+   "La courbe est une droite dans toutes ses portions.",
+   "Le nombre de bactéries diminue en phase de déclin."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : figure 5 du cours : temps en abscisse.",
+   "Exact : nombre de bactéries en ordonnée.",
+   "Exact : six phases décrites dans le cours.",
+   "Faux : la courbe est sigmoïde avec un déclin.",
+   "Exact : diminution du nombre en phase 6 (cours)."
+  ]
+ },
+ {
+  "q": "À propos de l'accoutumance pendant la phase de latence, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les bactéries s'adaptent à leur nouvel environnement.",
+   "Elles synthétisent les enzymes nécessaires au nouveau milieu.",
+   "Aucune division n'a lieu pendant cette phase.",
+   "Cette phase dure 2 à 3 heures.",
+   "La croissance y est maximale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : accoutumance à l'environnement (cours).",
+   "Exact : adaptation enzymatique au milieu.",
+   "Exact : croissance nulle (cours).",
+   "Exact : durée citée dans le cours.",
+   "Faux : le maximum est en phase exponentielle."
+  ]
+ },
+ {
+  "q": "Concernant la phase stationnaire en pratique, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le nombre de bactéries viables se stabilise.",
+   "Les divisions compensent les morts cellulaires.",
+   "Un facteur limitant de l'environnement bloque la croissance nette.",
+   "Les bactéries sporulées peuvent sporuler à ce stade.",
+   "La croissance nette y est maximale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : équilibre divisions / morts.",
+   "Exact : le taux net de croissance est nul.",
+   "Exact : facteur limitant cité dans le cours.",
+   "Exact : la carence déclenche la sporulation.",
+   "Faux : la croissance nette est nulle."
+  ]
+ },
+ {
+  "q": "Concernant la phase de déclin, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Les nutriments du milieu sont épuisés.",
+   "Le nombre de bactéries viables diminue.",
+   "La lyse bactérienne libère le contenu cellulaire dans le milieu.",
+   "Elle suit la phase stationnaire.",
+   "Elle précède la phase de croissance exponentielle."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : ressources épuisées (cours).",
+   "Exact : diminution du nombre (cours).",
+   "Exact : la lyse accompagne la mort cellulaire.",
+   "Exact : phase 6 après la phase 5.",
+   "Faux : l'exponentielle est la phase 3."
+  ]
+ },
+ {
+  "q": "Un étudiant confond la phase de latence et la phase stationnaire. Lesquelles des distinctions suivantes sont exactes ?",
+  "options": [
+   "La latence ouvre la courbe, la stationnaire précède le déclin.",
+   "Les deux phases ont un taux de croissance nul.",
+   "La latence dure 2 à 3 h avec accoutumance au milieu.",
+   "La stationnaire résulte d'un facteur limitant de l'environnement.",
+   "Les deux phases ont un taux de croissance maximal."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : phases 1 et 5 respectivement.",
+   "Exact : taux nul dans les deux cas (cours).",
+   "Exact : durée et accoutumance citées.",
+   "Exact : facteur limitant cité dans le cours.",
+   "Faux : le maximum est en exponentielle."
+  ]
+ },
+ {
+  "q": "Concernant l'utilisation pratique de la courbe de croissance, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle aide à choisir le moment de lecture des cultures.",
+   "La phase exponentielle est la meilleure pour l'étude de la sensibilité aux antibiotiques.",
+   "Elle explique les délais de croissance des espèces.",
+   "Elle est sans intérêt pratique au laboratoire.",
+   "Elle guide la durée d'incubation des milieux."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la cinétique guide la lecture.",
+   "Exact : les bactéries en division sont plus sensibles.",
+   "Exact : délais de croissance cités dans le cours.",
+   "Faux : elle fonde la conduite des cultures.",
+   "Exact : l'incubation suit les délais de croissance."
+  ]
+ },
+ {
+  "q": "À propos de la représentation graphique de la croissance, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La phase exponentielle apparaît comme une droite en échelle logarithmique.",
+   "Le temps de génération se mesure pendant la phase exponentielle.",
+   "La courbe du cours est établie en milieu liquide.",
+   "La courbe ne concerne que le milieu solide.",
+   "L'échelle logarithmique facilite la lecture de la phase exponentielle."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la log-phase est linéaire en log.",
+   "Exact : le temps de génération s'y calcule.",
+   "Exact : figure 5 = milieu liquide (cours).",
+   "Faux : la figure du cours est en milieu liquide.",
+   "Exact : la représentation semi-log est classique."
+  ]
+ },
+ {
+  "q": "Concernant la numérotation des six phases, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Phase 1 : latence.",
+   "Phase 2 : accélération.",
+   "Phase 3 : croissance exponentielle.",
+   "Phase 4 : ralentissement.",
+   "Phase 5 : déclin et phase 6 : stationnaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : numérotation du cours.",
+   "Exact : numérotation du cours.",
+   "Exact : numérotation du cours.",
+   "Exact : numérotation du cours.",
+   "Faux : phase 5 = stationnaire, phase 6 = déclin."
+  ]
+ },
+ {
+  "q": "Concernant la transition entre phase exponentielle et phase stationnaire, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La phase de ralentissement s'intercale entre les deux.",
+   "Les nutriments s'épuisent progressivement.",
+   "Les déchets du métabolisme s'accumulent.",
+   "Le passage se fait brutalement sans transition.",
+   "Un facteur limitant finit par bloquer la croissance."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : phase 4 entre 3 et 5.",
+   "Exact : épuisement cité dans le cours.",
+   "Exact : accumulation citée dans le cours.",
+   "Faux : le ralentissement est progressif.",
+   "Exact : facteur limitant cité dans le cours."
+  ]
+ },
+ {
+  "q": "Un bouillon incubé depuis 10 jours montre une diminution du nombre de bactéries viables. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La culture est en phase de déclin.",
+   "Les ressources du milieu sont épuisées.",
+   "C'est la phase 6 de la courbe.",
+   "La culture est en phase de croissance exponentielle.",
+   "Le trouble du bouillon était apparu plus tôt, entre 2 et 15 jours."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : diminution = phase de déclin.",
+   "Exact : ressources épuisées (cours).",
+   "Exact : déclin = phase 6.",
+   "Faux : l'exponentielle est précoce.",
+   "Exact : trouble en 2 à 15 jours (cours)."
+  ]
+ },
+ {
+  "q": "Concernant la sporulation bactérienne, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est la formation d'une spore, forme de résistance de la bactérie.",
+   "Elle concerne certaines bactéries à Gram positif.",
+   "Elle est déclenchée par des conditions de vie défavorables.",
+   "C'est un mode de reproduction qui multiplie les bactéries.",
+   "Bacillus et Clostridium sont des genres sporulés."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la spore est une forme de résistance.",
+   "Exact : les sporulés sont des Gram positif.",
+   "Exact : carences et stress déclenchent la sporulation.",
+   "Faux : une cellule donne une seule spore, pas de multiplication.",
+   "Exact : les deux genres types de sporulés."
+  ]
+ },
+ {
+  "q": "À propos de l'endospore bactérienne, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle est très résistante à la chaleur.",
+   "Elle résiste à la dessiccation.",
+   "Elle résiste aux radiations et à de nombreux antiseptiques.",
+   "Elle a un métabolisme intense.",
+   "Elle contient du dipicolinate de calcium."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : thermorésistance caractéristique.",
+   "Exact : elle survit à la dessiccation.",
+   "Exact : résistance aux agents physico-chimiques.",
+   "Faux : la spore est dormante, métabolisme quasi nul.",
+   "Exact : le dipicolinate de calcium stabilise la spore."
+  ]
+ },
+ {
+  "q": "Concernant les étapes de la sporulation, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Formation d'un septum asymétrique dans la cellule.",
+   "Englobement de la préspore par la cellule mère.",
+   "Formation du cortex et des tuniques protectrices.",
+   "Lyse de la cellule mère et libération de la spore libre.",
+   "Division de la cellule en deux cellules filles identiques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le septum est asymétrique.",
+   "Exact : la préspore est englobée.",
+   "Exact : cortex et tuniques (coats) se forment.",
+   "Exact : la cellule mère lyse et libère la spore.",
+   "Faux : c'est la scissiparité, pas la sporulation."
+  ]
+ },
+ {
+  "q": "Concernant la germination de la spore, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elle survient lorsque les conditions redeviennent favorables.",
+   "La spore redonne une forme végétative capable de se multiplier.",
+   "Elle est déclenchée par la présence de nutriments et l'hydratation.",
+   "Une spore donne naissance à plusieurs bactéries.",
+   "La spore perd sa résistance en germant."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le retour de conditions favorables lève la dormance.",
+   "Exact : la forme végétative reprend la multiplication.",
+   "Exact : nutriments et eau déclenchent la germination.",
+   "Faux : une spore = une bactérie.",
+   "Exact : la forme végétative redevient sensible."
+  ]
+ },
+ {
+  "q": "À propos de la résistance des spores, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La simple ébullition ne détruit pas toutes les spores.",
+   "L'autoclave (121 °C pendant 15 à 20 minutes) les détruit.",
+   "La stérilisation doit tenir compte de cette résistance.",
+   "Les antiseptiques usuels détruisent toujours les spores.",
+   "La chaleur sèche exige des températures plus élevées et plus longtemps."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les spores résistent à 100 °C.",
+   "Exact : la chaleur humide sous pression les détruit.",
+   "Exact : la stérilisation vise spores comprises.",
+   "Faux : beaucoup d'antiseptiques sont inefficaces sur les spores.",
+   "Exact : 160-180 °C pendant 1 à 2 h en chaleur sèche."
+  ]
+ },
+ {
+  "q": "Concernant Clostridium et la sporulation, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Clostridium est un genre anaérobie stricte et sporulé.",
+   "La spore lui permet de survivre en présence d'oxygène dans l'environnement.",
+   "Clostridium tetani et Clostridium perfringens sont sporulés.",
+   "La sporulation a lieu pendant la phase de croissance exponentielle.",
+   "Les spores de Clostridium persistent longtemps dans le sol."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : anaérobie stricte sporulé (cours + sporulation).",
+   "Exact : la spore dormante tolère l'oxygène.",
+   "Exact : espèces sporulées classiques.",
+   "Faux : la carence de la phase stationnaire la déclenche.",
+   "Exact : les spores survivent des années dans le sol."
+  ]
+ },
+ {
+  "q": "À propos du genre Bacillus, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "C'est un genre bactérien sporulé.",
+   "Bacillus anthracis est l'agent du charbon.",
+   "Les spores de Bacillus anthracis sont très résistantes dans l'environnement.",
+   "Bacillus est un genre anaérobie stricte.",
+   "La sporulation est une forme de survie, pas de multiplication."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : Bacillus forme des endospores.",
+   "Exact : B. anthracis = charbon.",
+   "Exact : ses spores persistent dans le sol.",
+   "Faux : Bacillus est aérobie ou aéro-anaérobie.",
+   "Exact : une cellule = une spore."
+  ]
+ },
+ {
+  "q": "Concernant le dipicolinate de calcium, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Il est caractéristique de l'endospore bactérienne.",
+   "Il contribue à la thermorésistance de la spore.",
+   "Il est associé à la déshydratation du cytoplasme sporulé.",
+   "On le trouve en grande quantité dans les formes végétatives.",
+   "Sa présence traduit l'état de dormance de la spore."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : marqueur de la spore.",
+   "Exact : il stabilise les protéines à la chaleur.",
+   "Exact : le cytoplasme de la spore est déshydraté.",
+   "Faux : il est spécifique de la spore.",
+   "Exact : dormance = métabolisme quasi nul."
+  ]
+ },
+ {
+  "q": "Concernant les liens entre sporulation et phase stationnaire, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La carence nutritive déclenche la sporulation.",
+   "La sporulation survient souvent en phase stationnaire.",
+   "La phase exponentielle est le moment de la sporulation.",
+   "La sporulation est une réponse à un facteur limitant.",
+   "Toutes les bactéries sporulent en phase stationnaire."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : la carence est le signal déclencheur.",
+   "Exact : la stationnaire correspond à la carence.",
+   "Faux : l'exponentielle est la phase de multiplication.",
+   "Exact : le facteur limitant déclenche la différenciation.",
+   "Faux : seules les espèces sporulées sporulent."
+  ]
+ },
+ {
+  "q": "À propos de la structure de l'endospore, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le cortex entoure la préspore.",
+   "Les tuniques (coats) protègent la spore.",
+   "L'exosporium est l'enveloppe la plus externe.",
+   "La spore ne possède aucune enveloppe protectrice.",
+   "Le cytoplasme de la spore est déshydraté."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le cortex est une couche épaisse de peptidoglycane.",
+   "Exact : les tuniques protéiques protègent.",
+   "Exact : l'exosporium enveloppe la spore.",
+   "Faux : les enveloppes assurent la résistance.",
+   "Exact : la déshydratation fonde la dormance."
+  ]
+ },
+ {
+  "q": "Concernant les spores en pratique de laboratoire, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Elles imposent la stérilisation par chaleur humide sous pression.",
+   "Elles expliquent la survie de Clostridium dans le sol.",
+   "Le contrôle de la stérilisation utilise des spores témoins.",
+   "Un milieu de culture ordinaire détruit les spores.",
+   "La lyophilisation permet de conserver les souches sporulées."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'autoclave est requis contre les spores.",
+   "Exact : les spores persistent dans l'environnement.",
+   "Exact : Geobacillus stearothermophilus = témoin d'autoclave.",
+   "Faux : les milieux n'ont aucun effet sporicide.",
+   "Exact : la lyophilisation conserve les souches (cours)."
+  ]
+ },
+ {
+  "q": "Un laboratoire isole un bacille à Gram positif, anaérobie stricte et sporulé. Lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Le genre Clostridium est évoqué en premier.",
+   "Sa culture exige une anaérobiose stricte.",
+   "La spore explique sa résistance dans l'environnement.",
+   "Il s'agit nécessairement d'un Bacillus.",
+   "L'identification tiendra compte du type respiratoire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : Clostridium = bacille Gram + anaérobie sporulé.",
+   "Exact : anaérobie stricte = absence d'O2 (cours).",
+   "Exact : la spore assure la survie.",
+   "Faux : Bacillus est aérobie, pas anaérobie stricte.",
+   "Exact : type respiratoire cité dans l'identification (cours)."
+  ]
+ },
+ {
+  "q": "Concernant la différence entre spore et forme végétative, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La forme végétative se multiplie, la spore est dormante.",
+   "La spore résiste à la chaleur, pas la forme végétative.",
+   "La germination convertit la spore en forme végétative.",
+   "Les deux formes ont la même résistance aux agents physiques.",
+   "Une cellule végétative donne une seule spore."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : multiplication vs dormance.",
+   "Exact : la thermorésistance est propre à la spore.",
+   "Exact : la germination lève la dormance.",
+   "Faux : la spore est bien plus résistante.",
+   "Exact : la sporulation n'est pas une multiplication."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes résument correctement la physiologie bactérienne du cours ?",
+  "options": [
+   "Les besoins nutritifs et les conditions environnementales conditionnent la croissance.",
+   "La croissance bactérienne suit une courbe en six phases.",
+   "Le choix des milieux, de la température et de l'atmosphère guide l'examen bactériologique.",
+   "Le métabolisme respiratoire ou fermentatif fonde l'identification des souches.",
+   "La physiologie bactérienne n'a aucune application au diagnostic."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : objectifs cités dans le cours.",
+   "Exact : six phases citées dans le cours.",
+   "Exact : implications citées dans le cours.",
+   "Exact : profil métabolique cité dans le cours.",
+   "Faux : tout le diagnostic en découle."
+  ]
+ },
+ {
+  "q": "Concernant la scissiparité et la sporulation, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "La scissiparité est une reproduction asexuée.",
+   "La sporulation est un mode de multiplication bactérienne.",
+   "La scissiparité donne deux cellules filles à partir d'une cellule mère.",
+   "La sporulation donne plusieurs spores par cellule mère.",
+   "Scissiparité et sporulation désignent le même phénomène."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Exact : les bactéries sont des organismes asexués (cours).",
+   "Faux : une cellule donne une seule spore, il n'y a pas de multiplication.",
+   "Exact : la division binaire donne deux cellules filles.",
+   "Faux : une seule spore est formée par cellule mère.",
+   "Faux : ce sont deux processus distincts."
+  ]
+ }
+]

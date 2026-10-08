@@ -1,0 +1,4359 @@
+[
+ {
+  "q": "Parmi les propositions suivantes concernant la classification du virus de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Il appartient au genre Alphavirus.",
+   "Il appartient à la famille des Paramyxoviridae.",
+   "Il s'agit d'un virus à ADN de la famille des Herpesviridae.",
+   "Il appartient à la famille des Togaviridae.",
+   "Il appartient au genre Rubivirus."
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : Alphavirus est un autre genre des Togaviridae (ex. chikungunya), pas celui de la rubéole.",
+   "Faux : les Paramyxoviridae regroupent la rougeole et les oreillons, pas la rubéole.",
+   "Faux : c'est un virus à ARN, pas un Herpesviridae à ADN.",
+   "Exact : la famille du virus de la rubéole est celle des Togaviridae.",
+   "Exact : son genre est Rubivirus."
+  ]
+ },
+ {
+  "q": "À propos de la taille du virus de la rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Il mesure moins de 30 nm de diamètre.",
+   "Son diamètre est compris entre 50 et 70 nm.",
+   "Il est aussi petit qu'un Parvovirus (environ 20 nm).",
+   "Sa petite taille impose le microscope électronique pour le visualiser.",
+   "Son diamètre avoisine les 200 nm."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : le virus de la rubéole est plus grand, entre 50 et 70 nm.",
+   "Exact : le diamètre du virus de la rubéole est compris entre 50 et 70 nm.",
+   "Faux : les Parvovirus (~20 nm) sont nettement plus petits.",
+   "Exact : comme tous les virus, sa taille nanométrique n'est visible qu'au microscope électronique.",
+   "Faux : 200 nm correspond plutôt à la taille des Poxvirus, pas de la rubéole."
+  ]
+ },
+ {
+  "q": "Concernant la capside du virus de la rubéole, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Elle présente une symétrie cubique icosaédrique.",
+   "Elle est entourée d'une enveloppe lipidique.",
+   "Les spicules d'hémagglutinine sont portés directement par la capside.",
+   "Elle présente une symétrie hélicoïdale.",
+   "Elle est de type complexe comme celle des Poxvirus."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : la capside du virus de la rubéole est à symétrie cubique icosaédrique.",
+   "Exact : c'est un virus enveloppé.",
+   "Faux : les spicules d'hémagglutinine sont portés par l'enveloppe, pas par la capside.",
+   "Faux : la symétrie hélicoïdale caractérise d'autres virus (ex. rage), pas la rubéole.",
+   "Faux : la symétrie complexe est celle des Poxvirus."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes relatives au génome du virus de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Il s'agit d'un ARN monocaténaire de polarité négative (-).",
+   "Il s'agit d'un ADN bicaténaire.",
+   "Il s'agit d'un ARN monocaténaire de polarité positive (+).",
+   "Le génome est porté par la nucléocapside à symétrie icosaédrique.",
+   "Il s'agit d'un ARN bicaténaire segmenté."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la polarité du génome est positive, pas négative.",
+   "Faux : c'est un virus à ARN, pas à ADN.",
+   "Exact : le génome est un ARN monocaténaire de polarité +.",
+   "Exact : l'ARN est associé à la nucléocapside de symétrie cubique icosaédrique.",
+   "Faux : le génome n'est ni bicaténaire ni segmenté."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'enveloppe du virus de la rubéole ?",
+  "options": [
+   "C'est un virus enveloppé.",
+   "Ses spicules sont des spicules de neuraminidase.",
+   "Son enveloppe est de nature exclusivement protéique.",
+   "C'est un virus nu, dépourvu d'enveloppe.",
+   "Son enveloppe porte des spicules d'hémagglutinine."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Exact : le virus de la rubéole est enveloppé.",
+   "Faux : la neuraminidase est une spicule des virus grippaux, pas de la rubéole.",
+   "Faux : l'enveloppe virale est de nature lipidique, acquise à partir des membranes cellulaires.",
+   "Faux : le virus de la rubéole possède une enveloppe.",
+   "Exact : l'enveloppe porte des spicules (projections) d'hémagglutinine."
+  ]
+ },
+ {
+  "q": "Au sujet de la résistance physico-chimique du virus de la rubéole, quelles affirmations sont correctes ?",
+  "options": [
+   "Il résiste aux solvants des lipides comme l'éther.",
+   "C'est un virus fragile.",
+   "Il est inactivé par le chloroforme.",
+   "Il survit plusieurs semaines à température ambiante.",
+   "Il est inactivé par l'éther."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : au contraire, les solvants des lipides détruisent son enveloppe et l'inactivent.",
+   "Exact : le virus de la rubéole est décrit comme un virus fragile.",
+   "Exact : le chloroforme l'inactive également.",
+   "Faux : virus fragile, il ne survit pas durablement à température ambiante.",
+   "Exact : l'éther, solvant des lipides, l'inactive."
+  ]
+ },
+ {
+  "q": "Relatives à l'inactivation du virus de la rubéole, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Il résiste aux ultraviolets.",
+   "Il est inactivé par les rayons ultraviolets.",
+   "Il résiste à la chaleur.",
+   "Il est inactivé par la chaleur.",
+   "Il est inactivé par l'alcool à 70°."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les ultraviolets font partie des agents qui l'inactivent.",
+   "Exact : les U.V. l'inactivent.",
+   "Faux : c'est un virus fragile, sensible à la chaleur.",
+   "Exact : la chaleur l'inactive.",
+   "Exact : l'alcool à 70° inactive le virus de la rubéole."
+  ]
+ },
+ {
+  "q": "Concernant la conservation du virus de la rubéole au laboratoire, lesquelles sont exactes ?",
+  "options": [
+   "Le transport des prélèvements peut se faire sans précaution de rapidité.",
+   "La glycérine à 50 % est le mode de conservation de choix.",
+   "Sa conservation est possible par congélation.",
+   "Il se conserve plusieurs mois à température ambiante.",
+   "Sa conservation est possible par lyophilisation."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : le virus étant extrêmement fragile, le transport doit se faire très rapidement.",
+   "Faux : la conservation par congélation ou lyophilisation est retenue, pas la glycérine.",
+   "Exact : la congélation permet de conserver le virus.",
+   "Faux : virus fragile, il ne se conserve pas à température ambiante.",
+   "Exact : la lyophilisation est aussi un mode de conservation possible."
+  ]
+ },
+ {
+  "q": "À propos de l'antigène soluble du virus de la rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Il est lié à la nucléocapside.",
+   "Il correspond à la protéine C.",
+   "Il précipite et agrège les plaquettes.",
+   "Il s'agit d'une glycoprotéine d'enveloppe.",
+   "Il est porté par les spicules de l'enveloppe."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'antigène soluble est lié à la nucléocapside.",
+   "Exact : il est également appelé protéine C.",
+   "Exact : il est décrit comme précipitant et agrégant les plaquettes.",
+   "Faux : c'est un antigène interne lié à la nucléocapside, pas une glycoprotéine d'enveloppe.",
+   "Faux : les spicules de l'enveloppe portent l'antigène hémagglutinine, pas l'antigène soluble."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les anticorps dirigés contre l'antigène soluble, lesquelles sont exactes ?",
+  "options": [
+   "Cet antigène est à l'origine d'anticorps mis en évidence par la réaction de fixation du complément (RFC).",
+   "Ces anticorps sont des anticorps protecteurs.",
+   "L'antigène soluble donne naissance à des anticorps neutralisants protecteurs.",
+   "La RFC permet de détecter les anticorps anti-protéine C.",
+   "Ces anticorps sont mis en évidence par inhibition de l'hémagglutination (IHA)."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Exact : les anticorps contre l'antigène soluble sont révélés par la RFC.",
+   "Faux : les anticorps protecteurs sont dirigés contre l'antigène hémagglutinine, pas contre l'antigène soluble.",
+   "Faux : les anticorps protecteurs sont ceux dirigés contre l'hémagglutinine.",
+   "Exact : la protéine C étant l'antigène soluble, ses anticorps sont détectés par RFC.",
+   "Faux : l'IHA met en évidence les anticorps anti-hémagglutinine."
+  ]
+ },
+ {
+  "q": "Concernant l'antigène supporté par l'hémagglutinine du virus de la rubéole, lesquelles sont vraies ?",
+  "options": [
+   "Il est lié à la nucléocapside.",
+   "Il possède la propriété d'agglutiner les globules rouges.",
+   "Il est supporté par des spicules portés par l'enveloppe.",
+   "Il correspond à la protéine C.",
+   "C'est une protéine antigénique."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : l'antigène lié à la nucléocapside est l'antigène soluble (protéine C).",
+   "Exact : il agglutine les globules rouges, d'où son nom.",
+   "Exact : il est supporté par des spicules (projections) portés par l'enveloppe.",
+   "Faux : la protéine C désigne l'antigène soluble, pas l'hémagglutinine.",
+   "Exact : l'antigène hémagglutinine est une protéine antigénique."
+  ]
+ },
+ {
+  "q": "À propos des anticorps anti-hémagglutinine du virus de la rubéole, quelles affirmations sont correctes ?",
+  "options": [
+   "Ils sont mis en évidence par la réaction de fixation du complément.",
+   "Ils sont dirigés contre la protéine C.",
+   "Ils sont mis en évidence par la réaction d'inhibition de l'hémagglutination (IHA).",
+   "Ce sont des anticorps protecteurs.",
+   "Ils apparaissent après vaccination et protègent contre l'infection."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la RFC révèle les anticorps contre l'antigène soluble.",
+   "Faux : la protéine C est l'antigène soluble, cible des anticorps révélés par RFC.",
+   "Exact : l'IHA révèle les anticorps dirigés contre l'hémagglutinine.",
+   "Exact : ce sont des anticorps protecteurs.",
+   "Exact : les anticorps anti-hémagglutinine sont protecteurs, y compris après vaccination."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes comparant les deux antigènes du virus de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Les anticorps anti-hémagglutinine sont protecteurs, contrairement à ceux dirigés contre l'antigène soluble.",
+   "La RFC détecte les anticorps anti-hémagglutinine.",
+   "L'antigène soluble est lié à la nucléocapside tandis que l'hémagglutinine est portée par l'enveloppe.",
+   "L'IHA détecte les anticorps contre l'antigène soluble.",
+   "Les deux antigènes induisent des anticorps protecteurs."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Exact : seuls les anticorps anti-hémagglutinine sont décrits comme protecteurs.",
+   "Faux : la RFC met en évidence les anticorps contre l'antigène soluble.",
+   "Exact : l'antigène soluble (protéine C) est interne, l'hémagglutinine est sur les spicules de l'enveloppe.",
+   "Faux : l'IHA met en évidence les anticorps anti-hémagglutinine.",
+   "Faux : seuls les anticorps anti-hémagglutinine sont protecteurs."
+  ]
+ },
+ {
+  "q": "Concernant la diversité antigénique du virus de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Il n'existe qu'un seul type de virus.",
+   "Un vaccin unique suffit car le virus est antigéniquement stable.",
+   "La diversité antigénique impose d'adapter le vaccin chaque année.",
+   "Il existe plusieurs sérotypes comme pour les entérovirus.",
+   "Il n'existe ni sous-type ni variant."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : il existe un seul type de virus de la rubéole.",
+   "Exact : l'unicité du type viral permet un vaccin unique et stable.",
+   "Faux : l'absence de variants rend inutile toute adaptation annuelle du vaccin.",
+   "Faux : contrairement aux entérovirus, la rubéole ne compte qu'un seul type.",
+   "Exact : aucun sous-type ni variant n'est décrit."
+  ]
+ },
+ {
+  "q": "À propos de l'histoire de la rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "En 1941, elle est associée aux malformations congénitales par Gregg.",
+   "En 1881, la rubéole est définie comme entité nosologique.",
+   "En 1881, les tests sérologiques sont disponibles.",
+   "En 1881, le virus de la rubéole est isolé.",
+   "En 1941, un vaccin est disponible."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : en 1941, Gregg associe la rubéole aux malformations congénitales.",
+   "Exact : 1881 correspond à la définition de la rubéole comme entité nosologique.",
+   "Faux : les tests sérologiques datent de 1967.",
+   "Faux : le virus n'est isolé qu'en 1961.",
+   "Faux : le vaccin n'est disponible qu'en 1969."
+  ]
+ },
+ {
+  "q": "Parmi les repères historiques suivants de la rubéole, lesquels sont exacts ?",
+  "options": [
+   "Le virus est isolé en 1941 par Gregg.",
+   "Le vaccin est disponible dès 1961.",
+   "Un vaccin est disponible à partir de 1969.",
+   "Le virus de la rubéole est isolé en 1961.",
+   "Des tests sérologiques sont disponibles à partir de 1967."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : en 1941, Gregg décrit l'association aux malformations, il n'isole pas le virus.",
+   "Faux : le vaccin n'est disponible qu'en 1969, pas en 1961.",
+   "Exact : le vaccin est disponible en 1969.",
+   "Exact : l'isolement du virus date de 1961.",
+   "Exact : les tests sérologiques apparaissent en 1967."
+  ]
+ },
+ {
+  "q": "Concernant la chronologie des découvertes sur la rubéole, lesquelles sont vraies ?",
+  "options": [
+   "L'association aux malformations congénitales précède l'isolement du virus.",
+   "L'isolement du virus précède la disponibilité des tests sérologiques.",
+   "Les tests sérologiques précèdent l'isolement du virus.",
+   "Le vaccin est disponible avant l'isolement du virus.",
+   "La définition comme entité nosologique est l'étape la plus ancienne."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : Gregg (1941) précède l'isolement du virus (1961).",
+   "Exact : isolement en 1961, tests sérologiques en 1967.",
+   "Faux : les tests sérologiques (1967) suivent l'isolement (1961).",
+   "Faux : le vaccin (1969) est postérieur à l'isolement (1961).",
+   "Exact : la définition nosologique de 1881 est la plus ancienne."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes décrivant le schéma général du virus de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Virus de 50 à 70 nm de diamètre.",
+   "Génome à ARN monocaténaire de polarité +.",
+   "Capside à symétrie cubique icosaédrique.",
+   "Virus enveloppé porteur de spicules d'hémagglutinine.",
+   "Virus nu à ADN bicaténaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le diamètre est compris entre 50 et 70 nm.",
+   "Exact : le génome est un ARN monocaténaire +.",
+   "Exact : la capside est à symétrie cubique icosaédrique.",
+   "Exact : le virus est enveloppé avec des spicules d'hémagglutinine.",
+   "Faux : le virus est enveloppé et son génome est un ARN, pas un ADN."
+  ]
+ },
+ {
+  "q": "À propos de la structure du virus de la rubéole comparée à d'autres virus, quelles affirmations sont correctes ?",
+  "options": [
+   "Comme le virus de la rougeole, il possède une capside à symétrie hélicoïdale.",
+   "Contrairement aux Picornaviridae, il est enveloppé.",
+   "Comme les Herpesviridae, son génome est un ADN bicaténaire.",
+   "Son génome est un ARN comme celui des Rhabdoviridae, mais de polarité positive.",
+   "Sa taille est du même ordre que celle des Paramyxoviridae (~150 nm)."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : sa capside est à symétrie cubique icosaédrique, pas hélicoïdale.",
+   "Exact : les Picornaviridae sont des virus nus, la rubéole est enveloppée.",
+   "Faux : son génome est un ARN, pas un ADN bicaténaire.",
+   "Exact : les deux ont un ARN monocaténaire, mais la rubéole est de polarité + et la rage de polarité -.",
+   "Faux : il mesure 50 à 70 nm, plus petit que les Paramyxoviridae."
+  ]
+ },
+ {
+  "q": "Relatives à la sensibilité du virus de la rubéole aux agents physico-chimiques, lesquelles sont vraies ?",
+  "options": [
+   "La chaleur et les U.V. l'inactivent.",
+   "L'éther l'inactive car il détruit son enveloppe lipidique.",
+   "Les solvants des lipides sont inefficaces du fait de l'absence d'enveloppe.",
+   "L'alcool à 70° est sans effet sur ce virus.",
+   "Le chloroforme l'inactive."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : chaleur et ultraviolets inactivent ce virus fragile.",
+   "Exact : l'éther, solvant des lipides, détruit l'enveloppe et inactive le virus.",
+   "Faux : le virus possède une enveloppe, sensible aux solvants des lipides.",
+   "Faux : l'alcool à 70° inactive le virus de la rubéole.",
+   "Exact : le chloroforme fait partie des agents inactivants."
+  ]
+ },
+ {
+  "q": "Concernant l'hémagglutinine du virus de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Elle est mise en évidence par la réaction de fixation du complément.",
+   "Elle est portée par des spicules de l'enveloppe.",
+   "Elle induit des anticorps protecteurs.",
+   "Elle agglutine les globules rouges.",
+   "Elle correspond à l'antigène soluble."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la RFC met en évidence les anticorps contre l'antigène soluble.",
+   "Exact : elle est supportée par les spicules (projections) de l'enveloppe.",
+   "Exact : elle donne naissance à des anticorps protecteurs.",
+   "Exact : propriété d'agglutiner les globules rouges.",
+   "Faux : l'antigène soluble est la protéine C liée à la nucléocapside."
+  ]
+ },
+ {
+  "q": "À propos de la protéine C du virus de la rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Elle correspond à l'antigène soluble du virus.",
+   "Elle est portée par les spicules de l'enveloppe.",
+   "Elle est liée à la nucléocapside.",
+   "Les anticorps qu'elle induit sont révélés par la RFC.",
+   "Les anticorps anti-protéine C sont protecteurs."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la protéine C est l'autre nom de l'antigène soluble.",
+   "Faux : les spicules portent l'hémagglutinine, pas la protéine C.",
+   "Exact : l'antigène soluble est lié à la nucléocapside.",
+   "Exact : les anticorps contre l'antigène soluble sont mis en évidence par RFC.",
+   "Faux : les anticorps protecteurs sont les anti-hémagglutinine."
+  ]
+ },
+ {
+  "q": "Parmi les techniques sérologiques suivantes, lesquelles permettent d'explorer l'immunité rubéolique selon l'antigène ciblé ?",
+  "options": [
+   "L'IHA met en évidence les anticorps anti-hémagglutinine.",
+   "La réaction de neutralisation explore aussi la réponse anticorps.",
+   "L'IHA met en évidence les anticorps contre la protéine C.",
+   "La RFC met en évidence les anticorps contre l'antigène soluble.",
+   "La RFC met en évidence les anticorps protecteurs."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : l'IHA révèle les anticorps anti-hémagglutinine.",
+   "Exact : la réaction de neutralisation fait partie des techniques du diagnostic indirect.",
+   "Faux : l'IHA cible les anticorps anti-hémagglutinine, pas la protéine C.",
+   "Exact : la RFC révèle les anticorps dirigés contre l'antigène soluble (protéine C).",
+   "Faux : les anticorps protecteurs (anti-hémagglutinine) sont révélés par l'IHA, pas la RFC."
+  ]
+ },
+ {
+  "q": "Concernant les caractères antigéniques du virus de la rubéole, lesquelles sont vraies ?",
+  "options": [
+   "Il possède un antigène soluble lié à la nucléocapside.",
+   "Il possède un antigène hémagglutinine porté par l'enveloppe.",
+   "Seul l'antigène hémagglutinine induit des anticorps protecteurs.",
+   "Les deux antigènes induisent des anticorps mis en évidence par les mêmes techniques.",
+   "L'antigène soluble agrège les plaquettes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'antigène soluble (protéine C) est lié à la nucléocapside.",
+   "Exact : l'hémagglutinine est portée par les spicules de l'enveloppe.",
+   "Exact : les anticorps protecteurs sont dirigés contre l'hémagglutinine.",
+   "Faux : RFC pour l'antigène soluble, IHA pour l'hémagglutinine : techniques différentes.",
+   "Exact : l'antigène soluble est décrit comme précipitant et agrégant les plaquettes."
+  ]
+ },
+ {
+  "q": "Au sujet du génome du virus de la rubéole, quelles affirmations sont correctes ?",
+  "options": [
+   "C'est un ARN monocaténaire.",
+   "C'est un ADN simple brin.",
+   "Sa polarité est positive.",
+   "Il est de même nature que celui des Picornaviridae.",
+   "Il est segmenté en plusieurs fragments."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le génome est un ARN monocaténaire.",
+   "Faux : c'est un virus à ARN, pas à ADN.",
+   "Exact : sa polarité est positive (+).",
+   "Exact : les Picornaviridae ont aussi un ARN monocaténaire de polarité +.",
+   "Faux : le génome n'est pas segmenté."
+  ]
+ },
+ {
+  "q": "Relatives aux bornes du diamètre du virus de la rubéole, lesquelles sont vraies ?",
+  "options": [
+   "Il est strictement supérieur à 50 nm.",
+   "Il est inférieur à 50 nm.",
+   "Il peut atteindre 100 nm.",
+   "Sa taille est comprise entre 50 et 70 nm.",
+   "Il est strictement inférieur à 70 nm."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : le diamètre est supérieur à 50 nm.",
+   "Faux : le diamètre est supérieur à 50 nm.",
+   "Faux : le diamètre reste inférieur à 70 nm.",
+   "Exact : synthèse des deux bornes, 50 nm < diamètre < 70 nm.",
+   "Exact : le diamètre est inférieur à 70 nm."
+  ]
+ },
+ {
+  "q": "Concernant la symétrie de la capside du virus de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Elle est hélicoïdale.",
+   "Elle est dite cubique.",
+   "Elle est de type icosaédrique.",
+   "La symétrie cubique icosaédrique est aussi celle des Herpesviridae.",
+   "Elle est complexe."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la symétrie hélicoïdale n'est pas celle de la rubéole.",
+   "Exact : la symétrie est décrite comme cubique.",
+   "Exact : cubique correspond au type icosaédrique.",
+   "Exact : les Herpesviridae ont également une capside icosaédrique.",
+   "Faux : la symétrie complexe est celle des Poxvirus."
+  ]
+ },
+ {
+  "q": "À propos des spicules du virus de la rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Ils sont portés par la capside.",
+   "Ce sont des spicules de neuraminidase.",
+   "Ils portent l'antigène à l'origine des anticorps protecteurs.",
+   "Ils sont portés par l'enveloppe.",
+   "Ce sont des spicules d'hémagglutinine."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la capside est interne, les spicules sont sur l'enveloppe.",
+   "Faux : la neuraminidase est une spicule des virus grippaux.",
+   "Exact : l'hémagglutinine donne naissance aux anticorps protecteurs.",
+   "Exact : les spicules (projections) sont portés par l'enveloppe.",
+   "Exact : ce sont des spicules d'hémagglutinine."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'inactivation du virus par l'alcool, lesquelles sont exactes ?",
+  "options": [
+   "La fragilité du virus explique sa sensibilité à l'alcool.",
+   "L'éther et l'alcool à 70° partagent la propriété d'inactiver le virus.",
+   "La résistance à l'alcool permet sa conservation à température ambiante.",
+   "L'alcool à 70° inactive le virus de la rubéole.",
+   "L'alcool est inefficace sur ce virus enveloppé."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : c'est un virus fragile, sensible aux agents physico-chimiques.",
+   "Exact : éther et alcool à 70° inactivent tous deux le virus.",
+   "Faux : le virus est sensible à l'alcool et ne se conserve pas ainsi.",
+   "Exact : l'alcool à 70° fait partie des agents inactivants.",
+   "Faux : l'alcool à 70° inactive ce virus enveloppé."
+  ]
+ },
+ {
+  "q": "À propos des anticorps protecteurs contre la rubéole, quelles affirmations sont correctes ?",
+  "options": [
+   "Ils sont dirigés contre l'hémagglutinine.",
+   "Ils sont mis en évidence par la RFC.",
+   "Ils sont dirigés contre la protéine C.",
+   "Ils sont mis en évidence par l'IHA.",
+   "Ce sont des anticorps neutralisants qui protègent in vivo."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : les anticorps protecteurs ciblent l'antigène hémagglutinine.",
+   "Faux : la RFC révèle les anticorps contre l'antigène soluble, non protecteurs.",
+   "Faux : la protéine C (antigène soluble) n'induit pas d'anticorps protecteurs.",
+   "Exact : l'IHA révèle les anticorps anti-hémagglutinine.",
+   "Exact : les anticorps neutralisants anti-rubéoleux sont protecteurs in vivo."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles décrivent correctement les agents inactivant le virus de la rubéole ?",
+  "options": [
+   "Le froid (congélation).",
+   "La lyophilisation.",
+   "L'alcool à 70°.",
+   "Le chloroforme.",
+   "L'éther."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la congélation conserve le virus, elle ne l'inactive pas.",
+   "Faux : la lyophilisation est un mode de conservation.",
+   "Exact : l'alcool à 70° inactive le virus.",
+   "Exact : le chloroforme inactive le virus.",
+   "Exact : l'éther inactive le virus."
+  ]
+ },
+ {
+  "q": "Relatives à la découverte du virus de la rubéole, lesquelles sont vraies ?",
+  "options": [
+   "Le virus est isolé en 1941, en même temps que l'association aux malformations.",
+   "Le vaccin est disponible en 1969.",
+   "Gregg associe la rubéole aux malformations congénitales en 1941.",
+   "Le virus est isolé en 1961.",
+   "Les tests sérologiques sont disponibles en 1967."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'isolement (1961) est postérieur de 20 ans à l'observation de Gregg (1941).",
+   "Exact : le vaccin est disponible en 1969.",
+   "Exact : 1941, Gregg décrit l'association aux malformations congénitales.",
+   "Exact : l'isolement du virus date de 1961.",
+   "Exact : les tests sérologiques datent de 1967."
+  ]
+ },
+ {
+  "q": "Concernant la définition nosologique de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Elle est antérieure à l'association aux malformations congénitales.",
+   "Elle est postérieure à l'isolement du virus.",
+   "Elle date de 1881.",
+   "Gregg en est l'auteur en 1941.",
+   "Elle date de 1941."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Exact : 1881 précède l'association aux malformations décrite par Gregg en 1941.",
+   "Faux : l'isolement du virus (1961) est postérieur à 1881.",
+   "Exact : la rubéole est définie comme entité nosologique en 1881.",
+   "Faux : Gregg décrit en 1941 l'association aux malformations congénitales.",
+   "Faux : 1941 correspond à l'association aux malformations, pas à la définition nosologique."
+  ]
+ },
+ {
+  "q": "À propos des caractères virologiques généraux du virus de la rubéole, quelles affirmations sont correctes ?",
+  "options": [
+   "Sa capside est icosaédrique.",
+   "C'est un virus à ARN enveloppé.",
+   "C'est un virus à ADN nu.",
+   "Son diamètre est compris entre 50 et 70 nm.",
+   "Il possède des spicules d'hémagglutinine."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : symétrie cubique icosaédrique.",
+   "Exact : ARN monocaténaire + et enveloppe.",
+   "Faux : c'est un virus à ARN, enveloppé.",
+   "Exact : 50 nm < diamètre < 70 nm.",
+   "Exact : spicules d'hémagglutinine sur l'enveloppe."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le réservoir du virus de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Le réservoir est uniquement animal.",
+   "Les moustiques sont le réservoir du virus.",
+   "Il n'existe pas de réservoir animal.",
+   "Le réservoir est strictement humain.",
+   "Le chien constitue un réservoir secondaire."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le réservoir est humain, pas animal.",
+   "Faux : il n'y a pas de vecteur arthropode pour la rubéole.",
+   "Exact : aucun réservoir animal n'est décrit.",
+   "Exact : le virus de la rubéole a un réservoir strictement humain.",
+   "Faux : le réservoir est strictement humain, le chien n'intervient pas."
+  ]
+ },
+ {
+  "q": "À propos des sources de contagion de la rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Les porteurs sains chroniques adultes.",
+   "Les sujets atteints de rubéole (rubéoleux).",
+   "Les animaux domestiques en période d'épidémie.",
+   "Les nouveau-nés infectés.",
+   "Les sujets vaccinés par le ROR."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : seules les deux sources citées (rubéoleux, nouveau-nés infectés) sont retenues.",
+   "Exact : les rubéoleux sont une source de contagion.",
+   "Faux : le réservoir étant strictement humain, les animaux ne sont pas sources.",
+   "Exact : les nouveau-nés infectés sont une source de contagion.",
+   "Faux : la vaccination n'en fait pas une source de contagion."
+  ]
+ },
+ {
+  "q": "Concernant la période de contagiosité des sujets atteints de rubéole, lesquelles sont vraies ?",
+  "options": [
+   "Elle s'étend sur une semaine après l'éruption.",
+   "Elle est limitée au seul jour de l'éruption.",
+   "Elle dure 6 mois chez le rubéoleux adulte.",
+   "Elle débute après la disparition de l'éruption.",
+   "Elle s'étend sur une semaine avant l'éruption."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Exact : contagiosité pendant une semaine après l'éruption.",
+   "Faux : la période de contagiosité encadre l'éruption sur deux semaines.",
+   "Faux : les 6 mois concernent les nouveau-nés infectés, pas l'adulte rubéoleux.",
+   "Faux : la contagiosité précède l'éruption d'une semaine.",
+   "Exact : contagiosité pendant une semaine avant l'éruption."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes relatives aux nouveau-nés infectés, lesquelles sont exactes ?",
+  "options": [
+   "Ils constituent une source de contagion.",
+   "Ils excrètent le virus pendant 6 mois.",
+   "Ils ne sont jamais contagieux.",
+   "Ils sont contagieux pendant une semaine seulement.",
+   "Le nouveau-né atteint de rubéole congénitale est une véritable éponge de virus."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : les nouveau-nés infectés sont source de contagion.",
+   "Exact : leur contagiosité dure 6 mois.",
+   "Faux : ils sont contagieux pendant 6 mois.",
+   "Faux : la semaine avant/après concerne les rubéoleux, pas les nouveau-nés infectés.",
+   "Exact : le nouveau-né atteint est décrit comme une véritable éponge de virus."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la transmission de la rubéole acquise ?",
+  "options": [
+   "La transmission se fait par voie aérienne.",
+   "La transmission est directe.",
+   "La transmission est indirecte par l'eau contaminée.",
+   "La transmission se fait par un vecteur arthropode.",
+   "La transmission se fait par voie sexuelle."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : la rubéole acquise se transmet par voie aérienne.",
+   "Exact : la transmission est directe.",
+   "Faux : ce n'est pas une transmission hydrique.",
+   "Faux : aucun vecteur arthropode n'est impliqué.",
+   "Faux : la voie sexuelle n'est pas un mode de transmission de la rubéole."
+  ]
+ },
+ {
+  "q": "Au sujet de la transmission de la rubéole congénitale, quelles affirmations sont correctes ?",
+  "options": [
+   "Elle se fait par voie transplacentaire.",
+   "Elle résulte d'une réinfection maternelle.",
+   "Elle se fait par l'allaitement maternel.",
+   "Elle se fait par voie aérienne post-natale.",
+   "Elle fait suite à une primo-infection maternelle."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Exact : la rubéole congénitale se transmet par voie transplacentaire.",
+   "Faux : la réinfection ne s'accompagne pas de virémie ni de contamination fœtale.",
+   "Faux : l'allaitement n'est pas un mode de transmission décrit.",
+   "Faux : la voie aérienne concerne la rubéole acquise, pas la congénitale.",
+   "Exact : elle est consécutive à une primo-infection de la femme enceinte, non à une réinfection."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les modes de transmission du virus de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Voie aérienne pour la rubéole acquise.",
+   "Voie féco-orale.",
+   "Voie transplacentaire pour la rubéole congénitale.",
+   "Transmission parentérale par le sang.",
+   "Transmission par les tiques."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Exact : la rubéole acquise se transmet par voie aérienne.",
+   "Faux : la voie féco-orale concerne les virus entériques, pas la rubéole.",
+   "Exact : la rubéole congénitale se transmet par voie transplacentaire.",
+   "Faux : la transmission parentérale n'est pas décrite pour la rubéole.",
+   "Faux : aucun arthropode vecteur pour la rubéole."
+  ]
+ },
+ {
+  "q": "Relatives à la répartition géographique de la rubéole, lesquelles sont vraies ?",
+  "options": [
+   "Elle est limitée à l'Afrique du Nord.",
+   "Elle sévit uniquement dans les zones tropicales.",
+   "Elle reste non rare au Maroc malgré les campagnes de vaccination.",
+   "Elle a été éradiquée dans le monde.",
+   "C'est une maladie cosmopolite."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : la répartition est mondiale.",
+   "Faux : cosmopolite signifie une répartition mondiale, pas tropicale exclusive.",
+   "Exact : malgré la vaccination, elle n'est pas rare au Maroc.",
+   "Faux : l'infection rubéolique n'est pas rare au Maroc et reste source de handicaps.",
+   "Exact : la rubéole est une maladie cosmopolite."
+  ]
+ },
+ {
+  "q": "Concernant le rythme épidémiologique de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "La maladie a disparu sous forme épidémique.",
+   "Les épidémies surviennent exclusivement en été.",
+   "Les poussées épidémiques surviennent surtout au printemps.",
+   "Des poussées épidémiques d'importance variable surviennent en fin d'hiver.",
+   "Des cas sporadiques surviennent pendant toute l'année."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les poussées épidémiques d'importance variable persistent.",
+   "Faux : les poussées sont de fin d'hiver et de printemps, pas d'été.",
+   "Exact : les poussées surviennent surtout au printemps.",
+   "Exact : poussées épidémiques en fin d'hiver.",
+   "Exact : cas sporadiques toute l'année."
+  ]
+ },
+ {
+  "q": "À propos du caractère contagieux de la rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Elle est toujours grave chez l'enfant.",
+   "Elle est le plus souvent bénigne dans sa forme acquise.",
+   "C'est une maladie contagieuse.",
+   "Elle n'est jamais inapparente.",
+   "C'est une maladie immunisante."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : la forme acquise de l'enfant est bénigne.",
+   "Exact : la forme acquise est le plus souvent bénigne, voire inapparente.",
+   "Exact : la rubéole est décrite comme contagieuse.",
+   "Faux : des formes inapparentes existent.",
+   "Exact : l'infection est immunisante."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'épidémiologie de la rubéole au Maroc, lesquelles sont exactes ?",
+  "options": [
+   "Elle est une source non négligeable de handicaps.",
+   "Malgré les campagnes de vaccination, l'infection n'est pas rare.",
+   "Le diagnostic est toujours facile.",
+   "La vaccination a fait disparaître tout cas congénital.",
+   "Elle a été éliminée du territoire marocain."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : elle reste une source non négligeable de handicaps.",
+   "Exact : l'infection rubéolique n'est pas rare au Maroc.",
+   "Faux : le diagnostic n'est pas toujours facile.",
+   "Faux : les cas persistent, d'où l'importance du dépistage.",
+   "Faux : elle n'est pas rare malgré les campagnes vaccinales."
+  ]
+ },
+ {
+  "q": "Concernant la transmission directe du virus de la rubéole, lesquelles sont vraies ?",
+  "options": [
+   "Elle se fait par l'intermédiaire d'un arthropode.",
+   "Elle se fait par du matériel souillé.",
+   "La voie aérienne en est une modalité.",
+   "Elle ne nécessite pas de vecteur intermédiaire.",
+   "La voie transplacentaire en est une modalité."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : aucun arthropode vecteur.",
+   "Faux : la transmission est directe, pas par matériel souillé.",
+   "Exact : voie aérienne pour la rubéole acquise.",
+   "Exact : la transmission est directe, sans vecteur.",
+   "Exact : voie transplacentaire pour la rubéole congénitale."
+  ]
+ },
+ {
+  "q": "Au sujet du réservoir strictement humain du virus de la rubéole, quelles affirmations sont correctes ?",
+  "options": [
+   "La lutte contre un réservoir animal est inutile.",
+   "Les chauves-souris sont le réservoir naturel.",
+   "Aucun animal ne constitue un réservoir.",
+   "Un réservoir murin entretient la circulation du virus.",
+   "La vaccination humaine peut interrompre la circulation virale."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : sans réservoir animal, aucune action vétérinaire n'est requise.",
+   "Faux : pas de réservoir chez les chauves-souris.",
+   "Exact : le réservoir est strictement humain.",
+   "Faux : aucun réservoir murin n'existe.",
+   "Exact : cibler la population humaine par la vaccination peut interrompre la transmission."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles caractérisent correctement la contagiosité ?",
+  "options": [
+   "Le sujet en incubation n'est jamais contagieux avant l'éruption.",
+   "La contagiosité est limitée à la phase d'éruption.",
+   "Le nouveau-né infecté est contagieux pendant 6 mois.",
+   "Le rubéoleux est contagieux une semaine avant l'éruption.",
+   "Le rubéoleux est contagieux une semaine après l'éruption."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la semaine qui précède l'éruption est contagieuse.",
+   "Faux : la contagiosité déborde largement la phase éruptive.",
+   "Exact : 6 mois de contagiosité pour le nouveau-né infecté.",
+   "Exact : contagiosité une semaine avant l'éruption.",
+   "Exact : contagiosité une semaine après l'éruption."
+  ]
+ },
+ {
+  "q": "Relatives aux poussées épidémiques de rubéole, lesquelles sont vraies ?",
+  "options": [
+   "Elles surviennent en automne.",
+   "Elles surviennent en fin d'hiver.",
+   "Elles sont d'importance variable.",
+   "Elles ont un caractère strictement annuel régulier.",
+   "Elles surviennent surtout au printemps."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : l'automne n'est pas la saison des poussées.",
+   "Exact : fin d'hiver.",
+   "Exact : poussées épidémiques d'importance variable.",
+   "Faux : l'importance est variable, sans régularité stricte décrite.",
+   "Exact : surtout au printemps."
+  ]
+ },
+ {
+  "q": "Concernant les cas sporadiques de rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Ils concernent uniquement les nouveau-nés.",
+   "Ils coexistent avec les poussées épidémiques saisonnières.",
+   "Ils surviennent pendant toute l'année.",
+   "Ils sont impossibles en dehors des épidémies.",
+   "Ils n'existent qu'au printemps."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : ils peuvent concerner tout sujet réceptif.",
+   "Exact : ils s'ajoutent aux poussées de fin d'hiver et de printemps.",
+   "Exact : cas sporadiques toute l'année.",
+   "Faux : les cas sporadiques existent en dehors des poussées.",
+   "Faux : ils surviennent toute l'année, pas seulement au printemps."
+  ]
+ },
+ {
+  "q": "À propos de la voie aérienne dans la rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "C'est la voie de transmission de la rubéole acquise.",
+   "L'infection est systémique à point de départ respiratoire.",
+   "C'est la voie de transmission de la rubéole congénitale.",
+   "Le virus pénètre par l'arbre respiratoire.",
+   "Le virus reste localisé au tractus respiratoire sans diffusion."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : la rubéole acquise se transmet par voie aérienne.",
+   "Exact : infection systémique à point de départ respiratoire (avec virémie).",
+   "Faux : la congénitale se transmet par voie transplacentaire.",
+   "Exact : la porte d'entrée est respiratoire.",
+   "Faux : il y a diffusion systémique avec virémie lors de la primo-infection."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la gravité de l'affection rubéolique, lesquelles sont exactes ?",
+  "options": [
+   "La gravité tient aux risques de malformations congénitales sévères.",
+   "La rubéole acquise est une maladie constamment mortelle.",
+   "La forme acquise est le plus souvent bénigne.",
+   "L'infection de la femme enceinte au 1er trimestre peut causer un syndrome polymalformatif fœtal.",
+   "La forme acquise de l'adulte est constamment grave."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la gravité est liée au risque tératogène.",
+   "Faux : l'évolution se fait habituellement vers la guérison sans séquelles.",
+   "Exact : forme acquise le plus souvent bénigne, voire inapparente.",
+   "Exact : primo-infection au 1er trimestre = risque de syndrome polymalformatif.",
+   "Faux : la forme acquise de l'adulte reste le plus souvent bénigne."
+  ]
+ },
+ {
+  "q": "Relatives à la notion de maladie immunisante, lesquelles sont vraies ?",
+  "options": [
+   "L'immunité post-infectieuse est de courte durée.",
+   "La réinfection s'accompagne d'une virémie comme la primo-infection.",
+   "Une réinfection reste possible malgré l'immunité.",
+   "La vaccination induit directement des IgG (phénomène de rebond).",
+   "L'infection rubéolique provoque une immunité définitive."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'immunité est définitive.",
+   "Faux : lors de la réinfection, il n'y a pas de virémie grâce aux anticorps résiduels.",
+   "Exact : une réinfection est possible.",
+   "Exact : après vaccination, synthèse directe d'IgG, dite phénomène de rebond.",
+   "Exact : l'infection provoque une immunité définitive."
+  ]
+ },
+ {
+  "q": "Concernant la transmission mère-enfant du virus de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Elle se fait lors de l'accouchement par voie basse.",
+   "Elle se fait par voie transplacentaire pendant la grossesse.",
+   "La réinfection maternelle expose le fœtus à la contamination.",
+   "Elle se fait par l'allaitement.",
+   "Elle expose au syndrome de rubéole congénitale."
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : la transmission est transplacentaire pendant la grossesse.",
+   "Exact : voie transplacentaire pour la rubéole congénitale.",
+   "Faux : la réinfection ne contamine pas le fœtus (absence de virémie et d'IgM).",
+   "Faux : l'allaitement n'est pas un mode de transmission.",
+   "Exact : risque de syndrome polymalformatif fœtal."
+  ]
+ },
+ {
+  "q": "À propos des sujets réceptifs à la rubéole, quelles affirmations sont correctes ?",
+  "options": [
+   "Les sujets vaccinés sont protégés.",
+   "La séropositivité IgG témoigne d'une immunité.",
+   "Les femmes enceintes séronégatives sont à risque de primo-infection.",
+   "Les sujets ayant fait une rubéole sont définitivement protégés contre toute réinfection.",
+   "Les enfants non vaccinés sont réceptifs."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le vaccin atténué est efficace et protecteur.",
+   "Exact : les IgG signent l'immunité (infection ancienne ou vaccination).",
+   "Exact : la séronégativité expose au risque de primo-infection gravidique.",
+   "Faux : une réinfection reste possible, mais sans virémie ni risque fœtal.",
+   "Exact : l'enfant non vacciné est réceptif au virus sauvage."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles illustrent le caractère cosmopolite de la rubéole ?",
+  "options": [
+   "Elle sévit sur tous les continents.",
+   "Sa répartition n'est pas limitée à une zone géographique.",
+   "Les cas sporadiques surviennent toute l'année dans le monde.",
+   "Elle n'existe qu'en zone intertropicale.",
+   "Elle est endémique d'une seule région du monde."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : cosmopolite = répartition mondiale.",
+   "Exact : aucune limitation géographique décrite.",
+   "Exact : les cas sporadiques annuels témoignent de cette diffusion mondiale.",
+   "Faux : la répartition est mondiale, pas intertropicale exclusive.",
+   "Faux : cosmopolite s'oppose à une endémie régionale."
+  ]
+ },
+ {
+  "q": "Relatives à la saisonnalité de la rubéole, lesquelles sont vraies ?",
+  "options": [
+   "La fin de l'hiver est une période de poussées.",
+   "L'automne concentre les poussées épidémiques.",
+   "Les cas sporadiques n'ont pas de saisonnalité stricte.",
+   "L'été est la saison des grandes épidémies.",
+   "Les poussées épidémiques culminent au printemps."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : fin d'hiver, début des poussées épidémiques.",
+   "Faux : l'automne n'est pas cité comme saison de poussées.",
+   "Exact : les cas sporadiques surviennent pendant toute l'année.",
+   "Faux : l'été n'est pas la saison des poussées.",
+   "Exact : les poussées surviennent surtout au printemps."
+  ]
+ },
+ {
+  "q": "Concernant la contagiosité comparée des différentes sources, lesquelles sont exactes ?",
+  "options": [
+   "Le nouveau-né infecté est contagieux bien plus longtemps que le rubéoleux.",
+   "Le nouveau-né infecté excrète le virus pendant 6 mois.",
+   "Les deux sources ont la même durée de contagiosité.",
+   "Le rubéoleux est plus longtemps contagieux que le nouveau-né infecté.",
+   "Le rubéoleux est contagieux 2 semaines au total (1 avant + 1 après l'éruption)."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : 6 mois contre 2 semaines.",
+   "Exact : durée d'excrétion virale du nouveau-né infecté.",
+   "Faux : 2 semaines versus 6 mois.",
+   "Faux : c'est l'inverse, le nouveau-né est contagieux 6 mois.",
+   "Exact : une semaine avant et une semaine après l'éruption."
+  ]
+ },
+ {
+  "q": "À propos de l'épidémiologie de la rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Transmission directe par voie aérienne et transplacentaire.",
+   "Maladie cosmopolite à recrudescence printanière.",
+   "Transmission vectorielle par les moustiques.",
+   "Réservoir strictement humain.",
+   "Réservoir animal domestique."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : les deux voies de transmission directe.",
+   "Exact : cosmopolite, poussées surtout au printemps.",
+   "Faux : aucun vecteur arthropode.",
+   "Exact : aucun réservoir animal.",
+   "Faux : réservoir strictement humain."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles sont des conséquences épidémiologiques du réservoir strictement humain ?",
+  "options": [
+   "Il n'y a pas de lutte anti-vectorielle à mener.",
+   "La vaccination des animaux est inutile.",
+   "La démoustication est une mesure de prévention.",
+   "La dératisation réduit la circulation du virus.",
+   "L'éradication est théoriquement possible par la vaccination."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : aucun vecteur, donc pas de lutte anti-vectorielle.",
+   "Exact : les animaux n'étant pas réservoir, leur vaccination est sans objet.",
+   "Faux : aucun moustique vecteur.",
+   "Faux : aucun rongeur réservoir.",
+   "Exact : sans réservoir animal, la vaccination humaine peut interrompre la transmission."
+  ]
+ },
+ {
+  "q": "Relatives à la persistance de la rubéole au Maroc, lesquelles sont vraies ?",
+  "options": [
+   "Les campagnes de vaccination n'ont pas fait disparaître l'infection.",
+   "La maladie est éradiquée au Maroc.",
+   "Elle reste une source non négligeable de handicaps.",
+   "Le dépistage prénatal reste justifié.",
+   "La vaccination est inutile car la maladie est bénigne."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'infection n'est pas rare malgré les campagnes.",
+   "Faux : elle n'est pas rare au Maroc.",
+   "Exact : source non négligeable de handicaps (formes congénitales).",
+   "Exact : d'où l'obligation du dépistage sérologique en début de grossesse.",
+   "Faux : la vaccination prévient les formes congénitales graves."
+  ]
+ },
+ {
+  "q": "Concernant la transmission aérienne de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Le contage est une circonstance de diagnostic.",
+   "Elle nécessite un contact avec du sang contaminé.",
+   "Elle concerne la rubéole acquise.",
+   "Elle concerne la rubéole congénitale.",
+   "Elle se fait par les mains sales."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Exact : le contage (contact) est une circonstance de diagnostic biologique.",
+   "Faux : pas de transmission sanguine décrite.",
+   "Exact : la rubéole acquise se transmet par voie aérienne.",
+   "Faux : la congénitale est transplacentaire.",
+   "Faux : pas de transmission manu-portée décrite."
+  ]
+ },
+ {
+  "q": "À propos des deux formes épidémiologiques de la rubéole, quelles affirmations sont correctes ?",
+  "options": [
+   "Poussées épidémiques en fin d'hiver et au printemps.",
+   "Disparition des cas sporadiques.",
+   "Cas sporadiques toute l'année.",
+   "Les poussées sont d'importance variable.",
+   "Épidémies estivales exclusives."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : poussées en fin d'hiver et surtout au printemps.",
+   "Faux : les cas sporadiques persistent toute l'année.",
+   "Exact : cas sporadiques pendant toute l'année.",
+   "Exact : poussées épidémiques d'importance variable.",
+   "Faux : pas d'épidémies estivales décrites."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les sujets à risque en épidémiologie de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "La femme enceinte séronégative est à risque de primo-infection.",
+   "L'enfant non vacciné est réceptif avant de rencontrer le virus sauvage.",
+   "La femme enceinte réinfectée expose son fœtus.",
+   "Le sujet vacciné est à risque de forme grave.",
+   "Le nouveau-né de mère immune est à risque de rubéole congénitale."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : séronégativité = risque de primo-infection gravidique.",
+   "Exact : d'où la politique de vaccination avant l'âge d'un an.",
+   "Faux : la réinfection ne contamine pas le fœtus.",
+   "Faux : le vaccin est efficace et protecteur.",
+   "Faux : l'immunité maternelle protège."
+  ]
+ },
+ {
+  "q": "Relatives à la notion de contage rubéolique, lesquelles sont vraies ?",
+  "options": [
+   "Il justifie une sérologie chez la femme enceinte exposée.",
+   "Le contage est une circonstance de diagnostic biologique.",
+   "Le contage n'a aucun intérêt diagnostique.",
+   "Tout contage impose un isolement viral.",
+   "Le contage concerne l'exposition à un rubéoleux contagieux."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : exposition d'une femme enceinte = bilan sérologique.",
+   "Exact : le contage figure parmi les circonstances de diagnostic.",
+   "Faux : le contage est une indication du diagnostic biologique.",
+   "Faux : le diagnostic direct par isolement est rarement utilisé et fastidieux.",
+   "Exact : exposition à une source contagieuse (rubéoleux, nouveau-né infecté)."
+  ]
+ },
+ {
+  "q": "Concernant la circulation du virus de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Les poussées printanières témoignent d'une circulation persistante.",
+   "La vaccination des enfants avant un an vise à supprimer les épidémies.",
+   "Elle est entretenue par un réservoir animal.",
+   "Elle est entretenue par les sujets réceptifs non vaccinés.",
+   "La vaccination n'a aucun effet sur la circulation virale."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : les poussées saisonnières signent la persistance de la circulation.",
+   "Exact : vacciner avant un an protège avant la rencontre avec le virus sauvage et supprime les épidémies.",
+   "Faux : le réservoir est strictement humain.",
+   "Exact : les réceptifs entretiennent la transmission interhumaine.",
+   "Faux : la vaccination réduit la circulation du virus."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'incubation de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Elle est de moins d'une semaine.",
+   "Elle est de 2 à 3 jours.",
+   "Elle dure de 14 à 20 jours.",
+   "Elle dépasse un mois.",
+   "Elle est silencieuse sur le plan clinique."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : elle est bien plus longue, 14 à 20 jours.",
+   "Faux : 2 à 3 jours ne correspond pas à l'incubation.",
+   "Exact : l'incubation de la rubéole est de 14 à 20 jours.",
+   "Faux : elle ne dépasse pas 20 jours.",
+   "Exact : par définition, l'incubation précède les signes cliniques."
+  ]
+ },
+ {
+  "q": "À propos de la phase d'invasion de la rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Elle est brève, de moins de 2 jours.",
+   "Elle s'accompagne d'un énanthème constant.",
+   "Elle réalise un syndrome infectieux banal.",
+   "Elle est discrète.",
+   "Elle dure une semaine avec forte fièvre."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'invasion est brève, moins de 2 jours.",
+   "Faux : l'éruption ne s'accompagne ni de prurit ni d'énanthème.",
+   "Exact : syndrome infectieux banal.",
+   "Exact : elle est discrète.",
+   "Faux : elle est brève et discrète, sans fièvre intense prolongée."
+  ]
+ },
+ {
+  "q": "Concernant la phase d'état de la rubéole, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Elle associe toux, coryza et conjonctivite (tria de la rougeole).",
+   "Une plasmocytose est observée.",
+   "Elle dure plusieurs semaines.",
+   "Elle associe éruption, fièvre et adénopathies.",
+   "Elle comporte un signe de Koplik."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : toux-coryza-conjonctivite évoquent la rougeole, pas la rubéole.",
+   "Exact : la plasmocytose fait partie de la phase d'état.",
+   "Faux : l'évolution se fait vers la guérison en quelques jours.",
+   "Exact : éruption, fièvre, adénopathies caractérisent la phase d'état.",
+   "Faux : le signe de Koplik est propre à la rougeole."
+  ]
+ },
+ {
+  "q": "Parmi les signes suivants, lesquels appartiennent à la phase d'état de la primo-infection rubéolique ?",
+  "options": [
+   "L'énanthème.",
+   "La fièvre.",
+   "L'éruption.",
+   "Les adénopathies.",
+   "Le prurit intense."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : il n'y a pas d'énanthème dans la rubéole.",
+   "Exact : la fièvre accompagne la phase d'état.",
+   "Exact : l'éruption est un signe de la phase d'état.",
+   "Exact : les adénopathies font partie du tableau.",
+   "Faux : l'éruption rubéolique ne s'accompagne pas de prurit."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'éruption rubéolique au premier jour ?",
+  "options": [
+   "Elle s'accompagne d'un prurit.",
+   "Elle a un aspect morbiliforme.",
+   "Elle est maculeuse.",
+   "Elle prédomine d'emblée aux plis.",
+   "Elle est d'emblée confluente et scarlatiniforme."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : aucun prurit ne l'accompagne.",
+   "Exact : aspect morbiliforme au premier jour.",
+   "Exact : au 1er jour, éruption maculeuse.",
+   "Faux : la description retient l'aspect maculeux morbiliforme, sans topographie de plis.",
+   "Faux : l'aspect scarlatiniforme avec confluence correspond au 2e jour."
+  ]
+ },
+ {
+  "q": "Au sujet du deuxième jour de l'éruption rubéolique, quelles affirmations sont correctes ?",
+  "options": [
+   "L'aspect reste maculeux morbiliforme.",
+   "L'aspect devient scarlatiniforme.",
+   "Un énanthème apparaît.",
+   "On observe une confluence des lésions.",
+   "L'éruption disparaît sans séquelles."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : l'aspect morbiliforme correspond au 1er jour.",
+   "Exact : aspect scarlatiniforme au deuxième jour.",
+   "Faux : aucun énanthème dans la rubéole.",
+   "Exact : au 2e jour, confluence des lésions.",
+   "Faux : la disparition sans séquelles survient au 3e jour."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le troisième jour de l'éruption, lesquelles sont exactes ?",
+  "options": [
+   "L'éruption laisse une desquamation importante.",
+   "Les lésions deviennent purpuriques.",
+   "L'éruption disparaît.",
+   "La disparition se fait sans séquelles.",
+   "Un prurit résiduel persiste plusieurs jours."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : aucune desquamation séquellaire décrite.",
+   "Faux : pas d'évolution purpurique de l'éruption.",
+   "Exact : au 3e jour, disparition de l'éruption.",
+   "Exact : disparition sans séquelles.",
+   "Faux : aucun prurit à aucun stade."
+  ]
+ },
+ {
+  "q": "Relatives aux caractères négatifs de l'éruption rubéolique, lesquelles sont vraies ?",
+  "options": [
+   "Le prurit est le signe d'appel.",
+   "Elle ne s'accompagne pas de prurit.",
+   "Elle ne s'accompagne pas d'énanthème.",
+   "Elle s'accompagne d'un prurit féroce.",
+   "Un énanthème buccal est constant."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : le prurit est absent, ce n'est pas un signe d'appel.",
+   "Exact : aucun prurit ne l'accompagne.",
+   "Exact : aucun énanthème ne l'accompagne.",
+   "Faux : l'absence de prurit est caractéristique.",
+   "Faux : pas d'énanthème dans la rubéole."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution chronologique de l'éruption rubéolique, lesquelles sont exactes ?",
+  "options": [
+   "2e jour : confluence des lésions d'aspect scarlatiniforme.",
+   "1er jour : aspect scarlatiniforme d'emblée.",
+   "2e jour : disparition complète.",
+   "1er jour : éruption maculeuse d'aspect morbiliforme.",
+   "3e jour : disparition sans séquelles."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : J2 confluence scarlatiniforme.",
+   "Faux : l'aspect scarlatiniforme correspond au 2e jour.",
+   "Faux : la disparition survient au 3e jour.",
+   "Exact : J1 maculeux morbiliforme.",
+   "Exact : J3 disparition sans séquelles."
+  ]
+ },
+ {
+  "q": "À propos des formes inapparentes de rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Elles n'existent pas.",
+   "Elles sont toujours suivies de complications.",
+   "Il existe des formes inapparentes sans éruption.",
+   "Elles confèrent une immunité définitive.",
+   "Elles sont contagieuses comme les formes éruptives."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les formes inapparentes sont décrites.",
+   "Faux : l'évolution est habituellement sans complications.",
+   "Exact : des formes inapparentes sans éruption existent.",
+   "Exact : l'infection, même inapparente, est immunisante.",
+   "Exact : toute infection, même inapparente, peut être contagieuse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les fausses rubéoles, lesquelles sont exactes ?",
+  "options": [
+   "Le diagnostic clinique n'est pas toujours facile.",
+   "Toute éruption morbiliforme est une rubéole.",
+   "Les fausses rubéoles n'existent pas.",
+   "Il existe des fausses rubéoles.",
+   "La sérologie permet de redresser le diagnostic."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : le diagnostic n'est pas toujours facile.",
+   "Faux : d'où la notion de fausses rubéoles.",
+   "Faux : elles sont mentionnées dans le cours.",
+   "Exact : des fausses rubéoles sont décrites.",
+   "Exact : la sérologie (IgM, avidité des IgG) aide au diagnostic."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'évolution de la rubéole acquise ?",
+  "options": [
+   "Elle se fait habituellement vers une guérison sans séquelles.",
+   "L'évolution est constamment mortelle.",
+   "Les séquelles cutanées sont la règle.",
+   "La guérison survient en quelques jours.",
+   "Les complications sont rares."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : guérison sans séquelles habituelle.",
+   "Faux : la forme acquise est le plus souvent bénigne.",
+   "Faux : l'éruption disparaît sans séquelles.",
+   "Exact : évolution en quelques jours.",
+   "Exact : complications rares."
+  ]
+ },
+ {
+  "q": "Au sujet des complications de la rubéole acquise, quelles affirmations sont correctes ?",
+  "options": [
+   "Les arthralgies en font partie.",
+   "L'hépatite fulminante est la règle.",
+   "La pneumonie interstitielle est constante.",
+   "L'encéphalite en fait partie.",
+   "Le purpura en fait partie."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : les arthralgies sont une complication rare décrite.",
+   "Faux : l'hépatite concerne la rubéole congénitale.",
+   "Faux : la pneumonie concerne le nouveau-né atteint in utero, pas la forme acquise.",
+   "Exact : l'encéphalite est une complication rare.",
+   "Exact : le purpura figure parmi les complications rares."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles décrivent correctement l'immunité post-rubéolique ?",
+  "options": [
+   "L'infection provoque une immunité définitive.",
+   "La réinfection est impossible.",
+   "L'immunité est de courte durée.",
+   "Une réinfection est possible.",
+   "Les IgG signent l'immunité."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : immunité définitive après infection.",
+   "Faux : la réinfection est possible.",
+   "Faux : l'immunité est définitive.",
+   "Exact : une réinfection reste possible.",
+   "Exact : les IgG sont les signes d'immunité, plus tardives."
+  ]
+ },
+ {
+  "q": "Relatives à la réinfection rubéolique, lesquelles sont vraies ?",
+  "options": [
+   "Il y a absence de virémie grâce aux anticorps résiduels.",
+   "C'est un 2e contact avec le virus.",
+   "Il y a une virémie identique à la primo-infection.",
+   "Le virus reste à la porte d'entrée.",
+   "La présentation est la même qu'une primo-infection."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : pas de virémie en raison des anticorps résiduels.",
+   "Exact : la réinfection est le 2e contact avec le virus.",
+   "Faux : l'absence de virémie caractérise la réinfection.",
+   "Exact : le virus reste à la porte d'entrée.",
+   "Exact : même présentation clinique que la primo-infection."
+  ]
+ },
+ {
+  "q": "Concernant la réinfection et la grossesse, lesquelles sont exactes ?",
+  "options": [
+   "Il n'y a pas de contamination du fœtus.",
+   "La réinfection s'accompagne d'une virémie maternelle.",
+   "Il y a absence d'IgM lors d'une réinfection.",
+   "La réinfection expose au syndrome polymalformatif.",
+   "Les IgM sont toujours présentes lors d'une réinfection."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Exact : pas de contamination fœtale.",
+   "Faux : pas de virémie lors de la réinfection.",
+   "Exact : absence d'IgM lors de la réinfection.",
+   "Faux : seule la primo-infection expose au risque tératogène.",
+   "Faux : les IgM sont absentes."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic différentiel clinique de l'éruption rubéolique, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "L'aspect morbiliforme du 1er jour peut évoquer la rougeole.",
+   "Le prurit intense est en faveur de la rubéole.",
+   "La présence d'un énanthème confirme la rubéole.",
+   "L'absence de prurit et d'énanthème caractérise la rubéole.",
+   "L'absence de signe de Koplik oriente vers la rubéole."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : l'aspect morbiliforme initial ressemble à la rougeole.",
+   "Faux : le prurit est absent dans la rubéole.",
+   "Faux : l'énanthème est absent dans la rubéole.",
+   "Exact : ni prurit ni énanthème dans la rubéole.",
+   "Exact : le signe de Koplik est propre à la rougeole, son absence oriente vers la rubéole."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la primo-infection rubéolique, lesquelles sont exactes ?",
+  "options": [
+   "Phase d'état : éruption, fièvre, adénopathies, plasmocytose.",
+   "Guérison sans séquelles en quelques jours.",
+   "Éruption persistant plusieurs semaines.",
+   "Incubation de 14 à 20 jours.",
+   "Invasion brève et discrète de moins de 2 jours."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : les quatre éléments de la phase d'état.",
+   "Exact : évolution habituelle vers la guérison.",
+   "Faux : l'éruption disparaît au 3e jour sans séquelles.",
+   "Exact : incubation 14 à 20 jours.",
+   "Exact : invasion brève (< 2 jours) et discrète."
+  ]
+ },
+ {
+  "q": "Relatives à la fièvre de la rubéole acquise, lesquelles sont vraies ?",
+  "options": [
+   "Elle dure plusieurs semaines.",
+   "Elle est constamment très élevée et prolongée.",
+   "Elle fait partie de la phase d'état.",
+   "Elle est absente dans les formes inapparentes.",
+   "Elle s'intègre à un syndrome infectieux banal lors de l'invasion."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'évolution se fait en quelques jours.",
+   "Faux : l'invasion est discrète, sans fièvre intense prolongée décrite.",
+   "Exact : la fièvre fait partie de la phase d'état.",
+   "Exact : les formes inapparentes sont sans éruption ni tableau franc.",
+   "Exact : syndrome infectieux banal lors de l'invasion brève."
+  ]
+ },
+ {
+  "q": "Concernant les adénopathies de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Elles font partie de la phase d'état.",
+   "Elles accompagnent l'éruption et la fièvre.",
+   "Elles sont le seul signe de la maladie.",
+   "Elles sont absentes dans la rubéole.",
+   "Elles persistent des mois après la guérison."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : adénopathies citées dans la phase d'état.",
+   "Exact : triade éruption-fièvre-adénopathies (+ plasmocytose).",
+   "Faux : elles s'intègrent à la phase d'état complète.",
+   "Faux : elles font partie du tableau.",
+   "Faux : guérison sans séquelles en quelques jours."
+  ]
+ },
+ {
+  "q": "À propos de la plasmocytose au cours de la rubéole, quelles affirmations sont correctes ?",
+  "options": [
+   "Elle est un signe de la phase d'invasion.",
+   "Elle est observée lors de la phase d'état.",
+   "Elle accompagne l'éruption, la fièvre et les adénopathies.",
+   "Elle signe une surinfection bactérienne.",
+   "Elle n'existe jamais dans la rubéole."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : l'invasion est un syndrome infectieux banal, sans plasmocytose décrite.",
+   "Exact : la plasmocytose fait partie de la phase d'état.",
+   "Exact : elle complète le tableau de la phase d'état.",
+   "Faux : c'est un élément du tableau viral, pas un signe de surinfection.",
+   "Faux : elle est citée parmi les signes de la phase d'état."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles caractérisent la bénignité de la rubéole acquise ?",
+  "options": [
+   "Éruption disparaissant au 3e jour sans séquelles.",
+   "Hospitalisation systématique requise.",
+   "Guérison sans séquelles en quelques jours.",
+   "Complications rares.",
+   "Forme le plus souvent bénigne, voire inapparente."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : disparition de l'éruption au 3e jour sans séquelles.",
+   "Faux : la bénignité ne justifie pas d'hospitalisation systématique.",
+   "Exact : évolution vers la guérison en quelques jours.",
+   "Exact : arthralgies, encéphalite, purpura restent rares.",
+   "Exact : la forme acquise est le plus souvent bénigne."
+  ]
+ },
+ {
+  "q": "Relatives aux arthralgies post-rubéoliques, lesquelles sont vraies ?",
+  "options": [
+   "Elles sont constantes chez l'enfant.",
+   "Elles sont plus fréquentes après vaccination chez l'adulte.",
+   "Elles n'existent pas dans la rubéole.",
+   "Elles font partie des complications rares.",
+   "Elles sont une complication fréquente et grave."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : elles sont rares, non constantes.",
+   "Exact : inconvénient du vaccin, surtout chez les adultes.",
+   "Faux : elles sont décrites comme complication rare.",
+   "Exact : les arthralgies sont une complication rare de la maladie.",
+   "Faux : elles restent rares."
+  ]
+ },
+ {
+  "q": "Concernant l'encéphalite rubéolique, lesquelles sont exactes ?",
+  "options": [
+   "C'est une complication rare de la rubéole acquise.",
+   "Elle est constante dans les formes de l'adulte.",
+   "Elle est la complication la plus fréquente.",
+   "Elle fait partie des complications citées avec les arthralgies et le purpura.",
+   "Elle n'a jamais été décrite."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Exact : l'encéphalite est une complication rare.",
+   "Faux : elle est rare, non constante.",
+   "Faux : les complications sont rares dans leur ensemble.",
+   "Exact : triade des complications rares : arthralgies, encéphalite, purpura.",
+   "Faux : elle est citée parmi les complications rares."
+  ]
+ },
+ {
+  "q": "À propos du purpura au cours de la rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "C'est une complication rare.",
+   "Il fait partie des complications citées de la rubéole acquise.",
+   "C'est un signe constant de la phase d'état.",
+   "Il s'agit d'une manifestation bénigne constante.",
+   "Il est présent dans tous les cas."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : le purpura est une complication rare.",
+   "Exact : cité avec les arthralgies et l'encéphalite.",
+   "Faux : la phase d'état comporte éruption, fièvre, adénopathies, plasmocytose.",
+   "Faux : c'est une complication rare, non un signe constant.",
+   "Faux : les complications sont rares."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la réinfection, lesquelles sont exactes ?",
+  "options": [
+   "Même présentation clinique qu'une primo-infection.",
+   "Présence d'une virémie intense.",
+   "Virus restant à la porte d'entrée.",
+   "Absence de virémie.",
+   "Absence d'IgM."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : même présentation que la primo-infection.",
+   "Faux : l'absence de virémie caractérise la réinfection.",
+   "Exact : le virus reste à la porte d'entrée.",
+   "Exact : pas de virémie grâce aux anticorps résiduels.",
+   "Exact : absence d'IgM."
+  ]
+ },
+ {
+  "q": "Relatives aux anticorps résiduels lors d'une réinfection, lesquelles sont vraies ?",
+  "options": [
+   "Ils limitent le virus à la porte d'entrée.",
+   "Ils favorisent la contamination fœtale.",
+   "Ils sont absents.",
+   "Ils empêchent la virémie.",
+   "Ils expliquent l'absence d'IgM."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : le virus reste à la porte d'entrée.",
+   "Faux : il n'y a pas de contamination fœtale lors d'une réinfection.",
+   "Faux : ils sont présents, issus de la primo-infection.",
+   "Exact : les anticorps résiduels de la primo-infection empêchent la virémie.",
+   "Exact : la réponse secondaire ne produit pas d'IgM."
+  ]
+ },
+ {
+  "q": "Concernant la contagiosité des formes inapparentes, lesquelles sont exactes ?",
+  "options": [
+   "Elles participent à la diffusion du virus.",
+   "Seules les formes éruptives sont contagieuses.",
+   "Les formes inapparentes sont sans aucun risque épidémique.",
+   "Le diagnostic sérologique les ignore.",
+   "Les formes inapparentes existent."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Exact : toute infection peut entretenir la circulation virale.",
+   "Faux : les formes inapparentes participent à la transmission.",
+   "Faux : elles contribuent à la diffusion.",
+   "Faux : la sérologie (IgM) peut les diagnostiquer.",
+   "Exact : formes inapparentes sans éruption décrites."
+  ]
+ },
+ {
+  "q": "À propos de la durée totale de la maladie rubéolique acquise, quelles affirmations sont correctes ?",
+  "options": [
+   "Invasion de moins de 2 jours.",
+   "Convalescence de plusieurs mois.",
+   "Incubation de 14 à 20 jours.",
+   "Guérison en quelques jours.",
+   "Éruption disparaissant au 3e jour."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : invasion brève, moins de 2 jours.",
+   "Faux : pas de convalescence prolongée décrite.",
+   "Exact : 14 à 20 jours d'incubation.",
+   "Exact : guérison sans séquelles en quelques jours.",
+   "Exact : disparition de l'éruption au 3e jour."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles opposent correctement primo-infection et réinfection ?",
+  "options": [
+   "La réinfection est toujours asymptomatique.",
+   "Les IgM sont présentes lors de la primo-infection, absentes lors de la réinfection.",
+   "La primo-infection s'accompagne d'une virémie, pas la réinfection.",
+   "La présentation clinique diffère totalement entre les deux.",
+   "Seule la primo-infection expose le fœtus à la contamination."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : même présentation qu'une primo-infection.",
+   "Exact : IgM = signe d'infection primaire, absentes en réinfection.",
+   "Exact : virémie lors de la primo-infection, absente lors de la réinfection.",
+   "Faux : même présentation clinique.",
+   "Exact : pas de contamination fœtale en cas de réinfection."
+  ]
+ },
+ {
+  "q": "Relatives au syndrome infectieux banal de l'invasion, lesquelles sont vraies ?",
+  "options": [
+   "Il s'accompagne d'une éruption.",
+   "Il précède la phase d'état.",
+   "Il est bref et discret.",
+   "Il dure moins de 2 jours.",
+   "Il est intense et prolongé."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : l'éruption appartient à la phase d'état.",
+   "Exact : l'invasion précède la phase d'état.",
+   "Exact : invasion brève et discrète.",
+   "Exact : moins de 2 jours.",
+   "Faux : elle est discrète, non intense."
+  ]
+ },
+ {
+  "q": "Concernant l'éruption rubéolique et ses diagnostics différentiels, lesquelles sont exactes ?",
+  "options": [
+   "Un prurit intense oriente vers la rubéole.",
+   "L'absence de prurit et d'énanthème est caractéristique.",
+   "La confluence scarlatiniforme du 2e jour évoque la scarlatine.",
+   "L'aspect morbiliforme initial évoque la rougeole.",
+   "La présence d'un signe de Koplik confirme la rubéole."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le prurit est absent dans la rubéole.",
+   "Exact : ni prurit ni énanthème.",
+   "Exact : scarlatiniforme = aspect de scarlatine au 2e jour.",
+   "Exact : morbiliforme = aspect de rougeole au 1er jour.",
+   "Faux : le signe de Koplik est propre à la rougeole."
+  ]
+ },
+ {
+  "q": "À propos de la disparition de l'éruption, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Elle s'accompagne d'une desquamation en lambeaux.",
+   "Elle est suivie d'une pigmentation résiduelle.",
+   "Elle survient au 3e jour.",
+   "Elle se fait sans séquelles.",
+   "Elle laisse des cicatrices dépigmentées."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : pas de desquamation séquellaire.",
+   "Faux : disparition sans séquelles.",
+   "Exact : disparition au 3e jour.",
+   "Exact : sans séquelles.",
+   "Faux : aucune cicatrice décrite."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'immunité définitive, lesquelles sont exactes ?",
+  "options": [
+   "Elle fait suite à l'infection rubéolique.",
+   "La réinfection est sans danger pour le fœtus.",
+   "Elle disparaît après quelques mois.",
+   "Elle est uniquement humorale sans mémoire.",
+   "Elle n'empêche pas totalement une réinfection."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : l'infection provoque une immunité définitive.",
+   "Exact : pas de virémie ni de contamination fœtale en réinfection.",
+   "Faux : elle est définitive.",
+   "Faux : l'immunité définitive implique une mémoire immunitaire.",
+   "Exact : une réinfection reste possible."
+  ]
+ },
+ {
+  "q": "Relatives à la clinique de la rubéole de l'adulte, lesquelles sont vraies ?",
+  "options": [
+   "Elle s'accompagne toujours d'une encéphalite.",
+   "Elle est le plus souvent bénigne comme chez l'enfant.",
+   "Elle est constamment grave.",
+   "Les arthralgies y sont une complication rare possible.",
+   "Les formes inapparentes n'existent pas chez l'adulte."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : l'encéphalite est une complication rare.",
+   "Exact : rubéole de l'enfant et de l'adulte : bénigne.",
+   "Faux : la forme acquise est le plus souvent bénigne.",
+   "Exact : arthralgies parmi les complications rares.",
+   "Faux : les formes inapparentes existent."
+  ]
+ },
+ {
+  "q": "Concernant la phase d'état dans sa globalité, lesquelles sont exactes ?",
+  "options": [
+   "Elle dure plusieurs semaines.",
+   "Elle associe quatre éléments : éruption, fièvre, adénopathies, plasmocytose.",
+   "L'éruption y évolue sur trois jours.",
+   "Elle s'accompagne d'un énanthème constant.",
+   "Elle est précédée d'une invasion brève et discrète."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : guérison en quelques jours.",
+   "Exact : les quatre éléments de la phase d'état.",
+   "Exact : J1 morbiliforme, J2 scarlatiniforme, J3 disparition.",
+   "Faux : aucun énanthème.",
+   "Exact : invasion de moins de 2 jours avant la phase d'état."
+  ]
+ },
+ {
+  "q": "À propos des formes cliniques de la rubéole, quelles affirmations sont correctes ?",
+  "options": [
+   "Il n'existe qu'une seule forme clinique.",
+   "La rubéole acquise est bénigne.",
+   "La rubéole congénitale est grave.",
+   "La forme congénitale est bénigne.",
+   "La forme acquise est toujours inapparente."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : deux formes cliniques : acquise et congénitale.",
+   "Exact : rubéole acquise de l'enfant et de l'adulte : bénigne.",
+   "Exact : la rubéole congénitale est une affection grave.",
+   "Faux : la rubéole congénitale est grave (tératogène).",
+   "Faux : elle est le plus souvent bénigne, voire inapparente (pas toujours)."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles résument correctement la primo-infection ?",
+  "options": [
+   "Maladie immunisante.",
+   "Absence d'immunité après guérison.",
+   "Évolution le plus souvent bénigne.",
+   "Maladie éruptive contagieuse.",
+   "Maladie constamment grave."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'infection est immunisante.",
+   "Faux : l'infection provoque une immunité définitive.",
+   "Exact : forme acquise le plus souvent bénigne.",
+   "Exact : maladie éruptive, contagieuse.",
+   "Faux : elle est le plus souvent bénigne."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la survenue de la rubéole congénitale, lesquelles sont exactes ?",
+  "options": [
+   "Elle survient surtout lorsque l'infection a lieu au 1er trimestre.",
+   "Elle survient après une vaccination maternelle.",
+   "Elle est consécutive à une réinfection maternelle.",
+   "Elle est liée au passage du virus vers le fœtus.",
+   "Elle est consécutive à une primo-infection maternelle."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : l'atteinte primaire survient au cours du 1er trimestre.",
+   "Faux : le vaccin est un virus atténué sans pouvoir tératogène décrit ici.",
+   "Faux : la réinfection ne s'accompagne ni de virémie ni de contamination fœtale.",
+   "Exact : le virus passe vers le fœtus où il se fixe et se multiplie.",
+   "Exact : la rubéole congénitale fait suite à une primo-infection, non à une réinfection."
+  ]
+ },
+ {
+  "q": "À propos du mécanisme de l'atteinte fœtale, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Le virus ne franchit jamais le placenta.",
+   "Le placenta constitue une barrière infranchissable.",
+   "L'infection fœtale est transitoire et sans conséquence.",
+   "Le virus se fixe au fœtus et s'y multiplie.",
+   "Il crée une infection persistante chez le fœtus."
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le virus franchit le placenta par voie transplacentaire.",
+   "Faux : le passage transplacentaire est le mécanisme de la rubéole congénitale.",
+   "Faux : l'infection persistante est à l'origine des malformations.",
+   "Exact : le virus va se fixer et se multiplier chez le fœtus.",
+   "Exact : il crée une infection persistante."
+  ]
+ },
+ {
+  "q": "Concernant la tétrade de Gregg, lesquelles de ces affirmations sont vraies ?",
+  "options": [
+   "Elle comporte quatre caractères.",
+   "Elle comprend le retard mental.",
+   "Elle comprend la surdité bilatérale.",
+   "Elle comprend la cataracte bilatérale.",
+   "Elle comporte un énanthème buccal."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les caractères de la rubéole congénitale sont au nombre de quatre.",
+   "Exact : retard mental, 3e élément.",
+   "Exact : surdité bilatérale, 2e élément.",
+   "Exact : cataracte bilatérale, 1er élément.",
+   "Faux : aucun énanthème dans la rubéole, ni dans la tétrade."
+  ]
+ },
+ {
+  "q": "Parmi les éléments suivants, lesquels font partie de la tétrade de Gregg ?",
+  "options": [
+   "La cataracte bilatérale.",
+   "Les malformations cardiaques.",
+   "La surdité bilatérale.",
+   "La microphtalmie unilatérale isolée.",
+   "Le retard mental."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : cataracte bilatérale, élément de la tétrade.",
+   "Exact : malformations cardiaques, élément de la tétrade.",
+   "Exact : surdité bilatérale, élément de la tétrade.",
+   "Faux : la tétrade retient la cataracte bilatérale, pas une microphtalmie unilatérale isolée.",
+   "Exact : retard mental, élément de la tétrade."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la cataracte de la rubéole congénitale ?",
+  "options": [
+   "Elle n'existe pas dans la rubéole congénitale.",
+   "Elle est bilatérale.",
+   "Elle fait partie de la tétrade de Gregg.",
+   "Elle est unilatérale.",
+   "Elle est la seule atteinte oculaire possible."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : elle fait partie de la tétrade de Gregg.",
+   "Exact : la cataracte est bilatérale dans la tétrade.",
+   "Exact : elle en est un des quatre caractères.",
+   "Faux : elle est décrite comme bilatérale.",
+   "Faux : des atteintes oculaires sont possibles au-delà (13-16 semaines : atteinte oculaire)."
+  ]
+ },
+ {
+  "q": "Au sujet de la surdité de la rubéole congénitale, quelles affirmations sont correctes ?",
+  "options": [
+   "Elle est bilatérale.",
+   "Elle n'existe que dans les formes acquises.",
+   "Elle est unilatérale.",
+   "Elle est le seul risque après 16 semaines avec l'atteinte oculaire.",
+   "Elle fait partie de la tétrade de Gregg."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : surdité bilatérale dans la tétrade.",
+   "Faux : c'est une atteinte de la forme congénitale.",
+   "Faux : elle est bilatérale.",
+   "Exact : après 16 semaines, risque minime d'atteintes de l'audition ou oculaire.",
+   "Exact : élément de la tétrade de Gregg."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le retard mental, lesquelles sont exactes ?",
+  "options": [
+   "Il résulte de l'atteinte du 1er trimestre.",
+   "Il est réversible après traitement antiviral.",
+   "Il n'existe pas dans la rubéole congénitale.",
+   "Il est la conséquence d'une infection persistante du fœtus.",
+   "Il fait partie de la tétrade de Gregg."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : la tétrade caractérise l'atteinte primaire du 1er trimestre.",
+   "Faux : aucune réversibilité décrite, c'est une malformation/séquelle.",
+   "Faux : il fait partie des quatre caractères.",
+   "Exact : l'infection persistante du fœtus est le mécanisme des atteintes.",
+   "Exact : retard mental, élément de la tétrade."
+  ]
+ },
+ {
+  "q": "Relatives aux malformations cardiaques de la rubéole congénitale, lesquelles sont vraies ?",
+  "options": [
+   "Elles n'existent pas dans la rubéole congénitale.",
+   "Elles résultent de l'infection du 1er trimestre.",
+   "Elles font partie de la tétrade de Gregg.",
+   "Elles sont la conséquence d'une réinfection maternelle.",
+   "Elles sont dues à l'infection persistante du fœtus."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : elles font partie de la tétrade de Gregg.",
+   "Exact : la tétrade caractérise l'atteinte du 1er trimestre.",
+   "Exact : malformations cardiaques, 4e élément de la tétrade.",
+   "Faux : la réinfection ne contamine pas le fœtus.",
+   "Exact : le virus se fixe, se multiplie et crée une infection persistante."
+  ]
+ },
+ {
+  "q": "Concernant le risque tératogène entre 0 et 12 semaines d'aménorrhée, lesquelles sont exactes ?",
+  "options": [
+   "Le risque d'infection du fœtus est de 100 %.",
+   "Le risque est minime.",
+   "L'avortement spontané survient dans 20 % des cas.",
+   "Le risque de malformations congénitales est majeur.",
+   "Le développement est normal sans aucun risque."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 100 % de risque d'infection du fœtus entre 0 et 12 semaines.",
+   "Faux : le risque est maximal à cette période.",
+   "Exact : avortement spontané dans 20 % des cas.",
+   "Exact : avec des malformations congénitales.",
+   "Faux : c'est la période du risque maximal."
+  ]
+ },
+ {
+  "q": "À propos du risque entre 13 et 16 semaines, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Le développement est toujours normal.",
+   "L'atteinte oculaire survient dans 15 % des cas.",
+   "La surdité survient dans 15 % des cas.",
+   "Il n'y a plus aucun risque.",
+   "Le risque de malformations cardiaques est de 100 %."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : un risque de surdité et d'atteinte oculaire persiste.",
+   "Exact : atteinte oculaire dans 15 % des cas.",
+   "Exact : surdité dans 15 % des cas entre 13 et 16 semaines.",
+   "Faux : 15 % de risque de surdité et d'atteinte oculaire.",
+   "Faux : le risque maximal de malformations concerne les 0-12 semaines."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la période après 16 semaines, lesquelles sont exactes ?",
+  "options": [
+   "Le risque d'atteintes de l'audition ou oculaire est minime.",
+   "Le risque de syndrome polymalformatif est majeur.",
+   "Le développement est normal.",
+   "L'avortement spontané est constant.",
+   "Il n'y a plus aucun suivi nécessaire."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Exact : risque minime d'atteintes de l'audition ou oculaire.",
+   "Faux : le risque majeur concerne le 1er trimestre.",
+   "Exact : après 16 semaines, développement normal.",
+   "Faux : les 20 % d'avortements concernent les 0-12 semaines.",
+   "Faux : le suivi de grossesse reste nécessaire."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la période préconceptionnelle ?",
+  "options": [
+   "Les risques sont minimes.",
+   "Le risque tératogène est maximal.",
+   "Une infection avant la conception expose au syndrome polymalformatif.",
+   "La vaccination est conseillée avant la grossesse chez les séronégatives.",
+   "L'avortement spontané est fréquent."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Exact : en préconception, risques minimes.",
+   "Faux : le risque maximal est entre 0 et 12 semaines de grossesse.",
+   "Faux : le risque concerne l'infection pendant la grossesse, surtout au 1er trimestre.",
+   "Exact : vaccination tardive possible chez les femmes avant la grossesse.",
+   "Faux : les avortements spontanés concernent l'infection des 0-12 semaines."
+  ]
+ },
+ {
+  "q": "Au sujet des conséquences au-delà du 1er trimestre, quelles affirmations sont correctes ?",
+  "options": [
+   "Aucune conséquence n'est possible.",
+   "Des avortements spontanés peuvent survenir.",
+   "Le fœtus est totalement protégé.",
+   "Des naissances prématurées peuvent survenir.",
+   "On peut observer une infection intra-utérine du nouveau-né."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : hépatite, pneumonie, prématurité sont décrites.",
+   "Exact : avortements spontanés possibles.",
+   "Faux : des conséquences persistent au-delà du 1er trimestre.",
+   "Exact : naissances prématurées possibles.",
+   "Exact : infection du nouveau-né intra-utérine possible."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le nouveau-né atteint in utero au-delà du 1er trimestre, lesquelles sont exactes ?",
+  "options": [
+   "Il peut présenter une pneumonie.",
+   "Il n'est jamais contagieux.",
+   "Il naît toujours à terme et en bonne santé.",
+   "Il peut présenter une hépatite.",
+   "Il présente constamment la tétrade de Gregg."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Exact : pneumonie décrite dans ce contexte.",
+   "Faux : le nouveau-né infecté est contagieux pendant 6 mois.",
+   "Faux : naissances prématurées possibles.",
+   "Exact : hépatite chez le nouveau-né ou prématuré atteint.",
+   "Faux : la tétrade caractérise l'atteinte du 1er trimestre."
+  ]
+ },
+ {
+  "q": "Relatives à l'infection persistante du fœtus, lesquelles sont vraies ?",
+  "options": [
+   "Le virus s'y multiplie durablement.",
+   "Elle est à l'origine des malformations.",
+   "Elle est transitoire et sans conséquence.",
+   "Le nouveau-né atteint est une véritable éponge de virus.",
+   "Le virus est éliminé rapidement par le fœtus."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : le virus se fixe, se multiplie et crée une infection persistante.",
+   "Exact : mécanisme des atteintes malformatives.",
+   "Faux : la persistance est le mécanisme des lésions.",
+   "Exact : source inépuisable de virus.",
+   "Faux : l'infection est persistante, non éliminée."
+  ]
+ },
+ {
+  "q": "Concernant la gravité de la rubéole congénitale, lesquelles sont exactes ?",
+  "options": [
+   "Elle devrait être éradiquée grâce au vaccin vivant atténué efficace.",
+   "C'est une affection grave.",
+   "Elle ne justifie aucune prévention.",
+   "Elle est bénigne et sans conséquence.",
+   "Elle justifie la vaccination de toute femme en âge de procréer."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : l'existence d'un vaccin efficace devrait permettre son éradication.",
+   "Exact : la rubéole congénitale est une affection grave.",
+   "Faux : dépistage et vaccination sont la prévention.",
+   "Faux : c'est une affection grave, tératogène.",
+   "Exact : toute femme en âge de procréer doit être immunisée."
+  ]
+ },
+ {
+  "q": "À propos de la primo-infection maternelle au 1er trimestre, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Elle expose à un risque d'infection fœtale de 100 % entre 0 et 12 semaines.",
+   "La réinfection au 1er trimestre est plus tératogène.",
+   "Elle est sans danger pour le fœtus.",
+   "Elle est moins grave qu'une réinfection.",
+   "Elle peut être responsable d'un syndrome polymalformatif chez le fœtus."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Exact : 100 % de risque d'infection du fœtus entre 0 et 12 semaines.",
+   "Faux : seule la primo-infection est tératogène.",
+   "Faux : c'est la situation la plus à risque.",
+   "Faux : la réinfection ne contamine pas le fœtus.",
+   "Exact : syndrome polymalformatif en cas d'infection au 1er trimestre."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles distinguent correctement les risques selon le terme ?",
+  "options": [
+   "13-16 semaines : surdité et atteinte oculaire dans 15 % des cas.",
+   "0-12 semaines : 100 % d'infection fœtale avec malformations.",
+   "Après 16 semaines : développement normal, risque minime.",
+   "Préconception : risque maximal.",
+   "0-12 semaines : aucun risque."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 15 % de surdité et d'atteinte oculaire entre 13 et 16 semaines.",
+   "Exact : risque maximal entre 0 et 12 semaines.",
+   "Exact : après 16 semaines, développement normal.",
+   "Faux : en préconception, les risques sont minimes.",
+   "Faux : c'est la période du risque maximal."
+  ]
+ },
+ {
+  "q": "Relatives à l'avortement spontané dans la rubéole congénitale, lesquelles sont vraies ?",
+  "options": [
+   "Il est constant après 16 semaines.",
+   "Il survient dans 20 % des cas entre 0 et 12 semaines.",
+   "Il concerne uniquement les réinfections.",
+   "Il est une conséquence de l'infection du 1er trimestre.",
+   "Il n'existe pas dans la rubéole congénitale."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : après 16 semaines, développement normal.",
+   "Exact : 20 % d'avortements spontanés entre 0 et 12 semaines.",
+   "Faux : la réinfection ne contamine pas le fœtus.",
+   "Exact : conséquence de l'atteinte primaire du 1er trimestre.",
+   "Faux : il est décrit entre 0 et 12 semaines."
+  ]
+ },
+ {
+  "q": "Concernant les naissances prématurées liées à la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Elles peuvent survenir au-delà du 1er trimestre.",
+   "Les prématurés atteints peuvent présenter une pneumonie.",
+   "Elles sont impossibles dans la rubéole congénitale.",
+   "Les prématurés atteints peuvent présenter une hépatite.",
+   "Elles surviennent uniquement avant la conception."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : naissances prématurées possibles au-delà du 1er trimestre.",
+   "Exact : pneumonie chez ces enfants.",
+   "Faux : elles sont décrites au-delà du 1er trimestre.",
+   "Exact : hépatite chez ces enfants.",
+   "Faux : elles sont liées à l'infection pendant la grossesse."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic de la rubéole congénitale, quelles affirmations sont correctes ?",
+  "options": [
+   "Tous les prélèvements sont possibles (urines, LCR, œil, tissu embryonnaire, liquide amniotique).",
+   "Seul le rhinopharynx peut être prélevé.",
+   "La PCR sur liquide amniotique est possible en laboratoire spécialisé.",
+   "Le diagnostic direct est inutile.",
+   "Le diagnostic direct (RT-PCR, isolement viral) y est indiqué."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : tous les prélèvements sont possibles à tous les niveaux.",
+   "Faux : tous les prélèvements sont possibles.",
+   "Exact : PCR sur liquide amniotique possible en labo spécialisé.",
+   "Faux : le diagnostic direct est indiqué dans la rubéole congénitale.",
+   "Exact : le diagnostic direct est celui de la rubéole congénitale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le nouveau-né atteint, lesquelles sont exactes ?",
+  "options": [
+   "C'est une source inépuisable de virus.",
+   "Il n'excrète pas le virus.",
+   "Il n'est pas une source de contagion.",
+   "C'est une véritable éponge de virus.",
+   "Il est contagieux pendant 6 mois."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : source inépuisable de virus.",
+   "Faux : il excrète massivement le virus.",
+   "Faux : c'est une source de contagion.",
+   "Exact : le nouveau-né atteint est décrit comme une véritable éponge de virus.",
+   "Exact : contagiosité de 6 mois."
+  ]
+ },
+ {
+  "q": "Relatives à la tétrade de Gregg dans son ensemble, lesquelles sont vraies ?",
+  "options": [
+   "Elle associe atteintes oculaire, auditive, mentale et cardiaque.",
+   "Elle comporte trois éléments.",
+   "Elle est décrite par Gregg en 1941.",
+   "Elle caractérise l'atteinte primaire du 1er trimestre.",
+   "Elle caractérise la rubéole acquise de l'adulte."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : cataracte, surdité, retard mental, malformations cardiaques.",
+   "Faux : elle comporte quatre caractères.",
+   "Exact : Gregg associe la rubéole aux malformations en 1941.",
+   "Exact : elle caractérise l'atteinte du 1er trimestre.",
+   "Faux : elle caractérise la forme congénitale."
+  ]
+ },
+ {
+  "q": "Concernant la surdité comme séquelle, lesquelles sont exactes ?",
+  "options": [
+   "Le risque en est minime après 16 semaines.",
+   "Elle survient dans 15 % des cas entre 13 et 16 semaines.",
+   "Elle est unilatérale dans la tétrade.",
+   "Elle n'existe qu'après 16 semaines.",
+   "Elle est bilatérale dans la tétrade de Gregg."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : après 16 semaines, risque minime d'atteinte auditive.",
+   "Exact : 15 % entre 13 et 16 semaines.",
+   "Faux : elle est bilatérale.",
+   "Faux : elle fait partie de la tétrade du 1er trimestre.",
+   "Exact : surdité bilatérale, élément de la tétrade."
+  ]
+ },
+ {
+  "q": "À propos de l'atteinte oculaire, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "La cataracte bilatérale fait partie de la tétrade de Gregg.",
+   "Le risque oculaire est minime après 16 semaines.",
+   "Une atteinte oculaire est possible dans 15 % des cas entre 13 et 16 semaines.",
+   "La cataracte est toujours unilatérale.",
+   "L'œil n'est jamais atteint dans la rubéole congénitale."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : cataracte bilatérale dans la tétrade.",
+   "Exact : après 16 semaines, risque minime.",
+   "Exact : atteinte oculaire 15 % entre 13 et 16 semaines.",
+   "Faux : elle est bilatérale.",
+   "Faux : l'atteinte oculaire est un élément de la tétrade."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles sont des arguments en faveur du dépistage prénatal ?",
+  "options": [
+   "L'absence de tout risque fœtal.",
+   "La bénignité de la forme congénitale.",
+   "Le risque tératogène maximal au 1er trimestre.",
+   "L'existence d'un vaccin efficace.",
+   "La gravité de la rubéole congénitale."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le risque tératogène est majeur au 1er trimestre.",
+   "Faux : la forme congénitale est grave.",
+   "Exact : d'où la recherche d'anticorps obligatoire en début de grossesse.",
+   "Exact : la prévention vaccinale existe.",
+   "Exact : affection grave justifiant le dépistage."
+  ]
+ },
+ {
+  "q": "Relatives à la prévention de la rubéole congénitale, lesquelles sont vraies ?",
+  "options": [
+   "La vaccination est contre-indiquée avant la grossesse.",
+   "Toute femme en âge de procréer doit être immunisée.",
+   "Le dépistage sérologique est inutile.",
+   "La recherche d'anticorps est obligatoire en début de grossesse sans preuve écrite d'immunité.",
+   "La vaccination post-partum est conseillée chez les séronégatives."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la vaccination est possible avant la grossesse (tardive).",
+   "Exact : toute femme en âge de procréer doit être immunisée.",
+   "Faux : le dépistage prénatal est systématique.",
+   "Exact : sérologie obligatoire en début de grossesse sans résultats écrits.",
+   "Exact : vaccination conseillée en post-partum avant de quitter la maternité."
+  ]
+ },
+ {
+  "q": "Concernant le syndrome polymalformatif, lesquelles sont exactes ?",
+  "options": [
+   "Il est dû à une infection persistante du fœtus.",
+   "Il fait suite à une primo-infection maternelle au 1er trimestre.",
+   "Il fait suite à une réinfection maternelle.",
+   "Il associe les quatre éléments de la tétrade de Gregg.",
+   "Il est sans rapport avec le virus de la rubéole."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : le virus se multiplie et crée une infection persistante.",
+   "Exact : primo-infection au 1er trimestre.",
+   "Faux : la réinfection ne contamine pas le fœtus.",
+   "Exact : cataracte, surdité, retard mental, malformations cardiaques.",
+   "Faux : c'est la conséquence tératogène du virus."
+  ]
+ },
+ {
+  "q": "À propos de l'infection intra-utérine du nouveau-né au-delà du 1er trimestre, quelles affirmations sont correctes ?",
+  "options": [
+   "Elle est possible.",
+   "Elle donne toujours la tétrade de Gregg.",
+   "Elle peut s'accompagner d'hépatite.",
+   "Elle est impossible.",
+   "Elle peut s'accompagner de pneumonie."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : infection intra-utérine possible au-delà du 1er trimestre.",
+   "Faux : la tétrade caractérise l'atteinte du 1er trimestre.",
+   "Exact : hépatite décrite.",
+   "Faux : elle est décrite dans le cours.",
+   "Exact : pneumonie décrite."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la contagiosité du nouveau-né atteint, lesquelles sont exactes ?",
+  "options": [
+   "Elle dure une semaine.",
+   "Elle dure 6 mois.",
+   "Le nouveau-né est une éponge de virus.",
+   "Elle est liée à l'excrétion virale massive.",
+   "Elle est nulle."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la semaine concerne le rubéoleux.",
+   "Exact : 6 mois de contagiosité.",
+   "Exact : véritable éponge de virus.",
+   "Exact : source inépuisable de virus.",
+   "Faux : contagiosité de 6 mois."
+  ]
+ },
+ {
+  "q": "Relatives au passage transplacentaire du virus, lesquelles sont vraies ?",
+  "options": [
+   "Il est impossible lors d'une réinfection.",
+   "Il survient lors de la primo-infection maternelle avec virémie.",
+   "Il survient lors de la réinfection maternelle.",
+   "Il ne concerne que le 3e trimestre.",
+   "Il est à l'origine de la rubéole congénitale."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : pas de virémie en réinfection, donc pas de passage.",
+   "Exact : la virémie de la primo-infection permet le passage.",
+   "Faux : absence de virémie en réinfection.",
+   "Faux : le risque majeur est au 1er trimestre.",
+   "Exact : voie transplacentaire = rubéole congénitale."
+  ]
+ },
+ {
+  "q": "Concernant les malformations cardiaques, lesquelles sont exactes ?",
+  "options": [
+   "Elles témoignent de l'atteinte du 1er trimestre.",
+   "Elles sont absentes de la tétrade.",
+   "Elles résultent d'une infection acquise post-natale.",
+   "Elles font partie de la tétrade de Gregg.",
+   "Elles sont réversibles spontanément."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Exact : la tétrade caractérise l'atteinte primaire du 1er trimestre.",
+   "Faux : elles en font partie.",
+   "Faux : elles sont congénitales, liées à l'infection in utero.",
+   "Exact : 4e élément de la tétrade.",
+   "Faux : ce sont des malformations, non réversibles spontanément."
+  ]
+ },
+ {
+  "q": "À propos du retard mental dans la tétrade, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Il fait partie des quatre caractères.",
+   "Il est la conséquence d'une méningite post-natale.",
+   "Il est absent de la tétrade de Gregg.",
+   "Il est toujours isolé sans autre malformation.",
+   "Il traduit l'atteinte neurologique du 1er trimestre."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Exact : élément de la tétrade.",
+   "Faux : il résulte de l'infection persistante in utero.",
+   "Faux : il en fait partie.",
+   "Faux : il s'intègre au syndrome polymalformatif.",
+   "Exact : atteinte du 1er trimestre."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles concernent le diagnostic anténatal ?",
+  "options": [
+   "La PCR sur liquide amniotique est possible en laboratoire spécialisé.",
+   "La sérologie maternelle (IgM, avidité des IgG) date l'infection.",
+   "Le diagnostic anténatal est impossible.",
+   "Le liquide amniotique ne peut pas être prélevé.",
+   "Seule la culture virale est possible."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : PCR sur liquide amniotique possible en labo spécialisé.",
+   "Exact : IgM et avidité des IgG permettent de dater l'infection maternelle.",
+   "Faux : le diagnostic anténatal est possible.",
+   "Faux : le liquide amniotique fait partie des prélèvements possibles.",
+   "Faux : la RT-PCR est l'outil du diagnostic direct."
+  ]
+ },
+ {
+  "q": "Relatives à la gravité comparée des deux formes, lesquelles sont vraies ?",
+  "options": [
+   "La forme congénitale est grave.",
+   "La forme acquise est le plus souvent bénigne.",
+   "Les deux formes sont constamment graves.",
+   "Les deux formes sont bénignes.",
+   "La forme congénitale est la seule grave."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : rubéole congénitale grave.",
+   "Exact : rubéole acquise bénigne.",
+   "Faux : l'acquise est bénigne.",
+   "Faux : la congénitale est grave.",
+   "Exact : seule la forme congénitale est grave."
+  ]
+ },
+ {
+  "q": "Concernant les 20 % d'avortements spontanés, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont dus à la vaccination.",
+   "Ils complètent le tableau du risque maximal du 1er trimestre.",
+   "Ils concernent la période après 16 semaines.",
+   "Ils concernent la période 0-12 semaines.",
+   "Ils n'existent pas."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : ils sont liés à l'infection virale, pas au vaccin.",
+   "Exact : avec 100 % d'infection fœtale et les malformations.",
+   "Faux : après 16 semaines, développement normal.",
+   "Exact : 20 % d'avortements spontanés entre 0 et 12 semaines.",
+   "Faux : ils sont décrits dans le cours."
+  ]
+ },
+ {
+  "q": "À propos du risque de 15 %, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Il concerne la surdité entre 13 et 16 semaines.",
+   "Il concerne la période 0-12 semaines.",
+   "Il concerne les malformations cardiaques entre 13 et 16 semaines.",
+   "Il concerne l'avortement spontané entre 13 et 16 semaines.",
+   "Il concerne l'atteinte oculaire entre 13 et 16 semaines."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Exact : surdité 15 % entre 13 et 16 semaines.",
+   "Faux : les 0-12 semaines, c'est 100 % d'infection fœtale.",
+   "Faux : les malformations cardiaques relèvent de la tétrade du 1er trimestre.",
+   "Faux : les 20 % d'avortements concernent les 0-12 semaines.",
+   "Exact : atteinte oculaire 15 % entre 13 et 16 semaines."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles résument les risques selon le terme ?",
+  "options": [
+   "Préconception : risques minimes.",
+   "Le risque est identique à tous les termes.",
+   "13-16 semaines : 15 % de surdité et d'atteinte oculaire.",
+   "0-12 semaines : 100 % d'infection fœtale, malformations, 20 % d'avortements.",
+   "Après 16 semaines : développement normal."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : risques minimes en préconception.",
+   "Faux : le risque varie fortement selon le terme.",
+   "Exact : 15 % de surdité et d'atteinte oculaire entre 13 et 16 semaines.",
+   "Exact : risque maximal entre 0 et 12 semaines.",
+   "Exact : développement normal après 16 semaines."
+  ]
+ },
+ {
+  "q": "Relatives à la fixation du virus chez le fœtus, lesquelles sont vraies ?",
+  "options": [
+   "Le virus ne se multiplie pas chez le fœtus.",
+   "Il s'y multiplie.",
+   "Le virus s'y fixe après passage transplacentaire.",
+   "Il y crée une infection persistante.",
+   "Le fœtus élimine immédiatement le virus."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la multiplication fœtale est le mécanisme des lésions.",
+   "Exact : il s'y multiplie.",
+   "Exact : le virus va se fixer chez le fœtus.",
+   "Exact : infection persistante.",
+   "Faux : l'infection est persistante."
+  ]
+ },
+ {
+  "q": "Concernant la cataracte bilatérale, lesquelles sont exactes ?",
+  "options": [
+   "Elle est unilatérale.",
+   "Elle est la seule manifestation de la tétrade.",
+   "Elle traduit l'atteinte oculaire du 1er trimestre.",
+   "Elle est absente de la rubéole congénitale.",
+   "Elle est un élément de la tétrade de Gregg."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : elle est bilatérale.",
+   "Faux : la tétrade comporte quatre éléments.",
+   "Exact : atteinte du 1er trimestre.",
+   "Faux : elle en fait partie.",
+   "Exact : cataracte bilatérale dans la tétrade."
+  ]
+ },
+ {
+  "q": "Parmi les circonstances de diagnostic biologique de la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Le contage.",
+   "La femme en âge de procréer (dépistage systématique).",
+   "La primo-infection avec éruption.",
+   "Le bilan lipidique annuel.",
+   "Le bilan de grossesse."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le contage est une circonstance de diagnostic.",
+   "Exact : dépistage systématique chez la femme en âge de procréer.",
+   "Exact : symptomatologie clinique : primo-infection avec éruption.",
+   "Faux : aucun lien avec le diagnostic de la rubéole.",
+   "Exact : bilan de grossesse systématique."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic indirect de la rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Il est plus aisé et plus courant que le diagnostic direct.",
+   "Il donne une sérologie de loin meilleure.",
+   "Il est basé sur la recherche et le dosage des anticorps.",
+   "Il est moins fiable que l'isolement viral.",
+   "Il est rarement utilisé."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le diagnostic indirect est plus aisé et plus courant.",
+   "Exact : il donne une sérologie de loin meilleure.",
+   "Exact : basé sur la recherche et le dosage des Ac.",
+   "Faux : sa sérologie est de loin meilleure.",
+   "Faux : c'est le diagnostic le plus courant."
+  ]
+ },
+ {
+  "q": "Concernant les indications du diagnostic indirect, lesquelles sont vraies ?",
+  "options": [
+   "Le diagnostic de la rubéole congénitale.",
+   "Le diagnostic de la rubéole acquise de l'enfant.",
+   "Le typage des souches virales.",
+   "Le suivi de grossesse.",
+   "La détermination du statut immunitaire."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : diagnostic de la rubéole congénitale (avec le direct).",
+   "Faux : le diagnostic indirect n'est réalisé que chez l'enfant et l'adulte pour le statut immunitaire, pas systématiquement pour la forme acquise.",
+   "Faux : il n'existe qu'un seul type de virus, pas de typage.",
+   "Exact : suivi de grossesse.",
+   "Exact : statut immunitaire par les IgG."
+  ]
+ },
+ {
+  "q": "Parmi les techniques du diagnostic indirect, lesquelles sont citées ?",
+  "options": [
+   "L'ELISA.",
+   "La PCR en temps réel.",
+   "La réaction d'inhibition de l'hémagglutination (IHA).",
+   "La réaction de neutralisation.",
+   "La réaction de fixation du complément (RFC)."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : l'ELISA est la technique de choix (+++).",
+   "Faux : la PCR relève du diagnostic direct.",
+   "Exact : l'IHA est citée.",
+   "Exact : la réaction de neutralisation est citée.",
+   "Exact : la RFC fait partie des techniques."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'ELISA dans la rubéole ?",
+  "options": [
+   "C'est la technique de choix du diagnostic indirect (+++).",
+   "Elle est abandonnée au profit de la RFC.",
+   "Elle relève du diagnostic direct.",
+   "Elle ne détecte que les IgM.",
+   "Elle permet la mise en évidence des IgG et des IgM anti-rubéoliques."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Exact : ELISA +++ pour le diagnostic indirect.",
+   "Faux : c'est la technique de choix, non abandonnée.",
+   "Faux : c'est une technique sérologique, donc indirecte.",
+   "Faux : elle détecte IgG et IgM.",
+   "Exact : mise en évidence des Ac anti-rubéoliques IgG et IgM."
+  ]
+ },
+ {
+  "q": "Au sujet des IgM anti-rubéoliques, quelles affirmations sont correctes ?",
+  "options": [
+   "Elles signent une immunité ancienne.",
+   "Elles permettent le diagnostic d'infection primaire.",
+   "Elles sont le signe d'une infection primaire.",
+   "Elles apparaissent après vaccination.",
+   "Elles sont absentes lors d'une réinfection."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : l'immunité est signée par les IgG.",
+   "Exact : leur recherche fait le diagnostic d'infection primaire.",
+   "Exact : les IgM sont les signes d'infection primaire.",
+   "Faux : après vaccination, synthèse directe d'IgG (rebond), pas d'IgM.",
+   "Exact : absence d'IgM lors d'une réinfection."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les IgG anti-rubéoliques, lesquelles sont exactes ?",
+  "options": [
+   "Elles signent une infection primaire récente.",
+   "Après vaccination, le corps synthétise directement des IgG.",
+   "Elles disparaissent en quelques jours.",
+   "Elles permettent de connaître l'état immunitaire du sujet.",
+   "Ce sont des signes d'immunité, plus tardives que les IgM."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'infection primaire récente est signée par les IgM.",
+   "Exact : phénomène de rebond après vaccination.",
+   "Faux : les IgG persistent, témoignant de l'immunité.",
+   "Exact : les IgG renseignent sur l'état immunitaire.",
+   "Exact : signes d'immunité, plus tardives."
+  ]
+ },
+ {
+  "q": "Relatives à l'avidité des IgG, lesquelles sont vraies ?",
+  "options": [
+   "Elle permet de dater l'infection.",
+   "Une avidité élevée oriente vers une infection ancienne.",
+   "Une avidité basse oriente vers une infection récente.",
+   "Elle permet d'infirmer ou de confirmer une primo-infection récente.",
+   "Elle n'a aucun intérêt dans le suivi de grossesse."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'avidité des IgG sert à dater l'infection.",
+   "Exact : avidité élevée = infection ancienne.",
+   "Exact : avidité basse = infection récente.",
+   "Exact : elle infirme ou confirme une primo-infection récente.",
+   "Faux : c'est un outil clé du suivi de grossesse."
+  ]
+ },
+ {
+  "q": "Concernant le phénomène de rebond après vaccination, lesquelles sont exactes ?",
+  "options": [
+   "Les IgG post-vaccinales témoignent de l'immunité.",
+   "Il n'y a pas de phase IgM.",
+   "Le corps synthétise directement des IgG.",
+   "La vaccination ne produit aucun anticorps.",
+   "Des IgM sont systématiquement produites."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les IgG signent l'immunité vaccinale.",
+   "Exact : pas de réponse IgM primaire, d'où le terme de rebond.",
+   "Exact : synthèse directe des IgG après vaccination.",
+   "Faux : la vaccination induit des IgG protectrices.",
+   "Faux : pas d'IgM après vaccination."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les anticorps recherchables dans la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "Les IgA sécrétoires peuvent être recherchées.",
+   "Seules les IgM ont un intérêt diagnostique.",
+   "Les IgG renseignent sur l'état immunitaire du sujet.",
+   "L'avidité des IgG permet de dater l'infection.",
+   "Les IgM signent l'infection primaire."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : les IgA sécrétoires sont citées parmi les anticorps recherchables.",
+   "Faux : IgM, IgG, avidité des IgG et IgA ont chacun leur intérêt.",
+   "Exact : les IgG sont les signes d'immunité, plus tardives.",
+   "Exact : l'avidité des IgG sert à dater l'infection.",
+   "Exact : les IgM sont les signes d'infection primaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le dépistage systématique chez la femme enceinte, lesquelles sont exactes ?",
+  "options": [
+   "Il est réalisé une seule fois dans la vie.",
+   "Il est obligatoire en début de grossesse sans preuve écrite d'immunité.",
+   "Il ne concerne que les femmes symptomatiques.",
+   "Il repose sur la recherche des IgG rubéoliques.",
+   "Il est inutile si la patiente a été vaccinée sans preuve écrite."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : il est réalisé à chaque début de grossesse sans preuve d'immunité.",
+   "Exact : recherche obligatoire en début de grossesse sans résultats écrits.",
+   "Faux : c'est un bilan systématique de dépistage.",
+   "Exact : dépistage systématique des anticorps IgG rubéoliques.",
+   "Faux : sans preuve écrite, la sérologie reste obligatoire."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le diagnostic direct ?",
+  "options": [
+   "Il est indiqué dans le diagnostic de la rubéole congénitale.",
+   "Il comprend la RT-PCR sur ARN.",
+   "Il est plus courant que le diagnostic indirect.",
+   "Il donne une meilleure sérologie que l'indirect.",
+   "Il comprend l'isolement viral par culture."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : c'est le diagnostic de la rubéole congénitale.",
+   "Exact : RT-PCR sur ARN.",
+   "Faux : le diagnostic indirect est plus aisé et plus courant.",
+   "Faux : l'indirect donne une sérologie de loin meilleure.",
+   "Exact : isolement viral par culture."
+  ]
+ },
+ {
+  "q": "Au sujet de la RT-PCR dans la rubéole, quelles affirmations sont correctes ?",
+  "options": [
+   "Elle est réalisée sur l'ARN viral.",
+   "Elle fait partie du diagnostic direct.",
+   "Elle est possible sur liquide amniotique en laboratoire spécialisé.",
+   "Elle fait partie du diagnostic indirect.",
+   "Elle détecte les anticorps."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : RT-PCR sur ARN.",
+   "Exact : outil du diagnostic direct.",
+   "Exact : PCR sur liquide amniotique possible en labo spécialisé.",
+   "Faux : c'est un diagnostic direct.",
+   "Faux : elle détecte le génome viral, pas les anticorps."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'isolement viral, lesquelles sont exactes ?",
+  "options": [
+   "Il est fastidieux.",
+   "Il est rapide et de routine.",
+   "Il utilise des cellules fibroblastiques humaines (MRC5).",
+   "Il utilise des cellules de lapin (RK13).",
+   "Il utilise des cellules primaires de rein de singe."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : l'isolement viral est décrit comme fastidieux.",
+   "Faux : il est fastidieux, non de routine.",
+   "Exact : cellules fibroblastiques humaines (MRC5).",
+   "Exact : cellules de lapins (RK13).",
+   "Exact : cellules primaires de rein de singe."
+  ]
+ },
+ {
+  "q": "Relatives aux prélèvements pour la rubéole de l'enfant ou de l'adulte, lesquelles sont vraies ?",
+  "options": [
+   "Le virus étant fragile, le transport doit être très rapide.",
+   "Ils se font au niveau du rhinopharynx.",
+   "Ils utilisent un écouvillon stérile.",
+   "Le diagnostic direct est couramment utilisé dans ce cas.",
+   "Tous les prélèvements sont possibles à tous les niveaux."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : transport très rapide pour la culture du fait de la fragilité.",
+   "Exact : prélèvements rhinopharyngés.",
+   "Exact : par écouvillon stérile.",
+   "Faux : le diagnostic direct est rarement utilisé dans la rubéole de l'enfant/adulte.",
+   "Faux : cela concerne la rubéole congénitale."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements dans la rubéole congénitale, lesquelles sont exactes ?",
+  "options": [
+   "Seul le rhinopharynx est utilisable.",
+   "Le LCR peut être prélevé.",
+   "Le liquide amniotique peut être prélevé.",
+   "Les urines peuvent être prélevées.",
+   "Tous les prélèvements sont possibles à tous les niveaux."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : tous les niveaux sont possibles.",
+   "Exact : LCR cité.",
+   "Exact : liquide amniotique cité (aussi œil et tissu embryonnaire).",
+   "Exact : urines citées.",
+   "Exact : tous les prélèvements sont possibles."
+  ]
+ },
+ {
+  "q": "À propos du nouveau-né atteint comme source de virus, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "C'est une source inépuisable de virus.",
+   "L'isolement viral y est impossible.",
+   "Le diagnostic direct y est sans intérêt.",
+   "C'est une véritable éponge de virus.",
+   "Le virus y est rare et difficile à isoler."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Exact : source inépuisable.",
+   "Faux : l'abondance virale facilite le diagnostic direct.",
+   "Faux : le diagnostic direct est indiqué dans la rubéole congénitale.",
+   "Exact : véritable éponge de virus.",
+   "Faux : le virus y est abondant."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'évolution des marqueurs biologiques, lesquelles sont exactes ?",
+  "options": [
+   "L'avidité des IgG permet de dater l'infection.",
+   "L'avidité n'évolue pas avec le temps.",
+   "Les IgG, plus tardives, signent l'immunité.",
+   "Les IgM signent l'infection primaire.",
+   "Les IgG précèdent les IgM."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : avidité des IgG pour dater l'infection.",
+   "Faux : l'avidité augmente avec le temps (distingue infection récente/ancienne).",
+   "Exact : IgG = signes d'immunité, plus tardives.",
+   "Exact : IgM = signes d'infection primaire.",
+   "Faux : les IgM précèdent les IgG."
+  ]
+ },
+ {
+  "q": "Relatives à la cinétique des anticorps après primo-infection, lesquelles sont vraies ?",
+  "options": [
+   "Les IgM apparaissent en premier.",
+   "Les IgG témoignent d'une immunité durable.",
+   "Les IgM persistent indéfiniment.",
+   "Les IgM signent l'immunité ancienne.",
+   "Les IgG apparaissent plus tardivement."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : les IgM sont les marqueurs précoces.",
+   "Exact : les IgG persistent et signent l'immunité.",
+   "Faux : les IgM sont transitoires, marqueurs d'infection primaire.",
+   "Faux : l'immunité est signée par les IgG.",
+   "Exact : les IgG sont plus tardives."
+  ]
+ },
+ {
+  "q": "Concernant l'interprétation d'une sérologie rubéolique chez la femme enceinte, lesquelles sont exactes ?",
+  "options": [
+   "Des IgG négatives affirment une primo-infection.",
+   "Des IgM positives affirment une immunité ancienne.",
+   "Une avidité basse des IgG oriente vers une infection récente.",
+   "Des IgM positives évoquent une primo-infection récente.",
+   "Des IgG positives isolées évoquent une immunité."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : des IgG négatives signifient l'absence d'immunité (sujet réceptif).",
+   "Faux : les IgM signent une infection primaire, pas une immunité ancienne.",
+   "Exact : avidité basse = infection récente.",
+   "Exact : IgM = signe d'infection primaire.",
+   "Exact : IgG = signe d'immunité."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic de la réinfection, quelles affirmations sont correctes ?",
+  "options": [
+   "Des IgM sont toujours retrouvées.",
+   "Les IgG sont présentes (anticorps résiduels).",
+   "Le diagnostic repose sur la mise en évidence d'IgM.",
+   "Il y a absence d'IgM.",
+   "La sérologie est identique à celle d'une primo-infection."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : les IgM sont absentes.",
+   "Exact : les anticorps résiduels de la primo-infection sont des IgG.",
+   "Faux : les IgM sont absentes en réinfection.",
+   "Exact : absence d'IgM lors d'une réinfection.",
+   "Faux : pas d'IgM, pas de virémie : profil différent."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles opposent correctement diagnostic direct et indirect ?",
+  "options": [
+   "L'indirect repose sur la culture virale.",
+   "L'indirect est plus aisé, plus courant, avec une meilleure sérologie.",
+   "Le direct recherche le virus ou son génome, l'indirect les anticorps.",
+   "Le direct est plus courant que l'indirect.",
+   "Le direct est indiqué dans la rubéole congénitale."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : la culture relève du diagnostic direct.",
+   "Exact : l'indirect est plus aisé, plus courant, meilleure sérologie.",
+   "Exact : direct = RT-PCR/isolement ; indirect = Ac.",
+   "Faux : c'est l'inverse.",
+   "Exact : diagnostic direct pour la rubéole congénitale."
+  ]
+ },
+ {
+  "q": "Relatives aux cellules utilisées pour l'isolement viral, lesquelles sont vraies ?",
+  "options": [
+   "Cellules primaires de rein de singe.",
+   "Cellules fibroblastiques humaines (MRC5).",
+   "Œufs embryonnés de poule.",
+   "Cellules de lapins (RK13).",
+   "Cellules Vero uniquement."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : cellules primaires de rein de singe.",
+   "Exact : cellules fibroblastiques humaines (MRC5).",
+   "Faux : les œufs embryonnés ne sont pas cités.",
+   "Exact : cellules de lapins (RK13).",
+   "Faux : les cellules Vero ne sont pas citées pour la rubéole."
+  ]
+ },
+ {
+  "q": "Concernant la fragilité du virus et ses conséquences diagnostiques, lesquelles sont exactes ?",
+  "options": [
+   "La fragilité n'a aucune conséquence pratique.",
+   "La culture est l'examen de première intention.",
+   "Le diagnostic indirect est préféré car plus aisé.",
+   "Le transport des prélèvements doit être très rapide pour la culture.",
+   "L'isolement viral est fastidieux."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elle impose rapidité du transport et rend la culture fastidieuse.",
+   "Faux : le diagnostic indirect (sérologie) est l'examen de choix.",
+   "Exact : l'indirect est plus aisé et plus courant.",
+   "Exact : virus extrêmement fragile, transport très rapide.",
+   "Exact : isolement viral fastidieux."
+  ]
+ },
+ {
+  "q": "À propos de l'arbre décisionnel du dépistage chez la femme enceinte, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Le dépistage n'est proposé qu'en cas d'éruption.",
+   "Il repose sur la recherche systématique des IgG rubéoliques.",
+   "En l'absence de preuve écrite d'immunité, la sérologie est obligatoire en début de grossesse.",
+   "Les IgM n'ont aucun intérêt.",
+   "L'avidité des IgG aide à dater une infection."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : c'est un bilan systématique de dépistage.",
+   "Exact : dépistage systématique des IgG.",
+   "Exact : sérologie obligatoire sans résultats écrits.",
+   "Faux : les IgM signent l'infection primaire.",
+   "Exact : l'avidité date l'infection."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la sérologie vaccinale, lesquelles sont exactes ?",
+  "options": [
+   "C'est le phénomène de rebond.",
+   "Les IgG post-vaccinales sont protectrices.",
+   "La sérologie post-vaccinale est identique à celle d'une primo-infection.",
+   "La vaccination produit des IgM durables.",
+   "Après vaccination, seules des IgG sont synthétisées."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : phénomène de rebond.",
+   "Exact : les IgG témoignent de l'immunité vaccinale.",
+   "Faux : pas d'IgM, contrairement à la primo-infection.",
+   "Faux : pas d'IgM après vaccination.",
+   "Exact : synthèse directe d'IgG après vaccination."
+  ]
+ },
+ {
+  "q": "Relatives aux indications de la sérologie rubéolique, lesquelles sont vraies ?",
+  "options": [
+   "Connaître le statut immunitaire d'un sujet.",
+   "Diagnostic de la rubéole acquise banale de l'enfant en routine.",
+   "Diagnostic de la rubéole congénitale.",
+   "Suivi de grossesse.",
+   "Typage viral en routine."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les IgG renseignent sur l'état immunitaire.",
+   "Faux : le diagnostic indirect n'est réalisé que pour savoir si le sujet est immunisé, pas en routine pour la forme banale.",
+   "Exact : diagnostic de la rubéole congénitale.",
+   "Exact : suivi de grossesse.",
+   "Faux : un seul type viral, pas de typage."
+  ]
+ },
+ {
+  "q": "Concernant la PCR sur liquide amniotique, lesquelles sont exactes ?",
+  "options": [
+   "Elle nécessite un laboratoire spécialisé.",
+   "Elle est réalisée en routine dans tout laboratoire.",
+   "Elle est possible.",
+   "Elle fait partie du diagnostic direct.",
+   "Elle détecte les anticorps maternels."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : en laboratoire spécialisé.",
+   "Faux : elle requiert un laboratoire spécialisé.",
+   "Exact : PCR sur liquide amniotique possible.",
+   "Exact : c'est un diagnostic direct.",
+   "Faux : elle détecte le génome viral."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic biologique en pratique, quelles affirmations sont correctes ?",
+  "options": [
+   "Le diagnostic indirect est l'examen le plus courant.",
+   "L'ELISA est la technique de choix.",
+   "La culture virale est l'examen de première intention.",
+   "La sérologie n'a aucun intérêt.",
+   "Le diagnostic direct est réservé à la rubéole congénitale."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : plus aisé et plus courant.",
+   "Exact : ELISA +++.",
+   "Faux : la culture est fastidieuse, non de première intention.",
+   "Faux : la sérologie est centrale (statut immunitaire, grossesse).",
+   "Exact : le direct est le diagnostic de la rubéole congénitale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles décrivent correctement la mise en évidence des anticorps ?",
+  "options": [
+   "Neutralisation : anticorps neutralisants.",
+   "ELISA : IgG et IgM.",
+   "IHA : anticorps anti-hémagglutinine.",
+   "RFC : anticorps contre l'antigène soluble.",
+   "RFC : anticorps anti-hémagglutinine."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la réaction de neutralisation explore les Ac neutralisants.",
+   "Exact : l'ELISA met en évidence IgG et IgM.",
+   "Exact : l'IHA révèle les Ac anti-hémagglutinine.",
+   "Exact : la RFC révèle les Ac contre l'antigène soluble (protéine C).",
+   "Faux : la RFC cible l'antigène soluble, pas l'hémagglutinine."
+  ]
+ },
+ {
+  "q": "Relatives au diagnostic d'une primo-infection chez la femme enceinte, lesquelles sont vraies ?",
+  "options": [
+   "Une avidité basse des IgG confirme une infection récente.",
+   "Les IgG isolées suffisent à affirmer une primo-infection.",
+   "L'absence d'IgM élimine toute infection.",
+   "La présence d'IgM évoque une infection primaire.",
+   "L'avidité permet d'infirmer une primo-infection récente si elle est élevée."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : avidité basse = infection récente.",
+   "Faux : les IgG isolées signent une immunité, pas une primo-infection.",
+   "Faux : l'absence d'IgM n'élimine pas une infection ancienne ou une réinfection.",
+   "Exact : IgM = signes d'infection primaire.",
+   "Exact : avidité élevée = infection ancienne, infirme la primo-infection récente."
+  ]
+ },
+ {
+  "q": "Concernant les examens complémentaires du contage, lesquelles sont exactes ?",
+  "options": [
+   "La sérologie est indiquée après contage chez la femme enceinte.",
+   "Les IgG renseignent sur une immunité préexistante.",
+   "Aucun examen n'est indiqué après un contage.",
+   "Les IgM permettent de diagnostiquer une infection primaire.",
+   "Seule la culture virale est indiquée."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : le contage est une circonstance de diagnostic.",
+   "Exact : IgG = état immunitaire.",
+   "Faux : le contage justifie le diagnostic biologique.",
+   "Exact : IgM = infection primaire.",
+   "Faux : la culture est fastidieuse et rarement utilisée."
+  ]
+ },
+ {
+  "q": "À propos de la sérologie de la rubéole congénitale chez le nouveau-né, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Seul le diagnostic direct est possible.",
+   "Le diagnostic indirect y a sa place.",
+   "Les IgM chez le nouveau-né signent l'infection congénitale.",
+   "Aucun diagnostic biologique n'est possible.",
+   "Le diagnostic direct (RT-PCR, isolement) y est indiqué."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : les deux diagnostics y ont leur place.",
+   "Exact : le diagnostic de la rubéole congénitale utilise l'indirect.",
+   "Exact : les IgM néonatales ne traversent pas le placenta et signent l'infection de l'enfant.",
+   "Faux : le diagnostic biologique est possible et indiqué.",
+   "Exact : le direct est le diagnostic de la rubéole congénitale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles sont des outils du diagnostic virologique de la rubéole ?",
+  "options": [
+   "La recherche d'antigènes par immunofluorescence directe systématique.",
+   "La mise en évidence des IgG et IgM.",
+   "L'avidité des IgG.",
+   "La RT-PCR sur ARN.",
+   "L'isolement viral par culture."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : non citée parmi les outils du diagnostic de la rubéole.",
+   "Exact : outil du diagnostic indirect.",
+   "Exact : outil de datation de l'infection.",
+   "Exact : outil du diagnostic direct.",
+   "Exact : outil du diagnostic direct."
+  ]
+ },
+ {
+  "q": "Relatives à la place de la culture virale, lesquelles sont vraies ?",
+  "options": [
+   "Elle est fastidieuse.",
+   "Elle est l'examen de première intention.",
+   "Elle est plus aisée que la sérologie.",
+   "Elle nécessite un transport très rapide des prélèvements.",
+   "Elle utilise rein de singe, RK13 et MRC5."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : isolement viral fastidieux.",
+   "Faux : la sérologie est l'examen de choix.",
+   "Faux : le diagnostic indirect est plus aisé.",
+   "Exact : virus fragile, transport très rapide.",
+   "Exact : les trois types cellulaires cités."
+  ]
+ },
+ {
+  "q": "Concernant le bilan systématique de dépistage, lesquelles sont exactes ?",
+  "options": [
+   "Il concerne la femme en âge de procréer.",
+   "Il est inutile.",
+   "Il concerne toute la population sans distinction.",
+   "Il concerne le bilan de grossesse.",
+   "Il repose sur les IgG rubéoliques."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : femme en âge de procréer.",
+   "Faux : c'est un dépistage systématique justifié.",
+   "Faux : il cible les femmes en âge de procréer et la grossesse.",
+   "Exact : bilan de grossesse.",
+   "Exact : recherche des IgG."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le vaccin contre la rubéole, lesquelles sont exactes ?",
+  "options": [
+   "C'est un vaccin inactivé.",
+   "C'est un vaccin vivant atténué.",
+   "Il est disponible depuis 1968.",
+   "Il est efficace.",
+   "Il est inefficace."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : c'est un vaccin vivant atténué.",
+   "Exact : vaccin atténué efficace disponible depuis 1968.",
+   "Exact : disponible depuis 1968 (1969 selon l'historique).",
+   "Exact : le vaccin est décrit comme efficace.",
+   "Faux : il est efficace."
+  ]
+ },
+ {
+  "q": "À propos de la politique vaccinale contre la rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "La vaccination des enfants est inutile.",
+   "Elle vise à augmenter les cas de primo-infection chez l'adulte.",
+   "C'est le seul moyen de les protéger avant la rencontre avec le virus sauvage.",
+   "Cette vaccination vise à supprimer les épidémies.",
+   "Il faut vacciner tous les enfants avant l'âge d'un an."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : c'est la base de la politique vaccinale.",
+   "Faux : elle vise à les supprimer.",
+   "Exact : seul moyen de protéger avant la rencontre avec le virus sauvage.",
+   "Exact : objectif de supprimer les épidémies et les primo-infections de l'adulte.",
+   "Exact : vacciner tous les enfants avant l'âge d'un an."
+  ]
+ },
+ {
+  "q": "Concernant le vaccin ROR, lesquelles sont vraies ?",
+  "options": [
+   "Il est administré à partir de 1 an.",
+   "Il est administré uniquement à l'âge adulte.",
+   "Un rappel est prévu entre 3 et 6 ans.",
+   "Il protège contre la rubéole.",
+   "Il ne comporte pas de valence rubéole."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : ROR à partir de 1 an.",
+   "Faux : il est administré dès l'enfance.",
+   "Exact : rappel entre 3 et 6 ans.",
+   "Exact : le ROR contient la valence rubéole.",
+   "Faux : ROR = rougeole-oreillons-rubéole."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la vaccination tardive, lesquelles sont exactes ?",
+  "options": [
+   "Elle concerne les femmes enceintes.",
+   "Elle est interdite après l'enfance.",
+   "Elle concerne les femmes avant la grossesse.",
+   "Elle concerne les enfants non vaccinés à 12-13 ans.",
+   "Elle n'existe pas."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le vaccin est à éviter chez la femme enceinte.",
+   "Faux : la vaccination tardive est prévue.",
+   "Exact : vaccination des femmes avant la grossesse.",
+   "Exact : vaccination tardive à 12-13 ans pour les non vaccinés.",
+   "Faux : elle est décrite dans la politique vaccinale."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les inconvénients du vaccin ?",
+  "options": [
+   "Il n'a aucun effet indésirable.",
+   "Des arthralgies sont possibles, surtout chez les adultes.",
+   "Une éruption discrète, sans gravité, est possible.",
+   "Il provoque une rubéole congénitale.",
+   "Le vaccin est constamment grave."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : éruption discrète et arthralgies sont décrites.",
+   "Exact : arthralgies, surtout chez les adultes.",
+   "Exact : éruption discrète sans gravité.",
+   "Faux : le vaccin est contre-indiqué pendant la grossesse, pas tératogène décrit.",
+   "Faux : les inconvénients sont bénins."
+  ]
+ },
+ {
+  "q": "Au sujet de la vaccination et de la grossesse, quelles affirmations sont correctes ?",
+  "options": [
+   "Une contraception est recommandée 2 mois après la vaccination.",
+   "Le vaccin est à éviter chez la femme enceinte.",
+   "Une contraception est recommandée 1 mois avant la vaccination.",
+   "Aucune précaution n'est nécessaire.",
+   "La vaccination est recommandée pendant la grossesse."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : contraception 2 mois après.",
+   "Exact : à éviter chez la femme enceinte.",
+   "Exact : contraception 1 mois avant.",
+   "Faux : une contraception encadre la vaccination.",
+   "Faux : le vaccin vivant atténué est à éviter pendant la grossesse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le dépistage prénatal, lesquelles sont exactes ?",
+  "options": [
+   "La vaccination post-partum est conseillée aux séronégatives avant de quitter la maternité.",
+   "Il est inutile.",
+   "Il ne concerne que les femmes vaccinées.",
+   "Il repose sur la sérologie.",
+   "Il concerne toutes les femmes en consultation prénatale."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : vaccination conseillée en post-partum pour les séronégatives.",
+   "Faux : il est systématique.",
+   "Faux : il concerne toutes les femmes.",
+   "Exact : dépistage prénatal par la sérologie.",
+   "Exact : chez toutes les femmes en consultation prénatale."
+  ]
+ },
+ {
+  "q": "Relatives à la vaccination post-partum, lesquelles sont vraies ?",
+  "options": [
+   "Elle est conseillée aux femmes séronégatives.",
+   "Elle ne concerne que les femmes immunes.",
+   "Elle est inutile.",
+   "Elle a lieu avant de quitter la maternité.",
+   "Elle est contre-indiquée après l'accouchement."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Exact : conseillée aux séronégatives.",
+   "Faux : elle concerne les séronégatives.",
+   "Faux : elle protège les grossesses ultérieures.",
+   "Exact : avant de quitter la maternité.",
+   "Faux : elle est conseillée en post-partum."
+  ]
+ },
+ {
+  "q": "Concernant l'éradication de la rubéole congénitale, lesquelles sont exactes ?",
+  "options": [
+   "Elle est impossible car le virus a plusieurs sérotypes.",
+   "Elle devrait être possible car il existe un vaccin vivant atténué efficace.",
+   "Le vaccin est inefficace.",
+   "Le réservoir strictement humain la rend théoriquement possible.",
+   "Elle est impossible car il existe un réservoir animal."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : il n'existe qu'un seul type de virus.",
+   "Exact : la rubéole congénitale devrait être éradiquée grâce au vaccin efficace.",
+   "Faux : le vaccin est efficace.",
+   "Exact : sans réservoir animal, l'éradication est théoriquement possible.",
+   "Faux : le réservoir est strictement humain."
+  ]
+ },
+ {
+  "q": "À propos de l'obligation sérologique en début de grossesse, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Elle est facultative.",
+   "Elle ne concerne que les femmes symptomatiques.",
+   "La recherche d'anticorps est obligatoire.",
+   "Des résultats écrits prouvant l'immunité dispensent de la refaire.",
+   "Elle s'applique en l'absence de résultats écrits prouvant l'immunité."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elle est obligatoire.",
+   "Faux : c'est un dépistage systématique.",
+   "Exact : recherche d'Ac obligatoire en début de grossesse.",
+   "Exact : des résultats écrits dispensent de répéter la sérologie.",
+   "Exact : en l'absence de résultats écrits prouvant l'immunité."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles justifient que toute femme en âge de procréer soit immunisée ?",
+  "options": [
+   "Le risque tératogène maximal au 1er trimestre.",
+   "L'existence d'un vaccin efficace.",
+   "La bénignité de la forme congénitale.",
+   "L'absence de risque fœtal.",
+   "La gravité de la rubéole congénitale."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : syndrome polymalformatif en cas de primo-infection au 1er trimestre.",
+   "Exact : vaccin vivant atténué efficace disponible.",
+   "Faux : la forme congénitale est grave.",
+   "Faux : le risque tératogène est majeur.",
+   "Exact : la rubéole congénitale est une affection grave."
+  ]
+ },
+ {
+  "q": "Relatives aux arthralgies post-vaccinales, lesquelles sont vraies ?",
+  "options": [
+   "Elles n'existent pas après vaccination.",
+   "Elles sont plus fréquentes chez le nourrisson.",
+   "Elles sont constantes et graves.",
+   "Elles surviennent surtout chez les adultes.",
+   "Elles sont un inconvénient du vaccin."
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elles sont décrites après vaccination.",
+   "Faux : elles surviennent surtout chez les adultes.",
+   "Faux : inconvénient bénin, non constant.",
+   "Exact : surtout chez les adultes.",
+   "Exact : les arthralgies sont un inconvénient du vaccin."
+  ]
+ },
+ {
+  "q": "Concernant l'éruption post-vaccinale, lesquelles sont exactes ?",
+  "options": [
+   "Elle est grave et extensive.",
+   "Elle est sans gravité.",
+   "Elle est discrète.",
+   "Elle impose l'hospitalisation.",
+   "Elle n'existe pas."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : elle est discrète et sans gravité.",
+   "Exact : sans gravité.",
+   "Exact : éruption discrète possible après vaccination.",
+   "Faux : bénigne, sans hospitalisation.",
+   "Faux : elle est décrite comme inconvénient."
+  ]
+ },
+ {
+  "q": "À propos du calendrier vaccinal, quelles affirmations sont correctes ?",
+  "options": [
+   "Première dose de ROR à partir de 1 an.",
+   "Rappel entre 3 et 6 ans.",
+   "Vaccination de tous les enfants avant l'âge d'un an contre la rubéole.",
+   "Première dose à la naissance.",
+   "Rappel unique à 12 ans pour tous."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : ROR à partir de 1 an.",
+   "Exact : rappel entre 3 et 6 ans.",
+   "Exact : vacciner tous les enfants avant l'âge d'un an.",
+   "Faux : le ROR débute à partir de 1 an.",
+   "Faux : la vaccination tardive concerne les non vaccinés à 12-13 ans."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la contraception entourant la vaccination, lesquelles sont exactes ?",
+  "options": [
+   "Elle est recommandée 1 mois avant la vaccination.",
+   "Elle est recommandée 2 mois après la vaccination.",
+   "Elle n'est recommandée qu'après la vaccination.",
+   "La vaccination est possible pendant la grossesse sous contraception.",
+   "Elle est inutile."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : contraception 1 mois avant.",
+   "Exact : contraception 2 mois après.",
+   "Faux : elle est recommandée avant ET après.",
+   "Faux : le vaccin est à éviter chez la femme enceinte.",
+   "Faux : elle est recommandée avant et après."
+  ]
+ },
+ {
+  "q": "Relatives aux objectifs de la vaccination des enfants, lesquelles sont vraies ?",
+  "options": [
+   "Protéger uniquement les filles.",
+   "Réduire les cas de primo-infection chez les adultes.",
+   "Protéger avant la rencontre avec le virus sauvage.",
+   "Augmenter la circulation du virus sauvage.",
+   "Supprimer les épidémies."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : tous les enfants sont vaccinés.",
+   "Exact : supprimer les cas de primo-infection chez les adultes.",
+   "Exact : seul moyen de protéger avant la rencontre avec le virus sauvage.",
+   "Faux : la vaccination réduit la circulation virale.",
+   "Exact : supprimer les épidémies."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination des femmes séronégatives, lesquelles sont exactes ?",
+  "options": [
+   "Elle est conseillée en post-partum avant de quitter la maternité.",
+   "Elle est inutile après un accouchement.",
+   "Elle est recommandée pendant la grossesse.",
+   "Elle est interdite à tout âge.",
+   "Elle est possible avant la grossesse."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Exact : conseillée en post-partum aux séronégatives.",
+   "Faux : elle protège les grossesses ultérieures.",
+   "Faux : à éviter chez la femme enceinte.",
+   "Faux : elle est recommandée aux séronégatives en âge de procréer.",
+   "Exact : vaccination tardive des femmes avant la grossesse."
+  ]
+ },
+ {
+  "q": "À propos de la prévention globale de la rubéole, quelle(s) proposition(s) est (sont) exacte(s) ?",
+  "options": [
+   "Prévention uniquement curative.",
+   "Vaccination des enfants avant l'âge d'un an.",
+   "Dépistage sérologique prénatal systématique.",
+   "Vaccination des femmes séronégatives en post-partum.",
+   "Absence de vaccin disponible."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la prévention est vaccinale et par dépistage.",
+   "Exact : vacciner tous les enfants avant un an.",
+   "Exact : dépistage prénatal chez toutes les femmes.",
+   "Exact : vaccination post-partum des séronégatives.",
+   "Faux : un vaccin atténué efficace existe depuis 1968."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles résument correctement la prévention ?",
+  "options": [
+   "La rubéole congénitale est inévitable.",
+   "Un vaccin vivant atténué efficace existe.",
+   "Toute femme en âge de procréer doit être immunisée.",
+   "Le vaccin est à éviter pendant la grossesse.",
+   "La sérologie est obligatoire en début de grossesse sans preuve d'immunité."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elle devrait être éradiquée grâce au vaccin.",
+   "Exact : vaccin atténué efficace depuis 1968.",
+   "Exact : toute femme en âge de procréer doit être immunisée.",
+   "Exact : vaccin à éviter chez la femme enceinte.",
+   "Exact : recherche d'Ac obligatoire sans résultats écrits."
+  ]
+ },
+ {
+  "q": "Relatives à l'histoire vaccinale, lesquelles sont vraies ?",
+  "options": [
+   "Les tests sérologiques ont précédé le vaccin.",
+   "Depuis 1968, un vaccin atténué efficace est disponible.",
+   "Le vaccin a précédé l'isolement du virus.",
+   "Un vaccin est disponible à partir de 1969.",
+   "Aucun vaccin n'existe."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : tests sérologiques en 1967, vaccin en 1968/1969.",
+   "Exact : depuis 1968, vaccin atténué efficace (prévention).",
+   "Faux : l'isolement (1961) précède le vaccin (1968/1969).",
+   "Exact : vaccin disponible en 1969 selon l'historique.",
+   "Faux : le vaccin existe et est efficace."
+  ]
+ }
+]

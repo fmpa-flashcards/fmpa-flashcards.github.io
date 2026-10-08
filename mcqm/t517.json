@@ -1,0 +1,4413 @@
+[
+ {
+  "q": "Parmi les propositions suivantes concernant la taxonomie du VIH, lesquelles sont exactes ?",
+  "options": [
+   "Le VIH appartient à la famille des Rétroviridae.",
+   "Le VIH appartient à la sous-famille des Orthoretrovirinae.",
+   "Le VIH est classé dans le genre Lentivirus.",
+   "Le VIH appartient à la famille des Herpesviridae.",
+   "Le VIH appartient à la famille des Paramyxoviridae."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la famille des Rétroviridae regroupe les rétrovirus, dont le VIH.",
+   "Exact : les Orthoretrovirinae regroupent les rétrovirus dont le VIH.",
+   "Exact : les Lentivirus sont des rétrovirus à infection lente et persistante.",
+   "Faux : les Herpesviridae sont des virus à ADN, le VIH est un virus à ARN.",
+   "Faux : les Paramyxoviridae sont des virus à ARN non rétrovirus (rougeole, oreillons)."
+  ]
+ },
+ {
+  "q": "À propos de la classification du VIH-1, quelle(s) proposition(s) est (sont) correcte(s) ?",
+  "options": [
+   "Il existe des virus recombinants (CRF), comme le CRF01.",
+   "Le VIH-1 ne comporte qu'un seul groupe génétique.",
+   "Le groupe O est le groupe majoritaire dans le monde.",
+   "Le VIH-1 comprend 4 groupes : M, N, O et P.",
+   "Le groupe M comporte 11 sous-types (A1, A2, B, C, D, F1, F2, G, H, J, K)."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : les CRF sont des mosaïques issues de recombinaisons entre sous-types.",
+   "Faux : on distingue 4 groupes M, N, O et P.",
+   "Faux : le groupe majoritaire est le groupe M (M pour majeur).",
+   "Exact : le groupe M est majoritaire dans le monde, N, O et P sont rares.",
+   "Exact : ces 11 sous-types constituent la diversité du groupe M."
+  ]
+ },
+ {
+  "q": "Concernant la particule virale du VIH, indiquez les réponses exactes.",
+  "options": [
+   "Le génome du VIH est constitué d'ADN double brin.",
+   "La particule virale est sphérique, de 90 à 120 nm de diamètre.",
+   "Le VIH est un virus enveloppé.",
+   "Le core du VIH contient deux molécules identiques d'ARN monocaténaire de polarité positive.",
+   "Le VIH est un virus nu dépourvu d'enveloppe."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le génome est un ARN monocaténaire de polarité positive, en deux exemplaires.",
+   "Exact : c'est la taille de la particule virale du VIH.",
+   "Exact : son enveloppe est une double couche phospholipidique d'origine cellulaire.",
+   "Exact : génome diploïde à ARN+ caractéristique des rétrovirus.",
+   "Faux : le VIH est enveloppé, donc fragile dans le milieu extérieur."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes au sujet de l'enveloppe du VIH ?",
+  "options": [
+   "La gp120 est la glycoprotéine d'enveloppe externe (SU).",
+   "La gp41 est la glycoprotéine transmembranaire (TM).",
+   "La gp120 traverse la double couche lipidique de l'enveloppe.",
+   "Les spicules du VIH sont constitués d'hémagglutinine.",
+   "L'enveloppe est une double couche phospholipidique d'origine cellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : la gp120 de surface se lie au récepteur CD4.",
+   "Exact : la gp41 traverse la double couche lipidique et assure la fusion.",
+   "Faux : c'est la gp41 qui est transmembranaire ; la gp120 est externe, liée faiblement à la gp41.",
+   "Faux : l'hémagglutinine est la spicule des virus grippaux, pas du VIH.",
+   "Exact : elle provient de la membrane de la cellule hôte lors du bourgeonnement."
+  ]
+ },
+ {
+  "q": "Au sujet de les protéines du core du VIH, parmi les affirmations suivantes, lesquelles sont vraies ?",
+  "options": [
+   "La protéine p24 est la glycoprotéine d'enveloppe du VIH.",
+   "Le core du VIH contient un tégument protéique.",
+   "La protéine p17 (MA) est la protéine de matrice, la plus externe du core.",
+   "La protéine p24 (CA) est la protéine majeure de la capside.",
+   "La protéine p7 (NC) est la nucléocapside associée aux molécules d'ARN."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la p24 est la protéine de capside ; les glycoprotéines d'enveloppe sont gp120 et gp41.",
+   "Faux : le tégument est une structure des Herpesviridae, absente chez le VIH.",
+   "Exact : la matrice p17 tapisse la face interne de l'enveloppe.",
+   "Exact : la capside p24 donne sa forme au core.",
+   "Exact : la p7 est intimement liée au génome ARN."
+  ]
+ },
+ {
+  "q": "À propos de les enzymes du VIH, quelles propositions peut-on retenir comme exactes ?",
+  "options": [
+   "La transcriptase inverse (RT) synthétise l'ADN à partir de l'ARN viral.",
+   "L'intégrase assure l'intégration de l'ADN proviral dans l'ADN cellulaire.",
+   "La protéase assure la maturation des protéines virales.",
+   "La neuraminidase est une enzyme du VIH.",
+   "Une ADN polymérase virale transcrit le génome du VIH."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la RT réalise la transcription rétrograde ARN → ADN.",
+   "Exact : l'intégration par l'intégrase est une étape clé du cycle.",
+   "Exact : la protéase clive les précurseurs protéiques lors de la maturation.",
+   "Faux : la neuraminidase est une enzyme des virus grippaux.",
+   "Faux : la transcription du génome viral est assurée par l'ARN polymérase II cellulaire."
+  ]
+ },
+ {
+  "q": "Concernant les gènes majeurs du VIH, choisissez les affirmations exactes.",
+  "options": [
+   "Le gène env code pour les glycoprotéines de l'enveloppe.",
+   "Le gène gag code pour les glycoprotéines d'enveloppe.",
+   "Le gène pol code pour la capside virale.",
+   "Le gène gag code pour les protéines de la capside.",
+   "Le gène pol code pour la transcriptase inverse et l'intégrase."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : env code pour gp120 et gp41.",
+   "Faux : les glycoprotéines d'enveloppe sont codées par le gène env.",
+   "Faux : la capside est codée par le gène gag.",
+   "Exact : gag code notamment pour p24, p17 et p7.",
+   "Exact : pol code pour les enzymes virales."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes relatives à les gènes mineurs du VIH sont correctes ?",
+  "options": [
+   "Les variations des gènes mineurs participent à l'émergence de variants.",
+   "Les gènes tat, rev et vif interviennent dans la multiplication du virus.",
+   "Le VIH ne possède que les trois gènes gag, pol et env.",
+   "Les gènes mineurs codent pour les protéines de la capside.",
+   "Le gène tat code pour la transcriptase inverse."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : les variations touchent aussi bien les gènes majeurs que mineurs.",
+   "Exact : ce sont des gènes régulateurs de la réplication virale.",
+   "Faux : il possède aussi des gènes mineurs régulateurs comme tat, rev et vif.",
+   "Faux : la capside est codée par gag ; les gènes mineurs régulent la multiplication.",
+   "Faux : la transcriptase inverse est codée par le gène pol."
+  ]
+ },
+ {
+  "q": "À propos de le VIH-2, quelles sont les réponses justes ?",
+  "options": [
+   "L'homologie génomique entre le VIH-1 et le VIH-2 est de 50 %.",
+   "Le risque de séroconversion lié au VIH-1 est 5 fois plus élevé que celui lié au VIH-2.",
+   "L'homologie génomique entre le VIH-1 et le VIH-2 est de 95 %.",
+   "Le VIH-2 appartient à la famille des Herpesviridae.",
+   "La structure du VIH-2 est similaire à celle du VIH-1."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : les deux virus ne partagent que la moitié de leur génome.",
+   "Exact : le VIH-2 est moins transmissible et moins pathogène.",
+   "Faux : l'homologie n'est que de 50 %.",
+   "Faux : le VIH-2 est un Rétroviridae du genre Lentivirus, comme le VIH-1.",
+   "Exact : les deux virus ont la même organisation structurale."
+  ]
+ },
+ {
+  "q": "Concernant l'origine du VIH, quelles affirmations sont à retenir ?",
+  "options": [
+   "Le VIH dérive du virus de la grippe aviaire.",
+   "Le VIH est d'origine strictement humaine sans ancêtre animal.",
+   "Le VIH-1 dérive du SIV du chimpanzé (SIVcpz).",
+   "Le VIH-2 dérive du SIV du sooty mangabé (SIVsm).",
+   "L'émergence du VIH résulte d'une transmission zoonotique du primate à l'homme."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le VIH dérive de lentivirus simiens (SIV), pas des virus grippaux.",
+   "Faux : le VIH résulte d'un passage zoonotique de SIV simiens à l'homme.",
+   "Exact : le passage du SIVcpz à l'homme est à l'origine du VIH-1.",
+   "Exact : le SIVsm du mangabé est à l'origine du VIH-2.",
+   "Exact : les SIV simiens ont franchi la barrière d'espèce vers l'homme."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant l'attachement du VIH à sa cellule cible ?",
+  "options": [
+   "La gp120 se lie au récepteur membranaire CD4.",
+   "Les corécepteurs du VIH sont CCR5 et CXCR4.",
+   "La fusion membranaire est assurée par la gp41.",
+   "Le VIH utilise le récepteur CD21 pour pénétrer dans la cellule.",
+   "Le VIH se fixe aux acides sialiques de la cellule cible."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'attachement débute par la liaison gp120-CD4.",
+   "Exact : la liaison aux corécepteurs suit celle au CD4.",
+   "Exact : la gp41 permet la fusion de l'enveloppe virale avec la membrane cellulaire.",
+   "Faux : le CD21 est le récepteur de l'EBV sur les lymphocytes B.",
+   "Faux : les acides sialiques sont les récepteurs des virus grippaux."
+  ]
+ },
+ {
+  "q": "Au sujet de les cellules cibles du VIH, indiquez les propositions exactes.",
+  "options": [
+   "Le VIH peut infecter une certaine catégorie de lymphocytes B.",
+   "Le VIH infecte principalement les hépatocytes.",
+   "Le VIH infecte les neurones sensitifs où il reste latent.",
+   "Le VIH infecte principalement les lymphocytes T CD4.",
+   "Le VIH infecte les monocytes et les macrophages."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : le cours cite aussi une catégorie de LB parmi les cellules infectées.",
+   "Faux : les hépatocytes sont la cible des virus des hépatites, pas du VIH.",
+   "Faux : la latence neuronale sensitive est le fait des Herpesviridae.",
+   "Exact : le tropisme lymphocytaire T CD4 explique l'immunodéficience.",
+   "Exact : ces cellules expriment le CD4 et les corécepteurs."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations ci-dessous sur la rétrotranscription, lesquelles sont exactes ?",
+  "options": [
+   "La rétrotranscription a lieu dans le noyau grâce à l'ARN polymérase II.",
+   "La rétrotranscription est la synthèse d'ADN à partir de l'ARN viral.",
+   "La rétrotranscription est réalisée par la transcriptase inverse virale.",
+   "Le produit de la rétrotranscription est l'ADN proviral.",
+   "La rétrotranscription synthétise de l'ARN à partir d'ADN."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : elle est réalisée par la RT virale ; l'ARN polymérase II sert à la transcription ultérieure.",
+   "Exact : c'est la transcription rétrograde caractéristique des rétrovirus.",
+   "Exact : la RT est l'enzyme de cette étape.",
+   "Exact : l'ADN double brin proviral sera intégré au génome cellulaire.",
+   "Faux : le sens est inverse : ADN synthétisé à partir d'ARN."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes à propos de l'intégration du génome du VIH ?",
+  "options": [
+   "L'intégration permet une latence prolongée du virus dans la cellule.",
+   "Après intégration, la transcription du génome viral utilise l'ARN polymérase II cellulaire.",
+   "L'intégration de l'ADN proviral est réalisée par la protéase.",
+   "L'ADN proviral reste épisomal sans jamais s'intégrer.",
+   "L'ADN proviral est intégré dans l'ADN cellulaire par l'intégrase."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : le provirus intégré se réplique avec la cellule hôte.",
+   "Exact : la transcription en ARNm est assurée par la machinerie cellulaire.",
+   "Faux : c'est l'intégrase qui intègre l'ADN proviral.",
+   "Faux : l'intégration dans le génome cellulaire est une étape obligatoire du cycle.",
+   "Exact : l'intégrase virale réalise cette intégration."
+  ]
+ },
+ {
+  "q": "Concernant l'assemblage et la maturation des virions, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "La maturation des virions est assurée par la transcriptase inverse.",
+   "Les virions sont libérés par lyse explosive de la cellule.",
+   "Les ARNm viraux sont traduits en protéines de structure.",
+   "Les nouveaux virions sont libérés par bourgeonnement extracellulaire.",
+   "La maturation des protéines virales est assurée par la protéase."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la RT n'agit qu'à la rétrotranscription ; la maturation relève de la protéase.",
+   "Faux : le VIH est libéré par bourgeonnement, avec l'enveloppe empruntée à la cellule.",
+   "Exact : la traduction produit les protéines gag, pol et env.",
+   "Exact : le bourgeonnement s'effectue à partir de la membrane cellulaire.",
+   "Exact : la protéase clive les précurseurs lors de la maturation."
+  ]
+ },
+ {
+  "q": "À propos de les deux étapes du cycle de multiplication du VIH, cochez les propositions exactes.",
+  "options": [
+   "La première étape s'effectue uniquement par les enzymes virales.",
+   "La première étape se termine par l'intégration du virus dans le génome cellulaire.",
+   "La seconde étape comprend la synthèse des nouveaux virions.",
+   "La seconde étape est régulée par des mécanismes cellulaires et viraux.",
+   "Chaque étape du cycle est insensible à toute intervention thérapeutique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : attachement, rétrotranscription et intégration ne mobilisent que les enzymes virales.",
+   "Exact : l'intégration du provirus clôt la première étape.",
+   "Exact : transcription, traduction, assemblage et bourgeonnement.",
+   "Exact : la machinerie cellulaire participe à la production virale.",
+   "Faux : chaque étape du cycle peut être la cible d'une intervention thérapeutique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles décrivent correctement la variabilité génétique du VIH ?",
+  "options": [
+   "La population virale forme des quasi-espèces hétérogènes.",
+   "La transcriptase inverse possède une activité correctrice 3'-5'.",
+   "Le génome du VIH est génétiquement stable d'un virion à l'autre.",
+   "La transcriptase inverse a une faible fidélité, sans activité correctrice.",
+   "Le VIH produit environ 10 milliards de virions par jour."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : la quasi-espèce est une population virale génétiquement diverse.",
+   "Faux : la RT est dépourvue d'activité correctrice, d'où les mutations.",
+   "Faux : la variabilité génétique du VIH est extrême.",
+   "Exact : l'absence de relecture génère des mutations à chaque cycle.",
+   "Exact : cette production massive entretient la diversité virale."
+  ]
+ },
+ {
+  "q": "À propos de les conséquences de la variabilité génétique du VIH, indiquez les affirmations vraies.",
+  "options": [
+   "La variabilité génétique rend le VIH sensible à tous les antibiotiques.",
+   "La variabilité génétique favorise l'émergence de résistances au traitement.",
+   "La variabilité génétique complique le diagnostic virologique.",
+   "La variabilité génétique rend difficile l'élaboration d'un vaccin efficace.",
+   "La recombinaison génétique entre ARN viraux crée des virus mosaïques."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les antibiotiques sont inactifs sur les virus, et la variabilité n'y change rien.",
+   "Exact : les mutants résistants sont sélectionnés sous traitement.",
+   "Exact : les variants peuvent échapper à certains tests.",
+   "Exact : l'extrême diversité antigénique fait obstacle au vaccin.",
+   "Exact : les échanges de matériel génétique lors de la rétrotranscription créent des mosaïques."
+  ]
+ },
+ {
+  "q": "Quelles affirmations exactes peut-on faire sur la stabilité physico-chimique du VIH ?",
+  "options": [
+   "Le VIH peut rester viable environ 2 semaines à température ambiante en solution aqueuse.",
+   "Le VIH est inactivé par la chaleur à 56 °C pendant 30 minutes.",
+   "L'hypochlorite de sodium inactive le VIH.",
+   "L'alcool à 70° est inefficace pour inactiver le VIH.",
+   "Le VIH est un virus enveloppé, donc fragile dans le milieu extérieur."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : malgré sa fragilité, il survit en milieu aqueux.",
+   "Exact : la chaleur détruit l'enveloppe et les protéines virales.",
+   "Exact : l'eau de Javel fait partie des désinfectants efficaces.",
+   "Faux : l'alcool à 70° inactive le VIH, comme les dérivés iodés.",
+   "Exact : l'enveloppe lipidique le rend sensible aux solvants et détergents."
+  ]
+ },
+ {
+  "q": "Concernant la classification de Baltimore du VIH, quelles sont les propositions justes ?",
+  "options": [
+   "Le VIH appartient au groupe I de Baltimore (ADN double brin).",
+   "Le VIH réplique son génome sans intermédiaire ADN.",
+   "Le VIH est un virus à ARN de polarité positive.",
+   "Le VIH appartient au groupe VI de Baltimore.",
+   "Le cycle du VIH comporte un intermédiaire ADN proviral."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le groupe I concerne les virus à ADNdb comme les Herpesviridae.",
+   "Faux : l'intermédiaire ADN proviral est obligatoire chez les rétrovirus.",
+   "Exact : son génome est un ARN monocaténaire (+).",
+   "Exact : le groupe VI regroupe les rétrovirus à ARN+ avec ADN intermédiaire.",
+   "Exact : la rétrotranscription produit un ADN intégré au génome cellulaire."
+  ]
+ },
+ {
+  "q": "Au sujet de le rôle de la gp120 et de la gp41, quelles propositions sont correctes ?",
+  "options": [
+   "La gp120 assure la reconnaissance du récepteur CD4.",
+   "La gp41 assure la fusion entre l'enveloppe virale et la membrane cellulaire.",
+   "La gp120 est liée à la gp41 par des liaisons faibles.",
+   "La gp41 assure la reconnaissance du récepteur CD4.",
+   "La gp120 est une protéine de la capside."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la gp120 est la protéine d'attachement.",
+   "Exact : la gp41 est la protéine de fusion.",
+   "Exact : la gp120 (SU) est associée de façon non covalente à la gp41 (TM).",
+   "Faux : c'est la gp120 qui reconnaît le CD4, la gp41 assure la fusion.",
+   "Faux : la gp120 est une glycoprotéine d'enveloppe ; la capside est formée de p24."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes concernant les quasi-espèces du VIH sont vraies ?",
+  "options": [
+   "Les quasi-espèces compliquent l'étude de la génétique du VIH.",
+   "Tous les virions d'un patient sont génétiquement identiques.",
+   "La notion de quasi-espèce s'applique aux virus à ADN très stables.",
+   "Une quasi-espèce est une population virale hétérogène.",
+   "Les quasi-espèces résultent de la faible fidélité de la RT."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : la génétique du VIH est extrêmement complexe à étudier.",
+   "Faux : la population virale est une quasi-espèce hétérogène.",
+   "Faux : elle décrit la diversité des populations virales à ARN comme le VIH.",
+   "Exact : elle résulte des mutations accumulées à chaque cycle.",
+   "Exact : l'absence de correction génère la diversité."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants relatifs à l'histoire de la découverte du VIH, lesquels sont exacts ?",
+  "options": [
+   "La première thérapeutique antirétrovirale date de 1975.",
+   "Le SIDA a été identifié en 1981 dans la communauté homosexuelle de Californie.",
+   "Le VIH-1 a été isolé en 1983.",
+   "Un deuxième virus, le VIH-2, a été identifié en 1986.",
+   "Le VIH a été isolé pour la première fois en 1995."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la première thérapeutique antirétrovirale date de 1990.",
+   "Exact : première description du syndrome en 1981.",
+   "Exact : isolement presque simultané par les équipes américaine et française.",
+   "Exact : le VIH-2 a été découvert trois ans après le VIH-1.",
+   "Faux : l'isolement du VIH-1 date de 1983."
+  ]
+ },
+ {
+  "q": "À propos de les groupes du VIH-1 découverts après 1990, quelles affirmations sont justes ?",
+  "options": [
+   "Le groupe N du VIH-1 a été identifié en 1998.",
+   "La première infection à VIH-1 documentée remonte à 1959.",
+   "Le groupe P a été identifié avant le groupe N.",
+   "Le VIH-1 ne comporte que les groupes M et N.",
+   "Le sous-type O du VIH-1 a été identifié en 1994."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : N pour non-M non-O, décrit en 1998.",
+   "Exact : le cas le plus ancien documenté date de 1959.",
+   "Faux : le groupe P est postérieur ; N a été identifié en 1998.",
+   "Faux : il comporte 4 groupes : M, N, O et P.",
+   "Exact : le groupe O (Outlier) a été décrit en 1994."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes concernant le SIDA en tant que syndrome ?",
+  "options": [
+   "Le SIDA est une maladie génétique héréditaire.",
+   "Le SIDA est causé par une bactérie opportuniste.",
+   "Le SIDA est un ensemble de manifestations cliniques traduisant un déficit de l'immunité à médiation cellulaire.",
+   "Le SIDA est le stade évolué de l'infection à VIH.",
+   "Le SIDA est une maladie à déclaration obligatoire."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le SIDA est acquis, lié à l'infection par le VIH.",
+   "Faux : le SIDA est causé par le VIH, un rétrovirus.",
+   "Exact : c'est la définition du syndrome d'immunodéficience acquise.",
+   "Exact : il correspond à la 3e phase de l'histoire naturelle.",
+   "Exact : le cours le précise."
+  ]
+ },
+ {
+  "q": "Concernant le réservoir du VIH, indiquez les affirmations correctes.",
+  "options": [
+   "L'homme est le seul réservoir du virus.",
+   "La diffusion du virus est surtout assurée par les porteurs asymptomatiques.",
+   "Il n'existe pas de réservoir animal du VIH.",
+   "Le moustique est un réservoir du VIH.",
+   "Les primates non humains sont le réservoir actuel du VIH."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : il n'existe pas de réservoir animal du VIH.",
+   "Exact : les porteurs asymptomatiques ignorent leur statut et transmettent.",
+   "Exact : seul l'homme héberge et transmet le virus.",
+   "Faux : le VIH ne se transmet pas par les arthropodes vecteurs.",
+   "Faux : le réservoir actuel est l'homme seul, même si l'origine est simienne."
+  ]
+ },
+ {
+  "q": "Au sujet de les liquides biologiques contaminants, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le lait maternel peut transmettre le VIH.",
+   "La salive est une source habituelle de contamination.",
+   "Les larmes transmettent couramment le VIH.",
+   "Le sang est une source de contamination par le VIH.",
+   "Le sperme et les sécrétions vaginales transmettent le VIH."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : l'allaitement est une voie de transmission mère-enfant.",
+   "Faux : la salive contient le virus en trop faible concentration pour contaminer.",
+   "Faux : les larmes, comme la salive, sont en trop faible concentration.",
+   "Exact : la transmission sanguine est un mode majeur.",
+   "Exact : la transmission sexuelle passe par ces sécrétions."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous relatives à les autres liquides biologiques et le VIH, quelles sont les exactes ?",
+  "options": [
+   "L'urine est une source majeure de contamination par le VIH.",
+   "Le virus est présent dans le LCR.",
+   "Le virus est présent dans le liquide amniotique.",
+   "L'infectiosité dépend de la charge virale dans le liquide exposant.",
+   "L'infectiosité du VIH est indépendante de la charge virale."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : l'urine n'est pas citée parmi les sources de contamination.",
+   "Exact : le LCR fait partie des liquides où le virus est détectable.",
+   "Exact : cité parmi les liquides biologiques contenant le virus.",
+   "Exact : plus la charge virale est élevée, plus le risque de transmission est grand.",
+   "Faux : l'infectiosité dépend de la charge virale du liquide exposant."
+  ]
+ },
+ {
+  "q": "À propos de la transmission sexuelle du VIH, quelles réponses sont correctes ?",
+  "options": [
+   "Le VIH est une infection sexuellement transmissible (IST).",
+   "Le VIH peut être le lit d'autres IST comme la syphilis ou l'hépatite B.",
+   "La transmission sexuelle du VIH est exceptionnelle.",
+   "Le préservatif n'a aucun rôle dans la prévention de la transmission sexuelle.",
+   "La transmission sexuelle est le mode de transmission prédominant (+++)."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : la voie sexuelle est la voie majeure.",
+   "Exact : l'infection à VIH favorise la transmission d'autres IST.",
+   "Faux : c'est le mode de transmission le plus fréquent.",
+   "Faux : l'usage du préservatif est un axe majeur de prévention.",
+   "Exact : le cours la place en tête des modes de transmission."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes s'appliquent correctement à la transmission sanguine du VIH ?",
+  "options": [
+   "Le risque de transmission après AES est de 0,3 %.",
+   "La transfusion de produits sanguins dépistés transmet fréquemment le VIH.",
+   "La toxicomanie intraveineuse expose à la transmission sanguine du VIH.",
+   "Les accidents d'exposition au sang (AES) sont une voie de transmission iatrogène.",
+   "Les instruments médico-chirurgicaux mal stérilisés peuvent transmettre le VIH."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : le risque de séroconversion après exposition percutanée est de 0,3 %.",
+   "Faux : le dépistage systématique des dons a sécurisé la transfusion.",
+   "Exact : le partage de seringues transmet le virus.",
+   "Exact : piqûre ou projection exposent au risque.",
+   "Exact : le matériel tranchant ou piquant réutilisable non désinfecté est à risque."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la transmission mère-enfant du VIH, lesquelles sont exactes ?",
+  "options": [
+   "La transmission mère-enfant peut survenir pendant la grossesse.",
+   "La transmission mère-enfant peut survenir lors de l'accouchement.",
+   "L'allaitement maternel peut transmettre le VIH.",
+   "La fréquence de la transmission dépend du stade de la maladie et du traitement antirétroviral.",
+   "La césarienne augmente le risque de transmission mère-enfant."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la transmission in utero est possible, surtout en fin de grossesse.",
+   "Exact : l'accouchement est un moment à risque.",
+   "Exact : le lait maternel contient le virus.",
+   "Exact : charge virale maternelle et traitement modulent le risque.",
+   "Faux : la césarienne fait partie des mesures de prévention."
+  ]
+ },
+ {
+  "q": "À propos de les situations sans risque de transmission du VIH, quelle(s) proposition(s) est (sont) correcte(s) ?",
+  "options": [
+   "Il n'y a pas de transmission en milieu scolaire par les contacts usuels.",
+   "Le partage des repas transmet le VIH.",
+   "La poignée de main transmet le VIH.",
+   "Il n'y a pas de transmission lors des contacts familiaux usuels.",
+   "Il n'y a pas de transmission lors des contacts professionnels usuels."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : la scolarité d'un enfant séropositif ne présente pas de risque.",
+   "Faux : les contacts usuels, dont les repas partagés, ne transmettent pas.",
+   "Faux : aucun contact cutané usuel ne transmet le virus.",
+   "Exact : la vie familiale quotidienne ne transmet pas le VIH.",
+   "Exact : les contacts professionnels habituels sont sans risque."
+  ]
+ },
+ {
+  "q": "Concernant les facteurs de risque liés à la sexualité, indiquez les réponses exactes.",
+  "options": [
+   "L'abstinence sexuelle est un facteur de risque de transmission.",
+   "Le vagabondage sexuel est un facteur de risque.",
+   "L'homosexualité masculine est citée comme facteur de risque.",
+   "La prostitution est un facteur de risque.",
+   "La fidélité du couple est un facteur de risque."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : l'abstinence supprime le risque de transmission sexuelle.",
+   "Exact : la multiplicité des partenaires augmente le risque.",
+   "Exact : le cours la mentionne parmi les facteurs liés à la sexualité.",
+   "Exact : citée parmi les facteurs de risque liés à la sexualité.",
+   "Faux : c'est au contraire un facteur protecteur."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes au sujet de les autres facteurs de risque de l'infection à VIH ?",
+  "options": [
+   "Les IST ulcérantes favorisent la transmission du VIH.",
+   "La scarification et le tatouage traditionnel sont des facteurs de risque.",
+   "Le don de sang dans un centre agréé est un facteur de risque.",
+   "La vaccination contre l'hépatite B est un facteur de risque.",
+   "La toxicomanie intraveineuse est un facteur de risque."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : les ulcérations génitales facilitent l'entrée du virus.",
+   "Exact : liés au contexte social et culturel, par matériel non stérile.",
+   "Faux : le matériel à usage unique rend le don sans risque.",
+   "Faux : la vaccination n'expose pas au VIH.",
+   "Exact : liée au partage de matériel d'injection."
+  ]
+ },
+ {
+  "q": "Au sujet de la situation épidémiologique mondiale du VIH, parmi les affirmations suivantes, lesquelles sont vraies ?",
+  "options": [
+   "L'Europe occidentale est la région la plus touchée par le VIH.",
+   "Moins d'un million de personnes vivaient avec le VIH en 2016.",
+   "En 2016, 36,7 millions de personnes vivaient avec le VIH dans le monde.",
+   "L'Afrique subsaharienne est la région la plus touchée.",
+   "De 2000 à 2015, les nouvelles infections ont baissé de 35 %."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : c'est l'Afrique subsaharienne qui concentre 67 % des infections.",
+   "Faux : elles étaient 36,7 millions dans le monde.",
+   "Exact : chiffre ONUSIDA 2016 cité dans le cours.",
+   "Exact : 25,6 millions de personnes y vivaient avec le VIH, soit 67 %.",
+   "Exact : baisse attribuée à l'extension du traitement et de la prévention."
+  ]
+ },
+ {
+  "q": "À propos de l'épidémiologie du VIH au Maroc, quelles propositions peut-on retenir comme exactes ?",
+  "options": [
+   "Au premier semestre 2015, 584 cas de VIH/SIDA ont été déclarés au Maroc.",
+   "Le nombre cumulé de cas au 30 juin 2015 était de 10 633.",
+   "Le SIDA est une maladie à déclaration obligatoire au Maroc.",
+   "Le Maroc ne déclare aucun cas de SIDA depuis 2010.",
+   "L'Afrique du Nord est la région la plus touchée au monde."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 198 VIH et 386 SIDA selon la DELM.",
+   "Exact : chiffre cumulé du ministère de la Santé.",
+   "Exact : la surveillance épidémiologique repose sur la déclaration.",
+   "Faux : 584 cas ont été déclarés au seul premier semestre 2015.",
+   "Faux : la région la plus touchée est l'Afrique subsaharienne."
+  ]
+ },
+ {
+  "q": "Concernant le dépistage du VIH dans la population, choisissez les affirmations exactes.",
+  "options": [
+   "Le bilan de grossesse comporte un dépistage du VIH.",
+   "Le dépistage du VIH est interdit chez la femme enceinte.",
+   "Le dépistage des dons de sang est facultatif.",
+   "Le dépistage anonyme et gratuit est un axe de prévention.",
+   "Le dépistage systématique des dons de sang et d'organes est obligatoire."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : cité parmi les bilans systématiques de dépistage.",
+   "Faux : le bilan de grossesse inclut le dépistage du VIH.",
+   "Faux : il est systématique pour sécuriser la transfusion.",
+   "Exact : il favorise l'accès au dépistage des populations à risque.",
+   "Exact : il sécurise la transfusion et la greffe."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes relatives à les circonstances du diagnostic de l'infection à VIH sont correctes ?",
+  "options": [
+   "Le diagnostic du VIH ne se fait jamais devant une IST.",
+   "La primo-infection symptomatique est une circonstance de diagnostic.",
+   "Un tableau d'immunodépression fait rechercher le VIH.",
+   "Un accident d'exposition au sang justifie la recherche du VIH.",
+   "Le don de sang est une circonstance de dépistage systématique."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le bilan d'IST est une circonstance classique de dépistage.",
+   "Exact : le syndrome pseudo-grippal peut faire évoquer le VIH.",
+   "Exact : les infections opportunistes orientent vers le diagnostic.",
+   "Exact : l'AES est une circonstance de diagnostic chez le sujet source et exposé.",
+   "Exact : tout don est dépisté."
+  ]
+ },
+ {
+  "q": "À propos de la prévention de la transmission sexuelle, quelles sont les réponses justes ?",
+  "options": [
+   "La lutte contre le vagabondage sexuel et la prostitution fait partie de la prévention.",
+   "Les campagnes d'éducation et de sensibilisation font partie de la prévention.",
+   "Les campagnes d'information sont inutiles dans la prévention.",
+   "La fidélité n'a aucun intérêt dans la prévention du VIH.",
+   "L'usage du préservatif prévient la transmission sexuelle du VIH."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : citée dans les axes de prévention.",
+   "Exact : elles modifient les comportements à risque.",
+   "Faux : l'éducation et la sensibilisation sont des axes de prévention.",
+   "Faux : la réduction du nombre de partenaires diminue le risque.",
+   "Exact : axe majeur de la prévention."
+  ]
+ },
+ {
+  "q": "Concernant la prévention de la transmission sanguine, quelles affirmations sont à retenir ?",
+  "options": [
+   "Le partage des seringues est sans danger si les usagers se connaissent.",
+   "La réutilisation d'aiguilles non désinfectées est sans risque.",
+   "L'utilisation de matériel à usage unique prévient la transmission sanguine.",
+   "Une stérilisation adaptée du matériel médico-chirurgical est nécessaire.",
+   "Le sevrage et l'accès aux seringues à usage unique concernent les toxicomanes IV."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le partage de seringues transmet le VIH quel que soit le lien entre usagers.",
+   "Faux : c'est une voie avérée de transmission sanguine.",
+   "Exact : seringues et matériel à usage unique.",
+   "Exact : elle élimine le risque lié aux instruments réutilisables.",
+   "Exact : mesures de réduction des risques ciblées."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant les liquides biologiques non contaminants ?",
+  "options": [
+   "La salive contient le VIH en trop faible concentration pour contaminer.",
+   "Les larmes contiennent le VIH en trop faible concentration pour contaminer.",
+   "L'infectiosité d'un liquide dépend de sa charge virale.",
+   "La salive est aussi contaminante que le sang.",
+   "Tous les liquides biologiques transmettent le VIH de la même façon."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : elle n'est pas une source de contamination.",
+   "Exact : comme la salive, elles ne contaminent pas.",
+   "Exact : c'est la charge virale du liquide exposant qui détermine le risque.",
+   "Faux : sa concentration virale est trop faible pour transmettre.",
+   "Faux : seuls les liquides à forte charge virale (sang, sperme, sécrétions vaginales, lait) contaminent."
+  ]
+ },
+ {
+  "q": "Au sujet de le risque lié au type de virus, indiquez les propositions exactes.",
+  "options": [
+   "Le type de virus est un facteur de risque de transmission.",
+   "Le VIH-2 est plus transmissible que le VIH-1.",
+   "Les deux types de VIH ont exactement le même pouvoir pathogène.",
+   "Le risque de séroconversion lié au VIH-1 est 5 fois plus élevé que celui lié au VIH-2.",
+   "Le VIH-2 est moins pathogène que le VIH-1."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : cité parmi les facteurs liés au type de virus.",
+   "Faux : le risque de séroconversion du VIH-2 est 5 fois moindre.",
+   "Faux : le VIH-1 est plus virulent et plus transmissible.",
+   "Exact : le VIH-1 est plus transmissible.",
+   "Exact : transmissibilité et pathogénicité moindres."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations ci-dessous sur le traitement post-exposition après exposition sexuelle, lesquelles sont exactes ?",
+  "options": [
+   "Le TPE peut être débuté sans limite de délai après l'exposition.",
+   "Le TPE doit être débuté le plus rapidement possible, idéalement dans les 4 heures.",
+   "Le TPE peut être débuté au plus tard dans les 48 heures.",
+   "La durée totale du TPE est de 4 semaines.",
+   "Le TPE consiste en une injection unique d'antibiotique."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le délai maximal est de 48 heures.",
+   "Exact : la précocité conditionne l'efficacité.",
+   "Exact : au-delà, sauf avis d'expert, il n'est plus indiqué.",
+   "Exact : un mois de traitement prophylactique.",
+   "Faux : c'est une trithérapie antirétrovirale de 4 semaines."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes à propos de le schéma du traitement post-exposition ?",
+  "options": [
+   "La première prise doit se faire le plus rapidement possible après la consultation initiale.",
+   "Le TPE concerne les expositions sexuelles et sanguines à risque.",
+   "Le TPE repose sur une monothérapie d'INTI.",
+   "Le TPE dure 6 mois.",
+   "Le TPE associe 2 INTI et 1 inhibiteur de la protéase."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : ne pas retarder la première dose.",
+   "Exact : mesures de précaution vis-à-vis des AES et expositions sexuelles.",
+   "Faux : c'est une trithérapie pour éviter la sélection de mutants.",
+   "Faux : la durée totale est de 4 semaines.",
+   "Exact : trithérapie prophylactique 2 INTI + 1 IP."
+  ]
+ },
+ {
+  "q": "Concernant la réduction du risque chez les toxicomanes, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le partage de seringues entre toxicomanes est sans risque.",
+   "La toxicomanie IV n'expose pas au VIH.",
+   "Le sevrage fait partie de la prévention chez les toxicomanes IV.",
+   "L'accès aux seringues à usage unique réduit la transmission.",
+   "Les programmes d'échange de seringues sont une mesure de prévention."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : c'est une voie majeure de transmission sanguine.",
+   "Faux : c'est un facteur de risque majeur de transmission sanguine.",
+   "Exact : mesure citée dans les axes de prévention.",
+   "Exact : il supprime le partage de matériel contaminé.",
+   "Exact : ils s'inscrivent dans la réduction des risques."
+  ]
+ },
+ {
+  "q": "À propos de la prévention de la transmission mère-enfant, cochez les propositions exactes.",
+  "options": [
+   "Le traitement antirétroviral de la mère réduit la transmission.",
+   "La césarienne fait partie des mesures de prévention.",
+   "Le dépistage du VIH fait partie du bilan de grossesse.",
+   "L'allaitement maternel est recommandé sans précaution chez la mère séropositive.",
+   "Aucune mesure ne peut réduire la transmission mère-enfant."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la charge virale basse diminue le risque.",
+   "Exact : elle évite l'exposition lors du passage dans la filière génitale.",
+   "Exact : il permet la prise en charge précoce.",
+   "Faux : le lait maternel transmet le VIH.",
+   "Faux : traitement, césarienne et éviction de l'allaitement la réduisent."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles décrivent correctement les idées reçues sur la transmission du VIH ?",
+  "options": [
+   "Embrasser sur la joue ne transmet pas le VIH.",
+   "On peut être contaminé en partageant les toilettes.",
+   "Le VIH se transmet par les larmes lors des pleurs.",
+   "Le VIH ne se transmet pas par les moustiques.",
+   "Le VIH ne se transmet pas par la toux."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : les contacts usuels sont sans risque.",
+   "Faux : les contacts usuels ne transmettent pas le VIH.",
+   "Faux : les larmes sont en trop faible concentration.",
+   "Exact : aucune transmission vectorielle du VIH.",
+   "Exact : la voie aérienne ne transmet pas le VIH."
+  ]
+ },
+ {
+  "q": "À propos de la déclaration et la surveillance du VIH, indiquez les affirmations vraies.",
+  "options": [
+   "Le VIH a été éradiqué dans le monde.",
+   "Le SIDA est une maladie à déclaration obligatoire.",
+   "Le VIH est une maladie émergente et réémergente.",
+   "Le VIH a causé plus de 40 millions de morts.",
+   "Le VIH n'est plus un problème de santé publique."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : 36,7 millions de personnes vivaient avec le VIH en 2016.",
+   "Exact : la surveillance repose sur la déclaration des cas.",
+   "Exact : qualifiée de fléau du XXe siècle et problème de santé mondiale.",
+   "Exact : chiffre rappelé en conclusion du cours.",
+   "Faux : il reste un problème de santé mondiale."
+  ]
+ },
+ {
+  "q": "Quelles affirmations exactes peut-on faire sur les populations à risque de l'infection à VIH ?",
+  "options": [
+   "Les usagers de drogues IV sont une population à risque.",
+   "Les professionnels exposés au sang peuvent être concernés (AES).",
+   "Les donneurs de sang réguliers sont une population à risque.",
+   "Les enfants scolarisés avec un camarade séropositif sont à risque.",
+   "Les partenaires multiples exposent au risque."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : transmission sanguine par partage de seringues.",
+   "Exact : risque professionnel de 0,3 % par exposition percutanée.",
+   "Faux : le don avec matériel à usage unique est sans risque.",
+   "Faux : les contacts scolaires usuels ne transmettent pas.",
+   "Exact : vagabondage sexuel cité comme facteur de risque."
+  ]
+ },
+ {
+  "q": "Concernant l'infectiosité du VIH, quelles sont les propositions justes ?",
+  "options": [
+   "Un patient sous traitement efficace avec charge virale indétectable transmet comme un patient non traité.",
+   "L'infectiosité est constante tout au long de l'infection.",
+   "L'infectiosité dépend de la charge virale dans le liquide exposant.",
+   "La phase de primo-infection est très contaminante.",
+   "Le stade SIDA avec réplication accrue est très contaminant."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la charge virale basse réduit fortement l'infectiosité.",
+   "Faux : elle varie avec la charge virale, maximale en primo-infection et au stade SIDA.",
+   "Exact : relation directe entre charge virale et risque.",
+   "Exact : le pic de charge virale rend cette phase très infectieuse.",
+   "Exact : l'antigénémie p24 traduit une réplication virale accrue."
+  ]
+ },
+ {
+  "q": "Au sujet de la physiopathologie de l'infection à VIH, quelles propositions sont correctes ?",
+  "options": [
+   "Le VIH cible les lymphocytes T CD4.",
+   "Les cellules infectées sont détruites, ce qui altère le système immunitaire.",
+   "Le taux des lymphocytes T CD4 diminue au cours de l'infection.",
+   "Le VIH cible en premier les polynucléaires neutrophiles.",
+   "L'infection à VIH renforce l'immunité à médiation cellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : ils portent le récepteur CD4 reconnu par la gp120.",
+   "Exact : la destruction des CD4 cause l'immunodéficience.",
+   "Exact : la déplétion CD4 est le marqueur de l'évolution.",
+   "Faux : la cible principale est le lymphocyte T CD4.",
+   "Faux : elle provoque un déficit de l'immunité à médiation cellulaire."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes concernant le rapport CD4/CD8 au cours de l'infection à VIH sont vraies ?",
+  "options": [
+   "Le rapport CD4/CD8 sert à la surveillance de l'évolution.",
+   "Le rapport CD4/CD8 augmente au cours de l'infection à VIH.",
+   "Le rapport CD4/CD8 n'a aucun intérêt dans l'infection à VIH.",
+   "Le rapport TCD4/TCD8 diminue au cours de l'infection.",
+   "Le rapport CD4/CD8 est un élément important du diagnostic."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : il est suivi avec le taux de CD4.",
+   "Faux : il diminue du fait de la déplétion des CD4.",
+   "Faux : c'est un marqueur diagnostique et de suivi.",
+   "Exact : la baisse des CD4 fait chuter le rapport.",
+   "Exact : cité comme élément très important du diagnostic."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants relatifs à l'immunité à médiation cellulaire dans l'infection à VIH, lesquels sont exacts ?",
+  "options": [
+   "L'immunité humorale est la première atteinte dans l'infection à VIH.",
+   "La réponse à médiation cellulaire diminue au cours de l'infection.",
+   "La réponse à la tuberculine diminue.",
+   "La réponse à la candidine diminue.",
+   "L'hypersensibilité retardée est exagérée au cours du SIDA."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : c'est l'immunité à médiation cellulaire qui est déficitaire.",
+   "Exact : déficit de l'immunité cellulaire caractéristique.",
+   "Exact : la tuberculine explore l'immunité à médiation cellulaire.",
+   "Exact : citée parmi les antigènes explorant cette immunité.",
+   "Faux : elle est diminuée, voire abolie."
+  ]
+ },
+ {
+  "q": "À propos de la latence du VIH dans l'organisme, quelles affirmations sont justes ?",
+  "options": [
+   "Le virus latent peut se réactiver ultérieurement.",
+   "L'ADN proviral se multiplie en même temps que la cellule hôte.",
+   "Le VIH est éliminé de l'organisme après la primo-infection.",
+   "La latence du VIH se fait dans les neurones sensitifs.",
+   "Le VIH peut rester longtemps latent dans les cellules lymphoïdes."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : la réactivation relance la réplication virale.",
+   "Exact : intégré, il est répliqué avec l'ADN cellulaire.",
+   "Faux : le provirus persiste à l'état latent dans les cellules.",
+   "Faux : elle se fait dans les cellules lymphoïdes.",
+   "Exact : le provirus persiste intégré dans les cellules."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes concernant l'histoire naturelle de l'infection à VIH ?",
+  "options": [
+   "L'histoire naturelle de l'infection à VIH est monophasique.",
+   "La guérison spontanée est la règle après la primo-infection.",
+   "L'histoire naturelle de l'infection à VIH est triphasique.",
+   "La primo-infection constitue la première phase.",
+   "Le SIDA maladie constitue la troisième phase."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elle comporte trois phases.",
+   "Faux : l'infection évolue vers la chronicité en l'absence de traitement.",
+   "Exact : primo-infection, phase asymptomatique, SIDA maladie.",
+   "Exact : elle suit la contamination.",
+   "Exact : stade évolué de l'infection."
+  ]
+ },
+ {
+  "q": "Concernant la primo-infection à VIH, indiquez les affirmations correctes.",
+  "options": [
+   "La primo-infection peut être asymptomatique.",
+   "Le syndrome pseudo-grippal est un symptôme de la primo-infection.",
+   "Un rash cutané peut survenir lors de la primo-infection.",
+   "Les symptômes de la primo-infection disparaissent spontanément.",
+   "La primo-infection se manifeste toujours par un ictère."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : elle est symptomatique ou non.",
+   "Exact : symptôme non spécifique cité.",
+   "Exact : manifestation cutanée de la primo-infection.",
+   "Exact : disparition spontanée des manifestations.",
+   "Faux : l'ictère n'est pas un symptôme de la primo-infection à VIH."
+  ]
+ },
+ {
+  "q": "Au sujet de les manifestations de la primo-infection à VIH, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les symptômes de la primo-infection sont non spécifiques.",
+   "La primo-infection se manifeste par une paralysie flasque.",
+   "La primo-infection s'accompagne toujours d'infections opportunistes.",
+   "Des manifestations neurologiques peuvent survenir.",
+   "Un syndrome mononucléosique peut révéler la primo-infection."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : ils peuvent mimer de nombreuses viroses.",
+   "Faux : ce n'est pas une manifestation de la primo-infection.",
+   "Faux : les IO surviennent au stade SIDA, pas lors de la primo-infection.",
+   "Exact : citées parmi les symptômes de la primo-infection.",
+   "Exact : tableau pseudo-mononucléosique décrit."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous relatives à la phase asymptomatique de l'infection à VIH, quelles sont les exactes ?",
+  "options": [
+   "La phase asymptomatique dure toujours moins de 6 mois.",
+   "La phase asymptomatique est cliniquement latente mais biologiquement active.",
+   "La réplication virale est constante pendant la phase asymptomatique.",
+   "50 % des cas présentent une lymphadénopathie généralisée persistante.",
+   "Aucune réplication virale n'a lieu pendant la phase asymptomatique."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : elle dure de 2 à 10 ans avant le stade SIDA.",
+   "Exact : réplication virale constante malgré l'absence de symptômes.",
+   "Exact : l'infection reste biologiquement active.",
+   "Exact : adénopathies dans la moitié des cas.",
+   "Faux : la réplication virale y est constante."
+  ]
+ },
+ {
+  "q": "À propos de l'évolution vers le stade SIDA, quelles réponses sont correctes ?",
+  "options": [
+   "Le SIDA maladie survient entre 2 et 10 ans après l'infection.",
+   "La baisse des CD4 traduit la déplétion de l'immunité cellulaire.",
+   "Le taux de CD4 augmente progressivement jusqu'au stade SIDA.",
+   "Le stade SIDA survient dès la primo-infection.",
+   "Le taux de LCD4 baisse de 30 à 100 cellules/mm3 par an en moyenne."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : délai d'évolution en l'absence de traitement.",
+   "Exact : elle conduit au stade SIDA.",
+   "Faux : il diminue de 30 à 100 cellules/mm3/an.",
+   "Faux : il survient après des années d'évolution (2 à 10 ans).",
+   "Exact : rythme de déplétion cité dans le cours."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes s'appliquent correctement à le diagnostic du stade SIDA ?",
+  "options": [
+   "Le SIDA est défini par un taux de CD4 supérieur à 500/mm3.",
+   "Le taux de CD4 n'a aucun lien avec le stade SIDA.",
+   "Le SIDA est défini par un taux de LCD4 inférieur à 200/mm3.",
+   "Le SIDA s'accompagne d'une déplétion profonde de l'immunité cellulaire.",
+   "Les manifestations du SIDA sont liées au déficit immunitaire."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le seuil est inférieur à 200/mm3.",
+   "Faux : le seuil de 200 CD4/mm3 définit le stade SIDA.",
+   "Exact : seuil de déplétion profonde de l'immunité cellulaire.",
+   "Exact : c'est le mécanisme des manifestations.",
+   "Exact : infections opportunistes et tumeurs."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les marqueurs biologiques de la primo-infection, lesquelles sont exactes ?",
+  "options": [
+   "L'ARN VIH plasmatique est détectable à partir du 10e jour.",
+   "L'antigénémie p24 est concomitante de la primo-infection (J15).",
+   "Les anticorps anti-VIH apparaissent dans un délai de 3 à 8 semaines.",
+   "Les anticorps anti-VIH sont détectables dès le 3e jour.",
+   "L'ARN plasmatique n'est détectable qu'après 6 mois."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : c'est le marqueur le plus précoce.",
+   "Exact : la p24 apparaît vers le 15e jour.",
+   "Exact : délai de la séroconversion.",
+   "Faux : ils n'apparaissent qu'entre 3 et 8 semaines.",
+   "Faux : il est détectable dès J10, c'est le marqueur le plus précoce."
+  ]
+ },
+ {
+  "q": "À propos de la cinétique de l'ARN VIH plasmatique, quelle(s) proposition(s) est (sont) correcte(s) ?",
+  "options": [
+   "L'ARN plasmatique est un marqueur direct de la réplication virale.",
+   "L'ARN plasmatique disparaît définitivement après la primo-infection.",
+   "L'ARN plasmatique est un marqueur indirect de l'infection.",
+   "L'ARN plasmatique présente un pic variable après l'infection.",
+   "Le taux d'ARN se stabilise entre le 4e et le 6e mois."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : il reflète la production virale (charge virale).",
+   "Faux : il persiste, reflet de la réplication constante.",
+   "Faux : c'est un marqueur direct de la réplication virale.",
+   "Exact : pic lors de la primo-infection.",
+   "Exact : après le pic, stabilisation."
+  ]
+ },
+ {
+  "q": "Concernant la cinétique de l'antigénémie p24, indiquez les réponses exactes.",
+  "options": [
+   "La p24 n'est jamais détectée au stade SIDA.",
+   "La p24 disparaît rapidement après la séroconversion.",
+   "La p24 est de nouveau détectée au cours du stade SIDA.",
+   "La réapparition de la p24 témoigne d'une évolution péjorative.",
+   "La p24 reste détectable en permanence après la primo-infection."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : elle réapparaît au stade SIDA maladie.",
+   "Exact : elle n'est détectable que pendant la primo-infection.",
+   "Exact : réapparition traduisant une réplication accrue.",
+   "Exact : elle traduit une réplication virale accrue.",
+   "Faux : elle disparaît après la séroconversion."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes au sujet de les anticorps anti-VIH ?",
+  "options": [
+   "Ils apparaissent dans un délai de 3 à 8 semaines après l'infection.",
+   "Ils sont recherchés par les tests de dépistage et de confirmation.",
+   "Les anticorps anti-VIH sont protecteurs et éliminent le virus.",
+   "Les anticorps apparaissent avant l'ARN plasmatique.",
+   "Les anticorps sont dirigés contre l'ensemble des protéines virales."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : fenêtre de la séroconversion.",
+   "Exact : base du diagnostic indirect.",
+   "Faux : ils ne contrôlent pas l'infection ; le virus persiste.",
+   "Faux : l'ARN (J10) précède les anticorps (3 à 8 semaines).",
+   "Exact : réponse humorale contre gag, pol et env."
+  ]
+ },
+ {
+  "q": "Au sujet de le suivi biologique du patient infecté non traité, parmi les affirmations suivantes, lesquelles sont vraies ?",
+  "options": [
+   "Aucun suivi biologique n'est nécessaire chez le patient non traité.",
+   "Seule la numération des polynucléaires est suivie.",
+   "La charge virale est suivie chez le patient non traité.",
+   "Le taux de LCD4 est suivi chez le patient non traité.",
+   "Le rapport CD4/CD8 participe à la surveillance."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : charge virale et CD4 sont suivis.",
+   "Faux : ce sont la charge virale et les CD4 qui sont suivis.",
+   "Exact : elle reflète la réplication virale.",
+   "Exact : il évalue le degré d'immunodépression.",
+   "Exact : élément important de la surveillance de l'évolution."
+  ]
+ },
+ {
+  "q": "À propos de le suivi biologique du patient traité, quelles propositions peut-on retenir comme exactes ?",
+  "options": [
+   "La charge virale est suivie sous traitement.",
+   "Le taux de LCD4 est suivi sous traitement.",
+   "Des tests de résistance aux antirétroviraux sont réalisés.",
+   "Le suivi du patient traité repose sur la seule clinique.",
+   "La charge virale n'a aucun intérêt chez le patient traité."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : elle évalue l'efficacité virologique.",
+   "Exact : il évalue la reconstitution immunitaire.",
+   "Exact : par séquençage du génotype de résistance.",
+   "Faux : charge virale, CD4 et tests de résistance sont suivis.",
+   "Faux : c'est le marqueur de l'efficacité du traitement."
+  ]
+ },
+ {
+  "q": "Concernant les conséquences immunologiques de l'infection à VIH, choisissez les affirmations exactes.",
+  "options": [
+   "La déplétion des CD4 est progressive, de 30 à 100 cellules/mm3/an.",
+   "L'infection à VIH épargne totalement le système immunitaire.",
+   "L'infection à VIH augmente le taux de lymphocytes T CD4.",
+   "Il existe un déficit quantitatif et qualitatif des CD4.",
+   "Le déficit immunitaire expose aux infections opportunistes."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : rythme cité dans le cours.",
+   "Faux : elle provoque une immunodéficience acquise.",
+   "Faux : elle le diminue.",
+   "Exact : le tropisme lymphocytaire T associe les deux déficits.",
+   "Exact : c'est le mécanisme du stade SIDA."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes relatives à la séroconversion sont correctes ?",
+  "options": [
+   "La séroconversion signe la guérison de l'infection.",
+   "La séroconversion correspond à l'apparition des anticorps anti-VIH.",
+   "L'antigénémie p24 disparaît après la séroconversion.",
+   "Le diagnostic est le plus souvent posé après la séroconversion.",
+   "La séroconversion survient avant toute réplication virale."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le virus persiste malgré les anticorps.",
+   "Exact : elle survient 3 à 8 semaines après l'infection.",
+   "Exact : la p24 n'est plus détectable une fois les anticorps apparus.",
+   "Exact : le dépistage repose sur les anticorps.",
+   "Faux : l'ARN est détectable dès J10, bien avant les anticorps."
+  ]
+ },
+ {
+  "q": "À propos de le syndrome d'immunodéficience acquise, quelles sont les réponses justes ?",
+  "options": [
+   "Le SIDA est un syndrome, pas une maladie unique.",
+   "Le SIDA expose aux infections opportunistes et aux tumeurs.",
+   "Le SIDA traduit un déficit isolé de l'immunité humorale.",
+   "Le SIDA est contagieux par les contacts usuels.",
+   "Le SIDA traduit un déficit de l'immunité à médiation cellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : ensemble de manifestations cliniques.",
+   "Exact : les deux types de manifestations du stade SIDA.",
+   "Faux : c'est l'immunité à médiation cellulaire qui est déficitaire.",
+   "Faux : c'est le VIH qui se transmet, par voie sexuelle, sanguine ou mère-enfant.",
+   "Exact : définition du syndrome."
+  ]
+ },
+ {
+  "q": "Concernant la lymphadénopathie au cours de l'infection à VIH, quelles affirmations sont à retenir ?",
+  "options": [
+   "Les adénopathies sont absentes tout au long de l'infection.",
+   "Toute adénopathie chez un patient VIH signe un lymphome.",
+   "Une lymphadénopathie généralisée persistante survient dans 50 % des cas en phase asymptomatique.",
+   "La lymphadénopathie traduit l'activation immune chronique.",
+   "La lymphadénopathie généralisée persistante est une manifestation de la phase asymptomatique."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elles concernent la moitié des cas en phase asymptomatique.",
+   "Faux : la lymphadénopathie généralisée persistante est bénigne.",
+   "Exact : chiffre du cours.",
+   "Exact : elle accompagne la réplication virale persistante.",
+   "Exact : elle caractérise cette phase."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant les manifestations neurologiques de la primo-infection ?",
+  "options": [
+   "Des manifestations neurologiques peuvent survenir lors de la primo-infection.",
+   "Les manifestations neurologiques de la primo-infection sont non spécifiques.",
+   "Le LCR peut contenir le virus.",
+   "La primo-infection s'accompagne toujours d'une méningite purulente.",
+   "Le VIH n'atteint jamais le système nerveux."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : citées parmi les symptômes.",
+   "Exact : comme l'ensemble des symptômes.",
+   "Exact : cité parmi les liquides biologiques contenant le VIH.",
+   "Faux : les manifestations neurologiques sont non spécifiques.",
+   "Faux : le virus est présent dans le LCR et des manifestations neurologiques existent."
+  ]
+ },
+ {
+  "q": "Au sujet de le rash cutané de la primo-infection, indiquez les propositions exactes.",
+  "options": [
+   "Le rash disparaît spontanément avec les autres symptômes.",
+   "Le rash cutané est pathognomonique de l'infection à VIH.",
+   "Le rash cutané survient uniquement au stade SIDA.",
+   "Un rash cutané peut survenir lors de la primo-infection.",
+   "Le rash de la primo-infection est non spécifique."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : disparition spontanée.",
+   "Faux : il est non spécifique.",
+   "Faux : il est décrit lors de la primo-infection.",
+   "Exact : manifestation citée.",
+   "Exact : comme les autres symptômes."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations ci-dessous sur le syndrome mononucléosique de la primo-infection, lesquelles sont exactes ?",
+  "options": [
+   "Le syndrome mononucléosique signe toujours une mononucléose infectieuse à EBV.",
+   "Un syndrome mononucléosique peut révéler la primo-infection à VIH.",
+   "Le tableau mononucléosique de la primo-infection est non spécifique.",
+   "Il disparaît spontanément.",
+   "Le syndrome mononucléosique est spécifique de l'EBV."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la primo-infection à VIH en est un diagnostic différentiel.",
+   "Exact : cité parmi les symptômes.",
+   "Exact.",
+   "Exact : disparition spontanée des symptômes.",
+   "Faux : la primo-infection à VIH peut donner un tableau similaire."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes à propos de la durée des phases de l'infection à VIH ?",
+  "options": [
+   "La primo-infection est la phase la plus brève.",
+   "Sans traitement, l'évolution vers le SIDA prend des années.",
+   "Le SIDA survient dans les jours suivant la contamination.",
+   "La phase asymptomatique est la plus courte de l'histoire naturelle.",
+   "La phase asymptomatique dure en moyenne de 2 à 10 ans."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : symptômes transitoires à disparition spontanée.",
+   "Exact : 2 à 10 ans selon le cours.",
+   "Faux : il faut 2 à 10 ans d'évolution.",
+   "Faux : c'est la plus longue (2 à 10 ans).",
+   "Exact : avant l'évolution vers le SIDA."
+  ]
+ },
+ {
+  "q": "Concernant le pouvoir pathogène du VIH, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le VIH est un virus non pathogène pour l'homme.",
+   "Le VIH ne provoque que des infections aiguës bénignes.",
+   "Le VIH a un tropisme lymphocytaire T.",
+   "Le pouvoir pathogène s'exprime par la destruction des cellules immunitaires.",
+   "Le déficit immunitaire est à la fois quantitatif et qualitatif."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : il est responsable du SIDA.",
+   "Faux : il provoque une infection chronique évoluant vers le SIDA.",
+   "Exact : il cible les LT CD4.",
+   "Exact : d'où l'immunodéficience.",
+   "Exact : baisse et dysfonctionnement des CD4."
+  ]
+ },
+ {
+  "q": "À propos de les infections opportunistes du SIDA, cochez les propositions exactes.",
+  "options": [
+   "La candidose œsophagienne est une infection opportuniste du SIDA.",
+   "La toxoplasmose cérébrale est une infection opportuniste du SIDA.",
+   "La cryptococcose méningée est une infection opportuniste du SIDA.",
+   "La rougeole est une infection opportuniste du SIDA.",
+   "Le tétanos est une infection opportuniste du SIDA."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : citée parmi les manifestations infectieuses.",
+   "Exact : atteinte neurologique classique.",
+   "Exact : méningite à Cryptococcus.",
+   "Faux : la rougeole n'est pas une infection opportuniste du SIDA.",
+   "Faux : le tétanos n'est pas lié à l'immunodépression du SIDA."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles décrivent correctement la candidose au cours du SIDA ?",
+  "options": [
+   "La candidine explore l'immunité à médiation cellulaire.",
+   "La candidose œsophagienne survient chez le sujet immunocompétent.",
+   "La candidose est une infection exclusivement cutanée.",
+   "La candidose œsophagienne est une manifestation du SIDA.",
+   "Candida est un champignon opportuniste."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : sa réponse diminuée traduit le déficit immunitaire.",
+   "Faux : elle traduit l'immunodépression profonde.",
+   "Faux : l'atteinte œsophagienne est la forme du SIDA.",
+   "Exact : infection opportuniste citée.",
+   "Exact : commensal devenu pathogène lors de l'immunodépression."
+  ]
+ },
+ {
+  "q": "À propos de la toxoplasmose cérébrale du SIDA, indiquez les affirmations vraies.",
+  "options": [
+   "La toxoplasmose cérébrale survient lors de la primo-infection.",
+   "La toxoplasmose cérébrale est une infection opportuniste du SIDA.",
+   "Elle survient lors de la déplétion profonde des CD4.",
+   "Elle traduit l'effondrement de l'immunité cellulaire.",
+   "La toxoplasmose cérébrale est due à un virus."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : elle survient au stade SIDA.",
+   "Exact : atteinte cérébrale classique.",
+   "Exact : stade SIDA avec CD4 < 200/mm3.",
+   "Exact : elle survient au stade de déplétion profonde.",
+   "Faux : Toxoplasma gondii est un parasite."
+  ]
+ },
+ {
+  "q": "Quelles affirmations exactes peut-on faire sur la cryptococcose méningée du SIDA ?",
+  "options": [
+   "Cryptococcus est un champignon.",
+   "Elle survient au stade d'immunodépression profonde.",
+   "La cryptococcose méningée est due à une bactérie.",
+   "La cryptococcose méningée est une manifestation de la primo-infection.",
+   "La cryptococcose méningée est une infection opportuniste du SIDA."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : Cryptococcus neoformans, levure opportuniste.",
+   "Exact : CD4 < 200/mm3.",
+   "Faux : c'est une mycose.",
+   "Faux : c'est une infection opportuniste du stade SIDA.",
+   "Exact : citée dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant les mycobactéries atypiques au cours du SIDA, quelles sont les propositions justes ?",
+  "options": [
+   "La tuberculose ne concerne jamais le patient infecté par le VIH.",
+   "Les mycobactéries atypiques sont des virus.",
+   "Les mycobactéries atypiques sont des infections opportunistes du SIDA.",
+   "La réponse à la tuberculine diminue au cours de l'infection à VIH.",
+   "L'immunodépression favorise les infections mycobactériennes."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la tuberculose est favorisée par l'immunodépression à VIH.",
+   "Faux : ce sont des bactéries.",
+   "Exact : citées dans le cours.",
+   "Exact : elle explore l'immunité à médiation cellulaire.",
+   "Exact : le déficit cellulaire expose aux mycobactéries."
+  ]
+ },
+ {
+  "q": "Au sujet de l'infection à CMV au cours du SIDA, quelles propositions sont correctes ?",
+  "options": [
+   "Le CMV est un agent d'infection opportuniste du SIDA.",
+   "Le CMV est un Herpesviridae.",
+   "L'infection à CMV survient lors de l'immunodépression profonde.",
+   "Le CMV est un rétrovirus.",
+   "Le CMV ne concerne que le nouveau-né."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : cité parmi les manifestations infectieuses.",
+   "Exact : cytomégalovirus, virus à ADN.",
+   "Exact : réactivation au stade SIDA.",
+   "Faux : c'est un Herpesviridae à ADN.",
+   "Faux : il est aussi un pathogène opportuniste du SIDA."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes concernant le sarcome de Kaposi sont vraies ?",
+  "options": [
+   "Le traitement du Kaposi peut faire appel à la chirurgie.",
+   "Le sarcome de Kaposi est une infection bactérienne.",
+   "Le sarcome de Kaposi est une tumeur bénigne sans lien avec le VIH.",
+   "Le sarcome de Kaposi est une manifestation tumorale du SIDA.",
+   "Le sarcome de Kaposi est lié au HHV-8."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : chirurgie, radiothérapie ou chimiothérapie.",
+   "Faux : c'est une tumeur vasculaire liée au HHV-8.",
+   "Faux : c'est une manifestation tumorale du SIDA.",
+   "Exact : cité parmi les manifestations tumorales.",
+   "Exact : l'herpèsvirus humain 8 en est l'agent."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants relatifs à le traitement du sarcome de Kaposi, lesquels sont exacts ?",
+  "options": [
+   "Le sarcome de Kaposi ne nécessite aucun traitement.",
+   "La chirurgie peut traiter le sarcome de Kaposi.",
+   "La radiothérapie peut traiter le sarcome de Kaposi.",
+   "La chimiothérapie peut traiter le sarcome de Kaposi.",
+   "Le sarcome de Kaposi se traite par antibiotiques."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : il relève d'un traitement spécifique.",
+   "Exact : citée parmi les traitements.",
+   "Exact : option thérapeutique citée.",
+   "Exact : option thérapeutique citée.",
+   "Faux : c'est une tumeur, traitée par chirurgie, radiothérapie ou chimiothérapie."
+  ]
+ },
+ {
+  "q": "À propos de les lymphomes au cours du SIDA, quelles affirmations sont justes ?",
+  "options": [
+   "L'immunodépression favorise la survenue de lymphomes.",
+   "Les lymphomes des séreuses sont liés au HHV-8.",
+   "Les lymphomes du SIDA sont des tumeurs bénignes.",
+   "Le VIH protège contre les lymphomes.",
+   "Les lymphomes sont des manifestations tumorales du SIDA."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : le déficit immunitaire expose aux proliférations lymphoïdes.",
+   "Exact : association citée dans le tableau HHV-8.",
+   "Faux : ce sont des tumeurs malignes.",
+   "Faux : l'immunodépression à VIH les favorise.",
+   "Exact : cités dans le cours."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes concernant le traitement des infections opportunistes ?",
+  "options": [
+   "Les infections opportunistes ne se traitent pas.",
+   "Les antibiotiques à large spectre guérissent toutes les infections opportunistes.",
+   "Les infections opportunistes relèvent d'un traitement spécifique selon l'infection.",
+   "Le traitement antirétroviral prévient les infections opportunistes.",
+   "La prise en charge du SIDA associe traitement des IO et antirétroviraux."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elles relèvent de traitements spécifiques.",
+   "Faux : chaque infection opportuniste a son traitement spécifique.",
+   "Exact : traitement non spécifique adapté à chaque infection.",
+   "Exact : en restaurant l'immunité, il les fait régresser.",
+   "Exact : traitement non spécifique et traitement spécifique."
+  ]
+ },
+ {
+  "q": "Concernant les infections opportunistes digestives, indiquez les affirmations correctes.",
+  "options": [
+   "La candidose œsophagienne est l'infection opportuniste digestive citée.",
+   "Le CMV peut donner des atteintes digestives chez l'immunodéprimé.",
+   "La déplétion des CD4 expose aux mycoses digestives.",
+   "La candidose œsophagienne est une tumeur.",
+   "Les infections opportunistes épargnent toujours le tube digestif."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : manifestation du SIDA.",
+   "Exact : le CMV est un pathogène opportuniste digestif classique.",
+   "Exact : la candidose œsophagienne en témoigne.",
+   "Faux : c'est une mycose opportuniste.",
+   "Faux : la candidose œsophagienne en est l'exemple."
+  ]
+ },
+ {
+  "q": "Au sujet de les infections opportunistes neurologiques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le virus est présent dans le LCR.",
+   "La rage est une infection opportuniste du SIDA.",
+   "Le SIDA protège contre les infections neurologiques.",
+   "La toxoplasmose cérébrale est une infection opportuniste neurologique.",
+   "La cryptococcose méningée est une infection opportuniste neurologique."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : le LCR contient le VIH.",
+   "Faux : la rage n'est pas une infection opportuniste.",
+   "Faux : l'immunodépression les favorise.",
+   "Exact : atteinte cérébrale du SIDA.",
+   "Exact : méningite à Cryptococcus."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous relatives à les infections opportunistes et le taux de CD4, quelles sont les exactes ?",
+  "options": [
+   "Le taux de CD4 n'a aucun lien avec les infections opportunistes.",
+   "Les infections opportunistes surviennent quand les CD4 sont inférieurs à 200/mm3.",
+   "La baisse des CD4 précède l'apparition des infections opportunistes.",
+   "Le taux de CD4 guide la prévention des infections opportunistes.",
+   "Les infections opportunistes surviennent avec des CD4 normaux."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le seuil de 200/mm3 définit leur survenue.",
+   "Exact : seuil du stade SIDA.",
+   "Exact : la déplétion (30 à 100/mm3/an) conduit au stade SIDA.",
+   "Exact : il évalue le degré d'immunodépression.",
+   "Faux : elles traduisent la déplétion profonde."
+  ]
+ },
+ {
+  "q": "À propos de la maladie de Kaposi et le HHV-8, quelles réponses sont correctes ?",
+  "options": [
+   "La maladie de Kaposi est une manifestation du SIDA.",
+   "Le HHV-8 est aussi associé aux lymphomes des séreuses.",
+   "Le HHV-8 est un rétrovirus.",
+   "La maladie de Kaposi est due au VIH lui-même.",
+   "Le HHV-8 est l'agent de la maladie de Kaposi."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : tumeur du stade SIDA.",
+   "Exact : cité dans le tableau HHV-8.",
+   "Faux : c'est un Herpesviridae.",
+   "Faux : elle est due au HHV-8, favorisée par l'immunodépression à VIH.",
+   "Exact : tableau HHV-8 du cours."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes s'appliquent correctement à les tumeurs associées au SIDA ?",
+  "options": [
+   "Le cancer du poumon est la tumeur la plus spécifique du SIDA.",
+   "Le SIDA protège contre les cancers.",
+   "Le sarcome de Kaposi est une tumeur associée au SIDA.",
+   "Les lymphomes sont des tumeurs associées au SIDA.",
+   "L'immunodépression favorise la survenue de tumeurs."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : ce sont le sarcome de Kaposi et les lymphomes.",
+   "Faux : il expose aux tumeurs par l'immunodépression.",
+   "Exact.",
+   "Exact.",
+   "Exact : défaut de surveillance immunitaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les agents des infections opportunistes du SIDA, lesquelles sont exactes ?",
+  "options": [
+   "Candida est un champignon opportuniste.",
+   "Toxoplasma gondii est un parasite opportuniste.",
+   "Cryptococcus est un champignon opportuniste.",
+   "Le VIH est lui-même une infection opportuniste.",
+   "Le bacille de Koch est un virus opportuniste."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : responsable de la candidose œsophagienne.",
+   "Exact : responsable de la toxoplasmose cérébrale.",
+   "Exact : responsable de la cryptococcose méningée.",
+   "Faux : le VIH est l'agent causal du SIDA, pas une infection opportuniste.",
+   "Faux : c'est une bactérie."
+  ]
+ },
+ {
+  "q": "À propos de la gravité des infections opportunistes, quelle(s) proposition(s) est (sont) correcte(s) ?",
+  "options": [
+   "Leur prévention repose sur la restauration immunitaire par les ARV.",
+   "Les infections opportunistes sont toujours bénignes.",
+   "Les infections opportunistes guérissent spontanément sans traitement.",
+   "Les infections opportunistes traduisent l'effondrement de l'immunité cellulaire.",
+   "Elles sont une cause majeure de mortalité au stade SIDA."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux : elles sont graves et menacent le pronostic vital.",
+   "Faux : elles nécessitent un traitement spécifique.",
+   "Exact.",
+   "Exact : 1 million de morts de maladies liées au sida en 2016."
+  ]
+ },
+ {
+  "q": "Concernant les manifestations infectieuses du stade SIDA, indiquez les réponses exactes.",
+  "options": [
+   "Elles sont dues à des germes hypervirulents chez le sujet sain.",
+   "Les manifestations infectieuses du SIDA sont dites opportunistes.",
+   "Elles touchent le cerveau (toxoplasmose).",
+   "Elles touchent les méninges (cryptococcose).",
+   "Elles touchent l'œsophage (candidose)."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : ce sont des germes opportunistes profitant de l'immunodépression.",
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes au sujet de la toxoplasmose et la cryptococcose ?",
+  "options": [
+   "L'une est parasitaire, l'autre mycosique.",
+   "Elles traduisent une immunodépression profonde.",
+   "Ce sont des infections de la primo-infection.",
+   "Elles se traitent par antirétroviraux seuls.",
+   "La toxoplasmose cérébrale et la cryptococcose méningée sont des IO du SIDA."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Faux : du stade SIDA.",
+   "Faux : traitement spécifique de chaque infection, plus ARV.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Au sujet de le CMV comme pathogène opportuniste, parmi les affirmations suivantes, lesquelles sont vraies ?",
+  "options": [
+   "Le CMV est un rétrovirus comme le VIH.",
+   "L'infection à CMV est toujours symptomatique chez le sujet sain.",
+   "Le CMV est cité parmi les infections opportunistes du SIDA.",
+   "Le CMV est un virus à ADN de la famille des Herpesviridae.",
+   "Le CMV persiste à l'état latent et se réactive lors de l'immunodépression."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux.",
+   "Faux : elle est le plus souvent latente chez l'immunocompétent.",
+   "Exact.",
+   "Exact.",
+   "Exact : caractéristique des Herpesviridae."
+  ]
+ },
+ {
+  "q": "À propos de les mycoses opportunistes du SIDA, quelles propositions peut-on retenir comme exactes ?",
+  "options": [
+   "La candidose œsophagienne est une mycose opportuniste.",
+   "La cryptococcose méningée est une mycose opportuniste.",
+   "Elles surviennent quand les CD4 sont inférieurs à 200/mm3.",
+   "Les mycoses opportunistes sont dues à des bactéries.",
+   "Les mycoses opportunistes sont rares au stade SIDA."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : ce sont des champignons.",
+   "Faux : elles en sont des manifestations classiques."
+  ]
+ },
+ {
+  "q": "Concernant la prise en charge globale du patient au stade SIDA, choisissez les affirmations exactes.",
+  "options": [
+   "Le sarcome de Kaposi relève de la chirurgie, radiothérapie ou chimiothérapie.",
+   "Le stade SIDA ne nécessite aucun traitement.",
+   "Les antirétroviraux sont inutiles au stade SIDA.",
+   "Le traitement des infections opportunistes est spécifique à chaque infection.",
+   "Le traitement antirétroviral est le traitement de fond."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux.",
+   "Faux : ils restent le traitement spécifique.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes relatives à les infections opportunistes et la prévention sont correctes ?",
+  "options": [
+   "Les IO surviennent malgré un taux de CD4 normal.",
+   "Le traitement antirétroviral précoce prévient les infections opportunistes.",
+   "Le suivi du taux de CD4 permet d'anticiper leur survenue.",
+   "La restauration immunitaire sous ARV fait régresser les IO.",
+   "Il n'existe aucun moyen de prévenir les infections opportunistes."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux.",
+   "Exact : en maintenant les CD4.",
+   "Exact.",
+   "Exact.",
+   "Faux : les ARV les préviennent."
+  ]
+ },
+ {
+  "q": "À propos de les particularités des infections opportunistes, quelles sont les réponses justes ?",
+  "options": [
+   "Elles sont multiples et récidivantes au stade SIDA.",
+   "Leur traitement est spécifique selon l'agent.",
+   "Elles sont dues au VIH lui-même.",
+   "Elles guérissent avec les seuls antibiotiques probabilistes.",
+   "Elles sont dues à des germes habituellement peu pathogènes."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : caractéristique du stade.",
+   "Exact.",
+   "Faux : dues à des agents opportunistes.",
+   "Faux : traitement spécifique requis.",
+   "Exact : définition des IO."
+  ]
+ },
+ {
+  "q": "Concernant le SIDA maladie et ses complications, quelles affirmations sont à retenir ?",
+  "options": [
+   "Le SIDA maladie est asymptomatique.",
+   "Le SIDA maladie régresse spontanément sans traitement.",
+   "Le SIDA maladie associe infections opportunistes et tumeurs.",
+   "La candidose œsophagienne en est une complication infectieuse.",
+   "Le sarcome de Kaposi en est une complication tumorale."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : c'est le stade symptomatique grave.",
+   "Faux : il nécessite traitement ARV et des IO.",
+   "Exact.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant le diagnostic indirect de l'infection à VIH ?",
+  "options": [
+   "Le diagnostic indirect repose sur la mise en évidence des anticorps anti-VIH.",
+   "Le diagnostic indirect comporte un dépistage puis une confirmation.",
+   "Chez l'adulte, le diagnostic repose sur la sérologie, sauf primo-infection ou variants.",
+   "Le diagnostic indirect repose sur la culture virale.",
+   "Le diagnostic indirect détecte l'ARN viral plasmatique."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : c'est le diagnostic le plus couramment utilisé.",
+   "Exact : deux temps du diagnostic.",
+   "Exact : précisé dans le cours.",
+   "Faux : la culture relève du diagnostic direct.",
+   "Faux : l'ARN relève du diagnostic direct."
+  ]
+ },
+ {
+  "q": "Au sujet de les tests de dépistage du VIH, indiquez les propositions exactes.",
+  "options": [
+   "Le dépistage peut être réalisé par un test de 4e génération.",
+   "Le Western blot est un test de dépistage.",
+   "Le dépistage du VIH nécessite toujours une culture virale.",
+   "Les tests ELISA sont des tests de dépistage.",
+   "Les TROD sont des tests rapides d'orientation diagnostique."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : depuis 2010, un seul test 4e génération sensible et spécifique.",
+   "Faux : c'est le test de confirmation.",
+   "Faux : il repose sur la sérologie.",
+   "Exact : immuno-assay de dépistage.",
+   "Exact : tests unitaires rapides."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations ci-dessous sur le test ELISA de 4e génération, lesquelles sont exactes ?",
+  "options": [
+   "L'ELISA est un test de confirmation.",
+   "L'ELISA 4e génération détecte les anticorps anti-VIH-1 et anti-VIH-2.",
+   "L'ELISA 4e génération détecte l'antigène p24.",
+   "L'ELISA est une technique sensible et reproductible.",
+   "L'ELISA 4e génération ne détecte que les anticorps."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : c'est un test de dépistage.",
+   "Exact.",
+   "Exact : test combiné Ac + Ag p24.",
+   "Exact.",
+   "Faux : il détecte aussi l'Ag p24 (test combiné)."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes à propos de les TROD ?",
+  "options": [
+   "Les TROD ne nécessitent ni laboratoire ni automate.",
+   "La lecture des TROD est subjective.",
+   "Les TROD nécessitent un automate de laboratoire.",
+   "Le résultat d'un TROD est disponible après 48 heures.",
+   "Les TROD sont des tests unitaires et rapides (< 30 minutes)."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : réalisation auprès du patient.",
+   "Exact : lecture visuelle des bandes.",
+   "Faux : ils se réalisent sans automate.",
+   "Faux : résultat en moins de 30 minutes.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements pour les TROD, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le LCR est le prélèvement de choix pour les TROD.",
+   "Les TROD nécessitent une biopsie ganglionnaire.",
+   "Le sang total veineux ou capillaire peut être utilisé.",
+   "Le sérum et le plasma peuvent être utilisés.",
+   "Le fluide gingival et la salive peuvent être utilisés."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : sang, sérum, plasma, fluide gingival, salive.",
+   "Faux : prélèvements simples cités.",
+   "Exact.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "À propos de l'intérêt des TROD, cochez les propositions exactes.",
+  "options": [
+   "Les TROD sont utiles dans les campagnes de dépistage.",
+   "Les TROD permettent une prise en charge rapide en urgence.",
+   "Un TROD positif doit être confirmé par un test conventionnel.",
+   "Les TROD remplacent la confirmation en cas de positivité.",
+   "Un TROD négatif après une prise de risque récente exclut l'infection."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact.",
+   "Exact : sujet source d'AES, suspicion de SIDA, accouchement.",
+   "Exact : ELISA 4e génération puis WB ou immunoblot.",
+   "Faux : tout positif doit être confirmé.",
+   "Faux : un résultat négatif n'est pas interprétable si la prise de risque date de moins de 3 mois."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles décrivent correctement les autotests de dépistage (ADVIH) ?",
+  "options": [
+   "L'autotest facilite l'accès au dépistage.",
+   "L'autotest positif ne nécessite aucune confirmation.",
+   "L'autotest détecte la charge virale.",
+   "Le prélèvement et l'interprétation sont effectués par l'intéressé.",
+   "Les autotests sont des TROD."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : réalisé par l'intéressé lui-même.",
+   "Faux : il doit être confirmé par un test conventionnel.",
+   "Faux : il détecte les anticorps anti-VIH.",
+   "Exact : définition de l'autotest.",
+   "Exact : tests rapides d'orientation diagnostique."
+  ]
+ },
+ {
+  "q": "À propos de le Western blot, indiquez les affirmations vraies.",
+  "options": [
+   "Le Western blot détecte l'ARN viral.",
+   "Le Western blot identifie des anticorps différents de ceux de l'ELISA.",
+   "Le Western blot est indispensable pour confirmer un ELISA positif.",
+   "C'est un test ELISA sur bandelette.",
+   "Le Western blot est un test de dépistage de première intention."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : il détecte les anticorps contre les protéines virales.",
+   "Exact.",
+   "Exact : test de confirmation.",
+   "Exact : Ag séparés par électrophorèse puis transfert sur nitrocellulose.",
+   "Faux : c'est le test de confirmation."
+  ]
+ },
+ {
+  "q": "Quelles affirmations exactes peut-on faire sur les critères de positivité du Western blot ?",
+  "options": [
+   "Selon les critères français, il faut au minimum 2 Ac anti-env et 1 Ac anti-gag ou anti-pol.",
+   "L'absence de toute bande définit la séronégativité.",
+   "Une seule bande env suffit à affirmer la positivité selon l'OMS.",
+   "Le Western blot ne distingue pas les anticorps anti-env et anti-gag.",
+   "Selon l'OMS, la positivité requiert au minimum 2 bandes env."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : critère Anaes.",
+   "Exact.",
+   "Faux : il faut au minimum 2 bandes env.",
+   "Faux : les bandes identifient gp120, gp41, p24, p17, etc.",
+   "Exact : critère OMS."
+  ]
+ },
+ {
+  "q": "Concernant le profil indéterminé du Western blot, quelles sont les propositions justes ?",
+  "options": [
+   "Un profil indéterminé affirme l'infection à VIH.",
+   "Un Western blot indéterminé ne nécessite aucun contrôle.",
+   "Un profil indéterminé ne remplit ni les critères de positivité ni ceux de négativité.",
+   "Un profil indéterminé impose un contrôle sérologique ultérieur.",
+   "La confirmation se fait sur un second tube pour diminuer les erreurs."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : il n'est ni positif ni négatif.",
+   "Faux : un contrôle sérologique est nécessaire.",
+   "Exact : définition.",
+   "Exact : démarche diagnostique.",
+   "Exact : second prélèvement."
+  ]
+ },
+ {
+  "q": "Au sujet de le diagnostic direct de l'infection à VIH, quelles propositions sont correctes ?",
+  "options": [
+   "L'antigénémie p24 relève du diagnostic direct.",
+   "La PCR (ARN ou ADN proviral) relève du diagnostic direct.",
+   "L'isolement viral par culture relève du diagnostic direct.",
+   "La recherche d'anticorps relève du diagnostic direct.",
+   "Le Western blot relève du diagnostic direct."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact.",
+   "Exact : PCR qualitatifs pour le diagnostic.",
+   "Exact : coculture avec les lymphocytes.",
+   "Faux : c'est le diagnostic indirect.",
+   "Faux : c'est le test de confirmation du diagnostic indirect."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes concernant la charge virale sont vraies ?",
+  "options": [
+   "La charge virale est un marqueur direct de la réplication virale.",
+   "La charge virale mesure les anticorps anti-VIH.",
+   "La charge virale n'a aucun intérêt dans le suivi.",
+   "La charge virale est mesurée par PCR en temps réel.",
+   "La charge virale sert au suivi du traitement."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux : elle quantifie l'ARN viral plasmatique.",
+   "Faux : c'est un marqueur du suivi thérapeutique.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants relatifs à le séquençage dans l'infection à VIH, lesquels sont exacts ?",
+  "options": [
+   "Le séquençage est un test de dépistage.",
+   "Le séquençage recherche le génotype de résistance aux antirétroviraux.",
+   "Le génotype de résistance guide le choix du traitement.",
+   "La résistance est liée aux mutations sélectionnées sous traitement.",
+   "Le séquençage mesure la charge virale."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : c'est un examen de suivi thérapeutique.",
+   "Exact.",
+   "Exact : il est réalisé chez le patient traité.",
+   "Exact : conséquence de la variabilité génétique.",
+   "Faux : la charge virale est mesurée par PCR temps réel."
+  ]
+ },
+ {
+  "q": "À propos de le diagnostic chez le nouveau-né de mère séropositive, quelles affirmations sont justes ?",
+  "options": [
+   "La sérologie est ininterprétable chez le nouveau-né.",
+   "La PCR détecte l'ARN ou l'ADN proviral.",
+   "Le Western blot suffit au diagnostic chez le nouveau-né.",
+   "Aucun diagnostic n'est possible avant 18 mois.",
+   "Le diagnostic repose sur la PCR chez le nouveau-né."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : les anticorps maternels traversent le placenta.",
+   "Exact : diagnostic direct.",
+   "Faux : les Ac maternels faussent la sérologie.",
+   "Faux : la PCR permet un diagnostic précoce.",
+   "Exact : PCR (ou culture)."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes concernant la démarche diagnostique devant un dépistage positif ?",
+  "options": [
+   "Un ELISA positif suffit à affirmer l'infection.",
+   "La confirmation est inutile si le TROD est positif.",
+   "Tout dépistage positif doit être confirmé.",
+   "La confirmation fait appel au Western blot ou à l'immunoblot.",
+   "La confirmation est réalisée sur un second tube."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la confirmation est indispensable.",
+   "Faux : tout positif doit être confirmé par un test conventionnel.",
+   "Exact : dépistage puis confirmation.",
+   "Exact.",
+   "Exact : diminue les erreurs de diagnostic."
+  ]
+ },
+ {
+  "q": "Concernant les conditions du dépistage du VIH, indiquez les affirmations correctes.",
+  "options": [
+   "Le consentement du patient est requis.",
+   "L'identitovigilance doit être respectée.",
+   "La confidentialité doit être garantie.",
+   "Le dépistage peut se faire à l'insu du patient.",
+   "Le résultat peut être divulgué sans précaution."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : cité dans le cours.",
+   "Exact.",
+   "Exact.",
+   "Faux : le consentement est requis.",
+   "Faux : la confidentialité s'impose."
+  ]
+ },
+ {
+  "q": "Au sujet de le diagnostic de la primo-infection, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La recherche de l'Ag p24 aide au diagnostic de primo-infection.",
+   "La sérologie est toujours positive dès la contamination.",
+   "Aucun examen ne permet le diagnostic avant la séroconversion.",
+   "Le diagnostic direct est indiqué en cas de primo-infection.",
+   "La recherche d'ARN plasmatique permet le diagnostic précoce."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : détectable dès J15.",
+   "Faux : les Ac n'apparaissent qu'à 3-8 semaines.",
+   "Faux : ARN et Ag p24 sont détectables précocement.",
+   "Exact : la sérologie peut encore être négative.",
+   "Exact : détectable dès J10."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous relatives à les marqueurs biologiques et leur cinétique, quelles sont les exactes ?",
+  "options": [
+   "L'Ag p24 persiste toute la vie après la primo-infection.",
+   "L'ARN est le marqueur le plus précoce (J10).",
+   "L'Ag p24 apparaît vers J15 puis disparaît après la séroconversion.",
+   "Les Ac apparaissent entre 3 et 8 semaines.",
+   "Les Ac sont le marqueur le plus précoce."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : il disparaît après la séroconversion.",
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : c'est l'ARN plasmatique."
+  ]
+ },
+ {
+  "q": "À propos de le test combiné de 4e génération, quelles réponses sont correctes ?",
+  "options": [
+   "Le test combiné recherche l'Ag p24.",
+   "Depuis 2010, le dépistage repose sur un seul test de 4e génération.",
+   "Le test combiné ne détecte que l'Ag p24.",
+   "Le test de 4e génération est moins sensible que celui de 3e génération.",
+   "Le test combiné recherche les Ac anti-VIH-1 et anti-VIH-2."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact : sensible et spécifique.",
+   "Faux : il détecte aussi les Ac anti-VIH-1 et 2.",
+   "Faux : il est plus sensible (détection de la p24).",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes s'appliquent correctement à la sérologie VIH et les variants ?",
+  "options": [
+   "La sérologie détecte tous les variants dans tous les cas.",
+   "Les variants n'ont aucune conséquence diagnostique.",
+   "La sérologie est mise en défaut en cas de primo-infection.",
+   "Certains variants peuvent échapper à la sérologie.",
+   "Le diagnostic direct prend le relais en cas de sérologie négative suspecte."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : difficultés diagnostiques liées aux variants.",
+   "Faux : la variabilité complique le diagnostic.",
+   "Exact : fenêtre sérologique.",
+   "Exact : cité dans le cours.",
+   "Exact : ARN ou Ag p24."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le principe de l'ELISA sandwich, lesquelles sont exactes ?",
+  "options": [
+   "L'ELISA sandwich prend l'Ag viral entre deux Ac.",
+   "Un Ac de capture est fixé en premier.",
+   "La réaction est révélée par un marqueur enzymatique.",
+   "L'ELISA ne nécessite aucun lavage entre les étapes.",
+   "L'intensité de la coloration est inversement proportionnelle à la quantité d'Ag."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : principe décrit.",
+   "Exact.",
+   "Exact : lecture au spectrophotomètre.",
+   "Faux : un lavage est réalisé entre les incubations.",
+   "Faux : elle est proportionnelle."
+  ]
+ },
+ {
+  "q": "À propos de la détection de l'Ag p24 par ELISA, quelle(s) proposition(s) est (sont) correcte(s) ?",
+  "options": [
+   "L'Ag p24 concerne le VIH-1.",
+   "L'Ag p24 ne peut être détecté par aucune technique immunologique.",
+   "L'Ag p24 est un anticorps.",
+   "L'Ag p24 du VIH peut être détecté par ELISA.",
+   "L'Ag p24 est un marqueur direct de réplication."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : précisé dans le cours.",
+   "Faux : l'ELISA le détecte.",
+   "Faux : c'est un antigène, la protéine de capside p24.",
+   "Exact : exemple d'application cité.",
+   "Exact : antigénémie de primo-infection et du stade SIDA."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic virologique et la sécurité transfusionnelle, indiquez les réponses exactes.",
+  "options": [
+   "Aucun dépistage n'est réalisé chez les donneurs.",
+   "Le dépistage systématique des dons de sang sécurise la transfusion.",
+   "Le diagnostic génomique viral est utilisé en sécurité transfusionnelle.",
+   "Le don d'organes est dépisté.",
+   "La transfusion est aujourd'hui la première cause de contamination."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : il est systématique.",
+   "Exact.",
+   "Exact : cité dans les applications de la biologie moléculaire.",
+   "Exact : bilan systématique.",
+   "Faux : le dépistage systématique l'a sécurisée."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes au sujet de les applications de la biologie moléculaire dans le VIH ?",
+  "options": [
+   "La charge virale évalue le risque de transmission.",
+   "La charge virale prédit l'efficacité thérapeutique.",
+   "La biologie moléculaire n'a aucune application dans le VIH.",
+   "La PCR ne détecte que les anticorps.",
+   "La PCR permet un diagnostic précoce avant la séroconversion."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : application citée.",
+   "Exact : application citée.",
+   "Faux : diagnostic précoce, charge virale, résistance.",
+   "Faux : elle détecte les acides nucléiques.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Au sujet de le contrôle sérologique après Western blot, parmi les affirmations suivantes, lesquelles sont vraies ?",
+  "options": [
+   "Un Western blot positif sur les deux tubes reste douteux.",
+   "Aucun contrôle n'est jamais nécessaire.",
+   "Un Western blot négatif avec exposition récente impose un contrôle.",
+   "Un profil indéterminé impose un contrôle sérologique.",
+   "La recherche d'ARN ou d'Ag p24 aide en cas de WB indéterminé."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'infection est alors confirmée.",
+   "Faux.",
+   "Exact : exposition dans les 6 semaines précédentes.",
+   "Exact : 1 à 2 semaines plus tard.",
+   "Exact : démarche HAS."
+  ]
+ },
+ {
+  "q": "À propos de les classes d'antirétroviraux, quelles propositions peut-on retenir comme exactes ?",
+  "options": [
+   "Les INTI sont une classe d'antirétroviraux.",
+   "Les INNTI sont une classe d'antirétroviraux.",
+   "Les inhibiteurs de la protéase sont une classe d'antirétroviraux.",
+   "Les inhibiteurs de l'intégrase sont une classe d'antirétroviraux.",
+   "Les antibiotiques bêtalactamines sont des antirétroviraux."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : inhibiteurs nucléosidiques/nucléotidiques de la TI.",
+   "Exact : inhibiteurs non nucléosidiques de la TI.",
+   "Exact.",
+   "Exact.",
+   "Faux : ce sont des antibactériens."
+  ]
+ },
+ {
+  "q": "Concernant les six classes d'antirétroviraux, choisissez les affirmations exactes.",
+  "options": [
+   "Les inhibiteurs de la transcriptase inverse forment deux classes (INTI et INNTI).",
+   "L'arsenal thérapeutique compte six classes.",
+   "Il n'existe que deux classes d'antirétroviraux.",
+   "Les antagonistes des corécepteurs CCR5 forment une classe.",
+   "Les inhibiteurs de fusion forment une classe."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Faux : l'arsenal compte six classes.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes relatives à les INTI sont correctes ?",
+  "options": [
+   "Les INTI inhibent la protéase.",
+   "Le ténofovir est un INTI.",
+   "L'emtricitabine est un INTI.",
+   "L'abacavir et la lamivudine sont des INTI.",
+   "L'efavirenz est un INTI."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : ils inhibent la transcriptase inverse.",
+   "Exact : cité dans les trithérapies.",
+   "Exact.",
+   "Exact.",
+   "Faux : c'est un INNTI."
+  ]
+ },
+ {
+  "q": "À propos de les INNTI, quelles sont les réponses justes ?",
+  "options": [
+   "La rilpivirine est un INNTI.",
+   "Les INNTI inhibent la transcriptase inverse.",
+   "Le ténofovir est un INNTI.",
+   "Les INNTI inhibent l'intégrase.",
+   "L'efavirenz est un INNTI."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact : de façon non nucléosidique.",
+   "Faux : c'est un INTI.",
+   "Faux : l'intégrase est la cible des inhibiteurs de l'intégrase.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Concernant les inhibiteurs de la protéase, quelles affirmations sont à retenir ?",
+  "options": [
+   "L'atazanavir est un inhibiteur de fusion.",
+   "Les inhibiteurs de la protéase bloquent l'attachement du virus.",
+   "L'atazanavir est un inhibiteur de la protéase.",
+   "Le darunavir est un inhibiteur de la protéase.",
+   "Les IP sont utilisés boostés par le ritonavir (/r)."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : c'est un inhibiteur de la protéase.",
+   "Faux : ils bloquent la maturation des protéines virales.",
+   "Exact.",
+   "Exact.",
+   "Exact : atazanavir/r, darunavir/r."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant le principe de la trithérapie ?",
+  "options": [
+   "Le traitement repose toujours sur une association.",
+   "La trithérapie associe 2 INTI et 1 INNTI.",
+   "La trithérapie peut associer 2 INTI et 1 IP boosté.",
+   "La monothérapie est le traitement de référence.",
+   "La trithérapie associe 3 inhibiteurs de la protéase."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : pour ne pas sélectionner de mutants résistants.",
+   "Exact : schéma classique.",
+   "Exact : alternative citée.",
+   "Faux : le traitement se fait toujours en association.",
+   "Faux : 2 INTI + 1 INNTI ou 1 IP/r."
+  ]
+ },
+ {
+  "q": "Au sujet de les exemples de trithérapie avec INNTI, indiquez les propositions exactes.",
+  "options": [
+   "Abacavir/lamivudine + efavirenz est une trithérapie avec INNTI.",
+   "Ténofovir/emtricitabine + atazanavir est une trithérapie avec INNTI.",
+   "La trithérapie avec INNTI associe 3 INNTI.",
+   "Ténofovir/emtricitabine + efavirenz est une trithérapie avec INNTI.",
+   "Ténofovir/emtricitabine + rilpivirine est une trithérapie avec INNTI."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux : l'atazanavir est un IP.",
+   "Faux : 2 INTI + 1 INNTI.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations ci-dessous sur les exemples de trithérapie avec IP, lesquelles sont exactes ?",
+  "options": [
+   "La trithérapie avec IP associe 2 IP et 1 INTI.",
+   "Ténofovir/emtricitabine + atazanavir/r est une trithérapie avec IP.",
+   "Ténofovir/emtricitabine + darunavir/r est une trithérapie avec IP.",
+   "Abacavir/lamivudine + atazanavir/r est une trithérapie avec IP.",
+   "Abacavir/lamivudine + efavirenz est une trithérapie avec IP."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : 2 INTI + 1 IP/r.",
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : l'efavirenz est un INNTI."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes à propos de les inhibiteurs d'entrée ?",
+  "options": [
+   "Les inhibiteurs de fusion bloquent la fusion membranaire.",
+   "Chaque étape du cycle peut être ciblée par les ARV.",
+   "Les inhibiteurs de fusion bloquent la transcriptase inverse.",
+   "Aucun antirétroviral ne cible l'entrée du virus.",
+   "Les antagonistes de CCR5 bloquent le corécepteur du VIH."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : ils ciblent la gp41.",
+   "Exact : principe du cours.",
+   "Faux : ils bloquent l'entrée du virus.",
+   "Faux : inhibiteurs de fusion et antagonistes CCR5.",
+   "Exact : classe des anti-CCR5."
+  ]
+ },
+ {
+  "q": "Concernant les inhibiteurs de l'intégrase, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Les inhibiteurs de l'intégrase bloquent la rétrotranscription.",
+   "Ce sont des antibiotiques.",
+   "Les inhibiteurs de l'intégrase bloquent l'intégration du provirus.",
+   "Ils forment une des six classes d'antirétroviraux.",
+   "Ils agissent sur la première étape du cycle viral."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : c'est la cible des INTI/INNTI.",
+   "Faux : ce sont des antirétroviraux.",
+   "Exact.",
+   "Exact.",
+   "Exact : étape réalisée par les enzymes virales."
+  ]
+ },
+ {
+  "q": "À propos de les objectifs du traitement antirétroviral, cochez les propositions exactes.",
+  "options": [
+   "Le traitement stabilise l'état infectieux du sujet.",
+   "Le traitement réduit la charge virale.",
+   "Le traitement permet la reconstitution immunitaire (CD4).",
+   "Le traitement antirétroviral guérit l'infection à VIH.",
+   "Le traitement antirétroviral élimine le provirus intégré."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : il fait reculer le nombre de cas de SIDA.",
+   "Exact : objectif virologique.",
+   "Exact : suivi du taux de CD4.",
+   "Faux : il ne guérit pas, il stabilise la maladie.",
+   "Faux : le provirus latent persiste."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles décrivent correctement la résistance aux antirétroviraux ?",
+  "options": [
+   "Le génotype de résistance est recherché par séquençage.",
+   "Les résistances sont impossibles sous traitement.",
+   "La résistance aux ARV est due à des bactéries.",
+   "La monothérapie sélectionne des mutants résistants.",
+   "La variabilité génétique favorise l'émergence de résistances."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux : les mutants résistants sont sélectionnés.",
+   "Faux : elle est due aux mutations du génome viral.",
+   "Exact : d'où l'association systématique.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "À propos de le traitement non spécifique du SIDA, indiquez les affirmations vraies.",
+  "options": [
+   "Les infections opportunistes ne nécessitent aucun traitement.",
+   "Les infections opportunistes sont traitées spécifiquement selon l'infection.",
+   "Le sarcome de Kaposi peut être traité par chirurgie.",
+   "Le sarcome de Kaposi peut être traité par radiothérapie ou chimiothérapie.",
+   "Le traitement du SIDA se limite aux antirétroviraux."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux.",
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : il associe traitement des IO et ARV."
+  ]
+ },
+ {
+  "q": "Quelles affirmations exactes peut-on faire sur l'efficacité de la trithérapie ?",
+  "options": [
+   "Elle a fait reculer le nombre de cas de SIDA dans plusieurs pays.",
+   "19,5 millions de personnes avaient accès au traitement en 2016.",
+   "La trithérapie a permis l'éradication du VIH.",
+   "Aucun patient n'a bénéficié des antirétroviraux.",
+   "La trithérapie a stabilisé l'état infectieux des patients."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact : chiffre du cours.",
+   "Faux : le virus persiste à l'état latent.",
+   "Faux : 19,5 millions y avaient accès en 2016.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Concernant les limites du traitement antirétroviral, quelles sont les propositions justes ?",
+  "options": [
+   "Le traitement élimine définitivement le virus de l'organisme.",
+   "Le traitement rend la prévention inutile.",
+   "Le traitement ne guérit pas l'infection.",
+   "Le provirus intégré persiste malgré le traitement.",
+   "La prévention reste essentielle en l'absence de thérapeutique curative."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : il stabilise sans guérir.",
+   "Faux : la prévention reste le meilleur moyen.",
+   "Exact : conclusion du cours.",
+   "Exact : latence.",
+   "Exact : conclusion du cours."
+  ]
+ },
+ {
+  "q": "Au sujet de les INTI et la transcriptase inverse, quelles propositions sont correctes ?",
+  "options": [
+   "Les INTI sont des inhibiteurs nucléosidiques/nucléotidiques de la TI.",
+   "Ils bloquent la synthèse d'ADN à partir de l'ARN viral.",
+   "Ténofovir, emtricitabine, abacavir, lamivudine sont des INTI.",
+   "Les INTI activent la transcriptase inverse.",
+   "Les INTI ciblent l'enveloppe virale."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact.",
+   "Exact : inhibition de la RT.",
+   "Exact.",
+   "Faux : ils l'inhibent.",
+   "Faux : ils ciblent la RT."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes concernant le ritonavir dans les trithérapies sont vraies ?",
+  "options": [
+   "Le darunavir/r est une association d'IP boosté.",
+   "Le ritonavir est un inhibiteur de fusion.",
+   "Le booster n'a aucun intérêt dans les trithérapies.",
+   "Le ritonavir est utilisé en booster (/r) des IP.",
+   "L'atazanavir/r est une association d'IP boosté."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux : c'est un IP utilisé comme booster.",
+   "Faux : il potentialise l'IP.",
+   "Exact : atazanavir/r, darunavir/r.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants relatifs à le choix du traitement antirétroviral, lesquels sont exacts ?",
+  "options": [
+   "La charge virale n'influence pas la prise en charge.",
+   "Le génotype de résistance guide le choix du traitement.",
+   "La charge virale évalue l'efficacité du traitement.",
+   "Le taux de CD4 évalue la reconstitution immunitaire.",
+   "Le traitement est choisi au hasard sans bilan."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux.",
+   "Exact : séquençage.",
+   "Exact.",
+   "Exact.",
+   "Faux : bilan virologique et immunologique préalables."
+  ]
+ },
+ {
+  "q": "À propos de les antirétroviraux et le cycle viral, quelles affirmations sont justes ?",
+  "options": [
+   "Les inhibiteurs de l'intégrase ciblent l'intégration.",
+   "Les IP ciblent la maturation.",
+   "Tous les ARV ciblent la même étape du cycle.",
+   "Aucun ARV ne cible les enzymes virales.",
+   "Les INTI/INNTI ciblent la rétrotranscription."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Faux : chaque classe cible une étape différente.",
+   "Faux : INTI, INNTI, IP, inhibiteurs de l'intégrase.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes concernant l'observance du traitement antirétroviral ?",
+  "options": [
+   "Le traitement peut être interrompu sans conséquence.",
+   "Une seule molécule suffit à vie.",
+   "Une mauvaise observance favorise l'émergence de résistances.",
+   "Le traitement est pris au long cours.",
+   "L'association de plusieurs molécules limite les résistances."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : risque de rebond viral et de résistance.",
+   "Faux : traitement toujours en association.",
+   "Exact : sélection de mutants.",
+   "Exact : infection chronique.",
+   "Exact : principe de la trithérapie."
+  ]
+ },
+ {
+  "q": "Concernant les effets du traitement sur la transmission, indiquez les affirmations correctes.",
+  "options": [
+   "Un traitement efficace réduit la charge virale.",
+   "La baisse de la charge virale réduit l'infectiosité.",
+   "La transmission mère-enfant diminue sous traitement maternel.",
+   "Le traitement augmente la transmission du VIH.",
+   "Le traitement n'a aucun effet sur la contagiosité."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact.",
+   "Exact : l'infectiosité dépend de la charge virale.",
+   "Exact : facteur modulant le risque.",
+   "Faux : il la réduit.",
+   "Faux."
+  ]
+ },
+ {
+  "q": "Au sujet de le traitement de la femme enceinte séropositive, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La césarienne complète la prévention.",
+   "Le traitement est contre-indiqué pendant la grossesse.",
+   "Le lait maternel ne contient jamais le virus.",
+   "Le traitement ARV de la mère réduit la transmission à l'enfant.",
+   "Le dépistage fait partie du bilan de grossesse."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux : il est recommandé pour prévenir la transmission.",
+   "Faux : le lait maternel est une source de contamination.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous relatives à les échecs thérapeutiques, quelles sont les exactes ?",
+  "options": [
+   "La charge virale n'aide pas à détecter l'échec.",
+   "L'échec virologique se traduit par une charge virale détectable.",
+   "Les mutants résistants expliquent les échecs.",
+   "Le génotype de résistance oriente le changement de traitement.",
+   "L'échec thérapeutique est impossible."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : c'est le marqueur de l'efficacité.",
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux."
+  ]
+ },
+ {
+  "q": "À propos de l'historique des thérapeutiques, quelles réponses sont correctes ?",
+  "options": [
+   "La trithérapie a transformé le pronostic de l'infection.",
+   "L'arsenal s'est enrichi jusqu'à six classes.",
+   "Les antirétroviraux existent depuis les années 1960.",
+   "Aucun progrès thérapeutique n'a eu lieu depuis 1990.",
+   "La première thérapeutique antirétrovirale date de 1990."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : recul des cas de SIDA.",
+   "Exact.",
+   "Faux : première thérapeutique en 1990.",
+   "Faux : six classes disponibles.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes s'appliquent correctement à le traitement post-exposition ?",
+  "options": [
+   "Le TPE est un traitement curatif du SIDA.",
+   "Le TPE peut attendre plusieurs semaines.",
+   "Le TPE est une trithérapie prophylactique.",
+   "Il doit débuter idéalement dans les 4 heures.",
+   "Sa durée est de 4 semaines."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : c'est une prophylaxie après exposition.",
+   "Faux : délai maximal 48 heures.",
+   "Exact : 2 INTI + 1 IP.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les axes de la prévention du VIH, lesquelles sont exactes ?",
+  "options": [
+   "Le dépistage anonyme et gratuit est un axe de prévention.",
+   "L'éducation et la sensibilisation sont des axes de prévention.",
+   "L'usage du préservatif est un axe de prévention.",
+   "La prévention du VIH est impossible.",
+   "Seule la vaccination prévient le VIH."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : les axes découlent des modes de transmission.",
+   "Faux : il n'existe pas de vaccin efficace."
+  ]
+ },
+ {
+  "q": "À propos de la prévention et l'absence de vaccin, quelle(s) proposition(s) est (sont) correcte(s) ?",
+  "options": [
+   "En l'absence de vaccin, la prévention repose sur les comportements.",
+   "Un vaccin efficace est disponible depuis 2000.",
+   "Le vaccin anti-VIH est obligatoire.",
+   "Il n'existe pas de vaccin efficace contre le VIH.",
+   "La variabilité antigénique fait obstacle au vaccin."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux.",
+   "Faux : il n'existe pas.",
+   "Exact : la variabilité génétique l'empêche.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Concernant la lutte contre la transmission sexuelle, indiquez les réponses exactes.",
+  "options": [
+   "Les IST ulcérantes protègent contre le VIH.",
+   "Le préservatif est un moyen de prévention de la transmission sexuelle.",
+   "Le traitement des IST ulcérantes réduit le risque.",
+   "L'information des jeunes fait partie de la prévention.",
+   "La multiplicité des partenaires est sans risque."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : elles favorisent sa transmission.",
+   "Exact : usage du préservatif.",
+   "Exact : elles favorisent la transmission.",
+   "Exact : campagnes d'éducation.",
+   "Faux : vagabondage sexuel = facteur de risque."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes au sujet de la sécurisation des soins ?",
+  "options": [
+   "La stérilisation adaptée est un axe de prévention.",
+   "Le dépistage des dons de sang et d'organes est systématique.",
+   "La réutilisation d'aiguilles est acceptable en milieu de soins.",
+   "Aucune précaution n'est nécessaire lors des soins.",
+   "Le matériel à usage unique sécurise les soins."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Faux : matériel à usage unique obligatoire.",
+   "Faux.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Au sujet de les accidents d'exposition au sang, parmi les affirmations suivantes, lesquelles sont vraies ?",
+  "options": [
+   "Le risque de transmission après AES est de 30 %.",
+   "Les AES ne nécessitent aucune prise en charge.",
+   "Le risque de transmission après AES est de 0,3 %.",
+   "Le sujet source doit être dépisté en urgence par TROD.",
+   "Un TPE peut être indiqué après un AES à risque."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : il est de 0,3 %.",
+   "Faux.",
+   "Exact.",
+   "Exact : intérêt des TROD en urgence.",
+   "Exact : mesures de précaution vis-à-vis des AES."
+  ]
+ },
+ {
+  "q": "À propos de les mesures après un AES, quelles propositions peut-on retenir comme exactes ?",
+  "options": [
+   "Le dépistage du sujet source par TROD est réalisé en urgence.",
+   "Le TPE doit débuter au plus vite, idéalement dans les 4 heures.",
+   "Le suivi sérologique du sujet exposé est nécessaire.",
+   "Aucune mesure n'est utile après un AES.",
+   "Le TPE après AES dure 6 mois."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Exact : contrôle après la fenêtre sérologique.",
+   "Faux.",
+   "Faux : 4 semaines."
+  ]
+ },
+ {
+  "q": "Concernant la prévention chez les usagers de drogues IV, choisissez les affirmations exactes.",
+  "options": [
+   "Les programmes de réduction des risques ciblent cette population.",
+   "Le partage du matériel d'injection est sans danger.",
+   "Les toxicomanes IV ne sont pas concernés par le VIH.",
+   "L'accès aux seringues à usage unique est une mesure de prévention.",
+   "Le sevrage est proposé aux toxicomanes IV."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux.",
+   "Faux : c'est une population à risque.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes relatives à le dépistage et ses modalités sont correctes ?",
+  "options": [
+   "Le dépistage n'est proposé qu'aux malades.",
+   "Le dépistage peut être anonyme et gratuit.",
+   "Le dépistage concerne les populations à risque.",
+   "Le bilan de grossesse inclut le dépistage.",
+   "Le dépistage est payant et nominatif obligatoirement."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : il est proposé aux populations à risque et en bilan systématique.",
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : anonyme et gratuit."
+  ]
+ },
+ {
+  "q": "À propos de le conseil avant et après le test, quelles sont les réponses justes ?",
+  "options": [
+   "La confidentialité du résultat est garantie.",
+   "L'identitovigilance sécurise le rendu du résultat.",
+   "Le résultat peut être communiqué à l'employeur.",
+   "Le dépistage se fait sans information du patient.",
+   "Le consentement est requis avant le dépistage."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Faux : confidentialité.",
+   "Faux : consentement requis.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Concernant la prévention de la transmission mère-enfant, quelles affirmations sont à retenir ?",
+  "options": [
+   "L'allaitement maternel est recommandé sans restriction.",
+   "Aucune mesure ne réduit la transmission mère-enfant.",
+   "Le dépistage pendant la grossesse permet la prévention.",
+   "Le traitement ARV maternel réduit la transmission.",
+   "La césarienne est une mesure de prévention."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le lait maternel transmet le VIH.",
+   "Faux.",
+   "Exact.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant les idées fausses sur la prévention ?",
+  "options": [
+   "Le VIH ne se transmet pas par les contacts usuels.",
+   "La scolarisation des enfants séropositifs est sans risque.",
+   "La poignée de main ne transmet pas le VIH.",
+   "Il faut isoler les personnes séropositives.",
+   "Le partage des sanitaires transmet le VIH."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : les contacts usuels ne transmettent pas.",
+   "Faux."
+  ]
+ },
+ {
+  "q": "Au sujet de le rôle du traitement dans la prévention, indiquez les propositions exactes.",
+  "options": [
+   "Le dépistage et le traitement des partenaires réduisent la transmission.",
+   "Le traitement ARV augmente le risque de transmission.",
+   "Les ARV n'ont aucun rôle préventif.",
+   "Le traitement ARV réduit la charge virale donc la transmission.",
+   "Le TPE prévient l'infection après une exposition à risque."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : logique de la prévention.",
+   "Faux : il la réduit.",
+   "Faux : TPE et réduction de la charge virale.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations ci-dessous sur les populations cibles du dépistage, lesquelles sont exactes ?",
+  "options": [
+   "Le dépistage anonyme cible les populations à risque.",
+   "Les toxicomanes IV sont une cible du dépistage.",
+   "Les partenaires de personnes séropositives sont dépistés.",
+   "Les femmes enceintes sont dépistées.",
+   "Seuls les malades du SIDA sont dépistés."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Exact : bilan IST, rapport suspect.",
+   "Exact.",
+   "Faux : dépistage des populations à risque et systématique."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes à propos de les dons de sang et d'organes ?",
+  "options": [
+   "Les dons d'organes sont dépistés.",
+   "Le diagnostic génomique viral renforce la sécurité transfusionnelle.",
+   "Le dépistage des dons est facultatif.",
+   "La transfusion reste un mode majeur de contamination.",
+   "Tout don de sang est dépisté pour le VIH."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Faux : systématique.",
+   "Faux : sécurisée par le dépistage systématique.",
+   "Exact : dépistage systématique."
+  ]
+ },
+ {
+  "q": "Concernant la lutte contre les IST associées, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le VIH protège contre les autres IST.",
+   "Le traitement des IST est inutile dans la prévention du VIH.",
+   "Le VIH peut être le lit d'autres IST.",
+   "Le bilan d'IST comporte un dépistage du VIH.",
+   "Les IST ulcérantes favorisent la transmission du VIH."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : il favorise leur transmission.",
+   "Faux.",
+   "Exact : syphilis, hépatite B citées.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "À propos de les tatouages et scarifications, cochez les propositions exactes.",
+  "options": [
+   "Le tatouage traditionnel est un facteur de risque.",
+   "La scarification est un facteur de risque.",
+   "Le matériel à usage unique ou stérilisé prévient le risque.",
+   "Le matériel de tatouage non stérile est sans risque.",
+   "Les pratiques traditionnelles n'exposent jamais au VIH."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : contexte social et culturel.",
+   "Exact.",
+   "Exact.",
+   "Faux.",
+   "Faux."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles décrivent correctement l'information et l'éducation ?",
+  "options": [
+   "La sensibilisation cible les populations à risque.",
+   "L'ignorance des modes de transmission est sans conséquence.",
+   "Les campagnes de prévention sont interdites.",
+   "Les campagnes d'information sont un axe de prévention.",
+   "L'éducation modifie les comportements à risque."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux.",
+   "Faux.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "À propos de le préservatif, indiquez les affirmations vraies.",
+  "options": [
+   "Le préservatif favorise la transmission du VIH.",
+   "L'usage du préservatif prévient la transmission sexuelle.",
+   "Le préservatif est un axe majeur de prévention.",
+   "Il doit être utilisé lors de rapports à risque.",
+   "Le préservatif n'a aucune efficacité contre le VIH."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux.",
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux."
+  ]
+ },
+ {
+  "q": "Quelles affirmations exactes peut-on faire sur les seringues à usage unique ?",
+  "options": [
+   "Le partage de seringues est un mode de transmission.",
+   "L'accès aux seringues propres concerne les toxicomanes IV.",
+   "La réutilisation de seringues est sans danger.",
+   "Les seringues à usage unique augmentent le risque.",
+   "Les seringues à usage unique préviennent la transmission sanguine."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Faux.",
+   "Faux.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Concernant la stérilisation du matériel médical, quelles sont les propositions justes ?",
+  "options": [
+   "Le matériel souillé peut être réutilisé sans traitement.",
+   "Les désinfectants sont inefficaces contre le VIH.",
+   "Une stérilisation adaptée est un axe de prévention.",
+   "Les instruments tranchants ou piquants réutilisables doivent être désinfectés.",
+   "La chaleur à 56 °C pendant 30 minutes inactive le VIH."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux.",
+   "Faux : hypochlorite, alcool 70°, dérivés iodés.",
+   "Exact.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Au sujet de le TPE : indications, quelles propositions sont correctes ?",
+  "options": [
+   "Le TPE est indiqué après une exposition sexuelle à risque.",
+   "Le TPE est indiqué après un AES à risque.",
+   "Le TPE doit débuter dans les 48 heures au plus tard.",
+   "Le TPE est indiqué en traitement du SIDA avéré.",
+   "Le TPE est inutile après une exposition."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : c'est une prophylaxie post-exposition.",
+   "Faux."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes concernant le TPE : modalités sont vraies ?",
+  "options": [
+   "La durée totale est de 4 semaines.",
+   "Le TPE est une monothérapie.",
+   "Le TPE dure 3 mois.",
+   "Le TPE associe 2 INTI et 1 IP.",
+   "La première prise doit être la plus précoce possible."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux : trithérapie.",
+   "Faux : 4 semaines.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants relatifs à le TPE : délais, lesquels sont exacts ?",
+  "options": [
+   "Le délai n'a aucune importance.",
+   "Le délai idéal est de 4 heures après l'exposition.",
+   "Le délai maximal est de 48 heures.",
+   "Tout retard diminue l'efficacité.",
+   "Le TPE reste efficace 1 mois après l'exposition."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux.",
+   "Exact.",
+   "Exact : sauf avis d'expert.",
+   "Exact : débuter le plus rapidement possible.",
+   "Faux : 48 heures maximum."
+  ]
+ },
+ {
+  "q": "À propos de la césarienne, quelles affirmations sont justes ?",
+  "options": [
+   "Elle évite l'exposition de l'enfant lors de l'accouchement.",
+   "Elle s'intègre à la prise en charge de la femme enceinte séropositive.",
+   "La césarienne augmente la transmission mère-enfant.",
+   "L'accouchement par voie basse est sans risque chez la mère séropositive.",
+   "La césarienne est une mesure de prévention de la transmission mère-enfant."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Faux.",
+   "Faux : l'accouchement est un moment à risque.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes concernant le dépistage du sujet source ?",
+  "options": [
+   "Le statut du sujet source est sans intérêt.",
+   "Le dépistage du sujet source prend plusieurs jours.",
+   "En cas d'AES, le sujet source est dépisté en urgence.",
+   "Le TROD permet un résultat en moins de 30 minutes.",
+   "Un TROD positif doit être confirmé."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : il guide le TPE.",
+   "Faux : TROD rapide.",
+   "Exact : TROD.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Concernant l'historique du VIH, indiquez les affirmations correctes.",
+  "options": [
+   "Le SIDA a été identifié en 1981.",
+   "Le VIH-1 a été isolé en 1983 par les équipes américaine et française.",
+   "Le VIH-2 a été identifié en 1986.",
+   "Le VIH a été découvert en 1970.",
+   "Le SIDA a été identifié en 1995."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : isolement en 1983.",
+   "Faux : 1981."
+  ]
+ },
+ {
+  "q": "Au sujet de les groupes du VIH-1, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le groupe N (non-M non-O) a été identifié en 1998.",
+   "Le groupe M comprend 11 sous-types.",
+   "Il n'existe que le groupe M.",
+   "Le groupe M est le groupe majeur.",
+   "Le groupe O (Outlier) a été identifié en 1994."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Faux : M, N, O, P.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous relatives à les chiffres mondiaux du VIH en 2016, quelles sont les exactes ?",
+  "options": [
+   "Aucun décès lié au sida n'a été enregistré en 2016.",
+   "36,7 millions de personnes vivaient avec le VIH.",
+   "1,8 million de personnes ont été nouvellement infectées.",
+   "1 million de personnes sont mortes de maladies liées au sida.",
+   "Moins de 5 millions de personnes vivaient avec le VIH."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : 1 million de décès.",
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : 36,7 millions."
+  ]
+ },
+ {
+  "q": "À propos de l'accès au traitement dans le monde, quelles réponses sont correctes ?",
+  "options": [
+   "L'extension du traitement a fait reculer les cas de SIDA.",
+   "De 2000 à 2015, les nouvelles infections ont baissé de 35 %.",
+   "Personne n'avait accès au traitement en 2016.",
+   "L'accès au traitement n'a eu aucun impact.",
+   "19,5 millions de personnes avaient accès aux ARV en 2016."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Faux : 19,5 millions.",
+   "Faux.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes s'appliquent correctement à la répartition géographique du VIH ?",
+  "options": [
+   "L'Australie est la région la plus touchée.",
+   "L'Europe occidentale concentre la majorité des cas.",
+   "L'Afrique subsaharienne concentre 67 % des infections.",
+   "L'Asie du Sud et du Sud-Est est la deuxième région touchée.",
+   "L'Afrique du Nord et le Moyen-Orient comptent 210 000 cas."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : 12 000 cas seulement.",
+   "Faux : 500 000 cas.",
+   "Exact : 25,6 millions.",
+   "Exact : 7,6 millions (20 %).",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le VIH au Maroc en 2015, lesquelles sont exactes ?",
+  "options": [
+   "584 cas ont été déclarés au premier semestre 2015.",
+   "Le cumul atteignait 10 633 cas au 30 juin 2015.",
+   "Ces données proviennent de la DELM du ministère de la Santé.",
+   "Le Maroc n'a déclaré aucun cas en 2015.",
+   "Le SIDA n'est pas à déclaration obligatoire au Maroc."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux.",
+   "Faux : maladie à déclaration obligatoire."
+  ]
+ },
+ {
+  "q": "À propos de le VIH comme IST, quelle(s) proposition(s) est (sont) correcte(s) ?",
+  "options": [
+   "Le bilan d'IST inclut le dépistage du VIH.",
+   "Le VIH n'est pas une IST.",
+   "Les IST protègent contre le VIH.",
+   "Le VIH est une IST.",
+   "Le VIH peut favoriser d'autres IST."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux.",
+   "Faux : les IST ulcérantes favorisent sa transmission.",
+   "Exact : transmission sexuelle +++.",
+   "Exact : lit des autres IST."
+  ]
+ },
+ {
+  "q": "Concernant le VIH, fléau du XXe siècle, indiquez les réponses exactes.",
+  "options": [
+   "Le VIH ne concerne que quelques pays.",
+   "Le VIH est qualifié de fléau du XXe siècle.",
+   "C'est un problème de santé mondiale.",
+   "C'est une maladie émergente et réémergente.",
+   "Le VIH est une maladie bénigne sans impact."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : pandémie mondiale.",
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes au sujet de les rétrovirus ?",
+  "options": [
+   "Le VIH est un rétrovirus.",
+   "Le cycle des rétrovirus comporte un ADN proviral.",
+   "Les rétrovirus sont des virus à ADN.",
+   "Aucun rétrovirus n'infecte l'homme.",
+   "Les rétrovirus possèdent une transcriptase inverse."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : famille des Rétroviridae.",
+   "Exact.",
+   "Faux : ce sont des virus à ARN avec intermédiaire ADN.",
+   "Faux : VIH et HTLV infectent l'homme.",
+   "Exact : enzyme caractéristique."
+  ]
+ },
+ {
+  "q": "Au sujet de le HTLV-1, parmi les affirmations suivantes, lesquelles sont vraies ?",
+  "options": [
+   "Le HTLV-1 est responsable du SIDA.",
+   "Le HTLV-1 et le VIH sont le même virus.",
+   "Le HTLV-1 est un rétrovirus humain.",
+   "Le HTLV-1 peut provoquer une leucémie lymphoïde T de l'adulte.",
+   "Le HTLV-1 peut provoquer une paraparésie spastique tropicale."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le SIDA est dû au VIH.",
+   "Faux : deux rétrovirus distincts.",
+   "Exact : Human T-lymphotropic Virus 1.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "À propos de le diagnostic biologique en deux temps, quelles propositions peut-on retenir comme exactes ?",
+  "options": [
+   "Le diagnostic comprend un dépistage puis une confirmation.",
+   "Le dépistage repose sur l'ELISA ou les TROD.",
+   "La confirmation repose sur le Western blot.",
+   "Le diagnostic se fait en un seul temps.",
+   "La confirmation précède le dépistage."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : deux temps.",
+   "Faux : dépistage d'abord."
+  ]
+ },
+ {
+  "q": "Concernant la fenêtre sérologique, choisissez les affirmations exactes.",
+  "options": [
+   "L'Ag p24 est détectable dès J15, avant les Ac.",
+   "La sérologie est positive dès la contamination.",
+   "Aucun marqueur n'est détectable avant les Ac.",
+   "Les Ac n'apparaissent qu'à 3-8 semaines.",
+   "L'ARN est détectable dès J10, avant les Ac."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux : fenêtre de 3 à 8 semaines.",
+   "Faux : ARN et p24 précèdent.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes relatives à le suivi thérapeutique sont correctes ?",
+  "options": [
+   "Le suivi repose sur la seule clinique.",
+   "La charge virale est le marqueur de l'efficacité.",
+   "Le taux de CD4 évalue la reconstitution immunitaire.",
+   "Le génotype de résistance oriente les changements de traitement.",
+   "Aucun marqueur ne permet le suivi."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux.",
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux."
+  ]
+ },
+ {
+  "q": "À propos de les faux positifs et la confirmation, quelles sont les réponses justes ?",
+  "options": [
+   "Un ELISA positif isolé ne suffit pas.",
+   "Le Western blot confirme le dépistage positif.",
+   "Tout ELISA positif affirme l'infection sans confirmation.",
+   "La confirmation est inutile.",
+   "La confirmation sur un second tube diminue les erreurs."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Faux.",
+   "Faux.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Concernant les TROD de 4e génération, quelles affirmations sont à retenir ?",
+  "options": [
+   "Les TROD nécessitent un laboratoire.",
+   "Le TROD est un test de confirmation.",
+   "Il existe des TROD de 4e génération.",
+   "Les TROD de 3e génération détectent les Ac anti-VIH-1 et anti-VIH-2.",
+   "Un TROD positif doit être confirmé par ELISA 4e génération puis WB."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : réalisation auprès du patient.",
+   "Faux : test d'orientation.",
+   "Exact : disponibilité citée.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant la PCR dans le diagnostic du VIH ?",
+  "options": [
+   "La PCR qualitative détecte l'ARN ou l'ADN proviral.",
+   "La PCR en temps réel quantifie la charge virale.",
+   "La PCR est utilisée chez le nouveau-né de mère séropositive.",
+   "La PCR détecte les anticorps.",
+   "La PCR n'a aucune place dans le diagnostic du VIH."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : elle détecte les acides nucléiques.",
+   "Faux."
+  ]
+ },
+ {
+  "q": "Au sujet de la culture virale, indiquez les propositions exactes.",
+  "options": [
+   "La culture relève du diagnostic direct.",
+   "La culture est la technique de dépistage de routine.",
+   "La culture virale est rapide et simple.",
+   "L'isolement viral par coculture est difficile.",
+   "La coculture se fait avec les lymphocytes."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux : le dépistage est sérologique.",
+   "Faux : difficile.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations ci-dessous sur l'antigénémie p24 au stade SIDA, lesquelles sont exactes ?",
+  "options": [
+   "La p24 n'a aucune signification pronostique.",
+   "La p24 réapparaît au stade SIDA.",
+   "Elle traduit une réplication virale accrue.",
+   "Elle témoigne d'une évolution péjorative.",
+   "La p24 reste indétectable au stade SIDA."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : témoin d'évolution péjorative.",
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : elle est de nouveau détectée."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes à propos de les anticorps anti-VIH (révision) ?",
+  "options": [
+   "Ils sont détectés par ELISA et TROD.",
+   "Ils sont confirmés par Western blot.",
+   "Ils éliminent le virus de l'organisme.",
+   "Ils apparaissent avant l'ARN viral.",
+   "Ils sont dirigés contre l'ensemble des protéines virales."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Faux : le virus persiste.",
+   "Faux : 3-8 semaines vs J10.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Concernant les recommandations pour le diagnostic, lesquelles de ces propositions sont vraies ?",
+  "options": [
+   "Le diagnostic repose sur la clinique seule.",
+   "Aucune recommandation n'encadre le diagnostic.",
+   "Le dépistage utilise un test combiné Ac + Ag p24.",
+   "Un WB positif confirme l'infection.",
+   "Un WB indéterminé impose la recherche d'ARN ou d'Ag p24."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux.",
+   "Faux.",
+   "Exact.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "À propos de le pronostic de l'infection à VIH, cochez les propositions exactes.",
+  "options": [
+   "Sans traitement, l'infection évolue vers le SIDA en 2 à 10 ans.",
+   "La trithérapie a transformé le pronostic.",
+   "Le traitement stabilise sans guérir.",
+   "L'infection à VIH guérit spontanément.",
+   "Le pronostic est identique avec ou sans traitement."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux.",
+   "Faux."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles décrivent correctement les erreurs à éviter dans le diagnostic ?",
+  "options": [
+   "Confirmer sur un second tube.",
+   "Un ELISA positif suffit au diagnostic.",
+   "La sérologie suffit chez le nouveau-né.",
+   "Ne pas interpréter un TROD négatif après une prise de risque de moins de 3 mois.",
+   "Toujours confirmer un dépistage positif."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Faux : confirmation requise.",
+   "Faux : PCR nécessaire.",
+   "Exact.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "À propos de la contagiosité selon les phases, indiquez les affirmations vraies.",
+  "options": [
+   "Tous les patients sont également contaminants.",
+   "La primo-infection est très contaminante (pic de charge virale).",
+   "Le stade SIDA est très contaminant (réplication accrue).",
+   "L'infectiosité suit la charge virale.",
+   "La contagiosité est nulle pendant la phase asymptomatique."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux.",
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : réplication constante."
+  ]
+ },
+ {
+  "q": "Quelles affirmations exactes peut-on faire sur les définitions à retenir ?",
+  "options": [
+   "SIDA = syndrome d'immunodéficience acquise.",
+   "Le SIDA est le stade évolué de l'infection à VIH.",
+   "VIH et SIDA sont synonymes.",
+   "Le SIDA est le nom du virus.",
+   "VIH = virus de l'immunodéficience humaine."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Faux : le VIH est le virus, le SIDA le syndrome.",
+   "Faux.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Concernant la conclusion du cours sur le VIH, quelles sont les propositions justes ?",
+  "options": [
+   "Le VIH est un virus génétiquement stable.",
+   "Le VIH n'est plus un problème de santé.",
+   "Le traitement ne guérit pas mais stabilise la maladie.",
+   "La prévention reste le meilleur moyen en l'absence de thérapeutique curative.",
+   "Le diagnostic se fait en deux temps : dépistage et confirmation."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : très variable génétiquement.",
+   "Faux : fléau mondial.",
+   "Exact.",
+   "Exact.",
+   "Exact."
+  ]
+ }
+]

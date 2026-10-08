@@ -1,0 +1,4580 @@
+[
+ {
+  "q": "Concernant Pseudomonas aeruginosa, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est un bacille à Gram négatif aérobie strict",
+   "C'est une bactérie mobile à ciliature polaire et oxydase positive",
+   "Le genre Pseudomonas appartient à la famille des Pseudomonadaceae",
+   "Pseudomonas aeruginosa est l'espèce type, la plus fréquemment isolée en pathologie infectieuse",
+   "C'est une bactérie anaérobie stricte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacille Gram négatif aérobie strict.",
+   "Vrai : mobilité polaire et oxydase positive sont des caractères du genre.",
+   "Vrai : famille des Pseudomonadaceae.",
+   "Vrai : espèce type et la plus isolée en clinique.",
+   "Faux : elle est aérobie stricte, pas anaérobie."
+  ]
+ },
+ {
+  "q": "Au sujet des pigments produits par Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "La pyocyanine est un pigment bleu diffusible",
+   "La pyoverdine est un pigment jaune-vert diffusible",
+   "La pyocyanine et la pyoverdine sont des sidérophores intervenant dans la captation du fer",
+   "La présence de ces pigments diffusibles est un facteur de pathogénicité lié à la bactérie",
+   "La pyocyanine est un pigment rouge non diffusible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la pyocyanine donne la couleur bleue caractéristique.",
+   "Vrai : la pyoverdine donne la teinte jaune-vert.",
+   "Vrai : ce sont des produits sidérophores.",
+   "Vrai : les pigments diffusibles comptent parmi les facteurs de virulence bactériens.",
+   "Faux : la pyocyanine est bleue et diffusible."
+  ]
+ },
+ {
+  "q": "Concernant l'habitat de Pseudomonas aeruginosa, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une bactérie ubiquitaire présente dans l'eau, le sol et les plantes",
+   "Elle colonise l'environnement hospitalier humide : robinets, éviers, siphons",
+   "Le matériel de dialyse et les solutions désinfectantes peuvent être contaminés",
+   "Elle ne survit que sur les surfaces hospitalières sèches",
+   "Chez le patient, elle colonise les zones corporelles humides : aisselles, pli de l'aine, conduit auditif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : saprophyte ubiquitaire de l'environnement naturel.",
+   "Vrai : l'hôpital humide est son réservoir nosocomial.",
+   "Vrai : même les solutions désinfectantes peuvent être colonisées.",
+   "Faux : elle affectionne les milieux humides, pas les surfaces sèches.",
+   "Vrai : zones humides du corps et portage transitoire (tube digestif, voies respiratoires, peau)."
+  ]
+ },
+ {
+  "q": "À propos de la transmission de Pseudomonas aeruginosa, quelles affirmations sont exactes ?",
+  "options": [
+   "La transmission peut se faire à partir de sources environnementales directes",
+   "Une transmission indirecte est possible via du matériel lavé à l'eau du réseau",
+   "Une transmission interhumaine existe à partir d'un sujet colonisé",
+   "La pression de sélection des antibiotiques augmente le risque de colonisation",
+   "La transmission est exclusivement aérienne par gouttelettes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sources environnementales directes.",
+   "Vrai : le matériel lavé à l'eau du réseau est une source indirecte.",
+   "Vrai : le sujet colonisé transmet à d'autres patients.",
+   "Vrai : les antibiotiques sélectionnent les souches résistantes et favorisent la colonisation.",
+   "Faux : la transmission est environnementale et interhumaine, pas exclusivement aérienne."
+  ]
+ },
+ {
+  "q": "Pseudomonas aeruginosa est un pathogène opportuniste. Quelles propositions sont exactes ?",
+  "options": [
+   "Il infecte préférentiellement les patients à immunité affaiblie locale ou générale",
+   "Les grands brûlés, les patients sous chimiothérapie et les transplantés sont à risque",
+   "Les hémodialysés chroniques sont particulièrement exposés",
+   "Les malades de réanimation avec manœuvres invasives (respirateurs, cathétérisme, sonde) sont à risque",
+   "Il provoque des infections graves chez le sujet sain sans facteur favorisant"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pathogène opportuniste des immunités affaiblies.",
+   "Vrai : brûlés, chimiothérapie, transplantés sont des terrains classiques.",
+   "Vrai : l'hémodialyse chronique est un facteur de risque.",
+   "Vrai : les manœuvres invasives en réanimation favorisent l'infection.",
+   "Faux : chez le sujet sain, il ne cause que des infections localisées bénignes."
+  ]
+ },
+ {
+  "q": "Parmi les facteurs de pathogénicité liés à la bactérie chez Pseudomonas aeruginosa, lesquels sont exacts ?",
+  "options": [
+   "Les pili et protéines de la membrane externe assurent l'adhésion aux sites d'infection",
+   "La protéase a une action nécrotique et hémorragique",
+   "La sécrétion d'enzymes joue un rôle dans la résistance à la phagocytose",
+   "La bactérie peut former des biofilms",
+   "La capsule polysaccharidique épaisse est son principal facteur de virulence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les pili et protéines membranaires assurent l'adhésion.",
+   "Vrai : la protéase est nécrosante et hémorragique.",
+   "Vrai : les enzymes participent à la résistance à la phagocytose.",
+   "Vrai : la formation de biofilms est une caractéristique de P. aeruginosa.",
+   "Faux : le cours ne retient pas de capsule comme facteur majeur ; ce sont pigments, pili, enzymes et protéase."
+  ]
+ },
+ {
+  "q": "Concernant les infections nosocomiales à Pseudomonas aeruginosa, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont fréquentes et graves",
+   "Les infections broncho-pulmonaires sont les plus redoutées",
+   "Les infections urinaires et les surinfections de plaies opératoires sont classiques",
+   "Les infections sur matériel prothétique et du liquide péritonéal chez les dialysés sont possibles",
+   "Elles sont toujours bénignes et spontanément résolutives"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les infections nosocomiales à P. aeruginosa sont fréquentes et graves.",
+   "Vrai : atteinte broncho-pulmonaire nosocomiale typique.",
+   "Vrai : infections urinaires et surinfections de plaies opératoires.",
+   "Vrai : matériel prothétique, liquide péritonéal des dialysés, peau des brûlés.",
+   "Faux : elles sont graves, pas bénignes."
+  ]
+ },
+ {
+  "q": "Au sujet des infections communautaires à Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont généralement localisées",
+   "L'abcès de cornée chez les porteurs de lentilles et les kératites sont des atteintes oculaires typiques",
+   "L'intertrigo est une atteinte cutanée possible",
+   "Les otites externes aiguës surviennent chez l'immunodéprimé et les otites moyennes chroniques chez les nageurs",
+   "Elles se présentent le plus souvent sous forme de septicémies foudroyantes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les infections communautaires sont généralement localisées.",
+   "Vrai : abcès de cornée des porteurs de lentilles, kératites, endophtalmies.",
+   "Vrai : intertrigo cutané.",
+   "Vrai : otites externes aiguës (immunodéprimé) et moyennes chroniques (nageurs).",
+   "Faux : les formes communautaires sont localisées, non septicémiques d'emblée."
+  ]
+ },
+ {
+  "q": "Concernant Pseudomonas aeruginosa et la mucoviscidose, quelles affirmations sont exactes ?",
+  "options": [
+   "Pseudomonas aeruginosa est la première cause d'infection pulmonaire des patients atteints de mucoviscidose",
+   "L'infection pulmonaire à P. aeruginosa aggrave le pronostic respiratoire de ces patients",
+   "La colonisation bronchique y est favorisée par la formation de biofilms",
+   "La mucoviscidose protège contre la colonisation à Pseudomonas aeruginosa",
+   "Seules les infections urinaires sont décrites dans la mucoviscidose"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : première cause d'infection pulmonaire dans la mucoviscidose.",
+   "Vrai : l'infection chronique dégrade la fonction respiratoire.",
+   "Vrai : les biofilms favorisent la persistance bronchique.",
+   "Faux : la mucoviscidose est au contraire un terrain de prédilection.",
+   "Faux : ce sont les infections pulmonaires qui dominent."
+  ]
+ },
+ {
+  "q": "À propos de la résistance aux antibiotiques de Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "La bactérie possède naturellement des résistances à de nombreux antibiotiques",
+   "Le problème des souches multi-résistantes est majeur en milieu hospitalier",
+   "L'antibiogramme révèle très souvent de très nombreux mécanismes de résistance",
+   "La pression de sélection antibiotique favorise l'émergence de souches résistantes",
+   "Toutes les souches restent constamment sensibles aux bêtalactamines usuelles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : résistances naturelles intrinsèques.",
+   "Vrai : les souches multi-résistantes sont un problème hospitalier.",
+   "Vrai : très grande résistance avec de nombreux mécanismes.",
+   "Vrai : la sélection antibiotique augmente le risque de colonisation par des souches résistantes.",
+   "Faux : de nombreuses souches sont résistantes aux bêtalactamines usuelles."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic bactériologique de Pseudomonas aeruginosa, lesquelles sont exactes ?",
+  "options": [
+   "Les prélèvements sont variés : urine, crachat, LCR, pus, matériel médico-chirurgical",
+   "L'état frais montre un bacille mobile à mobilité polaire",
+   "Après coloration de Gram, on observe des bacilles Gram négatif fins",
+   "La culture n'a pas d'exigences particulières et pousse sur milieux ordinaires",
+   "La bactérie ne pousse qu'en milieu strictement anaérobie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prélèvements variés selon le site infecté.",
+   "Vrai : bacille mobile, mobilité polaire à l'état frais.",
+   "Vrai : bacilles Gram négatif fins.",
+   "Vrai : pas d'exigences culturales particulières.",
+   "Faux : c'est un aérobie strict."
+  ]
+ },
+ {
+  "q": "Au sujet de la culture de Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "La culture peut se faire sur milieu ordinaire ou sur milieu spécial comme le milieu au cétrimide",
+   "L'incubation se fait entre 30 et 41 °C en atmosphère humide",
+   "Les colonies sont plates et extensives à bord irrégulier, ou muqueuses",
+   "Les colonies dégagent une odeur caractéristique de fleur de seringa",
+   "La culture exige obligatoirement une atmosphère microaérophile à 5-10 % de CO2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : milieux ordinaires ou cétrimide.",
+   "Vrai : incubation 30 à 41 °C en atmosphère humide.",
+   "Vrai : colonies plates extensives à bord irrégulier ou muqueuses.",
+   "Vrai : odeur caractéristique de fleur de seringa.",
+   "Faux : pas d'exigence microaérophile, c'est un aérobie strict."
+  ]
+ },
+ {
+  "q": "Concernant l'identification biochimique de Pseudomonas aeruginosa, lesquelles sont exactes ?",
+  "options": [
+   "L'oxydase est positive",
+   "Les autres caractères biochimiques sont étudiés par des galeries d'identification",
+   "Le sérotypage est réalisé dans un but épidémiologique",
+   "La production de pigments bleu et jaune-vert oriente le diagnostic",
+   "L'identification repose sur une oxydase négative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : oxydase positive, caractère clé du genre.",
+   "Vrai : galeries d'identification pour les autres caractères.",
+   "Vrai : sérotypage à visée épidémiologique.",
+   "Vrai : pyocyanine bleue et pyoverdine jaune-vert orientent.",
+   "Faux : l'oxydase est positive."
+  ]
+ },
+ {
+  "q": "À propos du traitement des infections à Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "Les infections superficielles communautaires relèvent d'un traitement antibiotique local",
+   "Les infections nosocomiales se traitent par une association bactéricide",
+   "L'association aminoside + bêtalactamine est une option du traitement des formes nosocomiales",
+   "Les fluoroquinolones peuvent être associées dans le traitement des formes graves",
+   "Une monothérapie par amoxicilline suffit dans les infections nosocomiales"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : traitement local pour les formes superficielles communautaires.",
+   "Vrai : association bactéricide pour les infections nosocomiales.",
+   "Vrai : aminosides + bêtalactamines.",
+   "Vrai : les fluoroquinolones font partie des associations possibles.",
+   "Faux : l'amoxicilline seule est inefficace vu les résistances naturelles."
+  ]
+ },
+ {
+  "q": "Concernant la prophylaxie des infections à Pseudomonas aeruginosa, lesquelles sont exactes ?",
+  "options": [
+   "L'hygiène autour des malades est essentielle",
+   "La lutte contre les zones humides comprend le dépistage et la désinfection de l'environnement hospitalier",
+   "Le lavage des mains est une mesure clé",
+   "La recherche de colonisation est recommandée chez tout malade hospitalisé, dans l'environnement et les antiseptiques",
+   "Un vaccin efficace est disponible et recommandé en routine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : hygiène autour des malades.",
+   "Vrai : dépistage et désinfection de l'environnement hospitalier humide.",
+   "Vrai : lavage des mains.",
+   "Vrai : recherche de colonisation chez le malade hospitalisé, l'environnement et les antiseptiques.",
+   "Faux : aucun vaccin n'est mentionné dans le cours."
+  ]
+ },
+ {
+  "q": "Au sujet des autres espèces du genre Pseudomonas, quelles affirmations sont exactes ?",
+  "options": [
+   "Elles représentent 20 à 40 % des isolats cliniques du genre Pseudomonas",
+   "Elles partagent la même écologie de bactéries pathogènes opportunistes",
+   "Pseudomonas stutzeri, Pseudomonas putida et Pseudomonas fluorescens en font partie",
+   "Pseudomonas alcaligenes est une espèce de diagnostic différentiel",
+   "Elles sont toutes des pathogènes stricts du sujet sain"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 20 à 40 % des isolats cliniques du genre.",
+   "Vrai : même écologie, pathogènes opportunistes.",
+   "Vrai : P. stutzeri, P. putida, P. fluorescens citées.",
+   "Vrai : P. alcaligenes citée en diagnostic différentiel.",
+   "Faux : ce sont des opportunistes, pas des pathogènes stricts."
+  ]
+ },
+ {
+  "q": "Un patient grand brûlé développe une surinfection de ses plaies à Pseudomonas aeruginosa. Quelles propositions sont exactes ?",
+  "options": [
+   "Le terrain du grand brûlé est un facteur de risque classique d'infection à P. aeruginosa",
+   "Les infections cutanées chez les brûlés font partie des infections nosocomiales à P. aeruginosa",
+   "Le traitement d'une forme grave repose sur une association bactéricide",
+   "La recherche d'une colonisation de l'environnement humide du patient est indiquée",
+   "Une antibiothérapie locale suffit toujours dans ce contexte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les grands brûlés ont une immunité locale affaiblie.",
+   "Vrai : infections cutanées des brûlés = infections nosocomiales typiques.",
+   "Vrai : association bactéricide pour les formes graves.",
+   "Vrai : dépistage de l'environnement humide du malade.",
+   "Faux : les formes graves exigent un traitement systémique associé."
+  ]
+ },
+ {
+  "q": "Un porteur de lentilles de contact présente un abcès de cornée à Pseudomonas aeruginosa. Quelles propositions sont exactes ?",
+  "options": [
+   "L'abcès de cornée du porteur de lentilles est une infection communautaire typique",
+   "Les infections oculaires à P. aeruginosa incluent kératites et endophtalmies",
+   "Les formes communautaires sont généralement localisées",
+   "Un traitement antibiotique local est indiqué pour les formes superficielles",
+   "Il s'agit d'une infection nosocomiale par définition"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : abcès de cornée des porteurs de lentilles = communautaire.",
+   "Vrai : kératites et endophtalmies décrites.",
+   "Vrai : les formes communautaires sont localisées.",
+   "Vrai : traitement antibiotique local des formes superficielles.",
+   "Faux : c'est une infection communautaire."
+  ]
+ },
+ {
+  "q": "Un patient de réanimation sous respirateur développe une pneumopathie à Pseudomonas aeruginosa. Quelles propositions sont exactes ?",
+  "options": [
+   "Les manœuvres invasives comme la ventilation assistée sont des facteurs de risque",
+   "Les infections broncho-pulmonaires sont des infections nosocomiales fréquentes et graves",
+   "Le respirateur fait partie de l'environnement humide pouvant être colonisé",
+   "Le traitement repose sur une association bactéricide",
+   "La pneumopathie à P. aeruginosa du ventilé est toujours bénigne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : respirateurs = manœuvres invasives à risque.",
+   "Vrai : infections broncho-pulmonaires nosocomiales fréquentes et graves.",
+   "Vrai : le respirateur est un environnement humide à risque.",
+   "Vrai : association bactéricide aminoside + bêtalactamine ou fluoroquinolone.",
+   "Faux : ces pneumopathies sont graves."
+  ]
+ },
+ {
+  "q": "Parmi les caractères suivants, lesquels distinguent Pseudomonas aeruginosa de Vibrio cholerae ?",
+  "options": [
+   "Pseudomonas aeruginosa est aérobie strict alors que Vibrio cholerae est aéro-anaérobie",
+   "Pseudomonas aeruginosa produit une pyocyanine bleue, absente chez Vibrio cholerae",
+   "Pseudomonas aeruginosa ne fermente pas le glucose alors que Vibrio cholerae le fermente sans gaz",
+   "Pseudomonas aeruginosa est oxydase positive comme Vibrio cholerae",
+   "Vibrio cholerae est un pathogène strict alors que P. aeruginosa est un opportuniste"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : aérobie strict contre aéro-anaérobie.",
+   "Vrai : pyocyanine bleue spécifique de P. aeruginosa.",
+   "Vrai : P. aeruginosa non fermentaire, V. cholerae fermente le glucose sans gaz.",
+   "Faux : les deux sont oxydase positive, ce n'est donc pas un critère distinctif.",
+   "Vrai : V. cholerae est un pathogène spécifique, P. aeruginosa un opportuniste."
+  ]
+ },
+ {
+  "q": "Concernant le métabolisme de Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un aérobie strict",
+   "C'est une bactérie oxydase positive",
+   "Elle ne fermente pas le glucose",
+   "Elle est mobile grâce à une ciliature polaire",
+   "Elle fermente le glucose avec production de gaz"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : aérobie strict.",
+   "Vrai : oxydase positive.",
+   "Vrai : non fermentaire.",
+   "Vrai : mobilité polaire.",
+   "Faux : elle ne fermente pas le glucose."
+  ]
+ },
+ {
+  "q": "Au sujet des sidérophores de Pseudomonas aeruginosa, quelles affirmations sont exactes ?",
+  "options": [
+   "La pyocyanine et la pyoverdine sont des produits sidérophores",
+   "Les sidérophores permettent à la bactérie de capter le fer",
+   "La pyoverdine est responsable de la teinte jaune-vert des cultures",
+   "Ces pigments diffusibles participent à la pathogénicité",
+   "Les sidérophores sont des toxines qui distendent le cytosquelette"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pyocyanine et pyoverdine sont des sidérophores.",
+   "Vrai : rôle dans la captation du fer.",
+   "Vrai : pyoverdine = pigment jaune-vert.",
+   "Vrai : facteurs de pathogénicité liés à la bactérie.",
+   "Faux : la toxine qui distend le cytosquelette est celle de Campylobacter."
+  ]
+ },
+ {
+  "q": "Parmi les sites suivants, lesquels peuvent être colonisés ou infectés par Pseudomonas aeruginosa en milieu hospitalier ?",
+  "options": [
+   "Les robinets et les siphons des lavabos",
+   "Les respirateurs et le matériel d'endoscopie",
+   "Les solutions désinfectantes et les bocaux d'urine",
+   "Les douches, lavabos et éponges de l'environnement du patient",
+   "Exclusivement le sang des hémocultures"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : robinets, éviers, siphons colonisés.",
+   "Vrai : respirateurs et endoscopes.",
+   "Vrai : solutions désinfectantes et bocaux d'urine.",
+   "Vrai : douches, lavabos, éponges.",
+   "Faux : les prélèvements sont variés, pas limités au sang."
+  ]
+ },
+ {
+  "q": "Concernant les infections urinaires à Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "Elles font partie des infections nosocomiales à P. aeruginosa",
+   "Le sondage urinaire est un facteur favorisant",
+   "L'urine fait partie des prélèvements diagnostiques",
+   "La pression de sélection des antibiotiques augmente le risque de colonisation",
+   "Elles sont toujours d'origine communautaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infections urinaires nosocomiales classiques.",
+   "Vrai : le cathétérisme/sonde est une manœuvre invasive à risque.",
+   "Vrai : l'urine est un prélèvement de choix.",
+   "Vrai : la sélection antibiotique favorise la colonisation.",
+   "Faux : elles sont typiquement nosocomiales."
+  ]
+ },
+ {
+  "q": "Un patient hémodialysé chronique présente une infection du liquide péritonéal à Pseudomonas aeruginosa. Quelles propositions sont exactes ?",
+  "options": [
+   "L'hémodialysé chronique est un terrain à risque d'infection à P. aeruginosa",
+   "L'infection du liquide péritonéal chez les dialysés est décrite",
+   "Le matériel de dialyse fait partie de l'environnement hospitalier humide à risque",
+   "Le traitement d'une forme grave repose sur une association bactéricide",
+   "Le dialysé est protégé contre Pseudomonas aeruginosa par la dialyse elle-même"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : hémodialysés chroniques = immunité affaiblie.",
+   "Vrai : infection du liquide péritonéal des dialysés décrite.",
+   "Vrai : matériel de dialyse = environnement humide à risque.",
+   "Vrai : association bactéricide pour les formes nosocomiales graves.",
+   "Faux : la dialyse ne protège pas, elle expose."
+  ]
+ },
+ {
+  "q": "Concernant les otites à Pseudomonas aeruginosa, quelles affirmations sont exactes ?",
+  "options": [
+   "Les otites externes aiguës surviennent chez l'immunodéprimé",
+   "Les otites moyennes chroniques sont décrites chez les nageurs",
+   "Le conduit auditif fait partie des zones corporelles humides colonisées",
+   "Il s'agit d'infections communautaires généralement localisées",
+   "Les otites à P. aeruginosa n'existent pas"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : otites externes aiguës de l'immunodéprimé.",
+   "Vrai : otites moyennes chroniques des nageurs.",
+   "Vrai : le conduit auditif est une zone humide colonisée.",
+   "Vrai : formes communautaires localisées.",
+   "Faux : elles sont bien décrites."
+  ]
+ },
+ {
+  "q": "Au sujet du diagnostic différentiel avec les autres Pseudomonas, quelles propositions sont exactes ?",
+  "options": [
+   "Pseudomonas fluorescens et Pseudomonas putida sont des espèces de diagnostic différentiel",
+   "Pseudomonas stutzeri fait partie des autres Pseudomonas cliniques",
+   "Pseudomonas alcaligenes est citée parmi les espèces à différencier",
+   "Le diagnostic bactériologique des autres Pseudomonas est similaire à celui de P. aeruginosa",
+   "Les autres Pseudomonas sont des pathogènes stricts à déclaration obligatoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : P. fluorescens et P. putida citées.",
+   "Vrai : P. stutzeri citée.",
+   "Vrai : P. alcaligenes citée.",
+   "Vrai : diagnostic bactériologique similaire.",
+   "Faux : ce sont des opportunistes, sans déclaration obligatoire."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements pour le diagnostic d'une infection à Pseudomonas aeruginosa, lesquelles sont exactes ?",
+  "options": [
+   "L'urine en cas d'infection urinaire",
+   "Le crachat en cas d'infection broncho-pulmonaire",
+   "Le pus et le LCR selon le site infecté",
+   "Le matériel médico-chirurgical et l'environnement humide du malade",
+   "Uniquement les selles en coproculture"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : urine pour les infections urinaires.",
+   "Vrai : crachat pour les atteintes broncho-pulmonaires.",
+   "Vrai : pus, LCR selon la localisation.",
+   "Vrai : matériel médico-chirurgical et environnement humide.",
+   "Faux : les prélèvements sont variés, pas limités aux selles."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la culture de Pseudomonas aeruginosa, lesquelles sont exactes ?",
+  "options": [
+   "Elle pousse facilement sur milieux ordinaires",
+   "Le milieu au cétrimide est un milieu spécial utilisable",
+   "L'incubation se fait en atmosphère humide",
+   "Les colonies peuvent être muqueuses",
+   "Elle exige un milieu sélectif au sang comme le milieu de Skirrow"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas d'exigences particulières, milieux ordinaires.",
+   "Vrai : milieu au cétrimide cité.",
+   "Vrai : incubation en atmosphère humide.",
+   "Vrai : colonies plates extensives ou muqueuses.",
+   "Faux : le milieu de Skirrow est sélectif pour Campylobacter."
+  ]
+ },
+ {
+  "q": "Un patient transplanté sous immunosuppresseurs développe une bactériémie à Pseudomonas aeruginosa. Quelles propositions sont exactes ?",
+  "options": [
+   "Le transplanté est un terrain classique d'infection à P. aeruginosa",
+   "Il s'agit d'une infection opportuniste grave",
+   "Le traitement repose sur une association bactéricide",
+   "La recherche d'une source environnementale hospitalière est indiquée",
+   "Une antibiothérapie orale par amoxicilline seule est suffisante"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : transplantés = immunité générale affaiblie.",
+   "Vrai : pathogène opportuniste, infections graves.",
+   "Vrai : association bactéricide des formes graves.",
+   "Vrai : dépistage de l'environnement hospitalier humide.",
+   "Faux : l'amoxicilline seule est inefficace."
+  ]
+ },
+ {
+  "q": "Concernant la place de Pseudomonas aeruginosa parmi les bacilles à Gram négatif, quelles affirmations sont exactes ?",
+  "options": [
+   "C'est un bacille à Gram négatif non fermentaire",
+   "Il se distingue des entérobactéries par son métabolisme oxydatif strict",
+   "Il est oxydase positive, contrairement à la plupart des entérobactéries",
+   "Il appartient au genre Pseudomonas qui compte une quarantaine d'espèces",
+   "C'est une entérobactérie fermentant le lactose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : BGN non fermentaire.",
+   "Vrai : aérobie strict à métabolisme oxydatif.",
+   "Vrai : oxydase positive, caractère distinctif.",
+   "Vrai : une quarantaine d'espèces dans le genre.",
+   "Faux : ce n'est pas une entérobactérie."
+  ]
+ },
+ {
+  "q": "Au sujet de la protéase de Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "Elle a une action nécrotique",
+   "Elle a une action hémorragique",
+   "Elle fait partie des facteurs de pathogénicité liés à la bactérie",
+   "Elle participe à la gravité des lésions tissulaires",
+   "Elle est responsable de la diarrhée riziforme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : action nécrotique de la protéase.",
+   "Vrai : action hémorragique.",
+   "Vrai : facteur bactérien de pathogénicité.",
+   "Vrai : elle aggrave les lésions tissulaires.",
+   "Faux : la diarrhée riziforme est le fait de la toxine cholérique."
+  ]
+ },
+ {
+  "q": "Concernant l'adhésion de Pseudomonas aeruginosa aux sites d'infection, quelles propositions sont exactes ?",
+  "options": [
+   "Les pili assurent l'adhésion bactérienne aux sites d'infection",
+   "Les protéines de la membrane externe participent à l'adhésion",
+   "La sécrétion d'enzymes permet la fixation aux glycosphingolipides",
+   "L'adhésion est une étape clé du pouvoir pathogène",
+   "L'adhésion se fait grâce à une capsule de polysaccharides"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les pili assurent l'adhésion.",
+   "Vrai : protéines de la membrane externe adhésines.",
+   "Vrai : les enzymes fixent la bactérie aux glycosphingolipides.",
+   "Vrai : l'adhésion initie l'infection.",
+   "Faux : pas de capsule décrite comme adhésine dans le cours."
+  ]
+ },
+ {
+  "q": "Parmi les mesures suivantes, lesquelles relèvent de la prophylaxie des infections à Pseudomonas aeruginosa ?",
+  "options": [
+   "Le lavage des mains du personnel soignant",
+   "Le dépistage et la désinfection de l'environnement hospitalier humide",
+   "La recherche de colonisation chez tout malade hospitalisé",
+   "Le contrôle des antiseptiques et solutions désinfectantes",
+   "La vaccination systématique des patients hospitalisés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : lavage des mains.",
+   "Vrai : lutte contre les zones humides.",
+   "Vrai : recherche de colonisation chez le malade hospitalisé.",
+   "Vrai : contrôle de l'environnement et des antiseptiques.",
+   "Faux : aucun vaccin disponible."
+  ]
+ },
+ {
+  "q": "Un nageur présente une otite moyenne chronique à Pseudomonas aeruginosa. Quelles propositions sont exactes ?",
+  "options": [
+   "Les otites moyennes chroniques du nageur sont des infections communautaires typiques",
+   "Le conduit auditif est une zone corporelle humide propice à la colonisation",
+   "L'eau est l'habitat naturel de cette bactérie ubiquitaire",
+   "Les formes communautaires sont généralement localisées",
+   "Il s'agit d'une infection nosocomiale grave relevant d'une bithérapie IV d'emblée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : otites moyennes chroniques des nageurs décrites.",
+   "Vrai : conduit auditif = zone humide colonisée.",
+   "Vrai : eau, milieux humides = habitat naturel.",
+   "Vrai : formes communautaires localisées.",
+   "Faux : forme communautaire localisée, pas nosocomiale grave."
+  ]
+ },
+ {
+  "q": "Concernant les infections sur matériel prothétique à Pseudomonas aeruginosa, quelles affirmations sont exactes ?",
+  "options": [
+   "Elles font partie des infections nosocomiales",
+   "La formation de biofilms favorise la persistance sur le matériel",
+   "Le cathétérisme est une manœuvre invasive à risque",
+   "Le traitement des formes graves repose sur une association bactéricide",
+   "Le matériel prothétique est toujours stérile et ne peut être colonisé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infections nosocomiales sur matériel prothétique.",
+   "Vrai : les biofilms expliquent la persistance sur matériel.",
+   "Vrai : cathétérisme = manœuvre invasive.",
+   "Vrai : association bactéricide.",
+   "Faux : le matériel peut être colonisé, d'où ces infections."
+  ]
+ },
+ {
+  "q": "Au sujet de l'examen microscopique dans le diagnostic de Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "L'état frais montre un bacille mobile",
+   "La mobilité observée est de type polaire",
+   "La coloration de Gram montre des bacilles Gram négatif fins",
+   "L'examen direct permet un diagnostic présomptif rapide",
+   "L'état frais montre des bacilles immobiles en chaînettes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacille mobile à l'état frais.",
+   "Vrai : mobilité polaire.",
+   "Vrai : bacilles Gram négatif fins.",
+   "Vrai : l'examen direct oriente rapidement.",
+   "Faux : la bactérie est mobile, pas immobile en chaînettes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles sont exactes concernant Pseudomonas aeruginosa en réanimation ?",
+  "options": [
+   "Les malades de réanimation avec manœuvres invasives sont à risque",
+   "Les infections broncho-pulmonaires sur respirateur sont typiques",
+   "Les infections urinaires sur sonde sont fréquentes",
+   "La lutte contre les zones humides fait partie de la prophylaxie",
+   "La réanimation est un milieu protecteur contre P. aeruginosa"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réanimation + manœuvres invasives = terrain à risque.",
+   "Vrai : pneumopathies sur respirateur.",
+   "Vrai : infections urinaires sur sonde.",
+   "Vrai : dépistage et désinfection de l'environnement humide.",
+   "Faux : la réanimation est au contraire un lieu à haut risque."
+  ]
+ },
+ {
+  "q": "Concernant la place des aminosides dans le traitement de Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "Les aminosides font partie des associations bactéricides des formes nosocomiales",
+   "Ils sont associés aux bêtalactamines dans les formes graves",
+   "Ils peuvent être associés aux fluoroquinolones",
+   "Leur utilisation en association vise à surmonter les résistances",
+   "Ils sont utilisés en monothérapie locale dans les formes superficielles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : aminosides + bêtalactamines = association bactéricide.",
+   "Vrai : association aminoside-bêtalactamine des formes graves.",
+   "Vrai : les fluoroquinolones sont l'autre partenaire possible.",
+   "Vrai : l'association limite l'émergence de résistances.",
+   "Faux : les formes superficielles relèvent d'un antibiotique local, sans précision d'aminoside."
+  ]
+ },
+ {
+  "q": "Un patient sous chimiothérapie présente une infection urinaire à Pseudomonas aeruginosa multi-résistant. Quelles propositions sont exactes ?",
+  "options": [
+   "La chimiothérapie est un facteur d'immunodépression favorisant",
+   "Les souches multi-résistantes sont un problème majeur",
+   "L'antibiogramme est indispensable pour guider le traitement",
+   "La pression de sélection des antibiotiques a pu favoriser cette souche",
+   "Une monothérapie probabiliste par amoxicilline est recommandée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : chimiothérapie = immunité affaiblie.",
+   "Vrai : souches multi-résistantes problématiques.",
+   "Vrai : antibiogramme vu les nombreux mécanismes de résistance.",
+   "Vrai : la sélection antibiotique favorise les souches résistantes.",
+   "Faux : l'amoxicilline est inefficace sur P. aeruginosa."
+  ]
+ },
+ {
+  "q": "Concernant l'écologie de Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "C'est une bactérie saprophyte",
+   "Elle est présente dans l'environnement naturel : eau, milieux humides",
+   "Elle colonise l'environnement du patient : douches, lavabos, éponges",
+   "Le portage chez le patient lui-même est transitoire",
+   "C'est une bactérie à réservoir exclusivement humain"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bactérie saprophyte.",
+   "Vrai : eau et milieux humides naturels.",
+   "Vrai : douches, lavabos, éponges, bocaux d'urine.",
+   "Vrai : portage transitoire (tube digestif, voies respiratoires, peau).",
+   "Faux : elle est ubiquitaire dans l'environnement, pas à réservoir humain exclusif."
+  ]
+ },
+ {
+  "q": "Au sujet des endophtalmies à Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "Elles font partie des infections oculaires communautaires",
+   "Les porteurs de lentilles sont exposés aux infections oculaires à P. aeruginosa",
+   "Les kératites sont des atteintes oculaires décrites",
+   "Les formes communautaires sont généralement localisées",
+   "Elles sont dues à la toxine cholérique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infections oculaires communautaires.",
+   "Vrai : abcès de cornée des porteurs de lentilles.",
+   "Vrai : kératites décrites.",
+   "Vrai : formes communautaires localisées.",
+   "Faux : la toxine cholérique est celle de Vibrio cholerae."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le sérotypage de Pseudomonas aeruginosa, lesquelles sont exactes ?",
+  "options": [
+   "Il est réalisé dans un but épidémiologique",
+   "Il permet de suivre la diffusion des souches en milieu hospitalier",
+   "Il complète l'identification biochimique",
+   "Il remplace l'antibiogramme pour le choix du traitement",
+   "Il repose sur l'agglutination avec des sérums anti-O1 et anti-O139"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sérotypage à visée épidémiologique.",
+   "Vrai : traçage des souches hospitalières.",
+   "Vrai : il s'ajoute aux caractères biochimiques.",
+   "Faux : il ne remplace pas l'antibiogramme.",
+   "Faux : les sérums anti-O1/O139 servent à Vibrio cholerae."
+  ]
+ },
+ {
+  "q": "Concernant les surinfections de plaies opératoires à Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "Elles font partie des infections nosocomiales",
+   "L'environnement hospitalier humide en est la source",
+   "Le traitement des formes graves repose sur une association bactéricide",
+   "La désinfection de l'environnement fait partie de la prophylaxie",
+   "Elles sont toujours dues à une contamination communautaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : surinfections de plaies opératoires nosocomiales.",
+   "Vrai : sources environnementales hospitalières.",
+   "Vrai : association bactéricide.",
+   "Vrai : lutte contre les zones humides.",
+   "Faux : elles sont nosocomiales."
+  ]
+ },
+ {
+  "q": "Un patient atteint de mucoviscidose est colonisé à Pseudomonas aeruginosa. Quelles propositions sont exactes ?",
+  "options": [
+   "P. aeruginosa est la première cause d'infection pulmonaire dans la mucoviscidose",
+   "La colonisation bronchique chronique est favorisée par les biofilms",
+   "Le crachat est le prélèvement de choix pour le suivi",
+   "L'éradication précoce limite la chronicisation",
+   "La mucoviscidose est une infection communautaire localisée bénigne"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : première cause d'infection pulmonaire des mucoviscidosiques.",
+   "Vrai : les biofilms favorisent la persistance bronchique.",
+   "Vrai : le crachat est le prélèvement respiratoire adapté.",
+   "Faux : le cours ne détaille pas cette stratégie ; formulation non issue du cours.",
+   "Faux : la mucoviscidose est une maladie génétique, pas une infection."
+  ]
+ },
+ {
+  "q": "Au sujet de la résistance à la phagocytose chez Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "La sécrétion d'enzymes joue un rôle dans la résistance à la phagocytose",
+   "La fixation aux glycosphingolipides participe à ce mécanisme",
+   "C'est un facteur de pathogénicité lié à la bactérie",
+   "La formation de biofilms protège aussi la bactérie des défenses",
+   "Elle est due à une microcapsule comme chez Campylobacter fetus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les enzymes sécrétées ont un rôle dans la résistance à la phagocytose.",
+   "Vrai : fixation aux glycosphingolipides décrite.",
+   "Vrai : facteur bactérien de pathogénicité.",
+   "Vrai : les biofilms protègent des défenses de l'hôte.",
+   "Faux : la microcapsule est le mécanisme de C. fetus, pas de P. aeruginosa."
+  ]
+ },
+ {
+  "q": "Concernant les caractères culturaux permettant d'orienter vers Pseudomonas aeruginosa, lesquels sont exacts ?",
+  "options": [
+   "Des colonies plates et extensives à bord irrégulier",
+   "Une odeur de fleur de seringa",
+   "Une pigmentation bleue ou jaune-vert des colonies",
+   "Des colonies muqueuses possibles",
+   "Des colonies jaunes sur milieu TCBS"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : colonies plates extensives à bord irrégulier.",
+   "Vrai : odeur caractéristique de fleur de seringa.",
+   "Vrai : pyocyanine bleue, pyoverdine jaune-vert.",
+   "Vrai : colonies muqueuses possibles.",
+   "Faux : le milieu TCBS à colonies jaunes est celui de Vibrio cholerae."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles concernent Pseudomonas aeruginosa ?",
+  "options": [
+   "Bacille à Gram négatif",
+   "Aérobie strict",
+   "Oxydase positive",
+   "Mobile à ciliature polaire",
+   "Cocci à Gram positif en chaînettes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacille Gram négatif.",
+   "Vrai : aérobie strict.",
+   "Vrai : oxydase positive.",
+   "Vrai : mobile, ciliature polaire.",
+   "Faux : ce sont des streptocoques, pas Pseudomonas."
+  ]
+ },
+ {
+  "q": "Un patient de réanimation présente une infection urinaire sur sonde à Pseudomonas aeruginosa. Quelles propositions sont exactes ?",
+  "options": [
+   "La sonde urinaire est une manœuvre invasive à risque",
+   "Les infections urinaires sont des infections nosocomiales typiques",
+   "L'urine est le prélèvement diagnostique adapté",
+   "Le traitement d'une forme grave repose sur une association bactéricide",
+   "La sonde urinaire protège contre la colonisation bactérienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sonde = manœuvre invasive.",
+   "Vrai : infections urinaires nosocomiales.",
+   "Vrai : l'urine est le prélèvement de choix.",
+   "Vrai : association bactéricide des formes graves.",
+   "Faux : la sonde favorise au contraire l'infection."
+  ]
+ },
+ {
+  "q": "Concernant la notion de pathogène opportuniste illustrée par Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "Il infecte les patients à immunité affaiblie locale ou générale",
+   "Les manœuvres invasives créent des portes d'entrée",
+   "La pression de sélection des antibiotiques favorise sa colonisation",
+   "Chez le sujet sain, il ne donne que des infections localisées",
+   "Il est incapable d'infecter un patient immunodéprimé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : définition du pathogène opportuniste.",
+   "Vrai : respirateurs, cathétérisme, sondes.",
+   "Vrai : la sélection antibiotique augmente le risque de colonisation.",
+   "Vrai : formes communautaires localisées chez le sujet sain.",
+   "Faux : c'est précisément l'immunodéprimé qu'il infecte gravement."
+  ]
+ },
+ {
+  "q": "Au sujet des solutions désinfectantes et de Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "Les solutions désinfectantes peuvent être colonisées par P. aeruginosa",
+   "La recherche de colonisation porte aussi sur les antiseptiques",
+   "L'environnement humide hospitalier doit être dépisté et désinfecté",
+   "Cette résistance aux désinfectants illustre son adaptation aux milieux humides",
+   "Les solutions désinfectantes stérilisent toujours P. aeruginosa"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : solutions désinfectantes colonisables.",
+   "Vrai : recherche de colonisation dans l'environnement et les antiseptiques.",
+   "Vrai : dépistage et désinfection de l'environnement hospitalier.",
+   "Vrai : adaptation aux milieux humides hospitaliers.",
+   "Faux : elles peuvent être colonisées, donc pas toujours stérilisantes."
+  ]
+ },
+ {
+  "q": "Parmi les antibiotiques suivants, lesquels peuvent entrer dans le traitement des infections graves à Pseudomonas aeruginosa ?",
+  "options": [
+   "Les aminosides en association",
+   "Les bêtalactamines en association",
+   "Les fluoroquinolones en association",
+   "Aucun antibiotique n'est actif sur P. aeruginosa",
+   "L'amoxicilline en monothérapie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : aminosides + bêtalactamines = association bactéricide.",
+   "Vrai : les bêtalactamines sont le partenaire des aminosides.",
+   "Vrai : les fluoroquinolones sont l'alternative en association.",
+   "Faux : plusieurs classes restent actives en association.",
+   "Faux : l'amoxicilline seule est inefficace."
+  ]
+ },
+ {
+  "q": "Concernant l'intertrigo à Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "C'est une infection cutanée communautaire",
+   "Les zones corporelles humides comme les plis sont des sites de colonisation",
+   "Les formes communautaires sont généralement localisées",
+   "Un traitement antibiotique local est indiqué pour les formes superficielles",
+   "C'est une infection nosocomiale grave du brûlé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : intertrigo = infection cutanée communautaire.",
+   "Vrai : aisselles, pli de l'aine = zones humides colonisées.",
+   "Vrai : formes communautaires localisées.",
+   "Vrai : traitement local des formes superficielles.",
+   "Faux : l'intertrigo est communautaire et localisé."
+  ]
+ },
+ {
+  "q": "Un laboratoire isole un bacille Gram négatif oxydase positive, mobile, à pigment bleu. Quelles propositions sont exactes ?",
+  "options": [
+   "L'oxydase positive et la mobilité orientent vers le genre Pseudomonas",
+   "Le pigment bleu évoque la pyocyanine de Pseudomonas aeruginosa",
+   "La culture sur milieu au cétrimide peut aider à l'isolement",
+   "L'odeur de fleur de seringa est un argument supplémentaire",
+   "Le pigment bleu signe Vibrio cholerae"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : oxydase + et mobilité = genre Pseudomonas.",
+   "Vrai : pyocyanine bleue = P. aeruginosa.",
+   "Vrai : milieu au cétrimide utilisable.",
+   "Vrai : odeur de fleur de seringa caractéristique.",
+   "Faux : V. cholerae ne produit pas de pyocyanine."
+  ]
+ },
+ {
+  "q": "Concernant la gravité des infections nosocomiales à Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont fréquentes et graves",
+   "Les patients de réanimation y sont particulièrement exposés",
+   "Les souches multi-résistantes compliquent le traitement",
+   "La formation de biofilms favorise la chronicisation",
+   "Elles guérissent toujours spontanément sans traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : fréquentes et graves.",
+   "Vrai : réanimation + manœuvres invasives.",
+   "Vrai : multi-résistance problématique.",
+   "Vrai : les biofilms favorisent la persistance.",
+   "Faux : elles nécessitent un traitement associé."
+  ]
+ },
+ {
+  "q": "Au sujet du genre Pseudomonas dans son ensemble, quelles propositions sont exactes ?",
+  "options": [
+   "Le genre contient une quarantaine d'espèces",
+   "Pseudomonas aeruginosa est l'espèce type",
+   "Les autres espèces représentent 20 à 40 % des isolats cliniques du genre",
+   "Ce sont des bactéries à écologie de pathogènes opportunistes",
+   "Toutes les espèces sont des pathogènes stricts à déclaration obligatoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : une quarantaine d'espèces.",
+   "Vrai : P. aeruginosa = espèce type.",
+   "Vrai : 20 à 40 % des isolats cliniques.",
+   "Vrai : pathogènes opportunistes.",
+   "Faux : opportunistes, sans déclaration obligatoire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles sont des facteurs de risque d'infection à Pseudomonas aeruginosa ?",
+  "options": [
+   "Les grands brûlés",
+   "La chimiothérapie anticancéreuse",
+   "La transplantation d'organe",
+   "L'hémodialyse chronique",
+   "La vaccination contre la grippe"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : grands brûlés.",
+   "Vrai : chimiothérapie.",
+   "Vrai : transplantés.",
+   "Vrai : hémodialysés chroniques.",
+   "Faux : aucun lien avec le risque à P. aeruginosa."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'une pneumopathie nosocomiale à Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+  "options": [
+   "Le crachat est le prélèvement respiratoire adapté",
+   "L'état frais montre un bacille mobile à mobilité polaire",
+   "La culture sur milieux ordinaires est possible",
+   "L'oxydase positive oriente l'identification",
+   "Le diagnostic repose sur la sérologie qui est l'examen de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : crachat pour les atteintes broncho-pulmonaires.",
+   "Vrai : bacille mobile, mobilité polaire.",
+   "Vrai : pas d'exigences culturales particulières.",
+   "Vrai : oxydase positive.",
+   "Faux : le diagnostic est bactériologique direct, pas sérologique."
+  ]
+ },
+ {
+  "q": "Concernant les caractères généraux des vibrions, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ce sont des bacilles à Gram négatif incurvés",
+   "Ce sont des bactéries très mobiles grâce à une ciliature polaire",
+   "Leur hôte naturel est le milieu marin et ils supportent de fortes concentrations en sel",
+   "Ce sont des cocci à Gram positif immobiles",
+   "Ils sont strictement anaérobies"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : bacilles Gram négatif incurvés.",
+   "Vrai : très mobiles, ciliature polaire.",
+   "Vrai : milieu marin, halotolérants.",
+   "Faux : ce sont des bacilles Gram négatif mobiles.",
+   "Faux : Vibrio cholerae est aéro-anaérobie."
+  ]
+ },
+ {
+  "q": "Au sujet de la classification des vibrions, quelles propositions sont exactes ?",
+  "options": [
+   "Les vibrions cholériques comprennent les sérogroupes O1 et O139 de Vibrio cholerae",
+   "Les vibrions non cholériques incluent les V. cholerae non-O1/non-O139 et les autres espèces du genre",
+   "12 des 51 espèces connues du genre Vibrio sont pathogènes pour l'homme",
+   "Quatre espèces sont fréquemment isolées : V. cholerae, V. parahaemolyticus, V. vulnificus, V. alginolyticus",
+   "Tous les sérogroupes de V. cholerae entraînent le choléra épidémique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : vibrions cholériques = O1 et O139.",
+   "Vrai : non cholériques = non-O1/non-O139 + autres espèces.",
+   "Vrai : 12 espèces pathogènes sur 51.",
+   "Vrai : les 4 espèces fréquemment isolées en clinique.",
+   "Faux : seuls O1 et O139 donnent le choléra épidémique."
+  ]
+ },
+ {
+  "q": "Concernant les caractères bactériologiques de Vibrio cholerae, lesquelles sont exactes ?",
+  "options": [
+   "Bacilles à Gram négatif non sporulés, en bâtonnets droits et incurvés",
+   "Très mobiles grâce à un cil polaire",
+   "Possèdent une oxydase",
+   "Fermentent le glucose sans production de gaz",
+   "Ce sont des bactéries sporulées à spores terminales"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacilles Gram négatif non sporulés droits et incurvés.",
+   "Vrai : très mobiles, un cil polaire.",
+   "Vrai : oxydase positive.",
+   "Vrai : fermentation du glucose sans gaz.",
+   "Faux : Vibrio cholerae est non sporulé."
+  ]
+ },
+ {
+  "q": "Au sujet des conditions de culture de Vibrio cholerae, quelles propositions sont exactes ?",
+  "options": [
+   "Le germe cultive facilement sur milieu ordinaire",
+   "Il supporte un pH de 9",
+   "Il supporte une concentration de 3 % de NaCl",
+   "C'est une bactérie aéro-anaérobie",
+   "Il exige obligatoirement un milieu sélectif au sang pour pousser"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : culture facile sur milieu ordinaire.",
+   "Vrai : supporte pH 9 (milieu alcalin).",
+   "Vrai : supporte 3 % de NaCl (halotolérant).",
+   "Vrai : aéro-anaérobie.",
+   "Faux : il pousse sur milieu ordinaire, l'enrichissement n'est qu'une option."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes de Vibrio cholerae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'antigène flagellaire H est thermolabile",
+   "L'antigène somatique O est thermostable",
+   "Seuls les sérogroupes O1 et O139 entraînent le choléra épidémique",
+   "L'identification antigénique utilise des sérums agglutinants anti-O1 et anti-O139",
+   "L'antigène O est thermolabile et l'antigène H thermostable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ag H flagellaire thermolabile.",
+   "Vrai : Ag O somatique thermostable.",
+   "Vrai : seuls O1 et O139 = choléra épidémique.",
+   "Vrai : sérums agglutinants anti-vibrion cholérique O1 et O139.",
+   "Faux : c'est l'inverse."
+  ]
+ },
+ {
+  "q": "À propos de l'épidémiologie du choléra, quelles propositions sont exactes ?",
+  "options": [
+   "Le choléra est une maladie strictement humaine à déclaration obligatoire",
+   "Le réservoir comprend l'homme malade, les convalescents et les porteurs sains",
+   "Dans les zones d'endémie, les porteurs sains sont plus nombreux que les malades",
+   "La transmission directe se fait par voie interhumaine (mains sales)",
+   "Le réservoir principal est le tube digestif des volailles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : maladie strictement humaine à déclaration obligatoire.",
+   "Vrai : malade, convalescents, porteurs sains.",
+   "Vrai : en endémie, porteurs sains > malades.",
+   "Vrai : transmission directe interhumaine par mains sales.",
+   "Faux : le réservoir des volailles est celui de Campylobacter."
+  ]
+ },
+ {
+  "q": "Concernant la transmission indirecte du choléra, quelles propositions sont exactes ?",
+  "options": [
+   "L'eau souillée par les matières fécales est une source de contamination",
+   "Les aliments souillés par les matières fécales transmettent la maladie",
+   "La lutte contre le péril fécal est la base de la prophylaxie",
+   "L'hygiène individuelle et alimentaire prévient la transmission",
+   "La transmission se fait par piqûre de moustique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : eau contaminée = transmission indirecte.",
+   "Vrai : aliments souillés par les matières fécales.",
+   "Vrai : lutte contre le péril fécal.",
+   "Vrai : hygiène individuelle et alimentaire.",
+   "Faux : pas de vecteur arthropode."
+  ]
+ },
+ {
+  "q": "Au sujet de la physiopathologie du choléra, quelles propositions sont exactes ?",
+  "options": [
+   "Après ingestion, le vibrion s'implante plus facilement chez les sujets dénutris",
+   "L'hypoacidité gastrique favorise l'implantation du vibrion",
+   "Le vibrion se multiplie dans l'intestin grêle",
+   "Il produit une exotoxine protéique qui active l'adénylcyclase cellulaire",
+   "La toxine agit en inhibant l'adénylcyclase des entérocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : implantation facilitée chez les dénutris.",
+   "Vrai : l'hypoacidité gastrique favorise l'implantation.",
+   "Vrai : multiplication dans l'intestin grêle.",
+   "Vrai : exotoxine protéique activant l'adénylcyclase.",
+   "Faux : elle active, pas inhibe, l'adénylcyclase."
+  ]
+ },
+ {
+  "q": "Concernant le mécanisme d'action de la toxine cholérique, lesquelles sont exactes ?",
+  "options": [
+   "L'activation de l'adénylcyclase accroît l'AMP cyclique des entérocytes",
+   "Il s'ensuit une fuite d'eau vers la lumière intestinale",
+   "Les chlorures, le sodium, le potassium et les bicarbonates sont perdus",
+   "Cette fuite hydro-électrolytique explique la diarrhée profuse",
+   "La toxine détruit les entérocytes par un pouvoir invasif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : accroissement de l'AMP cyclique.",
+   "Vrai : fuite d'eau.",
+   "Vrai : perte de Cl-, Na+, K+ et bicarbonates.",
+   "Vrai : diarrhée profuse hydro-électrolytique.",
+   "Faux : V. cholerae n'est pas invasif, il reste dans la lumière intestinale."
+  ]
+ },
+ {
+  "q": "Un patient présente une diarrhée profuse à selles riziformes après un voyage en zone d'endémie. Quelles propositions sont exactes ?",
+  "options": [
+   "L'aspect riziforme des selles évoque le choléra",
+   "L'incubation du choléra dure de quelques heures à 5 jours",
+   "Les vomissements et la déshydratation importante sont caractéristiques des formes majeures",
+   "La température est normale ou basse dans les formes majeures",
+   "Une fièvre à 40 °C est constante dans le choléra"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : selles riziformes = choléra.",
+   "Vrai : incubation de quelques heures à 5 jours.",
+   "Vrai : vomissements et déshydratation importante.",
+   "Vrai : température normale ou basse.",
+   "Faux : pas de fièvre élevée, température normale ou basse."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution du choléra, quelles affirmations sont exactes ?",
+  "options": [
+   "L'évolution dépend de la rapidité et de la qualité de la réhydratation",
+   "L'évolution spontanée est à l'origine de 50 % de mortalité",
+   "Les formes bénignes sont plus fréquentes que les formes majeures",
+   "Les formes bénignes se traduisent par un tableau de diarrhée banale",
+   "Le choléra guérit toujours spontanément sans séquelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le pronostic dépend de la réhydratation.",
+   "Vrai : 50 % de mortalité sans traitement.",
+   "Vrai : formes bénignes plus fréquentes.",
+   "Vrai : diarrhée banale dans les formes bénignes.",
+   "Faux : 50 % de mortalité en l'absence de traitement."
+  ]
+ },
+ {
+  "q": "Au sujet du prélèvement pour le diagnostic du choléra, quelles propositions sont exactes ?",
+  "options": [
+   "Les selles sont recueillies rapidement dans les 24 h suivant la symptomatologie",
+   "Les vomissements peuvent être prélevés",
+   "Les aliments et l'eau peuvent être analysés",
+   "Le prélèvement de selles se fait de préférence à distance de l'épisode, après 8 jours",
+   "Les hémocultures sont l'examen de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : selles recueillies dans les 24 h.",
+   "Vrai : vomissements prélevables.",
+   "Vrai : aliments et eau analysables.",
+   "Faux : le prélèvement doit être rapide, dans les 24 h.",
+   "Faux : le diagnostic repose sur les selles, pas les hémocultures."
+  ]
+ },
+ {
+  "q": "Concernant l'examen direct dans le diagnostic du choléra, lesquelles sont exactes ?",
+  "options": [
+   "L'examen direct est rapide et facile",
+   "Il a un intérêt certain pour le diagnostic présomptif, notamment du premier cas",
+   "L'état frais montre des bacilles très mobiles et incurvés",
+   "La coloration de Gram montre une flore monomorphe de bacilles Gram négatif en virgules",
+   "L'examen direct montre des bacilles Gram positif en chaînettes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : examen direct rapide et facile.",
+   "Vrai : intérêt pour le diagnostic présomptif du premier cas.",
+   "Vrai : bacilles très mobiles et incurvés à l'état frais.",
+   "Vrai : flore monomorphe, bacilles Gram négatif en virgules ou bâtonnets.",
+   "Faux : ce sont des bacilles Gram négatif."
+  ]
+ },
+ {
+  "q": "À propos du transport des prélèvements pour Vibrio cholerae, quelles propositions sont exactes ?",
+  "options": [
+   "Le milieu de Cary-Blair est un milieu de transport à température ambiante",
+   "L'eau peptonée alcaline peut servir au transport",
+   "Le papier buvard imbibé de selle en flacon hermétique permet de garder les bactéries viables 4 semaines",
+   "Le transport doit éviter la dessiccation du prélèvement",
+   "Le prélèvement doit être congelé à -20 °C avant transport"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : milieu de Cary-Blair à température ambiante.",
+   "Vrai : eau peptonée alcaline utilisable.",
+   "Vrai : papier buvard = viabilité 4 semaines.",
+   "Vrai : éviter la dessiccation (flacon hermétique, eau physiologique).",
+   "Faux : transport à température ambiante, pas de congélation."
+  ]
+ },
+ {
+  "q": "Concernant la culture de Vibrio cholerae sans enrichissement, quelles propositions sont exactes ?",
+  "options": [
+   "La culture est facile en 24 h à 37 °C sur milieux usuels",
+   "Les colonies ont un aspect caractéristique en bris de verre",
+   "Le germe cultive facilement sur milieu ordinaire",
+   "Une culture en 24 h suffit toujours à éliminer le diagnostic",
+   "Le germe ne pousse que sur milieu TCBS"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : culture facile en 24 h à 37 °C sur milieux usuels.",
+   "Vrai : colonies en bris de verre.",
+   "Vrai : pousse sur milieu ordinaire.",
+   "Faux : une culture négative précoce n'élimine pas formellement.",
+   "Faux : le TCBS est le milieu sélectif d'enrichissement, pas l'unique milieu."
+  ]
+ },
+ {
+  "q": "Au sujet de la culture avec enrichissement de Vibrio cholerae, quelles propositions sont exactes ?",
+  "options": [
+   "L'ensemencement se fait dans un bouillon d'enrichissement : eau peptonée saline alcaline",
+   "Le milieu sélectif utilisé est le TCBS (gélose nutritive alcaline)",
+   "Sur TCBS, les colonies de V. cholerae sont jaunes après incubation à 37 °C",
+   "Des repiquages sont réalisés à partir du voile en surface du bouillon d'enrichissement",
+   "Sur TCBS, les colonies de V. cholerae sont bleutées à bord régulier"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bouillon eau peptonée saline alcaline.",
+   "Vrai : milieu sélectif TCBS.",
+   "Vrai : colonies jaunes sur TCBS.",
+   "Vrai : repiquages à partir du voile en surface.",
+   "Faux : les colonies bleutées à bord régulier sont celles obtenues sur GNA."
+  ]
+ },
+ {
+  "q": "Concernant l'identification biochimique de Vibrio cholerae, lesquelles sont exactes ?",
+  "options": [
+   "Le glucose est fermenté",
+   "Le saccharose est positif",
+   "La nitrate réductase est positive",
+   "L'indole est positif",
+   "L'uréase est fortement positive (++++)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : glucose + (sans gaz).",
+   "Vrai : saccharose +.",
+   "Vrai : nitrate réductase +.",
+   "Vrai : indole + (Api 20E, Api NH).",
+   "Faux : l'uréase ++++ est le caractère d'Helicobacter pylori."
+  ]
+ },
+ {
+  "q": "À propos de l'identification antigénique de Vibrio cholerae, quelles propositions sont exactes ?",
+  "options": [
+   "Elle fait suite à l'identification biochimique",
+   "Elle utilise des sérums agglutinants anti-vibrion cholérique",
+   "Les sérums anti-O1 et anti-O139 permettent d'identifier les souches épidémiques",
+   "Elle distingue les souches cholériques O1/O139 des non-O1/non-O139",
+   "Elle repose sur la recherche d'une oxydase positive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'étude antigénique poursuit l'identification biochimique.",
+   "Vrai : sérums agglutinants anti-vibrion cholérique.",
+   "Vrai : sérums anti-O1 et anti-O139.",
+   "Vrai : distinction O1/O139 vs non-O1/non-O139.",
+   "Faux : l'oxydase est un caractère biochimique, pas antigénique."
+  ]
+ },
+ {
+  "q": "Parmi les autres méthodes de diagnostic du choléra, lesquelles sont exactes ?",
+  "options": [
+   "La technique rapide par bandelette réactive donne un résultat en 2 à 15 minutes",
+   "La bandelette se fait sur prélèvement de selle ou écouvillonnage rectal",
+   "La biologie moléculaire (PCR) est utilisable",
+   "L'immunofluorescence directe permet la mise en évidence des formes non viables dans les eaux",
+   "La sérologie est la méthode de référence du diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bandelette réactive, résultat en 2 à 15 min.",
+   "Vrai : sur selle ou écouvillonnage rectal.",
+   "Vrai : PCR utilisable.",
+   "Vrai : IFD, dénombrement et formes non viables dans les eaux.",
+   "Faux : le diagnostic est direct (examen, culture), pas sérologique."
+  ]
+ },
+ {
+  "q": "Concernant l'antibiogramme de Vibrio cholerae, quelles propositions sont exactes ?",
+  "options": [
+   "Il est réalisé sur gélose Mueller-Hinton",
+   "Les tétracyclines sont testées",
+   "Le triméthoprime-sulfaméthoxazole est testé",
+   "Les fluoroquinolones et les aminosides sont testés",
+   "L'antibiogramme est inutile car la bactérie est toujours sensible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : gélose Mueller-Hinton.",
+   "Vrai : tétracyclines testées.",
+   "Vrai : cotrimoxazole testé.",
+   "Vrai : fluoroquinolones, aminosides, chloramphénicol, érythromycine testés.",
+   "Faux : l'antibiogramme est réalisé en routine."
+  ]
+ },
+ {
+  "q": "Au sujet du traitement du choléra, quelles propositions sont exactes ?",
+  "options": [
+   "La réhydratation précoce est la base du traitement",
+   "L'évolution dépend de la rapidité et de la qualité de la réhydratation",
+   "L'antibiothérapie n'est que secondaire",
+   "La tétracycline ou le cotrimoxazole sont les antibiotiques utilisés",
+   "L'antibiothérapie remplace la réhydratation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réhydratation précoce primordiale.",
+   "Vrai : le pronostic dépend de la réhydratation.",
+   "Vrai : antibiothérapie secondaire.",
+   "Vrai : tétracycline ou cotrimoxazole.",
+   "Faux : l'antibiothérapie ne remplace jamais la réhydratation."
+  ]
+ },
+ {
+  "q": "Concernant la prophylaxie du choléra, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La lutte contre le péril fécal est essentielle",
+   "L'hygiène individuelle et alimentaire est recommandée",
+   "Le vaccin est efficace dans 50 à 60 % des cas",
+   "La protection vaccinale est de courte durée",
+   "La vaccination est maintenue au règlement sanitaire international"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : lutte contre le péril fécal.",
+   "Vrai : hygiène individuelle et alimentaire.",
+   "Vrai : efficacité vaccinale 50 à 60 %.",
+   "Vrai : protection de courte durée.",
+   "Faux : la vaccination a été supprimée du règlement sanitaire."
+  ]
+ },
+ {
+  "q": "Un patient revient d'Haïti avec une diarrhée aqueuse profuse. Quelles propositions sont exactes ?",
+  "options": [
+   "Haïti a connu une épidémie de choléra en 2010 après le séisme de Port-au-Prince",
+   "Le tableau évoque une forme majeure de choléra",
+   "Le diagnostic présomptif repose sur l'examen direct (bacilles mobiles incurvés)",
+   "La réhydratation précoce conditionne le pronostic",
+   "Le traitement repose en premier sur les fluoroquinolones à forte dose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : épidémie d'Haïti en 2010 après le séisme.",
+   "Vrai : diarrhée profuse = forme majeure.",
+   "Vrai : examen direct rapide pour le diagnostic présomptif.",
+   "Vrai : la réhydratation conditionne l'évolution.",
+   "Faux : l'antibiothérapie est secondaire (tétracycline ou cotrimoxazole)."
+  ]
+ },
+ {
+  "q": "Au sujet des vibrions non cholériques, quelles propositions sont exactes ?",
+  "options": [
+   "Vibrio cholerae non-O1/non-O139 donne des syndromes diarrhéiques moins sévères que le choléra",
+   "Les vibrions halophiles sont des agents de TIAC liées aux fruits de mer",
+   "Vibrio alginolyticus est responsable d'otites, conjonctivites et atteintes cutanées",
+   "Vibrio vulnificus donne des infections septicémiques et des surinfections de plaies avec abcès nécrosants",
+   "Tous les vibrions non cholériques sont oxydase négative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : non-O1/non-O139 = diarrhées moins sévères.",
+   "Vrai : vibrions halophiles = TIAC fruits de mer.",
+   "Vrai : V. alginolyticus = otites, conjonctivites, cutané.",
+   "Vrai : V. vulnificus = septicémies, surinfections de plaies, abcès métastatiques nécrosants.",
+   "Faux : seul V. metschnikovii est noté oxydase négative."
+  ]
+ },
+ {
+  "q": "Concernant Vibrio parahaemolyticus, Vibrio vulnificus et Vibrio alginolyticus, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des espèces fréquemment isolées en microbiologie clinique",
+   "Vibrio parahaemolyticus est un agent de TIAC liées aux fruits de mer",
+   "Vibrio vulnificus peut donner des septicémies graves",
+   "Vibrio alginolyticus donne des infections externes : otites et conjonctivites",
+   "Ce sont des vibrions cholériques du sérogroupe O1"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : parmi les 4 espèces fréquemment isolées.",
+   "Vrai : vibrion halophile, TIAC fruits de mer.",
+   "Vrai : infections septicémiques.",
+   "Vrai : infections externes (otites, conjonctivites, cutanées).",
+   "Faux : seuls les O1/O139 de V. cholerae sont cholériques."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles distinguent Vibrio cholerae de Campylobacter jejuni ?",
+  "options": [
+   "Vibrio cholerae est aéro-anaérobie alors que C. jejuni est microaérophile",
+   "Vibrio cholerae fermente le glucose, contrairement à C. jejuni",
+   "Vibrio cholerae cultive facilement sur milieu ordinaire, C. jejuni est exigeant",
+   "Les deux bactéries sont très mobiles avec une ciliature polaire",
+   "Vibrio cholerae est uréase ++++ alors que C. jejuni est uréase négative"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : aéro-anaérobie contre microaérophile.",
+   "Vrai : V. cholerae fermente le glucose sans gaz.",
+   "Vrai : culture facile contre germe exigeant.",
+   "Faux : les deux sont mobiles à ciliature polaire, ce n'est pas distinctif.",
+   "Faux : l'uréase ++++ est le trait d'Helicobacter pylori."
+  ]
+ },
+ {
+  "q": "Concernant le caractère épidémique du choléra, quelles propositions sont exactes ?",
+  "options": [
+   "Le choléra a un caractère le plus souvent épidémique par sa grande contagiosité",
+   "C'est un problème de santé mondial",
+   "Des épidémies récentes ont touché le Zimbabwe en 2008 et Haïti en 2010",
+   "Actuellement sévissent épidémies et endémies en Asie du Sud-Est, Afrique et Amérique centrale",
+   "Le choléra est une maladie strictement sporadique sans potentiel épidémique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : caractère épidémique par grande contagiosité.",
+   "Vrai : problème de santé mondial.",
+   "Vrai : Zimbabwe 2008, Haïti 2010 après le séisme.",
+   "Vrai : endémies actuelles (Asie du Sud-Est, Extrême-Orient, Afrique, Amérique centrale).",
+   "Faux : le potentiel épidémique est majeur."
+  ]
+ },
+ {
+  "q": "Au sujet de la déclaration obligatoire du choléra, quelles propositions sont exactes ?",
+  "options": [
+   "Le choléra est une maladie à déclaration obligatoire",
+   "L'examen direct a un intérêt certain pour le diagnostic présomptif du premier cas",
+   "La rapidité du diagnostic conditionne les mesures de lutte",
+   "La lutte contre le péril fécal fait partie des mesures collectives",
+   "Le choléra ne nécessite aucune mesure de santé publique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : maladie à déclaration obligatoire.",
+   "Vrai : diagnostic présomptif rapide du premier cas.",
+   "Vrai : la rapidité diagnostique guide la lutte.",
+   "Vrai : lutte contre le péril fécal.",
+   "Faux : c'est une urgence de santé publique."
+  ]
+ },
+ {
+  "q": "Concernant les selles dans le choléra, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les selles des formes majeures ont un aspect riziforme",
+   "Le vibrion se trouve dans les selles de l'homme malade",
+   "Les selles sont recueillies dans les 24 h pour le diagnostic",
+   "Les formes bénignes donnent un tableau de diarrhée banale",
+   "Les selles sont toujours sanglantes dans le choléra"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : diarrhée profuse à aspect riziforme.",
+   "Vrai : le vibrion est dans les selles du malade.",
+   "Vrai : recueil rapide dans les 24 h.",
+   "Vrai : formes bénignes = diarrhée banale.",
+   "Faux : les selles sont aqueuses riziformes, pas sanglantes."
+  ]
+ },
+ {
+  "q": "Un cas suspect de choléra est signalé dans un camp. Quelles propositions sont exactes ?",
+  "options": [
+   "L'examen direct (état frais) permet un diagnostic présomptif rapide",
+   "La bandelette réactive donne un résultat en 2 à 15 minutes",
+   "La réhydratation précoce des malades est prioritaire",
+   "La lutte contre le péril fécal et l'hygiène de l'eau sont urgentes",
+   "Il faut attendre la culture de 15 jours avant toute mesure"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : examen direct rapide pour le premier cas.",
+   "Vrai : bandelette réactive en 2 à 15 min.",
+   "Vrai : réhydratation précoce primordiale.",
+   "Vrai : péril fécal et hygiène de l'eau.",
+   "Faux : les mesures ne doivent pas attendre la culture."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur Vibrio cholerae, lesquelles sont exactes ?",
+  "options": [
+   "Bacille à Gram négatif",
+   "Très mobile (un cil polaire)",
+   "Oxydase positive",
+   "Aéro-anaérobie",
+   "Bacille à Gram positif sporulé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacille Gram négatif.",
+   "Vrai : très mobile, cil polaire.",
+   "Vrai : oxydase positive.",
+   "Vrai : aéro-anaérobie.",
+   "Faux : Gram négatif non sporulé."
+  ]
+ },
+ {
+  "q": "Concernant la déshydratation du choléra, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est due à la fuite d'eau, de chlorures, de sodium, de potassium et de bicarbonates",
+   "Elle peut être massive et mettre en jeu le pronostic vital",
+   "Son importance explique la mortalité de 50 % sans traitement",
+   "La réhydratation précoce en est le traitement essentiel",
+   "Elle s'accompagne toujours d'une fièvre élevée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : fuite hydro-électrolytique massive.",
+   "Vrai : déshydratation importante des formes majeures.",
+   "Vrai : 50 % de mortalité en évolution spontanée.",
+   "Vrai : la réhydratation conditionne l'évolution.",
+   "Faux : température normale ou basse."
+  ]
+ },
+ {
+  "q": "Au sujet des milieux de culture de Vibrio cholerae, quelles propositions sont exactes ?",
+  "options": [
+   "Le milieu ordinaire permet une culture facile en 24 h à 37 °C",
+   "L'eau peptonée saline alcaline est le bouillon d'enrichissement",
+   "Le TCBS est le milieu sélectif (gélose nutritive alcaline)",
+   "Sur TCBS, les colonies sont jaunes",
+   "Le milieu de Skirrow est le milieu sélectif de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : culture facile sur milieux usuels.",
+   "Vrai : eau peptonée saline alcaline.",
+   "Vrai : TCBS = gélose nutritive alcaline.",
+   "Vrai : colonies jaunes sur TCBS.",
+   "Faux : le milieu de Skirrow est sélectif pour Campylobacter."
+  ]
+ },
+ {
+  "q": "Concernant Vibrio metschnikovii et les vibrions atypiques, quelles propositions sont exactes ?",
+  "options": [
+   "Vibrio metschnikovii est noté oxydase négative, à la différence des autres vibrions",
+   "Vibrio metschnikovii n'appartient pas aux vibrions cholériques O1/O139",
+   "Les vibrions cholériques O1 et O139 sont les seuls responsables du choléra épidémique",
+   "Vibrio cholerae non-O1/non-O139 donne des diarrhées moins sévères que le choléra",
+   "Tous les vibrions sont des bacilles à Gram positif sporulés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : V. metschnikovii est signalé oxydase négative.",
+   "Vrai : ce n'est pas un vibrion cholérique.",
+   "Vrai : seuls O1 et O139 = choléra épidémique.",
+   "Vrai : non-O1/non-O139 = syndromes diarrhéiques moins sévères.",
+   "Faux : les vibrions sont des bacilles Gram négatif non sporulés."
+  ]
+ },
+ {
+  "q": "Concernant l'incubation du choléra, quelles propositions sont exactes ?",
+  "options": [
+   "L'incubation est rapide, de quelques heures à 5 jours",
+   "La brièveté de l'incubation explique la diffusion épidémique rapide",
+   "Les formes majeures débutent brutalement par une diarrhée profuse",
+   "L'incubation dure systématiquement 3 semaines",
+   "Le choléra a une incubation de plusieurs mois"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : incubation de quelques heures à 5 jours.",
+   "Vrai : incubation courte = flambées épidémiques.",
+   "Vrai : début brutal, diarrhée profuse.",
+   "Faux : 3 semaines, c'est le délai du Guillain-Barré après Campylobacter.",
+   "Faux : incubation courte, pas de plusieurs mois."
+  ]
+ },
+ {
+  "q": "Au sujet des vomissements dans le choléra, quelles propositions sont exactes ?",
+  "options": [
+   "Les vomissements accompagnent la diarrhée dans les formes majeures",
+   "Ils aggravent la déshydratation",
+   "Ils peuvent être prélevés pour le diagnostic",
+   "Ils sont absents dans toutes les formes de choléra",
+   "Ils sont le seul symptôme des formes bénignes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : vomissements des formes majeures.",
+   "Vrai : ils aggravent les pertes hydro-électrolytiques.",
+   "Vrai : les vomissements sont un prélèvement possible.",
+   "Faux : ils sont présents dans les formes majeures.",
+   "Faux : les formes bénignes = diarrhée banale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la toxine cholérique, lesquelles sont exactes ?",
+  "options": [
+   "C'est une exotoxine protéique",
+   "Elle est responsable de la maladie en activant l'adénylcyclase",
+   "Elle est produite après multiplication dans l'intestin grêle",
+   "Elle provoque une fuite d'eau et d'électrolytes sans invasion muqueuse",
+   "C'est une endotoxine lipopolysaccharidique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : exotoxine protéique.",
+   "Vrai : activation de l'adénylcyclase cellulaire.",
+   "Vrai : produite lors de la multiplication dans l'intestin grêle.",
+   "Vrai : hypersécrétion sans pouvoir invasif.",
+   "Faux : c'est une exotoxine, pas une endotoxine."
+  ]
+ },
+ {
+  "q": "Concernant les porteurs sains dans le choléra, quelles propositions sont exactes ?",
+  "options": [
+   "Ils font partie du réservoir du germe avec les malades et les convalescents",
+   "En zone d'endémie, ils sont plus nombreux que les malades",
+   "Ils participent à la transmission interhumaine",
+   "L'hygiène des mains limite la transmission à partir des porteurs",
+   "Les porteurs sains n'existent pas dans le choléra"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : malades, convalescents, porteurs sains = réservoir.",
+   "Vrai : en endémie, porteurs sains > malades.",
+   "Vrai : transmission interhumaine directe.",
+   "Vrai : hygiène des mains contre la transmission directe.",
+   "Faux : ils existent et sont nombreux en endémie."
+  ]
+ },
+ {
+  "q": "Un biologiste reçoit des selles suspectes de choléra. Quelles propositions sont exactes ?",
+  "options": [
+   "L'état frais recherche des bacilles très mobiles et incurvés",
+   "La coloration de Gram montre une flore monomorphe en virgules",
+   "La culture sur milieux usuels donne des colonies en bris de verre en 24 h",
+   "L'enrichissement associe eau peptonée saline alcaline et milieu TCBS",
+   "La coproculture est inutile, seule la sérologie compte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : état frais = bacilles très mobiles incurvés.",
+   "Vrai : Gram = flore monomorphe, bacilles en virgules.",
+   "Vrai : colonies en bris de verre en 24 h à 37 °C.",
+   "Vrai : enrichissement eau peptonée alcaline + TCBS.",
+   "Faux : le diagnostic est bactériologique direct."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic différentiel entre V. cholerae O1/O139 et non-O1/non-O139, quelles propositions sont exactes ?",
+  "options": [
+   "Les sérums agglutinants anti-O1 et anti-O139 identifient les souches épidémiques",
+   "Les souches non-O1/non-O139 donnent des diarrhées moins sévères",
+   "L'identification antigénique suit l'identification biochimique",
+   "Les caractères biochimiques (glucose, saccharose, indole) sont communs",
+   "Les souches non-O1/non-O139 sont responsables du choléra épidémique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sérums anti-O1/O139.",
+   "Vrai : non-O1/non-O139 = diarrhées moins sévères.",
+   "Vrai : étude antigénique après la biochimie.",
+   "Vrai : mêmes caractères biochimiques de base.",
+   "Faux : seuls O1/O139 = choléra épidémique."
+  ]
+ },
+ {
+  "q": "Au sujet de la bandelette réactive pour le choléra, quelles propositions sont exactes ?",
+  "options": [
+   "C'est une technique rapide de diagnostic",
+   "Le résultat est obtenu en 2 à 15 minutes sous forme d'une bande colorée",
+   "Elle se réalise sur prélèvement de selle ou écouvillonnage rectal",
+   "Elle complète l'examen direct pour le diagnostic présomptif",
+   "Elle remplace la culture et l'antibiogramme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : technique rapide par bandelette réactive.",
+   "Vrai : résultat en 2 à 15 min, bande colorée.",
+   "Vrai : selle ou écouvillonnage rectal.",
+   "Vrai : aide au diagnostic présomptif rapide.",
+   "Faux : elle ne remplace ni la culture ni l'antibiogramme."
+  ]
+ },
+ {
+  "q": "Parmi les antibiotiques testés à l'antibiogramme de Vibrio cholerae, lesquels sont exacts ?",
+  "options": [
+   "Les tétracyclines",
+   "Le triméthoprime-sulfaméthoxazole",
+   "Les aminosides",
+   "L'érythromycine et les fluoroquinolones",
+   "La vancomycine en première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : tétracyclines testées.",
+   "Vrai : cotrimoxazole testé.",
+   "Vrai : aminosides testés.",
+   "Vrai : érythromycine et fluoroquinolones testées.",
+   "Faux : la vancomycine n'est pas citée pour V. cholerae."
+  ]
+ },
+ {
+  "q": "Concernant la place des antibiotiques dans le choléra, quelles propositions sont exactes ?",
+  "options": [
+   "L'antibiothérapie est secondaire par rapport à la réhydratation",
+   "La tétracycline est l'antibiotique de référence cité",
+   "Le cotrimoxazole est une alternative citée",
+   "L'antibiothérapie seule sans réhydratation est efficace",
+   "Aucun antibiotique n'est actif sur Vibrio cholerae"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : antibiothérapie secondaire.",
+   "Vrai : tétracycline citée.",
+   "Vrai : cotrimoxazole cité.",
+   "Faux : la réhydratation est irremplaçable.",
+   "Faux : plusieurs antibiotiques sont testés et utilisables."
+  ]
+ },
+ {
+  "q": "Un enfant dénutri en zone d'endémie développe un choléra grave. Quelles propositions sont exactes ?",
+  "options": [
+   "La dénutrition favorise l'implantation du vibrion",
+   "L'hypoacidité gastrique du dénutri facilite l'infection",
+   "La déshydratation est particulièrement redoutable chez l'enfant",
+   "La réhydratation précoce est vitale",
+   "La dénutrition protège contre le choléra"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : implantation facilitée chez les dénutris.",
+   "Vrai : l'hypoacidité gastrique favorise l'implantation.",
+   "Vrai : déshydratation grave chez l'enfant.",
+   "Vrai : réhydratation précoce primordiale.",
+   "Faux : la dénutrition est un facteur favorisant."
+  ]
+ },
+ {
+  "q": "Concernant l'hygiène dans la lutte contre le choléra, quelles propositions sont exactes ?",
+  "options": [
+   "La lutte contre le péril fécal est la mesure de base",
+   "L'hygiène individuelle (mains sales) limite la transmission directe",
+   "L'hygiène alimentaire prévient la transmission indirecte",
+   "L'eau de boisson doit être protégée de la contamination fécale",
+   "Aucune mesure d'hygiène n'est efficace contre le choléra"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : lutte contre le péril fécal.",
+   "Vrai : mains sales = transmission directe interhumaine.",
+   "Vrai : hygiène alimentaire contre la transmission indirecte.",
+   "Vrai : eau souillée par les matières fécales = source.",
+   "Faux : l'hygiène est la base de la prophylaxie."
+  ]
+ },
+ {
+  "q": "Au sujet du vaccin anticholérique selon le cours, quelles propositions sont exactes ?",
+  "options": [
+   "Son efficacité est de 50 à 60 %",
+   "La protection conférée est de courte durée",
+   "Il a été supprimé du règlement sanitaire",
+   "Il assure une protection à vie à 100 %",
+   "Il est obligatoire pour tout voyageur"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : efficacité 50 à 60 %.",
+   "Vrai : protection de courte durée.",
+   "Vrai : supprimé du règlement sanitaire.",
+   "Faux : efficacité partielle et courte.",
+   "Faux : supprimé du règlement sanitaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles caractérisent les formes bénignes du choléra ?",
+  "options": [
+   "Elles sont plus fréquentes que les formes majeures",
+   "Elles se traduisent par une diarrhée banale",
+   "La déshydratation y est absente ou modérée",
+   "Elles participent à la diffusion de l'épidémie",
+   "Elles s'accompagnent toujours d'une déshydratation massive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : formes bénignes plus fréquentes.",
+   "Vrai : tableau de diarrhée banale.",
+   "Vrai : pas de déshydratation massive.",
+   "Vrai : les formes frustes entretiennent la transmission.",
+   "Faux : la déshydratation massive est le fait des formes majeures."
+  ]
+ },
+ {
+  "q": "Concernant la flore observée au Gram dans le choléra, quelles propositions sont exactes ?",
+  "options": [
+   "La flore est monomorphe",
+   "On observe des bacilles à Gram négatif en virgules",
+   "On peut voir des bâtonnets incurvés",
+   "Cette flore monomorphe oriente le diagnostic présomptif",
+   "On observe des cocci à Gram positif en diplocoques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : flore monomorphe.",
+   "Vrai : bacilles Gram négatif en virgules.",
+   "Vrai : bâtonnets droits et incurvés.",
+   "Vrai : argument du diagnostic présomptif.",
+   "Faux : pas de cocci Gram positif."
+  ]
+ },
+ {
+  "q": "Un laboratoire identifie un vibrion O1. Quelles propositions sont exactes ?",
+  "options": [
+   "Il s'agit d'un vibrion cholérique",
+   "Il est responsable potentiel du choléra épidémique",
+   "L'identification a utilisé des sérums agglutinants anti-O1",
+   "Le cas est à déclaration obligatoire",
+   "Il s'agit d'un vibrion non cholérique bénin"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : O1 = vibrion cholérique.",
+   "Vrai : O1/O139 = choléra épidémique.",
+   "Vrai : sérums agglutinants anti-O1.",
+   "Vrai : maladie à déclaration obligatoire.",
+   "Faux : O1 est cholérique, pas non cholérique."
+  ]
+ },
+ {
+  "q": "Concernant les eaux dans l'épidémiologie du choléra, quelles propositions sont exactes ?",
+  "options": [
+   "L'eau souillée par les matières fécales est une source de transmission indirecte",
+   "L'IFD permet la mise en évidence des formes non viables dans les eaux",
+   "L'eau peut être prélevée pour le diagnostic bactériologique",
+   "La protection de l'eau de boisson fait partie de la prophylaxie",
+   "L'eau de mer est le seul réservoir du vibrion cholérique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : eau contaminée = transmission indirecte.",
+   "Vrai : IFD pour les formes non viables dans les eaux.",
+   "Vrai : l'eau est un prélèvement possible.",
+   "Vrai : hygiène de l'eau = prophylaxie.",
+   "Faux : le réservoir est l'homme (malade, convalescent, porteur sain)."
+  ]
+ },
+ {
+  "q": "Au sujet de la mobilité de Vibrio cholerae à l'état frais, quelles propositions sont exactes ?",
+  "options": [
+   "Les bacilles sont très mobiles",
+   "La mobilité est due à un cil polaire",
+   "Cette mobilité est comparable au « vol de moucherons » des Campylobacter",
+   "L'état frais a un intérêt pour le diagnostic présomptif rapide",
+   "Les vibrions sont immobiles à l'état frais"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacilles très mobiles.",
+   "Vrai : un cil polaire.",
+   "Vrai : mobilité proche du vol de moucherons.",
+   "Vrai : diagnostic présomptif rapide.",
+   "Faux : ils sont très mobiles."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles sont des mesures de prophylaxie du choléra ?",
+  "options": [
+   "La lutte contre le péril fécal",
+   "L'hygiène individuelle et alimentaire",
+   "La déclaration obligatoire des cas",
+   "Le diagnostic présomptif rapide du premier cas",
+   "La vaccination systématique de toute la population mondiale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : lutte contre le péril fécal.",
+   "Vrai : hygiène individuelle et alimentaire.",
+   "Vrai : maladie à déclaration obligatoire.",
+   "Vrai : diagnostic rapide du premier cas pour la lutte.",
+   "Faux : vaccin d'efficacité partielle, supprimé du règlement sanitaire."
+  ]
+ },
+ {
+  "q": "Concernant la gravité du choléra non traité, quelles propositions sont exactes ?",
+  "options": [
+   "L'évolution spontanée entraîne 50 % de mortalité",
+   "La déshydratation massive est la cause du décès",
+   "La rapidité de la réhydratation conditionne la survie",
+   "Les formes majeures associent diarrhée profuse, vomissements et déshydratation",
+   "Le choléra non traité est toujours bénin"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 50 % de mortalité sans traitement.",
+   "Vrai : décès par déshydratation.",
+   "Vrai : la réhydratation précoce sauve.",
+   "Vrai : triade des formes majeures.",
+   "Faux : 50 % de mortalité en l'absence de traitement."
+  ]
+ },
+ {
+  "q": "Concernant les pandémies et l'histoire récente du choléra, quelles propositions sont exactes ?",
+  "options": [
+   "Le choléra a provoqué de grandes pandémies dans le passé",
+   "Actuellement, on observe des épidémies et des endémies dans plusieurs régions du monde",
+   "Le Zimbabwe a connu une épidémie en 2008",
+   "Haïti a connu une épidémie en 2010 après le séisme de Port-au-Prince",
+   "Le choléra a été éradiqué dans le monde en 2000"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : grandes pandémies historiques.",
+   "Vrai : épidémies et endémies actuelles.",
+   "Vrai : épidémie du Zimbabwe en 2008.",
+   "Vrai : épidémie d'Haïti en 2010 après le séisme.",
+   "Faux : le choléra reste un problème de santé mondial."
+  ]
+ },
+ {
+  "q": "Concernant la place de Campylobacter en pathologie digestive, lesquelles sont exactes ?",
+  "options": [
+   "Les Campylobacter sont la principale cause bactérienne de gastroentérites dans le monde",
+   "L'incidence est croissante dans les pays développés",
+   "Les espèces du genre sont principalement responsables de zoonoses",
+   "De nombreuses espèces animales sont impliquées comme réservoir infectieux",
+   "Campylobacter est une cause rare de diarrhée, loin derrière les virus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : principale cause bactérienne de gastroentérites dans le monde.",
+   "Vrai : incidence croissante dans les pays développés.",
+   "Vrai : zoonoses avant tout.",
+   "Vrai : nombreux réservoirs animaux.",
+   "Faux : c'est la première cause bactérienne."
+  ]
+ },
+ {
+  "q": "Au sujet de la taxonomie de Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "Le genre appartient à la subdivision des Proteobacteria",
+   "Il appartient à l'ordre des Campylobactérales",
+   "La famille est celle des Campylobacteraceae",
+   "L'espèce type décrite est Campylobacter fetus",
+   "Il appartient à la famille des Enterobacteriaceae"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Proteobacteria.",
+   "Vrai : ordre des Campylobactérales.",
+   "Vrai : famille des Campylobacteraceae.",
+   "Vrai : espèce type C. fetus, plus seize autres espèces et sous-espèces.",
+   "Faux : famille des Campylobacteraceae."
+  ]
+ },
+ {
+  "q": "Concernant les groupes d'intérêt médical du genre Campylobacter, lesquels sont exacts ?",
+  "options": [
+   "Le groupe thermotolérant comprend C. coli et C. jejuni",
+   "Le groupe « fetus » comprend C. fetus",
+   "Le groupe « anaérobie » comprend par exemple C. sputorum",
+   "C. jejuni est l'espèce la plus impliquée dans les entérites",
+   "Il n'existe qu'une seule espèce pathogène dans le genre"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : groupe thermotolérant = C. coli et C. jejuni.",
+   "Vrai : groupe fetus = C. fetus.",
+   "Vrai : groupe anaérobie = C. sputorum.",
+   "Vrai : l'entérite est liée le plus souvent à C. jejuni.",
+   "Faux : seize autres espèces décrites."
+  ]
+ },
+ {
+  "q": "À propos des caractères bactériologiques de Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des bacilles à Gram négatif arqués ou spiralés",
+   "Ils sont mobiles grâce à des flagelles polaires",
+   "Ils sont dépourvus de spores et de capsule",
+   "La culture se fait en microaérophilie avec 5 à 10 % de CO2 en 48 heures",
+   "Ce sont des cocci à Gram positif aéro-anaérobies"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacilles Gram négatif arqués ou spiralés.",
+   "Vrai : mobiles, flagelles polaires.",
+   "Vrai : absence de spores et de capsule.",
+   "Vrai : microaérophilie 5 à 10 % CO2, 48 h.",
+   "Faux : bacilles Gram négatif."
+  ]
+ },
+ {
+  "q": "Concernant les facteurs de virulence de Campylobacter jejuni, lesquels sont exacts ?",
+  "options": [
+   "La mobilité favorise l'invasion de la muqueuse intestinale",
+   "L'adhérence aux cellules épithéliales est un facteur de virulence",
+   "L'invasion se fait par internalisation dans des vacuoles intracellulaires",
+   "La bactérie produit une toxine qui distend le cytosquelette",
+   "La bactérie produit une exotoxine qui active l'adénylcyclase"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : mobilité = invasion muqueuse.",
+   "Vrai : adhérence aux cellules épithéliales.",
+   "Vrai : internalisation dans des vacuoles intracellulaires.",
+   "Vrai : toxine distendant le cytosquelette.",
+   "Faux : l'exotoxine activant l'adénylcyclase est celle du choléra."
+  ]
+ },
+ {
+  "q": "Un patient développe un syndrome de Guillain-Barré 3 semaines après une diarrhée. Quelles propositions sont exactes ?",
+  "options": [
+   "Le syndrome de Guillain-Barré est une complication non infectieuse de l'entérite à C. jejuni",
+   "Il s'agit d'une polyradiculonévrite réversible pouvant laisser des séquelles",
+   "Il survient en général 3 semaines après l'entérite",
+   "Son mécanisme est un mimétisme moléculaire entre le LPS de C. jejuni et les terminaisons de la myéline",
+   "Il est dû à l'invasion directe des nerfs par la bactérie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : complication non infectieuse post-entérite.",
+   "Vrai : polyradiculonévrite réversible, séquelles possibles.",
+   "Vrai : survenue ~3 semaines après l'entérite.",
+   "Vrai : mimétisme moléculaire LPS-myéline.",
+   "Faux : mécanisme immunologique, pas d'invasion nerveuse directe."
+  ]
+ },
+ {
+  "q": "Au sujet de Campylobacter fetus, quelles propositions sont exactes ?",
+  "options": [
+   "C. fetus est responsable d'infections systémiques",
+   "Il résiste à la phagocytose grâce à une microcapsule",
+   "Les infections systémiques à C. fetus se traitent par gentamicine + bêtalactamine ou macrolide",
+   "Les bactériémies peuvent donner des localisations vasculaires, méningées ou ostéo-articulaires",
+   "C. fetus reste strictement limité au tube digestif sans jamais passer dans le sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : C. fetus = infections systémiques.",
+   "Vrai : résistance à la phagocytose par microcapsule.",
+   "Vrai : gentamicine + bêtalactamine ou macrolide.",
+   "Vrai : localisations secondaires vasculaires, méninges, ostéo-articulaires.",
+   "Faux : C. fetus donne des bactériémies avec localisations secondaires."
+  ]
+ },
+ {
+  "q": "Concernant l'épidémiologie de Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "Les Campylobacter sont commensaux du tube digestif de nombreux oiseaux et mammifères",
+   "Ils sont présents à de fortes concentrations (10^6 UFC/g de matière fécale)",
+   "La prévalence dans le tube digestif des volailles est 8 à 20 fois plus élevée que celle de Salmonella",
+   "C. coli est rencontré chez le porc, C. upsaliensis chez le chien, C. lari chez la mouette",
+   "Le réservoir est exclusivement humain"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : commensaux du tube digestif des oiseaux et mammifères.",
+   "Vrai : 10^6 UFC/g de matière fécale.",
+   "Vrai : prévalence volaille 8 à 20 fois > Salmonella.",
+   "Vrai : C. coli (porc), C. upsaliensis (chien), C. lari (mouette).",
+   "Faux : réservoir animal majeur, zoonose."
+  ]
+ },
+ {
+  "q": "Au sujet de la transmission de Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "La transmission est essentiellement d'origine alimentaire",
+   "La source principale est la volaille crue",
+   "La contamination croisée des aliments crus en cuisine est un mode de contamination",
+   "Les cas sont surtout sporadiques, les épidémies sont rares",
+   "La transmission se fait par voie respiratoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : transmission essentiellement alimentaire.",
+   "Vrai : volaille crue = source principale.",
+   "Vrai : contamination croisée en cuisine.",
+   "Vrai : rares épidémies, surtout cas sporadiques.",
+   "Faux : transmission digestive, pas respiratoire."
+  ]
+ },
+ {
+  "q": "Concernant les épidémies à Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont rares par rapport aux cas sporadiques",
+   "Elles sont dues à la consommation de lait cru",
+   "Elles peuvent avoir une origine hydrique",
+   "La pasteurisation du lait et la chloration de l'eau les préviennent",
+   "Elles sont dues à la toxine cholérique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : rares épidémies, surtout cas sporadiques.",
+   "Vrai : épidémies par lait cru.",
+   "Vrai : origine hydrique possible.",
+   "Vrai : pasteurisation du lait, chloration de l'eau.",
+   "Faux : la toxine cholérique est celle de Vibrio cholerae."
+  ]
+ },
+ {
+  "q": "Un patient présente une diarrhée avec sang dans les selles, douleurs abdominales et fièvre après un repas de poulet. Quelles propositions sont exactes ?",
+  "options": [
+   "Le tableau évoque une entérite à Campylobacter jejuni",
+   "La diarrhée sanglante avec douleurs abdominales est typique",
+   "La fièvre, l'asthénie et l'anorexie accompagnent souvent l'entérite",
+   "La volaille crue ou insuffisamment cuite est la source principale",
+   "Une diarrhée sanglante élimine Campylobacter"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : entérite à C. jejuni après volaille.",
+   "Vrai : diarrhée, douleurs abdominales, sang dans les selles.",
+   "Vrai : fièvre, asthénie, anorexie.",
+   "Vrai : volaille crue = source principale.",
+   "Faux : le sang dans les selles est décrit dans l'entérite à Campylobacter."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution de l'entérite à Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "Il n'y a pas de signes de gravité en général",
+   "Une guérison spontanée est possible",
+   "Les signes généraux ne permettent pas de l'individualiser des autres infections intestinales",
+   "Le syndrome de Guillain-Barré peut survenir 3 semaines après",
+   "L'entérite à Campylobacter est toujours mortelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas de signes de gravité.",
+   "Vrai : guérison spontanée possible.",
+   "Vrai : tableau non spécifique.",
+   "Vrai : Guillain-Barré ~3 semaines après l'entérite.",
+   "Faux : évolution le plus souvent bénigne."
+  ]
+ },
+ {
+  "q": "Au sujet des complications non infectieuses de l'infection à Campylobacter, lesquelles sont exactes ?",
+  "options": [
+   "Le syndrome de Guillain-Barré",
+   "L'arthrite réactionnelle",
+   "L'érythème noueux",
+   "L'urticaire",
+   "La glomérulonéphrite aiguë post-streptococcique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Guillain-Barré cité.",
+   "Vrai : arthrite réactionnelle citée.",
+   "Vrai : érythème noueux cité.",
+   "Vrai : urticaire citée.",
+   "Faux : complication du streptocoque, pas de Campylobacter."
+  ]
+ },
+ {
+  "q": "Concernant le prélèvement pour le diagnostic de Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "La recherche de Campylobacter doit faire partie des coprocultures devant toute diarrhée infectieuse aiguë",
+   "L'échantillon de selles peut être conservé 24 heures à +4 °C",
+   "L'écouvillon rectal doit être ensemencé immédiatement ou stocké en milieu de transport",
+   "Les Campylobacter sont sensibles à la dessiccation",
+   "Les hémocultures sont l'examen de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : recherche systématique en coproculture.",
+   "Vrai : selles conservées 24 h à +4 °C.",
+   "Vrai : écouvillon ensemencé immédiatement ou milieu de transport.",
+   "Vrai : sensibilité à la dessiccation.",
+   "Faux : les hémocultures sont rares, la coproculture prime."
+  ]
+ },
+ {
+  "q": "À propos de l'examen direct dans le diagnostic de Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "L'état frais montre une mobilité caractéristique en « vol de moucherons »",
+   "La microscopie à contraste de phase peut être utilisée",
+   "La coloration de Gram montre de petits bacilles Gram négatif incurvés",
+   "Ils sont souvent associés aux hématies et aux leucocytes",
+   "L'état frais montre des bacilles immobiles en palissades"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : mobilité en vol de moucherons.",
+   "Vrai : contraste de phase utilisable.",
+   "Vrai : petits bacilles Gram négatif incurvés.",
+   "Vrai : associés aux hématies et leucocytes.",
+   "Faux : ils sont très mobiles."
+  ]
+ },
+ {
+  "q": "Concernant la culture de Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "Les milieux au sang comme Skirrow, Blaser ou Campylosel sont utilisés",
+   "Le milieu au charbon de Karmali est utilisé",
+   "Des milieux sélectifs additionnés d'antibiotiques inhibent les autres bactéries",
+   "L'incubation se fait en microaérobie à 37 °C pendant 48 heures",
+   "La culture pousse facilement en 24 h sur milieu ordinaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : milieux au sang (Skirrow, Blaser, Campylosel).",
+   "Vrai : milieu au charbon (Karmali).",
+   "Vrai : antibiotiques sélectifs (triméthoprime, polymyxine, vancomycine, colistine, bacitracine, céfalotine).",
+   "Vrai : microaérobie 37 °C, 48 h.",
+   "Faux : germe exigeant, culture délicate."
+  ]
+ },
+ {
+  "q": "Au sujet des colonies de Campylobacter en culture, quelles propositions sont exactes ?",
+  "options": [
+   "Les colonies sont de petite taille",
+   "Elles présentent des reflets métalliques",
+   "Une incubation prolongée de 5 à 8 jours est parfois nécessaire",
+   "Elles ont un aspect en bris de verre en 24 h",
+   "Elles sont jaunes sur milieu TCBS"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : petites colonies.",
+   "Vrai : reflets métalliques.",
+   "Vrai : incubation parfois prolongée 5 à 8 jours.",
+   "Faux : l'aspect en bris de verre est celui de V. cholerae.",
+   "Faux : colonies jaunes sur TCBS = V. cholerae."
+  ]
+ },
+ {
+  "q": "Concernant l'identification du genre Campylobacter, quels critères sont exacts ?",
+  "options": [
+   "Les exigences culturales",
+   "La microaérobie",
+   "La morphologie incurvée et la coloration Gram négatif",
+   "La présence d'une oxydase",
+   "La présence d'une uréase ++++"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : exigences culturales.",
+   "Vrai : microaérobie.",
+   "Vrai : morphologie incurvée, Gram négatif.",
+   "Vrai : oxydase positive.",
+   "Faux : l'uréase ++++ est le trait d'Helicobacter pylori."
+  ]
+ },
+ {
+  "q": "Pour l'identification de l'espèce de Campylobacter, quels tests sont utilisés ?",
+  "options": [
+   "La température de croissance",
+   "La sensibilité à certains antibiotiques (acide nalidixique, céfalotine)",
+   "Le test de la catalase",
+   "L'hydrolyse de l'hippurate",
+   "La recherche de l'antigène O1 au sérum agglutinant"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : température de croissance.",
+   "Vrai : sensibilité acide nalidixique/céfalotine.",
+   "Vrai : test de la catalase.",
+   "Vrai : hydrolyse de l'hippurate.",
+   "Faux : l'antigène O1 concerne Vibrio cholerae."
+  ]
+ },
+ {
+  "q": "Concernant l'antibiogramme de Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "L'antibiogramme est toujours indiqué",
+   "Les fluoroquinolones (ciprofloxacine) sont testées",
+   "Les macrolides (érythromycine) sont testés",
+   "La gentamicine et les bêtalactamines (ampicilline, amoxicilline-acide clavulanique) sont testées",
+   "Les résistances aux antibiotiques sont inexistantes chez Campylobacter"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : antibiogramme toujours indiqué.",
+   "Vrai : ciprofloxacine testée.",
+   "Vrai : érythromycine testée.",
+   "Vrai : gentamicine, ampicilline, amoxicilline-acide clavulanique testées.",
+   "Faux : la fréquence des résistances est en nette augmentation."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic indirect de l'infection à Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "La sérologie n'a pas d'intérêt dans les épisodes diarrhéiques aigus",
+   "Elle a un intérêt en cas d'arthrite réactionnelle",
+   "Elle a un intérêt en cas de syndrome de Guillain-Barré",
+   "Les tests utilisés sont la fixation du complément et l'ELISA",
+   "La sérologie est l'examen de première intention devant toute diarrhée aiguë"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas d'intérêt dans les diarrhées aiguës.",
+   "Vrai : intérêt en cas d'arthrite réactionnelle.",
+   "Vrai : intérêt en cas de Guillain-Barré.",
+   "Vrai : fixation du complément et ELISA.",
+   "Faux : le diagnostic des diarrhées aiguës est direct (coproculture)."
+  ]
+ },
+ {
+  "q": "Un patient présente une arthrite réactionnelle après une diarrhée. Quelles propositions sont exactes ?",
+  "options": [
+   "L'arthrite réactionnelle est une complication non infectieuse de l'infection à Campylobacter",
+   "La sérologie (fixation du complément, ELISA) a un intérêt dans ce contexte",
+   "La coproculture reste l'examen de la phase aiguë diarrhéique",
+   "Le syndrome de Guillain-Barré est une autre complication à redouter",
+   "L'arthrite est due à la présence de la bactérie dans l'articulation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : arthrite réactionnelle = complication non infectieuse.",
+   "Vrai : sérologie utile (fixation du complément, ELISA).",
+   "Vrai : diagnostic direct en phase aiguë.",
+   "Vrai : Guillain-Barré = autre complication non infectieuse.",
+   "Faux : l'arthrite est réactionnelle, immuno-médiée, pas septique."
+  ]
+ },
+ {
+  "q": "Concernant la prophylaxie des infections à Campylobacter, lesquelles sont exactes ?",
+  "options": [
+   "C'est celle de toute infection intestinale",
+   "Le nettoyage des mains et des paillasses après manipulation de volaille est recommandé",
+   "La pasteurisation du lait est recommandée",
+   "La chloration de l'eau de boisson est recommandée",
+   "Un vaccin efficace est disponible en routine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prophylaxie des infections intestinales.",
+   "Vrai : nettoyage mains et paillasses après la volaille.",
+   "Vrai : pasteurisation du lait.",
+   "Vrai : chloration de l'eau de boisson.",
+   "Faux : aucun vaccin mentionné dans le cours."
+  ]
+ },
+ {
+  "q": "Au sujet de la survie de Campylobacter dans l'environnement, quelles propositions sont exactes ?",
+  "options": [
+   "La survie est de plusieurs semaines à 4 °C",
+   "L'eau et le lait sont des milieux de survie",
+   "La bactérie est sensible à la dessiccation",
+   "La réfrigération à 4 °C élimine Campylobacter des aliments",
+   "La survie se fait uniquement à 37 °C"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : survie plusieurs semaines à 4 °C.",
+   "Vrai : survie dans l'eau et le lait.",
+   "Vrai : sensibilité à la dessiccation.",
+   "Faux : la réfrigération ne l'élimine pas, il y survit.",
+   "Faux : il survit à 4 °C dans l'environnement."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles concernent Campylobacter jejuni ?",
+  "options": [
+   "Bacille à Gram négatif arqué ou spiralé",
+   "Mobile à flagelles polaires",
+   "Microaérophile, oxydase positive",
+   "Responsable d'entérites avec diarrhée parfois sanglante",
+   "Bacille à Gram positif sporulé anaérobie strict"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacille Gram négatif arqué/spiralé.",
+   "Vrai : flagelles polaires.",
+   "Vrai : microaérophile, oxydase +.",
+   "Vrai : entérite à diarrhée parfois sanglante.",
+   "Faux : Gram négatif non sporulé."
+  ]
+ },
+ {
+  "q": "Concernant la physiopathologie de Campylobacter jejuni, quelles propositions sont exactes ?",
+  "options": [
+   "C. jejuni adhère aux cellules épithéliales grâce aux pili, protéines membranaires et LPS",
+   "Il peut survivre à l'intérieur des vacuoles",
+   "Il produit l'IL-8, médiateur de l'inflammation",
+   "Il sécrète une toxine distendant le cytosquelette",
+   "Il produit une uréase ++++ neutralisant l'acidité gastrique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : adhérence par pili, protéines membranaires, LPS.",
+   "Vrai : survie intravacuolaire.",
+   "Vrai : production d'IL-8 pro-inflammatoire.",
+   "Vrai : toxine distendant le cytosquelette.",
+   "Faux : l'uréase ++++ est le trait d'Helicobacter pylori."
+  ]
+ },
+ {
+  "q": "Un laboratoire isole en coproculture de petites colonies à reflets métalliques. Quelles propositions sont exactes ?",
+  "options": [
+   "L'aspect évoque Campylobacter",
+   "La culture a nécessité une incubation en microaérobie à 37 °C",
+   "Un milieu sélectif type Skirrow ou Karmali a pu être utilisé",
+   "L'oxydase positive et la morphologie incurvée confirment le genre",
+   "L'aspect en bris de verre confirme Campylobacter"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : petites colonies à reflets métalliques = Campylobacter.",
+   "Vrai : microaérobie 37 °C, 48 h.",
+   "Vrai : milieux sélectifs (Skirrow, Blaser, Campylosel, Karmali).",
+   "Vrai : critères d'identification du genre.",
+   "Faux : l'aspect en bris de verre est celui de V. cholerae."
+  ]
+ },
+ {
+  "q": "Concernant les bactériémies à Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "Les Campylobacter peuvent se retrouver dans le torrent circulatoire",
+   "Des localisations secondaires sont possibles : tissu vasculaire, méninges, tissu ostéo-articulaire",
+   "C. fetus est particulièrement responsable d'infections systémiques",
+   "Les hémocultures sont fréquemment positives en routine",
+   "Les bactériémies sont traitées par gentamicine + bêtalactamine ou macrolide pour C. fetus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : bactériémies possibles.",
+   "Vrai : localisations vasculaires, méninges, ostéo-articulaires.",
+   "Vrai : C. fetus = infections systémiques.",
+   "Faux : les hémocultures sont rares.",
+   "Vrai : traitement des formes systémiques à C. fetus."
+  ]
+ },
+ {
+  "q": "Au sujet du « vol de moucherons », quelles propositions sont exactes ?",
+  "options": [
+   "C'est la mobilité caractéristique de Campylobacter à l'état frais",
+   "Elle est observable en microscopie à contraste de phase",
+   "Elle est proche de celle observée avec Vibrio cholerae",
+   "Elle traduit la présence de flagelles polaires",
+   "C'est l'aspect des colonies sur milieu TCBS"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : vol de moucherons = Campylobacter à l'état frais.",
+   "Vrai : contraste de phase utilisable.",
+   "Vrai : proche de la mobilité de V. cholerae.",
+   "Vrai : flagelles polaires.",
+   "Faux : le TCBS concerne V. cholerae."
+  ]
+ },
+ {
+  "q": "Parmi les antibiotiques sélectifs des milieux de culture de Campylobacter, lesquels sont exacts ?",
+  "options": [
+   "Le triméthoprime",
+   "La polymyxine et la colistine",
+   "La vancomycine",
+   "La bacitracine et la céfalotine",
+   "La tétracycline à forte dose systématique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : triméthoprime cité.",
+   "Vrai : polymyxine et colistine citées.",
+   "Vrai : vancomycine citée.",
+   "Vrai : bacitracine et céfalotine citées.",
+   "Faux : 2 à 3 antibiotiques parmi la liste, pas de tétracycline systématique."
+  ]
+ },
+ {
+  "q": "Concernant la place de la volaille dans l'épidémiologie de Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "La volaille crue est la source principale",
+   "La prévalence chez les volailles est 8 à 20 fois supérieure à celle de Salmonella",
+   "La contamination croisée des aliments crus en cuisine est un risque",
+   "Le nettoyage des paillasses après manipulation de volaille est recommandé",
+   "La volaille n'est jamais contaminée par Campylobacter"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : volaille crue = source principale.",
+   "Vrai : prévalence 8 à 20 fois > Salmonella.",
+   "Vrai : contamination croisée en cuisine.",
+   "Vrai : nettoyage des mains et paillasses.",
+   "Faux : la volaille est le réservoir principal."
+  ]
+ },
+ {
+  "q": "Un cas de Guillain-Barré post-diarrhéique est exploré. Quelles propositions sont exactes ?",
+  "options": [
+   "Campylobacter jejuni est l'agent le plus souvent en cause",
+   "Le délai est en général de 3 semaines après l'entérite",
+   "Le mécanisme est un mimétisme moléculaire LPS-myéline",
+   "La sérologie (ELISA, fixation du complément) a un intérêt diagnostique",
+   "La coproculture reste positive 3 semaines après dans tous les cas"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : C. jejuni = cause classique.",
+   "Vrai : ~3 semaines après l'entérite.",
+   "Vrai : mimétisme moléculaire.",
+   "Vrai : sérologie utile dans les complications.",
+   "Faux : la coproculture n'est plus contributive à ce stade."
+  ]
+ },
+ {
+  "q": "Concernant les caractères distinctifs entre Campylobacter et Helicobacter pylori, lesquels sont exacts ?",
+  "options": [
+   "Les deux sont des bacilles Gram négatif spiralés microaérophiles",
+   "H. pylori possède une uréase ++++, absente chez Campylobacter",
+   "H. pylori colonise l'estomac, Campylobacter le tube digestif distal",
+   "La culture d'H. pylori demande 4 à 12 jours contre 48 h pour Campylobacter",
+   "Campylobacter est uréase ++++ et H. pylori uréase négative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacilles Gram négatif spiralés microaérophiles.",
+   "Vrai : uréase ++++ = H. pylori.",
+   "Vrai : estomac contre intestin.",
+   "Vrai : 4-12 jours contre 48 h.",
+   "Faux : c'est l'inverse."
+  ]
+ },
+ {
+  "q": "Au sujet de l'hippurate dans l'identification des Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "L'hydrolyse de l'hippurate est un test d'identification de l'espèce",
+   "Elle complète la température de croissance et la sensibilité aux antibiotiques",
+   "Le test de la catalase est aussi utilisé pour l'identification d'espèce",
+   "Ces tests permettent de distinguer les espèces du genre",
+   "L'hydrolyse de l'hippurate identifie Vibrio cholerae"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : hydrolyse de l'hippurate = test d'espèce.",
+   "Vrai : avec température de croissance et sensibilité acide nalidixique/céfalotine.",
+   "Vrai : test de la catalase.",
+   "Vrai : distinction des espèces.",
+   "Faux : test propre aux Campylobacter."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles sont des zoonoses à Campylobacter ?",
+  "options": [
+   "L'entérite à C. jejuni après ingestion de volaille contaminée",
+   "L'infection liée au porc pour C. coli",
+   "L'infection liée au chien pour C. upsaliensis",
+   "L'infection liée à la mouette pour C. lari",
+   "Le choléra épidémique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : volaille = zoonose.",
+   "Vrai : C. coli chez le porc.",
+   "Vrai : C. upsaliensis chez le chien.",
+   "Vrai : C. lari chez la mouette.",
+   "Faux : le choléra est strictement humain."
+  ]
+ },
+ {
+  "q": "Concernant le lait dans l'épidémiologie de Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "Campylobacter survit plusieurs semaines dans le lait à 4 °C",
+   "Les épidémies peuvent être dues à la consommation de lait cru",
+   "La pasteurisation du lait est une mesure de prophylaxie",
+   "Le lait cru est sans risque vis-à-vis de Campylobacter",
+   "Le lait pasteurisé transmet Campylobacter"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : survie dans le lait à 4 °C.",
+   "Vrai : épidémies par lait cru.",
+   "Vrai : pasteurisation recommandée.",
+   "Faux : le lait cru est à risque.",
+   "Faux : la pasteurisation élimine le risque."
+  ]
+ },
+ {
+  "q": "Un patient présente une diarrhée aiguë fébrile. Quelles propositions sont exactes concernant la démarche diagnostique ?",
+  "options": [
+   "La recherche de Campylobacter doit faire partie de la coproculture",
+   "Les selles peuvent être conservées 24 h à +4 °C avant analyse",
+   "L'état frais recherche la mobilité en vol de moucherons",
+   "Le Gram montre des bacilles incurvés associés à hématies et leucocytes",
+   "La sérologie est l'examen de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : recherche systématique en coproculture.",
+   "Vrai : conservation 24 h à +4 °C.",
+   "Vrai : vol de moucherons à l'état frais.",
+   "Vrai : Gram = bacilles incurvés + hématies/leucocytes.",
+   "Faux : la sérologie n'a pas d'intérêt en phase aiguë."
+  ]
+ },
+ {
+  "q": "Concernant les résistances de Campylobacter aux antibiotiques, quelles propositions sont exactes ?",
+  "options": [
+   "La fréquence des résistances est en nette augmentation",
+   "L'antibiogramme est toujours indiqué",
+   "La ciprofloxacine et l'érythromycine sont testées en routine",
+   "Les infections systémiques à C. fetus nécessitent une association incluant la gentamicine",
+   "Campylobacter reste constamment sensible à tous les antibiotiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : résistances en nette augmentation.",
+   "Vrai : antibiogramme toujours indiqué.",
+   "Vrai : fluoroquinolones et macrolides testés.",
+   "Vrai : gentamicine + bêtalactamine ou macrolide.",
+   "Faux : résistances croissantes."
+  ]
+ },
+ {
+  "q": "Au sujet de C. coli et C. jejuni (groupe thermotolérant), quelles propositions sont exactes ?",
+  "options": [
+   "Ils forment le groupe thermotolérant d'intérêt médical",
+   "C. jejuni est l'espèce la plus responsable d'entérites",
+   "C. coli est rencontré chez le porc",
+   "Leur culture se fait en microaérophilie",
+   "Ils sont responsables du choléra"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : groupe thermotolérant.",
+   "Vrai : C. jejuni = entérites.",
+   "Vrai : C. coli chez le porc.",
+   "Vrai : microaérophilie 5-10 % CO2.",
+   "Faux : le choléra est dû à V. cholerae."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles distinguent Campylobacter de Vibrio cholerae ?",
+  "options": [
+   "Campylobacter est microaérophile, V. cholerae est aéro-anaérobie",
+   "Campylobacter est exigeant en culture, V. cholerae pousse sur milieu ordinaire",
+   "Campylobacter donne des selles parfois sanglantes, V. cholerae des selles riziformes aqueuses",
+   "Les deux sont des bacilles Gram négatif mobiles à ciliature polaire",
+   "Campylobacter est uréase ++++"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : microaérophile contre aéro-anaérobie.",
+   "Vrai : germe exigeant contre culture facile.",
+   "Vrai : selles sanglantes contre riziformes.",
+   "Faux : caractère commun, pas distinctif.",
+   "Faux : l'uréase ++++ est le trait d'H. pylori."
+  ]
+ },
+ {
+  "q": "Concernant l'eau dans l'épidémiologie de Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "Campylobacter survit plusieurs semaines dans l'eau à 4 °C",
+   "Les épidémies peuvent avoir une origine hydrique",
+   "La chloration de l'eau de boisson est recommandée",
+   "L'eau est sans risque vis-à-vis de Campylobacter",
+   "Seule l'eau de mer transmet Campylobacter"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : survie dans l'eau à 4 °C.",
+   "Vrai : origine hydrique des épidémies.",
+   "Vrai : chloration de l'eau.",
+   "Faux : l'eau est un milieu de survie.",
+   "Faux : l'eau de boisson contaminée est en cause."
+  ]
+ },
+ {
+  "q": "Un enfant présente une entérite fébrile à Campylobacter. Quelles propositions sont exactes ?",
+  "options": [
+   "L'entérite à C. jejuni est la cause la plus probable",
+   "La guérison spontanée est possible sans signe de gravité",
+   "La coproculture avec recherche de Campylobacter est indiquée",
+   "La prophylaxie repose sur l'hygiène alimentaire",
+   "Un traitement par tétracycline est systématiquement indispensable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : C. jejuni = entérite.",
+   "Vrai : pas de signes de gravité, guérison spontanée possible.",
+   "Vrai : coproculture systématique.",
+   "Vrai : hygiène des infections intestinales.",
+   "Faux : le cours ne préconise pas d'antibiothérapie systématique."
+  ]
+ },
+ {
+  "q": "Concernant la catalase chez Campylobacter, quelles propositions sont exactes ?",
+  "options": [
+   "Le test de la catalase est utilisé pour l'identification de l'espèce",
+   "Il complète l'hydrolyse de l'hippurate et la température de croissance",
+   "La sensibilité à l'acide nalidixique et à la céfalotine est aussi testée",
+   "Ces tests biochimiques distinguent les espèces du genre",
+   "La catalase est le seul test nécessaire au diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : catalase = test d'identification d'espèce.",
+   "Vrai : avec hippurate et température de croissance.",
+   "Vrai : sensibilité acide nalidixique/céfalotine.",
+   "Vrai : distinction des espèces.",
+   "Faux : batterie de tests complémentaires."
+  ]
+ },
+ {
+  "q": "Au sujet des formes cliniques de l'infection à Campylobacter, lesquelles sont exactes ?",
+  "options": [
+   "L'entérite liée le plus souvent à C. jejuni",
+   "La bactériémie avec localisations secondaires",
+   "Les complications non infectieuses : Guillain-Barré, arthrite réactionnelle",
+   "L'érythème noueux et l'urticaire",
+   "La pneumopathie nosocomiale grave"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : entérite à C. jejuni.",
+   "Vrai : bactériémies et localisations secondaires.",
+   "Vrai : Guillain-Barré, arthrite réactionnelle.",
+   "Vrai : érythème noueux, urticaire.",
+   "Faux : la pneumopathie nosocomiale est le fait de P. aeruginosa."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles sont exactes sur Campylobacter ?",
+  "options": [
+   "Bacilles à Gram négatif incurvés ou spiralés",
+   "Absence de spores et de capsule",
+   "Oxydase positive",
+   "Culture en microaérophilie",
+   "Cocci à Gram positif en amas"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacilles Gram négatif incurvés/spiralés.",
+   "Vrai : sans spores ni capsule.",
+   "Vrai : oxydase positive.",
+   "Vrai : microaérophilie 5-10 % CO2.",
+   "Faux : ce sont des staphylocoques."
+  ]
+ },
+ {
+  "q": "Concernant la contamination croisée en cuisine, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un mode de contamination par Campylobacter",
+   "La volaille crue contamine les aliments crus manipulés ensuite",
+   "Le nettoyage des mains et des paillasses après la volaille la prévient",
+   "Elle explique des cas sporadiques",
+   "Elle ne concerne que les virus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : contamination croisée décrite.",
+   "Vrai : volaille crue → aliments crus.",
+   "Vrai : nettoyage mains et paillasses.",
+   "Vrai : cas sporadiques.",
+   "Faux : elle concerne Campylobacter."
+  ]
+ },
+ {
+  "q": "Concernant Helicobacter pylori, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est un bacille à Gram négatif de forme spiralée",
+   "Il colonise l'estomac de la moitié de l'humanité",
+   "Sa culture est délicate",
+   "Le problème de la résistance aux antibiotiques se pose actuellement",
+   "C'est un cocci à Gram positif aéro-anaérobie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacille Gram négatif spiralé.",
+   "Vrai : colonise l'estomac de la moitié de l'humanité.",
+   "Vrai : culture délicate.",
+   "Vrai : résistances croissantes aux antibiotiques.",
+   "Faux : bacille Gram négatif."
+  ]
+ },
+ {
+  "q": "Au sujet de la taxonomie d'Helicobacter pylori, quelles propositions sont exactes ?",
+  "options": [
+   "Le genre appartient à la subdivision des Proteobacteria",
+   "Il appartient à l'ordre des Campylobactérales",
+   "La famille est celle des Helicobacteraceae",
+   "Le genre Helicobacter regroupe plus de 20 espèces reconnues",
+   "Il appartient à la famille des Vibrionaceae"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Proteobacteria.",
+   "Vrai : ordre des Campylobactérales.",
+   "Vrai : famille des Helicobacteraceae.",
+   "Vrai : plus de 20 espèces reconnues.",
+   "Faux : famille des Helicobacteraceae."
+  ]
+ },
+ {
+  "q": "Concernant les caractères bactériologiques d'Helicobacter pylori, lesquels sont exacts ?",
+  "options": [
+   "Bacilles à Gram négatif arqués ou spiralés",
+   "Mobiles grâce à des flagelles polaires",
+   "Absence de spores et de capsule",
+   "Culture en microaérophilie avec 5 à 10 % de CO2 en 4 à 12 jours",
+   "Bacilles à Gram positif sporulés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacilles Gram négatif arqués/spiralés.",
+   "Vrai : flagelles polaires.",
+   "Vrai : sans spores ni capsule.",
+   "Vrai : microaérophilie 5-10 % CO2, 4 à 12 jours.",
+   "Faux : Gram négatif non sporulé."
+  ]
+ },
+ {
+  "q": "À propos des caractères biochimiques d'Helicobacter pylori, quelles propositions sont exactes ?",
+  "options": [
+   "La catalase est positive",
+   "L'oxydase est positive",
+   "La nitrate réductase est positive",
+   "L'uréase est très fortement positive (++++)",
+   "La bactérie acidifie les sucres"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : catalase +.",
+   "Vrai : oxydase +.",
+   "Vrai : nitrate réductase +.",
+   "Vrai : uréase ++++.",
+   "Faux : elle n'acidifie pas les sucres."
+  ]
+ },
+ {
+  "q": "Concernant les facteurs de virulence d'Helicobacter pylori, lesquels sont exacts ?",
+  "options": [
+   "La cytokine vacuolisante provoque des vacuoles acides dans les cellules",
+   "L'uréase très active libère des ions ammonium",
+   "L'ammonium neutralise l'acidité gastrique autour de la bactérie",
+   "Ces facteurs permettent la survie en milieu acide gastrique",
+   "La toxine cholérique est son principal facteur de virulence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cytokine vacuolisante → vacuoles acides.",
+   "Vrai : uréase très active → ions ammonium.",
+   "Vrai : neutralisation de l'acidité autour de la bactérie.",
+   "Vrai : adaptation à l'acidité gastrique.",
+   "Faux : la toxine cholérique est celle de V. cholerae."
+  ]
+ },
+ {
+  "q": "Un patient présente un ulcère duodénal récidivant. Quelles propositions sont exactes ?",
+  "options": [
+   "Helicobacter pylori est la cause à rechercher en premier",
+   "L'infection à H. pylori provoque constamment une gastrite",
+   "L'ulcère gastrique ou duodénal survient dans 10 % des cas d'infection",
+   "Le traitement est recommandé devant un ulcère prouvé",
+   "H. pylori ne donne jamais d'ulcère"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : H. pylori = cause majeure d'ulcère.",
+   "Vrai : gastrite constante, souvent asymptomatique.",
+   "Vrai : ulcère dans 10 % des cas.",
+   "Vrai : traitement recommandé si ulcère prouvé.",
+   "Faux : 10 % des infectés développent un ulcère."
+  ]
+ },
+ {
+  "q": "Concernant les pathologies liées à Helicobacter pylori, lesquelles sont exactes ?",
+  "options": [
+   "La gastrite chronique, le plus souvent asymptomatique",
+   "L'ulcère gastrique ou duodénal dans 10 % des cas",
+   "Le cancer gastrique dans 1 % des cas",
+   "Le lymphome du MALT, rarement",
+   "La diarrhée profuse riziforme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : gastrite chronique asymptomatique constante.",
+   "Vrai : ulcère dans 10 % des cas.",
+   "Vrai : cancer gastrique dans 1 % des cas.",
+   "Vrai : lymphome du MALT rarement.",
+   "Faux : la diarrhée riziforme est le fait du choléra."
+  ]
+ },
+ {
+  "q": "Au sujet de l'épidémiologie d'Helicobacter pylori, quelles propositions sont exactes ?",
+  "options": [
+   "L'homme est le principal réservoir",
+   "La transmission est strictement interhumaine, précoce dans l'enfance et intrafamiliale",
+   "Les voies suspectées sont gastro-orale, oro-orale et féco-orale",
+   "La prévalence augmente avec l'âge : 5 à 10 % chez l'enfant, 25 à 50 % chez l'adulte dans les pays industrialisés",
+   "Le réservoir principal est l'eau de mer"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'homme est le principal réservoir.",
+   "Vrai : transmission interhumaine précoce intrafamiliale.",
+   "Vrai : voies gastro-orale, oro-orale, féco-orale.",
+   "Vrai : prévalence croissante avec l'âge.",
+   "Faux : pas de réservoir marin ; l'homme est le réservoir."
+  ]
+ },
+ {
+  "q": "Concernant la physiopathologie d'Helicobacter pylori, quelles propositions sont exactes ?",
+  "options": [
+   "La bactérie traverse la couche de mucus et se fixe sur les cellules épithéliales",
+   "Ce contact induit des chémokines dont l'interleukine 8",
+   "L'IL-8 attire et active les polynucléaires et les macrophages",
+   "Des cytokines pro-inflammatoires (TNFα, IFN-γ) sont libérées",
+   "La bactérie reste dans la lumière gastrique sans contact muqueux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : traversée du mucus et fixation épithéliale.",
+   "Vrai : induction de chémokines dont l'IL-8.",
+   "Vrai : IL-8 → polynucléaires et macrophages.",
+   "Vrai : TNFα et IFN-γ libérés.",
+   "Faux : elle traverse le mucus et adhère aux cellules."
+  ]
+ },
+ {
+  "q": "À propos de l'évolution de la gastrite à Helicobacter pylori, quelles propositions sont exactes ?",
+  "options": [
+   "L'inflammation persiste toute la vie du sujet sauf éradication",
+   "La gastrite peut évoluer vers l'atrophie",
+   "L'atrophie peut évoluer vers la métaplasie puis le carcinome intestinal",
+   "L'éradication interrompt cette évolution",
+   "La gastrite à H. pylori guérit toujours spontanément"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : gastrite chronique persistante sans éradication.",
+   "Vrai : évolution vers l'atrophie décrite.",
+   "Vrai : atrophie → métaplasie → carcinome intestinal.",
+   "Vrai : l'éradication stoppe l'inflammation.",
+   "Faux : elle persiste toute la vie sans traitement."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic non invasif d'Helicobacter pylori, quelles propositions sont exactes ?",
+  "options": [
+   "La sérologie est utile en dépistage",
+   "La technique la plus utilisée est l'ELISA",
+   "La sérologie reste positive de nombreux mois après l'éradication",
+   "Le test respiratoire (analyse de l'air expiré) est une méthode non invasive",
+   "La sérologie se négative immédiatement après l'éradication"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sérologie utile en dépistage.",
+   "Vrai : ELISA la plus utilisée.",
+   "Vrai : reste positive des mois après éradication.",
+   "Vrai : test respiratoire non invasif.",
+   "Faux : elle reste positive de nombreux mois après l'éradication."
+  ]
+ },
+ {
+  "q": "Au sujet de la recherche d'antigènes d'Helicobacter pylori dans les selles, quelles propositions sont exactes ?",
+  "options": [
+   "C'est une méthode non invasive",
+   "Elle a un intérêt important chez les sujets dont l'infection a été prouvée par fibroscopie/biopsie",
+   "Elle permet d'identifier une atrophie gastrique justifiant le traitement",
+   "Elle remplace systématiquement la biopsie dans tous les cas",
+   "C'est une méthode invasive"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : méthode non invasive.",
+   "Vrai : intérêt après preuve par fibroscopie/biopsie.",
+   "Vrai : atrophie gastrique identifiée par recherche d'antigène dans les selles.",
+   "Faux : la biopsie garde ses indications (3 biopsies en endoscopie).",
+   "Faux : non invasive."
+  ]
+ },
+ {
+  "q": "Concernant la méthode invasive du diagnostic d'Helicobacter pylori, quelles propositions sont exactes ?",
+  "options": [
+   "Elle fait appel à des biopsies lors d'une endoscopie",
+   "Les biopsies sont réalisées surtout au niveau de l'antre et du fundus",
+   "Trois biopsies doivent être réalisées",
+   "Une biopsie est destinée à l'examen anatomopathologique, une au test à l'uréase, une à la culture",
+   "Une seule biopsie suffit pour les trois examens"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : biopsies lors de l'endoscopie.",
+   "Vrai : antre et fundus.",
+   "Vrai : 3 biopsies.",
+   "Vrai : anatomopathologie, test à l'uréase, culture.",
+   "Faux : il faut 3 biopsies distinctes."
+  ]
+ },
+ {
+  "q": "À propos de la culture d'Helicobacter pylori, quelles propositions sont exactes ?",
+  "options": [
+   "La biopsie est broyée avec du bouillon nutritif puis ensemencée",
+   "L'ensemencement se fait sur gélose sélective Helicobacter pylori (PYL)",
+   "Une gélose Columbia/Brucella à 10 % de sang de cheval est utilisée",
+   "Les boîtes sont placées en atmosphère microaérophile à 10 % de CO2",
+   "La culture pousse facilement en 24 h sur milieu ordinaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : biopsie broyée au bouillon nutritif.",
+   "Vrai : gélose sélective PYL.",
+   "Vrai : gélose Columbia/Brucella/Wilkins-Chalgren à 10 % de sang de cheval.",
+   "Vrai : microaérophile, 10 % CO2.",
+   "Faux : culture délicate, 4 jours minimum."
+  ]
+ },
+ {
+  "q": "Concernant les délais et l'aspect de la culture d'Helicobacter pylori, lesquels sont exacts ?",
+  "options": [
+   "Les boîtes sont examinées après 4 jours",
+   "Puis elles sont examinées tous les 3 à 4 jours pendant 15 jours",
+   "Les colonies sont translucides et non pigmentées",
+   "Les colonies ont un diamètre d'environ 1 mm",
+   "Les colonies sont jaunes sur milieu TCBS en 24 h"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : examen après 4 jours.",
+   "Vrai : puis tous les 3-4 jours pendant 15 jours.",
+   "Vrai : colonies translucides non pigmentées.",
+   "Vrai : diamètre ~1 mm.",
+   "Faux : colonies jaunes sur TCBS = V. cholerae."
+  ]
+ },
+ {
+  "q": "Un patient avec ulcère prouvé doit être traité pour Helicobacter pylori. Quelles propositions sont exactes ?",
+  "options": [
+   "Le traitement est recommandé devant un ulcère prouvé",
+   "Si la culture + antibiogramme sont disponibles : IPP + 2 antibiotiques",
+   "La quadrithérapie bismuthée associe IPP + citrate de bismuth + métronidazole + tétracycline",
+   "Le traitement concomitant associe amoxicilline + métronidazole + clarithromycine + IPP",
+   "Un antibiotique seul suffit à l'éradication"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : traitement recommandé si ulcère prouvé.",
+   "Vrai : IPP + 2 antibiotiques si antibiogramme.",
+   "Vrai : quadrithérapie bismuthée.",
+   "Vrai : traitement concomitant.",
+   "Faux : l'éradication exige une association."
+  ]
+ },
+ {
+  "q": "Concernant les indications du traitement anti-Helicobacter pylori, lesquelles sont exactes ?",
+  "options": [
+   "Les malades ayant un ulcère prouvé",
+   "Ceux ayant un lymphome du MALT",
+   "L'atrophie gastrique identifiée par recherche d'antigène dans les selles",
+   "Tout sujet asymptomatique sans lésion",
+   "La gastrite chronique symptomatique n'est jamais une indication"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ulcère prouvé.",
+   "Vrai : lymphome du MALT.",
+   "Vrai : atrophie gastrique (antigène selles).",
+   "Faux : le traitement est recommandé dans les situations citées.",
+   "Faux : formulation non issue du cours."
+  ]
+ },
+ {
+  "q": "Au sujet du lymphome du MALT et d'Helicobacter pylori, quelles propositions sont exactes ?",
+  "options": [
+   "H. pylori peut être responsable d'un lymphome du MALT",
+   "Le lymphome du MALT est une indication du traitement d'éradication",
+   "Le lymphome du MALT est fréquent dans l'infection à H. pylori",
+   "L'éradication est recommandée devant un lymphome du MALT",
+   "Le lymphome du MALT est une tumeur colique"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : H. pylori → lymphome du MALT.",
+   "Vrai : indication du traitement.",
+   "Faux : il est rare.",
+   "Vrai : éradication recommandée.",
+   "Faux : lymphome gastrique du tissu lymphoïde associé aux muqueuses."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles concernent le test respiratoire à l'urée ?",
+  "options": [
+   "C'est une méthode non invasive de diagnostic d'H. pylori",
+   "Il consiste en l'analyse de l'air expiré",
+   "Il repose sur l'activité uréasique très forte de la bactérie",
+   "Il a un intérêt chez les sujets dont l'infection était prouvée par fibroscopie/biopsie",
+   "C'est une méthode invasive nécessitant une endoscopie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : méthode non invasive.",
+   "Vrai : analyse de l'air expiré.",
+   "Vrai : uréase ++++ de H. pylori.",
+   "Vrai : intérêt après preuve par fibroscopie/biopsie.",
+   "Faux : non invasive."
+  ]
+ },
+ {
+  "q": "Concernant le test à l'uréase sur biopsie, quelles propositions sont exactes ?",
+  "options": [
+   "Une des trois biopsies est destinée au test à l'uréase",
+   "Il repose sur l'uréase ++++ d'H. pylori",
+   "Il fait partie de la méthode invasive",
+   "Les biopsies sont faites à l'antre et au fundus",
+   "Le test à l'uréase se fait sur les selles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 1 biopsie sur 3 pour le test à l'uréase.",
+   "Vrai : uréase très active.",
+   "Vrai : méthode invasive.",
+   "Vrai : antre et fundus.",
+   "Faux : sur biopsie ; les selles servent à la recherche d'antigènes."
+  ]
+ },
+ {
+  "q": "Un patient présente un cancer gastrique. Quelles propositions sont exactes concernant H. pylori ?",
+  "options": [
+   "H. pylori est responsable de cancer gastrique dans 1 % des cas d'infection",
+   "La gastrite chronique peut évoluer vers l'atrophie puis le carcinome intestinal",
+   "L'infection persiste toute la vie sans éradication",
+   "L'éradication prévient l'évolution vers le cancer",
+   "Le cancer gastrique est la complication la plus fréquente de l'infection"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : cancer gastrique dans 1 % des cas.",
+   "Vrai : atrophie → métaplasie → carcinome.",
+   "Vrai : persistance vie entière sans éradication.",
+   "Faux : le cours ne l'affirme pas formellement ainsi ; prudence.",
+   "Faux : la gastrite asymptomatique est la plus fréquente, l'ulcère 10 %, le cancer 1 %."
+  ]
+ },
+ {
+  "q": "Au sujet de la transmission intrafamiliale d'Helicobacter pylori, quelles propositions sont exactes ?",
+  "options": [
+   "La transmission est précoce dans l'enfance",
+   "Elle est intrafamiliale",
+   "Les voies suspectées incluent la voie oro-orale et féco-orale",
+   "L'homme est le principal réservoir",
+   "La transmission se fait par les tiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : transmission précoce dans l'enfance.",
+   "Vrai : intrafamiliale.",
+   "Vrai : voies gastro-orale, oro-orale, féco-orale.",
+   "Vrai : l'homme est le principal réservoir.",
+   "Faux : pas de vecteur arthropode."
+  ]
+ },
+ {
+  "q": "Concernant la prévalence d'Helicobacter pylori, quelles propositions sont exactes ?",
+  "options": [
+   "Elle s'élève progressivement avec l'âge dans les pays industrialisés",
+   "Le taux est de 5 à 10 % chez l'enfant",
+   "Il atteint 25 à 50 % chez l'adulte",
+   "La moitié de l'humanité est colonisée",
+   "La prévalence est nulle chez l'adulte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : augmente avec l'âge.",
+   "Vrai : 5 à 10 % chez l'enfant.",
+   "Vrai : 25 à 50 % chez l'adulte.",
+   "Vrai : la moitié de l'humanité colonisée.",
+   "Faux : 25 à 50 % chez l'adulte."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles distinguent H. pylori de Campylobacter ?",
+  "options": [
+   "H. pylori est uréase ++++, Campylobacter est uréase négative",
+   "La culture d'H. pylori prend 4 à 12 jours contre 48 h pour Campylobacter",
+   "H. pylori colonise l'estomac, Campylobacter l'intestin",
+   "Les deux appartiennent à l'ordre des Campylobactérales",
+   "H. pylori donne des diarrhées sanglantes aiguës"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : uréase ++++ propre à H. pylori.",
+   "Vrai : 4-12 jours contre 48 h.",
+   "Vrai : estomac contre intestin.",
+   "Vrai : même ordre des Campylobactérales.",
+   "Faux : pas de diarrhée ; gastrite/ulcère/cancer."
+  ]
+ },
+ {
+  "q": "Concernant la gastrite à Helicobacter pylori, quelles propositions sont exactes ?",
+  "options": [
+   "L'infection provoque constamment une gastrite",
+   "Elle est le plus souvent asymptomatique",
+   "Elle persiste toute la vie en l'absence d'éradication",
+   "Elle peut évoluer vers l'ulcère, le cancer ou le lymphome du MALT",
+   "Elle guérit spontanément en quelques jours"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : gastrite constante.",
+   "Vrai : le plus souvent asymptomatique.",
+   "Vrai : persiste toute la vie sans éradication.",
+   "Vrai : ulcère 10 %, cancer 1 %, MALT rare.",
+   "Faux : pas de guérison spontanée."
+  ]
+ },
+ {
+  "q": "Un patient ne répond pas au traitement d'éradication. Quelles propositions sont exactes ?",
+  "options": [
+   "La méthode invasive avec biopsies est indiquée (malade réagissant peu au traitement)",
+   "Trois biopsies sont réalisées : anatomopathologie, test à l'uréase, culture",
+   "La culture permet un antibiogramme pour adapter le traitement",
+   "La résistance aux antibiotiques est en augmentation",
+   "Il faut arrêter tout traitement définitivement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : biopsies si malade réagissant peu au traitement.",
+   "Vrai : 3 biopsies.",
+   "Vrai : culture + antibiogramme → IPP + 2 antibiotiques adaptés.",
+   "Vrai : résistances croissantes.",
+   "Faux : il faut adapter, pas arrêter."
+  ]
+ },
+ {
+  "q": "Au sujet de la quadrithérapie bismuthée, quelles propositions sont exactes ?",
+  "options": [
+   "Elle associe un IPP et du citrate de bismuth",
+   "Elle comprend le métronidazole",
+   "Elle comprend la tétracycline",
+   "Elle est proposée quand la culture + antibiogramme ne sont pas disponibles",
+   "Elle associe un seul antibiotique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IPP + citrate de bismuth.",
+   "Vrai : métronidazole.",
+   "Vrai : tétracycline.",
+   "Vrai : schéma sans antibiogramme.",
+   "Faux : deux antibiotiques (métronidazole + tétracycline)."
+  ]
+ },
+ {
+  "q": "Concernant le traitement concomitant d'éradication, quelles propositions sont exactes ?",
+  "options": [
+   "Il comprend l'amoxicilline",
+   "Il comprend le métronidazole",
+   "Il comprend la clarithromycine",
+   "Il est associé à un IPP",
+   "Il comprend la tétracycline à la place de l'amoxicilline"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : amoxicilline.",
+   "Vrai : métronidazole.",
+   "Vrai : clarithromycine.",
+   "Vrai : + IPP.",
+   "Faux : la tétracycline est dans la quadrithérapie bismuthée, pas le concomitant."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur Helicobacter pylori, lesquelles sont exactes ?",
+  "options": [
+   "Bacille à Gram négatif spiralé",
+   "Microaérophile à flagelles polaires",
+   "Uréase ++++",
+   "Culture délicate en 4 à 12 jours",
+   "Cocci à Gram positif en chaînettes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacille Gram négatif spiralé.",
+   "Vrai : microaérophile, flagelles polaires.",
+   "Vrai : uréase ++++.",
+   "Vrai : culture délicate 4-12 jours.",
+   "Faux : ce sont des streptocoques."
+  ]
+ },
+ {
+  "q": "Concernant les animaux et Helicobacter pylori, quelles propositions sont exactes ?",
+  "options": [
+   "H. pylori a été isolé chez des animaux vivant proche de l'homme et contaminés à son contact",
+   "Les porcs, moutons et singes en captivité sont cités",
+   "L'homme reste le principal réservoir",
+   "La transmission est strictement interhumaine",
+   "Le poulet est le réservoir principal d'H. pylori"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : animaux proches contaminés à son contact.",
+   "Vrai : porcs, moutons, singes en captivité (et cafards) cités.",
+   "Vrai : l'homme est le principal réservoir.",
+   "Vrai : transmission strictement interhumaine.",
+   "Faux : le poulet est le réservoir de Campylobacter."
+  ]
+ },
+ {
+  "q": "Au sujet de l'IL-8 dans l'infection à Helicobacter pylori, quelles propositions sont exactes ?",
+  "options": [
+   "Le contact de la bactérie avec les cellules épithéliales induit des chémokines dont l'IL-8",
+   "L'IL-8 attire et active les polynucléaires et les macrophages",
+   "Des cytokines pro-inflammatoires (TNFα, IFN-γ) sont libérées",
+   "L'inflammation qui en résulte est une gastrite chronique",
+   "L'IL-8 neutralise l'acidité gastrique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : induction de chémokines dont l'IL-8.",
+   "Vrai : IL-8 → polynucléaires et macrophages.",
+   "Vrai : TNFα, IFN-γ libérés.",
+   "Vrai : gastrite chronique.",
+   "Faux : c'est l'uréase qui neutralise l'acidité via l'ammonium."
+  ]
+ },
+ {
+  "q": "Un patient a une sérologie H. pylori positive 6 mois après éradication. Quelles propositions sont exactes ?",
+  "options": [
+   "La sérologie peut rester positive de nombreux mois après l'éradication",
+   "La sérologie n'est pas l'examen de choix pour contrôler l'éradication",
+   "Le test respiratoire ou la recherche d'antigènes dans les selles sont des alternatives non invasives",
+   "La technique la plus utilisée est l'ELISA",
+   "Une sérologie positive prouve toujours une infection active"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : positive des mois après éradication.",
+   "Vrai : ne permet pas de contrôler l'éradication.",
+   "Vrai : test respiratoire et antigènes fécaux alternatifs.",
+   "Vrai : ELISA la plus utilisée.",
+   "Faux : elle peut rester positive après éradication."
+  ]
+ },
+ {
+  "q": "Concernant le western-blot dans le diagnostic d'H. pylori, quelles propositions sont exactes ?",
+  "options": [
+   "C'est une technique de sérologie peu utilisée en dehors des laboratoires spécialisés",
+   "Elle permet de préciser le diagnostic dans les zones douteuses de l'ELISA",
+   "La sérologie est réservée à des laboratoires spécialisés",
+   "La sensibilité et la spécificité de l'ELISA varient selon les kits",
+   "Le western-blot est la méthode de première intention en routine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : peu utilisée hors laboratoires spécialisés.",
+   "Vrai : précise les zones douteuses de l'ELISA.",
+   "Vrai : sérologie réservée aux laboratoires spécialisés.",
+   "Vrai : sensibilité/spécificité variables selon les kits.",
+   "Faux : c'est l'ELISA la plus utilisée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles sont des méthodes non invasives du diagnostic d'H. pylori ?",
+  "options": [
+   "La sérologie (ELISA)",
+   "Le test respiratoire",
+   "La recherche d'antigènes dans les selles",
+   "La biopsie avec test à l'uréase",
+   "La culture sur gélose PYL"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sérologie = non invasive.",
+   "Vrai : test respiratoire = non invasif.",
+   "Vrai : antigènes fécaux = non invasifs.",
+   "Faux : biopsie = méthode invasive.",
+   "Faux : culture sur biopsie = invasive."
+  ]
+ },
+ {
+  "q": "Concernant les indications de la fibroscopie avec biopsies pour H. pylori, lesquelles sont exactes ?",
+  "options": [
+   "Un malade réagissant peu au traitement",
+   "La réalisation de 3 biopsies : anatomopathologie, test à l'uréase, culture",
+   "Les biopsies sont faites à l'antre et au fundus",
+   "La culture permet d'adapter l'antibiothérapie",
+   "La fibroscopie est inutile dans l'infection à H. pylori"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : indiquée si malade réagissant peu au traitement.",
+   "Vrai : 3 biopsies.",
+   "Vrai : antre et fundus.",
+   "Vrai : culture + antibiogramme pour adapter.",
+   "Faux : elle a des indications précises."
+  ]
+ },
+ {
+  "q": "Au sujet de la gélose PYL, quelles propositions sont exactes ?",
+  "options": [
+   "C'est une gélose sélective pour Helicobacter pylori",
+   "La biopsie broyée y est ensemencée",
+   "Elle est utilisée avec une gélose Columbia/Brucella à 10 % de sang de cheval",
+   "L'incubation se fait en atmosphère microaérophile",
+   "C'est le milieu sélectif de Vibrio cholerae"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : gélose sélective H. pylori (PYL).",
+   "Vrai : biopsie broyée ensemencée.",
+   "Vrai : associée à Columbia/Brucella 10 % sang de cheval.",
+   "Vrai : microaérophile 10 % CO2.",
+   "Faux : le milieu sélectif de V. cholerae est le TCBS."
+  ]
+ },
+ {
+  "q": "Concernant l'ammonium produit par l'uréase d'H. pylori, quelles propositions sont exactes ?",
+  "options": [
+   "Il provient de la dégradation de l'urée par l'uréase très active",
+   "Il neutralise l'acidité gastrique autour de la bactérie",
+   "Il participe à la survie en milieu acide",
+   "L'uréase est un facteur de virulence majeur",
+   "Il est produit par la toxine qui distend le cytosquelette"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : uréase → ions ammonium.",
+   "Vrai : neutralisation de l'acidité autour de la bactérie.",
+   "Vrai : survie en milieu acide.",
+   "Vrai : facteur de virulence.",
+   "Faux : la toxine distendant le cytosquelette est celle de Campylobacter."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles sont exactes sur l'éradication d'H. pylori ?",
+  "options": [
+   "Elle repose sur un IPP associé à des antibiotiques",
+   "La quadrithérapie bismuthée est une option sans antibiogramme",
+   "Le traitement concomitant est une autre option",
+   "La résistance aux antibiotiques est en augmentation",
+   "Une monothérapie d'IPP suffit à l'éradication"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IPP + antibiotiques.",
+   "Vrai : quadrithérapie bismuthée.",
+   "Vrai : traitement concomitant.",
+   "Vrai : résistances croissantes.",
+   "Faux : l'IPP seul n'éradique pas."
+  ]
+ },
+ {
+  "q": "Un patient présente une atrophie gastrique avec antigène H. pylori positif dans les selles. Quelles propositions sont exactes ?",
+  "options": [
+   "La recherche d'antigène dans les selles est une méthode non invasive",
+   "L'atrophie gastrique est une indication du traitement",
+   "L'infection à H. pylori peut évoluer vers l'atrophie",
+   "Le traitement d'éradication est recommandé",
+   "L'atrophie gastrique est sans lien avec H. pylori"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : antigènes fécaux = non invasif.",
+   "Vrai : atrophie gastrique = indication.",
+   "Vrai : gastrite → atrophie.",
+   "Vrai : traitement recommandé.",
+   "Faux : l'atrophie est une évolution de la gastrite à H. pylori."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines dans l'infection à H. pylori, quelles propositions sont exactes ?",
+  "options": [
+   "L'IL-8 est une chémokine induite par le contact bactérie-cellule épithéliale",
+   "Le TNFα est une cytokine pro-inflammatoire libérée",
+   "L'IFN-γ est une cytokine pro-inflammatoire libérée",
+   "Ces médiateurs entretiennent la gastrite chronique",
+   "L'IL-8 est une toxine qui distend le cytosquelette"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IL-8 induite.",
+   "Vrai : TNFα libéré.",
+   "Vrai : IFN-γ libéré.",
+   "Vrai : inflammation chronique.",
+   "Faux : la toxine distendant le cytosquelette est celle de Campylobacter."
+  ]
+ },
+ {
+  "q": "Au sujet du diagnostic différentiel entre ulcère à H. pylori et autres causes, quelles propositions sont exactes ?",
+  "options": [
+   "H. pylori est responsable d'ulcères gastriques et duodénaux",
+   "Le diagnostic d'infection repose sur des méthodes non invasives ou la biopsie",
+   "Le traitement est recommandé devant un ulcère prouvé à H. pylori",
+   "La sérologie reste positive des mois après éradication et ne prouve pas l'activité",
+   "Tout ulcère est dû à H. pylori"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ulcères gastriques et duodénaux.",
+   "Vrai : sérologie, test respiratoire, antigènes fécaux, biopsies.",
+   "Vrai : traitement si ulcère prouvé.",
+   "Vrai : sérologie persistante après éradication.",
+   "Faux : d'autres causes existent (AINS notamment)."
+  ]
+ },
+ {
+  "q": "Concernant le genre Helicobacter dans son ensemble, quelles propositions sont exactes ?",
+  "options": [
+   "Le genre regroupe plus de 20 espèces reconnues",
+   "De nombreuses espèces sont en attente de reconnaissance",
+   "Elles colonisent la muqueuse digestive de l'homme et de l'animal",
+   "Helicobacter pylori est l'espèce d'intérêt médical majeur du genre",
+   "Toutes les espèces du genre sont responsables d'ulcères gastriques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : plus de 20 espèces reconnues.",
+   "Vrai : nombreuses espèces en attente de reconnaissance.",
+   "Vrai : muqueuse digestive de l'homme et de l'animal.",
+   "Vrai : H. pylori = espèce pathogène majeure.",
+   "Faux : seul H. pylori est détaillé comme pathogène dans le cours."
+  ]
+ }
+]

@@ -1,0 +1,4558 @@
+[
+ {
+  "q": "Concernant la classification des cellules du système immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "Les cellules NK appartiennent à l'immunité innée.",
+   "Les polynucléaires neutrophiles appartiennent à l'immunité adaptative.",
+   "Les lymphocytes T et B sont les cellules de l'immunité adaptative.",
+   "Les cellules dendritiques appartiennent uniquement à l'immunité innée.",
+   "Les macrophages sont à cheval entre l'immunité innée et l'immunité adaptative."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les NK sont des cellules de l'immunité naturelle (innée).",
+   "Faux : les PNN sont des phagocytes de l'immunité innée.",
+   "Vrai : LT et LB sont les cellules de la réponse immunitaire adaptative.",
+   "Faux : les cellules dendritiques sont à cheval entre l'immunité innée et adaptative.",
+   "Vrai : macrophages, NK et DC relient l'immunité innée et adaptative."
+  ]
+ },
+ {
+  "q": "Concernant les cellules de l'immunité innée, lesquelles sont exactes ?",
+  "options": [
+   "Les cellules NK en font partie.",
+   "Les phagocytes mononucléés en font partie.",
+   "Les lymphocytes B en font partie.",
+   "Les granulocytes (PNN, PNE, PNB) en font partie.",
+   "Les mastocytes en font partie."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les NK sont des cellules de l'immunité naturelle.",
+   "Vrai : monocytes et macrophages sont des cellules de l'immunité innée.",
+   "Faux : les LB appartiennent à l'immunité adaptative.",
+   "Vrai : les trois types de granulocytes sont des cellules innées.",
+   "Vrai : les mastocytes sont des cellules de l'immunité innée."
+  ]
+ },
+ {
+  "q": "Concernant les cellules NK, lesquelles sont exactes ?",
+  "options": [
+   "Elles représentent 5 à 10 % des lymphocytes du sang.",
+   "Leur précurseur est la cellule souche lymphoïde.",
+   "Elles sont localisées dans la moelle osseuse, la rate et certaines muqueuses.",
+   "Elles représentent 40 à 75 % des globules blancs.",
+   "Elles dérivent de la cellule souche myéloïde."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : 5 à 10 % des lymphocytes sanguins.",
+   "Vrai : précurseur = CS lymphoïde.",
+   "Vrai : MO, rate, muqueuses (urogénitale).",
+   "Faux : 40 à 75 % des GB correspond aux PNN.",
+   "Faux : les NK dérivent de la lignée lymphoïde."
+  ]
+ },
+ {
+  "q": "Concernant l'aspect cytologique des cellules NK, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont de grands lymphocytes de 10 à 12 µm.",
+   "Elles possèdent des granulations cytoplasmiques cytotoxiques.",
+   "Leurs granulations contiennent des granzymes et de la perforine.",
+   "Elles sont appelées LGL (large granular lymphocyte).",
+   "Ce sont de petites cellules de 7 à 10 µm à noyau dense."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : grands lymphocytes de 10 à 12 µm.",
+   "Vrai : granulations cytotoxiques caractéristiques.",
+   "Vrai : granzymes et perforine dans les granules.",
+   "Vrai : LGL = aspect de grande cellule à granulations.",
+   "Faux : 7 à 10 µm à noyau dense décrit le petit lymphocyte (LB/LT)."
+  ]
+ },
+ {
+  "q": "Concernant les marqueurs de différenciation des cellules NK, lesquelles sont exactes ?",
+  "options": [
+   "Elles n'expriment pas le récepteur T pour l'antigène (TCR).",
+   "Elles expriment le CD16 (FcγRIII).",
+   "Elles expriment le CD2.",
+   "Elles expriment le CD56.",
+   "Elles expriment le complexe TCR-CD3."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : absence d'expression du TCR.",
+   "Vrai : CD16 = FcγRIII, marqueur des NK.",
+   "Vrai : CD2 exprimé par les NK.",
+   "Vrai : CD56 exprimé par les NK.",
+   "Faux : les NK n'expriment pas le complexe TCR-CD3."
+  ]
+ },
+ {
+  "q": "Concernant les deux populations fonctionnelles de cellules NK, lesquelles sont exactes ?",
+  "options": [
+   "La population NK CD16+++ représente 90 % des NK.",
+   "La population NK CD16+++ est cytotoxique.",
+   "La population NK CD56+++ représente 10 % des NK.",
+   "La population NK CD56+++ est peu cytotoxique.",
+   "La population NK CD56+++ représente 90 % des NK."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : NK CD16+++ = 90 % des NK.",
+   "Vrai : cette population est la plus cytotoxique.",
+   "Vrai : NK CD56+++ = 10 % des NK.",
+   "Vrai : cette population est peu cytotoxique (plutôt sécrétrice de cytokines).",
+   "Faux : la population CD56+++ ne représente que 10 %."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs activateurs des cellules NK (KAR), lesquelles sont exactes ?",
+  "options": [
+   "Ils reconnaissent des molécules de surface des cellules stressées.",
+   "Le CD16 fait partie des récepteurs activateurs de lyse.",
+   "Le CD2 fait partie des récepteurs activateurs de lyse.",
+   "Le CD28 fait partie des récepteurs activateurs de lyse.",
+   "Ils ont pour ligands les molécules du CMH de classe I."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les KAR reconnaissent les cellules infectées ou tumorales stressées.",
+   "Vrai : CD16 cité parmi les récepteurs activateurs.",
+   "Vrai : CD2 cité parmi les récepteurs activateurs.",
+   "Vrai : CD28 cité parmi les récepteurs activateurs.",
+   "Faux : les ligands du CMH classe I sont reconnus par les récepteurs inhibiteurs."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs inhibiteurs des cellules NK, lesquelles sont exactes ?",
+  "options": [
+   "Il en existe deux types : CLIR et KIR.",
+   "Les CLIR sont de la famille des lectines de type C.",
+   "Les KIR sont de la famille des immunoglobulines.",
+   "Leurs ligands sont les molécules du CMH de classe I.",
+   "Ils transmettent un signal positif qui déclenche la lyse."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CLIR (C-type lectin inhibitory receptors) et KIR.",
+   "Vrai : CLIR = famille des lectines type C.",
+   "Vrai : KIR = killer cell inhibitory receptor, famille Ig.",
+   "Vrai : les récepteurs inhibiteurs reconnaissent le CMH classe I.",
+   "Faux : ils transmettent un signal négatif qui empêche la lyse."
+  ]
+ },
+ {
+  "q": "Concernant l'interaction des NK avec leurs cibles, lesquelles sont exactes ?",
+  "options": [
+   "Les molécules du CMH de classe I sont exprimées sur toutes les cellules nucléées normales.",
+   "L'expression du CMH de classe I est abaissée ou abolie sur les cellules infectées ou tumorales.",
+   "Quand les récepteurs inhibiteurs reconnaissent le CMH-I du soi, ils transmettent un signal négatif.",
+   "Le signal négatif empêche les récepteurs activateurs d'agir.",
+   "Les NK lysent préférentiellement les cellules exprimant fortement le CMH de classe I."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le CMH-I est exprimé par toutes les cellules nucléées normales.",
+   "Vrai : les cellules infectées/tumorales diminuent le CMH-I (échappement).",
+   "Vrai : reconnaissance du soi → signal inhibiteur.",
+   "Vrai : le signal négatif bloque l'action des KAR.",
+   "Faux : les NK lysent les cellules ayant PERDU le CMH-I (missing self)."
+  ]
+ },
+ {
+  "q": "Concernant le mécanisme d'action cytotoxique des cellules NK, lesquelles sont exactes ?",
+  "options": [
+   "La perforine forme des pores dans la membrane de la cellule cible.",
+   "Les granzymes induisent l'apoptose de la cellule cible.",
+   "Le CD16 permet la cytotoxicité dépendante des anticorps (ADCC).",
+   "Les NK sécrètent des anticorps pour lyser leurs cibles.",
+   "Les NK nécessitent une sensibilisation préalable par l'antigène."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la perforine perfore la membrane cible.",
+   "Vrai : les granzymes déclenchent l'apoptose.",
+   "Vrai : le CD16 (FcγRIII) lie les IgG et médie l'ADCC.",
+   "Faux : les NK ne produisent pas d'anticorps.",
+   "Faux : les NK agissent sans sensibilisation préalable (immunité innée)."
+  ]
+ },
+ {
+  "q": "Concernant la localisation des cellules NK, lesquelles sont exactes ?",
+  "options": [
+   "On les trouve dans la moelle osseuse.",
+   "On les trouve dans la rate.",
+   "On les trouve dans certaines muqueuses comme la muqueuse urogénitale.",
+   "On les trouve uniquement dans les ganglions lymphatiques.",
+   "On les trouve dans le sang circulant."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la MO est un site de localisation des NK.",
+   "Vrai : la rate contient des NK.",
+   "Vrai : certaines muqueuses (urogénitale) en contiennent.",
+   "Faux : elles ne sont pas limitées aux ganglions.",
+   "Vrai : elles circulent dans le sang (5 à 10 % des lymphocytes)."
+  ]
+ },
+ {
+  "q": "Concernant les cellules NK et le CMH de classe I, lesquelles sont exactes ?",
+  "options": [
+   "Les récepteurs inhibiteurs des NK ont pour ligands le CMH de classe I.",
+   "La perte du CMH de classe I lève l'inhibition des NK.",
+   "Les cellules tumorales échappent aux LT CD8 en diminuant le CMH-I.",
+   "Cette diminution du CMH-I les rend vulnérables aux NK.",
+   "Les NK reconnaissent l'antigène présenté par le CMH de classe I via leur TCR."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ligands des récepteurs inhibiteurs = CMH-I.",
+   "Vrai : sans CMH-I, plus de signal inhibiteur → lyse.",
+   "Vrai : la baisse du CMH-I est un mécanisme d'échappement aux CD8.",
+   "Vrai : les NK détectent cette perte (missing self).",
+   "Faux : les NK n'expriment pas de TCR."
+  ]
+ },
+ {
+  "q": "Concernant les cellules NK par rapport aux lymphocytes T, lesquelles sont exactes ?",
+  "options": [
+   "Les NK n'expriment pas le TCR contrairement aux LT.",
+   "Les NK agissent sans restriction par le CMH.",
+   "Les NK appartiennent à l'immunité innée, les LT à l'immunité adaptative.",
+   "Les NK et les LT CD8 ont tous deux une activité cytotoxique.",
+   "Les NK expriment le CD3 comme les LT."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : absence de TCR sur les NK.",
+   "Vrai : les NK ne reconnaissent pas l'antigène via le CMH.",
+   "Vrai : NK = innée, LT = adaptative.",
+   "Vrai : les deux populations peuvent lyser des cellules cibles.",
+   "Faux : les NK n'expriment pas le complexe TCR-CD3."
+  ]
+ },
+ {
+  "q": "Concernant les granulations des cellules NK, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont responsables de l'aspect LGL.",
+   "Elles contiennent de la perforine.",
+   "Elles contiennent des granzymes.",
+   "Elles sont éosinophiles comme celles des PNE.",
+   "Elles sont libérées au contact de la cellule cible."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les granulations donnent l'aspect de large granular lymphocyte.",
+   "Vrai : la perforine est stockée dans les granules.",
+   "Vrai : les granzymes sont stockées dans les granules.",
+   "Faux : les granulations des NK ne sont pas décrites comme éosinophiles.",
+   "Vrai : dégranulation cytotoxique au contact de la cible."
+  ]
+ },
+ {
+  "q": "Concernant le rôle des cellules NK dans l'immunité, lesquelles sont exactes ?",
+  "options": [
+   "Elles lysent les cellules tumorales.",
+   "Elles lysent les cellules infectées par des virus.",
+   "Elles sont à cheval entre l'immunité innée et adaptative.",
+   "Elles présentent l'antigène aux lymphocytes T.",
+   "Elles produisent de l'interféron gamma."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : cytotoxicité antitumorale des NK.",
+   "Vrai : lyse des cellules infectées (notamment virales).",
+   "Vrai : les NK relient les deux types d'immunité.",
+   "Faux : les NK ne sont pas des CPA.",
+   "Vrai : les NK sécrètent de l'IFNγ (cytokine antivirale)."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs KIR des cellules NK, lesquelles sont exactes ?",
+  "options": [
+   "KIR signifie killer cell inhibitory receptor.",
+   "Ils appartiennent à la famille des immunoglobulines.",
+   "Ce sont des récepteurs inhibiteurs de la lyse.",
+   "Leurs ligands sont les molécules du CMH de classe I.",
+   "Ce sont des récepteurs activateurs de la lyse."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : KIR = killer cell inhibitory receptor.",
+   "Vrai : famille des Ig.",
+   "Vrai : ils inhibent la lyse cellulaire.",
+   "Vrai : ils reconnaissent le CMH classe I.",
+   "Faux : les KIR sont inhibiteurs, pas activateurs."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs CLIR des cellules NK, lesquelles sont exactes ?",
+  "options": [
+   "CLIR signifie C-type lectin inhibitory receptors.",
+   "Ils appartiennent à la famille des lectines de type C.",
+   "Ce sont des récepteurs inhibiteurs de la lyse.",
+   "Leurs ligands sont les molécules du CMH de classe I.",
+   "Ils reconnaissent les anticorps fixés sur la cellule cible."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CLIR = C-type lectin inhibitory receptors.",
+   "Vrai : famille des lectines type C.",
+   "Vrai : récepteurs inhibiteurs.",
+   "Vrai : ligands = CMH classe I.",
+   "Faux : la reconnaissance des anticorps est le rôle du CD16 (FcγRIII)."
+  ]
+ },
+ {
+  "q": "Concernant l'activation des cellules NK, lesquelles sont exactes ?",
+  "options": [
+   "Elle résulte de la balance entre signaux activateurs et inhibiteurs.",
+   "L'absence de CMH-I sur la cible favorise l'activation des NK.",
+   "La reconnaissance du CMH-I du soi inhibe les NK.",
+   "Elle nécessite la présentation de l'antigène par une CPA.",
+   "Les cytokines comme l'IL-2 peuvent stimuler les NK."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'activation dépend de l'intégration des signaux KAR/KIR.",
+   "Vrai : missing self → levée d'inhibition → lyse.",
+   "Vrai : le CMH-I du soi transmet un signal négatif.",
+   "Faux : les NK n'ont pas besoin de présentation antigénique.",
+   "Vrai : les NK sont sensibles aux cytokines activatrices (IL-2, IL-15)."
+  ]
+ },
+ {
+  "q": "Concernant les marqueurs CD16 et CD56 des NK, lesquelles sont exactes ?",
+  "options": [
+   "Le CD16 est le récepteur FcγRIII des IgG.",
+   "Le CD16 est fortement exprimé sur 90 % des NK.",
+   "Le CD56 est fortement exprimé sur 10 % des NK.",
+   "Le CD56 est un marqueur spécifique des lymphocytes B.",
+   "Le CD16 permet aux NK de réaliser l'ADCC."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : CD16 = FcγRIII, récepteur des IgG.",
+   "Vrai : population NK CD16+++ = 90 %, cytotoxique.",
+   "Vrai : population NK CD56+++ = 10 %, peu cytotoxique.",
+   "Faux : le CD56 est un marqueur des NK, pas des LB.",
+   "Vrai : le CD16 médie la cytotoxicité dépendante des anticorps."
+  ]
+ },
+ {
+  "q": "Concernant les cellules NK dans les muqueuses, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont présentes dans certaines muqueuses comme la muqueuse urogénitale.",
+   "Elles participent à la défense innée des muqueuses.",
+   "Elles représentent la majorité des lymphocytes des muqueuses.",
+   "Elles lysent les cellules épithéliales infectées.",
+   "Elles sont absentes des muqueuses."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : localisation dans certaines muqueuses (urogénitale).",
+   "Vrai : elles participent à l'immunité innée locale.",
+   "Faux : elles ne représentent que 5 à 10 % des lymphocytes du sang.",
+   "Vrai : lyse des cellules infectées, y compris épithéliales.",
+   "Faux : elles sont présentes dans certaines muqueuses."
+  ]
+ },
+ {
+  "q": "Concernant la distinction entre les deux populations de NK, lesquelles sont exactes ?",
+  "options": [
+   "Les NK CD16+++ sont majoritaires dans le sang.",
+   "Les NK CD56+++ sont minoritaires dans le sang.",
+   "Les NK CD16+++ ont la plus forte activité cytotoxique.",
+   "Les NK CD56+++ sont peu cytotoxiques.",
+   "Les NK CD56+++ expriment le TCR."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CD16+++ = 90 % des NK circulants.",
+   "Vrai : CD56+++ = 10 % des NK.",
+   "Vrai : la population CD16+++ est la plus cytotoxique.",
+   "Vrai : la population CD56+++ est peu cytotoxique.",
+   "Faux : aucune population NK n'exprime le TCR."
+  ]
+ },
+ {
+  "q": "Concernant les cellules NK et les cellules cibles stressées, lesquelles sont exactes ?",
+  "options": [
+   "Les récepteurs activateurs reconnaissent des molécules de stress cellulaire.",
+   "Une cellule tumorale peut surexprimer des ligands des KAR.",
+   "L'interaction NK-cellule cible passe par des récepteurs activateurs et inhibiteurs.",
+   "Les NK ignorent totalement les marqueurs de surface de leurs cibles.",
+   "La lyse par les NK est indépendante de tout contact cellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les KAR reconnaissent les molécules des cellules stressées.",
+   "Vrai : les cellules tumorales expriment des ligands activateurs.",
+   "Vrai : l'interaction met en jeu récepteurs activateurs et inhibiteurs de surface.",
+   "Faux : les NK interagissent avec la cible via ses marqueurs de surface.",
+   "Faux : la lyse nécessite le contact et la dégranulation vers la cible."
+  ]
+ },
+ {
+  "q": "Concernant les phagocytes mononucléés, lesquelles sont exactes ?",
+  "options": [
+   "Ils comprennent les monocytes et les macrophages.",
+   "Le monocyte sanguin se différencie en macrophage dans les tissus.",
+   "Le promonocyte quitte la moelle osseuse vers le sang.",
+   "Ils comprennent les polynucléaires neutrophiles.",
+   "Ils dérivent de la cellule souche lymphoïde."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : monocytes + macrophages = phagocytes mononucléés.",
+   "Vrai : monocyte (sang) → macrophage (tissus).",
+   "Vrai : le promonocyte quitte la MO vers le sang.",
+   "Faux : les PNN sont des granulocytes, pas des phagocytes mononucléés.",
+   "Faux : ils dérivent de la lignée myéloïde (CSM → CFU-GM)."
+  ]
+ },
+ {
+  "q": "Concernant la lignée monocytaire dans la moelle osseuse, lesquelles sont exactes ?",
+  "options": [
+   "La séquence est : CSH → CSM → CFU-GM → promonocyte.",
+   "Le promonocyte quitte la moelle osseuse vers le sang.",
+   "Dans le sang, le promonocyte devient monocyte.",
+   "Le monocyte sanguin devient macrophage dans les tissus.",
+   "Le monocyte se différencie en polynucléaire neutrophile."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CSH → CSM → CFU-GM → promonocyte.",
+   "Vrai : le promonocyte passe de la MO au sang.",
+   "Vrai : promonocyte → monocyte dans le sang.",
+   "Vrai : monocyte → macrophage tissulaire.",
+   "Faux : le monocyte ne devient pas un PNN."
+  ]
+ },
+ {
+  "q": "Concernant les macrophages tissulaires, lesquelles sont exactes ?",
+  "options": [
+   "Les cellules de Kupffer sont les macrophages du foie.",
+   "La microglie est le macrophage du système nerveux central.",
+   "Les cellules mésangiales sont les macrophages du rein.",
+   "Les ostéoclastes sont les macrophages de l'os.",
+   "Les cellules de Kupffer sont les macrophages du poumon."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cellules de Kupffer = macrophages hépatiques.",
+   "Vrai : microglie = macrophages du SNC.",
+   "Vrai : cellules mésangiales = macrophages rénaux.",
+   "Vrai : les ostéoclastes sont des macrophages tissulaires de l'os.",
+   "Faux : les macrophages alvéolaires sont ceux du poumon, pas les Kupffer."
+  ]
+ },
+ {
+  "q": "Concernant les marqueurs des phagocytes mononucléés (CPA), lesquelles sont exactes ?",
+  "options": [
+   "Ils expriment les molécules du CMH de classe II.",
+   "Ils expriment la molécule de co-stimulation B7-1 (CD80).",
+   "Ils expriment la molécule de co-stimulation B7-2 (CD86).",
+   "Ils expriment le CD40.",
+   "Ils expriment le TCR."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CMH-II = marqueur de CPA.",
+   "Vrai : B7-1 (CD80) = molécule de co-stimulation.",
+   "Vrai : B7-2 (CD86) = molécule de co-stimulation.",
+   "Vrai : CD40 exprimé par les CPA.",
+   "Faux : le TCR est le récepteur des lymphocytes T."
+  ]
+ },
+ {
+  "q": "Concernant les fonctions principales des phagocytes mononucléés, lesquelles sont exactes ?",
+  "options": [
+   "La phagocytose des pathogènes et débris.",
+   "La présentation de l'antigène aux lymphocytes.",
+   "La sécrétion de cytokines comme l'IFNγ et le TNFα.",
+   "La production d'anticorps.",
+   "La lyse directe par perforine et granzymes."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la phagocytose est une fonction principale.",
+   "Vrai : présentation de l'Ag (CPA).",
+   "Vrai : sécrétion d'IFNγ et de TNFα.",
+   "Faux : les anticorps sont produits par les plasmocytes.",
+   "Faux : perforine/granzymes sont l'apanage des NK et LT CD8."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines sécrétées par les macrophages, lesquelles sont exactes ?",
+  "options": [
+   "Le TNFα est sécrété par les macrophages.",
+   "L'IFNγ est sécrété par les macrophages.",
+   "Le TNFα est une cytokine pro-inflammatoire.",
+   "L'IFNγ active les macrophages.",
+   "Les macrophages sécrètent des immunoglobulines."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le TNFα figure parmi les cytokines des macrophages.",
+   "Vrai : l'IFNγ figure parmi les cytokines des macrophages.",
+   "Vrai : le TNFα est une cytokine pro-inflammatoire majeure.",
+   "Vrai : l'IFNγ est un puissant activateur des macrophages.",
+   "Faux : les Ig sont sécrétées par les plasmocytes."
+  ]
+ },
+ {
+  "q": "Concernant les monocytes et macrophages par rapport aux autres cellules, lesquelles sont exactes ?",
+  "options": [
+   "Les macrophages sont des cellules présentatrices d'antigène.",
+   "Les macrophages sont à cheval entre l'immunité innée et adaptative.",
+   "Les monocytes circulent dans le sang.",
+   "Les macrophages résident dans les tissus.",
+   "Les monocytes expriment le CD16 comme marqueur principal."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les macrophages présentent l'Ag (CMH-II).",
+   "Vrai : ils relient les deux types d'immunité.",
+   "Vrai : les monocytes sont des cellules sanguines.",
+   "Vrai : les macrophages sont des cellules tissulaires résidentes.",
+   "Faux : le CD16 est le marqueur principal des NK, pas des monocytes."
+  ]
+ },
+ {
+  "q": "Concernant la phagocytose par les macrophages, lesquelles sont exactes ?",
+  "options": [
+   "Elle permet l'élimination des agents pathogènes.",
+   "Elle permet l'élimination des cellules apoptotiques.",
+   "Elle précède la présentation de l'antigène.",
+   "Elle nécessite toujours une opsonisation par des anticorps.",
+   "Elle aboutit à la digestion dans le phagolysosome."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les macrophages phagocytent les pathogènes.",
+   "Vrai : clairance des cellules apoptotiques.",
+   "Vrai : l'Ag phagocyté est apprêté puis présenté.",
+   "Faux : la phagocytose peut être directe via des récepteurs innés.",
+   "Vrai : digestion intracellulaire dans le phagolysosome."
+  ]
+ },
+ {
+  "q": "Concernant les cellules de Kupffer, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont les macrophages résidents du foie.",
+   "Elles dérivent des monocytes sanguins.",
+   "Elles participent à l'épuration des pathogènes du sang portal.",
+   "Elles sécrètent des cytokines pro-inflammatoires.",
+   "Ce sont des cellules dendritiques du foie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : macrophages tissulaires du foie.",
+   "Vrai : origine monocytaire.",
+   "Vrai : filtration des éléments du sang portal.",
+   "Vrai : sécrétion de TNFα et autres cytokines.",
+   "Faux : ce sont des macrophages, pas des cellules dendritiques."
+  ]
+ },
+ {
+  "q": "Concernant la microglie, lesquelles sont exactes ?",
+  "options": [
+   "C'est le macrophage résident du système nerveux central.",
+   "Elle participe à la défense immunitaire du SNC.",
+   "Elle peut présenter l'antigène.",
+   "Elle dérive des monocytes.",
+   "C'est un type de polynucléaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : microglie = macrophage du SNC.",
+   "Vrai : surveillance immunitaire du système nerveux.",
+   "Vrai : les macrophages sont des CPA (CMH-II).",
+   "Vrai : origine de la lignée monocytaire.",
+   "Faux : la microglie est un phagocyte mononucléé, pas un granulocyte."
+  ]
+ },
+ {
+  "q": "Concernant les polynucléaires neutrophiles (PNN), lesquelles sont exactes ?",
+  "options": [
+   "Ils représentent 40 à 75 % des globules blancs.",
+   "Leur nombre normal est de 4000 à 7000 par µl.",
+   "Leur noyau est polylobé.",
+   "Leurs granules cytoplasmiques sont azyrophiles.",
+   "Ils représentent 1 à 5 % des globules blancs."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 40 à 75 % des GB.",
+   "Vrai : 4000 à 7000/µl.",
+   "Vrai : noyau polylobé caractéristique.",
+   "Vrai : granulations cytoplasmiques azyrophiles.",
+   "Faux : 1 à 5 % des GB correspond aux PNE."
+  ]
+ },
+ {
+  "q": "Concernant la fonction des polynucléaires neutrophiles, lesquelles sont exactes ?",
+  "options": [
+   "La phagocytose est leur fonction principale.",
+   "Ils sont les premiers phagocytes recrutés sur un foyer infectieux.",
+   "Ils participent à la défense contre les infections bactériennes.",
+   "Ils présentent l'antigène aux lymphocytes T.",
+   "Ils sécrètent des anticorps."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PHAGOCYTOSE = fonction des PNN.",
+   "Vrai : premiers intervenants de l'inflammation aiguë.",
+   "Vrai : rôle majeur antibactérien.",
+   "Faux : les PNN ne sont pas des CPA.",
+   "Faux : les anticorps sont produits par les plasmocytes."
+  ]
+ },
+ {
+  "q": "Concernant la cytologie des polynucléaires neutrophiles, lesquelles sont exactes ?",
+  "options": [
+   "Le noyau est polylobé (3 à 5 lobes).",
+   "Le cytoplasme contient des granulations azyrophiles.",
+   "Ce sont des cellules de la lignée myéloïde.",
+   "Leur taille est supérieure à celle des petits lymphocytes.",
+   "Leur noyau est bilobé en bisac."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : noyau polylobé.",
+   "Vrai : granules azyrophiles.",
+   "Vrai : les granulocytes dérivent de la lignée myéloïde.",
+   "Vrai : les PNN sont plus grands que les petits lymphocytes.",
+   "Faux : le noyau bilobé en bisac est celui des PNE."
+  ]
+ },
+ {
+  "q": "Concernant les PNN et l'inflammation, lesquelles sont exactes ?",
+  "options": [
+   "Ils migrent vers le foyer inflammatoire par chimiotactisme.",
+   "Ils adhèrent à l'endothélium activé puis diapédèsent.",
+   "Ils libèrent des enzymes protéolytiques et des radicaux oxygénés.",
+   "Ils sont des cellules de l'immunité innée.",
+   "Ils ont une longue durée de vie dans les tissus (plusieurs mois)."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : recrutement par chimiotactisme.",
+   "Vrai : rolling, adhésion puis diapédèse.",
+   "Vrai : arsenal microbicide (enzymes, ROS).",
+   "Vrai : granulocytes de l'immunité innée.",
+   "Faux : les PNN ont une durée de vie courte (quelques heures à jours)."
+  ]
+ },
+ {
+  "q": "Concernant la numération des polynucléaires neutrophiles, lesquelles sont exactes ?",
+  "options": [
+   "La valeur normale est de 4000 à 7000 par µl.",
+   "Une augmentation définit la polynucléose neutrophile.",
+   "Une diminution définit la neutropénie.",
+   "La NFS renseigne sur leur nombre.",
+   "Ils représentent 20 à 30 % des globules blancs."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 4000 à 7000/µl.",
+   "Vrai : hyperleucocytose à PNN = polynucléose.",
+   "Vrai : neutropénie = baisse des PNN.",
+   "Vrai : la NFS est l'examen quantitatif.",
+   "Faux : 20 à 30 % des GB correspond aux lymphocytes."
+  ]
+ },
+ {
+  "q": "Concernant les PNN par rapport aux autres granulocytes, lesquelles sont exactes ?",
+  "options": [
+   "Les PNN sont les plus nombreux des granulocytes.",
+   "Les PNN ont une activité phagocytaire supérieure à celle des PNE.",
+   "Les PNN ont un noyau polylobé contrairement aux PNE (bilobé).",
+   "Les PNN sécrètent de l'histamine comme les PNB.",
+   "Les PNN, PNE et PNB appartiennent à l'immunité innée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : 40 à 75 % des GB, les plus nombreux.",
+   "Vrai : phagocytose PNN > PNE.",
+   "Vrai : noyau polylobé vs bilobé.",
+   "Faux : l'histamine est sécrétée par les mastocytes et PNB.",
+   "Vrai : les trois types de granulocytes sont innés."
+  ]
+ },
+ {
+  "q": "Concernant les mécanismes microbicides des PNN, lesquelles sont exactes ?",
+  "options": [
+   "La phagocytose suivie de digestion intracellulaire.",
+   "La production de radicaux oxygénés toxiques.",
+   "La libération d'enzymes des granulations.",
+   "La sécrétion d'immunoglobulines.",
+   "La présentation d'antigène via le CMH de classe II."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : phagocytose puis digestion.",
+   "Vrai : explosion oxydative microbicide.",
+   "Vrai : dégranulation enzymatique.",
+   "Faux : les PNN ne produisent pas d'Ig.",
+   "Faux : les PNN ne sont pas des CPA professionnelles."
+  ]
+ },
+ {
+  "q": "Concernant l'origine des polynucléaires neutrophiles, lesquelles sont exactes ?",
+  "options": [
+   "Ils naissent dans la moelle osseuse.",
+   "Ils dérivent de la lignée myéloïde.",
+   "Ils circulent dans le sang avant de migrer dans les tissus.",
+   "Ils maturent dans le thymus.",
+   "Ils dérivent de la cellule souche lymphoïde."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : production médullaire.",
+   "Vrai : lignée myéloïde (CFU-GM).",
+   "Vrai : circulation sanguine puis recrutement tissulaire.",
+   "Faux : le thymus est l'organe de maturation des LT.",
+   "Faux : les granulocytes sont d'origine myéloïde."
+  ]
+ },
+ {
+  "q": "Concernant les polynucléaires en général, lesquelles sont exactes ?",
+  "options": [
+   "On distingue les PNN, les PNE et les PNB.",
+   "Ce sont des cellules de l'immunité innée.",
+   "Leurs granulations cytoplasmiques sont caractéristiques de chaque type.",
+   "Ils possèdent tous un noyau polylobé.",
+   "Ils sont explorés quantitativement par la NFS."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : trois types de polynucléaires.",
+   "Vrai : granulocytes de l'immunité innée.",
+   "Vrai : granulations spécifiques (azyrophiles, éosinophiles, basophiles).",
+   "Faux : seul le PNN a un noyau polylobé ; PNE bilobé.",
+   "Vrai : la NFS les quantifie."
+  ]
+ },
+ {
+  "q": "Concernant les PNN et les infections, lesquelles sont exactes ?",
+  "options": [
+   "Une infection bactérienne aiguë augmente les PNN.",
+   "Les PNN phagocytent les bactéries opsonisées.",
+   "Le pus est en grande partie constitué de PNN morts.",
+   "Les PNN sont efficaces contre les parasites intestinaux.",
+   "Les PNN agissent dans l'hypersensibilité immédiate."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : polynucléose lors des infections bactériennes.",
+   "Vrai : phagocytose des bactéries opsonisées.",
+   "Vrai : le pus contient des PNN altérés/morts.",
+   "Faux : la lutte antiparasitaire est le rôle des PNE.",
+   "Faux : l'hypersensibilité immédiate implique mastocytes et PNB."
+  ]
+ },
+ {
+  "q": "Concernant les polynucléaires éosinophiles (PNE), lesquelles sont exactes ?",
+  "options": [
+   "Ils représentent 1 à 5 % des globules blancs.",
+   "Leur nombre normal est de 100 à 500 par µl.",
+   "Leurs granulations cytoplasmiques sont éosinophiles.",
+   "Leur noyau est bilobé (en bisac).",
+   "Ils représentent 40 à 75 % des globules blancs."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 1 à 5 % des GB.",
+   "Vrai : 100 à 500/µl.",
+   "Vrai : granulations éosinophiles caractéristiques.",
+   "Vrai : noyau bilobé en bisac.",
+   "Faux : 40 à 75 % des GB correspond aux PNN."
+  ]
+ },
+ {
+  "q": "Concernant les fonctions des polynucléaires éosinophiles, lesquelles sont exactes ?",
+  "options": [
+   "Ils ont une activité phagocytaire inférieure à celle des PNN.",
+   "Ils agissent dans les infections parasitaires.",
+   "Ils interviennent dans les allergies.",
+   "La phagocytose est leur fonction principale comme pour les PNN.",
+   "Ils sécrètent de l'histamine en grande quantité."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : phagocytose < PNN.",
+   "Vrai : rôle antiparasitaire majeur.",
+   "Vrai : implication dans les réactions allergiques.",
+   "Faux : la phagocytose n'est pas leur fonction principale.",
+   "Faux : l'histamine est le médiateur des mastocytes et PNB."
+  ]
+ },
+ {
+  "q": "Concernant l'éosinophilie, lesquelles sont exactes ?",
+  "options": [
+   "Elle correspond à une augmentation des PNE.",
+   "On l'observe dans les parasitoses.",
+   "On l'observe dans les terrains allergiques.",
+   "Elle est explorée par la NFS.",
+   "Elle correspond à une augmentation des PNN."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : éosinophilie = augmentation des PNE.",
+   "Vrai : les parasitoses augmentent les PNE.",
+   "Vrai : allergies (asthme, etc.) avec éosinophilie.",
+   "Vrai : la NFS quantifie les PNE.",
+   "Faux : l'augmentation des PNN définit la polynucléose neutrophile."
+  ]
+ },
+ {
+  "q": "Concernant les PNE par rapport aux PNN, lesquelles sont exactes ?",
+  "options": [
+   "Les PNE sont moins nombreux que les PNN.",
+   "Le noyau des PNE est bilobé, celui des PNN polylobé.",
+   "Les PNE sont plus phagocytaires que les PNN.",
+   "Les PNE luttent contre les parasites, les PNN contre les bactéries.",
+   "Les deux appartiennent à l'immunité innée."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : 1-5 % vs 40-75 % des GB.",
+   "Vrai : bilobé vs polylobé.",
+   "Faux : la phagocytose des PNE est inférieure à celle des PNN.",
+   "Vrai : parasites vs bactéries.",
+   "Vrai : granulocytes de l'immunité innée."
+  ]
+ },
+ {
+  "q": "Concernant la cytologie des PNE, lesquelles sont exactes ?",
+  "options": [
+   "Les granulations sont éosinophiles (orangées).",
+   "Le noyau est bilobé en forme de bisac.",
+   "Ce sont des cellules de la lignée myéloïde.",
+   "Leurs granulations sont noirâtres et volumineuses.",
+   "Leur noyau est polylobé."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : granulations éosinophiles.",
+   "Vrai : noyau bilobé en bisac.",
+   "Vrai : lignée myéloïde.",
+   "Faux : les granulations noirâtres volumineuses sont celles des PNB.",
+   "Faux : le noyau polylobé est celui des PNN."
+  ]
+ },
+ {
+  "q": "Concernant les médiateurs des PNE, lesquelles sont exactes ?",
+  "options": [
+   "Leurs granules contiennent des protéines toxiques pour les parasites.",
+   "Ils libèrent des médiateurs de l'inflammation allergique.",
+   "Ils sécrètent des leucotriènes.",
+   "Ils produisent des anticorps IgE.",
+   "Ils sécrètent de la perforine comme les NK."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : protéines cationiques toxiques pour les helminthes.",
+   "Vrai : participation à l'inflammation allergique.",
+   "Vrai : les PNE produisent des leucotriènes.",
+   "Faux : les IgE sont produites par les plasmocytes.",
+   "Faux : la perforine est le médiateur des NK et LT CD8."
+  ]
+ },
+ {
+  "q": "Concernant les polynucléaires éosinophiles en pathologie, lesquelles sont exactes ?",
+  "options": [
+   "Une hyperéosinophilie s'observe dans les helminthiases.",
+   "Une hyperéosinophilie s'observe dans l'asthme allergique.",
+   "Le frottis sanguin permet d'apprécier leur morphologie.",
+   "Ils sont les cellules de l'hypersensibilité immédiate de type I.",
+   "Ils représentent moins de 100 par µl à l'état normal."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : parasitoses = éosinophilie.",
+   "Vrai : asthme allergique = éosinophilie.",
+   "Vrai : le frottis étudie la cytologie.",
+   "Faux : l'hypersensibilité immédiate est médiée par les mastocytes.",
+   "Faux : la normale est de 100 à 500/µl."
+  ]
+ },
+ {
+  "q": "Concernant les polynucléaires basophiles (PNB), lesquelles sont exactes ?",
+  "options": [
+   "Ils représentent environ 1 % des globules blancs.",
+   "Leur nombre normal est inférieur à 100 par µl.",
+   "Leurs granulations cytoplasmiques sont volumineuses et noirâtres.",
+   "Ils représentent 1 à 5 % des globules blancs.",
+   "Leur noyau est polylobé."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ~1 % des GB, les plus rares.",
+   "Vrai : < 100/µl.",
+   "Vrai : grosses granulations noirâtres caractéristiques.",
+   "Faux : 1 à 5 % des GB correspond aux PNE.",
+   "Faux : le noyau polylobé est celui des PNN."
+  ]
+ },
+ {
+  "q": "Concernant la fonction des polynucléaires basophiles, lesquelles sont exactes ?",
+  "options": [
+   "Après activation, ils sécrètent des médiateurs de l'inflammation.",
+   "Ils libèrent de l'histamine.",
+   "Ils portent des récepteurs pour les IgE.",
+   "La phagocytose est leur fonction principale.",
+   "Ils présentent l'antigène aux lymphocytes."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sécrétion de médiateurs inflammatoires après activation.",
+   "Vrai : l'histamine est un médiateur des PNB.",
+   "Vrai : récepteurs Fcε pour les IgE comme les mastocytes.",
+   "Faux : les PNB sont peu phagocytaires.",
+   "Faux : les PNB ne sont pas des CPA."
+  ]
+ },
+ {
+  "q": "Concernant les PNB et les mastocytes, lesquelles sont exactes ?",
+  "options": [
+   "Les deux libèrent de l'histamine après activation.",
+   "Les deux portent des récepteurs pour les IgE.",
+   "Les deux interviennent dans l'hypersensibilité immédiate.",
+   "Les PNB circulent dans le sang, les mastocytes résident dans les tissus.",
+   "Les PNB et les mastocytes sont morphologiquement identiques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : histamine libérée par les deux.",
+   "Vrai : récepteurs aux IgE sur les deux.",
+   "Vrai : implication dans l'allergie immédiate.",
+   "Vrai : PNB sanguins vs mastocytes tissulaires.",
+   "Faux : les mastocytes sont tissulaires, les PNB sont des granulocytes sanguins."
+  ]
+ },
+ {
+  "q": "Concernant les granulations des PNB, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont volumineuses.",
+   "Elles sont noirâtres et masquent souvent le noyau.",
+   "Elles contiennent de l'histamine.",
+   "Elles sont éosinophiles.",
+   "Elles sont azyrophiles."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : grosses granulations.",
+   "Vrai : granulations sombres masquant le noyau.",
+   "Vrai : l'histamine est stockée dans les granules.",
+   "Faux : les granulations éosinophiles sont celles des PNE.",
+   "Faux : les granulations azyrophiles sont celles des PNN."
+  ]
+ },
+ {
+  "q": "Concernant les PNB en pathologie, lesquelles sont exactes ?",
+  "options": [
+   "Ils participent aux réactions allergiques.",
+   "Une basophilie peut s'observer dans certaines hémopathies.",
+   "Ils sont explorés quantitativement par la NFS.",
+   "Ils sont les principaux phagocytes du sang.",
+   "Ils sécrètent des anticorps IgE."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : rôle dans l'allergie.",
+   "Vrai : basophilie possible (ex. syndromes myéloprolifératifs).",
+   "Vrai : la NFS les quantifie.",
+   "Faux : les principaux phagocytes sont les PNN.",
+   "Faux : les IgE sont produites par les plasmocytes."
+  ]
+ },
+ {
+  "q": "Concernant la rareté des PNB, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont les granulocytes les moins nombreux du sang.",
+   "Ils représentent environ 1 % des globules blancs.",
+   "Leur nombre est normalement inférieur à 100 par µl.",
+   "Ils sont plus nombreux que les PNE.",
+   "Ils sont plus nombreux que les lymphocytes."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les PNB sont les plus rares des granulocytes.",
+   "Vrai : ~1 % des GB.",
+   "Vrai : < 100/µl.",
+   "Faux : les PNE (1-5 %) sont plus nombreux que les PNB.",
+   "Faux : les lymphocytes (20-30 %) sont bien plus nombreux."
+  ]
+ },
+ {
+  "q": "Concernant les mastocytes, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont présents dans le tissu conjonctif.",
+   "On les trouve au niveau des portes d'entrée : peau, muqueuses digestive et respiratoire.",
+   "Ce sont des cellules de l'immunité innée.",
+   "Ils circulent en grand nombre dans le sang.",
+   "Ce sont des polynucléaires."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : mastocytes du tissu conjonctif.",
+   "Vrai : peau et muqueuses = portes d'entrée.",
+   "Vrai : cellules de l'immunité innée.",
+   "Faux : les mastocytes sont tissulaires, pas circulants.",
+   "Faux : les mastocytes ne sont pas des polynucléaires."
+  ]
+ },
+ {
+  "q": "Concernant le rôle des mastocytes dans l'inflammation, lesquelles sont exactes ?",
+  "options": [
+   "Le mastocyte est la première cellule impliquée dans l'inflammation.",
+   "Son activation libère des médiateurs préformés.",
+   "Son activation libère des médiateurs néoformés.",
+   "Il appartient à l'immunité innée.",
+   "Il présente l'antigène aux lymphocytes T."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 1ère cellule de l'inflammation (immunité innée).",
+   "Vrai : médiateurs préformés stockés dans les granules.",
+   "Vrai : médiateurs néoformés synthétisés après activation.",
+   "Vrai : cellule de l'immunité innée.",
+   "Faux : le mastocyte n'est pas une CPA."
+  ]
+ },
+ {
+  "q": "Concernant les médiateurs préformés des mastocytes, lesquelles sont exactes ?",
+  "options": [
+   "L'histamine est un médiateur préformé.",
+   "Le PAF-acether est un médiateur préformé.",
+   "Ils sont stockés dans les granulations cytoplasmiques.",
+   "Ils sont libérés immédiatement après activation.",
+   "Les prostaglandines sont des médiateurs préformés."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : histamine = médiateur préformé.",
+   "Vrai : PAF-acether = médiateur préformé.",
+   "Vrai : stockage granulaire.",
+   "Vrai : libération immédiate (dégranulation).",
+   "Faux : les PG sont des médiateurs néoformés."
+  ]
+ },
+ {
+  "q": "Concernant les médiateurs néoformés des mastocytes, lesquelles sont exactes ?",
+  "options": [
+   "Les prostaglandines (PG) sont des médiateurs néoformés.",
+   "Les leucotriènes (LT) sont des médiateurs néoformés.",
+   "Ils sont synthétisés après l'activation du mastocyte.",
+   "L'histamine est un médiateur néoformé.",
+   "Ils dérivent de l'acide arachidonique membranaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : PG = médiateurs néoformés.",
+   "Vrai : LT = médiateurs néoformés.",
+   "Vrai : synthèse de novo après activation.",
+   "Faux : l'histamine est un médiateur préformé.",
+   "Vrai : PG et LT dérivent de l'acide arachidonique."
+  ]
+ },
+ {
+  "q": "Concernant les mastocytes et l'hypersensibilité, lesquelles sont exactes ?",
+  "options": [
+   "Le mastocyte est la cellule de l'hypersensibilité immédiate (type I).",
+   "L'activation passe par les IgE fixées sur leurs récepteurs.",
+   "La dégranulation libère l'histamine responsable des symptômes allergiques.",
+   "Ils interviennent dans l'hypersensibilité retardée de type IV.",
+   "Ils sont la cible des antihistaminiques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : hypersensibilité immédiate type I.",
+   "Vrai : pontage des IgE par l'allergène = activation.",
+   "Vrai : l'histamine cause vasodilatation, œdème, prurit.",
+   "Faux : le type IV est médié par les LT, pas les mastocytes.",
+   "Vrai : les antihistaminiques bloquent les effets de l'histamine."
+  ]
+ },
+ {
+  "q": "Concernant la localisation stratégique des mastocytes, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont situés au niveau de la peau.",
+   "Ils sont situés au niveau de la muqueuse digestive.",
+   "Ils sont situés au niveau de la muqueuse respiratoire.",
+   "Ils sont situés dans le tissu conjonctif.",
+   "Ils circulent dans la lymphe."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : peau = porte d'entrée.",
+   "Vrai : muqueuse digestive = porte d'entrée.",
+   "Vrai : muqueuse respiratoire = porte d'entrée.",
+   "Vrai : tissu conjonctif.",
+   "Faux : les mastocytes sont tissulaires, pas lymphatiques."
+  ]
+ },
+ {
+  "q": "Concernant les effets de l'histamine libérée par les mastocytes, lesquelles sont exactes ?",
+  "options": [
+   "Vasodilatation avec rougeur.",
+   "Augmentation de la perméabilité vasculaire avec œdème.",
+   "Contraction des muscles lisses bronchiques.",
+   "Stimulation des terminaisons nerveuses avec prurit.",
+   "Immunosuppression généralisée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : vasodilatation = érythème.",
+   "Vrai : perméabilité accrue = œdème.",
+   "Vrai : bronchoconstriction (asthme).",
+   "Vrai : prurit.",
+   "Faux : l'histamine est pro-inflammatoire, pas immunosuppressive."
+  ]
+ },
+ {
+  "q": "Concernant les cellules dendritiques (DC), lesquelles sont exactes ?",
+  "options": [
+   "Elles sont présentes dans tous les tissus.",
+   "Elles représentent 0,3 % des cellules du sang.",
+   "Elles représentent 2 à 3 % des cellules des organes lymphoïdes.",
+   "Elles représentent 5 à 10 % des lymphocytes du sang.",
+   "Elles sont absentes des tissus périphériques."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : DC présentes dans tous les tissus.",
+   "Vrai : 0,3 % des cellules sanguines.",
+   "Vrai : 2 à 3 % des cellules des organes lymphoïdes.",
+   "Faux : 5 à 10 % des lymphocytes = les NK.",
+   "Faux : elles sont présentes dans tous les tissus."
+  ]
+ },
+ {
+  "q": "Concernant les deux fonctions des cellules dendritiques, lesquelles sont exactes ?",
+  "options": [
+   "La capture de l'antigène par la DC immature.",
+   "La présentation de l'antigène aux lymphocytes par la DC mature.",
+   "La DC immature présente l'antigène aux lymphocytes.",
+   "La DC mature capture l'antigène dans les tissus.",
+   "Les deux fonctions sont assurées simultanément au même stade."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : DC immature = capture de l'Ag.",
+   "Vrai : DC mature = présentation aux lymphocytes.",
+   "Faux : la présentation est le rôle de la DC mature.",
+   "Faux : la capture est le rôle de la DC immature.",
+   "Faux : les deux fonctions correspondent à deux stades de maturation distincts."
+  ]
+ },
+ {
+  "q": "Concernant la migration des cellules dendritiques, lesquelles sont exactes ?",
+  "options": [
+   "Les DC phagocytent les antigènes tissulaires.",
+   "Elles migrent par le sang ou la lymphe vers les organes lymphoïdes.",
+   "Elles présentent l'antigène apprêté aux lymphocytes T helper.",
+   "Elles migrent vers les ganglions drainant le territoire.",
+   "Elles restent fixes dans les tissus toute leur vie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : phagocytose des Ag tissulaires.",
+   "Vrai : migration via sang/lymphe vers les OL.",
+   "Vrai : présentation de l'Ag apprêté aux TH.",
+   "Vrai : homing vers les ganglions satellites.",
+   "Faux : les DC migrent après capture antigénique."
+  ]
+ },
+ {
+  "q": "Concernant l'expression membranaire des cellules dendritiques, lesquelles sont exactes ?",
+  "options": [
+   "Elles expriment les molécules du CMH de classe II.",
+   "Elles expriment B7-1 (CD80).",
+   "Elles expriment B7-2 (CD86).",
+   "Elles expriment le CD40.",
+   "Elles expriment le TCR."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CMH-II = présentation antigénique.",
+   "Vrai : B7-1 (CD80) = co-stimulation.",
+   "Vrai : B7-2 (CD86) = co-stimulation.",
+   "Vrai : CD40 exprimé par les CPA.",
+   "Faux : le TCR est le récepteur des LT."
+  ]
+ },
+ {
+  "q": "Concernant les cellules dendritiques comme CPA, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont de puissantes cellules présentatrices d'antigène.",
+   "Elles initient la réponse des lymphocytes T naïfs.",
+   "Elles sont à cheval entre l'immunité innée et adaptative.",
+   "Elles phagocytent comme les macrophages.",
+   "Elles produisent des anticorps."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les DC sont les CPA les plus puissantes.",
+   "Vrai : activation des LT naïfs dans les OL.",
+   "Vrai : capture innée puis présentation adaptative.",
+   "Vrai : les DC immatures sont phagocytaires.",
+   "Faux : les anticorps sont produits par les plasmocytes."
+  ]
+ },
+ {
+  "q": "Concernant la maturation des cellules dendritiques, lesquelles sont exactes ?",
+  "options": [
+   "La DC immature est phagocytaire et capture l'antigène.",
+   "La DC mature perd sa capacité de phagocytose.",
+   "La DC mature augmente l'expression du CMH-II et des molécules de co-stimulation.",
+   "La maturation est déclenchée par des signaux de danger.",
+   "La DC mature retourne dans les tissus pour capturer l'antigène."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : DC immature = sentinelle phagocytaire.",
+   "Vrai : la DC mature se spécialise dans la présentation.",
+   "Vrai : surexpression CMH-II, CD80/CD86, CD40.",
+   "Vrai : PAMP et cytokines déclenchent la maturation.",
+   "Faux : la DC mature migre vers les OL, pas vers les tissus."
+  ]
+ },
+ {
+  "q": "Concernant les cellules dendritiques et les lymphocytes T, lesquelles sont exactes ?",
+  "options": [
+   "Les DC présentent l'antigène apprêté aux LT helper.",
+   "La présentation se fait dans les organes lymphoïdes.",
+   "Les molécules de co-stimulation B7 sont indispensables à l'activation.",
+   "Les DC activent les LT sans présentation antigénique.",
+   "Les DC expriment le CD4 comme les LT helper."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : présentation aux TH.",
+   "Vrai : rencontre dans les ganglions/rate.",
+   "Vrai : signal 2 de co-stimulation requis.",
+   "Faux : l'activation nécessite la présentation de l'Ag.",
+   "Faux : le CD4 est le corécepteur des LT, pas des DC."
+  ]
+ },
+ {
+  "q": "Concernant les DC par rapport aux macrophages, lesquelles sont exactes ?",
+  "options": [
+   "Les deux expriment le CMH de classe II.",
+   "Les deux expriment B7-1, B7-2 et CD40.",
+   "Les deux sont des CPA.",
+   "Les DC sont de plus puissantes CPA que les macrophages.",
+   "Les macrophages dérivent des DC."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CMH-II exprimé par les deux.",
+   "Vrai : molécules de co-stimulation communes.",
+   "Vrai : les deux sont des CPA.",
+   "Vrai : les DC sont les CPA les plus efficaces.",
+   "Faux : les macrophages dérivent des monocytes."
+  ]
+ },
+ {
+  "q": "Concernant la répartition des cellules dendritiques, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont présentes dans tous les tissus.",
+   "Elles sont rares dans le sang (0,3 %).",
+   "Elles sont plus nombreuses dans les organes lymphoïdes (2 à 3 %).",
+   "Elles constituent 99 % des cellules de la lymphe.",
+   "Elles sont absentes de la peau."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ubiquitaires dans les tissus.",
+   "Vrai : 0,3 % des cellules du sang.",
+   "Vrai : 2 à 3 % des cellules des organes lymphoïdes.",
+   "Faux : 99 % des cellules de la lymphe = lymphocytes.",
+   "Faux : les cellules de Langerhans sont les DC de la peau."
+  ]
+ },
+ {
+  "q": "Concernant le rôle sentinelle des cellules dendritiques, lesquelles sont exactes ?",
+  "options": [
+   "La DC immature surveille les tissus et capture les antigènes.",
+   "Après capture, elle migre vers l'organe lymphoïde drainant.",
+   "Elle y présente l'antigène aux lymphocytes.",
+   "Elle fait le lien entre immunité innée et adaptative.",
+   "Elle sécrète des anticorps après maturation."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : fonction sentinelle de la DC immature.",
+   "Vrai : migration vers les OL.",
+   "Vrai : présentation aux lymphocytes.",
+   "Vrai : pont entre les deux immunités.",
+   "Faux : les DC ne produisent pas d'anticorps."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes en général, lesquelles sont exactes ?",
+  "options": [
+   "Ils comprennent les lymphocytes B et T.",
+   "Ils sont les cellules de la réponse immunitaire adaptative.",
+   "Ils naissent dans la moelle osseuse.",
+   "Ils exercent leurs fonctions en périphérie.",
+   "Ils comprennent les cellules NK."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : LB et LT.",
+   "Vrai : cellules de l'immunité adaptative.",
+   "Vrai : origine médullaire.",
+   "Vrai : fonctions en périphérie.",
+   "Faux : les NK sont des cellules de l'immunité innée."
+  ]
+ },
+ {
+  "q": "Concernant la formule lymphocytaire normale, lesquelles sont exactes ?",
+  "options": [
+   "Les lymphocytes représentent 20 à 30 % des globules blancs.",
+   "La lymphocytémie normale est de 1500 à 4000 par µl.",
+   "Les lymphocytes représentent 99 % des cellules de la lymphe.",
+   "Les lymphocytes représentent 40 à 75 % des globules blancs.",
+   "La lymphopénie est une diminution des lymphocytes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : 20 à 30 % des GB.",
+   "Vrai : 1500 à 4000/µl.",
+   "Vrai : 99 % des cellules de la lymphe.",
+   "Faux : 40 à 75 % des GB correspond aux PNN.",
+   "Vrai : lymphopénie = baisse des lymphocytes."
+  ]
+ },
+ {
+  "q": "Concernant la morphologie du lymphocyte au repos, lesquelles sont exactes ?",
+  "options": [
+   "Petite cellule de 7 à 10 µm.",
+   "Noyau à chromatine dense.",
+   "Rapport nucléocytoplasmique élevé.",
+   "Cytoplasme peu abondant non granuleux.",
+   "Grande cellule de 10 à 12 µm à granulations."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 7 à 10 µm.",
+   "Vrai : chromatine dense.",
+   "Vrai : rapport N/C élevé.",
+   "Vrai : cytoplasme réduit.",
+   "Faux : 10 à 12 µm à granulations décrit la cellule NK (LGL)."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes naïfs, lesquelles sont exactes ?",
+  "options": [
+   "Au repos, les LB et LT sont des cellules naïves.",
+   "Ils n'ont jamais rencontré leur antigène spécifique.",
+   "Ils circulent entre sang et organes lymphoïdes.",
+   "Ils sont déjà différenciés en cellules effectrices.",
+   "Ils expriment déjà des immunoglobulines membranaires."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : au repos = cellules naïves.",
+   "Vrai : définition du lymphocyte naïf.",
+   "Vrai : recirculation des lymphocytes naïfs.",
+   "Faux : la différenciation effectrice suit la rencontre antigénique.",
+   "Faux : les Ig membranaires (BCR) sont exprimées par les LB, pas par les LT naïfs."
+  ]
+ },
+ {
+  "q": "Concernant les cellules mémoire, lesquelles sont exactes ?",
+  "options": [
+   "Elles dérivent des lymphocytes activés par l'antigène.",
+   "Elles sont quiescentes, en phase G0 du cycle cellulaire.",
+   "Elles persistent longtemps après la réponse immunitaire.",
+   "Elles permettent une réponse secondaire plus rapide.",
+   "Elles sécrètent des anticorps en permanence."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : issues de la différenciation après contact antigénique.",
+   "Vrai : quiescentes en phase G0.",
+   "Vrai : persistance à long terme.",
+   "Vrai : base de la mémoire immunitaire.",
+   "Faux : elles ne sécrètent pas d'anticorps au repos."
+  ]
+ },
+ {
+  "q": "Concernant les cellules effectrices, lesquelles sont exactes ?",
+  "options": [
+   "Elles dérivent des lymphocytes après contact avec l'antigène.",
+   "Les LT CD8 cytotoxiques en sont un exemple.",
+   "Les plasmocytes en sont un exemple.",
+   "Elles ont une durée de vie courte.",
+   "Elles restent quiescentes en phase G0."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : différenciation après activation antigénique.",
+   "Vrai : LTc = effecteurs cytotoxiques.",
+   "Vrai : plasmocytes = effecteurs humoraux.",
+   "Vrai : les effecteurs meurent après la réponse (contraction).",
+   "Faux : les cellules en G0 sont les cellules mémoire."
+  ]
+ },
+ {
+  "q": "Concernant la distinction LB/LT, lesquelles sont exactes ?",
+  "options": [
+   "Il n'existe pas de distinction morphologique entre LB et LT.",
+   "La distinction se fait par les marqueurs de surface (CD).",
+   "Les LB expriment des immunoglobulines membranaires.",
+   "Les LT expriment le complexe TCR-CD3.",
+   "Les LB sont plus grands que les LT."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas de distinction cytologique.",
+   "Vrai : immuno-phénotypage par les CD.",
+   "Vrai : BCR = Ig membranaire.",
+   "Vrai : TCR-CD3 = récepteur des LT.",
+   "Faux : LB et LT ont la même taille au repos."
+  ]
+ },
+ {
+  "q": "Concernant la recirculation des lymphocytes, lesquelles sont exactes ?",
+  "options": [
+   "Ils infiltrent les tissus et les organes lymphoïdes.",
+   "Ils représentent 99 % des cellules de la lymphe.",
+   "Ils passent du sang à la lymphe via les ganglions.",
+   "Ils sont absents des muqueuses.",
+   "Ils exercent leurs fonctions en périphérie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : infiltration tissulaire et des OL.",
+   "Vrai : 99 % des cellules de la lymphe.",
+   "Vrai : recirculation sang → ganglion → lymphe.",
+   "Faux : les lymphocytes sont présents dans les muqueuses (MALT).",
+   "Vrai : fonctions exercées en périphérie."
+  ]
+ },
+ {
+  "q": "Concernant l'activation lymphocytaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle fait suite au contact avec l'antigène.",
+   "Elle conduit à la différenciation en cellules effectrices.",
+   "Elle conduit à la formation de cellules mémoire.",
+   "Elle nécessite la présentation antigénique par une CPA.",
+   "Elle est identique pour l'immunité innée et adaptative."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'Ag déclenche l'activation.",
+   "Vrai : différenciation effectrice.",
+   "Vrai : génération de cellules mémoire.",
+   "Vrai : présentation par les CPA (DC, macrophages, LB).",
+   "Faux : l'immunité innée ne nécessite pas d'activation lymphocytaire."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes et les organes lymphoïdes, lesquelles sont exactes ?",
+  "options": [
+   "Les LB maturent dans la moelle osseuse (organe primaire).",
+   "Les LT maturent dans le thymus (organe primaire).",
+   "La rencontre avec l'antigène a lieu dans les organes secondaires.",
+   "Les lymphocytes activés migrent vers les tissus.",
+   "Les lymphocytes naissent dans la rate."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : MO = maturation des LB.",
+   "Vrai : thymus = maturation des LT.",
+   "Vrai : ganglions/rate = activation.",
+   "Vrai : homing des effecteurs vers les tissus.",
+   "Faux : les lymphocytes naissent dans la MO."
+  ]
+ },
+ {
+  "q": "Concernant l'origine et la maturation des lymphocytes T, lesquelles sont exactes ?",
+  "options": [
+   "La séquence est : CSH → CSL → pro-thymocyte → thymocyte dans la moelle osseuse.",
+   "Le thymocyte quitte la moelle osseuse par voie sanguine vers le thymus.",
+   "Le thymocyte prolifère et se différencie dans le thymus.",
+   "Les LT matures quittent le thymus vers la périphérie.",
+   "Les LT maturent entièrement dans la moelle osseuse."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CSH → CSL → pro-thymocyte → thymocyte.",
+   "Vrai : migration sanguine MO → thymus.",
+   "Vrai : prolifération et différenciation thymiques.",
+   "Vrai : les LT matures gagnent la périphérie.",
+   "Faux : la maturation des LT s'achève dans le thymus."
+  ]
+ },
+ {
+  "q": "Concernant le thymocyte précoce double négatif (DN), lesquelles sont exactes ?",
+  "options": [
+   "Il n'exprime ni le CD4 ni le CD8.",
+   "Il n'exprime pas le complexe TCR-CD3.",
+   "C'est le stade le plus précoce du thymocyte.",
+   "Il exprime déjà un TCR fonctionnel.",
+   "Il a subi la sélection thymique positive."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : DN = ni CD4 ni CD8.",
+   "Vrai : pas de TCR-CD3 au stade DN.",
+   "Vrai : stade précoce de la différenciation.",
+   "Faux : le TCR apparaît au stade double positif.",
+   "Faux : la sélection concerne les thymocytes DP."
+  ]
+ },
+ {
+  "q": "Concernant le thymocyte intermédiaire double positif (DP), lesquelles sont exactes ?",
+  "options": [
+   "Il exprime à la fois le CD4 et le CD8.",
+   "Il exprime le TCR.",
+   "C'est à ce stade qu'a lieu la sélection thymique positive.",
+   "Il n'exprime ni CD4 ni CD8.",
+   "Il quitte le thymus vers la périphérie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : DP = CD4+ CD8+.",
+   "Vrai : expression du TCR au stade DP.",
+   "Vrai : sélection positive du répertoire au stade DP.",
+   "Faux : c'est la définition du stade DN.",
+   "Faux : seuls les thymocytes matures SP quittent le thymus."
+  ]
+ },
+ {
+  "q": "Concernant la sélection positive des thymocytes, lesquelles sont exactes ?",
+  "options": [
+   "Elle a lieu au stade double positif.",
+   "Seuls les LT dont le TCR reconnaît le CMH du soi survivent.",
+   "Elle sélectionne le répertoire antigénique.",
+   "Elle élimine les LT auto-réactifs.",
+   "Elle a lieu au stade simple positif."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sélection positive des thymocytes DP.",
+   "Vrai : survie conditionnée à la reconnaissance du CMH du soi.",
+   "Vrai : elle façonne le répertoire T.",
+   "Faux : l'élimination des auto-réactifs = sélection négative.",
+   "Faux : la sélection positive concerne le stade DP."
+  ]
+ },
+ {
+  "q": "Concernant le thymocyte immature simple positif (SP), lesquelles sont exactes ?",
+  "options": [
+   "Il exprime soit le CD4 soit le CD8.",
+   "Il a survécu à la sélection positive.",
+   "Il subit la sélection négative.",
+   "Il exprime à la fois CD4 et CD8.",
+   "Il est déjà un lymphocyte T mature périphérique."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : SP = CD4+ ou CD8+.",
+   "Vrai : le SP est issu d'un DP ayant survécu.",
+   "Vrai : sélection négative au stade SP immature.",
+   "Faux : CD4+CD8+ définit le stade DP.",
+   "Faux : il doit encore achever sa maturation."
+  ]
+ },
+ {
+  "q": "Concernant la sélection négative des thymocytes, lesquelles sont exactes ?",
+  "options": [
+   "Elle a lieu au stade simple positif immature.",
+   "Les LT qui réagissent trop avec le CMH sont éliminés.",
+   "Elle élimine les lymphocytes auto-réactifs.",
+   "Elle conserve les LT reconnaissant fortement le soi.",
+   "Elle a lieu dans la moelle osseuse."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sélection négative des SP immatures.",
+   "Vrai : élimination des LT trop réactifs au CMH.",
+   "Vrai : délétion clonale des auto-réactifs.",
+   "Faux : les LT fortement auto-réactifs sont éliminés.",
+   "Faux : la sélection thymique a lieu dans le thymus."
+  ]
+ },
+ {
+  "q": "Concernant le devenir des thymocytes dans le thymus, lesquelles sont exactes ?",
+  "options": [
+   "95 % des thymocytes meurent dans le thymus par apoptose.",
+   "5 % des thymocytes arrivent à maturité après la sélection.",
+   "L'apoptose élimine les thymocytes non sélectionnés.",
+   "Tous les thymocytes deviennent des LT matures.",
+   "La sélection négative protège contre l'auto-immunité."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : 95 % meurent par apoptose.",
+   "Vrai : 5 % de thymocytes éduqués matures.",
+   "Vrai : l'apoptose est le mécanisme de la sélection.",
+   "Faux : la grande majorité meurt pendant la sélection.",
+   "Vrai : la sélection négative établit la tolérance centrale."
+  ]
+ },
+ {
+  "q": "Concernant les thymocytes matures, lesquelles sont exactes ?",
+  "options": [
+   "Deux types de lymphocytes quittent le thymus.",
+   "Les LT CD4 auxiliaires (helper) représentent 30 à 50 %.",
+   "Les LT CD8 cytotoxiques représentent 20 à 35 %.",
+   "Ils expriment le complexe TCR-CD3.",
+   "Ils n'expriment ni CD4 ni CD8."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CD4 et CD8 quittent le thymus.",
+   "Vrai : LTH = 30-50 %.",
+   "Vrai : LTc = 20-35 %.",
+   "Vrai : les LT matures expriment le TCR-CD3.",
+   "Faux : les matures sont simple positifs CD4 ou CD8."
+  ]
+ },
+ {
+  "q": "Concernant les stades de maturation du thymocyte, lesquelles sont exactes ?",
+  "options": [
+   "DN : ni CD4, ni CD8, ni TCR-CD3.",
+   "DP : CD4+ CD8+ avec TCR, sélection positive.",
+   "SP immature : CD4+ ou CD8+, sélection négative.",
+   "SP mature : quitte le thymus vers la périphérie.",
+   "DN : CD4+ CD8+ avec TCR."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : définition du stade double négatif.",
+   "Vrai : définition du stade double positif.",
+   "Vrai : définition du stade simple positif immature.",
+   "Vrai : les SP matures gagnent la périphérie.",
+   "Faux : CD4+CD8+ avec TCR = stade DP."
+  ]
+ },
+ {
+  "q": "Concernant le thymus, lesquelles sont exactes ?",
+  "options": [
+   "C'est l'organe de maturation des lymphocytes T.",
+   "C'est un organe lymphoïde primaire.",
+   "Le thymocyte y prolifère et s'y différencie.",
+   "La sélection thymique s'y déroule.",
+   "C'est le lieu de maturation des lymphocytes B."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : maturation des LT dans le thymus.",
+   "Vrai : organe lymphoïde central/primaire.",
+   "Vrai : prolifération et différenciation.",
+   "Vrai : sélections positive et négative.",
+   "Faux : les LB maturent dans la moelle osseuse."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes T CD4, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des LT auxiliaires ou helper (LTH).",
+   "Ils représentent 30 à 50 % des LT.",
+   "Le CD4 se lie à la molécule du CMH de classe II.",
+   "Ils ont une activité cytotoxique directe.",
+   "Ils aident les LB et les LT CD8 via des cytokines."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : CD4 = auxiliaires/helper.",
+   "Vrai : 30-50 %.",
+   "Vrai : CD4 = corécepteur du CMH-II.",
+   "Faux : la cytotoxicité directe est le rôle des CD8.",
+   "Vrai : les Th fournissent l'aide cytokiniques."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes T CD8, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des LT cytotoxiques (LTc).",
+   "Ils représentent 20 à 35 % des LT.",
+   "Le CD8 se lie à la molécule du CMH de classe I.",
+   "Ils lysent les cellules infectées ou tumorales.",
+   "Ils produisent des anticorps."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CD8 = cytotoxiques.",
+   "Vrai : 20-35 %.",
+   "Vrai : CD8 = corécepteur du CMH-I.",
+   "Vrai : lyse des cibles via perforine/granzymes.",
+   "Faux : les anticorps sont produits par les plasmocytes."
+  ]
+ },
+ {
+  "q": "Concernant les corécepteurs CD4 et CD8, lesquelles sont exactes ?",
+  "options": [
+   "Le CD4 se lie au CMH de classe II.",
+   "Le CD8 se lie au CMH de classe I.",
+   "Ils participent à la reconnaissance antigénique par le TCR.",
+   "Le CD4 est exprimé par les LT helper.",
+   "Le CD8 est exprimé par les LT helper."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CD4 ↔ CMH-II.",
+   "Vrai : CD8 ↔ CMH-I.",
+   "Vrai : les corécepteurs stabilisent l'interaction TCR-CMH.",
+   "Vrai : CD4 = marqueur des Th.",
+   "Faux : le CD8 marque les LT cytotoxiques."
+  ]
+ },
+ {
+  "q": "Concernant la reconnaissance de l'antigène par les LT, lesquelles sont exactes ?",
+  "options": [
+   "Les LT CD4 reconnaissent l'antigène présenté par le CMH de classe II.",
+   "Les LT CD8 reconnaissent l'antigène présenté par le CMH de classe I.",
+   "Le TCR reconnaît le complexe peptide-CMH.",
+   "Les LT reconnaissent l'antigène natif comme les LB.",
+   "La reconnaissance est restreinte par le CMH du soi."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : CD4 restreint au CMH-II.",
+   "Vrai : CD8 restreint au CMH-I.",
+   "Vrai : le TCR lie le peptide apprêté sur le CMH.",
+   "Faux : les LT ne reconnaissent que l'Ag apprêté, pas l'Ag natif.",
+   "Vrai : restriction par le CMH propre (sélection positive)."
+  ]
+ },
+ {
+  "q": "Concernant l'apoptose des thymocytes, lesquelles sont exactes ?",
+  "options": [
+   "95 % des thymocytes meurent par apoptose dans le thymus.",
+   "Elle élimine les thymocytes dont le TCR ne reconnaît pas le CMH du soi.",
+   "Elle élimine les thymocytes auto-réactifs.",
+   "Elle concerne uniquement le stade double négatif.",
+   "C'est un mécanisme de la tolérance centrale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : 95 % d'apoptose thymique.",
+   "Vrai : échec de la sélection positive = mort.",
+   "Vrai : sélection négative = délétion des auto-réactifs.",
+   "Faux : elle concerne les stades DP et SP.",
+   "Vrai : la sélection thymique établit la tolérance centrale."
+  ]
+ },
+ {
+  "q": "Concernant la tolérance centrale des LT, lesquelles sont exactes ?",
+  "options": [
+   "Elle est établie dans le thymus.",
+   "La sélection négative en est le mécanisme.",
+   "Elle élimine les LT auto-réactifs par apoptose.",
+   "Son défaut expose à l'auto-immunité.",
+   "Elle est établie dans la moelle osseuse."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : tolérance centrale = thymus.",
+   "Vrai : sélection négative.",
+   "Vrai : délétion clonale.",
+   "Vrai : défaut de sélection = auto-immunité.",
+   "Faux : la MO est le lieu de tolérance centrale des LB."
+  ]
+ },
+ {
+  "q": "Concernant le répertoire des lymphocytes T, lesquelles sont exactes ?",
+  "options": [
+   "Il est façonné par la sélection thymique positive.",
+   "Seuls les TCR reconnaissant le CMH du soi sont conservés.",
+   "Il est purgé des spécificités auto-réactives par la sélection négative.",
+   "Il est identique chez tous les individus.",
+   "95 % des thymocytes sont éliminés lors de sa formation."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la sélection positive façonne le répertoire.",
+   "Vrai : restriction au CMH du soi.",
+   "Vrai : la sélection négative purge l'auto-réactivité.",
+   "Faux : le répertoire est propre à chaque individu (CMH, réarrangements).",
+   "Vrai : 95 % d'élimination."
+  ]
+ },
+ {
+  "q": "Concernant les pourcentages des sous-populations T, lesquelles sont exactes ?",
+  "options": [
+   "Les LT CD4 représentent 30 à 50 %.",
+   "Les LT CD8 représentent 20 à 35 %.",
+   "Les NK représentent 5 à 10 % des lymphocytes du sang.",
+   "Les LT CD4 sont moins nombreux que les LT CD8.",
+   "Le rapport CD4/CD8 est normalement supérieur à 1."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : CD4 = 30-50 %.",
+   "Vrai : CD8 = 20-35 %.",
+   "Vrai : NK = 5-10 % des lymphocytes.",
+   "Faux : les CD4 sont plus nombreux que les CD8.",
+   "Vrai : rapport CD4/CD8 > 1 à l'état normal."
+  ]
+ },
+ {
+  "q": "Concernant la sortie du thymus, lesquelles sont exactes ?",
+  "options": [
+   "Seuls 5 % des thymocytes arrivent à maturité.",
+   "Les thymocytes matures sont CD4+ ou CD8+.",
+   "Ils gagnent la périphérie par voie sanguine.",
+   "Tous les thymocytes DP quittent le thymus.",
+   "Les LT matures expriment le TCR-CD3."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : 5 % de thymocytes éduqués.",
+   "Vrai : SP CD4 ou CD8.",
+   "Vrai : migration vers la périphérie.",
+   "Faux : les DP subissent d'abord la sélection.",
+   "Vrai : TCR-CD3 exprimé par les LT matures."
+  ]
+ },
+ {
+  "q": "Concernant les LT naïfs quittant le thymus, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des cellules n'ayant jamais rencontré l'antigène.",
+   "Ils recirculent entre sang et organes lymphoïdes secondaires.",
+   "Ils seront activés par les CPA dans les ganglions.",
+   "Ils sont déjà différenciés en cellules mémoire.",
+   "Ils expriment le CD4 ou le CD8 avec le TCR-CD3."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : définition du LT naïf.",
+   "Vrai : recirculation des naïfs.",
+   "Vrai : activation par les DC dans les OL.",
+   "Faux : la différenciation mémoire suit l'activation.",
+   "Vrai : phénotype SP avec TCR."
+  ]
+ },
+ {
+  "q": "Concernant le complexe TCR/CD3, lesquelles sont exactes ?",
+  "options": [
+   "Le TCR est le récepteur T pour l'antigène.",
+   "Le CD3 est associé au TCR et transmet le signal d'activation.",
+   "Le complexe TCR-CD3 est exprimé par tous les LT matures.",
+   "Le TCR est exprimé par les cellules NK.",
+   "Le stade DN n'exprime pas le complexe TCR-CD3."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : TCR = récepteur antigénique du LT.",
+   "Vrai : le CD3 assure la transduction du signal.",
+   "Vrai : marqueur de la lignée T mature.",
+   "Faux : les NK n'expriment pas le TCR.",
+   "Vrai : le DN n'exprime ni CD4/CD8 ni TCR-CD3."
+  ]
+ },
+ {
+  "q": "Concernant le TCR, lesquelles sont exactes ?",
+  "options": [
+   "Il reconnaît le peptide antigénique présenté par le CMH.",
+   "Il est exprimé avec le CD3 à la surface des LT.",
+   "Il apparaît au stade thymocytaire double positif.",
+   "Il reconnaît l'antigène natif soluble.",
+   "Chaque LT exprime un TCR de spécificité unique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : reconnaissance du complexe peptide-CMH.",
+   "Vrai : complexe TCR-CD3 membranaire.",
+   "Vrai : expression du TCR au stade DP.",
+   "Faux : le TCR ne lie que l'Ag apprêté sur le CMH.",
+   "Vrai : un clone T = une spécificité (exclusion allélique)."
+  ]
+ },
+ {
+  "q": "Concernant les molécules de co-stimulation des LT, lesquelles sont exactes ?",
+  "options": [
+   "La famille du CD28 en fait partie.",
+   "Le CD40L (CD154) en fait partie.",
+   "Elles fournissent le second signal d'activation.",
+   "Le CD80/CD86 des CPA sont leurs ligands.",
+   "Le TCR suffit seul à activer pleinement le LT."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : famille CD28 = co-stimulation.",
+   "Vrai : CD40L (CD154) = molécule de co-stimulation.",
+   "Vrai : signal 1 (TCR) + signal 2 (co-stimulation).",
+   "Vrai : CD28 lie B7-1/B7-2 (CD80/CD86).",
+   "Faux : sans co-stimulation = anergie."
+  ]
+ },
+ {
+  "q": "Concernant le CD28 des lymphocytes T, lesquelles sont exactes ?",
+  "options": [
+   "C'est une molécule de co-stimulation.",
+   "Ses ligands sont B7-1 (CD80) et B7-2 (CD86).",
+   "Il est exprimé de façon constitutive par les LT.",
+   "Il transmet un signal inhibiteur.",
+   "Son engagement est nécessaire à l'activation complète du LT."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : CD28 = co-stimulation.",
+   "Vrai : ligands = CD80/CD86 des CPA.",
+   "Vrai : expression constitutive sur les LT.",
+   "Faux : le CD28 transmet un signal activateur.",
+   "Vrai : second signal indispensable."
+  ]
+ },
+ {
+  "q": "Concernant le CD40L (CD154), lesquelles sont exactes ?",
+  "options": [
+   "C'est une molécule de co-stimulation des LT.",
+   "Il est aussi appelé CD154.",
+   "Il se lie au CD40 des CPA et des LB.",
+   "Il est exprimé par les LT activés.",
+   "C'est le récepteur T pour l'antigène."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CD40L = co-stimulation.",
+   "Vrai : CD40L = CD154.",
+   "Vrai : interaction CD40L-CD40.",
+   "Vrai : induit après activation du LT.",
+   "Faux : le récepteur pour l'Ag est le TCR."
+  ]
+ },
+ {
+  "q": "Concernant les molécules de surface des LT, lesquelles sont exactes ?",
+  "options": [
+   "Complexe TCR/CD3 : reconnaissance de l'antigène.",
+   "CD4 : corécepteur lié au CMH de classe II.",
+   "CD8 : corécepteur lié au CMH de classe I.",
+   "CD28 et CD40L : co-stimulation.",
+   "IgM membranaire : récepteur pour l'antigène."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : TCR/CD3 = reconnaissance.",
+   "Vrai : CD4 ↔ CMH-II.",
+   "Vrai : CD8 ↔ CMH-I.",
+   "Vrai : molécules de co-stimulation.",
+   "Faux : l'IgM membranaire est le BCR des LB."
+  ]
+ },
+ {
+  "q": "Concernant l'activation du lymphocyte T, lesquelles sont exactes ?",
+  "options": [
+   "Elle nécessite la reconnaissance peptide-CMH par le TCR.",
+   "Elle nécessite un signal de co-stimulation.",
+   "Les CPA fournissent les deux signaux.",
+   "Elle conduit à la prolifération clonale.",
+   "Le TCR seul suffit à une activation complète."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : signal 1 = TCR/peptide-CMH.",
+   "Vrai : signal 2 = co-stimulation.",
+   "Vrai : les CPA (DC, macrophages) fournissent les deux.",
+   "Vrai : expansion clonale des LT spécifiques.",
+   "Faux : TCR seul = anergie ou apoptose."
+  ]
+ },
+ {
+  "q": "Concernant les LT et les CPA, lesquelles sont exactes ?",
+  "options": [
+   "Les DC présentent l'antigène aux LT dans les organes lymphoïdes.",
+   "Les macrophages présentent l'antigène via le CMH-II.",
+   "Les LB matures peuvent présenter l'antigène via le CMH-II.",
+   "Les LT CD4 reconnaissent le CMH-II des CPA.",
+   "Les PNN présentent l'antigène aux LT."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : DC = CPA initiatrices.",
+   "Vrai : macrophages = CPA (CMH-II).",
+   "Vrai : LB = CPA (CMH-II).",
+   "Vrai : restriction CD4/CMH-II.",
+   "Faux : les PNN ne sont pas des CPA."
+  ]
+ },
+ {
+  "q": "Concernant le CD3, lesquelles sont exactes ?",
+  "options": [
+   "Il est associé au TCR à la membrane des LT.",
+   "Il transmet le signal d'activation intracellulaire.",
+   "C'est un marqueur pan-T.",
+   "Il est exprimé par les lymphocytes B.",
+   "Il est absent au stade DN."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : complexe TCR-CD3.",
+   "Vrai : transduction du signal.",
+   "Vrai : exprimé par tous les LT.",
+   "Faux : les LB expriment le BCR, pas le CD3.",
+   "Vrai : le DN n'exprime pas le TCR-CD3."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs des LT par rapport à ceux des LB, lesquelles sont exactes ?",
+  "options": [
+   "Le TCR reconnaît l'antigène apprêté sur le CMH.",
+   "Le BCR reconnaît l'antigène natif.",
+   "Le TCR est associé au CD3, le BCR à Igα/Igβ (CD79).",
+   "Les deux sont des récepteurs antigéniques spécifiques.",
+   "Le TCR et le BCR sont identiques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : TCR = peptide-CMH.",
+   "Vrai : BCR = Ag natif.",
+   "Vrai : CD3 vs CD79a/CD79b.",
+   "Vrai : récepteurs spécifiques d'un clone.",
+   "Faux : ce sont deux récepteurs distincts."
+  ]
+ },
+ {
+  "q": "Concernant la signalisation du TCR, lesquelles sont exactes ?",
+  "options": [
+   "Le CD3 transmet le signal après engagement du TCR.",
+   "Les corécepteurs CD4/CD8 recrutent des kinases.",
+   "La co-stimulation par CD28 amplifie le signal.",
+   "Le signal aboutit à l'activation transcriptionnelle du LT.",
+   "Le TCR transmet lui-même le signal sans molécule associée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le CD3 est le transducteur.",
+   "Vrai : CD4/CD8 associés à la kinase Lck.",
+   "Vrai : CD28 = amplification.",
+   "Vrai : activation de facteurs de transcription (NF-κB, NFAT).",
+   "Faux : le TCR a une courte portion intracytoplasmique, le CD3 signale."
+  ]
+ },
+ {
+  "q": "Concernant les marqueurs pan-lymphocytaires T, lesquelles sont exactes ?",
+  "options": [
+   "Le complexe TCR-CD3 est exprimé par tous les LT.",
+   "Le CD2 est exprimé par les LT.",
+   "Le CD4 ou le CD8 est exprimé par les LT matures.",
+   "Le CD19 est un marqueur des LT.",
+   "Le CD56 est un marqueur des LT."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : TCR-CD3 = marqueur de la lignée T.",
+   "Vrai : CD2 exprimé par les LT (et NK).",
+   "Vrai : SP CD4 ou CD8 à maturité.",
+   "Faux : le CD19 est un marqueur des LB.",
+   "Faux : le CD56 est un marqueur des NK."
+  ]
+ },
+ {
+  "q": "Concernant l'origine et la maturation des lymphocytes B, lesquelles sont exactes ?",
+  "options": [
+   "Naissance et maturation dans la moelle osseuse.",
+   "La séquence débute par : CSH → CSL → cellule progénitrice B.",
+   "La cellule pro-B est la première cellule de la lignée B.",
+   "Les LB maturent dans le thymus.",
+   "Les LB naissent dans les ganglions."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la MO est le lieu de naissance et maturation des LB.",
+   "Vrai : CSH → CSL → pro-B.",
+   "Vrai : pro-B = 1ère cellule de la lignée B.",
+   "Faux : le thymus est l'organe des LT.",
+   "Faux : les ganglions sont des organes secondaires."
+  ]
+ },
+ {
+  "q": "Concernant la cellule pro-B, lesquelles sont exactes ?",
+  "options": [
+   "C'est la première cellule de la lignée B.",
+   "Elle prolifère dans un environnement cytokinique.",
+   "Elle se différencie en cellule pré-B.",
+   "Elle exprime déjà une IgM membranaire.",
+   "Elle exprime le TCR."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : pro-B = 1ère cellule de la lignée B.",
+   "Vrai : prolifération sous influence cytokinique.",
+   "Vrai : pro-B → pré-B.",
+   "Faux : l'IgM membranaire apparaît au stade B immature.",
+   "Faux : le TCR est le récepteur des LT."
+  ]
+ },
+ {
+  "q": "Concernant la cellule pré-B, lesquelles sont exactes ?",
+  "options": [
+   "Elle exprime la chaîne lourde µ intracytoplasmique.",
+   "Elle exprime une chaîne légère de substitution.",
+   "Elle exprime le CD79.",
+   "L'ensemble forme le pré-BCR.",
+   "Elle exprime une IgM membranaire complète."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : chaîne µ intracytoplasmique.",
+   "Vrai : chaîne légère de substitution (surrogate).",
+   "Vrai : CD79 exprimé.",
+   "Vrai : µ + surrogate + CD79 = pré-BCR.",
+   "Faux : l'IgM membranaire complète = stade B immature."
+  ]
+ },
+ {
+  "q": "Concernant le pré-BCR, lesquelles sont exactes ?",
+  "options": [
+   "Il est composé de la chaîne lourde µ et d'une chaîne légère de substitution.",
+   "Il est associé au CD79.",
+   "Il est exprimé au stade pré-B.",
+   "Il permet de vérifier la fonctionnalité de la chaîne lourde.",
+   "C'est le récepteur antigénique définitif du LB mature."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : composition du pré-BCR.",
+   "Vrai : association au CD79.",
+   "Vrai : stade pré-B.",
+   "Vrai : contrôle qualité de la chaîne µ.",
+   "Faux : le BCR définitif (IgM/IgD) apparaît aux stades suivants."
+  ]
+ },
+ {
+  "q": "Concernant le CD79, lesquelles sont exactes ?",
+  "options": [
+   "Il est composé d'Igα (CD79a) et d'Igβ (CD79b).",
+   "Il est associé au pré-BCR au stade pré-B.",
+   "Il fait partie du BCR du LB mature.",
+   "Il transmet le signal après engagement du BCR.",
+   "C'est un marqueur des lymphocytes T."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Igα (CD79a) + Igβ (CD79b).",
+   "Vrai : pré-BCR associé au CD79.",
+   "Vrai : BCR = IgM + 2[Igα + Igβ].",
+   "Vrai : transduction du signal du BCR.",
+   "Faux : le CD79 est un marqueur de la lignée B."
+  ]
+ },
+ {
+  "q": "Concernant la différenciation pro-B → pré-B, lesquelles sont exactes ?",
+  "options": [
+   "Elle a lieu dans la moelle osseuse.",
+   "Elle s'accompagne du réarrangement des gènes d'immunoglobuline.",
+   "La chaîne lourde µ est produite en premier.",
+   "La chaîne légère est produite avant la chaîne lourde.",
+   "Elle nécessite la rencontre avec l'antigène."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : différenciation médullaire.",
+   "Vrai : réarrangement VDJ des gènes Ig.",
+   "Vrai : la chaîne lourde précède la chaîne légère.",
+   "Faux : la chaîne légère est synthétisée après la lourde.",
+   "Faux : la différenciation précoce est indépendante de l'Ag."
+  ]
+ },
+ {
+  "q": "Concernant la cellule B immature, lesquelles sont exactes ?",
+  "options": [
+   "Elle exprime la chaîne légère d'immunoglobuline.",
+   "Elle exprime une IgM membranaire : BCR fonctionnel.",
+   "Elle subit une sélection négative dans la moelle osseuse.",
+   "Le LB auto-réactif est éliminé par apoptose.",
+   "Elle se différencie directement en plasmocyte."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : synthèse de la chaîne légère au stade immature.",
+   "Vrai : IgM membranaire = BCR fonctionnel.",
+   "Vrai : sélection négative médullaire.",
+   "Vrai : les B auto-réactifs meurent par apoptose.",
+   "Faux : le plasmocyte dérive du LB mature activé."
+  ]
+ },
+ {
+  "q": "Concernant la sélection négative des LB, lesquelles sont exactes ?",
+  "options": [
+   "Elle a lieu au stade B immature dans la moelle osseuse.",
+   "Le LB portant un BCR auto-réactif est éliminé.",
+   "L'élimination se fait par apoptose.",
+   "95 % des LB immatures meurent dans la moelle osseuse.",
+   "Elle a lieu dans le thymus."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sélection négative médullaire des B immatures.",
+   "Vrai : délétion des B auto-réactifs.",
+   "Vrai : mort par apoptose.",
+   "Vrai : 95 % des LB immatures meurent dans la MO.",
+   "Faux : le thymus est l'organe de sélection des LT."
+  ]
+ },
+ {
+  "q": "Concernant la tolérance centrale des LB, lesquelles sont exactes ?",
+  "options": [
+   "Elle est établie dans la moelle osseuse.",
+   "La sélection négative des B immatures en est le mécanisme.",
+   "Elle élimine les LB auto-réactifs.",
+   "Son défaut expose à l'auto-immunité.",
+   "Elle est établie dans le thymus."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : tolérance centrale B = MO.",
+   "Vrai : sélection négative.",
+   "Vrai : délétion des auto-réactifs.",
+   "Vrai : défaut = risque auto-immun.",
+   "Faux : le thymus concerne les LT."
+  ]
+ },
+ {
+  "q": "Concernant la cellule B mature, lesquelles sont exactes ?",
+  "options": [
+   "C'est le LB qui a survécu à la sélection négative.",
+   "Il quitte la moelle osseuse vers les organes périphériques.",
+   "Il rencontre l'antigène en périphérie.",
+   "Il se différencie en plasmocyte sécréteur d'Ig.",
+   "Il reste dans la moelle osseuse toute sa vie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : survie à la sélection = maturité.",
+   "Vrai : sortie médullaire vers la périphérie.",
+   "Vrai : rencontre antigénique périphérique.",
+   "Vrai : différenciation en plasmocyte.",
+   "Faux : le LB mature gagne les organes périphériques."
+  ]
+ },
+ {
+  "q": "Concernant le plasmocyte, lesquelles sont exactes ?",
+  "options": [
+   "Il dérive du lymphocyte B mature activé.",
+   "C'est une cellule sécrétrice d'immunoglobulines.",
+   "Il ne porte plus d'Ig membranaire en grande quantité.",
+   "C'est une cellule de l'immunité adaptative humorale.",
+   "Il présente l'antigène aux lymphocytes T."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : différenciation terminale du LB.",
+   "Vrai : usine à anticorps.",
+   "Vrai : perte du BCR membranaire au profit de la sécrétion.",
+   "Vrai : effecteur de l'immunité humorale.",
+   "Faux : le plasmocyte n'est pas une CPA."
+  ]
+ },
+ {
+  "q": "Concernant les stades de maturation du LB, lesquelles sont exactes ?",
+  "options": [
+   "Pro-B : première cellule de la lignée B.",
+   "Pré-B : chaîne µ + chaîne légère de substitution + CD79 (pré-BCR).",
+   "B immature : IgM membranaire, sélection négative.",
+   "B mature : quitte la MO, se différencie en plasmocyte après Ag.",
+   "Pré-B : IgM membranaire complète."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pro-B = 1ère cellule.",
+   "Vrai : composition du pré-BCR.",
+   "Vrai : B immature = IgM + sélection négative.",
+   "Vrai : B mature → plasmocyte.",
+   "Faux : l'IgM complète apparaît au stade B immature."
+  ]
+ },
+ {
+  "q": "Concernant la mort des LB immatures, lesquelles sont exactes ?",
+  "options": [
+   "95 % des LB immatures meurent dans la moelle osseuse.",
+   "La mort survient par apoptose.",
+   "Elle élimine les LB auto-réactifs.",
+   "Elle fait partie de la sélection négative.",
+   "Tous les LB immatures survivent et maturent."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 95 % de mortalité médullaire.",
+   "Vrai : apoptose.",
+   "Vrai : délétion des auto-réactifs.",
+   "Vrai : mécanisme de la sélection négative.",
+   "Faux : seule une minorité survit."
+  ]
+ },
+ {
+  "q": "Concernant le BCR fonctionnel, lesquelles sont exactes ?",
+  "options": [
+   "Il apparaît au stade B immature.",
+   "C'est une IgM membranaire.",
+   "Il est associé à Igα/Igβ (CD79).",
+   "Il permet la reconnaissance de l'antigène.",
+   "Il apparaît au stade pré-B."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : BCR fonctionnel au stade B immature.",
+   "Vrai : IgM membranaire.",
+   "Vrai : association au CD79.",
+   "Vrai : reconnaissance antigénique.",
+   "Faux : le stade pré-B exprime le pré-BCR."
+  ]
+ },
+ {
+  "q": "Concernant les LB matures en périphérie, lesquelles sont exactes ?",
+  "options": [
+   "Ils expriment l'IgM et l'IgD membranaires.",
+   "Ils expriment le CMH de classe II.",
+   "Ils peuvent présenter l'antigène (CPA).",
+   "Ils expriment les molécules de co-stimulation B7 et CD40.",
+   "Ils sécrètent spontanément des anticorps."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IgM + IgD membranaires.",
+   "Vrai : CMH-II = CPA.",
+   "Vrai : les LB sont des CPA.",
+   "Vrai : B7-1/B7-2 et CD40.",
+   "Faux : la sécrétion nécessite l'activation et la différenciation en plasmocyte."
+  ]
+ },
+ {
+  "q": "Concernant l'activation du lymphocyte B mature, lesquelles sont exactes ?",
+  "options": [
+   "Elle fait suite à la reconnaissance de l'antigène par le BCR.",
+   "L'aide des LT helper via CD40L-CD40 est souvent nécessaire.",
+   "Elle conduit à la différenciation en plasmocyte.",
+   "Elle conduit à la formation de LB mémoire.",
+   "Elle a lieu dans la moelle osseuse."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : engagement du BCR par l'Ag.",
+   "Vrai : interaction CD40L-CD40 pour les Ag thymo-dépendants.",
+   "Vrai : différenciation en plasmocytes.",
+   "Vrai : génération de LB mémoire.",
+   "Faux : l'activation a lieu dans les organes lymphoïdes secondaires."
+  ]
+ },
+ {
+  "q": "Concernant l'IgD du lymphocyte B mature, lesquelles sont exactes ?",
+  "options": [
+   "Elle est exprimée à côté de l'IgM à la membrane.",
+   "Elle fait partie du BCR avec l'IgM.",
+   "Elle est exprimée par le LB mature en périphérie.",
+   "Elle est l'isotype majoritaire du sérum.",
+   "Elle est exprimée au stade pré-B."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : IgD à côté de l'IgM.",
+   "Vrai : BCR = IgM + IgD membranaires.",
+   "Vrai : LB mature périphérique.",
+   "Faux : l'isotype sérique majoritaire est l'IgG.",
+   "Faux : le stade pré-B exprime le pré-BCR."
+  ]
+ },
+ {
+  "q": "Concernant la composition du BCR, lesquelles sont exactes ?",
+  "options": [
+   "BCR = IgM + 2[Igα (CD79a) + Igβ (CD79b)].",
+   "Igα correspond au CD79a.",
+   "Igβ correspond au CD79b.",
+   "Igα/Igβ transmettent le signal d'activation.",
+   "Le BCR est composé uniquement d'IgM sans molécule associée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : formule du BCR.",
+   "Vrai : Igα = CD79a.",
+   "Vrai : Igβ = CD79b.",
+   "Vrai : transduction du signal par le CD79.",
+   "Faux : l'IgM est associée à Igα/Igβ."
+  ]
+ },
+ {
+  "q": "Concernant le corécepteur du lymphocyte B, lesquelles sont exactes ?",
+  "options": [
+   "Il comprend le CD21.",
+   "Le CD21 est le récepteur du complément CR2.",
+   "Il comprend le CD19.",
+   "Il comprend le CD81.",
+   "Il comprend le CD3."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CD21 = corécepteur B.",
+   "Vrai : CD21 = CR2, récepteur du complément.",
+   "Vrai : CD19 = corécepteur B.",
+   "Vrai : CD81 = corécepteur B.",
+   "Faux : le CD3 est associé au TCR des LT."
+  ]
+ },
+ {
+  "q": "Concernant le CD21 (CR2), lesquelles sont exactes ?",
+  "options": [
+   "C'est un corécepteur du lymphocyte B.",
+   "C'est un récepteur du complément.",
+   "Il lie les fragments du complément fixés sur l'antigène.",
+   "Il abaisse le seuil d'activation du LB.",
+   "C'est un marqueur des lymphocytes T."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CD21 = corécepteur B.",
+   "Vrai : CR2 = récepteur du complément.",
+   "Vrai : reconnaissance des Ag opsonisés par le complément.",
+   "Vrai : co-stimulation du LB.",
+   "Faux : marqueur de la lignée B."
+  ]
+ },
+ {
+  "q": "Concernant le CD19 du lymphocyte B, lesquelles sont exactes ?",
+  "options": [
+   "C'est un corécepteur du LB.",
+   "C'est un marqueur pan-B.",
+   "Il participe à la transduction du signal du BCR.",
+   "Il est exprimé dès les stades précoces de la lignée B.",
+   "C'est un marqueur des cellules NK."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CD19 = corécepteur.",
+   "Vrai : exprimé par (quasi) tous les LB.",
+   "Vrai : amplification du signal BCR.",
+   "Vrai : expression précoce dans la lignée B.",
+   "Faux : les NK expriment CD16, CD2, CD56."
+  ]
+ },
+ {
+  "q": "Concernant le LB comme CPA, lesquelles sont exactes ?",
+  "options": [
+   "Le LB mature exprime les molécules du CMH de classe II.",
+   "Il capture l'antigène via son BCR.",
+   "Il présente l'antigène apprêté aux LT helper.",
+   "Il exprime le complexe TCR-CD3 pour reconnaître l'antigène.",
+   "Il exprime le CD40 qui interagit avec le CD40L des LT."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : CMH-II = marqueur de CPA.",
+   "Vrai : capture spécifique via le BCR.",
+   "Vrai : présentation aux TH.",
+   "Faux : le TCR-CD3 est le récepteur des LT, pas des LB.",
+   "Vrai : interaction CD40-CD40L."
+  ]
+ },
+ {
+  "q": "Concernant les molécules de co-stimulation du LB, lesquelles sont exactes ?",
+  "options": [
+   "B7-1 (CD80) est exprimée par le LB.",
+   "B7-2 (CD86) est exprimée par le LB.",
+   "Le CD40 est exprimé par le LB.",
+   "Elles sont communes avec les macrophages et les DC.",
+   "Le CD28 est exprimé par le LB."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : B7-1 (CD80).",
+   "Vrai : B7-2 (CD86).",
+   "Vrai : CD40.",
+   "Vrai : CPA partagent ces molécules.",
+   "Faux : le CD28 est la molécule de co-stimulation des LT."
+  ]
+ },
+ {
+  "q": "Concernant les molécules de surface du LB mature, lesquelles sont exactes ?",
+  "options": [
+   "IgM et IgD membranaires (BCR).",
+   "Igα (CD79a) et Igβ (CD79b).",
+   "Corécepteur : CD21, CD19, CD81.",
+   "CMH de classe II.",
+   "TCR-CD3."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : IgM/IgD = BCR.",
+   "Vrai : CD79a/CD79b associés.",
+   "Vrai : complexe corécepteur.",
+   "Vrai : CPA.",
+   "Faux : le TCR-CD3 est le récepteur des LT."
+  ]
+ },
+ {
+  "q": "Concernant la reconnaissance antigénique par le LB, lesquelles sont exactes ?",
+  "options": [
+   "Le BCR reconnaît l'antigène natif.",
+   "Chaque LB exprime un BCR de spécificité unique.",
+   "Le CD79 transmet le signal après engagement du BCR.",
+   "Le corécepteur CD21/CD19/CD81 module l'activation.",
+   "Le LB reconnaît l'antigène apprêté sur le CMH."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le BCR lie l'Ag natif.",
+   "Vrai : un clone B = une spécificité.",
+   "Vrai : transduction par Igα/Igβ.",
+   "Vrai : modulation par le corécepteur.",
+   "Faux : la reconnaissance sur le CMH est le propre du TCR."
+  ]
+ },
+ {
+  "q": "Concernant les LB et les LT : comparaison, lesquelles sont exactes ?",
+  "options": [
+   "Les deux naissent dans la moelle osseuse.",
+   "Les LB maturent dans la MO, les LT dans le thymus.",
+   "Les deux subissent une sélection négative (95 % éliminés).",
+   "Le BCR reconnaît l'Ag natif, le TCR l'Ag apprêté sur le CMH.",
+   "Les deux produisent des anticorps."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : origine médullaire commune.",
+   "Vrai : MO vs thymus.",
+   "Vrai : 95 % d'élimination dans les deux lignées.",
+   "Vrai : Ag natif vs peptide-CMH.",
+   "Faux : seuls les LB (plasmocytes) produisent des anticorps."
+  ]
+ },
+ {
+  "q": "Concernant l'exploration quantitative des cellules du SI, lesquelles sont exactes ?",
+  "options": [
+   "La NFS (numération formule sanguine) est l'examen quantitatif.",
+   "Elle renseigne sur l'élévation du nombre de cellules sanguines.",
+   "Elle renseigne sur la diminution du nombre de cellules sanguines.",
+   "Elle étudie les marqueurs CD des cellules.",
+   "Elle permet le diagnostic des leucémies."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la NFS = étude quantitative.",
+   "Vrai : détection des augmentations (hyperleucocytoses).",
+   "Vrai : détection des diminutions (leucopénies).",
+   "Faux : l'étude des CD relève de la cytométrie de flux.",
+   "Faux : la NFS seule ne suffit pas au diagnostic de leucémie."
+  ]
+ },
+ {
+  "q": "Concernant le frottis sanguin, lesquelles sont exactes ?",
+  "options": [
+   "C'est une étude qualitative des cellules du SI.",
+   "Il permet l'étude cytologique des cellules sanguines.",
+   "Il permet d'apprécier la morphologie des polynucléaires.",
+   "Il quantifie précisément chaque population leucocytaire.",
+   "Il étudie les marqueurs de surface CD."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le frottis = étude qualitative.",
+   "Vrai : cytologie des cellules.",
+   "Vrai : morphologie des PN (lobes, granulations).",
+   "Faux : la quantification précise relève de la NFS.",
+   "Faux : les CD sont étudiés par cytométrie de flux."
+  ]
+ },
+ {
+  "q": "Concernant l'immuno-phénotypage par cytométrie de flux, lesquelles sont exactes ?",
+  "options": [
+   "C'est une étude qualitative des cellules du SI.",
+   "Il étudie les marqueurs spécifiques (CD) de chaque cellule.",
+   "Il permet de distinguer les lignées lymphocytaires.",
+   "Il utilise des anticorps monoclonaux marqués.",
+   "Il remplace la NFS pour la quantification."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : étude qualitative.",
+   "Vrai : phénotypage par les CD.",
+   "Vrai : distinction LB/LT/NK par les marqueurs.",
+   "Vrai : anticorps anti-CD fluorescents.",
+   "Faux : la NFS reste l'examen quantitatif de référence."
+  ]
+ },
+ {
+  "q": "Concernant l'exploration des cellules du SI, lesquelles sont exactes ?",
+  "options": [
+   "Étude quantitative : NFS.",
+   "Étude qualitative : frottis sanguin (cytologie).",
+   "Étude qualitative : immuno-phénotypage par cytométrie de flux.",
+   "La cytométrie étudie les marqueurs CD.",
+   "Le frottis étudie les marqueurs CD."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : NFS = quantitatif.",
+   "Vrai : frottis = cytologie.",
+   "Vrai : cytométrie = phénotypage.",
+   "Vrai : les CD sont les cibles de la cytométrie.",
+   "Faux : le frottis étudie la morphologie, pas les CD."
+  ]
+ },
+ {
+  "q": "Concernant la cytométrie de flux en hématologie, lesquelles sont exactes ?",
+  "options": [
+   "Elle identifie les populations par leurs CD.",
+   "Elle distingue un LB (CD19+) d'un LT (CD3+).",
+   "Elle identifie les NK (CD56+, CD16+).",
+   "Elle est utile au diagnostic des leucémies.",
+   "Elle mesure la taille des cellules uniquement."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : phénotypage par les marqueurs.",
+   "Vrai : CD19 vs CD3.",
+   "Vrai : CD56/CD16 = NK.",
+   "Vrai : classification des hémopathies.",
+   "Faux : elle analyse aussi la granularité et les marqueurs."
+  ]
+ },
+ {
+  "q": "Concernant la NFS, lesquelles sont exactes ?",
+  "options": [
+   "Elle quantifie les polynucléaires neutrophiles.",
+   "Elle quantifie les lymphocytes.",
+   "Elle quantifie les monocytes.",
+   "Elle identifie les sous-populations lymphocytaires T et B.",
+   "Elle détecte les leucopénies."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : numération des PNN.",
+   "Vrai : numération des lymphocytes.",
+   "Vrai : numération des monocytes.",
+   "Faux : la distinction T/B nécessite la cytométrie.",
+   "Vrai : détection des baisses (leucopénies)."
+  ]
+ },
+ {
+  "q": "Concernant le frottis sanguin en pratique, lesquelles sont exactes ?",
+  "options": [
+   "Il visualise les granulations des polynucléaires.",
+   "Il visualise la forme du noyau (lobes).",
+   "Il permet de repérer des cellules anormales (blastes).",
+   "Il dose les immunoglobulines sériques.",
+   "Il remplace la cytométrie de flux."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : granulations visibles.",
+   "Vrai : noyaux polylobés/bilobés.",
+   "Vrai : dépistage morphologique des blastes.",
+   "Faux : les Ig sont dosées par électrophorèse/immunoessais.",
+   "Faux : examens complémentaires."
+  ]
+ },
+ {
+  "q": "Concernant l'exploration d'une lymphocytose, lesquelles sont exactes ?",
+  "options": [
+   "La NFS objective l'augmentation des lymphocytes.",
+   "Le frottis en apprécie la morphologie.",
+   "La cytométrie précise le phénotype (B ou T).",
+   "La cytométrie distingue une prolifération bénigne d'une maligne.",
+   "La NFS suffit à affirmer une leucémie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la NFS quantifie.",
+   "Vrai : le frottis étudie la cytologie.",
+   "Vrai : phénotypage B/T.",
+   "Vrai : aide au diagnostic différentiel.",
+   "Faux : le diagnostic de leucémie nécessite myélogramme et phénotypage."
+  ]
+ },
+ {
+  "q": "Concernant les déficits des cellules du SI, lesquelles sont exactes ?",
+  "options": [
+   "Ils peuvent être primitifs ou acquis.",
+   "L'aplasie médullaire en est un exemple.",
+   "Les leucopénies en sont un exemple.",
+   "Les lymphopénies en sont un exemple.",
+   "Les lymphomes en sont un exemple."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : déficits primitifs ou acquis.",
+   "Vrai : l'aplasie médullaire = déficit quantitatif.",
+   "Vrai : leucopénies = déficits.",
+   "Vrai : lymphopénies = déficits.",
+   "Faux : les lymphomes sont des proliférations malignes."
+  ]
+ },
+ {
+  "q": "Concernant l'aplasie médullaire, lesquelles sont exactes ?",
+  "options": [
+   "C'est un déficit quantitatif des cellules du SI.",
+   "Elle touche les trois lignées sanguines.",
+   "Elle expose aux infections.",
+   "C'est une prolifération maligne.",
+   "Elle se traduit par une pancytopénie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : déficit de production médullaire.",
+   "Vrai : atteinte des lignées rouge, blanche, plaquettaire.",
+   "Vrai : risque infectieux par neutropénie.",
+   "Faux : c'est un déficit, pas une prolifération.",
+   "Vrai : pancytopénie caractéristique."
+  ]
+ },
+ {
+  "q": "Concernant les leucopénies et lymphopénies, lesquelles sont exactes ?",
+  "options": [
+   "La leucopénie est une diminution des globules blancs.",
+   "La lymphopénie est une diminution des lymphocytes.",
+   "Elles sont détectées par la NFS.",
+   "Elles exposent aux infections.",
+   "Ce sont des proliférations malignes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : définition de la leucopénie.",
+   "Vrai : définition de la lymphopénie.",
+   "Vrai : la NFS les objective.",
+   "Vrai : déficit immunitaire = infections.",
+   "Faux : ce sont des déficits quantitatifs."
+  ]
+ },
+ {
+  "q": "Concernant les proliférations bénignes des cellules du SI, lesquelles sont exactes ?",
+  "options": [
+   "Les hyperleucocytoses en sont un exemple.",
+   "Les lymphocytoses en sont un exemple.",
+   "Elles peuvent être réactionnelles à une infection.",
+   "Elles sont toujours malignes.",
+   "La NFS les met en évidence."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : hyperleucocytoses = proliférations bénignes.",
+   "Vrai : lymphocytoses bénignes.",
+   "Vrai : souvent réactionnelles (infections virales...).",
+   "Faux : elles sont bénignes par définition.",
+   "Vrai : la NFS objective l'augmentation."
+  ]
+ },
+ {
+  "q": "Concernant les proliférations malignes des cellules du SI, lesquelles sont exactes ?",
+  "options": [
+   "Les leucémies lymphoïdes B en sont un exemple.",
+   "Les leucémies lymphoïdes T en sont un exemple.",
+   "Les lymphomes en sont un exemple.",
+   "Le diagnostic repose sur la cytologie et le phénotypage.",
+   "Les hyperleucocytoses en sont un exemple."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : leucémies lymphoïdes B.",
+   "Vrai : leucémies lymphoïdes T.",
+   "Vrai : lymphomes = proliférations malignes.",
+   "Vrai : frottis, myélogramme, cytométrie.",
+   "Faux : les hyperleucocytoses sont des proliférations bénignes."
+  ]
+ },
+ {
+  "q": "Concernant les pathologies des cellules du SI, lesquelles sont exactes ?",
+  "options": [
+   "On distingue les déficits et les proliférations.",
+   "Les déficits peuvent être primitifs ou acquis.",
+   "Les proliférations peuvent être bénignes ou malignes.",
+   "L'aplasie médullaire est un déficit.",
+   "La lymphocytose est une prolifération maligne."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : deux grandes catégories.",
+   "Vrai : primitifs ou acquis.",
+   "Vrai : bénignes ou malignes.",
+   "Vrai : déficit médullaire.",
+   "Faux : la lymphocytose est une prolifération bénigne."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic des hémopathies lymphoïdes, lesquelles sont exactes ?",
+  "options": [
+   "La NFS oriente par la quantification.",
+   "Le frottis sanguin montre la cytologie.",
+   "La cytométrie de flux précise le phénotype (B ou T).",
+   "Le myélogramme étudie la moelle osseuse.",
+   "La NFS suffit à elle seule au diagnostic."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la NFS est l'examen d'orientation.",
+   "Vrai : cytologie au frottis.",
+   "Vrai : immuno-phénotypage.",
+   "Vrai : examen médullaire.",
+   "Faux : le diagnostic nécessite plusieurs examens."
+  ]
+ },
+ {
+  "q": "Concernant les déficits primitifs du SI, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont d'origine génétique.",
+   "Ils peuvent toucher la lignée lymphoïde.",
+   "Ils exposent aux infections récidivantes.",
+   "L'aplasie médullaire peut être primitive.",
+   "Ils sont toujours acquis après une infection."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : déficits primitifs = génétiques.",
+   "Vrai : atteinte possible des lymphocytes.",
+   "Vrai : infections récidivantes/sévères.",
+   "Vrai : aplasie primitive possible.",
+   "Faux : les déficits primitifs sont constitutionnels, non acquis."
+  ]
+ },
+ {
+  "q": "Concernant les cellules NK et les phagocytes mononucléés, lesquelles sont exactes ?",
+  "options": [
+   "Les deux appartiennent à l'immunité innée.",
+   "Les deux sont à cheval entre immunité innée et adaptative.",
+   "Les NK lysent par perforine/granzymes, les macrophages phagocytent.",
+   "Les macrophages présentent l'antigène, les NK non.",
+   "Les deux produisent des anticorps."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cellules de l'immunité innée.",
+   "Vrai : NK et macrophages relient les deux immunités.",
+   "Vrai : lyse vs phagocytose.",
+   "Vrai : macrophages = CPA, NK = non CPA.",
+   "Faux : aucune de ces cellules ne produit d'anticorps."
+  ]
+ },
+ {
+  "q": "Concernant les CPA citées dans le cours, lesquelles sont exactes ?",
+  "options": [
+   "Les macrophages expriment CMH-II, CD80, CD86, CD40.",
+   "Les cellules dendritiques expriment CMH-II, CD80, CD86, CD40.",
+   "Les LB matures expriment CMH-II, CD80, CD86, CD40.",
+   "Les cellules dendritiques sont les plus puissantes CPA.",
+   "Les PNN sont des CPA professionnelles."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : phénotype CPA des macrophages.",
+   "Vrai : phénotype CPA des DC.",
+   "Vrai : phénotype CPA des LB matures.",
+   "Vrai : les DC sont de puissantes CPA.",
+   "Faux : les PNN sont des phagocytes, pas des CPA."
+  ]
+ },
+ {
+  "q": "Concernant les molécules de co-stimulation partagées par les CPA, lesquelles sont exactes ?",
+  "options": [
+   "B7-1 (CD80) est exprimée par macrophages, DC et LB.",
+   "B7-2 (CD86) est exprimée par macrophages, DC et LB.",
+   "Le CD40 est exprimé par macrophages, DC et LB.",
+   "Le CMH de classe II est exprimé par ces trois CPA.",
+   "Le TCR est exprimé par ces trois CPA."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CD80 commun aux CPA.",
+   "Vrai : CD86 commun aux CPA.",
+   "Vrai : CD40 commun aux CPA.",
+   "Vrai : CMH-II = marqueur des CPA.",
+   "Faux : le TCR est le récepteur des LT."
+  ]
+ },
+ {
+  "q": "Concernant les granulocytes et les mastocytes, lesquelles sont exactes ?",
+  "options": [
+   "Les PNN, PNE, PNB et mastocytes appartiennent à l'immunité innée.",
+   "Les PNE et les mastocytes interviennent dans l'allergie.",
+   "Les PNB et les mastocytes libèrent de l'histamine.",
+   "Les PNN ont pour fonction principale la phagocytose.",
+   "Les mastocytes sont des polynucléaires."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : tous de l'immunité innée.",
+   "Vrai : rôle dans les réactions allergiques.",
+   "Vrai : histamine = médiateur commun.",
+   "Vrai : phagocytose = fonction des PNN.",
+   "Faux : les mastocytes ne sont pas des polynucléaires."
+  ]
+ },
+ {
+  "q": "Concernant les proportions des cellules de l'immunité innée, lesquelles sont exactes ?",
+  "options": [
+   "Cellules NK : 5 à 10 % des lymphocytes du sang.",
+   "PNN : 40 à 75 % des globules blancs.",
+   "Cellules dendritiques : 0,3 % des cellules du sang.",
+   "PNE : 20 à 30 % des globules blancs.",
+   "Lymphocytes : 40 à 75 % des globules blancs."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : NK = 5-10 % des lymphocytes.",
+   "Vrai : PNN = 40-75 % des GB.",
+   "Vrai : DC = 0,3 % des cellules sanguines.",
+   "Faux : les PNE = 1-5 % des GB.",
+   "Faux : les lymphocytes = 20-30 % des GB."
+  ]
+ },
+ {
+  "q": "Concernant les tailles cellulaires, lesquelles sont exactes ?",
+  "options": [
+   "Petit lymphocyte : 7 à 10 µm.",
+   "Cellule NK : 10 à 12 µm.",
+   "Le PNN est plus grand que le petit lymphocyte.",
+   "Le petit lymphocyte est plus grand que la cellule NK.",
+   "Le mastocyte est une petite cellule de 7 µm."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : lymphocyte = 7-10 µm.",
+   "Vrai : NK = 10-12 µm (grand lymphocyte).",
+   "Vrai : les PNN sont plus grands que les lymphocytes.",
+   "Faux : la NK (10-12 µm) est plus grande que le lymphocyte.",
+   "Faux : le mastocyte est une cellule tissulaire de taille variable, non décrite ainsi."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs Fc, lesquelles sont exactes ?",
+  "options": [
+   "Le CD16 (FcγRIII) est exprimé par les NK.",
+   "Le CD16 permet l'ADCC.",
+   "Les mastocytes et PNB portent des récepteurs pour les IgE.",
+   "Le CD21 est un récepteur du complément.",
+   "Le TCR est un récepteur Fc."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CD16 = FcγRIII des NK.",
+   "Vrai : ADCC via le CD16.",
+   "Vrai : récepteurs Fcε sur mastocytes et PNB.",
+   "Vrai : CD21 = CR2, récepteur du complément.",
+   "Faux : le TCR est le récepteur antigénique des LT."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines des cellules du SI, lesquelles sont exactes ?",
+  "options": [
+   "Les macrophages sécrètent le TNFα.",
+   "Les macrophages sécrètent l'IFNγ.",
+   "Les NK produisent de l'IFNγ.",
+   "Le TNFα est pro-inflammatoire.",
+   "Les lymphocytes B sécrètent de l'histamine."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : TNFα = cytokine des macrophages.",
+   "Vrai : IFNγ = cytokine des macrophages.",
+   "Vrai : les NK produisent de l'IFNγ.",
+   "Vrai : le TNFα est pro-inflammatoire.",
+   "Faux : l'histamine est libérée par mastocytes et PNB."
+  ]
+ },
+ {
+  "q": "Concernant les cellules et le CMH, lesquelles sont exactes ?",
+  "options": [
+   "Le CMH-I est reconnu par les récepteurs inhibiteurs des NK.",
+   "Le CMH-II est exprimé par les CPA (macrophages, DC, LB).",
+   "Le CD4 se lie au CMH-II, le CD8 au CMH-I.",
+   "Toutes les cellules nucléées expriment le CMH-I.",
+   "Les PNN expriment fortement le CMH-II."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ligands des KIR/CLIR.",
+   "Vrai : CMH-II = marqueur des CPA.",
+   "Vrai : corécepteurs CD4/CD8.",
+   "Vrai : CMH-I ubiquitaire sur les cellules nucléées.",
+   "Faux : les PNN ne sont pas des CPA."
+  ]
+ },
+ {
+  "q": "Concernant la phagocytose, lesquelles sont exactes ?",
+  "options": [
+   "Les PNN sont des phagocytes.",
+   "Les monocytes/macrophages sont des phagocytes.",
+   "Les DC immatures sont phagocytaires.",
+   "La phagocytose des PNE est inférieure à celle des PNN.",
+   "Les lymphocytes B sont des phagocytes professionnels."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : fonction principale des PNN.",
+   "Vrai : phagocytes mononucléés.",
+   "Vrai : capture antigénique par les DC immatures.",
+   "Vrai : PNE < PNN.",
+   "Faux : les LB sont des cellules adaptatives, pas des phagocytes."
+  ]
+ },
+ {
+  "q": "Concernant l'allergie et les cellules, lesquelles sont exactes ?",
+  "options": [
+   "Le mastocyte est la cellule de l'hypersensibilité immédiate (type I).",
+   "Les PNE interviennent dans les allergies.",
+   "Les PNB libèrent de l'histamine.",
+   "L'histamine est un médiateur préformé des mastocytes.",
+   "Les LT CD8 sont les cellules de l'allergie immédiate."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : mastocyte = type I.",
+   "Vrai : PNE dans les terrains allergiques.",
+   "Vrai : PNB = médiateurs de l'inflammation.",
+   "Vrai : histamine préformée.",
+   "Faux : les CD8 sont cytotoxiques, pas allergiques."
+  ]
+ },
+ {
+  "q": "Concernant les médiateurs de l'inflammation, lesquelles sont exactes ?",
+  "options": [
+   "Histamine : médiateur préformé des mastocytes.",
+   "PAF-acether : médiateur préformé des mastocytes.",
+   "Prostaglandines : médiateurs néoformés des mastocytes.",
+   "Leucotriènes : médiateurs néoformés des mastocytes.",
+   "Perforine : médiateur des mastocytes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : histamine préformée.",
+   "Vrai : PAF-acether préformé.",
+   "Vrai : PG néoformées.",
+   "Vrai : LT néoformés.",
+   "Faux : la perforine est le médiateur des NK et LT CD8."
+  ]
+ },
+ {
+  "q": "Concernant les sélections lymphocytaires, lesquelles sont exactes ?",
+  "options": [
+   "Sélection positive des LT : stade DP, survie si TCR reconnaît le CMH du soi.",
+   "Sélection négative des LT : stade SP, élimination des auto-réactifs.",
+   "Sélection négative des LB : stade B immature dans la MO.",
+   "95 % des thymocytes et des LB immatures meurent par apoptose.",
+   "La sélection positive des LB a lieu dans le thymus."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sélection positive thymique.",
+   "Vrai : sélection négative thymique.",
+   "Vrai : sélection négative médullaire des B.",
+   "Vrai : 95 % d'élimination dans les deux lignées.",
+   "Faux : les LB sont sélectionnés dans la MO."
+  ]
+ },
+ {
+  "q": "Concernant les pourcentages à retenir, lesquelles sont exactes ?",
+  "options": [
+   "NK : 5 à 10 % des lymphocytes du sang.",
+   "PNN : 4000 à 7000 par µl.",
+   "PNE : 100 à 500 par µl.",
+   "PNB : moins de 100 par µl.",
+   "Lymphocytes : 4000 à 7000 par µl."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : NK = 5-10 %.",
+   "Vrai : PNN = 4000-7000/µl.",
+   "Vrai : PNE = 100-500/µl.",
+   "Vrai : PNB < 100/µl.",
+   "Faux : les lymphocytes = 1500-4000/µl."
+  ]
+ },
+ {
+  "q": "Concernant les noyaux des granulocytes, lesquelles sont exactes ?",
+  "options": [
+   "PNN : noyau polylobé.",
+   "PNE : noyau bilobé en bisac.",
+   "Les granulations des PNN sont azyrophiles.",
+   "Les granulations des PNE sont éosinophiles.",
+   "Les granulations des PNB sont éosinophiles."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : PNN polylobé.",
+   "Vrai : PNE bilobé.",
+   "Vrai : granules azyrophiles.",
+   "Vrai : granules éosinophiles.",
+   "Faux : les granulations des PNB sont noirâtres (basophiles)."
+  ]
+ },
+ {
+  "q": "Concernant les cellules présentatrices d'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Les DC sont de puissantes CPA.",
+   "Les macrophages sont des CPA.",
+   "Les LB matures sont des CPA.",
+   "Les trois expriment CMH-II, CD80, CD86, CD40.",
+   "Les NK sont des CPA."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : DC = CPA puissantes.",
+   "Vrai : macrophages = CPA.",
+   "Vrai : LB = CPA.",
+   "Vrai : phénotype CPA commun.",
+   "Faux : les NK sont cytotoxiques, pas CPA."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes T et B matures, lesquelles sont exactes ?",
+  "options": [
+   "LT : TCR-CD3, CD4 ou CD8, CD28, CD40L.",
+   "LB : IgM/IgD, CD79a/CD79b, CD21/CD19/CD81, CMH-II.",
+   "Les deux dérivent d'un progéniteur lymphoïde commun.",
+   "Les deux sont des cellules de l'immunité adaptative.",
+   "Les deux expriment le CD16."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : phénotype du LT mature.",
+   "Vrai : phénotype du LB mature.",
+   "Vrai : CSL commune.",
+   "Vrai : immunité adaptative.",
+   "Faux : le CD16 est un marqueur des NK."
+  ]
+ },
+ {
+  "q": "Concernant les organes de maturation, lesquelles sont exactes ?",
+  "options": [
+   "Moelle osseuse : naissance et maturation des LB.",
+   "Thymus : maturation des LT.",
+   "Moelle osseuse et thymus : organes lymphoïdes primaires.",
+   "Rate et ganglions : organes lymphoïdes secondaires.",
+   "Les LB maturent dans le thymus."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : MO = LB.",
+   "Vrai : thymus = LT.",
+   "Vrai : organes primaires/centraux.",
+   "Vrai : organes secondaires/périphériques.",
+   "Faux : les LB maturent dans la MO."
+  ]
+ },
+ {
+  "q": "Concernant la réponse immunitaire mémoire, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont quiescentes en phase G0.",
+   "Elles dérivent des lymphocytes activés.",
+   "Elles assurent la mémoire immunitaire.",
+   "Elles permettent une réponse secondaire rapide et intense.",
+   "Elles sont spécifiques de l'immunité innée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : quiescence en G0.",
+   "Vrai : issues de l'activation.",
+   "Vrai : base de la mémoire.",
+   "Vrai : réponse secondaire.",
+   "Faux : la mémoire est le propre de l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Concernant les déficits immunitaires quantitatifs, lesquelles sont exactes ?",
+  "options": [
+   "Aplasie médullaire : déficit des trois lignées.",
+   "Leucopénie : diminution des globules blancs.",
+   "Lymphopénie : diminution des lymphocytes.",
+   "Neutropénie : risque infectieux bactérien.",
+   "Lymphocytose : déficit immunitaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : aplasie = pancytopénie.",
+   "Vrai : définition.",
+   "Vrai : définition.",
+   "Vrai : les PNN protègent des bactéries.",
+   "Faux : la lymphocytose est une prolifération bénigne."
+  ]
+ },
+ {
+  "q": "Concernant les marqueurs CD à connaître, lesquelles sont exactes ?",
+  "options": [
+   "CD16, CD2, CD56 : cellules NK.",
+   "CD4 : LT helper ; CD8 : LT cytotoxique.",
+   "CD19, CD21, CD81 : lymphocytes B.",
+   "CD79a/CD79b : associés au BCR.",
+   "CD3 : lymphocytes B."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : marqueurs NK.",
+   "Vrai : CD4 helper, CD8 cytotoxique.",
+   "Vrai : marqueurs/corécepteurs B.",
+   "Vrai : Igα/Igβ du BCR.",
+   "Faux : le CD3 est associé au TCR des LT."
+  ]
+ },
+ {
+  "q": "Concernant les interactions cellulaires, lesquelles sont exactes ?",
+  "options": [
+   "DC → LT : présentation de l'antigène dans les organes lymphoïdes.",
+   "LT helper → LB : aide via CD40L-CD40 et cytokines.",
+   "Macrophage → LT : présentation via CMH-II.",
+   "NK → cellule tumorale : lyse par perforine/granzymes.",
+   "PNN → LB : présentation de l'antigène."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : DC initie la réponse T.",
+   "Vrai : aide T-B.",
+   "Vrai : macrophage = CPA.",
+   "Vrai : cytotoxicité NK.",
+   "Faux : les PNN ne sont pas des CPA."
+  ]
+ },
+ {
+  "q": "Concernant la première ligne de défense, lesquelles sont exactes ?",
+  "options": [
+   "Le mastocyte est la première cellule de l'inflammation.",
+   "Les PNN sont rapidement recrutés sur le foyer infectieux.",
+   "Les macrophages tissulaires sont des sentinelles.",
+   "Les DC immatures capturent les antigènes.",
+   "Les plasmocytes sont les premières cellules de l'inflammation."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : mastocyte = 1ère cellule de l'inflammation.",
+   "Vrai : recrutement précoce des PNN.",
+   "Vrai : macrophages sentinelles tissulaires.",
+   "Vrai : DC sentinelles.",
+   "Faux : les plasmocytes sont des effecteurs tardifs de l'immunité humorale."
+  ]
+ },
+ {
+  "q": "Concernant le bilan du chapitre « cellules du SI », lesquelles sont exactes ?",
+  "options": [
+   "Immunité innée : NK, phagocytes, granulocytes, mastocytes, DC.",
+   "Immunité adaptative : LT et LB.",
+   "NK, macrophages, DC : à cheval entre les deux immunités.",
+   "CPA : macrophages, DC, LB (CMH-II, CD80/86, CD40).",
+   "Les PNN sont des cellules de l'immunité adaptative."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cellules de l'immunité innée.",
+   "Vrai : LT et LB = adaptative.",
+   "Vrai : cellules à cheval.",
+   "Vrai : les trois CPA et leurs marqueurs.",
+   "Faux : les PNN sont des cellules innées."
+  ]
+ },
+ {
+  "q": "Concernant la définition du marqueur cellulaire, lesquelles sont exactes ?",
+  "options": [
+   "C'est toute structure de surface permettant de distinguer deux populations cellulaires.",
+   "Une fonction cellulaire peut servir de marqueur (ex. production d'anticorps).",
+   "La réponse proliférative in vitro est un marqueur fonctionnel.",
+   "Seules les structures de surface sont des marqueurs cellulaires.",
+   "Les marqueurs permettent de distinguer les stades de maturation."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : définition du marqueur cellulaire.",
+   "Vrai : fonction (production d'Ac) = marqueur.",
+   "Vrai : prolifération in vitro citée comme marqueur.",
+   "Faux : les fonctions sont aussi des marqueurs.",
+   "Vrai : les CD distinguent les stades de maturation et d'activation."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes CD, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des antigènes ou classes de différenciation.",
+   "Ce sont des marqueurs membranaires.",
+   "Ils permettent de différencier les lignées de lymphocytes.",
+   "Ils sont identiques sur toutes les cellules du système immunitaire.",
+   "Ils sont étudiés par cytométrie de flux."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : CD = classes de différenciation.",
+   "Vrai : marqueurs membranaires.",
+   "Vrai : différenciation des lignées.",
+   "Faux : les CD varient selon la lignée et le stade.",
+   "Vrai : immuno-phénotypage par cytométrie."
+  ]
+ },
+ {
+  "q": "Concernant les marqueurs fonctionnels des cellules, lesquelles sont exactes ?",
+  "options": [
+   "La production d'anticorps est un marqueur fonctionnel.",
+   "La réponse proliférative in vitro est un marqueur fonctionnel.",
+   "La phagocytose est une fonction des phagocytes.",
+   "La cytotoxicité est une fonction des NK et des LT CD8.",
+   "La production d'anticorps est une fonction des lymphocytes T."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : production d'Ac = marqueur fonctionnel.",
+   "Vrai : prolifération in vitro = marqueur.",
+   "Vrai : phagocytose des PNN/macrophages.",
+   "Vrai : cytotoxicité NK/LTc.",
+   "Faux : les Ac sont produits par les plasmocytes (lignée B)."
+  ]
+ },
+ {
+  "q": "Concernant les cellules Natural Killer, lesquelles sont exactes ?",
+  "options": [
+   "Elles appartiennent à l'immunité innée.",
+   "Elles sont à cheval entre l'immunité innée et adaptative.",
+   "Elles représentent 5 à 10 % des lymphocytes du sang.",
+   "Elles expriment le CD16, le CD2 et le CD56.",
+   "Elles expriment le TCR."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : NK = immunité naturelle.",
+   "Vrai : à cheval entre les deux immunités.",
+   "Vrai : 5-10 % des lymphocytes.",
+   "Vrai : CD16, CD2, CD56.",
+   "Faux : les NK n'expriment pas le TCR."
+  ]
+ },
+ {
+  "q": "Concernant les phagocytes de l'immunité innée, lesquelles sont exactes ?",
+  "options": [
+   "Les polynucléaires neutrophiles sont des phagocytes.",
+   "Les monocytes et macrophages sont des phagocytes mononucléés.",
+   "Les cellules dendritiques immatures capturent l'antigène.",
+   "Les lymphocytes B sont des phagocytes.",
+   "Les mastocytes sont des phagocytes professionnels."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PNN = phagocytes.",
+   "Vrai : monocytes/macrophages.",
+   "Vrai : DC immatures phagocytaires.",
+   "Faux : les LB sont des cellules adaptatives.",
+   "Faux : les mastocytes libèrent des médiateurs, ne phagocytent pas principalement."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes de l'immunité adaptative, lesquelles sont exactes ?",
+  "options": [
+   "Les lymphocytes T en font partie.",
+   "Les lymphocytes B en font partie.",
+   "Ils naissent dans la moelle osseuse.",
+   "Ils possèdent des récepteurs antigéniques spécifiques (TCR, BCR).",
+   "Les polynucléaires éosinophiles en font partie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : LT = adaptative.",
+   "Vrai : LB = adaptative.",
+   "Vrai : origine médullaire.",
+   "Vrai : TCR/BCR spécifiques.",
+   "Faux : les PNE sont des cellules innées."
+  ]
+ },
+ {
+  "q": "Concernant les cellules à cheval entre les deux immunités, lesquelles sont exactes ?",
+  "options": [
+   "Les cellules NK en font partie.",
+   "Les cellules dendritiques en font partie.",
+   "Les macrophages en font partie.",
+   "Les lymphocytes T en font partie.",
+   "Les mastocytes en font partie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : NK à cheval.",
+   "Vrai : DC à cheval.",
+   "Vrai : macrophages à cheval.",
+   "Faux : les LT sont purement adaptatifs.",
+   "Faux : les mastocytes sont purement innés."
+  ]
+ },
+ {
+  "q": "Concernant les cellules présentatrices d'antigène du cours, lesquelles sont exactes ?",
+  "options": [
+   "Les macrophages sont des CPA.",
+   "Les cellules dendritiques sont de puissantes CPA.",
+   "Les lymphocytes B matures sont des CPA.",
+   "Elles expriment toutes le CMH de classe II.",
+   "Les cellules NK sont des CPA."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : macrophages = CPA.",
+   "Vrai : DC = puissantes CPA.",
+   "Vrai : LB = CPA.",
+   "Vrai : CMH-II commun.",
+   "Faux : les NK sont cytotoxiques."
+  ]
+ },
+ {
+  "q": "Concernant la rapidité et la spécificité des deux immunités, lesquelles sont exactes ?",
+  "options": [
+   "L'immunité innée est très rapide.",
+   "L'immunité innée est moins spécifique.",
+   "L'immunité adaptative est très spécifique.",
+   "L'immunité adaptative est moins rapide.",
+   "L'immunité innée est pourvue de mémoire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : innée = rapide.",
+   "Vrai : innée = moins spécifique.",
+   "Vrai : adaptative = très spécifique.",
+   "Vrai : adaptative = plus lente.",
+   "Faux : l'innée est dépourvue de mémoire."
+  ]
+ },
+ {
+  "q": "Concernant la mémoire immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle est le propre de l'immunité adaptative.",
+   "Les cellules mémoire sont quiescentes en phase G0.",
+   "Elle permet une réponse secondaire plus rapide.",
+   "L'immunité innée en est dépourvue.",
+   "Les mastocytes en sont les cellules responsables."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : mémoire = adaptative.",
+   "Vrai : quiescence en G0.",
+   "Vrai : réponse secondaire.",
+   "Vrai : innée sans mémoire.",
+   "Faux : les mastocytes sont des cellules innées de l'inflammation."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs de surface des cellules immunitaires, lesquelles sont exactes ?",
+  "options": [
+   "Le TCR est le récepteur des lymphocytes T.",
+   "Le BCR (Ig membranaire) est le récepteur des lymphocytes B.",
+   "Le CD16 est un récepteur des cellules NK.",
+   "Les récepteurs de surface servent de marqueurs cellulaires.",
+   "Le BCR est le récepteur des lymphocytes T."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : TCR = LT.",
+   "Vrai : BCR = LB.",
+   "Vrai : CD16 = NK.",
+   "Vrai : marqueurs de distinction.",
+   "Faux : le BCR est le récepteur des LB."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes T et B, lesquelles sont exactes ?",
+  "options": [
+   "Les deux sont des cellules de l'immunité adaptative.",
+   "Les deux naissent dans la moelle osseuse.",
+   "Les LT maturent dans le thymus, les LB dans la moelle osseuse.",
+   "Au repos, ce sont des cellules naïves de 7 à 10 µm.",
+   "Les deux sécrètent des anticorps."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : adaptative.",
+   "Vrai : origine médullaire.",
+   "Vrai : thymus vs MO.",
+   "Vrai : petits lymphocytes naïfs.",
+   "Faux : seuls les LB (plasmocytes) sécrètent des Ac."
+  ]
+ },
+ {
+  "q": "Concernant les granulocytes, lesquelles sont exactes ?",
+  "options": [
+   "On distingue PNN, PNE et PNB.",
+   "Ce sont des cellules de l'immunité innée.",
+   "Les PNN sont les plus nombreux (40 à 75 % des GB).",
+   "Les PNB sont les plus rares (environ 1 % des GB).",
+   "Ce sont des cellules de l'immunité adaptative."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : trois types.",
+   "Vrai : innés.",
+   "Vrai : PNN majoritaires.",
+   "Vrai : PNB les plus rares.",
+   "Faux : les granulocytes sont innés."
+  ]
+ },
+ {
+  "q": "Concernant les monocytes et macrophages, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des phagocytes mononucléés.",
+   "Le monocyte sanguin devient macrophage dans les tissus.",
+   "Ils expriment le CMH de classe II.",
+   "Ils sécrètent du TNFα et de l'IFNγ.",
+   "Ils produisent des anticorps."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : phagocytes mononucléés.",
+   "Vrai : monocyte → macrophage.",
+   "Vrai : CPA.",
+   "Vrai : cytokines.",
+   "Faux : les Ac viennent des plasmocytes."
+  ]
+ },
+ {
+  "q": "Concernant les cellules dendritiques et les macrophages, lesquelles sont exactes ?",
+  "options": [
+   "Les deux sont des cellules présentatrices d'antigène.",
+   "Les deux expriment B7-1, B7-2 et CD40.",
+   "Les deux sont à cheval entre immunité innée et adaptative.",
+   "Les DC sont de plus puissantes CPA que les macrophages.",
+   "Les deux produisent des anticorps."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CPA.",
+   "Vrai : co-stimulation commune.",
+   "Vrai : à cheval.",
+   "Vrai : DC plus puissantes.",
+   "Faux : pas de production d'Ac."
+  ]
+ },
+ {
+  "q": "Concernant le rôle des cellules de l'immunité innée, lesquelles sont exactes ?",
+  "options": [
+   "Les PNN assurent la phagocytose des bactéries.",
+   "Les NK lysent les cellules tumorales ou infectées.",
+   "Les mastocytes initient l'inflammation.",
+   "Les DC capturent l'antigène dans les tissus.",
+   "Les LB produisent les anticorps naturels."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : PNN phagocytes.",
+   "Vrai : NK cytotoxiques.",
+   "Vrai : mastocytes = 1ère cellule de l'inflammation.",
+   "Vrai : DC sentinelles.",
+   "Faux : les LB appartiennent à l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Concernant le rôle des cellules de l'immunité adaptative, lesquelles sont exactes ?",
+  "options": [
+   "Les LT CD8 lysent les cellules infectées.",
+   "Les LT CD4 aident les autres cellules via des cytokines.",
+   "Les LB se différencient en plasmocytes sécréteurs d'anticorps.",
+   "Les cellules mémoire assurent la réponse secondaire.",
+   "Les PNN en sont les principales cellules."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : LTc cytotoxiques.",
+   "Vrai : Th helpers.",
+   "Vrai : plasmocytes.",
+   "Vrai : mémoire.",
+   "Faux : les PNN sont des cellules innées."
+  ]
+ },
+ {
+  "q": "Concernant la classification générale du chapitre, lesquelles sont exactes ?",
+  "options": [
+   "Immunité innée : NK, phagocytes mononucléés, granulocytes, mastocytes, DC.",
+   "Immunité adaptative : lymphocytes T et B.",
+   "Les marqueurs CD distinguent lignées et stades de maturation.",
+   "L'exploration associe NFS, frottis et cytométrie de flux.",
+   "Les mastocytes appartiennent à l'immunité adaptative."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cellules innées.",
+   "Vrai : LT et LB.",
+   "Vrai : rôle des CD.",
+   "Vrai : triptyque d'exploration.",
+   "Faux : les mastocytes sont innés."
+  ]
+ },
+ {
+  "q": "Concernant le réarrangement des gènes d'immunoglobuline, lesquelles sont exactes ?",
+  "options": [
+   "Il a lieu dans la moelle osseuse au cours de la maturation B.",
+   "La chaîne lourde est réarrangée avant la chaîne légère.",
+   "Le réarrangement de la chaîne lourde est vérifié par le pré-BCR.",
+   "Chaque LB exprime ainsi un BCR de spécificité unique.",
+   "Il a lieu dans le thymus."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réarrangement médullaire.",
+   "Vrai : lourde puis légère.",
+   "Vrai : contrôle qualité par le pré-BCR.",
+   "Vrai : diversité du répertoire B.",
+   "Faux : le thymus est l'organe des LT."
+  ]
+ },
+ {
+  "q": "Concernant la chaîne lourde µ, lesquelles sont exactes ?",
+  "options": [
+   "Elle est la première chaîne d'Ig synthétisée par le LB.",
+   "Elle est intracytoplasmique au stade pré-B.",
+   "Elle s'associe à une chaîne légère de substitution pour former le pré-BCR.",
+   "Elle fait partie de l'IgM membranaire du B immature.",
+   "Elle est exprimée uniquement par les plasmocytes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : première chaîne produite.",
+   "Vrai : µ intracytoplasmique au stade pré-B.",
+   "Vrai : pré-BCR.",
+   "Vrai : IgM = 2 chaînes µ + 2 chaînes légères.",
+   "Faux : elle est exprimée dès le stade pré-B."
+  ]
+ }
+]

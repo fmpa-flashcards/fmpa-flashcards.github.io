@@ -1,0 +1,4318 @@
+[
+ {
+  "q": "Parmi les propositions suivantes concernant la classification du VHB, lesquelles sont exactes ?",
+  "options": [
+   "Il appartient à la famille des Flaviviridae.",
+   "Il appartient à la famille des Picornaviridae.",
+   "Son genre est Hepacivirus.",
+   "Il appartient à la famille des Hepadnaviridae.",
+   "Son genre est Orthohepadnavirus."
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Les Flaviviridae sont la famille du VHC, pas du VHB.",
+   "Les Picornaviridae sont la famille du VHA.",
+   "Hepacivirus est le genre du VHC.",
+   "Le VHB est classé dans la famille des Hepadnaviridae.",
+   "Son genre est bien Orthohepadnavirus."
+  ]
+ },
+ {
+  "q": "Concernant les sérotypes du virus de l'hépatite B, quelles affirmations sont exactes ?",
+  "options": [
+   "Les sérotypes sont définis par les déterminants antigéniques de l'Ag HBs.",
+   "Les sérotypes du VHB sont au nombre de 7, comme les génotypes du VHC.",
+   "Les sérotypes adr et adw appartiennent au VHC.",
+   "Il n'existe qu'un seul sérotype de VHB.",
+   "On distingue 4 sérotypes : adr, ayr, adw et ayw."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Les sérotypes correspondent aux variants antigéniques de l'antigène de surface HBs.",
+   "Faux : les 7 génotypes concernent le VHC.",
+   "Faux : ce sont des sérotypes du VHB.",
+   "Faux : on en compte 4, pas un seul.",
+   "Le cours décrit 4 sérotypes : adr, ayr, adw, ayw."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes à propos des génotypes du VHB ?",
+  "options": [
+   "Le VHB compte 10 génotypes, notés de A à J.",
+   "Les génotypes du VHB sont notés de 1 à 7.",
+   "Il existe de nombreux variants en plus des 10 génotypes.",
+   "Le VHB ne compte que 4 génotypes.",
+   "Le VHB ne présente aucune variabilité génétique."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Le cours retient 10 génotypes du VHB, de A à J.",
+   "Faux : la numérotation 1 à 7 concerne les génotypes du VHC.",
+   "De nombreux variants sont décrits en plus des génotypes.",
+   "Faux : il y en a 10, pas 4.",
+   "Faux : le VHB présente une variabilité génétique notable."
+  ]
+ },
+ {
+  "q": "À propos de la résistance physico-chimique du VHB, quelles sont les propositions exactes ?",
+  "options": [
+   "C'est un virus fragile, rapidement inactivé par la chaleur.",
+   "Il résiste à la chaleur : 30 minutes à 56 °C.",
+   "Il est sensible au chlore même à faible concentration.",
+   "Il résiste au chlore à de faibles concentrations.",
+   "Il est détruit en 30 minutes à 56 °C."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : le VHB est un virus résistant, contrairement aux virus enveloppés fragiles.",
+   "Le VHB résiste à 30 minutes à 56 °C.",
+   "Faux : il résiste au chlore à faible concentration.",
+   "Il résiste également au chlore à de faibles concentrations.",
+   "Faux : il résiste à ces conditions, il n'est pas détruit."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant la structure du virus de l'hépatite B ?",
+  "options": [
+   "Sa capside est icosaédrique.",
+   "C'est un virus nu sans enveloppe.",
+   "C'est un virus enveloppé.",
+   "C'est un virus de 42 nm de diamètre.",
+   "Sa capside est de symétrie indéterminée."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Sa capside est icosaédrique.",
+   "Faux : le VHB possède une enveloppe lipidique.",
+   "Le VHB est un virus enveloppé.",
+   "Le VHB mesure 42 nm.",
+   "Faux : la symétrie indéterminée caractérise la capside du VHC."
+  ]
+ },
+ {
+  "q": "S'agissant du génome du VHB, lesquelles sont exactes ?",
+  "options": [
+   "C'est le seul virus des hépatites à génome ADN.",
+   "C'est un ADN double brin linéaire.",
+   "C'est un ADN circulaire partiellement double brin.",
+   "C'est un ARN simple brin de polarité positive.",
+   "C'est un ARN circulaire simple brin de polarité négative."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Parmi les virus des hépatites A à E, seul le VHB a un génome à ADN.",
+   "Faux : le génome du VHB est circulaire et partiellement double brin, pas linéaire.",
+   "Le génome du VHB est un ADN circulaire partiellement double brin.",
+   "Faux : l'ARN + simple brin est le génome du VHC.",
+   "Faux : c'est le génome du virus delta (VHD)."
+  ]
+ },
+ {
+  "q": "Concernant la taille et le contenu du génome du VHB, quelles affirmations sont exactes ?",
+  "options": [
+   "Le génome du VHB code pour plus de 80 gènes.",
+   "Il code pour 4 gènes.",
+   "Le génome du VHB mesure environ 30 kb comme celui des coronavirus.",
+   "Le génome du VHB mesure environ 3,2 kb.",
+   "Il s'agit d'un des plus gros génomes viraux à ADN."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : plus de 80 gènes correspond au cytomégalovirus.",
+   "Il ne code que pour 4 gènes.",
+   "Faux : 30 kb correspond aux coronavirus, à génome ARN.",
+   "Le génome du VHB fait environ 3,2 kb.",
+   "Faux : c'est un petit génome à ADN."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes sur les particules non infectieuses du VHB, lesquelles sont exactes ?",
+  "options": [
+   "Les sphérules portent l'antigène HBc à leur surface.",
+   "Les sphérules sont les particules infectieuses du VHB.",
+   "Les bâtonnets mesurent 20 nm.",
+   "Les sphérules mesurent 20 nm.",
+   "Les particules non infectieuses mesurent 42 nm."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : c'est l'Ag HBs qui est retrouvé à la surface des sphérules.",
+   "Faux : les particules infectieuses sont les particules de Dane.",
+   "Les bâtonnets (tubules), également non infectieux, mesurent 20 nm.",
+   "Les sphérules, particules non infectieuses, mesurent 20 nm.",
+   "Faux : 42 nm est la taille du virion complet."
+  ]
+ },
+ {
+  "q": "Relativement aux particules de Dane, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont les particules infectieuses du VHB.",
+   "Ce sont des particules non infectieuses.",
+   "Ce sont des particules denses.",
+   "Elles mesurent 40 à 45 nm de diamètre.",
+   "Elles mesurent 20 nm de diamètre."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Les particules de Dane sont les virions infectieux du VHB.",
+   "Faux : ce sont au contraire les seules particules infectieuses.",
+   "Elles sont décrites comme denses.",
+   "Leur diamètre est de 40 à 45 nm.",
+   "Faux : 20 nm est la taille des sphérules et bâtonnets non infectieux."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes à propos de l'antigène HBs ?",
+  "options": [
+   "Il n'est jamais dosé en routine.",
+   "Il est retrouvé à la surface des sphérules et des particules de Dane.",
+   "C'est l'antigène de surface du VHB.",
+   "Sa persistance au-delà de 6 mois marque la chronicité.",
+   "Il est localisé à l'intérieur de la capside."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : l'Ag HBs est dosé en routine par ELISA.",
+   "On le retrouve à la surface des sphérules et des particules de Dane.",
+   "L'Ag HBs est l'antigène de surface du VHB.",
+   "Sa persistance au-delà de 6 mois signe le passage à la chronicité.",
+   "Faux : c'est l'Ag HBc qui est à l'intérieur de la capside."
+  ]
+ },
+ {
+  "q": "Concernant l'antigène HBc, lesquelles des affirmations suivantes sont exactes ?",
+  "options": [
+   "Il est présent dans le noyau des hépatocytes infectés par le VHB.",
+   "C'est un antigène de surface du virion.",
+   "Il est retrouvé à l'intérieur de la capside, au niveau du « core » du virus.",
+   "Ce sont des marqueurs précoces et durables de l'infection.",
+   "Il est dosé en routine par ELISA."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "On le retrouve aussi dans le noyau des hépatocytes infectés.",
+   "Faux : l'antigène de surface est l'Ag HBs.",
+   "L'Ag HBc est localisé à l'intérieur de la capside virale.",
+   "Les anti-HBc sont des marqueurs précoces et durables de l'infection.",
+   "Faux : l'Ag HBc n'est pas dosé en routine."
+  ]
+ },
+ {
+  "q": "À propos de l'antigène HBe, quelles sont les propositions exactes ?",
+  "options": [
+   "C'est un produit de dégradation de l'Ag HBc.",
+   "C'est un marqueur de la multiplication active du virus.",
+   "Sa présence signe l'arrêt de la réplication virale.",
+   "Il est localisé à la surface du virion.",
+   "C'est un marqueur de guérison."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Il dérive de la dégradation de l'Ag HBc.",
+   "L'Ag HBe témoigne de la multiplication active du virus.",
+   "Faux : c'est au contraire un témoin d'infectiosité et de réplication.",
+   "Faux : l'antigène de surface du virion est l'Ag HBs.",
+   "Faux : la guérison est signée par les anticorps anti-HBs."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les trois antigènes principaux du VHB, lesquelles sont exactes ?",
+  "options": [
+   "L'Ag HBc ne donne jamais d'anticorps.",
+   "Seul l'Ag HBs est immunogène.",
+   "Ces trois antigènes donnent naissance à des anticorps.",
+   "L'Ag HBe est le seul antigène dosé en routine.",
+   "Les Ag HBs, HBc et HBe sont les trois antigènes principaux du VHB."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : les anticorps anti-HBc sont des marqueurs majeurs de l'infection.",
+   "Faux : les trois antigènes sont immunogènes.",
+   "Chacun de ces trois antigènes induit la production d'anticorps.",
+   "Faux : l'Ag HBs est l'antigène principalement dosé en routine.",
+   "Le cours retient trois antigènes principaux : HBs, HBc et HBe."
+  ]
+ },
+ {
+  "q": "S'agissant des variants d'échappement du VHB, lesquelles sont exactes ?",
+  "options": [
+   "Ils rendent le VHB sensible à la chaleur.",
+   "Ils sont responsables de faux positifs de l'Ag HBs.",
+   "Ils correspondent à des mutations au niveau de l'antigène de surface.",
+   "Ils peuvent être responsables de faux négatifs de l'Ag HBs.",
+   "Ils n'ont aucune conséquence sur le diagnostic sérologique."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la résistance physico-chimique n'est pas modifiée.",
+   "Faux : le risque décrit est le faux négatif, pas le faux positif.",
+   "Ce sont des mutants de l'antigène de surface échappant à sa détection.",
+   "Les variants d'échappement peuvent donner des Ag HBs faussement négatifs.",
+   "Faux : ils peuvent fausser le diagnostic en masquant l'Ag HBs."
+  ]
+ },
+ {
+  "q": "Concernant l'interaction entre le VHD et l'Ag HBs, quelles affirmations sont exactes ?",
+  "options": [
+   "Le VHD n'a aucun effet sur la détection de l'Ag HBs.",
+   "L'Ag HBs peut disparaître transitoirement lors d'une surinfection par le VHD.",
+   "La disparition de l'Ag HBs lors d'une surinfection par le VHD est définitive.",
+   "C'est la coinfection par le VHD qui fait disparaître transitoirement l'Ag HBs.",
+   "Cette disparition transitoire peut masquer l'infection par le VHB."
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : le VHD peut rendre l'Ag HBs transitoirement indétectable.",
+   "En cas de surinfection par le VHD, l'Ag HBs peut disparaître transitoirement.",
+   "Faux : la disparition décrite est transitoire, pas définitive.",
+   "Faux : le cours décrit ce phénomène en cas de surinfection, pas de coinfection.",
+   "Cette disparition transitoire peut faire méconnaître l'infection B sous-jacente."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant la culture du VHB ?",
+  "options": [
+   "L'isolement viral est indispensable avant tout traitement.",
+   "Le diagnostic repose sur la sérologie et la biologie moléculaire.",
+   "La culture du virus in vitro est impossible.",
+   "Le VHB se cultive facilement sur cellules Vero.",
+   "La culture sur cellules est l'examen de référence du diagnostic."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : l'isolement viral n'est ni possible ni requis.",
+   "Le diagnostic est donc indirect (sérologie) et direct moléculaire (PCR).",
+   "Le VHB ne peut pas être cultivé in vitro.",
+   "Faux : le VHB ne se cultive pas in vitro.",
+   "Faux : la culture étant impossible, elle ne peut être la référence."
+  ]
+ },
+ {
+  "q": "Relativement à la PCR dans le diagnostic de l'hépatite B, lesquelles sont exactes ?",
+  "options": [
+   "Elle recherche l'ADN du VHB.",
+   "C'est une technique sensible de détection du génome viral.",
+   "Elle permet de caractériser les variants du VHB.",
+   "C'est une technique peu sensible, réservée à la recherche.",
+   "Elle détecte l'ARN du VHB."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Elle détecte l'ADN viral, témoin de réplication.",
+   "La PCR est une technique sensible.",
+   "Elle permet aussi de caractériser les variants du VHB.",
+   "Faux : c'est au contraire une technique très sensible.",
+   "Faux : le génome du VHB est à ADN, pas à ARN."
+  ]
+ },
+ {
+  "q": "À propos de l'ADN polymérase du VHB comme marqueur, quelles sont les propositions exactes ?",
+  "options": [
+   "C'est un marqueur d'immunité protectrice.",
+   "C'est un témoin de la réplication virale.",
+   "Elle signe l'arrêt de la réplication virale.",
+   "Son dosage est réservé à des laboratoires spécialisés.",
+   "Elle est dosée en routine par ELISA."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : l'immunité protectrice est évaluée par les anti-HBs.",
+   "L'ADN polymérase témoigne de la réplication virale.",
+   "Faux : c'est un marqueur de réplication active, pas d'arrêt.",
+   "Sa détection n'est réalisée que dans des laboratoires spécialisés.",
+   "Faux : ce n'est pas un examen de routine."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'enveloppe des virus des hépatites, lesquelles sont exactes ?",
+  "options": [
+   "Tous les virus des hépatites sont enveloppés.",
+   "Le VHA est un virus enveloppé.",
+   "Les virus A et E sont nus.",
+   "Le VHB est un virus nu.",
+   "Les virus B, C et D sont enveloppés."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : les virus A et E sont nus.",
+   "Faux : le VHA est un virus nu.",
+   "VHA et VHE sont des virus nus.",
+   "Faux : le VHB est enveloppé.",
+   "VHB, VHC et VHD possèdent une enveloppe lipidique."
+  ]
+ },
+ {
+  "q": "Concernant la symétrie des capsides des virus des hépatites parentérales, quelles affirmations sont exactes ?",
+  "options": [
+   "La capside du VHB est de symétrie hélicoïdale.",
+   "La capside du VHD est sphérique.",
+   "La capside du VHC est de symétrie indéterminée.",
+   "La capside du VHB est icosaédrique.",
+   "La capside du VHC est icosaédrique."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la symétrie hélicoïdale ne concerne pas le VHB.",
+   "Le VHD a une capside sphérique.",
+   "La capside du VHC est de symétrie indéterminée.",
+   "Le VHB a une capside icosaédrique.",
+   "Faux : la capside du VHC est de symétrie indéterminée."
+  ]
+ },
+ {
+  "q": "S'agissant de la nature du génome parmi les virus des hépatites, lesquelles sont exactes ?",
+  "options": [
+   "Le VHB est le seul virus des hépatites à génome ADN.",
+   "Le VHD a un génome à ARN circulaire simple brin de polarité négative.",
+   "Le VHD a un génome à ADN circulaire.",
+   "Le VHC a un génome à ADN.",
+   "Le VHC a un génome à ARN simple brin de polarité positive."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Parmi les virus A à E, seul le VHB possède un génome à ADN.",
+   "Le VHD a un génome ARN − circulaire simple brin.",
+   "Faux : le génome du VHD est à ARN.",
+   "Faux : le VHC est un virus à ARN.",
+   "Le VHC a un génome ARN + simple brin."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes comparant la taille des virus des hépatites parentérales ?",
+  "options": [
+   "Le VHC (55 à 65 nm) est plus grand que le VHB.",
+   "Le VHB et le VHC ont exactement la même taille.",
+   "Le VHB est le plus grand des trois virus.",
+   "Le VHD mesure 55 à 65 nm.",
+   "Le VHD (37 nm) est plus petit que le VHB (42 nm)."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Le VHC mesure 55 à 65 nm, donc plus que le VHB.",
+   "Faux : leurs diamètres sont différents.",
+   "Faux : c'est le VHC le plus grand des trois.",
+   "Faux : 55 à 65 nm est le diamètre du VHC.",
+   "Le VHD mesure 37 nm, contre 42 nm pour le VHB."
+  ]
+ },
+ {
+  "q": "Concernant les modes de transmission du VHB, quelles propositions sont exactes ?",
+  "options": [
+   "Le VHB se transmet par piqûre d'insecte vecteur.",
+   "La transmission materno-fœtale périnatale existe.",
+   "La transmission est exclusivement féco-orale.",
+   "La transmission parentérale est possible, comme pour le VHC.",
+   "La transmission sexuelle est un mode majeur (++++) : c'est une IST."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : aucun vecteur insecte n'est décrit pour le VHB.",
+   "La transmission périnatale de la mère Ag HBs + à l'enfant est décrite.",
+   "Faux : la voie féco-orale concerne les virus A et E.",
+   "La transmission parentérale du VHB est la même que celle du VHC.",
+   "La voie sexuelle est notée ++++ : le VHB est une IST."
+  ]
+ },
+ {
+  "q": "S'agissant de la transmission sexuelle du VHB, lesquelles sont exactes ?",
+  "options": [
+   "La transmission sexuelle n'existe pas pour le VHB.",
+   "Elle est exceptionnelle et négligeable.",
+   "Le VHB est considéré comme une IST.",
+   "Elle est cotée ++++ dans le cours.",
+   "Le port du préservatif fait partie de la prévention."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la voie sexuelle est un mode majeur de transmission.",
+   "Faux : c'est un mode de transmission majeur.",
+   "Le VHB est une infection sexuellement transmissible.",
+   "La transmission sexuelle du VHB est notée ++++.",
+   "Le préservatif est recommandé devant toute situation à risque."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la transmission périnatale du VHB, lesquelles sont exactes ?",
+  "options": [
+   "La contamination est essentiellement périnatale.",
+   "C'est le mode de transmission le plus fréquent dans les zones de haute endémicité.",
+   "La transmission verticale n'existe pas pour le VHB.",
+   "Elle concerne les mères Ag HBs positives.",
+   "La contamination in utero est fréquente."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "La contamination est essentiellement périnatale.",
+   "Dans les zones de haute endémicité, c'est le mode le plus fréquent.",
+   "Faux : la transmission verticale est un mode reconnu.",
+   "Le risque concerne les nouveau-nés de mères Ag HBs +.",
+   "Faux : la contamination in utero est rare."
+  ]
+ },
+ {
+  "q": "Concernant la répartition de l'hépatite B au Maroc, quelles affirmations sont exactes ?",
+  "options": [
+   "La prévalence y est de 2 à 7 %.",
+   "Le Maroc est indemne d'hépatite B.",
+   "Le Maroc est en zone de haute endémicité.",
+   "La prévalence de l'hépatite B au Maroc est d'environ 1 %.",
+   "Le Maroc est en zone de moyenne endémicité."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "La prévalence estimée est de 2 à 7 %.",
+   "Faux : l'hépatite B y est endémique.",
+   "Faux : le Maroc n'est pas en zone de haute endémicité.",
+   "Faux : environ 1 % est la prévalence de l'hépatite C au Maroc.",
+   "Le Maroc est classé en zone de moyenne endémicité pour le VHB."
+  ]
+ },
+ {
+  "q": "Relativement à l'épidémiologie mondiale de l'hépatite B, lesquelles sont exactes ?",
+  "options": [
+   "Le VHB ne cause aucun décès.",
+   "Environ 130 à 150 millions de personnes sont infectées chroniquement.",
+   "On compte plus de 780 000 décès par an.",
+   "Environ 240 millions de personnes sont infectées chroniquement.",
+   "L'hépatite B a quasiment disparu dans le monde."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : il cause plus de 780 000 décès par an.",
+   "Faux : 130 à 150 millions concernent le VHC.",
+   "Plus de 780 000 décès annuels lui sont attribués.",
+   "Le cours retient 240 millions de porteurs chroniques du VHB.",
+   "Faux : le VHB reste un problème de santé publique mondial."
+  ]
+ },
+ {
+  "q": "À propos du vaccin contre l'hépatite B, quelles sont les propositions exactes ?",
+  "options": [
+   "Le vaccin contre l'hépatite B est encore en cours d'étude.",
+   "C'est un cancer évitable par la vaccination.",
+   "Un vaccin est disponible contre le VHB.",
+   "Il n'existe aucun vaccin contre le VHB.",
+   "L'hépatite B est une IST évitable par la vaccination."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : le vaccin est disponible depuis longtemps.",
+   "La vaccination prévient aussi l'hépatocarcinome lié au VHB.",
+   "Un vaccin efficace existe contre le VHB.",
+   "Faux : le vaccin anti-VHB existe et est efficace à 95 %.",
+   "Le cours le présente comme une IST évitable."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant l'évolution épidémiologique de l'hépatite B ?",
+  "options": [
+   "C'est une maladie à évolution endémique.",
+   "C'est une maladie strictement épidémique sans fond endémique.",
+   "Elle ne survient que sous forme de grandes pandémies.",
+   "L'hépatite B n'a pas de réservoir humain.",
+   "Elle peut survenir sous forme de petites épidémies."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Le VHB est une maladie à évolution endémique.",
+   "Faux : le fond est endémique.",
+   "Faux : ce sont de petites épidémies qui sont décrites.",
+   "Faux : le réservoir est strictement humain.",
+   "De petites épidémies peuvent également survenir."
+  ]
+ },
+ {
+  "q": "S'agissant de la répartition mondiale du VHB, lesquelles sont exactes ?",
+  "options": [
+   "On distingue des zones de haute, moyenne et basse endémicité.",
+   "Plus un pays est développé, plus l'endémicité est faible.",
+   "Le VHB est cosmopolite.",
+   "Le VHB n'existe que dans les pays en développement.",
+   "L'endémicité est identique partout dans le monde."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Il existe des zones de haute, moyenne et basse endémicité.",
+   "L'endémicité diminue avec le niveau de développement du pays.",
+   "Le VHB est présent dans le monde entier.",
+   "Faux : il est cosmopolite, présent aussi dans les pays développés.",
+   "Faux : l'endémicité varie selon les régions."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les groupes à risque de l'hépatite B, lesquelles sont exactes ?",
+  "options": [
+   "Les familles des porteurs du VHB sont concernées.",
+   "Il n'existe aucun groupe à risque identifié pour le VHB.",
+   "Les toxicomanes intraveineux sont un groupe à risque.",
+   "Seuls les nouveau-nés sont à risque.",
+   "Les professionnels de santé sont un groupe à risque."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Les familles des porteurs du VHB sont ciblées par la vaccination.",
+   "Faux : la notion de groupes à risques est soulignée dans le cours.",
+   "Les toxicomanes IV sont un groupe à risque.",
+   "Faux : plusieurs groupes à risque sont identifiés.",
+   "Les professionnels de santé sont une indication de la vaccination."
+  ]
+ },
+ {
+  "q": "Concernant le passage à la chronicité, quelles affirmations sont exactes ?",
+  "options": [
+   "Toutes les hépatites B deviennent chroniques.",
+   "Environ 10 % des hépatites B deviennent chroniques.",
+   "Environ 50 % des hépatites C deviennent chroniques.",
+   "Aucune hépatite C ne devient chronique.",
+   "Le taux de chronicité est identique pour les virus B et C."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : seulement 10 % environ deviennent chroniques.",
+   "Le cours retient 10 % de chronicité pour l'hépatite B.",
+   "Le cours retient 50 % de chronicité pour l'hépatite C.",
+   "Faux : 50 % des hépatites C deviennent chroniques.",
+   "Faux : 10 % pour B contre 50 % pour C."
+  ]
+ },
+ {
+  "q": "Relativement au risque de cancer du foie, lesquelles sont exactes ?",
+  "options": [
+   "Le VHC expose au risque d'hépatocarcinome.",
+   "Le VHB expose au risque d'hépatocarcinome.",
+   "Le VHD protège contre l'hépatocarcinome.",
+   "Les hépatites virales chroniques n'évoluent jamais vers le cancer.",
+   "Seul le VHA expose au risque d'hépatocarcinome."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Le VHC est également oncogène hépatique.",
+   "VHB et VHC sont associés au risque d'hépatocarcinome.",
+   "Faux : le VHD aggrave l'hépatite B, il ne protège de rien.",
+   "Faux : cirrhose et hépatocarcinome sont des complications des hépatites chroniques B et C.",
+   "Faux : le VHA ne donne pas d'hépatite chronique ni de cancer."
+  ]
+ },
+ {
+  "q": "À propos du risque de transmission verticale du VHB, quelles sont les propositions exactes ?",
+  "options": [
+   "Le nouveau-né naît avec le même profil IgG que sa mère.",
+   "Les IgG maternelles passent la barrière placentaire.",
+   "Le risque est étroitement lié au profil sérologique de la mère.",
+   "Le risque de transmission est identique quel que soit le statut sérologique de la mère.",
+   "Les IgM maternelles passent la barrière placentaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le nouveau-né présente donc à la naissance le même profil IgG que sa mère.",
+   "Il existe un passage transplacentaire des IgG.",
+   "Le risque de transmission verticale dépend du profil sérologique maternel.",
+   "Faux : le risque est étroitement lié au profil sérologique de la mère.",
+   "Faux : les IgM ne passent pas la barrière placentaire."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la contamination périnatale par le VHB ?",
+  "options": [
+   "La contamination in utero est le mode principal.",
+   "La contamination in utero est rare.",
+   "Toute mère Ag HBs + contamine systématiquement son enfant in utero.",
+   "La contamination est essentiellement périnatale.",
+   "La césarienne systématique est imposée par le cours."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : c'est la voie périnatale qui prédomine.",
+   "La contamination in utero est rare.",
+   "Faux : la transmission dépend du profil sérologique maternel.",
+   "La transmission verticale est essentiellement périnatale.",
+   "Faux : cette mesure n'est pas mentionnée dans le cours."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes comparant la transmission des virus B, C et D, lesquelles sont exactes ?",
+  "options": [
+   "La transmission du VHD est la même que celle du VHB.",
+   "Le VHC se transmet principalement par voie sexuelle.",
+   "La transmission parentérale est notée +++ pour le VHC.",
+   "Le VHD se transmet par voie féco-orale.",
+   "La transmission sexuelle est notée ++++ pour le VHB et peu probable pour le VHC."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Le VHD se transmet comme le VHB.",
+   "Faux : la transmission sexuelle du VHC est peu probable sauf rapport traumatique.",
+   "La transmission parentérale du VHC est notée +++.",
+   "Faux : la voie féco-orale concerne les virus A et E.",
+   "Voie sexuelle ++++ pour B contre sexuelle peu probable pour C."
+  ]
+ },
+ {
+  "q": "Concernant l'incubation de l'hépatite B, quelles propositions sont exactes ?",
+  "options": [
+   "L'incubation dure de 1 à 6 mois.",
+   "L'incubation dure de 15 à 150 jours.",
+   "L'incubation est plus longue que celle de l'hépatite C.",
+   "L'incubation est de quelques jours seulement.",
+   "L'incubation de l'hépatite B est de 2 à 6 semaines."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Le cours retient une incubation de 1 à 6 mois pour l'hépatite B.",
+   "Faux : 15 à 150 jours est l'incubation de l'hépatite C.",
+   "Elle est plus longue que celle de l'hépatite C (15 à 150 jours).",
+   "Faux : l'incubation est de 1 à 6 mois.",
+   "Faux : 2 à 6 semaines correspond plutôt à l'hépatite A."
+  ]
+ },
+ {
+  "q": "S'agissant des formes classiques de l'hépatite B, lesquelles sont exactes ?",
+  "options": [
+   "On décrit une phase préictérique.",
+   "On décrit une phase de convalescence.",
+   "On décrit une phase ictérique.",
+   "Il n'existe pas de phase de convalescence.",
+   "La phase ictérique précède toujours la phase préictérique."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La phase préictérique fait partie de la forme classique.",
+   "La convalescence clôt l'évolution classique.",
+   "La phase ictérique lui fait suite.",
+   "Faux : la convalescence est décrite dans le cours.",
+   "Faux : la phase préictérique précède la phase ictérique."
+  ]
+ },
+ {
+  "q": "Parmi les formes cliniques de l'infection par le VHB, lesquelles sont exactes ?",
+  "options": [
+   "L'infection par le VHB est toujours asymptomatique.",
+   "Il n'existe que la forme chronique.",
+   "La forme fulminante existe.",
+   "La forme chronique existe.",
+   "La forme aiguë existe."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : des formes symptomatiques aiguës existent (20 % des infections de l'adulte).",
+   "Faux : les formes aiguë et fulminante existent aussi.",
+   "La forme fulminante est décrite.",
+   "La forme chronique survient dans 5 à 10 % des cas chez l'adulte.",
+   "La forme aiguë est la forme classique."
+  ]
+ },
+ {
+  "q": "Concernant l'infection du nouveau-né par le VHB, quelles affirmations sont exactes ?",
+  "options": [
+   "Le risque de chronicité est maximal à cet âge.",
+   "La plupart des nouveau-nés infectés guérissent spontanément.",
+   "Environ 90 à 95 % des nouveau-nés infectés deviennent porteurs chroniques.",
+   "L'infection néonatale ne donne jamais de portage chronique.",
+   "Le taux de chronicité est de 5 à 10 % comme chez l'adulte."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Plus l'infection est précoce, plus le risque de chronicité est élevé.",
+   "Faux : la guérison est exceptionnelle à cet âge.",
+   "Le cours retient environ 90 à 95 % de porteurs chroniques chez le nouveau-né.",
+   "Faux : c'est au contraire l'âge du risque maximal de chronicité.",
+   "Faux : 5 à 10 % est le taux de chronicité chez l'adulte."
+  ]
+ },
+ {
+  "q": "Relativement à l'infection de l'enfant de moins de 6 ans par le VHB, lesquelles sont exactes ?",
+  "options": [
+   "L'enfant de moins de 6 ans ne peut pas être infecté par le VHB.",
+   "Le taux de guérison est de 90 à 95 % comme chez l'adulte.",
+   "Le risque de chronicité est intermédiaire entre le nouveau-né et l'adulte.",
+   "Le taux de chronicité est de 90 à 95 % comme chez le nouveau-né.",
+   "Environ 30 % deviennent porteurs chroniques."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : l'enfant peut être infecté avec 30 % de chronicité.",
+   "Faux : 90 à 95 % de guérison concerne l'adulte.",
+   "Le risque diminue avec l'âge : 90-95 % (nouveau-né), 30 % (enfant), 5-10 % (adulte).",
+   "Faux : 90 à 95 % concerne le nouveau-né.",
+   "Le cours retient 30 % de porteurs chroniques avant 6 ans."
+  ]
+ },
+ {
+  "q": "À propos de l'infection de l'adulte par le VHB, quelles sont les propositions exactes ?",
+  "options": [
+   "La chronicité survient dans 50 % des cas.",
+   "La guérison survient dans 90 à 95 % des cas.",
+   "La chronicité survient dans 5 à 10 % des cas.",
+   "La guérison est exceptionnelle chez l'adulte.",
+   "Tous les adultes infectés deviennent porteurs chroniques."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : 50 % est le taux de chronicité de l'hépatite C.",
+   "Chez l'adulte, 90 à 95 % des infections guérissent.",
+   "La chronicité ne concerne que 5 à 10 % des adultes infectés.",
+   "Faux : la guérison est la règle chez l'adulte.",
+   "Faux : seuls 5 à 10 % deviennent porteurs chroniques."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant les infections inapparentes à VHB chez l'adulte ?",
+  "options": [
+   "80 % des adultes infectés font une hépatite fulminante.",
+   "Toutes les infections de l'adulte sont symptomatiques.",
+   "Elles représentent environ 80 % des infections de l'adulte.",
+   "Les hépatites aiguës symptomatiques représentent 20 % des infections.",
+   "Les infections inapparentes sont exceptionnelles."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : l'hépatite fulminante ne concerne que 0,1 % des infections.",
+   "Faux : 80 % des infections sont inapparentes.",
+   "Environ 80 % des infections de l'adulte sont inapparentes.",
+   "Les hépatites aiguës représentent 20 % des infections.",
+   "Faux : elles sont au contraire très fréquentes."
+  ]
+ },
+ {
+  "q": "S'agissant de l'hépatite B fulminante chez l'adulte, lesquelles sont exactes ?",
+  "options": [
+   "Elle concerne 20 % des infections.",
+   "Elle concerne environ 0,1 % des infections.",
+   "C'est une forme rare mais grave.",
+   "Elle n'existe pas dans l'infection par le VHB.",
+   "Elle est plus fréquente que la forme aiguë simple."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : 20 % correspond aux hépatites aiguës.",
+   "Le cours retient 0,1 % d'hépatites fulminantes chez l'adulte.",
+   "C'est une forme rare de l'infection.",
+   "Faux : la forme fulminante est décrite.",
+   "Faux : elle est bien plus rare que la forme aiguë."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les facteurs influençant les formes cliniques du VHB, lesquelles sont exactes ?",
+  "options": [
+   "L'évolution est identique quel que soit l'âge.",
+   "L'âge influence l'évolution vers la chronicité.",
+   "La co-infection par le VIH protège contre la chronicité.",
+   "L'infection par le VIH modifie le terrain et les formes cliniques.",
+   "Le terrain n'a aucune influence sur l'évolution."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : le nouveau-né fait 90-95 % de chronicité contre 5-10 % chez l'adulte.",
+   "Le risque de chronicité dépend fortement de l'âge à l'infection.",
+   "Faux : le VIH est un facteur de terrain péjoratif.",
+   "Le terrain (âge, VIH...) détermine les formes cliniques.",
+   "Faux : le terrain influence les formes cliniques."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution possible de l'infection par le VHB, quelles affirmations sont exactes ?",
+  "options": [
+   "L'évolution vers la chronicité est possible.",
+   "Toute infection évolue vers l'hépatite fulminante.",
+   "L'infection guérit toujours sans séquelle.",
+   "Une évolution auto-immune est décrite.",
+   "La guérison est impossible."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "La chronicité est une évolution possible (5 à 10 % chez l'adulte).",
+   "Faux : la forme fulminante ne concerne que 0,1 % des infections.",
+   "Faux : chronicité, cirrhose et hépatocarcinome sont possibles.",
+   "Le cours mentionne une évolution auto-immune possible.",
+   "Faux : 90 à 95 % des adultes guérissent."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les indications du diagnostic biologique de l'hépatite B ?",
+  "options": [
+   "Un taux de transaminases élevé est une indication.",
+   "Le bilan de grossesse est une indication.",
+   "Il n'y a aucune indication de dépistage systématique.",
+   "Le diagnostic n'est indiqué qu'en cas d'ictère franc.",
+   "Le recrutement (armée, police...) est une indication."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Des transaminases élevées justifient le bilan.",
+   "Le bilan de grossesse est une indication de dépistage.",
+   "Faux : le dépistage systématique existe (grossesse, dons de sang...).",
+   "Faux : le dépistage se fait aussi chez des sujets asymptomatiques.",
+   "Le recrutement est une indication citée."
+  ]
+ },
+ {
+  "q": "S'agissant du prélèvement pour le diagnostic de l'hépatite B, lesquelles sont exactes ?",
+  "options": [
+   "La biopsie hépatique peut être utile.",
+   "Le LCR est indispensable au diagnostic.",
+   "Les urines sont le prélèvement de référence.",
+   "La salive suffit au diagnostic sérologique.",
+   "Le sang (sérum ou plasma) est le prélèvement de choix."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "La biopsie hépatique est un prélèvement possible (±).",
+   "Faux : le LCR n'a pas d'intérêt ici.",
+   "Faux : les urines ne sont pas utilisées.",
+   "Faux : le diagnostic repose sur le sang.",
+   "Le diagnostic se fait sur sérum ou plasma (+++)."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le diagnostic non spécifique de l'hépatite B, lesquelles sont exactes ?",
+  "options": [
+   "Le bilan hépatique reste toujours normal.",
+   "On observe une élévation de la bilirubine (ictère).",
+   "On observe une baisse des transaminases.",
+   "On observe une élévation des transaminases.",
+   "La bilirubine est toujours normale."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : le bilan hépatique est perturbé.",
+   "L'hyperbilirubinémie se traduit par l'ictère.",
+   "Faux : les transaminases augmentent.",
+   "L'élévation des transaminases traduit la nécrose hépatocytaire.",
+   "Faux : la bilirubine augmente."
+  ]
+ },
+ {
+  "q": "Concernant la signification de l'Ag HBs, quelles affirmations sont exactes ?",
+  "options": [
+   "Son absence exclut formellement toute infection par le VHB.",
+   "Sa présence signe la guérison de l'infection.",
+   "Sa présence signe la présence du VHB.",
+   "Il signe une protection post-vaccinale.",
+   "Il est dosé par technique ELISA."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : les variants d'échappement peuvent donner des faux négatifs.",
+   "Faux : la guérison est signée par les anti-HBs.",
+   "L'Ag HBs positif signe la présence du VHB.",
+   "Faux : la protection post-vaccinale est signée par les anti-HBs isolés.",
+   "Le dosage se fait par ELISA (+++)."
+  ]
+ },
+ {
+  "q": "Relativement à la persistance de l'Ag HBs, lesquelles sont exactes ?",
+  "options": [
+   "Sa persistance au-delà de 6 mois marque la chronicité.",
+   "Sa persistance au-delà de 3 mois suffit à affirmer la chronicité.",
+   "La durée de positivité de l'Ag HBs n'a aucune signification.",
+   "Un Ag HBs positif depuis 8 mois signe une hépatite B chronique.",
+   "Un Ag HBs positif depuis 2 mois signe déjà la chronicité."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Le seuil retenu est de 6 mois de persistance.",
+   "Faux : le seuil est de 6 mois, pas 3.",
+   "Faux : la persistance au-delà de 6 mois définit la chronicité.",
+   "À 8 mois de positivité, la chronicité est affirmée.",
+   "Faux : à 2 mois, l'infection peut encore guérir."
+  ]
+ },
+ {
+  "q": "À propos des anticorps anti-HBs, quelles sont les propositions exactes ?",
+  "options": [
+   "Ils signent une infection en cours.",
+   "Ils signent la protection post-vaccinale.",
+   "Ils sont non protecteurs.",
+   "Ils sont dosés par ELISA.",
+   "Ils signent l'arrêt de la réplication virale avec guérison."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : ils signent la guérison ou la vaccination, pas l'infection active.",
+   "Des anti-HBs isolés signent la protection vaccinale.",
+   "Faux : ce sont des anticorps protecteurs.",
+   "Le dosage se fait par ELISA (+++).",
+   "Les anti-HBs apparaissent à l'arrêt de la réplication, avec guérison."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant les anticorps anti-HBc ?",
+  "options": [
+   "Ils sont non protecteurs.",
+   "Ce sont des marqueurs précoces et durables de l'infection.",
+   "Ils sont protecteurs comme les anti-HBs.",
+   "Ils persistent après la guérison.",
+   "Ils disparaissent dès la guérison."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Les anti-HBc ne protègent pas contre l'infection.",
+   "Ce sont des marqueurs précoces et durables.",
+   "Faux : seuls les anti-HBs sont protecteurs.",
+   "Ils persistent après la guérison (profil Ag HBs −, anti-HBs +, anti-HBc +).",
+   "Faux : ce sont des marqueurs durables."
+  ]
+ },
+ {
+  "q": "S'agissant des IgM anti-HBc, lesquelles sont exactes ?",
+  "options": [
+   "Elles ne s'observent jamais dans l'infection chronique.",
+   "Elles sont protectrices.",
+   "Elles signent une infection récente.",
+   "Elles peuvent aussi s'observer lors d'une réactivation virale au cours d'une infection chronique.",
+   "Elles signent une infection ancienne."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : elles peuvent s'observer en cas de réactivation chronique.",
+   "Faux : les anti-HBc sont non protecteurs.",
+   "Les IgM anti-HBc sont le marqueur de l'infection récente.",
+   "Elles peuvent réapparaître lors d'une réactivation d'une infection chronique.",
+   "Faux : l'infection ancienne est marquée par les IgG anti-HBc."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les IgG anti-HBc, lesquelles sont exactes ?",
+  "options": [
+   "Elles persistent durablement après l'infection.",
+   "Elles confèrent une protection vaccinale.",
+   "Elles signent une infection ancienne.",
+   "Elles signent une infection récente.",
+   "Elles disparaissent en quelques semaines."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Les anti-HBc sont des marqueurs durables de l'infection.",
+   "Faux : la protection vaccinale est signée par les anti-HBs isolés.",
+   "Les IgG anti-HBc témoignent d'une infection ancienne.",
+   "Faux : l'infection récente est marquée par les IgM anti-HBc.",
+   "Faux : ce sont des marqueurs durables."
+  ]
+ },
+ {
+  "q": "Concernant l'Ag HBc en routine, quelles affirmations sont exactes ?",
+  "options": [
+   "Le dosage de l'Ag HBc est l'examen de première intention.",
+   "L'Ag HBc n'est pas dosé en routine.",
+   "L'Ag HBc est localisé à l'intérieur de la capside virale.",
+   "L'Ag HBc est l'antigène de surface du VHB.",
+   "L'Ag HBc est dosé en routine par ELISA."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : la sérologie de première intention repose sur l'Ag HBs et les anticorps.",
+   "L'Ag HBc n'est pas dosé en routine.",
+   "Il est situé à l'intérieur de la capside, au niveau du core.",
+   "Faux : l'antigène de surface est l'Ag HBs.",
+   "Faux : il n'est pas dosé en routine."
+  ]
+ },
+ {
+  "q": "Relativement à la signification de l'Ag HBe, lesquelles sont exactes ?",
+  "options": [
+   "C'est un anticorps protecteur.",
+   "C'est un marqueur de guérison.",
+   "C'est un témoin d'infectiosité.",
+   "Sa présence signe l'arrêt de la réplication.",
+   "C'est un marqueur de réplication virale active."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : c'est un antigène, pas un anticorps.",
+   "Faux : la guérison est marquée par les anti-HBs.",
+   "L'Ag HBe témoigne de l'infectiosité du patient.",
+   "Faux : il signe au contraire une réplication active.",
+   "C'est un marqueur de la multiplication active du virus."
+  ]
+ },
+ {
+  "q": "À propos de l'origine de l'Ag HBe, quelles sont les propositions exactes ?",
+  "options": [
+   "L'Ag HBe est un produit de dégradation de l'Ag HBc.",
+   "L'Ag HBe est un produit de dégradation de l'Ag HBs.",
+   "L'Ag HBe dérive de l'antigène de capside.",
+   "L'Ag HBe provient de l'enveloppe virale.",
+   "L'Ag HBe est sécrété indépendamment de tout autre antigène."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "L'Ag HBe est décrit comme un produit de dégradation de l'Ag HBc.",
+   "Faux : il dérive de l'Ag HBc, pas de l'Ag HBs.",
+   "Il dérive donc de l'antigène de la capside (core).",
+   "Faux : l'enveloppe porte l'Ag HBs.",
+   "Faux : il est lié à l'Ag HBc."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les variants précore du VHB ?",
+  "options": [
+   "Ils synthétisent de grandes quantités d'Ag HBe.",
+   "L'absence d'Ag HBe exclut toujours une réplication virale.",
+   "Les variants précore n'ont aucune conséquence sérologique.",
+   "Ils ne synthétisent pas l'Ag HBe.",
+   "Une réplication virale active peut exister malgré l'absence d'Ag HBe."
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : ils ne synthétisent pas l'Ag HBe.",
+   "Faux : avec un variant précore, la réplication peut être active sans Ag HBe.",
+   "Faux : ils modifient l'interprétation du système HBe.",
+   "Les variants précore ne synthétisent pas l'Ag HBe.",
+   "Il faut donc interpréter l'absence d'Ag HBe avec prudence."
+  ]
+ },
+ {
+  "q": "S'agissant des anticorps anti-HBe, lesquelles sont exactes ?",
+  "options": [
+   "Ils signent une réplication virale intense.",
+   "Ils peuvent apparaître en cas de variant précore.",
+   "Ils signent une évolution favorable.",
+   "Ce sont des anticorps non protecteurs sans signification.",
+   "Ils sont dosés pour affirmer la guérison complète."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : la réplication intense est marquée par l'Ag HBe.",
+   "Ils peuvent apparaître même avec un variant précore.",
+   "Les anti-HBe signent une évolution favorable.",
+   "Faux : ils ont une signification pronostique favorable.",
+   "Faux : la guérison est signée par les anti-HBs."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'hépatite B fulminante au stade aigu, lesquelles sont exactes ?",
+  "options": [
+   "L'ADN viral est toujours détecté à taux élevé.",
+   "L'Ag HBs est inconstamment retrouvé.",
+   "Les anti-HBs sont inconstamment retrouvés.",
+   "La présence d'IgM anti-HBc est quasi constante.",
+   "Les IgM anti-HBc sont toujours absentes."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : l'ADN viral est inconstamment retrouvé.",
+   "L'Ag HBs est inconstamment retrouvé.",
+   "Les anti-HBs sont également inconstamment retrouvés.",
+   "Au stade aigu fulminant, les IgM anti-HBc sont quasi constantes.",
+   "Faux : les IgM anti-HBc sont quasi constantes."
+  ]
+ },
+ {
+  "q": "Concernant l'hépatite fulminante survenant chez un porteur chronique du VHB, quelles affirmations sont exactes ?",
+  "options": [
+   "Les IgM anti-HBc sont quasi constantes comme au stade aigu.",
+   "On recherche l'Ag delta et les IgM/IgG anti-delta.",
+   "Il faut éliminer systématiquement une participation du VHD.",
+   "La recherche du VHD est inutile dans ce contexte.",
+   "La détection des IgM anti-HBc est rare."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : les IgM anti-HBc sont rares dans ce contexte.",
+   "Le bilan comprend Ag delta, IgM et IgG anti-delta.",
+   "Il faut systématiquement éliminer une surinfection par le VHD.",
+   "Faux : la recherche du VHD est systématique.",
+   "Chez le porteur chronique, les IgM anti-HBc sont rarement détectées."
+  ]
+ },
+ {
+  "q": "Relativement au nouveau-né de mère Ag HBs positive, lesquelles sont exactes ?",
+  "options": [
+   "Il naît avec le même profil IgM que sa mère.",
+   "Les IgM maternelles passent la barrière placentaire.",
+   "Il existe un passage transplacentaire des IgG maternelles.",
+   "Il naît avec le même profil IgG que sa mère.",
+   "Les IgM maternelles ne passent pas la barrière placentaire."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : seules les IgG passent, pas les IgM.",
+   "Faux : il n'y a pas de passage des IgM.",
+   "Les IgG traversent le placenta.",
+   "Le nouveau-né présente à la naissance le même profil IgG que sa mère.",
+   "Les IgM ne franchissent pas la barrière placentaire."
+  ]
+ },
+ {
+  "q": "Concernant les modalités de la contamination verticale par le VHB, quelles affirmations sont exactes ?",
+  "options": [
+   "La contamination in utero est rare.",
+   "Le risque est étroitement lié au profil sérologique de la mère.",
+   "La contamination in utero est le mode principal.",
+   "La contamination est essentiellement périnatale.",
+   "Le risque est identique quel que soit le profil de la mère."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "La contamination in utero est rare.",
+   "Le risque de transmission verticale dépend du profil sérologique maternel.",
+   "Faux : c'est la voie périnatale qui prédomine.",
+   "La transmission est essentiellement périnatale.",
+   "Faux : le risque est lié au profil sérologique de la mère."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant le sujet VIH+ ayant guéri d'une hépatite B ?",
+  "options": [
+   "Aucune réactivation n'est possible après guérison.",
+   "Il peut s'agir d'une réinfection par une autre souche.",
+   "On peut observer une réapparition de l'Ag HBs.",
+   "Il peut s'agir d'une réactivation de la souche initiale.",
+   "On peut observer une disparition des anti-HBs."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : réactivation et réinfection sont possibles.",
+   "Il peut aussi s'agir d'une réinfection par une autre souche.",
+   "L'Ag HBs peut réapparaître.",
+   "Il peut s'agir d'une réactivation de la souche initiale.",
+   "Chez l'immunodéprimé, les anti-HBs peuvent disparaître."
+  ]
+ },
+ {
+  "q": "S'agissant de la sérologie VHB chez l'hémodialysé ou le greffé, lesquelles sont exactes ?",
+  "options": [
+   "La sérologie est inutile chez ces patients.",
+   "L'analyse des profils sérologiques est délicate.",
+   "Les titres d'anticorps sont souvent bas.",
+   "L'interprétation est toujours simple et univoque.",
+   "Les titres d'anticorps sont toujours très élevés."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : la sérologie reste utile mais d'interprétation délicate.",
+   "Chez ces immunodéprimés, les profils sérologiques sont délicats à analyser.",
+   "Les titres d'anticorps sont bas, compliquant l'interprétation.",
+   "Faux : l'interprétation est délicate.",
+   "Faux : les titres sont bas."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le cccDNA du VHB, lesquelles sont exactes ?",
+  "options": [
+   "C'est une technique lourde, non standardisée, nécessitant des PBH itératives.",
+   "Il est quantifié en routine dans le sérum.",
+   "C'est un ADN linéaire présent dans le cytoplasme.",
+   "Sa quantification se fait par PCR.",
+   "C'est l'ADN viral superenroulé présent dans le noyau des hépatocytes."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "C'est une technique lourde, non standardisée, avec PBH itératives.",
+   "Faux : ce n'est pas un examen de routine.",
+   "Faux : c'est un ADN circulaire superenroulé nucléaire.",
+   "Sa quantification repose sur la PCR.",
+   "Le cccDNA (covalently-closed-circular DNA) est intra-hépatocytaire, nucléaire."
+  ]
+ },
+ {
+  "q": "Concernant la valeur pronostique du cccDNA, quelles affirmations sont exactes ?",
+  "options": [
+   "La quantification de l'Ag HBs sérique est une mesure indirecte du contenu en cccDNA.",
+   "La décroissance du cccDNA hépatique semble prédictive des séroconversions HBs.",
+   "Le cccDNA n'a aucune valeur pronostique.",
+   "La décroissance du cccDNA hépatique semble prédictive des séroconversions HBe.",
+   "L'augmentation du cccDNA signe la guérison."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "L'Ag HBs sérique quantifié reflète indirectement le cccDNA hépatique.",
+   "Elle prédit aussi la séroconversion HBs.",
+   "Faux : il a une valeur prédictive des séroconversions.",
+   "La décroissance du cccDNA prédit la séroconversion HBe.",
+   "Faux : c'est la décroissance qui est de bon pronostic."
+  ]
+ },
+ {
+  "q": "Relativement aux nouveaux marqueurs du VHB, lesquelles sont exactes ?",
+  "options": [
+   "Le profil des substitutions amino-acidiques de résistance aux analogues est recherché par séquençage.",
+   "Le génotype du VHB fait partie des nouveaux marqueurs.",
+   "Aucun nouveau marqueur n'est décrit pour le VHB.",
+   "La quantification de l'Ag HBe dans le sérum est un nouveau marqueur.",
+   "La quantification de l'Ag HBs dans le sérum est un nouveau marqueur."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Les substitutions associées à la résistance aux analogues nucléos(t)idiques sont recherchées par séquençage et hybridation inverse.",
+   "Le génotypage du VHB est un nouveau marqueur.",
+   "Faux : plusieurs nouveaux marqueurs sont décrits.",
+   "La quantification de l'Ag HBe sérique en est un aussi.",
+   "La quantification de l'Ag HBs sérique est un nouveau marqueur."
+  ]
+ },
+ {
+  "q": "À propos de la technique ELISA dans le diagnostic de l'hépatite B, quelles sont les propositions exactes ?",
+  "options": [
+   "C'est la technique de référence (+++).",
+   "Elle a été abandonnée au profit de la microscopie.",
+   "C'est une technique immuno-enzymatique.",
+   "Elle permet le dosage des antigènes et des anticorps.",
+   "Elle ne permet de doser que les antigènes."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "L'ELISA est la technique de référence (+++).",
+   "Faux : elle reste la technique de référence.",
+   "C'est une technique immuno-enzymatique.",
+   "Elle dose les systèmes Ag/Ac : HBs, HBc, HBe.",
+   "Faux : elle dose aussi les anticorps."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le diagnostic direct de l'hépatite B ?",
+  "options": [
+   "La microscopie électronique peut être utilisée sur sérum ou biopsie.",
+   "La culture virale in vitro est l'examen de choix.",
+   "La ponction biopsie du foie montre les lésions hépatiques.",
+   "Le diagnostic direct est impossible pour le VHB.",
+   "La PCR détecte le génome viral, témoin de réplication."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "La microscopie électronique s'applique au sérum et à la biopsie.",
+   "Faux : la culture in vitro est impossible.",
+   "La PBF objective nécrose, inflammation et fibrose.",
+   "Faux : PBF, microscopie électronique et PCR sont possibles.",
+   "La PCR détecte l'ADN viral, témoin de réplication."
+  ]
+ },
+ {
+  "q": "Un patient présente : Ag HBs positif, IgM anti-HBc positives, anti-HBs négatifs. Quelles propositions sont exactes ?",
+  "options": [
+   "Il s'agit d'une protection vaccinale.",
+   "Le patient n'a jamais été en contact avec le VHB.",
+   "L'infection est récente.",
+   "Il s'agit d'une hépatite B guérie.",
+   "Il s'agit d'une hépatite B aiguë."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : la vaccination donne des anti-HBs isolés.",
+   "Faux : l'Ag HBs et les anti-HBc témoignent du contact viral.",
+   "Les IgM anti-HBc sont le marqueur de l'infection récente.",
+   "Faux : la guérison associe Ag HBs −, anti-HBs + et anti-HBc +.",
+   "L'association Ag HBs + et IgM anti-HBc signe l'hépatite B aiguë."
+  ]
+ },
+ {
+  "q": "Un patient présente : Ag HBs négatif, anti-HBs positifs, anti-HBc positifs. Quelles affirmations sont exactes ?",
+  "options": [
+   "Il s'agit d'une hépatite B chronique active.",
+   "Il s'agit d'une infection récente.",
+   "Il s'agit d'une hépatite B guérie.",
+   "Le patient est protégé.",
+   "La réplication virale est arrêtée."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'hépatite chronique active garde l'Ag HBs positif.",
+   "Faux : l'infection récente associe Ag HBs + et IgM anti-HBc.",
+   "Ce profil correspond à une hépatite B guérie.",
+   "Les anti-HBs sont protecteurs.",
+   "Les anti-HBs signent l'arrêt de la réplication virale."
+  ]
+ },
+ {
+  "q": "Un patient présente : Ag HBs négatif, anti-HBs positifs, anti-HBc négatifs. Quelles sont les propositions exactes ?",
+  "options": [
+   "Le patient n'a jamais été infecté par le VHB.",
+   "Il s'agit d'une hépatite B chronique.",
+   "Il s'agit d'une protection post-vaccinale.",
+   "Il s'agit d'une hépatite B guérie.",
+   "Les anti-HBs isolés signent une infection ancienne."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "L'absence d'anti-HBc prouve l'absence de contact infectieux.",
+   "Faux : l'hépatite chronique garde l'Ag HBs positif.",
+   "Des anti-HBs isolés signent la protection vaccinale.",
+   "Faux : l'hépatite guérie associe anti-HBc positifs.",
+   "Faux : l'infection ancienne donne des anti-HBc positifs."
+  ]
+ },
+ {
+  "q": "Un patient présente : Ag HBs positif, anti-HBc IgG positifs, Ag HBe positif, anti-HBs négatifs. Quelles propositions sont exactes ?",
+  "options": [
+   "L'infection est ancienne.",
+   "Le patient est protégé par ses anticorps.",
+   "Il s'agit d'une hépatite guérie.",
+   "Il s'agit d'une infection chronique à réplication active.",
+   "Le patient est infectieux."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Les IgG anti-HBc témoignent d'une infection ancienne.",
+   "Faux : les anti-HBs sont négatifs, il n'y a pas de protection.",
+   "Faux : l'Ag HBs est positif, donc pas de guérison.",
+   "L'Ag HBs avec IgG anti-HBc et Ag HBe signe une chronicité à réplication active.",
+   "L'Ag HBe est un témoin d'infectiosité."
+  ]
+ },
+ {
+  "q": "Un patient garde un Ag HBs positif 8 mois après une hépatite aiguë. Quelles affirmations sont exactes ?",
+  "options": [
+   "Le patient est considéré comme guéri.",
+   "Il s'agit d'une hépatite B chronique.",
+   "La persistance de l'Ag HBs au-delà de 6 mois définit la chronicité.",
+   "La durée de positivité de l'Ag HBs n'a pas de signification.",
+   "Il s'agit encore d'une hépatite aiguë."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : l'Ag HBs reste positif, il n'y a pas de guérison.",
+   "À 8 mois de positivité, le seuil de 6 mois est dépassé : chronicité.",
+   "La persistance de l'Ag HBs au-delà de 6 mois marque la chronicité.",
+   "Faux : cette persistance définit la chronicité.",
+   "Faux : au-delà de 6 mois, on parle d'hépatite chronique."
+  ]
+ },
+ {
+  "q": "À la naissance, le nouveau-né d'une mère Ag HBs positive présente des IgG anti-HBc positives et des IgM anti-HBc négatives. Quelles sont les propositions exactes ?",
+  "options": [
+   "Ce profil impose un traitement antiviral immédiat du nouveau-né.",
+   "Les IgG anti-HBc du nouveau-né sont d'origine fœtale.",
+   "Les IgM ne passent pas la barrière placentaire.",
+   "Ce profil signe à lui seul une infection du nouveau-né.",
+   "Il s'agit d'un passage transplacentaire des IgG maternelles."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : ce seul profil ne signe pas une infection néonatale.",
+   "Faux : ces IgG sont d'origine maternelle.",
+   "Les IgM maternelles ne franchissent pas le placenta.",
+   "Faux : ce profil reflète les anticorps maternels, pas une infection.",
+   "Le nouveau-né a le même profil IgG que sa mère par passage transplacentaire."
+  ]
+ },
+ {
+  "q": "Concernant les variants d'échappement de l'Ag HBs, quelles propositions sont exactes ?",
+  "options": [
+   "Ils donnent toujours un Ag HBs fortement positif.",
+   "Ils peuvent donner un Ag HBs faussement négatif.",
+   "Le diagnostic peut être faussé malgré une infection active.",
+   "Ils facilitent le diagnostic sérologique.",
+   "Ils n'existent pas pour le VHB."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : le risque est le faux négatif.",
+   "Les variants d'échappement sont responsables de faux négatifs de l'Ag HBs.",
+   "L'infection peut ainsi être méconnue malgré une réplication virale.",
+   "Faux : ils compliquent au contraire le diagnostic.",
+   "Faux : ces variants sont décrits dans le cours."
+  ]
+ },
+ {
+  "q": "S'agissant de la cinétique des marqueurs de l'hépatite B, lesquelles sont exactes ?",
+  "options": [
+   "Les anti-HBs apparaissent avant l'Ag HBs.",
+   "Les IgG anti-HBc précèdent les IgM anti-HBc.",
+   "Les IgM anti-HBc marquent la phase aiguë.",
+   "L'Ag HBs est le premier marqueur à apparaître.",
+   "Les anti-HBs apparaissent à la guérison."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'Ag HBs apparaît en premier.",
+   "Faux : les IgM précèdent les IgG.",
+   "Les IgM anti-HBc signent l'infection récente, phase aiguë.",
+   "L'Ag HBs est le premier marqueur détectable.",
+   "Les anti-HBs apparaissent lors de la guérison."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le diagnostic indirect de l'hépatite B ?",
+  "options": [
+   "Il repose sur le système Ag HBs / anti-HBs.",
+   "Il ne repose que sur le dosage de l'Ag HBs.",
+   "Il repose sur le système Ag HBe / anti-HBe.",
+   "Il repose sur le système Ag HBc / anti-HBc.",
+   "La technique de référence est l'ELISA (+++)."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Le système Ag HBs/anti-HBs est étudié.",
+   "Faux : trois systèmes antigène/anticorps sont étudiés.",
+   "Le système Ag HBe/anti-HBe est étudié.",
+   "Le système Ag HBc/anti-HBc est étudié.",
+   "Le diagnostic indirect sérologique se fait par ELISA (+++)."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le traitement de l'hépatite B chronique ?",
+  "options": [
+   "Aucun traitement n'existe pour l'hépatite B chronique.",
+   "L'interféron pégylé peut être utilisé.",
+   "L'interféron alpha standard peut être utilisé.",
+   "Les analogues nucléos(t)idiques sont indiqués.",
+   "Seule la transplantation hépatique est proposée."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : plusieurs options thérapeutiques existent.",
+   "L'interféron pégylé est aussi utilisé.",
+   "L'interféron alpha standard est une option.",
+   "Les analogues nucléos(t)idiques font partie du traitement.",
+   "Faux : le traitement médical est la base de la prise en charge."
+  ]
+ },
+ {
+  "q": "Parmi les analogues nucléos(t)idiques utilisés contre le VHB, lesquels sont cités dans le cours ?",
+  "options": [
+   "La lamivudine.",
+   "L'interféron alpha.",
+   "Le sofosbuvir.",
+   "L'adéfovir.",
+   "La ribavirine en monothérapie."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "La lamivudine est citée comme analogue nucléos(t)idique.",
+   "Faux : l'interféron alpha n'est pas un analogue nucléos(t)idique.",
+   "Faux : le sofosbuvir est un analogue nucléotidique anti-VHC.",
+   "L'adéfovir est également cité.",
+   "Faux : la ribavirine n'est pas un analogue nucléos(t)idique anti-VHB."
+  ]
+ },
+ {
+  "q": "Concernant les cibles du traitement de l'hépatite B chronique, quelles affirmations sont exactes ?",
+  "options": [
+   "Les analogues ciblent la capside virale.",
+   "La polymérase virale est ciblée par les analogues nucléos(t)idiques.",
+   "La reverse transcriptase virale est une cible thérapeutique.",
+   "Le traitement cible uniquement l'enveloppe virale.",
+   "Aucune cible virale n'est identifiée."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : la cible est enzymatique, pas la capside.",
+   "Les analogues nucléos(t)idiques inhibent la polymérase virale.",
+   "Un inhibiteur de la reverse transcriptase est utilisé.",
+   "Faux : la cible est la polymérase / reverse transcriptase.",
+   "Faux : la reverse transcriptase est une cible reconnue."
+  ]
+ },
+ {
+  "q": "S'agissant du traitement de l'hépatite B aiguë fulminante, lesquelles sont exactes ?",
+  "options": [
+   "Les analogues nucléos(t)idiques sont le traitement de l'hépatite fulminante.",
+   "La forme fulminante relève d'un traitement identique à l'hépatite chronique.",
+   "Le traitement est le même que celui des hépatites à transmission entérale.",
+   "L'interféron pégylé est le traitement de référence de la forme fulminante.",
+   "Il n'y a pas de traitement antiviral spécifique curatif."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : les analogues sont indiqués dans l'hépatite chronique.",
+   "Faux : le traitement diffère de celui de l'hépatite chronique.",
+   "Le cours renvoie au traitement des hépatites à transmission entérale.",
+   "Faux : l'interféron est indiqué dans l'hépatite chronique.",
+   "La prise en charge est symptomatique, sans antiviral spécifique curatif."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes à propos de l'interféron dans l'hépatite B chronique ?",
+  "options": [
+   "L'interféron pégylé est utilisé.",
+   "L'interféron est réservé à l'hépatite C.",
+   "L'interféron alpha standard est utilisé.",
+   "L'interféron n'a aucune place dans l'hépatite B.",
+   "Seul l'interféron gamma est utilisé."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "La forme pégylée est également utilisée.",
+   "Faux : il est aussi utilisé dans l'hépatite B chronique.",
+   "L'interféron alpha standard fait partie du traitement.",
+   "Faux : l'interféron est une option thérapeutique.",
+   "Faux : c'est l'interféron alpha qui est utilisé."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les limites du traitement actuel de l'hépatite B, lesquelles sont exactes ?",
+  "options": [
+   "Les traitements actuels (IFNα, ribavirine) sont encore insuffisants.",
+   "Aucune recherche thérapeutique n'est en cours.",
+   "De nouveaux traitements sont en développement.",
+   "Les traitements actuels éradiquent systématiquement le cccDNA.",
+   "La guérison virologique est obtenue dans 100 % des cas."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "La conclusion du cours juge les traitements actuels encore insuffisants.",
+   "Faux : de nouveaux traitements sont en développement.",
+   "De nouveaux traitements sont attendus.",
+   "Faux : l'éradication du cccDNA n'est pas obtenue.",
+   "Faux : les traitements actuels sont jugés insuffisants."
+  ]
+ },
+ {
+  "q": "Concernant le traitement de l'hépatite chronique à VHB associée au VHD, quelles affirmations sont exactes ?",
+  "options": [
+   "L'interféron alpha est une option thérapeutique.",
+   "La vaccination est le traitement de l'hépatite chronique B+D.",
+   "Aucun traitement n'est envisageable en cas de co-infection B+D.",
+   "Les analogues nucléos(t)idiques peuvent être utilisés.",
+   "Le traitement est identique à celui de l'hépatite A."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "L'interféron alpha est indiqué dans l'hépatite chronique à HBV ± HDV.",
+   "Faux : la vaccination est préventive, pas curative.",
+   "Faux : un traitement est proposé (IFNα, analogues).",
+   "Les analogues nucléos(t)idiques font partie de l'arsenal.",
+   "Faux : le traitement diffère de celui de l'hépatite A."
+  ]
+ },
+ {
+  "q": "Relativement à la comparaison des traitements des hépatites B et C, lesquelles sont exactes ?",
+  "options": [
+   "La bithérapie interféron pégylé + ribavirine est le traitement de l'hépatite B.",
+   "Les analogues nucléos(t)idiques (lamivudine, adéfovir) sont spécifiques du VHB.",
+   "Aucun traitement commun n'existe entre les hépatites B et C.",
+   "Le sofosbuvir est un traitement de l'hépatite B.",
+   "L'interféron alpha est utilisé dans les deux infections."
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : cette bithérapie concerne l'hépatite C.",
+   "Lamivudine et adéfovir sont des anti-VHB.",
+   "Faux : l'interféron alpha est utilisé dans les deux.",
+   "Faux : le sofosbuvir est un anti-VHC.",
+   "L'interféron alpha est commun aux deux traitements."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les vaccins contre l'hépatite B ?",
+  "options": [
+   "Il n'existe que des vaccins monovalents.",
+   "Il existe des vaccins bivalents associant HAV et HBV.",
+   "Ce sont des vaccins à virus vivant atténué.",
+   "Ce sont des vaccins obtenus par génie génétique.",
+   "Il existe des vaccins monovalents."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : il existe aussi des formes bivalentes et hexavalentes.",
+   "Des vaccins bivalents HAV + HBV existent.",
+   "Faux : ce sont des vaccins sous-unitaires issus du génie génétique.",
+   "Les vaccins anti-VHB sont produits par génie génétique.",
+   "Des vaccins monovalents existent (ENGERIX B, GENHEVAC B)."
+  ]
+ },
+ {
+  "q": "Parmi les vaccins monovalents contre l'hépatite B, lesquels sont cités dans le cours ?",
+  "options": [
+   "ENGERIX B.",
+   "Le vaccin contre l'hépatite C.",
+   "Le vaccin bivalent HAV-HBV.",
+   "GENHEVAC B.",
+   "Le vaccin hexavalent D T Coq Polio Hib HBV."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "ENGERIX B (SKF) est cité comme vaccin monovalent.",
+   "Faux : il n'existe pas de vaccin contre l'hépatite C.",
+   "Faux : c'est un vaccin bivalent.",
+   "GENHEVAC B (Pasteur) est cité comme vaccin monovalent.",
+   "Faux : c'est un vaccin hexavalent, pas monovalent."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins combinés incluant le VHB, quelles affirmations sont exactes ?",
+  "options": [
+   "Il existe un vaccin bivalent HAV et HBV.",
+   "Le vaccin bivalent associe HBV et VHD.",
+   "Le vaccin hexavalent inclut le VHC.",
+   "Il existe un vaccin hexavalent D T Coq Polio Hib HBV.",
+   "Il n'existe aucun vaccin combiné incluant le VHB."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Un vaccin bivalent HAV + HBV existe.",
+   "Faux : le bivalent associe HAV et HBV.",
+   "Faux : l'hexavalent inclut le VHB, pas le VHC.",
+   "Un vaccin hexavalent D T Coq Polio Hib HBV existe.",
+   "Faux : des vaccins combinés existent."
+  ]
+ },
+ {
+  "q": "S'agissant des schémas vaccinaux contre l'hépatite B, lesquelles sont exactes ?",
+  "options": [
+   "Un schéma en 2 injections : 0 et 1 mois.",
+   "Le schéma comporte obligatoirement 5 injections.",
+   "Un schéma en 4 injections : 0, 1, 2 et 12 mois.",
+   "Un schéma en 3 injections : 0, 1 et 6 mois.",
+   "Une injection unique suffit."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : aucun schéma en 2 injections n'est décrit.",
+   "Faux : les schémas comportent 3 ou 4 injections.",
+   "Le schéma à 4 injections est : 0, 1, 2, 12 mois.",
+   "Le schéma à 3 injections est : 0, 1, 6 mois.",
+   "Faux : une injection unique ne suffit pas."
+  ]
+ },
+ {
+  "q": "Relativement au contrôle de l'immunité vaccinale contre l'hépatite B, lesquelles sont exactes ?",
+  "options": [
+   "Un titre supérieur à 10 UI/l est protecteur.",
+   "L'immunité vaccinale ne peut pas être quantifiée.",
+   "Le vaccin est efficace à 95 %.",
+   "Un titre de 5 UI/l est protecteur.",
+   "L'immunité peut être vérifiée par le dosage des anticorps anti-HBs."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Le seuil protecteur est de 10 UI/l.",
+   "Faux : elle peut être quantifiée par le dosage des anti-HBs.",
+   "L'efficacité vaccinale est de 95 %.",
+   "Faux : le seuil protecteur est supérieur à 10 UI/l.",
+   "Le dosage des Ac anti-HBs permet de vérifier l'immunité vaccinale."
+  ]
+ },
+ {
+  "q": "À propos de la protection conférée par le vaccin anti-VHB, quelles sont les propositions exactes ?",
+  "options": [
+   "Le vaccin anti-VHB protège également contre le VHD.",
+   "Le vaccin anti-VHB protège contre le VHC.",
+   "La protection repose sur les anticorps anti-HBs.",
+   "Le vaccin n'offre aucune protection croisée.",
+   "Le vaccin anti-VHB protège contre le VHA."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Le vaccin anti-HBV protège aussi contre le virus delta.",
+   "Faux : il n'existe pas de protection croisée contre le VHC.",
+   "Les anti-HBs sont les anticorps protecteurs.",
+   "Faux : il protège aussi contre le VHD.",
+   "Faux : la protection contre le VHA relève du vaccin bivalent."
+  ]
+ },
+ {
+  "q": "Quelles sont les indications de la vaccination contre le VHB retenues dans le cours ?",
+  "options": [
+   "Les professionnels de santé.",
+   "Les nouveau-nés de mère Ag HBs positive.",
+   "Les familles des porteurs du VHB.",
+   "Les voyageurs en zone d'endémie du VHA uniquement.",
+   "Les toxicomanes intraveineux."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Les professionnels de santé sont une indication.",
+   "Le nouveau-né de mère Ag HBs + doit être vacciné.",
+   "Les familles des porteurs du VHB sont ciblées.",
+   "Faux : cette indication concerne le vaccin contre l'hépatite A.",
+   "Les toxicomanes IV sont une indication."
+  ]
+ },
+ {
+  "q": "Concernant l'extension de la vaccination anti-VHB, quelles affirmations sont exactes ?",
+  "options": [
+   "Cette extension passe par le programme national d'immunisation depuis 2010.",
+   "Elle a été étendue aux adolescents.",
+   "Elle a été étendue à tous les nourrissons.",
+   "Aucune extension n'a eu lieu.",
+   "La vaccination reste réservée aux groupes à risque."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "L'extension se fait via le programme national d'immunisation depuis 2010.",
+   "Les adolescents sont également concernés.",
+   "Tous les nourrissons sont concernés depuis 2010.",
+   "Faux : l'extension a eu lieu en 2010.",
+   "Faux : elle a été étendue au-delà des groupes à risque."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les gammaglobulines spécifiques anti-HBs, lesquelles sont exactes ?",
+  "options": [
+   "Elles apportent une immunité durable de plusieurs années.",
+   "Elles protègent également contre le VHD.",
+   "Elles apportent une immunité immédiate.",
+   "Elles remplacent la vaccination dans tous les cas.",
+   "Cette immunité est transitoire."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : l'immunité est transitoire, pas durable.",
+   "Elle protège aussi contre le VHD.",
+   "Les gammaglobulines donnent une immunité immédiate.",
+   "Faux : elles sont une prophylaxie post-exposition, pas un substitut vaccinal.",
+   "Cette immunité est transitoire."
+  ]
+ },
+ {
+  "q": "S'agissant des indications des gammaglobulines spécifiques anti-HBs, lesquelles sont exactes ?",
+  "options": [
+   "Sujet vacciné avec des anti-HBs protecteurs.",
+   "Contamination accidentelle (piqûre, blessure) par du sang Ag HBs + chez un sujet non vacciné.",
+   "Transplantation hépatique.",
+   "Nouveau-né de mère positive pour l'Ag HBs.",
+   "Exposition sexuelle à risque."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : un sujet déjà protégé n'en a pas besoin.",
+   "L'accident d'exposition au sang Ag HBs + chez un non vacciné est une indication.",
+   "La transplantation hépatique est une indication.",
+   "Le nouveau-né de mère Ag HBs + est une indication.",
+   "L'exposition sexuelle est une indication."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant les mesures générales de prophylaxie de l'hépatite B ?",
+  "options": [
+   "Utiliser du matériel parfaitement nettoyé et stérilisé pour les soins dentaires.",
+   "La stérilisation du matériel de soins est inutile.",
+   "Utiliser du matériel d'injection à usage unique.",
+   "Partager les seringues entre toxicomanes est sans risque.",
+   "Appliquer la même rigueur pour l'acupuncture, les tatouages et les percements d'oreilles."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "La rigueur s'impose pour les examens médico-techniques et soins dentaires.",
+   "Faux : la stérilisation est indispensable.",
+   "Le matériel d'injection à usage unique est recommandé.",
+   "Faux : il faut lutter contre le partage des seringues.",
+   "Acupuncture, soins de beauté, tatouages et percements exigent la même rigueur."
+  ]
+ },
+ {
+  "q": "Relativement aux précautions individuelles contre l'hépatite B, lesquelles sont exactes ?",
+  "options": [
+   "Porter des gants lors de la manipulation de sang ou de produits biologiques.",
+   "Limiter le nombre de partenaires.",
+   "Avoir un usage personnel des brosses à dents et rasoirs.",
+   "Utiliser le préservatif devant toute situation à risque.",
+   "Partager sa brosse à dents en famille est recommandé."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Le port de gants est recommandé pour manipuler le sang.",
+   "La limitation du nombre de partenaires fait partie de la prévention.",
+   "L'usage personnel des brosses à dents et rasoirs est préconisé.",
+   "Le préservatif est recommandé devant toute situation à risque.",
+   "Faux : l'usage doit être strictement personnel."
+  ]
+ },
+ {
+  "q": "À propos du dépistage et de la transfusion dans la prévention de l'hépatite B, quelles sont les propositions exactes ?",
+  "options": [
+   "Exclure du don d'organes les sujets porteurs de l'Ac anti-HBc.",
+   "Demander un dépistage en cas de grossesse ou de groupe à risque.",
+   "Restreindre la transfusion aux seules indications indispensables.",
+   "Transfuser largement sans dépistage préalable.",
+   "Exclure du don de sang les sujets porteurs de l'Ag HBs."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Les porteurs de l'Ac anti-HBc sont exclus du don de tissus ou d'organes.",
+   "Le dépistage est demandé en cas de grossesse ou de groupe à risque.",
+   "La transfusion doit être restreinte aux indications indispensables.",
+   "Faux : le dépistage des dons est systématique.",
+   "Les porteurs de l'Ag HBs sont exclus du don de sang."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la lutte contre la transmission chez les toxicomanes ?",
+  "options": [
+   "Vacciner les toxicomanes IV contre le VHB.",
+   "Aucune mesure spécifique n'est prévue pour les toxicomanes.",
+   "Lutter contre le partage des seringues chez les toxicomanes IV.",
+   "Le partage des seringues est sans danger si les seringues sont rincées.",
+   "Utiliser du matériel d'injection à usage unique."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Les toxicomanes IV sont une indication de la vaccination.",
+   "Faux : des mesures spécifiques existent.",
+   "La lutte contre le partage des seringues est une mesure clé.",
+   "Faux : le partage des seringues transmet le VHB.",
+   "Le matériel à usage unique est recommandé."
+  ]
+ },
+ {
+  "q": "Un sujet vacciné contre l'hépatite B présente des anti-HBs positifs isolés. Quelles affirmations sont exactes ?",
+  "options": [
+   "Il est également protégé contre le VHD.",
+   "L'absence d'anti-HBc confirme l'origine vaccinale.",
+   "Il est protégé contre le VHB.",
+   "Ce profil signe une hépatite B chronique.",
+   "Ce profil signe une infection en cours."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le vaccin anti-VHB protège aussi contre le VHD.",
+   "L'absence d'anti-HBc prouve qu'il n'y a pas eu d'infection.",
+   "Les anti-HBs isolés signent une protection vaccinale.",
+   "Faux : l'hépatite chronique garde l'Ag HBs positif.",
+   "Faux : aucun marqueur d'infection active n'est présent."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles concernent la prévention de l'hépatite B chez le nouveau-né de mère Ag HBs + ?",
+  "options": [
+   "Les gammaglobulines spécifiques sont indiquées.",
+   "L'isolement du nouveau-né pendant 6 mois est imposé.",
+   "Seule l'allaitement maternel est recommandé.",
+   "La vaccination du nouveau-né est indiquée.",
+   "Aucune mesure n'est nécessaire à la naissance."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Les gammaglobulines spécifiques anti-HBs sont indiquées.",
+   "Faux : cette mesure n'est pas décrite dans le cours.",
+   "Faux : l'allaitement seul ne protège pas.",
+   "Le nouveau-né de mère Ag HBs + est une indication vaccinale.",
+   "Faux : une séro-vaccination est nécessaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la classification du VHC, lesquelles sont exactes ?",
+  "options": [
+   "Il appartient à la famille des Picornaviridae.",
+   "Il appartient à la famille des Flaviviridae.",
+   "Il appartient à la famille des Hepadnaviridae.",
+   "Son genre est Orthohepadnavirus.",
+   "Son genre est Hepacivirus."
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : les Picornaviridae sont la famille du VHA.",
+   "Le VHC est classé dans la famille des Flaviviridae.",
+   "Faux : les Hepadnaviridae sont la famille du VHB.",
+   "Faux : Orthohepadnavirus est le genre du VHB.",
+   "Son genre est Hepacivirus."
+  ]
+ },
+ {
+  "q": "Concernant les génotypes du VHC, quelles affirmations sont exactes ?",
+  "options": [
+   "Il existe de nombreux sous-types.",
+   "Le VHC compte 10 génotypes notés de A à J.",
+   "Il n'existe qu'un seul génotype de VHC.",
+   "Le VHC compte 7 génotypes, notés de 1 à 7.",
+   "Le VHC ne présente aucune variabilité génétique."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "De nombreux sous-types sont décrits (1a, 1b, 2a, 2b...).",
+   "Faux : 10 génotypes de A à J concernent le VHB.",
+   "Faux : il existe 7 génotypes.",
+   "Le cours retient 7 génotypes de VHC, de 1 à 7.",
+   "Faux : la variabilité génétique est importante."
+  ]
+ },
+ {
+  "q": "S'agissant du génotype du VHC le plus fréquent au Maroc, lesquelles sont exactes ?",
+  "options": [
+   "C'est le génotype 2.",
+   "Le génotype n'a aucun intérêt en pratique.",
+   "C'est le génotype 1b.",
+   "Le génotypage a un intérêt pronostique et thérapeutique.",
+   "C'est le génotype 3a."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le plus fréquent au Maroc est le 1b.",
+   "Faux : le génotype est un facteur prédictif de réponse.",
+   "Le génotype 1b est le plus fréquent au Maroc.",
+   "Le génotype conditionne la réponse au traitement.",
+   "Faux : le génotype 3a est associé à la toxicomanie IV."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant le génome du VHC ?",
+  "options": [
+   "C'est un ARN circulaire simple brin de polarité négative.",
+   "C'est un virus à ARN.",
+   "C'est un ARN simple brin de polarité positive.",
+   "C'est un ADN double brin linéaire.",
+   "C'est un ADN circulaire partiellement double brin."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : c'est le génome du VHD.",
+   "Le VHC est donc un virus à ARN.",
+   "Le génome du VHC est un ARN + simple brin.",
+   "Faux : le VHC n'a pas de génome ADN.",
+   "Faux : c'est le génome du VHB."
+  ]
+ },
+ {
+  "q": "Relativement à la capside du VHC, lesquelles sont exactes ?",
+  "options": [
+   "Elle est de symétrie indéterminée.",
+   "Elle est de symétrie hélicoïdale.",
+   "Elle n'est ni icosaédrique ni hélicoïdale typique.",
+   "Le VHC n'a pas de capside.",
+   "Elle est icosaédrique comme celle du VHB."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "La capside du VHC est de symétrie indéterminée.",
+   "Faux : la symétrie hélicoïdale ne concerne pas le VHC.",
+   "Elle ne correspond à aucun des deux types classiques.",
+   "Faux : le VHC possède une capside.",
+   "Faux : la capside icosaédrique est celle du VHB."
+  ]
+ },
+ {
+  "q": "À propos de l'enveloppe du VHC, quelles sont les propositions exactes ?",
+  "options": [
+   "L'enveloppe du VHC ne porte aucune protéine.",
+   "Son enveloppe dérive du VHB.",
+   "Le VHC est un virus nu sans enveloppe.",
+   "C'est une enveloppe lipidique.",
+   "Elle porte deux protéines E1 et E2."
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les protéines E1 et E2 sont présentes.",
+   "Faux : l'enveloppe dérivée du VHB caractérise le VHD.",
+   "Faux : le VHC est un virus enveloppé.",
+   "Le VHC possède une enveloppe lipidique.",
+   "Deux protéines d'enveloppe E1 et E2 y sont présentes."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la taille du VHC ?",
+  "options": [
+   "Son diamètre est de 37 nm.",
+   "Son diamètre est de 55 à 65 nm.",
+   "Il est plus grand que le VHB (42 nm).",
+   "Son diamètre est de 42 nm.",
+   "Son diamètre est de 20 nm."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : 37 nm est la taille du VHD.",
+   "Le VHC mesure 55 à 65 nm de diamètre.",
+   "Il est donc plus grand que le VHB (42 nm).",
+   "Faux : 42 nm est la taille du VHB.",
+   "Faux : 20 nm est la taille des sphérules du VHB."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes comparant les génomes des virus B, C et D, lesquelles sont exactes ?",
+  "options": [
+   "VHB : ARN simple brin de polarité positive.",
+   "VHB : ADN circulaire partiellement double brin.",
+   "VHC : ARN simple brin de polarité positive.",
+   "VHC : ADN circulaire partiellement double brin.",
+   "VHD : ARN circulaire simple brin de polarité négative."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : c'est le génome du VHC.",
+   "Le VHB est le seul virus à ADN des hépatites.",
+   "Le VHC a un génome ARN + simple brin.",
+   "Faux : c'est le génome du VHB.",
+   "Le VHD a un génome ARN − circulaire simple brin."
+  ]
+ },
+ {
+  "q": "S'agissant des protéines E1 et E2 du VHC, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des protéines de l'enveloppe virale.",
+   "Le VHC ne possède aucune protéine d'enveloppe.",
+   "Ce sont des protéines de la capside.",
+   "Elles sont portées par l'enveloppe lipidique.",
+   "Elles constituent le génome viral."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "E1 et E2 sont les deux protéines de l'enveloppe du VHC.",
+   "Faux : E1 et E2 sont les protéines d'enveloppe.",
+   "Faux : la capside est de symétrie indéterminée, sans E1/E2.",
+   "Elles sont ancrées dans l'enveloppe lipidique.",
+   "Faux : le génome est un ARN."
+  ]
+ },
+ {
+  "q": "Concernant les sous-types du VHC, quelles affirmations sont exactes ?",
+  "options": [
+   "On décrit les sous-types 1a, 1b, 2a, 2b.",
+   "Il n'existe aucun sous-type de VHC.",
+   "Le sous-type 3a est associé à la toxicomanie intraveineuse.",
+   "Le génotypage distingue les génotypes et sous-types.",
+   "Les sous-types n'ont aucun intérêt."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Les sous-types 1a, 1b, 2a, 2b sont cités dans le cours.",
+   "Faux : de nombreux sous-types existent.",
+   "Le cours associe le génotype 3a à la toxicomanie intraveineuse.",
+   "Les techniques de génotypage identifient génotypes et sous-types.",
+   "Faux : le génotype conditionne la réponse au traitement."
+  ]
+ },
+ {
+  "q": "Relativement aux propriétés d'un génome ARN + comme celui du VHC, lesquelles sont exactes ?",
+  "options": [
+   "Il peut être traduit directement en protéines dès son entrée dans la cellule.",
+   "Il doit obligatoirement être transcrit en ARN + avant traduction.",
+   "Il est de même polarité que les ARN messagers.",
+   "Il est plus stable que les génomes à ADN.",
+   "Il est nécessairement accompagné d'une polymérase dans le virion."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Il est directement traduit en protéines virales.",
+   "Faux : cela concerne les ARN de polarité négative.",
+   "L'ARN + a la même polarité que les ARNm cellulaires.",
+   "Faux : les génomes ARN sont caractérisés par leur fragilité.",
+   "Faux : cela concerne aussi les ARN de polarité négative."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes à propos du caractère enveloppé du VHC ?",
+  "options": [
+   "Le VHC est un virus nu.",
+   "Le VHC est un virus enveloppé.",
+   "L'enveloppe du VHC est de nature protéique pure.",
+   "Comme tout virus enveloppé, il est sensible aux solvants lipidiques.",
+   "Les virus enveloppés sont toujours résistants dans le milieu extérieur."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : le VHC est enveloppé.",
+   "Le VHC possède une enveloppe lipidique.",
+   "Faux : l'enveloppe est lipidique avec des protéines E1 et E2.",
+   "Les virus enveloppés sont sensibles aux solvants des lipides.",
+   "Faux : les virus enveloppés sont généralement fragiles ; le VHB est une exception notable."
+  ]
+ },
+ {
+  "q": "Concernant la transmission parentérale du VHC, quelles propositions sont exactes ?",
+  "options": [
+   "Le sang et ses dérivés sont en cause.",
+   "C'est le mode de transmission principal (+++).",
+   "La transfusion sanguine est un mode de transmission.",
+   "Le VHC ne se transmet pas par le sang.",
+   "La voie parentérale est exceptionnelle pour le VHC."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le sang et ses dérivés sont les véhicules principaux.",
+   "La transmission parentérale est notée +++.",
+   "La transfusion sanguine transmet le VHC.",
+   "Faux : le sang est le véhicule majeur.",
+   "Faux : c'est le mode principal."
+  ]
+ },
+ {
+  "q": "S'agissant de la transfusion sanguine et du VHC, lesquelles sont exactes ?",
+  "options": [
+   "Aucun contrôle des dons n'est nécessaire.",
+   "La transfusion sanguine peut transmettre le VHC.",
+   "Le contrôle des dons de sang fait partie de la prévention.",
+   "Les transfusés et les hémophiles ont été très exposés.",
+   "La transfusion ne transmet jamais le VHC."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le contrôle des dons est systématique.",
+   "La transfusion est un mode de transmission du VHC.",
+   "Le dépistage systématique des dons est une mesure de prévention.",
+   "Les transfusés et hémophiles constituent un groupe à risque.",
+   "Faux : la transfusion transmet le VHC."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la toxicomanie et le VHC, lesquelles sont exactes ?",
+  "options": [
+   "La toxicomanie intraveineuse transmet le VHC.",
+   "Les toxicomanes IV ont une prévalence très élevée.",
+   "La toxicomanie n'est pas un facteur de risque.",
+   "Les toxicomanes sont rarement infectés par le VHC.",
+   "Le génotype 3a est associé à la toxicomanie intraveineuse."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "La toxicomanie IV est un mode de transmission parentérale.",
+   "La prévalence est très élevée chez les toxicomanes IV, souvent multi-infectés.",
+   "Faux : c'est un groupe à risque majeur.",
+   "Faux : la prévalence y est très élevée.",
+   "Le cours associe le génotype 3a à la toxicomanie IV."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les accidents d'exposition au sang et le VHC ?",
+  "options": [
+   "Le personnel soignant n'est pas exposé au VHC.",
+   "Le port de gants fait partie de la prévention.",
+   "Les AES ne concernent que le VHB.",
+   "Les AES du personnel médical et paramédical peuvent transmettre le VHC.",
+   "Aucune mesure de prévention n'existe pour les soignants."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : le personnel soignant est un groupe exposé.",
+   "Les mesures d'hygiène universelle protègent le personnel.",
+   "Faux : les AES concernent aussi le VHC.",
+   "La transmission accidentelle / AES du personnel soignant est décrite.",
+   "Faux : les mesures d'hygiène universelle s'appliquent."
+  ]
+ },
+ {
+  "q": "Concernant les autres modes de transmission parentérale du VHC, quelles affirmations sont exactes ?",
+  "options": [
+   "L'hémodialyse peut transmettre le VHC.",
+   "Les investigations invasives et l'acupuncture sont en cause.",
+   "Les tatouages et les piercings peuvent transmettre le VHC.",
+   "Ces modes de transmission n'existent pas.",
+   "Les soins dentaires sont un mode possible."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "L'hémodialyse est un mode de transmission (transmission nosocomiale).",
+   "Investigations invasives et acupuncture sont citées.",
+   "Tatouages et piercings sont des modes de transmission.",
+   "Faux : tous ces modes sont décrits dans le cours.",
+   "Les soins dentaires sont cités."
+  ]
+ },
+ {
+  "q": "S'agissant de la transmission mère-enfant du VHC, lesquelles sont exactes ?",
+  "options": [
+   "Le risque augmente avec la charge virale chez la mère.",
+   "Chez les mères infectées par le VIH, la transmission est fréquente (20 %).",
+   "La transmission mère-enfant du VHC est systématique.",
+   "Chez les mères non infectées par le VIH, le risque est faible, de l'ordre de 3 %.",
+   "La charge virale maternelle n'influence pas le risque."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Plus la charge virale maternelle est élevée, plus le risque est grand.",
+   "20 % de transmission si la mère est co-infectée par le VIH, indépendamment du VIH.",
+   "Faux : le risque est de 3 % à 20 % selon le contexte.",
+   "Le risque n'est que de 3 % si la mère n'est pas infectée par le VIH.",
+   "Faux : le risque est d'autant plus élevé que la charge virale est élevée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la transmission sexuelle du VHC, lesquelles sont exactes ?",
+  "options": [
+   "Elle est peu probable.",
+   "Elle est cotée ++++ comme pour le VHB.",
+   "Elle n'existe dans aucune circonstance.",
+   "Elle est possible en cas de rapport traumatique.",
+   "C'est le mode principal de transmission du VHC."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "La transmission sexuelle du VHC est peu probable.",
+   "Faux : ++++ concerne la transmission sexuelle du VHB.",
+   "Faux : elle est possible lors de rapports traumatiques.",
+   "Le rapport traumatique est l'exception citée.",
+   "Faux : le mode principal est parentéral (+++)."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant la transmission intrafamiliale du VHC ?",
+  "options": [
+   "Les brosses à dents en commun sont en cause.",
+   "Le partage d'objets de toilette peut transmettre le VHC.",
+   "La transmission intrafamiliale n'existe pas.",
+   "Les rasoirs en commun sont en cause.",
+   "La simple cohabitation sans partage d'objets transmet le VHC."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Les brosses à dents partagées sont citées (ainsi que les ciseaux).",
+   "La transmission intrafamiliale passe par les objets de toilette en commun.",
+   "Faux : elle est décrite dans le cours.",
+   "Les rasoirs partagés sont cités.",
+   "Faux : c'est le partage d'objets piquants/coupants qui est en cause."
+  ]
+ },
+ {
+  "q": "Relativement aux groupes à risque de l'hépatite C, lesquelles sont exactes ?",
+  "options": [
+   "Les hémodialysés sont un groupe à risque.",
+   "Les transplantés d'organes sont un groupe à risque.",
+   "Les toxicomanes intraveineux sont un groupe à risque.",
+   "Il n'existe aucun groupe à risque pour le VHC.",
+   "Les transfusés et les hémophiles ont été très exposés."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Les hémodialysés sont exposés (transfusions multiples, transmission nosocomiale).",
+   "Les transplantés d'organes sont un groupe à risque.",
+   "Les toxicomanes IV ont une prévalence très élevée.",
+   "Faux : plusieurs groupes à risque sont identifiés.",
+   "Les transfusés et hémophiles ont été très exposés."
+  ]
+ },
+ {
+  "q": "À propos de l'hémodialyse et du VHC, quelles sont les propositions exactes ?",
+  "options": [
+   "La dialyse élimine tout risque de transmission virale.",
+   "L'hémodialyse n'est pas un facteur de risque.",
+   "Il existe une transmission nosocomiale au cours des séances d'hémodialyse.",
+   "Les transfusions multiples exposent les hémodialysés.",
+   "Les hémodialysés sont moins exposés que la population générale."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : un risque nosocomial persiste.",
+   "Faux : c'est un groupe à risque reconnu.",
+   "Une transmission nosocomiale survient au cours des séances.",
+   "Les multiples transfusions exposent les hémodialysés.",
+   "Faux : ils sont plus exposés."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la prévalence de l'hépatite C au Maroc ?",
+  "options": [
+   "Le Maroc est en zone de haute endémicité pour le VHC.",
+   "Environ 1 % de la population présente une hépatite virale C.",
+   "Le Maroc est en zone d'endémicité moyenne pour le VHC.",
+   "L'hépatite C est inexistante au Maroc.",
+   "La prévalence est de 2 à 7 %."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : c'est une zone d'endémicité moyenne.",
+   "Environ 1 % de la population est atteinte.",
+   "Le Maroc est en zone d'endémicité moyenne pour le VHC.",
+   "Faux : environ 1 % de la population est infectée.",
+   "Faux : 2 à 7 % est la prévalence de l'hépatite B au Maroc."
+  ]
+ },
+ {
+  "q": "S'agissant de l'épidémiologie mondiale du VHC, lesquelles sont exactes ?",
+  "options": [
+   "On compte 130 à 150 millions de porteurs chroniques.",
+   "On compte 240 millions de porteurs chroniques.",
+   "Le VHC est un problème de santé publique mondial.",
+   "Le VHC est en voie d'éradication mondiale.",
+   "L'infection chronique par le VHC est exceptionnelle."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Le cours retient 130 à 150 millions de porteurs chroniques.",
+   "Faux : 240 millions concernent le VHB.",
+   "VHB et VHC sont des problèmes de santé publique mondiaux.",
+   "Faux : le VHC reste un problème majeur.",
+   "Faux : 50 % des infections deviennent chroniques."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles distinguent l'épidémiologie du VHC de celle du VHB ?",
+  "options": [
+   "Les deux virus ont exactement la même épidémiologie.",
+   "Le taux de chronicité est de 10 % pour le VHB et de 50 % pour le VHC.",
+   "La prévalence au Maroc est de 2 à 7 % pour le VHB et d'environ 1 % pour le VHC.",
+   "Il existe un vaccin contre le VHC mais pas contre le VHB.",
+   "La transmission sexuelle est ++++ pour le VHB et peu probable pour le VHC."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : plusieurs différences épidémiologiques existent.",
+   "La chronicité est de 10 % (B) contre 50 % (C).",
+   "Les prévalences marocaines diffèrent : 2-7 % (B) contre ~1 % (C).",
+   "Faux : c'est l'inverse, vaccin pour B, pas pour C.",
+   "La voie sexuelle diffère nettement entre les deux virus."
+  ]
+ },
+ {
+  "q": "Concernant la transmission nosocomiale du VHC, quelles affirmations sont exactes ?",
+  "options": [
+   "Les mesures d'hygiène universelle la préviennent.",
+   "La transmission nosocomiale du VHC n'existe pas.",
+   "Le dépistage systématique des dons de sang la prévient.",
+   "Elle peut survenir au cours des séances d'hémodialyse.",
+   "Elle ne concerne que le VHB."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Les mesures d'hygiène universelle sont une mesure de prévention.",
+   "Faux : elle est décrite pour le VHC.",
+   "Le dépistage des dons prévient la transmission transfusionnelle.",
+   "La transmission nosocomiale en hémodialyse est décrite.",
+   "Faux : elle concerne aussi le VHC."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'incubation de l'hépatite C ?",
+  "options": [
+   "L'incubation dure de 1 à 6 mois.",
+   "La moyenne est de 90 jours.",
+   "L'incubation dépasse toujours 6 mois.",
+   "L'incubation est de quelques jours.",
+   "L'incubation dure de 15 à 150 jours."
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : 1 à 6 mois est l'incubation de l'hépatite B.",
+   "La moyenne est de 90 jours.",
+   "Faux : le maximum est de 150 jours.",
+   "Faux : l'incubation est de 15 à 150 jours.",
+   "Le cours retient une incubation de 15 à 150 jours."
+  ]
+ },
+ {
+  "q": "S'agissant de l'hépatite C aiguë, lesquelles sont exactes ?",
+  "options": [
+   "Les transaminases restent toujours normales.",
+   "Elle est souvent asymptomatique.",
+   "Elle donne les mêmes symptômes que les autres hépatites (fatigue, ictère).",
+   "La symptomatologie peut être atypique.",
+   "Elle est toujours ictérique et bruyante."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : on observe une élévation des transaminases.",
+   "L'infection aiguë est souvent asymptomatique.",
+   "Quand elle est symptomatique : fatigue et ictère comme les autres hépatites.",
+   "Une symptomatologie atypique est possible.",
+   "Faux : elle est souvent asymptomatique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les signes de l'hépatite C aiguë symptomatique, lesquelles sont exactes ?",
+  "options": [
+   "L'éruption cutanée est systématique.",
+   "L'ictère est un symptôme possible.",
+   "On observe une élévation des transaminases.",
+   "La fièvre élevée constante est le signe principal.",
+   "La fatigue est un symptôme possible."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : aucune éruption systématique n'est décrite.",
+   "L'ictère est décrit.",
+   "Les transaminases sont élevées.",
+   "Faux : ce signe n'est pas décrit comme principal.",
+   "La fatigue fait partie des symptômes."
+  ]
+ },
+ {
+  "q": "Concernant l'hépatite C chronique, quelles affirmations sont exactes ?",
+  "options": [
+   "Les anticorps anti-HCV sont présents.",
+   "L'examen clinique est toujours perturbé.",
+   "On observe une élévation des ALAT.",
+   "L'asthénie est fréquente.",
+   "Les ALAT sont toujours très élevées."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Les anticorps anti-HCV sont détectés.",
+   "Faux : l'examen clinique est très souvent normal.",
+   "Une élévation des ALAT est habituelle.",
+   "L'asthénie caractérise l'infection chronique.",
+   "Faux : les ALAT peuvent même être normales."
+  ]
+ },
+ {
+  "q": "Relativement aux ALAT dans l'hépatite C chronique, lesquelles sont exactes ?",
+  "options": [
+   "La biopsie n'a aucun intérêt si les ALAT sont normales.",
+   "Les ALAT sont toujours élevées dans l'hépatite chronique C.",
+   "Des ALAT normales n'excluent pas des lésions hépatiques.",
+   "Les ALAT peuvent être normales malgré des lésions hépatiques à la biopsie.",
+   "Des ALAT normales excluent toute lésion hépatique."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la biopsie garde son intérêt (lésions, fibrose).",
+   "Faux : les ALAT peuvent être normales.",
+   "Des ALAT normales n'excluent pas l'atteinte hépatique.",
+   "La biopsie peut montrer des lésions alors que les ALAT sont normales.",
+   "Faux : des lésions peuvent exister à ALAT normales."
+  ]
+ },
+ {
+  "q": "À propos de l'examen clinique dans l'hépatite C chronique, quelles sont les propositions exactes ?",
+  "options": [
+   "L'ictère est constant dans la forme chronique.",
+   "L'hépatomégalie est systématique.",
+   "L'examen clinique est toujours anormal.",
+   "L'examen clinique est très souvent normal.",
+   "La cirrhose est souvent asymptomatique."
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'ictère n'est pas constant.",
+   "Faux : aucun signe n'est systématique.",
+   "Faux : l'examen est très souvent normal.",
+   "L'examen clinique est très souvent normal.",
+   "La cirrhose liée au VHC est souvent asymptomatique."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant le risque de cirrhose dans l'hépatite C chronique ?",
+  "options": [
+   "L'intoxication alcoolique augmente ce risque.",
+   "Le risque de cirrhose est nul.",
+   "L'alcool protège contre la cirrhose.",
+   "Le risque de développer une cirrhose est important.",
+   "La co-infection par le VHB augmente ce risque."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "L'alcool aggrave le risque de cirrhose.",
+   "Faux : le risque est important.",
+   "Faux : l'alcool augmente le risque.",
+   "Le risque de cirrhose est important dans l'hépatite C chronique.",
+   "L'infection associée par le VHB augmente aussi ce risque."
+  ]
+ },
+ {
+  "q": "S'agissant des manifestations extra-hépatiques de l'hépatite C, lesquelles sont exactes ?",
+  "options": [
+   "La cryoglobulinémie est une manifestation extra-hépatique.",
+   "Des maladies auto-immunes peuvent s'observer.",
+   "Seules des manifestations hépatiques existent.",
+   "Il n'existe aucune manifestation extra-hépatique.",
+   "La porphyrie cutanée tardive est décrite."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "La cryoglobulinémie est l'anomalie immunologique extra-hépatique citée.",
+   "Des maladies auto-immunes sont décrites.",
+   "Faux : des manifestations extra-hépatiques sont décrites.",
+   "Faux : des manifestations extra-hépatiques existent.",
+   "La porphyrie cutanée tardive est une manifestation extra-hépatique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles concernent la cryoglobulinémie et le VHC ?",
+  "options": [
+   "C'est une manifestation exclusive de l'hépatite B.",
+   "C'est une anomalie immunologique extra-hépatique liée au VHC.",
+   "Elle fait partie des manifestations dysimmunitaires pouvant être liées au VHC.",
+   "Elle n'a aucun lien avec le VHC.",
+   "C'est une tumeur hépatique."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : elle est décrite dans l'hépatite C.",
+   "La cryoglobulinémie est citée parmi les manifestations extra-hépatiques du VHC.",
+   "La recherche de l'ARN viral est indiquée devant des manifestations dysimmunitaires.",
+   "Faux : le lien avec le VHC est établi.",
+   "Faux : c'est une anomalie immunologique, pas une tumeur."
+  ]
+ },
+ {
+  "q": "Concernant le passage à la chronicité de l'hépatite C, quelles affirmations sont exactes ?",
+  "options": [
+   "Environ 50 % des infections deviennent chroniques.",
+   "L'hépatite C ne devient jamais chronique.",
+   "Toutes les hépatites C guérissent spontanément.",
+   "Environ 10 % des infections deviennent chroniques.",
+   "Le taux de chronicité est plus élevé que celui de l'hépatite B."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Le cours retient 50 % de chronicité pour l'hépatite C.",
+   "Faux : 50 % deviennent chroniques.",
+   "Faux : la moitié des infections deviennent chroniques.",
+   "Faux : 10 % est le taux de l'hépatite B.",
+   "C'est bien plus que les 10 % de l'hépatite B."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les indications et le prélèvement du diagnostic de l'hépatite C ?",
+  "options": [
+   "Le recrutement (armée, police...) est une indication.",
+   "Un taux de transaminases élevé est une indication.",
+   "Le diagnostic se fait uniquement sur les urines.",
+   "Le sang (sérum ou plasma) est le prélèvement de choix.",
+   "Le bilan de grossesse est une indication."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Le recrutement est une indication.",
+   "Des transaminases élevées justifient le bilan.",
+   "Faux : le diagnostic se fait sur le sang.",
+   "Le prélèvement de choix est le sang (sérum ou plasma +++).",
+   "Le bilan de grossesse est une indication."
+  ]
+ },
+ {
+  "q": "S'agissant du diagnostic non spécifique de l'hépatite C, lesquelles sont exactes ?",
+  "options": [
+   "Les transaminases diminuent.",
+   "La bilirubine n'augmente jamais.",
+   "On observe une élévation de la bilirubine.",
+   "On observe une élévation des transaminases.",
+   "Le bilan hépatique est toujours normal."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : les transaminases augmentent.",
+   "Faux : la bilirubine peut augmenter.",
+   "L'élévation de la bilirubine (ictère) est non spécifique.",
+   "L'élévation des transaminases est non spécifique.",
+   "Faux : le bilan hépatique est perturbé."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le diagnostic indirect de l'hépatite C, lesquelles sont exactes ?",
+  "options": [
+   "La confirmation se fait sur un 2e prélèvement.",
+   "La confirmation se fait par un 2e test ELISA avec un réactif différent.",
+   "Le dépistage repose sur un test immuno-enzymatique de type ELISA.",
+   "Un seul test ELISA suffit sans confirmation.",
+   "Le diagnostic indirect détecte directement le virus."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La confirmation se fait sur un 2e prélèvement.",
+   "Si les Ac anti-HCV sont positifs, un 2e test ELISA (réactif différent) confirme.",
+   "Le dépistage utilise un test immuno-enzymatique type ELISA.",
+   "Faux : une confirmation est exigée.",
+   "Faux : le diagnostic indirect ne détecte que les anticorps."
+  ]
+ },
+ {
+  "q": "Concernant les limites des tests sérologiques du VHC, quelles affirmations sont exactes ?",
+  "options": [
+   "Ils ne mettent en évidence que des anticorps.",
+   "Ils détectent directement le virus en réplication.",
+   "Un test positif signe toujours une infection active.",
+   "Ils ne sont pas le reflet direct de l'infection.",
+   "Ils permettent de quantifier la charge virale."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "La sérologie ne détecte que les anticorps anti-HCV.",
+   "Faux : seule la détection de l'ARN est directe.",
+   "Faux : une infection guérie peut garder des anticorps.",
+   "Elle n'est donc pas le reflet direct de l'infection.",
+   "Faux : la charge virale se mesure par PCR quantitative."
+  ]
+ },
+ {
+  "q": "Relativement à la fenêtre sérologique de l'hépatite C, lesquelles sont exactes ?",
+  "options": [
+   "Lors d'une infection aiguë, l'apparition des anticorps peut être retardée.",
+   "La détection de l'ARN viral permet le diagnostic pendant cette période.",
+   "La fenêtre sérologique n'existe pas pour le VHC.",
+   "Pendant cette fenêtre, la sérologie peut être négative malgré l'infection.",
+   "Les anticorps apparaissent toujours dès le premier jour."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "L'apparition des anticorps est retardée en phase aiguë.",
+   "L'ARN viral est détectable pendant la fenêtre sérologique.",
+   "Faux : la fenêtre sérologique est décrite.",
+   "La sérologie peut donc être faussement négative.",
+   "Faux : l'apparition des anticorps est retardée."
+  ]
+ },
+ {
+  "q": "À propos des anticorps anti-HCV après guérison, quelles sont les propositions exactes ?",
+  "options": [
+   "La présence d'anticorps ne signe pas toujours une infection active.",
+   "Les anticorps disparaissent systématiquement après guérison.",
+   "Des anticorps positifs signent toujours une infection active.",
+   "Une infection guérie peut s'accompagner d'anticorps persistants.",
+   "La sérologie permet de distinguer infection active et guérie."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Les anticorps seuls ne prouvent pas l'infection active.",
+   "Faux : les anticorps peuvent persister.",
+   "Faux : une infection guérie peut garder des anticorps.",
+   "Après guérison, les anticorps peuvent persister.",
+   "Faux : seule la détection de l'ARN distingue infection active et guérie."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant le diagnostic direct de l'infection active par le VHC ?",
+  "options": [
+   "L'ARN viral est un signe de réplication virale.",
+   "Le diagnostic direct est impossible.",
+   "La sérologie suffit au diagnostic d'infection active.",
+   "Les anticorps sont le reflet direct de l'infection.",
+   "La détection de l'ARN viral est le seul moyen de diagnostic direct d'une infection active."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "L'ARN détecté signe la réplication virale.",
+   "Faux : les techniques moléculaires permettent le diagnostic direct.",
+   "Faux : la sérologie ne détecte que les anticorps.",
+   "Faux : les anticorps ne sont pas le reflet direct de l'infection.",
+   "Seule la détection de l'ARN viral fait le diagnostic direct d'infection active."
+  ]
+ },
+ {
+  "q": "S'agissant des techniques de détection qualitative de l'ARN du VHC, lesquelles sont exactes ?",
+  "options": [
+   "La RT-PCR est utilisée.",
+   "La culture virale est la technique de référence.",
+   "La technique des ADN branchés est utilisée.",
+   "La PCR en temps réel est utilisée.",
+   "La microscopie optique détecte l'ARN viral."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "La RT-PCR est une technique citée.",
+   "Faux : la culture n'est pas la référence.",
+   "Les ADN branchés sont une technique citée.",
+   "La PCR temps réel est une technique citée.",
+   "Faux : la microscopie optique ne détecte pas l'ARN viral."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la charge virale du VHC, lesquelles sont exactes ?",
+  "options": [
+   "Elle est mesurée par ELISA.",
+   "Elle est mesurée par PCR quantitative de l'ARN viral.",
+   "La charge virale ne varie jamais.",
+   "Elle n'a aucun intérêt pronostique.",
+   "Une charge virale élevée est un facteur de mauvaise réponse au traitement."
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : l'ELISA détecte les anticorps, pas l'ARN.",
+   "La PCR quantitative mesure la charge virale.",
+   "Faux : elle varie et son suivi évalue l'efficacité thérapeutique.",
+   "Faux : c'est un facteur prédictif de réponse.",
+   "Une charge virale élevée prédit une mauvaise réponse au traitement."
+  ]
+ },
+ {
+  "q": "Concernant le génotypage et les autres examens directs du VHC, quelles affirmations sont exactes ?",
+  "options": [
+   "La détection et la quantification des antigènes VHC sont possibles.",
+   "Le polymorphisme du gène de l'IL-28B est étudié.",
+   "Le génotypage n'a aucun intérêt.",
+   "Les techniques de génotypage identifient les 7 génotypes.",
+   "L'IL-28B n'a aucun lien avec l'hépatite C."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Les antigènes VHC peuvent être détectés et quantifiés.",
+   "Le polymorphisme de l'IL-28B est un examen cité.",
+   "Faux : le génotype conditionne le traitement.",
+   "Le génotypage distingue les 7 génotypes (1a, 1b, 2a, 2b...).",
+   "Faux : l'IL-28B est citée dans le bilan."
+  ]
+ },
+ {
+  "q": "Relativement à la ponction biopsie du foie dans l'hépatite C, lesquelles sont exactes ?",
+  "options": [
+   "Elle évalue le degré de fibrose.",
+   "Elle objective les lésions hépatiques.",
+   "Elle mesure la charge virale.",
+   "Elle remplace la sérologie.",
+   "Elle est inutile dans l'hépatite C."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Elle précise le degré de fibrose.",
+   "La PBF montre les lésions hépatiques.",
+   "Faux : la charge virale se mesure par PCR.",
+   "Faux : elle complète la sérologie et la biologie moléculaire.",
+   "Faux : elle garde un intérêt diagnostique et pronostique."
+  ]
+ },
+ {
+  "q": "À propos des indications du diagnostic direct (ARN) du VHC, quelles sont les propositions exactes ?",
+  "options": [
+   "Le diagnostic direct n'est jamais indiqué.",
+   "Hépatite aiguë ou chronique sans anticorps détectables, surtout chez l'immunodéprimé.",
+   "Tests de dépistage douteux ou discordants.",
+   "La sérologie suffit dans tous les cas.",
+   "Ac anti-HCV positifs avec transaminases normales, avant biopsie hépatique."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : plusieurs indications sont listées.",
+   "Chez l'immunodéprimé sans anticorps, l'ARN fait le diagnostic.",
+   "Les tests douteux (DO limite, discordance) justifient l'ARN.",
+   "Faux : la sérologie a des limites (fenêtre, immunodépression).",
+   "L'ARN est recherché si Ac + avec transaminases normales avant PBF."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'ARN du VHC dans le suivi thérapeutique ?",
+  "options": [
+   "L'ARN n'a aucun intérêt dans le suivi du traitement.",
+   "Le bilan pré-thérapeutique comprend la recherche de l'ARN.",
+   "C'est un élément pronostique.",
+   "Le suivi repose uniquement sur les transaminases.",
+   "La détection de l'ARN permet de savoir si les thérapeutiques antivirales sont efficaces."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : l'ARN est essentiel au suivi.",
+   "Le bilan pré-thérapeutique inclut la virologie directe.",
+   "C'est un élément pronostique.",
+   "Faux : la virologie directe complète le suivi.",
+   "Les techniques directes évaluent l'efficacité des antiviraux."
+  ]
+ },
+ {
+  "q": "S'agissant de la femme enceinte anti-HCV positive, lesquelles sont exactes ?",
+  "options": [
+   "Aucun examen complémentaire n'est utile.",
+   "La quantification de l'ARN évalue le risque de transmission à l'enfant.",
+   "L'allaitement est formellement contre-indiqué par le cours.",
+   "En l'absence de réplication chez la mère, le risque est en théorie nul.",
+   "La césarienne est systématiquement imposée par le cours."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : la quantification de l'ARN est indiquée.",
+   "La quantification de l'ARN chez la femme enceinte anti-HCV + évalue le risque.",
+   "Faux : cette contre-indication n'est pas mentionnée.",
+   "Sans réplication maternelle, le risque de transmission est théoriquement nul.",
+   "Faux : cette mesure n'est pas mentionnée."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le traitement de l'hépatite C chronique ?",
+  "options": [
+   "La bithérapie interféron alpha pégylé + ribavirine est utilisée.",
+   "La durée est de 6 à 12 mois selon le génotype et la charge virale.",
+   "Les analogues nucléos(t)idiques (lamivudine) sont le traitement de l'hépatite C.",
+   "Aucun traitement n'existe contre le VHC.",
+   "Le traitement dure toujours 3 mois quel que soit le cas."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La bithérapie IFNα pégylé + ribavirine est le traitement cité.",
+   "La durée de 6 à 12 mois dépend du génotype et de la charge virale.",
+   "Faux : lamivudine et adéfovir sont des anti-VHB.",
+   "Faux : un traitement existe.",
+   "Faux : la durée est de 6 à 12 mois selon le cas."
+  ]
+ },
+ {
+  "q": "S'agissant de la réponse au traitement par interféron pégylé + ribavirine, lesquelles sont exactes ?",
+  "options": [
+   "Environ 50 % des patients répondent au traitement.",
+   "Environ 35 % sont non répondeurs.",
+   "Environ 15 % sont partiellement répondeurs.",
+   "Aucun patient ne répond au traitement.",
+   "100 % des patients répondent."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La réponse au traitement est d'environ 50 %.",
+   "35 % sont non répondeurs.",
+   "15 % sont partiellement répondeurs.",
+   "Faux : 50 % répondent.",
+   "Faux : la moitié seulement répond."
+  ]
+ },
+ {
+  "q": "Parmi les facteurs prédictifs de réponse au traitement de l'hépatite C, lesquels sont exacts ?",
+  "options": [
+   "Le génotype 1 prédit une mauvaise réponse.",
+   "Les génotypes 2 et 3 prédisent une meilleure réponse.",
+   "Tous les génotypes répondent de façon identique.",
+   "La charge virale n'influence pas la réponse.",
+   "Une charge virale élevée prédit une mauvaise réponse."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Le génotype 1 est de mauvais pronostic thérapeutique.",
+   "Les génotypes 2 et 3 répondent mieux.",
+   "Faux : la réponse diffère selon le génotype.",
+   "Faux : la charge virale est un facteur prédictif.",
+   "Charge virale élevée = non ou mauvaise réponse."
+  ]
+ },
+ {
+  "q": "Concernant le sofosbuvir, quelles affirmations sont exactes ?",
+  "options": [
+   "C'est un nouveau traitement de l'hépatite C.",
+   "C'est un vaccin contre le VHC.",
+   "Il s'utilise avec la ribavirine ± interféron pégylé.",
+   "C'est un traitement de l'hépatite B.",
+   "C'est un analogue nucléotidique."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "C'est le nouveau traitement cité pour l'hépatite C.",
+   "Faux : il n'existe pas de vaccin contre le VHC.",
+   "L'association est sofosbuvir + ribavirine ± IFN pégylé.",
+   "Faux : c'est un anti-VHC.",
+   "Le sofosbuvir est un analogue nucléotidique."
+  ]
+ },
+ {
+  "q": "Relativement à la vaccination contre l'hépatite C, lesquelles sont exactes ?",
+  "options": [
+   "Il n'existe pas de vaccin contre le VHC.",
+   "Le vaccin anti-VHB protège contre le VHC.",
+   "Le vaccin anti-VHA protège contre le VHC.",
+   "La prévention repose sur l'hygiène et le dépistage.",
+   "Un vaccin efficace est disponible depuis 2010."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Aucun vaccin n'existe contre le VHC.",
+   "Faux : le vaccin anti-VHB ne protège pas contre le VHC.",
+   "Faux : aucune protection croisée n'existe.",
+   "La prévention est donc non vaccinale : hygiène, dépistage.",
+   "Faux : aucun vaccin anti-VHC n'existe."
+  ]
+ },
+ {
+  "q": "À propos de la prévention de l'hépatite C, quelles sont les propositions exactes ?",
+  "options": [
+   "La prévention chez les personnes à risque est nécessaire.",
+   "Les mesures d'hygiène universelle s'appliquent.",
+   "Le dépistage systématique dans la population est recommandé.",
+   "Le dépistage systématique du sang, des tissus et des organes est réalisé.",
+   "Aucune mesure de prévention n'existe."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "La prévention cible les personnes à risque.",
+   "Les mesures d'hygiène universelle sont la base.",
+   "Le dépistage systématique dans la population est préconisé.",
+   "Le dépistage des dons (sang, tissus, organes) est systématique.",
+   "Faux : plusieurs mesures de prévention existent."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant le suivi virologique du traitement de l'hépatite C ?",
+  "options": [
+   "La détection de l'ARN évalue l'efficacité des thérapeutiques antivirales.",
+   "La PCR quantitative suit la charge virale sous traitement.",
+   "Seule la sérologie suffit au suivi.",
+   "Le suivi virologique est inutile.",
+   "La biopsie est le seul examen de suivi."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Les techniques directes disent si le traitement est efficace.",
+   "La charge virale est suivie par PCR quantitative.",
+   "Faux : la sérologie ne reflète pas l'infection active.",
+   "Faux : le suivi virologique est essentiel.",
+   "Faux : la virologie directe est l'outil de suivi."
+  ]
+ },
+ {
+  "q": "S'agissant du polymorphisme du gène de l'IL-28B, lesquelles sont exactes ?",
+  "options": [
+   "Il n'a aucun intérêt dans l'hépatite C.",
+   "Il est étudié dans le bilan de l'hépatite C.",
+   "Il s'agit d'un marqueur du VHB.",
+   "Il remplace le génotypage viral.",
+   "C'est un facteur pronostique lié au traitement."
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : il est cité dans le diagnostic direct du VHC.",
+   "Le polymorphisme de l'IL-28B fait partie du bilan.",
+   "Faux : c'est un marqueur de l'hôte dans l'hépatite C.",
+   "Faux : il complète le génotypage, ne le remplace pas.",
+   "Il intervient dans la prédiction de l'efficacité thérapeutique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes comparant les traitements des hépatites B et C, lesquelles sont exactes ?",
+  "options": [
+   "Les deux infections se traitent de façon identique.",
+   "L'interféron (pégylé) est utilisé dans les deux.",
+   "La ribavirine est associée à l'interféron dans l'hépatite C.",
+   "Le sofosbuvir est un anti-VHC, pas un anti-VHB.",
+   "La lamivudine est un traitement de l'hépatite C."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : les schémas diffèrent.",
+   "L'interféron alpha (pégylé) est commun aux deux traitements.",
+   "La bithérapie IFN pégylé + ribavirine est celle de l'hépatite C.",
+   "Le sofosbuvir est spécifique du VHC.",
+   "Faux : la lamivudine est un anti-VHB."
+  ]
+ },
+ {
+  "q": "Concernant les manifestations dysimmunitaires et le VHC, quelles affirmations sont exactes ?",
+  "options": [
+   "Seule la biopsie explore ces manifestations.",
+   "Les manifestations dysimmunitaires excluent une hépatite C.",
+   "Aucun bilan viral n'est utile devant une cryoglobulinémie.",
+   "La cryoglobulinémie est une manifestation dysimmunitaire liée au VHC.",
+   "La recherche de l'ARN viral est indiquée devant des manifestations dysimmunitaires."
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la biologie moléculaire est l'examen clé.",
+   "Faux : elles peuvent être liées au VHC.",
+   "Faux : la recherche de l'ARN est indiquée.",
+   "La cryoglobulinémie est la manifestation citée.",
+   "L'ARN viral est recherché devant des manifestations dysimmunitaires."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la nature du virus de l'hépatite D ?",
+  "options": [
+   "Il se réplique indépendamment de tout autre virus.",
+   "C'est un virus défectif à ARN.",
+   "C'est un virus autonome.",
+   "Il ne se réplique qu'en présence du VHB.",
+   "C'est un virus à ADN."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : il nécessite la présence du VHB.",
+   "Le VHD est un virus défectif à ARN.",
+   "Faux : il est défectif, non autonome.",
+   "Il a besoin du VHB pour se répliquer.",
+   "Faux : son génome est à ARN."
+  ]
+ },
+ {
+  "q": "S'agissant de la classification du VHD, lesquelles sont exactes ?",
+  "options": [
+   "Sa famille n'est pas précisée dans le cours.",
+   "Il appartient à la famille des Hepadnaviridae.",
+   "Son genre est Hepacivirus.",
+   "Son genre est Deltavirus.",
+   "Il appartient à la famille des Flaviviridae."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "La famille est notée « ? » dans le cours.",
+   "Faux : les Hepadnaviridae sont la famille du VHB.",
+   "Faux : Hepacivirus est le genre du VHC.",
+   "Le VHD est classé dans le genre Deltavirus.",
+   "Faux : les Flaviviridae sont la famille du VHC."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la taille du VHD, lesquelles sont exactes ?",
+  "options": [
+   "Le VHD mesure 37 nm de diamètre.",
+   "Le VHD mesure 55 à 65 nm.",
+   "Le VHD est plus grand que le VHC.",
+   "C'est le plus petit des trois virus B, C et D.",
+   "Le VHD mesure 42 nm."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Le VHD mesure 37 nm.",
+   "Faux : 55 à 65 nm est la taille du VHC.",
+   "Faux : le VHC est plus grand.",
+   "Il est plus petit que le VHB (42 nm) et le VHC (55-65 nm).",
+   "Faux : 42 nm est la taille du VHB."
+  ]
+ },
+ {
+  "q": "Concernant l'enveloppe du VHD, quelles affirmations sont exactes ?",
+  "options": [
+   "Le VHD ne porte pas l'Ag HBs.",
+   "Elle porte l'Ag HBs.",
+   "Son enveloppe dérive du VHC.",
+   "Son enveloppe dérive du VHB.",
+   "Le VHD est un virus nu."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : il porte l'Ag HBs, d'où sa dépendance au VHB.",
+   "Elle porte donc l'antigène HBs.",
+   "Faux : l'enveloppe dérive du VHB.",
+   "L'enveloppe du VHD dérive de celle du VHB.",
+   "Faux : le VHD est enveloppé."
+  ]
+ },
+ {
+  "q": "Relativement à la capside et au génome du VHD, lesquelles sont exactes ?",
+  "options": [
+   "Son génome est de polarité négative.",
+   "Son génome est un ADN circulaire.",
+   "Son génome est un ARN circulaire simple brin.",
+   "Sa capside est icosaédrique.",
+   "Sa capside est sphérique."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Cet ARN est de polarité négative.",
+   "Faux : le génome du VHD est à ARN.",
+   "Son génome est un ARN circulaire simple brin.",
+   "Faux : la capside icosaédrique est celle du VHB.",
+   "Le VHD a une capside sphérique."
+  ]
+ },
+ {
+  "q": "À propos du caractère défectif du VHD, quelles sont les propositions exactes ?",
+  "options": [
+   "Le VHD peut se répliquer dans un hépatocyte sans VHB.",
+   "Le VHD nécessite la présence du VHB pour se répliquer.",
+   "Son enveloppe, dérivée du VHB, porte l'Ag HBs.",
+   "Le VHD peut infecter un sujet sans aucune infection par le VHB.",
+   "Le VHD se transmet indépendamment du VHB."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : la présence du VHB est indispensable.",
+   "Virus défectif : il ne se réplique qu'en présence du VHB.",
+   "Il utilise l'enveloppe du VHB porteuse d'Ag HBs.",
+   "Faux : il est toujours associé au VHB.",
+   "Faux : sa transmission suit celle du VHB."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant la coinfection par le VHD ?",
+  "options": [
+   "Le taux de chronicité est de 2 à 7 %.",
+   "Le taux de chronicité est de 70 à 90 %.",
+   "Elle donne une hépatite aiguë plus grave que l'infection B seule.",
+   "La coinfection est toujours bénigne.",
+   "C'est l'infection simultanée par le VHD et le VHB."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "La chronicité est de 2 à 7 % en cas de coinfection.",
+   "Faux : 70 à 90 % concerne la surinfection.",
+   "L'hépatite aiguë est plus grave que l'infection B seule.",
+   "Faux : elle est plus grave que l'infection B seule.",
+   "La coinfection est l'infection simultanée HDV + HBV."
+  ]
+ },
+ {
+  "q": "S'agissant de la surinfection par le VHD, lesquelles sont exactes ?",
+  "options": [
+   "C'est l'infection par le VHD chez un porteur chronique du VHB.",
+   "Le taux de chronicité est de 2 à 7 %.",
+   "La surinfection peut survenir sans VHB.",
+   "La surinfection est moins grave que la coinfection.",
+   "Le taux de chronicité est de 70 à 90 %."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "La surinfection touche un porteur chronique du VHB.",
+   "Faux : 2 à 7 % concerne la coinfection.",
+   "Faux : le VHB est toujours présent.",
+   "Faux : la surinfection évolue très souvent vers la chronicité.",
+   "La chronicité atteint 70 à 90 % en cas de surinfection."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes comparant coinfection et surinfection par le VHD, lesquelles sont exactes ?",
+  "options": [
+   "La surinfection évolue plus souvent vers la chronicité que la coinfection.",
+   "La surinfection a un taux de chronicité de 70 à 90 %.",
+   "La coinfection a un taux de chronicité de 2 à 7 %.",
+   "La coinfection est plus grave à long terme que la surinfection.",
+   "Les deux formes ont le même taux de chronicité."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "La surinfection devient donc bien plus souvent chronique.",
+   "Surinfection : 70 à 90 % de chronicité.",
+   "Coinfection : 2 à 7 % de chronicité.",
+   "Faux : la surinfection a le plus fort taux de chronicité.",
+   "Faux : les taux sont très différents."
+  ]
+ },
+ {
+  "q": "Concernant la transmission du VHD, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle est exclusivement féco-orale.",
+   "La voie sexuelle est possible.",
+   "La voie parentérale est possible.",
+   "La transmission materno-fœtale est possible.",
+   "Elle est la même que celle du VHB."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la voie féco-orale concerne les virus A et E.",
+   "La voie sexuelle (+ ve++++ pour le VHB) s'applique.",
+   "La voie parentérale s'applique.",
+   "La voie materno-fœtale périnatale s'applique.",
+   "La transmission du VHD est identique à celle du VHB."
+  ]
+ },
+ {
+  "q": "Relativement à la répartition géographique du VHD, lesquelles sont exactes ?",
+  "options": [
+   "Il est endémique en Afrique.",
+   "Il est endémique en Italie.",
+   "Il est endémique en Amérique du Sud.",
+   "Il sévit de façon indépendante du VHB.",
+   "Il est toujours associé au VHB."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "L'Afrique est une zone d'endémie.",
+   "L'Italie est une zone d'endémie du VHD.",
+   "L'Amérique du Sud est une zone d'endémie.",
+   "Faux : il est toujours associé au VHB.",
+   "Le VHD est toujours associé au VHB."
+  ]
+ },
+ {
+  "q": "À propos de la prévalence du VHD, quelles sont les propositions exactes ?",
+  "options": [
+   "Le VHD est plus fréquent que le VHB.",
+   "100 % des porteurs de l'Ag HBs sont infectés par le VHD.",
+   "Environ 5 % des porteurs de l'Ag HBs sont infectés par le VHD.",
+   "Le VHD est toujours associé au VHB.",
+   "Le VHD peut exister sans le VHB."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le VHD est moins fréquent que le VHB.",
+   "Faux : seuls 5 % des porteurs d'Ag HBs sont co-infectés.",
+   "5 % des porteurs d'Ag HBs sont infectés par le VHD.",
+   "Le VHD est toujours associé au VHB.",
+   "Faux : le VHD nécessite toujours le VHB."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le diagnostic sérique du VHD ?",
+  "options": [
+   "Le diagnostic du VHD repose sur la culture virale.",
+   "L'ARN du VHD est détecté par RT-PCR.",
+   "L'Ag HBs suffit à affirmer l'infection par le VHD.",
+   "Les Ac anti-HDV (IgG et IgM) sont détectés par ELISA.",
+   "L'Ag delta est détecté par ELISA ou immunofluorescence."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la culture n'est pas utilisée.",
+   "L'ARN du VHD se détecte par RT-PCR.",
+   "Faux : l'Ag HBs signe le VHB, pas le VHD.",
+   "Les IgG et IgM anti-HDV se détectent par ELISA.",
+   "L'Ag delta sérique se détecte par ELISA ou IF."
+  ]
+ },
+ {
+  "q": "S'agissant du diagnostic hépatique du VHD, lesquelles sont exactes ?",
+  "options": [
+   "Seul le sérum permet le diagnostic.",
+   "Le diagnostic hépatique est impossible.",
+   "L'ARN du VHD ne se recherche que dans le foie.",
+   "L'Ag delta peut être détecté dans le foie par ELISA.",
+   "L'Ag delta peut être détecté dans le foie par immunofluorescence."
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le foie est aussi un site de diagnostic.",
+   "Faux : le foie permet la détection de l'Ag delta.",
+   "Faux : l'ARN se recherche dans le sérum par RT-PCR.",
+   "L'Ag delta hépatique se détecte par ELISA.",
+   "L'immunofluorescence est aussi utilisable sur le foie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles rapprochent le VHD du VHB ?",
+  "options": [
+   "Le traitement est identique à celui du VHB.",
+   "La clinique est identique à celle du VHB.",
+   "L'épidémiologie du VHD est identique à celle du VHB.",
+   "La prévention est identique à celle du VHB.",
+   "Le VHD est un virus totalement indépendant du VHB."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Le traitement est celui de l'hépatite B chronique.",
+   "La clinique suit celle du VHB.",
+   "Épidémiologie, clinique, traitement et prévention sont identiques au VHB.",
+   "La prévention (dont la vaccination anti-VHB) est la même.",
+   "Faux : le VHD dépend totalement du VHB."
+  ]
+ },
+ {
+  "q": "Concernant la prévention du VHD, quelles affirmations sont exactes ?",
+  "options": [
+   "Aucune prévention n'est possible contre le VHD.",
+   "Les gammaglobulines anti-HBs protègent aussi contre le VHD.",
+   "Il existe un vaccin spécifique contre le VHD.",
+   "Les mesures de prévention sont celles de l'hépatite B.",
+   "Le vaccin anti-VHB protège également contre le VHD."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la vaccination anti-VHB prévient l'infection delta.",
+   "Les gammaglobulines anti-HBs protègent également contre le VHD.",
+   "Faux : il n'existe pas de vaccin spécifique anti-VHD.",
+   "La prévention du VHD est identique à celle du VHB.",
+   "Le vaccin anti-HBV protège aussi contre le virus delta."
+  ]
+ },
+ {
+  "q": "Relativement à l'hépatite fulminante chez un porteur chronique du VHB, lesquelles sont exactes ?",
+  "options": [
+   "On recherche les IgM et IgG anti-delta.",
+   "Il faut éliminer systématiquement une participation du VHD.",
+   "On recherche l'Ag delta.",
+   "La recherche du VHD est inutile.",
+   "Les IgM anti-HBc sont quasi constantes dans ce contexte."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Les IgM et IgG anti-delta sont recherchées.",
+   "Une surinfection par le VHD doit être systématiquement éliminée.",
+   "L'Ag delta est recherché.",
+   "Faux : cette recherche est systématique.",
+   "Faux : les IgM anti-HBc sont rares chez le porteur chronique."
+  ]
+ },
+ {
+  "q": "À propos de la disparition transitoire de l'Ag HBs, quelles sont les propositions exactes ?",
+  "options": [
+   "Elle est définitive.",
+   "Elle peut masquer l'infection par le VHB sous-jacente.",
+   "Elle peut survenir lors d'une surinfection par le VHD.",
+   "Elle n'a aucune signification clinique.",
+   "Elle survient lors d'une infection par le VHC."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : la disparition est transitoire.",
+   "L'infection B peut ainsi être méconnue.",
+   "La surinfection par le VHD peut faire disparaître transitoirement l'Ag HBs.",
+   "Faux : elle complique le diagnostic.",
+   "Faux : c'est la surinfection par le VHD qui est en cause."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant le génome du VHD par rapport aux autres virus ?",
+  "options": [
+   "Il diffère du génome du VHC qui est un ARN + linéaire.",
+   "C'est le seul génome à ARN circulaire simple brin de polarité négative des hépatites.",
+   "Il diffère du génome du VHB qui est à ADN.",
+   "Son génome est un ADN.",
+   "Son génome est identique à celui du VHB."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Le VHC a un ARN + simple brin, différent.",
+   "Le VHD est le seul à avoir un ARN − circulaire simple brin.",
+   "Le VHB a un génome à ADN, différent.",
+   "Faux : le génome du VHD est à ARN.",
+   "Faux : les génomes sont de nature différente."
+  ]
+ },
+ {
+  "q": "S'agissant de la gravité de l'infection par le VHD, lesquelles sont exactes ?",
+  "options": [
+   "La surinfection évolue vers la chronicité dans 70 à 90 % des cas.",
+   "La coinfection donne une hépatite aiguë plus grave que l'infection B seule.",
+   "L'infection par le VHD est toujours bénigne.",
+   "Le VHD atténue la gravité de l'hépatite B.",
+   "Le VHD n'aggrave jamais l'hépatite B."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "La surinfection devient chronique dans 70 à 90 % des cas.",
+   "La coinfection est plus grave que l'infection B seule.",
+   "Faux : le VHD aggrave l'hépatite B.",
+   "Faux : il l'aggrave au contraire.",
+   "Faux : coinfection et surinfection aggravent le pronostic."
+  ]
+ },
+ {
+  "q": "Parmi les marqueurs du VHD, lesquels sont recherchés dans le sérum ?",
+  "options": [
+   "Les IgG anti-HDV.",
+   "L'ARN du VHD.",
+   "L'Ag delta.",
+   "L'Ag HBs suffit à lui seul.",
+   "Les IgM anti-HDV."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Les IgG anti-HDV sont recherchées par ELISA.",
+   "L'ARN du VHD est recherché par RT-PCR.",
+   "L'Ag delta sérique est recherché.",
+   "Faux : l'Ag HBs signe le VHB, il faut les marqueurs delta spécifiques.",
+   "Les IgM anti-HDV sont recherchées par ELISA."
+  ]
+ },
+ {
+  "q": "Concernant la dépendance du VHD vis-à-vis du VHB, quelles affirmations sont exactes ?",
+  "options": [
+   "Le VHD peut se répliquer sans VHB.",
+   "La vaccination anti-VHB prévient l'infection par le VHD.",
+   "Le VHD utilise l'enveloppe du VHC.",
+   "Sans VHB, le VHD ne peut pas se répliquer.",
+   "Un sujet vacciné contre le VHB peut être infecté par le seul VHD."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : la présence du VHB est indispensable.",
+   "En prévenant le VHB, le vaccin prévient le VHD.",
+   "Faux : l'enveloppe dérive du VHB.",
+   "Le VHD, virus défectif, ne se réplique qu'en présence du VHB.",
+   "Faux : sans VHB, pas d'infection delta possible."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les voies de transmission des virus des hépatites ?",
+  "options": [
+   "Tous les virus des hépatites se transmettent par voie féco-orale.",
+   "Les virus A et E se transmettent par voie entérale (féco-orale).",
+   "La voie sexuelle concerne les virus B, C et D.",
+   "La voie materno-fœtale concerne les virus B, C et D.",
+   "Les virus B, C et D se transmettent par voie parentérale."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : seuls A et E sont à transmission féco-orale.",
+   "VHA et VHE : transmission entérale.",
+   "La transmission sexuelle est décrite pour B, C et D.",
+   "La transmission materno-fœtale concerne B, C et D.",
+   "VHB, VHC et VHD : transmission parentérale."
+  ]
+ },
+ {
+  "q": "S'agissant du passage à la chronicité selon les virus, lesquelles sont exactes ?",
+  "options": [
+   "L'hépatite E devient chroniques dans 50 % des cas.",
+   "Environ 50 % des hépatites C deviennent chroniques.",
+   "L'hépatite A ne devient jamais chronique.",
+   "Environ 10 % des hépatites B deviennent chroniques.",
+   "Toutes les hépatites virales deviennent chroniques."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le VHE ne donne pas d'hépatite chronique (sauf cas particuliers d'immunodéprimés non au programme).",
+   "Le taux de chronicité du VHC est de 50 %.",
+   "Les virus A et E ne donnent que des hépatites aiguës.",
+   "Le taux de chronicité du VHB est de 10 %.",
+   "Faux : A et E ne deviennent pas chroniques."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le risque d'hépatocarcinome, lesquelles sont exactes ?",
+  "options": [
+   "Le VHC expose au risque d'hépatocarcinome.",
+   "Le VHB expose au risque d'hépatocarcinome.",
+   "Les hépatites aiguës A et E évoluent vers le cancer du foie.",
+   "Le VHA expose au risque d'hépatocarcinome.",
+   "Les hépatites chroniques B et C peuvent évoluer vers la cirrhose puis le CHC."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "VHC : risque d'hépatocarcinome.",
+   "VHB : risque d'hépatocarcinome.",
+   "Faux : A et E ne donnent que des hépatites aiguës.",
+   "Faux : le VHA ne donne pas d'hépatite chronique.",
+   "La séquence est hépatite chronique → cirrhose → CHC."
+  ]
+ },
+ {
+  "q": "Concernant le caractère enveloppé des virus des hépatites, quelles affirmations sont exactes ?",
+  "options": [
+   "Le VHE est enveloppé.",
+   "Le VHC est enveloppé.",
+   "Le VHD est enveloppé.",
+   "Le VHA est enveloppé.",
+   "Le VHB est enveloppé."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : le VHE est un virus nu.",
+   "Le VHC est un virus enveloppé.",
+   "Le VHD est un virus enveloppé (enveloppe dérivée du VHB).",
+   "Faux : le VHA est un virus nu.",
+   "Le VHB est un virus enveloppé."
+  ]
+ },
+ {
+  "q": "Relativement aux familles des virus des hépatites, lesquelles sont exactes ?",
+  "options": [
+   "VHD : genre Deltavirus.",
+   "VHA : famille des Picornaviridae.",
+   "VHB : famille des Hepadnaviridae.",
+   "VHC : famille des Flaviviridae.",
+   "VHC : famille des Hepadnaviridae."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Le VHD est classé dans le genre Deltavirus.",
+   "Le VHA appartient aux Picornaviridae.",
+   "Le VHB appartient aux Hepadnaviridae.",
+   "Le VHC appartient aux Flaviviridae.",
+   "Faux : les Hepadnaviridae sont la famille du VHB."
+  ]
+ },
+ {
+  "q": "À propos des génomes des cinq virus des hépatites, quelles sont les propositions exactes ?",
+  "options": [
+   "VHB : ADN circulaire partiellement double brin.",
+   "VHD : ARN − circulaire simple brin.",
+   "VHB : ARN + simple brin.",
+   "VHC : ARN + simple brin.",
+   "VHA : ARN + simple brin."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Le VHB est le seul virus à ADN.",
+   "Le VHD a un génome ARN − circulaire simple brin.",
+   "Faux : le génome du VHB est à ADN.",
+   "Le VHC a un génome ARN + simple brin.",
+   "Le VHA (Picornaviridae) a un génome ARN + simple brin."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant les vaccins contre les hépatites virales ?",
+  "options": [
+   "Il n'existe pas de vaccin contre l'hépatite C.",
+   "Il existe un vaccin contre l'hépatite A.",
+   "Il existe un vaccin contre l'hépatite B.",
+   "Il existe un vaccin spécifique contre le VHD.",
+   "Il existe un vaccin contre l'hépatite C."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Aucun vaccin n'existe contre le VHC.",
+   "La vaccination contre l'hépatite A existe.",
+   "La vaccination contre l'hépatite B existe (efficace à 95 %).",
+   "Faux : la prévention du VHD passe par le vaccin anti-VHB.",
+   "Faux : il n'existe pas de vaccin anti-VHC."
+  ]
+ },
+ {
+  "q": "S'agissant de la physiopathologie des hépatites virales, lesquelles sont exactes ?",
+  "options": [
+   "Le virus peut avoir un rôle cytopathogène direct.",
+   "Il n'y a jamais de nécrose hépatocytaire.",
+   "L'inflammation est uniquement d'origine toxique.",
+   "Une nécrose hépatocytaire est souvent associée.",
+   "L'inflammation du foie est liée à la réponse immune secondaire à l'agression virale."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Un rôle cytopathogène direct du virus est parfois en cause.",
+   "Faux : la nécrose est souvent associée.",
+   "Faux : l'agression est virale.",
+   "La nécrose hépatocytaire est souvent associée.",
+   "L'hépatite est l'inflammation liée à la réponse immune."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'épidémiologie au Maroc, lesquelles sont exactes ?",
+  "options": [
+   "Le Maroc est en zone de moyenne endémicité pour le VHB (2 à 7 %).",
+   "La prévalence du VHC au Maroc est de 2 à 7 %.",
+   "Le Maroc est en zone de haute endémicité pour le VHB.",
+   "Le Maroc est en zone de moyenne endémicité pour le VHC (environ 1 %).",
+   "Le Maroc est indemne d'hépatites virales."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Prévalence VHB au Maroc : 2 à 7 %, zone de moyenne endémicité.",
+   "Faux : 2 à 7 % est la prévalence du VHB.",
+   "Faux : c'est une zone de moyenne endémicité.",
+   "Prévalence VHC au Maroc : environ 1 %, zone de moyenne endémicité.",
+   "Faux : les deux virus y sont endémiques."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic virologique des hépatites parentérales, quelles affirmations sont exactes ?",
+  "options": [
+   "La sérologie (ELISA) est un pilier du diagnostic.",
+   "La culture virale est l'examen de référence pour le VHB.",
+   "Le diagnostic repose uniquement sur la clinique.",
+   "Aucun examen biologique n'est utile.",
+   "La biologie moléculaire (PCR) est un pilier du diagnostic."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "La conclusion du cours insiste sur sérologie et biologie moléculaire.",
+   "Faux : la culture du VHB in vitro est impossible.",
+   "Faux : le diagnostic est biologique.",
+   "Faux : sérologie et biologie moléculaire sont essentielles.",
+   "La PCR est un outil diagnostique majeur (+++)."
+  ]
+ },
+ {
+  "q": "Relativement aux problèmes de santé publique posés par les hépatites B et C, lesquelles sont exactes ?",
+  "options": [
+   "Le VHB et le VHC sont des problèmes de santé publique mondiaux.",
+   "Les deux virus exposent au risque d'hépatocarcinome.",
+   "Aucune mesure de santé publique n'est justifiée.",
+   "Ce sont des infections bénignes sans enjeu collectif.",
+   "La notion de groupes à risque s'applique aux deux virus."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "VHB et VHC sont des problèmes de santé publique mondiaux.",
+   "Les deux exposent au risque d'hépatocarcinome.",
+   "Faux : dépistage, vaccination et prévention sont justifiés.",
+   "Faux : ce sont des problèmes majeurs de santé publique.",
+   "La notion de groupes à risques est soulignée pour les deux."
+  ]
+ },
+ {
+  "q": "À propos des traitements des hépatites parentérales, quelles sont les propositions exactes ?",
+  "options": [
+   "L'interféron alpha est utilisé dans les hépatites B et C chroniques.",
+   "La ribavirine est associée à l'interféron dans l'hépatite C.",
+   "Les traitements actuels guérissent 100 % des patients.",
+   "Les traitements actuels (IFNα, ribavirine) sont jugés encore insuffisants.",
+   "De nouveaux traitements sont en développement."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "L'IFNα est commun aux traitements des hépatites B et C.",
+   "La bithérapie IFN pégylé + ribavirine est celle de l'hépatite C.",
+   "Faux : la réponse n'est que d'environ 50 % pour l'hépatite C.",
+   "La conclusion juge ces traitements encore insuffisants.",
+   "De nouveaux traitements sont attendus."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les tailles respectives des virus B, C et D ?",
+  "options": [
+   "VHB : 55 à 65 nm.",
+   "VHD : 37 nm.",
+   "VHC : 55 à 65 nm.",
+   "VHB : 42 nm.",
+   "VHD : 42 nm."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : 55 à 65 nm est la taille du VHC.",
+   "Le VHD mesure 37 nm.",
+   "Le VHC mesure 55 à 65 nm.",
+   "Le VHB mesure 42 nm.",
+   "Faux : 42 nm est la taille du VHB."
+  ]
+ },
+ {
+  "q": "S'agissant des modes de transmission comparés, lesquelles sont exactes ?",
+  "options": [
+   "VHC : sexuelle ++++.",
+   "VHD : identique au VHB.",
+   "VHC : parentérale +++, sexuelle peu probable, intrafamiliale.",
+   "VHB : transmission féco-orale principale.",
+   "VHB : sexuelle ++++, parentérale, materno-fœtale périnatale."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : la voie sexuelle ++++ concerne le VHB.",
+   "Le VHD se transmet comme le VHB.",
+   "La transmission du VHC est parentérale +++, sexuelle peu probable.",
+   "Faux : la voie féco-orale concerne les virus A et E.",
+   "Les trois modes du VHB sont bien ceux-là."
+  ]
+ }
+]

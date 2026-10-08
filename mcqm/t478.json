@@ -1,0 +1,4514 @@
+[
+ {
+  "q": "Concernant la réponse immunitaire humorale (RIH), lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Elle est médiée par les lymphocytes B",
+   "Les immunoglobulines en sont les effecteurs majeurs",
+   "Elle est spécifique de l'antigène",
+   "Elle est médiée par les lymphocytes T CD8 cytotoxiques",
+   "Elle se met en action quand la première barrière (réaction inflammatoire) est franchie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la RIH est médiée par les LB.",
+   "Exact : les Ig (Ac) sont les effecteurs majeurs de la RIH.",
+   "Exact : la RIH est une réponse spécifique.",
+   "Faux : les LT CD8 sont les effecteurs de la réponse cellulaire, pas de la RIH.",
+   "Exact : l'immunité adaptative prolonge l'immunité innée une fois l'inflammation dépassée."
+  ]
+ },
+ {
+  "q": "Concernant le lymphocyte B naïf mature, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Il migre de la moelle osseuse vers les organes lymphoïdes périphériques",
+   "S'il ne rencontre pas d'antigène, il à une durée de vie courte et meurt par apoptose",
+   "Il reconnaît l'antigène grâce à son BCR",
+   "Après reconnaissance de l'antigène, il prolifère et se différencie en plasmocytes sécréteurs d'Ig et en LB mémoire",
+   "Il sécrète spontanément des immunoglobulines en l'absence d'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le LB mature quitte la MO vers les OLP.",
+   "Exact : le LB naïf qui ne rencontre pas d'Ag meurt par apoptose.",
+   "Exact : la reconnaissance se fait par le BCR.",
+   "Exact : c'est la différenciation du LB active.",
+   "Faux : la sécrétion d'Ig exige l'activation par l'Ag."
+  ]
+ },
+ {
+  "q": "Concernant les deux types de réponse immunitaire humorale, lesquelles sont exactes ?",
+  "options": [
+   "La RIH peut être thymo-indépendante (TI) ou thymo-dépendante (TD)",
+   "Les antigènes les plus fréquents de la RIH TD sont les protéines",
+   "La RIH TI nécessite l'aide des lymphocytes T helper",
+   "La RIH TD nécessite une coopération TH-B pour la synthèse d'Ig",
+   "Les polysaccharides bactériens à structure répétitive induisent une RIH thymo-indépendante"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : la RIH dépend de la nature de l'Ag (TI ou TD).",
+   "Exact : les protéines sont les Ag TD les plus fréquents.",
+   "Faux : la RIH TI se fait sans l'aide du LTH.",
+   "Exact : la coopération TH-B est indispensable à la RIH TD.",
+   "Exact : polysaccharides répétitifs = Ag TI."
+  ]
+ },
+ {
+  "q": "Concernant les effecteurs de l'immunité humorale, lesquelles sont exactes ?",
+  "options": [
+   "L'anticorps est le principal effecteur de l'immunité humorale",
+   "Les anticorps inondent le tissu lésé lors de la RIH",
+   "Les anticorps contribuent à éliminer l'agent pathogène par neutralisation, ADCC et activation du complément",
+   "Les anticorps sont sécrétées par les plasmocytes",
+   "Les anticorps sont produits par les lymphocytes T helper"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'Ac est le principal effecteur de l'immunité humorale.",
+   "Exact : les Ac inondent le tissu lésé (recrutement des effecteurs).",
+   "Exact : ce sont les trois mécanismes d'élimination de la RIH.",
+   "Exact : le plasmocyte est la cellule sécrétante d'Ig.",
+   "Faux : les LTH sécrètent des cytokines, pas des anticorps."
+  ]
+ },
+ {
+  "q": "Concernant la mise en place de l'immunité adaptative humorale, lesquelles sont exactes ?",
+  "options": [
+   "L'immunité adaptative est le prolongement de l'immunité innée",
+   "Elle met en œuvre des globules blancs particuliers : les lymphocytes",
+   "Elle constitue un deuxième bouclier protecteur de l'organisme",
+   "Elle est immédiate et non spécifique",
+   "Elle fait intervenir les lymphocytes B pour la voie humorale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'immunité adaptative prolonge l'immunité innée.",
+   "Exact : les lymphocytes sont les cellules de l'immunité adaptative.",
+   "Exact : c'est la 2e ligne de défense.",
+   "Faux : elle est retardée et spécifique (c'est l'innée qui est immédiate).",
+   "Exact : les LB medient la RIH."
+  ]
+ },
+ {
+  "q": "Concernant le devenir du lymphocyte B naïf au niveau des organes lymphoïdes périphériques, lesquelles sont exactes ?",
+  "options": [
+   "Le LB naïf qui ne rencontre pas d'Ag à une durée de vie courte",
+   "Le LB naïf qui ne rencontre pas d'Ag meurt par apoptose",
+   "Le LB naïf qui reconnaît un Ag via son BCR prolifère",
+   "Le LB active se différencie en plasmocytes sécréteurs d'Ig",
+   "Le LB active se différencie uniquement en plasmocytes, jamais en cellules mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : sans rencontre antigénique, vie courte.",
+   "Exact : mort par apoptose du LB naïf non stimule.",
+   "Exact : la reconnaissance via le BCR déclenche la prolifération.",
+   "Exact : différenciation en plasmocytes sécréteurs.",
+   "Faux : il génère aussi des LB mémoire."
+  ]
+ },
+ {
+  "q": "Concernant le plasmocyte, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "C'est la cellule sécrétante d'immunoglobulines",
+   "Il dérive de la différenciation du lymphocyte B active",
+   "Il sécrète des anticorps, effecteurs de l'immunité humorale",
+   "Il exprime un BCR membranaire fonctionnel",
+   "Il se forme dans les organes lymphoïdes périphériques après rencontre avec l'Ag"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le plasmocyte sécrète les Ig.",
+   "Exact : il provient du LB active.",
+   "Exact : les Ac sont les effecteurs de la RIH.",
+   "Faux : le plasmocyte à perdu l'expression membranaire du BCR au profit de la sécrétion.",
+   "Exact : la différenciation à lieu en périphérie après rencontre antigénique."
+  ]
+ },
+ {
+  "q": "Concernant l'immunoglobuline en tant que molécule, lesquelles sont exactes ?",
+  "options": [
+   "C'est une glycoprotéine",
+   "C'est un puissant immunogène reconnu par des Ig anti-Ig",
+   "Elle est synthétisée puis sécrétée par le plasmocyte",
+   "Elle constitue l'effecteur majeur de la RIH",
+   "C'est une molécule exclusivement membranaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'Ig est une glycoprotéine.",
+   "Exact : les Ig portent des déterminants antigéniques (anti-Ig).",
+   "Exact : synthèse puis sécrétion par le plasmocyte.",
+   "Exact : l'Ac est l'effecteur majeur de l'immunité humorale.",
+   "Faux : elle existe sous forme membranaire (BCR) et sécrétée (Ac)."
+  ]
+ },
+ {
+  "q": "Concernant le lieu de maturation des lymphocytes B, lesquelles sont exactes ?",
+  "options": [
+   "La moelle osseuse est le lieu de naissance et de maturation des LB",
+   "Les LB restent dans la moelle osseuse et ne la quittent qu'une fois matures",
+   "La maturation des LB à lieu dans le thymus",
+   "La moelle osseuse est un organe lymphoïde primaire",
+   "Les LB matures migrent vers les organes lymphoïdes périphériques"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : naissance et maturation des LB dans la MO.",
+   "Exact : ils ne quittent la MO qu'une fois matures.",
+   "Faux : le thymus est le lieu de maturation des LT.",
+   "Exact : la MO est un organe lymphoïde central/primaire.",
+   "Exact : les LB matures gagnent les OLP."
+  ]
+ },
+ {
+  "q": "Concernant les premières étapes de la lymphopoïèse B, lesquelles sont exactes ?",
+  "options": [
+   "La cellule souche hématopoïétique (CSH) donne la cellule souche lymphoïde (CSL)",
+   "La CSL donne la cellule progénitrice B (pro-B), première cellule de la lignée B",
+   "La cellule pro-B prolifère dans un environnement cytokinique",
+   "Les cytokines IL3 et IL7 participent à la différenciation B précoce",
+   "La lymphopoïèse B débute dans les ganglions lymphatiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CSH -> CSL.",
+   "Exact : la pro-B est la première cellule de la lignée B.",
+   "Exact : la pro-B prolifère sous influence cytokinique.",
+   "Exact : IL3 et IL7 sont citées dans la maturation B.",
+   "Faux : elle débute dans la moelle osseuse."
+  ]
+ },
+ {
+  "q": "Concernant le stade pre-B, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "La cellule pre-B exprime la chaîne lourde mu intracytoplasmique",
+   "Elle exprime une chaîne légère de substitution",
+   "Elle exprime CD79, formant le pre-BCR",
+   "Elle exprime déjà une IgM membranaire complète et fonctionnelle",
+   "Le pre-BCR est composé de la chaîne mu + chaîne légère de substitution + CD79"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : chaîne lourde mu intracytoplasmique au stade pre-B.",
+   "Exact : chaîne légère de substitution.",
+   "Exact : CD79 est exprimé des le stade pre-B.",
+   "Faux : l'IgM membranaire complète apparaît au stade B immature.",
+   "Exact : c'est la composition du pre-BCR."
+  ]
+ },
+ {
+  "q": "Concernant le lymphocyte B immature, lesquelles sont exactes ?",
+  "options": [
+   "Il exprime la chaîne légère, permettant la formation d'une IgM membranaire",
+   "L'IgM membranaire constitue un BCR fonctionnel",
+   "Il subit une sélection négative dans la moelle osseuse",
+   "Le LB immature dont le BCR reconnaît les Ag du soi est élimine par apoptose",
+   "Tous les LB immatures survivent et quittent la moelle osseuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'expression de la chaîne légère forme l'IgM membranaire.",
+   "Exact : c'est le BCR fonctionnel du B immature.",
+   "Exact : sélection négative médullaire.",
+   "Exact : les clones auto-reactifs meurent par apoptose.",
+   "Faux : 95 % des LB immatures meurent dans la MO."
+  ]
+ },
+ {
+  "q": "Concernant la sélection négative des lymphocytes B, lesquelles sont exactes ?",
+  "options": [
+   "Elle a lieu dans la moelle osseuse au stade B immature",
+   "Le LB portant un BCR reconnaissant les Ag du soi est auto-reactif",
+   "Le LB auto-reactif est élimine et meurt par apoptose",
+   "95 % des LB immatures meurent dans la moelle osseuse",
+   "Elle a lieu dans le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : sélection négative médullaire du B immature.",
+   "Exact : BCR anti-soi = auto-reactivite.",
+   "Exact : élimination par apoptose.",
+   "Exact : seuls ~5 % survivent.",
+   "Faux : la sélection thymique concerne les LT."
+  ]
+ },
+ {
+  "q": "Concernant le lymphocyte B mature, lesquelles sont exactes ?",
+  "options": [
+   "C'est la cellule B qui à survécu à la sélection négative",
+   "Elle quitte la moelle osseuse pour les organes périphériques",
+   "En périphérie, elle rencontre l'Ag et se différencie en plasmocytes sécréteurs d'Ig",
+   "Elle exprime à sa surface IgM et IgD",
+   "Elle sécrète déjà de grandes quantités d'IgM pentamérique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : survie à la sélection = B mature.",
+   "Exact : migration MO -> organes périphériques.",
+   "Exact : différenciation en plasmocytes après rencontre antigénique.",
+   "Exact : le B mature périphérique exprime IgM + IgD.",
+   "Faux : la sécrétion massive est le fait du plasmocyte, pas du B mature."
+  ]
+ },
+ {
+  "q": "Concernant l'ordre des stades de maturation du lymphocyte B, lesquelles sont exactes ?",
+  "options": [
+   "Cellule progénitrice B (pro-B) puis cellule pre-B",
+   "Cellule pre-B puis lymphocyte B immature",
+   "Lymphocyte B immature puis lymphocyte B mature",
+   "Lymphocyte B mature puis plasmocyte après rencontre antigénique",
+   "Lymphocyte B immature puis directement plasmocyte sans stade mature"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : pro-B -> pre-B.",
+   "Exact : pre-B -> B immature.",
+   "Exact : B immature -> B mature.",
+   "Exact : B mature -> plasmocyte après Ag.",
+   "Faux : le stade B mature périphérique est indispensable."
+  ]
+ },
+ {
+  "q": "Concernant la chaîne lourde mu au cours de la maturation B, lesquelles sont exactes ?",
+  "options": [
+   "Elle est exprimée de façon intracytoplasmique au stade pre-B",
+   "Elle s'associe à la chaîne légère de substitution dans le pre-BCR",
+   "Elle forme avec la chaîne légère l'IgM membranaire du B immature",
+   "Elle est sécrétée sous forme pentamérique par le plasmocyte",
+   "Elle est exprimée en surface des la cellule pro-B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : mu intracytoplasmique au stade pre-B.",
+   "Exact : association mu + chaîne légère de substitution.",
+   "Exact : IgM membranaire du B immature.",
+   "Exact : le plasmocyte sécrète l'IgM pentamérique (chaîne mu).",
+   "Faux : pas d'expression de surface au stade pro-B."
+  ]
+ },
+ {
+  "q": "Concernant CD79 au cours de la maturation B, lesquelles sont exactes ?",
+  "options": [
+   "CD79 est exprimé des le stade pre-B",
+   "CD79 fait partie du pre-BCR avec la chaîne mu",
+   "CD79 (Ig-alpha/Ig-beta) fait partie du BCR du LB mature",
+   "CD79 participe à la transduction du signal du BCR",
+   "CD79 est un marqueur exclusif des lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CD79 présent des le pre-BCR.",
+   "Exact : pre-BCR = mu + chaîne légère de substitution + CD79.",
+   "Exact : BCR = IgM + Ig-alpha (CD79a) + Ig-beta (CD79b).",
+   "Exact : Ig-alpha/Ig-beta portent les motifs ITAM de signalisation.",
+   "Faux : CD79 est un marqueur de la lignée B."
+  ]
+ },
+ {
+  "q": "Concernant l'apoptose dans la maturation B, lesquelles sont exactes ?",
+  "options": [
+   "Le LB naïf qui ne rencontre pas d'Ag meurt par apoptose en périphérie",
+   "Le LB immature auto-reactif meurt par apoptose dans la moelle osseuse",
+   "95 % des LB immatures meurent dans la moelle osseuse",
+   "L'apoptose élimine les clones B reconnaissant le soi",
+   "Tous les LB auto-reactifs survivent et sécrètent des auto-anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : apoptose du LB naïf non stimule.",
+   "Exact : apoptose des B immatures auto-reactifs (sélection négative).",
+   "Exact : ~95 % de mortalité médullaire.",
+   "Exact : c'est le mécanisme de tolérance centrale B.",
+   "Faux : ils sont éliminés ; leur survie serait pathologique."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines de la lymphopoïèse B précoce, lesquelles sont exactes ?",
+  "options": [
+   "L'IL7 intervient dans l'environnement cytokinique de la pro-B",
+   "L'IL3 intervient dans la différenciation B précoce",
+   "La pro-B prolifère grâce à un environnement cytokinique",
+   "L'IL4 est la cytokine majeure de la pro-B médullaire",
+   "L'IL5 dirige la maturation médullaire précoce du LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IL7 citée dans la maturation B.",
+   "Exact : IL3 citée dans la maturation B.",
+   "Exact : la pro-B prolifère dans un environnement cytokinique.",
+   "Faux : l'IL4 agit en périphérie (commutation vers IgE).",
+   "Faux : l'IL5 agit sur le LB active en périphérie."
+  ]
+ },
+ {
+  "q": "Lequel/lesquels des énoncés suivants concernant la moelle osseuse et les LB sont exacts ?",
+  "options": [
+   "La moelle osseuse produit les cellules immunes dont les LB",
+   "Les LB y subissent leur maturation jusqu'au stade B mature",
+   "La moelle osseuse est le lieu de rencontre entre l'Ag et le LB naïf",
+   "La moelle osseuse est un organe lymphoïde secondaire",
+   "Les plasmocytes se forment dans la moelle osseuse après stimulation antigénique"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : la MO produit les cellules immunes.",
+   "Exact : maturation B complète jusqu'au stade mature.",
+   "Faux : la rencontre Ag-LB naïf à lieu dans les OLP.",
+   "Faux : la MO est un organe lymphoïde primaire/central.",
+   "Faux : les plasmocytes se forment en périphérie après rencontre antigénique."
+  ]
+ },
+ {
+  "q": "Concernant le BCR au cours de la maturation, lesquelles sont exactes ?",
+  "options": [
+   "Le pre-BCR apparaît au stade pre-B",
+   "Le BCR fonctionnel (IgM membranaire) apparaît au stade B immature",
+   "Le B mature périphérique exprime IgM et IgD comme BCR",
+   "Le BCR du B immature auto-reactif déclenche l'apoptose du clone",
+   "Le plasmocyte conserve un BCR membranaire identique à celui du LB naïf"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : pre-BCR au stade pre-B.",
+   "Exact : IgM membranaire fonctionnelle au stade B immature.",
+   "Exact : IgM + IgD chez le B mature périphérique.",
+   "Exact : signal auto-reactif -> apoptose (sélection négative).",
+   "Faux : le plasmocyte perd le BCR membranaire au profit de la sécrétion."
+  ]
+ },
+ {
+  "q": "Concernant la chaîne légère de substitution, lesquelles sont exactes ?",
+  "options": [
+   "Elle est exprimée au stade pre-B",
+   "Elle s'associe à la chaîne lourde mu intracytoplasmique",
+   "Elle participe à la formation du pre-BCR avec CD79",
+   "Elle est identique à la chaîne légère kappa ou lambda définitive",
+   "Elle disparaît au stade B immature au profit de la vraie chaîne légère"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : expression au stade pre-B.",
+   "Exact : association avec mu.",
+   "Exact : pre-BCR = mu + chaîne légère de substitution + CD79.",
+   "Faux : c'est une chaîne de substitution, pas la chaîne légère définitive.",
+   "Exact : remplacée par la chaîne légère kappa/lambda au stade B immature."
+  ]
+ },
+ {
+  "q": "Concernant la différenciation terminale du lymphocyte B, lesquelles sont exactes ?",
+  "options": [
+   "Elle fait suite à la reconnaissance de l'Ag par le BCR en périphérie",
+   "Elle produit des plasmocytes sécréteurs d'immunoglobulines",
+   "Elle produit des LB mémoire",
+   "Elle a lieu dans la moelle osseuse avant la sortie du LB",
+   "Elle ne nécessite jamais l'aide des lymphocytes T helper"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : déclenchée par la reconnaissance antigénique en périphérie.",
+   "Exact : génération de plasmocytes sécréteurs.",
+   "Exact : génération de LB mémoire.",
+   "Faux : elle à lieu dans les OLP, pas dans la MO.",
+   "Faux : la voie thymo-dépendante exige la coopération TH-B."
+  ]
+ },
+ {
+  "q": "Concernant les caractéristiques du lymphocyte B immature versus mature, lesquelles sont exactes ?",
+  "options": [
+   "Le B immature exprime uniquement l'IgM membranaire",
+   "Le B mature périphérique exprime IgM et IgD",
+   "Le B immature subit la sélection négative, pas le B mature",
+   "Le B mature à une durée de vie courte s'il ne rencontre pas d'Ag",
+   "Le B immature sécrète déjà des IgM pentamériques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IgM membranaire seule au stade immature.",
+   "Exact : IgM + IgD chez le B mature périphérique.",
+   "Exact : la sélection négative est médullaire, au stade immature.",
+   "Exact : apoptose du B mature naïf non stimule.",
+   "Faux : la sécrétion est le fait du plasmocyte."
+  ]
+ },
+ {
+  "q": "Concernant le BCR du lymphocyte B mature, lesquelles sont exactes ?",
+  "options": [
+   "Le BCR est composé d'une IgM membranaire",
+   "Le BCR s'associe à deux hétérodimères Ig-alpha (CD79a) / Ig-beta (CD79b)",
+   "Ig-alpha et Ig-beta portent des motifs ITAM de transduction du signal",
+   "Le BCR reconnaît l'antigène natif",
+   "Le BCR existe sous forme soluble sécrétée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IgM membranaire = BCR.",
+   "Exact : BCR = IgM + 2[Ig-alpha + Ig-beta].",
+   "Exact : ITAM = motif d'activation via tyrosine.",
+   "Exact : le LB reconnaît l'Ag natif via son BCR.",
+   "Faux : le BCR est membranaire ; la forme soluble est l'anticorps."
+  ]
+ },
+ {
+  "q": "Concernant le corecepteur du BCR, lesquelles sont exactes ?",
+  "options": [
+   "Il est forme de CD21, CD19 et CD81",
+   "CD21 est le récepteur du complément CR2",
+   "CD21 lie le fragment C3d du complément",
+   "La coligation BCR-corecepteur amplifie le signal d'activation du LB",
+   "Le corecepteur est forme de CD3 et de la chaîne zeta"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : corecepteur = CD21 + CD19 + CD81.",
+   "Exact : CD21 = CR2.",
+   "Exact : CD21 lie C3d.",
+   "Exact : le corecepteur abaisse le seuil d'activation du LB.",
+   "Faux : CD3/zeta appartiennent au complexe du TCR."
+  ]
+ },
+ {
+  "q": "Concernant les molécules de surface du LB mature périphérique, lesquelles sont exactes ?",
+  "options": [
+   "Il exprime l'IgD à côté de l'IgM",
+   "Il exprime des molécules CMH de classe II",
+   "Il exprime les molécules de costimulation B7-1 (CD80) et B7-2 (CD86)",
+   "Il exprime CD40",
+   "Il exprime le CD3"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IgD co-exprimée avec IgM.",
+   "Exact : CMH II car le LB est une CPA.",
+   "Exact : B7-1/B7-2 molécules de costimulation.",
+   "Exact : CD40 interagit avec CD40L du LTH.",
+   "Faux : CD3 est le complexe de signalisation du TCR."
+  ]
+ },
+ {
+  "q": "Concernant le LB en tant que cellule présentatrice d'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Le LB est une CPA professionnelle, comme la DC et le macrophage",
+   "Le LB capture l'Ag natif par son BCR",
+   "Le LB internalisé l'Ag par endocytose puis l'apprête en peptides",
+   "Le LB présente les peptides par ses molécules HLA de classe II au LTH",
+   "Le LB présente l'Ag natif non apprête au LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : LB = CPA professionnelle.",
+   "Exact : capture de l'Ag natif via le BCR.",
+   "Exact : endocytose puis apprêtement en peptides.",
+   "Exact : présentation CMH II au LTH CD4.",
+   "Faux : l'Ag est apprête en peptides avant présentation."
+  ]
+ },
+ {
+  "q": "Concernant l'interaction CD40/CD40L dans la coopération B-TH, lesquelles sont exactes ?",
+  "options": [
+   "CD40 est exprimé par le lymphocyte B",
+   "CD40L (ligand de CD40) est induit sur le lymphocyte T helper",
+   "La liaison CD40/CD40L est une molécule de costimulation de la coopération B-TH",
+   "Elle participe à la formation du conjugué B-TH",
+   "CD40 est exprimé par le LTH et CD40L par le LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CD40 sur le LB.",
+   "Exact : CD40L induit sur le LTH après interaction.",
+   "Exact : couple de costimulation LB/LTH.",
+   "Exact : contribue au conjugué B-TH.",
+   "Faux : c'est l'inverse."
+  ]
+ },
+ {
+  "q": "Concernant l'interaction B7/CD28 dans la coopération B-TH, lesquelles sont exactes ?",
+  "options": [
+   "B7 (CD80/CD86) est exprimé par le lymphocyte B",
+   "CD28 est exprimé par le lymphocyte T helper",
+   "La liaison B7/CD28 consolide le signal d'activation",
+   "Elle participe à la formation du conjugué B-TH",
+   "B7 est exprimé par le LTH et CD28 par le LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : B7 sur le LB.",
+   "Exact : CD28 sur le LTH.",
+   "Exact : molécule de costimulation consolidant le signal 1.",
+   "Exact : formation du conjugué B-TH.",
+   "Faux : c'est l'inverse."
+  ]
+ },
+ {
+  "q": "Concernant le motif ITAM, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "ITAM signifie Immunoreceptor Tyrosine-based Activation Motif",
+   "Les ITAM sont portes par Ig-alpha/Ig-beta du complexe BCR",
+   "Les ITAM permettent la transduction du signal d'activation dans le LB",
+   "Les ITAM sont phosphorylés sur des résidus tyrosine",
+   "Les ITAM inhibent l'activation du lymphocyte B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : définition de l'ITAM.",
+   "Exact : Ig-alpha/Ig-beta (CD79a/b) portent les ITAM.",
+   "Exact : transduction du 1er signal dans le LB.",
+   "Exact : activation via phosphorylation des tyrosines.",
+   "Faux : les ITAM activent, ils n'inhibent pas."
+  ]
+ },
+ {
+  "q": "Concernant l'IgD membranaire du lymphocyte B, lesquelles sont exactes ?",
+  "options": [
+   "L'IgD est co-exprimée avec l'IgM par le LB mature périphérique",
+   "L'IgD participe au BCR",
+   "L'IgD possède une région charnière très longue",
+   "L'IgD possède une queue cytoplasmique",
+   "L'IgD est la principale Ig sécrétée de la réponse secondaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IgM + IgD chez le B mature.",
+   "Exact : l'IgD participe au BCR.",
+   "Exact : charnière très longue caractéristique.",
+   "Exact : queue cytoplasmique.",
+   "Faux : la réponse secondaire est dominée par les IgG."
+  ]
+ },
+ {
+  "q": "Concernant la reconnaissance de l'antigène par le LB et le LTH, lesquelles sont exactes ?",
+  "options": [
+   "Le LB reconnaît l'antigène natif via son BCR",
+   "Le LTH est incapable de reconnaître un antigène natif",
+   "L'Ag doit être apprête en peptides par une CPA avant présentation au LTH",
+   "Le LB, en tant que CPA, apprête l'Ag capture par son BCR",
+   "Le LTH reconnaît directement l'Ag natif via son TCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : BCR = reconnaissance de l'Ag natif.",
+   "Exact : le LTH ne reconnaît pas l'Ag natif.",
+   "Exact : apprêtement préalable obligatoire pour le LTH.",
+   "Exact : le LB apprête l'Ag internalisé.",
+   "Faux : le TCR ne reconnaît que le complexe peptide-CMH."
+  ]
+ },
+ {
+  "q": "Concernant les marqueurs phénotypiques du lymphocyte B, lesquelles sont exactes ?",
+  "options": [
+   "CD79a/CD79b (Ig-alpha/Ig-beta) sont des marqueurs de la lignée B",
+   "CD19 fait partie du corecepteur du BCR",
+   "CD21 (CR2) fait partie du corecepteur du BCR",
+   "CD81 fait partie du corecepteur du BCR",
+   "CD3 est un marqueur du lymphocyte B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CD79 = Ig-alpha/Ig-beta de la lignée B.",
+   "Exact : CD19 dans le corecepteur.",
+   "Exact : CD21 dans le corecepteur.",
+   "Exact : CD81 dans le corecepteur.",
+   "Faux : CD3 est un marqueur T."
+  ]
+ },
+ {
+  "q": "Concernant le schéma du BCR et de son corecepteur, lesquelles sont exactes ?",
+  "options": [
+   "L'antigène se fixe sur l'IgM membranaire du BCR",
+   "Le fragment C3d se fixe sur CD21 du corecepteur",
+   "Ig-alpha/Ig-beta transmettent le signal via leurs ITAM phosphorylés",
+   "CD19 et CD81 amplifient le signal du BCR",
+   "Le C3d se fixe directement sur l'IgM du BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Ag lie par l'IgM du BCR.",
+   "Exact : C3d lie par CD21 (CR2).",
+   "Exact : ITAM phosphorylés = transduction.",
+   "Exact : rôle amplificateur du corecepteur.",
+   "Faux : C3d est lie par CD21, pas par l'IgM."
+  ]
+ },
+ {
+  "q": "Concernant les CPA professionnelles, lesquelles sont exactes ?",
+  "options": [
+   "Les cellules dendritiques sont les CPA les plus efficaces",
+   "Les macrophages sont des CPA professionnelles",
+   "Les lymphocytes B sont des CPA professionnelles",
+   "Les cellules épithéliales sont des CPA professionnelles",
+   "Les cellules endothéliales vasculaires sont des CPA professionnelles"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : DC = CPA les plus efficaces.",
+   "Exact : macrophages = CPA professionnelles.",
+   "Exact : LB = CPA professionnelles.",
+   "Faux : cellules épithéliales = CPA non professionnelles (occasionnelles).",
+   "Faux : cellules endothéliales = CPA non professionnelles."
+  ]
+ },
+ {
+  "q": "Concernant la forme monomérique de l'IgM membranaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle constitue le BCR du lymphocyte B",
+   "Elle est exprimée par le LB immature",
+   "Elle est co-exprimée avec l'IgD par le LB mature périphérique",
+   "Elle est pentamérique à la surface du LB",
+   "Elle est sécrétée par le plasmocyte sous cette forme"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IgM monomérique membranaire = BCR.",
+   "Exact : BCR fonctionnel du B immature.",
+   "Exact : IgM + IgD chez le B mature.",
+   "Faux : la forme membranaire est monomérique, pas pentamérique.",
+   "Faux : le plasmocyte sécrète la forme pentamérique."
+  ]
+ },
+ {
+  "q": "Concernant CD21 (CR2), lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "CD21 est le récepteur du complément de type 2 (CR2)",
+   "CD21 lie le fragment C3d opsonisant l'antigène",
+   "CD21 fait partie du corecepteur du BCR avec CD19 et CD81",
+   "La fixation de C3d sur CD21 abaisse le seuil d'activation du LB",
+   "CD21 est le récepteur du fragment Fc des IgG"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CD21 = CR2.",
+   "Exact : ligand = C3d.",
+   "Exact : corecepteur BCR.",
+   "Exact : amplification du signal B.",
+   "Faux : le récepteur du Fc des IgG est le Fc-gamma-R (ex CD16 sur NK)."
+  ]
+ },
+ {
+  "q": "Concernant les molécules CMH de classe II du lymphocyte B, lesquelles sont exactes ?",
+  "options": [
+   "Le LB exprime des molécules CMH de classe II à sa surface",
+   "Elles présentent les peptides antigéniques au LTH CD4",
+   "Elles font du LB une CPA pour le LTH2",
+   "Elles présentent l'antigène natif non apprête",
+   "Elles sont reconnues par le TCR du LTH en association avec le peptide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : CMH II exprime par le LB.",
+   "Exact : présentation au LTH CD4.",
+   "Exact : LB = CPA au LTH2.",
+   "Faux : seuls des peptides apprêtés sont présentés.",
+   "Exact : complexe peptide-CMH II / TCR-CD3."
+  ]
+ },
+ {
+  "q": "Concernant la signalisation du BCR, lesquelles sont exactes ?",
+  "options": [
+   "La liaison de l'Ag au BCR déclenche la phosphorylation des ITAM d'Ig-alpha/Ig-beta",
+   "Le corecepteur CD19/CD21/CD81 amplifie le signal",
+   "Le pontage de plusieurs BCR par des Ag répétitifs active fortement le LB",
+   "Le signal du BCR seul suffit toujours à activer complètement le LB",
+   "La transduction du signal aboutit à l'activation, la prolifération et la différenciation du LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : ITAM phosphorylés = 1er signal.",
+   "Exact : amplification par le corecepteur.",
+   "Exact : pontage des BCR = activation (Ag TI répétitifs).",
+   "Faux : en voie TD, le 2e signal (costimulation, cytokines) est requis.",
+   "Exact : activation -> prolifération -> différenciation."
+  ]
+ },
+ {
+  "q": "Concernant la différence entre BCR et anticorps sécrète, lesquelles sont exactes ?",
+  "options": [
+   "Le BCR est membranaire, l'anticorps est soluble",
+   "Le BCR et l'anticorps d'un même clone ont la même spécificité antigénique",
+   "Le BCR transmet un signal d'activation, l'anticorps assure des fonctions effectrices",
+   "Le BCR est toujours une IgM, l'anticorps sécrète est toujours une IgG",
+   "Le plasmocyte exprime le BCR mais ne sécrète plus d'anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : BCR membranaire vs Ac soluble.",
+   "Exact : même spécificité (même clone B).",
+   "Exact : signalisation vs fonctions effectrices.",
+   "Faux : le BCR du B mature peut être IgM ou IgD ; l'Ac sécrète peut être de toute classe.",
+   "Faux : c'est l'inverse, le plasmocyte sécrète et perd le BCR."
+  ]
+ },
+ {
+  "q": "Concernant le complexe immun circulant (CIC), lesquelles sont exactes ?",
+  "options": [
+   "Il résulte de la fixation de l'Ag par l'Ig membranaire (BCR) via les CDR des domaines VH et VL",
+   "Sa formation est une fonction de reconnaissance du fragment Fab",
+   "Il est capte par les phagocytes via leurs récepteurs du Fc (opsonisation)",
+   "Il active la voie classique du complément",
+   "Il est forme par la fixation du complément sur l'antigène seul"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : site Ac forme par les CDR de VH et VL.",
+   "Exact : fonction de reconnaissance du Fab.",
+   "Exact : opsonisation via FcR du phagocyte.",
+   "Exact : le couple Ag-Ac active la voie classique.",
+   "Faux : le CIC est un complexe Ag-Ac."
+  ]
+ },
+ {
+  "q": "Concernant la RIH thymo-indépendante (TI), lesquelles sont exactes ?",
+  "options": [
+   "Elle correspond à l'activation du LB sans l'aide du LTH",
+   "Elle fait intervenir des antigènes thymo-indépendants",
+   "Elle induit directement l'activation, la prolifération et la différenciation du LB en plasmocytes sécréteurs d'Ig",
+   "Elle génère une mémoire immunitaire durable",
+   "Elle s'accompagne d'une commutation de classe des Ig"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : activation du LB sans aide du LTH.",
+   "Exact : Ag TI.",
+   "Exact : différenciation directe en plasmocytes.",
+   "Faux : pas de mémoire immunitaire en TI.",
+   "Faux : pas de commutation de classe en TI."
+  ]
+ },
+ {
+  "q": "Concernant les deux types d'antigènes thymo-indépendants, lesquelles sont exactes ?",
+  "options": [
+   "Les activateurs polyclonaux activent le LB à travers ses TLR",
+   "Les molécules répétitives entraînent un pontage de plusieurs BCR",
+   "Le LPS bactérien est un exemple d'activateur polyclonal, ligand du TLR4 sur le LB",
+   "Les polyosides de surface bactériens sont un exemple de molécules répétitives",
+   "Les protéines solubles sont les antigènes TI les plus fréquents"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : activation via TLR.",
+   "Exact : pontage de plusieurs BCR.",
+   "Exact : LPS = ligand du TLR4 sur le LB.",
+   "Exact : polyosides de surface = molécules répétitives.",
+   "Faux : les protéines sont des Ag thymo-dépendants."
+  ]
+ },
+ {
+  "q": "Concernant les activateurs polyclonaux des lymphocytes B, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des mitogènes",
+   "Ils n'activent pas le LB par son BCR",
+   "Le LPS bactérien en est un exemple, via le TLR4 du LB",
+   "Ils activent le LB de façon polyclonale, indépendamment de la spécificité du BCR",
+   "Ils nécessitent la coopération du LTH pour activer le LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les activateurs polyclonaux sont des mitogènes.",
+   "Exact : ils n'agissent pas via le BCR.",
+   "Exact : LPS -> TLR4 sur le LB.",
+   "Exact : activation polyclonale non spécifique.",
+   "Faux : l'activation est thymo-indépendante."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes TI à molécules répétitives, lesquelles sont exactes ?",
+  "options": [
+   "Ils possèdent des motifs antigéniques répétés",
+   "Ils entraînent le pontage de plusieurs BCR à la surface du LB",
+   "Les polyosides de surface des bactéries en sont un exemple",
+   "Le pontage des BCR suffit à activer le LB sans aide T",
+   "Ils induisent une commutation de classe vers les IgG"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : structure répétitive.",
+   "Exact : pontage de plusieurs BCR.",
+   "Exact : polyosides de surface bactériens.",
+   "Exact : activation directe du LB.",
+   "Faux : pas de commutation de classe en TI."
+  ]
+ },
+ {
+  "q": "Concernant les caractéristiques de la réponse TI, lesquelles sont exactes ?",
+  "options": [
+   "Les réponses I et II sont identiques",
+   "Il n'y à pas de mémoire immunitaire",
+   "Les molécules impliquées sont des polysaccharides à structure répétitive (LPS, flagelline)",
+   "Il n'y à pas de commutation de classe",
+   "La réponse II est 100à 1000 fois plus forte que la réponse I"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : réponses I et II identiques en TI.",
+   "Exact : pas de mémoire en TI.",
+   "Exact : polysaccharides répétitifs.",
+   "Exact : pas de commutation de classe.",
+   "Faux : l'amplification 100-1000x caractérise la réponse secondaire TD."
+  ]
+ },
+ {
+  "q": "Concernant la comparaison des réponses TI et TD, lesquelles sont exactes ?",
+  "options": [
+   "Les Ag TI sont des polysaccharides à structure répétitive, les Ag TD sont surtout des protéines",
+   "La réponse TI ne génère pas de mémoire, la réponse TD oui",
+   "La réponse TI ne fait pas de commutation de classe, la réponse TD oui",
+   "La réponse TI nécessite la coopération TH-B, la réponse TD non",
+   "La réponse TD est la plus fréquente (+++++)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : polysaccharides répétitifs (TI) vs protéines (TD).",
+   "Exact : mémoire uniquement en TD.",
+   "Exact : commutation uniquement en TD.",
+   "Faux : c'est l'inverse, la coopération TH-B est propre à la TD.",
+   "Exact : la RIH TD est la plus fréquente."
+  ]
+ },
+ {
+  "q": "Concernant le TLR4 du lymphocyte B, lesquelles sont exactes ?",
+  "options": [
+   "C'est un récepteur de l'immunité innée exprime par le LB",
+   "Son ligand bactérien est le LPS",
+   "Son engagement active le LB indépendamment du BCR",
+   "Il permet une activation polyclonale des LB",
+   "Il présente les peptides antigéniques au LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : TLR = récepteur de l'innée.",
+   "Exact : LPS = ligand du TLR4.",
+   "Exact : activation via TLR, sans le BCR.",
+   "Exact : les activateurs polyclonaux agissent via les TLR.",
+   "Faux : la présentation peptidique relève du CMH II."
+  ]
+ },
+ {
+  "q": "Concernant le devenir du LB active par un Ag TI, lesquelles sont exactes ?",
+  "options": [
+   "Il est active directement, sans l'aide du LTH",
+   "Il prolifère",
+   "Il se différencie en plasmocytes sécréteurs d'Ig",
+   "Il forme un centre germinatif avec hypermutation somatique",
+   "Il génère des LB mémoire de longue durée de vie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : activation directe thymo-indépendante.",
+   "Exact : prolifération du LB.",
+   "Exact : différenciation en plasmocytes sécréteurs.",
+   "Faux : le centre germinatif est propre à la voie TD.",
+   "Faux : pas de mémoire en TI."
+  ]
+ },
+ {
+  "q": "Concernant les immunoglobulines produites lors de la RIH TI, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont principalement des IgM",
+   "Il n'y à pas de commutation de classe vers les IgG",
+   "La réponse reste identique lors d'un deuxième contact avec l'Ag",
+   "Ce sont principalement des IgG de forte affinité",
+   "L'affinité des Ac augmente fortement entre la réponse I et la réponse II"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IgM en TI.",
+   "Exact : pas de commutation en TI.",
+   "Exact : réponses I et II identiques.",
+   "Faux : les IgG affins sont le fait de la réponse secondaire TD.",
+   "Faux : pas de maturation d'affinité en TI."
+  ]
+ },
+ {
+  "q": "Concernant le pontage des BCR, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Il est induit par des antigènes à motifs répétitifs",
+   "Il active le LB sans l'aide du LTH",
+   "Les polyosides de surface bactériens peuvent le provoquer",
+   "Il s'accompagne d'une commutation de classe",
+   "Il génère des LB mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : Ag répétitifs -> pontage.",
+   "Exact : activation thymo-indépendante.",
+   "Exact : polyosides de surface bactériens.",
+   "Faux : pas de commutation en TI.",
+   "Faux : pas de mémoire en TI."
+  ]
+ },
+ {
+  "q": "Parmi les antigènes suivants, lesquels sont thymo-indépendants ?",
+  "options": [
+   "Le LPS bactérien",
+   "Les polyosides de surface des bactéries",
+   "La flagelline",
+   "Les protéines solubles",
+   "Les peptides présentés par le CMH II"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : LPS = activateur polyclonal TI.",
+   "Exact : polyosides répétitifs = Ag TI.",
+   "Exact : flagelline = polysaccharide répétitif TI.",
+   "Faux : les protéines sont des Ag TD.",
+   "Faux : les peptides-CMH II relevent de la voie TD."
+  ]
+ },
+ {
+  "q": "Concernant la rapidité et la mémoire de la RIH TI, lesquelles sont exactes ?",
+  "options": [
+   "La réponse TI est rapide car elle court-circuite la coopération T",
+   "La réponse TI ne laisse pas de mémoire immunitaire",
+   "Un deuxième contact avec le même Ag TI donne une réponse identique à la première",
+   "La réponse TI produit des LB mémoire quiescents en phase G0",
+   "La réponse TI est plus lente que la réponse primaire TD"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : activation directe, sans étape T.",
+   "Exact : pas de mémoire en TI.",
+   "Exact : réponses I et II identiques.",
+   "Faux : les LB mémoire G0 sont le fait de la voie TD.",
+   "Faux : la voie TI est directe donc rapide."
+  ]
+ },
+ {
+  "q": "Concernant la voie thymo-indépendante, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Elle met en jeu le LB sans l'aide du LTH",
+   "Le LB y est active soit via ses TLR, soit par pontage de ses BCR",
+   "Elle aboutit à des plasmocytes sécréteurs d'IgM",
+   "Elle est la voie la plus fréquente de la RIH (+++++)",
+   "Elle comporte un centre germinatif avec commutation de classe"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : sans aide du LTH.",
+   "Exact : TLR (activateurs polyclonaux) ou pontage BCR (répétitifs).",
+   "Exact : plasmocytes sécréteurs d'IgM.",
+   "Faux : la voie la plus fréquente est la TD.",
+   "Faux : centre germinatif et commutation = voie TD."
+  ]
+ },
+ {
+  "q": "Concernant les mitogènes activateurs des LB, lesquelles sont exactes ?",
+  "options": [
+   "Le LPS bactérien est un mitogène des LB",
+   "Ils activent le LB sans passer par son BCR",
+   "Ils induisent une activation polyclonale",
+   "Ils induisent une réponse strictement monoclonale spécifique",
+   "Ils agissent via les TLR du LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : LPS = mitogène/activateur polyclonal.",
+   "Exact : pas d'activation via le BCR.",
+   "Exact : activation polyclonale.",
+   "Faux : l'activation est polyclonale, non monoclonale.",
+   "Exact : via les TLR (ex TLR4)."
+  ]
+ },
+ {
+  "q": "Concernant la 1ère étape de la RIH thymo-dépendante (capture de l'Ag), lesquelles sont exactes ?",
+  "options": [
+   "La cellule dendritique tissulaire capte l'Ag",
+   "La DC s'active après capture de l'Ag",
+   "La DC migre vers l'organe lymphoïde périphérique le plus proche",
+   "Le LB naïf capte l'Ag directement dans le tissu infecte",
+   "La DC est la CPA de cette étape"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la DC tissulaire capte l'Ag.",
+   "Exact : activation de la DC.",
+   "Exact : migration vers l'OLP le plus proche.",
+   "Faux : le LB naïf rencontre l'Ag dans les OLP.",
+   "Exact : la DC est la CPA."
+  ]
+ },
+ {
+  "q": "Concernant l'activation du LTH dans la RIH TD, lesquelles sont exactes ?",
+  "options": [
+   "Elle résulte de la 1ère coopération DC-TH",
+   "Le LTH est active par la DC présentant l'Ag",
+   "Le LTH active prolifère",
+   "Le LTH se différencie en LTH2",
+   "Le LTH est active directement par le LB naïf dans le tissu infecte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 1ère coopération = DC-TH.",
+   "Exact : activation du LTH par la DC.",
+   "Exact : prolifération du LTH.",
+   "Exact : différenciation en LTH2.",
+   "Faux : l'activation initiale du LTH est le fait de la DC."
+  ]
+ },
+ {
+  "q": "Concernant le LTH2 dans la RIH TD, lesquelles sont exactes ?",
+  "options": [
+   "Le LTH2 sécrète IL4, IL5, IL6 et IL10",
+   "Le LTH2 favorise la prolifération et la différenciation des LB",
+   "Le LTH2 lutte contre les infections parasitaires à helminthes",
+   "Le LTH2 est le partenaire de la coopération TH-B",
+   "Le LTH2 sécrète de l'IFN-gamma comme cytokine majeure"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IL4, IL5, IL6, IL10 = cytokines du TH2.",
+   "Exact : le TH2 favorise prolifération/différenciation des LB.",
+   "Exact : TH2 = lutte anti-helminthes.",
+   "Exact : coopération TH-B.",
+   "Faux : l'IFN-gamma est la cytokine majeure du TH1."
+  ]
+ },
+ {
+  "q": "Concernant la coopération cellulaire dans la RIH TD, lesquelles sont exactes ?",
+  "options": [
+   "La 1ère coopération est DC / LTH",
+   "La 2ème coopération est LTH2 / LB",
+   "La RIH TD nécessite ces deux coopérations successives",
+   "Le LB est active sans coopération cellulaire dans la voie TD",
+   "La coopération TH-B est indispensable à la synthèse d'Ig en voie TD"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : 1ère coopération DC-TH.",
+   "Exact : 2ème coopération TH-B.",
+   "Exact : les deux coopérations sont requises.",
+   "Faux : la voie TD exige la coopération.",
+   "Exact : sans TH-B, pas de synthèse d'Ig en TD."
+  ]
+ },
+ {
+  "q": "Concernant le déroulement spatio-temporel de la RIH TD, lesquelles sont exactes ?",
+  "options": [
+   "Elle se déroule en différentes phases",
+   "Elle se déroule en différents lieux",
+   "La capture de l'Ag à lieu dans le tissu infecte par la DC",
+   "L'activation du LB à lieu dans les organes lymphoïdes périphériques",
+   "Tout se déroule dans la moelle osseuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : phases successives.",
+   "Exact : lieux différents (tissu, OLP).",
+   "Exact : capture tissulaire par la DC.",
+   "Exact : activation du LB dans les OLP.",
+   "Faux : la RIH TD est périphérique, pas médullaire."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes de la RIH TD, lesquelles sont exactes ?",
+  "options": [
+   "Les protéines sont les Ag TD les plus fréquents",
+   "Ils nécessitent une coopération TH-B",
+   "Ils sont appréhendés en peptides par les CPA",
+   "Les polysaccharides répétitifs sont des Ag TD",
+   "Le LPS bactérien est un Ag TD"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : protéines = Ag TD les plus fréquents.",
+   "Exact : coopération TH-B requise.",
+   "Exact : apprêtement en peptides.",
+   "Faux : ce sont des Ag TI.",
+   "Faux : le LPS est un Ag TI."
+  ]
+ },
+ {
+  "q": "Concernant le rôle organisateur du LTH dans la RIH, lesquelles sont exactes ?",
+  "options": [
+   "Le LTH est au centre de la réponse adaptative",
+   "Le LTH effecteur organise la RI adaptative en activant les cellules effectrices",
+   "Le LTH active les LB dans la RIH TD",
+   "Le LTH sécrète des anticorps",
+   "Le LTH n'intervient pas dans la RIH thymo-indépendante"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : LTH = centre de la réponse adaptative.",
+   "Exact : il organise la RI adaptative.",
+   "Exact : activation des LB.",
+   "Faux : le LTH sécrète des cytokines, pas des anticorps.",
+   "Exact : la voie TI se passe de l'aide du LTH."
+  ]
+ },
+ {
+  "q": "Concernant les 4 premières étapes de la RIH thymo-dépendante, lesquelles sont exactes ?",
+  "options": [
+   "Étape 1 : capture de l'Ag par la DC tissulaire qui migre vers l'OLP le plus proche",
+   "Étape 2 : activation du LTH par la DC (1ère coopération DC-TH)",
+   "Étape 3 : prolifération du LTH",
+   "Étape 4 : différenciation du LTH en LTH2",
+   "Étape 2 : activation du LB par la DC sans intervention du LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : capture tissulaire puis migration.",
+   "Exact : 1ère coopération DC-TH.",
+   "Exact : prolifération du LTH.",
+   "Exact : différenciation en LTH2.",
+   "Faux : l'activation du LB vient après, via la coopération TH-B."
+  ]
+ },
+ {
+  "q": "Concernant la différenciation du LTH active, lesquelles sont exactes ?",
+  "options": [
+   "Elle se fait sous l'action de cytokines (DC +++)",
+   "Le LTH active peut se différencier en LTH2",
+   "Le LTH2 favorise la prolifération et la différenciation des LB",
+   "Le LTH active se différencie uniquement en TH1",
+   "La différenciation en LTH2 précède l'activation du LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : cytokines (DC +++) = signal de différenciation.",
+   "Exact : différenciation possible en LTH2.",
+   "Exact : le TH2 agit sur les LB.",
+   "Faux : il existe aussi TH1, TH17, Treg.",
+   "Exact : le LTH2 est forme avant d'activer le LB."
+  ]
+ },
+ {
+  "q": "Concernant la présentation de l'Ag au LTH par la DC, lesquelles sont exactes ?",
+  "options": [
+   "L'Ag est apprête en peptides par la DC",
+   "Les peptides sont présentés par les molécules CMH de classe II",
+   "Le complexe peptide-CMH II est reconnu par le TCR-CD3 du LTH",
+   "La DC est la CPA la plus efficace",
+   "La DC présente l'Ag natif non apprête au LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : apprêtement en peptides.",
+   "Exact : présentation par le CMH II.",
+   "Exact : peptide + CMH II / TCR-CD3.",
+   "Exact : DC = CPA les plus efficaces.",
+   "Faux : seul l'Ag apprête est présente."
+  ]
+ },
+ {
+  "q": "Concernant l'étape 5-1 de la RIH TD (capture de l'Ag par le LB), lesquelles sont exactes ?",
+  "options": [
+   "Le LB capture l'Ag natif par son BCR",
+   "L'Ag est internalisé par endocytose dans le LB",
+   "L'Ag est apprête en peptides dans le LB",
+   "L'Ag est présente par les molécules HLA de classe II du LB",
+   "Le LB capte l'Ag uniquement par ses TLR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : capture de l'Ag natif via le BCR.",
+   "Exact : internalisation par endocytose.",
+   "Exact : apprêtement en peptides.",
+   "Exact : présentation par HLA classe II.",
+   "Faux : la capture se fait par le BCR spécifique."
+  ]
+ },
+ {
+  "q": "Concernant le LB en tant que CPA au LTH2, lesquelles sont exactes ?",
+  "options": [
+   "Le LB présente l'Ag apprête par ses molécules HLA de classe II",
+   "Le complexe peptide-HLA II est reconnu par le TCR-CD3 du LTH2",
+   "Le LB à internalisé l'Ag via son BCR avant de le présenter",
+   "Le LB présente l'Ag natif directement au LTH2",
+   "Cette présentation constitue la 2ème coopération (TH-B)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : présentation HLA II.",
+   "Exact : peptide + HLA II / TCR-CD3.",
+   "Exact : internalisation préalable via le BCR.",
+   "Faux : l'Ag est apprête en peptides.",
+   "Exact : 2ème coopération = TH-B."
+  ]
+ },
+ {
+  "q": "Concernant l'étape 5-2 (interaction du LT avec le LB), lesquelles sont exactes ?",
+  "options": [
+   "L'interaction induit l'expression du ligand CD40L",
+   "Les molécules de costimulation CD40 (LB) / CD40L (LTH) se lient",
+   "Les molécules de costimulation B7 (LB) / CD28 (LTH) se lient",
+   "Il se forme un conjugué B-TH",
+   "Le LB exprime CD40L et le LTH exprime CD40"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : induction du ligand CD40L.",
+   "Exact : liaison CD40/CD40L.",
+   "Exact : liaison B7/CD28.",
+   "Exact : formation du conjugué B-TH.",
+   "Faux : c'est l'inverse."
+  ]
+ },
+ {
+  "q": "Concernant l'étape 5-3 (sécrétion de cytokines), lesquelles sont exactes ?",
+  "options": [
+   "Le LTH sécrète IL2, IL4 et IL5 vers le LB",
+   "L'IL2 est un activateur lymphocytaire",
+   "Le LB exprime des récepteurs de cytokines : IL2R, IL4R et IL5R",
+   "Les cytokines du LTH activent le LB",
+   "Le LB sécrète IL2, IL4 et IL5 vers le LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IL2, IL4, IL5 sécrétées par le LTH.",
+   "Exact : IL2 = activateur lymphocytaire.",
+   "Exact : expression d'IL2R, IL4R, IL5R par le LB.",
+   "Exact : activation du LB par ces cytokines.",
+   "Faux : c'est le LTH qui sécrète vers le LB."
+  ]
+ },
+ {
+  "q": "Concernant la synapse immunologique B-TH, lesquelles sont exactes ?",
+  "options": [
+   "Elle se forme lors de l'interaction entre le LB et le LTH2",
+   "Elle met en jeu le complexe peptide-HLA II / TCR-CD3",
+   "Elle met en jeu les couples de costimulation CD40/CD40L et B7/CD28",
+   "Elle permet la sécrétion dirigée de cytokines du LTH vers le LB",
+   "Elle se forme entre la DC et le LB naïf"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : synapse entre LB et LTH2.",
+   "Exact : signal 1 peptide-HLA II / TCR-CD3.",
+   "Exact : signal 2 de costimulation.",
+   "Exact : sécrétion polarisée de cytokines.",
+   "Faux : la synapse B-TH unit le LB et le LTH, pas la DC."
+  ]
+ },
+ {
+  "q": "Concernant l'étape 6 de la RIH TD (prolifération), lesquelles sont exactes ?",
+  "options": [
+   "Le LB active prolifère",
+   "Il se forme des clones de LB identiques au LB initial",
+   "Les clones ont la même spécificité antigénique (réponse monoclonale)",
+   "La prolifération est stimulée par les cytokines du LTH2 (IL2, IL4, IL5)",
+   "Chaque clone produit des anticorps de spécificités différentes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : prolifération du LB active.",
+   "Exact : clones identiques au LB initial.",
+   "Exact : même spécificité = monoclonalite.",
+   "Exact : IL2, IL4, IL5 = facteurs de prolifération.",
+   "Faux : un clone = une spécificité."
+  ]
+ },
+ {
+  "q": "Concernant l'étape 7 de la RIH TD (différenciation), lesquelles sont exactes ?",
+  "options": [
+   "Les cellules B filles (centrocytes actives) se différencient en plasmocytes sécréteurs d'IgM",
+   "Elles se différencient aussi en LB mémoire",
+   "Ces étapes caractérisent la réponse primaire",
+   "Elles se différencient d'emblée en plasmocytes sécréteurs d'IgG",
+   "La différenciation à lieu avant la prolifération"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : plasmocytes sécréteurs d'IgM.",
+   "Exact : génération de LB mémoire.",
+   "Exact : réponse primaire.",
+   "Faux : les IgG apparaissent après le centre germinatif.",
+   "Faux : la prolifération précède la différenciation."
+  ]
+ },
+ {
+  "q": "Concernant l'ordre des étapes d'activation du LB en voie TD, lesquelles sont exactes ?",
+  "options": [
+   "5-1 : capture de l'Ag natif par le BCR, endocytose, apprêtement, présentation HLA II",
+   "5-2 : interaction LT/LB avec costimulation CD40/CD40L et B7/CD28",
+   "5-3 : sécrétion de cytokines IL2, IL4, IL5 par le LTH vers le LB",
+   "6 : prolifération et formation de clones",
+   "5-3 précède 5-1 dans l'ordre chronologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 5-1 = capture/apprêtement/présentation.",
+   "Exact : 5-2 = costimulation et conjugué B-TH.",
+   "Exact : 5-3 = cytokines.",
+   "Exact : étape 6 = prolifération clonale.",
+   "Faux : l'ordre est 5-1 puis 5-2 puis 5-3."
+  ]
+ },
+ {
+  "q": "Concernant l'endocytose de l'Ag par le LB, lesquelles sont exactes ?",
+  "options": [
+   "Elle fait suite à la capture de l'Ag natif par le BCR",
+   "Elle permet l'internalisation de l'Ag dans le LB",
+   "Elle précède l'apprêtement de l'Ag en peptides",
+   "Elle est réalisée par le LTH à la place du LB",
+   "Elle aboutit à la présentation par le CMH de classe II"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : capture BCR puis endocytose.",
+   "Exact : internalisation dans le LB.",
+   "Exact : endocytose avant apprêtement.",
+   "Faux : c'est le LB qui internalisé.",
+   "Exact : aboutit à la présentation CMH II."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs de cytokines exprimes par le LB active, lesquelles sont exactes ?",
+  "options": [
+   "Le LB exprime l'IL2R",
+   "Le LB exprime l'IL4R",
+   "Le LB exprime l'IL5R",
+   "Ces récepteurs permettent la réponse du LB aux cytokines du LTH2",
+   "Le LB exprime ces récepteurs avant tout contact avec l'Ag"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IL2R exprime par le LB.",
+   "Exact : IL4R exprime par le LB.",
+   "Exact : IL5R exprime par le LB.",
+   "Exact : ils medient l'activation par IL2, IL4, IL5.",
+   "Faux : leur expression est induite lors de l'activation."
+  ]
+ },
+ {
+  "q": "Concernant le conjugué B-TH, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Il résulte de la liaison des molécules de costimulation",
+   "Il associe le LB présentant l'Ag et le LTH2 spécifique",
+   "Il permet la synapse immunologique B-TH",
+   "Il se forme lors de l'étape 5-2 de la RIH TD",
+   "Il associe la DC et le LB naïf"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : forme par les liaisons de costimulation.",
+   "Exact : LB présentateur + LTH2.",
+   "Exact : cadre de la synapse immunologique.",
+   "Exact : étape 5-2.",
+   "Faux : le conjugué unit le LB et le LTH."
+  ]
+ },
+ {
+  "q": "Concernant l'IL2 dans la RIH TD, lesquelles sont exactes ?",
+  "options": [
+   "L'IL2 est sécrétée par le LTH vers le LB",
+   "L'IL2 est un activateur lymphocytaire",
+   "Le LB exprime le récepteur de l'IL2 (IL2R)",
+   "L'IL2 participe à l'activation et à la prolifération du LB",
+   "L'IL2 est sécrétée par le LB vers le LTH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : sécrétion par le LTH.",
+   "Exact : activateur lymphocytaire.",
+   "Exact : IL2R sur le LB.",
+   "Exact : activation et prolifération.",
+   "Faux : sens de sécrétion inverse."
+  ]
+ },
+ {
+  "q": "Concernant la spécificité des clones B générés en voie TD, lesquelles sont exactes ?",
+  "options": [
+   "Les clones sont identiques au LB initial",
+   "Ils ont la même spécificité antigénique",
+   "La réponse est dite monoclonale",
+   "Chaque plasmocyte du clone sécrète des Ac de même spécificité",
+   "Les clones produits ont des spécificités antigéniques variées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : clones identiques au LB initial.",
+   "Exact : même spécificité antigénique.",
+   "Exact : réponse monoclonale.",
+   "Exact : un clone = une spécificité d'Ac.",
+   "Faux : la spécificité est unique par clone."
+  ]
+ },
+ {
+  "q": "Concernant l'activation complète du LB en voie TD, lesquelles sont exactes ?",
+  "options": [
+   "Elle requiert la reconnaissance de l'Ag natif par le BCR",
+   "Elle requiert la présentation de l'Ag au LTH2 et la costimulation",
+   "Elle requiert les cytokines du LTH2 (IL2, IL4, IL5)",
+   "Le seul signal BCR suffit à l'activation complète en voie TD",
+   "Elle aboutit à la prolifération puis à la différenciation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : signal 1 = BCR + Ag natif.",
+   "Exact : signal 2 = costimulation via le LTH2.",
+   "Exact : signal 3 = cytokines.",
+   "Faux : le signal BCR seul est insuffisant en voie TD.",
+   "Exact : prolifération puis différenciation."
+  ]
+ },
+ {
+  "q": "Concernant la réponse primaire dans la RIH TD, lesquelles sont exactes ?",
+  "options": [
+   "Elle est induite par le 1er contact de l'Ag avec des LB naïfs",
+   "Elle produit des plasmocytes sécréteurs d'IgM et des LB mémoire",
+   "Elle se déroule en 3 phases : latence, croissance et décroissance",
+   "Elle produit d'emblée des IgG de forte affinité",
+   "Elle est identique à la réponse secondaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 1er contact avec LB naïfs.",
+   "Exact : plasmocytes IgM + LB mémoire.",
+   "Exact : 3 phases latence/croissance/décroissance.",
+   "Faux : les IgG affins caractérisent la réponse secondaire.",
+   "Faux : primaire et secondaire différent."
+  ]
+ },
+ {
+  "q": "Concernant les centrocytes actives issus de la prolifération B, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont les cellules B filles issues de la prolifération clonale",
+   "Elles se différencient en plasmocytes sécréteurs d'IgM",
+   "Elles se différencient en LB mémoire",
+   "Elles sécrètent directement des IgG",
+   "Elles meurent toutes par apoptose"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : cellules B filles proliférées.",
+   "Exact : différenciation en plasmocytes IgM.",
+   "Exact : différenciation en LB mémoire.",
+   "Faux : les IgG viennent après le centre germinatif.",
+   "Faux : elles se différencient, elles ne meurent pas toutes."
+  ]
+ },
+ {
+  "q": "Concernant la coopération TH-B, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Le LB joue le rôle de CPA vis-à-vis du LTH2",
+   "Le LTH2 fournit les signaux de costimulation (CD40L, CD28)",
+   "Le LTH2 fournit les cytokines (IL2, IL4, IL5)",
+   "Sans coopération TH-B, il n'y à pas de synthèse d'Ig en voie TD",
+   "La coopération TH-B à lieu dans la moelle osseuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : LB = CPA au LTH2.",
+   "Exact : CD40L et CD28 sur le LTH.",
+   "Exact : IL2, IL4, IL5.",
+   "Exact : indispensable à la synthèse d'Ig en TD.",
+   "Faux : elle à lieu dans les OLP."
+  ]
+ },
+ {
+  "q": "Concernant les signaux d'activation du LB en voie TD, lesquelles sont exactes ?",
+  "options": [
+   "La liaison Ag-BCR fournit le signal antigénique",
+   "La costimulation CD40/CD40L et B7/CD28 consolide l'activation",
+   "Les cytokines IL2, IL4, IL5 activent et font proliférer le LB",
+   "Un seul de ces signaux suffit à une activation complète",
+   "L'absence d'aide T rend l'activation impossible en voie TD"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : signal antigénique via le BCR.",
+   "Exact : costimulation = 2e signal.",
+   "Exact : cytokines = 3e signal.",
+   "Faux : les trois signaux sont requis.",
+   "Exact : la voie TD est strictement T-dépendante."
+  ]
+ },
+ {
+  "q": "Concernant la formation du centre germinatif, lesquelles sont exactes ?",
+  "options": [
+   "Elle constitue l'étape 8 de la RIH thymo-dépendante",
+   "Elle a lieu au niveau du follicule secondaire",
+   "Elle fait suite à la prolifération des LB",
+   "Elle a lieu dans la moelle osseuse",
+   "Elle concerne les antigènes thymo-indépendants"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : étape 8 de la RIH TD.",
+   "Exact : au niveau du follicule II.",
+   "Exact : après la phase de prolifération.",
+   "Faux : elle à lieu dans les OLP.",
+   "Faux : propre à la voie TD."
+  ]
+ },
+ {
+  "q": "Concernant les événements du centre germinatif, lesquelles sont exactes ?",
+  "options": [
+   "Les LB y subissent l'hypermutation somatique",
+   "Les LB y subissent la commutation de classe",
+   "Ces événements ont lieu sous l'action de cytokines",
+   "Les LB y deviennent matures",
+   "Il ne s'y produit aucune modification des gènes d'Ig"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : hypermutation somatique.",
+   "Exact : commutation de classe.",
+   "Exact : sous l'action de cytokines.",
+   "Exact : maturation des LB.",
+   "Faux : hypermutation et commutation modifient les gènes d'Ig."
+  ]
+ },
+ {
+  "q": "Concernant les produits du centre germinatif, lesquelles sont exactes ?",
+  "options": [
+   "Des plasmocytes produisant des IgG",
+   "Des plasmocytes mémoire",
+   "Des LB mémoire",
+   "Des plasmocytes produisant uniquement des IgM",
+   "Des lymphocytes T cytotoxiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : plasmocytes à IgG.",
+   "Exact : plasmocytes mémoire.",
+   "Exact : LB mémoire issus du centre germinatif.",
+   "Faux : la commutation permet les IgG (et autres classes).",
+   "Faux : le centre germinatif est une structure B."
+  ]
+ },
+ {
+  "q": "Concernant l'hypermutation somatique, lesquelles sont exactes ?",
+  "options": [
+   "Elle a lieu dans le centre germinatif",
+   "Elle touche les gènes codant les régions variables des Ig",
+   "Elle augmente l'affinité des anticorps (maturation d'affinité)",
+   "Elle change la classe de l'immunoglobuline",
+   "Elle a lieu sous l'action de cytokines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : dans le centre germinatif.",
+   "Exact : mutations des régions variables.",
+   "Exact : sélection des mutants de plus forte affinité.",
+   "Faux : le changement de classe = commutation de classe.",
+   "Exact : sous l'action de cytokines."
+  ]
+ },
+ {
+  "q": "Concernant la commutation de classe, lesquelles sont exactes ?",
+  "options": [
+   "Elle a lieu dans le centre germinatif",
+   "Elle change la classe de l'Ig (ex IgM vers IgG) en conservant la spécificité antigénique",
+   "Elle est dirigée par les cytokines du LTH2",
+   "Elle modifie les régions variables de l'anticorps",
+   "L'IL4 oriente la commutation vers les IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : dans le centre germinatif.",
+   "Exact : changement d'isotype, même spécificité.",
+   "Exact : dirigée par les cytokines TH2.",
+   "Faux : les régions variables sont conservées (seule la région constante change).",
+   "Exact : IL4 -> IgE."
+  ]
+ },
+ {
+  "q": "Concernant l'action des cytokines dans la commutation de classe, lesquelles sont exactes ?",
+  "options": [
+   "L'IL4 (TH2) oriente vers les IgE",
+   "L'IL4, l'IL5 et l'IL6 (TH2) orientent vers les IgG1",
+   "L'IL10 et le TGF-beta (TH2) orientent vers les IgA",
+   "L'IFN-gamma (TH2) oriente vers les IgE",
+   "L'IL2 (TH2) oriente vers les IgA"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IL4 -> IgE.",
+   "Exact : IL4, IL5, IL6 -> IgG1.",
+   "Exact : IL10, TGF-beta -> IgA.",
+   "Faux : l'IFN-gamma est une cytokine TH1.",
+   "Faux : l'IL2 est un activateur lymphocytaire, pas un facteur de commutation vers IgA."
+  ]
+ },
+ {
+  "q": "Concernant la commutation vers les IgE, lesquelles sont exactes ?",
+  "options": [
+   "Elle est orientee par l'IL4 sécrétée par le TH2",
+   "Elle a lieu dans le centre germinatif",
+   "Les IgE interviennent dans la lutte anti-parasitaire",
+   "Les IgE interviennent dans l'hypersensibilité immédiate (type 1)",
+   "Elle est orientee par l'IL10 et le TGF-beta"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IL4 (TH2) -> IgE.",
+   "Exact : centre germinatif.",
+   "Exact : lutte anti-parasitaire.",
+   "Exact : hypersensibilité immédiate type 1.",
+   "Faux : IL10/TGF-beta orientent vers les IgA."
+  ]
+ },
+ {
+  "q": "Concernant la commutation vers les IgA, lesquelles sont exactes ?",
+  "options": [
+   "Elle est orientee par l'IL10 et le TGF-beta (TH2)",
+   "Elle a lieu dans le centre germinatif",
+   "Les IgA sont les Ig des sécrétions (lait, salive, larmes, mucus)",
+   "Les IgA sécrétoires sont des dimères associes à la chaîne J et à la pièce S",
+   "Elle est orientee par l'IL4"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IL10, TGF-beta -> IgA.",
+   "Exact : centre germinatif.",
+   "Exact : Ig des sécrétions externes.",
+   "Exact : dimère + chaîne J + pièce S.",
+   "Faux : l'IL4 oriente vers les IgE."
+  ]
+ },
+ {
+  "q": "Concernant la commutation vers les IgG, lesquelles sont exactes ?",
+  "options": [
+   "L'IL4, l'IL5 et l'IL6 (TH2) orientent vers les IgG1",
+   "Les plasmocytes issus du centre germinatif produisent des IgG",
+   "Les IgG sont l'isotype dominant de la réponse secondaire",
+   "Les IgG traversent le placenta",
+   "La commutation vers les IgG à lieu dans la réponse thymo-indépendante"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IL4, IL5, IL6 -> IgG1.",
+   "Exact : plasmocytes à IgG issus du centre germinatif.",
+   "Exact : IgG = isotype de la réponse secondaire.",
+   "Exact : passage transplacentaire des IgG.",
+   "Faux : pas de commutation en TI."
+  ]
+ },
+ {
+  "q": "Concernant le follicule secondaire, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "C'est le lieu de formation du centre germinatif",
+   "Il est forme de LB en anneau concentrique entourant le centre germinatif",
+   "Le centre germinatif contient des LB actives",
+   "C'est un follicule primaire au repos",
+   "Il se situe dans les organes lymphoïdes périphériques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : centre germinatif dans le follicule II.",
+   "Exact : LB en anneau concentrique autour du centre.",
+   "Exact : LB actives dans le centre germinatif.",
+   "Faux : le follicule II est un follicule active.",
+   "Exact : dans les OLP (ganglions, rate)."
+  ]
+ },
+ {
+  "q": "Concernant les LB mémoire issus de la RIH TD, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont générés lors de la réponse primaire",
+   "Ils sont générés dans le centre germinatif",
+   "Ils sont quiescents, en phase G0",
+   "Ils répondent plus vite et plus fort lors d'un 2ème contact avec l'Ag",
+   "Ils sécrètent en permanence de grandes quantités d'IgG"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : produits des la réponse primaire.",
+   "Exact : le centre germinatif en génère.",
+   "Exact : quiescents en G0.",
+   "Exact : base de la réponse secondaire.",
+   "Faux : quiescents, ils ne sécrètent pas en permanence."
+  ]
+ },
+ {
+  "q": "Concernant les plasmocytes mémoire, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont générés dans le centre germinatif",
+   "Ils produisent des IgG",
+   "Ils participent à la réponse secondaire rapide et intense",
+   "Ils sont générés lors de la réponse thymo-indépendante",
+   "Ils expriment un BCR membranaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : issus du centre germinatif.",
+   "Exact : producteurs d'IgG.",
+   "Exact : effecteurs de la réponse secondaire.",
+   "Faux : pas de centre germinatif en TI.",
+   "Faux : le plasmocyte ne porte pas de BCR membranaire."
+  ]
+ },
+ {
+  "q": "Concernant la réponse primaire, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Elle est induite par le 1er contact de l'Ag avec des LB naïfs",
+   "Sa période de latence est de 4à 7 jours",
+   "Son pic est atteint après 10 jours",
+   "L'amplitude du pic est variable",
+   "Sa période de latence est de 2à 3 jours"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 1er contact avec LB naïfs.",
+   "Exact : latence 4-7 jours.",
+   "Exact : pic > 10 jours.",
+   "Exact : amplitude variable.",
+   "Faux : 2-3 jours = latence de la réponse secondaire."
+  ]
+ },
+ {
+  "q": "Concernant la réponse secondaire, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Elle est induite par le 2ème contact de l'Ag avec des LB mémoire",
+   "Sa période de latence est de 2à 3 jours",
+   "Son pic est atteint en 3à 5 jours",
+   "Son amplitude est 100à 1000 fois plus forte que celle de la réponse primaire",
+   "Sa période de latence est de 4à 7 jours"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 2ème contact avec LB mémoire.",
+   "Exact : latence 2-3 jours.",
+   "Exact : pic 3-5 jours.",
+   "Exact : amplitude 100-1000x supérieure.",
+   "Faux : 4-7 jours = latence de la réponse primaire."
+  ]
+ },
+ {
+  "q": "Concernant les isotypes de la réponse primaire, lesquelles sont exactes ?",
+  "options": [
+   "La réponse primaire est faite d'IgM puis d'IgG",
+   "Les Ig sont produites à des taux assez faibles",
+   "L'isotype dominant de la réponse primaire est l'IgM",
+   "La réponse primaire produit d'emblée des IgG de forte affinité",
+   "L'isotype dominant de la réponse primaire est l'IgA"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IgM puis IgG.",
+   "Exact : taux assez faibles.",
+   "Exact : IgM = isotype du primaire.",
+   "Faux : les IgG affins dominent le secondaire.",
+   "Faux : l'IgA n'est pas l'isotype du primaire."
+  ]
+ },
+ {
+  "q": "Concernant les isotypes de la réponse secondaire, lesquelles sont exactes ?",
+  "options": [
+   "L'isotype dominant est l'IgG",
+   "Les Ig sont plus affins que dans la réponse primaire",
+   "La commutation de classe à eu lieu dans le centre germinatif",
+   "L'isotype dominant est l'IgM",
+   "L'affinité des Ac est faible"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IgG = isotype du secondaire.",
+   "Exact : affinité élevée.",
+   "Exact : commutation de classe préalable.",
+   "Faux : l'IgM dominé le primaire.",
+   "Faux : l'affinité est élevée en secondaire."
+  ]
+ },
+ {
+  "q": "Concernant l'affinité des anticorps, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Elle est faible dans la réponse primaire",
+   "Elle est élevée dans la réponse secondaire",
+   "Elle augmente grâce à l'hypermutation somatique du centre germinatif",
+   "Elle est identique dans les réponses primaire et secondaire",
+   "Elle diminue entre la réponse primaire et la réponse secondaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : affinité faible en primaire.",
+   "Exact : affinité élevée en secondaire.",
+   "Exact : maturation d'affinité par hypermutation.",
+   "Faux : l'affinité augmente.",
+   "Faux : elle augmente, ne diminue pas."
+  ]
+ },
+ {
+  "q": "Concernant les LB répondeurs, lesquelles sont exactes ?",
+  "options": [
+   "Le LB répondeur de la réponse primaire est le LB naïf",
+   "Le LB répondeur de la réponse secondaire est le LB mémoire",
+   "Les LB mémoire sont quiescents et en phase G0",
+   "Le LB répondeur de la réponse primaire est le LB mémoire",
+   "Les LB naïfs répondent plus vite que les LB mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : LB naïf en primaire.",
+   "Exact : LB mémoire en secondaire.",
+   "Exact : quiescents en G0.",
+   "Faux : le primaire fait intervenir les LB naïfs.",
+   "Faux : les LB mémoire répondent plus vite."
+  ]
+ },
+ {
+  "q": "Concernant les 3 phases de la réponse primaire, lesquelles sont exactes ?",
+  "options": [
+   "Phase de latence",
+   "Phase de croissance",
+   "Phase de décroissance",
+   "Phase de latence de 2à 3 jours",
+   "Phase de plateau permanent sans décroissance"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : latence.",
+   "Exact : croissance.",
+   "Exact : décroissance.",
+   "Faux : 2-3 jours = latence du secondaire.",
+   "Faux : la réponse primaire décroît après son pic."
+  ]
+ },
+ {
+  "q": "Concernant la cinétique comparée des réponses primaire et secondaire, lesquelles sont exactes ?",
+  "options": [
+   "La réponse secondaire est plus rapide que la réponse primaire",
+   "La réponse secondaire est plus intense que la réponse primaire",
+   "La latence du secondaire (2-3 j) est plus courte que celle du primaire (4-7 j)",
+   "Le pic du secondaire (3-5 j) est plus précoce que celui du primaire (> 10 j)",
+   "La réponse primaire est plus intense que la réponse secondaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : plus rapide.",
+   "Exact : plus intense.",
+   "Exact : latences 2-3 j vs 4-7 j.",
+   "Exact : pics 3-5 j vs > 10 j.",
+   "Faux : c'est l'inverse."
+  ]
+ },
+ {
+  "q": "Concernant la mémoire immunitaire humorale, lesquelles sont exactes ?",
+  "options": [
+   "Elle repose sur les LB mémoire générés lors de la réponse primaire",
+   "Elle permet une réponse secondaire plus rapide et plus intense",
+   "Elle n'existe que dans les réponses T-dépendantes",
+   "Elle repose sur les plasmocytes à courte durée de vie du primaire",
+   "Elle est absente des réponses thymo-indépendantes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : LB mémoire = support de la mémoire.",
+   "Exact : réponse secondaire rapide et intense.",
+   "Exact : mémoire uniquement en TD.",
+   "Faux : ce sont les LB mémoire (et plasmocytes mémoire), pas les plasmocytes à vie courte.",
+   "Exact : pas de mémoire en TI."
+  ]
+ },
+ {
+  "q": "Concernant les taux d'anticorps, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Ils sont assez faibles dans la réponse primaire",
+   "Ils sont 100à 1000 fois plus élevés dans la réponse secondaire",
+   "Le pic d'Ac est plus précoce dans la réponse secondaire",
+   "Ils sont identiques dans les réponses primaire et secondaire",
+   "Ils sont plus élevés dans la réponse primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : taux faibles en primaire.",
+   "Exact : amplitude 100-1000x en secondaire.",
+   "Exact : pic 3-5 j vs > 10 j.",
+   "Faux : les taux différent fortement.",
+   "Faux : c'est l'inverse."
+  ]
+ },
+ {
+  "q": "Concernant la réponse primaire, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Elle produit des plasmocytes sécréteurs d'Ig",
+   "Elle produit des LB mémoire",
+   "Les LB mémoire produits entrent en quiescence (phase G0)",
+   "Elle produit des IgG de forte affinité",
+   "Elle ne produit aucun LB mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : plasmocytes sécréteurs.",
+   "Exact : LB mémoire.",
+   "Exact : quiescence en G0.",
+   "Faux : les IgG affins sont le fait du secondaire.",
+   "Faux : elle génère des LB mémoire."
+  ]
+ },
+ {
+  "q": "Concernant la réponse secondaire, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "La phase de latence est rapide (2-3 jours)",
+   "Les Ig produites sont plus affins",
+   "Les Ig sont de type IgG",
+   "La réponse est plus rapide et plus intense que le primaire",
+   "Les Ig produites sont de type IgM de faible affinité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : latence 2-3 jours.",
+   "Exact : affinité élevée.",
+   "Exact : isotype IgG.",
+   "Exact : plus rapide et plus intense.",
+   "Faux : c'est le profil de la réponse primaire."
+  ]
+ },
+ {
+  "q": "Lequel/lesquels des couples suivants est/sont correct(s) ?",
+  "options": [
+   "Réponse primaire : LB naïf / latence 4-7 jours",
+   "Réponse secondaire : LB mémoire / latence 2-3 jours",
+   "Réponse primaire : pic > 10 jours / isotype IgM",
+   "Réponse secondaire : pic 3-5 jours / isotype IgG",
+   "Réponse primaire : LB mémoire / affinité élevée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : primaire = LB naïf, latence 4-7 j.",
+   "Exact : secondaire = LB mémoire, latence 2-3 j.",
+   "Exact : primaire = pic > 10 j, IgM.",
+   "Exact : secondaire = pic 3-5 j, IgG.",
+   "Faux : c'est le profil du secondaire."
+  ]
+ },
+ {
+  "q": "Concernant la décroissance de la réponse primaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle fait suite à la phase de croissance",
+   "Les taux d'Ac diminuent après le pic (> 10 jours)",
+   "Les LB mémoire générés persistent en phase G0",
+   "Les taux d'Ac restent au pic indéfiniment",
+   "Aucun LB mémoire ne survit à la décroissance"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : décroissance après croissance.",
+   "Exact : baisse des taux après le pic.",
+   "Exact : persistance des LB mémoire quiescents.",
+   "Faux : les taux décroissent.",
+   "Faux : les LB mémoire persistent."
+  ]
+ },
+ {
+  "q": "Concernant l'amplitude de la réponse secondaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle est 100à 1000 fois plus forte que celle de la réponse primaire",
+   "Elle reflète l'expansion des LB mémoire",
+   "L'amplitude de la réponse primaire est variable",
+   "Elle est identique à celle de la réponse primaire",
+   "Elle est plus faible que celle de la réponse primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 100-1000x plus forte.",
+   "Exact : expansion clonale des LB mémoire.",
+   "Exact : amplitude variable en primaire.",
+   "Faux : elle est bien supérieure.",
+   "Faux : c'est l'inverse."
+  ]
+ },
+ {
+  "q": "Concernant les anticorps de la réponse secondaire, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont de type IgG",
+   "Ils ont une affinité élevée",
+   "Ils ont subi la maturation d'affinité (hypermutation somatique)",
+   "Ils ont subi la commutation de classe",
+   "Ils sont de type IgM de faible affinité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : isotype IgG.",
+   "Exact : affinité élevée.",
+   "Exact : hypermutation somatique.",
+   "Exact : commutation de classe.",
+   "Faux : profil de la réponse primaire."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination et la mémoire humorale, lesquelles sont exactes ?",
+  "options": [
+   "La vaccination exploite la mémoire immunitaire",
+   "Le rappel vaccinal induit une réponse secondaire rapide et intense",
+   "Le rappel produit des IgG de forte affinité",
+   "La vaccination repose sur les LB mémoire générés par la primovaccination",
+   "La vaccination n'induit aucune mémoire immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : principe de la vaccination.",
+   "Exact : réponse secondaire au rappel.",
+   "Exact : IgG affins.",
+   "Exact : LB mémoire de la primovaccination.",
+   "Faux : la mémoire est le but de la vaccination."
+  ]
+ },
+ {
+  "q": "Concernant les différences entre réponse TI et réponse secondaire TD, lesquelles sont exactes ?",
+  "options": [
+   "La réponse TI n'a pas de mémoire, la réponse secondaire TD en a",
+   "Les réponses I et II sont identiques en TI, pas en TD",
+   "La réponse secondaire TD produit des IgG affins, la TI des IgM",
+   "La réponse TI fait intervenir des LB mémoire",
+   "La réponse secondaire TD fait intervenir des LB naïfs"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : mémoire uniquement en TD.",
+   "Exact : réponses I/II identiques en TI.",
+   "Exact : IgG affins (TD) vs IgM (TI).",
+   "Faux : la TI n'a pas de LB mémoire.",
+   "Faux : le secondaire fait intervenir les LB mémoire."
+  ]
+ },
+ {
+  "q": "Concernant la latence immunologique, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Elle correspond au délai avant l'apparition des Ac",
+   "Elle est de 4à 7 jours dans la réponse primaire",
+   "Elle est de 2à 3 jours dans la réponse secondaire",
+   "Elle est plus courte dans la réponse secondaire grâce aux LB mémoire",
+   "Elle est identique dans les réponses primaire et secondaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : délai avant détection des Ac.",
+   "Exact : 4-7 j en primaire.",
+   "Exact : 2-3 j en secondaire.",
+   "Exact : rapidité due aux LB mémoire.",
+   "Faux : les latences différent."
+  ]
+ },
+ {
+  "q": "Concernant le pic de la réponse humorale, lesquelles sont exactes ?",
+  "options": [
+   "Il est atteint après 10 jours dans la réponse primaire",
+   "Il est atteint en 3à 5 jours dans la réponse secondaire",
+   "Son amplitude est variable dans la réponse primaire",
+   "Son amplitude est 100à 1000 fois plus forte dans la réponse secondaire",
+   "Il est plus tardif dans la réponse secondaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : pic > 10 j en primaire.",
+   "Exact : pic 3-5 j en secondaire.",
+   "Exact : amplitude variable en primaire.",
+   "Exact : 100-1000x en secondaire.",
+   "Faux : il est plus précoce en secondaire."
+  ]
+ },
+ {
+  "q": "Concernant le recrutement des effecteurs de la RIH, lesquelles sont exactes ?",
+  "options": [
+   "Les effecteurs recrutés sont les Ig (ayant fonction d'Ac)",
+   "Les Ac inondent le tissu lésé",
+   "Les Ac éliminent l'agent pathogène par neutralisation, ADCC et activation du complément",
+   "Les effecteurs recrutés sont les lymphocytes T CD8",
+   "Les Ac agissent uniquement par neutralisation"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : effecteurs = Ig/Ac.",
+   "Exact : les Ac inondent le tissu lésé.",
+   "Exact : les trois mécanismes d'élimination.",
+   "Faux : les LT CD8 sont les effecteurs de la réponse cellulaire.",
+   "Faux : neutralisation + ADCC + complément."
+  ]
+ },
+ {
+  "q": "Concernant la neutralisation par les anticorps, lesquelles sont exactes ?",
+  "options": [
+   "C'est une fonction assurée par le fragment Fab",
+   "Les Ac neutralisent les virus en s'y fixant",
+   "Les Ac neutralisent les toxines en s'y fixant",
+   "C'est une fonction assurée par le fragment Fc",
+   "Elle nécessite l'activation du complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : fonction du Fab.",
+   "Exact : neutralisation des virus.",
+   "Exact : neutralisation des toxines.",
+   "Faux : les fonctions du Fc sont opsonisation, complément, ADCC.",
+   "Faux : la neutralisation est directe, sans complément."
+  ]
+ },
+ {
+  "q": "Concernant l'opsonisation, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "C'est la facilitation de la phagocytose des Ag",
+   "Le phagocyte possède un récepteur pour le Fc des Ig (FcR)",
+   "Le FcR capte le complexe Ig-Ag puis l'internalisé",
+   "L'Ag opsonise est détruit plus rapidement",
+   "C'est une fonction assurée par le fragment Fab"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : facilitation de la phagocytose.",
+   "Exact : FcR sur le phagocyte.",
+   "Exact : capture puis internalisation du complexe.",
+   "Exact : destruction accélérée.",
+   "Faux : fonction effectrice du Fc."
+  ]
+ },
+ {
+  "q": "Concernant la cytotoxicité cellulaire dépendante des Ac (ADCC), lesquelles sont exactes ?",
+  "options": [
+   "La cellule NK possède un Fc-gamma-R (CD16)",
+   "Le CD16 reconnaît le complexe IgG-cellule tumorale",
+   "L'ADCC entraîne la mort de la cellule cible par apoptose",
+   "L'ADCC est médiée par le fragment Fc de l'IgG",
+   "L'ADCC est réalisée par les lymphocytes T CD8"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Fc-gamma-R = CD16 sur la NK.",
+   "Exact : reconnaissance du complexe IgG-cible.",
+   "Exact : mort par apoptose.",
+   "Exact : fonction du Fc.",
+   "Faux : l'ADCC est le fait des NK, pas des LT CD8."
+  ]
+ },
+ {
+  "q": "Concernant l'activation du complément par les anticorps, lesquelles sont exactes ?",
+  "options": [
+   "Le couple Ag-Ac active la voie classique du complément",
+   "L'activation aboutit à la formation du complexe d'attaque membranaire (CAM)",
+   "Le CAM lyse la cellule portant l'Ag",
+   "C'est une fonction effectrice assurée par le fragment Fc",
+   "Le couple Ag-Ac active la voie alterne du complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : voie classique.",
+   "Exact : formation du CAM.",
+   "Exact : lyse de la cellule cible.",
+   "Exact : fonction du Fc.",
+   "Faux : la voie alterne est indépendante des Ac."
+  ]
+ },
+ {
+  "q": "Concernant la dégranulation des mastocytes et basophiles, lesquelles sont exactes ?",
+  "options": [
+   "Elle est déclenchée par les IgE",
+   "Deux molécules d'IgE liées à l'Ag sont reconnues par les Fc-epsilon-R",
+   "Les Fc-epsilon-R sont les récepteurs spécifiques de ces cellules",
+   "La reconnaissance entraîne la dégranulation cellulaire",
+   "Elle est déclenchée par les IgG via le CD16"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IgE.",
+   "Exact : 2 IgE-Ag reconnues par Fc-epsilon-R.",
+   "Exact : récepteurs spécifiques.",
+   "Exact : dégranulation.",
+   "Faux : CD16/IgG = ADCC par les NK."
+  ]
+ },
+ {
+  "q": "Concernant les fonctions assurées par le fragment Fab, lesquelles sont exactes ?",
+  "options": [
+   "La reconnaissance de l'Ag",
+   "La neutralisation des virus et des toxines",
+   "La formation du complexe immun circulant (CIC)",
+   "L'opsonisation",
+   "L'activation du complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : reconnaissance par les CDR.",
+   "Exact : neutralisation.",
+   "Exact : formation du CIC.",
+   "Faux : fonction du Fc.",
+   "Faux : fonction du Fc."
+  ]
+ },
+ {
+  "q": "Concernant les fonctions effectrices assurées par le fragment Fc, lesquelles sont exactes ?",
+  "options": [
+   "L'opsonisation",
+   "L'activation du complément (voie classique)",
+   "L'ADCC",
+   "La dégranulation des mastocytes et basophiles (IgE)",
+   "La reconnaissance de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : opsonisation via FcR.",
+   "Exact : voie classique du complément.",
+   "Exact : ADCC via Fc-gamma-R.",
+   "Exact : dégranulation via Fc-epsilon-R.",
+   "Faux : la reconnaissance est le fait du Fab."
+  ]
+ },
+ {
+  "q": "Concernant la liaison de l'Ig à l'Ag, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Elle se fait par le site Ac forme par les CDR des domaines VH et VL",
+   "Elle déclenche, via le Fc, les fonctions effectrices",
+   "Elle permet la neutralisation des virus et toxines",
+   "Elle se fait par le fragment Fc",
+   "Elle est indépendante de la spécificité de l'anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : site Ac = CDR de VH/VL.",
+   "Exact : le Fc déclenche les fonctions effectrices.",
+   "Exact : neutralisation.",
+   "Faux : la liaison à l'Ag se fait par le Fab.",
+   "Faux : elle est strictement spécifique."
+  ]
+ },
+ {
+  "q": "Concernant le récepteur Fc-gamma (CD16), lesquelles sont exactes ?",
+  "options": [
+   "Il est exprimé par la cellule NK",
+   "C'est un récepteur pour le Fc des IgG",
+   "Il reconnaît le complexe IgG-cellule tumorale dans l'ADCC",
+   "Il est exprimé par le lymphocyte B",
+   "C'est un récepteur pour le Fc des IgE"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : CD16 sur la NK.",
+   "Exact : récepteur du Fc des IgG.",
+   "Exact : ADCC.",
+   "Faux : le LB exprime le BCR, pas le CD16.",
+   "Faux : le récepteur des IgE est le Fc-epsilon-R."
+  ]
+ },
+ {
+  "q": "Concernant le complexe d'attaque membranaire (CAM), lesquelles sont exactes ?",
+  "options": [
+   "Il résulte de l'activation de la voie classique par le couple Ag-Ac",
+   "Il lyse la cellule portant l'Ag",
+   "Sa formation est une fonction effectrice des Ig",
+   "Il résulte de l'activation de la voie des lectines par les IgM",
+   "Il neutralise les toxines bactériennes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : voie classique -> CAM.",
+   "Exact : lyse de la cellule cible.",
+   "Exact : fonction effectrice du Fc.",
+   "Faux : la voie des lectines n'est pas déclenchée par les Ac.",
+   "Faux : la neutralisation des toxines est une fonction du Fab."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs du Fc, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Le phagocyte possède un FcR captant le complexe Ig-Ag (opsonisation)",
+   "La cellule NK possède le Fc-gamma-R CD16 (ADCC)",
+   "Le mastocyte et le basophile possèdent le Fc-epsilon-R (dégranulation)",
+   "Le lymphocyte B possède le Fc-gamma-R CD16 comme BCR",
+   "Tous les FcR reconnaissent le Fc des IgM pentamériques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : FcR du phagocyte = opsonisation.",
+   "Exact : CD16 de la NK = ADCC.",
+   "Exact : Fc-epsilon-R = dégranulation.",
+   "Faux : le BCR du LB est une IgM/IgD, pas le CD16.",
+   "Faux : les FcR cités reconnaissent IgG (CD16) ou IgE (Fc-epsilon-R)."
+  ]
+ },
+ {
+  "q": "Concernant la structure de base d'une immunoglobuline, lesquelles sont exactes ?",
+  "options": [
+   "Elle est formée de 4 chaînes polypeptidiques identiques 2à 2",
+   "Elle comporte 2 chaînes légères (L) et 2 chaînes lourdes (H)",
+   "Elle est stabilisée par des ponts disulfures",
+   "Les ponts disulfures lient les chaînes H entre elles et les chaînes H aux chaînes L",
+   "Elle est formée de 2 chaînes lourdes uniquement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 4 chaînes identiques 2à 2.",
+   "Exact : 2L + 2H.",
+   "Exact : stabilisation par ponts S-S.",
+   "Exact : ponts H-H et H-L.",
+   "Faux : 2L + 2H."
+  ]
+ },
+ {
+  "q": "Concernant les chaînes lourdes et légères des Ig, lesquelles sont exactes ?",
+  "options": [
+   "Les chaînes H sont spécifiques et définissent les 5 classes : gamma, alpha, mu, epsilon, delta",
+   "Les chaînes L sont de 2 types : kappa et lambda",
+   "Les chaînes CL et CH sont identiques dans la même molécule",
+   "Les chaînes H définissent les types kappa et lambda",
+   "Les chaînes L définissent les 5 classes d'Ig"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : H = gamma, alpha, mu, epsilon, delta.",
+   "Exact : L = kappa, lambda.",
+   "Exact : CL et CH identiques dans la même molécule.",
+   "Faux : kappa/lambda sont les types de chaînes L.",
+   "Faux : les classes sont définies par les chaînes H."
+  ]
+ },
+ {
+  "q": "Concernant les domaines des immunoglobulines, lesquelles sont exactes ?",
+  "options": [
+   "Un domaine est une boucle d'environ 110 acides aminés reliée par un pont disulfure",
+   "Le domaine variable (VH ou VL) comprend 3 régions hypervariables : les CDR",
+   "Les CDR constituent le site de l'Ac qui reconnaît l'Ag",
+   "Les domaines constants assurent les fonctions effectrices de la réponse immunitaire",
+   "Un domaine est une boucle d'environ 50 acides aminés sans pont disulfure"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : domaine = boucle de 110 AA + pont S-S.",
+   "Exact : VH/VL = 3 CDR.",
+   "Exact : CDR = site de reconnaissance.",
+   "Exact : domaines constants = fonctions effectrices.",
+   "Faux : 110 AA avec pont disulfure."
+  ]
+ },
+ {
+  "q": "Concernant les CDR, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "CDR signifie région déterminant la complémentarité",
+   "Les acides aminés des CDR varient selon la spécificité de l'Ac",
+   "Les CDR des domaines VH et VL forment le site de liaison avec l'Ag",
+   "Il y à 3 CDR par domaine variable",
+   "Les CDR assurent les fonctions effectrices de l'Ig"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Complementarity Determining Région.",
+   "Exact : variabilité selon la spécificité.",
+   "Exact : site Ac = CDR de VH et VL.",
+   "Exact : 3 CDR par domaine variable.",
+   "Faux : les fonctions effectrices relevent des domaines constants."
+  ]
+ },
+ {
+  "q": "Concernant la composition des chaînes d'Ig, lesquelles sont exactes ?",
+  "options": [
+   "La chaîne légère = VL + CL",
+   "La chaîne lourde = VH, CH1, CH2, CH3 avec ou sans CH4",
+   "La région charnière sépare VH-CH1 de CH2-CH3",
+   "La chaîne légère = VL + CH1",
+   "La chaîne lourde ne comporte jamais de domaine CH4"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : L = VL + CL.",
+   "Exact : H = VH, CH1, CH2, CH3 +/- CH4.",
+   "Exact : région charnière entre VH-CH1 et CH2-CH3.",
+   "Faux : la chaîne L = VL + CL.",
+   "Faux : les chaînes mu et epsilon comportent CH4."
+  ]
+ },
+ {
+  "q": "Concernant l'action de la papaïne sur les Ig, lesquelles sont exactes ?",
+  "options": [
+   "La papaïne coupe l'Ig en 2 fragments Fab et 1 fragment Fc",
+   "Le fragment Fab (VL, CL, VH, CH1) assure la reconnaissance",
+   "Le fragment Fc (CH2, CH2, CH3, CH3) assure les fonctions effectrices",
+   "La papaïne produit un fragment F(ab')2",
+   "La papaïne coupe au-dessus des ponts disulfures reliant les chaînes H"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 2 Fab + 1 Fc.",
+   "Exact : Fab = reconnaissance.",
+   "Exact : Fc = fonctions effectrices.",
+   "Faux : le F(ab')2 est produit par la pepsine.",
+   "Faux : la papaïne coupe au-dessus des S-S inter-H (le F(ab')2 vient de la pepsine qui coupe au-dessous)."
+  ]
+ },
+ {
+  "q": "Concernant l'action de la pepsine sur les Ig, lesquelles sont exactes ?",
+  "options": [
+   "La pepsine coupe l'Ig au-dessous des ponts disulfures reliant les chaînes H",
+   "Elle produit un fragment F(ab')2, plus grand que les 2 Fab",
+   "Elle produit plusieurs petits peptides",
+   "Elle produit 2 Fab et 1 Fc intacts",
+   "Elle coupe au-dessus des ponts disulfures inter-H"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : coupure sous les S-S inter-H.",
+   "Exact : F(ab')2 > 2 Fab.",
+   "Exact : petits peptides en plus.",
+   "Faux : 2 Fab + 1 Fc = action de la papaïne.",
+   "Faux : c'est au-dessous."
+  ]
+ },
+ {
+  "q": "Concernant les fragments Fab et Fc, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Fab = antigen binding",
+   "Fc = cristallisable",
+   "Le Fab est forme de VL, CL, VH, CH1",
+   "Le Fc est forme de CH2, CH2, CH3, CH3",
+   "Le Fab assure les fonctions effectrices et le Fc la reconnaissance"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Fab = antigen binding.",
+   "Exact : Fc = fragment cristallisable.",
+   "Exact : composition du Fab.",
+   "Exact : composition du Fc.",
+   "Faux : c'est l'inverse."
+  ]
+ },
+ {
+  "q": "Concernant la région charnière des Ig, lesquelles sont exactes ?",
+  "options": [
+   "Elle sépare les domaines VH-CH1 des domaines CH2-CH3",
+   "Elle confère de la flexibilite à la molécule d'Ig",
+   "Sa longueur varie selon les classes et sous-classes (ex IgG3 = 62 AA)",
+   "L'IgD possède une région charnière très longue",
+   "La chaîne mu de l'IgM possède une région charnière"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : entre VH-CH1 et CH2-CH3.",
+   "Exact : flexibilité du Fab.",
+   "Exact : IgG3 = 62 AA vs 12 AA pour IgG1, 2, 4.",
+   "Exact : charnière très longue de l'IgD.",
+   "Faux : la chaîne mu n'a pas de région charnière."
+  ]
+ },
+ {
+  "q": "Concernant les domaines constants des Ig, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont peu variables en acides aminés",
+   "Ils assurent les fonctions effectrices de la réponse immunitaire",
+   "Le fragment Fc est forme de domaines constants",
+   "Ils forment le site de reconnaissance de l'Ag",
+   "Ils définissent la classe de l'Ig via la chaîne H"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : peu variables.",
+   "Exact : fonctions effectrices.",
+   "Exact : Fc = domaines constants.",
+   "Faux : la reconnaissance est le fait des domaines variables.",
+   "Exact : la chaîne H constante définit la classe."
+  ]
+ },
+ {
+  "q": "Concernant les domaines variables des Ig, lesquelles sont exactes ?",
+  "options": [
+   "Ils comprennent 3 régions hypervariables (CDR)",
+   "Les CDR de VH et VL forment le site de liaison à l'Ag",
+   "Le fragment Fab contient les domaines variables",
+   "Ils assurent les fonctions effectrices",
+   "Ils sont identiques pour tous les anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 3 CDR par domaine variable.",
+   "Exact : site Ac = CDR VH + VL.",
+   "Exact : Fab = VL, CL, VH, CH1.",
+   "Faux : fonctions effectrices = domaines constants.",
+   "Faux : ils sont variables selon la spécificité."
+  ]
+ },
+ {
+  "q": "Concernant la valence des immunoglobulines, lesquelles sont exactes ?",
+  "options": [
+   "La valence de l'IgG est de 2",
+   "La valence théorique de l'IgM pentamérique est de 10",
+   "La valence correspond au nombre de sites de fixation de l'Ag",
+   "La valence de l'IgG est de 10",
+   "La valence théorique de l'IgM est de 2"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IgG = 2 sites.",
+   "Exact : IgM pentamérique = 10 (théorique).",
+   "Exact : définition de la valence.",
+   "Faux : 10 = valence théorique de l'IgM.",
+   "Faux : 2 = valence de l'IgG."
+  ]
+ },
+ {
+  "q": "Concernant la nature glycoprotéique des Ig, lesquelles sont exactes ?",
+  "options": [
+   "L'Ig est une glycoprotéine",
+   "C'est un puissant immunogène",
+   "Elle est reconnue par des Ig anti-Ig",
+   "Elle porte des déterminants antigéniques isotypiques, allotypiques et idiotypiques",
+   "C'est une molécule non immunogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : glycoprotéine.",
+   "Exact : puissant immunogène.",
+   "Exact : reconnue par des anti-Ig.",
+   "Exact : 3 types de déterminants.",
+   "Faux : elle est fortement immunogène."
+  ]
+ },
+ {
+  "q": "Concernant la chaîne légère des Ig, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Il existe 2 types : kappa et lambda",
+   "Elle est formée des domaines VL et CL",
+   "Dans une même molécule, les deux chaînes L sont identiques",
+   "Elle définit les 5 classes d'Ig",
+   "Elle est formée des domaines VH et CH1"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : kappa et lambda.",
+   "Exact : L = VL + CL.",
+   "Exact : identiques 2à 2.",
+   "Faux : les classes sont définies par les chaînes H.",
+   "Faux : VH/CH1 appartiennent à la chaîne H."
+  ]
+ },
+ {
+  "q": "Concernant la chaîne lourde des Ig, lesquelles sont exactes ?",
+  "options": [
+   "Elle définit les 5 classes d'Ig : gamma, alpha, mu, epsilon, delta",
+   "Elle est formée de VH, CH1, CH2, CH3 avec ou sans CH4",
+   "Les chaînes mu et epsilon comportent un domaine CH4",
+   "Dans une même molécule, les deux chaînes H sont identiques",
+   "Elle est de 2 types : kappa et lambda"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 5 classes = 5 chaînes H.",
+   "Exact : VH, CH1, CH2, CH3 +/- CH4.",
+   "Exact : CH4 pour mu et epsilon.",
+   "Exact : identiques 2à 2.",
+   "Faux : kappa/lambda sont les chaînes L."
+  ]
+ },
+ {
+  "q": "Concernant les ponts disulfures des Ig, lesquelles sont exactes ?",
+  "options": [
+   "Ils stabilisent la molécule d'Ig",
+   "Ils lient les chaînes H entre elles",
+   "Ils lient les chaînes H aux chaînes L",
+   "Chaque domaine est une boucle refermée par un pont disulfure",
+   "Ils sont absents de la molécule d'Ig"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : stabilisation.",
+   "Exact : ponts H-H.",
+   "Exact : ponts H-L.",
+   "Exact : domaine = boucle de 110 AA + pont S-S.",
+   "Faux : ils sont essentiels à la structure."
+  ]
+ },
+ {
+  "q": "Concernant le site de l'anticorps reconnaissant l'Ag, lesquelles sont exactes ?",
+  "options": [
+   "Il est forme par les CDR des domaines VH et VL",
+   "Il appartient au fragment Fab",
+   "Sa spécificité varie selon les acides aminés des CDR",
+   "Il appartient au fragment Fc",
+   "Il est identique pour tous les anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : CDR de VH et VL.",
+   "Exact : Fab = fragment de reconnaissance.",
+   "Exact : variabilité des CDR = spécificité.",
+   "Faux : le Fc assure les fonctions effectrices.",
+   "Faux : il est spécifique de chaque Ac."
+  ]
+ },
+ {
+  "q": "Concernant la digestion enzymatique des Ig, lesquelles sont exactes ?",
+  "options": [
+   "La papaïne donne 2 Fab + 1 Fc",
+   "La pepsine donne un F(ab')2 + des petits peptides",
+   "Le F(ab')2 est plus grand que les 2 Fab séparés",
+   "La papaïne et la pepsine donnent les mêmes fragments",
+   "La pepsine donne 2 Fab + 1 Fc"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : papaïne = 2 Fab + 1 Fc.",
+   "Exact : pepsine = F(ab')2 + peptides.",
+   "Exact : F(ab')2 > 2 Fab.",
+   "Faux : les fragments différent.",
+   "Faux : 2 Fab + 1 Fc = papaïne."
+  ]
+ },
+ {
+  "q": "Concernant les IgG sériques, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Elles représentent 80 % des Ig sériques totales",
+   "Leur taux sérique est de 13 g/l",
+   "Leur poids moléculaire est de 150 kDa",
+   "Leur valence est de 2",
+   "Elles représentent 5à 10 % des Ig sériques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 80 % des Ig sériques.",
+   "Exact : 13 g/l.",
+   "Exact : PM 150 kDa.",
+   "Exact : valence 2.",
+   "Faux : 5-10 % = les IgM."
+  ]
+ },
+ {
+  "q": "Concernant les sous-classes d'IgG, lesquelles sont exactes ?",
+  "options": [
+   "Il existe 4 sous-classes : IgG1, IgG2, IgG3, IgG4",
+   "Elles se différencient par le nombre d'AA dans la région charnière",
+   "IgG1, IgG2 et IgG4 ont 12 AA dans la région charnière, IgG3 en à 62",
+   "Elles se différencient par le nombre de ponts disulfures intercaténaires",
+   "Il existe 2 sous-classes : IgG1 et IgG2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IgG1à IgG4.",
+   "Exact : nb d'AA de la charnière.",
+   "Exact : 12 AA vs 62 AA pour IgG3.",
+   "Exact : ponts S-S intercaténaires.",
+   "Faux : 4 sous-classes."
+  ]
+ },
+ {
+  "q": "Concernant les ponts disulfures intercaténaires des IgG, lesquelles sont exactes ?",
+  "options": [
+   "IgG1 et IgG4 en ont 2",
+   "IgG2 en à 4",
+   "IgG3 en à 11à 15",
+   "Toutes les sous-classes en ont le même nombre",
+   "IgG3 en à 2"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IgG1, IgG4 = 2.",
+   "Exact : IgG2 = 4.",
+   "Exact : IgG3 = 11à 15.",
+   "Faux : le nombre varie selon la sous-classe.",
+   "Faux : IgG3 = 11à 15."
+  ]
+ },
+ {
+  "q": "Concernant le passage transplacentaire, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Les IgG traversent le placenta",
+   "Elles confèrent une immunité passive au nouveau-né",
+   "Les IgM traversent le placenta",
+   "Les IgA traversent le placenta",
+   "Seules les IgG traversent le placenta parmi les classes d'Ig"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : les IgG traversent le placenta.",
+   "Exact : immunité passive néonatale.",
+   "Faux : les IgM ne traversent pas (infection fœtale = IgM du fœtus).",
+   "Faux : les IgA ne traversent pas.",
+   "Exact : seule classe à passer."
+  ]
+ },
+ {
+  "q": "Concernant les IgG dans la réponse immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont l'isotype dominant de la réponse secondaire",
+   "Elles sont produites par les plasmocytes issus du centre germinatif",
+   "Elles medient l'ADCC via le Fc-gamma-R (CD16) des NK",
+   "Elles activent la voie classique du complément",
+   "Ce sont l'isotype dominant de la réponse primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IgG = secondaire.",
+   "Exact : plasmocytes du centre germinatif.",
+   "Exact : ADCC via CD16.",
+   "Exact : voie classique.",
+   "Faux : le primaire est dominé par les IgM."
+  ]
+ },
+ {
+  "q": "Concernant la chaîne lourde gamma des IgG, lesquelles sont exactes ?",
+  "options": [
+   "Elle est formée de VH, CH1, CH2, CH3",
+   "Elle ne comporte pas de domaine CH4",
+   "Elle définit la classe des IgG",
+   "Elle comporte un domaine CH4",
+   "Elle définit le type kappa ou lambda"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : VH, CH1, CH2, CH3.",
+   "Exact : pas de CH4 pour gamma.",
+   "Exact : chaîne gamma = classe IgG.",
+   "Faux : CH4 = chaînes mu et epsilon.",
+   "Faux : kappa/lambda = chaînes légères."
+  ]
+ },
+ {
+  "q": "Concernant les IgG1, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "La commutation vers les IgG1 est orientee par IL4, IL5 et IL6 (TH2)",
+   "La région charnière des IgG1 comporte 12 AA",
+   "Les IgG1 possèdent 2 ponts disulfures intercaténaires",
+   "La commutation vers les IgG1 est orientee par l'IL10 et le TGF-beta",
+   "La région charnière des IgG1 comporte 62 AA"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IL4, IL5, IL6 -> IgG1.",
+   "Exact : 12 AA.",
+   "Exact : 2 ponts S-S.",
+   "Faux : IL10/TGF-beta -> IgA.",
+   "Faux : 62 AA = IgG3."
+  ]
+ },
+ {
+  "q": "Concernant les IgG3, lesquelles sont exactes ?",
+  "options": [
+   "Leur région charnière comporte 62 AA",
+   "Elles possèdent 11à 15 ponts disulfures intercaténaires",
+   "Ce sont des IgG donc de PM 150 kDa et de valence 2",
+   "Leur région charnière comporte 12 AA",
+   "Elles possèdent 2 ponts disulfures intercaténaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : charnière longue de 62 AA.",
+   "Exact : 11-15 ponts S-S.",
+   "Exact : caractéristiques des IgG.",
+   "Faux : 12 AA = IgG1, 2, 4.",
+   "Faux : 2 ponts = IgG1, IgG4."
+  ]
+ },
+ {
+  "q": "Concernant les fonctions des IgG, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Neutralisation des virus et des toxines (Fab)",
+   "Opsonisation via les FcR des phagocytes",
+   "Activation de la voie classique du complément",
+   "ADCC via le CD16 des cellules NK",
+   "Dégranulation des mastocytes via le Fc-epsilon-R"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : neutralisation par le Fab.",
+   "Exact : opsonisation par le Fc.",
+   "Exact : voie classique.",
+   "Exact : ADCC.",
+   "Faux : la dégranulation des mastocytes est le fait des IgE."
+  ]
+ },
+ {
+  "q": "Concernant les IgG et le fœtus/nouveau-né, lesquelles sont exactes ?",
+  "options": [
+   "Les IgG maternelles traversent le placenta",
+   "Le fœtus et le nouveau-né produisent des IgM lors d'une réponse immunitaire",
+   "Les IgM maternelles traversent le placenta",
+   "Les IgG sont la première Ig produite par le fœtus en cas d'infection",
+   "La présence d'IgM chez le nouveau-né signe une infection fœtale"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : passage transplacentaire des IgG.",
+   "Exact : le fœtus produit des IgM.",
+   "Faux : les IgM ne traversent pas le placenta.",
+   "Faux : la 1ère Ig produite (fœtus, primo-infection) est l'IgM.",
+   "Exact : les IgM néonatales sont d'origine fœtale."
+  ]
+ },
+ {
+  "q": "Concernant les deux formes de l'IgM, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "La forme monomérique est membranaire et constitue le BCR",
+   "La forme pentamérique est sécrétée",
+   "La forme pentamérique comprend 5 unités + la chaîne J",
+   "La forme membranaire est pentamérique",
+   "La forme sécrétée est monomérique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IgM monomérique membranaire = BCR.",
+   "Exact : pentamère sécrète.",
+   "Exact : 5 unités + chaîne J (joining).",
+   "Faux : la forme membranaire est monomérique.",
+   "Faux : la forme sécrétée est pentamérique."
+  ]
+ },
+ {
+  "q": "Concernant les IgM sériques, lesquelles sont exactes ?",
+  "options": [
+   "Elles représentent 5à 10 % des Ig sériques",
+   "Leur taux sérique est de 1,5 g/l",
+   "Leur poids moléculaire est de 900 kDa",
+   "Leur valence théorique est de 10",
+   "Elles représentent 80 % des Ig sériques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 5-10 % des Ig sériques.",
+   "Exact : 1,5 g/l.",
+   "Exact : PM 900 kDa.",
+   "Exact : valence théorique 10.",
+   "Faux : 80 % = les IgG."
+  ]
+ },
+ {
+  "q": "Concernant la chaîne lourde mu, lesquelles sont exactes ?",
+  "options": [
+   "Elle est formée de VH, CH1, CH2, CH3, CH4",
+   "Elle ne possède pas de région charnière",
+   "Elle définit la classe des IgM",
+   "Elle possède une région charnière",
+   "Elle est formée de VH, CH1, CH2, CH3 uniquement"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : VH, CH1, CH2, CH3, CH4.",
+   "Exact : pas de région charnière.",
+   "Exact : chaîne mu = IgM.",
+   "Faux : pas de charnière sur mu.",
+   "Faux : il y à aussi CH4."
+  ]
+ },
+ {
+  "q": "Concernant la place de l'IgM dans la réponse immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "C'est la première Ig produite en réponse à une infection",
+   "C'est l'isotype dominant de la réponse primaire",
+   "Elle est produite chez le fœtus et le nouveau-né lors d'une réponse immunitaire",
+   "C'est l'isotype dominant de la réponse secondaire",
+   "Elle résulte de la commutation de classe"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 1ère Ig de la primo-infection.",
+   "Exact : isotype du primaire.",
+   "Exact : IgM fœtales/néonatales.",
+   "Faux : le secondaire est dominé par les IgG.",
+   "Faux : l'IgM est l'isotype non commute."
+  ]
+ },
+ {
+  "q": "Concernant la chaîne J, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "J signifie joining",
+   "Elle assemble les 5 unités de l'IgM pentamérique",
+   "Elle participe aussi à l'IgA sécrétoire (dimère)",
+   "Elle définit la spécificité antigénique de l'Ac",
+   "Elle est présente dans l'IgG monomérique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : J = joining.",
+   "Exact : assemblage du pentamère.",
+   "Exact : dimère d'IgA + chaîne J.",
+   "Faux : la spécificité relève des CDR.",
+   "Faux : l'IgG est monomérique sans chaîne J."
+  ]
+ },
+ {
+  "q": "Concernant l'IgM membranaire du BCR, lesquelles sont exactes ?",
+  "options": [
+   "Elle est de forme monomérique",
+   "Elle est exprimée par le LB immature comme BCR fonctionnel",
+   "Elle est co-exprimée avec l'IgD par le LB mature périphérique",
+   "Elle est pentamérique à la surface du LB",
+   "Elle est associee à Ig-alpha/Ig-beta (CD79a/CD79b)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : forme monomérique membranaire.",
+   "Exact : BCR du B immature.",
+   "Exact : IgM + IgD chez le B mature.",
+   "Faux : le pentamère est la forme sécrétée.",
+   "Exact : BCR = IgM + Ig-alpha/Ig-beta."
+  ]
+ },
+ {
+  "q": "Concernant les IgA sériques, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Elles représentent 10à 15 % des Ig",
+   "Leur taux sérique est de 3 g/l",
+   "Il existe 2 sous-classes : IgA1 (93 %) et IgA2 (7 %)",
+   "Elles représentent 80 % des Ig sériques",
+   "Leur taux sérique est de 0,003 g/l"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 10-15 % des Ig.",
+   "Exact : 3 g/l.",
+   "Exact : IgA1 93 %, IgA2 7 %.",
+   "Faux : 80 % = les IgG.",
+   "Faux : 0,003 g/l = les IgE."
+  ]
+ },
+ {
+  "q": "Concernant la chaîne lourde alpha, lesquelles sont exactes ?",
+  "options": [
+   "Elle est formée de VH, CH1, CH2, CH3",
+   "Elle définit la classe des IgA",
+   "Elle comporte un domaine CH4",
+   "Elle est formée de VH, CH1, CH2, CH3, CH4",
+   "Elle définit la classe des IgM"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : VH, CH1, CH2, CH3.",
+   "Exact : chaîne alpha = IgA.",
+   "Faux : CH4 = chaînes mu et epsilon.",
+   "Faux : pas de CH4 pour alpha.",
+   "Faux : les IgM = chaîne mu."
+  ]
+ },
+ {
+  "q": "Concernant l'IgA monomérique, lesquelles sont exactes ?",
+  "options": [
+   "Son poids moléculaire est de 160 kDa",
+   "C'est la forme sérique de l'IgA",
+   "Son poids moléculaire est de 600 kDa",
+   "C'est un pentamère",
+   "Elle comporte une chaîne J"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : PM 160 kDa.",
+   "Exact : forme sérique monomérique.",
+   "Faux : 600 kDa = l'IgA sécrétoire.",
+   "Faux : le pentamère = l'IgM.",
+   "Faux : la chaîne J est dans la forme sécrétoire."
+  ]
+ },
+ {
+  "q": "Concernant l'IgA sécrétoire, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Son poids moléculaire est de 600 kDa",
+   "Elle est formée de 2 unités reliées par la chaîne J et la pièce S",
+   "On la trouve dans le lait, la salive et les larmes",
+   "On la trouve dans le mucus des tractus bronchique, urogénital et digestif",
+   "C'est une molécule monomérique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : PM 600 kDa.",
+   "Exact : dimère + chaîne J + pièce S.",
+   "Exact : lait, salive, larmes.",
+   "Exact : mucus bronchique, urogénital, digestif.",
+   "Faux : c'est un dimère."
+  ]
+ },
+ {
+  "q": "Concernant la pièce S (pièce sécrétoire), lesquelles sont exactes ?",
+  "options": [
+   "Elle est associee à l'IgA sécrétoire dimérique",
+   "Elle s'associe à la chaîne J dans l'IgA sécrétoire",
+   "Elle protege l'IgA de la proteolyse dans les sécrétions",
+   "Elle est présente dans l'IgG sérique",
+   "Elle assemble les 5 unités de l'IgM"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : composant de l'IgA sécrétoire.",
+   "Exact : dimère + chaîne J + pièce S.",
+   "Exact : protection contre les proteases des muqueuses.",
+   "Faux : absente de l'IgG.",
+   "Faux : l'assemblage de l'IgM relève de la chaîne J."
+  ]
+ },
+ {
+  "q": "Concernant le rôle des IgA, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont les Ig des sécrétions externes et des muqueuses",
+   "La commutation vers les IgA est orientee par l'IL10 et le TGF-beta (TH2)",
+   "Elles protegent les surfaces muqueuses",
+   "Ce sont les Ig du sérum les plus abondantes",
+   "La commutation vers les IgA est orientee par l'IL4"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : Ig des sécrétions/muqueuses.",
+   "Exact : IL10, TGF-beta -> IgA.",
+   "Exact : défense des muqueuses.",
+   "Faux : les plus abondantes du sérum sont les IgG.",
+   "Faux : l'IL4 oriente vers les IgE."
+  ]
+ },
+ {
+  "q": "Concernant les sous-classes d'IgA, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "IgA1 représente 93 % des IgA",
+   "IgA2 représente 7 % des IgA",
+   "Il existe des marqueurs allotypiques IgA2m(1) et A2m(2)",
+   "Il existe 4 sous-classes d'IgA",
+   "IgA2 représente 93 % des IgA"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IgA1 = 93 %.",
+   "Exact : IgA2 = 7 %.",
+   "Exact : allotypes A2m(1), A2m(2).",
+   "Faux : 2 sous-classes seulement.",
+   "Faux : c'est l'inverse."
+  ]
+ },
+ {
+  "q": "Concernant les IgA et les IgM polymeriques, lesquelles sont exactes ?",
+  "options": [
+   "L'IgA sécrétoire et l'IgM pentamérique utilisent la chaîne J",
+   "L'IgA sécrétoire possède en plus la pièce S",
+   "L'IgM pentamérique à une valence théorique de 10",
+   "L'IgA monomérique sérique possède la chaîne J",
+   "L'IgM pentamérique possède la pièce S"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : chaîne J commune.",
+   "Exact : pièce S propre à l'IgA sécrétoire.",
+   "Exact : valence théorique 10.",
+   "Faux : la forme sérique est monomérique sans chaîne J.",
+   "Faux : pas de pièce S dans l'IgM."
+  ]
+ },
+ {
+  "q": "Concernant les IgE sériques, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Leur taux sérique est de 0,003 g/l",
+   "Leur poids moléculaire est de 190 kDa",
+   "Leur chaîne H est formée de VH, CH1, CH2, CH3, CH4",
+   "Leur taux sérique est de 13 g/l",
+   "Leur poids moléculaire est de 900 kDa"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 0,003 g/l, taux le plus bas.",
+   "Exact : PM 190 kDa.",
+   "Exact : chaîne epsilon avec CH4.",
+   "Faux : 13 g/l = les IgG.",
+   "Faux : 900 kDa = les IgM."
+  ]
+ },
+ {
+  "q": "Concernant le rôle des IgE, lesquelles sont exactes ?",
+  "options": [
+   "Elles participent à la lutte anti-parasitaire",
+   "Elles interviennent dans l'hypersensibilité immédiate (type 1)",
+   "La commutation vers les IgE est orientee par l'IL4 (TH2)",
+   "Elles activent la voie classique du complément",
+   "Elles sont l'isotype dominant de la réponse secondaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : lutte anti-parasitaire.",
+   "Exact : hypersensibilité immédiate type 1.",
+   "Exact : IL4 -> IgE.",
+   "Faux : pas d'activation du complément par les IgE.",
+   "Faux : le secondaire est dominé par les IgG."
+  ]
+ },
+ {
+  "q": "Concernant les IgE et les mastocytes, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Les mastocytes et basophiles possèdent des Fc-epsilon-R",
+   "Deux IgE liées à l'Ag sont reconnues par les Fc-epsilon-R",
+   "Cette reconnaissance entraîne la dégranulation",
+   "Les IgE se fixent aux mastocytes par leur fragment Fab",
+   "La dégranulation est médiée par les IgG"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : Fc-epsilon-R spécifiques.",
+   "Exact : pontage de 2 IgE par l'Ag.",
+   "Exact : dégranulation.",
+   "Faux : la fixation se fait par le Fc.",
+   "Faux : les IgE, pas les IgG."
+  ]
+ },
+ {
+  "q": "Concernant le dosage des IgE, lesquelles sont exactes ?",
+  "options": [
+   "Le dosage immunologique des IgE se fait par ELISA",
+   "Il est utile dans les hypersensibilités",
+   "Le dosage pondéral des IgE se fait par nephélémétrie en routine",
+   "Les IgE sont les Ig les plus abondantes du sérum",
+   "Le dosage des IgE explore l'immunité humorale anti-parasitaire et allergique"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : ELISA pour les IgE.",
+   "Exact : indication = hypersensibilités.",
+   "Faux : taux trop faible pour la nephélémétrie.",
+   "Faux : ce sont les moins abondantes (0,003 g/l).",
+   "Exact : exploration de l'allergie et des parasitoses."
+  ]
+ },
+ {
+  "q": "Concernant la chaîne epsilon, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Elle est formée de VH, CH1, CH2, CH3, CH4",
+   "Elle définit la classe des IgE",
+   "Elle comporte un domaine CH4 comme la chaîne mu",
+   "Elle est formée de VH, CH1, CH2, CH3 uniquement",
+   "Elle définit la classe des IgD"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : VH, CH1, CH2, CH3, CH4.",
+   "Exact : chaîne epsilon = IgE.",
+   "Exact : CH4 commun avec mu.",
+   "Faux : il y à aussi CH4.",
+   "Faux : les IgD = chaîne delta."
+  ]
+ },
+ {
+  "q": "Concernant l'hypersensibilité immédiate (type 1), lesquelles sont exactes ?",
+  "options": [
+   "Elle est médiée par les IgE",
+   "Elle implique la dégranulation des mastocytes et basophiles",
+   "Elle met en jeu les récepteurs Fc-epsilon-R",
+   "Elle est médiée par les IgG via le CD16",
+   "Elle implique l'activation du complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IgE.",
+   "Exact : dégranulation mastocytes/basophiles.",
+   "Exact : Fc-epsilon-R.",
+   "Faux : IgG/CD16 = ADCC.",
+   "Faux : pas de complément dans le type 1."
+  ]
+ },
+ {
+  "q": "Concernant les IgD sériques, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Leur taux sérique est de 0,03 g/l",
+   "Leur poids moléculaire est de 150 kDa",
+   "Leur chaîne H est formée de VH, CH1, CH2, CH3",
+   "Leur taux sérique est de 3 g/l",
+   "Leur poids moléculaire est de 900 kDa"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 0,03 g/l.",
+   "Exact : PM 150 kDa.",
+   "Exact : chaîne delta sans CH4.",
+   "Faux : 3 g/l = les IgA.",
+   "Faux : 900 kDa = les IgM."
+  ]
+ },
+ {
+  "q": "Concernant la structure de l'IgD, lesquelles sont exactes ?",
+  "options": [
+   "Sa région charnière est très longue",
+   "Elle possède une queue cytoplasmique",
+   "Sa chaîne lourde delta = VH, CH1, CH2, CH3",
+   "Sa région charnière est absente",
+   "Elle est pentamérique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : charnière très longue.",
+   "Exact : queue cytoplasmique.",
+   "Exact : chaîne delta.",
+   "Faux : la charnière est très longue.",
+   "Faux : forme monomérique."
+  ]
+ },
+ {
+  "q": "Concernant le rôle de l'IgD, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Elle participe au BCR avec l'IgM",
+   "Elle est co-exprimée avec l'IgM par le LB mature périphérique",
+   "Elle est la principale Ig de la réponse secondaire",
+   "Elle traverse le placenta",
+   "Elle active la voie classique du complément"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : IgD = composant du BCR.",
+   "Exact : IgM + IgD chez le B mature.",
+   "Faux : le secondaire = IgG.",
+   "Faux : seules les IgG traversent le placenta.",
+   "Faux : fonction des IgG/IgM."
+  ]
+ },
+ {
+  "q": "Concernant l'IgD membranaire, lesquelles sont exactes ?",
+  "options": [
+   "C'est une Ig de surface du LB mature naïf",
+   "Elle possède une queue cytoplasmique d'ancrage membranaire",
+   "Elle participe à la reconnaissance antigénique avec l'IgM",
+   "C'est la forme sécrétée majoritaire de la réponse primaire",
+   "Son taux sérique est le plus élevé des Ig"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : Ig de surface du B mature.",
+   "Exact : queue cytoplasmique.",
+   "Exact : co-reconnaissance avec l'IgM.",
+   "Faux : la réponse primaire sécrète des IgM.",
+   "Faux : taux très faible (0,03 g/l)."
+  ]
+ },
+ {
+  "q": "Concernant les déterminants isotypiques des Ig, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont présents chez tous les individus d'une même espèce",
+   "Ils définissent les classes (IgG, IgA, IgM, IgE, IgD)",
+   "Ils définissent les sous-classes (IgG1-IgG4, IgA1, IgA2) et les types (kappa, lambda)",
+   "On compte 9 isotypes de chaînes H : mu, gamma1-4, alpha1-2, epsilon, delta",
+   "Ils ne sont présents que chez un groupe d'individus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : présents chez tous les individus de l'espèce.",
+   "Exact : définissent les classes.",
+   "Exact : sous-classes et types.",
+   "Exact : 9 isotypes H.",
+   "Faux : c'est la définition des allotypes."
+  ]
+ },
+ {
+  "q": "Concernant les déterminants allotypiques des Ig, lesquelles sont exactes ?",
+  "options": [
+   "Ils ne sont présents que chez un groupe d'individus d'une même espèce",
+   "Ils correspondent à des variations d'acides aminés",
+   "Exemples : marqueurs Gm comme IgG1m(1), IgA2m(1), A2m(2), kappa-m(1), (2), (3)",
+   "Ils sont propres à chaque individu vis-à-vis d'un Ag donne",
+   "Ils sont présents chez tous les individus d'une même espèce"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : groupe d'individus seulement.",
+   "Exact : variations d'AA.",
+   "Exact : marqueurs Gm.",
+   "Faux : c'est la définition des idiotypes.",
+   "Faux : c'est la définition des isotypes."
+  ]
+ },
+ {
+  "q": "Concernant les déterminants idiotypiques des Ig, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont propres à chaque individu vis-à-vis d'un Ag donne",
+   "Ils sont portes par les régions variables (CDR) de l'Ac",
+   "Ils reflètent la spécificité individuelle de l'anticorps",
+   "Ils sont présents chez tous les individus d'une même espèce",
+   "Ils correspondent aux classes et sous-classes d'Ig"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : propres à chaque individu pour un Ag donne.",
+   "Exact : idiotype = régions variables.",
+   "Exact : spécificité individuelle.",
+   "Faux : ce sont les isotypes.",
+   "Faux : classes/sous-classes = isotypes."
+  ]
+ },
+ {
+  "q": "Concernant les types de déterminants antigéniques des Ig, lesquelles sont exactes ?",
+  "options": [
+   "Isotypiques : tous les individus d'une même espèce",
+   "Allotypiques : un groupe d'individus d'une même espèce",
+   "Idiotypiques : propres à chaque individu vis-à-vis d'un Ag donne",
+   "Il existe 2 types de chaînes légères : kappa et lambda (isotypes)",
+   "Les déterminants idiotypiques définissent les classes d'Ig"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : isotypiques = espèce entière.",
+   "Exact : allotypiques = groupe d'individus.",
+   "Exact : idiotypiques = individu/Ag.",
+   "Exact : kappa, lambda = isotypes L.",
+   "Faux : les classes sont des isotypes."
+  ]
+ },
+ {
+  "q": "Concernant la génétique des immunoglobulines, lesquelles sont exactes ?",
+  "options": [
+   "Le LB est une cellule diploïde",
+   "Les Ig ne sont codées que par les gènes d'un seul chromosome",
+   "Les gènes homologues sur l'autre chromosome sont inhibés : c'est l'exclusion allélique",
+   "Les deux chromosomes codent chacun une Ig de spécificité différente",
+   "L'exclusion allélique garantit une seule spécificité d'Ac par LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : LB diploïde.",
+   "Exact : un seul chromosome actif.",
+   "Exact : exclusion allélique.",
+   "Faux : l'homologue est inhibe.",
+   "Exact : une seule spécificité par LB."
+  ]
+ },
+ {
+  "q": "Concernant la diversité des anticorps, lesquelles sont exactes ?",
+  "options": [
+   "Le système immunitaire peut repondre à un nombre quasi illimité d'Ag",
+   "On estime la diversite à 10^10 anticorps différents",
+   "Elle s'explique par l'organisation des gènes en familles multigéniques",
+   "Elle s'explique par le réarrangement des segments géniques lors de la maturation du LB",
+   "Chaque LB produit des anticorps de spécificités multiples"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : répertoire quasi illimité.",
+   "Exact : ~10^10 Ac différents.",
+   "Exact : familles multigéniques.",
+   "Exact : réarrangements V(D)J.",
+   "Faux : un LB = une spécificité (exclusion allélique)."
+  ]
+ },
+ {
+  "q": "Concernant la localisation chromosomique des gènes d'Ig, lesquelles sont exactes ?",
+  "options": [
+   "Les gènes de la chaîne lourde sont sur le chromosome 14",
+   "Les gènes de la chaîne kappa sont sur le chromosome 2",
+   "Les gènes de la chaîne lambda sont sur le chromosome 22",
+   "Les gènes des 3 chaînes sont sur le même chromosome",
+   "Les gènes de la chaîne lourde sont sur le chromosome 22"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : chaîne H = chromosome 14.",
+   "Exact : kappa = chromosome 2.",
+   "Exact : lambda = chromosome 22.",
+   "Faux : 3 chromosomes différents.",
+   "Faux : chaîne H = chromosome 14."
+  ]
+ },
+ {
+  "q": "Concernant les segments géniques des Ig, lesquelles sont exactes ?",
+  "options": [
+   "V = variable, D = diversité (CDR3), J = jonction, C = constant",
+   "Les segments V-J codent les régions variables des chaînes légères",
+   "Les segments V-D-J codent les régions variables des chaînes lourdes",
+   "Les segments C codent les régions constantes",
+   "Les segments D codent les régions constantes des chaînes lourdes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : V, D, J, C.",
+   "Exact : V-J = variable des L.",
+   "Exact : V-D-J = variable des H.",
+   "Exact : C = constant.",
+   "Faux : C code le constant, D la diversité (CDR3)."
+  ]
+ },
+ {
+  "q": "Concernant le réarrangement des gènes d'Ig, lesquelles sont exactes ?",
+  "options": [
+   "Il élimine les séquences non codantes et rapproche les séquences codantes",
+   "Il est réalise grâce aux recombinases codées par RAG1 et RAG2",
+   "On ne garde qu'un seul gene de chaque famille : VJC pour la chaîne légère",
+   "On ne garde qu'un seul gene de chaque famille : VDJCmu pour la chaîne lourde",
+   "Il produit plusieurs gènes fonctionnels de spécificités différentes par LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : élimination/rapprochement des séquences.",
+   "Exact : RAG1/RAG2 = recombinases.",
+   "Exact : chaîne légère = VJC.",
+   "Exact : chaîne lourde = VDJCmu.",
+   "Faux : une seule séquence fonctionnelle = une seule spécificité."
+  ]
+ },
+ {
+  "q": "Concernant RAG1 et RAG2, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "RAG signifie recombinaison activating gene",
+   "Elles codent les recombinases du réarrangement des gènes d'Ig",
+   "Elles permettent de ne garder qu'un seul gene de chaque famille",
+   "Elles codent les cytokines de la maturation B",
+   "Elles sont exprimées par le plasmocyte mature"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : recombinaison activating gene.",
+   "Exact : recombinases du réarrangement.",
+   "Exact : un seul gene par famille.",
+   "Faux : ce sont des recombinases, pas des cytokines.",
+   "Faux : exprimées lors de la maturation, pas par le plasmocyte."
+  ]
+ },
+ {
+  "q": "Concernant l'exploration quantitative des Ig, lesquelles sont exactes ?",
+  "options": [
+   "Le dosage pondéral des Ig se fait comme pour les autres protéines",
+   "La nephélémétrie est une technique de dosage pondéral",
+   "La technique de Mancini (immunodiffusion) est une technique de dosage",
+   "Le dosage pondéral explore un déficit immunitaire humoral",
+   "L'immunofixation est une technique quantitative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : dosage pondéral.",
+   "Exact : nephélémétrie.",
+   "Exact : technique de Mancini.",
+   "Exact : déficit immunitaire humoral.",
+   "Faux : l'immunofixation est qualitative."
+  ]
+ },
+ {
+  "q": "Concernant l'exploration qualitative des Ig, lesquelles sont exactes ?",
+  "options": [
+   "L'électrophorèse des protéines sériques (EPP) est qualitative",
+   "L'immunofixation est la technique qualitative de référence",
+   "La cytométrie en flux (CMF) étudie les classes et marqueurs",
+   "La numération des sous-populations lymphocytaires (LB, LT) se fait par CMF",
+   "La nephélémétrie est une technique qualitative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : EPP qualitative.",
+   "Exact : immunofixation = référence qualitative.",
+   "Exact : CMF pour classes/marqueurs.",
+   "Exact : numération LB/LT par CMF.",
+   "Faux : la nephélémétrie est quantitative."
+  ]
+ },
+ {
+  "q": "Concernant les pathologies des Ig, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Les déficits en Ig peuvent être congénitaux ou acquis",
+   "Les syndromes immunoprolifératifs se traduisent par l'augmentation d'une classe d'Ig",
+   "Dans les maladies auto-immunes, le SI fabrique des auto-Ac",
+   "Les déficits en Ig sont toujours acquis",
+   "Les syndromes immunoprolifératifs se traduisent par un déficit global en Ig"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : déficits congénitaux ou acquis.",
+   "Exact : immunoprolifératifs = augmentation d'une classe.",
+   "Exact : auto-Ac dans les maladies auto-immunes.",
+   "Faux : ils peuvent être congénitaux.",
+   "Faux : c'est une augmentation, pas un déficit."
+  ]
+ },
+ {
+  "q": "Concernant l'usage des anticorps monoclonaux en diagnostic, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont utilisés dans le diagnostic in vitro",
+   "Exemple : diagnostic de grossesse",
+   "Exemple : diagnostic de micro-organismes",
+   "Ils sont utilisés uniquement en thérapeutique",
+   "Ils ne sont pas utilisables en routine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : diagnostic in vitro.",
+   "Exact : test de grossesse.",
+   "Exact : détection de micro-organismes.",
+   "Faux : aussi utilisés en diagnostic.",
+   "Faux : largement utilisés en routine."
+  ]
+ },
+ {
+  "q": "Concernant l'usage thérapeutique des anticorps monoclonaux, lesquelles sont exactes ?",
+  "options": [
+   "Exemple : traitement des lymphomes par l'Ac anti-CD20",
+   "Le CD20 est un marqueur des lymphocytes B",
+   "Les Ac monoclonaux ciblent spécifiquement un Ag",
+   "Les Ac monoclonaux sont produits par des plasmocytes polyclonaux",
+   "L'anti-CD20 cible les lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : anti-CD20 dans les lymphomes.",
+   "Exact : CD20 = marqueur B.",
+   "Exact : spécificité monoclonale.",
+   "Faux : produits par un clone unique (hybridome).",
+   "Faux : il cible les LB."
+  ]
+ },
+ {
+  "q": "Concernant l'exploration de l'immunité humorale, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "La NFS (formule leucocytaire) renseigne sur les anomalies quantitatives des cellules sanguines",
+   "La CMF permet l'immunophénotypage des LB et LT",
+   "Le dosage pondéral des Ig dépiste les déficits immunitaires humoraux",
+   "L'immunofixation caractérise qualitativement une Ig monoclonale",
+   "La NFS permet le dosage pondéral des Ig"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : NFS = étude quantitative.",
+   "Exact : CMF = immunophénotypage.",
+   "Exact : dosage pondéral = déficit humoral.",
+   "Exact : immunofixation qualitative.",
+   "Faux : la NFS ne dose pas les Ig."
+  ]
+ },
+ {
+  "q": "Concernant l'IgM et l'activation du complément, lesquelles sont exactes ?",
+  "options": [
+   "L'IgM pentamérique est un puissant activateur de la voie classique du complément",
+   "Un seul pentamère d'IgM lie au C1q suffit à declencher la voie classique",
+   "L'activation aboutit à la formation du complexe d'attaque membranaire",
+   "L'IgM active la voie alterne du complément",
+   "L'IgM n'active pas le complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'IgM pentamérique active fortement la voie classique.",
+   "Exact : un pentamère suffit (vs 2 IgG).",
+   "Exact : aboutit au CAM et à la lyse.",
+   "Faux : la voie alterne est indépendante des Ac.",
+   "Faux : l'IgM est le plus puissant activateur."
+  ]
+ },
+ {
+  "q": "Concernant l'IgM dans le diagnostic sérologique, lesquelles sont exactes ?",
+  "options": [
+   "La présence d'IgM spécifiques signe une infection récente (primo-infection)",
+   "Les IgM apparaissent avant les IgG lors de la réponse primaire",
+   "La séroconversion IgM puis IgG reflète la cinétique primaire",
+   "La présence d'IgG signe toujours une infection récente",
+   "Les IgM persistent toute la vie à taux élevé"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : IgM = marqueur d'infection récente.",
+   "Exact : IgM d'abord, puis IgG.",
+   "Exact : cinétique de la réponse primaire.",
+   "Faux : les IgG persistent (mémoire), les IgM signent la récence.",
+   "Faux : les IgM décroissent après la phase aiguë."
+  ]
+ },
+ {
+  "q": "Concernant la taille de l'IgM, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "C'est la plus grosse des immunoglobulines (PM 900 kDa)",
+   "Le pentamère est forme de 5 unités + la chaîne J",
+   "Sa grande taille limite sa diffusion tissulaire par rapport à l'IgG",
+   "C'est la plus petite des immunoglobulines",
+   "Son PM est de 150 kDa comme l'IgG"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 900 kDa, la plus grosse.",
+   "Exact : pentamère + chaîne J.",
+   "Exact : diffusion limitee, surtout intravasculaire.",
+   "Faux : c'est la plus grosse.",
+   "Faux : 150 kDa = IgG."
+  ]
+ },
+ {
+  "q": "Concernant la chaîne mu et la région charnière, lesquelles sont exactes ?",
+  "options": [
+   "La chaîne mu ne possède pas de région charnière",
+   "La chaîne mu comporte un domaine CH4à la place de la charnière",
+   "Les chaînes gamma, alpha et delta possèdent une région charnière",
+   "Toutes les chaînes lourdes possèdent une région charnière",
+   "L'absence de charnière est compensée par le domaine CH4 supplémentaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : pas de charnière sur mu.",
+   "Exact : VH, CH1, CH2, CH3, CH4.",
+   "Exact : gamma, alpha, delta ont une charnière.",
+   "Faux : mu et epsilon n'en ont pas.",
+   "Exact : CH4 remplace fonctionnellement la charnière."
+  ]
+ }
+]

@@ -1,0 +1,4524 @@
+[
+ {
+  "q": "Concernant la taxonomie des mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils appartiennent à la classe des Mollicutes (Mollis cutis : « peau molle »)",
+   "Ils appartiennent à l'ordre des Mycoplasmatales",
+   "Ils appartiennent à la famille des Mycoplasmataceae",
+   "Ils appartiennent à la famille des Chlamydiaceae",
+   "Leur classe signifie « peau molle », en rapport avec l'absence de paroi"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les mycoplasmes sont classés dans la classe des Mollicutes.",
+   "Vrai : ordre des Mycoplasmatales.",
+   "Vrai : famille des Mycoplasmataceae.",
+   "Faux : la famille des Chlamydiaceae regroupe les chlamydies, pas les mycoplasmes.",
+   "Vrai : Mollicutes vient de Mollis cutis, « peau molle », en rapport avec l'absence de paroi."
+  ]
+ },
+ {
+  "q": "À propos des genres de la famille des Mycoplasmataceae, quelles propositions sont exactes ?",
+  "options": [
+   "Le genre Mycoplasma comporte environ 100 espèces",
+   "Treize espèces du genre Mycoplasma sont rencontrées chez l'Homme",
+   "Le genre Ureaplasma comporte 6 espèces",
+   "Ureaplasma urealyticum est la seule espèce d'Ureaplasma rencontrée chez l'homme",
+   "Mycoplasma pneumoniae appartient au genre Ureaplasma"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le genre Mycoplasma comprend environ 100 espèces.",
+   "Vrai : 13 espèces sont rencontrées chez l'Homme.",
+   "Vrai : le genre Ureaplasma comprend 6 espèces.",
+   "Vrai : U. urealyticum est l'espèce d'Ureaplasma rencontrée chez l'homme.",
+   "Faux : M. pneumoniae appartient au genre Mycoplasma."
+  ]
+ },
+ {
+  "q": "Parmi les espèces suivantes, lesquelles appartiennent au genre Mycoplasma ?",
+  "options": [
+   "Mycoplasma pneumoniae",
+   "Mycoplasma hominis",
+   "Mycoplasma genitalium",
+   "Ureaplasma urealyticum",
+   "Mycoplasma fermentans et Mycoplasma penetrans"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : espèce du genre Mycoplasma, agent des atteintes respiratoires.",
+   "Vrai : espèce du genre Mycoplasma, impliquée dans les infections génitales.",
+   "Vrai : espèce du genre Mycoplasma, impliquée dans les urétrites.",
+   "Faux : U. urealyticum appartient au genre Ureaplasma.",
+   "Vrai : M. fermentans et M. penetrans appartiennent au genre Mycoplasma."
+  ]
+ },
+ {
+  "q": "Concernant la répartition des mycoplasmes dans la nature, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont largement répandus dans la nature",
+   "On les trouve chez les animaux",
+   "On les trouve chez les insectes",
+   "On les trouve chez les plantes",
+   "Ils n'existent que comme parasites stricts de l'Homme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les mycoplasmes sont répandus dans la nature.",
+   "Vrai : présents chez les animaux.",
+   "Vrai : présents chez les insectes.",
+   "Vrai : présents chez les plantes.",
+   "Faux : ils colonisent de nombreux hôtes et ne sont pas strictement humains."
+  ]
+ },
+ {
+  "q": "À propos du mode de vie des mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "Ce ne sont pas des bactéries intracellulaires obligatoires",
+   "Ils ont besoin d'une cellule eucaryote pour leur développement",
+   "Ce sont des parasites intracellulaires stricts comme les chlamydies",
+   "Ils peuvent vivre en commensaux chez l'Homme",
+   "Ils peuvent se comporter en pathogènes chez l'Homme"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : ce ne sont pas des intracellulaires obligatoires.",
+   "Vrai : ils ont besoin d'une cellule eucaryote pour leur développement.",
+   "Faux : contrairement aux chlamydies, ils ne sont pas intracellulaires obligatoires.",
+   "Vrai : chez l'Homme, ils peuvent être commensaux.",
+   "Vrai : chez l'Homme, ils peuvent être pathogènes."
+  ]
+ },
+ {
+  "q": "Concernant les infections à mycoplasmes chez l'Homme, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont responsables d'infections ORL et pulmonaires",
+   "Ils sont responsables d'infections génitales",
+   "Ils sont impliqués dans environ 30 % des infections génitales chez la femme",
+   "Ils sont impliqués dans environ 15 % des urétrites chez l'homme",
+   "Ils sont responsables d'infections urinaires à pyurie amicrobienne uniquement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infections ORL et pulmonaires (M. pneumoniae).",
+   "Vrai : infections génitales (M. hominis, U. urealyticum, M. genitalium).",
+   "Vrai : 30 % des infections génitales chez la femme.",
+   "Vrai : 15 % des urétrites chez l'homme.",
+   "Faux : le cours ne limite pas les mycoplasmes à ce seul syndrome ; ils causent urétrites, vaginites, pneumonies atypiques, etc."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le diagnostic microbiologique des infections à mycoplasmes, lesquelles sont exactes ?",
+  "options": [
+   "Le diagnostic microbiologique est difficile",
+   "Les caractères fastidieux de certaines espèces compliquent le diagnostic",
+   "L'interprétation des résultats pose des problèmes (portage vs pathogénicité)",
+   "Le diagnostic repose uniquement sur la culture, toujours facile",
+   "La sérologie est inutile dans toutes les infections à mycoplasmes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : diagnostic microbiologique difficile.",
+   "Vrai : caractères fastidieux de certaines espèces.",
+   "Vrai : problèmes d'interprétation (colonisation fréquente).",
+   "Faux : la culture est délicate pour M. pneumoniae et impossible pour M. genitalium.",
+   "Faux : la sérologie est essentielle dans les infections à M. pneumoniae."
+  ]
+ },
+ {
+  "q": "Concernant la morphologie des mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont dépourvus de paroi bactérienne",
+   "Leur petite taille (300 nm) les rend non observables au microscope optique",
+   "Ils sont polymorphes : coccoïdes ou filamenteux",
+   "Ils présentent une extrémité effilée et adhèrent aux cellules eucaryotes",
+   "Ils sont facilement colorables par la coloration de Gram"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : absence de paroi, caractéristique majeure des mycoplasmes.",
+   "Vrai : 300 nm, non observables au microscope optique.",
+   "Vrai : polymorphisme (coccoïdes, filamenteux).",
+   "Vrai : extrémité effilée permettant l'adhésion aux cellules eucaryotes.",
+   "Faux : sans paroi, ils ne retiennent pas le cristal violet et ne sont pas colorables au Gram."
+  ]
+ },
+ {
+  "q": "À propos de l'absence de paroi chez les mycoplasmes, quelles conséquences sont exactes ?",
+  "options": [
+   "Ils sont insensibles aux bêtalactamines",
+   "Ils sont insensibles aux autres antibiotiques actifs sur la paroi",
+   "Ils sont fragiles et sensibles à l'environnement (pH, température, agents tensioactifs, pression osmotique)",
+   "Ils sont de forme rigide et constante",
+   "Ils présentent une morphologie polymorphe"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : sans paroi, pas de cible pour les bêtalactamines (résistance naturelle).",
+   "Vrai : résistance naturelle à tous les antibiotiques actifs sur la paroi.",
+   "Vrai : absence de paroi = sensibilité à l'environnement.",
+   "Faux : sans paroi rigide, leur forme est variable et polymorphe.",
+   "Vrai : le polymorphisme découle de l'absence de paroi rigide."
+  ]
+ },
+ {
+  "q": "Parmi les caractères bactériologiques suivants des mycoplasmes, lesquels sont exacts ?",
+  "options": [
+   "Ils possèdent des antigènes spécifiques de groupes et d'espèces",
+   "Ils sont sensibles aux variations de pH",
+   "Ils sont sensibles aux variations de température",
+   "Ils sont sensibles aux agents tensioactifs",
+   "Ils sont résistants à la pression osmotique grâce à leur paroi épaisse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : antigènes spécifiques de groupes et d'espèces.",
+   "Vrai : sensibilité environnementale incluant le pH.",
+   "Vrai : sensibilité environnementale incluant la température.",
+   "Vrai : sensibilité aux agents tensioactifs (détergents).",
+   "Faux : ils n'ont pas de paroi ; la pression osmotique est un facteur de fragilité."
+  ]
+ },
+ {
+  "q": "Concernant le métabolisme respiratoire des mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ce sont des anaérobies facultatifs",
+   "Ce sont des aérobies stricts",
+   "Ce sont des anaérobies stricts",
+   "Leur culture nécessite une incubation sous CO2",
+   "Ils exigent des milieux pauvres pour se développer"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : les mycoplasmes sont anaérobies facultatifs.",
+   "Faux : ce ne sont pas des aérobies stricts.",
+   "Faux : ce ne sont pas des anaérobies stricts.",
+   "Vrai : la culture s'incube à 37 °C sous CO2.",
+   "Faux : ils exigent des milieux complexes enrichis, pas des milieux pauvres."
+  ]
+ },
+ {
+  "q": "À propos des sources d'énergie utilisées par les mycoplasmes en culture, quelles propositions sont exactes ?",
+  "options": [
+   "Le genre Mycoplasma utilise l'arginine comme source d'énergie",
+   "Le genre Ureaplasma utilise l'urée comme source d'énergie",
+   "Ureaplasma urealyticum possède une uréase",
+   "Mycoplasma pneumoniae utilise l'urée comme source d'énergie",
+   "Les deux genres utilisent indifféremment l'arginine et l'urée"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : arginine = source d'énergie du genre Mycoplasma.",
+   "Vrai : urée = source d'énergie du genre Ureaplasma.",
+   "Vrai : l'hydrolyse de l'urée par l'uréase caractérise Ureaplasma.",
+   "Faux : M. pneumoniae (genre Mycoplasma) utilise l'arginine, pas l'urée.",
+   "Faux : la source d'énergie diffère selon le genre (arginine vs urée)."
+  ]
+ },
+ {
+  "q": "Concernant les milieux de culture des mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La culture est longue et nécessite des milieux complexes",
+   "Les milieux doivent être enrichis en sérum",
+   "Les milieux de transport spécifiques comme le 2SP sont enrichis de 5 % de sérum de veau fœtal",
+   "Les milieux de transport contiennent systématiquement des antibiotiques",
+   "Le milieu 2SP est un milieu saccharose-phosphate sans antibiotique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : culture longue sur milieux complexes.",
+   "Vrai : enrichissement en sérum nécessaire.",
+   "Vrai : le 2SP est enrichi de 5 % de sérum de veau fœtal.",
+   "Faux : le milieu de transport 2SP est sans antibiotique.",
+   "Vrai : 2SP = saccharose-phosphate + 5 % sérum de veau fœtal, sans antibiotique."
+  ]
+ },
+ {
+  "q": "À propos des colonies de mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "Les colonies sont très petites",
+   "Elles sont observées au microscope inversé ou à la loupe",
+   "Les colonies de Mycoplasma pneumoniae sont granuleuses",
+   "Les colonies de Mycoplasma hominis sont en « œuf sur le plat »",
+   "Les colonies de Mycoplasma pneumoniae sont en « oursin »"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : colonies très petites.",
+   "Vrai : observation au microscope inversé ou à la loupe (binoculaire).",
+   "Vrai : colonies granulaires pour M. pneumoniae.",
+   "Vrai : colonies en œuf sur le plat pour M. hominis.",
+   "Faux : l'aspect en oursin caractérise les colonies d'Ureaplasma urealyticum, pas celles de M. pneumoniae."
+  ]
+ },
+ {
+  "q": "Concernant les conditions d'incubation des cultures de mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'incubation se fait à 37 °C",
+   "L'incubation se fait sous CO2",
+   "La détection de la croissance en milieu liquide repose sur le virage d'un indicateur coloré",
+   "La croissance est détectable en 24 heures pour toutes les espèces",
+   "Le milieu solide et le milieu liquide sont systématiquement associés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : incubation à 37 °C.",
+   "Vrai : incubation sous CO2.",
+   "Vrai : virage de l'indicateur coloré en milieu liquide.",
+   "Faux : la culture est longue et fastidieuse selon les espèces.",
+   "Vrai : on associe toujours un milieu gélosé et un milieu liquide."
+  ]
+ },
+ {
+  "q": "À propos de l'ensemencement des milieux de culture des mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "On ensemence des milieux complexes enrichis",
+   "Le milieu liquide est ensemencé par différentes dilutions de 10-1 à 10-4",
+   "Ces dilutions permettent une quantification des mycoplasmes",
+   "Un seul milieu solide suffit pour le diagnostic",
+   "La quantification n'a aucun intérêt diagnostique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : milieux complexes enrichis pour ces bactéries fastidieuses.",
+   "Vrai : dilutions 10-1 à 10-4 du milieu liquide.",
+   "Vrai : les dilutions servent à quantifier les mycoplasmes.",
+   "Faux : il faut toujours associer milieu gélosé et milieu liquide.",
+   "Faux : la quantification aide à distinguer colonisation et infection."
+  ]
+ },
+ {
+  "q": "Concernant la difficulté de culture selon les espèces de mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La culture est simple pour Ureaplasma urealyticum",
+   "La culture est délicate pour Mycoplasma pneumoniae",
+   "La culture est impossible pour Mycoplasma genitalium",
+   "La culture est impossible pour toutes les espèces de mycoplasmes",
+   "La culture de Mycoplasma pneumoniae est plus facile que celle d'Ureaplasma urealyticum"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : culture simple pour U. urealyticum.",
+   "Vrai : culture délicate pour M. pneumoniae.",
+   "Vrai : culture impossible pour M. genitalium (et autres espèces fastidieuses).",
+   "Faux : U. urealyticum se cultive simplement.",
+   "Faux : c'est l'inverse, U. urealyticum se cultive plus facilement que M. pneumoniae."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'identification des mycoplasmes en culture, lesquelles sont exactes ?",
+  "options": [
+   "L'identification repose sur des caractères biochimiques",
+   "Le virage de l'indicateur coloré signe la croissance en milieu liquide",
+   "L'aspect des colonies sur milieu solide oriente l'identification",
+   "L'examen microscopique direct permet facilement l'identification",
+   "Il existe des galeries pour la détection, la quantification et l'étude de la résistance des mycoplasmes génitaux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : identification par caractères biochimiques.",
+   "Vrai : virage de l'indicateur coloré = croissance en milieu liquide.",
+   "Vrai : aspect des colonies (granulaire, œuf sur le plat, oursin).",
+   "Faux : l'examen microscopique direct est impossible, la bactérie étant trop polymorphe.",
+   "Vrai : galeries commerciales pour mycoplasmes génitaux (détection, quantification, résistance)."
+  ]
+ },
+ {
+  "q": "À propos des méthodes semi-quantitatives pour les mycoplasmes génitaux, quelles propositions sont exactes ?",
+  "options": [
+   "Elles utilisent le seuil de 10^4 UFC/ml",
+   "Le seuil de 10^3 UFC/ml est admis pour un premier jet d'urine",
+   "Le seuil de 10^4 UFC/ml est admis pour les urétrites non gonococciques",
+   "Le seuil de 10^4 UFC/ml est admis pour Mycoplasma hominis dans les vaginoses et infections hautes",
+   "Toute présence d'Ureaplasma urealyticum, quel que soit le titre, signe une infection"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : méthode semi-quantitative utilisant le seuil de 10^4 UFC/ml.",
+   "Vrai : seuil de 10^3 UFC/ml pour le premier jet d'urine.",
+   "Vrai : seuil de 10^4 UFC/ml pour les urétrites non gonococciques.",
+   "Vrai : seuil de 10^4 UFC/ml pour M. hominis (vaginose, infection haute).",
+   "Faux : le portage fréquent impose des seuils ; un faible titre peut correspondre à une colonisation."
+  ]
+ },
+ {
+  "q": "Concernant le réservoir et la colonisation des mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le réservoir est largement répandu dans la nature",
+   "Les mycoplasmes colonisent les muqueuses",
+   "Plus de 100 mycoplasmes respiratoires sont décrits",
+   "Parmi les mycoplasmes respiratoires, seul Mycoplasma pneumoniae est pathogène",
+   "Tous les mycoplasmes respiratoires sont pathogènes pour l'Homme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réservoir largement répandu dans la nature.",
+   "Vrai : colonisation des muqueuses (respiratoires, génitales).",
+   "Vrai : plus de 100 mycoplasmes respiratoires décrits.",
+   "Vrai : seul M. pneumoniae est pathogène parmi eux.",
+   "Faux : seul M. pneumoniae est pathogène ; les autres sont commensaux."
+  ]
+ },
+ {
+  "q": "À propos des mycoplasmes génitaux les plus fréquents, quelles propositions sont exactes ?",
+  "options": [
+   "Ureaplasma urealyticum est l'un des mycoplasmes génitaux les plus fréquents",
+   "Mycoplasma hominis est l'un des mycoplasmes génitaux les plus fréquents",
+   "Mycoplasma genitalium est retrouvé chez les patients VIH+",
+   "Mycoplasma pneumoniae est le mycoplasme génital le plus fréquent",
+   "Ureaplasma urealyticum ne colonise jamais la muqueuse génitale"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : U. urealyticum parmi les plus fréquents au niveau génital.",
+   "Vrai : M. hominis parmi les plus fréquents au niveau génital.",
+   "Vrai : M. genitalium retrouvé chez les VIH+.",
+   "Faux : M. pneumoniae est un pathogène respiratoire, pas génital.",
+   "Faux : U. urealyticum colonise fréquemment la muqueuse génitale."
+  ]
+ },
+ {
+  "q": "Concernant la transmission des mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La transmission est inter-humaine",
+   "La transmission peut se faire lors de l'accouchement",
+   "La contagiosité est modérée",
+   "La transmission se fait par voie aérienne pour Mycoplasma pneumoniae",
+   "La transmission est fortement contagieuse comme la rougeole"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : transmission inter-humaine.",
+   "Vrai : transmission lors de l'accouchement (mycoplasmes génitaux).",
+   "Vrai : contagiosité modérée.",
+   "Vrai : M. pneumoniae pénètre par voie aérienne.",
+   "Faux : la contagiosité est modérée, non très élevée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la réceptivité et les aspects épidémiologiques des mycoplasmes, lesquelles sont exactes ?",
+  "options": [
+   "La réceptivité est totale",
+   "Un terrain particulier constitue un facteur favorisant",
+   "Mycoplasma pneumoniae est endémique avec de petites poussées épidémiques tous les 4 à 7 ans",
+   "La frontière entre portage et pathogénicité est difficile à établir pour Mycoplasma hominis et Ureaplasma urealyticum",
+   "La colonisation vaginale par M. hominis et U. urealyticum est exceptionnelle chez la femme sexuellement active"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réceptivité totale.",
+   "Vrai : terrain particulier = facteur favorisant.",
+   "Vrai : endémie avec poussées épidémiques tous les 4 à 7 ans pour M. pneumoniae.",
+   "Vrai : frontière portage/pathogénicité difficile pour M. hominis et U. urealyticum.",
+   "Faux : la colonisation atteint 10 à 50 % de la flore vaginale des femmes sexuellement actives."
+  ]
+ },
+ {
+  "q": "À propos de la colonisation vaginale par les mycoplasmes génitaux, quelles propositions sont exactes ?",
+  "options": [
+   "Mycoplasma hominis et Ureaplasma urealyticum colonisent 10 à 50 % de la flore vaginale des femmes sexuellement actives",
+   "Cette colonisation fréquente complique l'interprétation des résultats microbiologiques",
+   "L'isolement d'Ureaplasma urealyticum à partir d'un site stérile est significatif",
+   "L'isolement de Mycoplasma hominis à partir d'un site stérile est significatif",
+   "Tout isolement vaginal d'Ureaplasma urealyticum impose un traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : colonisation à 10-50 % de la flore vaginale des femmes sexuellement actives.",
+   "Vrai : le portage fréquent rend l'interprétation difficile.",
+   "Vrai : l'isolement à partir de sites stériles est significatif.",
+   "Vrai : l'isolement à partir de sites stériles est significatif.",
+   "Faux : en l'absence de seuil et de signes cliniques, il peut s'agir d'une simple colonisation."
+  ]
+ },
+ {
+  "q": "Concernant l'épidémiologie de Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'infection est endémique",
+   "De petites poussées épidémiques surviennent tous les 4 à 7 ans",
+   "Elle touche surtout l'enfant et l'adulte jeune",
+   "L'incubation est d'environ trois semaines",
+   "Elle touche exclusivement les sujets âgés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infection endémique.",
+   "Vrai : poussées épidémiques tous les 4 à 7 ans.",
+   "Vrai : surtout l'enfant et l'adulte jeune (tous âges possibles).",
+   "Vrai : incubation de trois semaines.",
+   "Faux : tous les âges peuvent être atteints, avec une prédominance chez l'enfant et l'adulte jeune."
+  ]
+ },
+ {
+  "q": "Un jeune adulte présente une toux sèche persistante, une fièvre modérée, des céphalées et des myalgies, avec un état général peu altéré et des infiltrats diffus impressionnants à la radiographie. Concernant l'agent le plus probable, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le tableau évoque une pneumonie atypique à Mycoplasma pneumoniae",
+   "Le début progressif est caractéristique de cette pneumonie atypique",
+   "Les images radiologiques sont souvent impressionnantes avec des infiltrats diffus",
+   "L'état général est habituellement peu altéré",
+   "Le tableau évoque typiquement une pneumonie franche lobaire à pneumocoque"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : toux sèche persistante + état général conservé = pneumonie atypique à M. pneumoniae.",
+   "Vrai : début progressif caractéristique.",
+   "Vrai : images radiologiques impressionnantes, infiltrats diffus.",
+   "Vrai : état général peu altéré, contrastant avec l'imagerie.",
+   "Faux : la pneumonie à pneumocoque a un début brutal avec altération de l'état général."
+  ]
+ },
+ {
+  "q": "À propos de la physiopathologie de Mycoplasma pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "La bactérie vit attachée aux cellules",
+   "Elle pénètre dans l'organisme par voie aérienne",
+   "Elle adhère aux cellules épithéliales respiratoires et résiste aux flux",
+   "Elle produit des peroxydes qui altèrent le mouvement ciliaire et produisent des lésions cellulaires",
+   "Elle envahit profondément les tissus pulmonaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. pneumoniae vit attachée aux cellules.",
+   "Vrai : pénétration par voie aérienne.",
+   "Vrai : adhésion à l'épithélium respiratoire avec résistance aux flux.",
+   "Vrai : les peroxydes altèrent le mouvement ciliaire et lèsent les cellules.",
+   "Faux : pas d'envahissement tissulaire, mais réaction inflammatoire locale."
+  ]
+ },
+ {
+  "q": "Concernant les mécanismes lésionnels de Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il n'y a pas d'envahissement tissulaire",
+   "Il existe une réaction inflammatoire locale",
+   "Des auto-anticorps peuvent apparaître, responsables de lésions parfois à distance",
+   "Les peroxydes bactériens participent aux lésions cellulaires",
+   "La bactérie se multiplie à l'intérieur des macrophages alvéolaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas d'envahissement tissulaire.",
+   "Vrai : réaction inflammatoire locale.",
+   "Vrai : auto-anticorps avec lésions parfois à distance.",
+   "Vrai : les peroxydes produits au contact des cellules lèsent l'épithélium.",
+   "Faux : la bactérie vit attachée aux cellules, elle n'est pas intracellulaire obligatoire."
+  ]
+ },
+ {
+  "q": "À propos de la physiopathologie des mycoplasmes génitaux, quelles propositions sont exactes ?",
+  "options": [
+   "Le processus d'adhésion joue un rôle important",
+   "Ils exercent diverses activités enzymatiques comme l'uréase",
+   "Ils exercent diverses activités enzymatiques comme la phospholipase",
+   "Les infections gynécologiques sont souvent associées à d'autres bactéries",
+   "Ils envahissent systématiquement la circulation sanguine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : adhésion aux cellules, étape clé.",
+   "Vrai : activités enzymatiques dont l'uréase.",
+   "Vrai : activités enzymatiques dont la phospholipase.",
+   "Vrai : infections gynécologiques souvent polymicrobiennes.",
+   "Faux : pas d'envahissement sanguin systématique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les caractères communs des mycoplasmes pathogènes pour l'Homme, lesquelles sont exactes ?",
+  "options": [
+   "L'adhésion aux cellules eucaryotes est un mécanisme central de leur pathogénicité",
+   "L'absence de paroi explique leur résistance naturelle aux bêtalactamines",
+   "Leur petite taille et leur polymorphisme rendent l'examen microscopique direct impossible",
+   "Leur fragilité environnementale impose des milieux de transport spécifiques",
+   "Ils sont tous facilement cultivables en 48 heures"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'adhésion (extrémité effilée) est centrale dans la physiopathologie.",
+   "Vrai : sans paroi, les bêtalactamines n'ont pas de cible.",
+   "Vrai : trop petits et trop polymorphes pour l'examen direct.",
+   "Vrai : sensibilité au pH, à la température, à la dessiccation → transport en 2SP.",
+   "Faux : culture longue et fastidieuse, impossible pour certaines espèces."
+  ]
+ },
+ {
+  "q": "Concernant la place des mycoplasmes parmi les bactéries atypiques respiratoires, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Mycoplasma pneumoniae est recherché dans l'approche syndromique des pneumopathies atypiques",
+   "Les PCR multiplex détectent simultanément M. pneumoniae, Chlamydophila pneumoniae et Legionella pneumophila",
+   "Les virus respiratoires peuvent être détectés dans la même PCR multiplex",
+   "La sensibilité de la PCR est supérieure ou égale à celle de la culture et de la sérologie",
+   "Une PCR positive chez un patient asymptomatique prouve toujours une infection active"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : approche syndromique pour M. pneumoniae (pneumopathie atypique).",
+   "Vrai : détection simultanée des bactéries atypiques respiratoires.",
+   "Vrai : les virus respiratoires sont inclus dans les PCR multiplex.",
+   "Vrai : Se ≥ culture et sérologie.",
+   "Faux : des PCR positives existent chez des patients asymptomatiques ; la spécificité est discutée."
+  ]
+ },
+ {
+  "q": "À propos de l'interprétation des résultats microbiologiques dans les infections à mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "Les résultats doivent toujours être interprétés en fonction de la clinique",
+   "L'isolement de Mycoplasma pneumoniae à partir du tractus respiratoire est très significatif",
+   "L'isolement d'Ureaplasma urealyticum à partir des muqueuses doit être interprété avec un seuil",
+   "Ureaplasma urealyticum est difficile à interpréter sur prélèvements gynécologiques en raison de la fréquence du portage",
+   "Tout résultat positif doit être traité sans tenir compte du contexte clinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : interprétation toujours fonction de la clinique.",
+   "Vrai : isolement respiratoire de M. pneumoniae très significatif.",
+   "Vrai : seuils admis pour les isolements muqueux (10^3 à 10^4 UFC/ml).",
+   "Vrai : portage fréquent rendant l'interprétation difficile.",
+   "Faux : l'interprétation doit intégrer la clinique, les seuils et le site du prélèvement."
+  ]
+ },
+ {
+  "q": "Concernant les objectifs du diagnostic des infections à mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il faut citer les principaux caractères bactériologiques et épidémiologiques",
+   "Il faut reconnaître les principaux syndromes cliniques",
+   "Il faut savoir indiquer et interpréter le diagnostic bactériologique",
+   "Le diagnostic repose sur un prélèvement qui doit ramener des cellules auxquelles le mycoplasme adhère",
+   "Un examen microscopique direct suffit toujours à lui seul au diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : caractères bactériologiques et épidémiologiques à connaître.",
+   "Vrai : reconnaissance des syndromes cliniques.",
+   "Vrai : indication et interprétation du diagnostic bactériologique.",
+   "Vrai : prélèvement « cellulaire », le mycoplasme adhérant aux cellules.",
+   "Faux : l'examen microscopique direct est impossible, la bactérie étant trop polymorphe et trop petite."
+  ]
+ },
+ {
+  "q": "Concernant l'atteinte respiratoire à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle peut survenir à tout âge",
+   "Elle touche surtout l'enfant et l'adulte jeune",
+   "La trachéobronchite est fréquente",
+   "Elle ne touche que les nourrissons",
+   "L'incubation est d'environ trois semaines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : atteinte possible à tout âge.",
+   "Vrai : prédominance chez l'enfant et l'adulte jeune.",
+   "Vrai : la trachéobronchite est la forme fréquente.",
+   "Faux : tous les âges peuvent être atteints.",
+   "Vrai : incubation de trois semaines."
+  ]
+ },
+ {
+  "q": "À propos de la pneumonie atypique primitive à Mycoplasma pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est rare",
+   "Son début est progressif",
+   "Elle s'accompagne de fièvre, malaise, céphalées, myalgies et rachialgies",
+   "L'état général est peu altéré",
+   "Son début est brutal avec frisson solennel"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la pneumonie atypique primitive est rare (la trachéobronchite est plus fréquente).",
+   "Vrai : début progressif caractéristique.",
+   "Vrai : fièvre, malaise, céphalées, myalgies, rachialgies.",
+   "Vrai : état général peu altéré.",
+   "Faux : le début brutal avec frisson solennel évoque la pneumonie à pneumocoque."
+  ]
+ },
+ {
+  "q": "Parmi les signes cliniques suivants de la pneumonie atypique à Mycoplasma pneumoniae, lesquels sont exacts ?",
+  "options": [
+   "Toux sèche",
+   "Signes ORL associés",
+   "Images radiologiques impressionnantes avec infiltrats diffus",
+   "Évolution lentement régressive avec toux persistante",
+   "Expectoration purulente abondante dès le début"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : toux sèche caractéristique.",
+   "Vrai : signes ORL fréquemment associés.",
+   "Vrai : images radiologiques impressionnantes, infiltrats diffus.",
+   "Vrai : évolution lentement régressive, toux persistante.",
+   "Faux : la toux est sèche ; l'expectoration purulente abondante n'est pas le tableau."
+  ]
+ },
+ {
+  "q": "Concernant les complications et localisations extra-pulmonaires de l'infection à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Pleurésie",
+   "Myocardites",
+   "Péricardites",
+   "Arthrite",
+   "Méningite purulente à liquide trouble systématique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la pleurésie fait partie des complications citées.",
+   "Vrai : myocardites possibles.",
+   "Vrai : péricardites possibles.",
+   "Vrai : arthrite citée parmi les localisations extra-pulmonaires.",
+   "Faux : la méningite purulente systématique n'est pas citée parmi les complications de M. pneumoniae."
+  ]
+ },
+ {
+  "q": "À propos de l'anémie hémolytique au cours de l'infection à Mycoplasma pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "Elle fait partie des complications citées de l'infection à M. pneumoniae",
+   "Elle peut s'expliquer par l'apparition d'auto-anticorps",
+   "Elle s'inscrit dans les lésions parfois à distance",
+   "Elle est constante chez tous les patients infectés",
+   "Elle résulte de l'envahissement sanguin par la bactérie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : anémie hémolytique citée parmi les complications.",
+   "Vrai : l'apparition d'auto-anticorps explique des lésions à distance.",
+   "Vrai : les lésions à distance sont liées aux auto-anticorps.",
+   "Faux : c'est une complication possible, non constante.",
+   "Faux : il n'y a pas d'envahissement tissulaire ni sanguin ; les lésions à distance sont immunologiques."
+  ]
+ },
+ {
+  "q": "Concernant le rôle de Mycoplasma pneumoniae dans l'asthme, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le cours mentionne un rôle de M. pneumoniae dans l'asthme",
+   "L'altération du mouvement ciliaire par les peroxydes peut participer à l'hyperréactivité bronchique",
+   "La réaction inflammatoire locale peut aggraver une pathologie bronchique",
+   "Mycoplasma pneumoniae est la cause unique de l'asthme",
+   "L'asthme exclut le diagnostic d'infection à M. pneumoniae"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le rôle dans l'asthme est mentionné dans le cours.",
+   "Vrai : l'altération ciliaire et les lésions épithéliales fragilisent les bronches.",
+   "Vrai : l'inflammation locale peut aggraver la pathologie bronchique.",
+   "Faux : l'asthme est multifactoriel ; M. pneumoniae n'en est pas la cause unique.",
+   "Faux : l'infection peut au contraire être associée à l'asthme."
+  ]
+ },
+ {
+  "q": "Un enfant de 8 ans présente depuis 10 jours une toux sèche persistante, une fièvre à 38,5 °C, des céphalées et un état général conservé. La radiographie montre des infiltrats diffus. Concernant la conduite diagnostique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Une infection à Mycoplasma pneumoniae doit être évoquée",
+   "Le diagnostic sérologique (sérologie M. pneumoniae) est essentiel et souvent rétrospectif",
+   "Une PCR multiplex respiratoire peut détecter M. pneumoniae",
+   "La culture est la méthode la plus rapide et la plus sensible en phase aiguë",
+   "L'expectoration est le prélèvement de choix pour la PCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : tableau typique de pneumonie atypique à M. pneumoniae chez l'enfant.",
+   "Vrai : la sérologie est essentielle, avec un diagnostic souvent rétrospectif.",
+   "Vrai : la PCR multiplex détecte M. pneumoniae avec une bonne sensibilité.",
+   "Faux : la culture est délicate et longue pour M. pneumoniae.",
+   "Faux : l'expectoration est peu adaptée (plus d'inhibiteurs de PCR)."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les infections génitales masculines à mycoplasmes, lesquelles sont exactes ?",
+  "options": [
+   "Ureaplasma urealyticum est impliqué dans les urétrites",
+   "Mycoplasma genitalium est impliqué dans les urétrites",
+   "Ureaplasma urealyticum est impliqué dans les épididymites",
+   "Mycoplasma pneumoniae est l'agent principal des urétrites",
+   "Mycoplasma hominis est l'agent principal des urétrites masculines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : U. urealyticum impliqué dans les urétrites.",
+   "Vrai : M. genitalium impliqué dans les urétrites.",
+   "Vrai : U. urealyticum impliqué dans les épididymites.",
+   "Faux : M. pneumoniae est un pathogène respiratoire.",
+   "Faux : M. hominis est surtout impliqué dans les infections gynécologiques."
+  ]
+ },
+ {
+  "q": "Concernant les infections gynécologiques à mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Mycoplasma hominis est impliqué dans les vaginites",
+   "Mycoplasma hominis est impliqué dans les endométrites",
+   "Ureaplasma urealyticum est impliqué dans les endométrites",
+   "Mycoplasma hominis est impliqué dans les salpingites",
+   "Mycoplasma genitalium est l'agent principal des salpingites"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. hominis impliqué dans les vaginites.",
+   "Vrai : M. hominis impliqué dans les endométrites.",
+   "Vrai : U. urealyticum impliqué dans les endométrites.",
+   "Vrai : M. hominis impliqué dans les salpingites.",
+   "Faux : les salpingites sont attribuées à M. hominis dans le cours, pas à M. genitalium."
+  ]
+ },
+ {
+  "q": "À propos des infections néonatales à mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "Ureaplasma urealyticum est impliqué dans la dysplasie broncho-pulmonaire",
+   "Mycoplasma hominis est impliqué dans la dysplasie broncho-pulmonaire",
+   "La transmission peut se faire lors de l'accouchement",
+   "Mycoplasma pneumoniae est l'agent principal de la dysplasie broncho-pulmonaire",
+   "Les mycoplasmes génitaux ne concernent jamais le nouveau-né"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : U. urealyticum impliqué dans la dysplasie broncho-pulmonaire.",
+   "Vrai : M. hominis impliqué dans la dysplasie broncho-pulmonaire.",
+   "Vrai : transmission mère-enfant lors de l'accouchement.",
+   "Faux : M. pneumoniae est un pathogène respiratoire de l'enfant plus grand et de l'adulte.",
+   "Faux : les infections néonatales à mycoplasmes génitaux existent."
+  ]
+ },
+ {
+  "q": "Concernant les troubles de la reproduction liés aux mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ureaplasma urealyticum est impliqué dans les troubles de la reproduction",
+   "Mycoplasma hominis est impliqué dans les troubles de la reproduction",
+   "Les infections gynécologiques à mycoplasmes sont souvent associées à d'autres bactéries",
+   "Mycoplasma pneumoniae est l'agent principal des troubles de la reproduction",
+   "Les mycoplasmes génitaux n'ont aucun rôle en pathologie de la reproduction"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : U. urealyticum impliqué dans les troubles de la reproduction.",
+   "Vrai : M. hominis impliqué dans les troubles de la reproduction.",
+   "Vrai : infections gynécologiques souvent polymicrobiennes.",
+   "Faux : M. pneumoniae est un pathogène respiratoire.",
+   "Faux : U. urealyticum et M. hominis sont impliqués dans les troubles de la reproduction."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les infections extra-génitales à mycoplasmes, lesquelles sont exactes ?",
+  "options": [
+   "Des arthrites purulentes peuvent survenir chez des immunodéprimés",
+   "Ureaplasma urealyticum peut être en cause dans ces arthrites",
+   "D'autres mycoplasmes peuvent être en cause dans ces arthrites",
+   "Un terrain particulier (immunodépression) est un facteur favorisant",
+   "Les arthrites à mycoplasmes surviennent typiquement chez l'immunocompétent"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : arthrites purulentes chez des immunodéprimés.",
+   "Vrai : U. urealyticum cité dans ces arthrites.",
+   "Vrai : « U. urealyticum et autres ».",
+   "Vrai : le terrain particulier est un facteur favorisant.",
+   "Faux : ces arthrites sont décrites chez des immunodéprimés."
+  ]
+ },
+ {
+  "q": "Une femme sexuellement active présente une vaginite. La culture met en évidence Mycoplasma hominis à 10^4 UFC/ml. Concernant l'interprétation, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le seuil de 10^4 UFC/ml est admis pour M. hominis dans les vaginoses",
+   "Le résultat doit être interprété en fonction de la clinique",
+   "Mycoplasma hominis est impliqué dans les vaginites",
+   "Tout isolement de M. hominis, même à faible titre, impose un traitement",
+   "L'isolement de M. hominis à partir d'un site stérile serait significatif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : seuil de 10^4 UFC/ml admis pour M. hominis (vaginose).",
+   "Vrai : interprétation toujours fonction de la clinique.",
+   "Vrai : M. hominis impliqué dans les vaginites.",
+   "Faux : la colonisation fréquente impose seuils et corrélation clinique.",
+   "Vrai : l'isolement à partir de sites stériles est significatif."
+  ]
+ },
+ {
+  "q": "Concernant les urétrites non gonococciques à mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ureaplasma urealyticum et Mycoplasma genitalium sont impliqués",
+   "Le seuil de 10^4 UFC/ml est admis pour les urétrites non gonococciques",
+   "Les mycoplasmes sont impliqués dans environ 15 % des urétrites chez l'homme",
+   "Le premier jet d'urine est un prélèvement adapté chez l'homme",
+   "Toute urétrite est due à Neisseria gonorrhoeae"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : U. urealyticum et M. genitalium agents d'urétrites.",
+   "Vrai : seuil de 10^4 UFC/ml pour les urétrites non gonococciques.",
+   "Vrai : 15 % des urétrites chez l'homme.",
+   "Vrai : premier jet d'urine, prélèvements uréthraux chez l'homme.",
+   "Faux : les urétrites non gonococciques existent (mycoplasmes, chlamydies)."
+  ]
+ },
+ {
+  "q": "À propos des prélèvements génitaux chez l'homme pour la recherche de mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "Les prélèvements uréthraux sont indiqués",
+   "Le premier jet d'urine est indiqué",
+   "Les spermocultures (spermes) peuvent être réalisées",
+   "Les sécrétions prostatiques peuvent être prélevées",
+   "Seul le sang est un prélèvement valable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prélèvements uréthraux chez l'homme.",
+   "Vrai : premier jet d'urine.",
+   "Vrai : spermes.",
+   "Vrai : sécrétions prostatiques.",
+   "Faux : les prélèvements génitaux locaux sont les prélèvements de choix."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements génitaux chez la femme pour la recherche de mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les prélèvements cervico-vaginaux sont indiqués",
+   "Les prélèvements endométriaux sont indiqués",
+   "Les biopsies et brossages tubaires peuvent être réalisés",
+   "Les liquides amniotiques et le placenta peuvent être prélevés",
+   "Un écouvillon sec ordinaire sans milieu de transport suffit pour ces bactéries fragiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prélèvements cervico-vaginaux.",
+   "Vrai : prélèvements endométriaux.",
+   "Vrai : biopsies, brossages tubaires.",
+   "Vrai : liquides amniotiques, placenta.",
+   "Faux : on utilise un écouvillon à olive terminale strié de type Bactopick ou une cytobrosse, avec milieu de transport spécifique (A3 ou 2SP)."
+  ]
+ },
+ {
+  "q": "Concernant le principe du prélèvement pour la recherche de mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les prélèvements doivent ramener des cellules auxquelles le mycoplasme adhère",
+   "Le mycoplasme adhère aux cellules eucaryotes par son extrémité effilée",
+   "Un prélèvement purement liquidien sans cellules est idéal",
+   "On parle de « prélèvement cellulaire »",
+   "La recherche doit être associée à celle d'autres agents pathogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le prélèvement doit ramener les cellules d'adhésion.",
+   "Vrai : adhésion par l'extrémité effilée.",
+   "Faux : il faut des cellules, pas un liquide acellulaire.",
+   "Vrai : intérêt d'un « prélèvement cellulaire ».",
+   "Vrai : recherche associée à celle d'autres agents pathogènes."
+  ]
+ },
+ {
+  "q": "À propos des milieux de transport pour les mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "On utilise des milieux de transport spécifiques si les prélèvements ne peuvent parvenir rapidement au laboratoire",
+   "Le milieu saccharose-phosphate (2SP) est enrichi de 5 % de sérum de veau fœtal",
+   "Le milieu 2SP est sans antibiotique",
+   "Pour les prélèvements génitaux, on utilise un milieu type A3 ou 2SP",
+   "Les milieux de transport contiennent toujours des antibiotiques pour éviter les contaminations"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : milieux de transport spécifiques si acheminement différé.",
+   "Vrai : 2SP enrichi de 5 % de sérum de veau fœtal.",
+   "Vrai : 2SP sans antibiotique.",
+   "Vrai : milieu type A3 ou 2SP pour les prélèvements génitaux.",
+   "Faux : le 2SP est sans antibiotique."
+  ]
+ },
+ {
+  "q": "Concernant la conservation des prélèvements pour mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Stockage à 4 °C pendant 48 h maximum",
+   "Au-delà de 48 h, conservation à -70 °C",
+   "La conservation à température ambiante prolongée est sans risque",
+   "La congélation à -20 °C suffit pour une conservation prolongée",
+   "La fragilité des mycoplasmes impose ces conditions strictes"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : 4 °C pendant 48 h maximum.",
+   "Vrai : au-delà, -70 °C.",
+   "Faux : les mycoplasmes sont sensibles à l'environnement ; pas de conservation prolongée à température ambiante.",
+   "Faux : c'est -70 °C qui est recommandé au-delà de 48 h, pas -20 °C.",
+   "Vrai : bactéries fragiles (pas de paroi), d'où ces conditions."
+  ]
+ },
+ {
+  "q": "Parmi les prélèvements respiratoires suivants pour la recherche de Mycoplasma pneumoniae, lesquels sont adaptés ?",
+  "options": [
+   "Prélèvements de gorge",
+   "Aspirations nasopharyngées",
+   "Brossage bronchique",
+   "Lavages broncho-alvéolaires (LBA)",
+   "Expectoration, qui est le prélèvement de choix"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prélèvements de gorge adaptés.",
+   "Vrai : aspirations nasopharyngées adaptées.",
+   "Vrai : brossage bronchique adapté.",
+   "Vrai : LBA adapté.",
+   "Faux : l'expectoration est peu adaptée (plus d'inhibiteurs de PCR)."
+  ]
+ },
+ {
+  "q": "À propos de l'expectoration dans le diagnostic des infections à Mycoplasma pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "L'expectoration est peu adaptée",
+   "Elle contient plus d'inhibiteurs de PCR",
+   "Les prélèvements de gorge lui sont préférés",
+   "Le LBA lui est préféré",
+   "Elle est le prélèvement de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : expectoration peu adaptée.",
+   "Vrai : plus d'inhibiteurs de PCR dans l'expectoration.",
+   "Vrai : préférer les prélèvements de gorge.",
+   "Vrai : préférer le brossage bronchique et le LBA.",
+   "Faux : ce n'est pas le prélèvement de référence."
+  ]
+ },
+ {
+  "q": "Concernant les autres prélèvements possibles pour la recherche de mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le LCR peut être prélevé",
+   "Les biopsies peuvent être prélevées",
+   "Le liquide articulaire peut être prélevé",
+   "Les prélèvements cutanéo-muqueux sont possibles",
+   "Seuls les prélèvements respiratoires et génitaux sont envisageables"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : LCR possible (localisations extra-pulmonaires).",
+   "Vrai : biopsies possibles.",
+   "Vrai : liquide articulaire (arthrites).",
+   "Vrai : prélèvements cutanéo-muqueux possibles.",
+   "Faux : d'autres sites sont possibles selon la clinique."
+  ]
+ },
+ {
+  "q": "Un patient présente une pneumopathie atypique. Le laboratoire reçoit un prélèvement de gorge en milieu 2SP conservé 24 h à 4 °C. Concernant cette situation, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le prélèvement de gorge est adapté à la recherche de M. pneumoniae",
+   "Le milieu 2SP est un milieu de transport adapté",
+   "La conservation 24 h à 4 °C respecte les conditions requises",
+   "Une PCR multiplex peut être réalisée sur ce prélèvement",
+   "Le prélèvement est non conforme et doit être rejeté"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prélèvement de gorge adapté.",
+   "Vrai : 2SP = milieu de transport spécifique.",
+   "Vrai : 24 h à 4 °C < 48 h, conditions respectées.",
+   "Vrai : PCR multiplex (bactéries atypiques + virus respiratoires) réalisable.",
+   "Faux : le prélèvement est conforme."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le diagnostic microscopique direct des mycoplasmes, lesquelles sont exactes ?",
+  "options": [
+   "Le diagnostic microscopique direct est impossible",
+   "La bactérie est trop polymorphe pour être identifiée au microscope",
+   "La petite taille (300 nm) empêche l'observation au microscope optique",
+   "La coloration de Gram permet de visualiser les mycoplasmes",
+   "L'immunofluorescence directe est une technique commercialisée en routine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : diagnostic microscopique direct impossible.",
+   "Vrai : polymorphisme rendant l'identification impossible.",
+   "Vrai : 300 nm, non observable au microscope optique.",
+   "Faux : les mycoplasmes ne sont pas colorables par le Gram (pas de paroi).",
+   "Faux : l'immunofluorescence directe n'est pas commercialisée."
+  ]
+ },
+ {
+  "q": "Concernant la PCR dans le diagnostic des infections à mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La PCR est intéressante pour les mycoplasmes fastidieux",
+   "Pour M. pneumoniae, on utilise une approche syndromique (pneumopathie atypique)",
+   "En phase aiguë, on utilise des PCR multiplex",
+   "La sensibilité de la PCR est supérieure ou égale à celle de la culture et de la sérologie",
+   "La PCR n'a aucun intérêt pour Mycoplasma genitalium, facilement cultivable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : PCR intéressante pour les espèces fastidieuses.",
+   "Vrai : approche syndromique pour M. pneumoniae.",
+   "Vrai : PCR multiplex en infections aiguës.",
+   "Vrai : Se ≥ culture et sérologie.",
+   "Faux : M. genitalium est justement non cultivable ; la PCR y est particulièrement intéressante."
+  ]
+ },
+ {
+  "q": "À propos de la spécificité de la PCR pour Mycoplasma pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "Des PCR positives sont observées chez des patients asymptomatiques",
+   "La spécificité de la PCR est discutée (portage possible)",
+   "Les résultats de PCR doivent être interprétés en fonction de la clinique",
+   "Une PCR positive signe toujours à elle seule une infection active",
+   "La PCR détecte simultanément les bactéries atypiques et les virus respiratoires en multiplex"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : PCR positives chez des asymptomatiques.",
+   "Vrai : spécificité discutée.",
+   "Vrai : interprétation toujours fonction de la clinique.",
+   "Faux : une PCR positive isolée ne prouve pas une infection active (portage).",
+   "Vrai : PCR multiplex syndromique."
+  ]
+ },
+ {
+  "q": "Concernant les techniques immunologiques dans le diagnostic des mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'immunofluorescence directe n'est pas commercialisée",
+   "La sérologie (RFC, ELISA) est essentielle dans les infections à M. pneumoniae",
+   "La sérologie est sans intérêt pour les mycoplasmes génitaux",
+   "L'immunofluorescence directe est la technique de référence en routine",
+   "La sérologie permet un diagnostic rétrospectif des infections à M. pneumoniae"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : immunofluorescence directe non commercialisée.",
+   "Vrai : sérologie essentielle pour M. pneumoniae.",
+   "Vrai : sans intérêt pour les mycoplasmes génitaux.",
+   "Faux : non commercialisée, donc non utilisée en routine.",
+   "Vrai : diagnostic rétrospectif par la sérologie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le diagnostic indirect (sérologique) des infections à Mycoplasma pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "Le prélèvement est sanguin sur tube sec",
+   "Les techniques utilisées sont la RFC et l'ELISA",
+   "L'ascension des anticorps entre deux sérums prélevés à 15 jours d'intervalle est très significative",
+   "La présence d'agglutinines est constante et caractéristique de l'infection",
+   "La détection d'IgM est très significative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : sang sur tube sec.",
+   "Vrai : RFC (réaction de fixation du complément) et ELISA.",
+   "Vrai : ascension des anticorps entre deux sérums à 15 jours.",
+   "Faux : la présence d'agglutinines n'est ni constante ni caractéristique.",
+   "Vrai : la détection d'IgM est très significative."
+  ]
+ },
+ {
+  "q": "Concernant la résistance naturelle des mycoplasmes aux antibiotiques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont naturellement résistants aux bêtalactamines",
+   "Ils sont naturellement résistants aux antibiotiques actifs sur la paroi",
+   "Ils sont naturellement résistants aux polypeptides",
+   "Ils sont naturellement résistants à la rifampicine",
+   "Ils sont naturellement sensibles aux bêtalactamines comme les streptocoques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : résistance naturelle aux bêtalactamines (pas de paroi).",
+   "Vrai : résistance naturelle aux antibiotiques actifs sur la paroi.",
+   "Vrai : résistance naturelle aux polypeptides.",
+   "Vrai : résistance naturelle à la rifampicine.",
+   "Faux : l'absence de paroi les rend naturellement résistants aux bêtalactamines."
+  ]
+ },
+ {
+  "q": "À propos de la résistance naturelle croisée des mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "Mycoplasma hominis est naturellement résistant aux macrolides",
+   "Mycoplasma hominis est naturellement résistant aux kétolides",
+   "Ureaplasma est naturellement résistant aux lincosamides",
+   "Mycoplasma pneumoniae est naturellement résistant aux macrolides",
+   "Ureaplasma urealyticum est naturellement résistant aux cyclines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : résistance naturelle de M. hominis aux macrolides.",
+   "Vrai : résistance naturelle de M. hominis aux kétolides.",
+   "Vrai : résistance naturelle d'Ureaplasma aux lincosamides.",
+   "Faux : M. pneumoniae est sensible aux macrolides (traitement de choix).",
+   "Faux : les cyclines sont utilisées dans le traitement des mycoplasmes génitaux."
+  ]
+ },
+ {
+  "q": "Concernant les résistances acquises des mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les résistances acquises de Mycoplasma pneumoniae aux macrolides sont exceptionnelles",
+   "Ureaplasma et Mycoplasma hominis présentent 5 % de résistance aux tétracyclines",
+   "Ureaplasma et Mycoplasma hominis présentent 5 % de résistance aux macrolides",
+   "Ureaplasma et Mycoplasma hominis présentent 5 % de résistance aux fluoroquinolones",
+   "Les résistances acquises de M. pneumoniae aux macrolides sont très fréquentes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : résistances acquises exceptionnelles de M. pneumoniae aux macrolides.",
+   "Vrai : 5 % de résistance aux tétracyclines pour Ureaplasma et M. hominis.",
+   "Vrai : 5 % de résistance aux macrolides pour Ureaplasma et M. hominis.",
+   "Vrai : 5 % de résistance aux fluoroquinolones pour Ureaplasma et M. hominis.",
+   "Faux : elles sont exceptionnelles, non fréquentes."
+  ]
+ },
+ {
+  "q": "Parmi les antibiotiques suivants, lesquels sont utilisables dans le traitement des infections à Mycoplasma pneumoniae ?",
+  "options": [
+   "Les macrolides",
+   "Les fluoroquinolones",
+   "Les bêtalactamines",
+   "Les glycopeptides",
+   "L'amoxicilline en première intention"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : les macrolides sont le traitement de M. pneumoniae.",
+   "Vrai : les fluoroquinolones sont une alternative.",
+   "Faux : résistance naturelle aux bêtalactamines (pas de paroi).",
+   "Faux : les glycopeptides ciblent la paroi (peptidoglycane), absente ici.",
+   "Faux : l'amoxicilline (bêtalactamine) est inefficace."
+  ]
+ },
+ {
+  "q": "À propos du traitement des mycoplasmes génitaux, quelles propositions sont exactes ?",
+  "options": [
+   "Le traitement est fonction de l'espèce isolée",
+   "Le traitement tient compte des associations bactériennes",
+   "Le traitement tient compte du terrain",
+   "Les cyclines peuvent être utilisées",
+   "Les bêtalactamines sont le traitement de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : traitement fonction de l'espèce isolée.",
+   "Vrai : prise en compte des associations (infections souvent polymicrobiennes).",
+   "Vrai : prise en compte du terrain.",
+   "Vrai : les cyclines font partie de l'arsenal (cyclines, macrolides, fluoroquinolones).",
+   "Faux : résistance naturelle aux bêtalactamines."
+  ]
+ },
+ {
+  "q": "Concernant les options thérapeutiques des mycoplasmes génitaux, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les cyclines sont utilisables",
+   "Les macrolides sont utilisables (sauf résistance naturelle de M. hominis)",
+   "Les fluoroquinolones sont utilisables",
+   "Le choix tient compte de l'étude de la résistance (galeries)",
+   "Les céphalosporines de 3e génération sont le traitement de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cyclines utilisables.",
+   "Vrai : macrolides utilisables, en tenant compte de la résistance naturelle de M. hominis.",
+   "Vrai : fluoroquinolones utilisables.",
+   "Vrai : les galeries permettent l'étude de la résistance des mycoplasmes génitaux.",
+   "Faux : les céphalosporines (bêtalactamines) sont inefficaces (pas de paroi)."
+  ]
+ },
+ {
+  "q": "Un patient présente une pneumonie atypique à Mycoplasma pneumoniae confirmée. Concernant le traitement, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Un macrolide est indiqué en première intention",
+   "Une fluoroquinolone est une alternative possible",
+   "L'amoxicilline-acide clavulanique est le traitement de référence",
+   "Le traitement doit prendre en considération la résistance naturelle aux antibiotiques actifs sur la paroi",
+   "Une céphalosporine orale suffit à éradiquer Mycoplasma pneumoniae"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : macrolides = traitement de M. pneumoniae.",
+   "Vrai : fluoroquinolones en alternative.",
+   "Faux : l'amoxicilline (bêtalactamine) est inefficace en l'absence de paroi.",
+   "Vrai : la résistance naturelle conditionne le choix thérapeutique.",
+   "Faux : les céphalosporines (bêtalactamines) sont sans cible sur les mycoplasmes."
+  ]
+ },
+ {
+  "q": "Concernant la prévention des infections à mycoplasmes génitaux, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les rapports protégés participent à la prévention des IST",
+   "Le respect de la fidélité participe à la prévention des IST",
+   "Il n'existe pas de vaccin contre les mycoplasmes",
+   "Un vaccin efficace est largement disponible",
+   "L'amélioration des conditions de vie aide à prévenir certaines infections comme le trachome"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : rapports protégés = prévention des IST.",
+   "Vrai : fidélité = prévention des IST.",
+   "Vrai : pas de vaccin (l'immunité humorale et cellulaire ne protège pas contre une recontamination).",
+   "Faux : il n'existe pas de vaccin.",
+   "Vrai : l'amélioration des conditions de vie est citée en prévention (exemple du trachome)."
+  ]
+ },
+ {
+  "q": "À propos de l'absence de vaccin contre les mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "L'immunité humorale ne protège pas contre une recontamination",
+   "L'immunité cellulaire ne protège pas contre une recontamination",
+   "Les réinfections sont possibles",
+   "Un vaccin vivant atténué est recommandé",
+   "La vaccination est la base de la prévention des urétrites à mycoplasmes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'immunité humorale ne protège pas contre une recontamination.",
+   "Vrai : l'immunité cellulaire ne protège pas contre une recontamination.",
+   "Vrai : d'où l'absence de vaccin et la possibilité de réinfections.",
+   "Faux : il n'existe pas de vaccin contre les mycoplasmes.",
+   "Faux : pas de vaccin ; la prévention repose sur les mesures de protection des IST."
+  ]
+ },
+ {
+  "q": "Parmi les conclusions suivantes sur les mycoplasmes, lesquelles sont exactes ?",
+  "options": [
+   "Les atteintes respiratoires à M. pneumoniae sont fréquentes",
+   "L'interprétation des résultats microbiologiques est difficile",
+   "Le « prélèvement cellulaire » présente un intérêt diagnostique",
+   "La recherche du mycoplasme doit être associée à celle d'autres agents pathogènes",
+   "Les bêtalactamines restent utilisables car les mycoplasmes possèdent une paroi fine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : fréquence des atteintes respiratoires à M. pneumoniae.",
+   "Vrai : difficultés d'interprétation des résultats microbiologiques.",
+   "Vrai : intérêt d'un « prélèvement cellulaire ».",
+   "Vrai : recherche associée à celle d'autres agents pathogènes.",
+   "Faux : les mycoplasmes sont dépourvus de paroi ; les bêtalactamines sont inefficaces (résistance naturelle)."
+  ]
+ },
+ {
+  "q": "Au sujet de la signification du terme « Mollicutes », lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Il vient du latin Mollis cutis signifiant « peau molle »",
+   "Il fait référence à l'absence de paroi rigide",
+   "Il désigne la classe des mycoplasmes",
+   "Il signifie « petite paroi » en grec",
+   "Il désigne l'ordre des mycoplasmes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : Mollis cutis = « peau molle ».",
+   "Vrai : en rapport avec l'absence de paroi.",
+   "Vrai : classe des Mollicutes.",
+   "Faux : le terme est latin et signifie « peau molle », pas « petite paroi ».",
+   "Faux : c'est la classe, pas l'ordre (l'ordre est celui des Mycoplasmatales)."
+  ]
+ },
+ {
+  "q": "Concernant les espèces de mycoplasmes rencontrées chez l'Homme, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Treize espèces du genre Mycoplasma sont rencontrées chez l'Homme",
+   "Mycoplasma pneumoniae est rencontré chez l'Homme",
+   "Mycoplasma hominis est rencontré chez l'Homme",
+   "Mycoplasma genitalium est rencontré chez l'Homme",
+   "Aucune espèce du genre Mycoplasma n'est rencontrée chez l'Homme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 13 espèces du genre Mycoplasma chez l'Homme.",
+   "Vrai : M. pneumoniae, pathogène respiratoire humain.",
+   "Vrai : M. hominis, mycoplasme génital humain.",
+   "Vrai : M. genitalium, mycoplasme génital humain.",
+   "Faux : 13 espèces sont rencontrées chez l'Homme."
+  ]
+ },
+ {
+  "q": "Parmi les espèces suivantes, lesquelles sont citées dans le cours comme appartenant au genre Mycoplasma chez l'Homme ?",
+  "options": [
+   "Mycoplasma fermentans",
+   "Mycoplasma penetrans",
+   "Mycoplasma pneumoniae",
+   "Mycoplasma genitalium",
+   "Ureaplasma urealyticum"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. fermentans cité dans le cours.",
+   "Vrai : M. penetrans cité dans le cours.",
+   "Vrai : M. pneumoniae, espèce majeure du cours.",
+   "Vrai : M. genitalium cité dans le cours.",
+   "Faux : U. urealyticum appartient au genre Ureaplasma."
+  ]
+ },
+ {
+  "q": "À propos du genre Ureaplasma, quelles propositions sont exactes ?",
+  "options": [
+   "Il appartient à la famille des Mycoplasmataceae",
+   "Il comporte 6 espèces",
+   "Ureaplasma urealyticum est l'espèce rencontrée chez l'homme",
+   "Il utilise l'urée comme source d'énergie",
+   "Il comporte 100 espèces dont 13 chez l'Homme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : famille des Mycoplasmataceae.",
+   "Vrai : 6 espèces dans le genre Ureaplasma.",
+   "Vrai : U. urealyticum rencontrée chez l'homme.",
+   "Vrai : urée = source d'énergie du genre Ureaplasma.",
+   "Faux : c'est le genre Mycoplasma qui comporte ~100 espèces dont 13 chez l'Homme."
+  ]
+ },
+ {
+  "q": "Concernant la taille et l'observation des mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Leur taille est d'environ 300 nm",
+   "Ils ne sont pas observables au microscope optique",
+   "Leurs colonies sont très petites et observées à la loupe",
+   "Le microscope inversé permet d'observer leurs colonies",
+   "Ils sont facilement visibles à l'œil nu sur milieu solide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : petite taille (~300 nm).",
+   "Vrai : non observables au microscope optique.",
+   "Vrai : colonies très petites, observées à la loupe (binoculaire).",
+   "Vrai : observation au microscope inversé.",
+   "Faux : les colonies sont très petites, non visibles à l'œil nu."
+  ]
+ },
+ {
+  "q": "Un biologiste observe au microscope inversé de très petites colonies granuleuses après culture d'un prélèvement de gorge. Concernant l'identification présomptive, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'aspect granuleux oriente vers Mycoplasma pneumoniae",
+   "Le prélèvement de gorge est adapté à la recherche de M. pneumoniae",
+   "L'aspect en œuf sur le plat orienterait plutôt vers M. hominis",
+   "L'aspect en oursin orienterait plutôt vers U. urealyticum",
+   "L'aspect granuleux est caractéristique d'Ureaplasma urealyticum"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : colonies granulaires = M. pneumoniae.",
+   "Vrai : prélèvement de gorge adapté pour M. pneumoniae.",
+   "Vrai : œuf sur le plat = M. hominis.",
+   "Vrai : oursin = U. urealyticum.",
+   "Faux : l'aspect en oursin caractérise U. urealyticum, pas l'aspect granuleux."
+  ]
+ },
+ {
+  "q": "À propos des caractères antigéniques des mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "Ils possèdent des antigènes spécifiques de groupes",
+   "Ils possèdent des antigènes spécifiques d'espèces",
+   "Leurs antigènes permettent des réactions sérologiques spécifiques",
+   "Ils ne possèdent aucun antigène identifiable",
+   "Leurs antigènes sont identiques à ceux des chlamydies"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : antigènes spécifiques de groupes.",
+   "Vrai : antigènes spécifiques d'espèces.",
+   "Vrai : base des techniques sérologiques (RFC, ELISA).",
+   "Faux : ils possèdent des antigènes spécifiques de groupes et d'espèces.",
+   "Faux : les antigènes sont spécifiques ; il n'y a pas d'identité avec les chlamydies."
+  ]
+ },
+ {
+  "q": "Concernant la sensibilité des mycoplasmes aux conditions environnementales, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont sensibles aux variations de pH",
+   "Ils sont sensibles aux variations de température",
+   "Ils sont sensibles aux agents tensioactifs",
+   "Ils sont sensibles à la pression osmotique",
+   "Ils survivent plusieurs jours à sec à température ambiante"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sensibilité au pH.",
+   "Vrai : sensibilité à la température.",
+   "Vrai : sensibilité aux agents tensioactifs.",
+   "Vrai : sensibilité à la pression osmotique.",
+   "Faux : leur fragilité impose un transport rapide en milieu spécifique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la culture des mycoplasmes, lesquelles sont exactes ?",
+  "options": [
+   "La culture nécessite des milieux complexes",
+   "Les milieux sont enrichis en sérum",
+   "L'incubation se fait à 37 °C sous CO2",
+   "La culture est rapide (24 h) pour toutes les espèces",
+   "Mycoplasma genitalium est facilement cultivé en routine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : milieux complexes nécessaires.",
+   "Vrai : enrichissement en sérum.",
+   "Vrai : 37 °C sous CO2.",
+   "Faux : la culture est longue et fastidieuse.",
+   "Faux : la culture de M. genitalium est impossible en routine."
+  ]
+ },
+ {
+  "q": "À propos de la détection de la croissance des mycoplasmes en culture, quelles propositions sont exactes ?",
+  "options": [
+   "En milieu liquide, la croissance se traduit par le virage d'un indicateur coloré",
+   "En milieu solide, les colonies sont visibles à la loupe binoculaire",
+   "Le milieu liquide est ensemencé par des dilutions de 10-1 à 10-4",
+   "Les dilutions permettent la quantification",
+   "La croissance est détectée par l'hémolyse sur gélose au sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : virage de l'indicateur coloré en milieu liquide.",
+   "Vrai : colonies visibles à la loupe binoculaire.",
+   "Vrai : dilutions 10-1 à 10-4.",
+   "Vrai : quantification par les dilutions.",
+   "Faux : pas d'hémolyse sur gélose au sang ; milieux complexes spécifiques."
+  ]
+ },
+ {
+  "q": "Concernant les galeries d'identification des mycoplasmes génitaux, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles permettent la détection des mycoplasmes génitaux",
+   "Elles permettent la quantification des mycoplasmes génitaux",
+   "Elles permettent l'étude de la résistance des mycoplasmes génitaux",
+   "Elles utilisent une méthode semi-quantitative avec le seuil de 10^4 UFC/ml",
+   "Elles remplacent l'interprétation clinique des résultats"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : galeries de détection.",
+   "Vrai : galeries de quantification.",
+   "Vrai : galeries d'étude de la résistance.",
+   "Vrai : méthode semi-quantitative, seuil de 10^4 UFC/ml.",
+   "Faux : les résultats doivent toujours être interprétés en fonction de la clinique."
+  ]
+ },
+ {
+  "q": "Un laboratoire reçoit un prélèvement génital et ensemence un milieu liquide par des dilutions de 10-1 à 10-4 ainsi qu'un milieu gélosé. Concernant cette démarche, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'association milieu liquide + milieu solide est la démarche recommandée",
+   "Les dilutions permettent une quantification des mycoplasmes",
+   "L'incubation doit se faire à 37 °C sous CO2",
+   "Un seul milieu solide aurait suffi",
+   "La quantification n'aide pas à distinguer colonisation et infection"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : toujours associer milieu gélosé et milieu liquide.",
+   "Vrai : dilutions 10-1 à 10-4 pour la quantification.",
+   "Vrai : incubation à 37 °C sous CO2.",
+   "Faux : l'association des deux milieux est requise.",
+   "Faux : la quantification aide à distinguer colonisation et infection (seuils)."
+  ]
+ },
+ {
+  "q": "Parmi les caractères suivants, lesquels distinguent les mycoplasmes des autres bactéries ?",
+  "options": [
+   "L'absence de paroi",
+   "La petite taille (300 nm)",
+   "Le polymorphisme",
+   "La non-colorabilité par le Gram",
+   "La présence d'une paroi épaisse à peptidoglycane"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : absence de paroi, caractère distinctif majeur.",
+   "Vrai : 300 nm, parmi les plus petites bactéries.",
+   "Vrai : polymorphisme lié à l'absence de paroi rigide.",
+   "Vrai : non colorables par le Gram.",
+   "Faux : ils sont dépourvus de paroi et de peptidoglycane."
+  ]
+ },
+ {
+  "q": "Concernant l'adhésion des mycoplasmes aux cellules, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les mycoplasmes présentent une extrémité effilée",
+   "Ils adhèrent aux cellules eucaryotes",
+   "Mycoplasma pneumoniae adhère aux cellules épithéliales respiratoires",
+   "L'adhésion leur permet de résister aux flux",
+   "Ils adhèrent grâce à une capsule polysaccharidique épaisse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : extrémité effilée.",
+   "Vrai : adhésion aux cellules eucaryotes.",
+   "Vrai : M. pneumoniae adhère à l'épithélium respiratoire.",
+   "Vrai : l'adhésion permet de résister aux flux (mucociliaires).",
+   "Faux : l'adhésion se fait par l'extrémité effilée, pas par une capsule."
+  ]
+ },
+ {
+  "q": "À propos du métabolisme énergétique différentiel des genres Mycoplasma et Ureaplasma, quelles propositions sont exactes ?",
+  "options": [
+   "Le genre Mycoplasma utilise l'arginine",
+   "Le genre Ureaplasma utilise l'urée",
+   "L'hydrolyse de l'urée par Ureaplasma fait virer l'indicateur coloré",
+   "Mycoplasma hominis utilise l'urée",
+   "Ureaplasma urealyticum utilise l'arginine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : arginine pour le genre Mycoplasma.",
+   "Vrai : urée pour le genre Ureaplasma.",
+   "Vrai : l'hydrolyse de l'urée (uréase) modifie le pH et fait virer l'indicateur.",
+   "Faux : M. hominis (genre Mycoplasma) utilise l'arginine.",
+   "Faux : U. urealyticum utilise l'urée."
+  ]
+ },
+ {
+  "q": "Concernant les milieux de transport 2SP et A3, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le 2SP est un milieu saccharose-phosphate",
+   "Le 2SP est enrichi de 5 % de sérum de veau fœtal",
+   "Le 2SP est sans antibiotique",
+   "Le milieu type A3 est utilisé pour les prélèvements génitaux",
+   "Le 2SP contient des bêtalactamines pour inhiber la flore associée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 2SP = saccharose-phosphate.",
+   "Vrai : enrichi de 5 % de sérum de veau fœtal.",
+   "Vrai : sans antibiotique.",
+   "Vrai : milieu type A3 ou 2SP pour les prélèvements génitaux.",
+   "Faux : le 2SP est sans antibiotique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la conservation des prélèvements à mycoplasmes, lesquelles sont exactes ?",
+  "options": [
+   "La conservation maximale est de 48 h à +4 °C",
+   "Au-delà de 48 h, la conservation se fait à -70 °C",
+   "Ces conditions sont liées à la fragilité des mycoplasmes",
+   "Une conservation de 72 h à +4 °C reste acceptable",
+   "La congélation à -20 °C est la méthode de référence au-delà de 48 h"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : maximum 48 h à +4 °C.",
+   "Vrai : au-delà, -70 °C.",
+   "Vrai : fragilité liée à l'absence de paroi.",
+   "Faux : la limite est de 48 h à +4 °C.",
+   "Faux : c'est -70 °C qui est recommandé."
+  ]
+ },
+ {
+  "q": "Un prélèvement génital est conservé 5 jours à +4 °C avant d'arriver au laboratoire. Concernant cette situation, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les conditions de conservation ne sont pas respectées",
+   "Au-delà de 48 h à +4 °C, la conservation aurait dû se faire à -70 °C",
+   "Le résultat de la culture risque d'être faussement négatif",
+   "La conservation est conforme aux recommandations",
+   "Les mycoplasmes résistent bien à une conservation prolongée à +4 °C"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : 5 jours > 48 h, conditions non respectées.",
+   "Vrai : au-delà de 48 h, -70 °C requis.",
+   "Vrai : la fragilité des mycoplasmes expose à des faux négatifs.",
+   "Faux : la limite de 48 h à +4 °C est dépassée.",
+   "Faux : les mycoplasmes sont fragiles et sensibles à l'environnement."
+  ]
+ },
+ {
+  "q": "Concernant les caractères biochimiques d'identification des mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'identification repose sur des caractères biochimiques",
+   "L'utilisation de l'arginine caractérise le genre Mycoplasma",
+   "L'hydrolyse de l'urée caractérise le genre Ureaplasma",
+   "La fermentation du lactose est le caractère clé des mycoplasmes",
+   "La production d'indole est constante chez les mycoplasmes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : identification par caractères biochimiques.",
+   "Vrai : arginine = genre Mycoplasma.",
+   "Vrai : urée (uréase) = genre Ureaplasma.",
+   "Faux : le lactose n'est pas le substrat discriminant (arginine/urée le sont).",
+   "Faux : la production d'indole n'est pas un caractère des mycoplasmes."
+  ]
+ },
+ {
+  "q": "À propos des aspects épidémiologiques communs aux mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "Le réservoir est largement répandu dans la nature",
+   "Les mycoplasmes colonisent les muqueuses",
+   "La transmission inter-humaine existe",
+   "La réceptivité est totale",
+   "La transmission se fait exclusivement par voie vectorielle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réservoir largement répandu.",
+   "Vrai : colonisation des muqueuses.",
+   "Vrai : transmission inter-humaine.",
+   "Vrai : réceptivité totale.",
+   "Faux : transmission inter-humaine et lors de l'accouchement, pas vectorielle."
+  ]
+ },
+ {
+  "q": "Concernant les mycoplasmes respiratoires, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Plus de 100 mycoplasmes respiratoires sont décrits",
+   "Seul Mycoplasma pneumoniae est pathogène parmi eux",
+   "Les autres mycoplasmes respiratoires sont des commensaux",
+   "Tous les mycoplasmes respiratoires donnent des pneumonies atypiques",
+   "Mycoplasma hominis est un pathogène respiratoire majeur"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : plus de 100 mycoplasmes respiratoires.",
+   "Vrai : seul M. pneumoniae est pathogène.",
+   "Vrai : les autres sont commensaux des muqueuses respiratoires.",
+   "Faux : seul M. pneumoniae est pathogène.",
+   "Faux : M. hominis est un mycoplasme génital."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur Mycoplasma genitalium, lesquelles sont exactes ?",
+  "options": [
+   "Il appartient au genre Mycoplasma",
+   "Il est impliqué dans les urétrites masculines",
+   "Il est retrouvé chez les patients VIH+",
+   "Sa culture est impossible en routine",
+   "Il est facilement cultivé sur milieux usuels"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : genre Mycoplasma.",
+   "Vrai : impliqué dans les urétrites.",
+   "Vrai : retrouvé chez les VIH+.",
+   "Vrai : culture impossible (espèce fastidieuse).",
+   "Faux : la culture est impossible en routine."
+  ]
+ },
+ {
+  "q": "Concernant la contagiosité et la transmission de Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La contagiosité est modérée",
+   "La transmission est inter-humaine",
+   "La pénétration se fait par voie aérienne",
+   "De petites poussées épidémiques surviennent tous les 4 à 7 ans",
+   "La contagiosité est très élevée avec transmission à tous les contacts"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : contagiosité modérée.",
+   "Vrai : transmission inter-humaine.",
+   "Vrai : voie aérienne.",
+   "Vrai : poussées épidémiques tous les 4 à 7 ans.",
+   "Faux : la contagiosité est modérée, non très élevée."
+  ]
+ },
+ {
+  "q": "À propos du terrain et de la réceptivité dans les infections à mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "La réceptivité est totale",
+   "Un terrain particulier est un facteur favorisant",
+   "Les immunodéprimés peuvent développer des arthrites purulentes à mycoplasmes",
+   "Seuls les immunocompétents sont réceptifs",
+   "Le terrain n'influence jamais l'expression clinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : réceptivité totale.",
+   "Vrai : terrain particulier = facteur favorisant.",
+   "Vrai : arthrites purulentes chez des immunodéprimés.",
+   "Faux : la réceptivité est totale.",
+   "Faux : le terrain particulier est un facteur favorisant."
+  ]
+ },
+ {
+  "q": "Concernant la distinction entre portage et infection pour les mycoplasmes génitaux, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La frontière entre portage et pathogénicité est difficile à établir pour M. hominis et U. urealyticum",
+   "La colonisation vaginale atteint 10 à 50 % des femmes sexuellement actives",
+   "Des seuils quantitatifs (10^3 à 10^4 UFC/ml) aident à l'interprétation",
+   "L'isolement à partir d'un site stérile est significatif",
+   "Tout portage vaginal impose un traitement antibiotique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : frontière portage/pathogénicité difficile.",
+   "Vrai : colonisation à 10-50 % de la flore vaginale.",
+   "Vrai : seuils de 10^3 (1er jet) à 10^4 UFC/ml.",
+   "Vrai : isolement sur site stérile = significatif.",
+   "Faux : le portage simple ne justifie pas un traitement systématique."
+  ]
+ },
+ {
+  "q": "Une femme enceinte est porteuse d'Ureaplasma urealyticum. Concernant le risque pour le nouveau-né, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La transmission peut se faire lors de l'accouchement",
+   "Ureaplasma urealyticum est impliqué dans la dysplasie broncho-pulmonaire du nouveau-né",
+   "Mycoplasma hominis est aussi impliqué dans la dysplasie broncho-pulmonaire",
+   "Le nouveau-né ne peut jamais être concerné par les mycoplasmes génitaux",
+   "La césarienne systématique est recommandée devant tout portage"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : transmission lors de l'accouchement.",
+   "Vrai : U. urealyticum impliqué dans la dysplasie broncho-pulmonaire.",
+   "Vrai : M. hominis aussi impliqué.",
+   "Faux : les infections néonatales à mycoplasmes génitaux existent.",
+   "Faux : le cours ne recommande pas de césarienne systématique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'endémicité de Mycoplasma pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "L'infection est endémique",
+   "Des poussées épidémiques surviennent tous les 4 à 7 ans",
+   "Ces poussées sont de petite ampleur",
+   "L'infection a totalement disparu des pays industrialisés",
+   "Les poussées épidémiques surviennent chaque année à la même saison"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : infection endémique.",
+   "Vrai : petites poussées épidémiques tous les 4 à 7 ans.",
+   "Vrai : « petites poussées épidémiques ».",
+   "Faux : l'infection reste endémique et fréquente.",
+   "Faux : le rythme est de 4 à 7 ans, pas annuel."
+  ]
+ },
+ {
+  "q": "Concernant les infections ORL à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les mycoplasmes sont responsables d'infections ORL",
+   "Des signes ORL accompagnent la pneumonie atypique",
+   "La trachéobronchite est une forme fréquente",
+   "Les angines à M. pneumoniae sont la forme exclusive de l'infection",
+   "Les infections ORL à mycoplasmes n'existent pas"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : infections ORL citées dans l'introduction.",
+   "Vrai : signes ORL associés à la pneumonie atypique.",
+   "Vrai : trachéobronchite fréquente.",
+   "Faux : la trachéobronchite et la pneumonie atypique sont les formes décrites.",
+   "Faux : les infections ORL font partie du spectre."
+  ]
+ },
+ {
+  "q": "À propos de l'incubation de l'infection à Mycoplasma pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "L'incubation est d'environ trois semaines",
+   "Cette incubation longue explique en partie la diffusion inter-humaine",
+   "Le début de la pneumonie atypique est progressif",
+   "L'incubation est de 24 à 48 heures comme la grippe",
+   "Le début est toujours brutal"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : incubation de trois semaines.",
+   "Vrai : l'incubation longue favorise la transmission avant le diagnostic.",
+   "Vrai : début progressif de la pneumonie atypique.",
+   "Faux : l'incubation est de trois semaines, pas de 24-48 h.",
+   "Faux : le début est progressif."
+  ]
+ },
+ {
+  "q": "Concernant la physiopathologie de Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La bactérie vit attachée aux cellules",
+   "Elle adhère aux cellules épithéliales respiratoires",
+   "Elle résiste aux flux grâce à son adhésion",
+   "Elle produit des peroxydes au contact des cellules",
+   "Elle pénètre dans l'organisme par voie digestive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. pneumoniae vit attachée aux cellules.",
+   "Vrai : adhésion aux cellules épithéliales respiratoires.",
+   "Vrai : résistance aux flux (mucociliaires).",
+   "Vrai : production de peroxydes au contact des cellules.",
+   "Faux : la pénétration se fait par voie aérienne."
+  ]
+ },
+ {
+  "q": "À propos de l'action des peroxydes produits par Mycoplasma pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "Ils altèrent le mouvement ciliaire",
+   "Ils produisent des lésions cellulaires",
+   "Ils participent à la réaction inflammatoire locale",
+   "Ils sont sans effet sur l'épithélium respiratoire",
+   "Ils sont produits à distance, dans la circulation sanguine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : altération du mouvement ciliaire.",
+   "Vrai : lésions cellulaires.",
+   "Vrai : la réaction inflammatoire locale fait suite aux lésions.",
+   "Faux : les peroxydes altèrent le mouvement ciliaire et lèsent les cellules.",
+   "Faux : ils sont produits au contact des cellules épithéliales."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'inflammation dans l'infection à Mycoplasma pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "Il n'y a pas d'envahissement tissulaire",
+   "Il existe une réaction inflammatoire locale",
+   "Des auto-anticorps peuvent apparaître",
+   "Des lésions à distance sont possibles",
+   "L'infection est toujours strictement localisée sans aucun retentissement à distance"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas d'envahissement tissulaire.",
+   "Vrai : réaction inflammatoire locale.",
+   "Vrai : apparition parfois d'auto-anticorps.",
+   "Vrai : lésions parfois à distance (mécanisme immunologique).",
+   "Faux : des lésions à distance sont possibles via les auto-anticorps."
+  ]
+ },
+ {
+  "q": "Concernant les manifestations immunologiques de l'infection à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Des auto-anticorps peuvent apparaître au cours de l'infection",
+   "Ces auto-anticorps peuvent être responsables de lésions à distance",
+   "L'anémie hémolytique est une complication à mécanisme immunologique",
+   "Aucune manifestation immunologique n'est décrite",
+   "Les auto-anticorps protègent contre la recontamination"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : apparition parfois d'auto-anticorps.",
+   "Vrai : lésions parfois à distance.",
+   "Vrai : l'anémie hémolytique s'explique par ce mécanisme.",
+   "Faux : les auto-anticorps et leurs conséquences sont décrits.",
+   "Faux : l'immunité (humorale et cellulaire) ne protège pas contre une recontamination."
+  ]
+ },
+ {
+  "q": "Concernant les mécanismes pathogènes des mycoplasmes génitaux, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le processus d'adhésion est une étape importante",
+   "Ils possèdent diverses activités enzymatiques",
+   "L'uréase fait partie de ces activités enzymatiques",
+   "La phospholipase fait partie de ces activités enzymatiques",
+   "Ils agissent uniquement par production de toxines protéiques puissantes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : processus d'adhésion.",
+   "Vrai : diverses activités enzymatiques.",
+   "Vrai : uréase citée.",
+   "Vrai : phospholipase citée.",
+   "Faux : le cours décrit adhésion et activités enzymatiques, pas des toxines protéiques puissantes."
+  ]
+ },
+ {
+  "q": "Concernant le caractère polymicrobien des infections gynécologiques à mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les infections gynécologiques sont souvent associées à d'autres bactéries",
+   "La recherche du mycoplasme doit être associée à celle d'autres agents pathogènes",
+   "Le traitement tient compte des associations bactériennes",
+   "Les mycoplasmes sont toujours les seuls agents en cause",
+   "La flore vaginale ne comporte jamais d'autres bactéries pathogènes associées"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : infections souvent associées à d'autres bactéries.",
+   "Vrai : recherche associée à celle d'autres agents pathogènes.",
+   "Vrai : traitement fonction des associations.",
+   "Faux : les infections sont souvent polymicrobiennes.",
+   "Faux : les associations avec d'autres bactéries sont fréquentes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la trachéobronchite à Mycoplasma pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "C'est une forme fréquente de l'infection",
+   "Elle s'accompagne d'une toux",
+   "L'état général est habituellement peu altéré",
+   "C'est une forme rare, exceptionnelle",
+   "Elle s'accompagne toujours d'une détresse respiratoire sévère"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : trachéobronchite fréquente.",
+   "Vrai : toux (sèche, persistante).",
+   "Vrai : état général peu altéré, comme dans la pneumonie atypique.",
+   "Faux : c'est la forme fréquente ; la pneumonie atypique est rare.",
+   "Faux : pas de détresse respiratoire sévère habituelle."
+  ]
+ },
+ {
+  "q": "Un adolescent présente une fièvre à 38 °C, des céphalées, des myalgies, une toux sèche depuis 8 jours et un état général conservé. La radiographie thoracique montre des infiltrats diffus bilatéraux. Concernant le diagnostic le plus probable, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le tableau est évocateur d'une pneumonie atypique à Mycoplasma pneumoniae",
+   "Le contraste entre l'imagerie impressionnante et l'état général conservé est caractéristique",
+   "La sérologie (RFC, ELISA) pourra confirmer rétrospectivement le diagnostic",
+   "Le tableau est typique d'une pneumonie à pneumocoque",
+   "Une antibiothérapie par amoxicilline est le traitement de choix"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : tableau typique de pneumonie atypique à M. pneumoniae.",
+   "Vrai : images impressionnantes contrastant avec l'état général peu altéré.",
+   "Vrai : diagnostic sérologique souvent rétrospectif.",
+   "Faux : la pneumonie à pneumocoque débute brutalement avec altération de l'état général.",
+   "Faux : l'amoxicilline (bêtalactamine) est inefficace ; macrolides indiqués."
+  ]
+ },
+ {
+  "q": "Concernant le tableau clinique de la pneumonie atypique primitive, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le début est progressif",
+   "La fièvre est présente",
+   "On observe malaise, céphalées, myalgies et rachialgies",
+   "La toux est sèche",
+   "Le début est brutal avec point de côté et frisson"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : début progressif.",
+   "Vrai : fièvre.",
+   "Vrai : malaise, céphalées, myalgies, rachialgies.",
+   "Vrai : toux sèche.",
+   "Faux : le début brutal avec point de côté évoque la pneumonie à pneumocoque."
+  ]
+ },
+ {
+  "q": "À propos de l'imagerie de la pneumonie à Mycoplasma pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "Les images radiologiques sont souvent impressionnantes",
+   "On observe des infiltrats diffus",
+   "L'imagerie contraste avec un état général peu altéré",
+   "La radiographie est toujours normale",
+   "On observe typiquement une opacité lobaire systématisée unique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : images radiologiques impressionnantes.",
+   "Vrai : infiltrats diffus.",
+   "Vrai : contraste imagerie/état général caractéristique.",
+   "Faux : les images sont impressionnantes, non normales.",
+   "Faux : l'opacité lobaire systématisée évoque la pneumonie à pneumocoque."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution de la pneumonie atypique à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'évolution est lentement régressive",
+   "La toux est persistante",
+   "La guérison est habituelle",
+   "L'évolution est toujours rapidement mortelle",
+   "La toux disparaît en 48 heures"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : évolution lentement régressive.",
+   "Vrai : toux persistante.",
+   "Vrai : évolution favorable habituelle.",
+   "Faux : l'évolution est lentement régressive, non mortelle.",
+   "Faux : la toux est persistante."
+  ]
+ },
+ {
+  "q": "Parmi les complications suivantes de l'infection à Mycoplasma pneumoniae, lesquelles sont citées dans le cours ?",
+  "options": [
+   "Pleurésie",
+   "Myocardites",
+   "Péricardites",
+   "Arthrite",
+   "Endocardite à végétations systématique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pleurésie citée.",
+   "Vrai : myocardites citées.",
+   "Vrai : péricardites citées.",
+   "Vrai : arthrite citée.",
+   "Faux : l'endocardite à végétations n'est pas citée parmi les complications."
+  ]
+ },
+ {
+  "q": "À propos des localisations extra-pulmonaires de Mycoplasma pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "Des manifestations cardiaques (myocardites, péricardites) sont possibles",
+   "Des manifestations articulaires (arthrite) sont possibles",
+   "Des manifestations hématologiques (anémie hémolytique) sont possibles",
+   "Des manifestations pleurales (pleurésie) sont possibles",
+   "L'infection reste toujours strictement pulmonaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : myocardites, péricardites citées.",
+   "Vrai : arthrite citée.",
+   "Vrai : anémie hémolytique citée.",
+   "Vrai : pleurésie citée.",
+   "Faux : des complications et localisations extra-pulmonaires existent."
+  ]
+ },
+ {
+  "q": "À propos des liens entre Mycoplasma pneumoniae et l'asthme, quelles propositions sont exactes ?",
+  "options": [
+   "Le cours mentionne un rôle de M. pneumoniae dans l'asthme",
+   "L'atteinte de l'épithélium respiratoire peut favoriser l'hyperréactivité bronchique",
+   "L'altération du mouvement ciliaire participe à la fragilisation bronchique",
+   "Mycoplasma pneumoniae est le seul facteur déclenchant de l'asthme",
+   "L'infection à M. pneumoniae protège contre l'asthme"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : rôle dans l'asthme mentionné.",
+   "Vrai : les lésions épithéliales fragilisent les bronches.",
+   "Vrai : l'altération ciliaire perturbe la clairance mucociliaire.",
+   "Faux : l'asthme est multifactoriel.",
+   "Faux : aucun effet protecteur décrit ; un rôle aggravant est évoqué."
+  ]
+ },
+ {
+  "q": "Un patient présente une péricardite au décours d'une pneumopathie atypique à Mycoplasma pneumoniae. Concernant cette situation, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La péricardite fait partie des complications citées de l'infection à M. pneumoniae",
+   "Les myocardites sont également des complications possibles",
+   "Un mécanisme immunologique (auto-anticorps) peut expliquer les atteintes à distance",
+   "La péricardite exclut le diagnostic d'infection à M. pneumoniae",
+   "Seule la pleurésie est une complication extra-pulmonaire reconnue"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : péricardites citées parmi les complications.",
+   "Vrai : myocardites également citées.",
+   "Vrai : auto-anticorps avec lésions parfois à distance.",
+   "Faux : les complications extra-pulmonaires font partie du spectre.",
+   "Faux : myocardites, péricardites, arthrite, anémie hémolytique sont aussi citées."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes comparant la pneumonie à Mycoplasma pneumoniae et la pneumonie à pneumocoque, lesquelles sont exactes ?",
+  "options": [
+   "Le début est progressif dans la pneumonie à M. pneumoniae",
+   "Le début est brutal dans la pneumonie à pneumocoque",
+   "L'état général est peu altéré dans la pneumonie à M. pneumoniae",
+   "La toux est sèche dans la pneumonie à M. pneumoniae",
+   "Les deux tableaux sont cliniquement identiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : début progressif caractéristique de la pneumonie atypique.",
+   "Vrai : début brutal de la pneumonie franche lobaire à pneumocoque.",
+   "Vrai : état général peu altéré dans l'infection à M. pneumoniae.",
+   "Vrai : toux sèche dans la pneumonie atypique.",
+   "Faux : les tableaux sont bien distincts (début, état général, imagerie)."
+  ]
+ },
+ {
+  "q": "Concernant les signes ORL associés à l'infection à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Des signes ORL accompagnent la pneumonie atypique",
+   "Les mycoplasmes sont responsables d'infections ORL",
+   "Les prélèvements de gorge permettent la recherche de M. pneumoniae",
+   "Aucun signe ORL n'est jamais observé",
+   "Les signes ORL sont spécifiques de l'infection à M. pneumoniae"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : signes ORL dans le tableau de la pneumonie atypique.",
+   "Vrai : infections ORL citées dans l'introduction.",
+   "Vrai : prélèvements de gorge adaptés.",
+   "Faux : des signes ORL sont décrits.",
+   "Faux : les signes ORL ne sont pas spécifiques."
+  ]
+ },
+ {
+  "q": "À propos de la toux dans l'infection à Mycoplasma pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "La toux est sèche",
+   "La toux est persistante",
+   "L'évolution est lentement régressive avec persistance de la toux",
+   "La toux est productive purulente dès le début",
+   "La toux est absente dans la pneumonie atypique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : toux sèche caractéristique.",
+   "Vrai : toux persistante.",
+   "Vrai : persistance de la toux au cours de l'évolution lentement régressive.",
+   "Faux : la toux est sèche, non productive purulente.",
+   "Faux : la toux sèche est un signe majeur."
+  ]
+ },
+ {
+  "q": "Concernant la fièvre et l'état général dans la pneumonie atypique à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La fièvre est présente",
+   "L'état général est peu altéré",
+   "Il existe un contraste entre l'imagerie impressionnante et l'état général conservé",
+   "L'état général est toujours gravement altéré",
+   "La fièvre est absente dans tous les cas"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : fièvre dans le tableau.",
+   "Vrai : état général peu altéré.",
+   "Vrai : contraste imagerie/état général caractéristique.",
+   "Faux : l'état général est peu altéré.",
+   "Faux : la fièvre fait partie du tableau."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les myalgies et rachialgies dans l'infection à Mycoplasma pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "Les myalgies font partie du tableau de la pneumonie atypique",
+   "Les rachialgies font partie du tableau de la pneumonie atypique",
+   "Les céphalées font partie du tableau",
+   "Le malaise fait partie du tableau",
+   "Aucun signe général n'accompagne l'infection"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : myalgies citées.",
+   "Vrai : rachialgies citées.",
+   "Vrai : céphalées citées.",
+   "Vrai : malaise cité.",
+   "Faux : fièvre, malaise, céphalées, myalgies et rachialgies sont décrits."
+  ]
+ },
+ {
+  "q": "Un jeune adulte présente une pleurésie au décours d'une pneumopathie atypique. La sérologie M. pneumoniae montre une ascension des anticorps entre deux sérums à 15 jours. Concernant cette situation, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La pleurésie est une complication reconnue de l'infection à M. pneumoniae",
+   "L'ascension des anticorps entre deux sérums à 15 jours est très significative",
+   "Le diagnostic sérologique est ici rétrospectif",
+   "La pleurésie exclut une origine à M. pneumoniae",
+   "Un taux d'anticorps stable entre deux sérums suffirait au diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : pleurésie citée parmi les complications.",
+   "Vrai : ascension des anticorps entre deux sérums à 15 jours très significative.",
+   "Vrai : diagnostic sérologique souvent rétrospectif.",
+   "Faux : la pleurésie fait partie des complications.",
+   "Faux : c'est l'ascension des anticorps qui est significative."
+  ]
+ },
+ {
+  "q": "Concernant la fréquence des formes cliniques respiratoires à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La trachéobronchite est fréquente",
+   "La pneumonie atypique primitive est rare",
+   "Les atteintes respiratoires à M. pneumoniae sont fréquentes dans l'ensemble",
+   "La pneumonie atypique est la forme la plus fréquente",
+   "Les formes asymptomatiques n'existent pas"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : trachéobronchite fréquente.",
+   "Vrai : pneumonie atypique primitive (rarement).",
+   "Vrai : fréquence des atteintes respiratoires à M. pneumoniae (conclusion).",
+   "Faux : c'est la trachéobronchite qui est fréquente.",
+   "Faux : des PCR positives existent chez des patients asymptomatiques."
+  ]
+ },
+ {
+  "q": "À propos des diagnostics différentiels de la pneumonie atypique, quelles propositions sont exactes ?",
+  "options": [
+   "Chlamydophila pneumoniae est recherchée dans les PCR multiplex avec M. pneumoniae",
+   "Legionella pneumophila est recherchée dans les PCR multiplex avec M. pneumoniae",
+   "Les virus respiratoires sont recherchés dans les PCR multiplex",
+   "Le pneumocoque donne un tableau de début brutal différent",
+   "Le diagnostic différentiel ne se pose jamais"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Chlamydophila pneumoniae dans les PCR multiplex.",
+   "Vrai : Legionella pneumophila dans les PCR multiplex.",
+   "Vrai : virus respiratoires inclus.",
+   "Vrai : tableau brutal de la pneumonie à pneumocoque, distinct.",
+   "Faux : le diagnostic différentiel avec les autres pneumopathies atypiques se pose."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'épidémiologie clinique de Mycoplasma pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "Tous les âges peuvent être atteints",
+   "L'enfant et l'adulte jeune sont les plus touchés",
+   "L'incubation est de trois semaines",
+   "La contagiosité est modérée",
+   "Seules les personnes âgées sont atteintes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : tout âge possible.",
+   "Vrai : surtout l'enfant et l'adulte jeune.",
+   "Vrai : incubation de trois semaines.",
+   "Vrai : contagiosité modérée.",
+   "Faux : tous les âges peuvent être atteints."
+  ]
+ },
+ {
+  "q": "Concernant la place de la sérologie dans le diagnostic de la pneumonie à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La sérologie est essentielle dans les infections à M. pneumoniae",
+   "Le diagnostic sérologique est souvent rétrospectif",
+   "La RFC et l'ELISA sont les techniques utilisées",
+   "La sérologie est sans intérêt pour les mycoplasmes génitaux",
+   "La sérologie remplace toujours la clinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sérologie essentielle pour M. pneumoniae.",
+   "Vrai : diagnostic rétrospectif.",
+   "Vrai : RFC et ELISA.",
+   "Vrai : sans intérêt pour les mycoplasmes génitaux.",
+   "Faux : les résultats s'interprètent toujours en fonction de la clinique."
+  ]
+ },
+ {
+  "q": "Un patient présente une anémie hémolytique au décours d'une pneumopathie atypique. Concernant le lien avec Mycoplasma pneumoniae, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'anémie hémolytique est une complication citée de l'infection à M. pneumoniae",
+   "Un mécanisme auto-immun (auto-anticorps) est évoqué",
+   "Il s'agit d'une lésion à distance sans envahissement tissulaire",
+   "L'anémie hémolytique est constante dans l'infection à M. pneumoniae",
+   "L'anémie résulte d'une hémolyse bactérienne directe dans le sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : anémie hémolytique citée parmi les complications.",
+   "Vrai : apparition parfois d'auto-anticorps.",
+   "Vrai : lésions à distance, pas d'envahissement tissulaire.",
+   "Faux : c'est une complication possible, non constante.",
+   "Faux : mécanisme immunologique, pas d'hémolyse bactérienne directe."
+  ]
+ },
+ {
+  "q": "À propos des arthrites au cours des infections à mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "L'arthrite est citée parmi les complications de M. pneumoniae",
+   "Des arthrites purulentes surviennent chez des immunodéprimés (U. urealyticum et autres)",
+   "Le liquide articulaire est un prélèvement possible",
+   "Toute arthrite est due à un mycoplasme",
+   "Les arthrites à mycoplasmes sont fréquentes chez l'immunocompétent"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : arthrite citée dans les complications de M. pneumoniae.",
+   "Vrai : arthrites purulentes chez des immunodéprimés.",
+   "Vrai : liquide articulaire parmi les autres prélèvements.",
+   "Faux : de nombreuses étiologies d'arthrite existent.",
+   "Faux : décrites chez des immunodéprimés."
+  ]
+ },
+ {
+  "q": "Concernant la prise en charge globale d'une pneumonie atypique à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le diagnostic repose sur la clinique, la PCR et/ou la sérologie",
+   "Le traitement fait appel aux macrolides ou aux fluoroquinolones",
+   "Les bêtalactamines sont inefficaces",
+   "L'expectoration est le meilleur prélèvement pour la PCR",
+   "La culture est la méthode diagnostique la plus rapide"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : clinique + PCR multiplex et/ou sérologie.",
+   "Vrai : macrolides ou fluoroquinolones.",
+   "Vrai : résistance naturelle (pas de paroi).",
+   "Faux : l'expectoration est peu adaptée (inhibiteurs de PCR).",
+   "Faux : la culture est délicate et longue pour M. pneumoniae."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les infections à Mycoplasma pneumoniae chez l'enfant, lesquelles sont exactes ?",
+  "options": [
+   "L'enfant fait partie des populations les plus touchées",
+   "La trachéobronchite est une forme fréquente chez l'enfant",
+   "Le tableau de pneumonie atypique (toux sèche, état général conservé) s'observe chez l'enfant",
+   "L'infection est impossible chez l'enfant",
+   "La dysplasie broncho-pulmonaire du nouveau-né est due à M. pneumoniae"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : surtout l'enfant et l'adulte jeune.",
+   "Vrai : trachéobronchite fréquente.",
+   "Vrai : tableau de pneumonie atypique possible à tout âge.",
+   "Faux : l'enfant est une population cible.",
+   "Faux : la dysplasie broncho-pulmonaire est liée à U. urealyticum et M. hominis."
+  ]
+ },
+ {
+  "q": "Concernant les réinfections à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'immunité humorale ne protège pas contre une recontamination",
+   "L'immunité cellulaire ne protège pas contre une recontamination",
+   "Il n'existe pas de vaccin",
+   "L'infection confère une immunité définitive",
+   "Les poussées épidémiques tous les 4 à 7 ans témoignent d'une circulation continue"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'immunité humorale ne protège pas contre une recontamination.",
+   "Vrai : l'immunité cellulaire ne protège pas contre une recontamination.",
+   "Vrai : pas de vaccin.",
+   "Faux : pas d'immunité définitive.",
+   "Vrai : endémie avec poussées épidémiques tous les 4 à 7 ans."
+  ]
+ },
+ {
+  "q": "Concernant les urétrites à mycoplasmes chez l'homme, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ureaplasma urealyticum est un agent d'urétrite",
+   "Mycoplasma genitalium est un agent d'urétrite",
+   "Les mycoplasmes sont impliqués dans 15 % des urétrites chez l'homme",
+   "Le seuil de 10^4 UFC/ml est admis pour les urétrites non gonococciques",
+   "Neisseria gonorrhoeae est le seul agent d'urétrite"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : U. urealyticum impliqué dans les urétrites.",
+   "Vrai : M. genitalium impliqué dans les urétrites.",
+   "Vrai : 15 % des urétrites chez l'homme.",
+   "Vrai : seuil de 10^4 UFC/ml pour les urétrites non gonococciques.",
+   "Faux : il existe des urétrites non gonococciques (mycoplasmes, chlamydies)."
+  ]
+ },
+ {
+  "q": "Un homme présente une urétrite non gonococcique. La culture sur milieu spécifique met en évidence Ureaplasma urealyticum à 10^5 UFC/ml. Concernant l'interprétation, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ureaplasma urealyticum est un agent reconnu d'urétrite",
+   "Le titre de 10^5 UFC/ml dépasse le seuil admis de 10^4 UFC/ml",
+   "Le résultat doit être interprété en fonction de la clinique",
+   "Un titre inférieur au seuil aurait la même signification",
+   "Le traitement peut faire appel aux cyclines, macrolides ou fluoroquinolones"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : U. urealyticum agent d'urétrite.",
+   "Vrai : 10^5 > seuil de 10^4 UFC/ml.",
+   "Vrai : interprétation toujours fonction de la clinique.",
+   "Faux : les seuils servent à distinguer colonisation et infection.",
+   "Vrai : cyclines, macrolides ou fluoroquinolones selon l'espèce et le terrain."
+  ]
+ },
+ {
+  "q": "À propos des épididymites à mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "Ureaplasma urealyticum est impliqué dans les épididymites",
+   "Les épididymites font partie des infections génitales masculines à mycoplasmes",
+   "Mycoplasma pneumoniae est l'agent principal des épididymites",
+   "Les spermocultures peuvent contribuer au diagnostic",
+   "Les épididymites à mycoplasmes n'existent pas"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : U. urealyticum impliqué dans les épididymites.",
+   "Vrai : infections génitales masculines : urétrites, épididymites.",
+   "Faux : M. pneumoniae est un pathogène respiratoire.",
+   "Vrai : les spermes font partie des prélèvements chez l'homme.",
+   "Faux : les épididymites à U. urealyticum sont décrites."
+  ]
+ },
+ {
+  "q": "Concernant les vaginites à Mycoplasma hominis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Mycoplasma hominis est impliqué dans les vaginites",
+   "Le seuil de 10^4 UFC/ml est admis pour M. hominis dans les vaginoses",
+   "La colonisation vaginale par M. hominis est fréquente (10 à 50 %)",
+   "Toute présence de M. hominis signe une vaginite",
+   "Les infections gynécologiques sont souvent associées à d'autres bactéries"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : M. hominis impliqué dans les vaginites.",
+   "Vrai : seuil de 10^4 UFC/ml pour M. hominis (vaginose).",
+   "Vrai : colonisation à 10-50 % de la flore vaginale.",
+   "Faux : le portage fréquent impose seuils et corrélation clinique.",
+   "Vrai : infections souvent polymicrobiennes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les endométrites à mycoplasmes, lesquelles sont exactes ?",
+  "options": [
+   "Mycoplasma hominis est impliqué dans les endométrites",
+   "Ureaplasma urealyticum est impliqué dans les endométrites",
+   "Les prélèvements endométriaux sont indiqués pour le diagnostic",
+   "L'isolement à partir d'un site stérile est significatif",
+   "Mycoplasma genitalium est le seul agent des endométrites"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. hominis impliqué dans les endométrites.",
+   "Vrai : U. urealyticum impliqué dans les endométrites.",
+   "Vrai : prélèvements endométriaux chez la femme.",
+   "Vrai : isolement sur site stérile = significatif.",
+   "Faux : M. hominis et U. urealyticum sont cités, pas M. genitalium seul."
+  ]
+ },
+ {
+  "q": "À propos des salpingites à mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "Mycoplasma hominis est impliqué dans les salpingites",
+   "Les brossages tubaires sont des prélèvements possibles",
+   "Les biopsies peuvent être réalisées",
+   "Les salpingites font partie des infections gynécologiques hautes",
+   "Ureaplasma urealyticum est l'agent exclusif des salpingites"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. hominis impliqué dans les salpingites.",
+   "Vrai : brossages tubaires possibles.",
+   "Vrai : biopsies possibles.",
+   "Vrai : infections gynécologiques hautes (endométrites, salpingites).",
+   "Faux : les salpingites sont attribuées à M. hominis dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant la dysplasie broncho-pulmonaire du nouveau-né liée aux mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ureaplasma urealyticum est impliqué",
+   "Mycoplasma hominis est impliqué",
+   "La contamination se fait lors de l'accouchement",
+   "Mycoplasma pneumoniae en est l'agent principal",
+   "Il s'agit d'une infection néonatale à mycoplasmes génitaux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : U. urealyticum impliqué.",
+   "Vrai : M. hominis impliqué.",
+   "Vrai : transmission lors de l'accouchement.",
+   "Faux : M. pneumoniae est un pathogène respiratoire de l'enfant et de l'adulte.",
+   "Vrai : infection néonatale à mycoplasmes génitaux."
+  ]
+ },
+ {
+  "q": "Parmi les troubles de la reproduction liés aux mycoplasmes, lesquels sont cités dans le cours ?",
+  "options": [
+   "Ureaplasma urealyticum est impliqué dans les troubles de la reproduction",
+   "Mycoplasma hominis est impliqué dans les troubles de la reproduction",
+   "Les infections gynécologiques à mycoplasmes sont souvent polymicrobiennes",
+   "Mycoplasma pneumoniae est impliqué dans les troubles de la reproduction",
+   "Les mycoplasmes n'ont aucun lien avec la reproduction"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : U. urealyticum cité.",
+   "Vrai : M. hominis cité.",
+   "Vrai : infections souvent associées à d'autres bactéries.",
+   "Faux : M. pneumoniae est un pathogène respiratoire.",
+   "Faux : U. urealyticum et M. hominis sont impliqués."
+  ]
+ },
+ {
+  "q": "Une femme présente une endométrite. Le laboratoire isole Mycoplasma hominis et Ureaplasma urealyticum. Concernant cette situation, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Mycoplasma hominis est un agent reconnu d'endométrite",
+   "Ureaplasma urealyticum est un agent reconnu d'endométrite",
+   "Les infections gynécologiques à mycoplasmes sont souvent associées à d'autres bactéries",
+   "Le traitement est fonction des espèces isolées et du terrain",
+   "L'isolement de deux mycoplasmes exclut le diagnostic d'endométrite"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. hominis impliqué dans les endométrites.",
+   "Vrai : U. urealyticum impliqué dans les endométrites.",
+   "Vrai : infections souvent polymicrobiennes.",
+   "Vrai : traitement fonction de l'espèce isolée, des associations et du terrain.",
+   "Faux : les co-isolements sont possibles et compatibles avec le diagnostic."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements pour le diagnostic des infections génitales à mycoplasmes chez la femme, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les prélèvements cervico-vaginaux sont indiqués",
+   "Le premier jet d'urine est le prélèvement de référence chez la femme",
+   "Les liquides amniotiques peuvent être prélevés",
+   "Le placenta peut être prélevé",
+   "On utilise un écouvillon à olive terminale strié de type Bactopick ou une cytobrosse"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : prélèvements cervico-vaginaux.",
+   "Faux : le premier jet d'urine est un prélèvement de l'homme ; chez la femme on fait des prélèvements cervico-vaginaux.",
+   "Vrai : liquides amniotiques.",
+   "Vrai : placenta.",
+   "Vrai : Bactopick ou cytobrosse."
+  ]
+ },
+ {
+  "q": "À propos du transport des prélèvements génitaux pour mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "On utilise un milieu type A3 ou 2SP",
+   "La conservation maximale est de 48 h à +4 °C",
+   "Au-delà de 48 h, la conservation se fait à -70 °C",
+   "Le transport peut se faire à température ambiante pendant une semaine",
+   "Les milieux de transport contiennent des antibiotiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : milieu type A3 ou 2SP.",
+   "Vrai : maximum 48 h à +4 °C.",
+   "Vrai : au-delà, -70 °C.",
+   "Faux : la fragilité des mycoplasmes impose un transport rapide et adapté.",
+   "Faux : le 2SP est sans antibiotique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le premier jet d'urine dans le diagnostic des mycoplasmes, lesquelles sont exactes ?",
+  "options": [
+   "C'est un prélèvement indiqué chez l'homme",
+   "Le seuil de 10^3 UFC/ml est admis pour le premier jet d'urine",
+   "Il permet la recherche d'Ureaplasma urealyticum",
+   "C'est le prélèvement de choix chez la femme pour les mycoplasmes",
+   "Tout titre détecté dans le premier jet signe une infection"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : premier jet d'urine chez l'homme.",
+   "Vrai : seuil de 10^3 UFC/ml admis.",
+   "Vrai : recherche d'U. urealyticum (urétrites).",
+   "Faux : chez la femme, les prélèvements cervico-vaginaux sont indiqués.",
+   "Faux : un seuil est admis ; un faible titre peut correspondre à une colonisation."
+  ]
+ },
+ {
+  "q": "Concernant l'interprétation des seuils quantitatifs pour les mycoplasmes génitaux, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le seuil de 10^3 UFC/ml est admis pour le premier jet d'urine",
+   "Le seuil de 10^4 UFC/ml est admis pour les urétrites non gonococciques",
+   "Le seuil de 10^4 UFC/ml est admis pour M. hominis (vaginose, infection haute)",
+   "Les galeries utilisent le seuil de 10^4 UFC/ml en méthode semi-quantitative",
+   "Aucun seuil n'est admis ; tout isolement est significatif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 10^3 UFC/ml pour le premier jet d'urine.",
+   "Vrai : 10^4 UFC/ml pour les urétrites non gonococciques.",
+   "Vrai : 10^4 UFC/ml pour M. hominis (vaginose, infection haute).",
+   "Vrai : seuil de 10^4 UFC/ml des galeries semi-quantitatives.",
+   "Faux : des seuils sont admis en raison de la fréquence du portage."
+  ]
+ },
+ {
+  "q": "Un laboratoire isole Ureaplasma urealyticum à 10^2 UFC/ml dans un prélèvement cervico-vaginal chez une femme asymptomatique. Concernant l'interprétation, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le titre est inférieur aux seuils admis",
+   "Ureaplasma urealyticum colonise fréquemment la muqueuse génitale",
+   "Le résultat doit être interprété en fonction de la clinique",
+   "Ce faible titre chez une asymptomatique évoque un portage",
+   "Ce résultat impose un traitement antibiotique systématique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 10^2 < seuils de 10^3-10^4 UFC/ml.",
+   "Vrai : colonisation fréquente (10-50 % de la flore vaginale).",
+   "Vrai : interprétation toujours fonction de la clinique.",
+   "Vrai : faible titre + asymptomatique = portage probable.",
+   "Faux : pas de traitement systématique d'un portage."
+  ]
+ },
+ {
+  "q": "À propos de la signification de l'isolement de Mycoplasma pneumoniae, quelles propositions sont exactes ?",
+  "options": [
+   "L'isolement de M. pneumoniae à partir du tractus respiratoire est très significatif",
+   "M. pneumoniae n'est pas un commensal des voies respiratoires",
+   "Seul M. pneumoniae est pathogène parmi les mycoplasmes respiratoires",
+   "Tout isolement respiratoire de M. pneumoniae doit être considéré comme une contamination",
+   "L'isolement de M. pneumoniae est fréquent chez les sujets sains sans signification"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : isolement respiratoire très significatif.",
+   "Vrai : ce n'est pas un commensal ; son isolement est significatif.",
+   "Vrai : seul pathogène parmi les mycoplasmes respiratoires.",
+   "Faux : l'isolement est très significatif, pas une contamination.",
+   "Faux : l'isolement respiratoire de M. pneumoniae est très significatif."
+  ]
+ },
+ {
+  "q": "Concernant la sérologie des infections à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le prélèvement se fait sur tube sec",
+   "Les techniques sont la RFC et l'ELISA",
+   "L'ascension des anticorps entre deux sérums à 15 jours est très significative",
+   "La détection d'IgM est très significative",
+   "La sérologie est inutile dans les infections à Mycoplasma pneumoniae"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sang sur tube sec.",
+   "Vrai : RFC et ELISA.",
+   "Vrai : ascension entre deux sérums à 15 jours.",
+   "Vrai : détection d'IgM très significative.",
+   "Faux : la sérologie est essentielle dans les infections à M. pneumoniae (diagnostic rétrospectif)."
+  ]
+ },
+ {
+  "q": "Parmi les critères sérologiques suivants très significatifs d'une infection à Mycoplasma pneumoniae, lesquels sont cités dans le cours ?",
+  "options": [
+   "L'ascension des anticorps entre deux sérums prélevés à 15 jours",
+   "Un taux unique très élevé tardif",
+   "La détection d'IgM",
+   "Un taux stable et bas d'anticorps",
+   "L'absence totale d'anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ascension des anticorps entre deux sérums à 15 jours.",
+   "Vrai : taux unique très élevé tardif.",
+   "Vrai : détection d'IgM.",
+   "Faux : c'est l'ascension des anticorps qui est significative.",
+   "Faux : l'absence d'anticorps n'a pas de signification diagnostique."
+  ]
+ },
+ {
+  "q": "Concernant les agglutinines dans l'infection à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La présence d'agglutinines n'est ni constante ni caractéristique",
+   "Les agglutinines ne permettent pas à elles seules le diagnostic",
+   "La RFC et l'ELISA sont les techniques sérologiques de référence",
+   "La présence d'agglutinines est constante et caractéristique",
+   "Les agglutinines suffisent à affirmer le diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ni constante ni caractéristique.",
+   "Vrai : elles ne suffisent pas au diagnostic.",
+   "Vrai : RFC et ELISA = techniques utilisées.",
+   "Faux : la présence d'agglutinines n'est ni constante ni caractéristique.",
+   "Faux : les critères significatifs sont l'ascension des anticorps, le taux unique élevé tardif ou les IgM."
+  ]
+ },
+ {
+  "q": "À propos de la sérologie des mycoplasmes génitaux, quelles propositions sont exactes ?",
+  "options": [
+   "La sérologie est sans intérêt pour les mycoplasmes génitaux",
+   "Le diagnostic des mycoplasmes génitaux repose sur la culture, les galeries et la PCR",
+   "La sérologie est essentielle pour Mycoplasma pneumoniae",
+   "La sérologie est l'examen de choix pour Ureaplasma urealyticum",
+   "La sérologie est l'examen de choix pour Mycoplasma hominis"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sans intérêt pour les mycoplasmes génitaux.",
+   "Vrai : culture, galeries (détection/quantification/résistance), PCR.",
+   "Vrai : sérologie essentielle pour M. pneumoniae.",
+   "Faux : la sérologie est sans intérêt pour les mycoplasmes génitaux.",
+   "Faux : la sérologie est sans intérêt pour les mycoplasmes génitaux."
+  ]
+ },
+ {
+  "q": "Un patient a présenté une pneumopathie atypique il y a 3 semaines. La sérologie M. pneumoniae montre un taux unique très élevé d'anticorps. Concernant l'interprétation, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Un taux unique très élevé tardif est très significatif",
+   "Le diagnostic sérologique est ici rétrospectif",
+   "La détection d'IgM serait également très significative",
+   "Ce taux tardif n'a aucune signification",
+   "Seule une culture positive permettrait le diagnostic à ce stade"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : taux unique très élevé tardif très significatif.",
+   "Vrai : diagnostic rétrospectif caractéristique de la sérologie.",
+   "Vrai : détection d'IgM très significative.",
+   "Faux : le taux unique très élevé tardif est très significatif.",
+   "Faux : la sérologie est essentielle et suffisante avec ces critères."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic rétrospectif des infections à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La sérologie permet un diagnostic rétrospectif",
+   "L'ascension des anticorps entre deux sérums à 15 jours en est le critère",
+   "La culture est délicate et longue, d'où l'intérêt de la sérologie",
+   "Le diagnostic ne peut jamais être rétrospectif",
+   "La PCR est la seule méthode de diagnostic rétrospectif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la sérologie est essentielle : diagnostic rétrospectif.",
+   "Vrai : ascension des anticorps entre deux sérums à 15 jours.",
+   "Vrai : culture délicate pour M. pneumoniae.",
+   "Faux : le diagnostic sérologique est typiquement rétrospectif.",
+   "Faux : c'est la sérologie qui permet le diagnostic rétrospectif."
+  ]
+ },
+ {
+  "q": "Parmi les antibiotiques suivants, lesquels sont naturellement inefficaces sur les mycoplasmes ?",
+  "options": [
+   "Les bêtalactamines",
+   "Les glycopeptides (actifs sur la paroi)",
+   "Les polypeptides",
+   "La rifampicine",
+   "Les macrolides (pour M. pneumoniae)"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : résistance naturelle aux bêtalactamines.",
+   "Vrai : les glycopeptides ciblent le peptidoglycane, absent.",
+   "Vrai : résistance naturelle aux polypeptides.",
+   "Vrai : résistance naturelle à la rifampicine.",
+   "Faux : les macrolides sont le traitement de M. pneumoniae (sensible)."
+  ]
+ },
+ {
+  "q": "À propos des résistances naturelles spécifiques d'espèces, quelles propositions sont exactes ?",
+  "options": [
+   "Mycoplasma hominis est naturellement résistant aux macrolides",
+   "Mycoplasma hominis est naturellement résistant aux kétolides",
+   "Ureaplasma est naturellement résistant aux lincosamides",
+   "Mycoplasma pneumoniae est naturellement résistant aux fluoroquinolones",
+   "Ureaplasma urealyticum est naturellement résistant aux tétracyclines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : résistance naturelle de M. hominis aux macrolides.",
+   "Vrai : résistance naturelle de M. hominis aux kétolides.",
+   "Vrai : résistance naturelle d'Ureaplasma aux lincosamides.",
+   "Faux : les fluoroquinolones sont une option thérapeutique pour M. pneumoniae.",
+   "Faux : les cyclines (tétracyclines) sont utilisables pour les mycoplasmes génitaux."
+  ]
+ },
+ {
+  "q": "Concernant les résistances acquises des mycoplasmes génitaux, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ureaplasma et M. hominis présentent 5 % de résistance aux tétracyclines",
+   "Ureaplasma et M. hominis présentent 5 % de résistance aux macrolides",
+   "Ureaplasma et M. hominis présentent 5 % de résistance aux fluoroquinolones",
+   "Les galeries permettent l'étude de la résistance des mycoplasmes génitaux",
+   "Aucune résistance acquise n'a jamais été décrite chez les mycoplasmes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 5 % de résistance aux tétracyclines.",
+   "Vrai : 5 % de résistance aux macrolides.",
+   "Vrai : 5 % de résistance aux fluoroquinolones.",
+   "Vrai : galeries pour l'étude de la résistance.",
+   "Faux : 5 % de résistances acquises décrites pour Ureaplasma et M. hominis."
+  ]
+ },
+ {
+  "q": "Un patient est traité pour une urétrite à Ureaplasma urealyticum. Concernant le choix antibiotique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les cyclines sont une option",
+   "Les macrolides sont une option",
+   "Les fluoroquinolones sont une option",
+   "Les lincosamides sont le traitement de choix (sensibilité naturelle)",
+   "Les bêtalactamines sont une option"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : cyclines utilisables pour les mycoplasmes génitaux.",
+   "Vrai : macrolides utilisables.",
+   "Vrai : fluoroquinolones utilisables.",
+   "Faux : Ureaplasma est naturellement résistant aux lincosamides.",
+   "Faux : résistance naturelle aux bêtalactamines (pas de paroi)."
+  ]
+ },
+ {
+  "q": "Une patiente présente une vaginite à Mycoplasma hominis. Concernant le traitement, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les cyclines sont une option thérapeutique",
+   "Les fluoroquinolones sont une option thérapeutique",
+   "Les macrolides sont à éviter (résistance naturelle de M. hominis)",
+   "Les kétolides sont à éviter (résistance naturelle de M. hominis)",
+   "L'amoxicilline est le traitement de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cyclines utilisables.",
+   "Vrai : fluoroquinolones utilisables.",
+   "Vrai : M. hominis naturellement résistant aux macrolides.",
+   "Vrai : M. hominis naturellement résistant aux kétolides.",
+   "Faux : l'amoxicilline (bêtalactamine) est inefficace."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les principes du traitement des infections à mycoplasmes, lesquelles sont exactes ?",
+  "options": [
+   "Le traitement doit prendre en considération la résistance naturelle",
+   "Pour M. pneumoniae : macrolides ou fluoroquinolones",
+   "Pour les mycoplasmes génitaux : traitement fonction de l'espèce isolée",
+   "Pour les mycoplasmes génitaux : prise en compte des associations et du terrain",
+   "Les bêtalactamines sont toujours efficaces en première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la résistance naturelle conditionne le traitement (conclusion).",
+   "Vrai : macrolides ou fluoroquinolones pour M. pneumoniae.",
+   "Vrai : traitement fonction de l'espèce isolée.",
+   "Vrai : fonction des associations et du terrain.",
+   "Faux : résistance naturelle aux bêtalactamines."
+  ]
+ },
+ {
+  "q": "Concernant la prévention des infections à mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les rapports protégés préviennent les IST à mycoplasmes",
+   "Le respect de la fidélité prévient les IST à mycoplasmes",
+   "Il n'existe pas de vaccin contre les mycoplasmes",
+   "L'immunité naturelle protège définitivement contre les recontaminations",
+   "Un vaccin conjugué est recommandé chez l'adulte jeune"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : rapports protégés = prévention des IST.",
+   "Vrai : fidélité = prévention des IST.",
+   "Vrai : pas de vaccin.",
+   "Faux : l'immunité humorale et cellulaire ne protège pas contre une recontamination.",
+   "Faux : il n'existe pas de vaccin contre les mycoplasmes."
+  ]
+ },
+ {
+  "q": "À propos des mesures associées au diagnostic des mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "La recherche du mycoplasme doit être associée à celle d'autres agents pathogènes",
+   "Les résultats sont toujours interprétés en fonction de la clinique",
+   "Le prélèvement doit être « cellulaire »",
+   "Le diagnostic repose sur un seul examen quel que soit le contexte",
+   "Les seuils quantitatifs n'ont aucun intérêt"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : recherche associée à celle d'autres agents pathogènes (conclusion).",
+   "Vrai : interprétation toujours fonction de la clinique.",
+   "Vrai : intérêt d'un « prélèvement cellulaire ».",
+   "Faux : le diagnostic combine clinique, prélèvements adaptés et interprétation.",
+   "Faux : les seuils (10^3, 10^4 UFC/ml) aident à distinguer colonisation et infection."
+  ]
+ },
+ {
+  "q": "Parmi les synthèses suivantes sur les mycoplasmes, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont de petites bactéries dépourvues de paroi",
+   "Ils appartiennent à la classe des Mollicutes",
+   "Mycoplasma pneumoniae est l'agent des pneumonies atypiques",
+   "Ureaplasma urealyticum et Mycoplasma hominis sont des mycoplasmes génitaux majeurs",
+   "Ce sont des virus à ADN"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : petites bactéries sans paroi.",
+   "Vrai : classe des Mollicutes.",
+   "Vrai : M. pneumoniae = pneumonie atypique.",
+   "Vrai : U. urealyticum et M. hominis = mycoplasmes génitaux les plus fréquents.",
+   "Faux : ce sont des bactéries, pas des virus."
+  ]
+ },
+ {
+  "q": "Concernant les erreurs fréquentes à éviter dans le diagnostic des mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'examen microscopique direct est impossible",
+   "La coloration de Gram ne visualise pas les mycoplasmes",
+   "L'expectoration est peu adaptée pour la PCR",
+   "La sérologie est sans intérêt pour les mycoplasmes génitaux",
+   "La culture est simple et rapide pour toutes les espèces"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : diagnostic microscopique direct impossible.",
+   "Vrai : non colorables par le Gram.",
+   "Vrai : expectoration peu adaptée (inhibiteurs de PCR).",
+   "Vrai : sérologie sans intérêt pour les mycoplasmes génitaux.",
+   "Faux : culture délicate (M. pneumoniae) voire impossible (M. genitalium)."
+  ]
+ },
+ {
+  "q": "Un étudiant en médecine résume le cours sur les mycoplasmes. Parmi ses affirmations, lesquelles sont exactes ?",
+  "options": [
+   "Les mycoplasmes sont des bactéries sans paroi de la classe des Mollicutes",
+   "M. pneumoniae donne des pneumonies atypiques à début progressif",
+   "Le diagnostic sérologique de M. pneumoniae est souvent rétrospectif",
+   "Les bêtalactamines sont inefficaces sur les mycoplasmes",
+   "Les mycoplasmes possèdent une paroi épaisse riche en peptidoglycane"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bactéries sans paroi, classe des Mollicutes.",
+   "Vrai : pneumonie atypique à début progressif.",
+   "Vrai : sérologie essentielle, diagnostic rétrospectif.",
+   "Vrai : résistance naturelle (pas de paroi).",
+   "Faux : ils sont dépourvus de paroi."
+  ]
+ },
+ {
+  "q": "À propos des milieux de culture et de transport des mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "Les milieux de culture sont complexes et enrichis en sérum",
+   "Le milieu de transport 2SP est un milieu saccharose-phosphate enrichi de 5 % de sérum de veau fœtal",
+   "Le milieu de transport pour les prélèvements génitaux est de type A3 ou 2SP",
+   "Les milieux usuels (gélose au sang) suffisent à la culture",
+   "Le 2SP contient des antibiotiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : milieux complexes enrichis en sérum.",
+   "Vrai : 2SP = saccharose-phosphate + 5 % sérum de veau fœtal.",
+   "Vrai : A3 ou 2SP pour les prélèvements génitaux.",
+   "Faux : il faut des milieux complexes spécifiques.",
+   "Faux : le 2SP est sans antibiotique."
+  ]
+ },
+ {
+  "q": "Concernant les aspects des colonies des trois principales espèces, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Mycoplasma pneumoniae : colonies granuleuses",
+   "Mycoplasma hominis : colonies en œuf sur le plat",
+   "Ureaplasma urealyticum : colonies en oursin",
+   "Les colonies sont observées à la loupe binoculaire ou au microscope inversé",
+   "Mycoplasma pneumoniae : colonies en oursin"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : colonies granuleuses pour M. pneumoniae.",
+   "Vrai : œuf sur le plat pour M. hominis.",
+   "Vrai : oursin pour U. urealyticum.",
+   "Vrai : observation à la loupe binoculaire ou au microscope inversé.",
+   "Faux : l'aspect en oursin caractérise U. urealyticum."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la PCR multiplex dans les pneumopathies atypiques, lesquelles sont exactes ?",
+  "options": [
+   "Elle détecte Mycoplasma pneumoniae",
+   "Elle détecte Chlamydophila pneumoniae",
+   "Elle détecte Legionella pneumophila",
+   "Elle détecte les virus respiratoires",
+   "Sa sensibilité est inférieure à celle de la culture"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : M. pneumoniae détecté.",
+   "Vrai : Chlamydophila pneumoniae détectée.",
+   "Vrai : Legionella pneumophila détectée.",
+   "Vrai : virus respiratoires détectés.",
+   "Faux : Se ≥ culture et sérologie."
+  ]
+ },
+ {
+  "q": "Concernant les limites de la PCR pour Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Des PCR positives existent chez des patients asymptomatiques",
+   "La spécificité est discutée",
+   "L'expectoration contient plus d'inhibiteurs de PCR",
+   "Les résultats s'interprètent en fonction de la clinique",
+   "La PCR est inutile car toujours négative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : PCR positives chez des asymptomatiques.",
+   "Vrai : spécificité discutée.",
+   "Vrai : plus d'inhibiteurs de PCR dans l'expectoration.",
+   "Vrai : interprétation fonction de la clinique.",
+   "Faux : la PCR a une sensibilité ≥ culture et sérologie."
+  ]
+ },
+ {
+  "q": "Un laboratoire met en place le diagnostic des mycoplasmes génitaux. Parmi les éléments suivants, lesquels sont conformes au cours ?",
+  "options": [
+   "Utilisation de galeries de détection, quantification et étude de la résistance",
+   "Méthode semi-quantitative avec seuil de 10^4 UFC/ml",
+   "Prélèvements transportés en milieu A3 ou 2SP",
+   "Interprétation des résultats en fonction de la clinique",
+   "Diagnostic fondé uniquement sur la sérologie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : galeries pour mycoplasmes génitaux.",
+   "Vrai : seuil de 10^4 UFC/ml.",
+   "Vrai : A3 ou 2SP.",
+   "Vrai : interprétation fonction de la clinique.",
+   "Faux : la sérologie est sans intérêt pour les mycoplasmes génitaux."
+  ]
+ },
+ {
+  "q": "À propos des infections à Mycoplasma hominis, quelles propositions sont exactes ?",
+  "options": [
+   "Il est impliqué dans les vaginites",
+   "Il est impliqué dans les endométrites",
+   "Il est impliqué dans les salpingites",
+   "Il est impliqué dans la dysplasie broncho-pulmonaire du nouveau-né",
+   "Il est l'agent des pneumonies atypiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : vaginites.",
+   "Vrai : endométrites.",
+   "Vrai : salpingites.",
+   "Vrai : dysplasie broncho-pulmonaire (avec U. urealyticum).",
+   "Faux : les pneumonies atypiques sont dues à M. pneumoniae."
+  ]
+ },
+ {
+  "q": "Concernant les infections à Ureaplasma urealyticum, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il est impliqué dans les urétrites masculines",
+   "Il est impliqué dans les épididymites",
+   "Il est impliqué dans les endométrites",
+   "Il est impliqué dans la dysplasie broncho-pulmonaire",
+   "Il est l'agent des pneumonies atypiques de l'adulte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : urétrites.",
+   "Vrai : épididymites.",
+   "Vrai : endométrites.",
+   "Vrai : dysplasie broncho-pulmonaire.",
+   "Faux : les pneumonies atypiques sont dues à M. pneumoniae."
+  ]
+ },
+ {
+  "q": "Au sujet de Mycoplasma genitalium, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il est impliqué dans les urétrites masculines",
+   "Il est retrouvé chez les patients VIH+",
+   "Sa culture est impossible en routine",
+   "La PCR est intéressante pour son diagnostic",
+   "Il est l'agent principal des pneumonies atypiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : urétrites.",
+   "Vrai : retrouvé chez les VIH+.",
+   "Vrai : culture impossible.",
+   "Vrai : PCR intéressante pour les mycoplasmes fastidieux.",
+   "Faux : les pneumonies atypiques sont dues à M. pneumoniae."
+  ]
+ },
+ {
+  "q": "Concernant les caractères généraux des mycoplasmes pathogènes pour l'Homme, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont dépourvus de paroi",
+   "Ils adhèrent aux cellules eucaryotes",
+   "Ils sont sensibles à l'environnement",
+   "Leur diagnostic microbiologique est difficile",
+   "Ils sont tous des parasites intracellulaires obligatoires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas de paroi.",
+   "Vrai : adhésion aux cellules eucaryotes.",
+   "Vrai : sensibilité au pH, température, tensioactifs, pression osmotique.",
+   "Vrai : diagnostic difficile (fastidieux, interprétation).",
+   "Faux : ce ne sont pas des intracellulaires obligatoires."
+  ]
+ },
+ {
+  "q": "Un QCM d'examen porte sur les mycoplasmes. Parmi les affirmations suivantes, lesquelles sont exactes ?",
+  "options": [
+   "L'absence de paroi explique la résistance naturelle aux bêtalactamines",
+   "L'absence de paroi explique l'impossibilité de la coloration de Gram",
+   "L'absence de paroi explique le polymorphisme",
+   "L'absence de paroi explique la fragilité environnementale",
+   "L'absence de paroi explique la sensibilité aux bêtalactamines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas de cible pour les bêtalactamines.",
+   "Vrai : pas de rétention du cristal violet.",
+   "Vrai : pas de forme rigide imposée.",
+   "Vrai : sensibilité au pH, température, dessiccation.",
+   "Faux : l'absence de paroi entraîne la résistance, pas la sensibilité."
+  ]
+ },
+ {
+  "q": "À propos de la chaîne épidémiologique des mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "Le réservoir est largement répandu dans la nature",
+   "La transmission est inter-humaine",
+   "La transmission peut se faire lors de l'accouchement",
+   "La contagiosité est modérée",
+   "La transmission se fait par les selles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réservoir largement répandu.",
+   "Vrai : transmission inter-humaine.",
+   "Vrai : transmission lors de l'accouchement.",
+   "Vrai : contagiosité modérée.",
+   "Faux : pas de transmission féco-orale décrite."
+  ]
+ },
+ {
+  "q": "Concernant les particularités diagnostiques des mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le prélèvement doit ramener des cellules",
+   "Le transport utilise des milieux spécifiques (2SP, A3)",
+   "La culture associe milieu liquide (dilutions 10-1 à 10-4) et milieu solide",
+   "L'incubation se fait à 37 °C sous CO2",
+   "L'examen direct au microscope optique suffit au diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : « prélèvement cellulaire ».",
+   "Vrai : 2SP, A3.",
+   "Vrai : liquide + solide, dilutions pour quantification.",
+   "Vrai : 37 °C sous CO2.",
+   "Faux : l'examen microscopique direct est impossible."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le traitement des pneumonies atypiques à Mycoplasma pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "Les macrolides sont indiqués",
+   "Les fluoroquinolones sont une alternative",
+   "Les résistances acquises aux macrolides sont exceptionnelles",
+   "Les bêtalactamines sont inefficaces",
+   "L'amoxicilline est le traitement de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : macrolides = traitement.",
+   "Vrai : fluoroquinolones en alternative.",
+   "Vrai : résistances acquises exceptionnelles.",
+   "Vrai : résistance naturelle (pas de paroi).",
+   "Faux : l'amoxicilline (bêtalactamine) est inefficace."
+  ]
+ },
+ {
+  "q": "Concernant les indications respectives des examens dans les infections à mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La PCR multiplex est indiquée dans les pneumopathies atypiques aiguës",
+   "La sérologie est essentielle dans les infections à M. pneumoniae",
+   "La culture sur milieux spécifiques est utile pour les mycoplasmes génitaux",
+   "Les galeries permettent l'étude de la résistance des mycoplasmes génitaux",
+   "L'immunofluorescence directe est l'examen de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : approche syndromique, infections aiguës.",
+   "Vrai : sérologie essentielle pour M. pneumoniae.",
+   "Vrai : culture simple pour U. urealyticum.",
+   "Vrai : galeries de détection, quantification, résistance.",
+   "Faux : l'immunofluorescence directe n'est pas commercialisée."
+  ]
+ },
+ {
+  "q": "Un patient VIH+ présente une urétrite. Parmi les agents suivants, lesquels peuvent être en cause selon le cours ?",
+  "options": [
+   "Mycoplasma genitalium (retrouvé chez les VIH+)",
+   "Ureaplasma urealyticum",
+   "Neisseria gonorrhoeae (diagnostic différentiel)",
+   "Mycoplasma pneumoniae",
+   "Chlamydia trachomatis (diagnostic différentiel des urétrites non gonococciques)"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : M. genitalium impliqué dans les urétrites, retrouvé chez les VIH+.",
+   "Vrai : U. urealyticum agent d'urétrite.",
+   "Faux : N. gonorrhoeae n'est pas un mycoplasme (diagnostic différentiel, hors sujet).",
+   "Faux : M. pneumoniae est un pathogène respiratoire.",
+   "Faux : C. trachomatis n'est pas un mycoplasme (diagnostic différentiel, hors sujet)."
+  ]
+ },
+ {
+  "q": "À propos des co-infections dans les infections génitales à mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "Les infections gynécologiques sont souvent associées à d'autres bactéries",
+   "La recherche du mycoplasme doit être associée à celle d'autres agents pathogènes",
+   "Le traitement tient compte des associations",
+   "Les mycoplasmes sont toujours isolés seuls",
+   "La présence d'autres bactéries exclut le rôle des mycoplasmes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : infections souvent polymicrobiennes.",
+   "Vrai : recherche associée à celle d'autres agents.",
+   "Vrai : traitement fonction des associations.",
+   "Faux : les infections sont souvent associées à d'autres bactéries.",
+   "Faux : les associations sont fréquentes et n'excluent pas le rôle des mycoplasmes."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic biologique des mycoplasmes dans son ensemble, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il comprend un diagnostic direct (culture, PCR)",
+   "Il comprend un diagnostic indirect (sérologie pour M. pneumoniae)",
+   "Les prélèvements doivent être adaptés au site de l'infection",
+   "L'interprétation tient compte de la clinique et des seuils",
+   "Il repose uniquement sur l'examen microscopique direct"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : diagnostic direct (prélèvements, culture, PCR).",
+   "Vrai : diagnostic indirect (sérologie M. pneumoniae).",
+   "Vrai : prélèvements respiratoires, génitaux ou autres selon la clinique.",
+   "Vrai : clinique + seuils (10^3, 10^4 UFC/ml).",
+   "Faux : l'examen microscopique direct est impossible."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles résument correctement la conclusion du cours sur les mycoplasmes ?",
+  "options": [
+   "Fréquence des atteintes respiratoires à M. pneumoniae",
+   "Difficultés d'interprétation des résultats microbiologiques",
+   "Intérêt d'un « prélèvement cellulaire »",
+   "Nécessité d'associer la recherche à celle d'autres agents pathogènes",
+   "Efficacité constante des bêtalactamines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : fréquence des atteintes respiratoires à M. pneumoniae.",
+   "Vrai : difficultés d'interprétation.",
+   "Vrai : intérêt du prélèvement cellulaire.",
+   "Vrai : recherche associée à celle d'autres agents pathogènes.",
+   "Faux : résistance naturelle aux bêtalactamines ; le traitement doit en tenir compte."
+  ]
+ },
+ {
+  "q": "Concernant la fréquence des mycoplasmes dans les infections génitales, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ils sont impliqués dans 30 % des infections génitales chez la femme",
+   "Ils sont impliqués dans 15 % des urétrites chez l'homme",
+   "U. urealyticum et M. hominis sont les mycoplasmes génitaux les plus fréquents",
+   "Ils sont impliqués dans 90 % des infections génitales chez la femme",
+   "Ils sont absents des infections génitales"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : 30 % des infections génitales chez la femme.",
+   "Vrai : 15 % des urétrites chez l'homme.",
+   "Vrai : U. urealyticum et M. hominis les plus fréquents.",
+   "Faux : c'est 30 %, pas 90 %.",
+   "Faux : ils sont impliqués dans 30 % des infections génitales féminines."
+  ]
+ },
+ {
+  "q": "À propos des formes cliniques respiratoires de l'enfant et de l'adulte jeune, quelles propositions sont exactes ?",
+  "options": [
+   "La trachéobronchite à M. pneumoniae est fréquente",
+   "La pneumonie atypique à début progressif est caractéristique",
+   "L'incubation est de trois semaines",
+   "La pneumonie franche lobaire à début brutal est typique de M. pneumoniae",
+   "L'état général est habituellement peu altéré"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : trachéobronchite fréquente.",
+   "Vrai : pneumonie atypique à début progressif.",
+   "Vrai : incubation de trois semaines.",
+   "Faux : le début brutal évoque la pneumonie à pneumocoque.",
+   "Vrai : état général peu altéré."
+  ]
+ },
+ {
+  "q": "Concernant les examens complémentaires d'une pneumopathie atypique, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La radiographie montre des infiltrats diffus impressionnants",
+   "La PCR multiplex peut identifier M. pneumoniae",
+   "La sérologie (RFC, ELISA) permet un diagnostic rétrospectif",
+   "La culture est la méthode la plus rapide",
+   "L'expectoration est le prélèvement optimal pour la PCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : infiltrats diffus impressionnants.",
+   "Vrai : PCR multiplex syndromique.",
+   "Vrai : sérologie rétrospective.",
+   "Faux : la culture est délicate et longue.",
+   "Faux : l'expectoration est peu adaptée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les mycoplasmes et les antibiotiques, lesquelles sont exactes ?",
+  "options": [
+   "L'absence de paroi explique la résistance naturelle aux antibiotiques actifs sur la paroi",
+   "Les macrolides sont actifs sur M. pneumoniae",
+   "M. hominis est naturellement résistant aux macrolides",
+   "Ureaplasma est naturellement résistant aux lincosamides",
+   "Les bêtalactamines sont actives sur les mycoplasmes malgré l'absence de paroi"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pas de paroi = pas de cible.",
+   "Vrai : macrolides = traitement de M. pneumoniae.",
+   "Vrai : résistance naturelle de M. hominis aux macrolides.",
+   "Vrai : résistance naturelle d'Ureaplasma aux lincosamides.",
+   "Faux : les bêtalactamines sont inefficaces (résistance naturelle)."
+  ]
+ },
+ {
+  "q": "Un biologiste doit choisir les examens pour une suspicion d'infection génitale à mycoplasmes. Parmi les choix suivants, lesquels sont adaptés ?",
+  "options": [
+   "Prélèvement cervico-vaginal sur Bactopick avec milieu A3 ou 2SP",
+   "Culture sur milieux complexes enrichis avec dilutions 10-1 à 10-4",
+   "Galerie de détection, quantification et étude de la résistance",
+   "PCR pour les espèces fastidieuses comme M. genitalium",
+   "Sérologie systématique en première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Bactopick/cytobrosse, A3 ou 2SP.",
+   "Vrai : milieux complexes, dilutions pour quantification.",
+   "Vrai : galeries pour mycoplasmes génitaux.",
+   "Vrai : PCR intéressante pour les mycoplasmes fastidieux.",
+   "Faux : la sérologie est sans intérêt pour les mycoplasmes génitaux."
+  ]
+ },
+ {
+  "q": "Concernant les pièges diagnostiques des infections à mycoplasmes, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Confondre colonisation et infection pour M. hominis et U. urealyticum",
+   "Négliger les seuils quantitatifs (10^3, 10^4 UFC/ml)",
+   "Interpréter un résultat sans tenir compte de la clinique",
+   "Utiliser l'expectoration comme prélèvement de choix pour la PCR",
+   "Il n'existe aucun piège diagnostique avec les mycoplasmes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : frontière portage/pathogénicité difficile.",
+   "Vrai : les seuils aident à l'interprétation.",
+   "Vrai : interprétation toujours fonction de la clinique.",
+   "Vrai : l'expectoration est peu adaptée (inhibiteurs de PCR).",
+   "Faux : le diagnostic est difficile (fastidieux, interprétation)."
+  ]
+ },
+ {
+  "q": "À propos de la prise en charge d'une urétrite à Mycoplasma genitalium, quelles propositions sont exactes ?",
+  "options": [
+   "Le diagnostic repose sur la PCR (culture impossible)",
+   "Le traitement est fonction de l'espèce isolée et du terrain",
+   "Les cyclines, macrolides ou fluoroquinolones sont des options",
+   "La culture est la méthode diagnostique de choix",
+   "Les bêtalactamines sont efficaces"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : culture impossible, PCR intéressante.",
+   "Vrai : traitement fonction de l'espèce, des associations et du terrain.",
+   "Vrai : cyclines, macrolides ou fluoroquinolones.",
+   "Faux : la culture de M. genitalium est impossible.",
+   "Faux : résistance naturelle aux bêtalactamines."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles concernent à la fois le diagnostic et le traitement des mycoplasmes ?",
+  "options": [
+   "Les galeries évaluent la résistance pour adapter le traitement",
+   "Les seuils quantitatifs guident la décision thérapeutique",
+   "La connaissance des résistances naturelles guide le choix antibiotique",
+   "Le traitement est indépendant de l'espèce isolée",
+   "La sérologie des mycoplasmes génitaux guide le traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : galeries = détection, quantification, étude de la résistance.",
+   "Vrai : seuils pour distinguer colonisation et infection.",
+   "Vrai : résistances naturelles (paroi, M. hominis/macrolides, Ureaplasma/lincosamides).",
+   "Faux : le traitement est fonction de l'espèce isolée.",
+   "Faux : la sérologie est sans intérêt pour les mycoplasmes génitaux."
+  ]
+ },
+ {
+  "q": "Concernant la biologie des mycoplasmes en résumé, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Anaérobies facultatifs",
+   "Culture longue sur milieux complexes enrichis en sérum",
+   "Arginine comme source d'énergie pour le genre Mycoplasma",
+   "Urée comme source d'énergie pour le genre Ureaplasma",
+   "Aérobies stricts à culture rapide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : anaérobies facultatifs.",
+   "Vrai : culture longue, milieux complexes enrichis en sérum.",
+   "Vrai : arginine = Mycoplasma.",
+   "Vrai : urée = Ureaplasma.",
+   "Faux : anaérobies facultatifs à culture longue et fastidieuse."
+  ]
+ },
+ {
+  "q": "Un examen demande les points clés du cours sur les mycoplasmes. Parmi les propositions suivantes, lesquelles sont exactes ?",
+  "options": [
+   "Petites bactéries sans paroi, classe des Mollicutes",
+   "M. pneumoniae : pneumonie atypique, diagnostic sérologique rétrospectif",
+   "Mycoplasmes génitaux : U. urealyticum, M. hominis, M. genitalium",
+   "Traitement : macrolides/fluoroquinolones (M. pneumoniae), cyclines/macrolides/fluoroquinolones (génitaux)",
+   "Diagnostic facile par examen direct et culture rapide pour toutes les espèces"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sans paroi, Mollicutes.",
+   "Vrai : pneumonie atypique, sérologie rétrospective.",
+   "Vrai : les trois mycoplasmes génitaux du cours.",
+   "Vrai : schémas thérapeutiques du cours.",
+   "Faux : diagnostic difficile (fastidieux, interprétation)."
+  ]
+ },
+ {
+  "q": "À propos des infections néonatales et de la transmission materno-fœtale des mycoplasmes, quelles propositions sont exactes ?",
+  "options": [
+   "La transmission peut se faire lors de l'accouchement",
+   "U. urealyticum et M. hominis sont impliqués dans la dysplasie broncho-pulmonaire",
+   "Les liquides amniotiques et le placenta sont des prélèvements possibles",
+   "La transmission est exclusivement post-natale par voie aérienne",
+   "Les mycoplasmes génitaux ne concernent jamais la grossesse"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : transmission lors de l'accouchement.",
+   "Vrai : dysplasie broncho-pulmonaire.",
+   "Vrai : liquides amniotiques, placenta.",
+   "Faux : la transmission peut se faire lors de l'accouchement.",
+   "Faux : infections néonatales et prélèvements obstétricaux décrits."
+  ]
+ },
+ {
+  "q": "Concernant les arthrites purulentes à mycoplasmes chez l'immunodéprimé, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles surviennent chez des immunodéprimés",
+   "Ureaplasma urealyticum peut être en cause",
+   "D'autres mycoplasmes peuvent être en cause",
+   "Le liquide articulaire est un prélèvement adapté",
+   "Elles sont fréquentes chez l'immunocompétent"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : chez des immunodéprimés.",
+   "Vrai : U. urealyticum cité.",
+   "Vrai : « U. urealyticum et autres ».",
+   "Vrai : liquide articulaire parmi les autres prélèvements.",
+   "Faux : décrites chez des immunodéprimés."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les complications de l'infection à Mycoplasma pneumoniae, lesquelles sont exactes ?",
+  "options": [
+   "Pleurésie",
+   "Myocardite",
+   "Péricardite",
+   "Anémie hémolytique",
+   "Glomérulonéphrite systématique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pleurésie citée.",
+   "Vrai : myocardites citées.",
+   "Vrai : péricardites citées.",
+   "Vrai : anémie hémolytique citée.",
+   "Faux : la glomérulonéphrite n'est pas citée parmi les complications."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution et le pronostic de la pneumonie atypique à Mycoplasma pneumoniae, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'évolution est lentement régressive",
+   "La toux persiste longtemps",
+   "Le pronostic est habituellement favorable",
+   "L'évolution est fulminante en quelques heures",
+   "La toux disparaît dès le début du traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : évolution lentement régressive.",
+   "Vrai : toux persistante.",
+   "Vrai : pronostic favorable habituel.",
+   "Faux : l'évolution est lentement régressive.",
+   "Faux : la toux est persistante."
+  ]
+ },
+ {
+  "q": "À propos du rôle pathogène exact de Mycoplasma pneumoniae au niveau respiratoire, quelles propositions sont exactes ?",
+  "options": [
+   "Il vit attaché aux cellules épithéliales respiratoires",
+   "Il produit des peroxydes lésant les cellules et altérant le mouvement ciliaire",
+   "Il provoque une réaction inflammatoire locale sans envahissement tissulaire",
+   "Il peut induire des auto-anticorps responsables de lésions à distance",
+   "Il détruit massivement le parenchyme pulmonaire par envahissement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : vit attaché aux cellules.",
+   "Vrai : peroxydes, altération ciliaire, lésions cellulaires.",
+   "Vrai : inflammation locale, pas d'envahissement.",
+   "Vrai : auto-anticorps, lésions à distance.",
+   "Faux : pas d'envahissement tissulaire."
+  ]
+ },
+ {
+  "q": "Un patient présente une toux sèche persistante depuis 3 semaines avec état général conservé. La PCR multiplex est positive à Mycoplasma pneumoniae. Concernant la conduite à tenir, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le tableau et la PCR sont en faveur d'une infection à M. pneumoniae",
+   "Un macrolide peut être prescrit",
+   "La sérologie pourra confirmer rétrospectivement le diagnostic",
+   "L'amoxicilline est le traitement adapté",
+   "Une PCR positive chez un asymptomatique aurait la même signification"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : tableau typique + PCR positive.",
+   "Vrai : macrolides = traitement.",
+   "Vrai : diagnostic sérologique rétrospectif possible.",
+   "Faux : l'amoxicilline (bêtalactamine) est inefficace.",
+   "Faux : des PCR positives existent chez des asymptomatiques ; l'interprétation tient compte de la clinique."
+  ]
+ },
+ {
+  "q": "Concernant les diagnostics différentiels bactériens des pneumopathies atypiques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Chlamydophila pneumoniae est recherchée en PCR multiplex",
+   "Legionella pneumophila est recherchée en PCR multiplex",
+   "Le pneumocoque donne un tableau différent (début brutal)",
+   "Mycoplasma pneumoniae est la seule bactérie atypique respiratoire",
+   "Les virus respiratoires ne sont jamais recherchés"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : Chlamydophila pneumoniae en multiplex.",
+   "Vrai : Legionella pneumophila en multiplex.",
+   "Vrai : tableau brutal du pneumocoque, distinct.",
+   "Faux : Chlamydophila et Legionella sont aussi des bactéries atypiques respiratoires.",
+   "Faux : les virus respiratoires sont inclus dans les PCR multiplex."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la taxonomie des mycoplasmes, lesquelles sont exactes ?",
+  "options": [
+   "Classe : Mollicutes",
+   "Ordre : Mycoplasmatales",
+   "Famille : Mycoplasmataceae",
+   "Genres : Mycoplasma et Ureaplasma",
+   "Classe : Bacilli"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : classe des Mollicutes.",
+   "Vrai : ordre des Mycoplasmatales.",
+   "Vrai : famille des Mycoplasmataceae.",
+   "Vrai : genres Mycoplasma et Ureaplasma.",
+   "Faux : la classe est celle des Mollicutes."
+  ]
+ },
+ {
+  "q": "À propos des espèces du genre Mycoplasma rencontrées chez l'Homme, quelles propositions sont exactes ?",
+  "options": [
+   "Le genre comporte environ 100 espèces",
+   "Treize espèces sont rencontrées chez l'Homme",
+   "M. pneumoniae, M. hominis et M. genitalium en font partie",
+   "M. fermentans et M. penetrans en font partie",
+   "Le genre ne comporte que 3 espèces"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ~100 espèces.",
+   "Vrai : 13 chez l'Homme.",
+   "Vrai : les trois espèces majeures.",
+   "Vrai : M. fermentans et M. penetrans cités.",
+   "Faux : le genre comporte environ 100 espèces."
+  ]
+ },
+ {
+  "q": "Concernant Ureaplasma urealyticum, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il appartient au genre Ureaplasma (6 espèces)",
+   "C'est l'espèce d'Ureaplasma rencontrée chez l'homme",
+   "Il utilise l'urée comme source d'énergie",
+   "Ses colonies sont en oursin",
+   "Il appartient au genre Mycoplasma"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : genre Ureaplasma, 6 espèces.",
+   "Vrai : U. urealyticum rencontrée chez l'homme.",
+   "Vrai : urée = source d'énergie.",
+   "Vrai : colonies en oursin.",
+   "Faux : il appartient au genre Ureaplasma."
+  ]
+ }
+]

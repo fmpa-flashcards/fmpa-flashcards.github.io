@@ -1,0 +1,4434 @@
+[
+ {
+  "q": "Concernant le virus de l'hépatite A, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Il appartient au genre Hepacivirus",
+   "Il appartient à la famille des Hepeviridae",
+   "Il appartient à la famille des Hepadnaviridae",
+   "Il appartient à la famille des Picornaviridae",
+   "Il appartient au genre Hépatovirus"
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : Hepacivirus est le genre du virus de l'hépatite C.",
+   "Faux : les Hepeviridae correspondent au virus de l'hépatite E.",
+   "Faux : les Hepadnaviridae correspondent au virus de l'hépatite B.",
+   "Exact : le VHA est un Picornaviridae.",
+   "Exact : le genre du VHA est Hépatovirus."
+  ]
+ },
+ {
+  "q": "Au sujet de la structure du virus de l'hépatite A, quelles affirmations sont vraies ?",
+  "options": [
+   "C'est un virus enveloppé muni d'une membrane lipidique",
+   "C'est un virus non enveloppé",
+   "Son génome est un ADN double brin circulaire",
+   "Sa capside est icosaédrique",
+   "Sa taille est d'environ 27 nm"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le VHA est non enveloppé.",
+   "Exact : le VHA ne possède pas d'enveloppe.",
+   "Faux : son génome est un ARN, pas un ADN.",
+   "Exact : la capside du VHA a une symétrie icosaédrique.",
+   "Exact : le diamètre du VHA est d'environ 27 nm."
+  ]
+ },
+ {
+  "q": "Parmi les caractéristiques génomiques du virus de l'hépatite A, lesquelles sont exactes ?",
+  "options": [
+   "Le génome est un ARN simple brin linéaire",
+   "Le génome est segmenté en 8 fragments",
+   "Le génome est un ARN double brin",
+   "Le génome est de polarité positive (ARN+)",
+   "Le génome est un ADN monocaténaire"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Exact : génome ARN simple brin linéaire.",
+   "Faux : le génome du VHA n'est pas segmenté (les virus à génome segmenté sont notamment les Orthomyxovirus).",
+   "Faux : le génome est simple brin, non double brin.",
+   "Exact : ARN de polarité positive.",
+   "Faux : ce n'est pas un virus à ADN."
+  ]
+ },
+ {
+  "q": "La résistance physico-chimique du virus de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Il est facilement détruit par la chloration des eaux de boisson",
+   "Il résiste aux doses de chlore utilisées pour la chloration habituelle des eaux de boisson",
+   "Il est très résistant à la chaleur, plus que les entérovirus",
+   "Il est sensible à l'éther à 10 %",
+   "Il résiste à l'éther à 10 %"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : la chloration habituelle ne l'inactive pas, d'où son rôle dans les épidémies hydriques.",
+   "Exact : résiste aux doses habituelles de chlore de l'eau de boisson.",
+   "Exact : très résistant à la chaleur, plus résistant que les entérovirus.",
+   "Faux : il résiste à l'éther à 10 %.",
+   "Exact : résiste à l'éther à 10 %."
+  ]
+ },
+ {
+  "q": "Concernant la multiplication du virus de l'hépatite A en culture cellulaire, quelles propositions sont exactes ?",
+  "options": [
+   "Il ne se multiplie pas sur les cellules en culture",
+   "Sa culture cellulaire n'a pas d'intérêt pratique en routine",
+   "Il se cultive sur œufs embryonnés",
+   "Il forme des plages de lyse facilement observables",
+   "Sa multiplication en culture cellulaire est facile et rapide"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : le cours indique une multiplication sur cellules : non.",
+   "Exact : en pratique, le diagnostic repose sur la sérologie, pas sur la culture.",
+   "Faux : les œufs embryonnés ne sont pas le système de culture du VHA.",
+   "Faux : pas de culture lytique utilisable en routine.",
+   "Faux : il ne se cultive pas en routine sur cellules."
+  ]
+ },
+ {
+  "q": "Le virus de l'hépatite A et les entérovirus : quelles propositions sont exactes ?",
+  "options": [
+   "Le VHA est un sérotype d'entérovirus",
+   "Ils partagent des caractéristiques de structure",
+   "Le VHA est moins résistant à la chaleur que les entérovirus",
+   "Le VHA et les poliovirus appartiennent au même genre",
+   "Le VHA présente une faible homologie génétique avec les entérovirus"
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : le VHA est classé dans le genre Hépatovirus, pas comme un entérovirus.",
+   "Exact : la structure du VHA est celle des entérovirus (Picornaviridae).",
+   "Faux : le VHA est plus résistant à la chaleur que les entérovirus.",
+   "Faux : les poliovirus sont des entérovirus (genre Enterovirus), le VHA est un Hépatovirus.",
+   "Exact : l'homologie génétique avec les entérovirus est faible."
+  ]
+ },
+ {
+  "q": "À propos du virus de l'hépatite E, quelles propositions de classification sont exactes ?",
+  "options": [
+   "Il appartient à la famille des Flaviviridae",
+   "Il appartient à la famille des Picornaviridae",
+   "Il appartient au genre Deltavirus",
+   "Il appartient au genre Hepevirus",
+   "Il appartient à la famille des Hepeviridae"
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les Flaviviridae correspondent au virus de l'hépatite C.",
+   "Faux : les Picornaviridae correspondent au virus de l'hépatite A.",
+   "Faux : Deltavirus est le genre du virus de l'hépatite D.",
+   "Exact : le genre du VHE est Hepevirus.",
+   "Exact : le VHE est un Hepeviridae."
+  ]
+ },
+ {
+  "q": "La structure du virus de l'hépatite E : quelles affirmations sont vraies ?",
+  "options": [
+   "Sa capside est hélicoïdale",
+   "Sa taille est de 55 à 65 nm avec une enveloppe",
+   "C'est un virus non enveloppé",
+   "Sa taille est de 27 à 34 nm",
+   "Sa capside est icosaédrique"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la symétrie de la capside est icosaédrique, non hélicoïdale.",
+   "Faux : 55-65 nm avec enveloppe correspond au virus de l'hépatite C, pas au VHE.",
+   "Exact : le VHE est non enveloppé.",
+   "Exact : diamètre de 27 à 34 nm.",
+   "Exact : capside de symétrie icosaédrique."
+  ]
+ },
+ {
+  "q": "Le génome du virus de l'hépatite E : lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "C'est un ARN simple brin linéaire",
+   "C'est un ARN de polarité positive (ARN+)",
+   "C'est un ARN négatif simple brin",
+   "C'est un ADN circulaire partiellement double brin",
+   "C'est un ARN double brin segmenté"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : génome ARN simple brin linéaire.",
+   "Exact : ARN de polarité positive.",
+   "Faux : la polarité est positive.",
+   "Faux : l'ADN circulaire partiellement double brin est celui du virus de l'hépatite B.",
+   "Faux : ni double brin ni segmenté."
+  ]
+ },
+ {
+  "q": "Concernant la résistance du virus de l'hépatite E, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un virus résistant",
+   "Il supporte mal les cycles de congélation-décongélation",
+   "Il est plus résistant à la chaleur que le virus de l'hépatite A",
+   "Sa multiplication sur cellules est facile",
+   "Il est détruit par la congélation répétée"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : le VHE est un virus résistant.",
+   "Exact : il supporte mal les cycles de congélation-décongélation.",
+   "Faux : c'est le VHA qui est décrit comme très résistant (> entérovirus) ; cette supériorité n'est pas attribuée au VHE.",
+   "Faux : comme le VHA, le VHE ne se multiplie pas sur cellules en culture.",
+   "Exact : formulation équivalente à la précédente, découlant du cours."
+  ]
+ },
+ {
+  "q": "La physiopathologie des hépatites à transmission entérale : quelles propositions sont exactes ?",
+  "options": [
+   "Les virions sont excrétés dans les selles vers le milieu extérieur",
+   "La multiplication virale se fait dans le cytoplasme des hépatocytes",
+   "Les virions sont secrétés dans les canaux biliaires",
+   "La multiplication virale se fait dans le noyau des hépatocytes",
+   "Le virus pénètre à travers la barrière gastro-intestinale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : excrétion dans les selles, source de contamination de l'eau et des aliments.",
+   "Exact : multiplication dans le cytoplasme des hépatocytes.",
+   "Exact : les virions sont secrétés dans les canaux biliaires.",
+   "Faux : la multiplication a lieu dans le cytoplasme, pas dans le noyau.",
+   "Exact : la porte d'entrée est la barrière gastro-intestinale."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution des hépatites A et E vers la chronicité, quelles affirmations sont vraies ?",
+  "options": [
+   "Les formes chroniques du VHE concernent surtout les patients immunodéprimés",
+   "Les greffés et les patients VIH+ sont à risque de chronicité par le VHE",
+   "L'hépatite A n'évolue jamais vers la chronicité",
+   "L'hépatite E peut donner des formes prolongées voire chroniques",
+   "L'hépatite A peut devenir chronique chez le sujet âgé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la chronicité du VHE touche principalement les immunodéprimés.",
+   "Exact : malades greffés et VIH+ sont cités comme à risque.",
+   "Exact : le VHA donne uniquement des hépatites aiguës, jamais chroniques.",
+   "Exact : le VHE peut donner des formes prolongées voire chroniques.",
+   "Faux : même chez le sujet âgé, le VHA n'évolue pas vers la chronicité."
+  ]
+ },
+ {
+  "q": "Sur la définition de l'hépatite, quelles propositions sont exactes ?",
+  "options": [
+   "Elle associe des signes cliniques et biologiques",
+   "L'hépatite virale représente environ 95 % des hépatites",
+   "L'hépatite est une atteinte inflammatoire du foie",
+   "Les hépatites médicamenteuses ou toxiques représentent environ 4 %",
+   "Les hépatites bactériennes représentent environ 20 % des hépatites"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : ensemble de signes cliniques et biologiques.",
+   "Exact : 95 % des hépatites sont virales.",
+   "Exact : atteinte inflammatoire du foie.",
+   "Exact : 4 % sont médicamenteuses ou toxiques.",
+   "Faux : les hépatites bactériennes représentent environ 1 %, pas 20 %."
+  ]
+ },
+ {
+  "q": "L'hépatite virale : quelles propositions sont exactes ?",
+  "options": [
+   "C'est une inflammation du foie liée à la réponse immune",
+   "Les marqueurs biologiques sont identiques pour tous les virus",
+   "L'expression clinique des hépatites virales est voisine quel que soit le virus",
+   "Plusieurs virus différents peuvent donner une hépatite virale",
+   "La réponse immune est secondaire à l'agression virale"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : inflammation du foie liée à la réponse immune.",
+   "Faux : les marqueurs biologiques diffèrent selon les virus.",
+   "Exact : expression clinique voisine.",
+   "Exact : virus A, B, C, D, E, G…",
+   "Exact : réponse immune secondaire à l'agression virale."
+  ]
+ },
+ {
+  "q": "Les virus à transmission entérale et parentérale : quelles propositions sont exactes ?",
+  "options": [
+   "Les virus A et E donnent des hépatites aiguës",
+   "Les virus A et E sont à transmission entérale",
+   "Le virus A peut donner une hépatite chronique",
+   "Les virus B, C et D sont à transmission parentérale et/ou sexuelle et/ou materno-fœtale",
+   "Les virus B, C et D peuvent donner des hépatites chroniques"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : ils donnent des hépatites aiguës.",
+   "Exact : A et E sont à transmission entérale.",
+   "Faux : le VHA n'évolue jamais vers la chronicité.",
+   "Exact : B, C, D : transmission parentérale/sexuelle/materno-fœtale.",
+   "Exact : B, C, D donnent des hépatites aiguës et chroniques."
+  ]
+ },
+ {
+  "q": "Les complications des hépatites chroniques parentérales : quelles propositions sont exactes ?",
+  "options": [
+   "Le virus de l'hépatite E chez l'immunocompétent évolue vers la cirrhose",
+   "Le virus de l'hépatite B peut évoluer vers le carcinome hépatocellulaire",
+   "Le virus de l'hépatite A expose à la cirrhose",
+   "Elles peuvent évoluer vers la cirrhose",
+   "Elles peuvent évoluer vers le carcinome hépatocellulaire"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : chez l'immunocompétent, le VHE donne une hépatite aiguë ; la chronicité concerne les immunodéprimés.",
+   "Exact : le VHB chronique expose au CHC.",
+   "Faux : le VHA ne donne pas de chronicité, donc pas de cirrhose.",
+   "Exact : les hépatites chroniques B, C, D peuvent évoluer vers la cirrhose.",
+   "Exact : risque de carcinome hépatocellulaire (CHC)."
+  ]
+ },
+ {
+  "q": "Concernant le réservoir du virus de l'hépatite A, quelles propositions sont exactes ?",
+  "options": [
+   "Le réservoir est le sujet infecté, malade ou non",
+   "Le VHA est strictement humain",
+   "Il existe un réservoir animal du VHA",
+   "Le porc est le réservoir naturel du VHA",
+   "Les primates non humains sont le réservoir du VHA"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : sujet infecté, malade ou non.",
+   "Exact : le VHA est strictement humain.",
+   "Faux : pas de réservoir animal pour le VHA.",
+   "Faux : le porc est le réservoir naturel du VHE, pas du VHA.",
+   "Faux : le VHA est strictement humain."
+  ]
+ },
+ {
+  "q": "La transmission du virus de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "La transmission est féco-orale, maladie du péril fécal",
+   "Les coquillages et fruits de mer peuvent transmettre le VHA",
+   "La transmission indirecte se fait par des aliments contaminés",
+   "L'eau souillée peut transmettre le VHA",
+   "La transmission est principalement sexuelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : transmission féco-orale = entérale, maladie du péril fécal.",
+   "Exact : coquillages et fruits de mer cités comme aliments à risque.",
+   "Exact : transmission indirecte par aliments contaminés.",
+   "Exact : l'eau souillée est un vecteur classique.",
+   "Faux : la transmission sexuelle n'est pas le mode principal du VHA."
+  ]
+ },
+ {
+  "q": "Concernant la transmission interhumaine directe du VHA, quelles propositions sont exactes ?",
+  "options": [
+   "Elle se fait par les mains sales",
+   "Elle se fait par contact avec les selles",
+   "Elle est plus importante pour le VHE que pour le VHA",
+   "Elle est plus importante pour le VHA que pour le VHE",
+   "Elle n'existe pas pour le VHA"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : mains sales.",
+   "Exact : contact avec les selles.",
+   "Faux : c'est l'inverse, HAV > HEV.",
+   "Exact : HAV > HEV pour la transmission interhumaine directe.",
+   "Faux : elle existe, par mains sales ou contact avec les selles."
+  ]
+ },
+ {
+  "q": "La transmission parentérale du VHA : quelles propositions sont exactes ?",
+  "options": [
+   "Elle est le mode de transmission principal",
+   "Elle est rare",
+   "Elle est fréquente chez les toxicomanes",
+   "La transfusion peut transmettre le VHA",
+   "Elle est possible en période de virémie"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le mode principal est la voie féco-orale.",
+   "Exact : la transmission parentérale du VHA est rare.",
+   "Faux : elle est décrite comme rare, non fréquente.",
+   "Exact : la transfusion est citée comme voie parentérale possible.",
+   "Exact : possible en période de virémie."
+  ]
+ },
+ {
+  "q": "Les fruits et légumes dans la transmission du VHA : quelles propositions sont exactes ?",
+  "options": [
+   "Les fruits cuits sont sans risque",
+   "Les légumes contaminés peuvent transmettre le VHA",
+   "Éplucher les fruits fait partie de la prévention",
+   "Les fruits contaminés peuvent transmettre le VHA",
+   "Seule l'eau transmet le VHA, jamais les aliments solides"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : cette formulation n'est pas dans le cours ; la cuisson des aliments est recommandée, mais « sans risque » est abusif comme énoncé général.",
+   "Exact : les légumes contaminés sont cités.",
+   "Exact : éplucher les fruits est une mesure d'hygiène recommandée.",
+   "Exact : les fruits contaminés sont cités parmi les aliments à risque.",
+   "Faux : les aliments solides contaminés transmettent le VHA."
+  ]
+ },
+ {
+  "q": "La répartition géographique de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "En zone tempérée, les cas sont sporadiques",
+   "Le VHA est endémique dans les pays en voie de développement",
+   "En zone tempérée, la contagiosité est grande",
+   "En zones tropicales et subtropicales, les enfants sont très précocement infectés",
+   "Le VHA est plus fréquent en zone tempérée qu'en zone tropicale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : cas sporadiques en zone tempérée.",
+   "Exact : VHA endémique dans les PEVD, avec des épidémies dans les collectivités.",
+   "Exact : grande contagiosité en zone tempérée.",
+   "Exact : infection très précoce des enfants en zones tropicales/subtropicales.",
+   "Faux : c'est l'inverse, l'endémie est maximale dans les zones tropicales et les PEVD."
+  ]
+ },
+ {
+  "q": "Le Maroc et l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Plus de 95 % des enfants de moins de 15 ans sont immunisés au Maroc",
+   "Le Maroc est une zone de faible endémicité pour le VHA",
+   "L'immunité des enfants marocains s'explique par une infection précoce",
+   "Le Maroc est une zone de forte endémicité pour le VHA",
+   "La vaccination est obligatoire au Maroc contre le VHA"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : plus de 95 % des enfants de moins de 15 ans sont immunisés.",
+   "Faux : c'est une zone de forte endémicité, pas faible.",
+   "Exact : l'infection précoce, souvent asymptomatique, explique cette immunité.",
+   "Exact : le Maroc est une zone de forte endémicité pour le VHA.",
+   "Faux : le cours ne mentionne pas une vaccination obligatoire."
+  ]
+ },
+ {
+  "q": "Les épidémies d'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Elles surviennent dans les collectivités",
+   "L'eau souillée est une source classique d'épidémie",
+   "Elles sont favorisées par de mauvaises conditions d'hygiène",
+   "Les coquillages sont une source classique d'épidémie",
+   "Elles surviennent surtout par transmission sexuelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : épidémies dans les collectivités (PEVD).",
+   "Exact : l'eau souillée est un vecteur épidémique classique.",
+   "Exact : maladie du péril fécal, favorisée par le manque d'hygiène.",
+   "Exact : les coquillages contaminés sont une source classique.",
+   "Faux : la transmission est féco-orale, pas sexuelle."
+  ]
+ },
+ {
+  "q": "Concernant l'incubation de l'hépatite A, quelles propositions sont exactes ?",
+  "options": [
+   "L'incubation est en moyenne de 30 jours",
+   "L'incubation est de 2 à 7 jours",
+   "Les extrêmes d'incubation sont de 15 à 50 jours",
+   "L'incubation est de 6 mois",
+   "L'incubation est en moyenne de 40 jours"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Exact : incubation moyenne de 30 jours.",
+   "Faux : trop courte pour le VHA.",
+   "Exact : extrêmes 15-50 jours.",
+   "Faux : trop longue pour le VHA.",
+   "Faux : 40 jours est l'incubation de l'hépatite E."
+  ]
+ },
+ {
+  "q": "La phase préictérique de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "On observe des manifestations pseudo-grippales",
+   "L'anorexie fait partie du tableau",
+   "Les céphalées et l'asthénie sont possibles",
+   "L'ictère est présent dès le début de cette phase",
+   "La fièvre et les frissons sont fréquents"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : manifestations pseudo-grippales en phase préictérique.",
+   "Exact : anorexie citée.",
+   "Exact : céphalées et asthénie citées.",
+   "Faux : l'ictère apparaît dans la phase ictérique, pas préictérique.",
+   "Exact : fièvre et frissons cités."
+  ]
+ },
+ {
+  "q": "Parmi les signes de la phase préictérique de l'hépatite A, lesquels sont exacts ?",
+  "options": [
+   "Douleurs épigastriques",
+   "Myalgies",
+   "Arthralgies",
+   "Selles décolorées dès le premier jour",
+   "Douleurs de l'hypochondre droit"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : douleurs épigastriques citées.",
+   "Exact : myalgies citées dans la phase préictérique.",
+   "Exact : arthralgies citées.",
+   "Faux : les selles décolorées appartiennent à la phase ictérique.",
+   "Exact : douleurs de l'hypochondre droit citées."
+  ]
+ },
+ {
+  "q": "Les troubles digestifs de la phase préictérique de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Douleurs de l'hypochondre droit",
+   "Constipation opiniâtre isolée",
+   "Douleurs épigastriques",
+   "Vomissements",
+   "Diarrhée"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : douleurs de l'hypochondre droit citées.",
+   "Faux : la constipation n'est pas décrite ; c'est la diarrhée qui est citée.",
+   "Exact : douleurs épigastriques citées.",
+   "Exact : vomissements cités.",
+   "Exact : diarrhée citée."
+  ]
+ },
+ {
+  "q": "L'éruption cutanée de la phase préictérique de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Elle est hémorragique",
+   "Elle est constante et pathognomonique",
+   "Elle précède l'ictère",
+   "Un érythème maculo-papuleux est possible",
+   "Une urticaire est possible"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'éruption décrite est maculo-papuleuse ou urticarienne, pas hémorragique.",
+   "Faux : elle est décrite comme possible, non constante ni pathognomonique.",
+   "Exact : elle survient en phase préictérique, donc avant l'ictère.",
+   "Exact : érythème maculo-papuleux cité.",
+   "Exact : urticaire citée."
+  ]
+ },
+ {
+  "q": "La phase ictérique de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "L'ictère est le signe principal",
+   "Une hépato-splénomégalie (HSMG) est possible",
+   "Les selles peuvent être décolorées",
+   "Les urines sont foncées",
+   "L'ictère est toujours absent chez l'adulte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : ictère en phase ictérique.",
+   "Exact : HSMG possible (+/-).",
+   "Exact : selles décolorées possibles (+/-).",
+   "Exact : urines foncées.",
+   "Faux : chez l'adulte les formes ictériques sont au contraire plus fréquentes."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution de l'hépatite A, quelles propositions sont exactes ?",
+  "options": [
+   "L'évolution vers la cirrhose est fréquente",
+   "La mortalité est nulle quel que soit l'âge",
+   "L'hépatite A guérit sans séquelle hépatique chronique",
+   "La convalescence est prolongée chez l'adulte",
+   "L'évolution est favorable"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : pas de chronicité, donc pas d'évolution vers la cirrhose.",
+   "Faux : la mortalité augmente avec l'âge (jusqu'à 2,1 %).",
+   "Exact : pas de chronicité, donc pas de séquelle hépatique chronique.",
+   "Exact : convalescence prolongée chez l'adulte.",
+   "Exact : évolution favorable."
+  ]
+ },
+ {
+  "q": "La forme anictérique de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Elle est plus fréquente chez l'adulte que chez l'enfant",
+   "Elle évolue vers la chronicité",
+   "Elle est appelée forme pseudogrippale résolutive",
+   "Elle est fréquente chez l'enfant",
+   "Elle s'accompagne d'un ictère franc"
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : c'est l'inverse, les formes ictériques prédominent chez l'adulte.",
+   "Faux : le VHA n'évolue jamais vers la chronicité.",
+   "Exact : la forme anictérique est appelée forme pseudogrippale résolutive.",
+   "Exact : chez l'enfant, les formes sont anictériques ou pseudo-grippales.",
+   "Faux : par définition, pas d'ictère dans la forme anictérique."
+  ]
+ },
+ {
+  "q": "La forme fulminante de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "L'infection par le VHA est d'autant plus symptomatique que l'âge est avancé",
+   "La transplantation hépatique peut être indiquée",
+   "Elle est plus grave chez le sujet âgé",
+   "Elle survient surtout chez le nourrisson",
+   "Elle est bénigne chez le sujet âgé"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : symptomatologie croissante avec l'âge.",
+   "Exact : la transplantation hépatique est le traitement de l'hépatite fulminante.",
+   "Exact : la forme fulminante touche surtout le sujet âgé.",
+   "Faux : chez l'enfant, les formes sont le plus souvent bénignes et anictériques.",
+   "Faux : elle est au contraire grave chez le sujet âgé."
+  ]
+ },
+ {
+  "q": "L'expression clinique de l'hépatite A selon l'âge : quelles propositions sont exactes ?",
+  "options": [
+   "Chez l'adulte, les formes ictériques sont plus fréquentes",
+   "Chez l'enfant, les formes sont anictériques ou pseudo-grippales",
+   "Chez l'enfant de moins de 6 ans, moins de 10 % des formes sont ictériques",
+   "Chez le nourrisson, la forme ictérique est la règle",
+   "Chez l'adulte, les formes sont plus asthéniantes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : adulte : formes ictériques plus fréquentes.",
+   "Exact : enfant : formes anictériques ou pseudo-grippales.",
+   "Exact : moins de 10 % de formes ictériques avant 6 ans.",
+   "Faux : chez le petit enfant, les formes sont majoritairement anictériques.",
+   "Exact : adulte : formes plus asthéniantes."
+  ]
+ },
+ {
+  "q": "Concernant la mortalité de l'hépatite A selon l'âge, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est nulle après 40 ans",
+   "Elle est identique à tout âge",
+   "Elle augmente avec l'âge",
+   "Elle est d'environ 0,1 % chez le jeune enfant",
+   "Elle atteint environ 2,1 % chez le sujet âgé"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : c'est au contraire après 40 ans qu'elle est la plus élevée.",
+   "Faux : elle varie fortement avec l'âge.",
+   "Exact : la mortalité croît avec l'âge.",
+   "Exact : 0,1 % dans le groupe le plus jeune.",
+   "Exact : 2,1 % chez le sujet âgé."
+  ]
+ },
+ {
+  "q": "Un enfant de 4 ans présente une fièvre, des vomissements et une asthénie sans ictère. Quelles propositions sont exactes ?",
+  "options": [
+   "Une sérologie IgM anti-VHA permettrait de confirmer",
+   "Une hépatite A anictérique est possible",
+   "L'absence d'ictère exclut l'hépatite A",
+   "La forme pseudogrippale est fréquente à cet âge",
+   "L'évolution vers la chronicité est à craindre"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : les IgM anti-VHA signent la phase aiguë.",
+   "Exact : à 4 ans, les formes anictériques prédominent.",
+   "Faux : l'hépatite A de l'enfant est le plus souvent anictérique.",
+   "Exact : forme pseudogrippale fréquente chez l'enfant.",
+   "Faux : le VHA n'évolue jamais vers la chronicité."
+  ]
+ },
+ {
+  "q": "Un adulte de 35 ans présente un ictère avec urines foncées et asthénie marquée. Quelles propositions sont exactes ?",
+  "options": [
+   "L'asthénie marquée est classique chez l'adulte",
+   "La convalescence sera probablement prolongée",
+   "Le pronostic vital est engagé dans la majorité des cas",
+   "Une hépatite A est exclue car l'ictère n'existe pas chez l'adulte",
+   "Une hépatite A ictérique est l'hypothèse la plus probable"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : formes ictériques plus asthéniantes chez l'adulte.",
+   "Exact : convalescence prolongée chez l'adulte.",
+   "Faux : l'évolution est favorable dans l'immense majorité des cas.",
+   "Faux : les formes ictériques sont au contraire fréquentes chez l'adulte.",
+   "Exact : 70-80 % des formes sont ictériques entre 15 et 39 ans."
+  ]
+ },
+ {
+  "q": "Parmi les signes suivants, lesquels appartiennent à la phase préictérique de l'hépatite A ?",
+  "options": [
+   "Fièvre",
+   "Céphalées",
+   "Selles décolorées",
+   "Anorexie",
+   "Ictère cutanéo-muqueux"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : la fièvre fait partie des manifestations pseudo-grippales.",
+   "Exact : céphalées citées.",
+   "Faux : les selles décolorées appartiennent à la phase ictérique.",
+   "Exact : anorexie citée.",
+   "Faux : l'ictère définit la phase ictérique."
+  ]
+ },
+ {
+  "q": "Parmi les signes suivants, lesquels appartiennent à la phase ictérique de l'hépatite A ?",
+  "options": [
+   "Ictère",
+   "Urines foncées",
+   "Hépato-splénomégalie",
+   "Selles décolorées",
+   "Érythème maculo-papuleux isolé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : ictère.",
+   "Exact : urines foncées.",
+   "Exact : HSMG possible.",
+   "Exact : selles décolorées possibles.",
+   "Faux : l'éruption maculo-papuleuse appartient à la phase préictérique."
+  ]
+ },
+ {
+  "q": "Concernant la contagiosité de l'hépatite A, quelles propositions sont exactes ?",
+  "options": [
+   "La contagiosité est grande en zone tempérée",
+   "Seuls les sujets ictériques sont contagieux",
+   "La contagiosité cesse dès l'apparition de l'ictère",
+   "Le sujet infecté non malade est contagieux",
+   "Les cas sporadiques n'excluent pas une forte contagiosité"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : grande contagiosité en zone tempérée.",
+   "Faux : le sujet infecté non malade est aussi un réservoir.",
+   "Faux : le cours ne décrit pas une telle limite ; le réservoir inclut les sujets infectés non malades.",
+   "Exact : le réservoir est le sujet infecté, malade ou non.",
+   "Exact : cas sporadiques mais grande contagiosité."
+  ]
+ },
+ {
+  "q": "Les collectivités et l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Des épidémies surviennent dans les collectivités",
+   "Les jeunes des internats sont des sujets à risque",
+   "Le personnel de crèches est exposé au VHA",
+   "Seuls les hôpitaux sont concernés par les épidémies",
+   "Les crèches ne sont jamais concernées"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : épidémies dans les collectivités (PEVD).",
+   "Exact : les jeunes des internats sont des sujets à risque.",
+   "Exact : le personnel de crèches fait partie des sujets à risque vaccinaux.",
+   "Faux : les collectivités en général sont concernées.",
+   "Faux : les crèches sont au contraire citées comme milieu à risque."
+  ]
+ },
+ {
+  "q": "Un voyageur se rend en zone de forte endémie d'hépatite A. Quelles propositions sont exactes ?",
+  "options": [
+   "La protection par immunoglobulines est immédiate",
+   "L'injection d'immunoglobulines standards peut le protéger",
+   "Aucune prévention n'est possible",
+   "La protection par immunoglobulines dure plusieurs années",
+   "Il fait partie des sujets à risque à vacciner"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : protection immédiate (3-5 jours).",
+   "Exact : immunisation passive par Ig standards pour les voyageurs.",
+   "Faux : vaccination et immunoglobulines sont possibles.",
+   "Faux : la protection est de courte durée, environ 3 mois.",
+   "Exact : les voyageurs en zone d'endémie sont des sujets à risque."
+  ]
+ },
+ {
+  "q": "Concernant la gravité de l'hépatite A chez l'adulte, quelles propositions sont exactes ?",
+  "options": [
+   "La mortalité est plus élevée que chez l'enfant",
+   "Les formes sont toujours bénignes et brèves",
+   "La convalescence est prolongée",
+   "L'asthénie est marquée",
+   "Les formes ictériques sont fréquentes (70-80 % entre 15 et 39 ans)"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : la mortalité augmente avec l'âge.",
+   "Faux : la convalescence est prolongée, pas brève.",
+   "Exact : convalescence prolongée chez l'adulte.",
+   "Exact : formes ictériques plus asthéniantes chez l'adulte.",
+   "Exact : 70-80 % de formes ictériques entre 15 et 39 ans."
+  ]
+ },
+ {
+  "q": "La douleur de l'hypochondre droit dans l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Elle est spécifique de l'hépatite A",
+   "Elle traduit l'atteinte hépatique inflammatoire",
+   "Elle appartient à la phase préictérique",
+   "Elle n'existe que dans les formes fulminantes",
+   "Elle s'accompagne de troubles digestifs"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : elle n'est pas spécifique, commune aux hépatites.",
+   "Exact : l'hépatite est une atteinte inflammatoire du foie.",
+   "Exact : douleurs de l'hypochondre droit en phase préictérique.",
+   "Faux : elle est décrite dans la forme classique, pas seulement fulminante.",
+   "Exact : associées aux troubles digestifs (vomissements, diarrhée)."
+  ]
+ },
+ {
+  "q": "Parmi les diagnostics différentiels d'une hépatite A ictérique, lesquels sont des hépatites virales ?",
+  "options": [
+   "L'hépatite B",
+   "L'hépatite E",
+   "L'angiocholite",
+   "L'hépatite médicamenteuse",
+   "L'hépatite C"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : le VHB peut donner une hépatite aiguë ictérique.",
+   "Exact : le VHE donne un tableau ictérique voisin.",
+   "Faux : l'angiocholite n'est pas une hépatite virale.",
+   "Faux : l'hépatite médicamenteuse n'est pas virale (4 % des hépatites).",
+   "Exact : le VHC peut donner une hépatite aiguë."
+  ]
+ },
+ {
+  "q": "Concernant les marqueurs biologiques des hépatites virales, quelles propositions sont exactes ?",
+  "options": [
+   "Les marqueurs sont identiques pour les virus A et E",
+   "Le diagnostic repose uniquement sur la clinique",
+   "Les marqueurs biologiques diffèrent selon le virus",
+   "L'expression clinique des hépatites virales est voisine",
+   "Les IgM anti-VHA signent une infection aiguë"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les marqueurs diffèrent (IgM anti-VHA vs IgM anti-VHE/ARN).",
+   "Faux : le diagnostic virologique repose sur les marqueurs.",
+   "Exact : marqueurs biologiques différents selon les virus.",
+   "Exact : expression clinique voisine quel que soit le virus.",
+   "Exact : les IgM anti-VHA sont le marqueur de la phase aiguë."
+  ]
+ },
+ {
+  "q": "Un patient présente une hépatite aiguë après consommation de coquillages. Quelles propositions sont exactes ?",
+  "options": [
+   "Le VHE est une hypothèse diagnostique",
+   "La transmission est féco-orale",
+   "Le VHA est une hypothèse diagnostique",
+   "Le VHB est l'hypothèse la plus probable",
+   "Les coquillages sont un aliment à risque pour les hépatites entérales"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les coquillages contaminés transmettent le VHE.",
+   "Faux : la transmission est féco-orale, pas hydrique exclusive.",
+   "Exact : les coquillages contaminés transmettent le VHA.",
+   "Faux : le VHB est à transmission parentérale/sexuelle.",
+   "Exact : coquillages cités parmi les aliments contaminés."
+  ]
+ },
+ {
+  "q": "Concernant la durée d'incubation comparée des hépatites entérales, quelles propositions sont exactes ?",
+  "options": [
+   "Les deux virus ont exactement la même incubation",
+   "L'incubation de l'hépatite A est de 15 à 50 jours (extrêmes)",
+   "L'incubation de l'hépatite A est plus courte que celle de l'hépatite E",
+   "L'incubation de l'hépatite A est en moyenne de 30 jours",
+   "L'incubation de l'hépatite E est d'environ 40 jours"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les incubations diffèrent (30 vs 40 jours).",
+   "Exact : extrêmes 15-50 jours pour le VHA.",
+   "Exact : 30 jours < 40 jours.",
+   "Exact : 30 jours en moyenne pour le VHA.",
+   "Exact : 40 jours pour le VHE."
+  ]
+ },
+ {
+  "q": "La notion de maladie du péril fécal : quelles propositions sont exactes ?",
+  "options": [
+   "Elle implique la contamination de l'eau et des aliments par les selles",
+   "Elle s'applique à l'hépatite E",
+   "Elle s'applique à l'hépatite A",
+   "Elle s'applique à l'hépatite B",
+   "Elle désigne la transmission féco-orale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : contamination de l'eau et des aliments.",
+   "Exact : le VHE est une maladie du péril fécal.",
+   "Exact : le VHA est une maladie du péril fécal.",
+   "Faux : le VHB est à transmission parentérale/sexuelle.",
+   "Exact : péril fécal = transmission féco-orale."
+  ]
+ },
+ {
+  "q": "Concernant la virémie dans l'hépatite A, quelles propositions sont exactes ?",
+  "options": [
+   "Le VHA se transmet principalement par le sang",
+   "La transmission parentérale est possible en période de virémie",
+   "Une virémie existe au cours de l'infection",
+   "La virémie est permanente",
+   "La transfusion sanguine peut transmettre le VHA"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : le mode principal est la voie féco-orale.",
+   "Exact : possible en période de virémie.",
+   "Exact : la transmission parentérale est possible en période de virémie.",
+   "Faux : la virémie est transitoire (période de virémie).",
+   "Exact : la transfusion est citée."
+  ]
+ },
+ {
+  "q": "La forme ictérique classique de l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "L'incubation est d'environ 40 jours",
+   "L'anorexie, les nausées et vomissements sont fréquents",
+   "On observe des urines foncées et des selles +/- décolorées",
+   "L'ictère est fréquemment associé à un malaise",
+   "L'incubation est de 30 jours en moyenne"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : incubation de 40 jours pour le VHE.",
+   "Exact : anorexie, nausées, vomissements cités.",
+   "Exact : urines foncées et selles +/- décolorées.",
+   "Exact : ictère fréquemment associé à un malaise.",
+   "Faux : 30 jours est l'incubation de l'hépatite A."
+  ]
+ },
+ {
+  "q": "La biologie de l'hépatite E ictérique : quelles propositions sont exactes ?",
+  "options": [
+   "On observe une cytolyse",
+   "On observe une pancytopénie",
+   "On observe une cholestase",
+   "Les transaminases sont élevées",
+   "La biologie est strictement normale"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : cytolyse citée.",
+   "Faux : pas de pancytopénie décrite.",
+   "Exact : cholestase citée dans la biologie de l'hépatite E.",
+   "Exact : la cytolyse correspond à l'élévation des transaminases.",
+   "Faux : la biologie montre cholestase et cytolyse."
+  ]
+ },
+ {
+  "q": "La forme anictérique de l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "Elle est grave chez la femme enceinte",
+   "Elle s'accompagne d'un ictère franc",
+   "Elle ressemble à la forme anictérique de l'hépatite A",
+   "Elle évolue toujours vers la chronicité",
+   "Elle est appelée forme pseudogrippale résolutive"
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : la gravité chez la femme enceinte concerne les formes fulminantes.",
+   "Faux : par définition, pas d'ictère.",
+   "Exact : même dénomination que pour le VHA.",
+   "Faux : la chronicité concerne les immunodéprimés, pas toutes les formes.",
+   "Exact : forme pseudogrippale résolutive."
+  ]
+ },
+ {
+  "q": "L'hépatite E chez la femme enceinte : quelles propositions sont exactes ?",
+  "options": [
+   "Elle est bénigne pendant la grossesse",
+   "Elle est particulièrement grave au 3ème trimestre",
+   "Le 1er trimestre est la période la plus grave",
+   "Le 3ème trimestre est la période la plus à risque",
+   "Les formes mortelles surviennent dans 20 à 50 % des cas"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elle est au contraire particulièrement grave.",
+   "Exact : particulièrement grave au 3ème trimestre.",
+   "Faux : c'est le 3ème trimestre, pas le 1er.",
+   "Exact : le 3ème trimestre est la période citée.",
+   "Exact : formes mortelles dans 20-50 % des cas."
+  ]
+ },
+ {
+  "q": "Les formes fulminantes de l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "La femme enceinte au 3ème trimestre est à risque de forme mortelle",
+   "La transplantation hépatique est le traitement des formes fulminantes",
+   "L'infection est d'autant plus symptomatique que l'âge est avancé",
+   "Elles sont fréquentes chez l'enfant",
+   "Le sujet âgé est plus à risque"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : femme enceinte, 3ème trimestre, formes mortelles 20-50 %.",
+   "Exact : la transplantation hépatique est indiquée dans l'hépatite fulminante.",
+   "Exact : symptomatologie croissante avec l'âge.",
+   "Faux : les formes graves concernent le sujet âgé et la femme enceinte.",
+   "Exact : formes fulminantes chez le sujet âgé."
+  ]
+ },
+ {
+  "q": "Une femme enceinte au 3ème trimestre présente un ictère fébrile après un voyage en Inde. Quelles propositions sont exactes ?",
+  "options": [
+   "L'hépatite E est l'hypothèse à évoquer en priorité",
+   "Le pronostic peut être grave (mortalité 20-50 %)",
+   "Le tableau est rassurant car l'hépatite E est bénigne enceinte",
+   "L'hépatite A est l'hypothèse la plus grave ici",
+   "L'Inde est une zone d'endémie du VHE"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : tableau évocateur d'hépatite E chez une femme enceinte.",
+   "Exact : formes mortelles dans 20-50 % des cas au 3ème trimestre.",
+   "Faux : l'hépatite E est particulièrement grave au 3ème trimestre.",
+   "Faux : c'est l'hépatite E qui est particulièrement grave enceinte.",
+   "Exact : le VHE est endémique en Asie (Chine, Inde)."
+  ]
+ },
+ {
+  "q": "Concernant les génotypes du virus de l'hépatite E, quelles propositions sont exactes ?",
+  "options": [
+   "Les génotypes 1 et 2 sont strictement humains",
+   "Il n'existe qu'un seul génotype",
+   "Les 4 génotypes sont strictement humains",
+   "Les génotypes 3 et 4 sont humains et animaux",
+   "Il existe 4 génotypes"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : génotypes 1 et 2 strictement humains.",
+   "Faux : il existe 4 génotypes.",
+   "Faux : les génotypes 3 et 4 ont aussi un réservoir animal.",
+   "Exact : génotypes 3 et 4 humains et animaux.",
+   "Exact : 4 génotypes décrits."
+  ]
+ },
+ {
+  "q": "Le réservoir animal du virus de l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "Le porc est un réservoir naturel",
+   "D'autres animaux sont des hôtes occasionnels",
+   "Le VHA a aussi un réservoir animal",
+   "Le VHE est le seul virus hépatotrope avec un risque de transmission directe de l'animal à l'homme",
+   "Le sanglier est un réservoir naturel"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : le porc est un réservoir naturel.",
+   "Exact : autres animaux = hôtes occasionnels.",
+   "Faux : le VHA est strictement humain.",
+   "Exact : seul virus hépatotrope avec risque de transmission directe animal→homme.",
+   "Exact : le sanglier est un réservoir naturel."
+  ]
+ },
+ {
+  "q": "La transmission zoonotique du VHE : quelles propositions sont exactes ?",
+  "options": [
+   "Les génotypes 3 et 4 sont impliqués dans la transmission zoonotique",
+   "Le VHE est le seul virus hépatotrope à réservoir animal",
+   "La transmission zoonotique n'existe pas pour le VHE",
+   "Une transmission du porc à l'homme est possible",
+   "Les génotypes 1 et 2 sont zoonotiques"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : les génotypes 3 et 4 sont humains et animaux.",
+   "Exact : seul virus hépatotrope avec un réservoir animal.",
+   "Faux : la transmission zoonotique est décrite.",
+   "Exact : possibilité de transmission de virus animaux (porc) à l'homme.",
+   "Faux : les génotypes 1 et 2 sont strictement humains."
+  ]
+ },
+ {
+  "q": "La transmission féco-orale du VHE : quelles propositions sont exactes ?",
+  "options": [
+   "La transmission indirecte se fait par des aliments contaminés",
+   "Les coquillages, fruits de mer, fruits, légumes et l'eau souillée sont des vecteurs",
+   "La transmission interhumaine directe est plus importante que pour le VHA",
+   "La transmission interhumaine directe est peu importante",
+   "C'est une maladie du péril fécal"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : transmission indirecte par aliments contaminés.",
+   "Exact : mêmes vecteurs alimentaires que pour le VHA.",
+   "Faux : c'est l'inverse, HAV > HEV pour l'interhumain direct.",
+   "Exact : transmission interhumaine directe peu importante pour le VHE.",
+   "Exact : le VHE est une maladie du péril fécal."
+  ]
+ },
+ {
+  "q": "Les voies de transmission du VHE : quelles propositions sont exactes ?",
+  "options": [
+   "La voie féco-orale est la voie principale",
+   "Une transmission verticale est possible (+/-)",
+   "La transmission parentérale est rare, possible en période de virémie",
+   "La transfusion peut transmettre le VHE",
+   "La transmission est exclusivement sexuelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : transmission féco-orale = entérale.",
+   "Exact : transmission verticale +/-.",
+   "Exact : parentérale rare, en période de virémie.",
+   "Exact : la transfusion est citée.",
+   "Faux : la transmission est féco-orale, pas sexuelle."
+  ]
+ },
+ {
+  "q": "La transmission verticale du VHE : quelles propositions sont exactes ?",
+  "options": [
+   "Elle est constante et systématique",
+   "Elle est le mode principal de transmission",
+   "Elle est possible (+/-)",
+   "Elle n'existe pas pour le VHA selon le cours",
+   "Elle est bien documentée comme fréquente"
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : elle est notée +/-, donc ni constante ni systématique.",
+   "Faux : le mode principal est la voie féco-orale.",
+   "Exact : transmission verticale +/- pour le VHE.",
+   "Exact : le cours ne décrit pas de transmission verticale pour le VHA.",
+   "Faux : elle est notée +/-, incertaine, pas fréquente."
+  ]
+ },
+ {
+  "q": "La répartition géographique de l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "Le VHE est endémique en Asie (Chine, Inde)",
+   "Le VHE est endémique en Amérique centrale et du sud",
+   "Le VHE est moins fréquent que le VHA",
+   "Le VHE est endémique en Europe du nord",
+   "Le VHE est endémique en Afrique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : endémique en Asie (Chine, Inde).",
+   "Exact : endémique en Amérique centrale et du sud.",
+   "Exact : le VHE est moins fréquent.",
+   "Faux : l'Europe du nord n'est pas citée comme zone d'endémie.",
+   "Exact : endémique en Afrique."
+  ]
+ },
+ {
+  "q": "Concernant la prévalence mondiale du VHE, quelles propositions sont exactes ?",
+  "options": [
+   "Un tiers de la population mondiale est contaminée par le VHE",
+   "Le VHE est moins fréquent que le VHA",
+   "Toute la population mondiale est contaminée",
+   "Le VHE n'existe qu'en Asie",
+   "Le VHE est endémique dans certaines régions d'Asie"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : 1/3 de la population mondiale contaminée par le VHE.",
+   "Exact : le VHE est moins fréquent.",
+   "Faux : c'est un tiers, pas la totalité.",
+   "Faux : aussi en Afrique, Amérique centrale et du sud.",
+   "Exact : endémique dans certaines régions d'Asie (Chine, Inde)."
+  ]
+ },
+ {
+  "q": "Un patient greffé rénal présente une cytolyse persistante. Quelles propositions sont exactes ?",
+  "options": [
+   "Les immunodéprimés sont à risque de chronicité par le VHE",
+   "Une hépatite E chronique est à évoquer",
+   "Le diagnostic repose sur la RT-PCR (ARN du VHE)",
+   "L'hépatite A chronique est l'hypothèse principale",
+   "Un traitement par ribavirine peut être envisagé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les immunodéprimés sont à risque de chronicité.",
+   "Exact : formes prolongées voire chroniques chez les greffés.",
+   "Exact : la RT-PCR détecte l'ARN du VHE.",
+   "Faux : le VHA n'évolue jamais vers la chronicité.",
+   "Exact : l'hépatite E chronique se traite par interféron-α pégylé ou ribavirine."
+  ]
+ },
+ {
+  "q": "L'hépatite E chronique : quelles propositions sont exactes ?",
+  "options": [
+   "Elle survient chez tous les patients infectés",
+   "Les malades greffés sont concernés",
+   "Les patients VIH+ sont concernés",
+   "Elle survient principalement chez les immunodéprimés",
+   "Elle expose à un risque de cirrhose"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elle ne concerne que les immunodéprimés, pas tous les infectés.",
+   "Exact : malades greffés cités.",
+   "Exact : VIH+ cités.",
+   "Exact : formes chroniques chez les patients immunodéprimés.",
+   "Exact : risque de cirrhose dans ces formes chroniques."
+  ]
+ },
+ {
+  "q": "Comparaison des tableaux cliniques des hépatites A et E : quelles propositions sont exactes ?",
+  "options": [
+   "Les deux ont une forme anictérique dite pseudogrippale résolutive",
+   "Le VHE est plus grave chez la femme enceinte au 3ème trimestre",
+   "Les deux donnent des tableaux ictériques voisins",
+   "L'incubation est de 30 jours pour le VHA et 40 jours pour le VHE",
+   "Les deux virus évoluent vers la chronicité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : forme anictérique pseudogrippale résolutive pour les deux.",
+   "Exact : gravité particulière du VHE au 3ème trimestre.",
+   "Exact : expression clinique voisine.",
+   "Exact : 30 jours (VHA) vs 40 jours (VHE).",
+   "Faux : seul le VHE peut devenir chronique, jamais le VHA."
+  ]
+ },
+ {
+  "q": "Un patient présente un ictère avec cholestase et cytolyse. Quelles propositions sont exactes ?",
+  "options": [
+   "L'hépatite E est une hypothèse diagnostique",
+   "La cholestase exclut une hépatite virale",
+   "La biologie associe cholestase et cytolyse dans l'hépatite E",
+   "L'hépatite A est une hypothèse diagnostique",
+   "Le diagnostic d'hépatite E aiguë repose sur la RT-PCR et l'élévation des transaminases"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : le VHE donne ictère + cholestase + cytolyse.",
+   "Faux : la cholestase fait partie du tableau de l'hépatite E.",
+   "Exact : cholestase et cytolyse citées pour le VHE.",
+   "Exact : le VHA donne aussi un tableau ictérique.",
+   "Exact : RT-PCR positive + élévation des transaminases = diagnostic de certitude."
+  ]
+ },
+ {
+  "q": "Concernant la gravité comparée selon l'âge, quelles propositions sont exactes ?",
+  "options": [
+   "Les formes fulminantes touchent surtout le sujet âgé pour les deux virus",
+   "L'infection par le VHE est d'autant plus symptomatique que l'âge est avancé",
+   "L'âge n'influence pas la symptomatologie",
+   "L'infection par le VHA est d'autant plus symptomatique que l'âge est avancé",
+   "Les enfants font les formes les plus graves"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : formes fulminantes chez le sujet âgé pour A et E.",
+   "Exact : VHE plus symptomatique avec l'âge.",
+   "Faux : l'âge influence nettement l'expression clinique.",
+   "Exact : VHA plus symptomatique avec l'âge.",
+   "Faux : chez l'enfant, les formes sont le plus souvent bénignes."
+  ]
+ },
+ {
+  "q": "Les aliments à risque pour l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "La viande de porc insuffisamment cuite",
+   "Les fruits de mer contaminés",
+   "Les coquillages contaminés",
+   "Les fruits et légumes contaminés",
+   "L'eau souillée"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le cours cite le porc comme réservoir mais ne mentionne pas la viande insuffisamment cuite comme vecteur.",
+   "Exact : fruits de mer cités.",
+   "Exact : coquillages cités.",
+   "Exact : fruits et légumes cités.",
+   "Exact : eau souillée citée."
+  ]
+ },
+ {
+  "q": "Un cas groupé d'ictères après un repas de fruits de mer. Quelles propositions sont exactes ?",
+  "options": [
+   "Une hépatite B est l'hypothèse principale",
+   "Une hépatite E est possible",
+   "Une hépatite A est possible",
+   "Le délai d'incubation est compatible avec 30 à 40 jours",
+   "Les fruits de mer sont un vecteur des hépatites entérales"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le VHB est à transmission parentérale/sexuelle.",
+   "Exact : les fruits de mer transmettent le VHE.",
+   "Exact : les fruits de mer transmettent le VHA.",
+   "Exact : incubation 30 jours (VHA) à 40 jours (VHE).",
+   "Exact : fruits de mer cités comme aliments contaminés."
+  ]
+ },
+ {
+  "q": "Concernant la transmission interhumaine des hépatites entérales, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est le mode principal pour les deux virus",
+   "Elle est plus importante pour le VHA que pour le VHE",
+   "Elle n'existe pour aucun des deux virus",
+   "Pour le VHA, elle se fait par les mains sales ou le contact avec les selles",
+   "Pour le VHE, elle est peu importante"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le mode principal est la voie féco-orale indirecte (aliments, eau).",
+   "Exact : HAV > HEV.",
+   "Faux : elle existe, surtout pour le VHA.",
+   "Exact : mains sales ou contact avec les selles pour le VHA.",
+   "Exact : peu importante pour le VHE."
+  ]
+ },
+ {
+  "q": "La contagiosité du VHE par rapport au VHA : quelles propositions sont exactes ?",
+  "options": [
+   "Les deux virus sont à transmission féco-orale",
+   "Le VHE est plus contagieux que le VHA en zone tempérée",
+   "Le VHE est moins fréquent que le VHA",
+   "La transmission interhumaine directe est moins importante pour le VHE",
+   "Le VHA est strictement humain contrairement au VHE"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : les deux sont à transmission féco-orale.",
+   "Faux : c'est le VHA qui a une grande contagiosité en zone tempérée.",
+   "Exact : le VHE est moins fréquent.",
+   "Exact : interhumain direct peu important pour le VHE (HAV > HEV).",
+   "Exact : VHA strictement humain ; VHE avec réservoir animal."
+  ]
+ },
+ {
+  "q": "Un éleveur de porcs présente une hépatite aiguë. Quelles propositions sont exactes ?",
+  "options": [
+   "Le VHA a un réservoir porcin",
+   "L'hépatite E est une hypothèse à évoquer",
+   "Le porc est un réservoir naturel du VHE",
+   "Une transmission zoonotique est possible",
+   "L'hépatite A est liée au contact avec les porcs"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : pas de réservoir porcin pour le VHA.",
+   "Exact : exposition professionnelle aux porcs, réservoir du VHE.",
+   "Exact : le porc est un réservoir naturel du VHE.",
+   "Exact : transmission directe de l'animal à l'homme possible.",
+   "Faux : le VHA est strictement humain, sans réservoir animal."
+  ]
+ },
+ {
+  "q": "Concernant les voyageurs et l'hépatite E, quelles propositions sont exactes ?",
+  "options": [
+   "L'immunisation passive par immunoglobulines est inefficace contre le VHE",
+   "Les mesures d'hygiène sont la principale prévention",
+   "L'injection d'immunoglobulines protège contre le VHE",
+   "Les zones d'endémie sont l'Asie, l'Afrique, l'Amérique centrale et du sud",
+   "Le vaccin contre le VHE est en cours d'étude"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : l'immunisation passive s'est révélée inefficace pour le VHE.",
+   "Exact : les mesures d'hygiène universelle sont la base de la prévention.",
+   "Faux : inefficace pour le VHE.",
+   "Exact : zones d'endémie citées.",
+   "Exact : vaccin recombinant en cours d'étude."
+  ]
+ },
+ {
+  "q": "Les prélèvements pour le diagnostic de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Le sang total est un prélèvement possible",
+   "Le tube sec est utilisé pour le diagnostic indirect (sérologie)",
+   "La biopsie hépatique est un prélèvement possible",
+   "Le tube EDTA est utilisé pour la sérologie",
+   "Les selles sont un prélèvement possible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : sang total cité.",
+   "Exact : tube sec pour le diagnostic indirect (sérologie).",
+   "Exact : biopsie hépatique citée.",
+   "Faux : le tube EDTA est pour la biologie moléculaire, pas la sérologie.",
+   "Exact : selles citées."
+  ]
+ },
+ {
+  "q": "Le tube EDTA dans le diagnostic de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Il permet la recherche du génome viral par PCR",
+   "Il est utilisé pour la numération formule sanguine uniquement",
+   "Il ne sert à rien dans l'hépatite A",
+   "Il est utilisé pour la biologie moléculaire",
+   "Il est utilisé pour la sérologie"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Exact : recherche du génome par PCR.",
+   "Faux : dans ce contexte, il sert à la biologie moléculaire.",
+   "Faux : il sert à la recherche du génome viral.",
+   "Exact : tube EDTA = biologie moléculaire.",
+   "Faux : la sérologie se fait sur tube sec."
+  ]
+ },
+ {
+  "q": "Le diagnostic direct de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "La détection des antigènes par ELISA est possible",
+   "Le diagnostic direct est l'examen de référence en routine",
+   "La sérologie est inutile",
+   "La détection du génome par PCR est possible",
+   "En pratique courante, cette recherche est sans intérêt"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : détection des Ag par ELISA possible.",
+   "Faux : le diagnostic repose en routine sur la sérologie (diagnostic indirect).",
+   "Faux : la sérologie (IgM) est l'examen de référence.",
+   "Exact : détection du génome par PCR possible.",
+   "Exact : en pratique courante, cette recherche est sans intérêt."
+  ]
+ },
+ {
+  "q": "Le diagnostic indirect de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Il repose sur la détection sérologique par ELISA",
+   "Il repose sur la RT-PCR",
+   "Il repose sur la culture virale",
+   "Les IgM anti-VHA sont le marqueur principal",
+   "Il se fait sur tube sec"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : diagnostic indirect = détection sérologique par ELISA.",
+   "Faux : la PCR est un diagnostic direct, sans intérêt en pratique courante.",
+   "Faux : le VHA ne se cultive pas en routine.",
+   "Exact : IgM +++++, marqueur de la phase aiguë.",
+   "Exact : tube sec pour le diagnostic indirect."
+  ]
+ },
+ {
+  "q": "Interprétation de la sérologie VHA : IgM négatives, IgG négatives. Quelles propositions sont exactes ?",
+  "options": [
+   "Le sujet est non immunisé",
+   "Le sujet est immunisé",
+   "Le sujet est en phase aiguë",
+   "Le sujet n'a jamais été infecté",
+   "Le sujet est contagieux"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Exact : -/- = sujet non immunisé.",
+   "Faux : l'immunité correspond à des IgG positives.",
+   "Faux : la phase aiguë donne des IgM positives.",
+   "Exact : absence d'anticorps = pas d'infection antérieure.",
+   "Faux : pas d'infection, donc pas de contagiosité."
+  ]
+ },
+ {
+  "q": "Interprétation de la sérologie VHA : IgM positives, IgG positives. Quelles propositions sont exactes ?",
+  "options": [
+   "Le sujet est guéri et immunisé",
+   "Le sujet est en phase aiguë",
+   "Les IgM signent toujours une infection ancienne",
+   "Le sujet n'a jamais été infecté",
+   "Le sujet est infectieux"
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : la guérison correspond à IgM-/IgG+.",
+   "Exact : +/+ = phase aiguë.",
+   "Faux : les IgM signent l'infection récente/aiguë.",
+   "Faux : la présence d'anticorps prouve l'infection.",
+   "Exact : +/+ = sujet infectieux."
+  ]
+ },
+ {
+  "q": "Interprétation de la sérologie VHA : IgM négatives, IgG positives. Quelles propositions sont exactes ?",
+  "options": [
+   "Le sujet est immunisé",
+   "Le sujet est contagieux",
+   "Le sujet est en phase de guérison",
+   "Le sujet est en phase aiguë",
+   "Le sujet doit être vacciné en urgence"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Exact : -/+ = sujet immunisé.",
+   "Faux : le sujet guéri immunisé n'est plus infectieux.",
+   "Exact : -/+ = phase de guérison.",
+   "Faux : la phase aiguë donne des IgM positives.",
+   "Faux : le sujet est déjà immunisé, pas d'indication vaccinale."
+  ]
+ },
+ {
+  "q": "Un patient ictérique a des IgM anti-VHA positives. Quelles propositions sont exactes ?",
+  "options": [
+   "Le diagnostic d'hépatite A aiguë est posé",
+   "Les IgM positives signent une infection ancienne guérie",
+   "Il faut rechercher le génome par PCR pour confirmer",
+   "Les IgM sont détectées par ELISA",
+   "Le patient est contagieux"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : les IgM anti-VHA signent la phase aiguë.",
+   "Faux : les IgM signent l'infection aiguë, pas ancienne.",
+   "Faux : la PCR est sans intérêt en pratique courante ; les IgM suffisent.",
+   "Exact : détection sérologique par ELISA.",
+   "Exact : phase aiguë = sujet infectieux."
+  ]
+ },
+ {
+  "q": "Concernant les IgG anti-VHA, quelles propositions sont exactes ?",
+  "options": [
+   "Elles apparaissent en phase aiguë avec les IgM",
+   "Elles disparaissent en quelques semaines",
+   "Elles n'ont aucun intérêt diagnostique",
+   "Elles persistent après la guérison",
+   "Elles signent l'immunité"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : le tableau montre +/+ en phase aiguë.",
+   "Faux : les IgG persistent durablement.",
+   "Faux : elles permettent de distinguer guérison et phase aiguë.",
+   "Exact : les IgG persistent après guérison.",
+   "Exact : IgM-/IgG+ = sujet immunisé."
+  ]
+ },
+ {
+  "q": "La cinétique des anticorps dans l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Les IgM persistent toute la vie",
+   "Les IgG persistent après la guérison",
+   "Les IgM apparaissent en premier",
+   "Les IgG précèdent les IgM",
+   "Les IgM signent la phase aiguë"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : ce sont les IgG qui persistent, pas les IgM.",
+   "Exact : IgG = immunité durable.",
+   "Exact : les IgM sont le marqueur précoce.",
+   "Faux : les IgM précèdent les IgG.",
+   "Exact : IgM = phase aiguë."
+  ]
+ },
+ {
+  "q": "Un sujet vacciné contre l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Il développera des IgG anti-VHA",
+   "Ses IgM anti-VHA seront négatives",
+   "Il développera des IgM anti-VHA positives",
+   "Il est protégé contre l'infection",
+   "La vaccination ne donne aucune immunité"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : le vaccin inactivé induit des IgG protectrices.",
+   "Exact : pas d'IgM en l'absence d'infection aiguë.",
+   "Faux : les IgM signent l'infection aiguë, pas la vaccination.",
+   "Exact : le vaccin est très efficace.",
+   "Faux : le vaccin est très efficace."
+  ]
+ },
+ {
+  "q": "Le diagnostic différentiel sérologique des hépatites entérales : quelles propositions sont exactes ?",
+  "options": [
+   "L'ARN du VHE signe l'hépatite E aiguë",
+   "Les IgM anti-VHA signent l'hépatite A aiguë",
+   "Les IgM anti-VHE signent l'hépatite E aiguë",
+   "La sérologie ne distingue pas les virus A et E",
+   "Les IgM anti-VHA et anti-VHE sont interchangeables"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : ARN du VHE positif = hépatite E aiguë.",
+   "Exact : IgM anti-VHA = phase aiguë du VHA.",
+   "Exact : IgM anti-VHE = hépatite E aiguë (critère de Dalton).",
+   "Faux : les marqueurs sont spécifiques de chaque virus.",
+   "Faux : chaque sérologie est spécifique de son virus."
+  ]
+ },
+ {
+  "q": "Concernant la recherche du virus dans les selles, quelles propositions sont exactes ?",
+  "options": [
+   "La recherche dans les selles est l'examen de référence en routine",
+   "Les selles ne contiennent jamais le virus",
+   "Le génome du VHA peut être recherché par PCR dans les selles",
+   "Le virus est excrété dans les selles",
+   "Les selles sont un prélèvement possible pour le diagnostic"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : en routine, c'est la sérologie IgM qui est la référence.",
+   "Faux : le virus est excrété dans les selles.",
+   "Exact : détection du génome par PCR possible.",
+   "Exact : les virions sont excrétés dans les selles.",
+   "Exact : les selles sont un prélèvement cité."
+  ]
+ },
+ {
+  "q": "La biopsie hépatique dans les hépatites entérales : quelles propositions sont exactes ?",
+  "options": [
+   "Elle est systématique en routine",
+   "La recherche d'Ag HEV peut s'y faire par IF ou ELISA",
+   "Elle remplace la sérologie",
+   "C'est un prélèvement cité pour le diagnostic virologique",
+   "Elle est indispensable au diagnostic d'hépatite A"
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : le diagnostic repose en routine sur la sérologie.",
+   "Exact : recherche d'Ag HEV sur biopsie par IF ou ELISA.",
+   "Faux : la sérologie reste l'examen de référence.",
+   "Exact : biopsie hépatique citée parmi les prélèvements.",
+   "Faux : les IgM anti-VHA suffisent."
+  ]
+ },
+ {
+  "q": "Un patient guéri d'une hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Ses IgM anti-VHA sont négatives",
+   "Ses IgG anti-VHA sont positives",
+   "Il est immunisé",
+   "Il peut refaire une hépatite A",
+   "Il reste contagieux à vie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les IgM disparaissent après la phase aiguë.",
+   "Exact : les IgG persistent.",
+   "Exact : IgM-/IgG+ = sujet immunisé.",
+   "Faux : l'immunité acquise protège.",
+   "Faux : le sujet guéri n'est plus infectieux."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic de l'hépatite A en pratique courante, quelles propositions sont exactes ?",
+  "options": [
+   "La sérologie IgM anti-VHA est l'examen de référence",
+   "La recherche du génome par PCR est sans intérêt en routine",
+   "La détection des antigènes est sans intérêt en routine",
+   "La sérologie est inutile",
+   "La culture virale est l'examen de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : diagnostic indirect par ELISA (IgM).",
+   "Exact : recherche du génome sans intérêt en pratique courante.",
+   "Exact : détection des Ag sans intérêt en pratique courante.",
+   "Faux : la sérologie est l'examen clé.",
+   "Faux : le VHA ne se cultive pas en routine."
+  ]
+ },
+ {
+  "q": "Les examens complémentaires devant un ictère fébrile : quelles propositions sont exactes ?",
+  "options": [
+   "La sérologie VHA (IgM) est indiquée",
+   "Seule la ponction lombaire est indiquée",
+   "Le bilan hépatique montre une cytolyse",
+   "La sérologie VHE (IgM) est indiquée",
+   "La sérologie est inutile car la clinique suffit"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les IgM anti-VHA diagnostiquent l'hépatite A aiguë.",
+   "Faux : aucun rapport avec un ictère fébrile.",
+   "Exact : l'hépatite virale donne une cytolyse.",
+   "Exact : les IgM anti-VHE diagnostiquent l'hépatite E aiguë.",
+   "Faux : l'expression clinique est voisine, les marqueurs sont nécessaires."
+  ]
+ },
+ {
+  "q": "Un enfant de 8 ans avec IgM anti-VHA positives et IgG positives : quelles propositions sont exactes ?",
+  "options": [
+   "Il est infectieux",
+   "Il est guéri et immunisé",
+   "Des mesures d'hygiène s'imposent dans l'entourage",
+   "Il est en phase aiguë d'hépatite A",
+   "Il faut le vacciner immédiatement"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : phase aiguë = sujet infectieux.",
+   "Faux : la guérison correspond à IgM-/IgG+.",
+   "Exact : transmission féco-orale, hygiène des mains essentielle.",
+   "Exact : +/+ = phase aiguë.",
+   "Faux : il est déjà infecté, la vaccination n'a plus d'intérêt curatif."
+  ]
+ },
+ {
+  "q": "Concernant la détection des antigènes du VHA, quelles propositions sont exactes ?",
+  "options": [
+   "Elle fait partie du diagnostic direct",
+   "Elle est sans intérêt en pratique courante",
+   "Elle est l'examen de référence",
+   "Elle se fait sur tube sec",
+   "Elle se fait par ELISA"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : c'est un diagnostic direct.",
+   "Exact : sans intérêt en pratique courante.",
+   "Faux : la référence est la sérologie IgM.",
+   "Faux : le tube sec sert au diagnostic indirect (sérologie).",
+   "Exact : détection des Ag par ELISA."
+  ]
+ },
+ {
+  "q": "La PCR dans le diagnostic de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Elle fait partie du diagnostic direct",
+   "Elle est systématique devant tout ictère",
+   "Elle détecte le génome viral",
+   "Elle se fait sur tube EDTA",
+   "Elle est sans intérêt en pratique courante"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : diagnostic direct.",
+   "Faux : c'est la sérologie qui est systématique, pas la PCR.",
+   "Exact : la PCR détecte le génome.",
+   "Exact : tube EDTA pour la biologie moléculaire.",
+   "Exact : sans intérêt en pratique courante."
+  ]
+ },
+ {
+  "q": "Un sujet avec IgM anti-VHA négatives et IgG anti-VHA négatives voyage en zone d'endémie. Quelles propositions sont exactes ?",
+  "options": [
+   "Aucune prévention n'est nécessaire",
+   "La vaccination est indiquée",
+   "Il est non immunisé",
+   "Il est déjà protégé",
+   "L'injection d'immunoglobulines peut le protéger à court terme"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : une prévention (vaccin/Ig) est indiquée.",
+   "Exact : les voyageurs en zone d'endémie sont à vacciner.",
+   "Exact : -/- = sujet non immunisé.",
+   "Faux : il est non immunisé.",
+   "Exact : Ig standards = protection immédiate de courte durée."
+  ]
+ },
+ {
+  "q": "Concernant l'interprétation d'une sérologie VHA isolée en IgG positives, quelles propositions sont exactes ?",
+  "options": [
+   "Le sujet est contagieux",
+   "Il peut s'agir d'une infection ancienne guérie",
+   "Le sujet est immunisé",
+   "Il peut s'agir d'une vaccination",
+   "Le sujet est en phase aiguë"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le sujet immunisé n'est pas contagieux.",
+   "Exact : infection ancienne guérie possible.",
+   "Exact : IgG+ isolées = immunité.",
+   "Exact : la vaccination induit des IgG.",
+   "Faux : la phase aiguë donne des IgM positives."
+  ]
+ },
+ {
+  "q": "Les marqueurs d'une hépatite A aiguë : quelles propositions sont exactes ?",
+  "options": [
+   "Ag HBs positif",
+   "IgG anti-VHA toujours négatives en phase aiguë",
+   "Élévation des transaminases",
+   "IgM anti-VHA positives",
+   "ARN du VHB positif"
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : l'Ag HBs est un marqueur du VHB.",
+   "Faux : le tableau montre +/+ en phase aiguë, les IgG peuvent être positives.",
+   "Exact : la cytolyse (transaminases élevées) accompagne l'hépatite.",
+   "Exact : les IgM anti-VHA signent la phase aiguë.",
+   "Faux : l'ARN du VHB n'a aucun rapport avec le VHA."
+  ]
+ },
+ {
+  "q": "Devant une suspicion d'hépatite A, le bon tube pour la sérologie : quelles propositions sont exactes ?",
+  "options": [
+   "Le tube hépariné est le tube de référence pour la sérologie VHA",
+   "Aucun prélèvement sanguin n'est utile",
+   "Le tube sec est indiqué",
+   "Le tube EDTA est indiqué pour la biologie moléculaire",
+   "Le tube sec sert au diagnostic indirect"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le cours cite le tube sec, pas l'hépariné.",
+   "Faux : le sang total (tube sec) est un prélèvement cité.",
+   "Exact : tube sec pour le diagnostic indirect (sérologie).",
+   "Exact : tube EDTA pour la biologie moléculaire.",
+   "Exact : tube sec = diagnostic indirect."
+  ]
+ },
+ {
+  "q": "Concernant la microscopie électronique dans le diagnostic des hépatites entérales, quelles propositions sont exactes ?",
+  "options": [
+   "Le VHE peut être détecté dans les selles par ME ou IME",
+   "C'est l'examen de référence en routine pour le VHA",
+   "Le VHA est détecté en routine par ME",
+   "La ME est systématique devant un ictère",
+   "C'est une technique de diagnostic direct"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Exact : détection du VHE dans les selles par ME ou IME.",
+   "Faux : la référence pour le VHA est la sérologie IgM.",
+   "Faux : le diagnostic du VHA repose sur la sérologie.",
+   "Faux : la ME n'est pas un examen de routine.",
+   "Exact : visualisation directe du virus = diagnostic direct."
+  ]
+ },
+ {
+  "q": "Les prélèvements pour le diagnostic de l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "Le tube sec est utilisé pour le diagnostic indirect",
+   "La biopsie hépatique est un prélèvement possible",
+   "Le sang total est un prélèvement possible",
+   "Les selles sont un prélèvement possible",
+   "Le tube EDTA est utilisé pour la sérologie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : tube sec pour le diagnostic indirect (sérologie).",
+   "Exact : biopsie hépatique citée.",
+   "Exact : sang total cité.",
+   "Exact : selles citées.",
+   "Faux : le tube EDTA est pour la biologie moléculaire."
+  ]
+ },
+ {
+  "q": "Le diagnostic direct de l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "Le virus peut être détecté dans les selles par ME ou IME",
+   "La recherche d'Ag HEV sur biopsie hépatique par IF ou ELISA est possible",
+   "La recherche du génome par RT-PCR est possible",
+   "Le diagnostic direct est impossible pour le VHE",
+   "La RT-PCR peut se faire sur sang total, sérum et selles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : détection dans les selles par ME ou IME.",
+   "Exact : Ag HEV sur biopsie par IF ou ELISA.",
+   "Exact : recherche du génome par RT-PCR.",
+   "Faux : plusieurs techniques de diagnostic direct existent.",
+   "Exact : RT-PCR sur sang total, sérum, selles."
+  ]
+ },
+ {
+  "q": "La RT-PCR dans le diagnostic de l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "Elle peut se faire sur les selles",
+   "Elle détecte l'ARN du VHE",
+   "Elle peut se faire sur le sang",
+   "Elle détecte l'ADN du VHE",
+   "Elle utilise une reverse transcription car le génome est un ARN"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : RT-PCR sur selles.",
+   "Exact : la RT-PCR détecte l'ARN viral.",
+   "Exact : RT-PCR sur sang total/sérum.",
+   "Faux : le génome du VHE est un ARN, pas un ADN.",
+   "Exact : reverse transcription nécessaire pour un génome ARN."
+  ]
+ },
+ {
+  "q": "Le diagnostic indirect de l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "La sérologie peut se faire par immunochromatographie",
+   "La sérologie est impossible pour le VHE",
+   "La sérologie peut se faire par EIA (ELISA ou apparentés)",
+   "La sérologie peut se faire par IF",
+   "Le Western Blot peut être utilisé"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : immunochromatographie citée.",
+   "Faux : plusieurs techniques sérologiques existent.",
+   "Exact : EIA (ELISA ou apparentés) citée.",
+   "Exact : sérologie par IF citée.",
+   "Exact : Western Blot cité."
+  ]
+ },
+ {
+  "q": "Les anticorps recherchés dans l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "Les IgG anti-VHE",
+   "Le test d'avidité des IgG peut être utilisé",
+   "Les IgM signent l'infection aiguë",
+   "Seules les IgA sont recherchées",
+   "Les IgM anti-VHE"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : IgG recherchées en sérologie.",
+   "Exact : test d'avidité des IgG cité.",
+   "Exact : les IgM signent la phase aiguë (critère de Dalton).",
+   "Faux : ce sont les IgM et IgG qui sont recherchées.",
+   "Exact : IgM recherchées en sérologie."
+  ]
+ },
+ {
+  "q": "Le test d'avidité des IgG anti-VHE : quelles propositions sont exactes ?",
+  "options": [
+   "Il remplace la RT-PCR",
+   "Il détecte le génome viral",
+   "Une faible avidité oriente vers une infection récente",
+   "Il fait partie du diagnostic indirect",
+   "Il aide à dater l'infection"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : il ne remplace pas la RT-PCR.",
+   "Faux : c'est un test sérologique, pas de détection du génome.",
+   "Exact : faible avidité = infection récente.",
+   "Exact : cité dans le diagnostic indirect.",
+   "Exact : l'avidité des IgG permet de dater l'infection."
+  ]
+ },
+ {
+  "q": "La définition biologique de l'hépatite E aiguë selon Dalton : quelles propositions sont exactes ?",
+  "options": [
+   "L'ARN du VHE positif associé à une élévation des transaminases",
+   "L'ARN du VHE positif seul sans cytolyse suffit",
+   "La présence d'au moins un des deux paramètres avec des transaminases élevées",
+   "Les IgM anti-VHE positives associées à une élévation des transaminases",
+   "Les IgG isolées suffisent au diagnostic d'hépatite E aiguë"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : ARN du VHE positif + ↑ transaminases.",
+   "Faux : l'élévation des transaminases est requise dans la définition.",
+   "Exact : présence d'au moins un des deux paramètres + ↑ transaminases.",
+   "Exact : IgM positives + ↑ transaminases.",
+   "Faux : les IgG isolées ne signent pas l'infection aiguë."
+  ]
+ },
+ {
+  "q": "Concernant la certitude diagnostique de l'hépatite E aiguë, quelles propositions sont exactes ?",
+  "options": [
+   "La détection du virus par RT-PCR dans le sang donne le diagnostic avec certitude",
+   "La sérologie seule donne toujours le diagnostic avec certitude",
+   "La détection du virus par RT-PCR dans les selles donne le diagnostic avec certitude",
+   "La clinique seule donne le diagnostic avec certitude",
+   "Une élévation significative des transaminases doit être associée"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : RT-PCR positive dans le sang + ↑ transaminases = certitude.",
+   "Faux : seule la RT-PCR associée à la cytolyse donne la certitude selon le cours.",
+   "Exact : RT-PCR positive dans les selles + ↑ transaminases = certitude.",
+   "Faux : l'expression clinique est voisine entre les hépatites, le diagnostic est biologique.",
+   "Exact : l'élévation significative des transaminases est requise."
+  ]
+ },
+ {
+  "q": "Un prélèvement tardif après négativation de la virémie : quelles propositions sont exactes ?",
+  "options": [
+   "Un résultat négatif en RT-PCR exclut formellement l'hépatite E",
+   "L'absence de détection virale ne permet pas d'exclure le diagnostic",
+   "La virémie peut déjà être négativée",
+   "La sérologie garde son intérêt",
+   "La virémie est permanente"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : un résultat négatif tardif n'exclut pas le diagnostic.",
+   "Exact : l'absence de détection virale n'exclut pas le diagnostic si prélèvement tardif.",
+   "Exact : négativation de la virémie possible.",
+   "Exact : les anticorps persistent après la virémie.",
+   "Faux : la virémie est transitoire."
+  ]
+ },
+ {
+  "q": "Un patient présente un ictère avec transaminases élevées et RT-PCR VHE positive dans le sang. Quelles propositions sont exactes ?",
+  "options": [
+   "Le diagnostic d'hépatite E aiguë est posé avec certitude",
+   "Il faut attendre la sérologie pour conclure",
+   "Le diagnostic reste douteux",
+   "Le patient est contagieux",
+   "Le critère de Dalton est rempli"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : RT-PCR + ↑ transaminases = certitude.",
+   "Faux : la RT-PCR positive suffit avec la cytolyse.",
+   "Faux : le diagnostic est certain.",
+   "Exact : virémie positive = sujet infectieux.",
+   "Exact : ARN positif + transaminases élevées."
+  ]
+ },
+ {
+  "q": "Un patient présente un ictère avec IgM anti-VHE positives et cytolyse. Quelles propositions sont exactes ?",
+  "options": [
+   "Le critère de Dalton est rempli",
+   "Il s'agit d'une hépatite A",
+   "Une RT-PCR peut confirmer",
+   "Les IgM positives sont sans signification",
+   "Le diagnostic d'hépatite E aiguë est posé"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : IgM positives + transaminases élevées.",
+   "Faux : les IgM anti-VHE sont spécifiques du VHE.",
+   "Exact : la RT-PCR détecte l'ARN viral.",
+   "Faux : les IgM signent l'infection aiguë.",
+   "Exact : IgM + ↑ transaminases = hépatite E aiguë."
+  ]
+ },
+ {
+  "q": "La détection du VHE dans les selles : quelles propositions sont exactes ?",
+  "options": [
+   "Elle peut se faire par RT-PCR",
+   "Elle peut se faire par immunomicroscopie électronique (IME)",
+   "Elle peut se faire par microscopie électronique (ME)",
+   "C'est une technique de diagnostic direct",
+   "C'est l'examen de référence en routine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : RT-PCR sur selles.",
+   "Exact : détection par IME.",
+   "Exact : détection dans les selles par ME.",
+   "Exact : détection directe du virus.",
+   "Faux : en routine, le diagnostic repose sur la sérologie et la RT-PCR."
+  ]
+ },
+ {
+  "q": "La recherche d'antigènes du VHE : quelles propositions sont exactes ?",
+  "options": [
+   "Elle peut se faire sur biopsie hépatique",
+   "Elle est l'examen de première intention en routine",
+   "Elle peut se faire par ELISA",
+   "Elle peut se faire par immunofluorescence (IF)",
+   "Elle fait partie du diagnostic direct"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : recherche d'Ag HEV sur biopsie hépatique.",
+   "Faux : en routine, on utilise la sérologie et la RT-PCR.",
+   "Exact : par ELISA.",
+   "Exact : par IF.",
+   "Exact : diagnostic direct."
+  ]
+ },
+ {
+  "q": "Comparaison des diagnostics des hépatites A et E : quelles propositions sont exactes ?",
+  "options": [
+   "Les deux diagnostics reposent uniquement sur la culture",
+   "Le diagnostic du VHE repose sur les IgM anti-VHE et/ou l'ARN viral",
+   "Le diagnostic du VHA repose sur les IgM anti-VHA",
+   "Aucun diagnostic biologique n'existe",
+   "La RT-PCR a plus d'intérêt en routine pour le VHE que pour le VHA"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : aucun des deux ne se cultive en routine.",
+   "Exact : Ac anti-VHE IgM et/ou ARN viral pour le VHE (conclusion du cours).",
+   "Exact : Ac anti-VHA IgM pour le VHA.",
+   "Faux : de nombreux marqueurs existent.",
+   "Exact : la RT-PCR est centrale pour le VHE, sans intérêt en routine pour le VHA."
+  ]
+ },
+ {
+  "q": "Un greffé cardiaque présente une élévation chronique des transaminases. Quelles propositions sont exactes ?",
+  "options": [
+   "La RT-PCR VHE est l'examen clé",
+   "Les immunodéprimés peuvent faire des formes chroniques",
+   "Une hépatite E chronique est à évoquer",
+   "L'hépatite A chronique est l'hypothèse principale",
+   "La sérologie VHA est l'examen clé"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la RT-PCR détecte l'ARN du VHE.",
+   "Exact : immunodéprimés à risque de chronicité.",
+   "Exact : formes chroniques du VHE chez les greffés.",
+   "Faux : le VHA n'évolue jamais vers la chronicité.",
+   "Faux : c'est la recherche du VHE qui est indiquée."
+  ]
+ },
+ {
+  "q": "Devant une suspicion d'hépatite E chez une femme enceinte, quelles propositions sont exactes ?",
+  "options": [
+   "La RT-PCR VHE est indiquée",
+   "Aucun examen n'est utile",
+   "La sérologie IgM anti-VHE est indiquée",
+   "Le pronostic peut être grave au 3ème trimestre",
+   "Seule l'échographie est indiquée"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : RT-PCR pour détecter l'ARN du VHE.",
+   "Faux : le diagnostic biologique est essentiel.",
+   "Exact : IgM anti-VHE pour le diagnostic d'infection aiguë.",
+   "Exact : formes mortelles dans 20-50 % des cas au 3ème trimestre.",
+   "Faux : l'échographie ne fait pas le diagnostic virologique."
+  ]
+ },
+ {
+  "q": "Concernant les techniques sérologiques du VHE, quelles propositions sont exactes ?",
+  "options": [
+   "Seule la culture est utilisable",
+   "L'immunochromatographie est utilisable",
+   "Le Western Blot est utilisable",
+   "L'EIA (ELISA ou apparentés) est utilisable",
+   "L'IF est utilisable"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le VHE ne se cultive pas en routine ; la sérologie est utilisable.",
+   "Exact : immunochromatographie citée.",
+   "Exact : Western Blot cité.",
+   "Exact : EIA (ELISA ou apparentés) citée.",
+   "Exact : IF citée."
+  ]
+ },
+ {
+  "q": "Un patient a une RT-PCR VHE négative mais des IgM anti-VHE positives avec cytolyse. Quelles propositions sont exactes ?",
+  "options": [
+   "Le critère de Dalton est rempli (IgM + transaminases)",
+   "Les IgM sont sans valeur",
+   "La négativité de la PCR peut s'expliquer par un prélèvement tardif",
+   "Le diagnostic d'hépatite E aiguë peut être retenu",
+   "La PCR négative exclut formellement le diagnostic"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : présence d'au moins un des deux paramètres + ↑ transaminases.",
+   "Faux : les IgM signent l'infection aiguë.",
+   "Exact : négativation de la virémie possible si prélèvement tardif.",
+   "Exact : IgM + ↑ transaminases = hépatite E aiguë.",
+   "Faux : l'absence de détection virale n'exclut pas le diagnostic."
+  ]
+ },
+ {
+  "q": "La virémie dans l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "Elle est transitoire",
+   "Elle permet la transmission parentérale par transfusion",
+   "Elle est détectée par RT-PCR",
+   "Sa négativation n'exclut pas le diagnostic si le prélèvement est tardif",
+   "Elle est permanente chez tous les patients"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la virémie se négative avec le temps.",
+   "Exact : transmission parentérale possible en période de virémie.",
+   "Exact : la RT-PCR détecte l'ARN viral dans le sang.",
+   "Exact : un prélèvement tardif peut être négatif sans exclure le diagnostic.",
+   "Faux : elle est transitoire, sauf formes chroniques des immunodéprimés."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic de l'hépatite E chronique, quelles propositions sont exactes ?",
+  "options": [
+   "Elle concerne les immunodéprimés",
+   "La RT-PCR reste positive de façon prolongée",
+   "L'hépatite E chronique n'existe pas",
+   "La sérologie peut être prise en défaut chez l'immunodéprimé",
+   "Le diagnostic est purement clinique"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : greffés, VIH+.",
+   "Exact : persistance de l'ARN viral dans les formes chroniques.",
+   "Faux : elle existe chez les immunodéprimés.",
+   "Faux : le cours ne mentionne pas cette limite ; la RT-PCR reste l'examen clé.",
+   "Faux : le diagnostic est biologique (RT-PCR)."
+  ]
+ },
+ {
+  "q": "Les examens de première intention devant une hépatite aiguë suspecte d'origine entérale : quelles propositions sont exactes ?",
+  "options": [
+   "Sérologie VHE (IgM anti-VHE)",
+   "Hémocultures systématiques",
+   "RT-PCR VHE",
+   "Bilan hépatique (transaminases)",
+   "Sérologie VHA (IgM anti-VHA)"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : IgM anti-VHE pour le VHE.",
+   "Faux : les hémocultures n'ont pas d'intérêt dans l'hépatite virale.",
+   "Exact : RT-PCR pour l'ARN du VHE.",
+   "Exact : les transaminases évaluent la cytolyse.",
+   "Exact : IgM anti-VHA pour le VHA."
+  ]
+ },
+ {
+  "q": "Un patient présente des IgG anti-VHE positives isolées. Quelles propositions sont exactes ?",
+  "options": [
+   "Il est immunisé",
+   "Il a été infecté anciennement par le VHE",
+   "Il est en phase aiguë",
+   "Il est contagieux",
+   "Les IgG isolées n'ont aucune signification"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : les IgG témoignent de l'immunité.",
+   "Exact : les IgG signent une infection ancienne.",
+   "Faux : la phase aiguë donne des IgM positives.",
+   "Faux : le sujet immunisé n'est pas contagieux.",
+   "Faux : elles signent une infection ancienne et l'immunité."
+  ]
+ },
+ {
+  "q": "Concernant la spécificité des marqueurs des hépatites entérales, quelles propositions sont exactes ?",
+  "options": [
+   "L'ARN du VHE est spécifique du VHE",
+   "Les IgM anti-VHA sont spécifiques du VHA",
+   "Un même marqueur signe les deux infections",
+   "Les IgM anti-VHE sont spécifiques du VHE",
+   "Les IgM anti-VHA positivent aussi dans l'hépatite E"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : l'ARN du VHE est spécifique du VHE.",
+   "Exact : les IgM anti-VHA sont spécifiques du VHA.",
+   "Faux : chaque virus a ses marqueurs propres.",
+   "Exact : les IgM anti-VHE sont spécifiques du VHE.",
+   "Faux : les marqueurs sont spécifiques de chaque virus."
+  ]
+ },
+ {
+  "q": "La place de la sérologie dans l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "Les IgM signent l'infection aiguë",
+   "Le test d'avidité des IgG aide à dater l'infection",
+   "La sérologie est inutile",
+   "Les IgG signent l'infection ancienne",
+   "Seule la RT-PCR a un intérêt"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : IgM = infection aiguë.",
+   "Exact : test d'avidité des IgG cité.",
+   "Faux : la sérologie fait partie du diagnostic indirect.",
+   "Exact : IgG = infection ancienne/immunité.",
+   "Faux : la sérologie et la RT-PCR sont complémentaires."
+  ]
+ },
+ {
+  "q": "Un cas d'hépatite E aiguë confirmée par RT-PCR : quelles mesures sont exactes ?",
+  "options": [
+   "Les mesures d'hygiène s'imposent (lavage des mains)",
+   "L'isolement respiratoire strict est obligatoire",
+   "L'entourage doit respecter les mesures d'hygiène",
+   "Aucune mesure n'est nécessaire",
+   "Le patient est contagieux"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : maladie du péril fécal, hygiène des mains essentielle.",
+   "Faux : la transmission est féco-orale, pas respiratoire.",
+   "Exact : prévention de la transmission interhumaine.",
+   "Faux : des mesures d'hygiène s'imposent.",
+   "Exact : virémie et excrétion virale = contagiosité."
+  ]
+ },
+ {
+  "q": "Le traitement de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "La consommation d'alcool est interdite",
+   "Les corticoïdes sont contre-indiqués",
+   "Les corticoïdes sont le traitement de référence",
+   "Il n'existe pas de traitement spécifique",
+   "Les médicaments hépatotoxiques doivent être évités"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : interdiction de l'alcool.",
+   "Exact : contre-indication des corticoïdes.",
+   "Faux : les corticoïdes sont contre-indiqués.",
+   "Exact : pas de traitement spécifique.",
+   "Exact : éviction des médicaments hépatotoxiques."
+  ]
+ },
+ {
+  "q": "Le traitement de l'hépatite E aiguë : quelles propositions sont exactes ?",
+  "options": [
+   "La consommation d'alcool est interdite",
+   "Un antibiotique est systématiquement indiqué",
+   "Les médicaments hépatotoxiques doivent être évités",
+   "Il n'existe pas de traitement spécifique",
+   "Les corticoïdes sont contre-indiqués"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : interdiction de l'alcool.",
+   "Faux : l'hépatite E est virale, pas d'antibiotique systématique.",
+   "Exact : éviction des hépatotoxiques.",
+   "Exact : pas de traitement spécifique.",
+   "Exact : corticoïdes contre-indiqués."
+  ]
+ },
+ {
+  "q": "L'hépatite fulminante : quelles propositions sont exactes ?",
+  "options": [
+   "Elle peut compliquer l'hépatite E chez le sujet âgé",
+   "Elle peut compliquer l'hépatite A chez le sujet âgé",
+   "Elle peut compliquer l'hépatite E chez la femme enceinte",
+   "Elle se traite par corticoïdes à forte dose",
+   "La transplantation hépatique est le traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : formes fulminantes du VHE chez le sujet âgé.",
+   "Exact : formes fulminantes du VHA chez le sujet âgé.",
+   "Exact : formes mortelles du VHE chez la femme enceinte.",
+   "Faux : les corticoïdes sont contre-indiqués.",
+   "Exact : transplantation hépatique en cas d'hépatite fulminante."
+  ]
+ },
+ {
+  "q": "Le traitement de l'hépatite E chronique : quelles propositions sont exactes ?",
+  "options": [
+   "L'interféron-α pégylé peut être utilisé",
+   "Il concerne les immunodéprimés",
+   "La ribavirine peut être utilisée",
+   "Les corticoïdes sont indiqués",
+   "Aucun traitement n'existe"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : interféron-α pégylé cité.",
+   "Exact : formes chroniques chez les immunodéprimés.",
+   "Exact : ribavirine citée.",
+   "Faux : les corticoïdes sont contre-indiqués.",
+   "Faux : interféron-α pégylé ou ribavirine existent."
+  ]
+ },
+ {
+  "q": "Un patient VIH+ présente une hépatite E chronique. Quelles propositions sont exactes ?",
+  "options": [
+   "Aucun traitement n'est possible",
+   "Les corticoïdes sont le traitement de choix",
+   "L'alcool est interdit",
+   "L'interféron-α pégylé est une option thérapeutique",
+   "La ribavirine est une option thérapeutique"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : deux options thérapeutiques existent.",
+   "Faux : les corticoïdes sont contre-indiqués.",
+   "Exact : interdiction de l'alcool.",
+   "Exact : interféron-α pégylé cité.",
+   "Exact : ribavirine citée pour l'hépatite E chronique."
+  ]
+ },
+ {
+  "q": "Les corticoïdes dans les hépatites entérales : quelles propositions sont exactes ?",
+  "options": [
+   "Ils sont le traitement des formes fulminantes",
+   "Ils sont contre-indiqués dans l'hépatite A",
+   "Ils préviennent la chronicité",
+   "Ils sont contre-indiqués dans l'hépatite E",
+   "Ils n'ont pas d'effet antiviral démontré"
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : le traitement de la forme fulminante est la transplantation hépatique.",
+   "Exact : contre-indication des corticoïdes (VHA).",
+   "Faux : ils ne préviennent pas la chronicité.",
+   "Exact : contre-indication des corticoïdes (VHE).",
+   "Faux : le cours se contente de les contre-indiquer, sans développer ce mécanisme."
+  ]
+ },
+ {
+  "q": "L'alcool dans les hépatites entérales : quelles propositions sont exactes ?",
+  "options": [
+   "Il a un effet protecteur",
+   "Sa consommation est interdite pendant l'hépatite A",
+   "Il aggrave l'atteinte hépatique",
+   "Sa consommation est interdite pendant l'hépatite E",
+   "Il est autorisé en quantité modérée"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : aucun effet protecteur.",
+   "Exact : interdiction de l'alcool (VHA).",
+   "Exact : l'alcool est hépatotoxique et aggrave l'atteinte.",
+   "Exact : interdiction de l'alcool (VHE).",
+   "Faux : la consommation est interdite."
+  ]
+ },
+ {
+  "q": "Les médicaments hépatotoxiques dans les hépatites entérales : quelles propositions sont exactes ?",
+  "options": [
+   "Ils doivent être évités",
+   "Ils accélèrent la guérison",
+   "Le paracétamol à forte dose est à éviter",
+   "Ils sont sans danger pendant l'hépatite",
+   "Tout traitement non indispensable doit être réévalué"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : éviction des médicaments hépatotoxiques.",
+   "Faux : ils aggravent l'atteinte hépatique.",
+   "Exact : le paracétamol est hépatotoxique à forte dose.",
+   "Faux : ils sont à éviter.",
+   "Exact : principe de précaution pendant l'hépatite."
+  ]
+ },
+ {
+  "q": "La prise en charge symptomatique de l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Un antiviral spécifique est prescrit",
+   "Le repos est recommandé pendant la phase aiguë",
+   "Les hépatotoxiques sont évités",
+   "L'alcool est interdit",
+   "Les corticoïdes sont prescrits"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : pas de traitement spécifique.",
+   "Exact : repos pendant la phase aiguë et la convalescence.",
+   "Exact : éviction des hépatotoxiques.",
+   "Exact : interdiction de l'alcool.",
+   "Faux : corticoïdes contre-indiqués."
+  ]
+ },
+ {
+  "q": "Concernant la guérison de l'hépatite A, quelles propositions sont exactes ?",
+  "options": [
+   "Aucun traitement spécifique n'est nécessaire",
+   "La convalescence est prolongée chez l'adulte",
+   "La guérison laisse une immunité",
+   "Une cirrhose est fréquente après guérison",
+   "L'évolution est favorable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : pas de traitement spécifique.",
+   "Exact : convalescence prolongée chez l'adulte.",
+   "Exact : IgG persistantes = immunité.",
+   "Faux : pas de chronicité, donc pas de cirrhose.",
+   "Exact : évolution favorable."
+  ]
+ },
+ {
+  "q": "Un patient présente une hépatite E aiguë bénigne. Quelles propositions sont exactes ?",
+  "options": [
+   "L'alcool est interdit",
+   "Le repos est recommandé",
+   "La ribavirine est systématiquement indiquée",
+   "Aucun traitement antiviral spécifique n'est indiqué",
+   "Les corticoïdes sont indiqués"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : interdiction de l'alcool.",
+   "Exact : repos pendant la phase aiguë.",
+   "Faux : la ribavirine est réservée aux formes chroniques.",
+   "Exact : pas de traitement spécifique pour la forme aiguë.",
+   "Faux : corticoïdes contre-indiqués."
+  ]
+ },
+ {
+  "q": "La transplantation hépatique dans les hépatites entérales : quelles propositions sont exactes ?",
+  "options": [
+   "Elle est indiquée en cas d'hépatite fulminante",
+   "Elle est indiquée dans toutes les hépatites A",
+   "Elle peut concerner l'hépatite E fulminante",
+   "Elle est contre-indiquée dans l'hépatite E",
+   "Elle peut concerner l'hépatite A fulminante"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : transplantation hépatique pour l'hépatite fulminante.",
+   "Faux : réservée aux formes fulminantes, pas à toutes les hépatites A.",
+   "Exact : formes fulminantes du VHE.",
+   "Faux : elle est indiquée dans les formes fulminantes du VHE.",
+   "Exact : formes fulminantes du VHA."
+  ]
+ },
+ {
+  "q": "Concernant l'interféron-α pégylé, quelles propositions sont exactes ?",
+  "options": [
+   "Il est utilisé dans l'hépatite E chronique",
+   "Il est utilisé dans l'hépatite A aiguë",
+   "Il concerne les patients immunodéprimés",
+   "Il est sans effet secondaire",
+   "Il est le traitement de l'hépatite A fulminante"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Exact : interféron-α pégylé cité pour l'hépatite E chronique.",
+   "Faux : pas de traitement spécifique pour l'hépatite A aiguë.",
+   "Exact : les formes chroniques touchent les immunodéprimés.",
+   "Faux : l'interféron a des effets secondaires notables.",
+   "Faux : le traitement de la forme fulminante est la transplantation."
+  ]
+ },
+ {
+  "q": "Concernant la ribavirine, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est un antiviral",
+   "Elle est utilisée dans l'hépatite E chronique",
+   "Elle est indiquée dans toutes les hépatites E aiguës",
+   "Elle est indiquée dans l'hépatite A aiguë",
+   "Elle est contre-indiquée pendant la grossesse"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : la ribavirine est un antiviral.",
+   "Exact : ribavirine citée pour l'hépatite E chronique.",
+   "Faux : réservée aux formes chroniques, pas à toutes les formes aiguës.",
+   "Faux : pas de traitement spécifique pour l'hépatite A.",
+   "Exact : la ribavirine est tératogène, contre-indiquée enceinte."
+  ]
+ },
+ {
+  "q": "Un greffé hépatique présente une hépatite E chronique. Quelles propositions sont exactes ?",
+  "options": [
+   "Aucune option thérapeutique n'existe",
+   "La ribavirine est une option",
+   "L'interféron-α pégylé est une option",
+   "La réduction de l'immunosuppression peut être discutée",
+   "Les corticoïdes à forte dose sont indiqués"
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : deux options existent.",
+   "Exact : ribavirine citée.",
+   "Exact : interféron-α pégylé cité.",
+   "Faux : le cours ne mentionne pas cette stratégie ; il cite interféron et ribavirine.",
+   "Faux : les corticoïdes sont contre-indiqués."
+  ]
+ },
+ {
+  "q": "La surveillance d'une hépatite A aiguë : quelles propositions sont exactes ?",
+  "options": [
+   "Le bilan hépatique (transaminases) est suivi",
+   "La virémie est surveillée en routine par PCR",
+   "Une aggravation vers la forme fulminante est possible chez le sujet âgé",
+   "Aucune surveillance n'est nécessaire",
+   "L'évolution est le plus souvent favorable"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : suivi de la cytolyse.",
+   "Faux : la PCR est sans intérêt en routine pour le VHA.",
+   "Exact : formes fulminantes chez le sujet âgé.",
+   "Faux : une surveillance clinique et biologique s'impose.",
+   "Exact : évolution favorable."
+  ]
+ },
+ {
+  "q": "Les formes graves de l'hépatite E chez la femme enceinte : quelles propositions sont exactes ?",
+  "options": [
+   "La mortalité peut atteindre 20 à 50 % au 3ème trimestre",
+   "Les corticoïdes améliorent le pronostic",
+   "La ribavirine est le traitement de la forme aiguë grave enceinte",
+   "La transplantation hépatique peut être envisagée en cas de forme fulminante",
+   "Aucun traitement spécifique n'existe pour la forme aiguë"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : formes mortelles dans 20-50 % des cas au 3ème trimestre.",
+   "Faux : les corticoïdes sont contre-indiqués.",
+   "Faux : la ribavirine est réservée aux formes chroniques et contre-indiquée enceinte.",
+   "Exact : transplantation en cas d'hépatite fulminante.",
+   "Exact : pas de traitement spécifique de la forme aiguë."
+  ]
+ },
+ {
+  "q": "Concernant l'hospitalisation dans les hépatites entérales, quelles propositions sont exactes ?",
+  "options": [
+   "Toute hépatite E impose une réanimation",
+   "Elle s'impose en cas de forme fulminante",
+   "Elle n'est pas systématique dans les formes bénignes",
+   "Les formes bénignes sont prises en charge en ambulatoire",
+   "Toute hépatite A impose une hospitalisation"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : seules les formes graves nécessitent l'hôpital.",
+   "Exact : la forme fulminante nécessite une prise en charge hospitalière.",
+   "Exact : les formes bénignes évoluent favorablement sans hospitalisation systématique.",
+   "Exact : prise en charge ambulatoire possible des formes bénignes.",
+   "Faux : l'hospitalisation n'est pas systématique."
+  ]
+ },
+ {
+  "q": "Un patient sous traitement hépatotoxique développe une hépatite A. Quelles propositions sont exactes ?",
+  "options": [
+   "Aucun antiviral spécifique n'est indiqué",
+   "Les corticoïdes sont indiqués",
+   "L'alcool est interdit",
+   "Le traitement hépatotoxique doit être poursuivi",
+   "Le traitement hépatotoxique doit être arrêté ou réévalué"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : pas de traitement spécifique.",
+   "Faux : corticoïdes contre-indiqués.",
+   "Exact : interdiction de l'alcool.",
+   "Faux : il doit être arrêté ou réévalué.",
+   "Exact : éviction des médicaments hépatotoxiques."
+  ]
+ },
+ {
+  "q": "Concernant la convalescence de l'hépatite A, quelles propositions sont exactes ?",
+  "options": [
+   "Le repos est recommandé",
+   "L'asthénie peut persister plusieurs semaines",
+   "Elle est prolongée chez l'adulte",
+   "Aucune précaution n'est nécessaire",
+   "Elle est toujours brève"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : repos recommandé.",
+   "Exact : l'asthénie marquée de l'adulte persiste.",
+   "Exact : convalescence prolongée chez l'adulte.",
+   "Faux : éviction de l'alcool et des hépatotoxiques nécessaire.",
+   "Faux : elle est prolongée, pas brève."
+  ]
+ },
+ {
+  "q": "Les principes du traitement des hépatites entérales : quelles propositions sont exactes ?",
+  "options": [
+   "Pas de traitement antiviral spécifique pour les formes aiguës",
+   "Interdiction de l'alcool",
+   "Éviction des hépatotoxiques",
+   "Antibiothérapie systématique",
+   "Contre-indication des corticoïdes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : pas de traitement spécifique.",
+   "Exact : interdiction de l'alcool.",
+   "Exact : éviction des hépatotoxiques.",
+   "Faux : les hépatites sont virales, pas d'antibiotique systématique.",
+   "Exact : corticoïdes contre-indiqués."
+  ]
+ },
+ {
+  "q": "Un patient présente une hépatite E chronique sous ribavirine. Quelles propositions sont exactes ?",
+  "options": [
+   "L'alcool reste interdit",
+   "La ribavirine est indiquée dans l'hépatite A",
+   "La guérison est impossible",
+   "Le patient est probablement immunodéprimé",
+   "La ribavirine est indiquée dans l'hépatite E chronique"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : interdiction de l'alcool pendant l'hépatite.",
+   "Faux : pas de traitement spécifique pour l'hépatite A.",
+   "Faux : le traitement vise la guérison.",
+   "Exact : les formes chroniques touchent les immunodéprimés.",
+   "Exact : ribavirine citée pour l'hépatite E chronique."
+  ]
+ },
+ {
+  "q": "Concernant les antiviraux dans les hépatites entérales aiguës, quelles propositions sont exactes ?",
+  "options": [
+   "La ribavirine est systématique dans l'hépatite E aiguë",
+   "L'interféron est systématique dans l'hépatite A aiguë",
+   "L'interféron n'est pas indiqué dans les formes aiguës",
+   "La ribavirine n'est pas indiquée dans les formes aiguës",
+   "Aucun antiviral spécifique n'est recommandé"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : pas de traitement spécifique pour la forme aiguë.",
+   "Faux : pas de traitement spécifique pour l'hépatite A.",
+   "Exact : interféron réservé aux formes chroniques.",
+   "Exact : ribavirine réservée aux formes chroniques.",
+   "Exact : pas de traitement spécifique."
+  ]
+ },
+ {
+  "q": "La prise en charge d'une hépatite fulminante à VHE chez le sujet âgé : quelles propositions sont exactes ?",
+  "options": [
+   "La transplantation hépatique est le traitement",
+   "L'alcool est interdit",
+   "Aucune prise en charge n'est possible",
+   "La ribavirine guérit la forme fulminante",
+   "Les corticoïdes sont contre-indiqués"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : transplantation hépatique pour l'hépatite fulminante.",
+   "Exact : interdiction de l'alcool.",
+   "Faux : la transplantation est possible.",
+   "Faux : la ribavirine est réservée aux formes chroniques.",
+   "Exact : corticoïdes contre-indiqués."
+  ]
+ },
+ {
+  "q": "Un patient guéri d'hépatite E aiguë : quelles propositions sont exactes ?",
+  "options": [
+   "Il n'y a pas de risque de chronicité chez l'immunocompétent",
+   "Aucun traitement spécifique n'a été nécessaire",
+   "L'évolution est le plus souvent favorable",
+   "La cirrhose est inéluctable",
+   "Un traitement antiviral à vie est nécessaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la chronicité concerne les immunodéprimés.",
+   "Exact : pas de traitement spécifique pour la forme aiguë.",
+   "Exact : l'hépatite E aiguë évolue favorablement chez l'immunocompétent.",
+   "Faux : pas de cirrhose après une forme aiguë guérie.",
+   "Faux : aucun traitement au long cours nécessaire."
+  ]
+ },
+ {
+  "q": "Les mesures d'hygiène universelle contre les hépatites entérales : quelles propositions sont exactes ?",
+  "options": [
+   "Éplucher les fruits",
+   "Bien cuire les aliments (crustacés, fruits de mer)",
+   "Ne jamais se laver les mains",
+   "Bien se laver les mains",
+   "Bouillir l'eau dans les régions où le risque est important"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : éplucher les fruits.",
+   "Exact : bien cuire les aliments (crustacés, fruits de mer).",
+   "Faux : le lavage des mains est la mesure de base.",
+   "Exact : lavage des mains cité.",
+   "Exact : bouillir l'eau en zone à risque."
+  ]
+ },
+ {
+  "q": "Concernant l'efficacité des mesures d'hygiène, quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont efficaces",
+   "Elles sont insuffisantes à elles seules",
+   "La vaccination les complète pour le VHA",
+   "Elles sont inutiles",
+   "Elles suffisent à éradiquer le VHA"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : mesures d'hygiène efficaces.",
+   "Exact : efficaces mais insuffisantes seules.",
+   "Exact : la vaccination complète la prévention pour le VHA.",
+   "Faux : elles sont efficaces.",
+   "Faux : insuffisantes seules, pas d'éradication par la seule hygiène."
+  ]
+ },
+ {
+  "q": "Le traitement des eaux usées : quelles propositions sont exactes ?",
+  "options": [
+   "Il prévient la contamination hydrique",
+   "La surveillance des réseaux de distribution des eaux est recommandée",
+   "Il fait partie de la prophylaxie des hépatites entérales",
+   "Seule la vaccination compte",
+   "Il est inutile"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la contamination de l'eau est un mode majeur.",
+   "Exact : surveiller les réseaux de distribution des eaux.",
+   "Exact : traiter les eaux usées cité.",
+   "Faux : l'hygiène et la vaccination sont complémentaires.",
+   "Faux : c'est une mesure recommandée."
+  ]
+ },
+ {
+  "q": "L'immunisation passive contre l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "La protection est de courte durée (environ 3 mois)",
+   "La protection dure 10 ans",
+   "L'injection se fait en IM",
+   "La protection est immédiate (3 à 5 jours)",
+   "Elle utilise des immunoglobulines standards"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : courte durée, environ 3 mois.",
+   "Faux : la durée est d'environ 3 mois, pas 10 ans.",
+   "Exact : injection en IM.",
+   "Exact : protection immédiate (3-5 jours).",
+   "Exact : injection d'immunoglobulines standards."
+  ]
+ },
+ {
+  "q": "Les indications de l'immunisation passive contre le VHA : quelles propositions sont exactes ?",
+  "options": [
+   "Les sujets vaccinés",
+   "Une protection immédiate est nécessaire",
+   "Les patients en phase aiguë pour les guérir",
+   "Les personnes voyageant en zone de forte endémie",
+   "Les sujets déjà immunisés"
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : les sujets vaccinés sont déjà protégés.",
+   "Exact : la protection immédiate est l'intérêt des Ig.",
+   "Faux : les Ig ne sont pas un traitement curatif.",
+   "Exact : voyageurs en zone de forte endémie.",
+   "Faux : les sujets immunisés n'en ont pas besoin."
+  ]
+ },
+ {
+  "q": "L'immunisation passive contre l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "Elle protège la femme enceinte",
+   "L'administration d'immunoglobulines spécifiques s'est révélée inefficace",
+   "Aucune immunisation passive efficace n'existe",
+   "Les Ig standards protègent contre le VHE",
+   "Elle est le moyen de prévention de référence"
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : inefficace, même enceinte.",
+   "Exact : l'immunisation passive s'est révélée inefficace pour le VHE.",
+   "Exact : pas d'immunisation passive efficace contre le VHE.",
+   "Faux : inefficace pour le VHE.",
+   "Faux : elle est inefficace."
+  ]
+ },
+ {
+  "q": "Le vaccin contre l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "C'est un vaccin inactivé",
+   "Il est bien toléré",
+   "Il est très efficace",
+   "Il est inefficace",
+   "C'est un vaccin vivant atténué"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : vaccin inactivé.",
+   "Exact : bien toléré.",
+   "Exact : très efficace.",
+   "Faux : il est très efficace.",
+   "Faux : c'est un vaccin inactivé, pas vivant."
+  ]
+ },
+ {
+  "q": "Le schéma vaccinal contre l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Deux administrations à 6 mois d'intervalle",
+   "Aucun rappel n'est nécessaire",
+   "Trois injections à 1 mois d'intervalle",
+   "Une seule injection suffit à vie",
+   "Un rappel tous les 10 ans"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Exact : 2 administrations à 6 mois d'intervalle.",
+   "Faux : un rappel tous les 10 ans est prévu.",
+   "Faux : le schéma est de 2 injections à 6 mois d'intervalle.",
+   "Faux : le schéma comporte 2 injections + rappels.",
+   "Exact : rappel tous les 10 ans."
+  ]
+ },
+ {
+  "q": "Les sujets à risque à vacciner contre l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Les jeunes des internats",
+   "Les professionnels exposés (personnel de crèches)",
+   "Les voyageurs en zone d'endémie",
+   "Les sujets atteints d'hépatopathie chronique",
+   "Les sujets déjà immunisés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : jeunes des internats.",
+   "Exact : professionnels exposés ou exposant (crèches…).",
+   "Exact : voyageurs en zone d'endémie.",
+   "Exact : sujets atteints d'hépatopathie chronique.",
+   "Faux : les sujets immunisés n'ont pas besoin d'être vaccinés."
+  ]
+ },
+ {
+  "q": "Parmi les sujets à risque, lesquels doivent être vaccinés contre le VHA ?",
+  "options": [
+   "Les sujets non exposés sans facteur de risque",
+   "Les voyageurs en zone d'endémie",
+   "Les sujets atteints d'hépatopathie chronique",
+   "Les personnes handicapées en institution",
+   "Le personnel des services pour l'enfance"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la vaccination cible les sujets à risque.",
+   "Exact : voyageurs en zone d'endémie cités.",
+   "Exact : hépatopathies chroniques citées.",
+   "Exact : handicapés cités.",
+   "Exact : services pour l'enfance cités."
+  ]
+ },
+ {
+  "q": "Le vaccin contre l'hépatite E : quelles propositions sont exactes ?",
+  "options": [
+   "C'est un vaccin recombinant utilisant l'antigène de capside",
+   "Il est obligatoire",
+   "Aucune recherche vaccinale n'existe",
+   "Il est en cours d'étude",
+   "Il est commercialisé et recommandé"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Exact : vaccin recombinant utilisant l'Ag de capside.",
+   "Faux : pas de vaccin commercialisé.",
+   "Faux : un vaccin recombinant est en cours d'étude.",
+   "Exact : vaccin en cours d'étude.",
+   "Faux : il est en cours d'étude, pas commercialisé."
+  ]
+ },
+ {
+  "q": "Un voyageur part en zone de forte endémie d'hépatite A sans être vacciné. Quelles propositions sont exactes ?",
+  "options": [
+   "La vaccination reste possible",
+   "Les immunoglobulines le protègent 10 ans",
+   "La protection dure environ 3 mois",
+   "L'injection d'immunoglobulines standards en IM le protège immédiatement",
+   "Aucune prévention n'est possible"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la vaccination des voyageurs est recommandée.",
+   "Faux : la durée est d'environ 3 mois.",
+   "Exact : courte durée, environ 3 mois.",
+   "Exact : Ig standards en IM = protection immédiate.",
+   "Faux : Ig et vaccin sont possibles."
+  ]
+ },
+ {
+  "q": "La prévention de l'hépatite A chez le personnel de crèches : quelles propositions sont exactes ?",
+  "options": [
+   "La vaccination est recommandée",
+   "Aucune mesure n'est nécessaire",
+   "Le personnel est exposé au VHA",
+   "Seule l'éviction des enfants malades compte",
+   "Le lavage des mains est essentiel"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : professionnels exposés à vacciner.",
+   "Faux : vaccination et hygiène sont recommandées.",
+   "Exact : personnel exposé ou exposant au VHA.",
+   "Faux : la prévention repose sur l'hygiène et la vaccination.",
+   "Exact : hygiène des mains, transmission interhumaine."
+  ]
+ },
+ {
+  "q": "La cuisson des aliments : quelles propositions sont exactes ?",
+  "options": [
+   "La congélation suffit à détruire le VHA",
+   "Les aliments crus sont sans risque",
+   "La cuisson détruit les virus entéraux",
+   "Bien cuire les crustacés et fruits de mer prévient l'hépatite A",
+   "Bien cuire les aliments prévient l'hépatite E"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le VHA est très résistant ; la congélation ne le détruit pas.",
+   "Faux : les aliments crus contaminés transmettent les virus.",
+   "Exact : la chaleur inactive les virus.",
+   "Exact : bien cuire les aliments (crustacés, fruits de mer).",
+   "Exact : même mesure pour le VHE."
+  ]
+ },
+ {
+  "q": "L'eau de boisson et la prévention : quelles propositions sont exactes ?",
+  "options": [
+   "La chloration habituelle ne suffit pas contre le VHA",
+   "Le VHA résiste aux doses habituelles de chlore",
+   "L'eau souillée est un vecteur des hépatites entérales",
+   "Bouillir l'eau est recommandé en zone à risque",
+   "L'eau du robinet est toujours sans risque"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la chloration habituelle est insuffisante.",
+   "Exact : le VHA résiste aux doses habituelles de chlore.",
+   "Exact : l'eau souillée est un vecteur.",
+   "Exact : bouillir l'eau en zone à risque.",
+   "Faux : l'eau souillée transmet les hépatites entérales."
+  ]
+ },
+ {
+  "q": "Un patient atteint d'hépatopathie chronique : quelles propositions sont exactes ?",
+  "options": [
+   "Aucune prévention spécifique n'est nécessaire",
+   "L'alcool est interdit",
+   "La vaccination contre l'hépatite A est recommandée",
+   "La vaccination est contre-indiquée",
+   "Une surinfection par le VHA serait grave"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : la vaccination est recommandée.",
+   "Exact : l'alcool est hépatotoxique.",
+   "Exact : sujets atteints d'hépatopathie chronique à vacciner.",
+   "Faux : la vaccination est recommandée.",
+   "Exact : la surinfection aggraverait l'hépatopathie."
+  ]
+ },
+ {
+  "q": "Concernant la prévention de la transmission interhumaine du VHA, quelles propositions sont exactes ?",
+  "options": [
+   "Le lavage des mains est essentiel",
+   "La désinfection des selles est utile",
+   "Le port du masque est la mesure principale",
+   "L'éviction scolaire peut être discutée en cas d'épidémie",
+   "Aucune mesure n'est utile"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : mains sales = transmission interhumaine.",
+   "Exact : les selles contiennent le virus.",
+   "Faux : la transmission est féco-orale, pas respiratoire.",
+   "Exact : les collectivités sont le lieu des épidémies.",
+   "Faux : l'hygiène est efficace."
+  ]
+ },
+ {
+  "q": "La vaccination contre l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Elle est inefficace chez l'adulte",
+   "Elle donne une protection définitive sans rappel",
+   "Elle comporte 2 injections à 6 mois d'intervalle",
+   "Elle est très efficace",
+   "Elle est bien tolérée"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elle est efficace aussi chez l'adulte.",
+   "Faux : un rappel tous les 10 ans est prévu.",
+   "Exact : 2 administrations à 6 mois d'intervalle.",
+   "Exact : vaccin très efficace.",
+   "Exact : bien toléré."
+  ]
+ },
+ {
+  "q": "Comparaison des moyens de prévention des hépatites A et E : quelles propositions sont exactes ?",
+  "options": [
+   "L'immunisation passive est efficace contre les deux",
+   "Les mesures d'hygiène sont communes aux deux",
+   "Un vaccin efficace existe contre le VHA",
+   "Aucune prévention n'existe contre le VHE",
+   "Le vaccin contre le VHE est en cours d'étude"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : l'immunisation passive est inefficace contre le VHE.",
+   "Exact : hygiène universelle pour les deux.",
+   "Exact : vaccin inactivé très efficace contre le VHA.",
+   "Faux : les mesures d'hygiène s'appliquent au VHE.",
+   "Exact : vaccin recombinant du VHE en cours d'étude."
+  ]
+ },
+ {
+  "q": "Un enfant en collectivité en zone d'endémie : quelles propositions sont exactes ?",
+  "options": [
+   "La vaccination contre le VHA peut être discutée",
+   "Les épidémies surviennent dans les collectivités",
+   "Seuls les adultes doivent être vaccinés",
+   "Aucune mesure n'est nécessaire",
+   "Le lavage des mains est essentiel"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : les jeunes des internats/services pour l'enfance sont à risque.",
+   "Exact : épidémies dans les collectivités.",
+   "Faux : les enfants sont concernés par la prévention.",
+   "Faux : hygiène et vaccination sont recommandées.",
+   "Exact : hygiène des mains."
+  ]
+ },
+ {
+  "q": "Concernant l'immunité après hépatite A, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est durable",
+   "Elle nécessite des rappels vaccinaux",
+   "Elle protège contre une réinfection",
+   "Elle est liée aux IgG anti-VHA",
+   "Elle est de courte durée (3 mois)"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les IgG persistent, immunité durable.",
+   "Faux : l'infection naturelle donne une immunité durable sans rappel.",
+   "Exact : le sujet guéri est immunisé.",
+   "Exact : IgG = marqueur de l'immunité.",
+   "Faux : 3 mois est la durée de la protection par immunoglobulines."
+  ]
+ },
+ {
+  "q": "La protection par immunoglobulines contre le VHA : quelles propositions sont exactes ?",
+  "options": [
+   "Elle est de courte durée",
+   "Elle remplace la vaccination",
+   "Elle est immédiate",
+   "Elle utilise des immunoglobulines standards",
+   "Elle est durable 10 ans"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : courte durée (environ 3 mois).",
+   "Faux : elle ne remplace pas la vaccination, c'est une protection temporaire.",
+   "Exact : protection immédiate (3-5 jours).",
+   "Exact : immunoglobulines standards.",
+   "Faux : environ 3 mois, pas 10 ans."
+  ]
+ },
+ {
+  "q": "Un sujet non immunisé contre le VHA part en voyage : quelles propositions sont exactes ?",
+  "options": [
+   "La vaccination est le moyen de prévention durable",
+   "Les immunoglobulines donnent une protection immédiate temporaire",
+   "Aucune prévention n'est possible",
+   "La vaccination est inutile",
+   "Les mesures d'hygiène restent nécessaires"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : le vaccin inactivé est très efficace.",
+   "Exact : Ig = protection immédiate de courte durée.",
+   "Faux : vaccin et Ig sont possibles.",
+   "Faux : la vaccination est recommandée aux voyageurs.",
+   "Exact : l'hygiène reste la base."
+  ]
+ },
+ {
+  "q": "Concernant la prévention de l'hépatite E chez la femme enceinte voyageant en zone d'endémie, quelles propositions sont exactes ?",
+  "options": [
+   "Bien cuire les aliments est recommandé",
+   "L'immunisation passive est efficace",
+   "Bouillir l'eau est recommandé",
+   "Les mesures d'hygiène sont essentielles",
+   "Un vaccin commercialisé est disponible"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : bien cuire les aliments.",
+   "Faux : l'immunisation passive est inefficace contre le VHE.",
+   "Exact : bouillir l'eau en zone à risque.",
+   "Exact : l'hygiène est la principale prévention du VHE.",
+   "Faux : le vaccin est en cours d'étude."
+  ]
+ },
+ {
+  "q": "Les fruits dans la prévention : quelles propositions sont exactes ?",
+  "options": [
+   "Les fruits contaminés transmettent le VHA",
+   "Les fruits sont toujours sans risque",
+   "Seuls les fruits cuits sont dangereux",
+   "Éplucher les fruits est recommandé",
+   "Les fruits contaminés transmettent le VHE"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : fruits contaminés = vecteur du VHA.",
+   "Faux : les fruits contaminés sont à risque.",
+   "Faux : ce sont les fruits crus contaminés qui sont à risque.",
+   "Exact : éplucher les fruits cité.",
+   "Exact : fruits contaminés = vecteur du VHE."
+  ]
+ },
+ {
+  "q": "Concernant les virus des hépatites entérales, quelles propositions sont exactes ?",
+  "options": [
+   "Les virus A et E sont à transmission entérale",
+   "Les deux ont une capside icosaédrique",
+   "Les deux appartiennent à la même famille",
+   "Les deux sont des virus non enveloppés à ARN",
+   "Les deux donnent des hépatites chroniques"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : A et E = transmission entérale.",
+   "Exact : capside icosaédrique pour les deux.",
+   "Faux : Picornaviridae (VHA) vs Hepeviridae (VHE).",
+   "Exact : les deux sont non enveloppés, génome ARN+.",
+   "Faux : seul le VHE peut devenir chronique, jamais le VHA."
+  ]
+ },
+ {
+  "q": "Les différences entre VHA et VHE : quelles propositions sont exactes ?",
+  "options": [
+   "L'incubation est de 30 jours pour le VHA et 40 jours pour le VHE",
+   "Le VHA appartient aux Picornaviridae, le VHE aux Hepeviridae",
+   "Le VHA n'évolue jamais vers la chronicité, le VHE le peut",
+   "Les deux virus sont enveloppés",
+   "Le VHA est strictement humain, le VHE a un réservoir animal"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : 30 jours vs 40 jours.",
+   "Exact : familles différentes.",
+   "Exact : chronicité possible uniquement pour le VHE.",
+   "Faux : les deux sont non enveloppés.",
+   "Exact : VHA strictement humain ; VHE avec réservoir animal (porc, sanglier)."
+  ]
+ },
+ {
+  "q": "Les points communs entre VHA et VHE : quelles propositions sont exactes ?",
+  "options": [
+   "Vaccin commercialisé pour les deux",
+   "Génome ARN simple brin de polarité positive",
+   "Hépatites aiguës",
+   "Transmission féco-orale",
+   "Virus non enveloppés"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : seul le vaccin VHA est commercialisé ; celui du VHE est en cours d'étude.",
+   "Exact : ARN+ simple brin linéaire.",
+   "Exact : hépatites aiguës.",
+   "Exact : transmission entérale pour les deux.",
+   "Exact : non enveloppés."
+  ]
+ },
+ {
+  "q": "Concernant les tailles des virus des hépatites entérales, quelles propositions sont exactes ?",
+  "options": [
+   "Le VHA mesure environ 27 nm",
+   "Les deux sont de petits virus non enveloppés",
+   "Le VHE mesure 42 nm",
+   "Le VHE mesure 27 à 34 nm",
+   "Le VHA est plus grand que le VHE"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : 27 nm pour le VHA.",
+   "Exact : petits virus non enveloppés.",
+   "Faux : 42 nm est la taille du VHB, pas du VHE.",
+   "Exact : 27-34 nm pour le VHE.",
+   "Faux : le VHE (jusqu'à 34 nm) peut être plus grand que le VHA."
+  ]
+ },
+ {
+  "q": "Les virus découverts : A (1973), B (1968), C (1989). Quelles propositions sont exactes ?",
+  "options": [
+   "Le virus de l'hépatite B a été découvert en 1968",
+   "Le virus de l'hépatite C a été découvert avant le virus A",
+   "Le virus de l'hépatite A a été découvert avant le virus B",
+   "Le virus de l'hépatite A a été découvert en 1973",
+   "Le virus de l'hépatite C a été découvert en 1989"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : VHB découvert en 1968.",
+   "Faux : 1989 est après 1973.",
+   "Faux : 1973 est après 1968.",
+   "Exact : VHA découvert en 1973.",
+   "Exact : VHC découvert en 1989."
+  ]
+ },
+ {
+  "q": "Parmi les virus suivants, lesquels donnent des hépatites aiguës sans chronicité ?",
+  "options": [
+   "Le virus de l'hépatite C",
+   "Le virus de l'hépatite A",
+   "Le virus de l'hépatite B",
+   "Le virus de l'hépatite E chez l'immunocompétent",
+   "Le virus de l'hépatite D"
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : le VHC peut devenir chronique.",
+   "Exact : le VHA n'évolue jamais vers la chronicité.",
+   "Faux : le VHB peut devenir chronique.",
+   "Exact : chez l'immunocompétent, le VHE donne une hépatite aiguë.",
+   "Faux : le VHD peut devenir chronique."
+  ]
+ },
+ {
+  "q": "Parmi les virus suivants, lesquels peuvent évoluer vers la cirrhose ?",
+  "options": [
+   "Le virus de l'hépatite A",
+   "Le virus de l'hépatite E chez l'immunodéprimé chronique",
+   "Le virus de l'hépatite C",
+   "Le virus de l'hépatite D",
+   "Le virus de l'hépatite B"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le VHA ne donne pas de chronicité.",
+   "Exact : l'hépatite E chronique expose à un risque de cirrhose.",
+   "Exact : le VHC chronique évolue vers la cirrhose.",
+   "Exact : le VHD chronique évolue vers la cirrhose.",
+   "Exact : le VHB chronique évolue vers la cirrhose."
+  ]
+ },
+ {
+  "q": "Un patient présente une hépatite aiguë. Les IgM anti-VHA sont négatives, les IgM anti-VHE sont positives. Quelles propositions sont exactes ?",
+  "options": [
+   "Le diagnostic est une hépatite E aiguë",
+   "Le diagnostic est une hépatite A",
+   "Une hépatite A est exclue",
+   "La RT-PCR VHE peut confirmer",
+   "Aucun diagnostic n'est possible"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : IgM anti-VHE positives = hépatite E aiguë.",
+   "Faux : les IgM anti-VHA sont négatives.",
+   "Exact : IgM anti-VHA négatives excluent l'hépatite A aiguë.",
+   "Exact : la RT-PCR détecte l'ARN du VHE.",
+   "Faux : le diagnostic est posé."
+  ]
+ },
+ {
+  "q": "Un patient présente une hépatite aiguë. Les IgM anti-VHA sont positives. Quelles propositions sont exactes ?",
+  "options": [
+   "Le diagnostic est une hépatite E",
+   "Aucun traitement spécifique n'est indiqué",
+   "Le patient est contagieux",
+   "Le diagnostic est une hépatite A aiguë",
+   "La ribavirine est indiquée"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : les IgM anti-VHA sont spécifiques du VHA.",
+   "Exact : pas de traitement spécifique.",
+   "Exact : phase aiguë = sujet infectieux.",
+   "Exact : IgM anti-VHA = phase aiguë.",
+   "Faux : la ribavirine est réservée à l'hépatite E chronique."
+  ]
+ },
+ {
+  "q": "Concernant la déclaration et la prévention collective, quelles propositions sont exactes ?",
+  "options": [
+   "Aucune mesure collective n'existe",
+   "La vaccination du personnel exposé protège la collectivité",
+   "Les mesures d'hygiène protègent la collectivité",
+   "Seul le traitement curatif compte",
+   "Le traitement des eaux usées est une mesure collective"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : plusieurs mesures collectives existent.",
+   "Exact : vaccination des sujets à risque.",
+   "Exact : l'hygiène universelle est une mesure collective.",
+   "Faux : la prévention prime, le traitement est symptomatique.",
+   "Exact : traiter les eaux usées et surveiller les réseaux."
+  ]
+ },
+ {
+  "q": "Les hépatites virales représentent 95 % des hépatites. Quelles propositions sont exactes ?",
+  "options": [
+   "L'hépatite est une atteinte inflammatoire du foie",
+   "Les hépatites médicamenteuses ou toxiques représentent 4 %",
+   "Les hépatites bactériennes représentent 1 %",
+   "Les hépatites bactériennes sont les plus fréquentes",
+   "Toutes les hépatites sont virales"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : atteinte inflammatoire du foie.",
+   "Exact : 4 % médicamenteuses ou toxiques.",
+   "Exact : 1 % bactériennes.",
+   "Faux : elles ne représentent que 1 %.",
+   "Faux : 95 % sont virales, pas 100 %."
+  ]
+ },
+ {
+  "q": "Concernant les associations virales, quelles propositions sont exactes ?",
+  "options": [
+   "20 % des hépatites ne sont dues à aucun virus connu",
+   "Les virus G et TTV ont une physiopathogénie discutée",
+   "Toutes les hépatites ont un virus identifié",
+   "Les associations B et D sont possibles",
+   "Les associations B et C sont possibles"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : 20 % des hépatites sans virus connu.",
+   "Exact : virus G, TTV : physiopathogénie discutée.",
+   "Faux : 20 % n'ont aucun virus connu.",
+   "Exact : association BD citée.",
+   "Exact : association BC citée."
+  ]
+ },
+ {
+  "q": "Les hépatites secondaires à d'autres virus : quelles propositions sont exactes ?",
+  "options": [
+   "Le virus d'Epstein-Barr (EBV) peut donner une hépatite",
+   "Seuls les virus A à E donnent des hépatites",
+   "Le virus de l'hépatite A est un herpèsvirus",
+   "Le cytomégalovirus (CMV) peut donner une hépatite",
+   "Le virus de la fièvre jaune peut donner une hépatite"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : EBV cité parmi les virus donnant des hépatites secondaires.",
+   "Faux : d'autres virus (herpès, VZV, EBV, CMV…) peuvent donner des hépatites.",
+   "Faux : le VHA est un Picornaviridae.",
+   "Exact : CMV cité.",
+   "Exact : virus de la fièvre jaune cité."
+  ]
+ },
+ {
+  "q": "Un enfant de 10 ans en zone d'endémie a des IgG anti-VHA positives isolées. Quelles propositions sont exactes ?",
+  "options": [
+   "C'est fréquent dans les zones de forte endémicité",
+   "Il a été infecté anciennement",
+   "Il faut le vacciner en urgence",
+   "Il est immunisé",
+   "Il est en phase aiguë"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : plus de 95 % des enfants de moins de 15 ans sont immunisés au Maroc.",
+   "Exact : IgG isolées = infection ancienne.",
+   "Faux : il est déjà immunisé.",
+   "Exact : IgG = immunité.",
+   "Faux : la phase aiguë donne des IgM positives."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic d'une hépatite entérale chez l'enfant, quelles propositions sont exactes ?",
+  "options": [
+   "L'ictère est constant",
+   "La PCR est l'examen de première intention pour le VHA",
+   "La forme est souvent anictérique",
+   "La clinique seule ne suffit pas",
+   "Les IgM anti-VHA confirment l'hépatite A"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'ictère est rare chez le petit enfant (< 10 % avant 6 ans).",
+   "Faux : la PCR est sans intérêt en routine pour le VHA.",
+   "Exact : formes anictériques ou pseudo-grippales chez l'enfant.",
+   "Exact : l'expression clinique est voisine, les marqueurs sont nécessaires.",
+   "Exact : IgM anti-VHA = phase aiguë."
+  ]
+ },
+ {
+  "q": "La triade diagnostique de l'hépatite E aiguë selon le cours : quelles propositions sont exactes ?",
+  "options": [
+   "ARN du VHE positif ou IgM anti-VHE positives",
+   "Présence d'au moins un marqueur viral avec la cytolyse",
+   "Clinique seule",
+   "IgG isolées",
+   "Élévation significative des transaminases"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : ARN positif ou IgM positives.",
+   "Exact : définition de Dalton.",
+   "Faux : le diagnostic est biologique.",
+   "Faux : les IgG isolées signent une infection ancienne.",
+   "Exact : ↑ transaminases requise."
+  ]
+ },
+ {
+  "q": "Concernant les tubes de prélèvement, quelles propositions sont exactes ?",
+  "options": [
+   "Le tube EDTA sert au diagnostic indirect",
+   "Le choix du tube est indifférent",
+   "Le tube sec sert au diagnostic indirect",
+   "Le tube EDTA sert à la biologie moléculaire",
+   "Le tube sec sert à la sérologie"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le tube EDTA sert à la biologie moléculaire.",
+   "Faux : le choix du tube dépend de l'examen demandé.",
+   "Exact : tube sec = diagnostic indirect.",
+   "Exact : tube EDTA pour la biologie moléculaire.",
+   "Exact : tube sec pour le diagnostic indirect (sérologie)."
+  ]
+ },
+ {
+  "q": "Un patient présente une hépatite aiguë après transfusion. Quelles propositions sont exactes ?",
+  "options": [
+   "Les hépatites B et C sont les hypothèses principales",
+   "Une transmission parentérale du VHE est possible en période de virémie",
+   "Une transmission parentérale du VHA est possible en période de virémie",
+   "La transfusion ne transmet jamais le VHE",
+   "La transfusion ne transmet jamais le VHA"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : B et C sont les virus à transmission parentérale principale.",
+   "Exact : transmission parentérale rare du VHE par transfusion.",
+   "Exact : transmission parentérale rare du VHA par transfusion.",
+   "Faux : la transfusion peut transmettre le VHE en période de virémie.",
+   "Faux : la transfusion peut transmettre le VHA en période de virémie."
+  ]
+ },
+ {
+  "q": "Concernant la contagiosité comparée, quelles propositions sont exactes ?",
+  "options": [
+   "Le VHA a une grande contagiosité en zone tempérée",
+   "Le sujet infecté non malade est un réservoir",
+   "La transmission interhumaine est plus marquée pour le VHA que le VHE",
+   "Seuls les ictériques sont contagieux",
+   "La contagiosité est nulle"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : grande contagiosité en zone tempérée.",
+   "Exact : réservoir = sujet infecté, malade ou non.",
+   "Exact : HAV > HEV pour l'interhumain direct.",
+   "Faux : le sujet infecté non malade est aussi contagieux.",
+   "Faux : la contagiosité est grande."
+  ]
+ },
+ {
+  "q": "Les mesures d'hygiène universelle : quelles propositions sont exactes ?",
+  "options": [
+   "Se laver les mains",
+   "Bouillir l'eau en zone à risque",
+   "Éplucher les fruits",
+   "Consommer des coquillages crus en zone d'endémie",
+   "Bien cuire les aliments"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : lavage des mains.",
+   "Exact : bouillir l'eau.",
+   "Exact : éplucher les fruits.",
+   "Faux : les coquillages crus contaminés transmettent les hépatites entérales.",
+   "Exact : bien cuire les aliments."
+  ]
+ },
+ {
+  "q": "Le rappel vaccinal contre l'hépatite A : quelles propositions sont exactes ?",
+  "options": [
+   "Le rappel est annuel",
+   "Le vaccin est inactivé",
+   "Un rappel est prévu tous les 10 ans",
+   "Aucun rappel n'est nécessaire",
+   "Le schéma initial comporte 2 injections à 6 mois d'intervalle"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : le rappel est tous les 10 ans, pas annuel.",
+   "Exact : vaccin inactivé.",
+   "Exact : rappel tous les 10 ans.",
+   "Faux : un rappel tous les 10 ans est prévu.",
+   "Exact : 2 administrations à 6 mois d'intervalle."
+  ]
+ },
+ {
+  "q": "Une femme enceinte au 2ème trimestre voyage en zone d'endémie du VHE. Quelles propositions sont exactes ?",
+  "options": [
+   "Le vaccin contre le VHE n'est pas commercialisé",
+   "L'injection d'immunoglobulines la protège",
+   "L'immunisation passive est inefficace",
+   "Le risque est maximal au 3ème trimestre",
+   "Les mesures d'hygiène sont la principale prévention"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : vaccin en cours d'étude.",
+   "Faux : inefficace contre le VHE.",
+   "Exact : immunisation passive inefficace.",
+   "Exact : gravité particulière au 3ème trimestre.",
+   "Exact : l'hygiène est la base de la prévention du VHE."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution comparée des hépatites A et E, quelles propositions sont exactes ?",
+  "options": [
+   "Aucune des deux ne guérit",
+   "Le VHA n'évolue jamais vers la chronicité",
+   "Les deux donnent des hépatites aiguës",
+   "Le VHE peut donner des formes chroniques chez l'immunodéprimé",
+   "Les deux donnent des hépatites chroniques"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : l'évolution est favorable dans la majorité des cas.",
+   "Exact : jamais de chronicité pour le VHA.",
+   "Exact : A et E = hépatites aiguës.",
+   "Exact : formes chroniques du VHE chez l'immunodéprimé.",
+   "Faux : seul le VHE peut devenir chronique."
+  ]
+ },
+ {
+  "q": "Le diagnostic virologique des hépatites entérales en résumé : quelles propositions sont exactes ?",
+  "options": [
+   "Aucun marqueur n'existe",
+   "Hépatite A : Ac anti-VHA IgM",
+   "La sérologie est la base du diagnostic",
+   "La culture virale est la base du diagnostic",
+   "Hépatite E : Ac anti-VHE IgM et/ou ARN viral"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : de nombreux marqueurs existent.",
+   "Exact : conclusion du cours pour le VHA.",
+   "Exact : diagnostic indirect par sérologie.",
+   "Faux : les virus ne se cultivent pas en routine.",
+   "Exact : conclusion du cours pour le VHE."
+  ]
+ },
+ {
+  "q": "La prévention des hépatites entérales en résumé : quelles propositions sont exactes ?",
+  "options": [
+   "Aucune prévention n'est possible",
+   "Vaccin contre l'hépatite A",
+   "Le vaccin contre le VHE est en cours d'étude",
+   "Mesures d'hygiène universelle",
+   "Seule la vaccination compte"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : hygiène et vaccin existent.",
+   "Exact : vaccin HAV.",
+   "Exact : vaccin VHE en cours d'étude.",
+   "Exact : conclusion du cours.",
+   "Faux : l'hygiène est aussi essentielle."
+  ]
+ }
+]

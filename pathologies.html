@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0e7c86">
+<title>Pathologies — Flashcards FMPR</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="manifest" href="manifest.json">
+<style>
+  .patho-search{margin:10px 0}
+  .patho-search input{width:100%}
+  .fiche-list a{display:block;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;margin-bottom:8px;text-decoration:none;color:inherit;background:#fff}
+  .fiche-list a small{color:#64748b}
+  .fiche-def{background:#f0fdfa;border:1px solid #99f6e4;border-radius:10px;padding:12px;margin:10px 0}
+  details.fsec{border:1px solid #e2e8f0;border-radius:10px;margin-bottom:8px;background:#fff}
+  details.fsec summary{padding:11px 12px;font-weight:700;cursor:pointer;list-style:none}
+  details.fsec summary::-webkit-details-marker{display:none}
+  details.fsec summary:before{content:'▸ ';color:#0e7c86}
+  details.fsec[open] summary:before{content:'▾ '}
+  details.fsec .body{padding:0 12px 12px}
+  details.fsec ul{margin:6px 0;padding-left:20px}
+  details.fsec li{margin-bottom:4px}
+  .ordo{border-left:3px solid #0e7c86;padding:6px 0 6px 12px;margin:10px 0}
+  .ordo .titre{font-weight:700;margin-bottom:6px}
+  .ordo .ligne{margin-bottom:8px}
+  .ordo .med{font-weight:600}
+  .ordo .prix{color:#0e7c86;font-size:.9em}
+  .ordo .surv{font-size:.9em;color:#64748b;margin-top:6px}
+  .back{display:inline-block;margin-bottom:10px;color:#0e7c86;font-weight:700;text-decoration:none}
+  .spec-grid .disc small{display:block}
+</style>
+</head>
+<body>
+<div id="app"></div>
+<script>
+/* Vigie de demarrage : si l'app ne s'affiche pas (module bloque,
+   navigateur trop ancien...), affiche un message d'aide au lieu d'une page blanche. */
+(function () {
+  var app = document.getElementById('app');
+  if (!app) return;
+  function card(title, body) {
+    if (app.children.length) return;
+    app.innerHTML =
+      '<div style="min-height:70vh;display:flex;align-items:center;justify-content:center;padding:24px;font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;">' +
+      '<div style="max-width:420px;background:#fff;border-radius:16px;box-shadow:0 8px 24px rgba(14,124,134,.15);padding:28px 24px;text-align:center;color:#1c2733;">' +
+      '<div style="font-size:2rem;margin-bottom:8px;">&#129657;</div>' +
+      '<h2 style="margin:0 0 8px;font-size:1.1rem;">' + title + '</h2>' +
+      '<p style="margin:0;font-size:.92rem;line-height:1.6;color:#5b6b7c;">' + body + '</p></div></div>';
+  }
+  var noImportMap = !('supports' in HTMLScriptElement) || !HTMLScriptElement.supports('importmap');
+  if (noImportMap) {
+    card('Mets \u00e0 jour ton navigateur',
+      'Cette app a besoin d\u2019un navigateur r\u00e9cent. Sur iPhone : R\u00e9glages \u2192 G\u00e9n\u00e9ral \u2192 Mise \u00e0 jour logicielle, ou ouvre ce lien dans Chrome.');
+    return;
+  }
+  setTimeout(function () {
+    card('La page n\u2019arrive pas \u00e0 charger',
+      'V\u00e9rifie ta connexion internet, d\u00e9sactive ton bloqueur de pub pour ce site, puis recharge la page. Si \u00e7a persiste, ouvre le lien dans Chrome ou un Safari \u00e0 jour.');
+  }, 9000);
+})();
+</script>
+</div>
+<div id="toast" class="toast" hidden></div>
+<script>
+/* Chien de garde : si le module ne démarre pas (cache, réseau), on le dit
+   au lieu de rester bloqué sur "Chargement…". */
+setTimeout(function () {
+  if (!window.__pathoBooted && !document.querySelector('.lock')) {
+    var app = document.getElementById('app');
+    if (app) {
+      app.innerHTML = '<div class="lock"><div class="big">📡</div><h2>Chargement bloqué</h2>' +
+        '<p>La page n\'a pas pu démarrer. Vérifie ta connexion puis réessaie.</p>' +
+        '<button class="btn btn-primary" onclick="location.reload()">🔄 Réessayer</button></div>';
+    }
+  }
+}, 20000);
+window.addEventListener('error', function (e) {
+  var sub = document.querySelector('.boot-sub');
+  if (sub && !window.__pathoBooted) {
+    sub.textContent = 'Erreur: ' + (e.message || 'chargement') + ' — dis-moi ce message.';
+  }
+}, true);
+window.addEventListener('unhandledrejection', function (e) {
+  var sub = document.querySelector('.boot-sub');
+  if (sub && !window.__pathoBooted) {
+    var r = e.reason;
+    sub.textContent = 'Erreur: ' + ((r && r.message) || r || 'promesse') + ' — dis-moi ce message.';
+  }
+});
+</script>
+<script type="module" src="js/patho.js?v=8"></script>
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').catch(() => {});
+  });
+}
+</script>
+</body>
+</html>

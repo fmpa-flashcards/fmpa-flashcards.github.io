@@ -1,0 +1,4443 @@
+[
+ {
+  "q": "Concernant les deux propriétés fondamentales d'un antigène, lesquelles sont exactes ?",
+  "options": [
+   "L'immunogénicité est le pouvoir d'induire une réponse immunitaire",
+   "L'antigénicité est la capacité de se lier spécifiquement aux produits de la réponse immunitaire",
+   "Un antigène complet possède à la fois l'immunogénicité et l'antigénicité",
+   "L'antigénicité correspond au pouvoir d'induction d'une réponse immunitaire",
+   "L'immunogénicité correspond à la liaison spécifique aux immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définition de l'immunogénicité selon le cours.",
+   "Exact : définition de l'antigénicité (liaison spécifique Ig, BCR ou TCR).",
+   "Exact : l'antigène possède les deux propriétés.",
+   "Faux : c'est la définition de l'immunogénicité.",
+   "Faux : c'est la définition de l'antigénicité."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'haptène, lesquelles sont exactes ?",
+  "options": [
+   "Un haptène ne possède que l'antigénicité",
+   "Un haptène seul peut induire une réponse immunitaire",
+   "Un haptène se lie spécifiquement aux anticorps dirigés contre lui",
+   "Un haptène possède l'immunogénicité mais pas l'antigénicité",
+   "Un haptène couplé à une protéine porteuse devient immunogène"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'haptène ne possède que la 2e propriété de l'antigène.",
+   "Faux : seul, il n'induit pas de réponse immunitaire.",
+   "Exact : il conserve la capacité de liaison spécifique (antigénicité).",
+   "Faux : c'est l'inverse, il ne possède que l'antigénicité.",
+   "Exact : le conjugué haptène-protéine porteuse acquiert l'immunogénicité."
+  ]
+ },
+ {
+  "q": "À propos de l'épitope (déterminant antigénique), lesquelles sont exactes ?",
+  "options": [
+   "C'est la région immunologiquement active de la molécule d'antigène",
+   "Il se lie aux immunoglobulines, au BCR ou au TCR",
+   "Un antigène peut posséder plusieurs épitopes différents ou répétitifs",
+   "La valence d'un antigène est définie par le nombre de ses épitopes",
+   "Un antigène ne peut présenter qu'un seul épitope"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : définition de l'épitope selon le cours.",
+   "Exact : l'épitope est la zone de liaison aux produits de la RI.",
+   "Exact : épitopes différents ou répétés sur une même molécule.",
+   "Exact : la valence correspond au nombre d'épitopes.",
+   "Faux : un antigène porte le plus souvent plusieurs épitopes."
+  ]
+ },
+ {
+  "q": "Concernant la taille des épitopes, lesquelles sont exactes ?",
+  "options": [
+   "Un épitope porté par une protéine mesure environ une dizaine d'acides aminés",
+   "Un épitope porté par un polyoside mesure 5 à 6 oses",
+   "Un épitope protéique mesure toujours plus de 50 acides aminés",
+   "Un épitope polyosidique est constitué d'un seul ose",
+   "La taille de l'épitope dépend de la nature chimique de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : ~10 acides aminés pour un épitope protéique.",
+   "Exact : 5 à 6 oses pour un épitope polyosidique.",
+   "Faux : c'est environ une dizaine d'acides aminés.",
+   "Faux : il faut 5 à 6 oses.",
+   "Exact : 10 AA pour les protéines, 5-6 oses pour les polyosides."
+  ]
+ },
+ {
+  "q": "Concernant les produits de la réponse immunitaire se liant spécifiquement à l'antigène, lesquels sont exacts ?",
+  "options": [
+   "Les immunoglobulines",
+   "Le BCR (récepteur des lymphocytes B)",
+   "Le TCR (récepteur des lymphocytes T)",
+   "Les cytokines",
+   "Les protéines du système du complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les Ig sont les produits de la RI humorale.",
+   "Exact : le BCR lie l'antigène natif.",
+   "Exact : le TCR lie l'antigène présenté.",
+   "Faux : les cytokines sont des médiateurs, pas des récepteurs d'Ag.",
+   "Faux : le complément est un effecteur, pas un récepteur spécifique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives à l'antigénicité, lesquelles sont exactes ?",
+  "options": [
+   "C'est la capacité de l'antigène à être reconnu par les produits de la réponse immunitaire",
+   "Elle se manifeste par une liaison spécifique antigène-anticorps",
+   "Elle suffit à elle seule à induire une réponse immunitaire",
+   "Elle est possédée par l'haptène",
+   "Elle équivaut à l'immunogénicité"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : reconnaissance spécifique par Ig, BCR ou TCR.",
+   "Exact : la liaison Ag-Ac est l'expression de l'antigénicité.",
+   "Faux : l'induction de la RI relève de l'immunogénicité.",
+   "Exact : l'haptène possède l'antigénicité sans l'immunogénicité.",
+   "Faux : ce sont deux propriétés distinctes."
+  ]
+ },
+ {
+  "q": "Concernant l'immunogénicité, lesquelles sont exactes ?",
+  "options": [
+   "C'est le pouvoir d'induction d'une réponse immunitaire",
+   "Elle dépend des caractéristiques de l'antigène (nature, taille, dose, voie)",
+   "Tout antigène est immunogène quelles que soient les conditions d'administration",
+   "Un haptène seul ne la possède pas",
+   "Elle correspond à la liaison spécifique aux anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : définition de l'immunogénicité.",
+   "Exact : nature, taille, dose et voie modulent l'immunogénicité.",
+   "Faux : dose et voie conditionnent la réponse (tolérance possible).",
+   "Exact : l'haptène seul n'induit pas de RI.",
+   "Faux : c'est la définition de l'antigénicité."
+  ]
+ },
+ {
+  "q": "Concernant l'antigène complet, lesquelles sont exactes ?",
+  "options": [
+   "Il possède l'immunogénicité",
+   "Il possède l'antigénicité",
+   "Il ne possède que l'antigénicité",
+   "Il peut à la fois induire une réponse immunitaire et se lier à ses produits",
+   "Il est obligatoirement de nature protéique"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : première propriété de l'antigène.",
+   "Exact : seconde propriété de l'antigène.",
+   "Faux : c'est la définition de l'haptène.",
+   "Exact : c'est la réunion des deux propriétés.",
+   "Faux : les polyosides sont aussi des antigènes complets."
+  ]
+ },
+ {
+  "q": "À propos du déterminant antigénique, lesquelles sont exactes ?",
+  "options": [
+   "C'est un synonyme d'épitope",
+   "C'est la région de la molécule d'antigène immunologiquement active",
+   "C'est la molécule d'antigène dans son intégralité",
+   "Plusieurs déterminants différents peuvent coexister sur un même antigène",
+   "Le déterminant antigénique définit la valence de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : déterminant antigénique = épitope.",
+   "Exact : seule la région active est reconnue.",
+   "Faux : c'est une région limitée de la molécule.",
+   "Exact : épitopes différents ou répétitifs possibles.",
+   "Exact : la valence = nombre d'épitopes."
+  ]
+ },
+ {
+  "q": "Concernant la valence d'un antigène, lesquelles sont exactes ?",
+  "options": [
+   "Elle correspond au nombre d'épitopes portés par la molécule d'antigène",
+   "Elle peut résulter d'épitopes différents sur une même molécule",
+   "Elle peut résulter d'épitopes répétitifs sur une même molécule",
+   "Un antigène monovalent ne porte qu'un seul épitope",
+   "La valence d'un antigène est toujours égale à un"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : définition de la valence.",
+   "Exact : épitopes différents possibles.",
+   "Exact : épitopes répétés possibles.",
+   "Exact : un seul épitope = monovalent.",
+   "Faux : la valence est le plus souvent supérieure à un."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les haptènes, lesquelles sont exactes ?",
+  "options": [
+   "La pénicilline est un exemple classique d'haptène",
+   "Le dinitrophénol (DNP) est un haptène utilisé en immunologie expérimentale",
+   "Un haptène seul est incapable de déclencher la synthèse d'anticorps",
+   "Un haptène est toujours une macromolécule",
+   "Le conjugué haptène-protéine induit des anticorps capables de lier l'haptène seul"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la pénicilline, petite molécule, est un haptène.",
+   "Exact : le DNP est l'haptène de référence en expérimentation.",
+   "Exact : il lui manque l'immunogénicité.",
+   "Faux : ce sont au contraire de petites molécules.",
+   "Exact : les Ac anti-conjugué reconnaissent l'haptène libre."
+  ]
+ },
+ {
+  "q": "À propos des épitopes linéaires (séquentiels), lesquelles sont exactes ?",
+  "options": [
+   "Ils sont constitués d'une suite continue d'acides aminés",
+   "Ils sont reconnus même après dénaturation de la protéine",
+   "Ils correspondent aux peptides présentés par les molécules du CMH",
+   "Ils sont détruits par la dénaturation de la protéine",
+   "Ils sont formés d'acides aminés éloignés rapprochés par le repliement"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : épitope continu dans la séquence.",
+   "Exact : la séquence primaire est conservée après dénaturation.",
+   "Exact : le CMH présente des peptides linéaires au TCR.",
+   "Faux : c'est le cas des épitopes conformationnels.",
+   "Faux : c'est la définition de l'épitope conformationnel."
+  ]
+ },
+ {
+  "q": "À propos des épitopes conformationnels (discontinus), lesquelles sont exactes ?",
+  "options": [
+   "Ils sont formés d'acides aminés éloignés dans la séquence mais rapprochés par le repliement protéique",
+   "Ils sont détruits par la dénaturation de la protéine",
+   "Les anticorps reconnaissent préférentiellement ce type d'épitope sur l'antigène natif",
+   "Ils sont constitués d'une suite continue d'acides aminés",
+   "Ils sont reconnus par le TCR sous forme de peptides présentés par le CMH"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : épitope discontinu lié à la structure 3D.",
+   "Exact : la dénaturation abolit la conformation.",
+   "Exact : les Ac lient l'Ag natif sous sa forme repliée.",
+   "Faux : c'est la définition de l'épitope linéaire.",
+   "Faux : le TCR reconnaît des peptides linéaires présentés."
+  ]
+ },
+ {
+  "q": "Concernant la reconnaissance de l'antigène par les lymphocytes, lesquelles sont exactes ?",
+  "options": [
+   "Le BCR reconnaît l'antigène sous sa forme native",
+   "Le TCR reconnaît l'antigène sous forme de peptide présenté par le CMH",
+   "Les immunoglobulines sécrétées reconnaissent l'antigène natif",
+   "Le TCR reconnaît l'antigène soluble sous sa forme native",
+   "Le BCR nécessite l'apprêtement de l'antigène pour le reconnaître"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le BCR lie l'Ag natif non apprêté.",
+   "Exact : le TCR ne voit que le peptide + CMH.",
+   "Exact : les Ac circulants lient l'Ag natif.",
+   "Faux : le TCR ne reconnaît jamais l'Ag natif soluble.",
+   "Faux : le BCR reconnaît l'Ag sans apprêtement préalable."
+  ]
+ },
+ {
+  "q": "Concernant la définition de l'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Toute substance capable d'induire une réponse immunitaire spécifique",
+   "Toute substance capable de se lier spécifiquement aux produits de la réponse immunitaire",
+   "Toute substance étrangère à l'organisme",
+   "Une molécule qui ne possède que l'antigénicité",
+   "Une molécule possédant à la fois immunogénicité et antigénicité"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : c'est l'immunogénicité.",
+   "Exact : c'est l'antigénicité.",
+   "Faux : les auto-antigènes sont des antigènes du soi.",
+   "Faux : c'est la définition de l'haptène.",
+   "Exact : l'antigène complet réunit les deux propriétés."
+  ]
+ },
+ {
+  "q": "Concernant les épitopes répétés sur une même molécule d'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Ils définissent en partie la valence de l'antigène",
+   "Ils permettent le pontage de plusieurs BCR à la surface du lymphocyte B",
+   "Ils caractérisent les antigènes thymo-indépendants de type 2",
+   "Ils empêchent toute liaison aux anticorps",
+   "Ils sont spécifiques des haptènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : épitopes répétés = valence élevée.",
+   "Exact : le pontage des BCR active le LB (base des TI-2).",
+   "Exact : les polyosides bactériens TI-2 ont une structure répétitive.",
+   "Faux : ils multiplient au contraire les sites de liaison.",
+   "Faux : les haptènes sont de petites molécules à épitope unique."
+  ]
+ },
+ {
+  "q": "À propos de l'antigénicité d'une molécule, lesquelles sont exactes ?",
+  "options": [
+   "Elle peut être mise en évidence par des tests sérologiques",
+   "Elle correspond à la reconnaissance spécifique par les anticorps",
+   "Elle implique toujours l'induction d'une réponse immunitaire",
+   "Un haptène la possède",
+   "Elle est indépendante de la structure de l'épitope"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : les tests sérologiques reposent sur la liaison Ag-Ac.",
+   "Exact : liaison spécifique aux produits de la RI.",
+   "Faux : l'induction relève de l'immunogénicité.",
+   "Exact : l'haptène ne possède que cette propriété.",
+   "Faux : elle dépend directement de la structure de l'épitope."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la réponse immunitaire et l'antigène, lesquelles sont exactes ?",
+  "options": [
+   "L'immunogénicité est le pouvoir d'induction de la réponse immunitaire",
+   "L'antigénicité est la capacité de liaison aux produits de cette réponse",
+   "Les deux propriétés sont toujours indissociables",
+   "L'haptène dissocie les deux propriétés",
+   "Un antigène thymo-indépendant ne possède pas d'antigénicité"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : définition de l'immunogénicité.",
+   "Exact : définition de l'antigénicité.",
+   "Faux : l'haptène ne possède que l'antigénicité.",
+   "Exact : il possède l'antigénicité sans l'immunogénicité.",
+   "Faux : les Ag TI possèdent les deux propriétés."
+  ]
+ },
+ {
+  "q": "Concernant la spécificité de la liaison antigène-anticorps, lesquelles sont exactes ?",
+  "options": [
+   "Elle repose sur la complémentarité entre l'épitope et le paratope",
+   "Le paratope est la région de l'anticorps qui lie l'épitope",
+   "Elle est à la base de l'antigénicité",
+   "Deux épitopes différents sont toujours reconnus par le même anticorps",
+   "La liaison antigène-anticorps est non spécifique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : complémentarité épitope-paratope.",
+   "Exact : le paratope est le site de liaison de l'Ac.",
+   "Exact : la liaison spécifique définit l'antigénicité.",
+   "Faux : un Ac est spécifique d'un épitope donné.",
+   "Faux : elle est hautement spécifique."
+  ]
+ },
+ {
+  "q": "À propos des antigènes protéiques, lesquelles sont exactes ?",
+  "options": [
+   "Leurs épitopes mesurent environ une dizaine d'acides aminés",
+   "Ce sont les antigènes les plus immunogènes",
+   "Leurs épitopes peuvent être linéaires ou conformationnels",
+   "Ils sont toujours thymo-dépendants",
+   "Leurs épitopes mesurent 5 à 6 oses"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : taille de l'épitope protéique selon le cours.",
+   "Exact : protéines > polysaccharides > lipides.",
+   "Exact : les deux types d'épitopes existent.",
+   "Faux : la plupart le sont, mais ce n'est pas absolu.",
+   "Faux : 5 à 6 oses = épitope polyosidique."
+  ]
+ },
+ {
+  "q": "À propos des antigènes polyosidiques, lesquelles sont exactes ?",
+  "options": [
+   "Leurs épitopes mesurent 5 à 6 oses",
+   "Ils sont moins immunogènes que les protéines",
+   "Les polyosides de surface des bactéries sont des antigènes thymo-indépendants de type 2",
+   "Leur structure répétitive permet le pontage des BCR",
+   "Ils sont plus immunogènes que les protéines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : taille de l'épitope polyosidique.",
+   "Exact : protéines > polysaccharides en immunogénicité.",
+   "Exact : exemple classique d'Ag TI-2.",
+   "Exact : structure répétitive = pontage des BCR.",
+   "Faux : les protéines sont les meilleurs immunogènes."
+  ]
+ },
+ {
+  "q": "Concernant l'haptène et la protéine porteuse, lesquelles sont exactes ?",
+  "options": [
+   "L'haptène seul n'est pas immunogène",
+   "La protéine porteuse apporte l'immunogénicité au conjugué",
+   "Les anticorps induits reconnaissent l'haptène seul",
+   "L'haptène seul induit une réponse immunitaire complète",
+   "La protéine porteuse n'a aucun rôle immunologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : il ne possède que l'antigénicité.",
+   "Exact : le transporteur rend le conjugué immunogène.",
+   "Exact : les Ac anti-haptène lient l'haptène libre.",
+   "Faux : seul, il ne déclenche pas de RI.",
+   "Faux : elle confère l'immunogénicité au conjugué."
+  ]
+ },
+ {
+  "q": "À propos de l'épitope, lesquelles sont exactes ?",
+  "options": [
+   "C'est un déterminant antigénique",
+   "C'est la région immunologiquement active de l'antigène",
+   "Sa taille est d'environ 10 acides aminés pour une protéine",
+   "Sa taille est de 5 à 6 oses pour un polyoside",
+   "L'antigène entier constitue un épitope unique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : épitope = déterminant antigénique.",
+   "Exact : définition du cours.",
+   "Exact : épitope protéique.",
+   "Exact : épitope polyosidique.",
+   "Faux : l'épitope est une région limitée de la molécule."
+  ]
+ },
+ {
+  "q": "Concernant les propriétés de l'antigène, lesquelles sont exactes ?",
+  "options": [
+   "L'immunogénicité nécessite le plus souvent une molécule complexe et de taille suffisante",
+   "L'antigénicité ne nécessite qu'un épitope structuralement défini",
+   "Un haptène possède les deux propriétés",
+   "L'immunogénicité et l'antigénicité sont deux propriétés distinctes",
+   "Toute molécule antigénique est immunogène"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : taille et complexité conditionnent l'immunogénicité.",
+   "Exact : un petit épitope suffit à la liaison spécifique.",
+   "Faux : l'haptène ne possède que l'antigénicité.",
+   "Exact : elles peuvent être dissociées (haptène).",
+   "Faux : l'haptène est antigénique sans être immunogène."
+  ]
+ },
+ {
+  "q": "À propos de la liaison de l'antigène à ses récepteurs, lesquelles sont exactes ?",
+  "options": [
+   "L'épitope se lie au paratope de l'immunoglobuline",
+   "L'antigène natif se lie directement au BCR",
+   "Le peptide antigénique présenté par le CMH se lie au TCR",
+   "L'antigène natif soluble se lie directement au TCR",
+   "Les cytokines se lient à l'épitope"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : complémentarité épitope-paratope.",
+   "Exact : le BCR reconnaît l'Ag natif.",
+   "Exact : le TCR reconnaît le complexe peptide-CMH.",
+   "Faux : le TCR ne lie jamais l'Ag natif.",
+   "Faux : les cytokines ne sont pas des récepteurs d'Ag."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives à la valence, lesquelles sont exactes ?",
+  "options": [
+   "Un antigène polyvalent porte plusieurs épitopes",
+   "La répétition d'un même épitope augmente la valence",
+   "Une valence élevée favorise le pontage des récepteurs lymphocytaires",
+   "La valence correspond à la masse moléculaire de l'antigène",
+   "Tous les antigènes sont monovalents"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : plusieurs épitopes = polyvalent.",
+   "Exact : épitopes répétés = valence élevée.",
+   "Exact : le pontage des BCR active le lymphocyte.",
+   "Faux : la valence = nombre d'épitopes, pas la masse.",
+   "Faux : la plupart portent plusieurs épitopes."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes du soi (auto-antigènes), lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des antigènes appartenant à l'organisme lui-même",
+   "Ils sont normalement tolérés par le système immunitaire",
+   "Leur rupture de tolérance conduit à l'auto-immunité",
+   "Ils ne possèdent pas d'antigénicité",
+   "Ils sont toujours immunogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : autoAg = antigènes du soi.",
+   "Exact : la tolérance au soi est la règle.",
+   "Exact : l'auto-immunité = réponse contre le soi.",
+   "Faux : ils possèdent des épitopes reconnus en auto-immunité.",
+   "Faux : ils sont normalement non immunogènes (tolérance)."
+  ]
+ },
+ {
+  "q": "À propos des xéno-antigènes, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des antigènes d'une espèce différente",
+   "La distance phylogénétique accroît leur immunogénicité",
+   "Plus l'espèce donneuse est éloignée, plus l'antigène est immunogène",
+   "Ce sont des antigènes du soi",
+   "Ils concernent des individus de la même espèce"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : xénoAg = espèce différente.",
+   "Exact : l'éloignement phylogénétique augmente l'immunogénicité.",
+   "Exact : conséquence de la distance phylogénétique.",
+   "Faux : ce sont des antigènes étrangers.",
+   "Faux : c'est la définition des allo-antigènes."
+  ]
+ },
+ {
+  "q": "À propos des allo-antigènes, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des antigènes présents chez certains individus d'une même espèce",
+   "Ils peuvent être immunogènes pour les individus qui ne les possèdent pas",
+   "Les antigènes des groupes sanguins ABO sont des allo-antigènes",
+   "Les antigènes HLA sont des allo-antigènes",
+   "Ce sont des antigènes d'une espèce différente"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : définition des alloAg.",
+   "Exact : immunogénicité chez les individus dépourvus.",
+   "Exact : exemple classique d'allo-antigènes.",
+   "Exact : le système HLA est hautement polymorphe.",
+   "Faux : c'est la définition des xéno-antigènes."
+  ]
+ },
+ {
+  "q": "Concernant le caractère étranger de l'antigène, lesquelles sont exactes ?",
+  "options": [
+   "L'antigène est reconnu par le système immunitaire comme non-soi",
+   "La distance phylogénétique augmente le pouvoir immunogène",
+   "Un antigène du soi est toujours fortement immunogène",
+   "Le caractère étranger est une caractéristique des antigènes",
+   "Les auto-antigènes sont reconnus comme du non-soi"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : reconnaissance du non-soi.",
+   "Exact : plus la distance est grande, plus l'Ag est immunogène.",
+   "Faux : le soi est normalement toléré.",
+   "Exact : cité parmi les caractéristiques des Ag.",
+   "Faux : les autoAg sont du soi, normalement tolérés."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les déterminants antigéniques, lesquelles sont exactes ?",
+  "options": [
+   "Un antigène peut porter des épitopes différents",
+   "Un antigène peut porter des épitopes répétitifs",
+   "Chaque épitope peut induire la production d'anticorps spécifiques",
+   "Un antigène ne porte qu'un seul type d'épitope",
+   "Les épitopes répétés caractérisent les antigènes TI-2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : épitopes différents possibles.",
+   "Exact : épitopes répétitifs possibles.",
+   "Exact : chaque épitope est immunologiquement actif.",
+   "Faux : plusieurs types peuvent coexister.",
+   "Exact : polyosides bactériens à structure répétitive."
+  ]
+ },
+ {
+  "q": "Concernant l'épitope et la réponse humorale, lesquelles sont exactes ?",
+  "options": [
+   "L'épitope est la cible des anticorps",
+   "Plusieurs anticorps différents peuvent reconnaître différents épitopes d'un même antigène",
+   "Un anticorps monoclonal reconnaît un seul épitope",
+   "Un sérum polyclonal reconnaît plusieurs épitopes d'un même antigène",
+   "Un anticorps reconnaît toujours la totalité de la molécule d'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les Ac se lient aux épitopes.",
+   "Exact : chaque épitope induit ses propres Ac.",
+   "Exact : un Ac monoclonal = une spécificité.",
+   "Exact : le sérum polyclonal contient des Ac anti-épitopes variés.",
+   "Faux : l'Ac ne lie que son épitope."
+  ]
+ },
+ {
+  "q": "À propos de la définition de l'antigène selon le cours, lesquelles sont exactes ?",
+  "options": [
+   "L'antigène possède l'immunogénicité",
+   "L'antigène possède l'antigénicité",
+   "L'haptène est un antigène incomplet",
+   "L'épitope est la région immunologiquement active",
+   "L'antigène est toujours une protéine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : première propriété.",
+   "Exact : seconde propriété.",
+   "Exact : il ne possède que l'antigénicité.",
+   "Exact : déterminant antigénique.",
+   "Faux : polyosides et autres molécules aussi."
+  ]
+ },
+ {
+  "q": "Concernant l'antigénicité sans immunogénicité, lesquelles sont exactes ?",
+  "options": [
+   "Un haptène seul se liant à un anticorps spécifique",
+   "Un haptène seul induisant une réponse immunitaire",
+   "Un épitope reconnu par un anticorps sans déclencher de RI",
+   "Un antigène complet induisant des anticorps",
+   "Un antigène thymo-dépendant activant les LT helper"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Exact : liaison spécifique sans induction de RI.",
+   "Faux : l'haptène seul n'induit pas de RI.",
+   "Exact : reconnaissance possible sans immunogénicité.",
+   "Faux : l'Ag complet possède les deux propriétés.",
+   "Faux : l'Ag TD est pleinement immunogène."
+  ]
+ },
+ {
+  "q": "Concernant la taille minimale immunologiquement active, lesquelles sont exactes ?",
+  "options": [
+   "Une dizaine d'acides aminés suffit à former un épitope protéique",
+   "5 à 6 oses suffisent à former un épitope polyosidique",
+   "Un seul acide aminé constitue un épitope complet",
+   "Un seul ose constitue un épitope polyosidique complet",
+   "La taille de l'épitope est indépendante de la nature chimique"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : taille de l'épitope protéique selon le cours.",
+   "Exact : taille de l'épitope polyosidique selon le cours.",
+   "Faux : il faut environ une dizaine d'AA.",
+   "Faux : il faut 5 à 6 oses.",
+   "Faux : 10 AA vs 5-6 oses selon la nature."
+  ]
+ },
+ {
+  "q": "À propos des antigènes et de leurs épitopes, lesquelles sont exactes ?",
+  "options": [
+   "La molécule d'antigène porte le ou les épitopes",
+   "L'épitope est la partie de l'antigène reconnue par le système immunitaire",
+   "La valence traduit le nombre d'épitopes",
+   "L'antigène et l'épitope sont deux notions identiques",
+   "Un haptène correspond à un épitope isolé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'épitope est porté par la molécule d'Ag.",
+   "Exact : région immunologiquement active.",
+   "Exact : valence = nombre d'épitopes.",
+   "Faux : l'épitope est une région de l'antigène.",
+   "Exact : petite molécule antigénique sans immunogénicité."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le BCR et l'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Le BCR est le récepteur membranaire de l'antigène sur le lymphocyte B",
+   "Le BCR lie l'épitope de l'antigène natif",
+   "Le pontage de plusieurs BCR par un antigène multivalent active le lymphocyte B",
+   "Le BCR reconnaît l'antigène présenté par le CMH",
+   "Le BCR est une cytokine membranaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le BCR est l'Ig membranaire du LB.",
+   "Exact : reconnaissance de l'Ag natif.",
+   "Exact : mécanisme d'activation des Ag TI-2.",
+   "Faux : c'est le TCR qui reconnaît le peptide-CMH.",
+   "Faux : le BCR est une immunoglobuline membranaire."
+  ]
+ },
+ {
+  "q": "Concernant le TCR et l'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Le TCR est le récepteur de l'antigène sur le lymphocyte T",
+   "Le TCR reconnaît un peptide antigénique présenté par une molécule du CMH",
+   "Le TCR reconnaît l'antigène natif soluble",
+   "L'épitope reconnu par le TCR est un peptide linéaire",
+   "Le TCR se lie aux immunoglobulines circulantes"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : récepteur antigénique du LT.",
+   "Exact : reconnaissance du complexe peptide-CMH.",
+   "Faux : le TCR ne lie jamais l'Ag natif.",
+   "Exact : peptide d'une dizaine d'AA présenté.",
+   "Faux : le TCR ne lie pas les Ig."
+  ]
+ },
+ {
+  "q": "À propos de l'immunogénicité et de l'antigénicité, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont les deux propriétés de l'antigène",
+   "L'haptène ne possède que la seconde",
+   "L'épitope est le support de l'antigénicité",
+   "Les deux propriétés sont toujours présentes ensemble",
+   "La valence concerne l'immunogénicité et non l'antigénicité"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définitions du cours.",
+   "Exact : l'haptène n'a que l'antigénicité.",
+   "Exact : l'épitope est la région reconnue.",
+   "Faux : l'haptène les dissocie.",
+   "Faux : la valence = nombre d'épitopes (antigénicité)."
+  ]
+ },
+ {
+  "q": "Concernant le pouvoir immunogène selon la nature chimique de l'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Les protéines sont les antigènes les plus immunogènes",
+   "Les polysaccharides sont moins immunogènes que les protéines",
+   "Le pouvoir immunogène des lipides est approximativement nul",
+   "Les lipides sont les antigènes les plus immunogènes",
+   "Les polysaccharides sont plus immunogènes que les protéines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : protéines > polysaccharides > lipides.",
+   "Exact : hiérarchie du cours.",
+   "Exact : les lipides seuls sont quasi non immunogènes.",
+   "Faux : leur pouvoir immunogène est ≈ nul.",
+   "Faux : c'est l'inverse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la nature des antigènes, lesquelles sont exactes ?",
+  "options": [
+   "La plupart des antigènes protéiques sont thymo-dépendants",
+   "Les polyosides capsulaires bactériens sont des antigènes thymo-indépendants",
+   "Les lipides purs sont de mauvais immunogènes",
+   "Toutes les molécules sont également immunogènes quelle que soit leur nature",
+   "Les acides nucléiques seuls sont d'excellents immunogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les protéines induisent une RI avec coopération T.",
+   "Exact : les polyosides bactériens sont des Ag TI-2.",
+   "Exact : pouvoir immunogène des lipides ≈ nul.",
+   "Faux : la nature chimique conditionne l'immunogénicité.",
+   "Faux : les acides nucléiques seuls sont peu immunogènes."
+  ]
+ },
+ {
+  "q": "Concernant la taille (masse moléculaire) de l'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Plus la masse moléculaire est importante, plus l'antigène est immunogène",
+   "Les petites molécules comme les haptènes ne sont pas immunogènes seules",
+   "Une masse moléculaire élevée favorise l'immunogénicité",
+   "La taille de l'antigène n'influence pas son pouvoir immunogène",
+   "Seules les très petites molécules sont immunogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : relation taille-immunogénicité du cours.",
+   "Exact : les haptènes illustrent l'insuffisance des petites tailles.",
+   "Exact : les macromolécules sont de meilleurs immunogènes.",
+   "Faux : la taille est une caractéristique déterminante.",
+   "Faux : c'est l'inverse."
+  ]
+ },
+ {
+  "q": "À propos du caractère étranger de l'antigène, lesquelles sont exactes ?",
+  "options": [
+   "L'antigène doit être reconnu comme non-soi par le système immunitaire",
+   "Plus la distance phylogénétique est grande, plus l'antigène est immunogène",
+   "Les xéno-antigènes proviennent d'une espèce différente",
+   "Les auto-antigènes sont des antigènes étrangers",
+   "Le caractère étranger n'influence pas l'immunogénicité"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : reconnaissance du non-soi.",
+   "Exact : la distance phylogénétique accroît l'immunogénicité.",
+   "Exact : définition des xénoAg.",
+   "Faux : les autoAg sont des antigènes du soi.",
+   "Faux : c'est une caractéristique majeure."
+  ]
+ },
+ {
+  "q": "Concernant les xéno-antigènes, lesquelles sont exactes ?",
+  "options": [
+   "Ils proviennent d'une espèce différente de celle de l'hôte",
+   "Leur immunogénicité croît avec la distance phylogénétique",
+   "Une protéine humaine est un xéno-antigène pour la souris",
+   "Ils proviennent d'individus de la même espèce",
+   "Ils sont toujours tolérés"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : xénoAg = espèce différente.",
+   "Exact : éloignement phylogénétique = immunogénicité accrue.",
+   "Exact : espèce différente donc xéno-antigène.",
+   "Faux : c'est la définition des allo-antigènes.",
+   "Faux : ils sont fortement immunogènes."
+  ]
+ },
+ {
+  "q": "Concernant les allo-antigènes, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont présents chez certains individus d'une même espèce",
+   "Ils sont immunogènes pour les individus qui ne les possèdent pas",
+   "Les antigènes érythrocytaires ABO sont des allo-antigènes",
+   "Le système HLA constitue des allo-antigènes",
+   "Ils proviennent d'une espèce différente"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : définition des alloAg.",
+   "Exact : immunogénicité chez les sujets dépourvus.",
+   "Exact : exemple classique.",
+   "Exact : polymorphisme HLA = allo-antigénicité.",
+   "Faux : ce sont les xéno-antigènes."
+  ]
+ },
+ {
+  "q": "Concernant les auto-antigènes, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des constituants du soi",
+   "Ils sont normalement l'objet d'une tolérance immunitaire",
+   "L'injection intra-thymique d'un auto-antigène peut induire une tolérance",
+   "Ils sont par nature fortement immunogènes",
+   "Ils proviennent d'une espèce différente"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : autoAg = antigènes du soi.",
+   "Exact : la tolérance au soi est physiologique.",
+   "Exact : application médicale citée par le cours.",
+   "Faux : ils sont normalement tolérés.",
+   "Faux : ce sont les xéno-antigènes."
+  ]
+ },
+ {
+  "q": "Concernant les allo-antigènes, lesquelles sont exactes ?",
+  "options": [
+   "Les antigènes du système rhésus",
+   "Les antigènes HLA en transplantation",
+   "Les antigènes d'une protéine bactérienne",
+   "Les antigènes ABO en transfusion sanguine",
+   "Les antigènes d'un virus animal chez l'homme"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : polymorphisme intra-espèce.",
+   "Exact : allo-antigènes tissulaires.",
+   "Faux : antigène microbien = xéno-antigène.",
+   "Exact : allo-antigènes érythrocytaires.",
+   "Faux : espèce différente = xéno-antigène."
+  ]
+ },
+ {
+  "q": "Concernant les xéno-antigènes, lesquelles sont exactes ?",
+  "options": [
+   "Les protéines d'un microbe",
+   "Les toxines bactériennes",
+   "Les sérums hétérologues d'origine animale",
+   "Les antigènes HLA",
+   "Les antigènes des groupes sanguins"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : micro-organismes = espèces différentes.",
+   "Exact : produits microbiens étrangers.",
+   "Exact : protéines animales étrangères.",
+   "Faux : les HLA sont des allo-antigènes.",
+   "Faux : les groupes sanguins sont des allo-antigènes."
+  ]
+ },
+ {
+  "q": "Concernant la distance phylogénétique et l'immunogénicité, lesquelles sont exactes ?",
+  "options": [
+   "Plus l'espèce donneuse est éloignée, plus l'antigène est immunogène",
+   "Une protéine de poulet est plus immunogène pour un mammifère qu'une protéine d'un autre mammifère",
+   "La distance phylogénétique n'a aucun effet sur la réponse immunitaire",
+   "Deux espèces proches partagent des épitopes qui diminuent l'immunogénicité croisée",
+   "Les xéno-antigènes sont faiblement immunogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : principe du cours.",
+   "Exact : éloignement oiseau-mammifère > mammifère-mammifère.",
+   "Faux : c'est une caractéristique des antigènes.",
+   "Exact : les épitopes communs sont reconnus comme du soi.",
+   "Faux : ils sont fortement immunogènes."
+  ]
+ },
+ {
+  "q": "À propos de la composition chimique des antigènes, lesquelles sont exactes ?",
+  "options": [
+   "Les molécules les plus complexes sont les meilleurs antigènes",
+   "Les molécules insolubles sont de bons immunogènes",
+   "Les molécules insolubles sont facilement phagocytées et apprêtées",
+   "Les macromolécules difficilement apprêtées sont de mauvais immunogènes",
+   "Les molécules simples sont les meilleurs antigènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la complexité favorise l'immunogénicité.",
+   "Exact : l'insolubilité favorise la capture.",
+   "Exact : phagocytose et apprêtement facilités.",
+   "Exact : un apprêtement difficile réduit l'immunogénicité.",
+   "Faux : ce sont les molécules complexes."
+  ]
+ },
+ {
+  "q": "Concernant les molécules insolubles comme antigènes, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont de bons immunogènes",
+   "Elles sont facilement phagocytées",
+   "Elles sont facilement apprêtées par les cellules présentatrices",
+   "Elles sont de mauvais immunogènes",
+   "Elles échappent à la phagocytose"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'insolubilité est un facteur d'immunogénicité.",
+   "Exact : les particules sont captées par phagocytose.",
+   "Exact : l'apprêtement s'en trouve facilité.",
+   "Faux : ce sont de bons immunogènes.",
+   "Faux : elles sont au contraire phagocytées."
+  ]
+ },
+ {
+  "q": "Concernant les macromolécules difficilement apprêtées, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont de mauvais immunogènes",
+   "Leur apprêtement par les CPA est défectueux",
+   "La présentation peptidique au CMH en est réduite",
+   "Elles sont les meilleurs immunogènes",
+   "L'apprêtement n'influence pas l'immunogénicité"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : cité par le cours.",
+   "Exact : l'apprêtement difficile limite la réponse.",
+   "Exact : moins de peptides présentés aux LT.",
+   "Faux : ce sont de mauvais immunogènes.",
+   "Faux : l'apprêtement conditionne la réponse T."
+  ]
+ },
+ {
+  "q": "Parmi les facteurs liés à l'antigène favorisant l'immunogénicité, lesquels sont exacts ?",
+  "options": [
+   "Une nature protéique",
+   "Une masse moléculaire élevée",
+   "Une structure chimique complexe",
+   "Une forme insoluble particulaire",
+   "Une très petite taille moléculaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : protéines > polysaccharides > lipides.",
+   "Exact : la taille accroît l'immunogénicité.",
+   "Exact : la complexité est un facteur favorable.",
+   "Exact : les particules sont bien phagocytées.",
+   "Faux : les petites molécules (haptènes) ne sont pas immunogènes."
+  ]
+ },
+ {
+  "q": "Parmi les facteurs défavorables à l'immunogénicité d'un antigène, lesquels sont exacts ?",
+  "options": [
+   "Une nature lipidique pure",
+   "Une très faible masse moléculaire",
+   "Une structure chimique très simple",
+   "Un apprêtement difficile par les cellules présentatrices",
+   "Une nature protéique complexe"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : pouvoir immunogène des lipides ≈ nul.",
+   "Exact : exemple des haptènes.",
+   "Exact : les molécules simples sont de mauvais Ag.",
+   "Exact : les macromolécules mal apprêtées sont de mauvais immunogènes.",
+   "Faux : c'est un facteur favorable."
+  ]
+ },
+ {
+  "q": "Concernant la dose d'administration de l'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Une dose insuffisante entraîne un état de non-réponse",
+   "Une dose trop importante entraîne un état de non-réponse",
+   "Seule la dose optimale induit une réponse immunitaire",
+   "La non-réponse liée à la dose correspond à un état de tolérance",
+   "Toute dose d'antigène induit une réponse immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : dose trop faible = tolérance.",
+   "Exact : dose excessive = tolérance.",
+   "Exact : la dose optimale est immunogène.",
+   "Exact : la non-réponse = tolérance.",
+   "Faux : les doses extrêmes induisent une tolérance."
+  ]
+ },
+ {
+  "q": "À propos de la tolérance liée à la dose d'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Une dose insuffisante peut induire une tolérance",
+   "Une dose excessive peut induire une tolérance",
+   "La tolérance est un état de non-réponse spécifique de l'antigène",
+   "Seule la dose optimale permet la réponse immunitaire",
+   "La dose d'antigène n'influence jamais la réponse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : tolérance de basse dose.",
+   "Exact : tolérance de haute dose.",
+   "Exact : la tolérance est spécifique de l'Ag.",
+   "Exact : principe du cours.",
+   "Faux : la dose est une caractéristique déterminante."
+  ]
+ },
+ {
+  "q": "Concernant les voies d'administration de l'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Chaque antigène possède une voie d'administration optimale pour son pouvoir immunogène",
+   "Un même antigène introduit par deux voies différentes n'entraîne pas la même réponse immunitaire",
+   "La voie veineuse draine l'antigène vers la rate",
+   "La voie sous-cutanée draine l'antigène vers les ganglions locaux",
+   "La voie d'administration n'influence pas la réponse immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : chaque Ag a sa voie optimale.",
+   "Exact : la voie conditionne la réponse.",
+   "Exact : voie veineuse → rate.",
+   "Exact : voie sous-cutanée → ganglions locaux.",
+   "Faux : la voie est une caractéristique des Ag."
+  ]
+ },
+ {
+  "q": "À propos du drainage de l'antigène selon la voie d'administration, lesquelles sont exactes ?",
+  "options": [
+   "Un antigène injecté par voie veineuse gagne la rate",
+   "Un antigène injecté par voie sous-cutanée gagne les ganglions lymphatiques locaux",
+   "La rate est un organe lymphoïde secondaire drainant le sang",
+   "Les ganglions drainent la lymphe des territoires sous-cutanés",
+   "La voie veineuse draine vers les ganglions locaux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : voie veineuse → rate.",
+   "Exact : voie SC → ganglions locaux.",
+   "Exact : la rate filtre les Ag sanguins.",
+   "Exact : les ganglions filtrent la lymphe afférente.",
+   "Faux : la voie veineuse draine vers la rate."
+  ]
+ },
+ {
+  "q": "Concernant les caractéristiques des antigènes selon le cours, lesquelles sont exactes ?",
+  "options": [
+   "La nature chimique influence le pouvoir immunogène",
+   "Le caractère étranger influence le pouvoir immunogène",
+   "La taille influence le pouvoir immunogène",
+   "La composition chimique influence le pouvoir immunogène",
+   "La dose et la voie d'administration n'influencent pas le pouvoir immunogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : protéines > polysaccharides > lipides.",
+   "Exact : non-soi et distance phylogénétique.",
+   "Exact : masse moléculaire.",
+   "Exact : complexité, solubilité, apprêtement.",
+   "Faux : dose et voie sont des caractéristiques citées."
+  ]
+ },
+ {
+  "q": "Concernant les caractéristiques des antigènes, lesquelles sont exactes ?",
+  "options": [
+   "La nature (protéines > polysaccharides > lipides)",
+   "Le caractère étranger (xéno, allo, auto)",
+   "La taille (masse moléculaire)",
+   "La composition chimique (complexité, solubilité)",
+   "La couleur de la molécule"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : hiérarchie d'immunogénicité.",
+   "Exact : non-soi et distance phylogénétique.",
+   "Exact : plus la masse est grande, plus l'Ag est immunogène.",
+   "Exact : complexité et insolubilité favorables.",
+   "Faux : la couleur n'a aucun rôle immunologique."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes protéiques et leur immunogénicité, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont les molécules les plus complexes donc les meilleurs antigènes",
+   "Leur apprêtement fournit des peptides présentés par le CMH",
+   "Ils induisent une réponse thymo-dépendante avec coopération des LT helper",
+   "Ils ont un pouvoir immunogène approximativement nul",
+   "Ils sont moins immunogènes que les lipides"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : complexité = meilleur Ag.",
+   "Exact : les peptides sont présentés aux LT.",
+   "Exact : les protéines sont des Ag TD.",
+   "Faux : ce sont les meilleurs immunogènes.",
+   "Faux : les lipides sont quasi non immunogènes."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes lipidiques, lesquelles sont exactes ?",
+  "options": [
+   "Leur pouvoir immunogène est approximativement nul",
+   "Ils sont de mauvais immunogènes seuls",
+   "Ils sont plus immunogènes que les protéines",
+   "Ils induisent une forte réponse anticorps seuls",
+   "Ils sont au sommet de la hiérarchie d'immunogénicité"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : selon le cours.",
+   "Exact : les lipides purs sont peu immunogènes.",
+   "Faux : les protéines sont les meilleurs immunogènes.",
+   "Faux : ils n'induisent pas de RI seuls.",
+   "Faux : ils sont en bas de la hiérarchie."
+  ]
+ },
+ {
+  "q": "À propos des antigènes microbiens, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des xéno-antigènes",
+   "Leur distance phylogénétique avec l'homme accroît leur immunogénicité",
+   "Les polyosides de surface des bactéries sont des antigènes TI-2",
+   "Le LPS bactérien est un antigène TI-1 ligand du TLR4",
+   "Ce sont des auto-antigènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : espèces différentes = xénoAg.",
+   "Exact : l'éloignement phylogénétique favorise la RI.",
+   "Exact : structure répétitive = TI-2.",
+   "Exact : le LPS active les LB via le TLR4.",
+   "Faux : ce sont des antigènes étrangers."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives à l'apprêtement de l'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Les molécules insolubles sont facilement phagocytées et apprêtées",
+   "Les macromolécules difficilement apprêtées sont de mauvais immunogènes",
+   "L'apprêtement permet la présentation de peptides par le CMH",
+   "L'apprêtement est inutile à la réponse immunitaire",
+   "Toutes les molécules sont apprêtées avec la même efficacité"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les particules sont bien captées.",
+   "Exact : un mauvais apprêtement réduit l'immunogénicité.",
+   "Exact : les peptides sont présentés aux LT.",
+   "Faux : il est indispensable à la réponse T.",
+   "Faux : l'efficacité varie selon la molécule."
+  ]
+ },
+ {
+  "q": "Concernant la réponse immunitaire selon la dose d'antigène, lesquelles sont exactes ?",
+  "options": [
+   "La dose optimale induit une réponse immunitaire",
+   "Les doses extrêmes induisent une tolérance",
+   "La tolérance est un état de non-réponse",
+   "L'augmentation illimitée de la dose augmente toujours la réponse",
+   "La dose n'a aucun effet une fois l'antigène reconnu"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : seule la dose optimale est immunogène.",
+   "Exact : dose trop faible ou trop forte = tolérance.",
+   "Exact : la tolérance = non-réponse spécifique.",
+   "Faux : une dose excessive induit une tolérance.",
+   "Faux : la dose conditionne réponse vs tolérance."
+  ]
+ },
+ {
+  "q": "À propos de l'administration sous-cutanée d'un antigène, lesquelles sont exactes ?",
+  "options": [
+   "L'antigène draine vers les ganglions lymphatiques locaux",
+   "La réponse immunitaire se développe dans les ganglions de drainage",
+   "La voie sous-cutanée est utilisée pour de nombreux vaccins",
+   "L'antigène injecté en sous-cutané gagne directement la rate",
+   "La voie sous-cutanée donne la même réponse que la voie veineuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : drainage lymphatique local.",
+   "Exact : activation lymphocytaire ganglionnaire.",
+   "Exact : les vaccins sont souvent injectés en SC ou IM.",
+   "Faux : la rate draine la voie veineuse.",
+   "Faux : deux voies différentes = réponses différentes."
+  ]
+ },
+ {
+  "q": "À propos de l'administration intraveineuse d'un antigène, lesquelles sont exactes ?",
+  "options": [
+   "L'antigène gagne la rate par la circulation sanguine",
+   "La rate est l'organe lymphoïde secondaire du sang",
+   "La réponse se développe dans la rate",
+   "L'antigène intraveineux draine vers les ganglions locaux",
+   "La voie veineuse est la voie optimale pour tous les antigènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : voie veineuse → rate.",
+   "Exact : la rate filtre les Ag sanguins.",
+   "Exact : pulpe blanche = zone lymphoïde splénique.",
+   "Faux : les ganglions drainent la voie sous-cutanée.",
+   "Faux : chaque Ag a sa voie optimale."
+  ]
+ },
+ {
+  "q": "Concernant le pouvoir immunogène des polysaccharides, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont moins immunogènes que les protéines",
+   "Leurs épitopes mesurent 5 à 6 oses",
+   "Les polyosides bactériens à structure répétitive sont des Ag TI-2",
+   "Ils sont plus immunogènes que les protéines",
+   "Leur pouvoir immunogène est approximativement nul"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : protéines > polysaccharides.",
+   "Exact : taille de l'épitope polyosidique.",
+   "Exact : pontage des BCR par la structure répétitive.",
+   "Faux : les protéines sont au sommet.",
+   "Faux : c'est le cas des lipides."
+  ]
+ },
+ {
+  "q": "Concernant un bon immunogène, lesquelles sont exactes ?",
+  "options": [
+   "Une protéine de masse moléculaire élevée",
+   "Une molécule complexe et étrangère à l'organisme",
+   "Une particule insoluble facilement phagocytée",
+   "Un haptène seul de très petite taille",
+   "Un lipide pur"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : taille et nature protéique favorables.",
+   "Exact : complexité et caractère étranger favorables.",
+   "Exact : insolubilité = bon immunogène.",
+   "Faux : l'haptène seul n'est pas immunogène.",
+   "Faux : pouvoir immunogène ≈ nul."
+  ]
+ },
+ {
+  "q": "Concernant les allo-antigènes en pratique médicale, lesquelles sont exactes ?",
+  "options": [
+   "Ils interviennent dans la compatibilité transfusionnelle ABO et rhésus",
+   "Ils interviennent dans la compatibilité tissulaire HLA en greffe",
+   "Ils sont immunogènes chez les receveurs qui ne les possèdent pas",
+   "Ils proviennent d'une espèce différente",
+   "Ils sont toujours tolérés"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : application transfusion du cours.",
+   "Exact : application greffe du cours.",
+   "Exact : définition des alloAg.",
+   "Faux : ce sont les xéno-antigènes.",
+   "Faux : ils sont immunogènes chez les sujets dépourvus."
+  ]
+ },
+ {
+  "q": "À propos des antigènes du soi et de la tolérance, lesquelles sont exactes ?",
+  "options": [
+   "Les auto-antigènes sont normalement tolérés",
+   "Une dose inadaptée d'antigène peut induire une tolérance",
+   "L'injection intra-thymique d'un antigène peut induire une tolérance en auto-immunité",
+   "Les auto-antigènes sont des xéno-antigènes",
+   "La tolérance est un état d'hyper-réactivité"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : tolérance physiologique au soi.",
+   "Exact : doses extrêmes = tolérance.",
+   "Exact : application médicale du cours.",
+   "Faux : les autoAg sont du soi.",
+   "Faux : c'est un état de non-réponse."
+  ]
+ },
+ {
+  "q": "Concernant la nature chimique et l'immunogénicité, lesquelles sont exactes ?",
+  "options": [
+   "Protéines > polysaccharides > lipides en pouvoir immunogène",
+   "Les lipides ont un pouvoir immunogène approximativement nul",
+   "Les molécules complexes sont de meilleurs antigènes",
+   "Les molécules insolubles sont de bons immunogènes",
+   "Les molécules simples et solubles sont les meilleurs antigènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : hiérarchie du cours.",
+   "Exact : les lipides seuls sont quasi non immunogènes.",
+   "Exact : la complexité favorise l'immunogénicité.",
+   "Exact : phagocytose et apprêtement facilités.",
+   "Faux : ce sont les molécules complexes."
+  ]
+ },
+ {
+  "q": "Concernant la masse moléculaire et l'immunogénicité, lesquelles sont exactes ?",
+  "options": [
+   "Plus la masse moléculaire est importante, plus l'antigène est immunogène",
+   "Les haptènes illustrent qu'une faible masse moléculaire empêche l'immunogénicité",
+   "Une masse moléculaire élevée caractérise un bon immunogène",
+   "La masse moléculaire est sans influence sur la réponse immunitaire",
+   "Les petites molécules sont toujours immunogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : principe du cours.",
+   "Exact : les haptènes sont trop petits pour être immunogènes.",
+   "Exact : les macromolécules sont de bons Ag.",
+   "Faux : la taille est une caractéristique des Ag.",
+   "Faux : les petites molécules ne sont pas immunogènes seules."
+  ]
+ },
+ {
+  "q": "À propos des voies d'administration et de la réponse immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "La voie d'administration fait partie des caractéristiques des antigènes",
+   "Un même antigène peut induire des réponses différentes selon la voie",
+   "La voie veineuse conduit l'antigène à la rate",
+   "La voie sous-cutanée conduit l'antigène aux ganglions locaux",
+   "Toutes les voies d'administration sont équivalentes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : citée parmi les caractéristiques.",
+   "Exact : la voie module la réponse.",
+   "Exact : drainage splénique.",
+   "Exact : drainage ganglionnaire local.",
+   "Faux : chaque Ag a sa voie optimale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives au caractère étranger, lesquelles sont exactes ?",
+  "options": [
+   "Le système immunitaire reconnaît l'antigène comme non-soi",
+   "La distance phylogénétique augmente l'immunogénicité",
+   "Xéno-antigène : espèce différente",
+   "Allo-antigène : certains individus de la même espèce",
+   "Auto-antigène : molécule étrangère à l'organisme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : reconnaissance du non-soi.",
+   "Exact : éloignement = immunogénicité accrue.",
+   "Exact : définition des xénoAg.",
+   "Exact : définition des alloAg.",
+   "Faux : l'autoAg appartient au soi."
+  ]
+ },
+ {
+  "q": "Concernant les épitopes des antigènes microbiens, lesquelles sont exactes ?",
+  "options": [
+   "Les protéines microbiennes portent des épitopes d'une dizaine d'acides aminés",
+   "Les polyosides microbiens portent des épitopes de 5 à 6 oses",
+   "Un microbe présente de nombreux épitopes différents",
+   "Les microbes ne portent qu'un seul épitope",
+   "Les épitopes microbiens sont reconnus comme non-soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : épitopes protéiques.",
+   "Exact : épitopes polyosidiques.",
+   "Exact : les microbes sont des mosaïques d'épitopes.",
+   "Faux : ils portent de multiples épitopes.",
+   "Exact : caractère étranger des Ag microbiens."
+  ]
+ },
+ {
+  "q": "À propos de la dose optimale d'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Elle seule induit une réponse immunitaire",
+   "Elle se situe entre la dose tolérogène basse et la dose tolérogène haute",
+   "Elle est identique pour tous les antigènes",
+   "Elle dépend de la nature de l'antigène et de la voie d'administration",
+   "Toute dose supérieure à la dose optimale reste immunogène"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : principe du cours.",
+   "Exact : les extrêmes induisent une tolérance.",
+   "Faux : elle varie selon l'Ag et les conditions.",
+   "Exact : nature, voie et hôte la modulent.",
+   "Faux : une dose excessive induit une tolérance."
+  ]
+ },
+ {
+  "q": "Concernant l'influence de la composition chimique, lesquelles sont exactes ?",
+  "options": [
+   "Une molécule complexe est un meilleur antigène qu'une molécule simple",
+   "Une particule insoluble est mieux phagocytée qu'une molécule soluble",
+   "Une macromolécule mal apprêtée est un mauvais immunogène",
+   "La composition chimique n'influence pas l'immunogénicité",
+   "Toutes les compositions chimiques sont équivalentes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la complexité favorise l'immunogénicité.",
+   "Exact : l'insolubilité favorise la capture.",
+   "Exact : l'apprêtement conditionne la réponse.",
+   "Faux : c'est une caractéristique des Ag.",
+   "Faux : la composition est déterminante."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes thymo-dépendants, lesquelles sont exactes ?",
+  "options": [
+   "L'interaction de l'antigène avec le lymphocyte B ne suffit pas à déclencher la synthèse d'immunoglobulines",
+   "La synthèse d'immunoglobulines nécessite la coopération des lymphocytes T helper",
+   "Ce sont le plus souvent des antigènes protéiques",
+   "Ils induisent une réponse sans aucune intervention des lymphocytes T",
+   "Ils activent les lymphocytes B via les TLR"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'interaction Ag-LB est insuffisante seule.",
+   "Exact : la coopération TH est requise.",
+   "Exact : les protéines sont les Ag TD types.",
+   "Faux : les LT helper sont indispensables.",
+   "Faux : c'est le mécanisme des Ag TI-1."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes thymo-indépendants, lesquelles sont exactes ?",
+  "options": [
+   "Ils induisent une réponse humorale sans intervention des LT helper",
+   "Ils activent directement les lymphocytes B",
+   "Ils nécessitent la coopération des lymphocytes T helper",
+   "Ils comprennent les types TI-1 et TI-2",
+   "Ils induisent une réponse à médiation cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : pas d'intervention des TH.",
+   "Exact : activation directe du LB.",
+   "Faux : c'est le propre des Ag TD.",
+   "Exact : deux types décrits par le cours.",
+   "Faux : ils induisent une RI humorale."
+  ]
+ },
+ {
+  "q": "À propos des antigènes thymo-indépendants de type 1 (TI-1), lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des activateurs polyclonaux des lymphocytes B",
+   "Ce sont des mitogènes qui n'activent pas le LB par l'intermédiaire de son BCR",
+   "Ils activent le lymphocyte B à travers les TLR",
+   "Le LPS bactérien en est un exemple, ligand du TLR4",
+   "Ils activent le LB par pontage de plusieurs BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : activation polyclonale des LB.",
+   "Exact : activation indépendante du BCR.",
+   "Exact : signalisation via les TLR.",
+   "Exact : exemple du cours (LPS-TLR4).",
+   "Faux : c'est le mécanisme des TI-2."
+  ]
+ },
+ {
+  "q": "À propos des antigènes thymo-indépendants de type 2 (TI-2), lesquelles sont exactes ?",
+  "options": [
+   "Ils présentent une structure répétitive",
+   "Les polyosides de surface des bactéries en sont l'exemple type",
+   "Ils entraînent un pontage de plusieurs BCR à la surface du lymphocyte B",
+   "Ils activent le LB via les TLR sans passer par le BCR",
+   "Ce sont des mitogènes activateurs polyclonaux"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : structure répétitive caractéristique.",
+   "Exact : exemple du cours.",
+   "Exact : le pontage des BCR active le LB.",
+   "Faux : c'est le mécanisme des TI-1.",
+   "Faux : ce sont les TI-1."
+  ]
+ },
+ {
+  "q": "Concernant le LPS bactérien, lesquelles sont exactes ?",
+  "options": [
+   "C'est un antigène thymo-indépendant de type 1",
+   "C'est un ligand du TLR4 sur le lymphocyte B",
+   "C'est un mitogène activateur polyclonal des LB",
+   "C'est un antigène thymo-indépendant de type 2",
+   "Il active le LB par pontage des BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : exemple de TI-1 du cours.",
+   "Exact : le LPS est le ligand du TLR4.",
+   "Exact : activation polyclonale via TLR.",
+   "Faux : les TI-2 ont une structure répétitive.",
+   "Faux : le pontage des BCR est le mécanisme TI-2."
+  ]
+ },
+ {
+  "q": "Concernant la distinction entre Ag TI-1 et Ag TI-2, lesquelles sont exactes ?",
+  "options": [
+   "Les TI-1 activent le LB via les TLR, les TI-2 par pontage des BCR",
+   "Les TI-1 sont des mitogènes, les TI-2 ont une structure répétitive",
+   "Le LPS est un TI-1, les polyosides bactériens sont des TI-2",
+   "Les TI-1 et les TI-2 activent le LB par le même mécanisme",
+   "Les TI-2 nécessitent les lymphocytes T helper"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : deux mécanismes distincts.",
+   "Exact : mitogènes vs structures répétitives.",
+   "Exact : exemples du cours.",
+   "Faux : TLR pour TI-1, pontage BCR pour TI-2.",
+   "Faux : les TI sont indépendants des TH."
+  ]
+ },
+ {
+  "q": "Concernant la réponse aux antigènes thymo-dépendants, lesquelles sont exactes ?",
+  "options": [
+   "Elle nécessite la coopération des lymphocytes T helper",
+   "Elle s'accompagne d'une commutation isotypique",
+   "Elle génère des lymphocytes B mémoire",
+   "Elle ne produit que des IgM sans commutation",
+   "Elle est indépendante des lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les TH sont indispensables.",
+   "Exact : la coopération T permet le switch isotypique.",
+   "Exact : la réponse TD génère une mémoire.",
+   "Faux : c'est le profil de la réponse TI.",
+   "Faux : elle est thymo-dépendante."
+  ]
+ },
+ {
+  "q": "Concernant la réponse aux antigènes thymo-indépendants, lesquelles sont exactes ?",
+  "options": [
+   "Elle se fait sans intervention des LT helper",
+   "Elle produit principalement des IgM",
+   "La commutation isotypique y est limitée",
+   "Elle génère une mémoire immunitaire importante",
+   "Elle nécessite la coopération des LT helper"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définition des Ag TI.",
+   "Exact : réponse IgM prédominante.",
+   "Exact : peu de switch sans aide T.",
+   "Faux : la mémoire est faible ou absente.",
+   "Faux : c'est le propre des Ag TD."
+  ]
+ },
+ {
+  "q": "À propos du pontage des BCR, lesquelles sont exactes ?",
+  "options": [
+   "Il est provoqué par les antigènes à structure répétitive (TI-2)",
+   "Il résulte de la liaison simultanée de plusieurs BCR par un antigène multivalent",
+   "Il constitue un signal d'activation du lymphocyte B",
+   "Il est le mécanisme des antigènes TI-1",
+   "Il nécessite l'intervention des LT helper"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : mécanisme des TI-2.",
+   "Exact : l'Ag multivalent agrège les BCR.",
+   "Exact : le cross-linking active le LB.",
+   "Faux : les TI-1 agissent via les TLR.",
+   "Faux : l'activation TI est indépendante des TH."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs Toll (TLR) dans l'activation B thymo-indépendante, lesquelles sont exactes ?",
+  "options": [
+   "Les Ag TI-1 activent le LB à travers les TLR et non par le BCR",
+   "Le LPS bactérien est le ligand du TLR4",
+   "Les TLR reconnaissent des motifs microbiens",
+   "Les Ag TI-2 activent le LB via les TLR",
+   "Le BCR est un récepteur Toll"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : mécanisme des TI-1.",
+   "Exact : exemple du cours.",
+   "Exact : les TLR détectent les PAMP.",
+   "Faux : les TI-2 agissent par pontage des BCR.",
+   "Faux : le BCR est une immunoglobuline membranaire."
+  ]
+ },
+ {
+  "q": "Concernant les exemples d'antigènes thymo-indépendants, lesquelles sont exactes ?",
+  "options": [
+   "Le LPS bactérien (TI-1)",
+   "Les polyosides capsulaires bactériens (TI-2)",
+   "Les polyosides de surface des bactéries (TI-2)",
+   "Une protéine soluble monomérique",
+   "Un peptide présenté par le CMH"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : mitogène ligand du TLR4.",
+   "Exact : structure répétitive.",
+   "Exact : exemple du cours.",
+   "Faux : les protéines solubles sont des Ag TD.",
+   "Faux : le peptide-CMH est reconnu par le TCR."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes thymo-dépendants en pratique vaccinale, lesquelles sont exactes ?",
+  "options": [
+   "Les vaccins protéiques induisent une réponse avec mémoire",
+   "La conjugaison d'un polyoside à une protéine porteuse le rend thymo-dépendant",
+   "Les vaccins conjugués induisent une mémoire chez le nourrisson",
+   "Les polyosides non conjugués sont thymo-dépendants",
+   "Les vaccins protéiques n'induisent pas de commutation isotypique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les Ag TD génèrent une mémoire.",
+   "Exact : le transporteur protéique recrute l'aide T.",
+   "Exact : intérêt des vaccins anti-pneumocoque conjugués.",
+   "Faux : les polyosides seuls sont TI-2.",
+   "Faux : la coopération T permet le switch."
+  ]
+ },
+ {
+  "q": "À propos de la coopération LT helper - LB dans la réponse TD, lesquelles sont exactes ?",
+  "options": [
+   "Elle est nécessaire à la synthèse d'immunoglobulines contre les Ag TD",
+   "Le LT helper reconnaît un peptide de l'antigène présenté par le LB",
+   "Elle permet la commutation isotypique et la maturation d'affinité",
+   "Elle est inutile pour les antigènes thymo-dépendants",
+   "Les Ag TI nécessitent cette coopération"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : principe des Ag TD.",
+   "Exact : le LB présente l'Ag au LT via le CMH II.",
+   "Exact : l'aide T (CD40L, cytokines) guide la réponse.",
+   "Faux : elle est indispensable aux Ag TD.",
+   "Faux : les TI s'en passent."
+  ]
+ },
+ {
+  "q": "Concernant les mitogènes B (TI-1), lesquelles sont exactes ?",
+  "options": [
+   "Ils activent les lymphocytes B de façon polyclonale",
+   "Ils agissent indépendamment de la spécificité du BCR",
+   "Le LPS en est un exemple",
+   "Ils nécessitent la reconnaissance spécifique de l'épitope par le BCR",
+   "Ils ont une structure répétitive pontant les BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : activation polyclonale.",
+   "Exact : signal via les TLR, pas le BCR.",
+   "Exact : exemple du cours.",
+   "Faux : l'activation est indépendante du BCR.",
+   "Faux : c'est le propre des TI-2."
+  ]
+ },
+ {
+  "q": "Concernant la valence et les antigènes TI-2, lesquelles sont exactes ?",
+  "options": [
+   "Les Ag TI-2 portent des épitopes répétés",
+   "La répétition des épitopes permet le pontage des BCR",
+   "Une valence élevée favorise l'activation B indépendante des T",
+   "Les Ag TI-2 sont monovalents",
+   "Le pontage des BCR inhibe le lymphocyte B"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : structure répétitive des TI-2.",
+   "Exact : cross-linking des BCR.",
+   "Exact : signal d'activation suffisant.",
+   "Faux : ils sont multivalents.",
+   "Faux : le pontage active le LB."
+  ]
+ },
+ {
+  "q": "À propos des deux types d'antigènes thymo-indépendants, lesquelles sont exactes ?",
+  "options": [
+   "Le type 1 correspond aux activateurs polyclonaux (mitogènes)",
+   "Le type 2 correspond aux structures répétitives pontant les BCR",
+   "Les deux types induisent une réponse humorale sans LT helper",
+   "Le type 1 nécessite les LT helper",
+   "Le type 2 agit via les TLR"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définition des TI-1.",
+   "Exact : définition des TI-2.",
+   "Exact : les TI sont indépendants des TH.",
+   "Faux : les TI-1 sont indépendants des TH.",
+   "Faux : les TI-2 agissent par pontage des BCR."
+  ]
+ },
+ {
+  "q": "À propos des Ag TD et TI, lesquelles sont exactes ?",
+  "options": [
+   "Les Ag TD nécessitent les LT helper, les Ag TI non",
+   "Les Ag TI induisent une réponse humorale (RIH)",
+   "Le LPS est un Ag TI-1",
+   "Les polyosides bactériens sont des Ag TI-2",
+   "Les Ag TD activent les LB via les TLR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : distinction fondamentale.",
+   "Exact : les TI induisent des Ig sans aide T.",
+   "Exact : ligand du TLR4.",
+   "Exact : structure répétitive.",
+   "Faux : c'est le mécanisme des TI-1."
+  ]
+ },
+ {
+  "q": "Concernant l'activation du lymphocyte B par un antigène TI-2, lesquelles sont exactes ?",
+  "options": [
+   "L'antigène multivalent ponte plusieurs BCR",
+   "Le signal d'activation est indépendant des LT helper",
+   "La structure répétitive de l'antigène est indispensable",
+   "L'activation passe par les TLR",
+   "La reconnaissance spécifique par le BCR n'intervient pas"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : cross-linking des BCR.",
+   "Exact : pas d'aide T requise.",
+   "Exact : les épitopes répétés pontent les BCR.",
+   "Faux : c'est le mécanisme des TI-1.",
+   "Faux : le BCR lie les épitopes répétés."
+  ]
+ },
+ {
+  "q": "Concernant l'activation du lymphocyte B par un antigène TI-1, lesquelles sont exactes ?",
+  "options": [
+   "L'activation passe par les récepteurs Toll et non par le BCR",
+   "L'activation est polyclonale",
+   "Le LPS active les LB via le TLR4",
+   "L'activation nécessite le pontage des BCR",
+   "L'activation nécessite les LT helper"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : signalisation TLR.",
+   "Exact : les mitogènes activent de nombreux clones.",
+   "Exact : exemple du cours.",
+   "Faux : c'est le mécanisme des TI-2.",
+   "Faux : les TI sont indépendants des TH."
+  ]
+ },
+ {
+  "q": "À propos des antigènes protéiques et de la dépendance thymique, lesquelles sont exactes ?",
+  "options": [
+   "La plupart des antigènes protéiques sont thymo-dépendants",
+   "Leur apprêtement fournit des peptides présentés aux LT helper",
+   "La coopération T permet la production d'IgG de haute affinité",
+   "Tous les antigènes protéiques sont thymo-indépendants",
+   "Les protéines n'induisent jamais de mémoire immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les protéines sont des Ag TD types.",
+   "Exact : présentation peptidique au CMH II.",
+   "Exact : switch et maturation d'affinité.",
+   "Faux : ils sont thymo-dépendants.",
+   "Faux : la réponse TD génère une mémoire."
+  ]
+ },
+ {
+  "q": "Concernant le caractère thymo-indépendant d'un polyoside, lesquelles sont exactes ?",
+  "options": [
+   "Sa structure répétitive ponte plusieurs BCR",
+   "Il n'est pas apprêté en peptides présentables par le CMH",
+   "Les LT helper ne peuvent pas reconnaître un polyoside présenté",
+   "Il est reconnu comme une protéine par le système immunitaire",
+   "Il active les LB via les TLR comme le LPS"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : mécanisme des TI-2.",
+   "Exact : pas de peptides = pas d'aide T.",
+   "Exact : le TCR ne reconnaît que des peptides.",
+   "Faux : c'est un polyoside non peptidique.",
+   "Faux : c'est le mécanisme des TI-1."
+  ]
+ },
+ {
+  "q": "Concernant les conséquences de la dépendance thymique, lesquelles sont exactes ?",
+  "options": [
+   "La réponse TD produit des anticorps de différentes classes (IgG, IgA, IgE)",
+   "La réponse TI produit essentiellement des IgM",
+   "La réponse TD génère une mémoire immunitaire durable",
+   "La réponse TI génère une forte mémoire immunitaire",
+   "La réponse TD ne produit que des IgM"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la commutation isotypique nécessite l'aide T.",
+   "Exact : pas de switch sans coopération T.",
+   "Exact : les LB mémoire sont produits.",
+   "Faux : la mémoire TI est faible.",
+   "Faux : c'est le profil de la réponse TI."
+  ]
+ },
+ {
+  "q": "À propos du lymphocyte T helper dans la réponse aux antigènes, lesquelles sont exactes ?",
+  "options": [
+   "Il est indispensable à la réponse contre les Ag thymo-dépendants",
+   "Il n'intervient pas dans la réponse contre les Ag thymo-indépendants",
+   "Il reconnaît le peptide antigénique présenté par le CMH de classe II",
+   "Il est indispensable à la réponse contre les Ag TI-1",
+   "Il produit les immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définition des Ag TD.",
+   "Exact : définition des Ag TI.",
+   "Exact : restriction CMH II du LT CD4.",
+   "Faux : les TI-1 activent le LB via les TLR.",
+   "Faux : les Ig sont produites par les plasmocytes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives aux antigènes TI, lesquelles sont exactes ?",
+  "options": [
+   "Ils induisent une réponse immunitaire humorale",
+   "Ils n'induisent pas de réponse à médiation cellulaire significative",
+   "Leur réponse est rapide et à prédominance IgM",
+   "Ils induisent une commutation isotypique complète",
+   "Ils nécessitent une présentation par le CMH de classe I"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : RIH sans aide T.",
+   "Exact : pas d'activation T significative.",
+   "Exact : réponse IgM rapide.",
+   "Faux : le switch nécessite l'aide T.",
+   "Faux : le CMH I présente aux LT CD8 cytotoxiques."
+  ]
+ },
+ {
+  "q": "Concernant les épitopes répétés des Ag TI-2, lesquelles sont exactes ?",
+  "options": [
+   "Ils définissent la valence élevée de l'antigène",
+   "Ils permettent l'agrégation des BCR membranaires",
+   "Les polyosides capsulaires en sont l'exemple",
+   "Ils sont reconnus par les TLR",
+   "Un épitope unique suffit à l'activation TI-2"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : épitopes répétés = valence élevée.",
+   "Exact : le cross-linking active le LB.",
+   "Exact : exemple du cours.",
+   "Faux : les TLR lient les TI-1 comme le LPS.",
+   "Faux : il faut des épitopes répétés."
+  ]
+ },
+ {
+  "q": "À propos de la classification des antigènes selon la dépendance thymique, lesquelles sont exactes ?",
+  "options": [
+   "Les Ag TD nécessitent la coopération des LT helper",
+   "Les Ag TI-1 sont des activateurs polyclonaux via les TLR",
+   "Les Ag TI-2 ont une structure répétitive pontant les BCR",
+   "Les Ag TD induisent une RI sans lymphocytes T",
+   "Les Ag TI sont toujours de nature protéique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définition des TD.",
+   "Exact : définition des TI-1.",
+   "Exact : définition des TI-2.",
+   "Faux : les TD nécessitent les LT.",
+   "Faux : ce sont souvent des polyosides ou le LPS."
+  ]
+ },
+ {
+  "q": "Concernant les caractéristiques des Ag thymo-dépendants, lesquelles sont exactes ?",
+  "options": [
+   "Nécessité des lymphocytes T helper",
+   "Production d'anticorps de haute affinité après maturation",
+   "Génération de lymphocytes B mémoire",
+   "Commutation isotypique",
+   "Activation des LB via les TLR sans BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : coopération TH indispensable.",
+   "Exact : la maturation d'affinité requiert l'aide T.",
+   "Exact : la mémoire est une propriété TD.",
+   "Exact : le switch isotypique nécessite l'aide T.",
+   "Faux : c'est le mécanisme des TI-1."
+  ]
+ },
+ {
+  "q": "Concernant les caractéristiques des Ag thymo-indépendants, lesquelles sont exactes ?",
+  "options": [
+   "Activation directe des lymphocytes B",
+   "Réponse à prédominance IgM",
+   "Absence de coopération des LT helper",
+   "Mémoire immunitaire durable et intense",
+   "Commutation isotypique systématique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : pas d'aide T requise.",
+   "Exact : les IgM dominent.",
+   "Exact : définition des TI.",
+   "Faux : la mémoire est faible.",
+   "Faux : le switch nécessite l'aide T."
+  ]
+ },
+ {
+  "q": "Concernant le rôle du BCR dans les réponses TI, lesquelles sont exactes ?",
+  "options": [
+   "Dans la réponse TI-2, le BCR lie les épitopes répétés de l'antigène",
+   "Dans la réponse TI-1, l'activation se fait via les TLR indépendamment du BCR",
+   "Le pontage des BCR est le signal activateur des TI-2",
+   "Le BCR n'intervient jamais dans les réponses TI",
+   "Les TI-1 pontent les BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le BCR reconnaît les épitopes répétés.",
+   "Exact : les mitogènes agissent via les TLR.",
+   "Exact : cross-linking = activation.",
+   "Faux : le BCR lie les Ag TI-2.",
+   "Faux : les TI-1 agissent via les TLR."
+  ]
+ },
+ {
+  "q": "À propos des vaccins et des antigènes TI-2, lesquelles sont exactes ?",
+  "options": [
+   "Les polyosides capsulaires seuls sont peu immunogènes chez le nourrisson",
+   "La conjugaison à une protéine porteuse rend le polyoside thymo-dépendant",
+   "Les vaccins conjugués induisent une mémoire immunitaire",
+   "Les polyosides non conjugués induisent une forte mémoire chez le nourrisson",
+   "La conjugaison est inutile pour les polyosides"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les TI-2 sont peu efficaces avant 2 ans.",
+   "Exact : le transporteur recrute l'aide T.",
+   "Exact : la réponse devient TD avec mémoire.",
+   "Faux : les TI-2 ne génèrent pas de mémoire.",
+   "Faux : elle est essentielle chez le nourrisson."
+  ]
+ },
+ {
+  "q": "Concernant l'opposition entre Ag TD et Ag TI, lesquelles sont exactes ?",
+  "options": [
+   "TD : aide T nécessaire ; TI : aide T inutile",
+   "TD : mémoire présente ; TI : mémoire faible",
+   "TD : IgG après switch ; TI : IgM prédominantes",
+   "TD : activation via TLR ; TI : coopération T",
+   "TD et TI : mécanismes strictement identiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : distinction fondamentale.",
+   "Exact : la mémoire est une propriété TD.",
+   "Exact : le switch nécessite l'aide T.",
+   "Faux : c'est l'inverse.",
+   "Faux : les mécanismes diffèrent."
+  ]
+ },
+ {
+  "q": "Concernant les signaux d'activation du lymphocyte B, lesquelles sont exactes ?",
+  "options": [
+   "Le pontage des BCR par un Ag multivalent est un signal d'activation",
+   "La signalisation via les TLR peut activer le LB (TI-1)",
+   "L'aide du LT helper (CD40L, cytokines) active le LB (TD)",
+   "Le LB ne peut être activé que par les LT helper",
+   "Le pontage des BCR inhibe toujours le LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : cross-linking = signal 1.",
+   "Exact : les mitogènes activent via les TLR.",
+   "Exact : l'aide T fournit le signal 2.",
+   "Faux : les Ag TI activent sans aide T.",
+   "Faux : il l'active dans les TI-2."
+  ]
+ },
+ {
+  "q": "À propos du LPS comme modèle d'antigène TI-1, lesquelles sont exactes ?",
+  "options": [
+   "C'est un lipopolysaccharide de la paroi des bactéries Gram négatif",
+   "Il est reconnu par le TLR4",
+   "Il active les lymphocytes B de façon polyclonale",
+   "Il ponte les BCR par sa structure répétitive",
+   "Il nécessite les LT helper pour agir"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : constituant des Gram négatif.",
+   "Exact : le LPS est le ligand du TLR4.",
+   "Exact : les mitogènes sont polyclonaux.",
+   "Faux : c'est le mécanisme des TI-2.",
+   "Faux : les TI-1 sont indépendants des TH."
+  ]
+ },
+ {
+  "q": "Concernant les Ag TI-1, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des mitogènes des lymphocytes B",
+   "Ils n'activent pas le LB par l'intermédiaire de son BCR",
+   "Ils signalent à travers les récepteurs Toll",
+   "Ils possèdent une structure répétitive d'épitopes",
+   "Leur prototype est le LPS bactérien"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : activateurs polyclonaux.",
+   "Exact : activation indépendante du BCR.",
+   "Exact : signalisation TLR.",
+   "Faux : c'est la caractéristique des TI-2.",
+   "Exact : exemple du cours."
+  ]
+ },
+ {
+  "q": "Concernant les Ag TI-2, lesquelles sont exactes ?",
+  "options": [
+   "Ils présentent une structure répétitive",
+   "Exemple : polyosides de surface des bactéries",
+   "Ils entraînent un pontage de plusieurs BCR",
+   "Ils activent le LB via le TLR4",
+   "Ils sont des mitogènes polyclonaux"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : caractéristique des TI-2.",
+   "Exact : exemple du cours.",
+   "Exact : cross-linking des BCR.",
+   "Faux : le TLR4 est la voie des TI-1 (LPS).",
+   "Faux : ce sont les TI-1."
+  ]
+ },
+ {
+  "q": "Concernant la réponse humorale thymo-indépendante (RIH), lesquelles sont exactes ?",
+  "options": [
+   "Elle ne nécessite pas l'intervention des LT helper",
+   "Elle peut être déclenchée par des mitogènes via les TLR",
+   "Elle peut être déclenchée par pontage des BCR",
+   "Elle nécessite toujours la coopération des LT helper",
+   "Elle produit des lymphocytes T cytotoxiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définition des Ag TI.",
+   "Exact : mécanisme TI-1.",
+   "Exact : mécanisme TI-2.",
+   "Faux : les TI s'en passent.",
+   "Faux : la RIH est humorale, pas cellulaire."
+  ]
+ },
+ {
+  "q": "À propos des antigènes et de la synthèse d'immunoglobulines, lesquelles sont exactes ?",
+  "options": [
+   "Pour les Ag TD, l'interaction Ag-LB seule ne déclenche pas la synthèse d'Ig",
+   "Pour les Ag TD, la coopération TH est nécessaire à la synthèse d'Ig",
+   "Pour les Ag TI, la synthèse d'Ig se fait sans TH",
+   "Tous les antigènes déclenchent la synthèse d'Ig sans aide T",
+   "Les Ag TD n'induisent jamais d'Ig"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'interaction est insuffisante seule.",
+   "Exact : l'aide T est requise.",
+   "Exact : les TI activent directement le LB.",
+   "Faux : les TD nécessitent l'aide T.",
+   "Faux : les TD induisent une forte réponse Ig."
+  ]
+ },
+ {
+  "q": "Concernant le résumé du cours sur les Ag TD/TI, lesquelles sont exactes ?",
+  "options": [
+   "Ag TD : synthèse d'Ig nécessitant les LT helper",
+   "Ag TI : RIH sans intervention des TH",
+   "TI-1 : activateurs polyclonaux via les TLR (ex : LPS-TLR4)",
+   "TI-2 : structure répétitive avec pontage des BCR (ex : polyosides bactériens)",
+   "Ag TD : activation des LB via les TLR sans BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : définition des TD.",
+   "Exact : définition des TI.",
+   "Exact : définition et exemple des TI-1.",
+   "Exact : définition et exemple des TI-2.",
+   "Faux : c'est le mécanisme des TI-1."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs impliqués dans la reconnaissance des Ag TI, lesquelles sont exactes ?",
+  "options": [
+   "Le BCR lie les épitopes répétés des Ag TI-2",
+   "Le TLR4 lie le LPS (Ag TI-1)",
+   "Les TLR reconnaissent des motifs microbiens conservés",
+   "Le TCR reconnaît les Ag TI-2",
+   "Le BCR est inutile dans la réponse TI-2"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le BCR lie l'Ag multivalent.",
+   "Exact : LPS = ligand du TLR4.",
+   "Exact : les TLR détectent les PAMP.",
+   "Faux : le TCR reconnaît le peptide-CMH.",
+   "Faux : le pontage des BCR est essentiel."
+  ]
+ },
+ {
+  "q": "À propos de la spécificité de la réponse TI-1, lesquelles sont exactes ?",
+  "options": [
+   "L'activation est polyclonale et indépendante de la spécificité du BCR",
+   "De nombreux clones B sont activés quel que soit leur BCR",
+   "La réponse est spécifique d'un seul épitope",
+   "L'activation nécessite la liaison spécifique de l'épitope au BCR",
+   "Seuls les LB spécifiques du LPS sont activés"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : les mitogènes activent via les TLR.",
+   "Exact : activation polyclonale.",
+   "Faux : la réponse est polyclonale.",
+   "Faux : l'activation est indépendante du BCR.",
+   "Faux : l'activation ne dépend pas du BCR."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination selon le cours, lesquelles sont exactes ?",
+  "options": [
+   "C'est l'injection d'un antigène microbien modifié",
+   "L'antigène vaccinal est immunogène mais non pathogène",
+   "Le BCG est un exemple de vaccin à agent pathogène complet",
+   "La vaccination utilise un agent pathogène non modifié",
+   "Le but est d'induire une réponse immunitaire protectrice"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : principe de la vaccination.",
+   "Exact : immunogène sans être pathogène.",
+   "Exact : BCG = agent complet (tuberculose).",
+   "Faux : l'Ag est modifié pour être non pathogène.",
+   "Exact : la vaccination induit une immunité protectrice."
+  ]
+ },
+ {
+  "q": "Parmi les types de vaccins cités par le cours, lesquels sont exactes ?",
+  "options": [
+   "Agent pathogène complet : BCG et tuberculose",
+   "Toxines : diphtérie",
+   "Fractions antigéniques : hépatites A ou B",
+   "Agent pathogène complet : jamais utilisé en vaccination",
+   "Toxines natives non modifiées"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : exemple du cours.",
+   "Exact : l'anatoxine diphtérique.",
+   "Exact : vaccins sous-unitaires.",
+   "Faux : le BCG est un agent complet.",
+   "Faux : les toxines sont détoxifiées (anatoxines)."
+  ]
+ },
+ {
+  "q": "Concernant le BCG, lesquelles sont exactes ?",
+  "options": [
+   "C'est un vaccin à agent pathogène complet",
+   "Il est dirigé contre la tuberculose",
+   "C'est un vaccin vivant atténué",
+   "C'est une fraction antigénique purifiée",
+   "C'est une anatoxine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : exemple du cours.",
+   "Exact : vaccin antituberculeux.",
+   "Exact : bacille vivant atténué.",
+   "Faux : c'est l'agent complet.",
+   "Faux : les anatoxines sont des toxines détoxifiées."
+  ]
+ },
+ {
+  "q": "Concernant le vaccin contre la diphtérie, lesquelles sont exactes ?",
+  "options": [
+   "C'est un vaccin à base de toxine",
+   "La toxine est détoxifiée en anatoxine",
+   "L'anatoxine est immunogène mais non pathogène",
+   "C'est un vaccin à agent pathogène complet",
+   "La toxine native est injectée telle quelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : exemple du cours (toxines).",
+   "Exact : la détoxification donne l'anatoxine.",
+   "Exact : principe du vaccin.",
+   "Faux : c'est une toxine modifiée.",
+   "Faux : elle est détoxifiée avant injection."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins contre les hépatites A ou B, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des vaccins à fractions antigéniques",
+   "Ils n'utilisent pas l'agent pathogène complet",
+   "Le vaccin contre l'hépatite B utilise l'antigène HBs",
+   "Ce sont des vaccins à agent pathogène complet",
+   "Ils sont fabriqués à partir de toxines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : exemple du cours (fractions).",
+   "Exact : seules des fractions sont utilisées.",
+   "Exact : l'Ag HBs est la fraction vaccinale.",
+   "Faux : ce sont des fractions.",
+   "Faux : pas de toxine dans ces vaccins."
+  ]
+ },
+ {
+  "q": "À propos des anatoxines vaccinales, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des toxines détoxifiées",
+   "Elles ont perdu leur pouvoir pathogène",
+   "Elles conservent leur immunogénicité",
+   "Ce sont des toxines natives pleinement actives",
+   "Elles ne sont pas immunogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définition de l'anatoxine.",
+   "Exact : la détoxification supprime la toxicité.",
+   "Exact : les épitopes immunogènes sont conservés.",
+   "Faux : elles sont détoxifiées.",
+   "Faux : elles restent immunogènes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives aux vaccins, lesquelles sont exactes ?",
+  "options": [
+   "Un vaccin vivant atténué conserve un pouvoir immunogène",
+   "Un vaccin vivant atténué a perdu son pouvoir pathogène",
+   "Un vaccin inactivé est immunogène mais non infectieux",
+   "Tout vaccin est nécessairement pathogène",
+   "Un vaccin n'induit aucune réponse immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : il induit une forte RI.",
+   "Exact : l'atténuation supprime la pathogénicité.",
+   "Exact : l'inactivation conserve l'immunogénicité.",
+   "Faux : le vaccin est non pathogène.",
+   "Faux : c'est son but premier."
+  ]
+ },
+ {
+  "q": "Concernant l'induction de tolérance en auto-immunité, lesquelles sont exactes ?",
+  "options": [
+   "Elle peut être obtenue par injection intra-thymique de l'antigène en question",
+   "Le thymus est un organe central de la tolérance",
+   "Le but est d'obtenir un état de non-réponse spécifique",
+   "Elle consiste à injecter un antigène microbien modifié",
+   "Elle vise à stimuler la réponse contre l'auto-antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : application médicale du cours.",
+   "Exact : le thymus éduque la tolérance centrale.",
+   "Exact : la tolérance = non-réponse spécifique.",
+   "Faux : c'est le principe de la vaccination.",
+   "Faux : elle vise la non-réponse."
+  ]
+ },
+ {
+  "q": "À propos de la tolérance centrale, lesquelles sont exactes ?",
+  "options": [
+   "Elle s'établit dans les organes lymphoïdes centraux (thymus, moelle osseuse)",
+   "Elle élimine les lymphocytes auto-réactifs",
+   "L'injection intra-thymique d'un antigène peut l'induire",
+   "Elle s'établit dans les ganglions lymphatiques",
+   "Elle stimule les lymphocytes auto-réactifs"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : thymus et moelle osseuse.",
+   "Exact : délétion clonale des auto-réactifs.",
+   "Exact : application du cours.",
+   "Faux : les ganglions sont des organes secondaires.",
+   "Faux : elle les élimine ou les rend anergiques."
+  ]
+ },
+ {
+  "q": "Parmi les applications médicales des antigènes citées par le cours, lesquelles sont exactes ?",
+  "options": [
+   "La vaccination",
+   "L'induction de tolérance en cas d'auto-immunité",
+   "La compatibilité transfusionnelle ABO et rhésus",
+   "La compatibilité tissulaire HLA en greffe d'organe",
+   "Le dosage du cholestérol"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : injection d'Ag microbien modifié.",
+   "Exact : injection intra-thymique de l'Ag.",
+   "Exact : application au laboratoire.",
+   "Exact : application au laboratoire.",
+   "Faux : ce n'est pas une application des Ag."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination et les antigènes, lesquelles sont exactes ?",
+  "options": [
+   "L'antigène vaccinal doit être immunogène",
+   "L'antigène vaccinal ne doit pas être pathogène",
+   "La vaccination repose sur la mémoire immunitaire",
+   "L'antigène vaccinal doit être pathogène",
+   "La vaccination n'utilise jamais d'antigènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : il doit induire une RI.",
+   "Exact : il est modifié pour être non pathogène.",
+   "Exact : la protection repose sur la mémoire.",
+   "Faux : il est non pathogène.",
+   "Faux : le vaccin est un antigène modifié."
+  ]
+ },
+ {
+  "q": "À propos des vaccins à agent complet, lesquelles sont exactes ?",
+  "options": [
+   "Le BCG en est un exemple",
+   "L'agent est vivant atténué ou inactivé",
+   "Ils présentent de nombreux épitopes au système immunitaire",
+   "Ils ne contiennent qu'une fraction antigénique",
+   "Le BCG est une anatoxine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : exemple du cours.",
+   "Exact : atténué ou tué mais complet.",
+   "Exact : la multiplicité des épitopes renforce la RI.",
+   "Faux : c'est l'agent entier.",
+   "Faux : c'est un bacille vivant atténué."
+  ]
+ },
+ {
+  "q": "À propos des vaccins sous-unitaires (fractions), lesquelles sont exactes ?",
+  "options": [
+   "Ils n'utilisent qu'une fraction de l'agent pathogène",
+   "Les vaccins contre les hépatites A ou B en sont des exemples",
+   "Ils sont en général bien tolérés",
+   "Ils utilisent l'agent pathogène complet vivant",
+   "Ils sont toujours plus immunogènes que les vaccins vivants"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définition des vaccins à fractions.",
+   "Exact : exemples du cours.",
+   "Exact : pas de réplication = bonne tolérance.",
+   "Faux : seule une fraction est utilisée.",
+   "Faux : ils sont souvent moins immunogènes."
+  ]
+ },
+ {
+  "q": "Concernant les rappels vaccinaux, lesquelles sont exactes ?",
+  "options": [
+   "Ils reposent sur la mémoire immunitaire induite par l'antigène vaccinal",
+   "Ils renforcent la réponse en anticorps",
+   "Ils augmentent l'affinité des anticorps",
+   "Ils sont inutiles après une primo-vaccination",
+   "Ils effacent la mémoire immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la mémoire permet une réponse secondaire.",
+   "Exact : la réponse secondaire est plus intense.",
+   "Exact : la maturation d'affinité se poursuit.",
+   "Faux : ils sont souvent nécessaires.",
+   "Faux : ils la renforcent."
+  ]
+ },
+ {
+  "q": "Concernant un bon antigène vaccinal, lesquelles sont exactes ?",
+  "options": [
+   "Immunogène",
+   "Non pathogène",
+   "Capable d'induire une mémoire immunitaire",
+   "Stable et purifiable",
+   "Pathogène et invasif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : il doit induire une RI.",
+   "Exact : il est modifié pour être non pathogène.",
+   "Exact : la protection durable repose sur la mémoire.",
+   "Exact : qualité pharmaceutique requise.",
+   "Faux : le vaccin est non pathogène."
+  ]
+ },
+ {
+  "q": "À propos de la tolérance et de la dose d'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Une dose insuffisante ou excessive d'antigène induit une tolérance",
+   "La tolérance est un état de non-réponse spécifique",
+   "L'injection intra-thymique d'un auto-antigène est une application thérapeutique",
+   "Toute dose d'antigène induit une réponse immunitaire",
+   "La tolérance est une hyper-réactivité immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : tolérance de basse et haute dose.",
+   "Exact : non-réponse spécifique de l'Ag.",
+   "Exact : application en auto-immunité.",
+   "Faux : les extrêmes induisent une tolérance.",
+   "Faux : c'est une non-réponse."
+  ]
+ },
+ {
+  "q": "Concernant les auto-antigènes en thérapeutique, lesquelles sont exactes ?",
+  "options": [
+   "L'injection intra-thymique de l'auto-antigène peut induire une tolérance",
+   "Le but est de réduire la réponse auto-immune",
+   "Les auto-antigènes sont normalement tolérés",
+   "Il faut stimuler la réponse contre les auto-antigènes",
+   "Les auto-antigènes sont des xéno-antigènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : application du cours.",
+   "Exact : la tolérance freine l'auto-immunité.",
+   "Exact : la tolérance au soi est physiologique.",
+   "Faux : il faut l'éteindre.",
+   "Faux : ils appartiennent au soi."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives à la vaccination antituberculeuse, lesquelles sont exactes ?",
+  "options": [
+   "Le BCG est le vaccin utilisé",
+   "C'est un vaccin à agent pathogène complet",
+   "Il est dirigé contre la tuberculose",
+   "C'est une fraction antigénique purifiée",
+   "C'est un vaccin à base de toxine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : vaccin antituberculeux.",
+   "Exact : exemple du cours.",
+   "Exact : la tuberculose est la cible.",
+   "Faux : c'est l'agent complet.",
+   "Faux : pas de toxine dans le BCG."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination antidiphtérique, lesquelles sont exactes ?",
+  "options": [
+   "Elle utilise l'anatoxine diphtérique",
+   "L'anatoxine est une toxine détoxifiée",
+   "Elle induit des anticorps neutralisant la toxine",
+   "Elle utilise le bacille diphtérique complet vivant",
+   "Elle n'induit pas de réponse immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : vaccin à base de toxine.",
+   "Exact : détoxification chimique.",
+   "Exact : les Ac antitoxines protègent.",
+   "Faux : c'est l'anatoxine seule.",
+   "Faux : elle induit une RI protectrice."
+  ]
+ },
+ {
+  "q": "À propos des vaccins et de la réponse immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "La primo-vaccination induit une réponse primaire",
+   "Le rappel induit une réponse secondaire plus rapide et plus intense",
+   "La réponse secondaire repose sur les lymphocytes mémoire",
+   "Il n'existe pas de mémoire après vaccination",
+   "La réponse secondaire est plus faible que la primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : première rencontre avec l'Ag.",
+   "Exact : caractéristiques de la réponse secondaire.",
+   "Exact : les LB et LT mémoire sont réactivés.",
+   "Faux : la mémoire est le but du vaccin.",
+   "Faux : elle est plus rapide et plus intense."
+  ]
+ },
+ {
+  "q": "Parmi les applications des antigènes en pratique médicale, lesquelles sont exactes ?",
+  "options": [
+   "Vaccination : injection d'Ag microbien modifié",
+   "Tolérance : injection intra-thymique de l'antigène en auto-immunité",
+   "Transfusion : compatibilité ABO et rhésus",
+   "Greffe : compatibilité tissulaire HLA",
+   "Aucune application en pratique médicale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : application citée par le cours.",
+   "Exact : application citée par le cours.",
+   "Exact : application au laboratoire.",
+   "Exact : application au laboratoire.",
+   "Faux : les applications sont nombreuses."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes vaccinaux et leur nature, lesquelles sont exactes ?",
+  "options": [
+   "Les protéines microbiennes sont d'excellents antigènes vaccinaux",
+   "Les polyosides capsulaires sont utilisés dans les vaccins conjugués",
+   "Les anatoxines sont des antigènes vaccinaux",
+   "Les lipides purs sont d'excellents antigènes vaccinaux",
+   "Les haptènes seuls sont d'excellents vaccins"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : protéines = meilleurs immunogènes.",
+   "Exact : conjugués aux protéines porteuses.",
+   "Exact : toxines détoxifiées immunogènes.",
+   "Faux : pouvoir immunogène ≈ nul.",
+   "Faux : ils ne sont pas immunogènes seuls."
+  ]
+ },
+ {
+  "q": "À propos de l'immunogénicité des vaccins, lesquelles sont exactes ?",
+  "options": [
+   "Elle dépend de la nature de l'antigène vaccinal",
+   "Elle dépend de la dose administrée",
+   "Elle dépend de la voie d'administration",
+   "Elle est indépendante de tout facteur",
+   "Un vaccin n'a pas besoin d'être immunogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : nature = caractéristique des Ag.",
+   "Exact : la dose optimale est requise.",
+   "Exact : chaque Ag a sa voie optimale.",
+   "Faux : de nombreux facteurs l'influencent.",
+   "Faux : l'immunogénicité est essentielle."
+  ]
+ },
+ {
+  "q": "Concernant les exemples de vaccins du cours, lesquelles sont exactes ?",
+  "options": [
+   "Vaccin à agent complet : BCG",
+   "Vaccin à toxine : diphtérie",
+   "Vaccin à fractions : hépatites A ou B",
+   "Vaccin à agent complet : anatoxine diphtérique",
+   "Vaccin à fractions : BCG"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : agent complet, tuberculose.",
+   "Exact : toxine détoxifiée.",
+   "Exact : fractions antigéniques.",
+   "Faux : l'anatoxine est une toxine modifiée.",
+   "Faux : le BCG est un agent complet."
+  ]
+ },
+ {
+  "q": "Concernant la détoxification des toxines vaccinales, lesquelles sont exactes ?",
+  "options": [
+   "Elle supprime le pouvoir pathogène de la toxine",
+   "Elle conserve l'immunogénicité de la toxine",
+   "Elle produit une anatoxine",
+   "Elle supprime l'immunogénicité de la toxine",
+   "Elle rend la toxine plus pathogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la toxicité est abolie.",
+   "Exact : les épitopes sont préservés.",
+   "Exact : toxine détoxifiée = anatoxine.",
+   "Faux : l'immunogénicité est conservée.",
+   "Faux : elle devient non pathogène."
+  ]
+ },
+ {
+  "q": "À propos des vaccins vivants atténués, lesquelles sont exactes ?",
+  "options": [
+   "Ils se multiplient de façon limitée dans l'organisme",
+   "Ils présentent de nombreux épitopes au système immunitaire",
+   "Ils induisent une réponse immunitaire durable",
+   "Ils sont totalement dépourvus d'antigènes",
+   "Ils sont plus pathogènes que l'agent sauvage"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : réplication atténuée.",
+   "Exact : l'agent complet est antigénique.",
+   "Exact : forte immunogénicité.",
+   "Faux : ils sont riches en antigènes.",
+   "Faux : l'atténuation réduit la pathogénicité."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins inactivés, lesquelles sont exactes ?",
+  "options": [
+   "L'agent pathogène est tué mais conserve ses antigènes",
+   "Ils sont non infectieux",
+   "Ils nécessitent souvent des rappels",
+   "Ils sont infectieux",
+   "Ils ne contiennent aucun antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : inactivation sans destruction des épitopes.",
+   "Exact : pas de réplication possible.",
+   "Exact : immunogénicité moindre = rappels.",
+   "Faux : ils sont tués.",
+   "Faux : les Ag sont conservés."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives à la tolérance thérapeutique, lesquelles sont exactes ?",
+  "options": [
+   "Elle vise un état de non-réponse spécifique de l'antigène",
+   "L'injection intra-thymique est une voie d'induction citée par le cours",
+   "Elle est envisagée en cas d'auto-immunité",
+   "Elle vise à amplifier la réponse immunitaire",
+   "Elle est spécifique de l'antigène injecté"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : définition de la tolérance.",
+   "Exact : application du cours.",
+   "Exact : indication citée.",
+   "Faux : elle vise la non-réponse.",
+   "Exact : la tolérance est Ag-spécifique."
+  ]
+ },
+ {
+  "q": "À propos des antigènes dans l'induction de tolérance, lesquelles sont exactes ?",
+  "options": [
+   "Une dose insuffisante peut rendre tolérant",
+   "Une dose excessive peut rendre tolérant",
+   "La voie et la forme de l'antigène influencent la tolérance",
+   "Seule la dose optimale induit une tolérance",
+   "La tolérance est toujours irréversible"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : tolérance de basse dose.",
+   "Exact : tolérance de haute dose.",
+   "Exact : ex : injection intra-thymique.",
+   "Faux : la dose optimale induit une RI.",
+   "Faux : elle peut être transitoire."
+  ]
+ },
+ {
+  "q": "Concernant le thymus et les antigènes, lesquelles sont exactes ?",
+  "options": [
+   "Le thymus est le siège de la tolérance centrale des LT",
+   "L'injection intra-thymique d'un antigène peut induire une tolérance",
+   "Le thymus est un organe lymphoïde central",
+   "Le thymus est un organe lymphoïde secondaire",
+   "Le thymus produit les anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : éducation thymique des LT.",
+   "Exact : application du cours.",
+   "Exact : organe central avec la moelle.",
+   "Faux : les secondaires sont rate et ganglions.",
+   "Faux : les Ac sont produits par les plasmocytes."
+  ]
+ },
+ {
+  "q": "Concernant le principe « immunogène mais non pathogène », lesquelles sont exactes ?",
+  "options": [
+   "L'anatoxine diphtérique",
+   "Le BCG (bacille atténué)",
+   "Les fractions HBs du vaccin contre l'hépatite B",
+   "La toxine diphtérique native",
+   "Le bacille tuberculeux virulent"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : toxine détoxifiée.",
+   "Exact : agent vivant atténué.",
+   "Exact : fraction non infectieuse.",
+   "Faux : elle est pathogène.",
+   "Faux : il est pathogène."
+  ]
+ },
+ {
+  "q": "Concernant les échecs vaccinaux liés à l'antigène, lesquels sont exacts ?",
+  "options": [
+   "Une dose insuffisante d'antigène",
+   "Une mauvaise voie d'administration",
+   "Une altération des épitopes (mauvaise conservation)",
+   "Une dose optimale par la bonne voie",
+   "Un antigène intact et bien conservé"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : dose = caractéristique des Ag.",
+   "Exact : la voie conditionne la réponse.",
+   "Exact : les épitopes doivent être intacts.",
+   "Faux : c'est la condition du succès.",
+   "Faux : c'est la condition du succès."
+  ]
+ },
+ {
+  "q": "À propos de la vaccination et des rappels, lesquelles sont exactes ?",
+  "options": [
+   "Le rappel réactive les lymphocytes mémoire",
+   "La réponse secondaire est plus rapide que la primaire",
+   "Les taux d'anticorps sont plus élevés après rappel",
+   "Le rappel est inutile car la mémoire n'existe pas",
+   "La réponse secondaire est identique à la primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les mémoire répondent vite.",
+   "Exact : cinétique accélérée.",
+   "Exact : production massive d'Ac.",
+   "Faux : la mémoire est le fondement du rappel.",
+   "Faux : elle est plus rapide et plus intense."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins à fractions, lesquelles sont exactes ?",
+  "options": [
+   "Ils utilisent des fractions purifiées de l'agent pathogène",
+   "Exemple : vaccins contre les hépatites A ou B",
+   "Ils exposent le système immunitaire à des épitopes définis",
+   "Ils utilisent l'agent pathogène complet vivant",
+   "Ils sont contre-indiqués car trop pathogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définition.",
+   "Exact : exemples du cours.",
+   "Exact : épitopes sélectionnés.",
+   "Faux : seule une fraction est utilisée.",
+   "Faux : ils sont bien tolérés."
+  ]
+ },
+ {
+  "q": "Concernant l'anatoxine tétanique (par analogie avec la diphtérie), lesquelles sont exactes ?",
+  "options": [
+   "C'est une toxine détoxifiée",
+   "Elle est immunogène mais non pathogène",
+   "Elle induit des anticorps antitoxine protecteurs",
+   "C'est une toxine native active",
+   "Elle n'a aucun pouvoir immunogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : principe des anatoxines.",
+   "Exact : principe vaccinal.",
+   "Exact : les Ac neutralisent la toxine.",
+   "Faux : elle est détoxifiée.",
+   "Faux : elle est immunogène."
+  ]
+ },
+ {
+  "q": "À propos des antigènes vaccinaux et de la mémoire, lesquelles sont exactes ?",
+  "options": [
+   "La vaccination vise à créer des lymphocytes mémoire sans la maladie",
+   "Les LB mémoire répondent plus vite lors du rappel",
+   "Les Ac produits lors de la réponse secondaire ont une meilleure affinité",
+   "La vaccination ne crée aucune mémoire",
+   "La mémoire vaccinale est non spécifique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : but de la vaccination.",
+   "Exact : cinétique de la réponse secondaire.",
+   "Exact : maturation d'affinité.",
+   "Faux : c'est son objectif.",
+   "Faux : elle est spécifique de l'Ag vaccinal."
+  ]
+ },
+ {
+  "q": "Concernant les applications médicales des antigènes en pratique, lesquelles sont exactes ?",
+  "options": [
+   "La vaccination",
+   "L'induction de tolérance en auto-immunité",
+   "La sérologie diagnostique",
+   "La compatibilité transfusionnelle et de greffe",
+   "La mesure de la glycémie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Ag microbien modifié.",
+   "Exact : injection intra-thymique.",
+   "Exact : recherche d'Ac par des Ag.",
+   "Exact : ABO, rhésus, HLA.",
+   "Faux : pas de lien avec les Ag."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins conjugués (polyoside + protéine), lesquelles sont exactes ?",
+  "options": [
+   "Le polyoside seul est un antigène thymo-indépendant",
+   "La protéine porteuse recrute l'aide des LT helper",
+   "Le conjugué induit une réponse avec mémoire",
+   "Le polyoside seul induit une forte mémoire chez le nourrisson",
+   "La conjugaison n'apporte aucun bénéfice"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les polyosides sont des TI-2.",
+   "Exact : la protéine apporte des peptides au CMH II.",
+   "Exact : la réponse devient thymo-dépendante.",
+   "Faux : les TI-2 sont peu immunogènes avant 2 ans.",
+   "Faux : elle transforme la réponse."
+  ]
+ },
+ {
+  "q": "À propos du principe vaccinal selon le cours, lesquelles sont exactes ?",
+  "options": [
+   "Injection d'un antigène microbien modifié",
+   "Antigène immunogène mais non pathogène",
+   "Induction d'une immunité protectrice spécifique",
+   "Injection de l'agent pathogène virulent",
+   "Induction d'une tolérance à l'agent pathogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définition du cours.",
+   "Exact : le vaccin est non pathogène.",
+   "Exact : but de la vaccination.",
+   "Faux : l'agent est modifié/atténué.",
+   "Faux : la vaccination induit une RI, pas une tolérance."
+  ]
+ },
+ {
+  "q": "Concernant la transfusion sanguine et les antigènes, lesquelles sont exactes ?",
+  "options": [
+   "La compatibilité dans les systèmes ABO est recherchée",
+   "La compatibilité dans le système rhésus est recherchée",
+   "Les antigènes ABO sont des allo-antigènes érythrocytaires",
+   "Les groupes sanguins n'ont aucun rôle en transfusion",
+   "Les antigènes ABO sont des xéno-antigènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : application du cours.",
+   "Exact : application du cours.",
+   "Exact : polymorphisme intra-espèce.",
+   "Faux : la compatibilité est obligatoire.",
+   "Faux : ce sont des allo-antigènes."
+  ]
+ },
+ {
+  "q": "À propos du système ABO, lesquelles sont exactes ?",
+  "options": [
+   "Les antigènes A et B sont des allo-antigènes",
+   "Un sujet de groupe O ne possède ni l'antigène A ni l'antigène B",
+   "Les anticorps anti-A et anti-B sont naturels",
+   "Le système ABO n'est pas antigénique",
+   "Tous les individus possèdent les antigènes A et B"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : présents chez certains individus.",
+   "Exact : le groupe O = absence de A et B.",
+   "Exact : Ac naturels anti-A/anti-B.",
+   "Faux : c'est un système antigénique majeur.",
+   "Faux : leur présence définit les groupes."
+  ]
+ },
+ {
+  "q": "Concernant le système rhésus, lesquelles sont exactes ?",
+  "options": [
+   "L'antigène D est le principal antigène du système rhésus",
+   "Un sujet Rh négatif ne possède pas l'antigène D",
+   "L'allo-immunisation anti-D peut survenir après transfusion incompatible",
+   "Le système rhésus n'intervient pas en transfusion",
+   "Tous les individus sont Rh positif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'Ag D définit le phénotype Rh.",
+   "Exact : Rh- = absence d'Ag D.",
+   "Exact : les Rh- s'immunisent contre le D.",
+   "Faux : la compatibilité Rh est recherchée.",
+   "Faux : il existe des sujets Rh négatif."
+  ]
+ },
+ {
+  "q": "À propos de la greffe d'organe et des antigènes, lesquelles sont exactes ?",
+  "options": [
+   "La compatibilité tissulaire HLA est recherchée",
+   "Les antigènes HLA sont des allo-antigènes",
+   "Le typage HLA du donneur et du receveur est réalisé avant la greffe",
+   "Les antigènes HLA n'interviennent pas en greffe",
+   "La greffe ne nécessite aucune compatibilité"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : application du cours.",
+   "Exact : polymorphisme intra-espèce.",
+   "Exact : le cross-match évalue la compatibilité.",
+   "Faux : ils sont la cible du rejet.",
+   "Faux : la compatibilité HLA est essentielle."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes HLA, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des allo-antigènes tissulaires",
+   "Ils sont responsables du rejet de greffe en cas d'incompatibilité",
+   "Ils sont présents chez certains individus de l'espèce",
+   "Ce sont des xéno-antigènes",
+   "Ils sont identiques chez tous les individus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : polymorphisme intra-espèce.",
+   "Exact : le rejet cible les HLA du donneur.",
+   "Exact : définition des alloAg.",
+   "Faux : ils appartiennent à la même espèce.",
+   "Faux : ils sont hautement polymorphes."
+  ]
+ },
+ {
+  "q": "À propos des tests sérologiques utilisant des antigènes, lesquelles sont exactes ?",
+  "options": [
+   "Les antigènes sont utilisés à la recherche d'anticorps",
+   "Les antigènes particulaires sont utilisés dans les réactions d'agglutination",
+   "Les antigènes solubles sont utilisés dans les réactions de précipitation",
+   "Les antigènes fixés sont utilisés en ELISA, RIA et IFI",
+   "Les tests sérologiques n'utilisent jamais d'antigènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : principe de la sérologie.",
+   "Exact : agglutination = Ag particulaires.",
+   "Exact : précipitation = Ag solubles.",
+   "Exact : ELISA, RIA, IFI = Ag fixés.",
+   "Faux : les Ag sont les réactifs de base."
+  ]
+ },
+ {
+  "q": "Concernant les réactions d'agglutination, lesquelles sont exactes ?",
+  "options": [
+   "Elles utilisent des antigènes particulaires",
+   "L'anticorps agrège les particules antigéniques",
+   "Exemple : groupage sanguin ABO",
+   "Elles utilisent des antigènes solubles",
+   "Elles utilisent des antigènes fixés sur support"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : Ag particulaires selon le cours.",
+   "Exact : les Ac pontent les particules.",
+   "Exact : les hématies sont des particules.",
+   "Faux : les Ag solubles donnent une précipitation.",
+   "Faux : les Ag fixés sont pour ELISA/RIA/IFI."
+  ]
+ },
+ {
+  "q": "Concernant les réactions de précipitation, lesquelles sont exactes ?",
+  "options": [
+   "Elles utilisent des antigènes solubles",
+   "La rencontre Ag-Ac forme un précipité visible",
+   "Exemple : immunodiffusion en gel",
+   "Elles utilisent des antigènes particulaires",
+   "Elles utilisent des antigènes fixés"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : Ag solubles selon le cours.",
+   "Exact : le complexe Ag-Ac précipite.",
+   "Exact : Ouchterlony, immunodiffusion.",
+   "Faux : les particulaires donnent une agglutination.",
+   "Faux : les Ag fixés sont pour ELISA/RIA/IFI."
+  ]
+ },
+ {
+  "q": "Concernant la technique ELISA, lesquelles sont exactes ?",
+  "options": [
+   "Elle utilise des antigènes fixés sur un support",
+   "Elle permet la recherche d'anticorps",
+   "Elle permet le dosage d'antigènes",
+   "La révélation est enzymatique et colorimétrique",
+   "Elle utilise des antigènes particulaires en suspension"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Ag fixés selon le cours.",
+   "Exact : sérologie anti-infectieuse.",
+   "Exact : dosage d'Ag (ex : HBs).",
+   "Exact : enzyme + substrat chromogène.",
+   "Faux : les particulaires servent à l'agglutination."
+  ]
+ },
+ {
+  "q": "Concernant la RIA (radio-immunologie), lesquelles sont exactes ?",
+  "options": [
+   "Elle utilise des antigènes fixés",
+   "La révélation utilise un traceur radioactif",
+   "Elle permet des dosages très sensibles",
+   "Elle utilise un traceur enzymatique",
+   "Elle n'utilise pas d'antigènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : Ag fixés selon le cours.",
+   "Exact : marquage isotopique.",
+   "Exact : grande sensibilité analytique.",
+   "Faux : c'est le principe de l'ELISA.",
+   "Faux : les Ag sont les réactifs."
+  ]
+ },
+ {
+  "q": "Concernant l'immunofluorescence indirecte (IFI), lesquelles sont exactes ?",
+  "options": [
+   "Elle utilise des antigènes fixés sur lame",
+   "La révélation utilise un anticorps marqué par un fluorochrome",
+   "Elle permet la recherche d'anticorps",
+   "L'observation se fait au microscope à fluorescence",
+   "Elle utilise des antigènes solubles en tube"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Ag fixés selon le cours.",
+   "Exact : anti-Ig marqué fluorescent.",
+   "Exact : sérologie par IFI.",
+   "Exact : lecture en fluorescence.",
+   "Faux : les Ag solubles servent à la précipitation."
+  ]
+ },
+ {
+  "q": "À propos du dosage d'antigènes tumoraux, lesquelles sont exactes ?",
+  "options": [
+   "Le PSA est dosé dans les tumeurs de la prostate",
+   "Le dosage utilise des anticorps spécifiques de l'antigène",
+   "C'est une application diagnostique des réactions Ag-Ac",
+   "Le PSA est un antigène spécifique de tumeur",
+   "Le dosage d'antigènes n'a aucun intérêt médical"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : exemple du cours.",
+   "Exact : les Ac anti-PSA capturent l'Ag.",
+   "Exact : immunodosage diagnostique.",
+   "Exact : marqueur prostatique.",
+   "Faux : c'est un outil diagnostique."
+  ]
+ },
+ {
+  "q": "Concernant le PSA, lesquelles sont exactes ?",
+  "options": [
+   "C'est l'antigène spécifique de la prostate",
+   "Son dosage aide au diagnostic des tumeurs prostatiques",
+   "Son élévation n'est jamais normale",
+   "C'est un anticorps",
+   "Son dosage est inutile en pratique"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : Prostate Specific Antigen.",
+   "Exact : marqueur des tumeurs de la prostate.",
+   "Faux : il augmente aussi dans l'HBP.",
+   "Faux : c'est un antigène.",
+   "Faux : c'est un marqueur utile."
+  ]
+ },
+ {
+  "q": "Parmi les techniques utilisant des antigènes fixés, lesquelles sont exactes ?",
+  "options": [
+   "ELISA",
+   "RIA",
+   "IFI",
+   "Agglutination sur lame",
+   "Précipitation en gel"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : citée par le cours.",
+   "Exact : citée par le cours.",
+   "Exact : citée par le cours.",
+   "Faux : elle utilise des Ag particulaires.",
+   "Faux : elle utilise des Ag solubles."
+  ]
+ },
+ {
+  "q": "Concernant la sérologie infectieuse, lesquelles sont exactes ?",
+  "options": [
+   "Elle recherche des anticorps dirigés contre des antigènes microbiens",
+   "L'antigène microbien est le réactif du test",
+   "Un test positif traduit une rencontre avec l'antigène",
+   "Elle recherche des antigènes uniquement",
+   "Elle n'utilise pas la liaison Ag-Ac"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : principe de la sérologie.",
+   "Exact : l'Ag est fixé comme réactif.",
+   "Exact : la présence d'Ac signe l'exposition.",
+   "Faux : elle recherche surtout des Ac.",
+   "Faux : elle repose sur la liaison Ag-Ac."
+  ]
+ },
+ {
+  "q": "À propos des antigènes particulaires, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des antigènes portés par des particules (hématies, bactéries, latex)",
+   "Ils sont utilisés dans les réactions d'agglutination",
+   "L'agglutination traduit la liaison des anticorps aux particules",
+   "Ce sont des antigènes solubles",
+   "Ils sont utilisés en ELISA"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : hématies, bactéries, particules de latex.",
+   "Exact : selon le cours.",
+   "Exact : les Ac agrègent les particules.",
+   "Faux : les solubles donnent une précipitation.",
+   "Faux : l'ELISA utilise des Ag fixés."
+  ]
+ },
+ {
+  "q": "À propos des antigènes solubles, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont utilisés dans les réactions de précipitation",
+   "La formation du complexe Ag-Ac donne un précipité",
+   "Ils sont utilisés dans les réactions d'agglutination",
+   "Ils sont fixés sur support en ELISA",
+   "Ils ne peuvent pas être reconnus par les anticorps"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : selon le cours.",
+   "Exact : le précipité est visible.",
+   "Faux : l'agglutination utilise des particulaires.",
+   "Faux : l'ELISA utilise des Ag fixés.",
+   "Faux : ils sont reconnus spécifiquement."
+  ]
+ },
+ {
+  "q": "Concernant la compatibilité ABO en transfusion, lesquelles sont exactes ?",
+  "options": [
+   "Un receveur possède des anticorps naturels contre les antigènes ABO qu'il n'a pas",
+   "La transfusion d'hématies porteuses d'un antigène ABO absent chez le receveur provoque une hémolyse",
+   "Le groupage utilise des sérums anti-A et anti-B (agglutination)",
+   "Il n'y a aucun risque à transfuser des hématies ABO incompatibles",
+   "Les anticorps anti-ABO sont des allo-anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : Ac naturels du système ABO.",
+   "Exact : réaction hémolytique aiguë.",
+   "Exact : agglutination des hématies.",
+   "Faux : le risque hémolytique est majeur.",
+   "Exact : dirigés contre des allo-antigènes ABO."
+  ]
+ },
+ {
+  "q": "Concernant la maladie hémolytique du nouveau-né, lesquelles sont exactes ?",
+  "options": [
+   "Elle résulte d'une allo-immunisation maternelle anti-D",
+   "La mère Rh négatif s'immunise contre l'antigène D fœtal",
+   "Les anticorps maternels traversent le placenta",
+   "Elle concerne le système ABO uniquement",
+   "L'antigène D est un xéno-antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : immunisation anti-Rh.",
+   "Exact : le fœtus Rh+ porte l'Ag D.",
+   "Exact : les IgG traversent le placenta.",
+   "Faux : c'est le système rhésus.",
+   "Faux : c'est un allo-antigène."
+  ]
+ },
+ {
+  "q": "À propos du cross-match en greffe, lesquelles sont exactes ?",
+  "options": [
+   "Il recherche des anticorps du receveur contre les antigènes HLA du donneur",
+   "Un cross-match positif contre-indique la greffe",
+   "Il évalue la compatibilité tissulaire",
+   "Il est inutile avant une greffe",
+   "Il recherche des antigènes dans le sérum du donneur"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : détection des Ac anti-HLA.",
+   "Exact : risque de rejet hyperaigu.",
+   "Exact : but du test.",
+   "Faux : il est obligatoire.",
+   "Faux : il recherche des Ac chez le receveur."
+  ]
+ },
+ {
+  "q": "Concernant les réactions Ag-Ac au laboratoire, lesquelles sont exactes ?",
+  "options": [
+   "Ag particulaires : agglutination",
+   "Ag solubles : précipitation",
+   "Ag fixés : ELISA, RIA, IFI",
+   "Ag particulaires : précipitation",
+   "Ag solubles : agglutination"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : selon le cours.",
+   "Exact : selon le cours.",
+   "Exact : selon le cours.",
+   "Faux : les particulaires donnent une agglutination.",
+   "Faux : les solubles donnent une précipitation."
+  ]
+ },
+ {
+  "q": "Concernant les applications des antigènes au laboratoire, lesquelles sont exactes ?",
+  "options": [
+   "Transfusion sanguine : compatibilité ABO et rhésus",
+   "Greffe d'organe : compatibilité HLA",
+   "Tests sérologiques : recherche d'anticorps",
+   "Dosage d'antigènes tumoraux comme le PSA",
+   "Aucune application diagnostique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : citée par le cours.",
+   "Exact : citée par le cours.",
+   "Exact : citée par le cours.",
+   "Exact : citée par le cours.",
+   "Faux : les applications sont nombreuses."
+  ]
+ },
+ {
+  "q": "Concernant les anticorps monoclonaux en immunodosage, lesquelles sont exactes ?",
+  "options": [
+   "Ils reconnaissent un seul épitope de l'antigène",
+   "Ils sont utilisés dans les tests ELISA",
+   "Ils permettent un dosage spécifique de l'antigène",
+   "Ils reconnaissent tous les épitopes de l'antigène",
+   "Ils sont inutilisables au laboratoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : une seule spécificité.",
+   "Exact : Ac de capture/détection.",
+   "Exact : grande spécificité du dosage.",
+   "Faux : un seul épitope par Ac monoclonal.",
+   "Faux : ils sont très utilisés."
+  ]
+ },
+ {
+  "q": "À propos de la spécificité des tests sérologiques, lesquelles sont exactes ?",
+  "options": [
+   "Elle repose sur la spécificité de la liaison Ag-Ac",
+   "L'antigène utilisé détermine la spécificité du test",
+   "Des réactions croisées peuvent survenir entre épitopes proches",
+   "La spécificité est indépendante de l'antigène utilisé",
+   "Tout antigène donne un test totalement spécifique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : reconnaissance épitope-paratope.",
+   "Exact : le réactif Ag définit la cible.",
+   "Exact : les épitopes communs croisent.",
+   "Faux : elle dépend de l'Ag.",
+   "Faux : les réactions croisées existent."
+  ]
+ },
+ {
+  "q": "Concernant les marqueurs tumoraux antigéniques, lesquelles sont exactes ?",
+  "options": [
+   "Le PSA est un exemple cité par le cours",
+   "Ils sont dosés par des techniques immunologiques",
+   "Leur élévation oriente vers une tumeur",
+   "Ils sont toujours totalement spécifiques du cancer",
+   "Le PSA est dosé dans le cancer du sein"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : tumeur de la prostate.",
+   "Exact : immunodosage par Ac spécifiques.",
+   "Exact : ce sont des marqueurs d'orientation.",
+   "Faux : ils peuvent s'élever en pathologie bénigne.",
+   "Faux : c'est un marqueur prostatique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives aux Ag et Ac en transfusion, lesquelles sont exactes ?",
+  "options": [
+   "Les antigènes érythrocytaires définissent les groupes sanguins",
+   "Les anticorps naturels anti-A/anti-B sont des IgM",
+   "La compatibilité ABO repose sur les antigènes du donneur et les anticorps du receveur",
+   "Les groupes sanguins n'ont pas de support antigénique",
+   "La transfusion ne nécessite aucun test de compatibilité"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : A, B, D sont des Ag.",
+   "Exact : les Ac naturels sont des IgM.",
+   "Exact : principe de la compatibilité.",
+   "Faux : ce sont des allo-antigènes.",
+   "Faux : le groupage est obligatoire."
+  ]
+ },
+ {
+  "q": "Concernant les techniques de dosage immunologique, lesquelles sont exactes ?",
+  "options": [
+   "L'ELISA utilise un marquage enzymatique",
+   "La RIA utilise un marquage radioactif",
+   "L'IFI utilise un marquage fluorescent",
+   "Les trois utilisent le principe de la liaison Ag-Ac",
+   "L'ELISA utilise un marquage radioactif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : enzyme + substrat chromogène.",
+   "Exact : traceur isotopique.",
+   "Exact : fluorochrome.",
+   "Exact : toutes reposent sur Ag-Ac.",
+   "Faux : c'est la RIA."
+  ]
+ },
+ {
+  "q": "À propos des antigènes utilisés en sérologie, lesquelles sont exactes ?",
+  "options": [
+   "Ils peuvent être particulaires, solubles ou fixés",
+   "Le choix de la forme conditionne la technique utilisée",
+   "Ils doivent conserver leurs épitopes natifs",
+   "Leur forme n'a aucune importance",
+   "Des épitopes dénaturés donnent toujours de bons réactifs"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : trois formes selon le cours.",
+   "Exact : agglutination, précipitation, ELISA/RIA/IFI.",
+   "Exact : les épitopes doivent être reconnus.",
+   "Faux : la forme détermine la technique.",
+   "Faux : la dénaturation peut détruire les épitopes."
+  ]
+ },
+ {
+  "q": "Concernant le groupage sanguin au laboratoire, lesquelles sont exactes ?",
+  "options": [
+   "Il utilise la réaction d'agglutination",
+   "Les hématies sont des antigènes particulaires",
+   "Des sérums tests anti-A et anti-B sont utilisés",
+   "Il utilise la réaction de précipitation",
+   "Il ne fait appel à aucun antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : agglutination des hématies.",
+   "Exact : les hématies portent les Ag ABO.",
+   "Exact : réactifs du groupage.",
+   "Faux : la précipitation utilise des Ag solubles.",
+   "Faux : les hématies sont les Ag."
+  ]
+ },
+ {
+  "q": "Concernant le résumé des applications médicales des antigènes, lesquelles sont exactes ?",
+  "options": [
+   "En pratique : vaccination et induction de tolérance",
+   "Au laboratoire : transfusion (ABO, rhésus)",
+   "Au laboratoire : greffe (HLA)",
+   "Au laboratoire : sérologie et dosage d'antigènes tumoraux (PSA)",
+   "Les antigènes n'ont aucune application médicale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : applications pratiques du cours.",
+   "Exact : application au laboratoire.",
+   "Exact : application au laboratoire.",
+   "Exact : applications au laboratoire.",
+   "Faux : elles sont nombreuses."
+  ]
+ },
+ {
+  "q": "Concernant les allo-antigènes en médecine transfusionnelle, lesquelles sont exactes ?",
+  "options": [
+   "Leur recherche prévient les accidents hémolytiques",
+   "Les sujets dépourvus d'un allo-antigène peuvent s'immuniser contre lui",
+   "Les anticorps anti-allo-antigènes peuvent être naturels ou immuns",
+   "Les allo-antigènes sont toujours tolérés",
+   "La compatibilité allo-antigénique est inutile"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : but du groupage.",
+   "Exact : immunisation des sujets dépourvus.",
+   "Exact : ex : anti-A naturels, anti-D immuns.",
+   "Faux : ils sont immunogènes.",
+   "Faux : elle est obligatoire."
+  ]
+ },
+ {
+  "q": "À propos des réactions d'immunoprécipitation, lesquelles sont exactes ?",
+  "options": [
+   "L'antigène est soluble",
+   "L'anticorps est en solution",
+   "Le complexe Ag-Ac forme un précipité",
+   "L'antigène est particulaire",
+   "La lecture se fait au microscope à fluorescence"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : Ag solubles.",
+   "Exact : rencontre en phase soluble.",
+   "Exact : précipité visible.",
+   "Faux : les particulaires agglutinent.",
+   "Faux : c'est la lecture de l'IFI."
+  ]
+ },
+ {
+  "q": "Concernant les tests ELISA indirects (recherche d'anticorps), lesquelles sont exactes ?",
+  "options": [
+   "L'antigène est fixé au fond du puits",
+   "Le sérum du patient est incubé avec l'antigène fixé",
+   "Un anti-immunoglobuline marqué révèle la liaison",
+   "L'antigène est marqué par l'enzyme",
+   "Aucun antigène n'est utilisé"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : Ag fixé = réactif.",
+   "Exact : les Ac du sérum se lient.",
+   "Exact : révélation enzymatique.",
+   "Faux : c'est l'anti-Ig qui est marqué.",
+   "Faux : l'Ag fixé est le réactif."
+  ]
+ },
+ {
+  "q": "Concernant les tests ELISA sandwich (dosage d'antigène), lesquelles sont exactes ?",
+  "options": [
+   "Un anticorps de capture est fixé au support",
+   "L'antigène à doser est capturé entre deux anticorps",
+   "Un anticorps de détection marqué révèle l'antigène",
+   "Ils permettent le dosage d'antigènes comme le PSA",
+   "Ils ne peuvent doser que des anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Ac de capture fixé.",
+   "Exact : prise en sandwich de l'Ag.",
+   "Exact : révélation du complexe.",
+   "Exact : immunodosage des marqueurs.",
+   "Faux : ils dosent des antigènes."
+  ]
+ },
+ {
+  "q": "À propos des épitopes en sérologie, lesquelles sont exactes ?",
+  "options": [
+   "Le test détecte les anticorps dirigés contre les épitopes du réactif",
+   "La qualité du réactif antigénique conditionne la performance du test",
+   "Des épitopes communs à plusieurs agents peuvent croiser",
+   "Les épitopes n'interviennent pas dans les tests sérologiques",
+   "Un seul épitope suffit toujours à un diagnostic certain"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les Ac reconnaissent les épitopes.",
+   "Exact : épitopes intacts = bon réactif.",
+   "Exact : les réactions croisées existent.",
+   "Faux : tout repose sur épitope-paratope.",
+   "Faux : la confirmation est souvent nécessaire."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes HLA en transplantation, lesquelles sont exactes ?",
+  "options": [
+   "Le typage HLA évalue la compatibilité donneur-receveur",
+   "Plus la compatibilité HLA est grande, meilleur est le pronostic de la greffe",
+   "Les anticorps anti-HLA préformés sont recherchés par cross-match",
+   "Le système HLA n'a aucun rôle en greffe",
+   "Tous les organes sont greffés sans typage HLA"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : typage avant greffe.",
+   "Exact : la compatibilité améliore la survie du greffon.",
+   "Exact : cross-match obligatoire.",
+   "Faux : c'est la cible du rejet.",
+   "Faux : le typage est systématique."
+  ]
+ },
+ {
+  "q": "À propos des antigènes et du diagnostic immunologique, lesquelles sont exactes ?",
+  "options": [
+   "Les antigènes servent de réactifs dans les tests sérologiques",
+   "Les anticorps monoclonaux permettent des dosages spécifiques",
+   "Le PSA illustre le dosage d'un antigène tumoral",
+   "Le diagnostic immunologique n'utilise ni Ag ni Ac",
+   "Les tests immunologiques sont non spécifiques par principe"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : Ag particulaires, solubles ou fixés.",
+   "Exact : spécificité d'un épitope.",
+   "Exact : exemple du cours.",
+   "Faux : il repose sur la liaison Ag-Ac.",
+   "Faux : ils sont hautement spécifiques."
+  ]
+ },
+ {
+  "q": "Concernant les trois formes d'antigènes au laboratoire, lesquelles sont exactes ?",
+  "options": [
+   "Particulaires : agglutination",
+   "Solubles : précipitation",
+   "Fixés : ELISA, RIA, IFI",
+   "Particulaires : ELISA",
+   "Solubles : agglutination"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : selon le cours.",
+   "Exact : selon le cours.",
+   "Exact : selon le cours.",
+   "Faux : l'ELISA utilise des Ag fixés.",
+   "Faux : les solubles précipitent."
+  ]
+ },
+ {
+  "q": "Concernant l'ensemble du chapitre sur les antigènes, lesquelles sont exactes ?",
+  "options": [
+   "L'antigène possède l'immunogénicité et l'antigénicité",
+   "L'haptène ne possède que l'antigénicité",
+   "L'épitope est le déterminant antigénique reconnu par le système immunitaire",
+   "Les caractéristiques (nature, taille, dose, voie) modulent l'immunogénicité",
+   "Les antigènes n'ont aucune application médicale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les deux propriétés.",
+   "Exact : définition de l'haptène.",
+   "Exact : région immunologiquement active.",
+   "Exact : caractéristiques des Ag.",
+   "Faux : vaccination, transfusion, greffe, sérologie."
+  ]
+ },
+ {
+  "q": "Concernant l'antigène et l'haptène, lesquelles sont exactes ?",
+  "options": [
+   "L'antigène complet induit une réponse immunitaire et se lie à ses produits",
+   "L'haptène seul se lie aux anticorps sans induire de réponse immunitaire",
+   "Le conjugué haptène-protéine porteuse est immunogène",
+   "L'haptène seul est un antigène complet",
+   "L'antigène complet ne possède que l'antigénicité"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : immunogénicité + antigénicité.",
+   "Exact : antigénicité sans immunogénicité.",
+   "Exact : le transporteur apporte l'immunogénicité.",
+   "Faux : il lui manque l'immunogénicité.",
+   "Faux : il possède les deux propriétés."
+  ]
+ },
+ {
+  "q": "Concernant les facteurs d'immunogénicité liés à l'antigène, lesquelles sont exactes ?",
+  "options": [
+   "La nature chimique : protéines > polysaccharides > lipides",
+   "Le caractère étranger : la distance phylogénétique accroît l'immunogénicité",
+   "La taille : plus la masse moléculaire est grande, plus l'antigène est immunogène",
+   "La dose et la voie n'ont aucune influence",
+   "Seule la couleur de la molécule compte"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : hiérarchie du cours.",
+   "Exact : xéno > allo > auto en immunogénicité.",
+   "Exact : relation taille-immunogénicité.",
+   "Faux : dose et voie sont des caractéristiques.",
+   "Faux : aucun rôle immunologique."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins cités par le cours, lesquelles sont exactes ?",
+  "options": [
+   "Le BCG est un vaccin à agent pathogène complet contre la tuberculose",
+   "Le vaccin antidiphtérique est à base d'anatoxine",
+   "Les vaccins contre les hépatites A ou B sont à fractions antigéniques",
+   "Le BCG est une anatoxine",
+   "Le vaccin antidiphtérique utilise la toxine native"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : exemple du cours.",
+   "Exact : toxine détoxifiée.",
+   "Exact : exemple du cours.",
+   "Faux : c'est un bacille vivant atténué.",
+   "Faux : la toxine est détoxifiée."
+  ]
+ },
+ {
+  "q": "Concernant les formes d'antigènes utilisées au laboratoire, lesquelles sont exactes ?",
+  "options": [
+   "Antigènes particulaires : réactions d'agglutination",
+   "Antigènes solubles : réactions de précipitation",
+   "Antigènes fixés : ELISA, RIA, IFI",
+   "Antigènes particulaires : réactions de précipitation",
+   "Antigènes solubles : réactions d'agglutination"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : selon le cours.",
+   "Exact : selon le cours.",
+   "Exact : selon le cours.",
+   "Faux : les particulaires agglutinent.",
+   "Faux : les solubles précipitent."
+  ]
+ }
+]

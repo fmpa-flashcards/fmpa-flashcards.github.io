@@ -1,0 +1,4537 @@
+[
+ {
+  "q": "Quelles sont les propositions exactes concernant le cycle de multiplication virale ?",
+  "options": [
+   "Il se déroule en deux périodes : précoce et tardive.",
+   "Il procède par division binaire du virion, comme les cellules procaryotes.",
+   "Il constitue la cible des antiviraux.",
+   "Il correspond à l'ensemble des étapes qui, à partir d'une particule virale, aboutissent à la production de nouveaux virions.",
+   "Sa durée est identique pour tous les virus, environ 24 heures."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : trois périodes : initiale (précoces), centrale et tardive.",
+   "Faux : il n'y a pas de division virale, contrairement aux cellules eucaryotes et procaryotes.",
+   "Vrai : le cycle de multiplication virale est la cible des antiviraux.",
+   "Vrai : c'est la définition du cycle de multiplication virale.",
+   "Faux : la durée est variable selon les virus, de quelques heures à quelques jours."
+  ]
+ },
+ {
+  "q": "Concernant les trois périodes du cycle de multiplication virale, quelles propositions sont exactes ?",
+  "options": [
+   "La période initiale comprend l'attachement, la pénétration et la décapsidation.",
+   "La période tardive comprend l'assemblage, la maturation et la libération des nouveaux virions.",
+   "La période centrale correspond à la multiplication virale proprement dite : fabrication des ARNm, synthèse des protéines et réplication du génome.",
+   "La réplication du génome viral a lieu pendant la période initiale.",
+   "La décapsidation appartient à la période tardive du cycle."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ce sont les étapes précoces du cycle.",
+   "Vrai : ce sont les étapes tardives du cycle.",
+   "Vrai : ce sont les étapes centrales du cycle.",
+   "Faux : la réplication du génome appartient à la période centrale.",
+   "Faux : la décapsidation est une étape précoce."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont exactes concernant les conditions de la multiplication virale ?",
+  "options": [
+   "Le cycle de multiplication virale nécessite une cellule à la fois susceptible et permissive.",
+   "Une cellule résistante est une cellule dépourvue du récepteur cellulaire spécifique du virus.",
+   "La présence du récepteur suffit à elle seule à garantir la réplication virale.",
+   "Une cellule susceptible est une cellule porteuse d'un récepteur cellulaire spécifique du virus.",
+   "Une cellule permissive est une cellule ayant la capacité de répliquer le virus."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : reconnaissance et réplication exigent une cellule susceptible ET permissive.",
+   "Vrai : l'absence de récepteur définit la cellule résistante, qui ne peut être infectée.",
+   "Faux : il faut aussi que la cellule soit permissive.",
+   "Vrai : la susceptibilité est définie par la présence du récepteur spécifique.",
+   "Vrai : la permissivité est la capacité de répliquer le virus."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le tropisme viral, lesquelles sont exactes ?",
+  "options": [
+   "L'attachement est le premier facteur conditionnant le tropisme cellulaire.",
+   "Le tropisme est défini par les tissus et les cellules que le virus reconnaît.",
+   "Les cellules cibles portent les récepteurs permettant la fixation et la multiplication du virus.",
+   "Un virus neurotrope est un exemple de tropisme tissulaire.",
+   "Le tropisme est indépendant de l'interaction entre le virus et la cellule hôte."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'attachement conditionne en premier le tropisme.",
+   "Vrai : c'est la définition du tropisme cellulaire et tissulaire.",
+   "Vrai : elles sont porteuses des récepteurs et permettent la multiplication.",
+   "Vrai : le virus neurotrope est l'exemple donné dans le cours.",
+   "Faux : le tropisme repose sur la reconnaissance virus-cellule."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant l'infection productive ?",
+  "options": [
+   "Elle s'accompagne de la lyse de la cellule hôte.",
+   "Elle se caractérise par l'expression de tous les gènes viraux.",
+   "Aucun virion n'est produit au cours de l'infection productive.",
+   "Elle aboutit à la production de virions.",
+   "La cellule hôte retourne à la normale après l'infection."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : la lyse de la cellule hôte caractérise l'infection productive.",
+   "Vrai : l'infection productive exprime tous les gènes viraux.",
+   "Faux : l'infection productive produit des virions.",
+   "Vrai : il y a production de virions.",
+   "Faux : le retour à la normale caractérise l'infection abortive."
+  ]
+ },
+ {
+  "q": "Quelles sont les assertions exactes concernant l'infection abortive ?",
+  "options": [
+   "La cellule hôte retourne à la normale.",
+   "Elle s'accompagne d'une production massive de virions.",
+   "Elle survient avec un virus défectif ou dans une cellule non permissive.",
+   "L'expression des gènes viraux y est interrompue.",
+   "Tous les gènes viraux y sont exprimés."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : retour à la normale de la cellule hôte.",
+   "Faux : il n'y a pas de production de virions.",
+   "Vrai : ce sont les deux circonstances de l'infection abortive.",
+   "Vrai : l'expression des gènes est interrompue.",
+   "Faux : l'expression des gènes est interrompue."
+  ]
+ },
+ {
+  "q": "Concernant l'infection persistante ou latente, quelles affirmations sont exactes ?",
+  "options": [
+   "La cellule survit, avec parfois des modifications pouvant aller jusqu'à la transformation maligne.",
+   "Une transformation en cycle lytique reste possible, comme pour le HSV.",
+   "Il n'y a pas de production de virions pendant la latence.",
+   "La latence s'accompagne d'une lyse systématique de la cellule hôte.",
+   "Le génome viral persiste avec l'expression de quelques gènes viraux seulement."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : survie avec modifications, voire transformation maligne.",
+   "Vrai : le HSV peut repasser en cycle lytique.",
+   "Vrai : pas de production de virions en phase latente.",
+   "Faux : la cellule survit pendant la latence.",
+   "Vrai : persistance du génome avec expression de quelques gènes."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant les buts du virus dans la cellule hôte ?",
+  "options": [
+   "La synthèse de ribosomes viraux.",
+   "La synthèse des ARNm viraux.",
+   "La production d'énergie grâce à un système enzymatique propre au virus.",
+   "Le détournement de la machinerie cellulaire de la cellule hôte.",
+   "La réplication de son propre ADN mitochondrial."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : le virus n'a pas de système de synthèse protéique propre.",
+   "Vrai : premier but du virus dans la cellule.",
+   "Faux : le virus n'a pas de système enzymatique de production d'énergie.",
+   "Vrai : second but, détourner la machinerie cellulaire.",
+   "Faux : le virus réplique son génome viral, il n'a pas d'ADN mitochondrial."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants concernant les éléments cellulaires nécessaires à la multiplication virale, lesquels sont exacts ?",
+  "options": [
+   "Les nucléotides, les acides aminés et les acides gras.",
+   "Les enzymes de réplication et de synthèse protéique.",
+   "Le génome viral porteur de l'information génétique.",
+   "L'énergie fournie par la cellule hôte.",
+   "Un système mitochondrial propre au virion."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : éléments cellulaires nécessaires à toute multiplication.",
+   "Vrai : enzymes nécessaires à la multiplication.",
+   "Vrai : le génome viral apporte l'information génétique.",
+   "Vrai : l'énergie est fournie par la cellule.",
+   "Faux : le virus ne possède pas de mitochondries ni de système énergétique propre."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sont exactes concernant la réplication de l'ADN viral ?",
+  "options": [
+   "Elle est totalement indépendante de la machinerie de la cellule hôte.",
+   "Elle nécessite plusieurs enzymes virales et cellulaires.",
+   "La transcription des virus à ADN nucléaires fait appel à l'ARN polymérase II cellulaire ADN-dépendante.",
+   "Les virus à ADN à réplication nucléaire utilisent les enzymes du noyau cellulaire.",
+   "Aucune enzyme n'est nécessaire à la réplication de l'ADN viral."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : elle nécessite des enzymes virales et cellulaires.",
+   "Vrai : la réplication de l'ADN viral requiert des enzymes virales et cellulaires.",
+   "Vrai : c'est la polymérase de transcription des virus à ADN nucléaires.",
+   "Vrai : la multiplication nucléaire utilise les enzymes du noyau.",
+   "Faux : plusieurs enzymes virales et cellulaires sont nécessaires."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes concernant la réplication de l'ARN viral ?",
+  "options": [
+   "Pour un virus à ARN(+), la séquence est : synthèse d'un ARN(-) puis de plusieurs ARN(+).",
+   "Elle fait intervenir une ARN polymérase ARN-dépendante d'origine virale.",
+   "La réplication de l'ARN viral utilise l'ARN polymérase ADN-dépendante de la cellule.",
+   "Pour un virus à ARN(-), on synthétise d'abord plusieurs ARN(-) sans matrice.",
+   "Un brin ARN complémentaire est d'abord synthétisé et sert de matrice de réplication."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : c'est le schéma de réplication des ARN(+).",
+   "Vrai : c'est l'enzyme virale de la réplication de l'ARN.",
+   "Faux : elle utilise l'ARN polymérase ARN-dépendante virale.",
+   "Faux : on synthétise un ARN(+) puis plusieurs ARN(-).",
+   "Vrai : la matrice de réplication est le brin complémentaire."
+  ]
+ },
+ {
+  "q": "Concernant la transcription chez les virus à ADN à réplication nucléaire, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "La phase précoce produit des protéines non structurales qui régulent le cycle viral.",
+   "Les unités de transcription se succèdent sans aucune chronologie.",
+   "L'ARN polymérase impliquée est toujours apportée par le virion.",
+   "Elle est assurée par l'ARN polymérase II cellulaire ADN-dépendante.",
+   "La phase tardive produit en faible quantité des protéines de régulation."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : les protéines précoces non structurales régulent le cycle.",
+   "Faux : la chronologie des unités de transcription est précise.",
+   "Faux : c'est l'ARN polymérase II cellulaire.",
+   "Vrai : c'est la polymérase de transcription des virus à ADN nucléaires.",
+   "Faux : la phase tardive produit en grande quantité les protéines structurales."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont vraies concernant la transcription chez les virus à ARN ?",
+  "options": [
+   "Les virus à ARN(+) ont besoin d'une polymérase apportée par le virion pour être traduits.",
+   "Le génome des virus à ARN(+) sert directement d'ARNm, sauf chez les Rétrovirus.",
+   "Les virus à ARN(-) doivent d'abord transcrire leur génome en ARN(+) avant toute synthèse protéique.",
+   "Les virus à ARN(-) apportent dans le virion leur ARN polymérase ARN-dépendante.",
+   "L'expression de la majorité de l'information génétique est simultanée."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : leur génome est directement traduit, sans polymérase apportée.",
+   "Vrai : les ARN(+) sont directement ARNm, à l'exception des Rétrovirus.",
+   "Vrai : la transcription en ARN(+) précède la synthèse protéique.",
+   "Vrai : les ARN(-) portent leur polymérase avec eux.",
+   "Vrai : expression simultanée chez les virus à ARN."
+  ]
+ },
+ {
+  "q": "Parmi les items suivants concernant la traduction des ARNm viraux, lesquels sont exacts ?",
+  "options": [
+   "Elle s'effectue à partir d'ARNm coiffés et polyadénylés.",
+   "Les protéines subissent des modifications post-traductionnelles : phosphorylation, acétylation, glycosylation.",
+   "Un clivage post-traductionnel par des protéases virales ou cellulaires peut intervenir.",
+   "Elle implique la liaison des ARNm aux ribosomes de la cellule hôte.",
+   "Les virus traduisent leurs ARNm grâce à des ribosomes viraux."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la traduction part d'ARNm coiffés et polyadénylés.",
+   "Vrai : ce sont les modifications post-traductionnelles décrites.",
+   "Vrai : le clivage post-traductionnel fait partie des modifications.",
+   "Vrai : liaison des ARNm aux ribosomes.",
+   "Faux : les virus n'ont pas de ribosomes, ils utilisent ceux de la cellule."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions justes concernant le transport des nucléocapsides vers le noyau ?",
+  "options": [
+   "Les nucléocapsides sont transportées vers les pores nucléaires.",
+   "Les microtubules jouent un rôle dans ce transport.",
+   "Une translocation des nucléocapsides à travers le pore nucléaire a lieu.",
+   "L'accès au noyau peut aussi se faire lors de la mitose.",
+   "Le génome viral gagne toujours le noyau par simple diffusion passive."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : transport des nucléocapsides vers les pores nucléaires.",
+   "Vrai : rôle des microtubules dans le transport.",
+   "Vrai : translocation des nucléocapsides.",
+   "Vrai : l'accès au noyau est possible lors de la mitose.",
+   "Faux : le transport est organisé via microtubules et pores nucléaires."
+  ]
+ },
+ {
+  "q": "Concernant les sites de la multiplication virale, quelles assertions sont exactes ?",
+  "options": [
+   "Les virus à ARN bicaténaire se multiplient dans le cytoplasme.",
+   "La multiplication nucléaire utilise les enzymes du noyau cellulaire pour la transcription et la réplication.",
+   "Les virus à ARN(-) se multiplient dans le cytoplasme, à l'exception de la grippe.",
+   "Les virus à ARN(+) non rétrovirus se multiplient dans le cytoplasme.",
+   "Tous les virus se multiplient exclusivement dans le cytoplasme."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : multiplication cytoplasmique des ARN bicaténaires.",
+   "Vrai : la multiplication nucléaire utilise les enzymes du noyau.",
+   "Vrai : les ARN(-) sont cytoplasmiques, sauf la grippe qui est nucléaire.",
+   "Vrai : multiplication cytoplasmique des ARN(+) non rétrovirus.",
+   "Faux : certains virus se multiplient dans le noyau."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions ci-dessous sont exactes concernant la stratégie de réplication virale ?",
+  "options": [
+   "Elle dépend du caractère bicaténaire ou monocaténaire du génome.",
+   "Elle dépend de la nature du matériel génétique : ADN ou ARN, et de sa polarité.",
+   "Elle dépend du caractère segmenté ou non du génome.",
+   "Elle dépend uniquement de la présence ou non d'une enveloppe.",
+   "Elle dépend uniquement de la taille du virion."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : bicaténaire ou monocaténaire conditionne la stratégie.",
+   "Vrai : la stratégie dépend de la nature du matériel génétique.",
+   "Vrai : segmenté ou non conditionne la stratégie.",
+   "Faux : l'enveloppe ne détermine pas la stratégie de réplication.",
+   "Faux : la taille du virion ne détermine pas la stratégie de réplication."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont justes concernant la classification de Baltimore ?",
+  "options": [
+   "Le groupe IV correspond aux virus à ARN monocaténaire de polarité positive.",
+   "Le groupe II correspond aux virus à ADN monocaténaire.",
+   "Le groupe I correspond aux virus à ADN bicaténaire.",
+   "Le groupe VII avait été prévu dès la classification initiale de Baltimore.",
+   "Le groupe III correspond aux virus à ARN bicaténaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : groupe IV = ARN monocaténaire polarité +.",
+   "Vrai : groupe II = ADN monocaténaire.",
+   "Vrai : groupe I = ADN bicaténaire.",
+   "Faux : le groupe VII avait été initialement oublié par Baltimore.",
+   "Vrai : groupe III = ARN bicaténaire."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations justes concernant les groupes V, VI et VII de Baltimore ?",
+  "options": [
+   "Le groupe VII correspond aux virus à ADN circulaire partiellement bicaténaire, les Hépadnavirus.",
+   "Le groupe VI correspond aux virus à ARN monocaténaire de polarité positive diploïde, les Rétrovirus.",
+   "Le mode de production des ARNm viraux dépend du groupe de Baltimore.",
+   "Le groupe V correspond aux virus à ARN monocaténaire de polarité négative.",
+   "Le VIH appartient au groupe IV de Baltimore."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : groupe VII = ADN circulaire partiellement bicaténaire.",
+   "Vrai : groupe VI = ARN(+) diploïde, Rétrovirus.",
+   "Vrai : les voies de synthèse des ARNm dépendent du groupe.",
+   "Vrai : groupe V = ARN monocaténaire polarité -.",
+   "Faux : le VIH est un Rétrovirus du groupe VI."
+  ]
+ },
+ {
+  "q": "Concernant l'assemblage des virions nus, quelles sont les réponses exactes ?",
+  "options": [
+   "Il y a formation d'une procapside par auto-assemblage.",
+   "Les capsomères modifient leur conformation au fur et à mesure de l'assemblage.",
+   "Le bourgeonnement à travers la membrane plasmique libère les virions nus.",
+   "L'acquisition de l'enveloppe a lieu pendant l'assemblage des virions nus.",
+   "La libération des virions nus se fait par bourgeonnement à travers la membrane."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : formation de la procapside par auto-assemblage.",
+   "Vrai : modification de la conformation des capsomères pendant l'assemblage.",
+   "Faux : le bourgeonnement concerne les virus enveloppés.",
+   "Faux : les virions nus n'ont pas d'enveloppe.",
+   "Faux : les virions nus sont libérés par lyse cellulaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous concernant la maturation et la sortie des virus enveloppés, lesquelles sont vraies ?",
+  "options": [
+   "L'enveloppe est acquise lors de la phase d'attachement du cycle suivant.",
+   "L'enveloppe est acquise par bourgeonnement à travers les membranes cellulaires.",
+   "Le virus infectieux porte une enveloppe munie des glycoprotéines virales, sites d'attachement.",
+   "Elle est plus longue que la libération des virions nus.",
+   "Les glycoprotéines virales sont insérées dans les membranes cellulaires."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'enveloppe est acquise lors de la libération, par bourgeonnement.",
+   "Vrai : acquisition de l'enveloppe par bourgeonnement.",
+   "Vrai : l'enveloppe avec ses glycoprotéines conditionne l'infectiosité.",
+   "Vrai : la maturation des enveloppés est plus longue.",
+   "Vrai : insertion des glycoprotéines virales dans les membranes."
+  ]
+ },
+ {
+  "q": "Quelles assertions sont vraies concernant les sites d'acquisition de l'enveloppe virale ?",
+  "options": [
+   "La membrane nucléaire pour les Rétrovirus.",
+   "La membrane cytoplasmique pour les Orthomyxoviridae et les Rétrovirus.",
+   "L'appareil de Golgi et les vacuoles intracellulaires pour les Togaviridae.",
+   "Un site unique est imposé pour tous les virus enveloppés.",
+   "La membrane nucléaire, lors d'une étape précoce, pour les Herpesviridae."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : les Rétrovirus bourgeonnent à la membrane cytoplasmique.",
+   "Vrai : bourgeonnement à la membrane cytoplasmique pour ces virus.",
+   "Vrai : les Togaviridae bourgeonnent au niveau du Golgi et des vacuoles.",
+   "Faux : le site de bourgeonnement varie selon les virus.",
+   "Vrai : les Herpesviridae bourgeonnent précocement à la membrane nucléaire."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont justes concernant l'effet cytopathique (ECP) ?",
+  "options": [
+   "La lyse et la fusion des membranes cellulaires donnent syncytium, ballonisation et plages de lyse.",
+   "Il n'est visible qu'au microscope électronique.",
+   "L'accumulation des produits viraux donne des inclusions intra-cytoplasmiques ou nucléaires.",
+   "Il traduit le détournement de la machinerie cellulaire et l'inhibition de la synthèse des protéines cellulaires.",
+   "Il est observé au microscope optique, avec ou sans coloration."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : ce sont les conséquences de la lyse et de la fusion membranaire.",
+   "Faux : il est visible au microscope optique.",
+   "Vrai : les inclusions sont une conséquence de l'accumulation des produits viraux.",
+   "Vrai : l'ECP résulte du détournement de la machinerie cellulaire.",
+   "Vrai : l'ECP se voit au microscope optique."
+  ]
+ },
+ {
+  "q": "Concernant les variations du génome viral au cours de la multiplication, quelles sont les affirmations exactes ?",
+  "options": [
+   "Des mutations ponctuelles peuvent survenir.",
+   "Des insertions et des délétions peuvent survenir.",
+   "Le génome viral reste strictement identique à chaque cycle de réplication.",
+   "Des échanges de matériel génétique par réassortiment sont possibles.",
+   "Des échanges de matériel génétique par recombinaison sont possibles."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les mutations ponctuelles sont des variations possibles.",
+   "Vrai : insertions et délétions possibles.",
+   "Faux : la réplication est une étape critique de l'évolution des virus.",
+   "Vrai : le réassortiment est un échange de matériel génétique.",
+   "Vrai : la recombinaison est un échange de matériel génétique."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions correctes concernant le réassortiment génétique ?",
+  "options": [
+   "Il correspond à un échange de segments génétiques lors de l'assemblage.",
+   "Il concerne les virus à génome segmenté, comme les Orthomyxoviridae.",
+   "Il aboutit à un génome chimérique au sein d'un segment génomique unique.",
+   "Il survient lors d'une infection par un seul virus.",
+   "Il concerne les virus à génome non segmenté."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : échange de segments lors de l'assemblage.",
+   "Vrai : le réassortiment concerne les virus à génome segmenté.",
+   "Faux : c'est la définition de la recombinaison génétique.",
+   "Faux : les échanges de matériel génétique surviennent lors d'une double infection.",
+   "Faux : il concerne les virus à génome segmenté."
+  ]
+ },
+ {
+  "q": "Parmi ces propositions concernant la recombinaison génétique, lesquelles sont exactes ?",
+  "options": [
+   "Elle est impossible chez les virus à ARN.",
+   "Elle correspond à la formation d'un génome chimérique composé de fragments génomiques d'origine parentale différente.",
+   "Elle survient lors d'une double infection d'une cellule hôte.",
+   "Elle a lieu au sein d'un segment génomique unique, comme chez les Coronaviridae.",
+   "Elle correspond à un échange de segments entiers lors de l'assemblage."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : les Coronaviridae, virus à ARN, la pratiquent.",
+   "Vrai : c'est la définition de la recombinaison.",
+   "Vrai : les échanges surviennent lors d'une double infection.",
+   "Vrai : la recombinaison a lieu au sein d'un segment unique.",
+   "Faux : c'est la définition du réassortiment."
+  ]
+ },
+ {
+  "q": "Concernant le cycle de multiplication du VIH, quelles propositions sont vraies ?",
+  "options": [
+   "Le VIH se réplique sans jamais passer par une étape ADN.",
+   "Il utilise une transcriptase inverse pour synthétiser un ADN à partir de son ARN.",
+   "Son ARN n'est pas directement traduit : il fait exception à la règle des ARN(+).",
+   "Le VIH est un virus à ARN(+) diploïde du groupe VI de Baltimore.",
+   "Son ADN s'intègre dans l'ADN de la cellule hôte sous forme de provirus."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le cycle du VIH passe par une étape ADN intégrée.",
+   "Vrai : la transcription inverse est l'étape clé du cycle du VIH.",
+   "Vrai : les Rétrovirus sont l'exception des ARN(+).",
+   "Vrai : le VIH est un Rétrovirus du groupe VI.",
+   "Vrai : l'ADN viral s'intègre dans l'ADN cellulaire."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont justes concernant le cycle de multiplication du poliovirus ?",
+  "options": [
+   "Le poliovirus est un virus à ARN(+) monocaténaire du groupe IV de Baltimore.",
+   "Plusieurs brins ARN(+) sont ensuite synthétisés à partir de cette matrice.",
+   "Un brin ARN(-) complémentaire est synthétisé et sert de matrice de réplication.",
+   "Son génome est directement traduit dès son entrée dans la cellule.",
+   "Le poliovirus apporte une ARN polymérase dans son virion."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le poliovirus appartient au groupe IV.",
+   "Vrai : synthèse de plusieurs ARN(+) à partir de la matrice.",
+   "Vrai : le brin complémentaire est la matrice de réplication.",
+   "Vrai : l'ARN(+) sert directement d'ARNm.",
+   "Faux : les ARN(+) n'apportent pas de polymérase, elle est synthétisée après l'entrée."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes sont exactes concernant les protéines virales structurales ?",
+  "options": [
+   "Elles participent à l'édification de la particule virale : capside, glycoprotéines d'enveloppe, matrice.",
+   "Elles régulent le cycle viral et sont produites en faible quantité.",
+   "Elles sont produites en grande quantité pendant la phase tardive.",
+   "Les glycoprotéines d'enveloppe portent les sites d'attachement du virus.",
+   "Les enzymes virales comme les polymérases en font partie."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ce sont les protéines de structure du virion.",
+   "Faux : c'est le rôle des protéines précoces non structurales.",
+   "Vrai : les protéines tardives structurales sont produites en grande quantité.",
+   "Vrai : les glycoprotéines portent les sites d'attachement.",
+   "Faux : les enzymes sont des protéines non structurales."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes au sujet de les protéines virales non structurales ?",
+  "options": [
+   "Elles sont le plus souvent absentes de la particule virale.",
+   "Elles participent à l'édification de la capside.",
+   "Ce sont des protéines de régulation du cycle viral.",
+   "Elles sont produites en faible quantité pendant la phase précoce.",
+   "Ce sont des enzymes virales : polymérases, protéases."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : elles sont synthétisées pendant le cycle et absentes du virion.",
+   "Faux : l'édification du virion relève des protéines structurales.",
+   "Vrai : les protéines de régulation sont non structurales.",
+   "Vrai : les protéines précoces sont produites en faible quantité.",
+   "Vrai : les enzymes virales sont non structurales."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'attachement viral ?",
+  "options": [
+   "Les anticorps neutralisants favorisent l'attachement du virus.",
+   "C'est le premier facteur conditionnant le tropisme cellulaire.",
+   "Les sites d'attachement du virus sont uniquement des lipides de l'enveloppe.",
+   "C'est une interaction aspécifique qui ne conditionne pas le tropisme.",
+   "C'est une interaction très spécifique entre la surface de la particule virale et la cellule hôte."
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : les anticorps neutralisants bloquent l'attachement.",
+   "Vrai : l'attachement est le premier facteur du tropisme.",
+   "Faux : ce sont des protéines ou glycoprotéines, à la surface de la capside ou de l'enveloppe.",
+   "Faux : l'attachement est très spécifique et conditionne le tropisme.",
+   "Vrai : interaction très spécifique virus-cellule."
+  ]
+ },
+ {
+  "q": "Concernant les récepteurs cellulaires des virus, quelles propositions sont exactes ?",
+  "options": [
+   "Les corécepteurs CXCR4 et CCR5 participent à l'entrée du VIH.",
+   "Les virus grippaux utilisent leur hémagglutinine pour se fixer aux acides sialiques de l'épithélium respiratoire.",
+   "Le VIH se fixe aux acides sialiques de l'épithélium respiratoire.",
+   "L'EBV utilise sa gp350 pour se fixer au CD21 des lymphocytes B.",
+   "Le VIH utilise sa gp120 pour se fixer au CD4 des lymphocytes T et des macrophages."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : CXCR4 et CCR5 sont les corécepteurs du VIH.",
+   "Vrai : hémagglutinine-acides sialiques sur l'épithélium respiratoire.",
+   "Faux : le VIH se fixe au CD4 via sa gp120.",
+   "Vrai : gp350-CD21 sur les lymphocytes B.",
+   "Vrai : gp120-CD4 sur LT et macrophages."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont exactes concernant la pénétration virale ?",
+  "options": [
+   "Elle est indépendante de la température et du pH.",
+   "La diffusion passive en est le mode principal.",
+   "Elle nécessite un apport énergétique.",
+   "C'est un processus passif qui ne consomme pas d'énergie.",
+   "Elle permet l'entrée du virus dans le cytoplasme de la cellule."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : la pénétration dépend de la température et du pH.",
+   "Faux : l'endocytose est le mode principal de pénétration.",
+   "Vrai : la pénétration nécessite un apport énergétique.",
+   "Faux : la pénétration nécessite un apport énergétique.",
+   "Vrai : la pénétration a lieu dans le cytoplasme."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les modes de pénétration des virus, lesquelles sont exactes ?",
+  "options": [
+   "La diffusion passive à travers une paroi bactérienne.",
+   "L'endocytose.",
+   "L'infection de cellule à cellule.",
+   "La fusion directe avec la membrane plasmique.",
+   "La formation d'un pore membranaire."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les virus infectent des cellules eucaryotes, sans paroi bactérienne.",
+   "Vrai : l'endocytose est le mode principal de pénétration.",
+   "Vrai : l'infection de cellule à cellule est un mode de pénétration.",
+   "Vrai : la fusion directe est un mode de pénétration.",
+   "Vrai : la formation d'un pore membranaire est un mode de pénétration."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant la décapsidation ?",
+  "options": [
+   "Elle correspond à la libération du génome viral dans la cellule hôte.",
+   "C'est une étape précoce du cycle de multiplication.",
+   "Elle précède la synthèse des ARNm viraux.",
+   "Le génome est libéré avec des protéines virales.",
+   "Elle a lieu après l'assemblage des nouveaux virions."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la décapsidation libère le génome.",
+   "Vrai : la décapsidation appartient aux étapes précoces.",
+   "Vrai : le génome doit être libéré avant les synthèses virales.",
+   "Vrai : le génome est libéré avec des protéines virales.",
+   "Faux : elle a lieu en début de cycle, avant les synthèses."
+  ]
+ },
+ {
+  "q": "Quelles sont les assertions exactes concernant la cellule susceptible ?",
+  "options": [
+   "La susceptibilité seule suffit à assurer un cycle viral complet.",
+   "Elle conditionne, avec la permissivité, le tropisme du virus.",
+   "Une cellule dépourvue de récepteur est dite résistante.",
+   "Elle peut fixer le virus lors de l'attachement.",
+   "Elle porte un récepteur cellulaire spécifique du virus."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : il faut aussi que la cellule soit permissive.",
+   "Vrai : le tropisme repose sur la reconnaissance et la multiplication.",
+   "Vrai : l'absence de récepteur définit la cellule résistante.",
+   "Vrai : le récepteur permet la fixation du virus.",
+   "Vrai : la susceptibilité est définie par la présence du récepteur."
+  ]
+ },
+ {
+  "q": "Concernant la cellule permissive, quelles affirmations sont exactes ?",
+  "options": [
+   "C'est une cellule ayant la capacité de répliquer le virus.",
+   "Une cellule susceptible mais non permissive conduit à une infection abortive.",
+   "Une cellule permissive dépourvue de récepteur peut être infectée.",
+   "Elle fournit les facteurs intracellulaires nécessaires à la réplication virale.",
+   "La permissivité concerne les étapes intracellulaires post-attachement."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : c'est la définition de la cellule permissive.",
+   "Vrai : la cellule non permissive interrompt l'expression des gènes.",
+   "Faux : sans récepteur, l'attachement est impossible.",
+   "Vrai : la permissivité repose sur les facteurs intracellulaires.",
+   "Vrai : la permissivité porte sur la réplication intracellulaire."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant la cellule résistante ?",
+  "options": [
+   "Elle est dépourvue du récepteur cellulaire spécifique du virus.",
+   "Elle ne peut pas être infectée par ce virus.",
+   "Une cellule résistante peut fixer le virus sur sa surface.",
+   "La résistance dépend uniquement du système immunitaire de l'hôte.",
+   "L'absence de récepteur bloque l'étape d'attachement."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : c'est la définition de la cellule résistante.",
+   "Vrai : les cellules résistantes ne peuvent être infectées.",
+   "Faux : sans récepteur spécifique, pas de fixation.",
+   "Faux : la résistance définie ici est l'absence de récepteur.",
+   "Vrai : sans récepteur, pas d'attachement."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants concernant l'infection de cellule à cellule, lesquels sont exacts ?",
+  "options": [
+   "Elle permet au virus de passer directement d'une cellule infectée à une cellule voisine.",
+   "Elle limite l'exposition du virus aux anticorps neutralisants.",
+   "C'est un mode de pénétration et de diffusion du virus décrit dans le cours.",
+   "Ce mode de dissémination n'existe pas en virologie.",
+   "Elle nécessite obligatoirement la libération de virions libres dans le milieu extracellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : passage direct de cellule à cellule.",
+   "Vrai : le virus reste à l'abri des anticorps.",
+   "Vrai : l'infection de cellule à cellule est un mode de pénétration.",
+   "Faux : il est décrit comme mode de pénétration.",
+   "Faux : le passage se fait sans virions libres."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sont exactes concernant le rôle de l'énergie dans la pénétration ?",
+  "options": [
+   "La pénétration virale nécessite un apport énergétique.",
+   "La pénétration se fait par simple diffusion passive sans énergie.",
+   "L'endocytose est un mécanisme actif dépendant de l'énergie cellulaire.",
+   "Le pH influence le déroulement de la pénétration.",
+   "La température influence le déroulement de la pénétration."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : apport énergétique nécessaire à la pénétration.",
+   "Faux : un apport énergétique est nécessaire.",
+   "Vrai : l'endocytose consomme de l'énergie.",
+   "Vrai : la pénétration dépend du pH.",
+   "Vrai : la pénétration dépend de la température."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes concernant les glycoprotéines virales d'attachement ?",
+  "options": [
+   "Les glycoprotéines d'enveloppe portent le pouvoir infectieux du virus.",
+   "La neuraminidase des virus grippaux est la protéine d'attachement.",
+   "La gp120 du VIH se lie au récepteur CD4.",
+   "L'hémagglutinine des virus grippaux se lie aux acides sialiques.",
+   "La gp350 de l'EBV se lie au récepteur CD21."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : pouvoir infectieux lié aux glycoprotéines.",
+   "Faux : l'hémagglutinine assure l'attachement, la neuraminidase le détachement.",
+   "Vrai : gp120-CD4 pour le VIH.",
+   "Vrai : hémagglutinine-acides sialiques.",
+   "Vrai : gp350-CD21 pour l'EBV."
+  ]
+ },
+ {
+  "q": "Concernant les corécepteurs cellulaires, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Le VIH utilise les corécepteurs CXCR4 et CCR5 en plus du CD4.",
+   "Les corécepteurs sont des protéines virales.",
+   "Le tropisme du VIH pour les lymphocytes T et les macrophages implique ces corécepteurs.",
+   "Les corécepteurs participent à l'attachement et à l'entrée du virus.",
+   "Un seul récepteur suffit toujours à l'entrée de tous les virus."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CXCR4 et CCR5 sont les corécepteurs du VIH.",
+   "Faux : ce sont des récepteurs de la cellule hôte.",
+   "Vrai : le tropisme cellulaire du VIH passe par ces corécepteurs.",
+   "Vrai : ils complètent l'action du récepteur principal.",
+   "Faux : certains virus exigent un corécepteur."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont vraies concernant le blocage de l'attachement ?",
+  "options": [
+   "Les anticorps neutralisants peuvent être protecteurs in vivo, comme pour la grippe et la rubéole.",
+   "Les anticorps neutralisants favorisent la fixation du virus sur son récepteur.",
+   "Aucun mécanisme immunitaire ne peut interférer avec l'attachement.",
+   "Ce blocage empêche l'infection des cellules sensibles in vitro.",
+   "Les anticorps neutralisants peuvent bloquer l'attachement viral."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : protection in vivo décrite pour grippe et rubéole.",
+   "Faux : ils l'empêchent.",
+   "Faux : les anticorps neutralisants le bloquent.",
+   "Vrai : définition de l'anticorps neutralisant in vitro.",
+   "Vrai : blocage par les anticorps neutralisants."
+  ]
+ },
+ {
+  "q": "Parmi les items suivants concernant la spécificité de l'attachement, lesquels sont exacts ?",
+  "options": [
+   "La spécificité d'attachement n'a aucune conséquence sur le pouvoir pathogène.",
+   "L'attachement est identique pour tous les virus.",
+   "Deux virus différents peuvent utiliser le même récepteur cellulaire.",
+   "L'attachement repose sur une affinité très spécifique entre protéines virales et récepteurs cellulaires.",
+   "Cette spécificité conditionne le tropisme cellulaire et tissulaire."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elle est indispensable à l'expression du pouvoir pathogène in vivo.",
+   "Faux : il est très spécifique de chaque couple virus-cellule.",
+   "Vrai : un récepteur peut être partagé par plusieurs virus.",
+   "Vrai : interaction très spécifique.",
+   "Vrai : l'attachement est le premier facteur du tropisme."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions justes concernant la pénétration par endocytose ?",
+  "options": [
+   "Le virus est internalisé dans une vésicule d'endocytose.",
+   "C'est le mode de pénétration le plus fréquent.",
+   "L'acidification de l'endosome peut favoriser la fusion et la libération du génome.",
+   "L'endocytose libère directement le génome dans le noyau.",
+   "Ce mécanisme nécessite de l'énergie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : internalisation dans une vésicule.",
+   "Vrai : l'endocytose est le mode principal.",
+   "Vrai : le pH endosomal favorise la pénétration.",
+   "Faux : elle libère le contenu dans le cytoplasme.",
+   "Vrai : la pénétration nécessite un apport énergétique."
+  ]
+ },
+ {
+  "q": "Concernant la pénétration par fusion directe, quelles assertions sont exactes ?",
+  "options": [
+   "La nucléocapside est libérée directement dans le cytoplasme.",
+   "Ce mode concerne les virus enveloppés.",
+   "L'enveloppe virale fusionne avec la membrane plasmique de la cellule.",
+   "La fusion nécessite les glycoprotéines virales d'enveloppe.",
+   "La fusion directe concerne les virus nus."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : libération cytoplasmique de la nucléocapside.",
+   "Vrai : la fusion directe concerne les enveloppés.",
+   "Vrai : c'est le principe de la fusion directe.",
+   "Vrai : les glycoprotéines médient la fusion.",
+   "Faux : les virus nus n'ont pas d'enveloppe à fusionner."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions ci-dessous sont exactes concernant la libération du génome viral ?",
+  "options": [
+   "Le virus libère son matériel génétique avec des protéines virales dans la cellule hôte.",
+   "À partir de ce génome, le virus détourne la machinerie cellulaire à son profit.",
+   "La libération du génome est préalable à toute synthèse virale.",
+   "Cette libération fait suite à la décapsidation.",
+   "Le génome libéré reste encapsidé pendant toute la réplication."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : libération du génome avec des protéines virales.",
+   "Vrai : détournement de la machinerie cellulaire.",
+   "Vrai : les synthèses débutent à partir du génome libéré.",
+   "Vrai : la décapsidation libère le génome.",
+   "Faux : il est libéré de sa capside."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont justes concernant les étapes précoces de la multiplication virale ?",
+  "options": [
+   "Elles précèdent la synthèse des ARNm viraux.",
+   "Elles comprennent l'assemblage des nouveaux virions.",
+   "Elles se déroulent avant la réplication du génome viral.",
+   "L'attachement en est la toute première étape.",
+   "Elles comprennent l'attachement, la pénétration et la décapsidation."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les synthèses viennent après les étapes précoces.",
+   "Faux : l'assemblage est une étape tardive.",
+   "Vrai : la réplication appartient aux étapes centrales.",
+   "Vrai : l'attachement initie le cycle.",
+   "Vrai : ce sont les étapes précoces."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations justes concernant l'hémagglutinine des virus grippaux ?",
+  "options": [
+   "Elle assure l'attachement aux acides sialiques de l'épithélium respiratoire.",
+   "Elle est la cible des anticorps neutralisants.",
+   "C'est un récepteur cellulaire.",
+   "Elle porte le pouvoir infectieux du virus grippal.",
+   "C'est une glycoprotéine d'enveloppe."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : attachement aux acides sialiques.",
+   "Vrai : les glycoprotéines sont la cible des anticorps neutralisants.",
+   "Faux : c'est une protéine virale, le récepteur est cellulaire.",
+   "Vrai : pouvoir infectieux lié aux glycoprotéines.",
+   "Vrai : l'hémagglutinine est une spicule d'enveloppe."
+  ]
+ },
+ {
+  "q": "Concernant la neuraminidase des virus grippaux, quelles sont les réponses exactes ?",
+  "options": [
+   "Elle participe au détachement du virus de la cellule.",
+   "C'est une glycoprotéine d'enveloppe des virus grippaux.",
+   "C'est la protéine d'attachement du virus grippal.",
+   "Elle intervient dans la libération des virions néoformés.",
+   "Elle a un pouvoir antigénique."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : elle assure le détachement du virus.",
+   "Vrai : la neuraminidase est une spicule d'enveloppe.",
+   "Faux : l'attachement est assuré par l'hémagglutinine.",
+   "Vrai : le détachement participe à la libération des virions.",
+   "Vrai : pouvoir antigénique des glycoprotéines."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous concernant la gp120 du VIH, lesquelles sont vraies ?",
+  "options": [
+   "Elle se lie au récepteur CD4.",
+   "Son interaction avec le récepteur conditionne le tropisme du VIH.",
+   "C'est la glycoprotéine virale d'attachement du VIH.",
+   "Les lymphocytes T CD4+ et les macrophages sont ses cellules cibles.",
+   "Elle se lie aux acides sialiques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : gp120-CD4.",
+   "Vrai : l'attachement conditionne le tropisme.",
+   "Vrai : la gp120 est la protéine d'attachement du VIH.",
+   "Vrai : LT et macrophages portent le CD4.",
+   "Faux : elle se lie au CD4."
+  ]
+ },
+ {
+  "q": "Quelles assertions sont vraies concernant la gp350 de l'EBV ?",
+  "options": [
+   "Elle se lie au récepteur CD21.",
+   "Le CD21 est le récepteur du VIH.",
+   "Les lymphocytes B sont les cellules cibles de l'EBV.",
+   "C'est la glycoprotéine virale d'attachement de l'EBV.",
+   "L'EBV est un virus strictement humain."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : gp350-CD21.",
+   "Faux : le récepteur du VIH est le CD4.",
+   "Vrai : les LB portent le CD21.",
+   "Vrai : la gp350 est la protéine d'attachement de l'EBV.",
+   "Vrai : l'EBV fait partie des virus strictement humains."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont justes concernant les récepteurs cellulaires ?",
+  "options": [
+   "Leur absence définit la cellule résistante.",
+   "Ils sont reconnus par les protéines ou glycoprotéines virales.",
+   "Leur présence définit la cellule susceptible.",
+   "Des corécepteurs peuvent compléter leur action.",
+   "Toutes les cellules de l'organisme portent les récepteurs de tous les virus."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'absence de récepteur définit la résistance.",
+   "Vrai : reconnaissance par les protéines virales.",
+   "Vrai : la susceptibilité repose sur le récepteur.",
+   "Vrai : les corécepteurs complètent le récepteur principal.",
+   "Faux : les récepteurs sont spécifiques et leur distribution définit le tropisme."
+  ]
+ },
+ {
+  "q": "Concernant le tropisme cellulaire, quelles sont les affirmations exactes ?",
+  "options": [
+   "L'attachement en est le premier facteur conditionnant.",
+   "Il est défini par les cellules que le virus reconnaît.",
+   "Le tropisme ne dépend que de la permissivité intracellulaire.",
+   "Les cellules reconnues portent les récepteurs du virus et permettent sa multiplication.",
+   "Un virus neurotrope illustre un tropisme tissulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'attachement conditionne en premier le tropisme.",
+   "Vrai : définition du tropisme cellulaire.",
+   "Faux : il dépend d'abord de la reconnaissance via l'attachement.",
+   "Vrai : elles portent les récepteurs et permettent la multiplication.",
+   "Vrai : le virus neurotrope est l'exemple du cours."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions correctes concernant le pouvoir pathogène et l'attachement ?",
+  "options": [
+   "Le pouvoir pathogène est identique pour toutes les souches d'une même espèce virale.",
+   "L'interaction entre protéines virales et récepteurs cellulaires est indispensable à l'expression du pouvoir pathogène in vivo.",
+   "Des mutations des protéines d'attachement peuvent modifier le pouvoir pathogène des souches.",
+   "L'attachement n'a aucun lien avec le pouvoir pathogène.",
+   "Le tropisme détermine les organes pouvant être atteints."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : mutations et recombinaisons le modifient.",
+   "Vrai : interaction indispensable au pouvoir pathogène.",
+   "Vrai : les mutations modifient le pouvoir pathogène des souches.",
+   "Faux : il est indispensable à son expression in vivo.",
+   "Vrai : le tropisme définit les tissus et cellules reconnus."
+  ]
+ },
+ {
+  "q": "Parmi ces propositions concernant l'événement clé de l'expression des gènes viraux, lesquelles sont exactes ?",
+  "options": [
+   "L'expression des gènes viraux ne nécessite aucun ARNm.",
+   "Les ARNm viraux sont synthétisés par transcription.",
+   "Ils sont traduits par la machinerie enzymatique cellulaire.",
+   "C'est la présentation des ARNm viraux à la cellule.",
+   "La synthèse des macromolécules virales en dépend."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'ARNm est l'événement clé de l'expression.",
+   "Vrai : les ARNm sont produits par transcription.",
+   "Vrai : la traduction utilise la machinerie cellulaire.",
+   "Vrai : la présentation des ARNm à la cellule est l'événement clé.",
+   "Vrai : les macromolécules sont synthétisées à partir des ARNm."
+  ]
+ },
+ {
+  "q": "Concernant la synthèse des ARNm viraux, quelles propositions sont vraies ?",
+  "options": [
+   "Les virus synthétisent leurs ARNm sans aucune polymérase.",
+   "Chez les virus à ADN, elle fait appel à l'ARN polymérase II cellulaire.",
+   "C'est le premier but du virus dans la cellule hôte.",
+   "Chez les virus à ARN(-), elle nécessite la polymérase apportée par le virion.",
+   "Chez les virus à ARN(+), le génome sert directement d'ARNm, sauf chez les Rétrovirus."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : une polymérase, virale ou cellulaire, est toujours nécessaire.",
+   "Vrai : ARN polymérase II ADN-dépendante cellulaire.",
+   "Vrai : la synthèse des ARNm est le premier but.",
+   "Vrai : les ARN(-) apportent leur polymérase.",
+   "Vrai : les ARN(+) sont ARNm, sauf les Rétrovirus."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont justes concernant les phases très précoces de la transcription des virus à ADN ?",
+  "options": [
+   "La phase précoce produit les protéines non structurales.",
+   "Elles ouvrent la chronologie précise des unités de transcription.",
+   "Elles sont suivies de la phase précoce.",
+   "Les protéines précoces régulent le cycle viral et la réplication du génome.",
+   "Les protéines de capside sont produites dès les phases très précoces."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les protéines précoces sont non structurales.",
+   "Vrai : la chronologie débute par les phases très précoces.",
+   "Vrai : phases très précoces puis phase précoce.",
+   "Vrai : c'est le rôle des protéines précoces.",
+   "Faux : les protéines de capside sont produites en phase tardive."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes sont exactes concernant les protéines précoces des virus à ADN ?",
+  "options": [
+   "Elles régulent la réplication du génome viral.",
+   "Ce sont des protéines non structurales.",
+   "Elles sont produites en faible quantité.",
+   "Elles participent à l'édification de la particule virale.",
+   "Elles régulent le cycle viral."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : elles régulent la réplication du génome.",
+   "Vrai : les protéines précoces sont non structurales.",
+   "Vrai : production en faible quantité.",
+   "Faux : l'édification relève des protéines tardives structurales.",
+   "Vrai : elles régulent le cycle viral."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes au sujet de les protéines tardives des virus à ADN ?",
+  "options": [
+   "Elles sont produites avant les protéines précoces.",
+   "Elles participent à l'édification de la particule virale.",
+   "Ce sont des protéines structurales.",
+   "Elles régulent la réplication du génome viral.",
+   "Elles sont produites en grande quantité."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : elles sont produites après, en phase tardive.",
+   "Vrai : édification de la particule virale.",
+   "Vrai : les protéines tardives sont structurales.",
+   "Faux : la régulation est le rôle des protéines précoces.",
+   "Vrai : production en grande quantité."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'expression simultanée de l'information génétique des virus à ARN ?",
+  "options": [
+   "Les virus à ARN suivent la même chronologie de transcription que les virus à ADN nucléaires.",
+   "Il n'y a pas de chronologie stricte en phases précoces et tardives comme chez les virus à ADN.",
+   "Les ARN(+) sont traduits dès leur entrée dans la cellule.",
+   "Les ARN(-) sont d'abord transcrits en ARN(+) par la polymérase virale.",
+   "La majorité de l'information génétique est exprimée simultanément."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : leur expression est simultanée.",
+   "Vrai : pas de chronologie précise comme pour les ADN.",
+   "Vrai : les ARN(+) servent directement d'ARNm.",
+   "Vrai : transcription préalable des ARN(-).",
+   "Vrai : expression simultanée chez les virus à ARN."
+  ]
+ },
+ {
+  "q": "Concernant les ARNm coiffés et polyadénylés, quelles propositions sont exactes ?",
+  "options": [
+   "La coiffe et la queue poly-A permettent la reconnaissance par les ribosomes.",
+   "La traduction virale s'effectue à partir d'ARNm coiffés et polyadénylés.",
+   "Les virus à ADN utilisent la machinerie cellulaire pour ces maturations.",
+   "Les ARNm viraux ne sont jamais coiffés.",
+   "La polyadénylation est sans rôle dans la traduction."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ce sont des signaux de reconnaissance ribosomale.",
+   "Vrai : traduction à partir d'ARNm coiffés et polyadénylés.",
+   "Vrai : la machinerie cellulaire assure ces maturations.",
+   "Faux : la traduction part d'ARNm coiffés.",
+   "Faux : elle participe à la reconnaissance par les ribosomes."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont exactes concernant les modifications post-traductionnelles des protéines virales ?",
+  "options": [
+   "L'acétylation.",
+   "La glycosylation et l'ajout de résidus oligosaccharidiques des glycoprotéines.",
+   "Le clivage post-traductionnel par des protéases virales ou cellulaires.",
+   "Les protéines virales ne subissent aucune modification après leur synthèse.",
+   "La phosphorylation."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'acétylation est une modification décrite.",
+   "Vrai : glycosylation des glycoprotéines.",
+   "Vrai : le clivage fait partie des modifications.",
+   "Faux : plusieurs modifications post-traductionnelles existent.",
+   "Vrai : la phosphorylation est une modification décrite."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le clivage post-traductionnel, lesquelles sont exactes ?",
+  "options": [
+   "Il ne concerne que les protéines cellulaires.",
+   "Il est assuré par des protéases virales ou cellulaires.",
+   "Il active des protéines virales fonctionnelles.",
+   "Aucun clivage protéolytique n'intervient dans le cycle viral.",
+   "Il permet la maturation des polyprotéines virales."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : il concerne les protéines virales.",
+   "Vrai : clivage par des protéases virales ou cellulaires.",
+   "Vrai : le clivage libère des protéines fonctionnelles.",
+   "Faux : le clivage post-traductionnel est décrit.",
+   "Vrai : les polyprotéines sont maturées par clivage."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant les protéases virales ?",
+  "options": [
+   "Ce sont des protéines non structurales.",
+   "Elles assurent le clivage post-traductionnel des protéines virales.",
+   "Elles sont des protéines de capside.",
+   "Elles sont produites pendant la phase précoce du cycle.",
+   "Elles participent à la maturation des virions."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les protéases sont des enzymes non structurales.",
+   "Vrai : elles clivent les protéines virales.",
+   "Faux : ce sont des enzymes non structurales.",
+   "Vrai : les enzymes sont des protéines précoces.",
+   "Vrai : la maturation passe par le clivage protéolytique."
+  ]
+ },
+ {
+  "q": "Quelles sont les assertions exactes concernant la matrice de réplication de l'ARN viral ?",
+  "options": [
+   "Pour un ARN(-), on synthétise d'abord plusieurs ARN(-) sans matrice.",
+   "Un brin ARN complémentaire du génome est d'abord synthétisé.",
+   "Le brin ARN complémentaire est dégradé aussitôt après sa synthèse.",
+   "La matrice de réplication est un brin d'ADN.",
+   "Pour un ARN(+), on synthétise un ARN(-) puis plusieurs ARN(+)."
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : on synthétise un ARN(+) puis plusieurs ARN(-).",
+   "Vrai : synthèse du brin complémentaire.",
+   "Faux : le brin complémentaire sert de matrice de réplication.",
+   "Faux : c'est un brin d'ARN complémentaire.",
+   "Vrai : schéma de réplication des ARN(+)."
+  ]
+ },
+ {
+  "q": "Concernant l'ARN polymérase ARN-dépendante, quelles affirmations sont exactes ?",
+  "options": [
+   "C'est une enzyme d'origine virale.",
+   "Elle est apportée par le virion chez les virus à ARN(-).",
+   "C'est une enzyme cellulaire utilisée par tous les virus à ARN.",
+   "Elle synthétise le brin ARN complémentaire servant de matrice.",
+   "Les cellules eucaryotes n'en possèdent pas."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : c'est une enzyme virale.",
+   "Vrai : les ARN(-) apportent leur polymérase.",
+   "Faux : c'est une enzyme virale.",
+   "Vrai : elle synthétise le brin complémentaire.",
+   "Vrai : les cellules n'ont pas d'ARN polymérase ARN-dépendante."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant la réplication des virus à ARN(+) non rétrovirus ?",
+  "options": [
+   "Un ARN(-) intermédiaire sert de matrice de réplication.",
+   "L'ARN polymérase ARN-dépendante est synthétisée après l'entrée du virus.",
+   "Le virion apporte obligatoirement cette polymérase.",
+   "Elle a lieu dans le cytoplasme.",
+   "Le génome sert directement d'ARNm pour la traduction."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la matrice est le brin complémentaire.",
+   "Vrai : elle est traduite à partir du génome après l'entrée.",
+   "Faux : les ARN(+) n'apportent pas de polymérase.",
+   "Vrai : multiplication cytoplasmique des ARN(+) non rétrovirus.",
+   "Vrai : l'ARN(+) est directement traduit."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants concernant la réplication des virus à ARN(-), lesquels sont exacts ?",
+  "options": [
+   "Le génome est d'abord transcrit en ARN(+).",
+   "Le génome ARN(-) est directement traduit par les ribosomes.",
+   "Le virion apporte l'ARN polymérase ARN-dépendante.",
+   "Elle a lieu dans le cytoplasme, sauf pour la grippe qui se réplique dans le noyau.",
+   "L'ARN(+) sert à la fois d'ARNm et de matrice pour synthétiser de nouveaux ARN(-)."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : transcription préalable en ARN(+).",
+   "Faux : il doit d'abord être transcrit en ARN(+).",
+   "Vrai : les ARN(-) portent leur polymérase.",
+   "Vrai : les ARN(-) sont cytoplasmiques, sauf la grippe.",
+   "Vrai : double rôle de l'ARN(+)."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sont exactes concernant la réplication des virus à ARN bicaténaire ?",
+  "options": [
+   "La transcription en ARNm fait appel à une polymérase virale.",
+   "Ces virus se répliquent obligatoirement dans le noyau.",
+   "Elle a lieu dans le cytoplasme.",
+   "Les Reoviridae et les Birnaviridae en sont des exemples.",
+   "Ces virus appartiennent au groupe III de Baltimore."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : polymérase virale pour la transcription.",
+   "Faux : leur multiplication est cytoplasmique.",
+   "Vrai : multiplication cytoplasmique des ARN bicaténaires.",
+   "Vrai : ce sont des virus rares à ARN bicaténaire.",
+   "Vrai : groupe III = ARN bicaténaire."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes concernant la multiplication nucléaire des virus ?",
+  "options": [
+   "L'accès au noyau peut se faire lors de la mitose.",
+   "La multiplication nucléaire ne fait appel à aucune enzyme cellulaire.",
+   "Les microtubules participent à ce transport.",
+   "Les nucléocapsides sont transportées vers les pores nucléaires.",
+   "Elle utilise les enzymes du noyau cellulaire pour la transcription et la réplication."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : accès possible lors de la mitose.",
+   "Faux : elle utilise les enzymes du noyau cellulaire.",
+   "Vrai : rôle des microtubules.",
+   "Vrai : transport vers les pores nucléaires.",
+   "Vrai : les enzymes du noyau sont utilisées."
+  ]
+ },
+ {
+  "q": "Concernant le groupe I de Baltimore, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "La réplication a le plus souvent lieu dans le noyau.",
+   "Il correspond aux virus à ADN bicaténaire.",
+   "Les Herpesviridae en sont un exemple.",
+   "Le groupe I correspond aux virus à ARN.",
+   "La transcription utilise l'ARN polymérase II cellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : réplication nucléaire le plus souvent.",
+   "Vrai : groupe I = ADN bicaténaire.",
+   "Vrai : les Herpesviridae sont des ADN bicaténaires.",
+   "Faux : le groupe I correspond aux virus à ADN bicaténaire.",
+   "Vrai : transcription par l'ARN polymérase II."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont vraies concernant le groupe II de Baltimore ?",
+  "options": [
+   "Les Parvoviridae en sont un exemple.",
+   "Le groupe II correspond aux virus à ARN bicaténaire.",
+   "Il correspond aux virus à ADN monocaténaire.",
+   "Un brin complémentaire est synthétisé pour former un ADN bicaténaire.",
+   "La transcription utilise ensuite la machinerie cellulaire."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les Parvoviridae sont des ADN monocaténaires.",
+   "Faux : le groupe II correspond aux ADN monocaténaires.",
+   "Vrai : groupe II = ADN monocaténaire.",
+   "Vrai : formation d'un ADN bicaténaire intermédiaire.",
+   "Vrai : transcription par la machinerie cellulaire."
+  ]
+ },
+ {
+  "q": "Parmi les items suivants concernant le groupe III de Baltimore, lesquels sont exacts ?",
+  "options": [
+   "Ce sont des virus rares : Reoviridae et Birnaviridae.",
+   "La réplication a lieu dans le cytoplasme.",
+   "Le groupe III correspond aux virus à ADN monocaténaire.",
+   "Il correspond aux virus à ARN bicaténaire.",
+   "Les ARNm sont transcrits par une polymérase virale."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : virus rares à ARN bicaténaire.",
+   "Vrai : multiplication cytoplasmique.",
+   "Faux : le groupe III correspond aux ARN bicaténaires.",
+   "Vrai : groupe III = ARN bicaténaire.",
+   "Vrai : transcription par la polymérase virale."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions justes concernant le groupe IV de Baltimore ?",
+  "options": [
+   "Les Picornaviridae et les Coronaviridae en sont des exemples.",
+   "Le génome sert directement d'ARNm.",
+   "Ces virus apportent une ARN polymérase dans le virion.",
+   "Un ARN(-) intermédiaire sert de matrice de réplication.",
+   "Il correspond aux virus à ARN monocaténaire de polarité positive."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : Picornaviridae et Coronaviridae.",
+   "Vrai : l'ARN(+) est directement ARNm.",
+   "Faux : la polymérase est synthétisée après l'entrée.",
+   "Vrai : matrice = brin complémentaire.",
+   "Vrai : groupe IV = ARN(+) monocaténaire."
+  ]
+ },
+ {
+  "q": "Concernant le groupe V de Baltimore, quelles assertions sont exactes ?",
+  "options": [
+   "Il correspond aux virus à ARN monocaténaire de polarité négative.",
+   "Une transcription préalable en ARN(+) est nécessaire.",
+   "Le virion apporte l'ARN polymérase ARN-dépendante.",
+   "Le génome de ces virus est directement traduit.",
+   "Les Orthomyxoviridae, Paramyxoviridae et Rhabdoviridae en sont des exemples."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : groupe V = ARN(-) monocaténaire.",
+   "Vrai : transcription en ARN(+) avant traduction.",
+   "Vrai : les ARN(-) apportent leur polymérase.",
+   "Faux : il doit être transcrit en ARN(+) d'abord.",
+   "Vrai : ce sont des virus à ARN(-)."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions ci-dessous sont exactes concernant le groupe VI de Baltimore ?",
+  "options": [
+   "Leur ARN est directement traduit comme celui des autres virus à ARN(+).",
+   "Ils utilisent une ARN polymérase ARN-dépendante apportée par le virion.",
+   "Le groupe VI correspond aux virus à ADN.",
+   "Il correspond aux virus à ARN monocaténaire de polarité positive diploïde.",
+   "Ce sont les Rétrovirus, comme le VIH."
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les Rétrovirus font exception à la règle des ARN(+).",
+   "Faux : ils utilisent une transcriptase inverse, ADN polymérase ARN-dépendante.",
+   "Faux : le groupe VI correspond aux ARN(+) diploïdes.",
+   "Vrai : groupe VI = ARN(+) diploïde.",
+   "Vrai : les Rétrovirus forment le groupe VI."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont justes concernant le groupe VII de Baltimore ?",
+  "options": [
+   "La réplication passe par un intermédiaire ARN et une transcription inverse.",
+   "Il correspond aux virus à ADN circulaire partiellement bicaténaire.",
+   "Il avait été initialement oublié par Baltimore.",
+   "Le VHB appartient au groupe I de Baltimore.",
+   "Ce sont les Hépadnavirus, comme le VHB."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : réplication via un ARN intermédiaire.",
+   "Vrai : groupe VII = ADN circulaire partiellement bicaténaire.",
+   "Vrai : le VII avait été initialement oublié.",
+   "Faux : le VHB appartient au groupe VII.",
+   "Vrai : les Hépadnavirus forment le groupe VII."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations justes concernant la transcriptase inverse ?",
+  "options": [
+   "C'est une ADN polymérase ARN-dépendante.",
+   "Elle synthétise un brin d'ADN à partir d'une matrice ARN.",
+   "Elle est apportée par le virion des Rétrovirus.",
+   "Elle synthétise de l'ARN à partir d'une matrice ADN.",
+   "Elle est la cible des antirétroviraux."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la transcriptase inverse est une ADN polymérase ARN-dépendante.",
+   "Vrai : synthèse d'ADN à partir d'ARN.",
+   "Vrai : elle est apportée par le virion.",
+   "Faux : elle synthétise de l'ADN à partir d'ARN.",
+   "Vrai : le cycle viral est la cible des antiviraux."
+  ]
+ },
+ {
+  "q": "Concernant le provirus, quelles sont les réponses exactes ?",
+  "options": [
+   "C'est l'ADN viral intégré dans l'ADN de la cellule hôte.",
+   "Il est transcrit par l'ARN polymérase II cellulaire.",
+   "Les antiviraux actuels ne peuvent pas l'éliminer de l'ADN cellulaire.",
+   "Il constitue une forme de persistance du génome viral.",
+   "Le provirus est une molécule d'ARN."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le provirus est l'ADN intégré.",
+   "Vrai : transcription par la polymérase cellulaire.",
+   "Vrai : l'ADN intégré est inaccessible aux antiviraux.",
+   "Vrai : c'est une forme de persistance.",
+   "Faux : c'est une molécule d'ADN intégrée."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous concernant la réplication du VHB, lesquelles sont vraies ?",
+  "options": [
+   "Le VHB se réplique par simple copie directe de son ADN.",
+   "Il appartient au groupe VII de Baltimore.",
+   "Une transcription inverse a lieu pendant la réplication.",
+   "Le VHB possède un ADN circulaire partiellement bicaténaire.",
+   "Un ARN prégénomique intermédiaire est synthétisé."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la réplication passe par un intermédiaire ARN.",
+   "Vrai : groupe VII = Hépadnavirus.",
+   "Vrai : la réplication passe par une transcription inverse.",
+   "Vrai : génome du VHB.",
+   "Vrai : intermédiaire ARN dans la réplication."
+  ]
+ },
+ {
+  "q": "Quelles assertions sont vraies concernant la polarité positive des génomes à ARN ?",
+  "options": [
+   "Il est directement infectieux.",
+   "Il est traduit directement dès son entrée dans la cellule.",
+   "Les Rétrovirus font exception à cette règle.",
+   "Un ARN(+) nécessite une transcription préalable avant toute traduction.",
+   "Un ARN(+) a la même polarité que les ARNm cellulaires."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les ARN(+) sont directement infectieux.",
+   "Vrai : traduction directe.",
+   "Vrai : les Rétrovirus sont l'exception.",
+   "Faux : il est directement traduit.",
+   "Vrai : même polarité que les ARNm."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont justes concernant la polarité négative des génomes à ARN ?",
+  "options": [
+   "Un ARN(-) doit être transcrit en ARN(+) avant toute synthèse protéique.",
+   "La transcription en ARN(+) précède la traduction.",
+   "Le virion apporte obligatoirement une ARN polymérase.",
+   "Sans cette polymérase, le génome n'est pas infectieux.",
+   "Un ARN(-) est directement traduit par les ribosomes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : transcription préalable obligatoire.",
+   "Vrai : transcription puis traduction.",
+   "Vrai : la polymérase est apportée par le virion.",
+   "Vrai : pas de synthèse protéique sans polymérase.",
+   "Faux : il doit être transcrit en ARN(+) d'abord."
+  ]
+ },
+ {
+  "q": "Concernant le génome diploïde des Rétrovirus, quelles sont les affirmations exactes ?",
+  "options": [
+   "Ce caractère diploïde définit le groupe VI de Baltimore.",
+   "Le VIH est l'exemple type de virus à génome diploïde.",
+   "Le virion rétroviral contient deux copies d'ARN(+) identiques.",
+   "Le génome diploïde est directement traduit.",
+   "La transcription inverse produit un ADN à partir de cet ARN."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : groupe VI = ARN(+) diploïde.",
+   "Vrai : le VIH est un Rétrovirus.",
+   "Vrai : génome diploïde.",
+   "Faux : les Rétrovirus font exception, pas de traduction directe.",
+   "Vrai : synthèse d'ADN à partir de l'ARN."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions correctes concernant le transport des protéines virales ?",
+  "options": [
+   "Les protéines du tégument gagnent la région périnucléaire chez les Herpesviridae.",
+   "Les glycoprotéines gagnent les membranes cellulaires.",
+   "Les protéines virales sont transportées vers les différents compartiments cellulaires.",
+   "Toutes les protéines virales restent dans le cytoplasme.",
+   "Les protéines de capside gagnent le site d'assemblage."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : adressage périnucléaire des protéines du tégument.",
+   "Vrai : les glycoprotéines sont insérées dans les membranes.",
+   "Vrai : transport vers les différents compartiments.",
+   "Faux : elles sont transportées vers différents compartiments.",
+   "Vrai : elles rejoignent le site d'assemblage."
+  ]
+ },
+ {
+  "q": "Parmi ces propositions concernant la glycosylation des protéines virales, lesquelles sont exactes ?",
+  "options": [
+   "C'est une modification post-traductionnelle.",
+   "Les protéines virales ne sont jamais glycosylées.",
+   "Elle résulte de l'ajout de résidus oligosaccharidiques.",
+   "Les glycoprotéines portent les sites d'attachement du virus.",
+   "Elle concerne les glycoprotéines d'enveloppe."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la glycosylation est post-traductionnelle.",
+   "Faux : les glycoprotéines d'enveloppe sont glycosylées.",
+   "Vrai : ajout de résidus oligosaccharidiques.",
+   "Vrai : sites d'attachement sur les glycoprotéines.",
+   "Vrai : les glycoprotéines sont glycosylées."
+  ]
+ },
+ {
+  "q": "Concernant la maturation des virions enveloppés, quelles propositions sont vraies ?",
+  "options": [
+   "Le bourgeonnement a lieu à travers les membranes cellulaires.",
+   "Elle est plus longue que la libération des virions nus.",
+   "La maturation a lieu avant la synthèse des protéines virales.",
+   "L'infectiosité requiert une enveloppe munie de ses glycoprotéines.",
+   "Les glycoprotéines virales sont insérées dans les membranes de la cellule."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : acquisition de l'enveloppe par bourgeonnement.",
+   "Vrai : la maturation des enveloppés est plus longue.",
+   "Faux : elle a lieu après les synthèses.",
+   "Vrai : enveloppe avec glycoprotéines = virus infectieux.",
+   "Vrai : insertion des glycoprotéines dans les membranes."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont justes concernant les voies de synthèse des ARNm viraux ?",
+  "options": [
+   "Une voie unique de synthèse des ARNm existe pour tous les virus.",
+   "Les virus à ARN(-) utilisent leur polymérase virale.",
+   "Elles dépendent du groupe de Baltimore du virus.",
+   "Les virus à ADN utilisent la transcription cellulaire.",
+   "Les virus à ARN(+) utilisent directement leur génome comme ARNm."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les voies varient selon le groupe de Baltimore.",
+   "Vrai : polymérase apportée par le virion.",
+   "Vrai : les voies dépendent du groupe de Baltimore.",
+   "Vrai : ARN polymérase II cellulaire.",
+   "Vrai : les ARN(+) sont directement ARNm."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes sont exactes concernant la synthèse des macromolécules virales ?",
+  "options": [
+   "Elle utilise la machinerie enzymatique de la cellule hôte.",
+   "Elle comprend la transcription et la traduction.",
+   "Elle est assurée par des enzymes apportées exclusivement par le virion.",
+   "Elle est suivie de la réplication du génome viral.",
+   "Elle correspond à l'expression des gènes viraux."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : détournement de la machinerie cellulaire.",
+   "Vrai : transcription puis traduction.",
+   "Faux : la machinerie cellulaire est détournée.",
+   "Vrai : les synthèses précèdent la réplication.",
+   "Vrai : expression des gènes = synthèse des macromolécules."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes au sujet de le détournement de la machinerie cellulaire ?",
+  "options": [
+   "Le tapis cellulaire in vitro montre des altérations morphologiques.",
+   "La machinerie cellulaire est mise au service des synthèses virales.",
+   "La synthèse des protéines cellulaires est stimulée par le virus.",
+   "Il en résulte une souffrance puis la mort de la cellule.",
+   "Le virus interrompt ou inhibe la synthèse des protéines cellulaires."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : altérations morphologiques du tapis cellulaire.",
+   "Vrai : détournement à profit du virus.",
+   "Faux : elle est interrompue ou inhibée.",
+   "Vrai : souffrance et mort cellulaire.",
+   "Vrai : interruption de la synthèse des protéines cellulaires."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la procapside ?",
+  "options": [
+   "Son assemblage nécessite toujours une enveloppe.",
+   "La procapside est la particule virale infectieuse finale.",
+   "Les capsomères modifient leur conformation au fur et à mesure de l'assemblage.",
+   "Elle résulte de l'auto-assemblage des capsomères.",
+   "Elle donne la forme définitive du virion."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la procapside concerne les capsides, sans enveloppe.",
+   "Faux : c'est une forme intermédiaire d'assemblage.",
+   "Vrai : modification de la conformation des capsomères.",
+   "Vrai : formation de la procapside par auto-assemblage.",
+   "Vrai : la procapside conduit à la forme définitive."
+  ]
+ },
+ {
+  "q": "Concernant la libération des virions nus, quelles propositions sont exactes ?",
+  "options": [
+   "Elle se fait par bourgeonnement à travers la membrane plasmique.",
+   "Elle fait suite à l'assemblage de la capside icosaédrique.",
+   "Elle se fait par lyse de la cellule hôte.",
+   "Elle a lieu avant la synthèse des protéines structurales.",
+   "La lyse entraîne la mort de la cellule hôte."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : le bourgeonnement concerne les virus enveloppés.",
+   "Vrai : assemblage puis libération par lyse.",
+   "Vrai : les virions nus sont libérés par lyse.",
+   "Faux : elle a lieu après les synthèses et l'assemblage.",
+   "Vrai : la lyse tue la cellule hôte."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont exactes concernant le bourgeonnement viral ?",
+  "options": [
+   "Il a lieu à travers les membranes de la cellule hôte.",
+   "Les glycoprotéines virales sont insérées dans la membrane avant le bourgeonnement.",
+   "La cellule hôte survit le plus souvent au bourgeonnement.",
+   "Le bourgeonnement est le mode de libération des virus nus.",
+   "C'est le mode d'acquisition de l'enveloppe des virus enveloppés."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : bourgeonnement à travers les membranes cellulaires.",
+   "Vrai : insertion préalable des glycoprotéines.",
+   "Vrai : le bourgeonnement n'implique pas la lyse immédiate.",
+   "Faux : les virus nus sont libérés par lyse.",
+   "Vrai : l'enveloppe est acquise par bourgeonnement."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'enveloppe virale et l'infectiosité, lesquelles sont exactes ?",
+  "options": [
+   "L'enveloppe dérive d'une membrane cellulaire remaniée.",
+   "Les glycoprotéines ont un pouvoir antigénique et sont la cible des anticorps neutralisants.",
+   "Un virus enveloppé dépourvu d'enveloppe reste pleinement infectieux.",
+   "Les glycoprotéines sont les sites d'attachement du virus.",
+   "Le virus enveloppé infectieux porte une enveloppe munie de glycoprotéines."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'enveloppe est une membrane cellulaire remaniée.",
+   "Vrai : les glycoprotéines sont des antigènes cibles des anticorps.",
+   "Faux : sans enveloppe, le virus enveloppé perd son infectiosité.",
+   "Vrai : les glycoprotéines portent les sites d'attachement.",
+   "Vrai : l'enveloppe avec glycoprotéines conditionne l'infectiosité."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant les inclusions virales ?",
+  "options": [
+   "Elles peuvent être intra-cytoplasmiques.",
+   "Elles sont visibles au microscope optique, avec ou sans coloration.",
+   "Elles sont toujours de siège nucléaire.",
+   "Elles résultent de l'accumulation des produits viraux dans la cellule.",
+   "Elles peuvent être nucléaires."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : inclusions intra-cytoplasmiques possibles.",
+   "Vrai : visibilité au microscope optique.",
+   "Faux : elles peuvent être cytoplasmiques ou nucléaires.",
+   "Vrai : les inclusions résultent de l'accumulation des produits viraux.",
+   "Vrai : inclusions nucléaires possibles."
+  ]
+ },
+ {
+  "q": "Quelles sont les assertions exactes concernant le syncytium ?",
+  "options": [
+   "Les plages de lyse traduisent la lyse des cellules.",
+   "La ballonisation cellulaire est un autre aspect de l'ECP.",
+   "C'est une manifestation de l'effet cytopathique.",
+   "Le syncytium résulte uniquement de la lyse cellulaire sans fusion membranaire.",
+   "Il résulte de la fusion des membranes cellulaires."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les plages de lyse sont un aspect de l'ECP.",
+   "Vrai : la ballonisation est un aspect de l'ECP.",
+   "Vrai : c'est un aspect de l'ECP.",
+   "Faux : il résulte de la fusion des membranes.",
+   "Vrai : le syncytium résulte de la fusion membranaire."
+  ]
+ },
+ {
+  "q": "Concernant les plages de lyse, quelles affirmations sont exactes ?",
+  "options": [
+   "Elles traduisent la production de virions lytiques.",
+   "Elles sont visibles au microscope optique.",
+   "Ce sont des zones de lyse du tapis cellulaire in vitro.",
+   "Elles résultent de l'effet cytopathique du virus.",
+   "Elles témoignent d'une infection abortive."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : elles témoignent de la réplication lytique.",
+   "Vrai : l'ECP se voit au microscope optique.",
+   "Vrai : les plages de lyse touchent le tapis cellulaire.",
+   "Vrai : ce sont une manifestation de l'ECP.",
+   "Faux : l'infection abortive ne produit pas de virions."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant la ballonisation cellulaire ?",
+  "options": [
+   "Elle traduit la souffrance de la cellule infectée.",
+   "C'est une inclusion intranucléaire.",
+   "C'est une manifestation de l'effet cytopathique.",
+   "Elle est visible au microscope optique.",
+   "Elle accompagne la lyse et la fusion des membranes cellulaires."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : elle traduit la souffrance cellulaire.",
+   "Faux : c'est une altération morphologique, pas une inclusion.",
+   "Vrai : la ballonisation est un aspect de l'ECP.",
+   "Vrai : l'ECP se voit au microscope optique.",
+   "Vrai : elle fait partie des conséquences de la lyse et de la fusion."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants concernant l'inhibition de la synthèse des protéines cellulaires, lesquels sont exacts ?",
+  "options": [
+   "Elle contribue à la souffrance et à la mort cellulaire.",
+   "La synthèse protéique cellulaire est augmentée pendant l'infection virale.",
+   "Le virus interrompt ou inhibe la synthèse des protéines de la cellule hôte.",
+   "L'ECP en est une conséquence observable en culture cellulaire.",
+   "Cette inhibition participe au détournement de la machinerie cellulaire."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : souffrance et mort cellulaire.",
+   "Faux : elle est interrompue ou inhibée.",
+   "Vrai : interruption ou inhibition décrite dans le cours.",
+   "Vrai : l'ECP traduit ces altérations.",
+   "Vrai : elle participe au détournement."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sont exactes concernant les mutations ponctuelles ?",
+  "options": [
+   "Elles peuvent modifier le pouvoir pathogène des souches virales.",
+   "Elles sont plus fréquentes avec les génomes à ARN.",
+   "Le génome viral ne subit jamais de mutation.",
+   "Elles surviennent au cours de la réplication du génome viral.",
+   "Elles participent à l'évolution des virus."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les mutations modifient le pouvoir pathogène des souches.",
+   "Vrai : fréquence élevée des mutations des génomes à ARN.",
+   "Faux : les mutations ponctuelles sont décrites.",
+   "Vrai : la réplication est l'étape critique des variations.",
+   "Vrai : la réplication joue un rôle dans l'évolution."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes concernant les insertions et les délétions ?",
+  "options": [
+   "Elles sont impossibles chez les virus à ADN.",
+   "Elles peuvent modifier l'information génétique du virus.",
+   "Ce sont des variations du génome viral au cours de la multiplication.",
+   "Elles participent à l'évolution des virus.",
+   "Elles s'ajoutent aux mutations ponctuelles."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : ce sont des variations générales du génome viral.",
+   "Vrai : elles modifient la séquence génétique.",
+   "Vrai : insertions et délétions décrites.",
+   "Vrai : elles participent à l'évolution.",
+   "Vrai : plusieurs phénomènes sont observés."
+  ]
+ },
+ {
+  "q": "Concernant les échanges de matériel génétique entre virus, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Ils sont possibles lors d'une infection par un seul virus.",
+   "Ils laissent la séquence génétique des virus inchangée.",
+   "Ils surviennent lors d'une double infection d'une même cellule hôte.",
+   "Le réassortiment concerne les virus à génome segmenté.",
+   "La recombinaison aboutit à un génome segmenté."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : ils nécessitent une double infection.",
+   "Faux : ils modifient la séquence génétique des virus.",
+   "Vrai : les échanges surviennent lors d'une double infection.",
+   "Vrai : réassortiment = virus à génome segmenté.",
+   "Faux : elle forme un génome chimérique au sein d'un segment unique."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont vraies concernant les Orthomyxoviridae et le réassortiment ?",
+  "options": [
+   "Leur génome est non segmenté.",
+   "L'échange de segments a lieu lors de l'assemblage.",
+   "Leur génome ARN(-) est segmenté : 8 segments pour les virus A et B, 7 pour le C.",
+   "Ils peuvent subir un réassortiment génétique.",
+   "Le réassortiment est une source de variations antigéniques majeures."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : leur génome est segmenté.",
+   "Vrai : échange de segments lors de l'assemblage.",
+   "Vrai : segmentation décrite pour les virus grippaux.",
+   "Vrai : les Orthomyxoviridae sont l'exemple du réassortiment.",
+   "Vrai : il modifie les antigènes du virus."
+  ]
+ },
+ {
+  "q": "Parmi les items suivants concernant les Coronaviridae et la recombinaison, lesquels sont exacts ?",
+  "options": [
+   "Leur génome est segmenté.",
+   "La recombinaison forme un génome chimérique au sein d'un segment unique.",
+   "Aucune variation génétique n'affecte les coronavirus.",
+   "Ils peuvent subir une recombinaison génétique.",
+   "Leur génome ARN(+) compte parmi les plus grands des virus à ARN."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la recombinaison a lieu au sein d'un segment unique.",
+   "Vrai : c'est la définition de la recombinaison.",
+   "Faux : les recombinaisons sont un mécanisme d'échappement décrit.",
+   "Vrai : les Coronaviridae sont l'exemple de la recombinaison.",
+   "Vrai : jusqu'à 30 kb pour les Coronaviridae."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions justes concernant la grippe et la multiplication nucléaire ?",
+  "options": [
+   "La grippe est l'exception des virus à ARN(-), à multiplication nucléaire.",
+   "Son génome ARN(-) est segmenté.",
+   "La grippe se multiplie exclusivement dans le cytoplasme.",
+   "Elle apporte son ARN polymérase dans le virion.",
+   "Elle bourgeonne à travers la membrane cytoplasmique."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la grippe est l'exception nucléaire des ARN(-).",
+   "Vrai : génome segmenté des virus grippaux.",
+   "Faux : sa multiplication est nucléaire.",
+   "Vrai : les ARN(-) apportent leur polymérase.",
+   "Vrai : les Orthomyxoviridae bourgeonnent à la membrane cytoplasmique."
+  ]
+ },
+ {
+  "q": "Concernant les Herpesviridae et la réplication, quelles assertions sont exactes ?",
+  "options": [
+   "Ils bourgeonnent à travers la membrane nucléaire lors d'une étape précoce.",
+   "Leur réplication est nucléaire.",
+   "Ce sont des virus à ADN bicaténaire.",
+   "Ils peuvent établir une latence, comme le HSV dans les neurones.",
+   "Leur multiplication est cytoplasmique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bourgeonnement nucléaire précoce.",
+   "Vrai : réplication nucléaire.",
+   "Vrai : les Herpesviridae sont des ADN bicaténaires.",
+   "Vrai : latence du HSV dans les neurones.",
+   "Faux : leur multiplication est nucléaire."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions ci-dessous sont exactes concernant le tégument des Herpesviridae ?",
+  "options": [
+   "C'est une couche protéique située entre la capside et l'enveloppe.",
+   "Le tégument est un élément constant de tous les virus.",
+   "Il est libéré dans la cellule lors de la pénétration.",
+   "Il contient des protéines apportées par le virion.",
+   "Le cours le cite comme élément des Herpesviridae."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le tégument est la couche entre capside et enveloppe.",
+   "Faux : il est cité spécifiquement pour les Herpesviridae.",
+   "Vrai : le tégument est libéré lors de la décapsidation.",
+   "Vrai : le virion apporte les protéines du tégument.",
+   "Vrai : téguments cités pour les Herpesviridae."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont justes concernant la matrice des virus enveloppés ?",
+  "options": [
+   "Elle assure la forme de la particule virale, comme pour le VIH et la grippe.",
+   "Les virus nus possèdent une matrice.",
+   "C'est une protéine structurale.",
+   "Elle est située à l'extérieur de l'enveloppe.",
+   "C'est une couche protéique qui double l'enveloppe virale."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : elle assure la forme de la particule.",
+   "Faux : la matrice est propre aux virus enveloppés.",
+   "Vrai : la matrice est une protéine structurale.",
+   "Faux : elle tapisse la face interne de l'enveloppe.",
+   "Vrai : la matrice double l'enveloppe virale."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations justes concernant la durée du cycle de multiplication virale ?",
+  "options": [
+   "Elle va de quelques heures à quelques jours.",
+   "La maturation des virus enveloppés allonge cette durée.",
+   "Un cycle complet aboutit à la production de virions infectieux.",
+   "Elle est identique pour tous les virus.",
+   "Elle est variable en fonction des virus."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : de quelques heures à quelques jours.",
+   "Vrai : la maturation des enveloppés est plus longue.",
+   "Vrai : le cycle complet produit des virions infectieux.",
+   "Faux : elle est variable.",
+   "Vrai : durée variable selon les virus."
+  ]
+ },
+ {
+  "q": "Concernant l'absence de division virale, quelles sont les réponses exactes ?",
+  "options": [
+   "De nouveaux virions sont assemblés à partir des synthèses virales.",
+   "Les virus se multiplient par bipartition.",
+   "Contrairement aux cellules eucaryotes et procaryotes, les virus ne se divisent pas.",
+   "Le virus libère son matériel génétique dans la cellule hôte.",
+   "Les virus se divisent comme les bactéries."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : assemblage à partir des synthèses.",
+   "Faux : il n'y a pas de division virale.",
+   "Vrai : pas de division virale.",
+   "Vrai : libération du matériel génétique.",
+   "Faux : pas de division virale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous concernant le génome viral comme condition de la multiplication, lesquelles sont vraies ?",
+  "options": [
+   "Il porte l'information génétique nécessaire aux synthèses virales.",
+   "Les nucléotides nécessaires sont fournis par la cellule hôte.",
+   "Le virus possède son propre système de synthèse protéique.",
+   "Le virus possède son propre système de production d'énergie.",
+   "L'énergie nécessaire est fournie par la cellule hôte."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : le génome apporte l'information génétique.",
+   "Vrai : nucléotides fournis par la cellule.",
+   "Faux : il détourne celui de la cellule.",
+   "Faux : le virus n'a pas de système énergétique propre.",
+   "Vrai : l'énergie est fournie par la cellule."
+  ]
+ },
+ {
+  "q": "Quelles assertions sont vraies concernant les virus défectifs ?",
+  "options": [
+   "L'expression de leurs gènes est interrompue.",
+   "La cellule hôte retourne à la normale après une infection abortive.",
+   "Ils produisent toujours des virions infectieux.",
+   "Leur génome est incomplet ou altéré.",
+   "Ils peuvent être à l'origine d'une infection abortive."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : expression interrompue des gènes.",
+   "Vrai : retour à la normale de la cellule.",
+   "Faux : pas de production de virions en infection abortive.",
+   "Vrai : le virus défectif a un génome altéré.",
+   "Vrai : le virus défectif cause une infection abortive."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont justes concernant la mort cellulaire secondaire à l'infection virale ?",
+  "options": [
+   "La lyse est le mode de libération des virions nus.",
+   "Toutes les infections virales entraînent la mort de la cellule hôte.",
+   "Elle s'accompagne d'altérations morphologiques du tapis cellulaire in vitro.",
+   "L'inhibition de la synthèse des protéines cellulaires y contribue.",
+   "Elle fait suite au détournement de la machinerie cellulaire."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les virions nus sont libérés par lyse.",
+   "Faux : la cellule survit dans l'infection latente.",
+   "Vrai : altérations morphologiques du tapis cellulaire.",
+   "Vrai : l'inhibition participe à la mort cellulaire.",
+   "Vrai : le détournement cause la souffrance cellulaire."
+  ]
+ },
+ {
+  "q": "Concernant la survie cellulaire dans l'infection latente, quelles sont les affirmations exactes ?",
+  "options": [
+   "Le génome viral persiste avec l'expression de quelques gènes seulement.",
+   "La cellule survit à l'infection latente.",
+   "Des modifications cellulaires peuvent survenir, jusqu'à la transformation maligne.",
+   "Il n'y a pas de production de virions.",
+   "La cellule est systématiquement lysée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : persistance avec expression restreinte.",
+   "Vrai : survie de la cellule en latence.",
+   "Vrai : survie avec modifications possibles.",
+   "Vrai : pas de production de virions en latence.",
+   "Faux : la cellule survit."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions correctes concernant la transformation maligne ?",
+  "options": [
+   "Elle peut compliquer une infection persistante ou latente.",
+   "Toute infection virale persistante aboutit à un cancer.",
+   "La transformation maligne s'accompagne d'une production massive de virions.",
+   "La transformation maligne fait suite à la survie cellulaire avec modifications.",
+   "L'EBV est un exemple de virus impliqué dans l'oncogenèse."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : transformation maligne possible en persistance.",
+   "Faux : la transformation est seulement possible.",
+   "Faux : pas de production de virions en latence.",
+   "Vrai : survie avec modifications puis transformation.",
+   "Vrai : l'EBV est l'exemple d'oncogenèse du cours."
+  ]
+ },
+ {
+  "q": "Parmi ces propositions concernant le réservoir viral humain, lesquelles sont exactes ?",
+  "options": [
+   "L'homme est le réservoir principal de nombreux virus.",
+   "Pour ces virus, l'homme est un réservoir unique et permanent.",
+   "Les virus strictement humains possèdent aussi un réservoir animal.",
+   "L'éradication est envisageable en cas de couverture vaccinale mondiale systématique, comme pour la variole.",
+   "Le VRS, le HSV, le VZV, le CMV, les oreillons et la rougeole sont strictement humains."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le réservoir humain est le principal.",
+   "Vrai : l'homme est le réservoir unique et permanent.",
+   "Faux : ils sont strictement humains.",
+   "Vrai : éradication possible, exemple de la variole.",
+   "Vrai : ce sont des virus spécifiquement et strictement humains."
+  ]
+ },
+ {
+  "q": "Concernant les zoonoses, quelles propositions sont vraies ?",
+  "options": [
+   "Les virus animaux sont une source d'émergence avec franchissement de la barrière d'espèce.",
+   "L'homme est le réservoir principal des zoonoses.",
+   "La rage, Ebola, la grippe aviaire et le MERS en sont des exemples.",
+   "L'animal est le réservoir naturel du virus et l'homme un hôte accidentel.",
+   "Elles ne se transmettent pas ou très mal d'homme à homme."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : émergence par franchissement de la barrière d'espèce.",
+   "Faux : le réservoir est animal.",
+   "Vrai : ce sont les exemples du cours.",
+   "Vrai : animal réservoir naturel, homme hôte accidentel.",
+   "Vrai : transmission interhumaine absente ou très faible."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont justes concernant le réservoir environnemental des virus ?",
+  "options": [
+   "L'eau, les fruits de mer et les coquillages peuvent être des réservoirs.",
+   "Les entérovirus, le VHA, le VHE et les rotavirus en sont des exemples.",
+   "Les virus nus sont fragiles dans le milieu extérieur.",
+   "Aucun virus ne persiste dans l'environnement.",
+   "Les virus nus y sont résistants et s'y transmettent par voie oro-fécale."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : réservoir hydrique et coquillages.",
+   "Vrai : ce sont les exemples du cours.",
+   "Faux : les virus nus sont résistants.",
+   "Faux : les virus nus y persistent.",
+   "Vrai : les virus nus résistants, transmission oro-fécale."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes sont exactes concernant les arbovirus ?",
+  "options": [
+   "La fièvre jaune, le virus West Nile et le virus Zika en sont des exemples.",
+   "Le virus se réplique dans l'arthropode, tique ou phlébotome.",
+   "Ce sont des virus transmis par des arthropodes.",
+   "Les arbovirus ne se répliquent pas dans leur vecteur.",
+   "La transmission à l'homme se fait par piqûre de moustiques ou de tiques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : ce sont les exemples du cours.",
+   "Vrai : réplication du virus dans l'arthropode.",
+   "Vrai : arbovirus = virus transmis par arthropodes.",
+   "Faux : ils s'y répliquent.",
+   "Vrai : transmission par piqûre."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes au sujet de la transmission directe des virus ?",
+  "options": [
+   "Les aérosols et les fines gouttelettes de salive en sont des véhicules.",
+   "Elle concerne les virus enveloppés fragiles comme les virus nus.",
+   "Elle nécessite toujours un vecteur inanimé.",
+   "Elle se fait par contacts rapprochés et étroits.",
+   "La voie respiratoire en est un exemple."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : aérosols et gouttelettes de salive.",
+   "Vrai : enveloppés fragiles et nus.",
+   "Faux : le vecteur inanimé définit la transmission indirecte.",
+   "Vrai : contacts rapprochés et étroits.",
+   "Vrai : la voie respiratoire est une transmission directe."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la transmission indirecte des virus ?",
+  "options": [
+   "Elle met en jeu un vecteur inanimé : eau, aliments, objets, matériel médical.",
+   "L'eau et les aliments contaminés transmettent les virus entériques.",
+   "Les mains sales participent à la transmission des entérovirus.",
+   "Les virus enveloppés fragiles s'y transmettent facilement.",
+   "Elle concerne surtout les virus nus résistants."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : vecteur inanimé.",
+   "Vrai : eau et aliments contaminés.",
+   "Vrai : transmission manu portée des entérovirus.",
+   "Faux : ils sont fragiles dans le milieu extérieur.",
+   "Vrai : les virus nus surtout."
+  ]
+ },
+ {
+  "q": "Concernant le mode épidémique, quelles propositions sont exactes ?",
+  "options": [
+   "Il se distingue du mode endémique, où la maladie est constamment présente à faible fréquence.",
+   "Il se distingue du mode sporadique.",
+   "Le mode épidémique correspond à des cas isolés et rares.",
+   "De nombreux cas surviennent en même temps et dans un même lieu.",
+   "Étymologiquement : épi (sur) et démos (peuple)."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'endémie est une présence constante à faible fréquence.",
+   "Vrai : le mode sporadique est différent.",
+   "Faux : c'est un nombre élevé et simultané de cas.",
+   "Vrai : définition du mode épidémique.",
+   "Vrai : étymologie donnée dans le cours."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont exactes concernant le mode pandémique ?",
+  "options": [
+   "Elle touche plus de deux continents.",
+   "C'est une épidémie mondiale.",
+   "La grippe a donné des pandémies.",
+   "C'est une épidémie limitée à un seul continent.",
+   "Elle se distingue du mode endémique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : plus de 2 continents.",
+   "Vrai : la pandémie est une épidémie mondiale.",
+   "Vrai : les pandémies grippales sont historiques.",
+   "Faux : elle est mondiale.",
+   "Vrai : l'endémie est constante à faible fréquence."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les portes d'entrée des virus, lesquelles sont exactes ?",
+  "options": [
+   "La peau et les muqueuses sont d'autres portes d'entrée.",
+   "La peau intacte est une porte d'entrée majeure des virus.",
+   "Trois grandes surfaces épithéliales sont en contact avec l'environnement.",
+   "L'arbre respiratoire et le tube digestif sont les sites de multiplication primaire de la majorité des virus.",
+   "La conjonctive peut être une porte d'entrée."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : peau et muqueuses.",
+   "Faux : la peau est une barrière physique efficace.",
+   "Vrai : arbre respiratoire, tube digestif, peau et muqueuses.",
+   "Vrai : sites de multiplication primaire de la majorité des virus.",
+   "Vrai : la conjonctive est une porte d'entrée."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant la contamination par voie respiratoire ?",
+  "options": [
+   "La voie respiratoire ne transmet aucun virus.",
+   "Certaines infections systémiques ont un point de départ respiratoire : VZV, rubéole, rougeole, oreillons.",
+   "Elle nécessite des contacts rapprochés avec le sujet infecté.",
+   "Les virus sont inhalés sous forme d'aérosols ou de fines gouttelettes de salive.",
+   "Elle donne le plus souvent une infection localisée au tractus respiratoire."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : c'est une voie majeure de contamination.",
+   "Vrai : ce sont les exemples du cours.",
+   "Vrai : contacts rapprochés.",
+   "Vrai : aérosols et gouttelettes de salive.",
+   "Vrai : infection localisée au tractus respiratoire."
+  ]
+ },
+ {
+  "q": "Quelles sont les assertions exactes concernant la contamination par voie digestive ?",
+  "options": [
+   "Les virus nus résistent au pH acide de l'estomac et aux sels biliaires.",
+   "Les virus enveloppés résistent bien au pH acide de l'estomac.",
+   "Les entérovirus donnent une infection généralisée à point de départ digestif.",
+   "Les virus sont ingérés via l'eau et les aliments contaminés.",
+   "Ils se multiplient au niveau des cellules intestinales."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les virus nus y sont résistants.",
+   "Faux : les enveloppés sont fragiles.",
+   "Vrai : infection généralisée à point de départ digestif.",
+   "Vrai : eau et aliments contaminés.",
+   "Vrai : multiplication intestinale."
+  ]
+ },
+ {
+  "q": "Concernant la contamination par voie cutanéo-muqueuse, quelles affirmations sont exactes ?",
+  "options": [
+   "L'effraction cutanée se fait par morsure, piqûre d'arthropode ou aiguille souillée.",
+   "La peau est une barrière physique efficace contre la pénétration des virus.",
+   "Les lésions de la surface de l'épithélium permettent l'entrée, comme pour l'HPV.",
+   "La peau intacte laisse passer librement les virus.",
+   "La muqueuse uro-génitale transmet le HSV-2 et l'HPV, le VIH, le VHB et le CMV."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : ce sont les modes d'effraction.",
+   "Vrai : la peau est une barrière efficace.",
+   "Vrai : lésions de surface pour l'HPV.",
+   "Faux : la peau intacte est une barrière efficace.",
+   "Vrai : muqueuse uro-génitale, transmission sexuelle."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant l'incubation ?",
+  "options": [
+   "Pendant l'incubation, le virus se multiplie et diffuse dans l'organisme.",
+   "Elle est courte quand l'organe cible est la porte d'entrée.",
+   "C'est la période allant du contage à l'apparition des premiers signes cliniques.",
+   "Elle est identique pour tous les virus.",
+   "Elle est longue quand l'organe cible est distant, nécessitant une diffusion sanguine, lymphatique ou nerveuse."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : multiplication et diffusion pendant l'incubation.",
+   "Vrai : incubation courte si organe cible = porte d'entrée.",
+   "Vrai : définition de l'incubation.",
+   "Faux : elle varie selon les virus.",
+   "Vrai : incubation longue si diffusion nécessaire."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants concernant l'organe cible, lesquels sont exacts ?",
+  "options": [
+   "Un organe dépourvu de récepteurs spécifiques peut être un organe cible.",
+   "Ses cellules sont permissives : elles possèdent les facteurs intracellulaires nécessaires à la réplication.",
+   "L'atteinte de l'organe cible fait suite à la diffusion du virus.",
+   "Il est déterminé par le tropisme viral.",
+   "Ses cellules sont sensibles : elles portent les récepteurs spécifiques du virus."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : sans récepteurs, pas d'attachement.",
+   "Vrai : permissivité = facteurs de réplication.",
+   "Vrai : diffusion puis atteinte de l'organe cible.",
+   "Vrai : le tropisme détermine l'organe cible.",
+   "Vrai : sensibilité = présence des récepteurs."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sont exactes concernant la diffusion du virus dans l'organisme ?",
+  "options": [
+   "La diffusion est toujours strictement locale.",
+   "Le tropisme détermine l'organe atteint après la diffusion.",
+   "La diffusion sanguine, lymphatique ou nerveuse conduit le virus vers un organe cible distant.",
+   "Une incubation longue implique une diffusion.",
+   "Elle peut être locale ou générale."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elle peut être générale.",
+   "Vrai : le tropisme définit l'organe cible.",
+   "Vrai : les voies de diffusion vers l'organe distant.",
+   "Vrai : l'incubation longue nécessite une diffusion.",
+   "Vrai : diffusion locale ou générale."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes concernant le pouvoir pathogène viral ?",
+  "options": [
+   "Le spectre va de l'infection asymptomatique à l'infection fatale.",
+   "Elles dépendent de l'hôte : âge et terrain sous-jacent.",
+   "Toutes les infections virales sont symptomatiques.",
+   "Les manifestations cliniques dépendent de la nature du virus, de son tropisme et de sa porte d'entrée.",
+   "Les symptômes résultent du dysfonctionnement cellulaire, de la mort cellulaire ou d'une réaction inflammatoire excessive."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : large spectre d'expressions cliniques.",
+   "Vrai : facteurs liés à l'hôte.",
+   "Faux : beaucoup sont asymptomatiques.",
+   "Vrai : facteurs liés au virus.",
+   "Vrai : ce sont les mécanismes des symptômes."
+  ]
+ },
+ {
+  "q": "Concernant les infections virales asymptomatiques, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "La réplication virale y est néanmoins active.",
+   "La contagiosité y est conservée.",
+   "Elles ne participent pas à la transmission du virus.",
+   "Beaucoup d'infections virales sont asymptomatiques.",
+   "Elles s'accompagnent d'une excrétion virale possible."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : réplication active malgré l'absence de symptômes.",
+   "Vrai : contamination possible.",
+   "Faux : elles participent à la contamination.",
+   "Vrai : beaucoup d'infections sont asymptomatiques.",
+   "Vrai : l'excrétion est possible."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont vraies concernant les manifestations respiratoires des viroses ?",
+  "options": [
+   "L'arbre respiratoire supérieur et inférieur peuvent être atteints.",
+   "Toutes les viroses respiratoires restent localisées.",
+   "La rhinite et la rhino-pharyngite en sont des exemples.",
+   "La pneumopathie virale en est une forme grave.",
+   "Les virus respiratoires se transmettent par aérosols."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : atteinte haute et basse.",
+   "Faux : certaines sont systémiques à point de départ respiratoire.",
+   "Vrai : manifestations respiratoires hautes.",
+   "Vrai : atteinte respiratoire basse.",
+   "Vrai : transmission par aérosols."
+  ]
+ },
+ {
+  "q": "Parmi les items suivants concernant les manifestations digestives des viroses, lesquels sont exacts ?",
+  "options": [
+   "Les rotavirus, les calicivirus et le virus de Norwalk donnent des gastro-entérites.",
+   "Les virus en cause sont des virus nus résistants.",
+   "La transmission est oro-fécale.",
+   "Les gastro-entérites virales sont toujours d'origine bactérienne.",
+   "Ce sont des infections localisées au tube digestif."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : ce sont les exemples du cours.",
+   "Vrai : les virus nus résistent au tube digestif.",
+   "Vrai : transmission oro-fécale.",
+   "Faux : elles sont d'origine virale.",
+   "Vrai : infections localisées."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions justes concernant les manifestations neurologiques des viroses ?",
+  "options": [
+   "Les entérovirus peuvent donner des méningites.",
+   "Le HSV peut donner des méningo-encéphalites.",
+   "L'organe cible est ici distant de la porte d'entrée, nécessitant une diffusion.",
+   "Elles illustrent le neurotropisme de certains virus.",
+   "Aucun virus n'atteint le système nerveux."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : méningites à entérovirus.",
+   "Vrai : méningo-encéphalite herpétique.",
+   "Vrai : diffusion vers le système nerveux.",
+   "Vrai : exemple de tropisme nerveux.",
+   "Faux : les virus neurotropes l'atteignent."
+  ]
+ },
+ {
+  "q": "Concernant les manifestations cutanées des viroses, quelles assertions sont exactes ?",
+  "options": [
+   "Elles sont fréquentes.",
+   "La gingivo-stomatite herpétique est un exemple d'effet direct.",
+   "Tout exanthème viral est dû à l'excrétion virale dans la lésion.",
+   "L'effet indirect correspond à une réaction immune au niveau des capillaires du derme, sans particules virales, comme la rubéole et la rougeole.",
+   "L'effet direct du virus s'accompagne d'une excrétion virale au niveau de la lésion, comme la varicelle."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : manifestations cutanées fréquentes.",
+   "Vrai : exemple d'effet direct du cours.",
+   "Faux : certains sont d'effet indirect immun.",
+   "Vrai : effet indirect, exemples rubéole et rougeole.",
+   "Vrai : effet direct avec excrétion, exemple de la varicelle."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions ci-dessous sont exactes concernant l'excrétion virale ?",
+  "options": [
+   "L'excrétion a lieu avant toute réplication virale.",
+   "Dans les infections ouvertes, le virus est libéré dans l'environnement à partir des sécrétions du patient.",
+   "La voie d'excrétion est souvent la voie d'entrée.",
+   "Elle est indispensable à la propagation du virus dans la population.",
+   "C'est la libération des particules virales infectieuses."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elle suit la réplication.",
+   "Vrai : définition des infections ouvertes.",
+   "Vrai : souvent la voie d'excrétion est la voie d'entrée.",
+   "Vrai : indispensable à la propagation.",
+   "Vrai : définition de l'excrétion virale."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont justes concernant les infections ouvertes et fermées ?",
+  "options": [
+   "Toutes les infections virales sont des infections ouvertes.",
+   "La sortie du virus des infections fermées nécessite un intermédiaire : vecteur animé ou inerte.",
+   "Dans les infections ouvertes, le virus est libéré dans l'environnement.",
+   "Dans les infections fermées, il n'y a pas d'excrétion virale.",
+   "Le patient peut être symptomatique ou non."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : il existe des infections fermées.",
+   "Vrai : intermédiaire animé ou inerte.",
+   "Vrai : les infections ouvertes libèrent le virus.",
+   "Vrai : pas d'excrétion dans les infections fermées.",
+   "Vrai : patient symptomatique ou non."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations justes concernant les facteurs liés à l'hôte dans l'expression clinique ?",
+  "options": [
+   "Une immunisation préalable modifie l'expression clinique.",
+   "L'immunodépression aggrave les infections virales.",
+   "La grossesse et la malnutrition sont des terrains à risque.",
+   "Le terrain de l'hôte n'a aucune influence sur l'infection virale.",
+   "L'âge influence l'expression clinique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'immunisation est un facteur lié à l'hôte.",
+   "Vrai : l'immunodépression est un terrain à risque.",
+   "Vrai : terrains sous-jacents cités.",
+   "Faux : le terrain influence l'expression clinique.",
+   "Vrai : l'âge est un facteur lié à l'hôte."
+  ]
+ },
+ {
+  "q": "Concernant la varicelle et le zona, quelles sont les réponses exactes ?",
+  "options": [
+   "Le VZV est un virus strictement humain.",
+   "Le zona est la primo-infection par le VZV.",
+   "La réactivation du VZV donne le zona.",
+   "La varicelle est la primo-infection par le VZV.",
+   "Le VZV établit ensuite une latence."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le VZV est strictement humain.",
+   "Faux : le zona est la réactivation.",
+   "Vrai : le zona est la réactivation du VZV.",
+   "Vrai : la varicelle est la primo-infection.",
+   "Vrai : latence du VZV après la primo-infection."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous concernant la rougeole, lesquelles sont vraies ?",
+  "options": [
+   "C'est une infection systémique à point de départ respiratoire.",
+   "C'est un virus strictement humain.",
+   "Son exanthème est un effet indirect lié à la réaction immune.",
+   "La conjonctive peut être une porte d'entrée avec infection systémique.",
+   "La rougeole reste toujours localisée au tractus respiratoire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la rougeole est systémique à point de départ respiratoire.",
+   "Vrai : la rougeole est strictement humaine.",
+   "Vrai : effet indirect sans particules virales.",
+   "Vrai : la conjonctive donne des infections systémiques comme la rougeole.",
+   "Faux : c'est une infection systémique."
+  ]
+ },
+ {
+  "q": "Quelles assertions sont vraies concernant la rubéole ?",
+  "options": [
+   "Son exanthème résulte d'une réaction immune au niveau des capillaires du derme.",
+   "C'est une zoonose.",
+   "C'est une infection systémique à point de départ respiratoire.",
+   "Les anticorps neutralisants peuvent être protecteurs in vivo contre la rubéole.",
+   "Aucune particule virale n'est retrouvée dans les lésions de l'exanthème."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : effet indirect de la réaction immune.",
+   "Faux : la rubéole est à point de départ respiratoire interhumain.",
+   "Vrai : la rubéole est systémique à point de départ respiratoire.",
+   "Vrai : protection in vivo décrite pour la rubéole.",
+   "Vrai : l'effet indirect se fait sans particules virales."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont justes concernant les oreillons ?",
+  "options": [
+   "C'est une infection systémique à point de départ respiratoire.",
+   "La transmission se fait par voie respiratoire.",
+   "Le virus ourlien est strictement humain.",
+   "L'homme malade est le réservoir du virus.",
+   "C'est une zoonose à réservoir animal."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les oreillons sont systémiques à point de départ respiratoire.",
+   "Vrai : contamination par voie respiratoire.",
+   "Vrai : les oreillons sont strictement humains.",
+   "Vrai : l'homme est le réservoir.",
+   "Faux : c'est un virus strictement humain."
+  ]
+ },
+ {
+  "q": "Concernant les entérovirus, quelles sont les affirmations exactes ?",
+  "options": [
+   "Ils donnent une infection généralisée à point de départ digestif.",
+   "Ce sont des virus nus résistants.",
+   "Ils peuvent être responsables de méningites.",
+   "Leur transmission est oro-fécale.",
+   "Ce sont des virus enveloppés fragiles."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : infection généralisée à point de départ digestif.",
+   "Vrai : les entérovirus sont des virus nus résistants.",
+   "Vrai : méningites à entérovirus.",
+   "Vrai : transmission oro-fécale.",
+   "Faux : ce sont des virus nus résistants."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions correctes concernant le rotavirus ?",
+  "options": [
+   "Sa transmission est oro-fécale.",
+   "Il donne des infections systémiques.",
+   "C'est un virus nu résistant.",
+   "L'environnement hydrique participe à sa transmission.",
+   "Il donne des gastro-entérites localisées."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : transmission oro-fécale.",
+   "Faux : les infections sont localisées.",
+   "Vrai : virus nu résistant.",
+   "Vrai : réservoir hydrique.",
+   "Vrai : gastro-entérites localisées."
+  ]
+ },
+ {
+  "q": "Parmi ces propositions concernant les virus des hépatites à transmission entérale, lesquelles sont exactes ?",
+  "options": [
+   "Le VHA appartient à la famille des Picornaviridae.",
+   "Leur transmission parentérale est le mode principal.",
+   "Ce sont des virus nus.",
+   "Le VHA et le VHE se transmettent par voie entérale.",
+   "Ils résistent au pH acide de l'estomac et aux sels biliaires."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le VHA est un picornavirus.",
+   "Faux : leur transmission est entérale.",
+   "Vrai : les virus entéraux sont nus.",
+   "Vrai : transmission entérale.",
+   "Vrai : les virus nus y sont résistants."
+  ]
+ },
+ {
+  "q": "Concernant le VIH et sa porte d'entrée, quelles propositions sont vraies ?",
+  "options": [
+   "La muqueuse uro-génitale est une porte d'entrée du VIH.",
+   "L'infection par le VIH est généralisée.",
+   "La transmission sexuelle est un mode de contamination.",
+   "Le VHB et le CMV partagent cette porte d'entrée avec des infections généralisées.",
+   "Le VIH reste localisé à la muqueuse d'entrée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : muqueuse uro-génitale.",
+   "Vrai : infection généralisée.",
+   "Vrai : transmission sexuelle.",
+   "Vrai : VHB et CMV donnent aussi des infections généralisées par cette voie.",
+   "Faux : l'infection est généralisée."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont justes concernant le HSV-2 ?",
+  "options": [
+   "C'est un virus à ARN.",
+   "Il infecte la muqueuse uro-génitale.",
+   "Sa transmission est sexuelle.",
+   "Il peut établir une latence.",
+   "Il donne une infection localisée."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : c'est un virus à ADN.",
+   "Vrai : muqueuse uro-génitale.",
+   "Vrai : transmission sexuelle.",
+   "Vrai : les Herpesvirus établissent une latence.",
+   "Vrai : infection localisée."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes sont exactes concernant l'adénovirus ?",
+  "options": [
+   "Il est enveloppé.",
+   "La conjonctive est une de ses portes d'entrée.",
+   "Ses infections sont uniquement respiratoires.",
+   "Il peut donner des kérato-conjonctivites.",
+   "C'est un virus nu."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : c'est un virus nu.",
+   "Vrai : porte d'entrée conjonctivale.",
+   "Faux : il donne aussi des kérato-conjonctivites.",
+   "Vrai : kérato-conjonctivite à adénovirus.",
+   "Vrai : les adénovirus sont des virus nus."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes au sujet de le CMV ?",
+  "options": [
+   "Sa transmission sexuelle est possible avec une infection généralisée.",
+   "Il appartient à la famille des Herpesviridae.",
+   "C'est un virus strictement humain.",
+   "C'est un virus à ARN.",
+   "Il n'établit aucune latence."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le CMV donne une infection généralisée par voie sexuelle.",
+   "Vrai : le CMV est un Herpesvirus.",
+   "Vrai : le CMV est strictement humain.",
+   "Faux : c'est un virus à ADN.",
+   "Faux : les Herpesvirus établissent une latence."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les moyens de défense antivirale de l'hôte ?",
+  "options": [
+   "L'immunité adaptative ou acquise, spécifique.",
+   "La majorité des infections virales sont contrôlées par le système immunitaire avec élimination du virus.",
+   "L'immunité innée ou naturelle, non spécifique.",
+   "Les moyens physico-chimiques : barrière cutanéo-muqueuse intacte et hyperthermie.",
+   "L'hôte ne dispose d'aucun moyen de défense contre les virus."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'immunité adaptative est spécifique.",
+   "Vrai : la majorité des infections sont contrôlées avec élimination virale.",
+   "Vrai : l'immunité innée est non spécifique.",
+   "Vrai : ce sont les moyens physico-chimiques.",
+   "Faux : plusieurs moyens de défense existent."
+  ]
+ },
+ {
+  "q": "Concernant la barrière cutanéo-muqueuse, quelles propositions sont exactes ?",
+  "options": [
+   "Les muqueuses participent à cette barrière.",
+   "C'est un moyen de défense spécifique.",
+   "La peau intacte est une barrière physique efficace contre la pénétration des virus.",
+   "C'est un moyen de défense physico-chimique.",
+   "L'hyperthermie est un autre moyen physico-chimique de défense."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : barrière cutanéo-muqueuse.",
+   "Faux : c'est un moyen non spécifique.",
+   "Vrai : la peau est une barrière efficace.",
+   "Vrai : moyen physico-chimique.",
+   "Vrai : l'hyperthermie est un moyen physico-chimique."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont exactes concernant l'immunité innée ?",
+  "options": [
+   "L'interféron y joue un rôle.",
+   "Elle est spécifique de chaque virus rencontré.",
+   "Elle est non spécifique.",
+   "Elle intervient avant la mise en place de l'immunité adaptative.",
+   "Elle repose sur la production d'anticorps spécifiques."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : rôle de l'interféron dans l'immunité innée.",
+   "Faux : elle est non spécifique.",
+   "Vrai : l'immunité innée est non spécifique.",
+   "Vrai : l'innée précède l'adaptative.",
+   "Faux : les anticorps relèvent de l'immunité adaptative."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'interféron, lesquelles sont exactes ?",
+  "options": [
+   "Il induit dans les cellules voisines un état réfractaire à la réplication virale.",
+   "Il est produit par les cellules infectées par un virus.",
+   "C'est un moyen de défense non spécifique.",
+   "Il joue un rôle dans l'immunité innée.",
+   "C'est un anticorps neutralisant."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : il protège les cellules voisines.",
+   "Vrai : les cellules infectées produisent l'interféron.",
+   "Vrai : défense non spécifique.",
+   "Vrai : rôle de l'interféron dans l'immunité innée.",
+   "Faux : c'est une cytokine de l'immunité innée."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant l'état antiviral induit par l'interféron ?",
+  "options": [
+   "Il protège uniquement la cellule qui a produit l'interféron.",
+   "Il repose sur l'inhibition de la synthèse des protéines virales.",
+   "Il rend les cellules réfractaires à la réplication virale.",
+   "C'est un mécanisme de défense non spécifique.",
+   "Il est spécifique d'un antigène viral."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : il protège les cellules voisines.",
+   "Vrai : inhibition des synthèses virales.",
+   "Vrai : état réfractaire à la réplication.",
+   "Vrai : mécanisme non spécifique.",
+   "Faux : il est non spécifique."
+  ]
+ },
+ {
+  "q": "Quelles sont les assertions exactes concernant l'immunité adaptative ?",
+  "options": [
+   "Le développement des vaccins en est une application.",
+   "Elle fait intervenir les lymphocytes B et T et leurs effecteurs.",
+   "Elle est spécifique.",
+   "Elle est identique à l'immunité innée.",
+   "Elle comprend une immunité cellulaire et une immunité humorale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les vaccins sont une application de la réponse immune spécifique.",
+   "Vrai : lymphocytes B et T et leurs effecteurs.",
+   "Vrai : l'immunité adaptative est spécifique.",
+   "Faux : l'innée est non spécifique.",
+   "Vrai : immunité cellulaire et humorale."
+  ]
+ },
+ {
+  "q": "Concernant l'immunité à médiation cellulaire, quelles affirmations sont exactes ?",
+  "options": [
+   "Ces cytokines recrutent et activent différentes populations cellulaires.",
+   "Les lymphocytes T neutralisent directement les virions libres.",
+   "Les LT sensibilisés par les antigènes viraux produisent des cytokines.",
+   "Les lymphocytes T reconnaissent et éliminent les cellules infectées.",
+   "Les lymphocytes T produisent des anticorps."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : recrutement et activation cellulaire.",
+   "Faux : la neutralisation relève des anticorps.",
+   "Vrai : production de cytokines par les LT sensibilisés.",
+   "Vrai : reconnaissance et élimination des cellules infectées.",
+   "Faux : les anticorps sont produits par les lymphocytes B."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant l'effet immunopathologique des lymphocytes T ?",
+  "options": [
+   "Dans les hépatites B et C chroniques, les lésions hépatiques sont secondaires à l'effet immunopathologique et non à l'action directe du virus.",
+   "Une réaction inflammatoire excessive peut avoir un effet néfaste.",
+   "Les LT cytotoxiques lysent les cellules infectées.",
+   "La réponse immunitaire est toujours bénéfique pour l'hôte.",
+   "Les manifestations immunopathologiques illustrent le rôle parfois délétère de la réponse de l'hôte."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : lésions d'origine immunopathologique dans les hépatites B et C.",
+   "Vrai : la réaction inflammatoire excessive est néfaste.",
+   "Vrai : lyse des cellules infectées par les LT cytotoxiques.",
+   "Faux : elle peut avoir un effet néfaste.",
+   "Vrai : manifestations immunopathologiques décrites."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants concernant l'immunité à médiation humorale, lesquels sont exacts ?",
+  "options": [
+   "Elle neutralise le virus grâce aux anticorps neutralisants.",
+   "Les anticorps neutralisants favorisent in vitro l'infection des cellules sensibles.",
+   "L'immunité humorale agit uniquement par neutralisation.",
+   "Ils sont sans effet protecteur in vivo.",
+   "Elle élimine le virus en conjonction avec le complément, les phagocytes et les cellules tueuses."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Vrai : neutralisation par les anticorps neutralisants.",
+   "Faux : ils empêchent in vitro l'infection des cellules sensibles.",
+   "Faux : elle agit aussi avec le complément et les phagocytes.",
+   "Faux : ils peuvent être protecteurs in vivo.",
+   "Vrai : élimination avec complément, phagocytes et cellules tueuses."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sont exactes concernant les anticorps neutralisants ?",
+  "options": [
+   "Les anticorps anti-HBs préviennent la réinfection par le VHB.",
+   "Ils bloquent l'attachement du virus à son récepteur.",
+   "Ils peuvent être protecteurs in vivo.",
+   "Ils empêchent in vitro l'infection des cellules sensibles.",
+   "Ils favorisent l'entrée du virus dans la cellule."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les anti-HBs préviennent la réinfection.",
+   "Vrai : blocage de l'attachement.",
+   "Vrai : protecteurs in vivo.",
+   "Vrai : définition in vitro.",
+   "Faux : ils l'empêchent."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes concernant le rôle des anticorps dans les infections virales ?",
+  "options": [
+   "Ils participent à la lutte contre les infections et les réinfections virales.",
+   "Ils témoignent d'un contact avec le virus et aident au diagnostic virologique.",
+   "Ils sont sans intérêt pour le diagnostic.",
+   "Ils sont mis en évidence par les techniques du diagnostic sérologique.",
+   "Leur développement sous-tend les vaccins et la séroprophylaxie."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : lutte contre infections et réinfections.",
+   "Vrai : aide au diagnostic.",
+   "Faux : ils aident au diagnostic virologique.",
+   "Vrai : diagnostic sérologique.",
+   "Vrai : vaccins et séroprophylaxie."
+  ]
+ },
+ {
+  "q": "Concernant la primo-infection, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Les IgM persistent quelques semaines à quelques mois.",
+   "Les IgG persistent des années, voire toute la vie.",
+   "Elle s'accompagne d'abord d'une synthèse d'IgM, rapidement suivie d'IgG.",
+   "Les IgG sont synthétisées avant les IgM.",
+   "Elle est concomitante de la guérison dans les infections aiguës résolutives."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : persistance brève des IgM.",
+   "Vrai : persistance longue des IgG.",
+   "Vrai : IgM puis IgG.",
+   "Faux : les IgM sont synthétisées en premier.",
+   "Vrai : concomitante de la guérison."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont vraies concernant les IgM ?",
+  "options": [
+   "Leur présence signe un contact ancien avec le virus.",
+   "Elles persistent quelques semaines à quelques mois.",
+   "Elles persistent toute la vie.",
+   "Ce sont les premiers anticorps synthétisés lors de la primo-infection.",
+   "Elles témoignent d'une infection récente."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elles signent un contact récent.",
+   "Vrai : persistance de quelques semaines à quelques mois.",
+   "Faux : elles persistent quelques semaines à quelques mois.",
+   "Vrai : les IgM sont les premiers.",
+   "Vrai : les IgM signent une infection récente."
+  ]
+ },
+ {
+  "q": "Parmi les items suivants concernant les IgG, lesquels sont exacts ?",
+  "options": [
+   "Elles assurent une protection en cas de contact ultérieur avec le virus.",
+   "Elles persistent des années, voire toute la vie.",
+   "Elles disparaissent en quelques semaines.",
+   "Leur synthèse suit rapidement celle des IgM.",
+   "Ce sont les premiers anticorps de la primo-infection."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : protection en cas de contact ultérieur.",
+   "Vrai : persistance longue des IgG.",
+   "Faux : elles persistent des années.",
+   "Vrai : les IgG suivent rapidement les IgM.",
+   "Faux : les IgM sont les premiers."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions justes concernant la guérison des infections aiguës résolutives ?",
+  "options": [
+   "La guérison est impossible sans traitement antiviral.",
+   "Elle est concomitante de la synthèse des anticorps.",
+   "Le système immunitaire élimine le virus de l'organisme.",
+   "Une mémoire immunitaire s'installe, protégeant le plus souvent des réinfections.",
+   "Le virus persiste sous forme réplicative après la guérison."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le système immunitaire élimine le virus.",
+   "Vrai : concomitante de la synthèse des anticorps.",
+   "Vrai : élimination virale par le système immunitaire.",
+   "Vrai : mémoire immunitaire protectrice.",
+   "Faux : le virus est éliminé."
+  ]
+ },
+ {
+  "q": "Concernant l'infection aiguë résolutive, quelles assertions sont exactes ?",
+  "options": [
+   "Elle peut être symptomatique ou asymptomatique.",
+   "Elle est transitoire et limitée dans le temps.",
+   "C'est le mode évolutif le plus fréquent des infections virales.",
+   "Toute infection aiguë évolue vers la chronicité.",
+   "Son évolution peut être mortelle ou bénigne résolutive."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : symptomatique ou asymptomatique.",
+   "Vrai : transitoire et limitée dans le temps.",
+   "Vrai : le mode le plus fréquent.",
+   "Faux : la chronicité est un autre mode évolutif.",
+   "Vrai : évolution variable."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions ci-dessous sont exactes concernant l'infection chronique ?",
+  "options": [
+   "Les virus des hépatites B et C en sont des exemples.",
+   "Le virus persiste dans l'organisme sous forme réplicative.",
+   "C'est une persistance sous forme non réplicative.",
+   "Les virus des hépatites B et C sont toujours éliminés.",
+   "La fréquence du passage à la chronicité varie selon les virus."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : VHB et VHC.",
+   "Vrai : persistance sous forme réplicative.",
+   "Faux : la chronicité est une forme réplicative.",
+   "Faux : ils peuvent persister.",
+   "Vrai : fréquence variable selon les virus."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont justes concernant la latence virale ?",
+  "options": [
+   "Les antiviraux éradiquent le virus à l'état latent.",
+   "Elle fait suite à une primo-infection aiguë, symptomatique ou non.",
+   "C'est une persistance sous forme réplicative.",
+   "Le virus persiste définitivement dans l'organisme sous forme non réplicative.",
+   "Elle reste accessible aux défenses immunitaires."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : la latence est inaccessible aux antiviraux.",
+   "Vrai : primo-infection puis latence.",
+   "Faux : c'est une forme non réplicative.",
+   "Vrai : persistance définitive non réplicative.",
+   "Faux : la latence est inaccessible aux défenses immunitaires."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations justes concernant la latence des Herpesvirus ?",
+  "options": [
+   "Le génome viral persiste sous une forme non réplicative.",
+   "Des réactivations épisodiques sont possibles.",
+   "L'expression est restreinte à certains gènes, comme le HSV dans les neurones.",
+   "Une transformation en cycle lytique peut survenir.",
+   "Il y a une production continue de virions pendant la latence."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : génome non réplicatif.",
+   "Vrai : réactivation épisodique.",
+   "Vrai : expression restreinte, HSV dans les neurones.",
+   "Vrai : transformation possible en cycle lytique.",
+   "Faux : pas de production de virions."
+  ]
+ },
+ {
+  "q": "Concernant la réactivation virale, quelles sont les réponses exactes ?",
+  "options": [
+   "La réactivation ne s'accompagne d'aucune production virale.",
+   "La réactivation est impossible.",
+   "C'est la reprise d'un cycle lytique à partir d'un virus latent.",
+   "La réactivation du VZV donne le zona.",
+   "Le HSV peut ainsi se réactiver."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le cycle lytique produit des virions.",
+   "Faux : elle est possible.",
+   "Vrai : transformation en cycle lytique.",
+   "Vrai : le zona est la réactivation du VZV.",
+   "Vrai : le HSV est l'exemple du cours."
+  ]
+ },
+ {
+  "q": "Parmi les propositions ci-dessous concernant la latence et les antiviraux, lesquelles sont vraies ?",
+  "options": [
+   "La latence est sensible aux anticorps neutralisants.",
+   "La latence virale est inaccessible aux antiviraux.",
+   "Ils peuvent en revanche contrôler les réactivations.",
+   "Les antiviraux éliminent le virus latent des neurones.",
+   "Les antiviraux ne peuvent pas éradiquer le génome viral latent."
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : elle est inaccessible aux défenses immunitaires.",
+   "Vrai : inaccessible aux antiviraux.",
+   "Vrai : les antiviraux contrôlent les réactivations.",
+   "Faux : la latence est inaccessible aux antiviraux.",
+   "Vrai : le génome latent n'est pas éradiqué."
+  ]
+ },
+ {
+  "q": "Quelles assertions sont vraies concernant l'oncogenèse virale ?",
+  "options": [
+   "Tous les virus persistants sont oncogènes.",
+   "Elle peut compliquer une infection persistante.",
+   "L'EBV en est un exemple.",
+   "La transformation maligne fait suite à la survie cellulaire avec modifications.",
+   "La latence exclut tout risque de transformation maligne."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : l'oncogenèse est seulement possible.",
+   "Vrai : l'oncogenèse complique parfois la persistance.",
+   "Vrai : l'EBV est l'exemple du cours.",
+   "Vrai : survie avec modifications puis transformation.",
+   "Faux : la transformation maligne est possible."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont justes concernant les mécanismes d'échappement aux défenses de l'hôte ?",
+  "options": [
+   "Les variations génétiques et antigéniques : mutations du VIH et du VHC.",
+   "La latence virale avec expression restreinte à certains gènes, comme le HSV dans les neurones.",
+   "Les réassortiments génétiques, comme pour la grippe.",
+   "Les virus ne disposent d'aucun mécanisme d'échappement.",
+   "Les recombinaisons génétiques, comme pour les coronavirus."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : mutations du VIH et du VHC.",
+   "Vrai : latence du HSV dans les neurones.",
+   "Vrai : réassortiments de la grippe.",
+   "Faux : plusieurs mécanismes sont décrits.",
+   "Vrai : recombinaisons des coronavirus."
+  ]
+ },
+ {
+  "q": "Concernant l'échappement par les sites sanctuaires, quelles sont les affirmations exactes ?",
+  "options": [
+   "Tous les tissus sont également accessibles au système immunitaire.",
+   "L'HPV infecte les cellules de l'épiderme, peu accessibles au système immunitaire.",
+   "Le HSV persiste dans les neurones, à l'abri relatif des défenses.",
+   "L'infection de sites peu accessibles est un mécanisme d'échappement.",
+   "Ces sites expliquent en partie la persistance virale."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : certains sites sont peu accessibles.",
+   "Vrai : l'HPV est dans des sites peu accessibles.",
+   "Vrai : latence du HSV dans les neurones.",
+   "Vrai : c'est un mécanisme d'échappement décrit.",
+   "Vrai : les sites sanctuaires favorisent la persistance."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions correctes concernant l'interférence avec les cytokines ?",
+  "options": [
+   "Les virus n'interagissent jamais avec le système des cytokines.",
+   "Perturber les cytokines affaiblit la réponse antivirale.",
+   "Les cytokines des LT recrutent et activent les populations cellulaires.",
+   "C'est un mécanisme d'échappement aux défenses de l'hôte.",
+   "Certains virus interfèrent avec les fonctions des cytokines."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : certains interfèrent avec les cytokines.",
+   "Vrai : l'interférence affaiblit les défenses.",
+   "Vrai : les LT produisent des cytokines de recrutement.",
+   "Vrai : mécanisme d'échappement.",
+   "Vrai : interférence décrite dans le cours."
+  ]
+ },
+ {
+  "q": "Parmi ces propositions concernant la diminution des molécules de reconnaissance, lesquelles sont exactes ?",
+  "options": [
+   "Cela perturbe la reconnaissance des cellules infectées par les lymphocytes T.",
+   "La diminution des molécules HLA de classe I en est un exemple.",
+   "C'est un mécanisme d'échappement immunitaire.",
+   "Les virus augmentent toujours l'expression des molécules HLA.",
+   "Certains virus diminuent l'expression des molécules de reconnaissance à la surface cellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la reconnaissance par les LT est perturbée.",
+   "Vrai : exemple des molécules HLA de classe I.",
+   "Vrai : mécanisme d'échappement.",
+   "Faux : ils la diminuent.",
+   "Vrai : diminution décrite dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant le mimétisme moléculaire, quelles propositions sont vraies ?",
+  "options": [
+   "Le virus imite des structures de l'hôte pour échapper à la reconnaissance immune.",
+   "Il ne concerne que les bactéries.",
+   "C'est un mécanisme d'échappement des virus aux défenses de l'hôte.",
+   "Le mimétisme moléculaire renforce la réponse immunitaire antivirale.",
+   "Il s'ajoute aux autres mécanismes : latence, variations antigéniques, interférence avec les cytokines."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : principe du mimétisme moléculaire.",
+   "Faux : c'est un mécanisme viral décrit.",
+   "Vrai : mécanisme d'échappement décrit.",
+   "Faux : il permet d'y échapper.",
+   "Vrai : il complète les autres mécanismes."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont justes concernant les variations antigéniques et la vaccination ?",
+  "options": [
+   "Le réassortiment de la grippe renouvelle ses antigènes de surface.",
+   "Elles imposent d'actualiser régulièrement les vaccins antigrippaux.",
+   "Ces variations permettent d'échapper à l'immunité acquise.",
+   "Les variations antigéniques n'affectent pas la reconnaissance immune.",
+   "Les mutations du VIH et du VHC modifient leurs antigènes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le réassortiment modifie les antigènes.",
+   "Vrai : les vaccins doivent suivre les variations.",
+   "Vrai : échappement par variations antigéniques.",
+   "Faux : elles permettent d'y échapper.",
+   "Vrai : mutations = variations antigéniques."
+  ]
+ },
+ {
+  "q": "Lesquelles des affirmations suivantes sont exactes concernant les vaccins antiviraux ?",
+  "options": [
+   "Une couverture vaccinale mondiale systématique peut éradiquer un virus strictement humain.",
+   "L'éradication de la variole en est l'exemple historique.",
+   "Les vaccins sont sans effet sur les infections virales.",
+   "Leur développement est une application de la réponse immune spécifique.",
+   "Ils reposent sur la mémoire immunitaire et les anticorps protecteurs."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : éradication possible des virus strictement humains.",
+   "Vrai : la variole a été éradiquée par la vaccination.",
+   "Faux : ce sont une application majeure.",
+   "Vrai : application de la réponse immune spécifique.",
+   "Vrai : mémoire et anticorps protecteurs."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes au sujet de la séroprophylaxie ?",
+  "options": [
+   "Elle repose sur l'apport d'anticorps.",
+   "Elle est sans lien avec l'immunité humorale.",
+   "C'est une application de la réponse immune spécifique.",
+   "Elle ne concerne que les infections bactériennes.",
+   "Les anticorps anti-HBs préviennent la réinfection par le VHB."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la séroprophylaxie apporte des anticorps.",
+   "Faux : elle repose sur les anticorps.",
+   "Vrai : application de la réponse immune spécifique.",
+   "Faux : elle concerne les infections virales.",
+   "Vrai : les anti-HBs préviennent la réinfection."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la mémoire immunitaire ?",
+  "options": [
+   "Elle protège le plus souvent contre les réinfections.",
+   "Les variations antigéniques peuvent la contourner.",
+   "Elle n'existe pas après une infection virale.",
+   "Les IgG persistantes en sont le support humoral.",
+   "Elle s'installe après la guérison d'une infection aiguë résolutive."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : protection contre les réinfections.",
+   "Vrai : les variations permettent l'échappement.",
+   "Faux : elle s'installe après la guérison.",
+   "Vrai : les IgG persistent des années.",
+   "Vrai : mémoire après guérison."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic sérologique, quelles propositions sont exactes ?",
+  "options": [
+   "Les IgG signent une immunité ancienne et durable.",
+   "Les anticorps témoignent d'un contact avec le virus.",
+   "Les IgM signent une infection récente.",
+   "Le rôle des anticorps dans le diagnostic est une aide reconnue en virologie.",
+   "La sérologie détecte directement le génome viral."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les IgG persistent des années.",
+   "Vrai : les anticorps témoignent d'un contact.",
+   "Vrai : les IgM persistent quelques semaines à quelques mois.",
+   "Vrai : aide au diagnostic virologique.",
+   "Faux : elle détecte les anticorps."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont exactes concernant l'émergence virale ?",
+  "options": [
+   "Les virus animaux sont une source d'émergence virale.",
+   "La grippe et les coronavirus en sont des exemples.",
+   "L'adaptation du virus à l'homme suit ce franchissement.",
+   "L'émergence virale est impossible.",
+   "Elle implique le franchissement de la barrière d'espèce."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les virus animaux sont source d'émergence.",
+   "Vrai : influenza et coronavirus cités.",
+   "Vrai : émergence et adaptation chez l'homme.",
+   "Faux : elle est décrite dans le cours.",
+   "Vrai : franchissement de la barrière d'espèce."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la résistance des virus nus dans le milieu extérieur, lesquelles sont exactes ?",
+  "options": [
+   "Ils résistent au pH acide de l'estomac et aux sels biliaires.",
+   "Ils se transmettent par voie indirecte oro-fécale.",
+   "Les virus nus sont résistants dans le milieu extérieur.",
+   "Les entérovirus, le VHA, le VHE et les rotavirus en sont des exemples.",
+   "Les virus nus sont aussi fragiles que les virus enveloppés."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : résistance au pH acide et aux sels biliaires.",
+   "Vrai : transmission indirecte oro-fécale.",
+   "Vrai : les virus nus sont résistants.",
+   "Vrai : ce sont les exemples du cours.",
+   "Faux : les nus sont résistants, les enveloppés fragiles."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont exactes concernant la fragilité des virus enveloppés ?",
+  "options": [
+   "Leur transmission se fait par contacts rapprochés.",
+   "L'enveloppe est leur talon d'Achille.",
+   "Ils sont sensibles aux UV, à la chaleur, au pH acide et aux solvants des lipides.",
+   "Ils survivent longtemps dans l'environnement hydrique.",
+   "Ils sont peu résistants dans le milieu extérieur et le tube digestif."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : transmission par contacts rapprochés.",
+   "Vrai : fragilité, talon d'Achille des enveloppés.",
+   "Vrai : sensibilités décrites.",
+   "Faux : ils sont fragiles dans le milieu extérieur.",
+   "Vrai : peu ou pas résistants."
+  ]
+ },
+ {
+  "q": "Quelles sont les assertions exactes concernant le spectre clinique des infections virales ?",
+  "options": [
+   "Toutes les infections virales sont graves.",
+   "Des infections graves voire mortelles sont possibles.",
+   "Des infections chroniques avec complications au long cours existent.",
+   "Il va de l'infection asymptomatique à l'infection fatale.",
+   "Beaucoup d'infections virales sont asymptomatiques ou bénignes."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la majorité sont bénignes.",
+   "Vrai : infections graves possibles.",
+   "Vrai : infections chroniques décrites.",
+   "Vrai : large spectre d'expressions cliniques.",
+   "Vrai : la majorité sont asymptomatiques ou bénignes."
+  ]
+ },
+ {
+  "q": "Concernant la réaction inflammatoire excessive, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle illustre que les symptômes peuvent résulter de la réponse immune et non du virus lui-même.",
+   "La lyse des cellules infectées par les LT cytotoxiques peut donner des manifestations immunopathologiques.",
+   "Elle participe à la symptomatologie, avec la mort cellulaire secondaire à l'ECP.",
+   "Elle est toujours bénéfique pour l'hôte.",
+   "Elle peut accompagner la réponse de l'hôte à l'infection virale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : symptômes liés à la réponse de l'hôte.",
+   "Vrai : manifestations immunopathologiques.",
+   "Vrai : symptômes liés à l'ECP et à l'inflammation.",
+   "Faux : elle peut avoir un effet néfaste.",
+   "Vrai : réaction inflammatoire excessive décrite."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont vraies concernant les terrains à risque ?",
+  "options": [
+   "L'âge est un facteur lié à l'hôte.",
+   "La grossesse est un terrain particulier.",
+   "L'immunodépression aggrave l'expression des infections virales.",
+   "La malnutrition influence l'expression clinique.",
+   "Le terrain de l'hôte ne modifie jamais l'infection virale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'âge est un facteur lié à l'hôte.",
+   "Vrai : la grossesse est citée.",
+   "Vrai : l'immunodépression est un terrain à risque.",
+   "Vrai : la malnutrition est citée.",
+   "Faux : le terrain influence l'expression clinique."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants concernant la synthèse des protéines virales, lesquels sont exacts ?",
+  "options": [
+   "Les protéines tardives édifient la particule et sont produites en grande quantité.",
+   "Les protéines précoces régulent le cycle et sont produites en faible quantité.",
+   "Elle résulte du détournement de la machinerie cellulaire.",
+   "La cellule poursuit normalement ses propres synthèses pendant l'infection.",
+   "La synthèse des protéines cellulaires est interrompue ou inhibée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : protéines tardives structurales.",
+   "Vrai : protéines précoces non structurales.",
+   "Vrai : détournement de la machinerie cellulaire.",
+   "Faux : ses synthèses sont interrompues.",
+   "Vrai : interruption de la synthèse cellulaire."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sont exactes concernant la réplication du génome viral ?",
+  "options": [
+   "Elle se déroule sans aucune enzyme.",
+   "C'est l'un des deux grands buts du virus dans la cellule, avec la synthèse des ARNm.",
+   "Elle fait appel à l'ARN polymérase ARN-dépendante virale pour l'ARN.",
+   "Elle nécessite des enzymes virales et cellulaires pour l'ADN.",
+   "C'est une étape critique pour l'évolution des virus."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : des enzymes sont nécessaires.",
+   "Vrai : les deux buts du virus dans la cellule.",
+   "Vrai : polymérase virale pour l'ARN.",
+   "Vrai : enzymes virales et cellulaires pour l'ADN.",
+   "Vrai : étape critique de l'évolution."
+  ]
+ },
+ {
+  "q": "Quelles sont les réponses exactes concernant le cycle viral comme cible des antiviraux ?",
+  "options": [
+   "La réplication peut être inhibée en ciblant les polymérases virales.",
+   "Chaque étape du cycle est une cible potentielle des antiviraux.",
+   "L'attachement peut être bloqué par les anticorps neutralisants.",
+   "Le blocage d'une étape interrompt la production de nouveaux virions.",
+   "Aucun antiviral ne cible le cycle de multiplication virale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les polymérases sont des cibles.",
+   "Vrai : le cycle est la cible des antiviraux.",
+   "Vrai : blocage par les anticorps neutralisants.",
+   "Vrai : le cycle aboutit à la production de virions.",
+   "Faux : le cycle est la cible des antiviraux."
+  ]
+ },
+ {
+  "q": "Concernant l'ordre des étapes du cycle viral, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "L'assemblage précède la réplication du génome.",
+   "Fabrication des ARNm, synthèse des protéines et réplication du génome : les étapes centrales.",
+   "Assemblage, maturation et libération : les étapes tardives.",
+   "La décapsidation précède la synthèse des ARNm.",
+   "Attachement, pénétration puis décapsidation : les étapes précoces."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la réplication précède l'assemblage.",
+   "Vrai : ce sont les étapes centrales.",
+   "Vrai : ce sont les étapes tardives.",
+   "Vrai : le génome est libéré avant les synthèses.",
+   "Vrai : ce sont les étapes précoces."
+  ]
+ },
+ {
+  "q": "Quelles affirmations sont vraies concernant la nucléocapside ?",
+  "options": [
+   "Elle est libérée dans le cytoplasme après la pénétration.",
+   "Les microtubules participent à son transport.",
+   "Pour les virus à réplication nucléaire, elle est transportée vers les pores nucléaires.",
+   "Elle contient l'enveloppe virale.",
+   "Elle correspond à l'association du génome et de la capside."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : libération cytoplasmique.",
+   "Vrai : rôle des microtubules.",
+   "Vrai : transport vers les pores nucléaires.",
+   "Faux : l'enveloppe est acquise plus tard, au bourgeonnement.",
+   "Vrai : nucléocapside = génome + capside."
+  ]
+ },
+ {
+  "q": "Parmi les items suivants concernant l'accès au noyau lors de la mitose, lesquels sont exacts ?",
+  "options": [
+   "Les pores nucléaires constituent une autre voie d'accès.",
+   "Tous les virus nécessitent la mitose pour infecter la cellule.",
+   "Certains virus accèdent au noyau lors de la mitose.",
+   "La rupture de l'enveloppe nucléaire facilite cet accès.",
+   "La translocation des nucléocapsides est un mécanisme décrit dans le cours."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : transport vers les pores nucléaires.",
+   "Faux : d'autres voies existent.",
+   "Vrai : accès au noyau lors de la mitose.",
+   "Vrai : la mitose ouvre l'accès au noyau.",
+   "Vrai : translocation des nucléocapsides."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions justes concernant les polyprotéines virales ?",
+  "options": [
+   "Elles subissent un clivage post-traductionnel.",
+   "Ce clivage est assuré par des protéases virales ou cellulaires.",
+   "Les polyprotéines sont incorporées telles quelles dans le virion.",
+   "Il libère des protéines virales fonctionnelles.",
+   "Elles résultent de la traduction des ARNm viraux."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : clivage post-traductionnel.",
+   "Vrai : protéases virales ou cellulaires.",
+   "Faux : elles sont clivées avant.",
+   "Vrai : libération de protéines fonctionnelles.",
+   "Vrai : traduction des ARNm en polyprotéines."
+  ]
+ },
+ {
+  "q": "Concernant les glycoprotéines d'enveloppe, quelles assertions sont exactes ?",
+  "options": [
+   "Elles portent les sites d'attachement du virus.",
+   "Elles ne subissent aucune modification post-traductionnelle.",
+   "Elles ont un pouvoir infectieux et antigénique.",
+   "Elles sont la cible des anticorps neutralisants.",
+   "Elles sont glycosylées par ajout de résidus oligosaccharidiques."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : sites d'attachement.",
+   "Faux : la glycosylation est post-traductionnelle.",
+   "Vrai : pouvoir infectieux et antigénique.",
+   "Vrai : cibles des anticorps neutralisants.",
+   "Vrai : ajout de résidus oligosaccharidiques."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions ci-dessous sont exactes concernant le contage ?",
+  "options": [
+   "C'est la contamination par le virus.",
+   "Il correspond à l'apparition des premiers signes cliniques.",
+   "Tout contage aboutit à une infection symptomatique.",
+   "Il marque le début de l'incubation.",
+   "Il précède la diffusion du virus dans l'organisme."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : contage = contamination.",
+   "Faux : c'est la fin de l'incubation.",
+   "Faux : beaucoup d'infections sont asymptomatiques.",
+   "Vrai : l'incubation va du contage aux signes cliniques.",
+   "Vrai : contamination puis diffusion."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont justes concernant la virémie ?",
+  "options": [
+   "C'est la diffusion du virus par voie sanguine.",
+   "Elle est nécessaire quand l'organe cible est distant de la porte d'entrée.",
+   "Aucun virus ne diffuse par voie sanguine.",
+   "Elle allonge la durée d'incubation.",
+   "Elle précède l'atteinte de l'organe cible."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : diffusion sanguine du virus.",
+   "Vrai : diffusion nécessaire vers l'organe distant.",
+   "Faux : la diffusion sanguine est décrite.",
+   "Vrai : l'incubation longue nécessite une diffusion.",
+   "Vrai : diffusion puis atteinte de l'organe cible."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations justes concernant le virus, parasite intracellulaire obligatoire ?",
+  "options": [
+   "Son génome est simple, avec un seul type d'acide nucléique.",
+   "Il peut se répliquer sur un milieu de culture gélosé.",
+   "En dehors d'une cellule, sa réplication est impossible.",
+   "Il est dépourvu de système enzymatique de production d'énergie.",
+   "Il est dépourvu de système de synthèse protéique."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : un seul type d'acide nucléique.",
+   "Faux : la réplication exige une cellule vivante.",
+   "Vrai : réplication impossible hors cellule.",
+   "Vrai : pas de système énergétique propre.",
+   "Vrai : pas de synthèse protéique propre."
+  ]
+ },
+ {
+  "q": "Concernant le cycle complet de multiplication virale, quelles sont les réponses exactes ?",
+  "options": [
+   "Il va de l'attachement à la libération de nouveaux virions infectieux.",
+   "Sa durée est variable selon les virus.",
+   "Il se distingue du cycle abortif et du cycle incomplet latent.",
+   "Il aboutit à la production de particules virales infectieuses.",
+   "Il ne produit aucun virion."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : de l'attachement à la libération.",
+   "Vrai : durée variable.",
+   "Vrai : trois issues possibles du cycle.",
+   "Vrai : production de virions infectieux.",
+   "Faux : il produit des virions infectieux."
+  ]
+ }
+]

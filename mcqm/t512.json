@@ -1,0 +1,4434 @@
+[
+ {
+  "q": "Concernant la structure générale des virus influenza, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Leur capside est à symétrie icosaédrique",
+   "La particule est icosaédrique, de 80 à 120 nm de diamètre",
+   "Ce sont des virus nus à ADN double brin",
+   "Ce sont des virus enveloppés",
+   "Leur génome est un ARN monocaténaire"
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : capside à symétrie hélicoïdale.",
+   "Faux : particule sphérique à capside hélicoïdale.",
+   "Faux : ils sont enveloppés et leur génome est un ARN, pas un ADN double brin.",
+   "Vrai : les virus influenza sont enveloppés par une bicouche lipidique.",
+   "Vrai : le génome est un ARN simple brin."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le génome des virus influenza, lesquelles sont exactes ?",
+  "options": [
+   "Les virus A et B comportent 7 segments",
+   "Il s'agit d'un ARN monocaténaire",
+   "Le virus A comporte 7 segments et le virus C en comporte 8",
+   "Il est de polarité négative",
+   "Il est segmenté, ce qui explique la grande variabilité génétique"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : 8 segments pour A et B, 7 pour C.",
+   "Vrai : ARN simple brin.",
+   "Faux : c'est l'inverse, le virus C comporte 7 segments et les virus A et B 8.",
+   "Vrai : polarité négative.",
+   "Vrai : la segmentation favorise les réassortiments et la variabilité."
+  ]
+ },
+ {
+  "q": "À propos du virus influenza C, quelles affirmations sont exactes ?",
+  "options": [
+   "Son génome comporte 7 segments",
+   "Son réservoir est animal",
+   "Il possède 8 segments et deux types de spicules comme le virus A",
+   "Il ne porte qu'un seul type de spicule, l'hémagglutinine",
+   "Il est responsable d'épidémies hivernales"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : 7 segments pour le virus C.",
+   "Vrai : le réservoir du virus C est animal selon le cours.",
+   "Faux : 7 segments et un seul type de spicule pour le virus C.",
+   "Vrai : un seul type de spicule (HA), contrairement aux virus A et B.",
+   "Faux : cas sporadiques toute l'année."
+  ]
+ },
+ {
+  "q": "Relativement aux ribonucléoprotéines (RNP) des virus influenza, lesquelles sont exactes ?",
+  "options": [
+   "Les RNP portent les antigènes de surface HA et NA",
+   "La nucléoprotéine détermine le type viral A, B ou C",
+   "Chaque segment du génome est recouvert de molécules de nucléoprotéine",
+   "Les segments génomiques sont nus, sans protéine associée",
+   "Les RNP ont une structure hélicoïdale"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : HA et NA sont des spicules de l'enveloppe, pas des RNP.",
+   "Vrai : la nucléoprotéine (antigène interne) détermine le type A, B ou C.",
+   "Vrai : chaque segment est recouvert de nucléoprotéine.",
+   "Faux : les segments sont associés à la nucléoprotéine sous forme de RNP.",
+   "Vrai : les RNP sont de structure hélicoïdale."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet de l'enveloppe des virus influenza ?",
+  "options": [
+   "C'est une bicouche lipidique",
+   "Elle est hérissée de spicules glycoprotéiques",
+   "Elle dérive de la membrane nucléaire et résiste aux solvants organiques",
+   "Elle est solubilisée par les solvants organiques",
+   "Elle dérive de la membrane plasmique des cellules infectées"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : bicouche lipidique.",
+   "Vrai : les spicules HA et NA (ou HA seule pour le virus C) l'hérissent.",
+   "Faux : elle dérive de la membrane plasmique et est sensible aux solvants.",
+   "Vrai : les solvants organiques la solubilisent.",
+   "Vrai : elle provient de la membrane plasmique de la cellule infectée."
+  ]
+ },
+ {
+  "q": "Au sujet des spicules des virus influenza, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La neuraminidase permet la libération des virions hors de la cellule",
+   "Les virus A et B portent deux types de spicules : HA et NA",
+   "L'hémagglutinine assure la fixation du virus sur la cellule",
+   "Les virus A, B et C portent tous les deux types de spicules HA et NA",
+   "Le virus C ne porte qu'un seul type de spicule : l'hémagglutinine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la NA libère les virions lors du bourgeonnement.",
+   "Vrai : HA et NA pour les virus A et B.",
+   "Vrai : l'HA fixe le virus sur les cellules.",
+   "Faux : le virus C ne porte que l'HA.",
+   "Vrai : un seul type de spicule (HA) pour le virus C."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos de l'hémagglutinine (HA) ?",
+  "options": [
+   "Elle permet la libération des virions lors du bourgeonnement",
+   "Elle se lie aux lipides de la surface cellulaire",
+   "On en distingue les sous-types H1 à H9",
+   "Elle assure la fixation du virus sur les cellules",
+   "C'est une glycoprotéine de l'enveloppe virale"
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la libération des virions est le rôle de la neuraminidase.",
+   "Faux : elle se lie aux mucoprotéines (myxo = mucus).",
+   "Faux : H1 à H16 pour l'HA.",
+   "Vrai : rôle d'attachement du virus à la cellule.",
+   "Vrai : glycoprotéine membranaire en spicule."
+  ]
+ },
+ {
+  "q": "En ce qui concerne la neuraminidase (NA), lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle assure la fixation du virus sur les cellules cibles",
+   "On en distingue les sous-types N1 à N16",
+   "C'est une glycoprotéine de l'enveloppe virale",
+   "Elle intervient lors du bourgeonnement",
+   "Elle permet la libération des virions hors de la cellule"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la fixation est assurée par l'hémagglutinine.",
+   "Faux : N1 à N9.",
+   "Vrai : glycoprotéine membranaire en spicule.",
+   "Vrai : rôle au moment du bourgeonnement.",
+   "Vrai : elle libère les virions néoformés."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations relatives à la classification des virus de la grippe, lesquelles sont exactes ?",
+  "options": [
+   "Ils appartiennent à la famille des Orthomyxoviridae",
+   "Leur genre est Influenza virus",
+   "Ils appartiennent à la famille des Paramyxoviridae",
+   "Le virus A est subdivisé en sous-types selon la nucléoprotéine",
+   "On distingue trois espèces : les virus de la grippe A, B et C"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : famille Orthomyxoviridae.",
+   "Vrai : genre Influenza virus.",
+   "Faux : les Paramyxoviridae forment une autre famille (rougeole, VRS...).",
+   "Faux : selon HA et NA.",
+   "Vrai : espèces A, B et C."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la distinction entre type et sous-type viral ?",
+  "options": [
+   "La nucléoprotéine détermine le type viral A, B ou C",
+   "Les antigènes de surface HA et NA déterminent le sous-type viral",
+   "Le type viral est déterminé par la neuraminidase",
+   "Le sous-type viral est déterminé par la nucléoprotéine",
+   "La désignation H5N1 correspond à un sous-type du virus A"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : la nucléoprotéine (antigène interne) définit le type.",
+   "Vrai : HA et NA (antigènes de surface) définissent le sous-type.",
+   "Faux : la neuraminidase définit le sous-type, pas le type.",
+   "Faux : la nucléoprotéine définit le type, pas le sous-type.",
+   "Vrai : H5N1 désigne les sous-types H5 de l'HA et N1 de la NA."
+  ]
+ },
+ {
+  "q": "S'agissant de la nomenclature des souches grippales, lesquelles sont exactes ?",
+  "options": [
+   "Le sigle entre parenthèses précise les sous-types HA et NA",
+   "Le nom comporte l'origine géographique de la souche",
+   "Le nom comporte le numéro de la souche et l'année d'isolement",
+   "A/chicken/Shantou/423/2003 (H5N1) désigne une souche d'origine humaine",
+   "A/Singapore/1/57 (H2N2) désigne une souche de type A"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : (H2N2) = sous-types H2 et N2.",
+   "Vrai : Singapore = ville d'isolement.",
+   "Vrai : 1 = numéro de souche, 57 = année 1957.",
+   "Faux : « chicken » indique un hôte d'origine non humaine (poulet).",
+   "Vrai : la lettre initiale A indique le type."
+  ]
+ },
+ {
+  "q": "À propos de l'étymologie du nom « Orthomyxoviridae », lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le nom évoque la capacité du virus à se lier aux mucoprotéines de la surface cellulaire",
+   "C'est une famille de virus responsables d'infections respiratoires",
+   "« Ortho » signifie « vrai »",
+   "« Myxo » fait référence au mucus",
+   "« Myxo » signifie « muscle » en référence au tropisme musculaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : liaison aux mucoprotéines de la surface cellulaire.",
+   "Vrai : virus d'infections respiratoires.",
+   "Vrai : ortho = vrai.",
+   "Vrai : myxo = mucus.",
+   "Faux : myxo renvoie au mucus, pas au muscle."
+  ]
+ },
+ {
+  "q": "Concernant le mot « grippe », quelles affirmations sont exactes ?",
+  "options": [
+   "Le terme « Influenza di freddo » évoque l'influence du froid et des saisons",
+   "La grippe est une maladie d'apparition récente (21e siècle)",
+   "Il dérive du latin « greifen » qui signifie « saisir »",
+   "C'est une maladie limitée à l'Europe",
+   "Le mot « grippe » désigne une infection à transmission strictement féco-orale"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : influenza di freddo = influence du froid.",
+   "Faux : connue depuis l'Antiquité.",
+   "Vrai : du latin greifen = saisir.",
+   "Faux : maladie ubiquitaire.",
+   "Faux : la transmission est respiratoire, pas féco-orale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le caractère paradoxal de la grippe, lesquelles sont exactes ?",
+  "options": [
+   "Elle est le plus souvent bénigne au niveau individuel",
+   "Elle n'a aucun impact collectif",
+   "Elle est systématiquement mortelle à l'échelle individuelle",
+   "Elle est grave chez les sujets fragilisés",
+   "Elle constitue un fléau au niveau de la collectivité"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : guérison dans 95 % des cas.",
+   "Faux : c'est un fléau collectif.",
+   "Faux : elle est le plus souvent bénigne individuellement.",
+   "Vrai : immunodéprimés, insuffisants respiratoires, âgés, nouveau-nés, femmes enceintes.",
+   "Vrai : épidémies et pandémies à fort impact collectif."
+  ]
+ },
+ {
+  "q": "À propos des sujets fragilisés par la grippe, quelles affirmations sont exactes ?",
+  "options": [
+   "Les insuffisants respiratoires sont à risque",
+   "Les immunodéprimés sont à risque de formes graves",
+   "Les adultes jeunes en bonne santé sans comorbidité sont les plus à risque",
+   "Les sujets âgés et les nouveau-nés sont à risque",
+   "Les femmes enceintes ne sont pas à risque"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : l'insuffisance respiratoire est un facteur de gravité.",
+   "Vrai : l'immunodépression aggrave la grippe.",
+   "Faux : ce sont au contraire les sujets les moins à risque.",
+   "Vrai : âges extrêmes de la vie à risque.",
+   "Faux : elles font partie des sujets fragilisés."
+  ]
+ },
+ {
+  "q": "Relativement aux caractères physico-chimiques du virus de la grippe, lesquelles sont exactes ?",
+  "options": [
+   "Son enveloppe résiste aux solvants organiques",
+   "Il résiste à la chaleur et aux antiseptiques usuels",
+   "Il est sensible aux antiseptiques comme l'alcool et l'eau de Javel",
+   "Le virus est sensible à la chaleur",
+   "Il est sensible aux pH extrêmes"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : solubilisée par les solvants organiques.",
+   "Faux : c'est un virus fragile dans le milieu extérieur.",
+   "Vrai : alcool et eau de Javel sont efficaces.",
+   "Vrai : la chaleur l'inactive.",
+   "Vrai : les pH extrêmes le détruisent."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet de la résistance du virus grippal dans le milieu extérieur ?",
+  "options": [
+   "Il survit environ 7 jours à 20 °C",
+   "Il survit 35 jours à 4 °C dans les fientes",
+   "Il survit 60 jours dans l'eau",
+   "Il survit 105 jours dans les écoulements de fientes",
+   "Il est détruit en moins d'une heure à température ambiante sur surface dure"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 7 jours à 20 °C.",
+   "Vrai : 35 jours à 4 °C dans les fientes d'oiseaux.",
+   "Vrai : 60 jours dans l'eau.",
+   "Vrai : 105 jours dans les écoulements de fientes.",
+   "Faux : il survit 24 heures à température ambiante sur surface dure."
+  ]
+ },
+ {
+  "q": "Au sujet de la particule virale influenza observée en microscopie électronique, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La particule est sphérique",
+   "L'enveloppe est hérissée de spicules",
+   "Son diamètre est de 80 à 120 nm",
+   "On distingue la protéine de matrice M1 sous l'enveloppe",
+   "La particule est un bâtonnet rigide de 300 nm de long"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : particule sphérique.",
+   "Vrai : spicules HA et NA visibles.",
+   "Vrai : 80 à 120 nm de diamètre.",
+   "Vrai : la protéine de matrice M1 double l'enveloppe.",
+   "Faux : ni la forme ni la taille ne correspondent."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos de la protéine de matrice M1 ?",
+  "options": [
+   "C'est une protéine structurale du virus influenza",
+   "Elle se situe sous l'enveloppe virale",
+   "Elle forme les spicules de l'enveloppe",
+   "Elle participe à la réplication du génome viral",
+   "C'est une glycoprotéine de surface responsable de l'hémagglutination"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : protéine structurale interne.",
+   "Vrai : elle double l'enveloppe lipidique.",
+   "Faux : les spicules sont l'HA et la NA ; M1 est sous l'enveloppe.",
+   "Faux : protéine de structure située sous l'enveloppe.",
+   "Faux : l'hémagglutination est due à l'HA, glycoprotéine de surface."
+  ]
+ },
+ {
+  "q": "En ce qui concerne la protéine M2 du virus influenza, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est une protéine identique à la neuraminidase",
+   "C'est une protéine de la particule virale influenza",
+   "C'est la protéine qui détermine le type viral A, B ou C",
+   "C'est une protéine virale distincte de l'hémagglutinine",
+   "Elle figure sur le schéma de la particule aux côtés de M1, HA et NA"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : M2 est distincte de la NA.",
+   "Vrai : protéine du virus influenza.",
+   "Faux : le type viral est déterminé par la nucléoprotéine.",
+   "Vrai : distincte de l'HA.",
+   "Vrai : elle apparaît sur le schéma de la particule."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations relatives au génome segmenté, lesquelles sont exactes ?",
+  "options": [
+   "Le virus C a un génome en 8 segments",
+   "Elle permet le réassortiment génétique entre souches",
+   "Les virus A et B ont un génome en 8 segments",
+   "La segmentation est à l'origine de la grande variabilité génétique",
+   "La segmentation rend le génome totalement stable sans variation"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : 7 segments.",
+   "Vrai : échange de segments lors de co-infections.",
+   "Vrai : 8 segments pour A et B.",
+   "Vrai : la segmentation favorise la variabilité.",
+   "Faux : elle favorise au contraire les variations."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la multiplication du virus de la grippe dans la cellule ?",
+  "options": [
+   "Le virus de la grippe fait exception parmi les virus à ARN négatif",
+   "L'échange de segments génétiques a lieu lors de l'assemblage",
+   "Sa multiplication comporte une étape nucléaire",
+   "Le bourgeonnement se fait à travers la membrane cytoplasmique",
+   "Le bourgeonnement se fait à travers la membrane nucléaire comme les Herpesviridae"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : exception signalée parmi les virus à ARN de polarité négative.",
+   "Vrai : le réassortiment résulte d'échanges de segments à l'assemblage.",
+   "Vrai : multiplication nucléaire pour le virus influenza.",
+   "Vrai : bourgeonnement via la membrane cytoplasmique.",
+   "Faux : la membrane nucléaire concerne les Herpesviridae, pas les Orthomyxoviridae."
+  ]
+ },
+ {
+  "q": "S'agissant de la fréquence des mutations des virus à ARN comme celui de la grippe, lesquelles sont exactes ?",
+  "options": [
+   "Les génomes à ARN sont le plus souvent monocaténaires",
+   "Le génome des virus influenza est parfois segmenté",
+   "Ce taux élevé de mutations contribue à la variabilité antigénique",
+   "Les génomes à ARN sont caractérisés par un taux élevé de mutations",
+   "Les virus à ARN ne mutent jamais"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : surtout monocaténaires.",
+   "Vrai : segmenté chez les Orthomyxoviridae.",
+   "Vrai : les mutations alimentent le glissement antigénique.",
+   "Vrai : fréquence élevée des mutations.",
+   "Faux : ils mutent au contraire fréquemment."
+  ]
+ },
+ {
+  "q": "À propos des différences entre les virus influenza A, B et C, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le virus A a pour réservoir l'homme et l'animal",
+   "Le virus B a pour réservoir l'homme en majorité",
+   "Les virus A, B et C portent tous deux types de spicules",
+   "Le virus C a pour réservoir l'homme en majorité",
+   "Les trois virus ont un génome de 8 segments et deux types de spicules"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : homme et animal (aviaire) pour le virus A.",
+   "Vrai : homme en majorité pour le virus B.",
+   "Faux : le virus C ne porte que l'HA.",
+   "Faux : réservoir animal pour le virus C.",
+   "Faux : le virus C a 7 segments et un seul type de spicule."
+  ]
+ },
+ {
+  "q": "Concernant la capside des virus influenza, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle est à symétrie hélicoïdale",
+   "Elle est icosaédrique comme celle des adénovirus",
+   "Elle est formée de ribonucléoprotéines",
+   "La capside est nue, sans enveloppe autour",
+   "Chaque segment génomique est associé à la nucléoprotéine"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : symétrie hélicoïdale.",
+   "Faux : pas de symétrie icosaédrique ici.",
+   "Vrai : les RNP constituent la capside.",
+   "Faux : la capside est entourée d'une enveloppe lipidique.",
+   "Vrai : segment + nucléoprotéine = RNP."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le schéma général de la particule influenza, lesquelles sont exactes ?",
+  "options": [
+   "On y retrouve l'hémagglutinine en spicule",
+   "On y retrouve une capside icosaédrique",
+   "On y retrouve 8 ribonucléoprotéines pour les virus A et B",
+   "On y retrouve une capside icosaédrique nue sans enveloppe",
+   "On y retrouve la neuraminidase en spicule"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : spicules d'HA.",
+   "Faux : protéine de matrice M1 sous l'enveloppe ; capside hélicoïdale.",
+   "Vrai : 8 RNP correspondant aux 8 segments.",
+   "Faux : enveloppe présente et capside hélicoïdale.",
+   "Vrai : spicules de NA."
+  ]
+ },
+ {
+  "q": "Relativement au caractère émergent de la grippe, lesquelles sont exactes ?",
+  "options": [
+   "La grippe A H1N1 2009 a été la première pandémie du 21e siècle",
+   "La grande variabilité génétique du virus expose à l'émergence de nouveaux virus",
+   "La grippe aviaire à virus A H5N1 en est un exemple",
+   "Le virus de la grippe est génétiquement stable et sans risque d'émergence",
+   "La prévention repose sur un vaccin unique à vie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : pandémie H1N1 2009.",
+   "Vrai : variabilité = risque d'émergence.",
+   "Vrai : émergence du H5N1 en 1997.",
+   "Faux : c'est un virus à grande variabilité génétique.",
+   "Faux : vaccin annuel."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet de la taille et de la forme du virus influenza ?",
+  "options": [
+   "La particule mesure 20 à 30 nm comme les picornavirus",
+   "La particule est filamenteuse et rigide",
+   "C'est un virus de l'ordre du nanomètre, invisible au microscope optique",
+   "La particule mesure 80 à 120 nm de diamètre",
+   "La particule est sphérique"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : 20 à 30 nm correspond aux picornavirus, pas à influenza.",
+   "Faux : la particule décrite est sphérique.",
+   "Vrai : taille nanométrique, microscope électronique requis.",
+   "Vrai : 80 à 120 nm.",
+   "Vrai : forme sphérique."
+  ]
+ },
+ {
+  "q": "Concernant les deux glycoprotéines de surface des virus influenza A et B, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La nucléoprotéine détermine le sous-type viral",
+   "Ce sont elles qui déterminent le sous-type viral",
+   "La combinaison H5N1 désigne un sous-type du virus A",
+   "L'hémagglutinine (HA) existe sous les sous-types H1 à H16",
+   "La neuraminidase (NA) existe sous les sous-types N1 à N9"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la nucléoprotéine détermine le type A, B ou C.",
+   "Vrai : HA et NA = antigènes de sous-typage.",
+   "Vrai : H5N1 = HA de sous-type 5 et NA de sous-type 1.",
+   "Vrai : 16 sous-types d'HA.",
+   "Vrai : 9 sous-types de NA."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les rôles respectifs de HA et NA, lesquelles sont exactes ?",
+  "options": [
+   "L'HA permet la fixation du virus sur la cellule",
+   "La NA intervient lors du bourgeonnement",
+   "L'HA est responsable de l'hémagglutination des globules rouges",
+   "La NA permet la libération des virions hors de la cellule",
+   "L'HA libère les virions et la NA fixe le virus sur la cellule"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : attachement via l'HA.",
+   "Vrai : rôle de la NA au bourgeonnement.",
+   "Vrai : l'HA agglutine les hématies, base du test d'hémagglutination.",
+   "Vrai : libération via la NA.",
+   "Faux : les rôles sont inversés."
+  ]
+ },
+ {
+  "q": "À propos du spectre d'hôte des virus influenza A, quelles affirmations sont exactes ?",
+  "options": [
+   "Tous les sous-types H1 à H16 infectent couramment l'homme",
+   "Le virus A n'infecte que l'homme",
+   "Le réservoir naturel comprend les oiseaux",
+   "Jusqu'en 1997, seuls les virus H1, H2 et H3 infectaient l'homme",
+   "Au moins 16 sous-types HA et 9 sous-types NA existent dans la nature"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : seuls certains sous-types infectent l'homme.",
+   "Faux : le virus A infecte l'homme et l'animal.",
+   "Vrai : réservoir aviaire pour le virus A.",
+   "Vrai : seuls H1, H2, H3 étaient connus pour infecter l'homme avant 1997.",
+   "Vrai : 16 HA et 9 NA décrits dans la nature."
+  ]
+ },
+ {
+  "q": "Relativement aux inhibiteurs de la neuraminidase, lesquelles sont exactes ?",
+  "options": [
+   "L'amantadine est un inhibiteur de la neuraminidase",
+   "Le nouveau virus A H1N1 2009 y est résistant",
+   "Le zanamivir (Relenza) est un inhibiteur de la NA",
+   "L'oseltamivir (Tamiflu) est un inhibiteur de la NA",
+   "Ils bloquent la pénétration du virus dans la cellule"
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : l'amantadine bloque la pénétration du virus de type A.",
+   "Faux : il y est sensible.",
+   "Vrai : zanamivir = inhibiteur de la NA.",
+   "Vrai : oseltamivir = inhibiteur de la NA.",
+   "Faux : ils bloquent la libération des virions."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet de l'amantadine et de la rimantadine ?",
+  "options": [
+   "Elles bloquent la pénétration du virus dans la cellule",
+   "Le virus A H1N1 2009 y est résistant",
+   "Elles sont actives sur le virus de la grippe de type A",
+   "Ce sont des inhibiteurs de la neuraminidase",
+   "Elles sont actives sur le virus de la grippe de type B"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : blocage de la pénétration virale.",
+   "Vrai : le H1N1 2009 est résistant aux adamantanes.",
+   "Vrai : adamantanes = traitement du type A.",
+   "Faux : les inhibiteurs de la NA sont le zanamivir et l'oseltamivir.",
+   "Faux : pas d'activité sur le type B."
+  ]
+ },
+ {
+  "q": "Au sujet du test d'hémagglutination utilisé en diagnostic virologique, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il utilise des globules rouges de différentes espèces",
+   "Il détecte la multiplication virale en culture",
+   "Il repose sur la propriété hémagglutinante de la NA",
+   "Il permet le dosage des anticorps antitétaniques",
+   "Les globules rouges de coq, de cobaye et d'homme peuvent être utilisés"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : GR de différentes espèces.",
+   "Vrai : la multiplication virale est révélée par l'hémagglutination.",
+   "Faux : de l'HA.",
+   "Faux : aucun rapport avec le tétanos.",
+   "Vrai : coq, cobaye, homme cités dans le cours."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos du test d'inhibition de l'hémagglutination ?",
+  "options": [
+   "Il sert au diagnostic direct du paludisme",
+   "Il repose sur le blocage de la NA par des anticorps",
+   "Il utilise des sérums de référence spécifiques",
+   "Il sert à l'identification du virus isolé en culture",
+   "Il permet de distinguer les types, sous-types et variants"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : c'est un test de virologie grippale.",
+   "Faux : blocage de l'HA.",
+   "Vrai : sérums de référence spécifiques.",
+   "Vrai : identification après isolement.",
+   "Vrai : typage, sous-typage et identification des variants."
+  ]
+ },
+ {
+  "q": "En ce qui concerne la sérologie grippale par HAI, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est une technique de diagnostic direct sur prélèvement nasopharyngé",
+   "HAI signifie hémagglutination indirecte",
+   "Elle détecte les anticorps dirigés contre le virus",
+   "C'est une technique de diagnostic indirect",
+   "Elle détecte le génome viral par amplification"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : le diagnostic direct recherche le virus ou son génome.",
+   "Vrai : HAI = hémagglutination indirecte.",
+   "Vrai : mise en évidence des anticorps sériques.",
+   "Vrai : détection d'anticorps = diagnostic indirect.",
+   "Faux : l'amplification du génome relève de la RT-PCR."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations relatives aux variations des antigènes HA et NA, lesquelles sont exactes ?",
+  "options": [
+   "Le saut antigénique peut faire émerger un nouveau sous-type HA ou NA",
+   "Les mutations des gènes HA et NA sont l'un des mécanismes du saut antigénique",
+   "Les antigènes HA et NA sont totalement invariables",
+   "Le réassortiment génétique peut modifier les antigènes HA et NA",
+   "Le glissement antigénique touche les types A et B"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : émergence d'un virus nouveau (nouveaux HA/NA).",
+   "Vrai : les mutations sont l'un des trois mécanismes.",
+   "Faux : ce sont des antigènes très variables.",
+   "Vrai : le réassortiment échange des segments codant HA/NA.",
+   "Vrai : drift observé dans les types A et B."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le virus influenza C et ses spicules ?",
+  "options": [
+   "Il ne porte qu'un seul type de spicule",
+   "Ce spicule est l'hémagglutinine",
+   "Il porte deux types de spicules comme les virus A et B",
+   "Il ne possède pas de neuraminidase",
+   "Il ne peut donc pas être sous-typé en HxNy"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : un seul type de spicule.",
+   "Vrai : l'HA uniquement.",
+   "Faux : deux types de spicules = virus A et B.",
+   "Vrai : pas de NA chez le virus C.",
+   "Vrai : le sous-typage HxNy suppose HA et NA."
+  ]
+ },
+ {
+  "q": "S'agissant de la cible des antiviraux zanamivir et oseltamivir, lesquelles sont exactes ?",
+  "options": [
+   "Leur cible est la neuraminidase",
+   "Ils empêchent la libération des virions néoformés",
+   "L'oseltamivir est actif sur le virus A H1N1 saisonnier résistant",
+   "Le zanamivir est inactif sur le virus B",
+   "Leur cible est l'hémagglutinine"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : inhibiteurs de la NA.",
+   "Vrai : blocage de la dissémination virale.",
+   "Faux : inactif (résistant).",
+   "Faux : zanamivir sensible sur B (tableau des résistances).",
+   "Faux : l'HA n'est pas leur cible."
+  ]
+ },
+ {
+  "q": "À propos de la fixation du virus influenza sur la cellule, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle est assurée par l'hémagglutinine",
+   "L'amantadine bloque spécifiquement cette étape de fixation",
+   "Elle est assurée par la neuraminidase",
+   "Elle explique en partie le tropisme respiratoire du virus",
+   "Elle implique les mucoprotéines de la surface cellulaire"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'HA assure l'attachement.",
+   "Faux : l'amantadine bloque la pénétration, pas la fixation.",
+   "Faux : la NA libère les virions, elle ne les fixe pas.",
+   "Vrai : l'attachement aux cellules respiratoires conditionne le tropisme.",
+   "Vrai : liaison aux mucoprotéines (myxo = mucus)."
+  ]
+ },
+ {
+  "q": "Concernant la libération des virions néoformés, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle est assurée par la neuraminidase",
+   "Son blocage par le zanamivir limite la dissémination de l'infection",
+   "Elle a lieu lors du bourgeonnement à travers la membrane cytoplasmique",
+   "Elle est assurée par l'hémagglutinine",
+   "Son blocage par l'oseltamivir favorise la dissémination"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : rôle de la NA.",
+   "Vrai : le zanamivir bloque la NA.",
+   "Vrai : bourgeonnement via la membrane cytoplasmique.",
+   "Faux : l'HA assure la fixation.",
+   "Faux : il la limite."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les sous-types du virus A, lesquelles sont exactes ?",
+  "options": [
+   "H2N2 est le sous-type de la grippe asiatique de 1958-1959",
+   "H1N1 et H3N2 sont des sous-types ayant circulé chez l'homme",
+   "H5N1 est un sous-type du virus de la grippe B",
+   "H3N2 est le sous-type de la grippe asiatique de 1958",
+   "La formule H5N1 combine un sous-type d'HA et un sous-type de NA"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : grippe asiatique = H2N2.",
+   "Vrai : H1N1 et H3N2 ont causé des pandémies humaines.",
+   "Faux : H5N1 est un virus A.",
+   "Faux : H2N2 en 1958 ; H3N2 issu du réassortiment de 1968.",
+   "Vrai : H = HA, N = NA."
+  ]
+ },
+ {
+  "q": "Relativement à la nature biochimique de HA et NA, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des acides nucléiques",
+   "Ce sont des protéines de la capside interne",
+   "Elles sont enchâssées dans la bicouche lipidique de l'enveloppe",
+   "Ce sont des protéines membranaires en spicules",
+   "Ce sont des glycoprotéines"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : ce sont des protéines, pas des acides nucléiques.",
+   "Faux : la capside interne est formée de RNP.",
+   "Vrai : ancrées dans l'enveloppe.",
+   "Vrai : spicules membranaires.",
+   "Vrai : glycoprotéines virales."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet du rôle de l'HA dans le diagnostic ?",
+  "options": [
+   "L'HA est la cible de la sérologie par HAI",
+   "Les anticorps anti-HA bloquent l'hémagglutination",
+   "L'HA permet la détection de la multiplication virale par hémagglutination",
+   "La NA est responsable de l'hémagglutination des globules rouges",
+   "L'inhibition de l'hémagglutination identifie le virus grâce à des sérums de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'HAI détecte les anticorps anti-HA.",
+   "Vrai : principe de l'inhibition de l'hémagglutination.",
+   "Vrai : test d'hémagglutination en culture.",
+   "Faux : c'est l'HA qui agglutine les hématies.",
+   "Vrai : identification par sérums de référence."
+  ]
+ },
+ {
+  "q": "Au sujet des 16 sous-types d'HA et 9 sous-types de NA, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Seuls certains ont infecté l'homme (H1, H2, H3 jusqu'en 1997)",
+   "Ils sont tous présents dans la nature, notamment chez les oiseaux",
+   "Les 16 HA et 9 NA circulent tous chaque hiver chez l'homme",
+   "Le nombre de combinaisons théoriques HxNy est élevé",
+   "Le H5N1 aviaire a infecté l'homme à partir de 1997"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : H1, H2, H3 connus chez l'homme jusqu'en 1997.",
+   "Vrai : réservoir naturel aviaire très diversifié.",
+   "Faux : seuls quelques sous-types circulent chez l'homme.",
+   "Vrai : 16 x 9 combinaisons théoriques possibles.",
+   "Vrai : premiers cas humains de H5N1 en 1997 à Hong Kong."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos de la neuraminidase du virus C ?",
+  "options": [
+   "Le sous-typage HxNy s'applique au virus C",
+   "Le virus C possède une neuraminidase de sous-type N1 à N9",
+   "Il ne porte qu'un seul type de spicule",
+   "Le virus C ne possède pas de neuraminidase",
+   "Les inhibiteurs de la NA sont actifs sur le virus C"
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : pas de NA, pas de sous-typage HxNy.",
+   "Faux : le virus C n'a pas de NA.",
+   "Vrai : HA seule.",
+   "Vrai : pas de NA chez le virus C.",
+   "Faux : pas de NA sur le virus C, donc pas de cible."
+  ]
+ },
+ {
+  "q": "En ce qui concerne les antigènes de surface et l'immunité, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les variations de HA et NA permettent au virus d'échapper à l'immunité",
+   "Les antigènes de surface sont les antigènes internes du virus",
+   "Les anticorps anti-HA peuvent inhiber l'hémagglutination",
+   "Le glissement antigénique ne laisse aucune protection vaccinale",
+   "Le vaccin doit être revu chaque année à cause de ces variations"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les variations antigéniques contournent l'immunité.",
+   "Faux : l'antigène interne est la nucléoprotéine.",
+   "Vrai : principe du test d'inhibition.",
+   "Faux : protection partielle.",
+   "Vrai : revue annuelle du vaccin selon la situation épidémiologique."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations relatives à l'hémagglutinine, lesquelles sont exactes ?",
+  "options": [
+   "Elle est une enzyme qui libère les virions",
+   "Elle détermine, avec la NA, le type viral",
+   "Son inhibition par des sérums spécifiques identifie le virus",
+   "Son nom vient de sa capacité à agglutiner les globules rouges",
+   "Elle est utilisée pour détecter la multiplication virale en culture"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'enzyme de libération est la neuraminidase.",
+   "Faux : le sous-type ; le type est déterminé par la nucléoprotéine.",
+   "Vrai : test d'inhibition de l'hémagglutination.",
+   "Vrai : hémagglutinine = agglutine les hématies.",
+   "Vrai : test d'hémagglutination."
+  ]
+ },
+ {
+  "q": "Concernant le glissement antigénique (antigenic drift), lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Il est responsable des épidémies annuelles interpandémiques",
+   "Il s'observe dans les types A et B",
+   "Ce sont des variations progressives ou mineures",
+   "Il survient brutalement tous les 10 à 30 ans avec immunité inexistante",
+   "Il fait émerger un nouveau variant avec protection vaccinale partielle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : cause des épidémies annuelles interpandémiques.",
+   "Vrai : drift dans les types A et B.",
+   "Vrai : variations progressives/mineures.",
+   "Faux : c'est la définition du saut antigénique.",
+   "Vrai : nouveau variant, protection partielle par le vaccin."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le saut antigénique (antigenic shift), lesquelles sont exactes ?",
+  "options": [
+   "Il est responsable des épidémies annuelles interpandémiques",
+   "Il est rare, survenant tous les 10 à 30 ans",
+   "Ce sont des variations majeures et brutales",
+   "Il est responsable des pandémies",
+   "Il fait émerger un virus nouveau face auquel l'immunité est inexistante"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les épidémies annuelles relèvent du glissement antigénique.",
+   "Vrai : rare, tous les 10 à 30 ans.",
+   "Vrai : variations majeures, brutales.",
+   "Vrai : à l'origine des pandémies.",
+   "Vrai : virus nouveau, immunité inexistante."
+  ]
+ },
+ {
+  "q": "À propos des mécanismes du saut antigénique, quelles affirmations sont exactes ?",
+  "options": [
+   "Les mutations en sont l'un des mécanismes",
+   "Le réassortiment entre souches humaines uniquement en est le mécanisme",
+   "Le poulet sert de creuset au mélange pour le réassortiment",
+   "La transmission directe de souches animales en est l'un des mécanismes",
+   "Le saut antigénique résulte uniquement de la vaccination"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : mutations citées parmi les trois mécanismes.",
+   "Faux : entre souches humaines et animales.",
+   "Faux : le porc est le creuset.",
+   "Vrai : transmission directe de souches animales.",
+   "Faux : la vaccination n'est pas un mécanisme de saut antigénique."
+  ]
+ },
+ {
+  "q": "Relativement au réassortiment génétique de 1968, lesquelles sont exactes ?",
+  "options": [
+   "Il a résulté d'un réassortiment entre une souche aviaire H3Nx et le virus humain H2N2",
+   "Il s'agit d'une simple mutation ponctuelle de l'hémagglutinine",
+   "Il a donné naissance au virus A H3N2",
+   "Le porc a servi de creuset au mélange des deux virus",
+   "Il s'agit d'une simple mutation ponctuelle"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : souche aviaire H3Nx x virus humain H2N2 en circulation.",
+   "Faux : c'est un réassortiment, pas une mutation ponctuelle.",
+   "Vrai : émergence du H3N2 en 1968.",
+   "Vrai : le porc, creuset du réassortiment.",
+   "Faux : échange de segments génétiques."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet du réassortiment génétique ?",
+  "options": [
+   "Il a été illustré par l'émergence du H2N2 en 1968",
+   "Il peut survenir lors de la co-infection d'une cellule par deux souches",
+   "Il correspond à un échange de segments génétiques lors de l'assemblage",
+   "Il est impossible chez les virus à génome segmenté",
+   "Il concerne les virus à génome segmenté comme les Orthomyxoviridae"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : H3N2 en 1968.",
+   "Vrai : co-infection d'une même cellule par deux souches.",
+   "Vrai : échange de segments à l'assemblage.",
+   "Faux : il est au contraire caractéristique des génomes segmentés.",
+   "Vrai : génome segmenté = support du réassortiment."
+  ]
+ },
+ {
+  "q": "Au sujet des différences entre glissement et saut antigéniques, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le saut est rare (10 à 30 ans), le glissement est annuel",
+   "Le glissement est progressif, le saut est brutal",
+   "Le glissement et le saut ont exactement les mêmes conséquences épidémiologiques",
+   "Le glissement cause des épidémies annuelles, le saut des pandémies",
+   "Le glissement laisse une protection vaccinale partielle, le saut aucune immunité"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : fréquences très différentes.",
+   "Vrai : progressif vs brutal.",
+   "Faux : leurs conséquences sont très différentes.",
+   "Vrai : épidémies interpandémiques vs pandémies.",
+   "Vrai : protection partielle vs immunité inexistante."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos du glissement antigénique et du vaccin ?",
+  "options": [
+   "Le vaccin est revu annuellement en fonction de la situation épidémiologique",
+   "Le glissement antigénique rend toute vaccination inutile",
+   "La protection conférée par le vaccin est partielle face à ces variants",
+   "Le vaccin contient des souches A H1N1, A H3N2 et une souche B",
+   "Le glissement antigénique fait émerger de nouveaux variants"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : revue annuelle du vaccin.",
+   "Faux : la protection partielle justifie la revaccination annuelle.",
+   "Vrai : protection partielle.",
+   "Vrai : composition du vaccin inactivé.",
+   "Vrai : émergence de nouveaux variants."
+  ]
+ },
+ {
+  "q": "En ce qui concerne les pandémies grippales, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles résultent d'un saut antigénique",
+   "Elles sont dues au virus A",
+   "Elles résultent d'un glissement antigénique annuel",
+   "Elles restent localisées avec une faible mortalité",
+   "Elles surviennent chaque année"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : le shift est responsable des pandémies.",
+   "Vrai : pandémies = virus A.",
+   "Faux : le drift cause les épidémies interpandémiques.",
+   "Faux : totalité du globe en un temps court, forte mortalité.",
+   "Faux : tous les 10 à 30 ans."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations relatives aux épidémies interpandémiques, lesquelles sont exactes ?",
+  "options": [
+   "Elles surviennent en hiver durant les périodes inter-pandémiques",
+   "Elles sont décennales",
+   "Elles résultent d'un saut antigénique avec immunité inexistante",
+   "Elles concernent les virus A et B",
+   "Elles résultent du glissement antigénique"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : hiver, périodes inter-pandémiques.",
+   "Faux : annuelles.",
+   "Faux : le shift cause les pandémies.",
+   "Vrai : virus A et B.",
+   "Vrai : drift = épidémies annuelles."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les trois mécanismes du saut antigénique ?",
+  "options": [
+   "La transmission directe de souches animales à l'homme",
+   "Le réassortiment génétique entre souches humaines et souches animales",
+   "L'hygiène des mains",
+   "La vaccination annuelle",
+   "Les mutations"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : deuxième mécanisme cité.",
+   "Vrai : troisième mécanisme cité.",
+   "Faux : mesure d'hygiène, pas mécanisme de variation.",
+   "Faux : la vaccination est une mesure de prévention.",
+   "Vrai : premier mécanisme cité."
+  ]
+ },
+ {
+  "q": "S'agissant du rôle du porc dans l'émergence de nouveaux virus grippaux, lesquelles sont exactes ?",
+  "options": [
+   "Le réassortiment de 1968 a impliqué le porc",
+   "Le porc peut être co-infecté par des souches aviaires et humaines",
+   "La grippe A H1N1 2009 est d'origine aviaire",
+   "Le porc sert de creuset au mélange pour le réassortiment",
+   "Le porc est insensible à tout virus influenza"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : exemple du H3N2 1968.",
+   "Vrai : réceptivité aux deux types de souches.",
+   "Faux : d'origine porcine.",
+   "Vrai : creuset du mélange.",
+   "Faux : le porc est au contraire un hôte important."
+  ]
+ },
+ {
+  "q": "À propos de la grippe A H1N1 2009, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une grippe d'origine porcine",
+   "Elle s'est transmise du porc à l'homme par voie respiratoire",
+   "C'est une grippe aviaire à virus H5N1",
+   "Elle s'est ensuite transmise d'homme à homme",
+   "C'est la première pandémie du 21e siècle"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : grippe porcine.",
+   "Vrai : transmission porc-homme respiratoire.",
+   "Faux : la grippe aviaire est le H5N1.",
+   "Vrai : transmission interhumaine par gouttelettes.",
+   "Vrai : première pandémie du 21e siècle."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution antigénique des virus influenza, quelles affirmations sont exactes ?",
+  "options": [
+   "On distingue le glissement et le saut antigéniques",
+   "L'évolution se poursuit, d'où la formule « après H?N? »",
+   "Le glissement est progressif et annuel",
+   "Le saut est brutal et pandémique",
+   "L'évolution antigénique des virus influenza est figée depuis 1968"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : deux types de variations.",
+   "Vrai : émergence continue de nouveaux virus.",
+   "Vrai : drift progressif annuel.",
+   "Vrai : shift brutal pandémique.",
+   "Faux : l'évolution est continue."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la variabilité génétique du virus de la grippe, lesquelles sont exactes ?",
+  "options": [
+   "Le taux élevé de mutations des ARN favorise les variations",
+   "Elle rend la revue annuelle du vaccin inutile",
+   "Le génome segmenté favorise les réassortiments",
+   "Cette variabilité rend la grippe prévisible",
+   "Elle rend le virus totalement prévisible"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : mutations fréquentes des ARN.",
+   "Faux : elle l'impose.",
+   "Vrai : segmentation = réassortiment.",
+   "Faux : caractère émergent, imprévisible.",
+   "Faux : elle le rend au contraire imprévisible."
+  ]
+ },
+ {
+  "q": "Relativement aux variants issus du glissement antigénique, lesquelles sont exactes ?",
+  "options": [
+   "Le vaccin confère une protection partielle contre eux",
+   "Ils résultent de variations brutales",
+   "Ce sont de nouveaux variants des types A et B",
+   "Ils apparaissent brutalement avec une immunité totalement inexistante",
+   "Ils sont responsables des épidémies hivernales annuelles"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : protection partielle.",
+   "Faux : variations progressives ou mineures.",
+   "Vrai : nouveaux variants A et B.",
+   "Faux : c'est la description du saut antigénique.",
+   "Vrai : épidémies annuelles interpandémiques."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet du virus nouveau issu d'un saut antigénique ?",
+  "options": [
+   "L'immunité de la population est inexistante face à lui",
+   "Il peut provoquer une pandémie",
+   "Il peut résulter d'une vaccination",
+   "Il est identique aux souches circulant les années précédentes",
+   "Il peut résulter d'une transmission directe d'une souche animale"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : immunité inexistante.",
+   "Vrai : potentiel pandémique.",
+   "Faux : transmission directe animale ou réassortiment.",
+   "Faux : c'est un virus nouveau.",
+   "Vrai : transmission directe de souche animale."
+  ]
+ },
+ {
+  "q": "Au sujet de la grippe aviaire à H5N1 comme exemple d'émergence, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le réservoir est constitué d'oiseaux sauvages et domestiques",
+   "Les premiers cas humains ont été décrits en 1997 à Hong Kong",
+   "La transmission à l'homme se fait par contact direct avec un oiseau malade",
+   "1,5 million de poules ont été abattues en 1997",
+   "Le H5N1 se transmet facilement d'homme à homme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : oiseaux sauvages et domestiques.",
+   "Vrai : 1997, Hong Kong.",
+   "Vrai : contact direct avec volaille malade.",
+   "Vrai : abattage massif de 1997.",
+   "Faux : pas de transmission interhumaine."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos des mutations comme mécanisme de variation ?",
+  "options": [
+   "Les mutations sont impossibles chez les virus à ARN",
+   "Les virus à ARN ont un taux élevé de mutations",
+   "Les mutations des gènes HA et NA modifient les antigènes de surface",
+   "Les mutations sont l'un des trois mécanismes du saut antigénique",
+   "Le glissement antigénique repose sur des variations progressives"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : elles sont au contraire fréquentes.",
+   "Vrai : taux élevé de mutations des ARN.",
+   "Vrai : modification des antigènes HA/NA.",
+   "Vrai : mécanisme cité du shift.",
+   "Vrai : variations progressives/mineures."
+  ]
+ },
+ {
+  "q": "En ce qui concerne la transmission directe de souches animales, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le H5N1 aviaire s'est transmis directement de la volaille à l'homme",
+   "Elle ne peut pas faire émerger de virus nouveau",
+   "C'est l'un des mécanismes du saut antigénique",
+   "Le H1N1 2009 s'est transmis directement de l'oiseau à l'homme",
+   "Elle ne concerne que les virus à ADN"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : contact direct avec oiseau malade.",
+   "Faux : émergence d'un virus nouveau sans immunité préexistante.",
+   "Vrai : mécanisme du shift.",
+   "Faux : du porc à l'homme.",
+   "Faux : elle concerne les virus influenza à ARN."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations relatives au « creuset » du réassortiment, lesquelles sont exactes ?",
+  "options": [
+   "Le porc sert de creuset au mélange des souches",
+   "Le poulet est le seul creuset possible du réassortiment",
+   "Le creuset permet le mélange d'une souche aviaire et d'une souche humaine",
+   "Le réassortiment de 1968 a utilisé le porc comme creuset",
+   "Le virus résultant est identique à une des souches parentales"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le porc, creuset du mélange.",
+   "Faux : le cours cite le porc comme creuset.",
+   "Vrai : mélange aviaire x humain.",
+   "Vrai : exemple historique de 1968.",
+   "Faux : il combine des segments des deux souches."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'émergence du virus A H3N2 ?",
+  "options": [
+   "Elle résulte d'un réassortiment entre une souche aviaire H3Nx et le virus humain H2N2",
+   "Elle a suivi la grippe asiatique à H2N2",
+   "Elle résulte d'un simple glissement antigénique annuel",
+   "Elle date de 1968",
+   "Elle a provoqué la grippe asiatique"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : réassortiment aviaire x humain.",
+   "Vrai : après le H2N2 de 1958-1959.",
+   "Faux : c'est un saut antigénique par réassortiment.",
+   "Vrai : 1968.",
+   "Faux : la grippe de Hong Kong."
+  ]
+ },
+ {
+  "q": "S'agissant des conséquences épidémiologiques du saut antigénique, lesquelles sont exactes ?",
+  "options": [
+   "Protection vaccinale totale immédiate",
+   "Immunité inexistante dans la population",
+   "Émergence d'un virus nouveau",
+   "Risque de pandémie",
+   "Forte mortalité possible en un temps court à l'échelle du globe"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : aucun vaccin préexistant n'est efficace.",
+   "Vrai : pas d'immunité préexistante.",
+   "Vrai : virus nouveau.",
+   "Vrai : potentiel pandémique.",
+   "Vrai : définition de la pandémie."
+  ]
+ },
+ {
+  "q": "À propos du glissement antigénique, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Il explique les épidémies hivernales interpandémiques",
+   "Il s'observe dans les types A et B mais pas dans le type C",
+   "Il s'agit en anglais d'« antigenic drift »",
+   "Il s'agit en anglais d'« antigenic shift »",
+   "Il impose la surveillance épidémiologique et la revue annuelle du vaccin"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : épidémies annuelles.",
+   "Vrai : types A et B selon le cours.",
+   "Vrai : antigenic drift.",
+   "Faux : shift = saut antigénique.",
+   "Vrai : surveillance et adaptation vaccinale."
+  ]
+ },
+ {
+  "q": "Concernant le saut antigénique, quelles affirmations sont exactes ?",
+  "options": [
+   "Il est responsable des épidémies annuelles",
+   "Il est rare, tous les 10 à 30 ans",
+   "Il est annuel et bénin",
+   "Il s'agit en anglais d'« antigenic shift »",
+   "Il fait émerger un variant avec protection vaccinale partielle"
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : responsable des pandémies.",
+   "Vrai : rare, 10 à 30 ans.",
+   "Faux : annuel et bénin décrit plutôt le drift.",
+   "Vrai : antigenic shift.",
+   "Faux : virus nouveau, immunité inexistante (saut, pas glissement)."
+  ]
+ },
+ {
+  "q": "Concernant le réservoir des virus influenza, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le virus B a pour réservoir l'homme en majorité",
+   "Le virus C a pour réservoir l'homme",
+   "Le virus A a pour réservoir l'homme et l'animal",
+   "Le réservoir animal du virus A est principalement aviaire",
+   "Le virus B a pour réservoir exclusif les oiseaux migrateurs"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : homme en majorité pour le virus B.",
+   "Faux : réservoir animal.",
+   "Vrai : homme et animal pour le virus A.",
+   "Vrai : réservoir aviaire (oiseaux sauvages et domestiques).",
+   "Faux : le virus B est essentiellement humain."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la transmission de la grippe, lesquelles sont exactes ?",
+  "options": [
+   "La transmission se fait par voie féco-orale via l'eau contaminée",
+   "La transmission se fait par voie respiratoire",
+   "La toux et les éternuements disséminent le virus en aérosols",
+   "Le contact direct intime transmet la maladie",
+   "La transmission est réduite dans les lieux clos et confinés"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : pas de transmission féco-orale pour la grippe.",
+   "Vrai : voie respiratoire.",
+   "Vrai : toux, éternuements, aérosols.",
+   "Vrai : contact direct intime.",
+   "Faux : favorisée."
+  ]
+ },
+ {
+  "q": "À propos des lieux favorisant la transmission grippale, quelles affirmations sont exactes ?",
+  "options": [
+   "Les collectivités comme les écoles favorisent la transmission",
+   "Les lieux clos et confinés augmentent la transmission",
+   "Les grands espaces ouverts et ventilés sont les principaux lieux de transmission",
+   "Les transports en commun favorisent la transmission",
+   "Les casernes sont des lieux à risque"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : écoles citées.",
+   "Vrai : lieux clos et confinés.",
+   "Faux : ce sont les lieux clos qui favorisent la transmission.",
+   "Vrai : transports en commun cités.",
+   "Vrai : casernes citées."
+  ]
+ },
+ {
+  "q": "Relativement aux trois formes épidémiques de la grippe, lesquelles sont exactes ?",
+  "options": [
+   "Les pandémies concernent le virus A tous les 10 à 30 ans",
+   "Les épidémies surviennent durant les périodes inter-pandémiques",
+   "Les cas sporadiques concernent les virus B et C toute l'année",
+   "Les pandémies concernent le virus C tous les 5 ans",
+   "Les épidémies concernent les virus A et B en hiver"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : A, 10 à 30 ans.",
+   "Vrai : périodes inter-pandémiques.",
+   "Vrai : B et C, toute l'année.",
+   "Faux : pandémies = virus A, 10 à 30 ans.",
+   "Vrai : A et B, hiver."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet des cas sporadiques de grippe ?",
+  "options": [
+   "Ils surviennent toute l'année",
+   "Ils sont dus exclusivement au virus A",
+   "Ils ne surviennent qu'en hiver",
+   "Ils sont dus aux virus B et C",
+   "Ils ne prennent pas un caractère épidémique hivernal"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : toute l'année.",
+   "Faux : le virus A donne épidémies et pandémies.",
+   "Faux : toute l'année.",
+   "Vrai : virus B et C.",
+   "Vrai : caractère sporadique, non épidémique."
+  ]
+ },
+ {
+  "q": "Au sujet des épidémies de grippe, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elles sont dues aux virus A et B",
+   "Elles résultent du saut antigénique",
+   "Elles sont dues au virus C",
+   "Elles surviennent en hiver",
+   "Elles surviennent durant les pandémies"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : virus A et B.",
+   "Faux : du glissement antigénique.",
+   "Faux : le virus C donne des cas sporadiques.",
+   "Vrai : saison hivernale.",
+   "Faux : durant les périodes inter-pandémiques."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos des pandémies grippales ?",
+  "options": [
+   "Elles sont dues au virus A",
+   "Elles sont dues au virus B",
+   "Elles s'accompagnent d'une faible mortalité",
+   "Elles surviennent tous les 10 à 30 ans",
+   "Elles atteignent la totalité du globe en un temps court"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : virus A uniquement.",
+   "Faux : le virus B ne donne pas de pandémies.",
+   "Faux : forte mortalité.",
+   "Vrai : 10 à 30 ans.",
+   "Vrai : extension mondiale rapide."
+  ]
+ },
+ {
+  "q": "En ce qui concerne la grippe aviaire à H5N1, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "On l'appelle aussi « grippe du poulet »",
+   "Elle se transmet d'homme à homme",
+   "La transmission à l'homme se fait par voie respiratoire lors d'un contact direct avec un oiseau malade",
+   "Le réservoir est constitué d'oiseaux sauvages et domestiques",
+   "Elle se transmet facilement d'homme à homme par aérosols"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : grippe du poulet.",
+   "Faux : non transmise d'homme à homme.",
+   "Vrai : contact direct avec oiseau malade.",
+   "Vrai : oiseaux sauvages et domestiques.",
+   "Faux : non transmise d'homme à homme."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations relatives à la grippe A H1N1 2009, lesquelles sont exactes ?",
+  "options": [
+   "La transmission d'homme à homme se fait par gouttelettes de salive",
+   "La transmission du porc à l'homme se fait par voie respiratoire",
+   "La transmission se fait par voie sexuelle",
+   "Les gouttelettes peuvent se déposer sur les mains et les surfaces",
+   "Manger du porc ne présente pas de risque car la cuisson détruit le virus"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : gouttelettes de salive.",
+   "Vrai : porc-homme par voie respiratoire.",
+   "Faux : transmission respiratoire.",
+   "Vrai : mains, surfaces ou air.",
+   "Vrai : la cuisson détruit le virus."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la saisonnalité de la grippe ?",
+  "options": [
+   "Les épidémies surviennent en hiver",
+   "Les cas sporadiques à virus B et C surviennent toute l'année",
+   "C'est une maladie sous l'influence du froid et des saisons",
+   "Le terme « Influenza di freddo » évoque cette influence du froid",
+   "Les épidémies surviennent exclusivement en été"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : épidémies hivernales.",
+   "Vrai : B et C toute l'année.",
+   "Vrai : influence du froid et des saisons.",
+   "Vrai : influenza di freddo.",
+   "Faux : les épidémies sont hivernales."
+  ]
+ },
+ {
+  "q": "S'agissant du caractère ubiquitaire de la grippe, lesquelles sont exactes ?",
+  "options": [
+   "La grippe est une maladie ubiquitaire",
+   "Elle est limitée à un seul continent",
+   "Elle ne touche que l'homme",
+   "Elle n'a provoqué aucune pandémie grave",
+   "Elle est connue depuis l'Antiquité"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Vrai : présente partout.",
+   "Faux : maladie ubiquitaire.",
+   "Faux : l'homme et l'animal.",
+   "Faux : nombreuses épidémies et pandémies parfois graves.",
+   "Vrai : connue depuis l'Antiquité."
+  ]
+ },
+ {
+  "q": "À propos de la transmission du virus H5N1 à l'homme, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les cas humains décrits sont liés à la volaille",
+   "Elle se transmet d'homme à homme",
+   "Elle se fait par consommation de volaille bien cuite",
+   "Elle nécessite un contact direct avec un oiseau malade",
+   "Elle se fait par voie respiratoire"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : lien avec la volaille.",
+   "Faux : non transmise d'homme à homme.",
+   "Faux : la cuisson détruit le virus.",
+   "Vrai : contact direct avec oiseau malade.",
+   "Vrai : voie respiratoire."
+  ]
+ },
+ {
+  "q": "Concernant les premiers cas humains de grippe aviaire H5N1, quelles affirmations sont exactes ?",
+  "options": [
+   "Ils ont été décrits en 2009 au Mexique",
+   "1,5 million de poules ont été abattues",
+   "Ils ont été décrits en 1997 à Hong Kong",
+   "Ils étaient liés à un contact avec le porc",
+   "18 cas humains ont été rapportés dont 5 morts"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : 2009 correspond au H1N1 porcin.",
+   "Vrai : 1,5 million de poules abattues.",
+   "Vrai : 1997, Hong Kong.",
+   "Faux : liés à la volaille.",
+   "Vrai : 18 cas dont 5 décès."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la grippe dans les collectivités, lesquelles sont exactes ?",
+  "options": [
+   "Les écoles sont des lieux favorisant la transmission",
+   "Les casernes sont des lieux favorisant la transmission",
+   "Les lieux clos et confinés augmentent le risque",
+   "Les transports en commun favorisent la diffusion du virus",
+   "L'isolement des malades n'a aucun intérêt préventif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : écoles citées.",
+   "Vrai : casernes citées.",
+   "Vrai : lieux clos et confinés.",
+   "Vrai : transports en commun cités.",
+   "Faux : l'isolement des malades est une mesure de prévention."
+  ]
+ },
+ {
+  "q": "Relativement à la diffusion mondiale de la grippe, lesquelles sont exactes ?",
+  "options": [
+   "Les épidémies annuelles touchent de nombreux pays chaque hiver",
+   "Les pandémies atteignent la totalité du globe en un temps court",
+   "La grippe est une maladie ubiquitaire",
+   "La grippe reste confinée à son foyer d'émergence",
+   "La surveillance épidémiologique justifie le diagnostic virologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : épidémies hivernales annuelles.",
+   "Vrai : définition de la pandémie.",
+   "Vrai : ubiquitaire.",
+   "Faux : diffusion mondiale.",
+   "Vrai : indication du diagnostic virologique."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet du spectre d'hôte du virus A ?",
+  "options": [
+   "Seuls 3 sous-types HA et 2 sous-types NA existent dans la nature",
+   "Le virus A n'infecte que l'homme",
+   "Les oiseaux sont un réservoir du virus A",
+   "Le porc ne peut pas être infecté par les virus influenza",
+   "L'homme est un hôte du virus A"
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : au moins 16 HA et 9 NA.",
+   "Faux : homme et animal.",
+   "Vrai : réservoir aviaire.",
+   "Faux : il peut être infecté et sert de creuset.",
+   "Vrai : homme = hôte."
+  ]
+ },
+ {
+  "q": "Au sujet de la grippe porcine A H1N1 2009, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La transmission interhumaine se fait par voie respiratoire",
+   "Le porc est à l'origine de l'émergence",
+   "Le virus est sensible à l'amantadine",
+   "C'est la première pandémie du 21e siècle",
+   "Le virus était résistant aux inhibiteurs de la NA"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : gouttelettes respiratoires.",
+   "Vrai : grippe porcine.",
+   "Faux : résistant à l'amantadine et à la rimantadine.",
+   "Vrai : première pandémie du 21e siècle.",
+   "Faux : sensible à l'oseltamivir et au zanamivir."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos des virus grippaux émergents ?",
+  "options": [
+   "Le H5N1 aviaire a émergé en 1997",
+   "Le H1N1 porcin a émergé en 2009",
+   "Le H9N1 a été signalé en 1999",
+   "Aucun nouveau virus grippal n'a émergé depuis 1968",
+   "Les virus H5N1 et H7N7 ont circulé en 1997"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : H5N1 en 1997.",
+   "Vrai : H1N1 porcin en 2009.",
+   "Vrai : H9N1 en 1999.",
+   "Faux : émergences continues.",
+   "Faux : en 2003-2004."
+  ]
+ },
+ {
+  "q": "En ce qui concerne la transmission interhumaine de la grippe saisonnière, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle se fait par la toux et les éternuements",
+   "Les gouttelettes de salive contaminent les mains et les surfaces",
+   "Le contact direct intime transmet la maladie",
+   "Elle nécessite une piqûre de moustique",
+   "Les lieux clos et confinés la favorisent"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : toux, éternuements.",
+   "Vrai : gouttelettes sur mains et surfaces.",
+   "Vrai : contact direct intime.",
+   "Faux : transmission respiratoire, pas vectorielle.",
+   "Vrai : lieux clos et confinés."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations relatives au réservoir aviaire, lesquelles sont exactes ?",
+  "options": [
+   "Les oiseaux sauvages constituent un réservoir du virus A",
+   "Les oiseaux ne jouent aucun rôle dans l'écologie des virus influenza",
+   "Le virus peut survivre 35 jours à 4 °C dans les fientes",
+   "Les oiseaux domestiques constituent un réservoir du virus A",
+   "Le virus peut survivre 60 jours dans l'eau"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : oiseaux sauvages = réservoir.",
+   "Faux : rôle central du réservoir aviaire.",
+   "Vrai : 35 jours à 4 °C dans les fientes.",
+   "Vrai : oiseaux domestiques = réservoir.",
+   "Vrai : 60 jours dans l'eau."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la grippe du poulet ?",
+  "options": [
+   "Son réservoir comprend les oiseaux sauvages et domestiques",
+   "Elle se transmet d'homme à homme",
+   "Elle se transmet à l'homme par ingestion de volaille bien cuite",
+   "C'est la grippe aviaire à virus A H5N1",
+   "C'est une grippe à virus B"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : oiseaux sauvages et domestiques.",
+   "Faux : non transmise d'homme à homme.",
+   "Faux : contact direct respiratoire avec un oiseau malade.",
+   "Vrai : grippe du poulet = H5N1.",
+   "Faux : c'est un virus A."
+  ]
+ },
+ {
+  "q": "S'agissant des formes épidémiques selon le type viral, lesquelles sont exactes ?",
+  "options": [
+   "Les virus A et B donnent des épidémies hivernales",
+   "Les virus B et C donnent des cas sporadiques",
+   "Le virus C donne des pandémies",
+   "Le virus B est responsable des pandémies",
+   "Le virus A peut donner des pandémies"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : épidémies = A et B.",
+   "Vrai : sporadiques = B et C.",
+   "Faux : ni épidémie ni pandémie.",
+   "Faux : les pandémies sont dues au virus A.",
+   "Vrai : pandémies = virus A."
+  ]
+ },
+ {
+  "q": "À propos du franchissement de la barrière d'espèce, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le H5N1 est passé de l'oiseau à l'homme",
+   "Aucun virus influenza animal n'a jamais infecté l'homme",
+   "Le virus influenza peut franchir les barrières d'espèce",
+   "Le poulet sert de creuset au mélange",
+   "Le H1N1 2009 est passé du porc à l'homme"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : oiseau vers homme en 1997.",
+   "Faux : H5N1 et H1N1 2009 sont des exemples.",
+   "Vrai : franchissement documenté.",
+   "Faux : le porc.",
+   "Vrai : porc vers homme en 2009."
+  ]
+ },
+ {
+  "q": "Un patient présente en hiver une fièvre brutale à 39,5 °C avec courbatures intenses et céphalées, dans un contexte d'épidémie dans sa caserne. Parmi les propositions suivantes, lesquelles sont exactes ?",
+  "options": [
+   "Le tableau est évocateur d'une hépatite virale",
+   "Le début brutal est caractéristique",
+   "Le tableau est évocateur d'une grippe",
+   "L'hiver est la saison des épidémies interpandémiques",
+   "La vie en collectivité (caserne) favorise la transmission"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : rien n'évoque une hépatite.",
+   "Vrai : début brutal typique.",
+   "Vrai : fièvre brutale + courbatures en hiver = grippe.",
+   "Vrai : épidémies hivernales.",
+   "Vrai : casernes = lieux à risque."
+  ]
+ },
+ {
+  "q": "Concernant la contagiosité de la grippe en milieu scolaire, quelles affirmations sont exactes ?",
+  "options": [
+   "La grippe ne se transmet pas entre enfants",
+   "La transmission s'y fait par voie respiratoire",
+   "Les écoles sont des collectivités favorisant la transmission",
+   "Les lieux clos et confinés augmentent le risque",
+   "L'isolement des malades est une mesure de prévention adaptée"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : transmission interhumaine respiratoire.",
+   "Vrai : toux, éternuements, aérosols.",
+   "Vrai : écoles citées comme collectivités à risque.",
+   "Vrai : lieux clos et confinés.",
+   "Vrai : isolement des malades recommandé."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'épidémiologie du virus B, lesquelles sont exactes ?",
+  "options": [
+   "Son réservoir est exclusivement aviaire",
+   "Il ne participe jamais aux épidémies hivernales",
+   "Il donne des cas sporadiques toute l'année",
+   "Son réservoir est l'homme en majorité",
+   "Il donne des pandémies"
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : réservoir humain.",
+   "Faux : épidémies = virus A et B.",
+   "Vrai : cas sporadiques toute l'année.",
+   "Vrai : homme en majorité.",
+   "Faux : pandémies = virus A uniquement."
+  ]
+ },
+ {
+  "q": "Relativement à l'épidémiologie du virus C, lesquelles sont exactes ?",
+  "options": [
+   "Son génome comporte 8 segments",
+   "Il est responsable des pandémies",
+   "Son réservoir est animal",
+   "Il donne des cas sporadiques",
+   "Il ne possède qu'un seul type de spicule"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : 7 segments.",
+   "Faux : pandémies = virus A.",
+   "Vrai : réservoir animal.",
+   "Vrai : cas sporadiques toute l'année.",
+   "Vrai : HA seule."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet de la période 2003-2004 ?",
+  "options": [
+   "Les virus H5N1 et H7N7 ont circulé durant cette période",
+   "Le H5N1 avait déjà émergé en 1997",
+   "Aucun virus grippal n'a circulé en 2003-2004",
+   "Ces émergences sont exceptionnelles et sans suite",
+   "Il s'agit de virus aviaires"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : H5N1 et H7N7 en 2003-2004.",
+   "Vrai : émergence du H5N1 en 1997.",
+   "Faux : circulation documentée.",
+   "Faux : elles illustrent le caractère émergent.",
+   "Vrai : virus aviaires."
+  ]
+ },
+ {
+  "q": "Concernant la pandémie de grippe espagnole, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est une pandémie due au virus A",
+   "Elle a eu lieu en 1918-1919",
+   "Elle a causé environ 20 millions de morts",
+   "Elle était due à un virus H1N1",
+   "Elle était due à un virus H3N2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les pandémies sont dues au virus A.",
+   "Vrai : 1918-1919.",
+   "Vrai : environ 20 millions de morts.",
+   "Vrai : sous-type H1N1.",
+   "Faux : H1N1, pas H3N2."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'isolement du virus grippal, lesquelles sont exactes ?",
+  "options": [
+   "La souche H1N1 a été isolée en 1968",
+   "La souche H1N1 a été isolée en 1933-1934",
+   "Cet isolement a suivi la pandémie de 1918-1919",
+   "Le virus grippal n'a jamais été isolé",
+   "Il a permis l'étude virologique du virus"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : 1968 = émergence du H3N2.",
+   "Vrai : isolement en 1933-1934.",
+   "Vrai : après la pandémie de grippe espagnole.",
+   "Faux : isolé dès 1933-1934.",
+   "Vrai : base de la virologie grippale."
+  ]
+ },
+ {
+  "q": "À propos de la grippe asiatique, quelles affirmations sont exactes ?",
+  "options": [
+   "C'était une pandémie due au virus A",
+   "Elle a eu lieu en 1958-1959",
+   "Elle était due à un virus H2N2",
+   "Elle était due à un virus H1N1",
+   "Elle a précédé la grippe de Hong Kong"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : pandémie à virus A.",
+   "Vrai : 1958-1959.",
+   "Vrai : sous-type H2N2.",
+   "Faux : H2N2, pas H1N1.",
+   "Vrai : avant le H3N2 de 1968."
+  ]
+ },
+ {
+  "q": "Relativement à la grippe de Hong Kong, lesquelles sont exactes ?",
+  "options": [
+   "Elle était due à un virus H3N2",
+   "Elle était due à un virus de la grippe B",
+   "Ce virus est issu d'une simple mutation ponctuelle",
+   "Elle a eu lieu en 1968-1970",
+   "Le poulet a servi de creuset à ce réassortiment"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : sous-type H3N2.",
+   "Faux : virus A H3N2.",
+   "Faux : réassortiment avec une souche aviaire H3Nx.",
+   "Vrai : 1968-1970.",
+   "Faux : le porc."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet de la grippe du poulet de 1997 ?",
+  "options": [
+   "Les premiers cas humains ont été décrits à Hong Kong",
+   "Aucun abattage n'a été réalisé en 1997",
+   "18 cas humains ont été rapportés dont 5 morts",
+   "Elle était due à un virus H1N1",
+   "Elle était due à un virus A H5N1"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : Hong Kong, 1997.",
+   "Faux : 1,5 million de poules abattues.",
+   "Vrai : 18 cas, 5 décès.",
+   "Faux : H5N1, pas H1N1.",
+   "Vrai : H5N1."
+  ]
+ },
+ {
+  "q": "Au sujet de la pandémie de 2009, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le virus était résistant à l'oseltamivir",
+   "C'était une pandémie à virus B",
+   "C'est la première pandémie du 21e siècle",
+   "Elle était due à un virus A H1N1",
+   "C'était une grippe d'origine porcine"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : sensible à l'oseltamivir et au zanamivir.",
+   "Faux : virus A.",
+   "Vrai : première pandémie du 21e siècle.",
+   "Vrai : nouveau A H1N1.",
+   "Vrai : grippe porcine."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos de la chronologie des pandémies ?",
+  "options": [
+   "1918-1919 : grippe espagnole à H1N1",
+   "2009 : grippe porcine à H1N1",
+   "1968-1970 : grippe de Hong Kong à H3N2",
+   "1958-1959 : grippe asiatique à H2N2",
+   "1958-1959 : grippe de Hong Kong à H3N2"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 1918-1919, H1N1.",
+   "Vrai : 2009, H1N1 porcin.",
+   "Vrai : 1968-1970, H3N2.",
+   "Vrai : 1958-1959, H2N2.",
+   "Faux : Hong Kong = 1968-1970."
+  ]
+ },
+ {
+  "q": "En ce qui concerne l'histoire de la grippe, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La grippe est connue depuis l'Antiquité",
+   "Les virus H5N1 et H7N7 ont circulé en 2003-2004",
+   "Elle a provoqué de nombreuses épidémies et pandémies parfois graves",
+   "La première pandémie grippale date de 2009",
+   "Le H9N1 a été signalé en 1999"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : connue depuis l'Antiquité.",
+   "Vrai : H5N1 et H7N7 en 2003-2004.",
+   "Vrai : nombreuses épidémies et pandémies.",
+   "Faux : pandémies dès 1918-1919.",
+   "Vrai : H9N1 en 1999."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations relatives aux virus émergents, lesquelles sont exactes ?",
+  "options": [
+   "La formule « après H?N? » signifie la fin des émergences",
+   "Le H5N1 a émergé en 1997 comme grippe aviaire",
+   "Le H1N1 porcin a émergé en 2009",
+   "Ces émergences sont impossibles à l'avenir",
+   "L'émergence de nouveaux virus grippaux est impossible"
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : elle traduit la poursuite des émergences.",
+   "Vrai : H5N1, 1997.",
+   "Vrai : H1N1 porcin, 2009.",
+   "Faux : elles illustrent le caractère émergent.",
+   "Faux : émergences documentées et attendues."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la succession des sous-types pandémiques ?",
+  "options": [
+   "Le H1N1 a causé la pandémie de 1918-1919",
+   "Le H3N2 a causé la pandémie de 1918-1919",
+   "Le H1N1 porcin a causé la pandémie de 1968",
+   "Le H3N2 a émergé en 1968 par réassortiment",
+   "Le H2N2 a causé la pandémie de 1958-1959"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : grippe espagnole = H1N1.",
+   "Faux : 1918-1919 = H1N1.",
+   "Faux : 2009.",
+   "Vrai : H3N2 par réassortiment en 1968.",
+   "Vrai : grippe asiatique = H2N2."
+  ]
+ },
+ {
+  "q": "S'agissant de la grippe espagnole, lesquelles sont exactes ?",
+  "options": [
+   "Elle était due à un virus A H1N1",
+   "C'était une simple épidémie saisonnière bénigne",
+   "Elle a fait environ 20 millions de morts",
+   "Elle illustre le caractère bénin des pandémies à virus A",
+   "C'est la pandémie de 1918-1919"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : H1N1.",
+   "Faux : pandémie meurtrière.",
+   "Vrai : 20 millions de morts.",
+   "Faux : leur gravité possible.",
+   "Vrai : 1918-1919."
+  ]
+ },
+ {
+  "q": "À propos de l'isolement historique des souches, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Exemple : A/Singapore/1/57 (H2N2)",
+   "La nomenclature moderne précise la ville, le numéro et l'année d'isolement",
+   "La souche H1N1 a été isolée en 1933-1934",
+   "Exemple : A/chicken/Shantou/423/2003 (H5N1)",
+   "Aucune souche grippale n'a été conservée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : exemple de nomenclature.",
+   "Vrai : ville, numéro, année.",
+   "Vrai : 1933-1934.",
+   "Vrai : exemple avec hôte non humain.",
+   "Faux : les souches sont conservées à -80 °C."
+  ]
+ },
+ {
+  "q": "Concernant l'incubation de la grippe, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'incubation dure 1 à 4 jours",
+   "L'incubation dure 2 à 3 semaines",
+   "L'incubation dure 15 à 21 jours comme la rougeole",
+   "Le début est brutal",
+   "Le début est toujours insidieux et progressif"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : 1 à 4 jours.",
+   "Faux : 1 à 4 jours.",
+   "Faux : 1 à 4 jours, pas 15 à 21.",
+   "Vrai : début brutal caractéristique.",
+   "Faux : début brutal."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la phase d'état de la grippe, lesquelles sont exactes ?",
+  "options": [
+   "On observe des douleurs diffuses : courbatures, myalgies, arthralgies",
+   "La fièvre a un aspect diphasique (V grippal)",
+   "La fièvre est de 38 à 40 °C",
+   "La fièvre ne dépasse jamais 37,5 °C",
+   "On observe un malaise avec céphalées"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : courbatures, myalgies, arthralgies.",
+   "Vrai : aspect diphasique, V grippal.",
+   "Vrai : 38-40 °C.",
+   "Faux : fièvre élevée 38-40 °C.",
+   "Vrai : malaise, céphalées."
+  ]
+ },
+ {
+  "q": "À propos des signes généraux de la grippe, quelles affirmations sont exactes ?",
+  "options": [
+   "Malaise et dépression",
+   "Absence de céphalées",
+   "Fièvre à 38-40 °C d'aspect diphasique",
+   "Regard vif et normal",
+   "Éruption morbilliforme généralisée"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : malaise, dépression.",
+   "Faux : céphalées parmi les signes généraux.",
+   "Vrai : fièvre diphasique.",
+   "Faux : regard vitreux décrit.",
+   "Faux : pas d'éruption dans la grippe."
+  ]
+ },
+ {
+  "q": "Relativement aux douleurs de la grippe, lesquelles sont exactes ?",
+  "options": [
+   "Les courbatures sont caractéristiques",
+   "Les douleurs sont strictement localisées",
+   "Les myalgies sont fréquentes",
+   "Les arthralgies peuvent être présentes",
+   "La grippe est totalement indolore"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : courbatures typiques.",
+   "Faux : diffuses.",
+   "Vrai : myalgies.",
+   "Vrai : arthralgies.",
+   "Faux : douleurs diffuses caractéristiques."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet de l'atteinte respiratoire de la grippe ?",
+  "options": [
+   "La grippe n'atteint jamais le poumon",
+   "La pneumonie sévère complique les formes graves",
+   "L'atteinte est toujours limitée à une simple rhinite",
+   "Les surinfections bactériennes sont des complications",
+   "Elle peut aller d'une légère pharyngite à une pneumonie sévère"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : pneumonie possible.",
+   "Vrai : pneumonie sévère possible.",
+   "Faux : peut aller jusqu'à la pneumonie sévère.",
+   "Vrai : surinfections bactériennes.",
+   "Vrai : spectre de la pharyngite à la pneumonie sévère."
+  ]
+ },
+ {
+  "q": "Au sujet de l'évolution de la grippe, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les complications surviennent chez les sujets à risque",
+   "La grippe est mortelle dans 95 % des cas",
+   "Les enfants et les vieillards sont exposés aux complications",
+   "L'évolution est bénigne avec guérison dans 95 % des cas",
+   "La létalité est la règle au niveau individuel"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : complications chez sujets à risque.",
+   "Faux : mortelle dans une minorité de cas.",
+   "Vrai : enfants et vieillards.",
+   "Vrai : guérison dans 95 % des cas.",
+   "Faux : la guérison est la règle (95 %)."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos des complications de la grippe ?",
+  "options": [
+   "L'otite est une complication chez l'enfant",
+   "Les surinfections bactériennes sont des complications",
+   "Les enfants sont exposés aux complications",
+   "Les sujets âgés sont exposés aux complications",
+   "Il n'existe aucune complication de la grippe"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : otite chez l'enfant.",
+   "Vrai : surinfections bactériennes.",
+   "Vrai : enfants à risque.",
+   "Vrai : vieillards à risque.",
+   "Faux : complications documentées."
+  ]
+ },
+ {
+  "q": "En ce qui concerne les sujets à risque de formes graves, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Les insuffisants respiratoires",
+   "Les immunodéprimés",
+   "Les sportifs jeunes sans antécédent",
+   "Les sujets âgés",
+   "Les nouveau-nés et les femmes enceintes"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : insuffisants respiratoires à risque.",
+   "Vrai : immunodéprimés à risque.",
+   "Faux : ce sont les sujets les moins à risque.",
+   "Vrai : sujets âgés à risque.",
+   "Vrai : nouveau-nés et femmes enceintes à risque."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations relatives au diagnostic clinique de la grippe, lesquelles sont exactes ?",
+  "options": [
+   "La fièvre à 38-40 °C avec courbatures est évocatrice",
+   "Le diagnostic clinique est impossible en période d'épidémie",
+   "Le contexte épidémique hivernal n'oriente pas le diagnostic",
+   "Le regard vitreux n'est jamais observé",
+   "Le début brutal est évocateur"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Vrai : fièvre + courbatures.",
+   "Faux : le contexte épidémique facilite le diagnostic.",
+   "Faux : il oriente le diagnostic.",
+   "Faux : il peut être observé.",
+   "Vrai : début brutal typique."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la fièvre grippale ?",
+  "options": [
+   "Elle a un aspect diphasique",
+   "Elle est comprise entre 38 et 40 °C",
+   "On parle de « V grippal »",
+   "Elle s'accompagne d'hypothermie",
+   "Elle est toujours absente dans la grippe"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : aspect diphasique.",
+   "Vrai : 38-40 °C.",
+   "Vrai : V grippal.",
+   "Faux : fièvre 38-40 °C avec malaise et céphalées.",
+   "Faux : fièvre constante à la phase d'état."
+  ]
+ },
+ {
+  "q": "S'agissant des signes respiratoires, lesquelles sont exactes ?",
+  "options": [
+   "Les surinfections bactériennes compliquent l'évolution",
+   "Une légère pharyngite peut être présente",
+   "L'atteinte respiratoire est inexistante dans la grippe",
+   "Une pneumonie sévère peut survenir",
+   "Les atteintes respiratoires sévères ne justifient aucun diagnostic virologique"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : surinfections bactériennes.",
+   "Vrai : légère pharyngite possible.",
+   "Faux : infection respiratoire par définition.",
+   "Vrai : pneumonie sévère possible.",
+   "Faux : elles le justifient en milieu hospitalier."
+  ]
+ },
+ {
+  "q": "À propos de l'otite comme complication de la grippe, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Elle survient chez l'enfant",
+   "Les enfants font partie des sujets à risque",
+   "Elle survient chez le sujet âgé exclusivement",
+   "C'est une complication de la grippe",
+   "La grippe ne donne jamais d'otite"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : otite chez l'enfant.",
+   "Vrai : enfants à risque.",
+   "Faux : c'est chez l'enfant.",
+   "Vrai : complication citée.",
+   "Faux : otite décrite chez l'enfant."
+  ]
+ },
+ {
+  "q": "Concernant les surinfections bactériennes, quelles affirmations sont exactes ?",
+  "options": [
+   "Elles justifient l'antibiothérapie",
+   "Elles sont impossibles au cours de la grippe",
+   "Elles surviennent préférentiellement chez les sujets à risque",
+   "L'antibiotique n'est indiqué qu'en cas de surinfection bactérienne",
+   "Ce sont des complications de la grippe"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : antibiotique si surinfection.",
+   "Faux : complications classiques.",
+   "Vrai : sujets à risque exposés.",
+   "Vrai : pas d'antibiotique systématique.",
+   "Vrai : complications citées."
+  ]
+ },
+ {
+  "q": "Un enfant de 4 ans présente en hiver une fièvre brutale à 39 °C, des courbatures et une otalgie. Parmi les propositions suivantes, lesquelles sont exactes ?",
+  "options": [
+   "L'otite est une complication classique chez l'enfant",
+   "Le début brutal et la fièvre à 39 °C sont typiques",
+   "L'otalgie oriente vers une hépatite virale",
+   "Le tableau est évocateur d'une grippe compliquée d'otite",
+   "L'enfant fait partie des sujets à risque"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : otite = complication pédiatrique.",
+   "Vrai : début brutal, fièvre élevée.",
+   "Faux : l'otalgie n'évoque pas une hépatite.",
+   "Vrai : grippe + otite chez l'enfant.",
+   "Vrai : enfants à risque."
+  ]
+ },
+ {
+  "q": "À propos du paradoxe entre gravité individuelle et impact collectif de la grippe, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Fléau au niveau de la collectivité",
+   "Sans aucun impact collectif",
+   "Grave chez les sujets fragilisés",
+   "Bénigne au niveau individuel le plus souvent",
+   "Mortelle dans 95 % des cas individuels"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : épidémies et pandémies.",
+   "Faux : fléau collectif.",
+   "Vrai : immunodéprimés, âgés, femmes enceintes...",
+   "Vrai : guérison dans 95 % des cas.",
+   "Faux : bénigne dans 95 % des cas."
+  ]
+ },
+ {
+  "q": "Relativement aux femmes enceintes et à la grippe, lesquelles sont exactes ?",
+  "options": [
+   "Elles font partie des populations vulnérables ciblées par la vaccination",
+   "Elles sont exposées aux formes graves",
+   "La grippe est toujours bénigne chez elles",
+   "Elles ne sont pas concernées par la grippe",
+   "Elles font partie des sujets fragilisés"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : cibles de la vaccination.",
+   "Vrai : risque de formes graves.",
+   "Faux : risque accru de gravité.",
+   "Faux : population à risque.",
+   "Vrai : sujets fragilisés."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet des signes d'appel de la grippe ?",
+  "options": [
+   "Début brutal",
+   "Absence totale de douleurs",
+   "Fièvre 38-40 °C",
+   "Ictère et urines foncées",
+   "Euphorie et bien-être"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : début brutal.",
+   "Faux : douleurs diffuses caractéristiques.",
+   "Vrai : fièvre élevée.",
+   "Faux : signes d'hépatite, pas de grippe.",
+   "Faux : céphalées et malaise."
+  ]
+ },
+ {
+  "q": "Au sujet de la guérison de la grippe, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Aucun patient ne guérit spontanément",
+   "La létalité est majeure à l'échelle individuelle",
+   "Les complications concernent les sujets à risque",
+   "L'évolution est le plus souvent bénigne",
+   "La guérison survient dans 95 % des cas"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : guérison spontanée habituelle.",
+   "Faux : bénigne au niveau individuel.",
+   "Vrai : sujets à risque exposés.",
+   "Vrai : bénigne le plus souvent.",
+   "Vrai : 95 % de guérison."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos du tableau clinique complet ?",
+  "options": [
+   "Évolution vers le décès dans 95 % des cas",
+   "Incubation de 1 à 4 jours",
+   "Incubation de 3 semaines suivie d'un ictère",
+   "Début brutal avec fièvre 38-40 °C diphasique",
+   "Douleurs diffuses et regard vitreux"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : guérison dans 95 % des cas.",
+   "Vrai : 1 à 4 jours.",
+   "Faux : tableau d'hépatite, pas de grippe.",
+   "Vrai : début brutal, fièvre diphasique.",
+   "Vrai : douleurs diffuses, regard vitreux."
+  ]
+ },
+ {
+  "q": "En ce qui concerne la pneumonie grippale, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La grippe ne touche jamais le parenchyme pulmonaire",
+   "C'est une complication possible de la grippe",
+   "Elle peut nécessiter une hospitalisation",
+   "Elle illustre le spectre allant de la pharyngite légère à la pneumonie sévère",
+   "Le diagnostic virologique est inutile devant une pneumonie grippale"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : pneumonie sévère possible.",
+   "Vrai : complication possible.",
+   "Vrai : formes graves hospitalisées.",
+   "Vrai : spectre pharyngite-pneumonie.",
+   "Faux : les formes sévères hospitalières le justifient."
+  ]
+ },
+ {
+  "q": "Concernant les indications du diagnostic virologique de la grippe, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "La surveillance épidémiologique",
+   "Le diagnostic virologique n'a aucune indication",
+   "Les atteintes respiratoires sévères en milieu hospitalier",
+   "Le dépistage systématique de toute rhinite banale en ville",
+   "Les atteintes respiratoires compliquées en milieu hospitalier"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : surveillance épidémiologique.",
+   "Faux : indications précises.",
+   "Vrai : formes sévères hospitalières.",
+   "Faux : pas de dépistage systématique des formes banales.",
+   "Vrai : formes compliquées hospitalières."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le prélèvement pour diagnostic direct, lesquelles sont exactes ?",
+  "options": [
+   "Le lavage broncho-alvéolaire (LBA) est un prélèvement adapté",
+   "Le prélèvement doit être précoce",
+   "L'écouvillonnage nasopharyngé est un prélèvement adapté",
+   "L'aspiration nasopharyngée est un prélèvement adapté",
+   "Le prélèvement doit être tardif, après 3 semaines d'évolution"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : LBA.",
+   "Vrai : prélèvement précoce.",
+   "Vrai : écouvillonnage nasopharyngé.",
+   "Vrai : aspiration nasopharyngée.",
+   "Faux : le prélèvement doit être précoce."
+  ]
+ },
+ {
+  "q": "À propos de l'acheminement des prélèvements, quelles affirmations sont exactes ?",
+  "options": [
+   "L'acheminement doit se faire en moins de 2 heures",
+   "Les prélèvements sont transportés sur glaçons",
+   "Les souches sont conservées à -80 °C",
+   "Les prélèvements peuvent attendre plusieurs jours à température ambiante",
+   "L'acheminement se fait en liquide de transport"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : moins de 2 heures.",
+   "Vrai : glaçons.",
+   "Vrai : -80 °C pour les souches.",
+   "Faux : acheminement rapide réfrigéré.",
+   "Vrai : liquide de transport."
+  ]
+ },
+ {
+  "q": "Relativement à la conservation des souches grippales, lesquelles sont exactes ?",
+  "options": [
+   "Les souches peuvent être lyophilisées",
+   "Elles sont acheminées vers le centre national de référence",
+   "Elles sont conservées à température ambiante",
+   "Les souches sont conservées à -80 °C",
+   "Aucune conservation n'est nécessaire"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : lyophilisation possible.",
+   "Vrai : centre national de référence.",
+   "Faux : conservation au froid.",
+   "Vrai : -80 °C.",
+   "Faux : conservation indispensable."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet de la culture virale, technique de référence ?",
+  "options": [
+   "La culture est la technique de référence du diagnostic direct",
+   "L'inoculation se faisait par voie digestive de l'embryon",
+   "La culture sur œuf embryonné est la technique actuelle de référence",
+   "La culture n'a aucun intérêt diagnostique",
+   "L'œuf embryonné de poulet de 2 semaines était utilisé"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Vrai : technique de référence.",
+   "Faux : cavités allantoïque et amniotique.",
+   "Faux : abandonnée.",
+   "Faux : c'est la technique de référence.",
+   "Vrai : œuf embryonné de 2 semaines."
+  ]
+ },
+ {
+  "q": "Au sujet de la détection de la multiplication virale en culture, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est détectée par un test d'hémagglutination",
+   "Le test utilise des globules rouges de différentes espèces",
+   "Les globules rouges de coq peuvent être utilisés",
+   "Les globules rouges de mouton sont utilisés",
+   "Elle est détectée par un test de fixation du complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : test d'hémagglutination.",
+   "Vrai : GR de différentes espèces.",
+   "Vrai : GR de coq.",
+   "Faux : coq, cobaye et homme cités.",
+   "Faux : la fixation du complément est abandonnée."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos de l'identification du virus isolé ?",
+  "options": [
+   "Elle utilise des sérums de référence spécifiques",
+   "Elle est faite par un test d'inhibition de l'hémagglutination",
+   "Elle repose sur les anticorps anti-NA",
+   "Elle distingue les types, sous-types et variants",
+   "Elle est faite par un antibiogramme"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : sérums de référence spécifiques.",
+   "Vrai : inhibition de l'hémagglutination.",
+   "Faux : anti-HA.",
+   "Vrai : types, sous-types, variants.",
+   "Faux : l'antibiogramme concerne les bactéries."
+  ]
+ },
+ {
+  "q": "En ce qui concerne la culture cellulaire des virus influenza, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'hémagglutination est recherchée tous les 2 à 3 jours",
+   "Les cellules PGMK (rein de singe) sont utilisées",
+   "L'effet cytopathogène est observé jusqu'à 2 semaines",
+   "Les cellules MDCK (rein de chien) sont utilisées",
+   "La culture cellulaire est utilisée en routine de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : HAI tous les 2 à 3 jours.",
+   "Vrai : PGMK = rein de singe.",
+   "Vrai : ECP jusqu'à 2 semaines.",
+   "Vrai : MDCK = rein de chien.",
+   "Faux : en recherche (antiviraux), pas en routine."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations relatives au RCA (rapid culture assay), lesquelles sont exactes ?",
+  "options": [
+   "Le résultat est obtenu en 24 heures",
+   "Le résultat nécessite 2 semaines d'incubation",
+   "La révélation se fait par immuno-peroxydase (IP) ou immunofluorescence (FA)",
+   "C'est une technique de culture cellulaire rapide",
+   "Il comporte une centrifugation"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : 24 h.",
+   "Faux : 24 h, pas 2 semaines.",
+   "Vrai : IP, FA.",
+   "Vrai : culture rapide.",
+   "Vrai : centrifugation."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la recherche d'antigènes viraux ?",
+  "options": [
+   "L'immunofluorescence (IFA) est simple et rapide",
+   "L'IFA nécessite 2 semaines de culture",
+   "L'examen porte sur des globules rouges fixés",
+   "L'immuno-peroxydase (IP) est simple et rapide",
+   "La lecture nécessite un microscope électronique"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : IFA simple et rapide.",
+   "Faux : c'est une technique rapide sans culture longue.",
+   "Faux : cellules épithéliales fixées et lavées.",
+   "Vrai : IP simple et rapide.",
+   "Faux : lecture simple."
+  ]
+ },
+ {
+  "q": "S'agissant de la recherche du génome viral, lesquelles sont exactes ?",
+  "options": [
+   "Elle est moins sensible que l'immunofluorescence",
+   "La PCR multiplex est utilisée",
+   "La RT-PCR est une technique d'avenir et de routine",
+   "La sensibilité de la RT-PCR est supérieure à celle de l'IFA",
+   "Elle ne détecte que les virus de type B"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : la RT-PCR est plus sensible que l'IFA.",
+   "Vrai : PCR multiplex.",
+   "Vrai : RT-PCR d'avenir, de routine.",
+   "Vrai : sensibilité > IFA.",
+   "Faux : spécifique des sous-types et des gènes de résistance."
+  ]
+ },
+ {
+  "q": "À propos du diagnostic indirect de la grippe, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est un diagnostic tardif et rétrospectif",
+   "C'est la technique de choix pour le diagnostic précoce",
+   "Deux prélèvements sont réalisés à 10-15 jours d'intervalle",
+   "Il a un grand intérêt dans le diagnostic",
+   "Le prélèvement est du sang total sur tube sec"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : diagnostic tardif, rétrospectif.",
+   "Faux : le diagnostic précoce repose sur le diagnostic direct.",
+   "Vrai : 2 prélèvements à 10-15 jours d'intervalle.",
+   "Faux : peu d'intérêt.",
+   "Vrai : sang total sur tube sec."
+  ]
+ },
+ {
+  "q": "Concernant les techniques du diagnostic indirect, quelles affirmations sont exactes ?",
+  "options": [
+   "L'HAI (hémagglutination indirecte) est utilisée",
+   "Les techniques immuno-enzymatiques (ELISA) sont utilisées",
+   "La fixation du complément est abandonnée",
+   "La culture sur œuf embryonné est une technique indirecte",
+   "La RT-PCR est une technique de diagnostic indirect"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : HAI utilisée.",
+   "Vrai : ELISA utilisée.",
+   "Vrai : fixation du complément abandonnée.",
+   "Faux : la culture est un diagnostic direct.",
+   "Faux : la RT-PCR est un diagnostic direct (génome)."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les prélèvements nasopharyngés, lesquelles sont exactes ?",
+  "options": [
+   "L'aspiration nasopharyngée est adaptée au diagnostic direct",
+   "L'écouvillonnage nasopharyngé est adapté au diagnostic direct",
+   "L'écouvillonnage de gorge peut être réalisé",
+   "Le prélèvement sanguin sur tube sec est le prélèvement du diagnostic direct",
+   "Le prélèvement doit être précoce"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : aspiration nasopharyngée.",
+   "Vrai : écouvillonnage nasopharyngé.",
+   "Vrai : écouvillonnage de gorge.",
+   "Faux : le sang sur tube sec relève du diagnostic indirect.",
+   "Vrai : prélèvement précoce."
+  ]
+ },
+ {
+  "q": "Relativement au lavage broncho-alvéolaire (LBA), lesquelles sont exactes ?",
+  "options": [
+   "Il doit être acheminé rapidement en liquide de transport sur glaçons",
+   "C'est un prélèvement sanguin",
+   "Il est réservé au diagnostic indirect",
+   "Il permet la recherche du virus dans les voies respiratoires basses",
+   "C'est un prélèvement utilisable pour le diagnostic direct de la grippe"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : acheminement < 2 h sur glaçons.",
+   "Faux : prélèvement respiratoire, pas sanguin.",
+   "Faux : c'est un diagnostic direct.",
+   "Vrai : prélèvement respiratoire profond.",
+   "Vrai : LBA cité parmi les prélèvements."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet de la comparaison des techniques de diagnostic direct ?",
+  "options": [
+   "La RT-PCR est spécifique des sous-types",
+   "L'IFA est plus sensible que la RT-PCR",
+   "L'IFA et l'IP sont simples et rapides",
+   "La RT-PCR a une sensibilité supérieure à l'IFA",
+   "La culture est la technique de référence"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : RT-PCR spécifique des sous-types.",
+   "Faux : c'est l'inverse.",
+   "Vrai : IFA/IP simples et rapides.",
+   "Vrai : RT-PCR > IFA en sensibilité.",
+   "Vrai : culture = référence."
+  ]
+ },
+ {
+  "q": "Au sujet de l'immunofluorescence (IFA), lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est une technique de recherche d'antigènes viraux",
+   "Elle s'applique à des globules rouges",
+   "C'est une technique de diagnostic indirect",
+   "Sa sensibilité est supérieure à celle de la RT-PCR",
+   "Elle est simple et rapide"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Vrai : recherche d'Ag viraux.",
+   "Faux : cellules épithéliales fixées et lavées.",
+   "Faux : c'est un diagnostic direct.",
+   "Faux : inférieure à la RT-PCR.",
+   "Vrai : simple et rapide."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos de l'immuno-peroxydase (IP) ?",
+  "options": [
+   "La lecture est simple",
+   "Elle est simple et rapide",
+   "C'est une technique de recherche d'antigènes viraux",
+   "C'est une technique de biologie moléculaire",
+   "Elle est utilisée dans le test d'hémagglutination"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : lecture simple.",
+   "Vrai : simple et rapide.",
+   "Vrai : recherche d'Ag.",
+   "Faux : c'est une technique immunologique.",
+   "Faux : dans le RCA après centrifugation."
+  ]
+ },
+ {
+  "q": "En ce qui concerne les cellules MDCK, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'hémagglutination y est recherchée tous les mois",
+   "L'effet cytopathogène y est observé jusqu'à 2 semaines",
+   "Ce sont des globules rouges de coq",
+   "Ce sont des cellules de rein de chien",
+   "Elles sont utilisées pour la culture des virus influenza"
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : tous les 2 à 3 jours.",
+   "Vrai : ECP jusqu'à 2 semaines.",
+   "Faux : ce sont des cellules, pas des hématies.",
+   "Vrai : MDCK = rein de chien.",
+   "Vrai : culture des influenza."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations relatives aux cellules PGMK, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des cellules de rein de singe",
+   "Elles sont utilisées pour la culture des virus influenza",
+   "La culture cellulaire est utilisée en recherche sur les antiviraux",
+   "Ce sont des cellules de rein de chien",
+   "Elles servent au test d'hémagglutination directe du sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PGMK = rein de singe.",
+   "Vrai : culture des influenza.",
+   "Vrai : recherche sur les antiviraux.",
+   "Faux : le rein de chien correspond aux MDCK.",
+   "Faux : l'hémagglutination utilise des GR."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le diagnostic virologique en milieu hospitalier ?",
+  "options": [
+   "Le prélèvement respiratoire doit être précoce",
+   "Il est indiqué devant des atteintes respiratoires compliquées",
+   "Il est indiqué devant des atteintes respiratoires sévères",
+   "Il n'est jamais indiqué à l'hôpital",
+   "La RT-PCR est la technique de routine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : prélèvement précoce.",
+   "Vrai : formes compliquées hospitalières.",
+   "Vrai : formes sévères hospitalières.",
+   "Faux : indication hospitalière précise.",
+   "Vrai : RT-PCR d'avenir, de routine."
+  ]
+ },
+ {
+  "q": "S'agissant de la surveillance épidémiologique, lesquelles sont exactes ?",
+  "options": [
+   "Elle guide la revue annuelle du vaccin",
+   "Elle est inutile pour la grippe",
+   "Elle repose sur l'identification des souches circulantes",
+   "Les souches sont acheminées vers le centre national de référence",
+   "Elle est une indication du diagnostic virologique"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : adaptation annuelle du vaccin.",
+   "Faux : essentielle à la lutte contre la grippe.",
+   "Vrai : identification des souches.",
+   "Vrai : centre national de référence.",
+   "Vrai : indication du diagnostic."
+  ]
+ },
+ {
+  "q": "À propos des deux prélèvements sanguins du diagnostic indirect, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Ils permettent un diagnostic précoce en 24 heures",
+   "Ils sont espacés de 10 à 15 jours",
+   "Ils ont un grand intérêt diagnostique",
+   "Ils sont réalisés sur tube sec",
+   "Ils permettent un diagnostic précoce"
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : le diagnostic précoce est direct.",
+   "Vrai : 10-15 jours d'intervalle.",
+   "Faux : peu d'intérêt.",
+   "Vrai : sang total sur tube sec.",
+   "Faux : tardif et rétrospectif."
+  ]
+ },
+ {
+  "q": "Concernant la place de la sérologie dans la grippe, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle est tardive et rétrospective",
+   "La sérologie est un diagnostic indirect",
+   "Elle a un grand intérêt diagnostique en phase aiguë",
+   "Elle remplace le prélèvement nasopharyngé précoce",
+   "Elle détecte les anticorps par HAI ou ELISA"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : tardive, rétrospective.",
+   "Vrai : détection d'anticorps = indirect.",
+   "Faux : peu d'intérêt en phase aiguë.",
+   "Faux : le diagnostic précoce reste direct.",
+   "Vrai : HAI, ELISA."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les techniques abandonnées, lesquelles sont exactes ?",
+  "options": [
+   "La culture sur œuf embryonné de poulet est abandonnée",
+   "La fixation du complément est abandonnée",
+   "La RT-PCR est la technique d'avenir",
+   "La fixation du complément est la technique de référence actuelle",
+   "L'isolement sur œuf reste la technique de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : œuf embryonné abandonné.",
+   "Vrai : fixation du complément abandonnée.",
+   "Vrai : RT-PCR d'avenir, de routine.",
+   "Faux : technique abandonnée.",
+   "Faux : méthode abandonnée."
+  ]
+ },
+ {
+  "q": "Relativement au diagnostic direct dans son ensemble, lesquelles sont exactes ?",
+  "options": [
+   "Il comprend la culture, la recherche d'antigènes et la recherche du génome",
+   "Il repose sur la détection des anticorps sériques",
+   "La RT-PCR est la technique de référence",
+   "L'acheminement se fait en moins de 2 heures sur glaçons",
+   "Le prélèvement respiratoire doit être précoce"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : culture, Ag, génome.",
+   "Faux : les anticorps relèvent du diagnostic indirect.",
+   "Faux : la culture reste la technique de référence.",
+   "Vrai : < 2 h, glaçons.",
+   "Vrai : prélèvement précoce."
+  ]
+ },
+ {
+  "q": "Concernant le traitement symptomatique de la grippe, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Les antitussifs peuvent être utilisés",
+   "Les antipyrétiques sont indiqués",
+   "Les antalgiques sont indiqués",
+   "L'antibiotique n'est indiqué qu'en cas de surinfection bactérienne",
+   "L'antibiotique est systématique dès le diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : antitussifs.",
+   "Vrai : antipyrétiques.",
+   "Vrai : antalgiques.",
+   "Vrai : antibiotique si surinfection bactérienne.",
+   "Faux : pas d'antibiotique systématique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le traitement étiologique, lesquelles sont exactes ?",
+  "options": [
+   "L'amantadine est un inhibiteur de la neuraminidase",
+   "Le zanamivir est un inhibiteur de la neuraminidase",
+   "L'oseltamivir est un inhibiteur de la neuraminidase",
+   "La rimantadine est active sur le virus de type A",
+   "L'amantadine est active sur le virus de type A"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'amantadine bloque la pénétration.",
+   "Vrai : zanamivir (Relenza) = anti-NA.",
+   "Vrai : oseltamivir (Tamiflu) = anti-NA.",
+   "Vrai : rimantadine = type A.",
+   "Vrai : amantadine = type A."
+  ]
+ },
+ {
+  "q": "À propos du mode d'action de l'amantadine, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle est active sur le virus de la grippe de type A",
+   "Le virus A H1N1 2009 y est sensible",
+   "Elle bloque la neuraminidase",
+   "Elle bloque la pénétration du virus dans la cellule",
+   "C'est un inhibiteur de la neuraminidase"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : active sur le type A.",
+   "Faux : résistant.",
+   "Faux : les anti-NA sont zanamivir et oseltamivir.",
+   "Vrai : blocage de la pénétration.",
+   "Faux : elle bloque la pénétration, pas la NA."
+  ]
+ },
+ {
+  "q": "Relativement au mode d'action du zanamivir et de l'oseltamivir, lesquelles sont exactes ?",
+  "options": [
+   "Ils limitent la dissémination de l'infection",
+   "L'oseltamivir est commercialisé sous le nom de Relenza",
+   "Ils bloquent la libération des virions hors de la cellule",
+   "Ils inhibent la neuraminidase",
+   "Le zanamivir est commercialisé sous le nom de Tamiflu"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : limitation de la dissémination.",
+   "Faux : oseltamivir = Tamiflu.",
+   "Vrai : blocage de la libération des virions.",
+   "Vrai : inhibiteurs de la NA.",
+   "Faux : Relenza."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet du traitement de la grippe A H1N1 2009 ?",
+  "options": [
+   "Le virus est sensible à l'oseltamivir (Tamiflu)",
+   "Le virus est sensible à la rimantadine",
+   "Le virus est résistant à l'amantadine",
+   "Le virus est sensible à l'amantadine",
+   "Le virus est sensible au zanamivir (Relenza)"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : sensible à l'oseltamivir.",
+   "Faux : résistant.",
+   "Vrai : résistant à l'amantadine.",
+   "Faux : résistant aux adamantanes.",
+   "Vrai : sensible au zanamivir."
+  ]
+ },
+ {
+  "q": "Au sujet des résistances du virus A H1N1 saisonnier, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il est résistant au zanamivir",
+   "Il est résistant aux adamantanes",
+   "Il est sensible au zanamivir",
+   "Il est sensible aux adamantanes (amantadine, rimantadine)",
+   "Il est résistant à l'oseltamivir"
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : sensible au zanamivir.",
+   "Faux : sensible aux adamantanes.",
+   "Vrai : zanamivir S.",
+   "Vrai : adamantanes S.",
+   "Vrai : oseltamivir R."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos des résistances du virus A H3N2 ?",
+  "options": [
+   "Il est sensible au zanamivir",
+   "Il est sensible à l'oseltamivir",
+   "Il est résistant au zanamivir",
+   "Il est résistant aux adamantanes",
+   "Il est sensible aux adamantanes"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : zanamivir S.",
+   "Vrai : oseltamivir S.",
+   "Faux : sensible au zanamivir.",
+   "Vrai : adamantanes R.",
+   "Faux : résistant aux adamantanes."
+  ]
+ },
+ {
+  "q": "En ce qui concerne les résistances du virus B, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il est résistant à l'oseltamivir",
+   "Il est sensible au zanamivir",
+   "Il est résistant aux adamantanes",
+   "Il est sensible à l'amantadine",
+   "Il est sensible à l'oseltamivir"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : sensible à l'oseltamivir.",
+   "Vrai : zanamivir S.",
+   "Vrai : adamantanes R.",
+   "Faux : résistant à l'amantadine.",
+   "Vrai : oseltamivir S."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations relatives aux résistances du nouveau virus A H1N1 2009, lesquelles sont exactes ?",
+  "options": [
+   "Il est résistant aux adamantanes",
+   "Il est sensible au zanamivir",
+   "Il est résistant au zanamivir",
+   "Il est sensible à l'oseltamivir",
+   "Il est sensible à l'amantadine"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : adamantanes R.",
+   "Vrai : zanamivir S.",
+   "Faux : sensible au zanamivir.",
+   "Vrai : oseltamivir S.",
+   "Faux : résistant à l'amantadine."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le zanamivir au regard du tableau des résistances ?",
+  "options": [
+   "Il est actif sur le nouveau virus A H1N1 2009",
+   "Il est inactif sur le virus B",
+   "Il est actif sur le virus B",
+   "Il est actif sur le virus A H1N1 saisonnier",
+   "Il est actif sur le virus A H3N2"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : zanamivir S sur H1N1 2009.",
+   "Faux : sensible sur le virus B.",
+   "Vrai : zanamivir S sur B.",
+   "Vrai : zanamivir S sur H1N1 saisonnier.",
+   "Vrai : zanamivir S sur H3N2."
+  ]
+ },
+ {
+  "q": "S'agissant des adamantanes au regard du tableau des résistances, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont inactifs sur le nouveau virus A H1N1 2009",
+   "Ils sont actifs uniquement sur le virus A H1N1 saisonnier",
+   "Ils sont inactifs sur le virus A H3N2",
+   "Ils sont actifs sur le virus B",
+   "Ils sont inactifs sur le virus B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : R sur H1N1 2009.",
+   "Vrai : S uniquement sur H1N1 saisonnier.",
+   "Vrai : R sur H3N2.",
+   "Faux : résistants sur le virus B.",
+   "Vrai : R sur B."
+  ]
+ },
+ {
+  "q": "À propos de l'oseltamivir au regard du tableau des résistances, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Il est sensible sur le virus A H3N2",
+   "Il est résistant sur le virus B",
+   "Il est sensible sur le virus A H1N1 saisonnier",
+   "Il est résistant sur le nouveau virus A H1N1 2009",
+   "Il est résistant sur le virus A H1N1 saisonnier"
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Vrai : S sur H3N2.",
+   "Faux : sensible sur B.",
+   "Faux : résistant sur le H1N1 saisonnier.",
+   "Faux : sensible.",
+   "Vrai : oseltamivir R sur H1N1 saisonnier."
+  ]
+ },
+ {
+  "q": "Un patient présente une grippe à virus A H1N1 saisonnier résistant à l'oseltamivir. Parmi les propositions suivantes, lesquelles sont exactes ?",
+  "options": [
+   "Le zanamivir reste une option active",
+   "L'oseltamivir reste efficace malgré la résistance",
+   "Le traitement symptomatique (antipyrétiques, antalgiques) est indiqué",
+   "Les adamantanes (amantadine, rimantadine) restent actifs sur ce virus",
+   "L'antibiotique systématique est indiqué"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : zanamivir S sur le H1N1 saisonnier.",
+   "Faux : résistance à l'oseltamivir.",
+   "Vrai : traitement symptomatique de base.",
+   "Vrai : adamantanes S sur le H1N1 saisonnier.",
+   "Faux : antibiotique seulement si surinfection."
+  ]
+ },
+ {
+  "q": "Concernant la ribavirine, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle fait partie des antiviraux du cours",
+   "Elle est citée dans le traitement symptomatique",
+   "Elle est citée dans le traitement étiologique de la grippe",
+   "C'est un antibiotique",
+   "Elle n'a aucune place dans la grippe"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : antiviral du cours.",
+   "Faux : traitement étiologique, pas symptomatique.",
+   "Vrai : citée en traitement étiologique.",
+   "Faux : c'est un antiviral.",
+   "Faux : citée dans le cours."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'antibiothérapie dans la grippe, lesquelles sont exactes ?",
+  "options": [
+   "Elle n'est pas systématique",
+   "Elle est indiquée en cas de surinfection bactérienne",
+   "Elle est active sur le virus influenza",
+   "Elle prévient le glissement antigénique",
+   "Les surinfections bactériennes sont des complications de la grippe"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : pas d'antibiotique systématique.",
+   "Vrai : si surinfection bactérienne.",
+   "Faux : aucun effet sur le virus.",
+   "Faux : aucun lien avec les variations antigéniques.",
+   "Vrai : complications citées."
+  ]
+ },
+ {
+  "q": "Relativement aux antitussifs et antipyrétiques, lesquelles sont exactes ?",
+  "options": [
+   "Les antalgiques luttent contre les douleurs",
+   "Ils font partie du traitement étiologique",
+   "Les antitussifs calment la toux",
+   "Les antipyrétiques luttent contre la fièvre",
+   "Ce sont des antiviraux spécifiques du virus influenza"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : antalgiques = douleurs.",
+   "Faux : traitement symptomatique.",
+   "Vrai : antitussifs = toux.",
+   "Vrai : antipyrétiques = fièvre.",
+   "Faux : pas d'action antivirale."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet des noms commerciaux des antiviraux ?",
+  "options": [
+   "L'oseltamivir est commercialisé sous le nom de Tamiflu",
+   "Le Tamiflu est de l'amantadine",
+   "Le Relenza est de la rimantadine",
+   "Le zanamivir est commercialisé sous le nom de Relenza",
+   "Relenza et Tamiflu sont des inhibiteurs de la neuraminidase"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : oseltamivir = Tamiflu.",
+   "Faux : Tamiflu = oseltamivir.",
+   "Faux : Relenza = zanamivir.",
+   "Vrai : zanamivir = Relenza.",
+   "Vrai : tous deux anti-NA."
+  ]
+ },
+ {
+  "q": "Au sujet de la résistance aux antiviraux dans son ensemble, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Le zanamivir reste actif sur les quatre types/sous-types du tableau",
+   "L'oseltamivir est inactif sur le H1N1 saisonnier",
+   "Le H1N1 2009 est sensible aux adamantanes",
+   "Les adamantanes ne sont actifs que sur le H1N1 saisonnier",
+   "Aucune résistance aux antiviraux n'existe"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : zanamivir S partout.",
+   "Vrai : oseltamivir R sur H1N1 saisonnier.",
+   "Faux : résistant aux adamantanes, sensible aux anti-NA.",
+   "Vrai : adamantanes S uniquement sur H1N1 saisonnier.",
+   "Faux : résistances documentées."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos du traitement d'une grippe B ?",
+  "options": [
+   "Le traitement symptomatique est indiqué",
+   "L'oseltamivir est actif",
+   "L'amantadine est inactive",
+   "L'amantadine est le traitement de choix",
+   "Le zanamivir est actif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : antipyrétiques, antalgiques.",
+   "Vrai : oseltamivir S sur B.",
+   "Vrai : adamantanes R sur B.",
+   "Faux : l'amantadine est inactive sur B.",
+   "Vrai : zanamivir S sur B."
+  ]
+ },
+ {
+  "q": "En ce qui concerne la prise en charge globale de la grippe, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Aucun traitement n'existe contre la grippe",
+   "L'isolement des malades fait partie des mesures associées",
+   "La vaccination est la mesure de prévention essentielle",
+   "Le traitement symptomatique est la base",
+   "Le traitement étiologique repose sur les antiviraux"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : traitements symptomatique et étiologique.",
+   "Vrai : mesure de prévention.",
+   "Vrai : vaccin annuel.",
+   "Vrai : antipyrétiques, antalgiques, antitussifs.",
+   "Vrai : adamantanes, anti-NA, ribavirine."
+  ]
+ },
+ {
+  "q": "Concernant le vaccin antigrippal, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est un vaccin inactivé et purifié",
+   "Il est revu tous les 10 ans",
+   "C'est un vaccin vivant atténué",
+   "Il contient deux souches de type A (H1N1 et H3N2)",
+   "Il contient une souche de type C"
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : inactivé et purifié.",
+   "Faux : revu annuellement.",
+   "Faux : vaccin inactivé.",
+   "Vrai : 2 souches A : H1N1 et H3N2.",
+   "Faux : 2 souches A + 1 souche B."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'immunité vaccinale, lesquelles sont exactes ?",
+  "options": [
+   "L'immunité apparaît en 2 à 3 semaines",
+   "L'immunité est définitive après une seule injection",
+   "La voie d'administration est orale",
+   "L'immunité dure 9 à 12 mois",
+   "La vaccination est réalisée entre début septembre et mi-novembre"
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : 2 à 3 semaines.",
+   "Faux : immunité de 9 à 12 mois, d'où la revaccination annuelle.",
+   "Faux : sous-cutanée ou intramusculaire.",
+   "Vrai : 9 à 12 mois.",
+   "Vrai : début septembre à mi-novembre."
+  ]
+ },
+ {
+  "q": "À propos des populations cibles de la vaccination, quelles affirmations sont exactes ?",
+  "options": [
+   "Les enfants de moins de 5 ans ne sont pas ciblés",
+   "Les sujets à risque sont vaccinés",
+   "Les femmes enceintes font partie des populations vulnérables",
+   "Le personnel de santé est vacciné",
+   "La vaccination est contre-indiquée chez le personnel de santé"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : enfants < 5 ans et > 6 mois ciblés.",
+   "Vrai : sujets à risque.",
+   "Vrai : femmes enceintes vulnérables.",
+   "Vrai : personnel de santé.",
+   "Faux : le personnel de santé est une cible prioritaire."
+  ]
+ },
+ {
+  "q": "Relativement aux objectifs de la vaccination, lesquelles sont exactes ?",
+  "options": [
+   "Éradiquer définitivement le virus de la grippe",
+   "Protéger les populations vulnérables",
+   "Vacciner le personnel stratégique (soignants, sécurité, services vitaux)",
+   "Réduire la mortalité et la morbidité",
+   "Préserver l'intégrité du système de soins"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la grippe ne peut jamais être éradiquée.",
+   "Vrai : pèlerins, femmes enceintes, enfants, malades chroniques.",
+   "Vrai : professionnels de santé, sécurité, services vitaux.",
+   "Vrai : réduire mortalité et morbidité.",
+   "Vrai : intégrité du système de soins."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet des populations vulnérables ?",
+  "options": [
+   "Les pèlerins en font partie",
+   "Les enfants de moins de 5 ans et de plus de 6 mois en font partie",
+   "Les femmes enceintes en font partie",
+   "Les malades atteints de pathologies chroniques en font partie",
+   "Les adultes en bonne santé ne sont jamais vaccinés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pèlerins cités.",
+   "Vrai : enfants < 5 ans et > 6 mois.",
+   "Vrai : femmes enceintes citées.",
+   "Vrai : pathologies chroniques citées.",
+   "Faux : les adultes en bonne santé sont aussi cités."
+  ]
+ },
+ {
+  "q": "Au sujet des mesures de prévention non vaccinales, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La désinfection des locaux est inutile",
+   "Le non-port de masque est recommandé",
+   "Le lavage des mains",
+   "L'isolement des malades",
+   "Le partage des mouchoirs usagés"
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : désinfection des surfaces et locaux recommandée.",
+   "Faux : port de masques et de gants recommandé.",
+   "Vrai : lavage des mains.",
+   "Vrai : isolement des malades.",
+   "Faux : mesure à proscrire."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos de l'hygiène préventive ?",
+  "options": [
+   "Conserver le mouchoir usagé dans la poche",
+   "Utiliser des solutions hydro-alcooliques",
+   "Se laver fréquemment les mains à l'eau et au savon",
+   "Se toucher fréquemment les yeux, le nez et la bouche",
+   "Se couvrir la bouche avec un mouchoir en papier en toussant"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : le jeter dans une poubelle.",
+   "Vrai : solutions hydro-alcooliques.",
+   "Vrai : lavage des mains.",
+   "Faux : il faut éviter de se toucher le visage.",
+   "Vrai : couvrir la bouche en toussant."
+  ]
+ },
+ {
+  "q": "En ce qui concerne les recommandations en cas de grippe, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Nettoyer et désinfecter les objets utilisés par le malade",
+   "Rester chez soi lorsqu'on est malade",
+   "Éviter le contact avec d'autres personnes",
+   "Continuer à travailler en collectivité malgré la fièvre",
+   "La surveillance des sujets contacts est inutile"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : désinfecter les objets du malade.",
+   "Vrai : rester chez soi.",
+   "Vrai : éviter les contacts.",
+   "Faux : isolement recommandé.",
+   "Faux : surveillance active recommandée."
+  ]
+ },
+ {
+  "q": "Parmi ces affirmations relatives à la gestion des déchets et des locaux, lesquelles sont exactes ?",
+  "options": [
+   "Le port de gants fait partie des mesures",
+   "Les mouchoirs usagés doivent être jetés dans une poubelle",
+   "Aucune mesure d'hygiène n'est utile contre la grippe",
+   "La gestion des déchets fait partie des mesures de prévention",
+   "La désinfection des surfaces et des locaux est recommandée"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : port de gants.",
+   "Vrai : jeter les mouchoirs usagés.",
+   "Faux : mesures d'hygiène essentielles.",
+   "Vrai : gestion des déchets.",
+   "Vrai : désinfection surfaces et locaux."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la revaccination annuelle ?",
+  "options": [
+   "Le vaccin est revu chaque année",
+   "L'immunité vaccinale ne dure que 9 à 12 mois",
+   "Un vaccin unique protège à vie",
+   "La revue tient compte de la situation épidémiologique",
+   "Le glissement antigénique justifie cette revue annuelle"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : revue annuelle.",
+   "Vrai : 9 à 12 mois.",
+   "Faux : revaccination annuelle nécessaire.",
+   "Vrai : selon la situation épidémiologique.",
+   "Vrai : drift = nouveaux variants."
+  ]
+ },
+ {
+  "q": "S'agissant du calendrier vaccinal, lesquelles sont exactes ?",
+  "options": [
+   "La vaccination précède la saison hivernale des épidémies",
+   "La vaccination est réalisée entre début septembre et mi-novembre",
+   "L'immunité est immédiate dès l'injection",
+   "L'immunité apparaît en 2 à 3 semaines",
+   "La vaccination se fait en été après les épidémies"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : avant l'hiver épidémique.",
+   "Vrai : septembre à mi-novembre.",
+   "Faux : délai de 2 à 3 semaines.",
+   "Vrai : 2 à 3 semaines.",
+   "Faux : avant la saison, pas après."
+  ]
+ },
+ {
+  "q": "À propos de la composition du vaccin, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "C'est un vaccin vivant atténué",
+   "Il contient une souche de type C",
+   "Il contient une souche A H1N1",
+   "Il contient deux souches de type B",
+   "Il contient une souche A H3N2"
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : inactivé et purifié.",
+   "Faux : pas de souche C.",
+   "Vrai : souche A H1N1.",
+   "Faux : une seule souche B (+ 2 souches A).",
+   "Vrai : souche A H3N2."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination du personnel stratégique, quelles affirmations sont exactes ?",
+  "options": [
+   "Le personnel de sécurité est concerné",
+   "Le personnel assurant la continuité des services vitaux est concerné",
+   "L'objectif est d'éradiquer le virus",
+   "Seuls les malades sont vaccinés",
+   "Les professionnels de santé sont concernés"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : personnel de sécurité.",
+   "Vrai : continuité des services vitaux.",
+   "Faux : préserver l'intégrité du système de soins.",
+   "Faux : vaccination des bien-portants stratégiques.",
+   "Vrai : professionnels de santé."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la prévention de la grippe, lesquelles sont exactes ?",
+  "options": [
+   "L'isolement des malades limite la transmission",
+   "La grippe peut être éradiquée par la vaccination",
+   "Les mesures d'hygiène complètent la vaccination",
+   "Le vaccin est inactivé et purifié",
+   "La vaccination annuelle est la mesure essentielle"
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : isolement des malades.",
+   "Faux : maladie qu'on ne peut jamais éradiquer.",
+   "Vrai : hygiène des mains, masques...",
+   "Vrai : inactivé et purifié.",
+   "Vrai : vaccination +++, annuelle."
+  ]
+ },
+ {
+  "q": "Relativement aux pèlerins et à la vaccination, lesquelles sont exactes ?",
+  "options": [
+   "Les collectivités favorisent la transmission",
+   "Ils sont ciblés par la vaccination pour réduire la morbidité",
+   "Les pèlerins font partie des populations vulnérables",
+   "Les pèlerins ne sont pas concernés par la grippe",
+   "Le lavage des mains est recommandé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : collectivités à risque.",
+   "Vrai : réduire mortalité et morbidité.",
+   "Vrai : pèlerins = population vulnérable.",
+   "Faux : population ciblée.",
+   "Vrai : hygiène des mains."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet de la voie d'administration du vaccin ?",
+  "options": [
+   "La voie sous-cutanée est utilisée",
+   "La voie intramusculaire est utilisée",
+   "L'immunité apparaît en 2 à 3 semaines",
+   "La vaccination est annuelle",
+   "Le vaccin s'administre par voie orale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : S/C.",
+   "Vrai : IM.",
+   "Vrai : 2 à 3 semaines.",
+   "Vrai : annuelle.",
+   "Faux : S/C ou IM."
+  ]
+ },
+ {
+  "q": "Au sujet de la conclusion du cours sur la grippe, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est une maladie bénigne le plus souvent",
+   "On ne peut jamais l'éradiquer",
+   "Les résistances aux antiviraux sont en régression",
+   "C'est une maladie éradiquée depuis 2009",
+   "Les souches animales ne jouent aucun rôle"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : bénigne le plus souvent.",
+   "Vrai : jamais éradiquée.",
+   "Faux : la compréhension des glissements et résistances progresse.",
+   "Faux : non éradiquée.",
+   "Faux : leurs mouvements entretiennent le risque."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions sont exactes à propos de la surveillance des sujets contacts ?",
+  "options": [
+   "Elle est inutile",
+   "Elle complète l'isolement des malades",
+   "C'est une mesure de prévention",
+   "Elle remplace la vaccination",
+   "Elle est dite « active »"
+  ],
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : mesure recommandée.",
+   "Vrai : avec l'isolement.",
+   "Vrai : mesure de prévention.",
+   "Faux : mesures complémentaires.",
+   "Vrai : surveillance active."
+  ]
+ },
+ {
+  "q": "Concernant les cibles des antiviraux parmi les protéines virales, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "L'amantadine ne cible ni l'HA ni la NA mais bloque la pénétration",
+   "L'oseltamivir cible l'hémagglutinine",
+   "Aucun des antiviraux cités ne cible l'hémagglutinine",
+   "La ribavirine est un antibiotique",
+   "La neuraminidase est la cible du zanamivir et de l'oseltamivir"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'amantadine bloque la pénétration du virus de type A.",
+   "Faux : l'oseltamivir cible la neuraminidase.",
+   "Vrai : l'HA n'est la cible d'aucun antiviral cité.",
+   "Faux : antiviral du traitement étiologique.",
+   "Vrai : zanamivir et oseltamivir = inhibiteurs de la NA."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles sont exactes concernant les techniques de diagnostic direct de la grippe ?",
+  "options": [
+   "La fixation du complément",
+   "La recherche d'antigènes par IFA ou IP",
+   "La culture virale",
+   "La recherche du génome par RT-PCR",
+   "La sérologie par HAI sur deux prélèvements"
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : technique abandonnée, et indirecte.",
+   "Vrai : IFA/IP = recherche d'Ag.",
+   "Vrai : culture = diagnostic direct de référence.",
+   "Vrai : RT-PCR = recherche du génome.",
+   "Faux : la sérologie est un diagnostic indirect."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes à propos des deux classes d'antiviraux antigrippaux ?",
+  "options": [
+   "Les deux classes inhibent la neuraminidase",
+   "Les adamantanes (amantadine, rimantadine) bloquent la pénétration du virus",
+   "Les adamantanes ne sont actifs que sur le virus de type A",
+   "Les inhibiteurs de la NA sont actifs sur les virus A et B",
+   "Les inhibiteurs de la NA (zanamivir, oseltamivir) bloquent la libération des virions"
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : seuls le zanamivir et l'oseltamivir inhibent la NA.",
+   "Vrai : blocage de la pénétration.",
+   "Vrai : type A uniquement.",
+   "Vrai : zanamivir et oseltamivir sensibles sur B.",
+   "Vrai : blocage de la libération des virions."
+  ]
+ },
+ {
+  "q": "Concernant la transmission par les mains et les surfaces contaminées, lesquelles de ces propositions sont exactes ?",
+  "options": [
+   "Le contact direct intime transmet la maladie",
+   "Le lavage fréquent des mains est une mesure de prévention",
+   "La désinfection des objets utilisés par le malade est recommandée",
+   "Les gouttelettes de salive peuvent contaminer les mains et les surfaces",
+   "La grippe se transmet principalement par l'eau de boisson"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : contact direct intime.",
+   "Vrai : lavage des mains à l'eau et au savon.",
+   "Vrai : nettoyer et désinfecter les objets du malade.",
+   "Vrai : gouttelettes sur mains, surfaces ou dans l'air.",
+   "Faux : transmission respiratoire, pas hydrique."
+  ]
+ }
+]

@@ -1,0 +1,4511 @@
+[
+ {
+  "q": "Concernant la définition de l'immunité, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Étymologiquement, << immunité >> vient du latin immunis et signifie l'exemption des impôts",
+   "En médecine, l'immunité se définit comme l'exemption de maladie",
+   "L'immunité correspond à la résistance de l'organisme aux agents infectieux",
+   "L'immunité est un état de susceptibilité accrue aux infections",
+   "L'immunité se définit comme l'absence totale de toute réponse immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le cours rappelle l'origine latine immunis, soit l'exemption des impôts.",
+   "Exact : en médecine, immunité = exemption de maladie.",
+   "Exact : c'est la résistance aux agents infectieux.",
+   "Faux : la susceptibilité accrue aux infections est l'inverse de l'immunité.",
+   "Faux : l'immunité est un ensemble de mécanismes actifs, pas leur absence."
+  ]
+ },
+ {
+  "q": "À propos de l'étymologie du mot << immunité >>, lesquelles sont exactes ?",
+  "options": [
+   "Il dérive du latin << immunis >>",
+   "Le préfixe << im >> marque la négation",
+   "<< munis >> signifie charge, impôt",
+   "<< immunis >> signifiait << soumis aux impôts >>",
+   "<< munis >> signifiait << protection divine >>"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : immunité vient du latin immunis.",
+   "Exact : << im >> marque la négation.",
+   "Exact : << munis >> = charge, impôt.",
+   "Faux : immunis signifiait au contraire l'exemption des charges.",
+   "Faux : munis signifie charge, impôt, et non protection divine."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives à l'immunologie, lesquelles sont exactes ?",
+  "options": [
+   "L'immunologie est la science qui étudie le système immunitaire",
+   "L'immunologie étudie uniquement les organes lymphoides",
+   "L'immunologie est une discipline scientifique",
+   "L'immunologie est la science des mécanismes de défense de l'organisme",
+   "L'immunologie se limite à l'étude des microbes"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : définition du cours, l'immunologie étudie le SI.",
+   "Faux : elle étudie aussi les cellules et les molécules du SI.",
+   "Exact : l'immunologie est une discipline scientifique à part entière.",
+   "Exact : elle étudie les mécanismes de défense de l'organisme.",
+   "Faux : les microbes sont des cibles, pas l'objet limite de la discipline."
+  ]
+ },
+ {
+  "q": "Le système immunitaire (SI) est constitué des éléments suivants. Lesquelles sont exactes ?",
+  "options": [
+   "De tissus et d'organes",
+   "De cellules",
+   "De molécules",
+   "Exclusivement de cellules sanguines circulantes",
+   "Il représente l'immunité de l'organisme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le SI comprend des tissus et des organes lymphoides.",
+   "Exact : il comprend les cellules de l'immunité.",
+   "Exact : il comprend aussi des molécules (cytokines, HLA, complément...).",
+   "Faux : le SI ne se résume pas aux seules cellules sanguines.",
+   "Exact : le SI constitue l'immunité de l'organisme."
+  ]
+ },
+ {
+  "q": "En médecine, lesquelles définissent correctement l'immunité ?",
+  "options": [
+   "L'exemption de maladie",
+   "La résistance aux agents infectieux",
+   "L'ensemble des mécanismes biologiques de reconnaissance du soi et de rejet du non-soi",
+   "Un synonyme de l'inflammation",
+   "La capacité de l'organisme à attaquer ses propres tissus sains"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : c'est la définition médicale retenue par le cours.",
+   "Exact : l'immunité est la résistance aux agents infectieux.",
+   "Exact : c'est l'ensemble des mécanismes biologiques du soi et du non-soi.",
+   "Faux : l'inflammation n'est qu'une manifestation, pas un synonyme.",
+   "Faux : attaquer ses tissus sains relève de l'auto-immunité, pas de l'immunité normale."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sur l'immunité sont INEXACTES ?",
+  "options": [
+   "L'immunité inclut la tolérance du soi",
+   "L'immunité inclut le rejet du non-soi",
+   "L'immunité se résume à la production d'anticorps",
+   "L'immunité n'implique aucune molécule",
+   "L'immunologie étudie le système immunitaire"
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Exact, donc non retenue : la tolérance du soi est un pilier de l'immunité.",
+   "Exact, donc non retenue : le rejet du non-soi est l'autre pilier.",
+   "Inexact : les anticorps ne sont qu'un versant humoral parmi d'autres mécanismes.",
+   "Inexact : cytokines, HLA et complément sont des molécules du SI.",
+   "Exact, donc non retenue : c'est la définition de l'immunologie."
+  ]
+ },
+ {
+  "q": "L'immunité de l'organisme désigne l'ensemble des mécanismes biologiques qui :",
+  "options": [
+   "Reconnaissent ce qui appartient à l'organisme : le soi",
+   "Tolèrent le soi",
+   "Décelent ce qui est étranger : le non-soi",
+   "Rejettent le non-soi",
+   "Ignorent systématiquement tout antigène rencontre"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la reconnaissance du soi est la première fonction.",
+   "Exact : le soi doit être toléré.",
+   "Exact : le non-soi doit être décelé.",
+   "Exact : le non-soi décèle doit être rejeté.",
+   "Faux : l'immunité détecte et répond aux antigènes, elle ne les ignore pas."
+  ]
+ },
+ {
+  "q": "Dans la Rome antique, le terme << immunis >> renvoyait à :",
+  "options": [
+   "Une personne exemptée de charges publiques et d'impôts",
+   "Une personne soumise à l'impôt",
+   "L'idée d'exemption",
+   "L'idée de maladie contagieuse",
+   "Un mot qui a donné en français << immunité >>"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'immunis était dispensé de charges.",
+   "Faux : c'est le sens inverse, il en était exempte.",
+   "Exact : le cœur du mot est l'exemption.",
+   "Faux : le sens médical de maladie est posterieur.",
+   "Exact : immunité dérive directement d'immunis."
+  ]
+ },
+ {
+  "q": "Parmi les éléments suivants, lesquels font partie des tissus et organes du système immunitaire ?",
+  "options": [
+   "Les organes lymphoides",
+   "La moelle osseuse et le thymus",
+   "Les ganglions lymphatiques et la rate",
+   "Le cœur et les poumons",
+   "Le système nerveux central"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les organes lymphoides sont les organes du SI.",
+   "Exact : moelle osseuse et thymus sont les organes lymphoides primaires.",
+   "Exact : ganglions et rate sont des organes lymphoides secondaires.",
+   "Faux : ce ne sont pas des organes lymphoides.",
+   "Faux : le système nerveux n'appartient pas au SI."
+  ]
+ },
+ {
+  "q": "Lesquelles des cellules suivantes appartiennent au système immunitaire ?",
+  "options": [
+   "Les lymphocytes",
+   "Les macrophages",
+   "Les cellules dendritiques",
+   "Les cellules épithéliales de revêtement",
+   "Les polynucléaires neutrophiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : lymphocytes T et B sont les cellules de l'adaptatif.",
+   "Exact : les macrophages sont des cellules de l'inné.",
+   "Exact : les cellules dendritiques sont des CPA de l'inné.",
+   "Faux : les cellules épithéliales ne sont pas des cellules immunes.",
+   "Exact : les PNN sont des cellules de l'inné."
+  ]
+ },
+ {
+  "q": "Lesquelles des molécules suivantes appartiennent au système immunitaire ?",
+  "options": [
+   "Les cytokines",
+   "Les protéines du complément",
+   "Les immunoglobulines",
+   "Les hormones thyroïdiennes",
+   "Les molécules HLA"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les cytokines sont des molécules de communication du SI.",
+   "Exact : le complément est un ensemble de protéines du SI.",
+   "Exact : les immunoglobulines sont les molécules de l'humoral.",
+   "Faux : les hormones thyroïdiennes n'appartiennent pas au SI.",
+   "Exact : les molécules HLA présentent l'antigène aux LT."
+  ]
+ },
+ {
+  "q": "Concernant l'<< exemption de maladie >>, lesquelles sont exactes ?",
+  "options": [
+   "L'immunité protège l'organisme contre les agents infectieux",
+   "Un déficit de l'immunité expose aux infections",
+   "L'immunité garantit l'absence absolue de toute maladie",
+   "L'immunité concerne aussi la lutte contre les cellules tumorales",
+   "L'immunité comporte un versant inné et un versant adaptatif"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : c'est le sens de la résistance aux agents infectieux.",
+   "Exact : toute altération de l'immunité expose à la maladie.",
+   "Faux : aucune immunité ne garantit une protection absolue.",
+   "Exact : les constituants propres altérés, dont les cellules tumorales, sont rejetés.",
+   "Exact : immunités innées et adaptatives cooperent."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "L'immunologie étudie les antibiotiques",
+   "Le système immunitaire ne comprend que des cellules",
+   "L'immunité est l'exemption de maladie",
+   "Immunis vient du grec ancien",
+   "Le système immunitaire comprend des molécules"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Inexact : l'immunologie étudie le SI, pas les antibiotiques.",
+   "Inexact : le SI comprend aussi organes, tissus et molécules.",
+   "Exact, donc non retenue : c'est la définition médicale.",
+   "Inexact : immunis vient du latin.",
+   "Exact, donc non retenue : cytokines, HLA et complément en sont des exemples."
+  ]
+ },
+ {
+  "q": "La résistance aux agents infectieux :",
+  "options": [
+   "Fait intervenir les barrières physiques comme la peau",
+   "Fait intervenir les phagocytes",
+   "Fait intervenir les anticorps",
+   "Repose uniquement sur l'immunité innée",
+   "Repose uniquement sur l'immunité adaptative"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la peau est une barrière physique initiale.",
+   "Exact : macrophages, PNN et DC phagocytent les pathogènes.",
+   "Exact : les immunoglobulines participent à la défense humorale.",
+   "Faux : l'adaptatif y participe aussi.",
+   "Faux : l'inné y participe aussi ; les deux sont interdépendantes."
+  ]
+ },
+ {
+  "q": "L'immunité de l'organisme est :",
+  "options": [
+   "L'ensemble des mécanismes biologiques de défense",
+   "Un système qui reconnaît et tolère le soi",
+   "Un système qui rejette le non-soi",
+   "Un système limite à la peau et aux muqueuses",
+   "Un système qui n'agit que contre les virus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : c'est l'ensemble des mécanismes biologiques.",
+   "Exact : reconnaissance et tolérance du soi.",
+   "Exact : détection et rejet du non-soi.",
+   "Faux : peau et muqueuses ne sont que des barrières physiques.",
+   "Faux : il agit contre bactéries, virus, parasites et cellules altérées."
+  ]
+ },
+ {
+  "q": "Concernant le préfixe << im >> et le radical << munis >> :",
+  "options": [
+   "<< im-munis >> signifie << non soumis à la charge >>",
+   "Par analogie médicale, l'immunité rend << non soumis à la maladie >>",
+   "<< im >> marque l'intensité",
+   "<< munis >> signifie << maladie >>",
+   "<< immunis >> signifiait << contagieux >>"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : im (négation) + munis (charge) = exempte de charge.",
+   "Exact : en médecine, exemption de maladie.",
+   "Faux : << im >> marque la négation, pas l'intensité.",
+   "Faux : munis signifie charge, impôt.",
+   "Faux : immunis signifiait exempte, jamais contagieux."
+  ]
+ },
+ {
+  "q": "Le cours distingue deux sens du mot << immunité >> :",
+  "options": [
+   "En médecine, le sens retenu est l'exemption de maladie",
+   "Le sens fiscal (exemption d'impôts) reste le sens médical actuel",
+   "La résistance aux agents infectieux en est l'expression concrète",
+   "Tout individu est totalement exempte de maladie grâce à l'immunité",
+   "L'immunité médicale implique des mécanismes biologiques actifs"
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : c'est la définition médicale du cours.",
+   "Faux : le sens fiscal n'est que l'origine étymologique.",
+   "Exact : résister aux agents infectieux, c'est être exempte de maladie.",
+   "Faux : l'exemption n'est jamais totale ni absolue.",
+   "Exact : organes, cellules et molécules y participent."
+  ]
+ },
+ {
+  "q": "Lesquelles associent correctement chaque terme à sa définition ?",
+  "options": [
+   "Immunité = ensemble des mécanismes de reconnaissance du soi et de rejet du non-soi",
+   "Système immunitaire = tissus, organes, cellules et molécules de l'immunité",
+   "Immunologie = science qui étudie le système immunitaire",
+   "Immunologie = science qui étudie uniquement les maladies infectieuses",
+   "Système immunitaire = immunité de l'organisme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : c'est la définition fonctionnelle de l'immunité.",
+   "Exact : ce sont les éléments constitutifs du SI.",
+   "Exact : définition de la discipline.",
+   "Faux : elle étudie le SI dans son ensemble, pas seulement les infections.",
+   "Exact : le SI représente l'immunité de l'organisme."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "L'immunologie étudie les impôts romains",
+   "Le SI est formé d'un seul type d'élément",
+   "Immunis vient du grec",
+   "L'immunité est l'exemption de maladie",
+   "L'immunologie étudie le système immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : l'étymologie n'est pas l'objet de la discipline.",
+   "Inexact : tissus, organes, cellules et molécules le composent.",
+   "Inexact : immunis est un mot latin.",
+   "Exact, donc non retenue : définition médicale.",
+   "Exact, donc non retenue : définition de l'immunologie."
+  ]
+ },
+ {
+  "q": "L'immunité comme << résistance aux agents infectieux >> :",
+  "options": [
+   "Elle s'exprime contre les bactéries pathogènes",
+   "Elle s'exprime contre les virus",
+   "Elle fait intervenir les barrières naturelles",
+   "Elle fait intervenir les lymphocytes",
+   "Elle signifie que l'organisme ne rencontre jamais de microbes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les bactéries sont des agents infectieux.",
+   "Exact : les virus sont des agents infectieux.",
+   "Exact : les barrières assurent la protection initiale.",
+   "Exact : LT et LB participent à la défense.",
+   "Faux : résister ne signifie pas ne jamais rencontrer de microbes."
+  ]
+ },
+ {
+  "q": "Concernant le << soi >>, lesquelles des propositions suivantes sont exactes ?",
+  "options": [
+   "Le soi correspond à ce qui appartient à l'organisme",
+   "Le soi doit être reconnu par le système immunitaire",
+   "Le soi doit être toléré par le système immunitaire",
+   "Les cellules tumorales font partie du soi normal",
+   "Les agents infectieux font partie du soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le soi = ce qui appartient à l'organisme.",
+   "Exact : première fonction, reconnaître le soi.",
+   "Exact : seconde fonction, tolérer le soi.",
+   "Faux : les cellules tumorales sont des constituants propres altérés, donc du non-soi.",
+   "Faux : les agents infectieux sont étrangers, donc du non-soi."
+  ]
+ },
+ {
+  "q": "Le << non-soi >> comprend :",
+  "options": [
+   "Les substances étrangères",
+   "Les agents infectieux",
+   "Les constituants propres altérés de l'organisme",
+   "Les cellules tumorales",
+   "Les tissus sains de l'organisme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : toute substance étrangère est du non-soi.",
+   "Exact : les agents infectieux sont du non-soi.",
+   "Exact : les constituants propres altérés sont assimilés au non-soi.",
+   "Exact : les cellules tumorales sont des propres altérés.",
+   "Faux : les tissus sains appartiennent au soi et doivent être tolérés."
+  ]
+ },
+ {
+  "q": "L'immunité est l'ensemble des mécanismes qui visent à :",
+  "options": [
+   "Reconnaître le soi",
+   "Tolérer le soi",
+   "Rejeter le soi",
+   "Déceler le non-soi",
+   "Tolérer le non-soi"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : reconnaître ce qui appartient à l'organisme.",
+   "Exact : ne pas attaquer ses propres constituants.",
+   "Faux : rejeter le soi serait de l'auto-immunité.",
+   "Exact : detecter ce qui est étranger.",
+   "Faux : le non-soi décèle doit être rejeté, pas tolère."
+  ]
+ },
+ {
+  "q": "Concernant les cellules tumorales, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des constituants propres de l'organisme",
+   "Ce sont des constituants propres altérés",
+   "Elles sont considérées comme du non-soi",
+   "Elles sont normalement tolérées par le SI",
+   "Elles sont rejetées par le système immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : elles dérivent des propres cellules de l'organisme.",
+   "Exact : elles sont transformées, donc altérées.",
+   "Exact : propres altérés = assimilées au non-soi.",
+   "Faux : le SI ne les tolère pas, il les combat.",
+   "Exact : le SI les détecte et les rejette."
+  ]
+ },
+ {
+  "q": "La tolérance du soi :",
+  "options": [
+   "Évite la destruction des propres tissus de l'organisme",
+   "Sa rupture expose aux maladies auto-immunes",
+   "Signifie l'absence totale de lymphocytes",
+   "Concerne les constituants propres normaux",
+   "Est absolue et ne peut jamais être rompue"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : tolérer le soi protège les tissus sains.",
+   "Exact : défaut de tolérance = auto-immunité.",
+   "Faux : les lymphocytes existent et sont éduqués à tolérer le soi.",
+   "Exact : ce sont eux qui doivent être tolérés.",
+   "Faux : sa rupture est précisément la cause des maladies auto-immunes."
+  ]
+ },
+ {
+  "q": "Le rejet du non-soi :",
+  "options": [
+   "Permet l'élimination des agents infectieux",
+   "Implique l'activation des lymphocytes",
+   "Fait intervenir les phagocytes de l'immunité innée",
+   "Concerne aussi les tissus greffes étrangers",
+   "Signifie tolérer durablement les microbes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : c'est la finalité anti-infectieuse.",
+   "Exact : LT et LB s'activent contre le non-soi.",
+   "Exact : macrophages et PNN participent à l'élimination.",
+   "Exact : une greffe étrangère est du non-soi.",
+   "Faux : les microbes pathogènes doivent être éliminés, pas tolérés."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Le soi doit être rejeté",
+   "Le non-soi doit être toléré",
+   "Les cellules tumorales sont du soi normal",
+   "L'immunité reconnaît le soi",
+   "Le SI distingue le soi du non-soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : le soi doit être toléré, non rejeté.",
+   "Inexact : le non-soi doit être rejeté, non tolère.",
+   "Inexact : ce sont des propres altérés, donc du non-soi.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue : c'est la fonction fondamentale."
+  ]
+ },
+ {
+  "q": "<< Déceler et rejeter >> le non-soi signifie :",
+  "options": [
+   "Déceler = detecter, reconnaître ce qui est étranger",
+   "Rejeter = éliminer ce qui a été décelé",
+   "Cela s'applique aux substances étrangères",
+   "Cela s'applique aux agents infectieux",
+   "Cela s'applique aux tissus propres sains"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : déceler, c'est detecter le non-soi.",
+   "Exact : rejeter, c'est l'éliminer.",
+   "Exact : les substances étrangères sont du non-soi.",
+   "Exact : les agents infectieux sont du non-soi.",
+   "Faux : les tissus propres sains sont du soi et doivent être tolérés."
+  ]
+ },
+ {
+  "q": "<< Reconnaître et tolérer >> le soi signifie :",
+  "options": [
+   "Reconnaître les constituants propres de l'organisme",
+   "Tolérer ces constituants au lieu de les attaquer",
+   "Reconnaître le soi pour mieux l'attaquer",
+   "Que la tolérance évite l'autodestruction des tissus",
+   "Que cette fonction concerne le non-soi"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : identifier ce qui appartient à l'organisme.",
+   "Exact : ne pas déclencher de réponse contre le soi.",
+   "Faux : reconnaître le soi sert à le protéger, pas à l'attaquer.",
+   "Exact : sans tolérance, le SI détruirait ses propres tissus.",
+   "Faux : reconnaître et tolérer concernent le soi."
+  ]
+ },
+ {
+  "q": "Parmi les éléments suivants, lesquels relèvent du non-soi ?",
+  "options": [
+   "Les bactéries pathogènes",
+   "Les virus",
+   "Les cellules tumorales",
+   "Les cellules saines du foie",
+   "Les parasites"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : bactéries pathogènes = étrangères.",
+   "Exact : virus = agents infectieux étrangers.",
+   "Exact : propres altérés assimilées au non-soi.",
+   "Faux : les cellules saines du foie sont du soi.",
+   "Exact : les parasites sont des agents étrangers."
+  ]
+ },
+ {
+  "q": "Parmi les éléments suivants, lesquels relèvent du soi normal ?",
+  "options": [
+   "Les cellules saines de l'organisme",
+   "Les protéines propres normales",
+   "Les molécules HLA propres",
+   "Les bactéries saprophytes intestinales",
+   "Les cellules tumorales"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les cellules saines appartiennent au soi.",
+   "Exact : les protéines propres normales sont du soi.",
+   "Exact : les molécules HLA propres identifient le soi.",
+   "Faux : les saprophytes sont étrangères mais tolérées comme barrière biologique.",
+   "Faux : les cellules tumorales sont des propres altérés, donc du non-soi."
+  ]
+ },
+ {
+  "q": "L'ensemble des mécanismes biologiques de l'immunité :",
+  "options": [
+   "Inclut des organes lymphoides",
+   "Inclut des cellules immunes",
+   "Inclut des molécules",
+   "Se limite aux seuls anticorps",
+   "Vise la distinction entre le soi et le non-soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : organes primaires et secondaires.",
+   "Exact : cellules de l'inné et de l'adaptatif.",
+   "Exact : cytokines, HLA, complément, immunoglobulines.",
+   "Faux : les anticorps ne sont qu'un des nombreux mécanismes.",
+   "Exact : c'est la finalité fonctionnelle de l'immunité."
+  ]
+ },
+ {
+  "q": "Les << propres constituants altérés >> de l'organisme :",
+  "options": [
+   "Incluent les cellules tumorales",
+   "Incluent les cellules infectées par un virus",
+   "Incluent les cellules saines au repos",
+   "Sont rejetés comme du non-soi",
+   "Sont toujours tolérés par le système immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : exemple donné par le cours.",
+   "Exact : une cellule infectée est un propre altère.",
+   "Faux : les cellules saines sont du soi normal.",
+   "Exact : altérés, ils sont assimilés au non-soi.",
+   "Faux : le SI les détecte et les rejette."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Tolérer le non-soi est un objectif de l'immunité",
+   "Rejeter le soi est un objectif de l'immunité",
+   "Le SI ne distingue pas le soi du non-soi",
+   "Les agents infectieux sont du non-soi",
+   "Les cellules tumorales sont du non-soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : le non-soi doit être rejeté.",
+   "Inexact : le soi doit être toléré.",
+   "Inexact : cette distinction est sa fonction fondamentale.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue : propres altérés."
+  ]
+ },
+ {
+  "q": "Les conséquences d'une immunité normale vis-à-vis du soi et du non-soi :",
+  "options": [
+   "Le soi est toléré et le non-soi est rejeté",
+   "Un défaut de tolérance expose aux maladies auto-immunes",
+   "Un défaut de rejet expose aux infections et aux tumeurs",
+   "Toute altération de l'immunité expose à la maladie",
+   "L'immunité n'a aucun rôle contre les cellules tumorales"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : c'est l'équilibre défini par le cours.",
+   "Exact : attaquer le soi = auto-immunité.",
+   "Exact : ne pas éliminer le non-soi laisse infections et tumeurs.",
+   "Exact : conclusion du cours.",
+   "Faux : les propres altérés, dont les tumeurs, sont rejetés."
+  ]
+ },
+ {
+  "q": "Synthèse sur le soi et le non-soi. Lesquelles sont exactes ?",
+  "options": [
+   "Le système immunitaire reconnaît le soi",
+   "Le système immunitaire tolère le soi",
+   "Le système immunitaire décèle le non-soi",
+   "Le système immunitaire rejette le non-soi",
+   "Le système immunitaire attaque indistinctement tout antigène, y compris le soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : reconnaissance du soi.",
+   "Exact : tolérance du soi.",
+   "Exact : détection du non-soi.",
+   "Exact : rejet du non-soi.",
+   "Faux : l'attaque indistincte du soi serait pathologique."
+  ]
+ },
+ {
+  "q": "Les éléments du système immunitaire sont :",
+  "options": [
+   "Des organes lymphoides",
+   "Des cellules de l'immunité",
+   "Des molécules",
+   "Des tissus uniquement, sans cellules ni molécules",
+   "Des organes lymphoides primaires et secondaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : organes lymphoides primaires et secondaires.",
+   "Exact : cellules de l'inné et de l'adaptatif.",
+   "Exact : molécules de reconnaissance et autres molécules.",
+   "Faux : le SI comprend aussi cellules et molécules.",
+   "Exact : les deux catégories d'organes lymphoides."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Le SI ne comprend aucune molécule",
+   "Le SI ne comprend que des organes",
+   "Les cytokines sont des molécules du SI",
+   "Les lymphocytes sont des cellules du SI",
+   "La rate est un organe du SI"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Inexact : cytokines, HLA et complément sont des molécules du SI.",
+   "Inexact : il comprend aussi cellules et molécules.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue : organe lymphoide secondaire."
+  ]
+ },
+ {
+  "q": "Concernant les organes du système immunitaire :",
+  "options": [
+   "Les organes lymphoides primaires sont la moelle osseuse et le thymus",
+   "Les organes lymphoides secondaires sont les ganglions, la rate et le MALT",
+   "Les organes primaires sont les ganglions lymphatiques",
+   "Les organes secondaires sont le thymus",
+   "Il existe deux catégories d'organes lymphoides"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : MO + thymus = primaires.",
+   "Exact : ganglions + rate + MALT = secondaires.",
+   "Faux : les ganglions sont des organes secondaires.",
+   "Faux : le thymus est un organe primaire.",
+   "Exact : primaires/centraux et secondaires/périphériques."
+  ]
+ },
+ {
+  "q": "Concernant les cellules du système immunitaire :",
+  "options": [
+   "L'immunité innée comprend macrophages, cellules dendritiques, PNN et NK",
+   "L'immunité adaptative comprend les lymphocytes T et B",
+   "Les lymphocytes B appartiennent à l'immunité innée",
+   "Les NK appartiennent à l'immunité adaptative",
+   "Les mastocytes appartiennent à l'immunité innée"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : ce sont les cellules de l'inné citées par le cours.",
+   "Exact : LT et LB sont les cellules de l'adaptatif.",
+   "Faux : les LB sont les cellules de l'adaptatif humoral.",
+   "Faux : les NK sont des cellules de l'inné.",
+   "Exact : les mastocytes sont cités avec les polynucléaires dans l'inné."
+  ]
+ },
+ {
+  "q": "Concernant les molécules du système immunitaire :",
+  "options": [
+   "Les molécules de reconnaissance de l'antigène sont TLR, BCR et TCR",
+   "Les autres molécules sont les cytokines, les HLA et le complément",
+   "Les anticorps sont des molécules du SI",
+   "L'insuline est une molécule du système immunitaire",
+   "Les molécules du SI sont uniquement membranaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : ce sont les récepteurs d'antigène.",
+   "Exact : molécules de communication, de présentation et effectrices.",
+   "Exact : les immunoglobulines sont les molécules de l'humoral.",
+   "Faux : l'insuline est une hormone, pas une molécule immune.",
+   "Faux : cytokines et complément sont des molécules solubles."
+  ]
+ },
+ {
+  "q": "Le SI est décrit comme << tissus d'organes, cellules et molécules >> :",
+  "options": [
+   "C'est un système diffus dans l'organisme",
+   "Il comprend des organes lymphoides",
+   "Il comprend des cellules circulantes et tissulaires",
+   "Il se limite aux cellules du sang",
+   "Il comprend des molécules solubles comme les cytokines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : organes, cellules et molécules repartis dans l'organisme.",
+   "Exact : primaires et secondaires.",
+   "Exact : les cellules immunes circulent et resident dans les tissus.",
+   "Faux : le SI dépasse largement le seul compartiment sanguin.",
+   "Exact : cytokines et complément sont solubles."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Tous les organes lymphoides sont primaires",
+   "Il n'existe pas d'organes lymphoides secondaires",
+   "Le thymus est un organe lymphoide primaire",
+   "Les cellules dendritiques sont des cellules de l'inné",
+   "Le complément est une molécule du SI"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Inexact : il existe aussi des organes secondaires.",
+   "Inexact : ganglions, rate et MALT sont secondaires.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue : ce sont des CPA.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Les cellules présentatrices d'antigène (CPA) :",
+  "options": [
+   "Sont les macrophages et les cellules dendritiques",
+   "Capturent l'antigène",
+   "Apprêtent l'antigène",
+   "Présentent l'antigène aux lymphocytes",
+   "Sont des lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : macrophages + DC = CPA.",
+   "Exact : première étape, la capture.",
+   "Exact : deuxième étape, l'apprêtement.",
+   "Exact : troisième étape, la présentation.",
+   "Faux : les CPA appartiennent à l'immunité innée, pas aux lymphocytes."
+  ]
+ },
+ {
+  "q": "La rencontre entre l'antigène et les cellules immunes :",
+  "options": [
+   "A lieu dans les organes lymphoides secondaires",
+   "Aboutit à l'activation des lymphocytes",
+   "Aboutit à la différenciation des lymphocytes",
+   "A lieu dans la moelle osseuse",
+   "Concerne les cellules de l'immunité adaptative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : c'est la fonction des OLS.",
+   "Exact : activation des LT et LB.",
+   "Exact : différenciation en cellules effectrices.",
+   "Faux : la MO est un organe primaire de production et maturation.",
+   "Exact : ce sont les lymphocytes de l'adaptatif qui y sont actives."
+  ]
+ },
+ {
+  "q": "La production et la maturation des cellules de l'immunité :",
+  "options": [
+   "Ont lieu dans les organes lymphoides primaires",
+   "Concernent la moelle osseuse et le thymus",
+   "Précèdent toute rencontre avec l'antigène",
+   "Ont lieu dans les organes lymphoides secondaires",
+   "Sont les fonctions principales des ganglions"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : c'est la définition des organes primaires.",
+   "Exact : MO + thymus.",
+   "Exact : production et maturation précèdent l'activation.",
+   "Faux : les OLS sont le lieu de rencontre et d'activation.",
+   "Faux : les ganglions sont des OLS, lieu d'activation."
+  ]
+ },
+ {
+  "q": "Les molécules HLA :",
+  "options": [
+   "Sont codées par le complexe majeur d'histocompatibilité (CMH)",
+   "Comportent les classes I et II",
+   "Existent à la surface des cellules",
+   "Servent à présenter l'antigène aux lymphocytes T",
+   "Sont des cytokines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CMH = complexe majeur d'histocompatibilité.",
+   "Exact : HLA de classe I et II.",
+   "Exact : molécules de surface cellulaire.",
+   "Exact : le TCR reconnaît l'Ag présente via les HLA.",
+   "Faux : les HLA sont des molécules de présentation, pas des cytokines."
+  ]
+ },
+ {
+  "q": "Le système du complément :",
+  "options": [
+   "Est un ensemble de protéines plasmatiques",
+   "Est inactif à l'état basal",
+   "S'active en cascade",
+   "Participe aux actions effectrices du SI",
+   "Est une population cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : protéines du plasma.",
+   "Exact : inactives en l'absence de déclenchement.",
+   "Exact : activation séquentielle en cascade.",
+   "Exact : il participe aux actions effectrices.",
+   "Faux : c'est un système moléculaire, pas cellulaire."
+  ]
+ },
+ {
+  "q": "Les cytokines :",
+  "options": [
+   "Sont des molécules de communication",
+   "Sont sécrétées par différentes cellules",
+   "Jouent le rôle de médiateurs dans les actions intercellulaires",
+   "Sont des cellules présentatrices d'antigène",
+   "Participent à la barrière moléculaire de l'immunité naturelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : molécules de communication.",
+   "Exact : produites par diverses cellules.",
+   "Exact : médiatrices des actions intercellulaires.",
+   "Faux : ce sont des molécules, pas des cellules.",
+   "Exact : le cours les cite dans la barrière moléculaire."
+  ]
+ },
+ {
+  "q": "Synthèse sur les éléments du système immunitaire :",
+  "options": [
+   "Il comprend des organes lymphoides primaires et secondaires",
+   "Il comprend des cellules de l'immunité innée et adaptative",
+   "Il comprend des molécules de reconnaissance et d'autres molécules",
+   "Il se résume à un seul type d'organe",
+   "Ses éléments cooperent pour éliminer l'agent pathogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : MO/thymus et ganglions/rate/MALT.",
+   "Exact : CPA, PNN, NK d'un côté, LT et LB de l'autre.",
+   "Exact : TLR/BCR/TCR puis cytokines, HLA, complément.",
+   "Faux : organes, cellules et molécules le composent.",
+   "Exact : immunités innée et adaptative sont interdépendantes."
+  ]
+ },
+ {
+  "q": "Les organes lymphoides primaires ou centraux :",
+  "options": [
+   "Sont la moelle osseuse et le thymus",
+   "Sont le lieu de production des cellules de l'immunité",
+   "Sont le lieu de maturation des cellules de l'immunité",
+   "Sont le lieu de rencontre entre l'antigène et les lymphocytes",
+   "Sont le lieu d'activation des lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : MO + thymus.",
+   "Exact : production des cellules immunes.",
+   "Exact : maturation des cellules immunes.",
+   "Faux : la rencontre Ag-lymphocytes a lieu dans les OLS.",
+   "Faux : l'activation a lieu dans les OLS."
+  ]
+ },
+ {
+  "q": "Concernant la moelle osseuse :",
+  "options": [
+   "C'est un organe lymphoide primaire",
+   "C'est le lieu de production des cellules immunes",
+   "C'est le lieu de maturation des cellules immunes",
+   "C'est un organe lymphoide secondaire",
+   "Elle produit les cellules souches hématopoïétiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : avec le thymus, organe central.",
+   "Exact : production des cellules de l'immunité.",
+   "Exact : maturation, notamment des lymphocytes B.",
+   "Faux : la MO est primaire, pas secondaire.",
+   "Exact : origine de toutes les cellules immunes."
+  ]
+ },
+ {
+  "q": "Concernant le thymus :",
+  "options": [
+   "C'est un organe lymphoide primaire",
+   "C'est un lieu de maturation des cellules de l'immunité",
+   "C'est un organe lymphoide secondaire",
+   "C'est le lieu de rencontre entre l'antigène et les lymphocytes",
+   "Il participe à la production et à la maturation des cellules immunes"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : avec la MO, organe central.",
+   "Exact : maturation des cellules de l'immunité.",
+   "Faux : le thymus est primaire, pas secondaire.",
+   "Faux : la rencontre a lieu dans les OLS.",
+   "Exact : les organes primaires assurent production et maturation."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "La rate est un organe lymphoide primaire",
+   "Les ganglions lymphatiques sont des organes primaires",
+   "Le MALT est un organe lymphoide primaire",
+   "La moelle osseuse est un organe lymphoide primaire",
+   "Le thymus est un organe lymphoide primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : la rate est un organe secondaire.",
+   "Inexact : les ganglions sont des organes secondaires.",
+   "Inexact : le MALT est un tissu lymphoide secondaire.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Concernant la terminologie des organes lymphoides :",
+  "options": [
+   "Primaires est synonyme de centraux",
+   "Secondaires est synonyme de périphériques",
+   "Primaires est synonyme de périphériques",
+   "Centraux est synonyme de secondaires",
+   "La moelle osseuse et le thymus sont des organes centraux"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : organes lymphoides primaires ou centraux.",
+   "Exact : organes lymphoides secondaires ou périphériques.",
+   "Faux : primaires = centraux, pas périphériques.",
+   "Faux : centraux = primaires, pas secondaires.",
+   "Exact : MO et thymus sont centraux."
+  ]
+ },
+ {
+  "q": "La maturation des cellules de l'immunité :",
+  "options": [
+   "S'accompagne de l'acquisition de récepteurs d'antigène",
+   "A lieu avant toute rencontre avec l'antigène",
+   "A lieu dans les organes lymphoides secondaires",
+   "Concerne les lymphocytes",
+   "A lieu dans les organes lymphoides primaires"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : les lymphocytes acquièrent BCR et TCR.",
+   "Exact : la maturation précède l'activation.",
+   "Faux : les OLS sont le lieu d'activation, pas de maturation.",
+   "Exact : LT et LB mûrissent dans les organes primaires.",
+   "Exact : MO et thymus."
+  ]
+ },
+ {
+  "q": "La production des cellules de l'immunité :",
+  "options": [
+   "À partir de cellules souches hématopoïétiques",
+   "A lieu dans la moelle osseuse",
+   "Donne naissance à toutes les cellules immunes",
+   "A lieu dans la rate",
+   "A lieu dans les ganglions lymphatiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : origine souche commune.",
+   "Exact : la MO est l'organe producteur.",
+   "Exact : toutes les cellules immunes en dérivent.",
+   "Faux : la rate est un OLS, lieu de rencontre.",
+   "Faux : les ganglions sont des OLS, lieu d'activation."
+  ]
+ },
+ {
+  "q": "Pour distinguer organes primaires et secondaires :",
+  "options": [
+   "Les primaires sont le lieu de production et de maturation",
+   "Les secondaires sont le lieu de rencontre, d'activation et de différenciation",
+   "Le thymus est un organe secondaire",
+   "La rate est un organe primaire",
+   "Les deux catégories sont des organes lymphoides"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : définition fonctionnelle des primaires.",
+   "Exact : définition fonctionnelle des secondaires.",
+   "Faux : le thymus est un organe primaire.",
+   "Faux : la rate est un organe secondaire.",
+   "Exact : primaires et secondaires sont lymphoides."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Les organes primaires sont le lieu d'activation des lymphocytes",
+   "La rencontre antigène-lymphocyte a lieu dans le thymus",
+   "La moelle osseuse est un organe secondaire",
+   "Les organes primaires produisent les cellules immunes",
+   "Le thymus participe à la maturation des cellules immunes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : l'activation a lieu dans les OLS.",
+   "Inexact : elle a lieu dans les OLS, pas dans le thymus.",
+   "Inexact : la MO est un organe primaire.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "La moelle osseuse, organe lymphoide primaire :",
+  "options": [
+   "Contient le tissu hématopoïétique",
+   "Assure la maturation des lymphocytes B",
+   "Produit les précurseurs des lymphocytes T",
+   "Filtre le sang circulant",
+   "Est un organe lymphoide secondaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : moelle rouge hématopoïétique.",
+   "Exact : les LB y mûrissent.",
+   "Exact : les précurseurs des LT en sont issus.",
+   "Faux : filtrer le sang est la fonction de la rate.",
+   "Faux : la MO est un organe primaire."
+  ]
+ },
+ {
+  "q": "Le thymus, organe lymphoide primaire :",
+  "options": [
+   "Est le siège de la maturation des lymphocytes T",
+   "Est le siège de la sélection des lymphocytes T",
+   "Participe à la tolérance du soi",
+   "Est un organe lymphoide secondaire",
+   "Est le lieu de la rencontre avec l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les LT y mûrissent.",
+   "Exact : sélection des LT, étape de la tolérance.",
+   "Exact : la sélection thymique éduque à la tolérance du soi.",
+   "Faux : le thymus est un organe primaire.",
+   "Faux : la rencontre a lieu dans les OLS."
+  ]
+ },
+ {
+  "q": "<< Lieu de production et de maturation des cellules de l'immunité >> :",
+  "options": [
+   "Cette définition s'applique aux organes primaires",
+   "Elle concerne la moelle osseuse et le thymus",
+   "Elle se situe avant toute rencontre antigénique",
+   "Elle se situe après l'activation lymphocytaire",
+   "Elle concerne les cellules de l'immunité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : c'est la définition des organes primaires.",
+   "Exact : MO + thymus.",
+   "Exact : production et maturation précèdent l'activation.",
+   "Faux : l'activation vient après, dans les OLS.",
+   "Exact : ce sont les cellules immunes qui y sont produites."
+  ]
+ },
+ {
+  "q": "Les conséquences d'une atteinte des organes primaires :",
+  "options": [
+   "Une aplasie médullaire entraîne un déficit immunitaire",
+   "Une atteinte thymique précoce compromet les lymphocytes T",
+   "L'ablation d'un ganglion n'empêche pas la production des cellules immunes",
+   "Les organes primaires sont indispensables à l'immunité",
+   "Leur altération n'a aucune conséquence clinique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : sans MO, pas de production de cellules immunes.",
+   "Exact : sans thymus, pas de maturation des LT.",
+   "Exact : les ganglions sont secondaires, la production continue.",
+   "Exact : production et maturation y sont assurées.",
+   "Faux : toute altération de l'immunité expose au contraire à la maladie."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Le thymus est un organe lymphoide secondaire",
+   "La moelle osseuse est un organe périphérique",
+   "Les organes centraux sont la rate et les ganglions",
+   "La moelle osseuse et le thymus sont des organes primaires",
+   "La maturation a lieu dans les organes primaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : le thymus est primaire.",
+   "Inexact : la MO est un organe central.",
+   "Inexact : ce sont des organes secondaires.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Concernant le vocabulaire des organes lymphoides :",
+  "options": [
+   "<< Primaires >> est synonyme de << centraux >>",
+   "<< Secondaires >> est synonyme de << périphériques >>",
+   "<< Primaires >> est synonyme de << périphériques >>",
+   "MO est l'abréviation de moelle osseuse",
+   "Le thymus est un organe lymphoide primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : primaires ou centraux.",
+   "Exact : secondaires ou périphériques.",
+   "Faux : primaires = centraux.",
+   "Exact : MO = moelle osseuse.",
+   "Exact."
+  ]
+ },
+ {
+  "q": "Synthèse sur les organes lymphoides primaires :",
+  "options": [
+   "La moelle osseuse et le thymus en sont les représentants",
+   "Ils assurent la production des cellules de l'immunité",
+   "Ils assurent leur maturation",
+   "Ils sont le siège principal de l'activation lymphocytaire",
+   "Ce sont des organes lymphoides centraux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : MO + thymus.",
+   "Exact : production.",
+   "Exact : maturation.",
+   "Faux : l'activation a lieu dans les OLS.",
+   "Exact : primaires = centraux."
+  ]
+ },
+ {
+  "q": "Les organes lymphoides secondaires ou périphériques sont représentés par :",
+  "options": [
+   "Les ganglions lymphatiques",
+   "La rate",
+   "Les tissus lymphoides associés aux muqueuses (MALT)",
+   "La moelle osseuse",
+   "Le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les ganglions sont des OLS.",
+   "Exact : la rate est un OLS.",
+   "Exact : le MALT est un tissu lymphoide secondaire.",
+   "Faux : la MO est un organe primaire.",
+   "Faux : le thymus est un organe primaire."
+  ]
+ },
+ {
+  "q": "Les organes lymphoides secondaires sont le lieu de :",
+  "options": [
+   "La rencontre entre l'antigène et les cellules de l'immunité adaptative",
+   "L'activation des lymphocytes",
+   "La différenciation des lymphocytes",
+   "La production des cellules immunes",
+   "La maturation des cellules immunes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : rencontre Ag-cellules adaptatives.",
+   "Exact : activation des LT et LB.",
+   "Exact : différenciation en cellules effectrices.",
+   "Faux : la production a lieu dans les organes primaires.",
+   "Faux : la maturation a lieu dans les organes primaires."
+  ]
+ },
+ {
+  "q": "Concernant la rencontre entre l'antigène et les cellules immunes :",
+  "options": [
+   "L'antigène arrive seul ou amené par les cellules dendritiques",
+   "Il parvient aux OLS par voie lymphatique ou sanguine",
+   "Il est reconnu par les récepteurs BCR des LB et TCR des LT",
+   "Elle a lieu dans la moelle osseuse",
+   "Elle aboutit à l'activation, la prolifération et la différenciation des lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : seul ou transporte par les DC.",
+   "Exact : voies lymphatique et sanguine.",
+   "Exact : reconnaissance par BCR et TCR.",
+   "Faux : elle a lieu dans les OLS, pas dans la MO.",
+   "Exact : activation, prolifération, différenciation."
+  ]
+ },
+ {
+  "q": "Concernant les ganglions lymphatiques :",
+  "options": [
+   "Ils filtrent la lymphe",
+   "Ils drainent les territoires de l'organisme",
+   "Ce sont des organes lymphoides secondaires",
+   "Ils sont le lieu de rencontre entre l'antigène et les lymphocytes",
+   "Ce sont des organes lymphoides primaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les ganglions filtrent la lymphe afférente.",
+   "Exact : chaque groupe ganglionnaire draine un territoire.",
+   "Exact : OLS.",
+   "Exact : rencontre, activation et différenciation.",
+   "Faux : les ganglions sont secondaires, pas primaires."
+  ]
+ },
+ {
+  "q": "Concernant la rate :",
+  "options": [
+   "Elle filtre le sang circulant",
+   "C'est un organe lymphoide secondaire",
+   "Elle est un lieu de rencontre entre l'antigène et les lymphocytes",
+   "C'est un organe lymphoide primaire",
+   "Elle participe à l'élimination des pathogènes sanguins"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la rate filtre le sang.",
+   "Exact : OLS.",
+   "Exact : rencontre Ag-cellules adaptatives.",
+   "Faux : la rate est secondaire, pas primaire.",
+   "Exact : les antigènes sanguins y sont interceptés."
+  ]
+ },
+ {
+  "q": "Concernant le MALT :",
+  "options": [
+   "Ce sont les tissus lymphoides associés aux muqueuses",
+   "C'est un organe lymphoide secondaire",
+   "Il comprend par exemple les amygdales et les plaques de Peyer",
+   "C'est un organe lymphoide primaire",
+   "Il protège les muqueuses, portes d'entrée des pathogènes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : MALT = tissus lymphoides associés aux muqueuses.",
+   "Exact : tissu lymphoide secondaire.",
+   "Exact : amygdales, plaques de Peyer en sont des exemples.",
+   "Faux : le MALT est secondaire, pas primaire.",
+   "Exact : les muqueuses sont l'interface avec le milieu extérieur."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Les OLS produisent les lymphocytes",
+   "La maturation des lymphocytes a lieu dans les ganglions",
+   "Le thymus est un organe lymphoide secondaire",
+   "Les ganglions sont des organes lymphoides secondaires",
+   "L'activation des lymphocytes a lieu dans les OLS"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : la production a lieu dans les organes primaires.",
+   "Inexact : la maturation a lieu dans les organes primaires.",
+   "Inexact : le thymus est un organe primaire.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "L'activation des lymphocytes :",
+  "options": [
+   "Fait suite à la reconnaissance de l'antigène par les BCR et TCR",
+   "Entraîne la prolifération des lymphocytes",
+   "Entraîne leur différenciation",
+   "A lieu dans les organes lymphoides primaires",
+   "Concerne les lymphocytes de l'immunité adaptative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la reconnaissance déclenche l'activation.",
+   "Exact : expansion des clones spécifiques.",
+   "Exact : différenciation en cellules effectrices.",
+   "Faux : l'activation a lieu dans les OLS.",
+   "Exact : LT et LB de l'adaptatif."
+  ]
+ },
+ {
+  "q": "La différenciation des lymphocytes :",
+  "options": [
+   "Donne des cellules effectrices",
+   "Donne des cellules mémoire",
+   "Fait suite à l'activation lymphocytaire",
+   "A lieu dans les organes lymphoides primaires",
+   "A lieu dans les organes lymphoides secondaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : cellules capables d'éliminer l'antigène.",
+   "Exact : base de la mémoire immunitaire.",
+   "Exact : activation puis différenciation.",
+   "Faux : les primaires assurent production et maturation.",
+   "Exact : c'est dans les OLS qu'elle se déroule."
+  ]
+ },
+ {
+  "q": "Les voies d'arrivée de l'antigène vers les OLS :",
+  "options": [
+   "La voie lymphatique",
+   "La voie sanguine",
+   "L'antigène amené par les cellules dendritiques",
+   "L'antigène arrive seul",
+   "L'antigène arrive directement dans la moelle osseuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : draine vers les ganglions.",
+   "Exact : vers la rate notamment.",
+   "Exact : les DC transportent l'Ag capture.",
+   "Exact : l'Ag peut arriver seul.",
+   "Faux : la MO est un organe primaire, pas un lieu de rencontre."
+  ]
+ },
+ {
+  "q": "Concernant les cellules dendritiques dans les OLS :",
+  "options": [
+   "Elles amènent l'antigène capture vers les OLS",
+   "Ce sont des cellules présentatrices d'antigène",
+   "Elles font le pont entre l'immunité innée et adaptative",
+   "Ce sont des lymphocytes",
+   "Elles capturent et apprêtent l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : transport de l'Ag vers les OLS.",
+   "Exact : DC = CPA.",
+   "Exact : elles relient la détection innée à l'activation adaptative.",
+   "Faux : les DC appartiennent à l'immunité innée.",
+   "Exact : capture puis apprêtement avant présentation."
+  ]
+ },
+ {
+  "q": "Le terme << périphériques >> applique aux organes lymphoides :",
+  "options": [
+   "Est synonyme de << secondaires >>",
+   "Désigne les ganglions, la rate et le MALT",
+   "Désigne la moelle osseuse et le thymus",
+   "Désigne les organes de rencontre avec l'antigène",
+   "Désigne les organes de production des cellules immunes"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : secondaires ou périphériques.",
+   "Exact : ganglions, rate, MALT.",
+   "Faux : MO et thymus sont centraux.",
+   "Exact : rencontre Ag-cellules adaptatives.",
+   "Faux : la production relève des organes primaires."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "La rate est un organe lymphoide primaire",
+   "Le MALT est un organe central",
+   "Les OLS sont le lieu de maturation des lymphocytes",
+   "La rate filtre le sang",
+   "Les ganglions drainent la lymphe"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : la rate est un organe secondaire.",
+   "Inexact : le MALT est un tissu périphérique.",
+   "Inexact : la maturation a lieu dans les organes primaires.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "La prolifération des lymphocytes :",
+  "options": [
+   "Correspond à l'expansion des clones spécifiques",
+   "Fait suite à l'activation lymphocytaire",
+   "A lieu dans les organes lymphoides secondaires",
+   "A lieu dans le thymus",
+   "Augmente le nombre de lymphocytes spécifiques de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : multiplication des lymphocytes actives.",
+   "Exact : activation puis prolifération.",
+   "Exact : dans les OLS.",
+   "Faux : le thymus est un organe primaire de maturation.",
+   "Exact : c'est le but de l'expansion clonale."
+  ]
+ },
+ {
+  "q": "Concernant la rate et les ganglions lymphatiques :",
+  "options": [
+   "La rate filtre le sang",
+   "Les ganglions filtrent la lymphe",
+   "Les deux sont des organes lymphoides secondaires",
+   "Les deux sont des organes lymphoides primaires",
+   "Les deux sont des lieux de rencontre avec l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la rate est l'organe de filtration sanguine.",
+   "Exact : les ganglions filtrent la lymphe.",
+   "Exact : OLS tous les deux.",
+   "Faux : aucun des deux n'est primaire.",
+   "Exact : rencontre, activation et différenciation."
+  ]
+ },
+ {
+  "q": "Synthèse sur les organes lymphoides secondaires :",
+  "options": [
+   "Ils sont le lieu de rencontre entre l'antigène et les lymphocytes",
+   "Ils sont le lieu d'activation des lymphocytes",
+   "Ils sont le lieu de prolifération des lymphocytes",
+   "Ils sont le lieu de différenciation des lymphocytes",
+   "Ils sont le lieu de production des cellules immunes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : rencontre Ag-cellules adaptatives.",
+   "Exact : activation.",
+   "Exact : prolifération.",
+   "Exact : différenciation.",
+   "Faux : la production relève des organes primaires."
+  ]
+ },
+ {
+  "q": "Les cellules de l'immunité innée comprennent :",
+  "options": [
+   "Les macrophages",
+   "Les cellules dendritiques",
+   "Les polynucléaires neutrophiles",
+   "Les lymphocytes T",
+   "Les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les macrophages sont des CPA de l'inné.",
+   "Exact : les DC sont des CPA de l'inné.",
+   "Exact : les PNN sont des cellules de l'inné.",
+   "Faux : les LT sont les cellules de l'adaptatif cellulaire.",
+   "Faux : les LB sont les cellules de l'adaptatif humoral."
+  ]
+ },
+ {
+  "q": "Les cellules présentatrices d'antigène (CPA) :",
+  "options": [
+   "Sont les macrophages et les cellules dendritiques",
+   "Capturent l'antigène",
+   "Apprêtent l'antigène",
+   "Présentent l'antigène aux lymphocytes",
+   "Sont des lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : macrophages + DC.",
+   "Exact : capture de l'Ag.",
+   "Exact : apprêtement de l'Ag.",
+   "Exact : présentation aux lymphocytes.",
+   "Faux : les CPA appartiennent à l'immunité innée."
+  ]
+ },
+ {
+  "q": "Concernant les macrophages :",
+  "options": [
+   "Ce sont des phagocytes",
+   "Ce sont des cellules présentatrices d'antigène",
+   "Ils capturent l'antigène",
+   "Ils présentent l'antigène via les molécules HLA",
+   "Ce sont des lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les macrophages phagocytent.",
+   "Exact : CPA de l'inné.",
+   "Exact : capture de l'Ag.",
+   "Exact : présentation aux LT via les HLA.",
+   "Faux : les macrophages ne sont pas des lymphocytes."
+  ]
+ },
+ {
+  "q": "Concernant les cellules dendritiques :",
+  "options": [
+   "Ce sont des cellules présentatrices d'antigène",
+   "Elles capturent l'antigène en périphérie",
+   "Elles migrent vers les organes lymphoides secondaires",
+   "Elles présentent l'antigène aux lymphocytes T",
+   "Ce sont des polynucléaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : DC = CPA.",
+   "Exact : capture de l'Ag dans les tissus.",
+   "Exact : migration vers les OLS.",
+   "Exact : présentation aux LT.",
+   "Faux : les DC ne sont pas des polynucléaires."
+  ]
+ },
+ {
+  "q": "La capture de l'antigène :",
+  "options": [
+   "Se fait par phagocytose",
+   "Est réalisée par les macrophages",
+   "Est réalisée par les cellules dendritiques",
+   "Est réalisée par les lymphocytes B",
+   "Est la première étape avant l'apprêtement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la phagocytose est le mécanisme de capture.",
+   "Exact : les macrophages capturent l'Ag.",
+   "Exact : les DC capturent l'Ag.",
+   "Faux : les LB ne sont pas des cellules phagocytaires.",
+   "Exact : capture puis apprêtement puis présentation."
+  ]
+ },
+ {
+  "q": "L'apprêtement de l'antigène :",
+  "options": [
+   "Correspond à la transformation de l'antigène capture",
+   "Est réalisé par les cellules présentatrices d'antigène",
+   "Précède la présentation aux lymphocytes",
+   "Est réalisé par les lymphocytes T",
+   "Aboutit à des fragments présentés via les molécules HLA"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'Ag est transformé pour être présenté.",
+   "Exact : macrophages et DC apprêtent l'Ag.",
+   "Exact : apprêtement avant présentation.",
+   "Faux : les LT ne sont pas des CPA.",
+   "Exact : fragments antigéniques présentés via les HLA."
+  ]
+ },
+ {
+  "q": "La présentation de l'antigène :",
+  "options": [
+   "Se fait aux lymphocytes",
+   "Se fait via les molécules HLA",
+   "Est réalisée par les cellules présentatrices d'antigène",
+   "Est réalisée par les eosinophiles",
+   "Est l'étape clé du lien entre l'inné et l'adaptatif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : présentation aux lymphocytes.",
+   "Exact : l'Ag appreté est présenté via les HLA.",
+   "Exact : macrophages et DC.",
+   "Faux : les eosinophiles ne sont pas des CPA.",
+   "Exact : elle relie la détection innée à l'activation adaptative."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Les macrophages sont des lymphocytes",
+   "Les cellules dendritiques appartiennent à l'immunité adaptative",
+   "Les CPA ne capturent pas l'antigène",
+   "Les macrophages et les DC sont des CPA",
+   "Les CPA présentent l'antigène aux lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : les macrophages sont des phagocytes de l'inné.",
+   "Inexact : les DC appartiennent à l'immunité innée.",
+   "Inexact : la capture est leur première fonction.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Le récepteur Toll Like (TLR) :",
+  "options": [
+   "Est le récepteur de l'antigène sur les phagocytes",
+   "Reconnaît des structures particulières sur les microorganismes",
+   "Signifie Toll Like Receptor",
+   "Est une immunoglobuline de membrane",
+   "Appartient à l'immunité innée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : TLR = récepteur des phagocytes.",
+   "Exact : il détecte des motifs microbiens.",
+   "Exact : Toll Like Receptor.",
+   "Faux : ce n'est pas une immunoglobuline.",
+   "Exact : récepteur de l'immunité innée."
+  ]
+ },
+ {
+  "q": "Les phagocytes comprennent :",
+  "options": [
+   "Les macrophages",
+   "Les cellules dendritiques",
+   "Les polynucléaires neutrophiles",
+   "Les lymphocytes",
+   "Expriment le récepteur TLR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les macrophages sont des phagocytes.",
+   "Exact : les DC sont des phagocytes.",
+   "Exact : les PNN sont des phagocytes.",
+   "Faux : les lymphocytes ne sont pas des phagocytes.",
+   "Exact : le TLR est le récepteur d'Ag des phagocytes."
+  ]
+ },
+ {
+  "q": "Les << structures particulières sur les microorganismes >> :",
+  "options": [
+   "Sont des motifs microbiens conservés",
+   "Sont reconnues par les récepteurs TLR",
+   "Déclenchent la réponse immunitaire innée",
+   "Sont reconnues par le BCR",
+   "Sont identiques aux structures du soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : motifs caractéristiques des microbes.",
+   "Exact : les TLR les detectent.",
+   "Exact : c'est le point de départ de l'inné.",
+   "Faux : le BCR est le récepteur des LB.",
+   "Faux : elles sont étrangères, distinctes du soi."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Le TLR est le récepteur de l'antigène sur les lymphocytes B",
+   "Le BCR est le récepteur des phagocytes",
+   "Le TLR est le récepteur de l'antigène sur les phagocytes",
+   "Le TCR reconnaît l'antigène présente via les HLA",
+   "Le BCR est formé par une immunoglobuline de membrane"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Inexact : le récepteur des LB est le BCR.",
+   "Inexact : le récepteur des phagocytes est le TLR.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Macrophages et cellules dendritiques :",
+  "options": [
+   "Sont tous deux des cellules présentatrices d'antigène",
+   "Capturent tous deux l'antigène",
+   "Les DC migrent vers les OLS après capture",
+   "Les macrophages resident dans les tissus",
+   "Sont tous deux des lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les deux sont des CPA.",
+   "Exact : capture de l'Ag.",
+   "Exact : les DC transportent l'Ag vers les OLS.",
+   "Exact : les macrophages sont des phagocytes tissulaires.",
+   "Faux : ce sont des cellules de l'inné, pas des lymphocytes."
+  ]
+ },
+ {
+  "q": "Le lien entre l'immunité innée et l'immunité adaptative :",
+  "options": [
+   "Les CPA présentent l'antigène aux lymphocytes",
+   "Les cellules dendritiques amènent l'antigène vers les OLS",
+   "Les TLR detectent les microorganismes",
+   "Les lymphocytes B capturent l'antigène pour le présenter",
+   "L'immunité innée et l'immunité adaptative cooperent activement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : présentation = passage de relais.",
+   "Exact : les DC relient périphérie et OLS.",
+   "Exact : détection innée des microbes.",
+   "Faux : les LB ne sont pas des CPA professionnelles.",
+   "Exact : les deux immunités sont interdépendantes."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Les CPA appartiennent à l'immunité adaptative",
+   "La présentation antigénique se fait dans les organes primaires",
+   "Seuls les lymphocytes capturent l'antigène",
+   "Les macrophages sont des CPA",
+   "Les DC présentent l'antigène via les molécules HLA"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : les CPA appartiennent à l'inné.",
+   "Inexact : elle a lieu dans les OLS.",
+   "Inexact : ce sont les CPA qui capturent l'Ag.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Parmi les cellules suivantes, lesquelles appartiennent à l'immunité innée ?",
+  "options": [
+   "Les macrophages",
+   "Les cellules dendritiques",
+   "Les Natural Killer",
+   "Les polynucléaires neutrophiles",
+   "Les lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CPA de l'inné.",
+   "Exact : CPA de l'inné.",
+   "Exact : lymphocytes tueurs de l'inné.",
+   "Exact : phagocytes de l'inné.",
+   "Faux : les LT sont de l'adaptatif."
+  ]
+ },
+ {
+  "q": "Les cellules présentatrices d'antigène en résume :",
+  "options": [
+   "Les macrophages en font partie",
+   "Les cellules dendritiques en font partie",
+   "Elles présentent l'antigène aux lymphocytes",
+   "Elles appartiennent à l'immunité innée",
+   "Ce sont des lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Exact : présentation aux lymphocytes.",
+   "Exact : cellules de l'inné.",
+   "Faux : les CPA ne sont pas des lymphocytes."
+  ]
+ },
+ {
+  "q": "Synthèse sur les CPA :",
+  "options": [
+   "Elles capturent l'antigène",
+   "Elles apprêtent l'antigène",
+   "Elles présentent l'antigène aux lymphocytes",
+   "La présentation aux LT se fait via les molécules HLA",
+   "Elles sécrètent des anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : capture.",
+   "Exact : apprêtement.",
+   "Exact : présentation.",
+   "Exact : Ag appreté présente via les HLA au TCR.",
+   "Faux : la sécrétion d'anticorps relève des LB."
+  ]
+ },
+ {
+  "q": "Les polynucléaires comprennent :",
+  "options": [
+   "Les neutrophiles",
+   "Les eosinophiles",
+   "Les basophiles",
+   "Les monocytes",
+   "Ce sont des cellules de l'immunité innée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : polynucléaires neutrophiles.",
+   "Exact : polynucléaires eosinophiles.",
+   "Exact : polynucléaires basophiles.",
+   "Faux : les monocytes sont des cellules mononucléées.",
+   "Exact : ils appartiennent à l'inné."
+  ]
+ },
+ {
+  "q": "Les polynucléaires neutrophiles (PNN) :",
+  "options": [
+   "Sont des phagocytes",
+   "Constituent une barrière cellulaire de l'immunité naturelle",
+   "Appartiennent à l'immunité innée",
+   "Sont des lymphocytes",
+   "Sont les premiers phagocytes recrutés sur un foyer infectieux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les PNN phagocytent les pathogènes.",
+   "Exact : cités dans la barrière cellulaire.",
+   "Exact : cellules de l'inné.",
+   "Faux : les PNN ne sont pas des lymphocytes.",
+   "Exact : ils sont les premiers sur les lieux de l'infection."
+  ]
+ },
+ {
+  "q": "Les eosinophiles :",
+  "options": [
+   "Sont des polynucléaires",
+   "Appartiennent à l'immunité innée",
+   "Participent à la défense contre les parasites",
+   "Produisent des anticorps",
+   "Sont des granulocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : polynucléaires eosinophiles.",
+   "Exact : cellules de l'inné.",
+   "Exact : lutte anti-parasitaire.",
+   "Faux : la production d'anticorps relève des LB.",
+   "Exact : ce sont des granulocytes."
+  ]
+ },
+ {
+  "q": "Les basophiles :",
+  "options": [
+   "Sont des polynucléaires",
+   "Appartiennent à l'immunité innée",
+   "Libèrent des médiateurs de l'inflammation",
+   "Sont des lymphocytes",
+   "Sont apparentes aux mastocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : polynucléaires basophiles.",
+   "Exact : cellules de l'inné.",
+   "Exact : ils libèrent histamine et autres médiateurs.",
+   "Faux : les basophiles ne sont pas des lymphocytes.",
+   "Exact : basophiles et mastocytes sont proches."
+  ]
+ },
+ {
+  "q": "Les mastocytes :",
+  "options": [
+   "Sont des cellules de l'immunité innée",
+   "Sont des cellules tissulaires",
+   "Libèrent de l'histamine",
+   "Sont des polynucléaires",
+   "Participent à la réponse inflammatoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : cités avec les polynucléaires dans l'inné.",
+   "Exact : ils resident dans les tissus.",
+   "Exact : l'histamine est leur médiateur principal.",
+   "Faux : les mastocytes ne sont pas des polynucléaires.",
+   "Exact : ils déclenchent l'inflammation locale."
+  ]
+ },
+ {
+  "q": "Les Natural Killer (NK) :",
+  "options": [
+   "Sont aussi appelés lymphocytes tueurs",
+   "Appartiennent à l'immunité innée",
+   "Tuent les cellules cibles sans sensibilisation préalable",
+   "Sont des lymphocytes T",
+   "Participent au rejet des cellules tumorales"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : NK = natural killer, lymphocytes tueurs.",
+   "Exact : cellules de l'inné.",
+   "Exact : cytotoxicité naturelle, sans activation préalable.",
+   "Faux : les NK sont distincts des lymphocytes T.",
+   "Exact : les cellules tumorales sont leurs cibles."
+  ]
+ },
+ {
+  "q": "Les cibles des Natural Killer sont :",
+  "options": [
+   "Les cellules infectées par un virus",
+   "Les cellules tumorales",
+   "Les cellules saines de l'organisme",
+   "Des cibles détruites par cytotoxicité",
+   "Des cibles qui nécessitent obligatoirement des anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : les cellules infectées sont tuées par les NK.",
+   "Exact : les cellules tumorales sont tuées par les NK.",
+   "Faux : les NK épargnent les cellules saines.",
+   "Exact : les NK exercent une action cytotoxique.",
+   "Faux : les NK tuent sans anticorps ni sensibilisation préalable."
+  ]
+ },
+ {
+  "q": "La barrière cellulaire de l'immunité naturelle comprend :",
+  "options": [
+   "Les polynucléaires neutrophiles",
+   "Les macrophages",
+   "Les cellules dendritiques",
+   "Les Natural Killer",
+   "Les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : cités dans la barrière cellulaire.",
+   "Exact : cités dans la barrière cellulaire.",
+   "Exact : cités dans la barrière cellulaire.",
+   "Exact : cités dans la barrière cellulaire.",
+   "Faux : les LB sont des cellules de l'adaptatif."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Les NK appartiennent à l'immunité adaptative",
+   "Les mastocytes sont des lymphocytes",
+   "Les PNN sont des cellules de l'immunité innée",
+   "Les eosinophiles sont des polynucléaires",
+   "Les basophiles participent à l'immunité innée"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Inexact : les NK appartiennent à l'inné.",
+   "Inexact : les mastocytes ne sont pas des lymphocytes.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Les granulocytes comprennent :",
+  "options": [
+   "Les polynucléaires neutrophiles",
+   "Les polynucléaires eosinophiles",
+   "Les polynucléaires basophiles",
+   "Les mastocytes",
+   "Les lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les PNN sont des granulocytes.",
+   "Exact : les eosinophiles sont des granulocytes.",
+   "Exact : les basophiles sont des granulocytes.",
+   "Faux : les mastocytes ne sont pas des polynucléaires.",
+   "Faux : les lymphocytes ne sont pas des granulocytes."
+  ]
+ },
+ {
+  "q": "La phagocytose :",
+  "options": [
+   "Est réalisée par les polynucléaires neutrophiles",
+   "Est réalisée par les macrophages",
+   "Est réalisée par les cellules dendritiques",
+   "Est réalisée par les lymphocytes",
+   "Est un mécanisme de capture de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les PNN sont des phagocytes.",
+   "Exact : les macrophages sont des phagocytes.",
+   "Exact : les DC sont des phagocytes.",
+   "Faux : les lymphocytes ne phagocytent pas.",
+   "Exact : la phagocytose permet la capture de l'Ag."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Les polynucléaires sont des cellules de l'adaptatif",
+   "Il n'existe qu'un seul type de polynucléaire",
+   "Les PNN, eosinophiles et basophiles sont des polynucléaires",
+   "Les mastocytes sont cités avec les polynucléaires dans l'inné",
+   "Les NK sont des lymphocytes tueurs"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Inexact : les polynucléaires sont de l'inné.",
+   "Inexact : neutrophiles, eosinophiles et basophiles.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "NK et lymphocytes T cytotoxiques :",
+  "options": [
+   "Les NK appartiennent à l'immunité innée",
+   "Les LT cytotoxiques appartiennent à l'immunité adaptative",
+   "Les deux détruisent des cellules cibles",
+   "Les NK nécessitent une activation préalable par l'antigène",
+   "Les deux participent au rejet du non-soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les NK sont de l'inné.",
+   "Exact : les LT cytotoxiques sont de l'adaptatif.",
+   "Exact : cytotoxicité commune.",
+   "Faux : les NK tuent sans sensibilisation préalable.",
+   "Exact : élimination des cellules infectées ou tumorales."
+  ]
+ },
+ {
+  "q": "Mastocytes et basophiles :",
+  "options": [
+   "Libèrent tous deux des médiateurs de l'inflammation",
+   "Les basophiles circulent dans le sang, les mastocytes resident dans les tissus",
+   "Sont tous deux des polynucléaires",
+   "Appartiennent tous deux à l'immunité innée",
+   "Produisent tous deux des anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : histamine et autres médiateurs.",
+   "Exact : basophiles circulants, mastocytes tissulaires.",
+   "Faux : seuls les basophiles sont des polynucléaires.",
+   "Exact : cellules de l'inné.",
+   "Faux : la production d'anticorps relève des LB."
+  ]
+ },
+ {
+  "q": "Panorama des cellules de l'immunité innée :",
+  "options": [
+   "Les cellules présentatrices d'antigène",
+   "Les polynucléaires et les mastocytes",
+   "Les Natural Killer",
+   "Les lymphocytes T et B",
+   "Elles participent toutes à la protection initiale de l'organisme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : macrophages et DC.",
+   "Exact : PNN, eosinophiles, basophiles et mastocytes.",
+   "Exact : lymphocytes tueurs.",
+   "Faux : LT et LB sont de l'adaptatif.",
+   "Exact : l'inné assure la protection initiale."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Les NK nécessitent des anticorps pour tuer leurs cibles",
+   "Les mastocytes sont des cellules de l'adaptatif",
+   "Les eosinophiles combattent les parasites",
+   "Les PNN sont les leucocytes les plus nombreux du sang",
+   "Les basophiles sont des polynucléaires"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Inexact : les NK tuent sans anticorps.",
+   "Inexact : les mastocytes sont de l'inné.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Les lymphocytes T :",
+  "options": [
+   "Sont responsables de l'immunité à médiation cellulaire",
+   "Reconnaissent l'antigène via le TCR",
+   "Appartiennent à l'immunité adaptative",
+   "Produisent des immunoglobulines",
+   "Comportent des lymphocytes cytotoxiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les LT assurent la médiation cellulaire.",
+   "Exact : le TCR est leur récepteur d'Ag.",
+   "Exact : cellules de l'adaptatif.",
+   "Faux : la production d'Ig relève des LB.",
+   "Exact : les LT cytotoxiques tuent les cellules cibles."
+  ]
+ },
+ {
+  "q": "Les lymphocytes B :",
+  "options": [
+   "Sont producteurs d'immunoglobulines",
+   "Sont responsables de l'immunité à médiation humorale",
+   "Reconnaissent l'antigène via le BCR",
+   "Appartiennent à l'immunité adaptative",
+   "Sont des phagocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LB produisent les Ig.",
+   "Exact : les LB assurent la médiation humorale.",
+   "Exact : le BCR est leur récepteur d'Ag.",
+   "Exact : cellules de l'adaptatif.",
+   "Faux : les LB ne sont pas des phagocytes."
+  ]
+ },
+ {
+  "q": "L'immunité à médiation humorale :",
+  "options": [
+   "Est assurée par les lymphocytes B",
+   "Repose sur la sécrétion d'immunoglobulines (anticorps)",
+   "Appartient à l'immunité adaptative",
+   "Est assurée par les lymphocytes T cytotoxiques",
+   "Est spécifique de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les LB en sont les acteurs.",
+   "Exact : sécrétion d'Ig = anticorps.",
+   "Exact : versant humoral de l'adaptatif.",
+   "Faux : les LT cytotoxiques assurent la médiation cellulaire.",
+   "Exact : les Ig reconnaissent spécifiquement l'Ag."
+  ]
+ },
+ {
+  "q": "L'immunité à médiation cellulaire :",
+  "options": [
+   "Est assurée par les lymphocytes T",
+   "Fait intervenir les lymphocytes T cytotoxiques",
+   "Appartient à l'immunité adaptative",
+   "Est assurée par les lymphocytes B",
+   "Est spécifique de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les LT en sont les acteurs.",
+   "Exact : les LT cytotoxiques tuent les cibles.",
+   "Exact : versant cellulaire de l'adaptatif.",
+   "Faux : les LB assurent la médiation humorale.",
+   "Exact : reconnaissance spécifique via le TCR."
+  ]
+ },
+ {
+  "q": "Le BCR :",
+  "options": [
+   "Est le récepteur de l'antigène sur les lymphocytes B",
+   "Est formé essentiellement par une immunoglobuline de membrane",
+   "Reconnaît l'antigène",
+   "Est un récepteur Toll Like",
+   "Appartient à l'immunité adaptative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : BCR = récepteur des LB.",
+   "Exact : Ig de membrane.",
+   "Exact : il reconnaît l'Ag.",
+   "Faux : le TLR est le récepteur des phagocytes.",
+   "Exact : récepteur de l'adaptatif."
+  ]
+ },
+ {
+  "q": "Le TCR :",
+  "options": [
+   "Est le récepteur de l'antigène sur les lymphocytes T",
+   "Reconnaît l'antigène appreté et présente par les CPA",
+   "Reconnaît l'antigène via les molécules HLA",
+   "Est une immunoglobuline de membrane",
+   "Appartient à l'immunité adaptative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : TCR = récepteur des LT.",
+   "Exact : Ag appreté et présente par les CPA.",
+   "Exact : présentation via les molécules HLA.",
+   "Faux : l'Ig de membrane forme le BCR, pas le TCR.",
+   "Exact : récepteur de l'adaptatif."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Les lymphocytes T produisent des immunoglobulines",
+   "Les lymphocytes B sont responsables de la médiation cellulaire",
+   "Les lymphocytes B portent un TCR",
+   "Les lymphocytes T portent un TCR",
+   "Les lymphocytes B portent un BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : les Ig sont produites par les LB.",
+   "Inexact : les LB assurent la médiation humorale.",
+   "Inexact : les LB portent un BCR.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Les immunoglobulines :",
+  "options": [
+   "Sont produites par les lymphocytes B",
+   "Sont les molécules de la médiation humorale",
+   "Sont aussi appelées anticorps",
+   "Sont produites par les lymphocytes T",
+   "Sont des molécules du système immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les LB produisent les Ig.",
+   "Exact : versant humoral.",
+   "Exact : Ig = anticorps.",
+   "Faux : les LT n'en produisent pas.",
+   "Exact : molécules du SI."
+  ]
+ },
+ {
+  "q": "L'activation des lymphocytes :",
+  "options": [
+   "A lieu dans les organes lymphoides secondaires",
+   "Fait suite à la reconnaissance de l'antigène par les BCR et TCR",
+   "Entraîne la prolifération des lymphocytes",
+   "Entraîne leur différenciation",
+   "A lieu dans la moelle osseuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : rencontre et activation dans les OLS.",
+   "Exact : la reconnaissance déclenche l'activation.",
+   "Exact : expansion des clones.",
+   "Exact : différenciation en effecteurs.",
+   "Faux : la MO est un organe primaire."
+  ]
+ },
+ {
+  "q": "Les lymphocytes T cytotoxiques :",
+  "options": [
+   "Tuent les cellules cibles infectées ou tumorales",
+   "Assurent l'immunité à médiation cellulaire",
+   "Appartiennent à l'immunité adaptative",
+   "Sont des Natural Killer",
+   "Reconnaissent l'antigène via le TCR et les molécules HLA"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : cytotoxicité contre cibles.",
+   "Exact : médiation cellulaire.",
+   "Exact : LT de l'adaptatif.",
+   "Faux : les NK sont des cellules de l'inné.",
+   "Exact : reconnaissance TCR-HLA."
+  ]
+ },
+ {
+  "q": "La différenciation des lymphocytes B :",
+  "options": [
+   "Donne des plasmocytes producteurs d'anticorps",
+   "Fait suite à l'activation des LB",
+   "A lieu dans les organes lymphoides secondaires",
+   "Les lymphocytes T se différencient en plasmocytes",
+   "Aboutit à la sécrétion d'immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les plasmocytes sécrètent les Ac.",
+   "Exact : activation puis différenciation.",
+   "Exact : dans les OLS.",
+   "Faux : les plasmocytes dérivent des LB.",
+   "Exact : sécrétion d'Ig."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Le BCR est formé par une molécule HLA",
+   "Le TCR est une immunoglobuline de membrane",
+   "Le BCR reconnaît l'antigène via les TLR",
+   "Le TCR est le récepteur d'antigène des LT",
+   "Le BCR est le récepteur d'antigène des LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : le BCR est formé par une Ig de membrane.",
+   "Inexact : le TCR n'est pas une Ig de membrane.",
+   "Inexact : le BCR reconnaît directement l'Ag.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Les lymphocytes en général :",
+  "options": [
+   "Sont les cellules de l'immunité adaptative",
+   "Portent des récepteurs spécifiques de l'antigène (BCR, TCR)",
+   "Sont doués de mémoire immunitaire",
+   "Sont des phagocytes",
+   "S'activent dans les organes lymphoides secondaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : LT et LB = adaptatif.",
+   "Exact : BCR sur les LB, TCR sur les LT.",
+   "Exact : la mémoire est la propriété de l'adaptatif.",
+   "Faux : les lymphocytes ne phagocytent pas.",
+   "Exact : activation dans les OLS."
+  ]
+ },
+ {
+  "q": "Réponse humorale et réponse cellulaire :",
+  "options": [
+   "La réponse humorale fait intervenir les LB et les Ig",
+   "La réponse cellulaire fait intervenir les LT cytotoxiques",
+   "Les deux sont des versants de l'immunité adaptative",
+   "Les deux sont spécifiques de l'antigène",
+   "La réponse humorale est assurée par les LT"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : LB + Ig.",
+   "Exact : LT cytotoxiques.",
+   "Exact : deux versants de l'adaptatif.",
+   "Exact : spécificité via BCR et TCR.",
+   "Faux : la réponse humorale relève des LB."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "L'immunité à médiation humorale est innée",
+   "L'immunité à médiation cellulaire est assurée par les LB",
+   "Les immunoglobulines sont sécrétées par les LT",
+   "La réponse humorale implique la sécrétion d'Ig",
+   "La réponse cellulaire implique les LT cytotoxiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : la médiation humorale est adaptative.",
+   "Inexact : la médiation cellulaire relève des LT.",
+   "Inexact : les Ig sont sécrétées par les LB.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Synthèse sur l'immunité adaptative :",
+  "options": [
+   "Elle fait intervenir les lymphocytes T",
+   "Elle fait intervenir les lymphocytes B",
+   "Elle repose sur les récepteurs BCR et TCR",
+   "Elle est douée de mémoire immunitaire",
+   "Elle est dépourvue de spécificité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : LT, médiation cellulaire.",
+   "Exact : LB, médiation humorale.",
+   "Exact : récepteurs spécifiques.",
+   "Exact : mémoire = durable.",
+   "Faux : l'adaptatif est spécifique."
+  ]
+ },
+ {
+  "q": "Le récepteur Toll Like (TLR) :",
+  "options": [
+   "Signifie Toll Like Receptor",
+   "Est le récepteur de l'antigène sur les phagocytes",
+   "Reconnaît des structures particulières sur les microorganismes",
+   "Appartient à l'immunité innée",
+   "Est une immunoglobuline de membrane"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : Toll Like Receptor.",
+   "Exact : récepteur des phagocytes.",
+   "Exact : détection de motifs microbiens.",
+   "Exact : récepteur de l'inné.",
+   "Faux : ce n'est pas une immunoglobuline."
+  ]
+ },
+ {
+  "q": "Le BCR :",
+  "options": [
+   "Est une immunoglobuline de membrane",
+   "Est exprimé sur les lymphocytes B",
+   "Reconnaît l'antigène",
+   "Appartient à l'immunité adaptative",
+   "Reconnaît l'antigène appreté et présente via les HLA"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : forme essentiellement par une Ig de membrane.",
+   "Exact : récepteur des LB.",
+   "Exact : reconnaissance de l'Ag.",
+   "Exact : récepteur de l'adaptatif.",
+   "Faux : c'est le TCR qui reconnaît l'Ag présente via les HLA."
+  ]
+ },
+ {
+  "q": "Le TCR :",
+  "options": [
+   "Est exprimé sur les lymphocytes T",
+   "Reconnaît l'antigène appreté et présente par les CPA",
+   "Reconnaît l'antigène via les molécules HLA",
+   "Appartient à l'immunité adaptative",
+   "Est une immunoglobuline de membrane"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : récepteur des LT.",
+   "Exact : Ag appreté et présente par les CPA.",
+   "Exact : présentation via les HLA.",
+   "Exact : récepteur de l'adaptatif.",
+   "Faux : l'Ig de membrane forme le BCR."
+  ]
+ },
+ {
+  "q": "Pour comparer TLR, BCR et TCR :",
+  "options": [
+   "Le TLR relève de l'immunité innée",
+   "Le BCR et le TCR relèvent de l'immunité adaptative",
+   "Le TLR est exprimé sur les phagocytes",
+   "Le BCR est exprimé sur les LB et le TCR sur les LT",
+   "Le BCR est exprimé sur les lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : récepteur inné.",
+   "Exact : récepteurs adaptatifs.",
+   "Exact : macrophages, DC, PNN.",
+   "Exact : BCR-LB, TCR-LT.",
+   "Faux : les LT portent le TCR."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Le TCR est exprimé par les lymphocytes B",
+   "Le BCR est exprimé par les lymphocytes T",
+   "Les TLR sont exprimés par les lymphocytes",
+   "Le BCR est formé par une immunoglobuline de membrane",
+   "Le TCR reconnaît l'antigène présente via les HLA"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : les LB portent le BCR.",
+   "Inexact : les LT portent le TCR.",
+   "Inexact : les TLR sont sur les phagocytes.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "La reconnaissance de l'antigène :",
+  "options": [
+   "Fait intervenir des molécules de reconnaissance",
+   "Les récepteurs sont le TLR, le BCR et le TCR",
+   "Elle est spécifique pour le BCR et le TCR",
+   "Elle est peu spécifique pour le TLR",
+   "Les cytokines sont des récepteurs d'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : molécules de reconnaissance de l'Ag.",
+   "Exact : les trois récepteurs.",
+   "Exact : récepteurs spécifiques de l'adaptatif.",
+   "Exact : le TLR détecte des motifs microbiens.",
+   "Faux : les cytokines sont des molécules de communication."
+  ]
+ },
+ {
+  "q": "Concernant les molécules HLA et le TCR :",
+  "options": [
+   "Le TCR reconnaît l'antigène présente via les molécules HLA",
+   "Les CPA présentent l'antigène via les molécules HLA",
+   "Les molécules HLA sont codées par le CMH",
+   "Le BCR utilise les molécules HLA",
+   "Il existe des molécules HLA de classe I et II"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : reconnaissance TCR-HLA.",
+   "Exact : présentation par les CPA via les HLA.",
+   "Exact : codées par le complexe majeur d'histocompatibilité.",
+   "Faux : le BCR reconnaît directement l'Ag.",
+   "Exact : classes I et II."
+  ]
+ },
+ {
+  "q": "L'immunoglobuline de membrane :",
+  "options": [
+   "Forme essentiellement le BCR",
+   "Est exprimée sur les lymphocytes B",
+   "Capte l'antigène",
+   "Après différenciation, elle est sécrétée comme anticorps",
+   "Est un récepteur Toll Like"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le BCR est formé par une Ig de membrane.",
+   "Exact : récepteur des LB.",
+   "Exact : capture de l'Ag par le BCR.",
+   "Exact : les plasmocytes sécrètent les Ig.",
+   "Faux : le TLR est un autre récepteur, celui des phagocytes."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Les TLR reconnaissent des antigènes apprêtés présentés via les HLA",
+   "Le BCR est un récepteur de l'immunité innée",
+   "Le TCR est formé par une immunoglobuline de membrane",
+   "Les TLR sont les récepteurs d'antigène des phagocytes",
+   "Le TCR est le récepteur d'antigène des LT"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : les TLR detectent des motifs microbiens natifs.",
+   "Inexact : le BCR est un récepteur de l'adaptatif.",
+   "Inexact : le TCR n'est pas une Ig de membrane.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Apprêtement, présentation et reconnaissance :",
+  "options": [
+   "Les CPA apprêtent l'antigène",
+   "Les CPA présentent l'antigène via les molécules HLA",
+   "L'antigène présente est reconnu par le TCR",
+   "L'antigène présente est reconnu par le BCR",
+   "Cette séquence relie l'immunité innée à l'adaptative"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : transformation de l'Ag par les CPA.",
+   "Exact : présentation via les HLA.",
+   "Exact : le TCR reconnaît l'Ag présente.",
+   "Faux : le BCR reconnaît l'Ag natif, pas présente via HLA.",
+   "Exact : c'est le pont inné-adaptatif."
+  ]
+ },
+ {
+  "q": "Concernant la spécificité des récepteurs :",
+  "options": [
+   "Le BCR et le TCR sont très spécifiques",
+   "Le TLR reconnaît des motifs microbiens conservés",
+   "L'immunité innée est moins spécifique",
+   "L'immunité adaptative est spécifique",
+   "Le TLR est plus spécifique que le TCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : récepteurs spécifiques de l'adaptatif.",
+   "Exact : détection de motifs, pas d'épitopes fins.",
+   "Exact : caractéristique de l'inné.",
+   "Exact : caractéristique de l'adaptatif.",
+   "Faux : le TCR est bien plus spécifique que le TLR."
+  ]
+ },
+ {
+  "q": "Les << molécules de reconnaissance de l'antigène >> sont :",
+  "options": [
+   "Le TLR",
+   "Le BCR",
+   "Le TCR",
+   "Les cytokines",
+   "Le complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : récepteur des phagocytes.",
+   "Exact : récepteur des LB.",
+   "Exact : récepteur des LT.",
+   "Faux : les cytokines sont des molécules de communication.",
+   "Faux : le complément est un système effecteur."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Les cytokines sont des molécules de reconnaissance de l'antigène",
+   "Le complément est un récepteur d'antigène",
+   "Les TLR reconnaissent les microorganismes",
+   "Le BCR reconnaît l'antigène",
+   "Le TCR reconnaît l'antigène présente"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Inexact : les cytokines sont des molécules de communication.",
+   "Inexact : le complément est un système de protéines effectrices.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Phagocytes et récepteurs TLR :",
+  "options": [
+   "Les macrophages expriment le TLR",
+   "Les polynucléaires neutrophiles expriment le TLR",
+   "Les cellules dendritiques expriment le TLR",
+   "Les lymphocytes B expriment le TLR",
+   "Le TLR permet la reconnaissance innée des microbes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les macrophages sont des phagocytes.",
+   "Exact : les PNN sont des phagocytes.",
+   "Exact : les DC sont des phagocytes.",
+   "Faux : les LB portent le BCR.",
+   "Exact : détection des motifs microbiens."
+  ]
+ },
+ {
+  "q": "La double reconnaissance de l'antigène :",
+  "options": [
+   "L'immunité innée reconnaît via le TLR",
+   "L'immunité adaptative reconnaît via le BCR et le TCR",
+   "Les deux systèmes cooperent",
+   "Les deux reconnaissances sont également spécifiques",
+   "Les deux participent à la défense de l'organisme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : TLR sur les phagocytes.",
+   "Exact : BCR sur les LB, TCR sur les LT.",
+   "Exact : inné et adaptatif sont interdépendants.",
+   "Faux : l'inné est moins spécifique que l'adaptatif.",
+   "Exact : les deux défendent l'organisme."
+  ]
+ },
+ {
+  "q": "Les molécules de reconnaissance et les autres molécules :",
+  "options": [
+   "TLR, BCR et TCR sont des molécules de reconnaissance",
+   "Cytokines, HLA et complément sont d'autres molécules du SI",
+   "Les cytokines reconnaissent l'antigène",
+   "Le BCR est une molécule de reconnaissance",
+   "Le complément est une molécule de reconnaissance"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : récepteurs d'Ag.",
+   "Exact : communication, présentation, effecteurs.",
+   "Faux : les cytokines sont des molécules de communication.",
+   "Exact : récepteur des LB.",
+   "Faux : le complément est un système effecteur."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Le BCR reconnaît l'antigène appreté présente via les HLA",
+   "Les TLR sont des immunoglobulines de membrane",
+   "Le TCR est exprimé par les phagocytes",
+   "Le TLR reconnaît des structures microbiennes",
+   "Le TCR est le récepteur d'antigène des LT"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : c'est le TCR qui reconnaît l'Ag présente via HLA.",
+   "Inexact : les TLR ne sont pas des Ig.",
+   "Inexact : le TCR est exprimé par les LT.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Synthèse sur les récepteurs d'antigène :",
+  "options": [
+   "Le TLR est le récepteur des phagocytes",
+   "Le BCR est le récepteur des LB, forme d'une Ig de membrane",
+   "Le TCR est le récepteur des LT, il reconnaît l'Ag via les HLA",
+   "Les cytokines sont des récepteurs d'antigène",
+   "Ces récepteurs initient la réponse immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact.",
+   "Exact.",
+   "Exact.",
+   "Faux : les cytokines sont des molécules de communication.",
+   "Exact : la reconnaissance déclenche la réponse."
+  ]
+ },
+ {
+  "q": "Les cytokines :",
+  "options": [
+   "Sont des molécules de communication",
+   "Sont sécrétées par différentes cellules",
+   "Jouent le rôle de médiateurs dans les actions intercellulaires",
+   "Participent à la barrière moléculaire",
+   "Sont des cellules"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : molécules de communication.",
+   "Exact : sécrétées par différentes cellules.",
+   "Exact : médiatrices des actions intercellulaires.",
+   "Exact : le cours les cite dans la barrière moléculaire.",
+   "Faux : ce sont des molécules, pas des cellules."
+  ]
+ },
+ {
+  "q": "Les molécules HLA :",
+  "options": [
+   "Sont codées par le complexe majeur d'histocompatibilité",
+   "Comportent les classes I et II",
+   "Existent à la surface des cellules",
+   "Servent à la présentation de l'antigène aux LT",
+   "Sont des cytokines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CMH.",
+   "Exact : HLA de classe I et II.",
+   "Exact : molécules de surface.",
+   "Exact : le TCR reconnaît l'Ag présente via les HLA.",
+   "Faux : ce sont des molécules de présentation."
+  ]
+ },
+ {
+  "q": "Le complément :",
+  "options": [
+   "Est un ensemble de protéines plasmatiques",
+   "Est inactif à l'état basal",
+   "S'active en cascade",
+   "Participe aux différentes actions effectrices du SI",
+   "Est une population cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : protéines du plasma.",
+   "Exact : inactives sans déclenchement.",
+   "Exact : activation séquentielle en cascade.",
+   "Exact : actions effectrices du SI.",
+   "Faux : c'est un système moléculaire."
+  ]
+ },
+ {
+  "q": "La barrière moléculaire de l'immunité naturelle comprend :",
+  "options": [
+   "Le complément",
+   "Les cytokines",
+   "Les anticorps circulants",
+   "Les polynucléaires neutrophiles",
+   "Des molécules solubles de l'immunité innée"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : cite dans la barrière moléculaire.",
+   "Exact : citée dans la barrière moléculaire.",
+   "Faux : les anticorps relèvent de l'adaptatif humoral.",
+   "Faux : les PNN relèvent de la barrière cellulaire.",
+   "Exact : complément et cytokines sont solubles."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Les cytokines sont des cellules",
+   "Le complément est actif en permanence",
+   "Les molécules HLA sont codées par les cytokines",
+   "Les cytokines sont des médiateurs intercellulaires",
+   "Le complément s'active en cascade"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : les cytokines sont des molécules.",
+   "Inexact : il est inactif à l'état basal.",
+   "Inexact : les HLA sont codées par le CMH.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Le complexe majeur d'histocompatibilité (CMH) :",
+  "options": [
+   "Code les molécules HLA",
+   "Code les molécules HLA de classe I",
+   "Code les molécules HLA de classe II",
+   "Est un organe lymphoide",
+   "Existe chez l'Homme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le CMH code les HLA.",
+   "Exact : HLA de classe I.",
+   "Exact : HLA de classe II.",
+   "Faux : le CMH est un ensemble de gènes.",
+   "Exact : les HLA sont les molécules du CMH humain."
+  ]
+ },
+ {
+  "q": "La cascade du complément :",
+  "options": [
+   "Est une activation séquentielle des protéines",
+   "Amplifie la réponse immunitaire",
+   "Aboutit à des actions effectrices",
+   "Est totale et permanente en l'absence d'infection",
+   "Met en jeu des protéines plasmatiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : activation en cascade.",
+   "Exact : la cascade amplifie le signal.",
+   "Exact : participation aux actions effectrices.",
+   "Faux : le complément est inactif à l'état basal.",
+   "Exact : protéines du plasma."
+  ]
+ },
+ {
+  "q": "La communication intercellulaire dans le SI :",
+  "options": [
+   "Est assurée par les cytokines",
+   "Les cytokines sont sécrétées par différentes cellules",
+   "Elles agissent comme médiateurs des actions intercellulaires",
+   "Elles coordonnent la réponse immunitaire",
+   "Les cytokines sont des récepteurs membranaires d'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : molécules de communication.",
+   "Exact : produites par diverses cellules.",
+   "Exact : médiatrices intercellulaires.",
+   "Exact : elles orchestrent la réponse.",
+   "Faux : ce sont des molécules solubles, pas des récepteurs."
+  ]
+ },
+ {
+  "q": "Les molécules HLA de classe I et II :",
+  "options": [
+   "Forment deux classes de molécules",
+   "Sont codées par le CMH",
+   "Existent à la surface des cellules",
+   "Présentent l'antigène aux lymphocytes T",
+   "Sont des immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : classes I et II.",
+   "Exact : codées par le CMH.",
+   "Exact : molécules de surface cellulaire.",
+   "Exact : présentation au TCR.",
+   "Faux : ce ne sont pas des immunoglobulines."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Le complément est une cellule de l'inné",
+   "Les cytokines sont des organes lymphoides",
+   "Les molécules HLA sont des polynucléaires",
+   "Le complément est un ensemble de protéines plasmatiques",
+   "Les cytokines sont des molécules de communication"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : le complément est un système moléculaire.",
+   "Inexact : les cytokines sont des molécules.",
+   "Inexact : les HLA sont des molécules de surface.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Les protéines plasmatiques du système immunitaire :",
+  "options": [
+   "Le complément en est un ensemble",
+   "Les anticorps circulent dans le plasma",
+   "Certaines cytokines circulent dans le plasma",
+   "L'hémoglobine en fait partie",
+   "Le complément y est inactif puis s'active en cascade"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : protéines plasmatiques.",
+   "Exact : les Ig sont des protéines plasmatiques.",
+   "Exact : des cytokines circulent.",
+   "Faux : l'hémoglobine transporte l'oxygène, pas immune.",
+   "Exact : inactif au repos, cascade à l'activation."
+  ]
+ },
+ {
+  "q": "Concernant les médiateurs du système immunitaire :",
+  "options": [
+   "Les cytokines sont des médiateurs intercellulaires",
+   "Elles sont sécrétées par différentes cellules",
+   "Elles agissent sur d'autres cellules",
+   "Elles coordonnent la réponse immunitaire",
+   "Ce sont des récepteurs membranaires d'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : médiateurs des actions intercellulaires.",
+   "Exact : sécrétées par différentes cellules.",
+   "Exact : elles agissent sur les cellules cibles.",
+   "Exact : coordination de la réponse.",
+   "Faux : ce sont des molécules solubles."
+  ]
+ },
+ {
+  "q": "Les molécules du système immunitaire sont :",
+  "options": [
+   "Le complément",
+   "Les immunoglobulines",
+   "Les cytokines",
+   "Les molécules HLA",
+   "La kératine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : protéines plasmatiques effectrices.",
+   "Exact : molécules de l'humoral.",
+   "Exact : molécules de communication.",
+   "Exact : molécules de présentation.",
+   "Faux : la kératine est une protéine épithéliale."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Les molécules HLA sont sécrétées dans le plasma",
+   "Le complément est formé de cellules",
+   "Les cytokines sont des lipides",
+   "Les HLA existent à la surface des cellules",
+   "Le CMH code les molécules HLA"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : les HLA sont membranaires.",
+   "Inexact : le complément est protéique.",
+   "Inexact : les cytokines sont des protéines.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Les << autres molécules >> du SI, par opposition aux molécules de reconnaissance :",
+  "options": [
+   "Les cytokines",
+   "Les molécules HLA",
+   "Le complément",
+   "Le TLR",
+   "Le BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : molécules de communication.",
+   "Exact : molécules de présentation.",
+   "Exact : système effecteur.",
+   "Faux : le TLR est une molécule de reconnaissance.",
+   "Faux : le BCR est une molécule de reconnaissance."
+  ]
+ },
+ {
+  "q": "Synthèse sur les molécules du système immunitaire :",
+  "options": [
+   "La reconnaissance fait intervenir TLR, BCR et TCR",
+   "La communication fait intervenir les cytokines",
+   "La présentation fait intervenir les molécules HLA",
+   "Les actions effectrices font intervenir le complément",
+   "Toutes ces molécules sont des cellules"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : récepteurs d'Ag.",
+   "Exact : médiatrices intercellulaires.",
+   "Exact : présentation au TCR.",
+   "Exact : protéines plasmatiques effectrices.",
+   "Faux : ce sont des molécules, pas des cellules."
+  ]
+ },
+ {
+  "q": "Les barrières de l'immunité naturelle comprennent :",
+  "options": [
+   "La barrière physique",
+   "La barrière mécanique",
+   "La barrière chimique",
+   "La barrière biologique",
+   "Une seule barrière indifférenciée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : peau et muqueuses.",
+   "Exact : péristaltisme et cils.",
+   "Exact : acidité gastrique, sels biliaires.",
+   "Exact : bactéries saprophytes.",
+   "Faux : il existe plusieurs types de barrières."
+  ]
+ },
+ {
+  "q": "Les autres barrières de l'immunité naturelle sont :",
+  "options": [
+   "La barrière cellulaire",
+   "La barrière moléculaire",
+   "La barrière physique",
+   "Les barrières assurent la protection initiale de l'organisme",
+   "L'immunité adaptative fait partie des barrières"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : PNN, macrophages, DC, NK.",
+   "Exact : complément, cytokines.",
+   "Exact : peau et muqueuses.",
+   "Exact : l'inné assure la protection initiale.",
+   "Faux : les barrières relèvent de l'immunité naturelle."
+  ]
+ },
+ {
+  "q": "La barrière physique :",
+  "options": [
+   "Est constituée par la peau",
+   "Est constituée par les muqueuses",
+   "Représente l'interface avec le milieu extérieur",
+   "Est constituée par les cils vibratiles",
+   "Est constituée par l'acidité gastrique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la peau est une barrière physique.",
+   "Exact : les muqueuses sont une barrière physique.",
+   "Exact : interface avec le milieu extérieur.",
+   "Faux : les cils relèvent de la barrière mécanique.",
+   "Faux : l'acidité gastrique relève de la barrière chimique."
+  ]
+ },
+ {
+  "q": "La barrière mécanique :",
+  "options": [
+   "Fait intervenir le péristaltisme",
+   "Fait intervenir les cils des muqueuses",
+   "Se situe au niveau des muqueuses",
+   "Empêche l'entrée des pathogènes",
+   "Fait intervenir les sels biliaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le péristaltisme est mécanique.",
+   "Exact : les cils sont mécaniques.",
+   "Exact : au niveau des muqueuses.",
+   "Exact : ils empêchent l'entrée des pathogènes.",
+   "Faux : les sels biliaires relèvent de la barrière chimique."
+  ]
+ },
+ {
+  "q": "La barrière chimique :",
+  "options": [
+   "Fait intervenir l'acidité gastrique",
+   "Fait intervenir les sels biliaires",
+   "Détruit une partie des pathogènes",
+   "Fait intervenir le péristaltisme",
+   "Fait intervenir les cils"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'acidité gastrique est chimique.",
+   "Exact : les sels biliaires sont chimiques.",
+   "Exact : destruction d'une partie des pathogènes.",
+   "Faux : le péristaltisme est mécanique.",
+   "Faux : les cils sont mécaniques."
+  ]
+ },
+ {
+  "q": "La barrière biologique :",
+  "options": [
+   "Fait intervenir les bactéries saprophytes intestinales",
+   "Fait intervenir les bactéries saprophytes pulmonaires",
+   "Correspond à la flore commensale",
+   "Est constituée par la peau",
+   "Est constituée par les anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : saprophytes intestinales.",
+   "Exact : saprophytes pulmonaires.",
+   "Exact : la flore commensale protège.",
+   "Faux : la peau est une barrière physique.",
+   "Faux : les anticorps relèvent de l'adaptatif."
+  ]
+ },
+ {
+  "q": "La barrière cellulaire comprend :",
+  "options": [
+   "Les polynucléaires neutrophiles",
+   "Les macrophages",
+   "Les cellules dendritiques",
+   "Les Natural Killer",
+   "Les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : cités dans la barrière cellulaire.",
+   "Exact : cités dans la barrière cellulaire.",
+   "Exact : cités dans la barrière cellulaire.",
+   "Exact : cités dans la barrière cellulaire.",
+   "Faux : les LB sont des cellules de l'adaptatif."
+  ]
+ },
+ {
+  "q": "La barrière moléculaire comprend :",
+  "options": [
+   "Le complément",
+   "Les cytokines",
+   "Les immunoglobulines",
+   "Les polynucléaires neutrophiles",
+   "Des molécules solubles de l'immunité innée"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : cite dans la barrière moléculaire.",
+   "Exact : citée dans la barrière moléculaire.",
+   "Faux : les Ig relèvent de l'adaptatif humoral.",
+   "Faux : les PNN relèvent de la barrière cellulaire.",
+   "Exact : complément et cytokines sont solubles."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "La barrière physique comprend l'acidité gastrique",
+   "La barrière chimique comprend les cils",
+   "La barrière mécanique repose sur la peau",
+   "La peau est une barrière physique",
+   "Les cils sont une barrière mécanique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : l'acidité gastrique est une barrière chimique.",
+   "Inexact : les cils sont une barrière mécanique.",
+   "Inexact : la barrière mécanique repose sur cils et péristaltisme.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "La peau et les muqueuses :",
+  "options": [
+   "Constituent une barrière physique",
+   "Sont l'interface avec le milieu extérieur",
+   "Les muqueuses ont aussi un rôle mécanique par les cils et le péristaltisme",
+   "La peau sécrète de l'acide gastrique",
+   "Les muqueuses hebergent des bactéries saprophytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : barrière physique.",
+   "Exact : interface avec le milieu extérieur.",
+   "Exact : cils et péristaltisme au niveau des muqueuses.",
+   "Faux : l'acide gastrique est produit par l'estomac.",
+   "Exact : flore saprophyte des muqueuses."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "Les bactéries saprophytes sont des pathogènes",
+   "Les cils facilitent l'entrée des pathogènes",
+   "La flore commensale protège contre les pathogènes",
+   "L'acidité gastrique détruit des pathogènes",
+   "Les sels biliaires participent à la barrière chimique"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Inexact : les saprophytes sont une flore protectrice.",
+   "Inexact : les cils empêchent l'entrée des pathogènes.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "La protection initiale de l'organisme :",
+  "options": [
+   "Est assurée par l'immunité naturelle",
+   "Précède la réponse adaptative",
+   "Fait intervenir les barrières",
+   "Fait intervenir les immunoglobulines",
+   "Est rapide"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'inné assure la protection initiale.",
+   "Exact : avant l'adaptatif.",
+   "Exact : barrières physiques, chimiques, cellulaires...",
+   "Faux : les Ig relèvent de l'adaptatif.",
+   "Exact : l'inné est plus rapide."
+  ]
+ },
+ {
+  "q": "Exemples concrets de barrières naturelles :",
+  "options": [
+   "Les cils respiratoires",
+   "L'acidité gastrique",
+   "La flore intestinale",
+   "Les immunoglobulines sécrétées",
+   "Les polynucléaires neutrophiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : barrière mécanique.",
+   "Exact : barrière chimique.",
+   "Exact : barrière biologique.",
+   "Faux : les Ig relèvent de l'adaptatif.",
+   "Exact : barrière cellulaire."
+  ]
+ },
+ {
+  "q": "Synthèse sur les barrières de l'immunité naturelle :",
+  "options": [
+   "On distingue six types de barrières",
+   "Elles assurent la protection initiale",
+   "Elles relèvent de l'immunité innée",
+   "Elles sont spécifiques de chaque antigène",
+   "Elles sont dépourvues de mémoire immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : physique, mécanique, chimique, biologique, cellulaire, moléculaire.",
+   "Exact : protection initiale de l'organisme.",
+   "Exact : l'inné = immunité naturelle.",
+   "Faux : l'inné est moins spécifique.",
+   "Exact : pas de mémoire dans l'inné."
+  ]
+ },
+ {
+  "q": "Les muqueuses :",
+  "options": [
+   "Constituent une barrière physique",
+   "Ont aussi un rôle mécanique par les cils et le péristaltisme",
+   "Hebergent la flore saprophyte protectrice",
+   "Sont des surfaces stériles",
+   "Sont l'interface avec le milieu extérieur"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : barrière physique.",
+   "Exact : cils et péristaltisme.",
+   "Exact : bactéries saprophytes.",
+   "Faux : les muqueuses hebergent une flore.",
+   "Exact : interface avec le milieu extérieur."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "La barrière biologique repose sur les anticorps",
+   "La barrière moléculaire repose sur les PNN",
+   "Les bactéries saprophytes font partie de la barrière biologique",
+   "Le complément fait partie de la barrière moléculaire",
+   "Les cytokines font partie de la barrière moléculaire"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Inexact : elle repose sur les bactéries saprophytes.",
+   "Inexact : elle repose sur complément et cytokines.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "L'immunité innée ou naturelle est :",
+  "options": [
+   "Moins spécifique",
+   "Plus rapide",
+   "Transitoire",
+   "Dépourvue de mémoire immunitaire",
+   "Durable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : moins spécifique que l'adaptatif.",
+   "Exact : réponse immédiate.",
+   "Exact : protection transitoire.",
+   "Exact : pas de mémoire.",
+   "Faux : durable caractérise l'adaptatif."
+  ]
+ },
+ {
+  "q": "L'immunité adaptative ou acquise est :",
+  "options": [
+   "Spécifique",
+   "Moins rapide, elle met quelques jours",
+   "Durable",
+   "Douée de mémoire immunitaire",
+   "Immédiate"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : spécifique de l'antigène.",
+   "Exact : quelques jours pour se mettre en place.",
+   "Exact : protection durable.",
+   "Exact : mémoire immunitaire.",
+   "Faux : immédiate caractérise l'inné."
+  ]
+ },
+ {
+  "q": "Concernant les dénominations :",
+  "options": [
+   "L'immunité naturelle est aussi appelée innée",
+   "L'immunité adaptative est aussi appelée acquise",
+   "L'immunité innée est aussi appelée secondaire",
+   "L'immunité adaptative est aussi appelée tertiaire",
+   "Les deux immunités existent chez l'Homme"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : naturelle = innée.",
+   "Exact : adaptative = acquise.",
+   "Faux : l'inné est la première ligne, pas secondaire.",
+   "Faux : il n'existe pas d'immunité tertiaire.",
+   "Exact : inné et adaptatif coexistent chez l'Homme."
+  ]
+ },
+ {
+  "q": "La mémoire immunitaire :",
+  "options": [
+   "Est une propriété de l'immunité adaptative",
+   "L'immunité innée en est dépourvue",
+   "Permet une protection durable",
+   "Les barrières naturelles en sont douées",
+   "Repose sur les lymphocytes mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'adaptatif à une mémoire.",
+   "Exact : l'inné n'a pas de mémoire.",
+   "Exact : la mémoire rend la protection durable.",
+   "Faux : les barrières sont sans mémoire.",
+   "Exact : les lymphocytes mémoire en sont le support."
+  ]
+ },
+ {
+  "q": "Concernant la rapidité des réponses :",
+  "options": [
+   "L'immunité innée répond immédiatement",
+   "L'immunité adaptative met quelques jours à se mettre en place",
+   "L'immunité adaptative est plus rapide que l'innée",
+   "La lenteur relative de l'adaptatif est due à l'activation et à la prolifération",
+   "Les deux immunités répondent immédiatement"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : l'inné est plus rapide.",
+   "Exact : quelques jours pour l'adaptatif.",
+   "Faux : c'est l'inné qui est la plus rapide.",
+   "Exact : activation, prolifération, différenciation prennent du temps.",
+   "Faux : seul l'inné est immédiat."
+  ]
+ },
+ {
+  "q": "Concernant la spécificité :",
+  "options": [
+   "L'immunité adaptative est spécifique grâce au BCR et au TCR",
+   "L'immunité innée est moins spécifique, elle détecte des motifs microbiens",
+   "L'immunité innée est plus spécifique que l'adaptative",
+   "Les deux immunités sont aspécifiques",
+   "La spécificité vient des récepteurs des lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : BCR et TCR sont spécifiques.",
+   "Exact : le TLR détecte des motifs.",
+   "Faux : c'est l'inverse.",
+   "Faux : l'adaptatif est spécifique.",
+   "Exact : récepteurs lymphocytaires."
+  ]
+ },
+ {
+  "q": "L'interdépendance des deux immunités :",
+  "options": [
+   "L'immunité innée et l'adaptative cooperent activement",
+   "Les cellules dendritiques font le pont entre les deux",
+   "La présentation de l'antigène relie l'inné à l'adaptatif",
+   "Elles sont totalement indépendantes",
+   "Leur coopération permet l'élimination de l'agent pathogène intrus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : coopération active.",
+   "Exact : les DC amènent l'Ag vers les OLS.",
+   "Exact : présentation aux lymphocytes.",
+   "Faux : elles sont interdépendantes.",
+   "Exact : finalité de la coopération."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "L'immunité innée est spécifique",
+   "L'immunité adaptative est immédiate",
+   "L'inné possède une mémoire immunitaire",
+   "L'adaptatif est moins spécifique que l'inné",
+   "L'inné est plus rapide que l'adaptatif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Inexact : l'inné est moins spécifique.",
+   "Inexact : l'adaptatif met quelques jours.",
+   "Inexact : l'inné n'a pas de mémoire.",
+   "Inexact : l'adaptatif est plus spécifique.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "Les conséquences d'une altération de l'immunité :",
+  "options": [
+   "Toute altération de l'immunité expose à la maladie",
+   "Un déficit immunitaire expose aux infections",
+   "Les deux immunités, innée et adaptative, sont concernées",
+   "Une immunité normale protège totalement de toute maladie",
+   "La coopération des deux immunités est nécessaire à la défense"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : conclusion du cours.",
+   "Exact : défaut de défense = infections.",
+   "Exact : l'altération peut toucher l'inné ou l'adaptatif.",
+   "Faux : la protection n'est jamais totale.",
+   "Exact : inné et adaptatif sont interdépendants."
+  ]
+ },
+ {
+  "q": "La réponse humorale et la réponse cellulaire :",
+  "options": [
+   "Sont les deux versants de l'immunité adaptative",
+   "La réponse humorale repose sur la sécrétion d'Ig",
+   "La réponse cellulaire fait intervenir les LT cytotoxiques",
+   "L'immunité innée produit des immunoglobulines",
+   "Les deux sont douées de mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : deux versants de l'adaptatif.",
+   "Exact : Ig = anticorps.",
+   "Exact : LT cytotoxiques.",
+   "Faux : les Ig relèvent des LB de l'adaptatif.",
+   "Exact : mémoire de l'adaptatif."
+  ]
+ },
+ {
+  "q": "Transitoire contre durable :",
+  "options": [
+   "L'immunité innée est transitoire",
+   "L'immunité adaptative est durable",
+   "La mémoire immunitaire rend l'adaptatif durable",
+   "L'immunité innée est durable",
+   "La vaccination repose sur la mémoire immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'inné est transitoire.",
+   "Exact : l'adaptatif est durable.",
+   "Exact : mémoire = protection durable.",
+   "Faux : l'inné est transitoire, sans mémoire.",
+   "Exact : la vaccination exploite la mémoire."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "L'immunité naturelle est spécifique et durable",
+   "L'immunité adaptative est rapide et transitoire",
+   "Seule l'immunité innée existe chez l'Homme",
+   "L'inné et l'adaptatif sont interdépendants",
+   "L'adaptatif met quelques jours à se mettre en place"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : l'inné est peu spécifique et transitoire.",
+   "Inexact : l'adaptatif est spécifique et durable.",
+   "Inexact : les deux coexistent chez l'Homme.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ },
+ {
+  "q": "L'élimination de l'agent pathogène intrus :",
+  "options": [
+   "Résulte de la coopération entre l'inné et l'adaptatif",
+   "Fait intervenir phagocytes, lymphocytes et molécules",
+   "Aboutit au rejet du non-soi",
+   "Est assurée par l'immunité innée seule",
+   "Est immédiate dans tous les cas"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : inné et adaptatif cooperent.",
+   "Exact : cellules et molécules du SI.",
+   "Exact : le pathogène est du non-soi.",
+   "Faux : l'adaptatif y participe aussi.",
+   "Faux : l'adaptatif met quelques jours."
+  ]
+ },
+ {
+  "q": "Synthèse : immunité innée et adaptative :",
+  "options": [
+   "L'inné repose sur les barrières, il est rapide et sans mémoire",
+   "L'adaptatif repose sur les lymphocytes, il est spécifique et avec mémoire",
+   "Les deux immunités sont interdépendantes",
+   "Les deux immunités sont totalement indépendantes",
+   "Toute altération de l'immunité expose à la maladie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : caractéristiques de l'inné.",
+   "Exact : caractéristiques de l'adaptatif.",
+   "Exact : coopération active.",
+   "Faux : elles sont interdépendantes.",
+   "Exact : conclusion du cours."
+  ]
+ },
+ {
+  "q": "Le délai de << quelques jours >> de l'immunité adaptative :",
+  "options": [
+   "Correspond au temps d'activation des lymphocytes",
+   "S'explique par la prolifération et la différenciation",
+   "L'immunité innée agit plus vite",
+   "L'immunité adaptative est immédiate",
+   "La mémoire accélère la réponse lors d'un second contact"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : activation dans les OLS.",
+   "Exact : expansion et différenciation.",
+   "Exact : l'inné est plus rapide.",
+   "Faux : l'adaptatif met quelques jours.",
+   "Exact : la réponse secondaire est plus rapide."
+  ]
+ },
+ {
+  "q": "La protection initiale de l'organisme :",
+  "options": [
+   "Est le rôle de l'immunité naturelle",
+   "Est assurée par les barrières",
+   "Précède la mise en place de l'adaptatif",
+   "Est assurée par les immunoglobulines",
+   "Est rapide et transitoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : l'inné assure la protection initiale.",
+   "Exact : les six types de barrières.",
+   "Exact : avant l'adaptatif.",
+   "Faux : les Ig relèvent de l'adaptatif.",
+   "Exact : caractéristiques de l'inné."
+  ]
+ },
+ {
+  "q": "Chez l'Homme :",
+  "options": [
+   "Les immunités innée et adaptative coexistent",
+   "Elles sont interdépendantes",
+   "Elles cooperent activement",
+   "L'une des deux suffit à elle seule",
+   "Leur coopération élimine l'agent pathogène intrus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les deux existent chez l'Homme.",
+   "Exact : interdépendance.",
+   "Exact : coopération active.",
+   "Faux : les deux sont nécessaires.",
+   "Exact : finalité de la coopération."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes sont INEXACTES ?",
+  "options": [
+   "L'immunité adaptative ne concerne que les anticorps",
+   "L'immunité innée produit des lymphocytes mémoire",
+   "L'adaptatif est aspécifique",
+   "L'inné est rapide et sans mémoire",
+   "L'adaptatif est spécifique et avec mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Inexact : elle comprend aussi la médiation cellulaire.",
+   "Inexact : la mémoire relève de l'adaptatif.",
+   "Inexact : l'adaptatif est spécifique.",
+   "Exact, donc non retenue.",
+   "Exact, donc non retenue."
+  ]
+ }
+]

@@ -1,0 +1,4558 @@
+[
+ {
+  "q": "Concernant l'immunisation active (vaccination), lesquelles sont exactes ?",
+  "options": [
+   "Elle consiste en l'injection d'un antigène microbien modifié.",
+   "L'agent vaccinal est immunogène mais non pathogène.",
+   "Elle induit une protection spécifique par les lymphocytes B naïfs.",
+   "La protection apparaît immédiatement après l'injection.",
+   "Elle ne fait intervenir que l'immunité à médiation cellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la vaccination est l'injection d'un Ag microbien modifié.",
+   "Vrai : le vaccin est immunogène sans être pathogène.",
+   "Vrai : la primo-vaccination stimule la réponse immune humorale spécifique par les LB naïfs.",
+   "Faux : la protection active nécessite un délai de production des anticorps.",
+   "Faux : la vaccination stimule surtout l'immunité humorale (anticorps)."
+  ]
+ },
+ {
+  "q": "Concernant l'immunisation passive (sérothérapie), lesquelles sont exactes ?",
+  "options": [
+   "Elle consiste en l'injection d'immunoglobulines spécifiques ou non spécifiques.",
+   "La protection qu'elle assure est de courte durée.",
+   "Elle stimule la production d'anticorps par le receveur.",
+   "Elle est utilisée en post-exposition immédiate.",
+   "Elle induit une mémoire immunitaire durable."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : la sérothérapie est l'injection d'Ig spécifiques ou non spécifiques.",
+   "Vrai : la protection passive est transitoire car les Ig injectées sont dégradées.",
+   "Faux : le receveur ne produit pas d'anticorps, il les reçoit tout prêts.",
+   "Vrai : la sérothérapie convient aux situations urgentes post-exposition.",
+   "Faux : sans activation lymphocytaire, il n'y a pas de mémoire immunitaire."
+  ]
+ },
+ {
+  "q": "Concernant la primo-vaccination, lesquelles sont exactes ?",
+  "options": [
+   "L'agent vaccinal stimule la réponse immune humorale.",
+   "Elle fait intervenir des lymphocytes B naïfs.",
+   "Le taux d'immunoglobulines produit est variable.",
+   "Les anticorps produits sont d'emblée de forte affinité.",
+   "Les immunoglobulines predominantes sont de type IgM."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la primo-vaccination stimule la RIH (réponse immune humorale).",
+   "Vrai : ce sont les LB naïfs qui répondent lors du premier contact.",
+   "Vrai : le taux d'Ig produit lors de la primo-vaccination est variable.",
+   "Faux : l'affinité est faible lors de la primo-vaccination (maturation d'affinité ultérieure).",
+   "Vrai : la réponse primaire produit surtout des IgM de faible affinité."
+  ]
+ },
+ {
+  "q": "Concernant les rappels vaccinaux, lesquelles sont exactes ?",
+  "options": [
+   "Ils font intervenir les lymphocytes B mémoire.",
+   "La réponse secondaire est plus rapide que la réponse primaire.",
+   "Le taux d'immunoglobulines produit est important.",
+   "Les anticorps produits sont de forte affinité.",
+   "La réponse secondaire produit surtout des IgM de faible affinité."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les rappels mobilisent les LB mémoire générés par la primo-vaccination.",
+   "Vrai : la réponse secondaire est plus rapide grâce aux cellules mémoire.",
+   "Vrai : le taux d'Ig est élevé lors de la réponse secondaire.",
+   "Vrai : la maturation d'affinité a sélectionné des anticorps de forte affinité (IgG).",
+   "Faux : la réponse secondaire produit surtout des IgG de forte affinité."
+  ]
+ },
+ {
+  "q": "Concernant la mémoire immunitaire vaccinale, lesquelles sont exactes ?",
+  "options": [
+   "Elle repose sur les lymphocytes B mémoire quiescents en phase G0.",
+   "Elle permet une réponse secondaire plus rapide et plus intense.",
+   "Elle implique une commutation isotypique vers les IgG.",
+   "Elle est absente après les vaccins à polysaccharides purs (TI-2).",
+   "Elle est identique quelle que soit la dose d'antigène administrée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les cellules mémoire sont des lymphocytes quiescents en phase G0.",
+   "Vrai : la réponse secondaire est rapide, intense et de forte affinité.",
+   "Vrai : la réponse T-dépendante s'accompagne d'une commutation de classe vers IgG.",
+   "Vrai : les Ag thymo-indépendants de type 2 (polysaccharides) n'induisent pas de mémoire.",
+   "Faux : une dose insuffisante ou excessive d'Ag peut entraîner une tolérance."
+  ]
+ },
+ {
+  "q": "Concernant les formes d'agents vaccinaux décrites dans le cours, lesquelles sont exactes ?",
+  "options": [
+   "Agent pathogène complet, comme le BCG pour la tuberculose.",
+   "Toxines détoxifiées, comme pour la diphterie.",
+   "Fractions antigéniques, comme pour les hépatites A ou B.",
+   "Seuls les agents pathogènes complets sont utilisables en vaccination.",
+   "Les fractions sont moins immunogènes que l'agent complet."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le BCG est un agent pathogène complet atténué contre la tuberculose.",
+   "Vrai : l'anatoxine diphterique est une toxine détoxifiée.",
+   "Vrai : les vaccins anti-hépatites A et B sont des vaccins fractionnés.",
+   "Faux : toxines et fractions sont aussi utilisées comme vaccins.",
+   "Faux : l'immunogénicité dépend de la nature et de la présentation de l'Ag, pas de sa taille seule."
+  ]
+ },
+ {
+  "q": "Concernant la seroprotection vaccinale, lesquelles sont exactes ?",
+  "options": [
+   "Elle est corrélée au taux d'anticorps circulants spécifiques.",
+   "Elle est évaluée par des techniques sérologiques quantitatives.",
+   "Elle est assurée principalement par les IgG spécifiques.",
+   "Elle persiste indéfiniment après une seule injection quel que soit le vaccin.",
+   "Elle est indépendante de la réponse à médiation cellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le taux d'Ac est le correl protecteur classique des vaccins humoraux.",
+   "Vrai : ELISA, RIA ou neutralisation mesurent le taux d'Ac protecteurs.",
+   "Vrai : les IgG de forte affinité assurent la protection humorale.",
+   "Faux : la protection décroît avec le temps et nécessite des rappels selon les vaccins.",
+   "Faux : l'immunité cellulaire contribue aussi à la protection vaccinale."
+  ]
+ },
+ {
+  "q": "Concernant l'immunisation passive maternelle, lesquelles sont exactes ?",
+  "options": [
+   "Elle repose sur le passage transplacentaire des IgG maternelles.",
+   "Elle protège le nouveau-ne pendant les premiers mois de vie.",
+   "Elle est un exemple naturel d'immunisation passive.",
+   "Elle induit une mémoire immunitaire chez le nouveau-ne.",
+   "Le lait maternel apporte des IgA secretories protectrices des muqueuses."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les IgG maternelles traversent le placenta (seule classe transférée).",
+   "Vrai : cette protection passive couvre les premiers mois de vie.",
+   "Vrai : c'est une immunisation passive naturelle.",
+   "Faux : les Ac reçus ne génèrent pas de mémoire chez l'enfant.",
+   "Vrai : le lait maternel est riche en IgA secretories digestives."
+  ]
+ },
+ {
+  "q": "Concernant les indications de la sérothérapie, lesquelles sont exactes ?",
+  "options": [
+   "Prophylaxie post-exposition du tétanos par immunoglobulines anti-tétaniques.",
+   "Prophylaxie post-exposition de la rage.",
+   "Traitement curatif d'une infection evolutive par vaccination seule.",
+   "Protection immédiate d'un sujet non vacciné exposé.",
+   "Prevention de l'allo-immunisation anti-D chez la femme enceinte Rh négatif."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les Ig anti-tétaniques sont utilisées en post-exposition.",
+   "Vrai : les Ig anti-rabiques completent la vaccination post-morsure.",
+   "Faux : la vaccination seule est trop lente en situation curative urgente.",
+   "Vrai : la sérothérapie apporte une protection immédiate.",
+   "Vrai : les Ig anti-D previennent l'allo-immunisation materno-fœtale."
+  ]
+ },
+ {
+  "q": "Concernant l'injection intra-thymique d'antigène évoquée dans le cours, lesquelles sont exactes ?",
+  "options": [
+   "Elle vise à induire un état de tolérance immunitaire.",
+   "Elle est proposée en cas d'auto-immunité.",
+   "Elle repose sur la selection négative des lymphocytes auto-reactifs.",
+   "Elle constitue une forme de vaccination preventive classique.",
+   "Elle stimule la production d'auto-anticorps."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'objectif est l'induction d'une tolérance à l'Ag injecté.",
+   "Vrai : cette approche est envisagée dans les maladies auto-immunes.",
+   "Vrai : le thymus est le lieu de la selection négative des LT auto-reactifs.",
+   "Faux : il s'agit de tolérance, pas d'immunisation active protectrice.",
+   "Faux : l'objectif est l'inverse : eliminer la réactivité contre cet Ag."
+  ]
+ },
+ {
+  "q": "Concernant les differences entre immunisation active et passive, lesquelles sont exactes ?",
+  "options": [
+   "L'immunisation active nécessite un délai avant protection.",
+   "L'immunisation passive procure une protection immédiate.",
+   "L'immunisation active induit une mémoire immunitaire.",
+   "L'immunisation passive est de longue durée.",
+   "Les deux reposent sur l'injection d'anticorps preformes."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la production d'Ac par le sujet vacciné prend plusieurs jours à semaines.",
+   "Vrai : les Ac injectés sont immédiatement disponibles.",
+   "Vrai : seule l'immunisation active génère des cellules mémoire.",
+   "Faux : la protection passive est breve (catabolisme des Ig).",
+   "Faux : seule l'immunisation passive apporte des Ac preformes."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins et la réponse thymo-dépendante, lesquelles sont exactes ?",
+  "options": [
+   "Les vaccins protéiques induisent une réponse thymo-dépendante.",
+   "La cooperation des lymphocytes T helper est nécessaire à la commutation de classe.",
+   "La réponse thymo-dépendante génère une mémoire immunitaire.",
+   "Les vaccins polysaccharidiques purs sont thymo-indépendants de type 2.",
+   "Les réponses thymo-indépendantes produisent surtout des IgG de forte affinité."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les Ag protéiques vaccinaux sont thymo-dépendants.",
+   "Vrai : les LTH permettent la commutation isotypique vers IgG.",
+   "Vrai : la réponse TD génère des cellules mémoire.",
+   "Vrai : les polyosides à structure repetitive sont des Ag TI-2.",
+   "Faux : les réponses TI produisent surtout des IgM sans commutation ni mémoire."
+  ]
+ },
+ {
+  "q": "Concernant l'immunité de groupe (herd immunity), lesquelles sont exactes ?",
+  "options": [
+   "Elle résulte d'une couverture vaccinale élevée dans la population.",
+   "Elle protège indirectement les sujets non vaccinés.",
+   "Elle est particulierement importante pour les sujets contre-indiqués à la vaccination.",
+   "Elle rend la vaccination individuelle inutile.",
+   "Elle s'applique à toutes les maladies infectieuses sans exception."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : une large couverture vaccinale interrompt la circulation de l'agent.",
+   "Vrai : les non-vaccinés beneficient de la baisse de circulation du pathogène.",
+   "Vrai : nourrissons trop jeunes et immunodeprimes dépendent de cette protection.",
+   "Faux : la protection individuelle reste le fondement de la vaccination.",
+   "Faux : elle ne s'applique qu'aux maladies à transmission interhumaine (pas le tétanos)."
+  ]
+ },
+ {
+  "q": "Concernant les echecs vaccinaux, lesquelles sont exactes ?",
+  "options": [
+   "Une rupture de la chaîne du froid peut inactiver le vaccin.",
+   "Une immunodepression du receveur peut reduire la réponse.",
+   "Une dose d'antigène non optimale peut entraîner une non-réponse.",
+   "Ils sont toujours dus à une mauvaise qualité du vaccin.",
+   "La réponse primaire produit des IgM de faible affinité facilement dosables."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la chaleur dégrade les vaccins, d'où la chaîne du froid.",
+   "Vrai : l'immunodepression altère la réponse humorale et cellulaire.",
+   "Vrai : une dose insuffisante ou excessive peut induire une tolérance.",
+   "Faux : l'état immunitaire du receveur et la conservation jouent aussi.",
+   "Faux : cette proposition ne décrit pas un echec vaccinal."
+  ]
+ },
+ {
+  "q": "Concernant les rappels vaccinaux du calendrier, lesquelles sont exactes ?",
+  "options": [
+   "Ils entretiennent le taux d'anticorps protecteurs.",
+   "Ils mobilisent les lymphocytes B mémoire.",
+   "Ils sont inutiles pour les vaccins vivants atténués.",
+   "Ils sont nécessaires pour les vaccins inactivées.",
+   "Ils induisent des anticorps de plus forte affinité."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les rappels maintiennent la seroprotection dans le temps.",
+   "Vrai : la réponse secondaire repose sur les LB mémoire.",
+   "Faux : certains vaccins vivants nécessitent aussi des rappels selon les schémas.",
+   "Vrai : les vaccins inactivées ont une immunogénicité limitée nécessitant des rappels.",
+   "Vrai : la maturation d'affinité progresse à chaque rappel."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination des sujets immunodeprimes, lesquelles sont exactes ?",
+  "options": [
+   "Les vaccins vivants atténués y sont contre-indiqués.",
+   "Les vaccins inactivées peuvent être administrés.",
+   "Le risque est la replication non contrôlée de la souche vaccinale.",
+   "La réponse humorale peut être diminuée.",
+   "Tous les vaccins y sont formellement interdits."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les vaccins vivants sont contre-indiqués en cas d'immunodepression.",
+   "Vrai : les vaccins inactivées ne se repliquent pas et restent utilisables.",
+   "Vrai : une souche atténuée peut devenir pathogène chez l'immunodeprime.",
+   "Vrai : la production d'Ac peut être insuffisante.",
+   "Faux : les vaccins inactivées restent possibles, seule l'efficacité est réduite."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination de la femme enceinte, lesquelles sont exactes ?",
+  "options": [
+   "Les vaccins vivants atténués sont contre-indiqués.",
+   "Le vaccin anti-tétanos inactivée peut être administré.",
+   "Le risque théorique est la transmission de la souche vaccinale au foetus.",
+   "Les IgG maternelles induites protègent aussi le nouveau-ne.",
+   "Aucun vaccin ne peut être administré pendant la grossesse."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les vaccins vivants sont contre-indiqués pendant la grossesse.",
+   "Vrai : les vaccins inactivées comme l'anatoxine tétanique sont utilisables.",
+   "Vrai : le risque est l'infection fœtale par la souche vaccinale vivante.",
+   "Vrai : les IgG maternelles traversent le placenta et protègent le nouveau-ne.",
+   "Faux : les vaccins inactivées restent administrables si indiqués."
+  ]
+ },
+ {
+  "q": "Concernant les immunoglobulines polyvalentes intraveineuses (IVIg), lesquelles sont exactes ?",
+  "options": [
+   "Elles sont préparées à partir de pools de plasma de donneurs.",
+   "Elles sont utilisées en traitement substitutif des déficits humoraux.",
+   "Elles sont utilisées à forte dose dans certaines maladies auto-immunes.",
+   "Elles induisent une mémoire immunitaire chez le receveur.",
+   "Elles contiennent majoritairement des IgG."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les IVIg sont des preparations d'IgG issues de milliers de donneurs.",
+   "Vrai : elles substituent les Ac manquants dans les agammaglobulinemies.",
+   "Vrai : à forte dose elles ont un effet immunomodulateur (PTI, Kawasaki).",
+   "Faux : c'est une immunisation passive sans mémoire.",
+   "Vrai : les preparations contiennent essentiellement des IgG."
+  ]
+ },
+ {
+  "q": "Concernant la prophylaxie combinée (sérothérapie + vaccination), lesquelles sont exactes ?",
+  "options": [
+   "Elle associe protection immédiate et protection durable.",
+   "Elle est utilisée dans la prophylaxie post-exposition de l'hépatite B.",
+   "Elle est utilisée dans la prophylaxie post-morsure de la rage.",
+   "Les immunoglobulines et le vaccin doivent être injectés au même site.",
+   "Elle est inutile si le sujet est déjà vacciné."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les Ig protègent immédiatement, le vaccin induit une protection durable.",
+   "Vrai : Ig anti-HBs + vaccin sont associés après exposition au VHB.",
+   "Vrai : Ig anti-rabiques + vaccin après morsure par animal enragé.",
+   "Faux : ils doivent être injectés à des sites differents pour eviter la neutralisation locale.",
+   "Faux : l'intérêt dépend du statut vaccinal et du délai d'exposition."
+  ]
+ },
+ {
+  "q": "Concernant le contrôle sérologique post-vaccinal, lesquelles sont exactes ?",
+  "options": [
+   "Il repose sur le dosage des anticorps spécifiques.",
+   "L'ELISA est une technique adaptée à ce dosage.",
+   "Il vérifie l'obtention d'un taux seroprotecteur.",
+   "Il est systématique pour tous les vaccins du calendrier.",
+   "Il est indiqué chez les sujets à risque de non-réponse."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : on dose les Ac spécifiques du vaccin (ex : anti-HBs).",
+   "Vrai : l'ELISA quantitatif dose les IgG spécifiques.",
+   "Vrai : l'objectif est d'atteindre le seuil seroprotecteur.",
+   "Faux : il n'est pas systématique, il est cible.",
+   "Vrai : immunodeprimes, hémodialysés... sont contrôlés."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins vivants atténués, lesquelles sont exactes ?",
+  "options": [
+   "La souche vaccinale a perdu sa virulence mais reste immunogène.",
+   "Le BCG contre la tuberculose en est un exemple.",
+   "Ils induisent généralement une immunité humorale et cellulaire.",
+   "Ils nécessitent toujours de nombreux rappels.",
+   "Ils sont contre-indiqués chez la femme enceinte."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'atténuation supprime le pouvoir pathogène en conservant l'immunogénicité.",
+   "Vrai : le BCG est un bacille vivant atténué.",
+   "Vrai : la replication vaccinale mime l'infection naturelle.",
+   "Faux : une ou deux doses suffisent souvent.",
+   "Vrai : risque théorique pour le foetus."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins inactivées (tues), lesquelles sont exactes ?",
+  "options": [
+   "L'agent vaccinal est tué par la chaleur ou des agents chimiques.",
+   "Ils ne peuvent pas se repliquer dans l'organisme.",
+   "Ils nécessitent généralement des rappels.",
+   "Ils sont utilisables chez les immunodeprimes.",
+   "Ils induisent une immunité plus durable que les vaccins vivants."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : inactivation par formol, chaleur ou rayonnements.",
+   "Vrai : l'agent tue ne se replique pas.",
+   "Vrai : leur immunogénicité limitée impose des rappels.",
+   "Vrai : sans replication, ils sont surs chez l'immunodeprime.",
+   "Faux : leur immunité est généralement moins durable que celle des vaccins vivants."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins sous-unitaires ou fractionnés, lesquelles sont exactes ?",
+  "options": [
+   "Ils ne contiennent que des fractions antigéniques du pathogène.",
+   "Les vaccins anti-hépatites A et B cités dans le cours en sont des exemples.",
+   "Ils sont dépourvus de pouvoir infectieux.",
+   "Ils sont plus reactogenes que les vaccins vivants.",
+   "Ils nécessitent souvent un adjuvant."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : seules des fractions purifiées sont utilisées.",
+   "Vrai : le cours cite les fractions pour les hépatites A et B.",
+   "Vrai : sans génome complet, aucune infection n'est possible.",
+   "Faux : ils sont généralement mieux tolérés que les vaccins vivants.",
+   "Vrai : leur immunogénicité réduite est compensée par des adjuvants."
+  ]
+ },
+ {
+  "q": "Concernant les anatoxines (toxoides) vaccinales, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des toxines bacteriennes détoxifiées.",
+   "L'anatoxine diphterique citée dans le cours en est un exemple.",
+   "L'anatoxine tétanique est utilisée dans le vaccin DTP.",
+   "Elles conservent leur pouvoir toxique.",
+   "Elles induisent des anticorps neutralisant la toxine."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la toxine est inactivée (formol) en gardant son immunogénicité.",
+   "Vrai : le cours cite les toxines pour la diphterie.",
+   "Vrai : l'anatoxine tétanique fait partie des vaccins combines.",
+   "Faux : la detoxification supprime le pouvoir pathogène.",
+   "Vrai : les Ac anti-toxine neutralisent la toxine native."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins polysaccharidiques, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont constitues de polyosides capsulaires bacteriens.",
+   "Ce sont des antigènes thymo-indépendants de type 2.",
+   "Ils induisent surtout des IgM sans mémoire immunitaire.",
+   "Ils sont efficaces dès la naissance.",
+   "La conjugaison à une protéine porteuse les rend thymo-dépendants."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : ex : polyosides du pneumocoque, du meningocoque.",
+   "Vrai : structure repetitive pontant les BCR (TI-2).",
+   "Vrai : pas de commutation de classe ni de mémoire.",
+   "Faux : la réponse est faible avant 2 ans (immaturité).",
+   "Vrai : le conjugué recrute l'aide des LTH et la mémoire."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins conjugués, lesquelles sont exactes ?",
+  "options": [
+   "Ils associent un polysaccharide à une protéine porteuse.",
+   "La protéine porteuse est souvent une anatoxine.",
+   "Ils transforment une réponse TI en réponse TD.",
+   "Ils génèrent une mémoire immunitaire.",
+   "Ils sont inefficaces chez le nourrisson."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : principe du vaccin conjugué (ex : anti-Hib).",
+   "Vrai : anatoxine tétanique ou diphterique souvent utilisée.",
+   "Vrai : la protéine recrute les lymphocytes T helper.",
+   "Vrai : la réponse TD produit des LB mémoire et des IgG.",
+   "Faux : ils sont justement concus pour être efficaces chez le nourrisson."
+  ]
+ },
+ {
+  "q": "Concernant les adjuvants vaccinaux, lesquelles sont exactes ?",
+  "options": [
+   "Ils augmentent l'immunogénicité de l'antigène vaccinal.",
+   "Les sels d'aluminium sont les adjuvants les plus utilisés.",
+   "Ils favorisent le recrutement des cellules présentatrices d'antigène.",
+   "Ils conferent eux-mêmes une spécificité antigénique.",
+   "Ils permettent de reduire la dose d'antigène nécessaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : c'est la définition d'un adjuvant.",
+   "Vrai : hydroxyde/phosphate d'aluminium dans de nombreux vaccins.",
+   "Vrai : effet depot et activation de l'immunité innée locale.",
+   "Faux : l'adjuvant n'apporte pas de spécificité, il potentialise l'Ag.",
+   "Vrai : effet d'epargne antigénique."
+  ]
+ },
+ {
+  "q": "Concernant les voies d'administration des vaccins, lesquelles sont exactes ?",
+  "options": [
+   "La voie intramusculaire est la plus utilisée.",
+   "Le BCG s'administre par voie intradermique.",
+   "Le vaccin polio oral s'administre par voie digestive.",
+   "La voie d'administration n'influence pas la réponse immunitaire.",
+   "La voie sous-cutanée draine vers les ganglions locaux."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la plupart des vaccins inactivées sont injectés en IM.",
+   "Vrai : le BCG est injecté en intradermique strict.",
+   "Vrai : le VPO est un vaccin oral vivant.",
+   "Faux : selon le cours, un même Ag par deux voies n'induit pas la même réponse.",
+   "Vrai : le cours indique que la voie sous-cutanée draine vers les ganglions locaux."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins recombinants, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont produits par génie génétique.",
+   "Le vaccin anti-hépatite B recombinant en est un exemple.",
+   "Ils ne contiennent aucun agent infectieux complet.",
+   "Ils sont obligatoirement vivants atténués.",
+   "Ils nécessitent souvent un adjuvant."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'Ag est produit par des cellules recombinantes (levure).",
+   "Vrai : l'Ag HBs est produit par génie génétique.",
+   "Vrai : seule la protéine vaccinale est présente.",
+   "Faux : ce sont des vaccins sous-unitaires inactivées.",
+   "Vrai : leur immunogénicité est renforcée par adjuvant."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins à ARNm, lesquelles sont exactes ?",
+  "options": [
+   "Ils font produire l'antigène par les cellules du receveur.",
+   "L'ARNm est delivre dans des nanoparticules lipidiques.",
+   "Ils induisent une réponse humorale et cellulaire.",
+   "L'ARNm vaccinal s'intègre dans le génome du receveur.",
+   "Ils ont été utilisés contre la COVID-19."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la cellule traduit l'ARNm en protéine antigénique.",
+   "Vrai : les lipides protègent l'ARNm et favorisent son entrée cellulaire.",
+   "Vrai : présentation endogene et exogene de l'Ag.",
+   "Faux : l'ARNm ne s'intègre pas dans l'ADN.",
+   "Vrai : vaccins anti-SARS-CoV-2 à ARNm."
+  ]
+ },
+ {
+  "q": "Concernant la chaîne du froid vaccinale, lesquelles sont exactes ?",
+  "options": [
+   "Elle maintient les vaccins entre +2 et +8 degrés.",
+   "Sa rupture peut inactiver les vaccins vivants.",
+   "Elle concerne aussi les vaccins inactivées.",
+   "La congelation est sans effet sur les vaccins adjuvantes à l'aluminium.",
+   "Elle garantit l'efficacité jusqu'à la date de péremption."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : +2/+8 C est la plage de conservation standard.",
+   "Vrai : la chaleur dégrade les souches vaccinales vivantes.",
+   "Vrai : les vaccins inactivées sont aussi thermosensibles.",
+   "Faux : la congelation desorbe l'adjuvant aluminique et inactivée le vaccin.",
+   "Faux : la date de péremption suppose une conservation correcte."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins combines, lesquelles sont exactes ?",
+  "options": [
+   "Ils associent plusieurs antigènes vaccinaux en une injection.",
+   "Le vaccin DTP en est un exemple (diphterie, tétanos, polio).",
+   "Ils reduisent le nombre d'injections.",
+   "Ils diminuent l'immunogénicité de chaque valence.",
+   "Ils sont largement utilisés dans le calendrier vaccinal."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : définition d'un vaccin combine.",
+   "Vrai : DTP associe plusieurs valences.",
+   "Vrai : intérêt pratique majeur de la combinaison.",
+   "Faux : les valences combinées restent immunogènes.",
+   "Vrai : hexavalents et tetravalents du nourrisson."
+  ]
+ },
+ {
+  "q": "Concernant le risque de réversion des vaccins vivants atténués, lesquelles sont exactes ?",
+  "options": [
+   "C'est le retour possible à un phénotype virulent.",
+   "Il a été observé avec le vaccin polio oral.",
+   "Il justifie la contre-indication chez l'immunodeprime.",
+   "Il concerne aussi les vaccins inactivées.",
+   "Il est totalement impossible en pratique."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : des mutations peuvent restaurer la virulence.",
+   "Vrai : poliovirus dérivés de la souche vaccinale (PVDV).",
+   "Vrai : la replication non contrôlée favorise la réversion.",
+   "Faux : un agent tue ne peut pas redevenir virulent.",
+   "Faux : le risque est rare mais réel."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination antigrippale annuelle, lesquelles sont exactes ?",
+  "options": [
+   "Elle est justifiée par la dérive antigénique du virus.",
+   "La composition du vaccin est actualisée chaque année.",
+   "Elle cible en priorité les sujets à risque.",
+   "Une seule vaccination protège à vie.",
+   "Le vaccin est inactivée ou sous-unitaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les mutations des hémagglutinines echappent à l'immunité.",
+   "Vrai : l'OMS actualise les souches vaccinales annuellement.",
+   "Vrai : personnes âgées, cardiaques, respiratoires chroniques.",
+   "Faux : la protection est saisonnière.",
+   "Vrai : vaccins inactivées ou à protéines purifiées."
+  ]
+ },
+ {
+  "q": "Concernant les contre-indications vaccinales, lesquelles sont exactes ?",
+  "options": [
+   "Les vaccins vivants sont contre-indiqués en cas d'immunodepression sévère.",
+   "Les vaccins vivants sont contre-indiqués pendant la grossesse.",
+   "Une allergie sévère à un constituant du vaccin est une contre-indication.",
+   "Une infection fébrile aiguë contre-indique temporairement la vaccination.",
+   "L'allaitement contre-indique tous les vaccins."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : risque de replication non contrôlée de la souche vaccinale.",
+   "Vrai : risque théorique pour le foetus.",
+   "Vrai : ex : allergie à l'oeuf pour certains vaccins.",
+   "Vrai : on diffère la vaccination en cas d'infection fébrile aiguë.",
+   "Faux : l'allaitement n'est pas une contre-indication vaccinale."
+  ]
+ },
+ {
+  "q": "Concernant la surveillance des effets indesirables vaccinaux, lesquelles sont exactes ?",
+  "options": [
+   "La pharmacovigilance recueille les effets indesirables post-vaccinaux.",
+   "Les reactions locales au point d'injection sont les plus frequentes.",
+   "Une fièvre modérée peut suivre la vaccination.",
+   "Tout effet indesirable est la preuve d'un vaccin dangereux.",
+   "Les reactions allergiques sévères imposent une surveillance post-injection."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : système de pharmacovigilance des vaccins.",
+   "Vrai : douleur, rougeur locales frequentes et benignes.",
+   "Vrai : fièvre modérée transitoire possible.",
+   "Faux : la plupart des effets sont benins et transitoires.",
+   "Vrai : surveillance 15 minutes après l'injection."
+  ]
+ },
+ {
+  "q": "Concernant la vaccination des voyageurs, lesquelles sont exactes ?",
+  "options": [
+   "Elle dépend de la destination et des risques epidemiologiques.",
+   "Le vaccin anti-fièvre jaune peut être exige (carnet jaune).",
+   "Elle complète les vaccins du calendrier national.",
+   "Elle est identique quel que soit le pays visite.",
+   "Elle inclut des mesures non vaccinales (antipaludeens)."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : recommandations adaptées à chaque destination.",
+   "Vrai : la fièvre jaune est à vaccination obligatoire dans certains pays.",
+   "Vrai : mise à jour du DTP, hépatites avant depart.",
+   "Faux : les recommandations varient selon la destination.",
+   "Vrai : la prevention associe vaccin et chimioprophylaxie."
+  ]
+ },
+ {
+  "q": "Concernant l'antigénicité et l'immunogénicité des vaccins, lesquelles sont exactes ?",
+  "options": [
+   "L'immunogénicité est le pouvoir d'induire une réponse immunitaire.",
+   "L'antigénicité est la capacité de se lier aux produits de la réponse.",
+   "Un bon vaccin doit être immunogène sans être pathogène.",
+   "Les protéines sont plus immunogènes que les lipides.",
+   "Tout antigène est nécessairement immunogène."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : définition de l'immunogénicité donnée dans le cours.",
+   "Vrai : définition de l'antigénicité donnée dans le cours.",
+   "Vrai : principe même de la vaccination (Ag modifié).",
+   "Vrai : selon le cours, protéines > polysaccharides > lipides.",
+   "Faux : l'haptene est antigénique sans être immunogène."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins thérapeutiques, lesquelles sont exactes ?",
+  "options": [
+   "Ils visent à traiter une maladie déjà installée.",
+   "Ils stimulent la réponse immunitaire contre des cellules tumorales.",
+   "Ils se distinguent des vaccins preventifs par leur objectif.",
+   "Ils ont la même efficacité démontrée que les vaccins preventifs.",
+   "Le BCG intravesical dans le cancer de la vessie en est un exemple historique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : objectif curatif et non preventif.",
+   "Vrai : ex : vaccins anti-tumoraux en développement.",
+   "Vrai : prevention versus traitement.",
+   "Faux : leur efficacité reste limitée et en evaluation.",
+   "Vrai : le BCG intravesical stimule l'immunité locale anti-tumorale."
+  ]
+ },
+ {
+  "q": "Concernant la dose et la réponse vaccinale, lesquelles sont exactes ?",
+  "options": [
+   "Selon le cours, seule la dose optimale d'antigène induit une réponse immunitaire.",
+   "Une dose insuffisante peut entraîner un état de non-réponse.",
+   "Une dose trop importante peut entraîner une tolérance.",
+   "La dose n'a aucune influence sur la réponse vaccinale.",
+   "Les rappels permettent d'atteindre la dose cumulée optimale."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : principe rappele dans le chapitre des antigènes.",
+   "Vrai : dose insuffisante = non-réponse.",
+   "Vrai : dose excessive = tolérance.",
+   "Faux : la dose est un determinant majeur de la réponse.",
+   "Faux : les rappels mobilisent la mémoire, ce n'est pas une question de dose cumulée."
+  ]
+ },
+ {
+  "q": "Concernant le principe de la précipitation Ag-Ac, lesquelles sont exactes ?",
+  "options": [
+   "Elle résulte de la liaison entre un anticorps et un antigène solubles.",
+   "Le précipité devient visible dans la zone d'equivalence Ag/Ac.",
+   "En exces d'anticorps, aucun précipité n'est visible.",
+   "En exces d'antigène, aucun précipité n'est visible.",
+   "Elle nécessite toujours un marquage enzymatique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la précipitation concerne les Ag solubles formant un réseau.",
+   "Vrai : à l'equivalence, tous les sites Ac sont lies aux épitopes : réseau visible.",
+   "Vrai : en exces d'Ac (tubes 1 et 2 du cours), pas de précipité.",
+   "Vrai : en exces d'Ag (tubes 4 et 5), le précipité disparaît.",
+   "Faux : la précipitation est une reaction directe visible sans marquage."
+  ]
+ },
+ {
+  "q": "Concernant la zone d'equivalence, lesquelles sont exactes ?",
+  "options": [
+   "C'est le rapport Ag/Ac optimal pour la formation du réseau.",
+   "Tous les sites anticorps y sont lies aux épitopes antigéniques.",
+   "En dehors de cette zone, le précipité est maximal.",
+   "Elle est exploitée dans les techniques quantitatives de précipitation.",
+   "Elle correspond au phénomène de prozone en exces d'antigène."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'equivalence est le rapport optimal Ag/Ac.",
+   "Vrai : le réseau se forme quand tous les sites sont occupes.",
+   "Faux : hors equivalence (exces d'Ag ou d'Ac), pas de précipité.",
+   "Vrai : les dosages par précipitation reposent sur cette zone.",
+   "Vrai : l'exces d'Ag (prozone) empêche la formation du réseau."
+  ]
+ },
+ {
+  "q": "Concernant l'immuno-néphélémétrie, lesquelles sont exactes ?",
+  "options": [
+   "Le mélange réactionnel est soumis à une lumière incidente.",
+   "L'intensité de la lumière dispersée est proportionnelle aux complexes Ag-Ac formés.",
+   "C'est une technique de précipitation en milieu liquide.",
+   "Elle est utilisée pour le dosage quantitatif des immunoglobulines.",
+   "Elle est très sensible et très rapide."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : principe de la néphélémétrie décrit dans le cours.",
+   "Vrai : la lumière dispersée est directement proportionnelle au nombre de complexes.",
+   "Vrai : c'est une précipitation en milieu liquide.",
+   "Vrai : dosage des Ig, du complément, des protéines de l'inflammation.",
+   "Faux : le cours la qualifie de peu coûteuse mais lente et peu sensible."
+  ]
+ },
+ {
+  "q": "Concernant l'immuno-turbidimétrie, lesquelles sont exactes ?",
+  "options": [
+   "L'intensité de la lumière transmise est mesurée dans le prolongement du rayon incident.",
+   "Cette intensité est inversement proportionnelle aux complexes Ag-Ac formés.",
+   "C'est une technique de précipitation en milieu liquide.",
+   "Elle est plus sensible que l'ELISA.",
+   "Elle nécessite de grandes quantités d'Ag ou d'Ac."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la turbidimétrie mesure la lumière transmise.",
+   "Vrai : relation inverse avec le nombre de complexes.",
+   "Vrai : précipitation en milieu liquide comme la néphélémétrie.",
+   "Faux : le cours la décrit comme peu sensible.",
+   "Vrai : limitée rappelée dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant la technique de Mancini (immunodiffusion radiale), lesquelles sont exactes ?",
+  "options": [
+   "Le gel contient déjà l'anticorps spécifique de l'antigène à doser.",
+   "L'antigène déposé dans un puits diffuse à travers le gel.",
+   "Un cercle de précipitation se forme à l'equivalence.",
+   "Le carre du diametre du cercle est proportionnel à la concentration d'Ag.",
+   "C'est une technique rapide (quelques heures)."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'Ac est incorporé au gel à concentration connue.",
+   "Vrai : l'Ag diffuse depuis le puits en gradient décroissant.",
+   "Vrai : le cercle de précipitation marque la zone d'equivalence.",
+   "Vrai : diametre au carre proportionnel à [Ag].",
+   "Faux : la diffusion dure 48h, technique longue."
+  ]
+ },
+ {
+  "q": "Concernant les applications de la technique de Mancini, lesquelles sont exactes ?",
+  "options": [
+   "Dosage de l'albumine.",
+   "Dosage des immunoglobulines.",
+   "Dosage des protéines du complément.",
+   "Diagnostic des gammapathies monoclonales.",
+   "Analyse qualitative des mélanges d'antigènes."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : application citée dans le cours.",
+   "Vrai : dosage ponderal des Ig (déficit immunitaire humoral).",
+   "Vrai : dosage des protéines du complément.",
+   "Faux : c'est l'immunofixation qui est la methode de choix.",
+   "Faux : c'est le rôle de l'immunodiffusion double d'Ouchterlony."
+  ]
+ },
+ {
+  "q": "Concernant l'électro-immunodiffusion (methode de Laurell), lesquelles sont exactes ?",
+  "options": [
+   "Elle dérive de la methode de Mancini.",
+   "L'antigène migre sous l'influence d'un champ électrique.",
+   "Une fusée de précipitation se forme à l'equivalence.",
+   "La hauteur de la fusée est proportionnelle à la concentration d'Ag.",
+   "C'est une technique purement qualitative."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Laurell dérive de Mancini.",
+   "Vrai : le champ électrique accélère la migration de l'Ag dans le gel.",
+   "Vrai : la fusée de précipitation est caracteristique.",
+   "Vrai : hauteur de la fusée proportionnelle à [Ag].",
+   "Faux : c'est une technique quantitative."
+  ]
+ },
+ {
+  "q": "Concernant la technique d'Ouchterlony (immunodiffusion double), lesquelles sont exactes ?",
+  "options": [
+   "L'antigène et l'anticorps diffusent l'un vers l'autre.",
+   "Un arc de précipitation se forme à l'equivalence.",
+   "Deux Ag identiques forment un arc continu (identité totale).",
+   "Deux Ag differents forment deux arcs qui se croisent (non-identité).",
+   "C'est une technique très sensible."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : double diffusion Ag et Ac.",
+   "Vrai : l'arc marque la zone d'equivalence.",
+   "Vrai : profil (à) d'identité totale.",
+   "Vrai : profil (b) de non-identité.",
+   "Faux : le cours la qualifie de peu sensible."
+  ]
+ },
+ {
+  "q": "Concernant l'identité partielle en immunodiffusion double, lesquelles sont exactes ?",
+  "options": [
+   "Elle se traduit par un arc avec un eperon.",
+   "Elle signifie que les deux antigènes partagent certains épitopes.",
+   "Elle correspond à deux arcs qui se croisent.",
+   "Elle correspond à un arc continu unique.",
+   "Son application est l'analyse de mélanges d'Ag ou d'Ac."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : profil (c) avec eperon caracteristique.",
+   "Vrai : parente antigénique partielle.",
+   "Faux : les arcs croises traduisent la non-identité.",
+   "Faux : l'arc continu traduit l'identité totale.",
+   "Vrai : application citée dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant l'immunoélectrophorèse (Grabar et Williams), lesquelles sont exactes ?",
+  "options": [
+   "Elle combine électrophorèse et immunodiffusion double.",
+   "Les composants du mélange sont d'abord separes selon leur charge électrique.",
+   "Les anticorps sont deposes dans une gouttière parallèle au champ électrique.",
+   "Elle permet d'identifier un antigène dans un mélange complexe.",
+   "C'est une technique quantitative de dosage."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : double principe de la methode.",
+   "Vrai : première etape de séparation électrophorétique.",
+   "Vrai : depot des Ac en gouttière puis diffusion.",
+   "Vrai : identification selon la mobilité électrophorétique.",
+   "Faux : c'est une technique qualitative."
+  ]
+ },
+ {
+  "q": "Concernant l'immunofixation, lesquelles sont exactes ?",
+  "options": [
+   "Les antigènes sont separes par électrophorèse sur gel.",
+   "Des anticorps spécifiques sont deposes sur le gel (fixation).",
+   "Les complexes Ag-Ac sont révélés par coloration.",
+   "C'est la methode de choix pour le diagnostic des gammapathies monoclonales.",
+   "C'est une technique lente nécessitant 48h."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : première etape électrophorétique.",
+   "Vrai : depot des Ac spécifiques sur le gel.",
+   "Vrai : révélation par coloration des bandes de précipitation.",
+   "Vrai : methode de choix selon le cours.",
+   "Faux : technique rapide (3 heures) et de lecture facile."
+  ]
+ },
+ {
+  "q": "Concernant les avantages et limites des techniques de précipitation, lesquelles sont exactes ?",
+  "options": [
+   "L'immuno-néphélémétrie est peu coûteuse.",
+   "La technique de Mancini est longue (48h) et de sensibilité moyenne.",
+   "L'immunofixation est rapide (3h).",
+   "L'immunodiffusion double est peu sensible.",
+   "Toutes ces techniques sont plus sensibles que l'ELISA."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : methodes peu coûteuses selon le cours.",
+   "Vrai : diffusion de 48h, sensibilité moyenne.",
+   "Vrai : 3 heures, lecture facile.",
+   "Vrai : limitée rappelée dans le cours.",
+   "Faux : l'ELISA est bien plus sensible que la précipitation."
+  ]
+ },
+ {
+  "q": "Concernant la précipitation en milieu gelifie, lesquelles sont exactes ?",
+  "options": [
+   "Le milieu est de la gelose.",
+   "L'Ac ou l'Ag (ou les deux) diffusent pour former un réseau de précipitation.",
+   "La précipitation se traduit par une ligne ou un arc visible dans la zone d'equivalence.",
+   "Aucun précipité n'est visible dans les zones d'exces d'Ag ou d'Ac.",
+   "Elle ne permet que des dosages quantitatifs."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : gelose comme support de diffusion.",
+   "Vrai : principe de la précipitation en milieu gelifie.",
+   "Vrai : ligne ou arc visible à l'equivalence.",
+   "Vrai : pas de précipité en exces d'Ag ou d'Ac.",
+   "Faux : Ouchterlony et immunoélectrophorèse sont qualitatives."
+  ]
+ },
+ {
+  "q": "Concernant le dosage ponderal des immunoglobulines, lesquelles sont exactes ?",
+  "options": [
+   "Il peut être réalisé par immuno-néphélémétrie.",
+   "Il peut être réalisé par la technique de Mancini.",
+   "Il explore les déficits immunitaires humoraux.",
+   "Il remplace l'électrophorèse des protéines sériques.",
+   "Il dose chaque classe d'Ig separement avec des anti-Ig spécifiques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : application citée de la néphélémétrie.",
+   "Vrai : application citée de Mancini.",
+   "Vrai : indication du dosage ponderal des Ig.",
+   "Faux : l'EPP reste complémentaire (étude qualitative).",
+   "Vrai : anti-IgG, anti-IgA, anti-IgM spécifiques."
+  ]
+ },
+ {
+  "q": "Concernant les reactions croisées en sérodiagnostic, lesquelles sont exactes ?",
+  "options": [
+   "Elles surviennent quand deux Ag portent le même épitope.",
+   "Elles peuvent entraîner des reactions faussement positives.",
+   "L'exemple du streptocoque et du myocarde (RAA) est cité dans le cours.",
+   "Elles augmentent la spécificité du test.",
+   "Elles imposent la confirmation par une seconde technique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : même épitope ou épitopes très ressemblants.",
+   "Vrai : l'Ac est trompe et se fixe sur le mauvais Ag.",
+   "Vrai : Ac anti-M du streptocoque reconnaissant le myocarde.",
+   "Faux : elles diminuent la spécificité.",
+   "Vrai : principe des algorithmes de confirmation (ex : VIH)."
+  ]
+ },
+ {
+  "q": "Concernant la courbe de précipitation (Heidelberger), lesquelles sont exactes ?",
+  "options": [
+   "Elle décrit la quantité de précipité en fonction du rapport Ag/Ac.",
+   "Le précipité est maximal dans la zone d'equivalence.",
+   "En exces d'anticorps, le précipité est absent.",
+   "En exces d'antigène, le précipité est absent.",
+   "Elle s'applique aux reactions d'agglutination."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : courbe classique de la précipitation.",
+   "Vrai : maximum à l'equivalence.",
+   "Vrai : exces d'Ac = pas de réseau.",
+   "Vrai : exces d'Ag = pas de réseau.",
+   "Faux : elle décrit la précipitation, pas l'agglutination."
+  ]
+ },
+ {
+  "q": "Concernant le choix entre précipitation liquide et gélifiée, lesquelles sont exactes ?",
+  "options": [
+   "La précipitation liquide est adaptée aux dosages quantitatifs rapides.",
+   "La précipitation gélifiée permet l'analyse qualitative des mélanges.",
+   "L'immunofixation est une précipitation gélifiée.",
+   "La néphélémétrie est une précipitation gélifiée.",
+   "Les deux reposent sur la zone d'equivalence."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : néphélémétrie/turbidimétrie pour dosages.",
+   "Vrai : Ouchterlony, immunoélectrophorèse qualitatives.",
+   "Vrai : électrophorèse sur gel + fixation.",
+   "Faux : la néphélémétrie est une précipitation en milieu liquide.",
+   "Vrai : principe commun des deux milieux."
+  ]
+ },
+ {
+  "q": "Concernant les protéines de l'inflammation dosées par précipitation, lesquelles sont exactes ?",
+  "options": [
+   "La CRP peut être dosée par immuno-néphélémétrie.",
+   "Les protéines du complément peuvent être dosées par Mancini.",
+   "Ces dosages sont quantitatifs.",
+   "Ils sont plus sensibles que l'ELISA.",
+   "Ils sont peu coûteux."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : application citée (protéines de l'inflammation).",
+   "Vrai : application citée de Mancini.",
+   "Vrai : dosages quantitatifs.",
+   "Faux : moins sensibles que les techniques de marquage.",
+   "Vrai : methodes peu coûteuses selon le cours."
+  ]
+ },
+ {
+  "q": "Concernant l'interprétation d'un arc de précipitation, lesquelles sont exactes ?",
+  "options": [
+   "L'epaisseur de l'arc reflète la quantité d'antigène.",
+   "L'emplacement de l'arc dépend de la mobilité électrophorétique.",
+   "En immunoélectrophorèse, forme et longueur des arcs identifient les protéines.",
+   "Un arc unique prouve toujours la monoclonalité.",
+   "L'absence d'arc exclut formellement la presence de l'Ag."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : caracteristiques des arcs (epaisseur, forme, longueur).",
+   "Vrai : la position dépend de la charge/mobilité.",
+   "Vrai : critères d'identification en immunoélectrophorèse.",
+   "Faux : l'interprétation est plus nuancée (l'immunofixation tranche).",
+   "Faux : un exces d'Ag ou d'Ac peut masquer la précipitation."
+  ]
+ },
+ {
+  "q": "Concernant la comparaison immunofixation / immunoélectrophorèse, lesquelles sont exactes ?",
+  "options": [
+   "Les deux débutent par une électrophorèse.",
+   "L'immunofixation est plus rapide (3h).",
+   "L'immunofixation est la methode de choix pour les gammapathies monoclonales.",
+   "L'immunoélectrophorèse permet l'étude des Ig d'un sérum.",
+   "L'immunoélectrophorèse est plus sensible que l'immunofixation."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : séparation électrophorétique initiale commune.",
+   "Vrai : 3h contre une technique plus longue.",
+   "Vrai : methode de choix selon le cours.",
+   "Vrai : technique qualitative d'étude des Ig sériques.",
+   "Faux : l'immunofixation est plus sensible."
+  ]
+ },
+ {
+  "q": "Concernant le principe de l'agglutination, lesquelles sont exactes ?",
+  "options": [
+   "Un antigène particulaire rencontre un anticorps multivalent spécifique.",
+   "Il se forme un réseau donnant un agglutinat visible.",
+   "Elle peut être qualitative (presence/absence).",
+   "Elle peut être semi-quantitative (titre d'Ac).",
+   "Elle concerne uniquement les antigènes solubles."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : définition de l'agglutination (Ag particulaire de grande taille).",
+   "Vrai : formation d'un réseau visible.",
+   "Vrai : lecture qualitative possible.",
+   "Vrai : le titre est l'inverse de la dernière dilution positive.",
+   "Faux : les Ag solubles relèvent de la précipitation."
+  ]
+ },
+ {
+  "q": "Concernant le titre d'anticorps en agglutination, lesquelles sont exactes ?",
+  "options": [
+   "Il est déterminé par dilutions successives du sérum.",
+   "Il correspond à l'inverse de la dernière dilution donnant une agglutination.",
+   "Il reflète la concentration d'anticorps.",
+   "Il est exprime en g/L.",
+   "Son élévation peut traduire une infection recente."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : titrage par dilutions sériques.",
+   "Vrai : définition du titre selon le cours.",
+   "Vrai : le titre est semi-quantitatif.",
+   "Faux : c'est un inverse de dilution, pas une concentration massique.",
+   "Vrai : seroconversion ou élévation du titre en infection."
+  ]
+ },
+ {
+  "q": "Concernant l'agglutination directe active, lesquelles sont exactes ?",
+  "options": [
+   "Elle met en jeu un anticorps agglutinant (IgM).",
+   "L'antigène est naturellement particulaire.",
+   "Le groupage ABO en est l'exemple cité dans le cours.",
+   "Elle nécessite une particule inerte support.",
+   "Elle met en jeu des IgG non agglutinantes."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : Ac agglutinant = IgM (valence 10).",
+   "Vrai : Ag présent à la surface d'une cellule ou d'un agent pathogène.",
+   "Vrai : exemple cité dans le cours.",
+   "Faux : c'est le principe de l'agglutination passive.",
+   "Faux : les IgG non agglutinantes relèvent de l'agglutination indirecte."
+  ]
+ },
+ {
+  "q": "Concernant l'agglutination directe passive, lesquelles sont exactes ?",
+  "options": [
+   "L'antigène moléculaire est rendu particulaire par fixation sur une particule inerte.",
+   "Les particules utilisées sont des hématies ou des billes de latex.",
+   "La sérologie TPHA de la syphilis en est l'exemple cité.",
+   "L'antigène est naturellement présent à la surface cellulaire.",
+   "Elle utilise des anticorps non agglutinants."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : Ag fixe sur particule inerte.",
+   "Vrai : hématies ou latex comme supports.",
+   "Vrai : exemple cité dans le cours.",
+   "Faux : c'est le cas de l'agglutination active.",
+   "Faux : elle utilise des Ac agglutinants."
+  ]
+ },
+ {
+  "q": "Concernant l'agglutination indirecte, lesquelles sont exactes ?",
+  "options": [
+   "Elle met en jeu un anticorps non agglutinant (IgG).",
+   "Elle nécessite un artifice : macromolécule (SAB) ou Ac anti-Ig.",
+   "Le test de Coombs en est l'application principale.",
+   "Elle ne concerne que les antigènes solubles.",
+   "Elle est moins sensible que l'agglutination directe."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les IgG seules n'agglutinent pas les hématies.",
+   "Vrai : sérum albumine bovine ou anti-globuline comme artifice.",
+   "Vrai : tests de Coombs direct et indirect.",
+   "Faux : elle s'applique aux Ag particulaires (hématies).",
+   "Faux : l'artifice la rend au contraire très sensible."
+  ]
+ },
+ {
+  "q": "Concernant le test de Coombs direct, lesquelles sont exactes ?",
+  "options": [
+   "Il recherche des anticorps fixes à la surface des globules rouges du malade.",
+   "L'agglutination est réalisée par des anti-Ig spécifiques.",
+   "Il est aussi appelé test direct à l'anti-globuline.",
+   "Il recherche des anticorps circulants dans le sérum.",
+   "Il est positif dans l'anémie hémolytique auto-immune."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : principe du Coombs direct selon le cours.",
+   "Vrai : l'anti-globuline agglutine les GR sensibilisés.",
+   "Vrai : dénomination du cours.",
+   "Faux : c'est le rôle du Coombs indirect.",
+   "Vrai : Ac anti-GR fixes detectes in vivo."
+  ]
+ },
+ {
+  "q": "Concernant le test de Coombs indirect, lesquelles sont exactes ?",
+  "options": [
+   "Il recherche des anticorps incomplets circulants.",
+   "Il comporte une etape de sensibilisation d'hématies de phénotype connu.",
+   "La seconde etape est l'addition d'anti-globulines.",
+   "Il est utilisé pour la recherche d'agglutinines irrégulières (RAI).",
+   "Il recherche des antigènes fixes à la surface des hématies du malade."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ac circulants non agglutinants.",
+   "Vrai : sensibilisation des hématies par le sérum.",
+   "Vrai : addition de l'anti-Ig revelatrice.",
+   "Vrai : indication RAI citée dans le cours.",
+   "Faux : il recherche des anticorps circulants, pas des antigènes."
+  ]
+ },
+ {
+  "q": "Concernant la recherche d'agglutinines irrégulières (RAI), lesquelles sont exactes ?",
+  "options": [
+   "Elle utilise le test de Coombs indirect.",
+   "Elle depiste des anticorps anti-érythrocytaires autres qu'anti-A et anti-B.",
+   "Elle est systématique avant toute transfusion.",
+   "Elle utilise des hématies de phénotype antigénique connu.",
+   "Elle est inutile chez la femme enceinte."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la RAI repose sur le Coombs indirect.",
+   "Vrai : définition des agglutinines irrégulières.",
+   "Vrai : sécurité transfusionnelle obligatoire.",
+   "Vrai : panel d'hématies phénotypées.",
+   "Faux : elle est indispensable pendant la grossesse (risque fœtal)."
+  ]
+ },
+ {
+  "q": "Concernant le groupage ABO, lesquelles sont exactes ?",
+  "options": [
+   "C'est une agglutination directe active.",
+   "Les antigènes A et B sont naturellement présents sur les hématies.",
+   "Les anticorps anti-A et anti-B sont des IgM agglutinantes.",
+   "Il nécessite un artifice de type anti-globuline.",
+   "Il est indispensable avant toute transfusion."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : Ac agglutinant + Ag naturellement particulaire.",
+   "Vrai : Ag érythrocytaires naturels.",
+   "Vrai : isoagglutinines naturelles de classe IgM.",
+   "Faux : aucun artifice n'est nécessaire.",
+   "Vrai : compatibilité ABO obligatoire."
+  ]
+ },
+ {
+  "q": "Concernant le groupage rhesus, lesquelles sont exactes ?",
+  "options": [
+   "L'antigène D est recherche à la surface des hématies.",
+   "Les anticorps anti-D sont généralement des IgG non agglutinantes.",
+   "La recherche utilise souvent un artifice (Coombs).",
+   "Un sujet Rh négatif ne possède pas l'antigène D.",
+   "Le système Rh est sans intérêt transfusionnel."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : phénotypage D.",
+   "Vrai : les anti-D immuns sont des IgG.",
+   "Vrai : d'où l'usage d'anti-globuline ou d'enzymes.",
+   "Vrai : définition du phénotype Rh négatif.",
+   "Faux : le Rh est le second système transfusionnel majeur."
+  ]
+ },
+ {
+  "q": "Concernant la sérologie TPHA de la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "C'est une agglutination directe passive.",
+   "Des antigènes tréponémiques sont fixes sur des hématies.",
+   "Elle detecte les anticorps anti-tréponèmes du sérum.",
+   "C'est une technique de précipitation.",
+   "Elle est spécifique du tréponème pâle."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : Ag rendu particulaire sur support inerte.",
+   "Vrai : hématies sensibilisées par Ag tréponémiques.",
+   "Vrai : detection des Ac du patient.",
+   "Faux : c'est une agglutination, pas une précipitation.",
+   "Vrai : Ag spécifiques du tréponème (vs VDRL non tréponémique)."
+  ]
+ },
+ {
+  "q": "Concernant les applications du diagnostic sérologique des infections par agglutination, lesquelles sont exactes ?",
+  "options": [
+   "Le titre d'anticorps peut être suivi dans le temps.",
+   "Une seroconversion confirme une infection recente.",
+   "L'agglutination est qualitative ou semi-quantitative.",
+   "Elle remplace toujours la culture microbiologique.",
+   "Elle detecte les anticorps et non l'agent pathogène."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : cinetique des titres en phase aiguë/convalescente.",
+   "Vrai : apparition d'Ac spécifiques.",
+   "Vrai : selon le cours.",
+   "Faux : la culture reste la référence quand elle est possible.",
+   "Vrai : sérodiagnostic indirect."
+  ]
+ },
+ {
+  "q": "Concernant le sérum albumine bovine (SAB) en agglutination, lesquelles sont exactes ?",
+  "options": [
+   "C'est une macromolécule utilisée comme artifice.",
+   "Elle permet l'agglutination par des IgG non agglutinantes.",
+   "Elle est utilisée dans l'agglutination indirecte.",
+   "C'est un anticorps anti-Ig.",
+   "Elle diminue la charge de surface des hématies."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : artifice cité dans le cours.",
+   "Vrai : les IgG seules n'agglutinent pas.",
+   "Vrai : agglutination indirecte.",
+   "Faux : c'est une protéine, pas un anticorps.",
+   "Vrai : elle reduit le potentiel zeta favorisant le rapprochement."
+  ]
+ },
+ {
+  "q": "Concernant les faux positifs en agglutination, lesquelles sont exactes ?",
+  "options": [
+   "Les reactions croisées peuvent donner des faux positifs.",
+   "Deux Ag portant le même épitope peuvent tromper l'anticorps.",
+   "Une confirmation par une seconde technique est recommandée.",
+   "Ils sont impossibles avec des antigènes purifiés.",
+   "Le titre élevé élimine tout risque de faux positif."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : principe des reactions croisées du cours.",
+   "Vrai : l'Ac se fixe sur un Ag non inducteur.",
+   "Vrai : algorithmes de confirmation.",
+   "Faux : des épitopes communs subsistent même avec des Ag purifiés.",
+   "Faux : le titre ne garantit pas la spécificité."
+  ]
+ },
+ {
+  "q": "Concernant l'hémagglutination indirecte, lesquelles sont exactes ?",
+  "options": [
+   "Des hématies sont sensibilisées par un antigène soluble.",
+   "Le sérum du patient apporte les anticorps recherches.",
+   "L'agglutination traduit la presence d'Ac spécifiques.",
+   "C'est une agglutination directe active.",
+   "Elle est utilisée en sérodiagnostic infectieux."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : Ag fixe sur hématies (passive).",
+   "Vrai : Ac du sérum test.",
+   "Vrai : lecture de l'agglutinat.",
+   "Faux : c'est une agglutination passive, non active.",
+   "Vrai : nombreuses sérologies infectieuses."
+  ]
+ },
+ {
+  "q": "Concernant la lecture d'une agglutination, lesquelles sont exactes ?",
+  "options": [
+   "L'agglutinat est visible à l'oeil nu ou au microscope.",
+   "L'absence d'agglutination est un résultat négatif.",
+   "Des temoins positif et négatif sont nécessaires.",
+   "Une agglutination spontanée des hématies invalide le test.",
+   "La lecture est toujours quantitative en g/L."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : amas cellulaires visibles.",
+   "Vrai : pas de réseau = pas d'Ac spécifiques.",
+   "Vrai : contrôle qualité indispensable.",
+   "Vrai : auto-agglutination = test ininterprétable.",
+   "Faux : la lecture est qualitative ou semi-quantitative (titre)."
+  ]
+ },
+ {
+  "q": "Concernant l'agglutination sur billes de latex, lesquelles sont exactes ?",
+  "options": [
+   "Les billes de latex sont des particules inertes.",
+   "L'antigène ou l'anticorps y est fixe (sensibilisation).",
+   "L'agglutination est rapide et visible.",
+   "Ces tests sont utilisables au lit du malade.",
+   "Ils sont strictement quantitatifs."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : support inerte cité dans le cours.",
+   "Vrai : sensibilisation des particules.",
+   "Vrai : lecture rapide.",
+   "Vrai : tests rapides d'orientation.",
+   "Faux : ils sont qualitatifs ou semi-quantitatifs."
+  ]
+ },
+ {
+  "q": "Concernant la difference entre agglutination directe et indirecte, lesquelles sont exactes ?",
+  "options": [
+   "La directe utilise des Ac agglutinants (IgM).",
+   "L'indirecte utilise des Ac non agglutinants (IgG).",
+   "L'indirecte nécessite un artifice.",
+   "La directe nécessite toujours un artifice.",
+   "Les deux détectent des Ag particulaires."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : IgM agglutinantes.",
+   "Vrai : IgG non agglutinantes.",
+   "Vrai : SAB ou anti-Ig.",
+   "Faux : la directe n'a besoin d'aucun artifice.",
+   "Vrai : Ag particulaires dans les deux cas."
+  ]
+ },
+ {
+  "q": "Concernant l'épreuve de compatibilité transfusionnelle, lesquelles sont exactes ?",
+  "options": [
+   "Elle utilise le test de Coombs indirect.",
+   "Elle vérifie l'absence d'Ac du receveur contre les GR du donneur.",
+   "Elle complète le groupage ABO et la RAI.",
+   "Elle est réalisée au laboratoire avant la transfusion.",
+   "Elle est inutile si les groupes ABO sont identiques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : indication citée dans le cours.",
+   "Vrai : sérum du receveur + hématies du donneur.",
+   "Vrai : sécurité transfusionnelle globale.",
+   "Vrai : test pré-transfusionnel.",
+   "Faux : les agglutinines irrégulières existent aussi à groupe ABO identique."
+  ]
+ },
+ {
+  "q": "Concernant l'anémie hémolytique auto-immune, lesquelles sont exactes ?",
+  "options": [
+   "Le test de Coombs direct y est positif.",
+   "Des auto-anticorps sont fixes sur les globules rouges.",
+   "L'anti-globuline révèle ces anticorps fixes.",
+   "Le test de Coombs indirect est l'examen de référence.",
+   "L'hémolyse est d'origine immune."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : Ac fixes detectes in vivo.",
+   "Vrai : auto-Ac anti-érythrocytaires.",
+   "Vrai : principe du Coombs direct.",
+   "Faux : c'est le Coombs direct qui est diagnostique.",
+   "Vrai : destruction immune des GR."
+  ]
+ },
+ {
+  "q": "Concernant la reaction de fixation du complément (RFC), lesquelles sont exactes ?",
+  "options": [
+   "La reaction Ag-Ac active le complément.",
+   "L'activation aboutit à la formation du complexe d'attaque membranaire.",
+   "La lyse cellulaire est le phénomène mesuré.",
+   "Elle est utilisée pour le sérodiagnostic des mycoplasmes.",
+   "Elle est une technique d'immunomarquage."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : principe de la RFC selon le cours.",
+   "Vrai : voie classique jusqu'au CAM.",
+   "Vrai : lyse des cellules indicatrices.",
+   "Vrai : application citée (mycoplasmes, adenovirus, myxovirus).",
+   "Faux : c'est une reaction directe, sans marquage."
+  ]
+ },
+ {
+  "q": "Concernant les applications de la RFC citées dans le cours, lesquelles sont exactes ?",
+  "options": [
+   "Sérodiagnostic des mycoplasmes.",
+   "Sérodiagnostic des adenovirus.",
+   "Sérodiagnostic des myxovirus.",
+   "Dosage des immunoglobulines.",
+   "Diagnostic des gammapathies monoclonales."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : application citée.",
+   "Vrai : application citée.",
+   "Vrai : application citée.",
+   "Faux : relève de la néphélémétrie/Mancini.",
+   "Faux : relève de l'immunofixation."
+  ]
+ },
+ {
+  "q": "Concernant les buts des methodes d'immuno-marquage, lesquelles sont exactes ?",
+  "options": [
+   "Analyser des Ag ou haptenes en très faible quantité.",
+   "Étudier les immuns complexes non précipitant et non agglutinants.",
+   "Visualiser la liaison Ag-Ac grâce à un traceur.",
+   "Remplacer systématiquement la précipitation.",
+   "Augmenter la sensibilité de detection."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : buts cités dans le cours.",
+   "Vrai : complexes non detectables en direct.",
+   "Vrai : principe du marquage d'un des reactifs.",
+   "Faux : les techniques coexistent selon l'indication.",
+   "Vrai : intérêt majeur du marquage."
+  ]
+ },
+ {
+  "q": "Concernant les types de marquage en immunologie, lesquelles sont exactes ?",
+  "options": [
+   "Les radio-isotopes (iode 125) : radio-immunologie (RIA).",
+   "Les enzymes (peroxydase, phosphatase alcaline) : immuno-enzymologie (ELISA).",
+   "Les fluorochromes : immunofluorescence et cytometrie de flux.",
+   "Le marquage est toujours radioactif.",
+   "Les signaux peuvent être mesures (quantitatif)."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : RIA selon le cours.",
+   "Vrai : ELISA et Western blot.",
+   "Vrai : IF et CMF.",
+   "Faux : enzymatique et fluorescent aussi.",
+   "Vrai : detection qualitative et mesure quantitative."
+  ]
+ },
+ {
+  "q": "Concernant la RIA competitive, lesquelles sont exactes ?",
+  "options": [
+   "L'Ag recherche entre en competition avec le même Ag marqué.",
+   "La fixation de l'Ag recherche empêche celle de l'Ag marqué.",
+   "La radioactivité est inversement proportionnelle à la quantité d'Ag recherche.",
+   "C'est une technique très sensible.",
+   "La radioactivité est proportionnelle à la quantité d'Ag recherche."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : principe de competition décrit dans le cours.",
+   "Vrai : competition pour l'anticorps.",
+   "Vrai : relation inverse caracteristique.",
+   "Vrai : techniques très sensibles selon le cours.",
+   "Faux : la relation proportionnelle caracterise la methode sandwich."
+  ]
+ },
+ {
+  "q": "Concernant la methode RIA sandwich, lesquelles sont exactes ?",
+  "options": [
+   "Elle est utilisée pour la quantification des IgE spécifiques.",
+   "La radioactivité est proportionnelle à la quantité d'Ac recherche.",
+   "Elle est moins sensible que la RIA competitive.",
+   "Elle utilise un antigène marqué.",
+   "Elle est une methode non competitive."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : application citée dans le cours.",
+   "Vrai : relation proportionnelle caracteristique.",
+   "Faux : elle est egalement très sensible.",
+   "Faux : c'est l'anticorps qui est pris en sandwich.",
+   "Vrai : pas de competition Ag froid/Ag chaud."
+  ]
+ },
+ {
+  "q": "Concernant l'ELISA indirect, lesquelles sont exactes ?",
+  "options": [
+   "Le sérum (Ac recherche) est déposé dans la plaque contenant l'Ag.",
+   "Un Ac anti-Ig conjugué à une enzyme est ajouté.",
+   "L'addition du substrat incolore produit une coloration.",
+   "L'intensité de la coloration est mesurée au spectrophotomètre.",
+   "Il dose un antigène du sérum."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : première etape selon le cours.",
+   "Vrai : anti-Ig marqué revelateur.",
+   "Vrai : révélation enzymatique.",
+   "Vrai : lecture quantitative.",
+   "Faux : il recherche un anticorps ; le sandwich dose l'Ag."
+  ]
+ },
+ {
+  "q": "Concernant l'ELISA sandwich, lesquelles sont exactes ?",
+  "options": [
+   "Le sérum (Ag à doser) est déposé dans la plaque contenant l'Ac.",
+   "Un Ac anti-Ig conjugué à une enzyme est ajouté.",
+   "L'intensité de la coloration est proportionnelle à la quantité d'Ag.",
+   "Il recherche un anticorps du sérum.",
+   "Il est qualitatif ou quantitatif."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'Ag est pris en sandwich selon le cours.",
+   "Vrai : révélation enzymatique.",
+   "Vrai : signal proportionnel à [Ag].",
+   "Faux : il dose un antigène ; l'indirect recherche l'Ac.",
+   "Vrai : selon le cours, qualitatif ou quantitatif."
+  ]
+ },
+ {
+  "q": "Concernant l'ELISA competitif, lesquelles sont exactes ?",
+  "options": [
+   "L'Ac est incube avec l'Ag à doser.",
+   "Le mélange est déposé sur une plaque ou l'Ag est adsorbe.",
+   "Un anti-Ig conjugué à l'enzyme est ajouté.",
+   "Le signal est inversement proportionnel à la quantité d'Ag à doser.",
+   "Il est utilisé pour doser les protéines à l'état de traces."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : etape d'incubation décrite dans le cours.",
+   "Vrai : depot sur Ag adsorbe.",
+   "Vrai : révélation par anti-Ig marqué.",
+   "Vrai : competition = signal inverse.",
+   "Faux : cette application est citée pour l'ELISA en général (IgE)."
+  ]
+ },
+ {
+  "q": "Concernant les applications de l'ELISA citées dans le cours, lesquelles sont exactes ?",
+  "options": [
+   "Dosage des protéines à l'état de traces (IgE).",
+   "Diagnostic sérologique des infections parasitaires.",
+   "Diagnostic sérologique des infections bacteriennes.",
+   "Diagnostic sérologique des infections virales.",
+   "Diagnostic des gammapathies monoclonales."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : application citée.",
+   "Vrai : application citée.",
+   "Vrai : application citée.",
+   "Vrai : application citée.",
+   "Faux : relève de l'immunofixation."
+  ]
+ },
+ {
+  "q": "Concernant le Western blot, lesquelles sont exactes ?",
+  "options": [
+   "Les protéines sont séparées par électrophorèse sur gel.",
+   "Les bandes sont transférées sur une membrane de cellulose.",
+   "Les Ac correspondants sont incubes sur la membrane.",
+   "Un Ac anti-Ig conjugué à une enzyme révèle les bandes.",
+   "Il permet le dosage ponderal des immunoglobulines sériques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : séparation électrophorétique initiale.",
+   "Vrai : transfert (blotting) sur membrane.",
+   "Vrai : incubation avec les Ac.",
+   "Vrai : révélation enzymatique colorée.",
+   "Faux : le dosage ponderal relève de la néphélémétrie ou de Mancini."
+  ]
+ },
+ {
+  "q": "Concernant la chimioluminescence, lesquelles sont exactes ?",
+  "options": [
+   "Un substrat générateur de lumière remplace le substrat chromogene.",
+   "Le luminol ou les esters d'acridinium sont utilisés.",
+   "Son intérêt est l'augmentation de la sensibilité.",
+   "C'est une variante de l'ELISA.",
+   "Elle est moins sensible que la colorimetrie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : principe décrit dans le cours.",
+   "Vrai : exemples cités.",
+   "Vrai : intérêt majeur selon le cours.",
+   "Vrai : dérivée des techniques immuno-enzymatiques.",
+   "Faux : elle est plus sensible."
+  ]
+ },
+ {
+  "q": "Concernant l'immunofluorescence directe (IFD), lesquelles sont exactes ?",
+  "options": [
+   "L'Ag recherche est mis en presence d'un Ac marqué.",
+   "Le marquage est un fluorochrome.",
+   "Elle se fait sur coupe, frottis ou liquide biologique.",
+   "Elle nécessite un Ac anti-Ac marqué.",
+   "Elle permet de rechercher des Ag ou des Ac."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : principe de l'IFD selon le cours.",
+   "Vrai : marquage fluorescent.",
+   "Vrai : supports cités dans le cours.",
+   "Faux : c'est le principe de l'IFI (indirecte).",
+   "Vrai : recherche d'Ag ou d'Ac."
+  ]
+ },
+ {
+  "q": "Concernant l'immunofluorescence indirecte (IFI), lesquelles sont exactes ?",
+  "options": [
+   "L'Ag est mis en presence d'un Ac puis d'un anti-Ac marqué.",
+   "Elle est plus sensible que l'IFD.",
+   "Ses applications incluent l'auto-immunité.",
+   "Elle est utilisée pour la recherche d'Ag bacteriens.",
+   "Elle utilise un substrat chromogene transformé par une enzyme."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : double etape caracteristique de l'IFI.",
+   "Vrai : amplification du signal par l'anti-Ac.",
+   "Vrai : application citée (auto-immunité).",
+   "Vrai : application citée.",
+   "Faux : c'est le principe de l'ELISA, pas de l'immunofluorescence."
+  ]
+ },
+ {
+  "q": "Concernant la cytometrie en flux (CMF), lesquelles sont exactes ?",
+  "options": [
+   "C'est une technique d'analyse de cellules en suspension.",
+   "Elle caracterise les cellules selon morphologie, phénotype et fonction.",
+   "Elle est rapide, multiparametrique et quantitative.",
+   "Elle permet aussi le tri cellulaire.",
+   "Elle ne s'applique qu'aux protéines sériques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cellules en suspension dans un liquide.",
+   "Vrai : triple caracterisation selon le cours.",
+   "Vrai : avantages cités.",
+   "Vrai : tri de cellules possible.",
+   "Faux : c'est une technique cellulaire."
+  ]
+ },
+ {
+  "q": "Concernant les applications de la CMF citées dans le cours, lesquelles sont exactes ?",
+  "options": [
+   "Immuno-phénotypage cellulaire dans les hémopathies lymphoides.",
+   "Étude des sous-populations lymphocytaires LTCD4 et LTCD8.",
+   "Suivi de l'infection à VIH.",
+   "Dosage des immunoglobulines sériques.",
+   "Diagnostic des gammapathies monoclonales."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : application citée.",
+   "Vrai : sous-populations T CD4/CD8.",
+   "Vrai : suivi VIH.",
+   "Faux : relève de la néphélémétrie.",
+   "Faux : relève de l'immunofixation."
+  ]
+ },
+ {
+  "q": "Concernant le choix d'une technique immunologique, lesquelles sont exactes ?",
+  "options": [
+   "Si on cherche un Ag, le reactif utilisé sera l'Ac correspondant.",
+   "Si on cherche un Ac, le reactif utilisé sera l'Ag correspondant.",
+   "Les reactions directes donnent un résultat visible sans artifice.",
+   "Les reactions avec marquage visualisent la liaison Ag-Ac.",
+   "Une seule technique convient à toutes les situations."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : principe général du cours.",
+   "Vrai : principe inverse.",
+   "Vrai : précipitation, agglutination.",
+   "Vrai : RIA, ELISA, IF.",
+   "Faux : le choix dépend de la nature de l'analyte et de la sensibilité requise."
+  ]
+ },
+ {
+  "q": "Concernant l'affinité et l'avidité des anticorps, lesquelles sont exactes ?",
+  "options": [
+   "L'affinité mesure la force entre un site Ac et un épitope.",
+   "L'avidité mesure les interactions multiples entre Ag et Ac multivalents.",
+   "Un Ka supérieur à 10^10 L/mol traduit une haute affinité.",
+   "L'affinité varie avec la température, le pH et la force ionique.",
+   "L'avidité est indépendante de la valence de l'anticorps."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : définition de l'affinité selon le cours.",
+   "Vrai : définition de l'avidité.",
+   "Vrai : seuils cités (10^5 faible, >10^10 haute).",
+   "Vrai : facteurs de variation cités.",
+   "Faux : l'avidité dépend des valences de l'Ag et de l'Ac."
+  ]
+ },
+ {
+  "q": "Concernant les liaisons Ag-Ac, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des liaisons non covalentes.",
+   "Les liaisons hydrogene y participent.",
+   "Les forces ioniques y participent.",
+   "Les forces de Van der Waals y participent.",
+   "Ce sont des liaisons covalentes fortes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : liaisons faibles non covalentes.",
+   "Vrai : type de liaison cité.",
+   "Vrai : forces electrostatiques citées.",
+   "Vrai : les plus faibles, citées.",
+   "Faux : la reaction Ag-Ac est reversible, non covalente."
+  ]
+ },
+ {
+  "q": "Concernant la révélation des techniques ELISA, lesquelles sont exactes ?",
+  "options": [
+   "Le substrat incolore est transformé par l'enzyme.",
+   "L'intensité de la coloration est mesurée au spectrophotomètre.",
+   "En ELISA indirect, le signal est proportionnel aux Ac recherches.",
+   "En ELISA competitif, le signal est inversement proportionnel à l'analyte.",
+   "Le substrat colore est ajouté dès le début."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : révélation enzymatique.",
+   "Vrai : lecture spectrophotometrique.",
+   "Vrai : plus d'Ac = plus de signal.",
+   "Vrai : principe de la competition.",
+   "Faux : le substrat est incolore au depart."
+  ]
+ },
+ {
+  "q": "Concernant les anticorps monoclonaux, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont produits par un clone unique de lymphocytes B.",
+   "Ils reconnaissent un seul épitope.",
+   "La technique des hybridomes permet leur production.",
+   "Ils sont par nature polyclonaux.",
+   "Ils offrent une grande reproductibilité."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : un seul clone = une seule spécificité.",
+   "Vrai : monospécificité épitopique.",
+   "Vrai : fusion LB + myélome = hybridome producteur.",
+   "Faux : polyclonal = sérum de plusieurs clones.",
+   "Vrai : production standardisée illimitée."
+  ]
+ },
+ {
+  "q": "Concernant la technique des hybridomes, lesquelles sont exactes ?",
+  "options": [
+   "Elle repose sur la fusion d'un lymphocyte B avec un myélome.",
+   "La cellule hybride combine production d'Ac et immortalité.",
+   "Elle permet la selection de clones producteurs spécifiques.",
+   "Elle produit des anticorps polyclonaux.",
+   "Elle a été développée par Kohler et Milstein."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : fusion LB immunisé + cellule myélomateuse.",
+   "Vrai : immortalité du myélome + secretion du LB.",
+   "Vrai : clonage et selection des hybridomes.",
+   "Faux : chaque hybridome produit un Ac monoclonal.",
+   "Vrai : prix Nobel 1984."
+  ]
+ },
+ {
+  "q": "Concernant l'anticorps anti-CD20 (rituximab), lesquelles sont exactes ?",
+  "options": [
+   "Il cible l'antigène CD20 des lymphocytes B.",
+   "Il est utilisé dans le traitement des lymphomes B.",
+   "C'est un exemple cité dans le cours d'Ac monoclonal thérapeutique.",
+   "Il cible les lymphocytes T.",
+   "Il est utilisé uniquement en diagnostic in vitro."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : CD20 = marqueur pan-B.",
+   "Vrai : lymphomes non hodgkiniens B.",
+   "Vrai : exemple du cours (traitement des lymphomes par anti-CD20).",
+   "Faux : CD20 est un marqueur B, pas T.",
+   "Faux : c'est un traitement, administré au patient."
+  ]
+ },
+ {
+  "q": "Concernant les usages diagnostiques in vitro des Ac monoclonaux, lesquelles sont exactes ?",
+  "options": [
+   "Le diagnostic de grossesse (hCG) les utilise.",
+   "La detection de microorganismes les utilise.",
+   "Ces usages sont cités dans le cours.",
+   "Ils nécessitent une administration au patient.",
+   "Ils reposent sur leur monospécificité."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : tests de grossesse anti-hCG.",
+   "Vrai : Ag microbiens detectes par Ac monoclonaux.",
+   "Vrai : usages cités dans le cours.",
+   "Faux : in vitro = sur prélèvement, pas d'injection.",
+   "Vrai : spécificité épitopique = fiabilité diagnostique."
+  ]
+ },
+ {
+  "q": "Concernant les anticorps murins, chimeriques et humanises, lesquelles sont exactes ?",
+  "options": [
+   "Les Ac murins sont entierement d'origine souris.",
+   "Les Ac murins peuvent induire des Ac anti-souris (HAMA) chez l'homme.",
+   "Les Ac chimeriques associent regions variables murines et constantes humaines.",
+   "Les Ac humanises ne conservent que les CDR murins.",
+   "L'humanisation augmente l'immunogénicité."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 100% murin.",
+   "Vrai : réponse HAMA neutralisante et allergisante.",
+   "Vrai : variable murine + constante humaine.",
+   "Vrai : seules les boucles CDR restent murines.",
+   "Faux : l'humanisation reduit l'immunogénicité."
+  ]
+ },
+ {
+  "q": "Concernant les anti-TNF alpha, lesquelles sont exactes ?",
+  "options": [
+   "Leurs antagonistes sont cités dans le cours pour la polyarthrite rhumatoïde.",
+   "L'infliximab est un Ac monoclonal anti-TNF.",
+   "L'adalimumab est un Ac monoclonal anti-TNF.",
+   "Ils stimulent l'inflammation.",
+   "Ils augmentent le risque infectieux (tuberculose)."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : antagonistes du TNF alpha dans la PR selon le cours.",
+   "Vrai : Ac chimerique anti-TNF.",
+   "Vrai : Ac humain anti-TNF.",
+   "Faux : ils bloquent le TNF pro-inflammatoire.",
+   "Vrai : dépistage de la tuberculose latente obligatoire."
+  ]
+ },
+ {
+  "q": "Concernant l'anti-CD25 (basiliximab, daclizumab), lesquelles sont exactes ?",
+  "options": [
+   "Le CD25 est la chaîne alpha du recepteur de l'IL-2.",
+   "L'anti-CD25 est cité dans le cours pour la prevention des rejets de greffe.",
+   "Il bloque l'activation des lymphocytes T allo-reactifs.",
+   "Il stimule la proliferation lymphocytaire.",
+   "Il est utilisé en induction immunosuppressive."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : CD25 = IL-2R alpha.",
+   "Vrai : indication citée dans le cours.",
+   "Vrai : blocage du signal IL-2 d'activation T.",
+   "Faux : il inhibe la proliferation T.",
+   "Vrai : traitement d'induction post-greffe."
+  ]
+ },
+ {
+  "q": "Concernant le trastuzumab (anti-HER2), lesquelles sont exactes ?",
+  "options": [
+   "Il cible le recepteur HER2 surexprimé.",
+   "Il est utilisé dans le cancer du sein HER2 positif.",
+   "C'est un anticorps monoclonal thérapeutique.",
+   "Il cible le CD20.",
+   "Sa prescription nécessite la recherche de la surexpression d'HER2."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : anti-HER2/neu.",
+   "Vrai : indication princeps.",
+   "Vrai : immunothérapie ciblée.",
+   "Faux : l'anti-CD20 est le rituximab.",
+   "Vrai : médecine de précision (IHC/FISH)."
+  ]
+ },
+ {
+  "q": "Concernant les inhibiteurs de points de contrôle immunitaire, lesquelles sont exactes ?",
+  "options": [
+   "Les anti-PD1/PD-L1 lèvent l'inhibition des lymphocytes T.",
+   "L'anti-CTLA4 (ipilimumab) stimule l'activation T.",
+   "Ils sont utilisés en immunothérapie des cancers.",
+   "Ils n'entraînent aucun effet indesirable auto-immun.",
+   "Ils restaurent la réponse anti-tumorale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : blocage de l'axe inhibiteur PD1/PD-L1.",
+   "Vrai : blocage du frein CTLA4.",
+   "Vrai : mélanome, poumon, rein...",
+   "Faux : effets indesirables immuno-induits frequents.",
+   "Vrai : levée de la tolérance tumorale."
+  ]
+ },
+ {
+  "q": "Concernant les cellules CAR-T, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des lymphocytes T génétiquement modifiés.",
+   "Elles expriment un recepteur chimerique spécifique d'un Ag tumoral.",
+   "Elles sont utilisées dans certaines hémopathies B (anti-CD19).",
+   "C'est une immunothérapie adoptive.",
+   "Elles sont un vaccin preventif."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : transduction d'un CAR dans les LT du patient.",
+   "Vrai : recepteur chimerique anti-tumoral.",
+   "Vrai : leucémies/lymphomes B CD19+.",
+   "Vrai : transfert adoptif de cellules.",
+   "Faux : traitement curatif, pas un vaccin."
+  ]
+ },
+ {
+  "q": "Concernant le bevacizumab, lesquelles sont exactes ?",
+  "options": [
+   "C'est un Ac monoclonal anti-VEGF.",
+   "Il inhibe l'angiogenese tumorale.",
+   "Il est utilisé en cancerologie.",
+   "Il stimule la croissance vasculaire.",
+   "Il cible le TNF alpha."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : anti-facteur de croissance endothelial vasculaire.",
+   "Vrai : privation vasculaire de la tumeur.",
+   "Vrai : colon, poumon, rein...",
+   "Faux : il bloque le VEGF.",
+   "Faux : l'anti-TNF est une autre classe."
+  ]
+ },
+ {
+  "q": "Concernant l'omalizumab, lesquelles sont exactes ?",
+  "options": [
+   "C'est un Ac monoclonal anti-IgE.",
+   "Il est utilisé dans l'asthme allergique sévère.",
+   "Il empêche la fixation des IgE sur les mastocytes.",
+   "Il est utilisé dans les lymphomes.",
+   "Il reduit les exacerbations allergiques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : anti-IgE.",
+   "Vrai : asthme allergique sévère.",
+   "Vrai : blocage de l'axe IgE-Fc epsilon R.",
+   "Faux : indication allergologique, pas hématologique.",
+   "Vrai : efficacité démontrée."
+  ]
+ },
+ {
+  "q": "Concernant le palivizumab, lesquelles sont exactes ?",
+  "options": [
+   "C'est un Ac monoclonal anti-VRS.",
+   "Il est utilisé en prophylaxie chez le nourrisson à risque.",
+   "C'est une immunisation passive.",
+   "C'est un vaccin vivant atténué.",
+   "Il cible la protéine F du virus respiratoire syncytial."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : anti-virus respiratoire syncytial.",
+   "Vrai : prématurés, dysplasiques bronchopulmonaires.",
+   "Vrai : Ac preformes injectés.",
+   "Faux : ce n'est pas un vaccin.",
+   "Vrai : protéine de fusion F."
+  ]
+ },
+ {
+  "q": "Concernant les immunotoxines, lesquelles sont exactes ?",
+  "options": [
+   "Elles conjuguent un Ac monoclonal à une toxine.",
+   "L'Ac assure le ciblage spécifique.",
+   "La toxine détruit la cellule cible.",
+   "Elles sont utilisées uniquement en diagnostic.",
+   "Le gemtuzumab ozogamicine en est un exemple."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : principe des immunoconjugues.",
+   "Vrai : vectorisation par l'Ac.",
+   "Vrai : internalisation et cytotoxicité.",
+   "Faux : usage thérapeutique.",
+   "Vrai : anti-CD33-calicheamicine (LAM)."
+  ]
+ },
+ {
+  "q": "Concernant la nomenclature des Ac monoclonaux (-mab), lesquelles sont exactes ?",
+  "options": [
+   "Le suffixe -ximab désigne un Ac chimerique.",
+   "Le suffixe -zumab désigne un Ac humanise.",
+   "Le suffixe -umab désigne un Ac humain.",
+   "Le suffixe -momab désigne un Ac murin.",
+   "Le prefixe indique toujours la cible tumorale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : xi = chimerique (ex : rituximab).",
+   "Vrai : zu = humanise (ex : trastuzumab).",
+   "Vrai : u = humain (ex : adalimumab).",
+   "Vrai : mo = murin.",
+   "Faux : l'infixe central indique la source/cible selon les règles."
+  ]
+ },
+ {
+  "q": "Concernant les effets indesirables des Ac monoclonaux, lesquelles sont exactes ?",
+  "options": [
+   "Des reactions à la perfusion peuvent survenir.",
+   "Les Ac murins exposent au risque HAMA.",
+   "Les anti-TNF exposent au risque de tuberculose.",
+   "Les anti-CD20 peuvent provoquer des cytopenies.",
+   "Ils sont totalement dépourvus d'effets indesirables."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : reactions infusionnelles classiques.",
+   "Vrai : Ac humains anti-souris.",
+   "Vrai : reactivation tuberculeuse.",
+   "Vrai : lymphopénie B prolongée.",
+   "Faux : effets indesirables réels et surveillés."
+  ]
+ },
+ {
+  "q": "Concernant les Ac monoclonaux en auto-immunité, lesquelles sont exactes ?",
+  "options": [
+   "Le rituximab (anti-CD20) déplète les lymphocytes B.",
+   "Les anti-TNF sont utilisés dans la polyarthrite rhumatoïde.",
+   "L'anti-CD25 previent le rejet de greffe.",
+   "Ils remplacent les immunosuppresseurs classiques sans risque.",
+   "Le belimumab (anti-BLyS) est utilisé dans le lupus."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : depletion B.",
+   "Vrai : indication citée dans le cours.",
+   "Vrai : indication citée dans le cours.",
+   "Faux : risque infectieux et cout importants.",
+   "Vrai : anti-BLyS/BAFF dans le lupus systémique."
+  ]
+ },
+ {
+  "q": "Concernant la production des Ac monoclonaux thérapeutiques, lesquelles sont exactes ?",
+  "options": [
+   "Les hybridomes murins sont la methode historique.",
+   "Les banques de phages permettent d'obtenir des Ac humains.",
+   "La production industrielle utilise des cellules CHO.",
+   "Un sérum polyclonal est un Ac monoclonal.",
+   "La purification garantit l'absence de contaminants viraux."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : Kohler et Milstein 1975.",
+   "Vrai : phage display.",
+   "Vrai : cellules d'ovaire de hamster chinois.",
+   "Faux : le sérum polyclonal contient de multiples spécificités.",
+   "Vrai : étapes de purification et d'inactivation virale."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic de grossesse, lesquelles sont exactes ?",
+  "options": [
+   "Il repose sur la detection de l'hCG.",
+   "Des Ac monoclonaux anti-hCG sont utilisés.",
+   "C'est un usage diagnostique in vitro cité dans le cours.",
+   "Il nécessite une prise de sang obligatoire.",
+   "Les tests urinaires sont des immunodosages rapides."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : hormone chorionique gonadotrope.",
+   "Vrai : Ac monoclonaux spécifiques.",
+   "Vrai : exemple du cours.",
+   "Faux : les tests urinaires suffisent.",
+   "Vrai : immunochromatographie rapide."
+  ]
+ },
+ {
+  "q": "Concernant les avantages des Ac monoclonaux sur les sérums polyclonaux, lesquelles sont exactes ?",
+  "options": [
+   "Spécificité pour un seul épitope.",
+   "Reproductibilité inter-lots.",
+   "Production illimitée.",
+   "Absence totale d'immunogénicité.",
+   "Moindre cout de production."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : monospécificité.",
+   "Vrai : clone immortel = lots identiques.",
+   "Vrai : culture continue.",
+   "Faux : immunogénicité résiduelle possible.",
+   "Faux : production coûteuse."
+  ]
+ },
+ {
+  "q": "Concernant les interférons en thérapeutique, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont cités dans le cours pour les hépatites B et C.",
+   "Ils sont cités dans le cours pour la sclerose en plaques.",
+   "Ils sont cités dans le cours pour les lymphomes et les myélomes.",
+   "Ils sont dépourvus d'effets indesirables.",
+   "L'interféron beta est utilisé dans la sclerose en plaques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : indication citée (hépatites B et C).",
+   "Vrai : indication citée (SEP).",
+   "Vrai : indication citée (lymphomes, myélomes).",
+   "Faux : syndrome pseudo-grippal frequent.",
+   "Vrai : IFN beta immunomodulateur dans la SEP."
+  ]
+ },
+ {
+  "q": "Concernant le G-CSF en thérapeutique, lesquelles sont exactes ?",
+  "options": [
+   "Il est cité dans le cours pour les neutropénies post-chimiothérapie.",
+   "Il stimule la production des polynuclaires neutrophiles.",
+   "Il est une cytokine de l'hématopoïèse.",
+   "Il traite les anémies.",
+   "Il est administré par voie injectable."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : indication citée dans le cours.",
+   "Vrai : facteur de croissance granulocytaire.",
+   "Vrai : cytokine hématopoïétique.",
+   "Faux : les anémies relèvent de l'érythropoïétine.",
+   "Vrai : injections sous-cutanées."
+  ]
+ },
+ {
+  "q": "Concernant l'érythropoïétine en thérapeutique, lesquelles sont exactes ?",
+  "options": [
+   "Elle est citée dans le cours pour les anémies des insuffisants renaux chroniques.",
+   "Elle stimule l'érythropoïèse médullaire.",
+   "C'est une cytokine de l'hématopoïèse.",
+   "Elle traite les neutropénies.",
+   "Son exces expose au risque thrombotique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : indication citée (anémies des IRC).",
+   "Vrai : hormone de la lignée rouge.",
+   "Vrai : classée parmi les cytokines hématopoïétiques.",
+   "Faux : les neutropénies relèvent du G-CSF.",
+   "Vrai : hyperviscosité et thromboses à surveiller."
+  ]
+ },
+ {
+  "q": "Concernant les antagonistes du TNF alpha, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont cités dans le cours pour la polyarthrite rhumatoïde.",
+   "Ils bloquent une cytokine pro-inflammatoire majeure.",
+   "Ils exposent au risque de reactivation tuberculeuse.",
+   "Ils stimulent la réponse immune anti-infectieuse.",
+   "L'etanercept (recepteur soluble) en fait partie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : indication citée dans le cours.",
+   "Vrai : le TNF alpha est une cytokine de l'immunité innée.",
+   "Vrai : dépistage tuberculeux avant traitement.",
+   "Faux : ils sont immunosuppresseurs.",
+   "Vrai : recepteur soluble du TNF."
+  ]
+ },
+ {
+  "q": "Concernant l'anti-CD25 en thérapeutique, lesquelles sont exactes ?",
+  "options": [
+   "Le CD25 est la chaîne alpha du recepteur de l'IL-2.",
+   "Il est cité dans le cours pour la prevention des rejets de greffes.",
+   "Il inhibe l'activation des lymphocytes T.",
+   "Il stimule la secretion d'IL-2.",
+   "Il est utilisé en traitement d'induction."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : IL-2R alpha.",
+   "Vrai : indication citée.",
+   "Vrai : blocage du signal IL-2.",
+   "Faux : il bloque la reception du signal IL-2.",
+   "Vrai : induction immunosuppressive post-greffe."
+  ]
+ },
+ {
+  "q": "Concernant l'interleukine-2 en thérapeutique, lesquelles sont exactes ?",
+  "options": [
+   "À forte dose, elle est utilisée dans le mélanome métastatique.",
+   "Elle stimule la proliferation des lymphocytes T et NK.",
+   "Elle est une cytokine de l'immunité adaptative.",
+   "Elle est dépourvue de toxicité.",
+   "Son recepteur comprend la chaîne CD25."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : IL-2 haute dose en cancerologie.",
+   "Vrai : facteur de croissance T et NK.",
+   "Vrai : classée parmi les cytokines adaptatives.",
+   "Faux : syndrome de fuite capillaire grave.",
+   "Vrai : CD25 = IL-2R alpha."
+  ]
+ },
+ {
+  "q": "Concernant les effets indesirables des cytokines thérapeutiques, lesquelles sont exactes ?",
+  "options": [
+   "Un syndrome pseudo-grippal est frequent avec les interférons.",
+   "Des cytopenies peuvent survenir.",
+   "Le G-CSF peut provoquer des douleurs osseuses.",
+   "L'érythropoïétine expose à l'hypertension arterielle.",
+   "Elles sont dénuées de tout effet indesirable."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : fièvre, myalgies sous interféron.",
+   "Vrai : toxicité hématologique possible.",
+   "Vrai : douleurs osseuses classiques.",
+   "Vrai : HTA sous EPO à surveiller.",
+   "Faux : effets indesirables réels."
+  ]
+ },
+ {
+  "q": "Concernant les caracteristiques pharmacologiques des cytokines, lesquelles sont exactes ?",
+  "options": [
+   "Selon le cours, elles ne sont pas stockées dans les cellules au repos.",
+   "Leur synthèse est induite de novo lors de l'activation.",
+   "Elles sont sécrétées en faible quantité et de façon transitoire.",
+   "Leur demi-vie est courte.",
+   "Elles agissent uniquement par voie endocrine."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : non stockées au repos.",
+   "Vrai : synthèse induite par l'Ag.",
+   "Vrai : picomoles, secretion transitoire.",
+   "Vrai : demi-vie courte limitant le champ d'action.",
+   "Faux : actions autocrine, paracrine et endocrine."
+  ]
+ },
+ {
+  "q": "Concernant la pléiotropie des cytokines, lesquelles sont exactes ?",
+  "options": [
+   "Une même cytokine peut agir sur plusieurs cibles cellulaires.",
+   "Elle explique en partie la toxicité des cytokines thérapeutiques.",
+   "La redondance signifie que plusieurs cytokines ont le même effet.",
+   "La synergie est un effet oppose de deux cytokines.",
+   "L'antagonisme est l'effet combine particulier de deux cytokines."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : définition de la pléiotropie du cours.",
+   "Vrai : effets multiples = effets indesirables multiples.",
+   "Vrai : définition de la redondance.",
+   "Faux : la synergie est un effet combine particulier.",
+   "Faux : l'antagonisme est l'opposition d'effets."
+  ]
+ },
+ {
+  "q": "Concernant l'anakinra, lesquelles sont exactes ?",
+  "options": [
+   "C'est un antagoniste du recepteur de l'IL-1.",
+   "Il bloque une cytokine pro-inflammatoire de l'immunité innée.",
+   "Il est utilisé dans la polyarthrite rhumatoïde.",
+   "Il stimule l'inflammation.",
+   "Il est une cytokine recombinante agoniste."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : IL-1Ra recombinant.",
+   "Vrai : l'IL-1 est une cytokine de l'immunité innée.",
+   "Vrai : indication rhumatologique.",
+   "Faux : il est anti-inflammatoire.",
+   "Faux : c'est un antagoniste, pas un agoniste."
+  ]
+ },
+ {
+  "q": "Concernant le tocilizumab, lesquelles sont exactes ?",
+  "options": [
+   "C'est un Ac monoclonal anti-recepteur de l'IL-6.",
+   "L'IL-6 est une cytokine pro-inflammatoire.",
+   "Il est utilisé dans la polyarthrite rhumatoïde.",
+   "Il bloque le TNF alpha.",
+   "Il a été utilisé dans les formes graves de COVID-19."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : anti-IL-6R.",
+   "Vrai : cytokine de l'immunité innée.",
+   "Vrai : indication rhumatologique.",
+   "Faux : il bloque l'axe IL-6.",
+   "Vrai : orage cytokinique."
+  ]
+ },
+ {
+  "q": "Concernant les interférences des cytokines avec la présentation antigénique, lesquelles sont exactes ?",
+  "options": [
+   "L'interféron gamma augmente l'expression des molécules HLA.",
+   "Le TNF alpha active les cellules présentatrices d'antigène.",
+   "Ces propriétés sont exploitées en immunothérapie.",
+   "Les cytokines n'ont aucun effet sur les CPA.",
+   "L'IL-10 stimule la présentation antigénique."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'IFN gamma induit l'expression du CMH.",
+   "Vrai : activation macrophagique et dendritique.",
+   "Vrai : adjuvants cytokiniques en vaccinologie.",
+   "Faux : effet majeur démontre.",
+   "Faux : l'IL-10 est immunosuppressive."
+  ]
+ },
+ {
+  "q": "Concernant les limites des cytokines en thérapeutique, lesquelles sont exactes ?",
+  "options": [
+   "Leur demi-vie courte impose des administrations répétées.",
+   "Leur pléiotropie est source d'effets indesirables.",
+   "Leur cout de production est élevé.",
+   "Elles sont inefficaces par voie injectable.",
+   "Des formes pégylées prolongent leur demi-vie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : injections frequentes.",
+   "Vrai : effets multiples non cibles.",
+   "Vrai : biotechnologies coûteuses.",
+   "Faux : la voie injectable est la voie d'administration.",
+   "Vrai : pégylation (ex : IFN pégylé)."
+  ]
+ },
+ {
+  "q": "Concernant l'interféron alpha pégylé, lesquelles sont exactes ?",
+  "options": [
+   "La pégylation prolonge sa demi-vie.",
+   "Il a été utilisé dans l'hépatite C chronique.",
+   "Il permet une injection hebdomadaire.",
+   "Il est dénué d'effets psychiatriques.",
+   "Il stimule la réponse immune antivirale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : polyéthylène glycol ralentissant la clairance.",
+   "Vrai : traitement historique du VHC.",
+   "Vrai : une injection par semaine.",
+   "Faux : dépression et troubles psychiatriques possibles.",
+   "Vrai : activation NK et présentation antigénique."
+  ]
+ },
+ {
+  "q": "Concernant les facteurs de croissance hématopoïétiques, lesquelles sont exactes ?",
+  "options": [
+   "L'EPO, le G-CSF et le GM-CSF en font partie.",
+   "L'IL-3, l'IL-5 et l'IL-7 sont aussi des cytokines hématopoïétiques.",
+   "Ils agissent sur la proliferation des progéniteurs médullaires.",
+   "Ils sont utilisés en thérapeutique (EPO, G-CSF).",
+   "Ils sont produits uniquement par les lymphocytes T."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : cités dans le cours.",
+   "Vrai : cités dans le cours.",
+   "Vrai : action sur l'hématopoïèse.",
+   "Vrai : indications citées dans le cours.",
+   "Faux : multiples cellules productrices (stromales, endothéliales...)."
+  ]
+ },
+ {
+  "q": "Concernant la compatibilité transfusionnelle, lesquelles sont exactes ?",
+  "options": [
+   "Le système ABO doit être compatible.",
+   "Le système rhesus doit être compatible.",
+   "La RAI recherche les agglutinines irrégulières.",
+   "L'épreuve de compatibilité utilise le Coombs indirect.",
+   "Le groupage ABO est inutile en urgence vitale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : compatibilité ABO obligatoire.",
+   "Vrai : compatibilité Rh obligatoire.",
+   "Vrai : dépistage des Ac irréguliers.",
+   "Vrai : indication citée dans le cours.",
+   "Faux : le groupage reste indispensable même en urgence."
+  ]
+ },
+ {
+  "q": "Concernant la compatibilité en greffe d'organe, lesquelles sont exactes ?",
+  "options": [
+   "La compatibilité tissulaire HLA est recherchée.",
+   "Le typage HLA sert à l'appariement donneur-receveur.",
+   "Les greffes concernées incluent rein et coeur.",
+   "La compatibilité ABO est sans intérêt en greffe.",
+   "Le cross-match detecte des Ac anti-HLA preformes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : compatibilité des tissus (HLA) selon le cours.",
+   "Vrai : indication du typage HLA citée.",
+   "Vrai : rein, coeur cités dans le cours.",
+   "Faux : la compatibilité ABO est aussi requise en greffe d'organe.",
+   "Vrai : cross-match lymphocytaire pré-greffe."
+  ]
+ },
+ {
+  "q": "Concernant le typage HLA de classe I, lesquelles sont exactes ?",
+  "options": [
+   "Il recherche les molécules HLA-A, B et C.",
+   "La microlymphocytotoxicité complément-dépendante est la methode sérologique.",
+   "Ces molécules sont exprimées sur presque toutes les cellules nucléées.",
+   "La PCR est la methode de référence pour la classe I.",
+   "Il est indiqué avant greffe de moelle osseuse."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : locus classiques de classe I.",
+   "Vrai : technique sérologique citée dans le cours.",
+   "Vrai : expression ubiquitaire nucléée.",
+   "Faux : la PCR est citée pour les allèles de classe II.",
+   "Vrai : greffe de MO = typage HLA."
+  ]
+ },
+ {
+  "q": "Concernant le typage HLA de classe II, lesquelles sont exactes ?",
+  "options": [
+   "Il recherche les molécules HLA-DR, DQ et DP.",
+   "La PCR est la technique citée dans le cours.",
+   "Ces molécules sont exprimées par les CPA.",
+   "Il est inutile en greffe d'organe.",
+   "Il conforte le diagnostic de certaines maladies auto-immunes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : locus classiques de classe II.",
+   "Vrai : biologie moléculaire (PCR) selon le cours.",
+   "Vrai : expression restreinte aux CPA.",
+   "Faux : la classe II est déterminante en greffe.",
+   "Vrai : associations HLA-maladies (B27, B51)."
+  ]
+ },
+ {
+  "q": "Concernant l'association HLA B27, lesquelles sont exactes ?",
+  "options": [
+   "Elle est associée à la spondylarthrite ankylosante.",
+   "C'est un exemple cité dans le cours d'association HLA-maladie.",
+   "Le typage HLA conforte le diagnostic.",
+   "Elle est associée à la maladie de Behcet.",
+   "Tout porteur de B27 développe la maladie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : association classique.",
+   "Vrai : exemple cité dans le cours.",
+   "Vrai : le typage conforte le diagnostic selon le cours.",
+   "Faux : Behcet est associe à B51.",
+   "Faux : pénétrance incomplete."
+  ]
+ },
+ {
+  "q": "Concernant l'association HLA B51, lesquelles sont exactes ?",
+  "options": [
+   "Elle est associée à la maladie de Behcet.",
+   "C'est un exemple cité dans le cours.",
+   "Le typage HLA conforte le diagnostic.",
+   "Elle est associée à la spondylarthrite ankylosante.",
+   "Elle prouve à elle seule la maladie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : association classique.",
+   "Vrai : exemple cité dans le cours.",
+   "Vrai : apport diagnostique du typage.",
+   "Faux : la spondylarthrite est associée à B27.",
+   "Faux : le typage conforte, ne prouve pas."
+  ]
+ },
+ {
+  "q": "Concernant le rejet de greffe, lesquelles sont exactes ?",
+  "options": [
+   "Il est médiée par les lymphocytes T allo-reactifs.",
+   "Les molécules HLA du donneur sont les cibles.",
+   "L'anti-CD25 est utilisé en prevention selon le cours.",
+   "Il est impossible en cas de compatibilité HLA parfaite.",
+   "Le traitement immunosuppresseur le previent."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : rejet cellulaire T.",
+   "Vrai : allo-antigènes HLA.",
+   "Vrai : indication citée dans le cours.",
+   "Faux : des Ag mineurs subsistent.",
+   "Vrai : immunosuppression d'entretien."
+  ]
+ },
+ {
+  "q": "Concernant la greffe de moelle osseuse, lesquelles sont exactes ?",
+  "options": [
+   "Elle nécessite une compatibilité HLA stricte.",
+   "Le typage HLA du donneur et du receveur est indispensable.",
+   "La maladie du greffon contre l'hote en est une complication.",
+   "La compatibilité ABO y est suffisante.",
+   "Les cellules souches hématopoïétiques repeuplent la moelle du receveur."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : greffe de tissus = appariement HLA.",
+   "Vrai : typage donneur-receveur.",
+   "Vrai : GVH par les LT du greffon.",
+   "Faux : le HLA est determinant, pas l'ABO seul.",
+   "Vrai : principe de la greffe de CSH."
+  ]
+ },
+ {
+  "q": "Concernant le cross-match pré-greffe, lesquelles sont exactes ?",
+  "options": [
+   "Il recherche des Ac anti-HLA preformes chez le receveur.",
+   "Le sérum du receveur est testé contre les lymphocytes du donneur.",
+   "Un cross-match positif contre-indique la greffe.",
+   "Il remplace le typage HLA.",
+   "Il previent le rejet hyperaigu."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : detection d'allo-Ac cytotoxiques.",
+   "Vrai : principe du cross-match lymphocytaire.",
+   "Vrai : risque de rejet hyperaigu.",
+   "Faux : il complète le typage, ne le remplace pas.",
+   "Vrai : objectif principal."
+  ]
+ },
+ {
+  "q": "Concernant la transfusion de concentres plaquettaires, lesquelles sont exactes ?",
+  "options": [
+   "La compatibilité ABO est requise.",
+   "La compatibilité HLA peut être recherchée en cas de réfractarité.",
+   "Les Ac anti-HLA peuvent détruire les plaquettes transfusées.",
+   "Aucune compatibilité n'est nécessaire.",
+   "Le Coombs direct est l'examen de référence."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : règles ABO applicables.",
+   "Vrai : plaquettes HLA-compatibles si immunisation.",
+   "Vrai : allo-immunisation anti-HLA.",
+   "Faux : compatibilités requises.",
+   "Faux : le Coombs direct concerne les GR."
+  ]
+ },
+ {
+  "q": "Concernant la désensibilisation allergenique, lesquelles sont exactes ?",
+  "options": [
+   "Elle consiste en l'administration répétée de doses croissantes d'allergene.",
+   "Elle réoriente la réponse Th2 vers un profil regulateur.",
+   "Elle induit des IgG4 bloquantes.",
+   "Elle est une forme d'immunothérapie spécifique.",
+   "Elle est efficace dès la première injection."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : protocole d'immunothérapie allergenique.",
+   "Vrai : induction de LTreg et d'IL-10.",
+   "Vrai : IgG4 competitrices des IgE.",
+   "Vrai : immunothérapie spécifique d'allergene.",
+   "Faux : traitement de plusieurs années."
+  ]
+ },
+ {
+  "q": "Concernant les immunoglobulines anti-D, lesquelles sont exactes ?",
+  "options": [
+   "Elles previennent l'allo-immunisation anti-D maternelle.",
+   "Elles sont administrées à la femme enceinte Rh négatif.",
+   "C'est une immunisation passive.",
+   "Elles stimulent la production d'Ac par la mere.",
+   "Elles sont injectées après l'accouchement d'un enfant Rh positif."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : prevention de l'immunisation fœto-maternelle.",
+   "Vrai : indication chez la mere Rh négatif.",
+   "Vrai : Ig preformes injectées.",
+   "Faux : elles détruisent les GR fœtaux avant immunisation.",
+   "Vrai : injection post-partum systématique."
+  ]
+ },
+ {
+  "q": "Concernant les IVIg à forte dose en auto-immunité, lesquelles sont exactes ?",
+  "options": [
+   "Elles ont un effet immunomodulateur.",
+   "Elles sont utilisées dans le purpura thrombopénique immunologique.",
+   "Elles saturent les récepteurs Fc des phagocytes.",
+   "Elles induisent une mémoire immunitaire.",
+   "Elles contiennent des Ac anti-idiotypiques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : effet immunomodulateur à forte dose.",
+   "Vrai : indication classique (PTI).",
+   "Vrai : blocage des FcR macrophagiques.",
+   "Faux : immunisation passive sans mémoire.",
+   "Vrai : neutralisation des auto-Ac."
+  ]
+ },
+ {
+  "q": "Concernant la sérothérapie anti-tétanique, lesquelles sont exactes ?",
+  "options": [
+   "Elle apporte des Ac neutralisant la toxine tétanique.",
+   "Elle est indiquée en post-exposition chez le non vacciné.",
+   "Sa protection est immédiate mais transitoire.",
+   "Elle remplace la vaccination anti-tétanique.",
+   "Elle doit être associée à la vaccination."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : Ig anti-toxine tétanique.",
+   "Vrai : plaie tétanigène chez sujet mal vacciné.",
+   "Vrai : principe de la sérothérapie.",
+   "Faux : elle ne dispense pas de la vaccination.",
+   "Vrai : sérovaccination combinée."
+  ]
+ },
+ {
+  "q": "Concernant la prophylaxie post-exposition de l'hépatite B, lesquelles sont exactes ?",
+  "options": [
+   "Elle associe Ig anti-HBs et vaccin.",
+   "Les Ig apportent une protection immédiate.",
+   "Le vaccin induit une protection durable.",
+   "Les Ig seules suffisent à vie.",
+   "Elle est indiquée après exposition au sang d'un sujet Ag HBs positif."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : sérovaccination.",
+   "Vrai : immunisation passive.",
+   "Vrai : immunisation active.",
+   "Faux : protection transitoire des Ig seules.",
+   "Vrai : accident d'exposition au sang."
+  ]
+ },
+ {
+  "q": "Concernant la sérothérapie anti-rabique, lesquelles sont exactes ?",
+  "options": [
+   "Elle est indiquée après morsure par un animal enragé.",
+   "Les Ig sont infiltrées autour de la plaie.",
+   "Elle est associée à la vaccination anti-rabique.",
+   "La vaccination seule suffit toujours.",
+   "Elle apporte une protection immédiate."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : prophylaxie post-exposition.",
+   "Vrai : infiltration locale des Ig.",
+   "Vrai : sérovaccination.",
+   "Faux : la sérothérapie est recommandée pour les morsures graves.",
+   "Vrai : principe de l'immunisation passive."
+  ]
+ },
+ {
+  "q": "Concernant les sérums hyperimmuns, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont riches en Ac spécifiques d'un pathogène.",
+   "Ils sont préparés à partir de donneurs immunisés.",
+   "Le sérum anti-venimeux en est un exemple.",
+   "Ils induisent une mémoire immunitaire.",
+   "Leur protection est de courte durée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : titre élevé d'Ac spécifiques.",
+   "Vrai : donneurs vaccinés ou convalescents.",
+   "Vrai : sérothérapie anti-venimeuse.",
+   "Faux : immunisation passive.",
+   "Vrai : catabolisme des Ig injectées."
+  ]
+ },
+ {
+  "q": "Concernant l'immunothérapie adoptive, lesquelles sont exactes ?",
+  "options": [
+   "Elle consiste à transferer des cellules immunitaires au patient.",
+   "Les cellules CAR-T en sont un exemple.",
+   "Les lymphocytes infiltrant la tumeur (TIL) en sont un exemple historique.",
+   "C'est une vaccination preventive.",
+   "Elle vise à renforcer la réponse anti-tumorale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : transfert adoptif de cellules.",
+   "Vrai : LT génétiquement modifiés.",
+   "Vrai : TIL amplifiés ex vivo (mélanome).",
+   "Faux : traitement, pas prevention.",
+   "Vrai : objectif anti-tumoral."
+  ]
+ },
+ {
+  "q": "Concernant le BCG intravesical, lesquelles sont exactes ?",
+  "options": [
+   "Il est utilisé dans le cancer superficiel de la vessie.",
+   "Il stimule l'immunité innée locale.",
+   "C'est une forme d'immunothérapie.",
+   "C'est un vaccin preventif du cancer de la vessie.",
+   "Il active macrophages et cellules NK urotheliales."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : instillations endovesicales.",
+   "Vrai : inflammation locale anti-tumorale.",
+   "Vrai : immunothérapie non spécifique.",
+   "Faux : usage thérapeutique, pas preventif.",
+   "Vrai : recrutement de l'immunité innée."
+  ]
+ },
+ {
+  "q": "Concernant les vaccins à visée thérapeutique anti-tumoraux, lesquelles sont exactes ?",
+  "options": [
+   "Ils visent à stimuler la réponse contre les Ag tumoraux.",
+   "Ils se distinguent des vaccins preventifs.",
+   "Leur efficacité est encore limitée.",
+   "Ils remplacent la chimiothérapie.",
+   "Le vaccin anti-HPV preventif en est un exemple."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : immunothérapie active anti-tumorale.",
+   "Vrai : objectif curatif vs preventif.",
+   "Vrai : développement en cours.",
+   "Faux : approche complémentaire expérimentale.",
+   "Faux : l'anti-HPV est un vaccin preventif."
+  ]
+ },
+ {
+  "q": "Concernant la tolérance thérapeutique en auto-immunité, lesquelles sont exactes ?",
+  "options": [
+   "L'injection intra-thymique d'Ag est une piste évoquée dans le cours.",
+   "L'objectif est d'eliminer les lymphocytes auto-reactifs.",
+   "La selection négative thymique est le mécanisme vise.",
+   "La vaccination classique induit cette tolérance.",
+   "Les LTreg participent à la tolérance périphérique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : piste citée dans le cours.",
+   "Vrai : délétion des clones auto-reactifs.",
+   "Vrai : selection négative au thymus.",
+   "Faux : la vaccination stimule, ne tolérise pas.",
+   "Vrai : regulation périphérique."
+  ]
+ },
+ {
+  "q": "Concernant les anticorps anti-lymphocytaires en greffe, lesquelles sont exactes ?",
+  "options": [
+   "L'anti-CD25 bloque l'activation des LT.",
+   "Ils sont utilisés en traitement d'induction.",
+   "Ils déplètent ou inhibent les lymphocytes allo-reactifs.",
+   "Ils sont dénuées de risque infectieux.",
+   "L'OKT3 (anti-CD3) historique en est un exemple."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : blocage IL-2R.",
+   "Vrai : induction post-greffe.",
+   "Vrai : principe de l'immunosuppression.",
+   "Faux : risque infectieux majeur.",
+   "Vrai : premier Ac monoclonal anti-rejet."
+  ]
+ },
+ {
+  "q": "Concernant la prophylaxie du rejet hyperaigu, lesquelles sont exactes ?",
+  "options": [
+   "Le cross-match pré-greffe le previent.",
+   "Il est du à des Ac anti-HLA preformes.",
+   "La compatibilité ABO est vérifiée.",
+   "Il survient des mois après la greffe.",
+   "Aucune prevention n'est possible."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : cross-match lymphocytaire.",
+   "Vrai : Ac cytotoxiques preformes.",
+   "Vrai : incompatibilité ABO = rejet hyperaigu.",
+   "Faux : il survient en minutes-heures.",
+   "Faux : la prevention repose sur ces verifications."
+  ]
+ },
+ {
+  "q": "Concernant l'immunostimulation non spécifique, lesquelles sont exactes ?",
+  "options": [
+   "Le BCG intravesical en est un exemple.",
+   "Les adjuvants vaccinaux stimulent l'immunité innée.",
+   "Les interférences cytokiniques activent les CPA.",
+   "Elle est spécifique d'un antigène.",
+   "Elle peut completer une immunothérapie spécifique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : exemple historique.",
+   "Vrai : activation innée locale.",
+   "Vrai : IFN, TNF sur les CPA.",
+   "Faux : elle est non spécifique par définition.",
+   "Vrai : combinaisons thérapeutiques."
+  ]
+ },
+ {
+  "q": "Concernant les perspectives de l'immunothérapie, lesquelles sont exactes ?",
+  "options": [
+   "Les Ac bispécifiques engagent les LT contre la tumeur.",
+   "Les vaccins personnalisés neo-antigéniques sont en développement.",
+   "Les combinaisons anti-PD1 + anti-CTLA4 sont utilisées.",
+   "L'immunothérapie a remplacé tous les autres traitements du cancer.",
+   "La médecine de précision guide le choix (HER2, PD-L1)."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : ex : blinatumomab CD19/CD3.",
+   "Vrai : vaccins sur mesure.",
+   "Vrai : synergie des checkpoints.",
+   "Faux : traitement complémentaire.",
+   "Vrai : biomarqueurs prédictifs."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic sérologique du VIH, lesquelles sont exactes ?",
+  "options": [
+   "L'ELISA est la technique de dépistage.",
+   "Le Western blot est la technique de confirmation.",
+   "Le WB identifie les Ac anti-VIH selon le cours.",
+   "Un seul test suffit au diagnostic.",
+   "La CMF suit les LTCD4."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : ELISA de dépistage sensible.",
+   "Vrai : confirmation par WB.",
+   "Vrai : application citée dans le cours.",
+   "Faux : algorithme dépistage + confirmation.",
+   "Vrai : suivi immunologique par CMF."
+  ]
+ },
+ {
+  "q": "Concernant la sérologie de la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "Le TPHA est une agglutination passive spécifique du tréponème.",
+   "Le VDRL est un test non tréponémique de dépistage.",
+   "Le TPHA reste positif à vie.",
+   "Le VDRL permet le suivi thérapeutique.",
+   "Un seul test suffit dans tous les cas."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ag tréponémiques sur hématies.",
+   "Vrai : test cardiolipinique non spécifique.",
+   "Vrai : cicatrice sérologique.",
+   "Vrai : titre corrélé à l'activité.",
+   "Faux : association dépistage + spécifique."
+  ]
+ },
+ {
+  "q": "Concernant le sérodiagnostic des hépatites virales, lesquelles sont exactes ?",
+  "options": [
+   "L'ELISA detecte l'Ag HBs.",
+   "L'ELISA detecte les Ac anti-HBs post-vaccinaux.",
+   "Les Ac anti-HBc traduisent un contact avec le virus.",
+   "La PCR detecte l'ADN viral.",
+   "La sérologie est inutile après vaccination."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ag HBs par ELISA sandwich.",
+   "Vrai : contrôle post-vaccinal.",
+   "Vrai : Ac anti-core = infection.",
+   "Vrai : biologie moléculaire.",
+   "Faux : le contrôle anti-HBs post-vaccinal est indiqué."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic sérologique de la toxoplasmose chez la femme enceinte, lesquelles sont exactes ?",
+  "options": [
+   "L'ELISA dose les IgG et les IgM anti-toxoplasmiques.",
+   "Les IgM traduisent une infection recente.",
+   "L'avidité des IgG aide à dater l'infection.",
+   "La sérologie est inutile pendant la grossesse.",
+   "Une seroconversion impose une prise en charge."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : IgG/IgM par immuno-enzymologie.",
+   "Vrai : marqueur de primo-infection.",
+   "Vrai : avidité faible = infection recente.",
+   "Faux : surveillance sérologique mensuelle.",
+   "Vrai : risque fœtal."
+  ]
+ },
+ {
+  "q": "Concernant le sérodiagnostic des mycoplasmes, lesquelles sont exactes ?",
+  "options": [
+   "La RFC est citée dans le cours pour ce diagnostic.",
+   "L'ELISA est aussi utilisée.",
+   "La culture est difficile et lente.",
+   "La sérologie est le seul diagnostic possible.",
+   "Les Ac apparaissent des les premières heures."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : application citée de la RFC.",
+   "Vrai : sérologies immuno-enzymatiques.",
+   "Vrai : culture exigeante.",
+   "Faux : la PCR est aussi utilisée.",
+   "Faux : délai de seroconversion."
+  ]
+ },
+ {
+  "q": "Concernant le dosage des IgE spécifiques, lesquelles sont exactes ?",
+  "options": [
+   "La RIA sandwich est citée dans le cours.",
+   "L'ELISA dose les protéines à l'état de traces.",
+   "Les IgE sont impliquées dans l'hypersensibilité immédiate.",
+   "Le dosage est inutile en allergologie.",
+   "Un taux élevé confirme à lui seul l'allergie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : quantification des IgE spécifiques par RIA sandwich.",
+   "Vrai : application citée de l'ELISA.",
+   "Vrai : HS type I.",
+   "Faux : aide au diagnostic allergologique.",
+   "Faux : interprétation clinique globale."
+  ]
+ },
+ {
+  "q": "Concernant la recherche d'auto-anticorps, lesquelles sont exactes ?",
+  "options": [
+   "L'IFI est citée dans le cours pour l'auto-immunité.",
+   "L'ELISA est citée pour la recherche d'auto-Ac.",
+   "Les Ac anti-nucléaires se recherchent sur cellules HEp-2.",
+   "La précipitation est la technique de référence.",
+   "Un résultat positif suffit au diagnostic."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : application IFI citée.",
+   "Vrai : recherche d'auto-Ac par ELISA selon le cours.",
+   "Vrai : substrat HEp-2 classique.",
+   "Faux : IFI et ELISA sont les références.",
+   "Faux : correlation clinico-biologique."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic des gammapathies monoclonales, lesquelles sont exactes ?",
+  "options": [
+   "L'électrophorèse des protéines sériques depiste le pic monoclonal.",
+   "L'immunofixation est la methode de choix selon le cours.",
+   "L'immunofixation identifie la classe et le type de chaîne.",
+   "La néphélémétrie suffit au diagnostic.",
+   "Le dosage des chaînes légères libres complète le bilan."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : pic etroit en gamma.",
+   "Vrai : methode de choix (3h).",
+   "Vrai : typage IgG kappa par exemple.",
+   "Faux : dosage ponderal non typant.",
+   "Vrai : chaînes légères libres."
+  ]
+ },
+ {
+  "q": "Concernant le suivi d'un déficit immunitaire humoral, lesquelles sont exactes ?",
+  "options": [
+   "Le dosage ponderal des Ig est indiqué.",
+   "La néphélémétrie ou Mancini sont utilisables.",
+   "La réponse vaccinale peut être testée.",
+   "L'EPP est inutile.",
+   "Les IVIg sont le traitement substitutif."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : exploration quantitative des Ig.",
+   "Vrai : techniques citées dans le cours.",
+   "Vrai : sérologie post-vaccinale fonctionnelle.",
+   "Faux : l'EPP reste utile (hypogammaglobulinémie).",
+   "Vrai : substitution par Ig polyvalentes."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic de la maladie hémolytique du nouveau-ne, lesquelles sont exactes ?",
+  "options": [
+   "Le Coombs direct est positif chez le nouveau-ne.",
+   "Des Ac maternels anti-D traversent le placenta.",
+   "Les IgG maternelles sont en cause.",
+   "La prevention repose sur les Ig anti-D.",
+   "Le Coombs indirect est l'examen diagnostique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ac fixes sur les GR du nouveau-ne.",
+   "Vrai : passage transplacentaire des IgG.",
+   "Vrai : seules les IgG traversent le placenta.",
+   "Vrai : prevention de l'allo-immunisation.",
+   "Faux : c'est le Coombs direct qui est positif."
+  ]
+ },
+ {
+  "q": "Concernant le choix entre ELISA et RIA, lesquelles sont exactes ?",
+  "options": [
+   "Les deux sont des techniques d'immunomarquage.",
+   "La RIA utilise des radio-isotopes.",
+   "L'ELISA utilise des enzymes.",
+   "La RIA est plus sensible que l'ELISA.",
+   "L'ELISA évite les contraintes de la radioactivité."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : marquage radioactif vs enzymatique.",
+   "Vrai : iode 125.",
+   "Vrai : peroxydase, phosphatase alcaline.",
+   "Faux : sensibilités comparables ; l'ELISA domine en routine.",
+   "Vrai : avantage pratique majeur de l'ELISA."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic rapide au lit du malade, lesquelles sont exactes ?",
+  "options": [
+   "Les tests sur billes de latex sont utilisables.",
+   "L'agglutination passive donne un résultat rapide.",
+   "L'immunochromatographie est une technique rapide.",
+   "La RIA est adaptée à l'urgence.",
+   "Le WB est un test rapide."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : tests rapides d'agglutination.",
+   "Vrai : lecture en quelques minutes.",
+   "Vrai : tests de grossesse, TROD.",
+   "Faux : technique lourde de laboratoire.",
+   "Faux : technique longue de confirmation."
+  ]
+ },
+ {
+  "q": "Concernant la sérologie post-vaccinale anti-HBs, lesquelles sont exactes ?",
+  "options": [
+   "Elle est dosée par ELISA.",
+   "Un taux supérieur à 10 mUI/mL est seroprotecteur.",
+   "Elle est indiquée chez les sujets à risque.",
+   "Elle est inutile chez le sujet vacciné.",
+   "Elle distingue infection et vaccination par les anti-HBc."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : dosage quantitatif ELISA.",
+   "Vrai : seuil OMS de seroprotection.",
+   "Vrai : soignants, hémodialysés, immunodeprimes.",
+   "Faux : contrôle cible recommandé.",
+   "Vrai : anti-HBc positifs = infection passée."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic des infections parasitaires, lesquelles sont exactes ?",
+  "options": [
+   "L'ELISA est citée dans le cours pour ce diagnostic.",
+   "L'IFI est utilisée pour certains parasites.",
+   "La sérologie complète l'examen direct.",
+   "La culture est toujours possible.",
+   "Les Ac persistent parfois à vie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : application citée.",
+   "Vrai : ex : toxoplasmose, amibiase.",
+   "Vrai : diagnostic indirect.",
+   "Faux : culture souvent impossible.",
+   "Vrai : cicatrice sérologique."
+  ]
+ },
+ {
+  "q": "Concernant l'interprétation d'une sérologie positive, lesquelles sont exactes ?",
+  "options": [
+   "Elle traduit un contact avec l'agent pathogène.",
+   "Elle ne distingue pas toujours infection recente et ancienne.",
+   "Les IgM orientent vers une infection recente.",
+   "Elle prouve toujours une infection evolutive.",
+   "Une confirmation par une seconde technique est souvent requise."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : presence d'Ac spécifiques.",
+   "Vrai : cinetique et avidité nécessaires.",
+   "Vrai : marqueurs de primo-infection.",
+   "Faux : cicatrice sérologique possible.",
+   "Vrai : algorithmes de confirmation."
+  ]
+ },
+ {
+  "q": "Concernant le dépistage sérologique en transfusion sanguine, lesquelles sont exactes ?",
+  "options": [
+   "Le VIH est depiste par ELISA.",
+   "Les hépatites B et C sont dépistées.",
+   "La syphilis est dépistée.",
+   "Le dépistage rend le risque résiduel nul.",
+   "La biologie moléculaire complète la sérologie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : dépistage obligatoire.",
+   "Vrai : Ag HBs, Ac anti-VHC.",
+   "Vrai : sérologie syphilitique.",
+   "Faux : fenetre sérologique = risque résiduel.",
+   "Vrai : DGV (dépistage génomique viral)."
+  ]
+ },
+ {
+  "q": "Concernant le dosage de la CRP, lesquelles sont exactes ?",
+  "options": [
+   "C'est une protéine de la phase aiguë de l'inflammation.",
+   "Elle peut être dosée par immuno-néphélémétrie.",
+   "Elle augmente en cas d'infection bacterienne.",
+   "C'est un anticorps.",
+   "Son dosage est quantitatif."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : pentraxine citée dans le cours.",
+   "Vrai : protéine de l'inflammation dosée par précipitation.",
+   "Vrai : marqueur inflammatoire.",
+   "Faux : c'est une protéine hépatique, pas un Ac.",
+   "Vrai : dosage quantitatif."
+  ]
+ },
+ {
+  "q": "Concernant le dosage du PSA, lesquelles sont exactes ?",
+  "options": [
+   "C'est un Ag spécifique de la prostate cité dans le cours.",
+   "Son dosage est un exemple d'application du dosage d'Ag tumoraux.",
+   "Il est dose par techniques immunologiques.",
+   "Il est spécifique du cancer de la prostate.",
+   "Son élévation impose toujours une biopsie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : PSA cité dans le cours (tumeur de la prostate).",
+   "Vrai : application médicale des Ag.",
+   "Vrai : immuno-dosage.",
+   "Faux : élevé aussi dans l'HBP et les prostatites.",
+   "Faux : interprétation clinique globale."
+  ]
+ },
+ {
+  "q": "Concernant la cinetique des anticorps en primo-infection, lesquelles sont exactes ?",
+  "options": [
+   "Les IgM apparaissent en premier.",
+   "Les IgG apparaissent plus tardivement.",
+   "Les IgM sont de faible affinité.",
+   "Les IgG persistent plus longtemps.",
+   "Les IgM traversent le placenta."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réponse primaire à IgM.",
+   "Vrai : commutation vers IgG.",
+   "Vrai : primo-vaccination = faible affinité.",
+   "Vrai : mémoire humorale IgG.",
+   "Faux : seules les IgG traversent le placenta."
+  ]
+ },
+ {
+  "q": "Concernant la fenetre sérologique, lesquelles sont exactes ?",
+  "options": [
+   "C'est le délai entre l'infection et l'apparition des Ac detectables.",
+   "Pendant cette période, la sérologie peut être négative.",
+   "Elle explique le risque résiduel transfusionnel.",
+   "Elle n'existe pas avec l'ELISA.",
+   "La biologie moléculaire la raccourcit."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : définition.",
+   "Vrai : sérologie faussement négative.",
+   "Vrai : don en fenetre sérologique.",
+   "Faux : toute sérologie à une fenetre.",
+   "Vrai : detection directe du génome viral."
+  ]
+ },
+ {
+  "q": "Un patient présente une plaie souillée et n'est pas à jour de sa vaccination anti-tétanique. Lesquelles sont exactes ?",
+  "options": [
+   "Une sérothérapie anti-tétanique procure une protection immédiate.",
+   "La vaccination anti-tétanique doit être débutée ou mise à jour.",
+   "La sérothérapie seule assure une protection durable.",
+   "Les Ig et le vaccin doivent être injectés à des sites differents.",
+   "Aucune prophylaxie n'est nécessaire."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : Ig anti-tétaniques en post-exposition.",
+   "Vrai : sérovaccination combinée.",
+   "Faux : la protection passive est transitoire.",
+   "Vrai : eviter la neutralisation locale du vaccin.",
+   "Faux : le tétanos est mortel, la prophylaxie est obligatoire."
+  ]
+ },
+ {
+  "q": "Un nourrisson de 2 mois doit recevoir ses vaccins. Lesquelles sont exactes ?",
+  "options": [
+   "Les vaccins inactivées du calendrier peuvent être administrés.",
+   "Les vaccins conjugués sont efficaces des cet age.",
+   "Les vaccins vivants atténués sont utilisables selon le calendrier.",
+   "La réponse aux polysaccharides purs est faible à cet age.",
+   "Tous les vaccins sont contre-indiqués avant 6 mois."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : DTP, hépatite B des 2 mois.",
+   "Vrai : conjugués concus pour le nourrisson.",
+   "Vrai : BCG dès la naissance, ROR à 12 mois.",
+   "Vrai : immaturité de la réponse TI-2.",
+   "Faux : le calendrier débute dès la naissance."
+  ]
+ },
+ {
+  "q": "Un soignant se pique avec une aiguille souillée de sang Ag HBs positif. Lesquelles sont exactes ?",
+  "options": [
+   "Des Ig anti-HBs apportent une protection immédiate.",
+   "La vaccination anti-hépatite B doit être initiée ou poursuivie.",
+   "Le contrôle sérologique anti-HBs est indiqué.",
+   "Aucune mesure n'est nécessaire si le soignant est vacciné.",
+   "La sérovaccination est la conduite recommandée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : immunisation passive post-exposition.",
+   "Vrai : immunisation active.",
+   "Vrai : vérification de la seroprotection.",
+   "Faux : le statut vaccinal doit être vérifie.",
+   "Vrai : association Ig + vaccin."
+  ]
+ },
+ {
+  "q": "Devant une suspicion d'anémie hémolytique auto-immune, lesquelles sont exactes ?",
+  "options": [
+   "Le test de Coombs direct est l'examen cle.",
+   "Il detecte des Ac fixes sur les globules rouges.",
+   "L'anti-globuline provoque l'agglutination des GR sensibilisés.",
+   "Le Coombs indirect est l'examen de référence.",
+   "Un Coombs direct négatif exclut formellement le diagnostic."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : test direct à l'anti-globuline.",
+   "Vrai : Ac fixes in vivo.",
+   "Vrai : principe du test.",
+   "Faux : c'est le Coombs direct.",
+   "Faux : faux négatifs possibles (faible densité d'Ac)."
+  ]
+ },
+ {
+  "q": "Avant une transfusion, le laboratoire réalise groupage, RAI et épreuve de compatibilité. Lesquelles sont exactes ?",
+  "options": [
+   "Le groupage ABO repose sur une agglutination directe active.",
+   "La RAI utilise le Coombs indirect.",
+   "L'épreuve de compatibilité teste le sérum du receveur contre les GR du donneur.",
+   "Ces tests sont inutiles en cas de groupe ABO identique.",
+   "Le titre d'Ac est exprime en g/L."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : IgM + Ag érythrocytaires naturels.",
+   "Vrai : recherche d'agglutinines irrégulières.",
+   "Vrai : vérification pré-transfusionnelle.",
+   "Faux : les Ac irréguliers existent à groupe identique.",
+   "Faux : le titre est un inverse de dilution."
+  ]
+ },
+ {
+  "q": "Un dépistage VIH par ELISA est positif. Lesquelles sont exactes ?",
+  "options": [
+   "Une confirmation par Western blot est nécessaire.",
+   "Le WB identifie les Ac anti-VIH selon le cours.",
+   "Un ELISA positif isolé suffit au diagnostic.",
+   "Les reactions croisées peuvent donner des faux positifs.",
+   "Le suivi des LTCD4 se fait par CMF."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : algorithme de confirmation.",
+   "Vrai : application citée du WB.",
+   "Faux : confirmation obligatoire.",
+   "Vrai : les reactions croisées sont une cause classique de faux positif ELISA.",
+   "Vrai : immunophenotypage par CMF."
+  ]
+ },
+ {
+  "q": "Un patient greffe renal reçoit un traitement d'induction. Lesquelles sont exactes ?",
+  "options": [
+   "L'anti-CD25 bloque le recepteur de l'IL-2.",
+   "Il previent le rejet selon le cours.",
+   "Le typage HLA a servi à l'appariement donneur-receveur.",
+   "Le cross-match pré-greffe était négatif.",
+   "L'immunosuppression est sans risque infectieux."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : CD25 = IL-2R alpha.",
+   "Vrai : indication citée.",
+   "Vrai : appariement HLA.",
+   "Vrai : condition de la greffe.",
+   "Faux : risque infectieux majeur."
+  ]
+ },
+ {
+  "q": "Une électrophorèse des protéines montre un pic etroit en gamma. Lesquelles sont exactes ?",
+  "options": [
+   "L'immunofixation est l'examen de choix selon le cours.",
+   "Elle identifie la classe et le type de l'Ig monoclonale.",
+   "La néphélémétrie seule suffit au diagnostic.",
+   "L'immunoélectrophorèse est une alternative qualitative.",
+   "Un pic en gamma est toujours monoclonal."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : methode de choix (3h).",
+   "Vrai : typage de la gammapathie.",
+   "Faux : dosage ponderal non typant.",
+   "Vrai : technique qualitative.",
+   "Faux : hypergammaglobulinémie polyclonale possible."
+  ]
+ },
+ {
+  "q": "Un enfant présente une neutropénie fébrile post-chimiothérapie. Lesquelles sont exactes ?",
+  "options": [
+   "Le G-CSF est indiqué selon le cours.",
+   "Il stimule la production des PNN.",
+   "C'est une cytokine de l'hématopoïèse.",
+   "L'érythropoïétine est le traitement indique.",
+   "Il s'administre par voie orale."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : neutropénies post-chimiothérapie.",
+   "Vrai : facteur de croissance granulocytaire.",
+   "Vrai : classification du cours.",
+   "Faux : l'EPO traite les anémies.",
+   "Faux : voie injectable."
+  ]
+ },
+ {
+  "q": "Un patient atteint de polyarthrite rhumatoïde est candidat à une biothérapie. Lesquelles sont exactes ?",
+  "options": [
+   "Les antagonistes du TNF alpha sont cités dans le cours.",
+   "Un dépistage de la tuberculose latente est obligatoire.",
+   "Le rituximab (anti-CD20) est une alternative.",
+   "Les biothérapies sont dénuées de risque infectieux.",
+   "Le tocilizumab (anti-IL-6R) est une alternative."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : indication citée.",
+   "Vrai : risque de reactivation tuberculeuse.",
+   "Vrai : depletion B dans la PR.",
+   "Faux : immunosuppression = risque infectieux.",
+   "Vrai : anti-IL-6R dans la PR."
+  ]
+ },
+ {
+  "q": "Une femme enceinte Rh négatif accouche d'un enfant Rh positif. Lesquelles sont exactes ?",
+  "options": [
+   "Des Ig anti-D doivent être injectées à la mere.",
+   "C'est une immunisation passive.",
+   "La protection est de courte durée mais suffisante.",
+   "La mere développe une mémoire anti-D.",
+   "Sans prophylaxie, le risque concerne les grossesses suivantes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : prevention de l'allo-immunisation.",
+   "Vrai : Ig preformes.",
+   "Vrai : le temps de détruire les GR fœtaux.",
+   "Faux : aucun lymphocyte maternel n'est active.",
+   "Vrai : maladie hémolytique du nouveau-ne."
+  ]
+ },
+ {
+  "q": "Un asthmatique sévère allergique est mal contrôle. Lesquelles sont exactes ?",
+  "options": [
+   "L'omalizumab (anti-IgE) est une option.",
+   "Il bloque la fixation des IgE sur mastocytes et basophiles.",
+   "La désensibilisation est une immunothérapie spécifique alternative.",
+   "Les IgE sont impliquées dans l'HS type I.",
+   "L'omalizumab est un vaccin."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : anti-IgE dans l'asthme sévère.",
+   "Vrai : blocage de l'axe IgE-Fc epsilon R.",
+   "Vrai : immunothérapie allergenique.",
+   "Vrai : hypersensibilité immédiate.",
+   "Faux : c'est un Ac monoclonal thérapeutique."
+  ]
+ },
+ {
+  "q": "Un lymphome B est traite par rituximab. Lesquelles sont exactes ?",
+  "options": [
+   "Le rituximab cible le CD20.",
+   "C'est l'exemple d'Ac monoclonal thérapeutique du cours.",
+   "Il déplète les lymphocytes B.",
+   "Il cible les lymphocytes T.",
+   "Une lymphopénie B prolongée est attendue."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : anti-CD20.",
+   "Vrai : traitement des lymphomes cité.",
+   "Vrai : depletion B.",
+   "Faux : CD20 = marqueur B.",
+   "Vrai : effet pharmacologique."
+  ]
+ },
+ {
+  "q": "Un dosage d'IgG est demande pour explorer un déficit humoral. Lesquelles sont exactes ?",
+  "options": [
+   "La néphélémétrie est utilisable.",
+   "La technique de Mancini est utilisable.",
+   "Le résultat est quantitatif.",
+   "L'immunofixation est l'examen de première intention.",
+   "Un taux bas oriente vers un déficit de l'immunité humorale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : application citée.",
+   "Vrai : dosage des Ig cité.",
+   "Vrai : dosage ponderal.",
+   "Faux : l'immunofixation typent les gammapathies.",
+   "Vrai : indication du dosage."
+  ]
+ },
+ {
+  "q": "Une sérologie tréponémique (TPHA) est positive. Lesquelles sont exactes ?",
+  "options": [
+   "C'est une agglutination directe passive.",
+   "Elle est spécifique du tréponème pâle.",
+   "Elle reste positive à vie.",
+   "Elle permet le suivi thérapeutique.",
+   "Le VDRL complète le bilan."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : Ag sur hématies.",
+   "Vrai : test tréponémique.",
+   "Vrai : cicatrice sérologique.",
+   "Faux : le suivi repose sur le VDRL (non tréponémique).",
+   "Vrai : association des deux tests."
+  ]
+ },
+ {
+  "q": "Un patient sous interféron se plaint d'un syndrome grippal. Lesquelles sont exactes ?",
+  "options": [
+   "C'est un effet indesirable classique des interférons.",
+   "Fièvre et myalgies sont frequentes en début de traitement.",
+   "L'interféron est cité dans le cours (hépatites, SEP, lymphomes).",
+   "Cet effet impose toujours l'arret du traitement.",
+   "Le paracétamol peut attenuer les symptômes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : syndrome pseudo-grippal.",
+   "Vrai : tolérance partielle avec le temps.",
+   "Vrai : indications citées.",
+   "Faux : effet gérable, pas d'arret systématique.",
+   "Vrai : traitement symptomatique."
+  ]
+ },
+ {
+  "q": "Devant une suspicion de gammapathie, le biologiste hésite entre immunofixation et immunoélectrophorèse. Lesquelles sont exactes ?",
+  "options": [
+   "L'immunofixation est plus rapide (3h).",
+   "L'immunofixation est plus sensible.",
+   "L'immunofixation est la methode de choix selon le cours.",
+   "Les deux débutent par une électrophorèse.",
+   "L'immunoélectrophorèse suffit toujours."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 3h vs technique longue.",
+   "Vrai : sensibilité supérieure.",
+   "Vrai : methode de choix.",
+   "Vrai : séparation initiale commune.",
+   "Faux : l'immunofixation est préférée."
+  ]
+ },
+ {
+  "q": "Un receveur de greffe présente un cross-match positif. Lesquelles sont exactes ?",
+  "options": [
+   "Des Ac anti-HLA preformes sont detectes.",
+   "Le risque de rejet hyperaigu est majeur.",
+   "La greffe est contre-indiquée.",
+   "Le typage HLA est inutile.",
+   "Un nouveau donneur doit être recherche."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : principe du cross-match.",
+   "Vrai : rejet hyperaigu en minutes-heures.",
+   "Vrai : contre-indication.",
+   "Faux : le typage reste indispensable.",
+   "Vrai : recherche d'un donneur compatible."
+  ]
+ },
+ {
+  "q": "Un patient allergique aux hyménoptères est adressé pour désensibilisation. Lesquelles sont exactes ?",
+  "options": [
+   "C'est une immunothérapie spécifique d'allergene.",
+   "Des doses croissantes d'allergene sont administrées.",
+   "Des IgG4 bloquantes sont induites.",
+   "Le traitement dure plusieurs années.",
+   "Une seule injection suffit."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ITA (immunothérapie allergenique).",
+   "Vrai : protocole progressif.",
+   "Vrai : IgG4 competitrices des IgE.",
+   "Vrai : 3 à 5 ans.",
+   "Faux : traitement prolonge."
+  ]
+ },
+ {
+  "q": "Un laboratoire doit doser une protéine à l'état de traces. Lesquelles sont exactes ?",
+  "options": [
+   "L'ELISA est adapté selon le cours.",
+   "La RIA est très sensible.",
+   "La néphélémétrie est la plus sensible.",
+   "La chimioluminescence augmente la sensibilité.",
+   "Le WB est la technique de choix."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : dosage des protéines à l'état de traces (IgE).",
+   "Vrai : techniques très sensibles.",
+   "Faux : peu sensible selon le cours.",
+   "Vrai : intérêt cité dans le cours.",
+   "Faux : le WB est qualitatif de confirmation."
+  ]
+ }
+]

@@ -1,0 +1,4505 @@
+[
+  {
+    "q": "Concernant la définition du syndrome de larva migrans, quelles propositions sont exactes ?",
+    "options": [
+      "L'homme en est l'hôte définitif habituel",
+      "Il est dû à la migration de larves de cestodes adultes",
+      "Les larves survivent dans l'organisme en impasse parasitaire",
+      "Il existe deux types : viscéral et cutané",
+      "C'est un ensemble de symptômes provoqués par la migration de larves de nématodes"
+    ],
+    "correct": [
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : l'homme est un hôte accidentel en impasse, pas l'hôte définitif.",
+      "Faux : ce sont des larves de nématodes, pas des cestodes.",
+      "Ces larves survivent dans l'organisme en impasse parasitaire, sans devenir adultes.",
+      "On distingue le syndrome de larva migrans viscéral et le cutané.",
+      "Le syndrome de larva migrans regroupe les symptômes liés à la migration de larves de nématodes."
+    ]
+  },
+  {
+    "q": "À propos de la notion d'impasse parasitaire, lesquelles de ces affirmations sont vraies ?",
+    "options": [
+      "L'homme est un hôte accidentel pour ces larves",
+      "Les larves restent bloquées sans atteindre le stade adulte",
+      "L'impasse parasitaire permet au parasite de se reproduire normalement",
+      "Le diagnostic direct est facilité par cette impasse",
+      "Le parasite ne peut pas accomplir son cycle complet chez cet hôte"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "L'homme est un hôte accidentel, non adapté à ces parasites.",
+      "Les larves restent bloquées et n'atteignent jamais le stade adulte.",
+      "Faux : aucune reproduction n'est possible en impasse parasitaire.",
+      "Faux : l'impasse rend le diagnostic direct impossible (pas d'extériorisation).",
+      "En impasse parasitaire, le parasite ne peut accomplir son cycle complet."
+    ]
+  },
+  {
+    "q": "Quelles propositions caractérisent le syndrome de larva migrans viscéral ?",
+    "options": [
+      "La toxocarose en est l'exemple type",
+      "Il est dû à des larves d'ankylostomes animaux",
+      "L'anisakiose s'y rattache également",
+      "Il est lié à la présence tissulaire de larves en impasse parasitaire",
+      "Il se manifeste toujours par des lésions cutanées serpigineuses"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "La toxocarose est le prototype du larva migrans viscéral.",
+      "Faux : les ankylostomes animaux causent la forme cutanée.",
+      "L'anisakiose, par fixation de larves sur la muqueuse digestive, s'y rattache.",
+      "La forme viscérale est liée à la présence tissulaire de larves en impasse.",
+      "Faux : les lésions serpigineuses caractérisent la forme cutanée."
+    ]
+  },
+  {
+    "q": "Concernant le syndrome de larva migrans cutané, quelles affirmations sont exactes ?",
+    "options": [
+      "C'est une affection dermatologique",
+      "Les larves deviennent adultes dans la peau humaine",
+      "Elle est due à la pénétration sous-cutanée de larves égarées d'ankylostomes animaux",
+      "Les larves migrent sous la peau pendant plusieurs semaines voire des mois",
+      "Elle est due à des œufs de Toxocara ingérés"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "Le larva migrans cutané est une affection dermatologique.",
+      "Faux : non adaptées à l'homme, elles meurent sans compléter leur cycle.",
+      "Il est dû à la pénétration sous-cutanée de larves égarées d'ankylostomes animaux.",
+      "Les larves migrent sous la peau pendant des semaines voire des mois.",
+      "Faux : les œufs de Toxocara ingérés causent la forme viscérale."
+    ]
+  },
+  {
+    "q": "Parmi les propositions suivantes sur les agents du larva migrans, lesquelles sont exactes ?",
+    "options": [
+      "Les larves d'Anisakidae causent l'anisakiose",
+      "Tous ces agents sont des trématodes",
+      "Toxocara cati peut aussi être en cause dans la toxocarose",
+      "Ankylostoma braziliense cause le larva migrans cutané",
+      "Toxocara canis est l'agent principal de la toxocarose"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Les larves de nématodes de la famille des Anisakidae causent l'anisakiose.",
+      "Faux : ce sont tous des nématodes, pas des trématodes.",
+      "Toxocara cati, parasite du chat, est également en cause.",
+      "Ankylostoma braziliense est un ankylostome du chien responsable du LM cutané.",
+      "Toxocara canis, parasite du chien, est l'agent principal (+++)."
+    ]
+  },
+  {
+    "q": "La toxocarose est une zoonose cosmopolite : quelles propositions sont vraies ?",
+    "options": [
+      "Elle ne s'observe que dans les pays tropicaux",
+      "Elle se transmet directement d'homme à homme",
+      "Les ascaridés en cause parasitent le chien ou le chat",
+      "Elle est présente dans le monde entier",
+      "Elle est liée à la présence tissulaire de larves en impasse parasitaire d'ascaridés"
+    ],
+    "correct": [
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : elle existe aussi dans les pays occidentaux (prévalence 2-5 % chez l'adulte).",
+      "Faux : la contamination passe par les œufs d'origine animale, pas d'homme à homme.",
+      "Ces ascaridés (Toxocara) parasitent le chien ou le chat.",
+      "C'est une zoonose cosmopolite, présente dans le monde entier.",
+      "La toxocarose est liée à la présence tissulaire de larves d'ascaridés en impasse."
+    ]
+  },
+  {
+    "q": "Concernant Toxocara canis, quelles affirmations sont exactes ?",
+    "options": [
+      "Il appartient à la famille des Ascarididae",
+      "C'est l'agent principal (++) de la toxocarose humaine",
+      "C'est un cestode du chat",
+      "C'est un nématode parasite du chien",
+      "Il est proche de l'ascaris humain"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "C'est un ascaridé, comme l'ascaris humain.",
+      "Il est l'agent principal de la toxocarose (noté +++).",
+      "Faux : c'est un nématode du chien, pas un cestode du chat.",
+      "Toxocara canis est un nématode parasite du chien.",
+      "Il est proche morphologiquement d'Ascaris lumbricoides."
+    ]
+  },
+  {
+    "q": "À propos de Toxocara cati, lesquelles de ces propositions sont vraies ?",
+    "options": [
+      "Il peut provoquer une toxocarose chez l'homme",
+      "Il se transmet par piqûre de moustique",
+      "Il est moins souvent en cause que Toxocara canis",
+      "Il appartient à la famille des Ascarididae",
+      "C'est un nématode parasite du chat"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Il peut, comme T. canis, provoquer une toxocarose humaine.",
+      "Faux : la contamination est orale, par ingestion d'œufs, sans vecteur.",
+      "Toxocara canis reste l'agent principal (+++).",
+      "Les deux espèces appartiennent à la famille des Ascarididae.",
+      "Toxocara cati est le nématode ascaridé parasite du chat."
+    ]
+  },
+  {
+    "q": "Quelles propositions décrivent correctement le ver adulte de Toxocara ?",
+    "options": [
+      "C'est un ver rond de couleur blanchâtre",
+      "Il mesure moins d'un centimètre",
+      "Il a un aspect de « spaghettis »",
+      "Il mesure 10 à 20 cm de long",
+      "C'est un ver plat segmenté"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "C'est un ver rond (nématode) de couleur blanchâtre.",
+      "Faux : 10 à 20 cm, donc bien plus d'un centimètre.",
+      "Son aspect évoque des « spaghettis », comme l'ascaris.",
+      "Le ver adulte de Toxocara mesure 10 à 20 cm.",
+      "Faux : c'est un nématode (ver rond), pas un ver plat segmenté."
+    ]
+  },
+  {
+    "q": "Concernant l'œuf de Toxocara, quelles affirmations sont exactes ?",
+    "options": [
+      "Sa paroi est mamelonnée",
+      "Il est sub-sphérique",
+      "Son centre est d'aspect rugueux et très pigmenté, de couleur marron",
+      "Il est non embryonné au moment de l'émission",
+      "Il est embryonné et infestant dès l'émission dans les selles du chien"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Sa paroi est mamelonnée, comme celle de l'ascaris.",
+      "L'œuf de Toxocara est sub-sphérique.",
+      "Son centre rugueux très pigmenté est de couleur marron.",
+      "Il est émis non embryonné dans les déjections de l'animal.",
+      "Faux : l'œuf doit embryonner dans le sol pour devenir infestant."
+    ]
+  },
+  {
+    "q": "Parmi les propositions suivantes sur l'œuf de Toxocara, lesquelles sont exactes ?",
+    "options": [
+      "L'œuf est directement infestant dès son émission",
+      "L'embryonnement se fait dans le milieu extérieur, sur le sol",
+      "La contamination humaine se fait par ingestion d'œufs présents sur les légumes",
+      "Seul l'œuf embryonné est infestant pour l'homme",
+      "Les œufs sont très résistants dans l'environnement"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : l'œuf n'est pas infestant à l'émission, il doit d'abord embryonner.",
+      "L'œuf, émis non embryonné, embryonne dans le sol.",
+      "L'homme s'infecte en ingérant des œufs souillant les légumes (salades).",
+      "Seul l'œuf embryonné, contenant la larve, est infestant.",
+      "Les œufs de Toxocara survivent des mois voire des années dans le sol."
+    ]
+  },
+  {
+    "q": "Quelles propositions concernent le mode de contamination de la toxocarose ?",
+    "options": [
+      "Piqûre d'insecte hématophage",
+      "Géophagie chez l'enfant",
+      "Consommation de légumes (salades) ayant poussé sur un sol contaminé",
+      "Ingestion d'aliments souillés par des œufs",
+      "Sol contaminé par les déjections des animaux"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : il n'y a pas de vecteur insecte dans la toxocarose.",
+      "La géophagie (ingestion de terre) expose particulièrement l'enfant.",
+      "Les légumes et salades poussant sur sol contaminé sont en cause.",
+      "La contamination se fait par ingestion d'aliments souillés par des œufs.",
+      "Le sol est contaminé par les déjections des chiens et chats."
+    ]
+  },
+  {
+    "q": "À propos des circonstances de contamination chez l'enfant, lesquelles sont vraies ?",
+    "options": [
+      "La géophagie est un facteur de risque",
+      "Les enfants sont épargnés, seuls les adultes sont atteints",
+      "La tranche d'âge la plus touchée est 2 à 7 ans",
+      "Mains portées à la bouche après contact avec un sol contaminé",
+      "Jeux dans les bacs à sable souillés"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "La géophagie expose directement aux œufs embryonnés du sol.",
+      "Faux : c'est au contraire l'enfant qui est le plus souvent atteint.",
+      "La toxocarose est le plus souvent infantile, entre 2 et 7 ans.",
+      "Les mains sales portées à la bouche contaminent l'enfant.",
+      "Les bacs à sable souillés par les déjections animales sont une source classique."
+    ]
+  },
+  {
+    "q": "Concernant la répartition géographique de la toxocarose, quelles affirmations sont exactes ?",
+    "options": [
+      "Le taux de prévalence est de 2 à 5 % chez les adultes des pays occidentaux",
+      "Elle est présente dans le monde entier",
+      "La prévalence est élevée dans certains pays tropicaux",
+      "Elle est strictement limitée à l'Afrique noire",
+      "Bali et la Réunion sont cités comme zones de forte prévalence"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "La séroprévalence atteint 2 à 5 % chez les adultes des pays occidentaux.",
+      "La toxocarose est cosmopolite, présente dans le monde entier.",
+      "Elle est plus élevée dans certains pays tropicaux.",
+      "Faux : c'est une zoonose cosmopolite, non limitée à l'Afrique.",
+      "Bali et la Réunion sont donnés comme exemples de forte prévalence."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies concernant l'épidémiologie de la toxocarose ?",
+    "options": [
+      "Les œufs persistent longtemps dans les sols contaminés",
+      "C'est une zoonose liée au chien et au chat",
+      "Les enfants de 2 à 7 ans sont les plus touchés",
+      "Le péril fécal canin entretient la contamination des sols",
+      "La maladie est plus fréquente en hiver dans les pays froids"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Les œufs très résistants persistent des mois dans le sol.",
+      "Le réservoir est le chien (T. canis) et le chat (T. cati).",
+      "L'enfant de 2 à 7 ans, géophage et jouant au sol, est le plus exposé.",
+      "Les déjections canines non ramassées entretiennent le péril fécal.",
+      "Faux : aucune saisonnalité hivernale n'est décrite ; c'est cosmopolite."
+    ]
+  },
+  {
+    "q": "Après ingestion d'œufs embryonnés de Toxocara, quelles propositions sont exactes ?",
+    "options": [
+      "Le foie et les poumons sont des organes de migration classiques",
+      "Des œufs sont retrouvés dans les selles du patient",
+      "Les larves traversent la paroi intestinale et migrent dans les tissus",
+      "Les larves deviennent des vers adultes dans l'intestin humain",
+      "Les larves éclosent dans l'intestin grêle"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explain": [
+      "Foie et poumons sont des étapes classiques de cette migration larvaire.",
+      "Faux : aucun œuf n'est émis, il n'y a pas d'extériorisation du parasite.",
+      "Les larves traversent la paroi et entreprennent une migration tissulaire.",
+      "Faux : en impasse, les larves ne deviennent jamais adultes chez l'homme.",
+      "Les œufs embryonnés éclosent dans l'intestin grêle, libérant les larves."
+    ]
+  },
+  {
+    "q": "Concernant le devenir des larves de Toxocara chez l'homme, lesquelles sont vraies ?",
+    "options": [
+      "Elles peuvent survivre des mois dans l'organisme",
+      "Elles s'entourent de granulomes à éosinophiles",
+      "Elles restent en impasse parasitaire dans les tissus",
+      "Elles sont éliminées dans les selles sous forme de vers",
+      "Elles se transforment en vers adultes pondant des œufs"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Elles peuvent y survivre des mois, entretenant les symptômes.",
+      "L'hôte les entoure de granulomes riches en éosinophiles.",
+      "Les larves restent en impasse dans les tissus humains.",
+      "Faux : il n'y a aucune extériorisation du parasite.",
+      "Faux : aucune maturation en ver adulte n'est possible chez l'homme."
+    ]
+  },
+  {
+    "q": "Quelles propositions décrivent la toxocarose commune ?",
+    "options": [
+      "C'est la forme clinique la plus fréquente",
+      "On observe une fièvre modérée",
+      "Elle s'accompagne toujours d'une cécité brutale",
+      "Des manifestations allergiques sont possibles",
+      "Elle associe une asthénie chronique"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "La toxocarose commune est la forme habituelle, souvent peu bruyante.",
+      "Une fièvre modérée est classiquement décrite.",
+      "Faux : la cécité relève de la forme oculaire, rare.",
+      "Des manifestations allergiques (prurit, urticaire) sont fréquentes.",
+      "L'asthénie chronique en est un signe d'appel."
+    ]
+  },
+  {
+    "q": "À propos de l'éosinophilie dans la toxocarose, quelles affirmations sont exactes ?",
+    "options": [
+      "Elle s'accompagne d'une augmentation des IgE",
+      "Dans la forme commune, l'éosinophilie est modérée mais chronique",
+      "L'éosinophilie est toujours absente",
+      "L'hyperéosinophilie est un élément d'orientation diagnostique",
+      "Une éosinophilie normale élimine formellement la toxocarose viscérale"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "L'augmentation des IgE totales accompagne classiquement l'éosinophilie.",
+      "Dans la forme commune, elle est modérée mais chronique.",
+      "Faux : l'éosinophilie est au contraire un marqueur d'orientation.",
+      "L'hyperéosinophilie oriente vers le diagnostic de toxocarose.",
+      "Faux : l'éosinophilie peut fluctuer ; le diagnostic repose sur la sérologie."
+    ]
+  },
+  {
+    "q": "L'infestation par Toxocara est souvent asymptomatique : quelles propositions sont vraies ?",
+    "options": [
+      "Une infestation légère peut passer totalement inaperçue",
+      "Une sérologie positive peut exister sans aucun symptôme",
+      "Le degré d'infestation conditionne l'expression clinique",
+      "L'asymptomatique est exceptionnel",
+      "Toute infestation se traduit par des signes neurologiques graves"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Les infestations légères sont le plus souvent asymptomatiques.",
+      "On peut découvrir une sérologie positive chez un sujet sain.",
+      "La clinique dépend du degré d'infestation (nombre de larves).",
+      "Faux : l'infestation asymptomatique est au contraire fréquente.",
+      "Faux : les formes neurologiques sont rares."
+    ]
+  },
+  {
+    "q": "Concernant la toxocarose oculaire, quelles propositions sont exactes ?",
+    "options": [
+      "C'est une forme rare de la toxocarose",
+      "Une tumeur parasitaire (granulome) peut se développer dans l'œil",
+      "Elle atteint toujours les deux yeux simultanément",
+      "Elle est due à la présence d'une larve dans l'œil",
+      "Elle peut entraîner la perte de la vision de l'œil atteint"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "La toxocarose oculaire est une forme rare.",
+      "Un granulome (tumeur parasitaire) peut se former, mimant un rétinoblastome.",
+      "Faux : l'atteinte est habituellement unilatérale.",
+      "Elle est due à la migration d'une larve dans les structures oculaires.",
+      "Elle peut aboutir à la perte de la vision de l'œil atteint."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies à propos de la toxocarose oculaire ?",
+    "options": [
+      "Une leucocorie peut révéler l'atteinte",
+      "Elle se traite par corticothérapie pendant un mois",
+      "Elle est la forme la plus fréquente de la toxocarose",
+      "Des cas graves ont conduit à l'énucléation de l'œil",
+      "Elle peut mimer un rétinoblastome chez l'enfant"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "La leucocorie (reflet blanc pupillaire) est un signe d'appel.",
+      "Le traitement de la forme oculaire repose sur les corticoïdes pendant un mois.",
+      "Faux : c'est une forme rare, la forme commune étant la plus fréquente.",
+      "Des yeux ont été énucléés devant une tumeur parasitaire suspecte.",
+      "Le granulome toxocarien peut mimer un rétinoblastome chez l'enfant."
+    ]
+  },
+  {
+    "q": "Concernant la toxocarose cérébrale, lesquelles de ces affirmations sont exactes ?",
+    "options": [
+      "Elle est due à la migration de larves dans le système nerveux",
+      "Elle peut se manifester par des incidents neurologiques",
+      "Elle est la manifestation la plus banale de l'infestation",
+      "Une myélite peut être observée",
+      "C'est une forme rare de la toxocarose"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Elle résulte de la migration aberrante de larves dans le système nerveux.",
+      "Des incidents neurologiques (convulsions, troubles) sont possibles.",
+      "Faux : c'est une forme rare, non la manifestation banale.",
+      "Une myélite (atteinte médullaire) est décrite.",
+      "La toxocarose cérébrale est une forme rare."
+    ]
+  },
+  {
+    "q": "Quelles atteintes viscérales peuvent s'observer dans la toxocarose ?",
+    "options": [
+      "Des signes pulmonaires (toux, infiltrats) lors du passage pulmonaire",
+      "Des adénopathies",
+      "Une occlusion intestinale par paquet de vers adultes",
+      "Une hépatomégalie liée à la migration larvaire hépatique",
+      "Des manifestations allergiques cutanées"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Le passage pulmonaire des larves donne toux et infiltrats (type Loeffler).",
+      "Des adénopathies réactionnelles sont possibles.",
+      "Faux : aucun ver adulte ne se développe dans l'intestin humain.",
+      "Le foie, étape de migration, peut être augmenté de volume.",
+      "Prurit et urticaire traduisent la réaction allergique aux larves."
+    ]
+  },
+  {
+    "q": "Le diagnostic d'orientation de la toxocarose repose sur :",
+    "options": [
+      "La visualisation de vers adultes dans l'intestin",
+      "La mise en évidence d'œufs dans les selles",
+      "Un contexte d'exposition (chien, enfant géophage)",
+      "Une hyperéosinophilie sanguine",
+      "Une augmentation des IgE totales"
+    ],
+    "correct": [
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : aucun ver adulte ne se développe chez l'homme.",
+      "Faux : aucun œuf n'est émis dans les selles, l'homme est en impasse.",
+      "Le contexte (chien non vermifugé, enfant jouant au sol) oriente.",
+      "L'hyperéosinophilie est le principal élément d'orientation.",
+      "L'augmentation des IgE totales l'accompagne classiquement."
+    ]
+  },
+  {
+    "q": "Pourquoi le diagnostic parasitologique direct est-il impossible dans la toxocarose ?",
+    "options": [
+      "Aucun ver adulte n'est présent dans l'intestin",
+      "Il n'y a pas d'extériorisation du parasite",
+      "Les larves restent bloquées dans les tissus",
+      "Aucun œuf n'est retrouvé dans les selles",
+      "Les œufs sont trop petits pour être vus au microscope"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Aucun ver adulte ne colonise l'intestin humain.",
+      "En impasse parasitaire, il n'y a pas d'extériorisation du parasite.",
+      "Les larves restent enkystées dans les tissus, inaccessibles.",
+      "La coprologie est donc toujours négative.",
+      "Faux : c'est l'absence d'émission, pas la taille, qui rend le direct impossible."
+    ]
+  },
+  {
+    "q": "Concernant le diagnostic indirect de la toxocarose, quelles propositions sont exactes ?",
+    "options": [
+      "Il repose sur la coprologie",
+      "Le Western blot peut être utilisé",
+      "Les antigènes utilisés sont des produits d'excrétion-sécrétion larvaires",
+      "L'ELISA utilise l'antigène de Toxocara canis",
+      "Il repose sur la sérologie"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : la coprologie est inutile, aucun œuf n'étant émis.",
+      "Le Western blot est la technique de confirmation.",
+      "Les antigènes sont les produits d'excrétion-sécrétion des larves.",
+      "L'ELISA utilise l'antigène de Toxocara canis (antigènes TES larvaires).",
+      "Le diagnostic est indirect, sérologique."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies concernant la sérologie de la toxocarose ?",
+    "options": [
+      "Un titre élevé avec éosinophilie oriente vers une infestation active",
+      "Elle détecte les anticorps anti-Toxocara",
+      "Elle permet le diagnostic là où le direct est impossible",
+      "Une sérologie positive isolée impose toujours un traitement anthelminthique",
+      "Des réactions croisées avec d'autres nématodes sont possibles"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Titre élevé + hyperéosinophilie évoquent une infestation active.",
+      "La sérologie détecte les anticorps dirigés contre les larves.",
+      "Elle est l'outil diagnostique puisque le direct est impossible.",
+      "Faux : une sérologie positive asymptomatique ne se traite pas systématiquement.",
+      "Des réactions croisées (ascaris, ankylostomes) peuvent fausser l'interprétation."
+    ]
+  },
+  {
+    "q": "Concernant le traitement de la toxocarose oculaire, quelles affirmations sont exactes ?",
+    "options": [
+      "Il repose sur la corticothérapie",
+      "La durée du traitement est d'environ un mois",
+      "L'anthelminthique seul suffit toujours",
+      "Aucun traitement n'est jamais indiqué",
+      "Le but est de limiter l'inflammation autour de la larve"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "La toxocarose oculaire se traite par corticoïdes.",
+      "La corticothérapie est prescrite pendant un mois.",
+      "Faux : l'anthelminthique seul n'est pas le traitement de la forme oculaire.",
+      "Faux : la forme oculaire, grave, doit être traitée.",
+      "Elle vise à contrôler l'inflammation granulomateuse menaçant la vision."
+    ]
+  },
+  {
+    "q": "Quand le traitement anthelminthique est-il indiqué dans la toxocarose ?",
+    "options": [
+      "Dans les formes graves",
+      "Dans toutes les sérologies positives asymptomatiques",
+      "Il n'est pas systématique dans les formes communes bénignes",
+      "Jamais, les anthelminthiques sont inefficaces",
+      "Dans les formes non améliorées"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explain": [
+      "Le traitement anthelminthique est réservé aux formes graves.",
+      "Faux : une sérologie positive asymptomatique ne se traite pas.",
+      "Les formes communes bénignes ne le justifient pas systématiquement.",
+      "Faux : albendazole et ivermectine sont actifs sur les larves.",
+      "Il est indiqué dans les formes non améliorées."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont exactes sur l'albendazole dans la toxocarose ?",
+    "options": [
+      "Il est inefficace sur les larves tissulaires",
+      "La posologie est de 10 à 15 mg/kg/j",
+      "C'est un anthelminthique indiqué dans les formes graves",
+      "La durée du traitement est de 15 jours",
+      "Une dose unique suffit toujours"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Faux : l'albendazole diffuse dans les tissus et agit sur les larves.",
+      "La posologie recommandée est de 10 à 15 mg/kg/j.",
+      "Il est réservé aux formes graves ou non améliorées.",
+      "Le traitement est prescrit pendant 15 jours.",
+      "Faux : c'est une cure de 15 jours, pas une dose unique."
+    ]
+  },
+  {
+    "q": "À propos de l'ivermectine dans la toxocarose, lesquelles sont vraies ?",
+    "options": [
+      "Elle est réservée aux formes graves ou non améliorées",
+      "Elle est une alternative à l'albendazole",
+      "Elle agit sur les larves de nématodes",
+      "Elle se donne en cure prolongée de 6 mois",
+      "Elle est le traitement de première intention de la forme oculaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Comme l'albendazole, elle est réservée aux formes graves.",
+      "L'ivermectine est citée comme alternative à l'albendazole.",
+      "C'est un anthelminthique actif sur les larves de nématodes.",
+      "Faux : aucune cure de 6 mois n'est recommandée.",
+      "Faux : la forme oculaire relève de la corticothérapie."
+    ]
+  },
+  {
+    "q": "Concernant la prévention individuelle de la toxocarose, quelles propositions sont exactes ?",
+    "options": [
+      "Surveillance des bacs à sable des enfants",
+      "Éviter la géophagie chez l'enfant",
+      "Lavage soigneux des légumes et crudités",
+      "Lavage systématique des mains avant les repas",
+      "Consommation de viande de bœuf crue"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Les bacs à sable, souillés par les animaux, doivent être protégés.",
+      "La géophagie doit être évitée et corrigée chez l'enfant.",
+      "Les légumes et salades doivent être soigneusement lavés.",
+      "Le lavage systématique des mains avant le repas est essentiel.",
+      "Faux : la viande de bœuf crue n'est pas en cause dans la toxocarose."
+    ]
+  },
+  {
+    "q": "Quelles mesures de prévention collective s'appliquent à la toxocarose ?",
+    "options": [
+      "Ramassage des déjections canines",
+      "Éloignement des chiens des parcs publics",
+      "Traitement anthelminthique régulier des chiens",
+      "Éloignement des chiens des aires de jeux des enfants",
+      "Interdiction totale de posséder un chien"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Le ramassage des déjections limite le péril fécal.",
+      "Les chiens doivent être éloignés des parcs publics.",
+      "Le déparasitage régulier des chiens réduit la contamination des sols.",
+      "Et des aires de jeux des enfants, très exposés.",
+      "Faux : il s'agit d'hygiène, pas d'interdire la possession d'un chien."
+    ]
+  },
+  {
+    "q": "Concernant la définition de l'anisakiose, quelles propositions sont exactes ?",
+    "options": [
+      "C'est une helminthiase liée à des larves de nématodes de la famille des Anisakidae",
+      "Les larves se fixent sur la muqueuse gastrique ou intestinale",
+      "C'est une mycose digestive",
+      "Elle est due à des œufs de Toxocara",
+      "C'est une parasitose due à des larves en impasse chez l'homme"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "L'anisakiose est due à des larves de nématodes de la famille des Anisakidae.",
+      "Ces larves se fixent sur la muqueuse gastrique ou intestinale.",
+      "Faux : c'est une helminthiase, pas une mycose.",
+      "Faux : les œufs de Toxocara causent la toxocarose, pas l'anisakiose.",
+      "L'homme est un hôte accidentel en impasse pour ces larves."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur l'épidémiologie de l'anisakiose ?",
+    "options": [
+      "Elle est fréquente dans les régions désertiques sans accès à la mer",
+      "D'autres animaux marins peuvent être en cause",
+      "Elle est sporadique en Europe",
+      "Elle est liée à la consommation de harengs",
+      "Elle est fréquente au Japon"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : c'est une parasitose liée aux produits de la mer.",
+      "D'autres animaux marins (poissons, céphalopodes) peuvent transmettre les larves.",
+      "En Europe, elle reste sporadique.",
+      "Le hareng est classiquement en cause.",
+      "L'anisakiose est fréquente au Japon (consommation de poisson cru)."
+    ]
+  },
+  {
+    "q": "À propos des poissons en cause dans l'anisakiose, lesquelles sont exactes ?",
+    "options": [
+      "Les poissons consommés crus ou peu cuits sont à risque",
+      "Seuls les poissons d'eau douce sont en cause",
+      "Le poisson bien cuit transmet les larves vivantes",
+      "Les sushis et sashimis peuvent transmettre les larves",
+      "Le hareng est le poisson classiquement cité"
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ],
+    "explain": [
+      "Le risque vient de la consommation de poisson cru ou insuffisamment cuit.",
+      "Faux : ce sont des poissons marins qui hébergent les larves d'Anisakidae.",
+      "Faux : la cuisson détruit les larves.",
+      "Sushis et sashimis sont des modes de contamination reconnus.",
+      "Le hareng est le poisson classiquement en cause."
+    ]
+  },
+  {
+    "q": "Quelles espèces de la famille des Anisakidae sont en cause chez l'homme ?",
+    "options": [
+      "Pseudoterranova decipiens",
+      "Toxocara canis",
+      "Contracaecum",
+      "Ascaris lumbricoides",
+      "Anisakis simplex"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explain": [
+      "Pseudoterranova decipiens peut aussi infester l'homme.",
+      "Faux : Toxocara canis cause la toxocarose.",
+      "Contracaecum est un autre genre d'Anisakidae pathogène.",
+      "Faux : Ascaris lumbricoides est l'ascaris humain, sans rapport.",
+      "Anisakis simplex est l'espèce la plus fréquente en cause."
+    ]
+  },
+  {
+    "q": "Concernant la forme gastrique de l'anisakiose, quelles affirmations sont exactes ?",
+    "options": [
+      "L'évolution est aiguë",
+      "Le délai est de quelques heures après l'ingestion",
+      "Des douleurs épigastriques brutales surviennent après un repas de poisson cru",
+      "Elle évolue toujours vers une occlusion intestinale",
+      "Elle évoque un syndrome pseudo-ulcéreux"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "La forme gastrique a une évolution aiguë.",
+      "Le délai est de quelques heures après l'ingestion des larves.",
+      "La douleur brutale suit de peu un repas de poisson cru.",
+      "Faux : l'occlusion relève de la forme intestinale, pas gastrique.",
+      "Elle mime un syndrome ulcéreux (douleur épigastrique, vomissements)."
+    ]
+  },
+  {
+    "q": "Quelles propositions décrivent la forme intestinale de l'anisakiose ?",
+    "options": [
+      "Elle est toujours asymptomatique",
+      "Elle peut donner un syndrome occlusif",
+      "Elle réalise un syndrome tumoral",
+      "Elle guérit spontanément en quelques heures sans séquelle",
+      "La larve provoque une réaction inflammatoire granulomateuse de la paroi"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Faux : elle est bruyante, pseudo-tumorale ou occlusive.",
+      "L'œdème inflammatoire peut aboutir à un tableau occlusif.",
+      "La forme intestinale mime une tumeur (syndrome tumoral).",
+      "Faux : elle peut nécessiter une prise en charge chirurgicale.",
+      "La larve enkystée provoque un granulome inflammatoire de la paroi."
+    ]
+  },
+  {
+    "q": "Le diagnostic biologique de l'anisakiose repose sur :",
+    "options": [
+      "L'étude histo-pathologique des biopsies",
+      "L'étude des pièces opératoires",
+      "Le sérodiagnostic, qui peut être utile",
+      "L'endoscopie visualisant les larves dans la muqueuse gastrique",
+      "La coprologie systématiquement positive"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "L'histologie des biopsies identifie la larve et le granulome.",
+      "Les pièces opératoires (formes intestinales) confirment le diagnostic.",
+      "Le sérodiagnostic peut aider, notamment dans les formes atypiques.",
+      "L'endoscopie montre les larves fichées dans la muqueuse gastrique.",
+      "Faux : il n'y a pas d'émission d'œufs, la coprologie est négative."
+    ]
+  },
+  {
+    "q": "Concernant le traitement de l'anisakiose, quelles propositions sont exactes ?",
+    "options": [
+      "Les formes occlusives peuvent nécessiter une chirurgie",
+      "Il repose sur l'extirpation chirurgicale des larves",
+      "L'albendazole seul suffit dans tous les cas",
+      "L'extraction endoscopique est possible dans la forme gastrique",
+      "Aucun traitement n'est jamais nécessaire"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Les tableaux occlusifs relèvent de la chirurgie.",
+      "Le traitement de référence est l'extirpation chirurgicale des larves.",
+      "Faux : l'anthelminthique seul n'est pas le traitement de référence.",
+      "En forme gastrique, l'extraction peut se faire par voie endoscopique.",
+      "Faux : les formes symptomatiques doivent être traitées."
+    ]
+  },
+  {
+    "q": "Quelles mesures de prophylaxie s'appliquent à l'anisakiose ?",
+    "options": [
+      "Le fumage à froid suffit à tuer les larves",
+      "Éviter la consommation de poisson cru",
+      "Congeler le poisson à -20 °C avant consommation crue",
+      "Bien cuire le poisson (plus de 60 °C à cœur)",
+      "La congélation de -20 °C pendant au moins 24 h tue les larves"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : le fumage à froid ne garantit pas la destruction des larves.",
+      "La prophylaxie repose sur l'éviction du poisson cru.",
+      "La congélation préalable est exigée pour le poisson destiné au cru.",
+      "Une cuisson à cœur au-delà de 60 °C détruit les larves.",
+      "La réglementation impose -20 °C pendant au moins 24 h."
+    ]
+  },
+  {
+    "q": "Quelles manifestations allergiques peuvent accompagner l'anisakiose ?",
+    "options": [
+      "Œdème de Quincke",
+      "Urticaire après ingestion de poisson parasité",
+      "Les larves d'Anisakis sont des allergènes reconnus",
+      "Aucune manifestation allergique n'est possible",
+      "Choc anaphylactique dans les cas graves"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Un œdème de Quincke peut survenir.",
+      "L'urticaire est une manifestation allergique possible.",
+      "Les protéines larvaires d'Anisakis sont des allergènes puissants.",
+      "Faux : les manifestations allergiques sont bien décrites.",
+      "Des chocs anaphylactiques ont été décrits."
+    ]
+  },
+  {
+    "q": "Concernant le syndrome de larva migrans cutané, quelles propositions définissent l'affection ?",
+    "options": [
+      "Elle est due à la pénétration sous-cutanée de larves égarées",
+      "Elle est due à des larves de Toxocara",
+      "C'est une affection dermatologique",
+      "Les larves en cause sont des ankylostomes animaux",
+      "C'est une affection pulmonaire"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "Il est dû à la pénétration sous-cutanée de larves égarées.",
+      "Faux : Toxocara donne la forme viscérale.",
+      "Le larva migrans cutané est une dermatose.",
+      "Ces larves sont des ankylostomes de carnivores domestiques.",
+      "Faux : l'atteinte est strictement cutanée."
+    ]
+  },
+  {
+    "q": "Quels ankylostomes animaux causent le larva migrans cutané ?",
+    "options": [
+      "Necator americanus, ankylostome strictement humain",
+      "Uncinaria stenocephala, ankylostome du chien",
+      "Ankylostoma caninum, ankylostome du chat (et du chien)",
+      "Ankylostoma braziliense, ankylostome du chien",
+      "Ankylostoma ceylanicum, ankylostome du chien"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : Necator americanus est l'ankylostome humain, à cycle complet.",
+      "Uncinaria stenocephala, autre ankylostome du chien, est possible.",
+      "Ankylostoma caninum, du chat (et du chien), peut être en cause.",
+      "Ankylostoma braziliense, du chien, est l'espèce la plus en cause.",
+      "Ankylostoma ceylanicum, du chien, est également cité."
+    ]
+  },
+  {
+    "q": "D'autres mammifères peuvent-ils être en cause dans le larva migrans cutané ?",
+    "options": [
+      "Le chien reste le réservoir principal",
+      "Oui, des ankylostomes d'autres mammifères sont possibles",
+      "Le chat est également un réservoir",
+      "Seuls les ankylostomes humains sont en cause",
+      "Les larves proviennent toujours de l'homme"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Le chien est le réservoir principal (A. braziliense, A. ceylanicum).",
+      "Des ankylostomes d'autres mammifères peuvent être en cause.",
+      "Le chat héberge A. caninum, aussi en cause.",
+      "Faux : les ankylostomes humains donnent un cycle complet, pas un LM cutané.",
+      "Faux : les larves proviennent des déjections animales."
+    ]
+  },
+  {
+    "q": "Concernant le cycle des ankylostomes animaux, quelles propositions sont exactes ?",
+    "options": [
+      "Les larves infestantes vivent dans l'eau de mer",
+      "Il est comparable à celui des ankylostomes humains",
+      "Les sols concernés sont humides et chauds",
+      "Les sols sont souillés par les déjections des chiens ou chats",
+      "Il aboutit à des larves infestantes dans le sol"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : les larves infestantes sont telluriques, pas marines.",
+      "Le cycle est comparable à celui des ankylostomes humains.",
+      "Ces larves exigent des sols humides et chauds.",
+      "Les déjections des chiens et chats souillent ces sols.",
+      "Il aboutit à la présence de larves infestantes (L3) dans le sol."
+    ]
+  },
+  {
+    "q": "Comment l'homme s'infecte-t-il dans le larva migrans cutané ?",
+    "options": [
+      "Par pénétration active transcutanée des larves",
+      "En s'allongeant sur le sol contaminé",
+      "Par ingestion d'œufs",
+      "En marchant pieds nus sur un sol contaminé",
+      "Par piqûre de moustique"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Les larves L3 pénètrent activement à travers la peau saine.",
+      "S'allonger à même le sol expose aussi (dos, fesses, cuisses).",
+      "Faux : l'ingestion d'œufs concerne la toxocarose, pas le LM cutané.",
+      "La marche pieds nus sur sol contaminé est le mode classique.",
+      "Faux : aucun vecteur n'intervient."
+    ]
+  },
+  {
+    "q": "Que deviennent les larves d'ankylostomes animaux chez l'homme ?",
+    "options": [
+      "Elles gagnent l'intestin et deviennent des vers adultes",
+      "N'étant pas adaptées à l'homme, elles meurent sans compléter leur cycle",
+      "Elles migrent sous la peau pendant plusieurs semaines voire des mois",
+      "L'évolution se fait vers la mort in situ de la larve",
+      "Elles pondent des œufs dans la peau"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Faux : elles ne gagnent jamais l'intestin chez l'homme.",
+      "Non adaptées à l'homme, les larves meurent sans boucler leur cycle.",
+      "La migration sous-cutanée dure des semaines voire des mois.",
+      "L'évolution naturelle est la mort in situ de la larve.",
+      "Faux : aucune ponte n'est possible en impasse."
+    ]
+  },
+  {
+    "q": "Concernant la répartition géographique du larva migrans cutané, quelles propositions sont exactes ?",
+    "options": [
+      "L'Amérique intertropicale est concernée",
+      "C'est une affection des régions chaudes et humides",
+      "Le sous-continent indien, l'Asie du Sud-Est et l'Australie sont concernés",
+      "L'Afrique noire et Madagascar sont concernées",
+      "Elle sévit surtout dans les pays nordiques froids"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "L'Amérique intertropicale est une zone d'endémie.",
+      "Le LM cutané est une affection des régions chaudes et humides.",
+      "Le sous-continent indien, l'Asie du Sud-Est et l'Australie aussi.",
+      "L'Afrique noire et Madagascar sont concernées.",
+      "Faux : le froid est incompatible avec la survie des larves dans le sol."
+    ]
+  },
+  {
+    "q": "Quelles circonstances exposent au larva migrans cutané en voyage ?",
+    "options": [
+      "Baignade en piscine chlorée",
+      "Marche pieds nus sur le sable",
+      "Séjour sur une plage tropicale",
+      "Séjour en station de ski",
+      "Animaux (chiens, chats) errants sur les plages"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Faux : l'eau chlorée des piscines n'est pas en cause.",
+      "Marcher pieds nus sur le sable expose à la pénétration larvaire.",
+      "Le séjour sur une plage tropicale est la circonstance typique.",
+      "Faux : le froid exclut cette parasitose.",
+      "Les chiens et chats errants souillent le sable de leurs déjections."
+    ]
+  },
+  {
+    "q": "Quelles sont les localisations habituelles du larva migrans cutané ?",
+    "options": [
+      "Le cuir chevelu en premier lieu",
+      "Les cuisses",
+      "Les pieds",
+      "Les fesses et le dos après station allongée",
+      "Les mains après jardinage en zone d'endémie"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : le cuir chevelu n'est pas une localisation habituelle.",
+      "Les cuisses sont également souvent atteintes.",
+      "Les pieds sont la localisation habituelle (marche pieds nus).",
+      "La station allongée expose fesses et dos.",
+      "Les mains peuvent être atteintes (jardinage, jeux dans le sable)."
+    ]
+  },
+  {
+    "q": "Concernant les lésions du larva migrans cutané, quelles propositions sont exactes ?",
+    "options": [
+      "La pénétration transcutanée peut donner des papules",
+      "Les lésions sont prurigineuses",
+      "Les lésions sont des nodules sous-cutanés indolores fixes",
+      "Ce trajet est décrit comme un « cordon rouge »",
+      "D'où part un trajet serpigineux"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Des papules marquent le point de pénétration.",
+      "Le prurit est intense, au premier plan.",
+      "Faux : ce sont des trajets migrateurs prurigineux, pas des nodules fixes.",
+      "Le « cordon rouge » est l'aspect typique du sillon.",
+      "Un trajet serpigineux part de ces papules."
+    ]
+  },
+  {
+    "q": "Quelle est la vitesse de progression du trajet du larva migrans cutané ?",
+    "options": [
+      "Le trajet est immobile",
+      "Le cordon avance d'environ 3 cm par jour",
+      "L'avance quotidienne permet de suivre la migration",
+      "Le trajet avance de plusieurs dizaines de centimètres par heure",
+      "La progression est lente, de quelques centimètres par jour"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Faux : le trajet est migrateur, c'est sa définition.",
+      "La vitesse classique est de 3 cm par jour.",
+      "On peut suivre jour après jour l'avance du cordon.",
+      "Faux : la progression est lente, pas fulgurante.",
+      "La progression est donc lente, en centimètres par jour."
+    ]
+  },
+  {
+    "q": "Quelle est l'évolution naturelle des lésions du larva migrans cutané ?",
+    "options": [
+      "Disparition des lésions au bout d'un mois environ",
+      "Persistance indéfinie des lésions sans traitement",
+      "Évolution bénigne et favorable",
+      "Évolution systématique vers une septicémie",
+      "Guérison par la mort in situ de la larve"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explain": [
+      "Les lésions prurigineuses disparaissent au bout d'un mois environ.",
+      "Faux : la larve meurt spontanément, les lésions régressent.",
+      "L'évolution naturelle est bénigne et favorable.",
+      "Faux : aucune dissémination septicémique n'est décrite.",
+      "La guérison correspond à la mort in situ de la larve."
+    ]
+  },
+  {
+    "q": "Quelle réaction de l'organisme accompagne le larva migrans cutané ?",
+    "options": [
+      "Une réaction allergique de l'organisme parasité",
+      "Aucune réaction immunitaire ne se produit",
+      "Elle est en rapport avec les sécrétions antigéniques des larves",
+      "Le prurit intense en est la traduction clinique",
+      "Les sécrétions toxiques des larves y participent"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Une réaction allergique de l'hôte accompagne la migration.",
+      "Faux : la réaction allergique est au contraire caractéristique.",
+      "Elle est liée aux sécrétions antigéniques des larves.",
+      "Le prurit intense traduit cette hypersensibilité.",
+      "Les sécrétions toxiques larvaires y contribuent aussi."
+    ]
+  },
+  {
+    "q": "Le diagnostic du larva migrans cutané est :",
+    "options": [
+      "Évoqué devant un trajet serpigineux prurigineux",
+      "Conforté par la notion de séjour sur une plage tropicale",
+      "Surtout clinique",
+      "Confirmé par la mise en évidence systématique de la larve",
+      "Posé par la coprologie positive"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Le cordon rouge serpigineux prurigineux est quasi pathognomonique.",
+      "Le séjour récent sur une plage tropicale conforte le diagnostic.",
+      "Le diagnostic est surtout clinique.",
+      "Faux : la recherche de la larve est inutile.",
+      "Faux : la coprologie est sans intérêt ici."
+    ]
+  },
+  {
+    "q": "Concernant la biologie dans le larva migrans cutané, quelles propositions sont exactes ?",
+    "options": [
+      "Le taux d'éosinophiles est souvent normal",
+      "Une hyperéosinophilie majeure est constante",
+      "La sérologie n'a pas d'intérêt diagnostique en routine",
+      "La recherche de la larve est inutile",
+      "La biopsie retrouve toujours la larve en avant du sillon"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "Contrairement à la toxocarose, les éosinophiles sont souvent normaux.",
+      "Faux : l'hyperéosinophilie n'est pas constante, souvent absente.",
+      "Le diagnostic étant clinique, la sérologie n'est pas utile en routine.",
+      "La recherche de la larve est inutile (elle est en avant du sillon).",
+      "Faux : la larve, en avant du sillon, est rarement retrouvée."
+    ]
+  },
+  {
+    "q": "Quel traitement symptomatique proposer dans le larva migrans cutané ?",
+    "options": [
+      "Des antihistaminiques contre le prurit",
+      "Une corticothérapie générale prolongée",
+      "Une antibiothérapie systématique",
+      "Des dermocorticoïdes en cas de prurit intense",
+      "Un traitement symptomatique des démangeaisons"
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ],
+    "explain": [
+      "Les antihistaminiques calment le prurit.",
+      "Faux : la corticothérapie générale prolongée n'a pas d'indication.",
+      "Faux : aucune antibiothérapie systématique n'est indiquée.",
+      "Les dermocorticoïdes peuvent aider en cas de prurit intense.",
+      "Le traitement symptomatique vise les démangeaisons."
+    ]
+  },
+  {
+    "q": "Quels anthelminthiques sont efficaces dans le larva migrans cutané ?",
+    "options": [
+      "L'ivermectine",
+      "Le mébendazole est totalement inefficace",
+      "Ils permettent une élimination rapide des larves",
+      "L'albendazole",
+      "Aucun anthelminthique n'est actif"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "L'ivermectine est efficace (prise unique).",
+      "Faux : le thiabendazole/albendazole ont une activité reconnue.",
+      "Ils assurent une élimination rapide des larves.",
+      "L'albendazole est l'autre option efficace.",
+      "Faux : ivermectine et albendazole sont actifs."
+    ]
+  },
+  {
+    "q": "Concernant la posologie dans le larva migrans cutané, quelles propositions sont vraies ?",
+    "options": [
+      "Une cure de 6 mois est nécessaire",
+      "Ivermectine en dose unique de 200 µg/kg",
+      "Le traitement local au thiabendazole a été utilisé historiquement",
+      "Le traitement est de courte durée",
+      "Albendazole 400 mg par jour pendant 3 jours"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : aucune cure prolongée n'est nécessaire.",
+      "L'ivermectine se donne en dose unique de 200 µg/kg.",
+      "Le thiabendazole local a été historiquement utilisé.",
+      "Le traitement est court, les larves étant vite éliminées.",
+      "L'albendazole se prescrit 400 mg/j pendant 3 jours."
+    ]
+  },
+  {
+    "q": "Quelles mesures de prophylaxie individuelle s'appliquent au larva migrans cutané ?",
+    "options": [
+      "Porter des chaussures fermées sur les plages tropicales",
+      "Éviter de marcher pieds nus en zone d'endémie",
+      "Éviter de s'étendre à même le sol",
+      "La baignade en mer protège de la contamination",
+      "Les serviettes n'empêchent pas la pénétration des larves"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Des chaussures fermées protègent les pieds.",
+      "Il faut éviter la marche pieds nus en zone chaude et humide.",
+      "S'étendre à même le sol (sable) expose à la pénétration.",
+      "Faux : la baignade ne protège pas ; c'est le contact avec le sable qui contamine.",
+      "Les serviettes n'empêchent pas la pénétration des larves."
+    ]
+  },
+  {
+    "q": "Quelles mesures de prophylaxie collective s'appliquent au larva migrans cutané ?",
+    "options": [
+      "Ramasser les déjections animales",
+      "Évincer les chiens et chats des piscines et bassins",
+      "Lutter contre le péril fécal animal",
+      "Évincer les chiens et chats des plages en pays chauds",
+      "Encourager la divagation des chiens sur les plages"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Le ramassage des déjections limite la contamination des sols.",
+      "Ainsi que des piscines et bassins.",
+      "La lutte contre le péril fécal animal est la mesure de fond.",
+      "Chiens et chats doivent être évincés des plages en pays chauds.",
+      "Faux : c'est l'inverse, il faut éviter leur divagation."
+    ]
+  },
+  {
+    "q": "Un enfant présente au retour d'une plage tropicale un cordon rouge serpigineux prurigineux du pied avançant chaque jour :",
+    "options": [
+      "L'agent probable est une larve d'ankylostome de chien",
+      "Le diagnostic est un larva migrans cutané",
+      "La vitesse d'avance est de l'ordre de 3 cm/j",
+      "Il s'agit d'une urgence vitale",
+      "Un traitement par ivermectine peut être proposé"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "L'agent le plus probable est Ankylostoma braziliense du chien.",
+      "Le tableau est typique d'un larva migrans cutané.",
+      "L'avance de 3 cm/j est caractéristique.",
+      "Faux : l'évolution est bénigne, ce n'est pas une urgence vitale.",
+      "L'ivermectine en dose unique élimine rapidement la larve."
+    ]
+  },
+  {
+    "q": "Un enfant de 4 ans, géophage, avec un chien non vermifugé, présente asthénie, fièvre modérée et hyperéosinophilie chronique :",
+    "options": [
+      "La coprologie est inutile",
+      "Un traitement anthelminthique systématique s'impose d'emblée",
+      "Le diagnostic à évoquer est la toxocarose commune",
+      "Le lavage des mains et le déparasitage du chien sont à préconiser",
+      "La sérologie ELISA Toxocara est indiquée"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Aucun œuf n'étant émis, la coprologie est inutile.",
+      "Faux : les formes communes bénignes ne se traitent pas systématiquement.",
+      "Le tableau (asthénie, fièvre modérée, éosinophilie) évoque la toxocarose commune.",
+      "Hygiène des mains et vermifugation du chien préviennent les récidives.",
+      "L'ELISA Toxocara confirmera le diagnostic."
+    ]
+  },
+  {
+    "q": "Un adulte présente 6 heures après un repas de sushis une violente douleur épigastrique évoquant un ulcère :",
+    "options": [
+      "Il faut évoquer une anisakiose gastrique aiguë",
+      "Il s'agit certainement d'un ulcère gastroduodénal banal",
+      "L'extraction endoscopique des larves est le traitement",
+      "L'endoscopie peut visualiser les larves dans la muqueuse",
+      "Une sérologie peut aider au diagnostic"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Le délai et le contexte (poisson cru) évoquent l'anisakiose gastrique.",
+      "Faux : le contexte de poisson cru doit faire évoquer l'anisakiose.",
+      "L'extraction endoscopique est le traitement de la forme gastrique.",
+      "L'endoscopie montre les larves fichées dans la muqueuse.",
+      "Le sérodiagnostic peut être utile en appoint."
+    ]
+  },
+  {
+    "q": "Concernant l'antigène utilisé dans le sérodiagnostic de la toxocarose, quelles propositions sont exactes ?",
+    "options": [
+      "On utilise l'antigène d'Ascaris lumbricoides en première intention",
+      "Toxocara canis est l'agent principal, d'où le choix de l'antigène",
+      "L'ELISA utilise l'antigène de Toxocara canis",
+      "Des réactions croisées avec Toxocara cati existent",
+      "L'antigène est constitué de produits d'excrétion-sécrétion larvaires"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : l'antigène de référence est celui de Toxocara canis.",
+      "T. canis étant l'agent principal (+++), l'antigène en est dérivé.",
+      "L'ELISA de dépistage utilise l'antigène de Toxocara canis.",
+      "Les anticorps anti-T. cati croisent avec l'antigène T. canis.",
+      "Il s'agit d'antigènes d'excrétion-sécrétion des larves (TES)."
+    ]
+  },
+  {
+    "q": "Quels autres nématodes peuvent donner un larva migrans viscéral chez l'homme ?",
+    "options": [
+      "Enterobius vermicularis",
+      "Baylisascaris procyonis, ascaris du raton laveur",
+      "Taenia saginata",
+      "Ascaris suum, ascaris du porc",
+      "Toxocara canis et Toxocara cati"
+    ],
+    "correct": [
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : l'oxyure ne donne pas de larva migrans viscéral.",
+      "Baylisascaris procyonis donne des formes neurologiques graves.",
+      "Faux : Taenia saginata est un cestode sans migration larvaire tissulaire.",
+      "Ascaris suum (porc) peut donner un larva migrans viscéral.",
+      "Toxocara canis et cati restent les agents les plus fréquents."
+    ]
+  },
+  {
+    "q": "Concernant Baylisascaris procyonis, quelles propositions sont exactes ?",
+    "options": [
+      "Il peut provoquer une larva migrans cérébrale grave",
+      "L'encéphalite à Baylisascaris est de pronostic redoutable",
+      "Il se transmet par les sushis",
+      "C'est l'agent principal de la toxocarose en Europe",
+      "C'est l'ascaris du raton laveur"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Ses larves ont un tropisme neurologique marqué.",
+      "L'encéphalite est grave, de pronostic redoutable.",
+      "Faux : la transmission est oro-fécale, pas par le poisson cru.",
+      "Faux : l'agent principal reste Toxocara canis.",
+      "Baylisascaris procyonis est l'ascaris du raton laveur."
+    ]
+  },
+  {
+    "q": "Quels diagnostics différentiels évoquer devant un cordon serpigineux prurigineux ?",
+    "options": [
+      "Le larva migrans cutané à ankylostomes animaux",
+      "La larva currens à Strongyloides stercoralis",
+      "L'anisakiose intestinale",
+      "La gale (sarcoptose)",
+      "La toxocarose viscérale"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Le LM cutané est le diagnostic le plus probable au retour des tropiques.",
+      "La larva currens (anguillulose) donne aussi un trajet serpigineux.",
+      "Faux : l'anisakiose intestinale est digestive, non cutanée.",
+      "La gale donne des sillons prurigineux, à évoquer en différentiel.",
+      "Faux : la toxocarose viscérale n'a pas d'expression cutanée serpigineuse."
+    ]
+  },
+  {
+    "q": "Comment distinguer la larva currens du larva migrans cutané ?",
+    "options": [
+      "Le LM cutané est dû à des ankylostomes animaux",
+      "Le LM cutané avance lentement, environ 3 cm par jour",
+      "La larva currens avance beaucoup plus vite (plusieurs cm par heure)",
+      "Les deux ont exactement la même vitesse de progression",
+      "La larva currens est due à Strongyloides stercoralis"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Il est dû aux larves d'ankylostomes du chien/chat.",
+      "Le LM cutané progresse lentement, ~3 cm/jour.",
+      "La larva currens progresse très vite, en cm par heure.",
+      "Faux : la vitesse de progression les distingue nettement.",
+      "Elle est due aux larves d'anguillule (Strongyloides stercoralis)."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur la gnathostomose ?",
+    "options": [
+      "Elle est fréquente en Asie du Sud-Est",
+      "Elle est due à des œufs de Toxocara",
+      "Elle se contracte par consommation de poisson d'eau douce cru",
+      "C'est un larva migrans dû à Gnathostoma spinigerum",
+      "Elle donne des tuméfactions cutanées migratrices"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Elle est endémique en Asie du Sud-Est.",
+      "Faux : Toxocara donne la toxocarose, pas la gnathostomose.",
+      "La contamination suit l'ingestion de poisson d'eau douce cru.",
+      "La gnathostomose est un larva migrans à Gnathostoma spinigerum.",
+      "Des nodules cutanés migrateurs intermittents sont typiques."
+    ]
+  },
+  {
+    "q": "Concernant l'atteinte oculaire de la toxocarose, quelles propositions sont exactes ?",
+    "options": [
+      "Le décollement de rétine est une complication possible",
+      "Une uvéite peut révéler l'infestation",
+      "Un granulome du pôle postérieur peut se former",
+      "L'atteinte est le plus souvent unilatérale",
+      "L'atteinte est toujours bilatérale et symétrique"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Le décollement de rétine complique les formes graves.",
+      "Une uvéite chronique de l'enfant doit faire évoquer la toxocarose.",
+      "Le granulome rétinien postérieur est la lésion typique.",
+      "L'atteinte est habituellement unilatérale.",
+      "Faux : la bilatéralité simultanée est exceptionnelle."
+    ]
+  },
+  {
+    "q": "Devant une leucocorie chez un enfant, quels diagnostics évoquer ?",
+    "options": [
+      "L'anisakiose",
+      "La cataracte congénitale",
+      "La toxocarose oculaire (granulome parasitaire)",
+      "Le rétinoblastome, urgence diagnostique",
+      "Le larva migrans cutané"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Faux : l'anisakiose est digestive.",
+      "La cataracte congénitale donne aussi un reflet blanc pupillaire.",
+      "Le granulome toxocarien peut mimer un rétinoblastome.",
+      "Le rétinoblastome est le diagnostic à éliminer en urgence.",
+      "Faux : le LM cutané n'a pas d'expression oculaire."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur le traitement de la toxocarose commune bénigne ?",
+    "options": [
+      "L'abstention thérapeutique est souvent de mise",
+      "Une corticothérapie d'un mois est obligatoire",
+      "Le traitement est symptomatique (antihistaminiques si prurit)",
+      "L'extirpation chirurgicale est le traitement de référence",
+      "L'anthelminthique n'est pas systématique"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explain": [
+      "Les formes communes bénignes guérissent souvent sans traitement.",
+      "Faux : la corticothérapie d'un mois concerne la forme oculaire.",
+      "On traite les symptômes (prurit, fièvre).",
+      "Faux : la chirurgie concerne l'anisakiose, pas la toxocarose.",
+      "L'anthelminthique est réservé aux formes graves."
+    ]
+  },
+  {
+    "q": "Concernant la corticothérapie dans la toxocarose oculaire, quelles affirmations sont exactes ?",
+    "options": [
+      "Elle est le traitement de la forme oculaire",
+      "Elle peut être associée à l'albendazole dans les formes sévères",
+      "La durée est d'environ un mois",
+      "Elle vise à réduire l'inflammation granulomateuse",
+      "Elle est inutile et contre-indiquée"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "La corticothérapie est le traitement de la toxocarose oculaire.",
+      "L'association à l'albendazole est possible dans les formes sévères.",
+      "Elle est prescrite pendant un mois.",
+      "Elle contrôle l'inflammation qui menace la vision.",
+      "Faux : elle est au contraire le traitement de référence."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont exactes sur la prévention de la toxocarose chez le chien ?",
+    "options": [
+      "Les chiots sont très souvent parasités (transmission transplacentaire)",
+      "Aucune mesure n'est efficace chez l'animal",
+      "Ramassage des déjections canines",
+      "Éviter l'accès des chiens aux bacs à sable",
+      "Vermifugation régulière des chiens, surtout les chiots"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Les chiots, contaminés in utero, sont massivement parasités.",
+      "Faux : la vermifugation et l'hygiène sont efficaces.",
+      "Le ramassage des déjections limite la contamination des sols.",
+      "Les bacs à sable doivent être protégés des chiens.",
+      "La vermifugation régulière des chiens est essentielle."
+    ]
+  },
+  {
+    "q": "Concernant les œufs de Toxocara dans l'environnement, lesquelles sont vraies ?",
+    "options": [
+      "Ils résistent des mois voire des années dans le sol",
+      "L'embryonnement nécessite quelques semaines dans le sol",
+      "Seuls les sols sablonneux peuvent les contenir",
+      "Ils résistent aux intempéries",
+      "Ils sont détruits immédiatement par l'air libre"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Les œufs survivent des mois voire des années dans le sol.",
+      "L'embryonnement demande quelques semaines en conditions favorables.",
+      "Faux : tout sol souillé peut être contaminé.",
+      "Leur coque épaisse les rend très résistants.",
+      "Faux : ils sont au contraire très résistants dans l'environnement."
+    ]
+  },
+  {
+    "q": "Quelles propositions distinguent l'œuf de Toxocara de celui d'Ascaris lumbricoides ?",
+    "options": [
+      "Son centre est plus sombre, brun-noir, très pigmenté",
+      "L'œuf de Toxocara est plus petit que celui d'Ascaris",
+      "Sa paroi est mamelonnée et finement piquetée",
+      "Les deux œufs sont strictement identiques au microscope",
+      "L'œuf de Toxocara est plus grand (75 à 90 µm) et sub-sphérique"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explain": [
+      "Son contenu brun-noir très pigmenté est caractéristique.",
+      "Faux : il est au contraire plus grand que l'œuf d'Ascaris.",
+      "La paroi mamelonnée et piquetée est typique.",
+      "Faux : un œil exercé les distingue par la taille et la pigmentation.",
+      "L'œuf de Toxocara (75-90 µm) est plus grand et plus sphérique que celui d'Ascaris (~60 µm)."
+    ]
+  },
+  {
+    "q": "Concernant le diagnostic différentiel de la toxocarose viscérale, quelles propositions sont exactes ?",
+    "options": [
+      "Aucun diagnostic différentiel n'existe",
+      "Le diagnostic est toujours évident cliniquement",
+      "Les réactions croisées sérologiques compliquent le diagnostic",
+      "Une hyperéosinophilie impose d'évoquer d'autres helminthiases",
+      "L'ascaridiose peut donner des manifestations voisines"
+    ],
+    "correct": [
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : de nombreux diagnostics différentiels existent.",
+      "Faux : les formes sont souvent frustes et le diagnostic difficile.",
+      "Les réactions croisées entre nématodes brouillent la sérologie.",
+      "Toute hyperéosinophilie doit faire évoquer les helminthiases tissulaires.",
+      "L'ascaris (migration larvaire) peut mimer la toxocarose."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur l'anisakiose en Europe ?",
+    "options": [
+      "Elle est aussi fréquente qu'au Japon",
+      "Les harengs marinés (rollmops) sont en cause",
+      "Le poisson bien cuit est sans risque",
+      "Elle est sporadique",
+      "Les anchois marinés peuvent transmettre les larves"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : elle est nettement plus fréquente au Japon.",
+      "Les harengs marinés crus (rollmops) sont une source européenne.",
+      "La cuisson détruit les larves : le poisson cuit est sans risque.",
+      "En Europe, l'anisakiose reste sporadique.",
+      "Les anchois marinés au vinaigre sont aussi en cause."
+    ]
+  },
+  {
+    "q": "Concernant la réglementation sur le poisson destiné à être consommé cru, quelles propositions sont exactes ?",
+    "options": [
+      "Elle s'applique aux sushis et sashimis du commerce",
+      "Aucune réglementation n'existe",
+      "Elle vise à tuer les larves d'Anisakidae",
+      "La simple réfrigération suffit",
+      "Une congélation à -20 °C pendant au moins 24 h est exigée"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explain": [
+      "Les professionnels du sushi/sashimi y sont soumis.",
+      "Faux : une réglementation européenne existe.",
+      "Elle a pour but de tuer les larves d'anisakidés.",
+      "Faux : la réfrigération positive ne tue pas les larves.",
+      "La congélation à -20 °C pendant 24 h minimum est réglementaire (UE)."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont exactes sur la forme pseudo-tumorale de l'anisakiose ?",
+    "options": [
+      "Elle ne donne jamais de syndrome occlusif",
+      "Le diagnostic peut être fait sur pièce opératoire",
+      "Le granulome inflammatoire mime une tumeur",
+      "Elle concerne la forme intestinale",
+      "Elle est toujours maligne"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Faux : l'occlusion est une complication possible.",
+      "L'histologie de la pièce opératoire redresse le diagnostic.",
+      "Le granulome à éosinophiles autour de la larve mime une tumeur.",
+      "La forme intestinale réalise un syndrome tumoral.",
+      "Faux : c'est une lésion inflammatoire bénigne."
+    ]
+  },
+  {
+    "q": "Un patient présente un tableau occlusif après consommation de poisson cru : quelles propositions sont vraies ?",
+    "options": [
+      "Le traitement est l'exérèse chirurgicale du segment atteint si nécessaire",
+      "La larve peut être retrouvée sur la pièce opératoire",
+      "L'histologie montre un granulome à éosinophiles",
+      "Il s'agit toujours d'une tumeur maligne",
+      "Évoquer une anisakiose intestinale"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "La chirurgie traite l'occlusion et permet le diagnostic.",
+      "La larve est identifiable sur la pièce opératoire.",
+      "Le granulome éosinophilique est caractéristique.",
+      "Faux : c'est une pseudo-tumeur inflammatoire bénigne.",
+      "Le contexte (poisson cru) oriente vers l'anisakiose intestinale."
+    ]
+  },
+  {
+    "q": "Quelles propositions concernent le sérodiagnostic de l'anisakiose ?",
+    "options": [
+      "Il est systématiquement positif dès les premières heures",
+      "Il ne remplace pas l'endoscopie ni l'histologie",
+      "Il détecte les anticorps anti-Anisakis",
+      "Il n'a aucun intérêt",
+      "Il peut être utile en appoint"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Faux : la séroconversion demande du temps.",
+      "Le diagnostic de certitude reste endoscopique ou histologique.",
+      "Il détecte les anticorps dirigés contre les larves.",
+      "Faux : il a un intérêt en appoint, notamment formes atypiques.",
+      "Le sérodiagnostic peut être utile, en appoint."
+    ]
+  },
+  {
+    "q": "Concernant les larves d'Anisakidae dans le poisson, quelles affirmations sont exactes ?",
+    "options": [
+      "La chair du poisson n'est jamais parasitée",
+      "L'éviscération rapide limite la migration vers la chair",
+      "Elles sont visibles à l'œil nu (quelques centimètres)",
+      "Elles sont microscopiques et invisibles",
+      "Ce sont des larves L3 enkystées dans la chair ou les viscères"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Faux : la chair peut être parasitée après migration.",
+      "Éviscérer vite limite leur migration vers la chair.",
+      "Elles mesurent 2 à 3 cm et sont visibles à l'œil nu.",
+      "Faux : elles sont visibles à l'œil nu.",
+      "Les larves L3 s'enkystent dans les viscères puis la chair."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur l'évolution de l'anisakiose gastrique non traitée ?",
+    "options": [
+      "La larve finit par mourir en quelques jours à semaines",
+      "Un granulome peut persister",
+      "La larve devient adulte dans l'estomac humain",
+      "L'évolution est toujours mortelle sans chirurgie",
+      "Les symptômes aigus s'amendent avec la mort de la larve"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Non adaptée à l'homme, la larve meurt en quelques jours à semaines.",
+      "Un granulome inflammatoire peut persister transitoirement.",
+      "Faux : aucun développement en adulte n'est possible.",
+      "Faux : la forme gastrique n'est pas mortelle en soi.",
+      "La symptomatologie aiguë régresse alors."
+    ]
+  },
+  {
+    "q": "Concernant le larva migrans cutané, quelles propositions sur la contagiosité sont exactes ?",
+    "options": [
+      "Le patient ne peut pas contaminer son entourage",
+      "Il faut isoler le patient",
+      "La contamination passe par le sol souillé par les animaux",
+      "Il n'est pas contagieux d'homme à homme",
+      "Les lésions cutanées sont contaminantes"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "Le patient en impasse n'émet aucun stade infestant.",
+      "Faux : aucun isolement n'est nécessaire.",
+      "Seul le contact avec un sol souillé par les déjections animales contamine.",
+      "Aucune transmission interhumaine n'existe.",
+      "Faux : les lésions ne contiennent pas de stade infestant."
+    ]
+  },
+  {
+    "q": "Quelles complications locales peuvent émailler le larva migrans cutané ?",
+    "options": [
+      "Un eczéma de contact sur les topiques",
+      "Une dissémination viscérale systématique",
+      "Une nécrose cutanée étendue constante",
+      "Des lésions multiples en cas d'expositions répétées",
+      "Une surinfection bactérienne par grattage"
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ],
+    "explain": [
+      "Les topiques peuvent sensibiliser (eczéma).",
+      "Faux : les larves restent cutanées, sans dissémination viscérale.",
+      "Faux : aucune nécrose étendue n'est décrite.",
+      "Des expositions répétées donnent des trajets multiples.",
+      "Le grattage du prurit peut surinfecter les lésions."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont exactes sur la durée d'incubation du larva migrans cutané ?",
+    "options": [
+      "Les lésions apparaissent immédiatement pendant la baignade",
+      "Le trajet devient visible en quelques jours",
+      "Les lésions apparaissent quelques jours après la pénétration",
+      "Des papules précèdent le trajet serpigineux",
+      "L'incubation est de plusieurs mois"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Faux : la pénétration est le plus souvent inaperçue.",
+      "Le sillon serpigineux se constitue en quelques jours.",
+      "Le délai est de quelques jours après la pénétration.",
+      "Des papules prurigineuses marquent d'abord le point d'entrée.",
+      "Faux : l'incubation est courte, de quelques jours."
+    ]
+  },
+  {
+    "q": "Concernant le prurit du larva migrans cutané, quelles affirmations sont vraies ?",
+    "options": [
+      "Il ne survient que la nuit",
+      "Il est totalement absent",
+      "Il est lié à la réaction allergique aux sécrétions larvaires",
+      "Il justifie un traitement symptomatique",
+      "Il est intense et au premier plan"
+    ],
+    "correct": [
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : il n'a pas de recrudescence exclusivement nocturne.",
+      "Faux : le prurit est caractéristique.",
+      "Il traduit l'hypersensibilité aux sécrétions larvaires.",
+      "Antihistaminiques et dermocorticoïdes le soulagent.",
+      "Le prurit est intense, dominant le tableau."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur la guérison spontanée du larva migrans cutané ?",
+    "options": [
+      "Aucune cicatrice importante ne persiste habituellement",
+      "Elle correspond à la mort in situ de la larve",
+      "Elle survient en quelques semaines à un mois",
+      "Les larves survivent des années dans la peau",
+      "Elle est impossible sans anthelminthique"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Les lésions régressent sans séquelle notable.",
+      "Elle correspond à la mort in situ de la larve non adaptée.",
+      "La guérison spontanée survient en quelques semaines à un mois.",
+      "Faux : les larves meurent en quelques semaines à mois.",
+      "Faux : la guérison spontanée est la règle."
+    ]
+  },
+  {
+    "q": "Un voyageur se plaint d'un prurit plantaire avec sillon rouge migrant au retour du Brésil : quelles propositions sont vraies ?",
+    "options": [
+      "Ankylostoma braziliense est l'agent le plus probable",
+      "Il faut rechercher des œufs dans les selles",
+      "Le diagnostic est un larva migrans cutané",
+      "Le Brésil (Amérique intertropicale) est une zone d'endémie",
+      "L'ivermectine en dose unique est un traitement adapté"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "A. braziliense, du chien, est l'agent le plus fréquent.",
+      "Faux : aucun œuf n'est émis, la coprologie est inutile.",
+      "Le tableau est typique du larva migrans cutané.",
+      "Le Brésil appartient à l'Amérique intertropicale d'endémie.",
+      "L'ivermectine dose unique élimine rapidement la larve."
+    ]
+  },
+  {
+    "q": "Quelles mesures conseiller à un voyageur partant sur une plage tropicale ?",
+    "options": [
+      "Marcher pieds nus pour « s'habituer » au sable",
+      "Utiliser un transat plutôt qu'une serviette à même le sol",
+      "Porter des chaussures ou des sandales fermées",
+      "Éviter les plages fréquentées par les chiens errants",
+      "Éviter de s'allonger à même le sable"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : la marche pieds nus est le principal mode de contamination.",
+      "Un transat évite le contact direct avec le sable contaminé.",
+      "Des chaussures protègent de la pénétration transcutanée.",
+      "Les plages souillées par les chiens errants sont à éviter.",
+      "S'allonger à même le sable expose dos et fesses."
+    ]
+  },
+  {
+    "q": "Concernant la lutte contre le péril fécal animal sur les plages, quelles propositions sont exactes ?",
+    "options": [
+      "Vermifuger régulièrement les animaux domestiques",
+      "Interdire l'accès des plages aux chiens et chats",
+      "Arroser le sable d'insecticide",
+      "Informer les voyageurs du risque",
+      "Ramasser systématiquement les déjections animales"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "La vermifugation des animaux réduit l'émission d'œufs/larves.",
+      "L'éviction des chiens et chats des plages est recommandée.",
+      "Faux : l'insecticide est sans effet sur les larves dans le sable.",
+      "L'information des voyageurs fait partie de la prévention.",
+      "Le ramassage des déjections limite la contamination du sable."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur le stade infestant des trois parasitoses ?",
+    "options": [
+      "Larva migrans cutané : la larve L3 à pénétration transcutanée",
+      "Anisakiose : la larve L3 contenue dans le poisson",
+      "Les trois se transmettent par ingestion d'œufs",
+      "Les trois se transmettent par piqûre",
+      "Toxocarose : l'œuf embryonné ingéré"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Pour le LM cutané, c'est la larve L3 transcutanée.",
+      "Pour l'anisakiose, c'est la larve L3 du poisson.",
+      "Faux : seuls les œufs de Toxocara sont en cause dans la toxocarose.",
+      "Faux : aucune de ces parasitoses n'est à vecteur.",
+      "Le stade infestant de la toxocarose est l'œuf embryonné."
+    ]
+  },
+  {
+    "q": "Quelles propositions opposent la toxocarose et le larva migrans cutané ?",
+    "options": [
+      "La toxocarose est viscérale, le LM cutané est dermique",
+      "L'éosinophilie est fréquente dans la toxocarose, souvent normale dans le LM cutané",
+      "La toxocarose se traite par corticoïdes (forme oculaire), le LM cutané par ivermectine",
+      "Les deux sont dus aux mêmes ankylostomes du chien",
+      "Le diagnostic de la toxocarose est sérologique, celui du LM cutané est clinique"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Toxocarose : migration tissulaire profonde ; LM cutané : peau.",
+      "Hyperéosinophilie fréquente dans la toxocarose, éosinophiles souvent normaux dans le LM cutané.",
+      "Corticoïdes (œil) vs ivermectine/albendazole (peau).",
+      "Faux : Toxocara (toxocarose) vs ankylostomes animaux (LM cutané).",
+      "Sérologie pour la toxocarose, clinique pour le LM cutané."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont communes aux trois parasitoses du chapitre ?",
+    "options": [
+      "Les agents sont des nématodes",
+      "Ce sont des zoonoses",
+      "L'homme est un hôte accidentel en impasse parasitaire",
+      "Elles se transmettent toutes par le poisson cru",
+      "Le réservoir est animal (chien, chat, poisson)"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Les agents sont tous des nématodes.",
+      "Toxocarose, anisakiose et LM cutané sont des zoonoses.",
+      "Dans les trois cas, l'homme est un hôte en impasse.",
+      "Faux : seul l'anisakiose est liée au poisson cru.",
+      "Le réservoir est animal : carnivores domestiques ou poissons."
+    ]
+  },
+  {
+    "q": "Concernant le diagnostic direct dans ces trois parasitoses, quelles propositions sont exactes ?",
+    "options": [
+      "Le diagnostic est purement clinique dans les trois",
+      "Dans l'anisakiose, l'endoscopie peut visualiser les larves",
+      "La coprologie est contributive dans les trois",
+      "Dans la toxocarose, le direct est impossible",
+      "Dans le LM cutané, la recherche de la larve est inutile"
+    ],
+    "correct": [
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : toxocarose et anisakiose ont un diagnostic paraclinique.",
+      "Anisakiose : l'endoscopie visualise les larves gastriques.",
+      "Faux : la coprologie est négative (pas d'œufs émis).",
+      "Toxocarose : pas d'extériorisation, direct impossible.",
+      "LM cutané : la larve, en avant du sillon, n'est pas recherchée."
+    ]
+  },
+  {
+    "q": "Quelles propositions résument la prise en charge des trois parasitoses ?",
+    "options": [
+      "LM cutané : ivermectine ou albendazole",
+      "Toxocarose oculaire : corticothérapie pendant un mois",
+      "Les trois se traitent uniquement par chirurgie",
+      "Toxocarose grave : albendazole 10-15 mg/kg/j pendant 15 j",
+      "Anisakiose : extirpation chirurgicale ou endoscopique des larves"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Le LM cutané se traite par ivermectine ou albendazole.",
+      "La forme oculaire relève des corticoïdes pendant un mois.",
+      "Faux : seule l'anisakiose relève de la chirurgie.",
+      "L'albendazole 10-15 mg/kg/j 15 j est le traitement des formes graves.",
+      "L'anisakiose se traite par extirpation des larves."
+    ]
+  },
+  {
+    "q": "Quelles propositions résument la prévention des trois parasitoses ?",
+    "options": [
+      "LM cutané : éviter marche pieds nus et contact au sol en zone d'endémie",
+      "Une vaccination existe pour les trois",
+      "Lutte contre le péril fécal animal dans les trois cas telluriques",
+      "Anisakiose : éviter le poisson cru, cuisson et congélation",
+      "Toxocarose : lavage des mains, vermifugation des chiens"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Chaussures et éviction du sol préviennent le LM cutané.",
+      "Faux : aucun vaccin n'existe contre ces parasitoses.",
+      "Le péril fécal animal entretient toxocarose et LM cutané.",
+      "Cuisson et congélation préviennent l'anisakiose.",
+      "Hygiène des mains et vermifugation préviennent la toxocarose."
+    ]
+  },
+  {
+    "q": "Concernant la toxocarose chez l'adulte, quelles propositions sont exactes ?",
+    "options": [
+      "Elle donne toujours une forme oculaire",
+      "Elle est possible, avec une séroprévalence de 2 à 5 % dans les pays occidentaux",
+      "Elle n'existe pas chez l'adulte",
+      "Elle est souvent asymptomatique ou fruste",
+      "Les professions exposées aux chiens sont plus à risque"
+    ],
+    "correct": [
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : la forme oculaire est rare.",
+      "La séroprévalence atteint 2 à 5 % chez les adultes occidentaux.",
+      "Faux : l'adulte peut être atteint.",
+      "Les formes de l'adulte sont souvent frustes ou asymptomatiques.",
+      "Vétérinaires et éleveurs, exposés aux chiens, sont plus à risque."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur les IgE dans la toxocarose ?",
+    "options": [
+      "Ce sont des éléments d'orientation diagnostique",
+      "Les IgE sont spécifiques de la toxocarose",
+      "Des IgE normales éliminent la toxocarose",
+      "Les IgE totales sont augmentées",
+      "Elles accompagnent l'hyperéosinophilie"
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ],
+    "explain": [
+      "Hyperéosinophilie + IgE élevées orientent le diagnostic.",
+      "Faux : les IgE augmentent dans toute helminthiase et l'atopie.",
+      "Faux : les IgE peuvent être normales dans les formes frustes.",
+      "L'augmentation des IgE totales est classique.",
+      "Elle accompagne l'hyperéosinophilie."
+    ]
+  },
+  {
+    "q": "Concernant la NFS dans la toxocarose, quelles affirmations sont exactes ?",
+    "options": [
+      "Dans la forme commune, elle est modérée mais chronique",
+      "La NFS est toujours normale",
+      "Une anémie hémolytique est constante",
+      "Elle peut dépasser 1 500/µL dans les formes intenses",
+      "L'hyperéosinophilie est l'anomalie caractéristique"
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ],
+    "explain": [
+      "Modérée mais chronique dans la forme commune.",
+      "Faux : l'éosinophilie est fréquemment élevée.",
+      "Faux : aucune anémie hémolytique n'est décrite.",
+      "Les formes intenses peuvent dépasser 1 500 éosinophiles/µL.",
+      "L'hyperéosinophilie est le marqueur biologique clé."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont exactes sur le granulome toxocarien ?",
+    "options": [
+      "Dans l'œil, il forme une tumeur parasitaire",
+      "Il est riche en éosinophiles",
+      "Il se voit dans les selles",
+      "Il entoure les larves en impasse dans les tissus",
+      "Il est pathognomonique et visible en coprologie"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Dans l'œil, le granulome forme la tumeur parasitaire.",
+      "Ces granulomes sont riches en éosinophiles.",
+      "Faux : rien ne s'élimine dans les selles.",
+      "L'hôte enkyste les larves dans des granulomes.",
+      "Faux : il est tissulaire, invisible en coprologie."
+    ]
+  },
+  {
+    "q": "Concernant les formes neurologiques de la toxocarose, lesquelles sont vraies ?",
+    "options": [
+      "Des troubles cognitifs sont possibles",
+      "Une myélite peut survenir",
+      "Elles sont rares",
+      "Elles sont la présentation habituelle",
+      "Des convulsions ont été décrites"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Des troubles cognitifs et du comportement sont possibles.",
+      "La myélite (atteinte médullaire) est décrite.",
+      "Les formes neurologiques sont rares.",
+      "Faux : la présentation habituelle est la forme commune bénigne.",
+      "Des convulsions peuvent révéler la migration cérébrale."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur la toxocarose oculaire de l'enfant ?",
+    "options": [
+      "Elle guérit toujours sans séquelle",
+      "Le diagnostic différentiel avec le rétinoblastome est crucial",
+      "Elle peut laisser des séquelles visuelles définitives",
+      "Elle est le plus souvent unilatérale",
+      "Elle survient généralement chez un enfant plus âgé que la forme viscérale"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : des séquelles définitives sont possibles.",
+      "Éliminer un rétinoblastome est une urgence.",
+      "Les séquelles visuelles peuvent être définitives.",
+      "L'atteinte est habituellement unilatérale.",
+      "La forme oculaire touche souvent un enfant plus grand."
+    ]
+  },
+  {
+    "q": "Un enfant présente une baisse d'acuité visuelle unilatérale avec granulome du pôle postérieur : quelles propositions sont vraies ?",
+    "options": [
+      "Éliminer un rétinoblastome en urgence",
+      "Le traitement repose sur la corticothérapie",
+      "Évoquer une toxocarose oculaire",
+      "Il s'agit à coup sûr d'une tumeur maligne",
+      "La sérologie Toxocara est indiquée"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Le rétinoblastome doit être éliminé en urgence.",
+      "La corticothérapie pendant un mois est le traitement.",
+      "Le granulome unilatéral de l'enfant évoque la toxocarose oculaire.",
+      "Faux : le granulome parasitaire est bénin.",
+      "La sérologie confirme l'exposition à Toxocara."
+    ]
+  },
+  {
+    "q": "Concernant l'albendazole, quelles propositions sont exactes ?",
+    "options": [
+      "C'est un anthelminthique à large spectre",
+      "Il est actif sur les larves tissulaires de Toxocara",
+      "Il est le traitement de l'anisakiose intestinale occlusive",
+      "Il est indiqué dans les formes graves ou non améliorées",
+      "La posologie dans la toxocarose est de 10 à 15 mg/kg/j pendant 15 j"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "L'albendazole est un benzimidazole à large spectre.",
+      "Il diffuse dans les tissus et agit sur les larves.",
+      "Faux : l'occlusion sur anisakiose relève de la chirurgie.",
+      "Il est réservé aux formes graves ou non améliorées.",
+      "La posologie est de 10 à 15 mg/kg/j pendant 15 jours."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur l'ivermectine ?",
+    "options": [
+      "Elle est le traitement de la toxocarose oculaire",
+      "Elle est efficace dans le larva migrans cutané en dose unique",
+      "C'est un anthelminthique actif sur les nématodes",
+      "Elle est utilisée dans la toxocarose grave en alternative à l'albendazole",
+      "Elle agit sur les cestodes adultes"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Faux : la forme oculaire relève des corticoïdes.",
+      "En dose unique (200 µg/kg), elle traite le LM cutané.",
+      "L'ivermectine est un anthelminthique actif sur les nématodes.",
+      "Elle est une alternative à l'albendazole dans la toxocarose grave.",
+      "Faux : elle n'est pas active sur les cestodes."
+    ]
+  },
+  {
+    "q": "Quelles erreurs éviter dans la prise en charge de la toxocarose ?",
+    "options": [
+      "Négliger le déparasitage du chien de la famille",
+      "Traiter la forme oculaire par corticoïdes",
+      "Prescrire un anthelminthique à toute sérologie positive asymptomatique",
+      "Oublier le diagnostic différentiel du rétinoblastome devant une leucocorie",
+      "Réaliser une coprologie pour « confirmer » le diagnostic"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Le chien non vermifugé entretient la contamination.",
+      "Cette proposition est correcte : les corticoïdes traitent la forme oculaire.",
+      "La sérologie positive asymptomatique ne se traite pas systématiquement.",
+      "Devant une leucocorie, le rétinoblastome est une urgence à éliminer.",
+      "La coprologie est toujours négative : elle ne confirme rien."
+    ]
+  },
+  {
+    "q": "Concernant la contamination par les bacs à sable, quelles propositions sont exactes ?",
+    "options": [
+      "Les déjections de chats et chiens les souillent",
+      "Couvrir les bacs à sable est une mesure préventive",
+      "Les enfants y portent les mains à la bouche",
+      "Les œufs de Toxocara y embryonnent",
+      "Les bacs à sable ne présentent aucun risque"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Chiens et chats souillent les bacs à sable de leurs déjections.",
+      "Couvrir les bacs à sable limite la contamination.",
+      "Les enfants, mains sales à la bouche, s'infectent.",
+      "Les œufs y embryonnent et deviennent infestants.",
+      "Faux : c'est une source classique de contamination infantile."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur Toxocara cati et le chat ?",
+    "options": [
+      "Le chat ne peut jamais transmettre la toxocarose",
+      "La vermifugation régulière du chat est recommandée",
+      "Les bacs à litière peuvent être contaminés",
+      "Toxocara cati ne parasite que le chien",
+      "Le chat est le réservoir de Toxocara cati"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Faux : le chat transmet T. cati à l'homme.",
+      "La vermifugation régulière du chat est une mesure préventive.",
+      "Les litières souillées contiennent des œufs.",
+      "Faux : T. cati parasite le chat, T. canis le chien.",
+      "Toxocara cati est l'ascaris du chat."
+    ]
+  },
+  {
+    "q": "Concernant le diagnostic de l'anisakiose gastrique, quelles propositions sont exactes ?",
+    "options": [
+      "L'endoscopie visualise les larves fichées dans la muqueuse",
+      "La douleur épigastrique aiguë quelques heures après le repas est typique",
+      "La radiographie standard suffit au diagnostic",
+      "L'extraction endoscopique fait le diagnostic et le traitement",
+      "Le contexte de poisson cru oriente"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "L'endoscopie montre les larves dans la muqueuse gastrique.",
+      "Le délai de quelques heures et la douleur pseudo-ulcéreuse sont typiques.",
+      "Faux : la radiographie ne visualise pas les larves.",
+      "L'extraction endoscopique confirme et traite.",
+      "Le repas de poisson cru est l'élément d'orientation clé."
+    ]
+  },
+  {
+    "q": "Quelles propositions distinguent l'anisakiose des autres parasitoses du chapitre ?",
+    "options": [
+      "Les larves se fixent sur la muqueuse digestive",
+      "La contamination se fait par les déjections de chien",
+      "Le traitement est l'extirpation des larves",
+      "Le diagnostic peut être endoscopique direct",
+      "Le stade infestant est ingéré avec le poisson cru"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Elle se fiche dans la muqueuse gastrique ou intestinale.",
+      "Faux : aucun lien avec les déjections canines.",
+      "L'extirpation (chirurgicale ou endoscopique) est le traitement.",
+      "L'endoscopie permet un diagnostic direct.",
+      "La larve L3 est ingérée avec la chair de poisson."
+    ]
+  },
+  {
+    "q": "Quelles sont les sources alimentaires à risque d'anisakiose en Europe ?",
+    "options": [
+      "Les anchois au vinaigre",
+      "Les conserves de thon stérilisées",
+      "Les harengs marinés",
+      "Le poisson bien cuit",
+      "Les sushis et sashimis"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explain": [
+      "Les anchois marinés au vinaigre peuvent transmettre les larves.",
+      "Faux : la stérilisation des conserves tue les larves.",
+      "Les harengs marinés crus (rollmops) sont en cause.",
+      "Faux : la cuisson détruit les larves.",
+      "Sushis et sashimis sont des sources reconnues."
+    ]
+  },
+  {
+    "q": "Concernant la congélation préventive du poisson, quelles propositions sont exactes ?",
+    "options": [
+      "-20 °C pendant au moins 24 h tue les larves d'Anisakidae",
+      "Le micro-ondes détruit toujours les larves à cœur",
+      "La simple réfrigération à +4 °C suffit",
+      "La congélation domestique à -18 °C pendant 7 jours est aussi efficace",
+      "Elle est obligatoire pour le poisson destiné au cru dans l'UE"
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ],
+    "explain": [
+      "-20 °C pendant 24 h minimum est la norme réglementaire.",
+      "Faux : le chauffage doit être homogène à cœur (> 60 °C).",
+      "Faux : la réfrigération positive ne tue pas les larves.",
+      "Une congélation domestique prolongée (-18 °C, 7 j) est efficace.",
+      "Elle s'impose aux professionnels du poisson cru (UE)."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur les larves d'Anisakis ?",
+    "options": [
+      "Elles s'enroulent en spirale dans la chair du poisson",
+      "Elles sont détruites par la cuisson à cœur",
+      "Elles deviennent adultes dans l'intestin humain",
+      "Elles meurent en quelques jours à semaines chez l'homme",
+      "Elles mesurent 2 à 3 cm et sont visibles à l'œil nu"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Elles s'enroulent classiquement en spirale.",
+      "La cuisson à cœur au-delà de 60 °C les détruit.",
+      "Faux : aucun développement en adulte n'est possible.",
+      "Non adaptées à l'homme, elles meurent en jours à semaines.",
+      "Les larves L3 mesurent 2 à 3 cm, visibles à l'œil nu."
+    ]
+  },
+  {
+    "q": "Concernant le tableau clinique digestif de l'anisakiose, quelles propositions sont exactes ?",
+    "options": [
+      "La forme intestinale est toujours silencieuse",
+      "Forme intestinale : douleurs, syndrome tumoral ou occlusif",
+      "Nausées et vomissements accompagnent la forme gastrique",
+      "Le tableau peut mimer une appendicite ou une tumeur",
+      "Forme gastrique : douleur épigastrique aiguë pseudo-ulcéreuse"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : elle est au contraire bruyante.",
+      "La forme intestinale donne un syndrome tumoral ou occlusif.",
+      "Nausées et vomissements sont fréquents.",
+      "Le tableau peut mimer une urgence chirurgicale ou une tumeur.",
+      "La forme gastrique mime un ulcère (douleur épigastrique aiguë)."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont exactes sur l'histologie de l'anisakiose ?",
+    "options": [
+      "Elle montre des œufs dans la muqueuse",
+      "Elle se fait sur biopsies endoscopiques ou pièces opératoires",
+      "Elle montre un granulome à éosinophiles autour de la larve",
+      "Elle est inutile au diagnostic",
+      "La larve peut être identifiée sur les coupes"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Faux : ce sont des larves, pas des œufs, qui sont en cause.",
+      "Biopsies et pièces opératoires sont les supports de l'examen.",
+      "Le granulome éosinophilique autour de la larve est typique.",
+      "Faux : l'histologie est un pilier du diagnostic.",
+      "Les coupes histologiques peuvent montrer la larve en section."
+    ]
+  },
+  {
+    "q": "Un patient présente un nodule iléal inflammatoire avec éosinophiles et une structure larvaire en coupe :",
+    "options": [
+      "Le granulome éosinophilique est compatible",
+      "Rechercher une consommation de poisson cru",
+      "Un sérodiagnostic peut conforter le diagnostic",
+      "Il s'agit certainement d'une maladie de Crohn",
+      "Évoquer une anisakiose intestinale"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Le granulome riche en éosinophiles est caractéristique.",
+      "L'interrogatoire doit rechercher le poisson cru.",
+      "La sérologie anti-Anisakis peut aider.",
+      "Faux : l'histologie à larve redresse le diagnostic.",
+      "Le granulome à larve évoque l'anisakiose intestinale."
+    ]
+  },
+  {
+    "q": "Concernant Ankylostoma braziliense, quelles propositions sont exactes ?",
+    "options": [
+      "C'est l'agent le plus fréquent du larva migrans cutané",
+      "C'est un ankylostome du chien",
+      "Il se transmet par ingestion d'œufs",
+      "L'homme est un hôte accidentel en impasse",
+      "C'est un ankylostome humain à cycle complet"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "C'est l'espèce la plus souvent en cause dans le LM cutané.",
+      "A. braziliense est l'ankylostome du chien.",
+      "Faux : la contamination est transcutanée par les larves L3.",
+      "Chez l'homme, les larves sont en impasse.",
+      "Faux : les ankylostomes humains sont A. duodenale et N. americanus."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur le cycle des ankylostomes ?",
+    "options": [
+      "Les larves L1 puis L2 évoluent dans le sol",
+      "Chez l'homme, la L3 gagne l'intestin et devient adulte",
+      "Chez l'homme, la L3 pénètre activement la peau",
+      "La larve L3 est le stade infestant",
+      "Les œufs sont émis dans les déjections du chien ou du chat"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "L'évolution larvaire L1-L2 se fait dans le sol chaud et humide.",
+      "Faux : non adaptée, elle reste sous la peau et meurt.",
+      "Elle pénètre activement la peau (pieds nus, station allongée).",
+      "La larve strongyloïde L3 est le stade infestant.",
+      "Les œufs sont émis avec les selles des carnivores."
+    ]
+  },
+  {
+    "q": "Quelles conditions du sol favorisent les larves d'ankylostomes ?",
+    "options": [
+      "Ombre et matière organique",
+      "Sécheresse et froid intense",
+      "Souillure par les déjections animales",
+      "Humidité",
+      "Chaleur"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Ombre et matière organique favorisent les larves.",
+      "Faux : sécheresse et froid tuent les larves.",
+      "Les déjections apportent les œufs à l'origine des larves.",
+      "L'humidité du sol est nécessaire à leur survie.",
+      "La chaleur est indispensable au développement larvaire."
+    ]
+  },
+  {
+    "q": "Concernant la pénétration transcutanée des larves, quelles propositions sont exactes ?",
+    "options": [
+      "Elle nécessite une plaie cutanée préexistante",
+      "Elle est active, à travers la peau saine",
+      "Elle passe le plus souvent inaperçue",
+      "Les serviettes de plage l'empêchent",
+      "Des papules prurigineuses peuvent marquer le point d'entrée"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Faux : aucune plaie n'est nécessaire.",
+      "Les larves L3 traversent activement la peau saine.",
+      "La pénétration est le plus souvent inaperçue.",
+      "Faux : les serviettes n'empêchent pas la pénétration.",
+      "Des papules peuvent apparaître au point d'entrée."
+    ]
+  },
+  {
+    "q": "Quelles propositions décrivent le trajet du larva migrans cutané ?",
+    "options": [
+      "Il est rectiligne et indolore",
+      "Il avance d'environ 3 cm par jour",
+      "Il est érythémateux, décrit comme un « cordon rouge »",
+      "Il est serpigineux",
+      "Il est surélevé et prurigineux"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : il est serpigineux et prurigineux.",
+      "L'avance est d'environ 3 cm par jour.",
+      "Le « cordon rouge » érythémateux est quasi pathognomonique.",
+      "Le trajet serpigineux est caractéristique.",
+      "Le sillon est surélevé et très prurigineux."
+    ]
+  },
+  {
+    "q": "Où se trouve la larve par rapport au sillon ?",
+    "options": [
+      "En avant du sillon, dans la zone d'avance",
+      "Dans le sang circulant",
+      "La biopsie du sillon ne retrouve généralement pas la larve",
+      "La recherche de la larve dans le sillon est inutile",
+      "Au centre exact du sillon érythémateux"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "La larve se trouve en avant du sillon visible.",
+      "Faux : les larves restent strictement cutanées.",
+      "La biopsie du cordon ne montre qu'une inflammation non spécifique.",
+      "Sa recherche est donc inutile.",
+      "Faux : elle est en avant, pas au centre du sillon."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur l'évolution du larva migrans cutané ?",
+    "options": [
+      "Dissémination viscérale fréquente",
+      "Mort in situ de la larve",
+      "Évolution bénigne et favorable",
+      "Disparition des lésions en un mois environ sans traitement",
+      "Persistance à vie des trajets"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Faux : aucune dissémination viscérale n'est décrite.",
+      "La guérison correspond à la mort in situ de la larve.",
+      "L'évolution naturelle est bénigne et favorable.",
+      "Les lésions disparaissent en un mois environ.",
+      "Faux : les trajets régressent spontanément."
+    ]
+  },
+  {
+    "q": "Concernant le traitement du larva migrans cutané, quelles propositions sont exactes ?",
+    "options": [
+      "L'albendazole 400 mg/j pendant 3 jours est efficace",
+      "Le traitement symptomatique du prurit est utile",
+      "La chirurgie d'exérèse large est le traitement de référence",
+      "L'élimination des larves est rapide sous traitement",
+      "L'ivermectine en dose unique est efficace"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "L'albendazole 400 mg/j 3 jours est l'alternative.",
+      "Antihistaminiques et dermocorticoïdes soulagent le prurit.",
+      "Faux : aucune chirurgie n'est indiquée.",
+      "Les larves sont éliminées rapidement.",
+      "L'ivermectine dose unique (200 µg/kg) est le traitement de choix."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur la prévention du larva migrans cutané en voyage ?",
+    "options": [
+      "Préférer un transat à la serviette au sol",
+      "Se renseigner sur la fréquentation animale des plages",
+      "Les serviettes épaisses protègent efficacement",
+      "Port de chaussures sur les plages tropicales",
+      "Éviter de s'allonger à même le sable"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Le transat évite le contact avec le sable contaminé.",
+      "Les plages fréquentées par les chiens errants sont à éviter.",
+      "Faux : les serviettes n'empêchent pas la pénétration.",
+      "Les chaussures protègent de la pénétration transcutanée.",
+      "S'allonger à même le sol est à éviter."
+    ]
+  },
+  {
+    "q": "Concernant la lutte contre le péril fécal animal, quelles propositions sont exactes ?",
+    "options": [
+      "Ramassage des déjections des chiens et chats",
+      "Laisser les chiens errer librement sur les plages",
+      "Information des populations et des voyageurs",
+      "Vermifugation régulière des carnivores domestiques",
+      "Interdiction des animaux sur les plages, piscines et bassins en pays chauds"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Le ramassage des déjections est la mesure de base.",
+      "Faux : c'est l'inverse qu'il faut faire.",
+      "L'information fait partie de la prévention.",
+      "La vermifugation réduit l'émission d'œufs et de larves.",
+      "Les carnivores doivent être évincés des plages et bassins."
+    ]
+  },
+  {
+    "q": "Quelles propositions opposent le diagnostic de la toxocarose et celui du larva migrans cutané ?",
+    "options": [
+      "Toxocarose : diagnostic sérologique (ELISA, Western blot)",
+      "LM cutané : diagnostic clinique",
+      "Les deux se diagnostiquent par coprologie",
+      "LM cutané : éosinophiles souvent normaux",
+      "Toxocarose : hyperéosinophilie fréquente"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "La toxocarose se diagnostique par la sérologie.",
+      "Le LM cutané se diagnostique cliniquement.",
+      "Faux : la coprologie est négative dans les deux cas.",
+      "Les éosinophiles sont souvent normaux dans le LM cutané.",
+      "L'hyperéosinophilie oriente vers la toxocarose."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur la notion d'hôte en impasse dans ce chapitre ?",
+    "options": [
+      "L'homme est en impasse pour les larves d'ankylostomes animaux",
+      "L'homme est en impasse pour les larves d'Anisakidae",
+      "En impasse, le parasite ne devient jamais adulte",
+      "L'homme est en impasse pour les larves de Toxocara",
+      "En impasse, le parasite se reproduit activement"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Celles d'ankylostomes animaux meurent sous la peau.",
+      "Celles d'Anisakidae meurent dans la paroi digestive.",
+      "L'impasse signifie l'impossibilité d'atteindre le stade adulte.",
+      "Les larves de Toxocara ne deviennent jamais adultes chez l'homme.",
+      "Faux : aucune reproduction n'est possible en impasse."
+    ]
+  },
+  {
+    "q": "Quelles propositions font la synthèse des agents du syndrome de larva migrans ?",
+    "options": [
+      "Forme cutanée : larves d'ankylostomes du chien et du chat",
+      "Forme digestive : larves d'Anisakidae (poissons marins)",
+      "Tous sont des protozoaires",
+      "Forme viscérale : Toxocara canis (chien) et Toxocara cati (chat)",
+      "Tous sont des nématodes"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Les ankylostomes du chien/chat causent la forme cutanée.",
+      "Les Anisakidae des poissons marins causent l'anisakiose.",
+      "Faux : aucun n'est un protozoaire.",
+      "Toxocara canis et cati causent la forme viscérale.",
+      "Ce sont tous des nématodes."
+    ]
+  },
+  {
+    "q": "Dernière synthèse : quelles propositions sont exactes sur le syndrome de larva migrans ?",
+    "options": [
+      "Il est dû à des vers adultes vivant dans l'intestin humain",
+      "Le diagnostic direct est impossible dans la toxocarose et inutile dans le LM cutané",
+      "Il comporte une forme viscérale et une forme cutanée",
+      "La toxocarose, l'anisakiose et le LM cutané en sont les trois tableaux",
+      "Il regroupe les symptômes dus aux larves de nématodes en impasse"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : ce sont des larves en impasse, jamais des vers adultes intestinaux.",
+      "Pas d'extériorisation dans la toxocarose ; larve introuvable dans le LM cutané.",
+      "On distingue les formes viscérale et cutanée.",
+      "Toxocarose, anisakiose et LM cutané sont les trois tableaux du chapitre.",
+      "Le syndrome regroupe les symptômes des larves en impasse."
+    ]
+  },
+  {
+    "q": "Concernant les hôtes définitifs des Anisakidae, quelles propositions sont exactes ?",
+    "options": [
+      "L'homme n'est qu'un hôte accidentel en impasse",
+      "Les vers adultes vivent dans l'estomac des mammifères marins",
+      "Les mammifères marins (baleines, dauphins, phoques) sont les hôtes définitifs",
+      "Les vers adultes vivent dans l'intestin humain",
+      "Le chien est l'hôte définitif d'Anisakis simplex"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "L'homme, hôte accidentel, est en impasse parasitaire.",
+      "Les vers adultes parasitent leur estomac.",
+      "Baleines, dauphins et phoques sont les hôtes définitifs des Anisakidae.",
+      "Faux : aucun ver adulte ne se développe chez l'homme.",
+      "Faux : le chien n'a aucun rôle dans le cycle d'Anisakis."
+    ]
+  },
+  {
+    "q": "Quelles propositions décrivent le cycle d'Anisakis simplex ?",
+    "options": [
+      "Les poissons et céphalopodes sont les hôtes paraténiques",
+      "L'homme s'infecte en consommant du poisson cru parasité",
+      "Les œufs sont émis dans l'eau de mer par les mammifères marins",
+      "Le cycle se déroule entièrement dans le sol",
+      "Les crustacés sont les premiers hôtes intermédiaires"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Poissons et céphalopodes concentrent les larves L3.",
+      "L'homme s'infecte en mangeant le poisson cru ou peu cuit.",
+      "Les œufs sont émis en mer avec les fèces des mammifères marins.",
+      "Faux : le cycle est marin, sans phase tellurique.",
+      "Les petits crustacés ingèrent les larves (1ers hôtes intermédiaires)."
+    ]
+  },
+  {
+    "q": "Concernant l'allergie à Anisakis, quelles propositions sont exactes ?",
+    "options": [
+      "La cuisson élimine tout risque allergique",
+      "Une réaction allergique peut survenir même avec du poisson bien cuit",
+      "Certains allergènes sont thermostables",
+      "Un choc anaphylactique a été décrit",
+      "Les larves contiennent des allergènes puissants"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : la cuisson tue les larves mais pas tous les allergènes.",
+      "Le poisson cuit peut donc déclencher une allergie chez un sensibilisé.",
+      "Certains allergènes résistent à la chaleur (thermostables).",
+      "Des chocs anaphylactiques ont été rapportés.",
+      "Les protéines larvaires sont des allergènes reconnus."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur la prolificité des femelles de Toxocara ?",
+    "options": [
+      "Elles pondent environ 200 000 œufs par jour",
+      "Les femelles sont très prolifiques",
+      "Les mâles pondent aussi des œufs",
+      "Cette prolificité explique la contamination massive des sols",
+      "Elles pondent quelques œufs par semaine seulement"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Environ 200 000 œufs par jour et par femelle.",
+      "Les femelles de Toxocara sont extrêmement prolifiques.",
+      "Faux : seuls les vers femelles pondent.",
+      "D'où la contamination massive et durable des sols.",
+      "Faux : la ponte est massive, quotidienne."
+    ]
+  },
+  {
+    "q": "Concernant la contamination du chiot par Toxocara, quelles propositions sont exactes ?",
+    "options": [
+      "Les chiots sont massivement parasités dès la naissance",
+      "Les chiots naissent toujours indemnes de parasites",
+      "La vermifugation précoce des chiots est indispensable",
+      "La transmission transplacentaire est majeure chez la chienne",
+      "La transmission galactogène (par le lait) existe"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Les chiots naissent donc massivement parasités.",
+      "Faux : ils sont au contraire très souvent parasités.",
+      "D'où l'importance de la vermifugation précoce et répétée.",
+      "Les larves traversent le placenta et infestent les fœtus.",
+      "Le lait maternel transmet aussi les larves."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont exactes sur l'embryonnement des œufs de Toxocara ?",
+    "options": [
+      "Il se fait dans l'intestin du chien",
+      "Chaleur et humidité favorisent l'embryonnement",
+      "Il se fait dans le milieu extérieur, sur le sol",
+      "Il nécessite quelques semaines en conditions favorables",
+      "L'œuf est infestant dès son émission"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Faux : l'embryonnement est exogène, dans le sol.",
+      "Chaleur et humidité accélèrent l'embryonnement.",
+      "L'œuf, émis non embryonné, embryonne dans le sol.",
+      "Il faut quelques semaines pour obtenir la larve infestante.",
+      "Faux : l'œuf n'est pas infestant à l'émission."
+    ]
+  },
+  {
+    "q": "Combien de temps les larves de Toxocara survivent-elles dans les tissus humains ?",
+    "options": [
+      "Elles sont éliminées en 48 h dans les urines",
+      "Parfois des années",
+      "Elles meurent en quelques heures",
+      "Cette survie prolongée entretient les symptômes",
+      "Des mois"
+    ],
+    "correct": [
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : aucune élimination urinaire n'existe.",
+      "Certaines persistent des années, enkystées.",
+      "Faux : leur survie est au contraire prolongée.",
+      "D'où la chronicité des symptômes et de l'éosinophilie.",
+      "Les larves survivent des mois dans les tissus."
+    ]
+  },
+  {
+    "q": "Quels sont les synonymes du larva migrans cutané ?",
+    "options": [
+      "Lèpre",
+      "Pian",
+      "Dermatite vermineuse rampante",
+      "« Creeping eruption »",
+      "Larbish ? (terme inusité)"
+    ],
+    "correct": [
+      2,
+      3
+    ],
+    "explain": [
+      "Faux : la lèpre est une mycobactériose.",
+      "Faux : le pian est une tréponématose, sans rapport.",
+      "Dermatite vermineuse rampante est le synonyme français.",
+      "« Creeping eruption » est le terme anglo-saxon.",
+      "Faux : ce terme n'existe pas."
+    ]
+  },
+  {
+    "q": "Comment distinguer la gale du larva migrans cutané ?",
+    "options": [
+      "La gale donne des sillons scabieux interdigitaux, pas un cordon migrant unique",
+      "Le prurit de la gale prédomine la nuit",
+      "La gale est contagieuse, le LM cutané ne l'est pas",
+      "Le LM cutané avance de 3 cm/j, la gale n'a pas de migration visible",
+      "Les deux sont dus à des larves d'ankylostomes"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Les sillons de la gale siègent aux espaces interdigitaux, poignets.",
+      "Le prurit scabieux à recrudescence nocturne est typique.",
+      "La gale (acarien) est contagieuse, le LM cutané non.",
+      "Seul le LM cutané montre une progression quotidienne visible.",
+      "Faux : la gale est due à Sarcoptes scabiei, un acarien."
+    ]
+  },
+  {
+    "q": "Un touriste présente des trajets serpigineux prurigineux des fesses après s'être allongé sur une plage tropicale :",
+    "options": [
+      "L'agent probable est Ankylostoma braziliense",
+      "Le diagnostic est un larva migrans cutané",
+      "La station allongée explique la localisation",
+      "Il s'agit d'une mycose des plages",
+      "L'ivermectine est indiquée"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "A. braziliense du chien est l'agent le plus probable.",
+      "Le tableau est typique du LM cutané.",
+      "S'allonger à même le sable expose fesses et dos.",
+      "Faux : les mycoses ne donnent pas de cordon migrant.",
+      "L'ivermectine dose unique est le traitement."
+    ]
+  },
+  {
+    "q": "Un enfant de 3 ans joue dans un bac à sable souillé et porte ses mains à la bouche : quelles propositions sont vraies ?",
+    "options": [
+      "Couvrir le bac à sable est une mesure préventive",
+      "La tranche 2-7 ans est la plus touchée",
+      "Il est exposé à la toxocarose",
+      "Le lavage des mains avant les repas le protège",
+      "Aucun risque parasitaire n'existe"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Couvrir les bacs à sable limite la souillure animale.",
+      "Les enfants de 2 à 7 ans sont les plus exposés.",
+      "Les bacs à sable souillés transmettent les œufs de Toxocara.",
+      "Le lavage systématique des mains est la prévention individuelle clé.",
+      "Faux : le risque de toxocarose est réel."
+    ]
+  },
+  {
+    "q": "Un patient vomit 8 heures après des sushis avec une violente douleur épigastrique : quelle est la conduite à tenir ?",
+    "options": [
+      "Réaliser une endoscopie haute en urgence",
+      "Extraire les larves visualisées à la pince",
+      "Évoquer une anisakiose gastrique aiguë",
+      "Prescrire uniquement un pansement gastrique",
+      "Rassurer sans examen complémentaire"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "L'endoscopie haute visualise les larves fichées.",
+      "L'extraction à la pince fait diagnostic et traitement.",
+      "Le contexte et le délai évoquent l'anisakiose gastrique.",
+      "Faux : le pansement seul ne traite pas la cause.",
+      "Faux : le tableau impose une exploration."
+    ]
+  },
+  {
+    "q": "Sur une pièce d'exérèse iléale pour occlusion, l'histologie montre un granulome à éosinophiles avec structure larvaire :",
+    "options": [
+      "La lésion est inflammatoire et bénigne",
+      "L'interrogatoire doit rechercher du poisson cru",
+      "Le diagnostic est une anisakiose intestinale",
+      "Il s'agit d'un adénocarcinome",
+      "Un sérodiagnostic anti-Anisakis peut aider"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "C'est une pseudo-tumeur inflammatoire bénigne.",
+      "Le poisson cru est la source à rechercher.",
+      "Le granulome à larve signe l'anisakiose intestinale.",
+      "Faux : l'histologie montre une larve, pas un cancer.",
+      "La sérologie conforte le diagnostic."
+    ]
+  },
+  {
+    "q": "Devant une leucocorie unilatérale chez un enfant de 6 ans, quelles propositions sont vraies ?",
+    "options": [
+      "La toxocarose oculaire est un diagnostic différentiel",
+      "On peut attendre plusieurs mois avant d'explorer",
+      "La sérologie Toxocara est indiquée",
+      "Un avis ophtalmologique urgent s'impose",
+      "Le rétinoblastome est l'urgence diagnostique à éliminer"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Le granulome toxocarien en est un mimicker classique.",
+      "Faux : attendre ferait perdre toute chance en cas de tumeur.",
+      "La sérologie oriente vers la toxocarose.",
+      "L'avis ophtalmologique urgent est indispensable.",
+      "Tout reflet blanc pupillaire impose d'éliminer un rétinoblastome."
+    ]
+  },
+  {
+    "q": "Concernant l'interprétation de la sérologie Toxocara, quelles propositions sont exactes ?",
+    "options": [
+      "L'ELISA est la technique de dépistage",
+      "Les réactions croisées avec l'ascaris sont possibles",
+      "Les anticorps persistent longtemps après la guérison",
+      "Un titre isolé sans clinique impose un traitement",
+      "Le Western blot confirme un ELISA positif"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "L'ELISA (antigènes TES) est la technique de dépistage.",
+      "Des réactions croisées avec d'autres nématodes existent.",
+      "Les anticorps persistent des mois voire des années.",
+      "Faux : on traite la clinique, pas un titre isolé.",
+      "Le Western blot est la technique de confirmation."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur le suivi d'une toxocarose traitée ?",
+    "options": [
+      "Aucun suivi n'est nécessaire",
+      "Une sérologie qui reste positive n'impose pas de retraiter systématiquement",
+      "La sérologie décroît lentement et reste positive longtemps",
+      "La normalisation immédiate des anticorps est attendue",
+      "La clinique et l'éosinophilie guident le suivi"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Faux : un suivi clinique et biologique est utile.",
+      "On ne retraite pas sur la seule persistance des anticorps.",
+      "Les anticorps décroissent lentement sur des mois.",
+      "Faux : la sérologie reste positive longtemps.",
+      "L'amélioration clinique et la baisse des éosinophiles sont suivies."
+    ]
+  },
+  {
+    "q": "Concernant la surveillance d'une toxocarose oculaire sous corticoïdes, quelles propositions sont exactes ?",
+    "options": [
+      "Une surveillance ophtalmologique rapprochée est nécessaire",
+      "L'albendazole peut être associé dans les formes sévères",
+      "L'acuité visuelle doit être suivie",
+      "Aucune surveillance n'est utile",
+      "La pression intraoculaire doit être surveillée sous corticoïdes"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "L'œil menacé impose une surveillance ophtalmologique rapprochée.",
+      "L'association albendazole-corticoïdes est possible si sévère.",
+      "L'acuité visuelle est le critère principal.",
+      "Faux : la surveillance est indispensable.",
+      "Les corticoïdes exposent à l'hypertonie oculaire."
+    ]
+  },
+  {
+    "q": "Quelles précautions entourent la prescription d'albendazole ?",
+    "options": [
+      "Aucune précaution n'est nécessaire",
+      "Surveillance hépatique en cas de cure prolongée",
+      "Contre-indication relative au 1er trimestre de la grossesse",
+      "Surveillance de la NFS (neutropénie possible)",
+      "Il est sans effet indésirable"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Faux : des précautions s'imposent.",
+      "Une cytolyse hépatique est possible : bilan hépatique.",
+      "La grossesse (surtout 1er trimestre) est une contre-indication relative.",
+      "Des neutropénies sont décrites sous benzimidazoles.",
+      "Faux : comme tout médicament, il a des effets indésirables."
+    ]
+  },
+  {
+    "q": "Le vinaigre et le lavage simple éliminent-ils le risque lié aux œufs de Toxocara sur les crudités ?",
+    "options": [
+      "Le vinaigre ne détruit pas les œufs de Toxocara",
+      "Éplucher les légumes est une mesure efficace",
+      "Le lavage soigneux à grande eau réduit le risque",
+      "Les œufs résistent aux désinfectants usuels",
+      "Un lavage vinaigré suffit à stériliser les salades"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Le vinaigre ménager ne tue pas les œufs.",
+      "Éplucher élimine les œufs fixés sur la peau des légumes.",
+      "Un lavage abondant élimine mécaniquement une partie des œufs.",
+      "La coque épaisse résiste aux désinfectants usuels.",
+      "Faux : le vinaigre n'a pas d'action ovicide."
+    ]
+  },
+  {
+    "q": "Quelles mesures d'hygiène collective limitent la toxocarose en ville ?",
+    "options": [
+      "Imposer le ramassage des déjections canines",
+      "Protéger les bacs à sable",
+      "Abattre tous les chiens errants sans autre mesure",
+      "Interdire les chiens dans les parcs publics et aires de jeux",
+      "Vermifuger régulièrement les chiens"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Le ramassage des déjections limite le péril fécal.",
+      "Les bacs à sable doivent être couverts et protégés.",
+      "Faux : la mesure n'est ni nécessaire ni suffisante seule.",
+      "L'éviction des chiens des parcs et aires de jeux est recommandée.",
+      "La vermifugation régulière tarit la source."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur l'expulsion de larves d'Anisakis ?",
+    "options": [
+      "Les larves sont toujours expulsées spontanément",
+      "Le vomissement est impossible",
+      "L'expulsion spontanée ne dispense pas d'une endoscopie de contrôle",
+      "Des larves peuvent être vomies dans la forme gastrique",
+      "Le vomissement peut soulager brutalement la douleur"
+    ],
+    "correct": [
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : l'expulsion spontanée n'est pas constante.",
+      "Faux : vomissements et expulsion sont possibles.",
+      "Il faut vérifier l'absence d'autres larves fichées.",
+      "Le vomissement de larves est décrit dans la forme gastrique.",
+      "L'expulsion peut faire céder la douleur."
+    ]
+  },
+  {
+    "q": "Quels diagnostics différentiels évoquer devant une douleur épigastrique aiguë post-sushis ?",
+    "options": [
+      "Le larva migrans cutané",
+      "La colique hépatique",
+      "L'ulcère gastroduodénal",
+      "L'anisakiose gastrique",
+      "L'infarctus du myocarde inférieur"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : le LM cutané n'a aucune expression digestive.",
+      "La colique hépatique donne aussi une douleur épigastrique aiguë.",
+      "L'ulcère est le mimicker classique (syndrome pseudo-ulcéreux).",
+      "Le contexte fait évoquer l'anisakiose en premier.",
+      "Un infarctus inférieur peut mimer une douleur épigastrique."
+    ]
+  },
+  {
+    "q": "Concernant le délai d'apparition de l'anisakiose intestinale, quelles propositions sont exactes ?",
+    "options": [
+      "Elle survient quelques jours après l'ingestion",
+      "Elle survient dans l'heure qui suit le repas",
+      "Elle peut mimer une appendicite",
+      "Le délai est plus long que pour la forme gastrique",
+      "Elle est immédiate comme une allergie"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "La forme intestinale apparaît après quelques jours.",
+      "Faux : ce délai correspond à la forme gastrique.",
+      "La douleur de fosse iliaque droite peut mimer une appendicite.",
+      "Son délai est plus long que la forme gastrique (quelques heures).",
+      "Faux : seule la forme allergique peut être immédiate."
+    ]
+  },
+  {
+    "q": "Quelles localisations atypiques du larva migrans cutané peut-on observer ?",
+    "options": [
+      "Les mains chez les jardiniers en zone d'endémie",
+      "Le cuir chevelu comme localisation habituelle",
+      "Plusieurs trajets simultanés en cas d'expositions multiples",
+      "Les seins après bain de soleil à même le sable",
+      "Les fesses et le dos après station allongée"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Les mains sont exposées lors du jardinage ou des jeux.",
+      "Faux : le cuir chevelu n'est pas une localisation habituelle.",
+      "Des pénétrations multiples donnent des trajets multiples.",
+      "Le bain de soleil à même le sable expose le tronc.",
+      "La station allongée expose le dos et les fesses."
+    ]
+  },
+  {
+    "q": "Que faire devant une surinfection bactérienne d'un trajet de larva migrans cutané ?",
+    "options": [
+      "Éviter le grattage",
+      "Des soins locaux antiseptiques sont utiles",
+      "Traiter l'anthelminthique (ivermectine) reste indiqué",
+      "Une antibiothérapie locale ou générale si impétiginisation",
+      "Rien : la surinfection est impossible"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Le grattage entretient la surinfection : il faut l'éviter.",
+      "L'antisepsie locale limite la surinfection.",
+      "L'ivermectine élimine la larve, cause du prurit.",
+      "L'impétiginisation justifie une antibiothérapie adaptée.",
+      "Faux : le grattage du prurit peut surinfecter."
+    ]
+  },
+  {
+    "q": "Faut-il isoler ou évincer un patient atteint de larva migrans cutané ?",
+    "options": [
+      "Les draps doivent être stérilisés",
+      "Non, il n'est pas contagieux",
+      "Le patient peut contaminer son entourage par contact",
+      "Aucune éviction scolaire n'est nécessaire",
+      "Aucun isolement n'est requis"
+    ],
+    "correct": [
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : aucune mesure sur le linge n'est nécessaire.",
+      "Aucune transmission interhumaine n'existe.",
+      "Faux : le patient n'émet aucun stade infestant.",
+      "L'enfant peut retourner à l'école normalement.",
+      "Aucune mesure d'isolement ne s'impose."
+    ]
+  },
+  {
+    "q": "Un adulte présente une asthénie inexpliquée avec hyperéosinophilie modérée chronique et possède un chien :",
+    "options": [
+      "Évoquer une toxocarose commune",
+      "Vérifier la vermifugation du chien",
+      "Prescrire d'emblée une corticothérapie d'un mois",
+      "Demander une sérologie Toxocara (ELISA)",
+      "Réaliser une coprologie en première intention"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "Asthénie + éosinophilie chronique + chien : toxocarose à évoquer.",
+      "Le chien non vermifugé est la source à tarir.",
+      "Faux : les corticoïdes d'un mois concernent la forme oculaire.",
+      "L'ELISA Toxocara est l'examen de confirmation.",
+      "Faux : la coprologie est toujours négative."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur l'atteinte pulmonaire de la toxocarose ?",
+    "options": [
+      "Elle est due à des vers adultes dans les bronches",
+      "Elle est la manifestation la plus fréquente",
+      "La migration larvaire pulmonaire donne toux et infiltrats",
+      "Le tableau peut évoquer un syndrome de Loeffler",
+      "L'hyperéosinophilie accompagne l'atteinte"
+    ],
+    "correct": [
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : ce sont des larves en migration, pas des vers adultes.",
+      "Faux : la forme commune (asthénie, fièvre) est la plus fréquente.",
+      "Le passage pulmonaire des larves donne toux et infiltrats labiles.",
+      "Le tableau est proche du syndrome de Loeffler.",
+      "L'hyperéosinophilie est quasi constante."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur l'atteinte hépatique de la toxocarose ?",
+    "options": [
+      "Une hépatomégalie douloureuse est possible",
+      "L'atteinte hépatique est exceptionnelle",
+      "Des granulomes à éosinophiles se forment dans le foie",
+      "Les vers adultes colonisent les voies biliaires",
+      "Le foie est une étape classique de la migration larvaire"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explain": [
+      "L'hépatomégalie avec douleur de l'hypocondre droit est décrite.",
+      "Faux : le foie est au contraire souvent concerné.",
+      "Les granulomes éosinophiliques hépatiques sont typiques.",
+      "Faux : aucun ver adulte ne se développe chez l'homme.",
+      "Le foie est la première étape de la migration après l'intestin."
+    ]
+  },
+  {
+    "q": "Quelles atteintes rares ont été décrites dans la toxocarose ?",
+    "options": [
+      "Une atteinte rénale",
+      "Une vascularite",
+      "Une atteinte oculaire",
+      "Un syndrome occlusif intestinal",
+      "Une myocardite"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Une atteinte rénale (glomérulaire) est décrite.",
+      "Des vascularites peuvent compliquer les formes disséminées.",
+      "L'atteinte oculaire, rare, est la plus redoutée.",
+      "Faux : aucun ver adulte intestinal, donc pas d'occlusion.",
+      "Des myocardites à éosinophiles ont été rapportées."
+    ]
+  },
+  {
+    "q": "Devant une hyperéosinophilie chronique, quels diagnostics parasitaires évoquer ?",
+    "options": [
+      "La trichinose",
+      "Les filarioses",
+      "La gale",
+      "L'ascaridiose en phase de migration",
+      "La toxocarose"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "La trichinose donne une hyperéosinophilie majeure fébrile.",
+      "Les filarioses sont des causes d'éosinophilie chronique.",
+      "Faux : la gale ne donne pas d'hyperéosinophilie sanguine.",
+      "La migration larvaire de l'ascaris s'accompagne d'éosinophilie.",
+      "La toxocarose est une cause classique d'éosinophilie chronique."
+    ]
+  },
+  {
+    "q": "Comment distinguer la trichinose de la toxocarose ?",
+    "options": [
+      "Les deux se transmettent par le poisson cru",
+      "Les deux donnent une hyperéosinophilie",
+      "La trichinose fait suite à la consommation de viande de porc ou de sanglier",
+      "La toxocarose est liée aux chiens/chats et aux œufs du sol",
+      "Myalgies et œdème palpébral orientent vers la trichinose"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : aucune n'est liée au poisson cru.",
+      "L'hyperéosinophilie est commune aux deux helminthiases.",
+      "La trichinose suit l'ingestion de viande parasitée (porc, sanglier).",
+      "La toxocarose est liée au péril fécal canin/félin.",
+      "Myalgies fébriles et œdème des paupières sont typiques."
+    ]
+  },
+  {
+    "q": "Quelles mesures préventives à l'achat du poisson limitent l'anisakiose ?",
+    "options": [
+      "Acheter du poisson cru sans aucun contrôle",
+      "Privilégier le poisson éviscéré rapidement",
+      "Éviscérer soi-même rapidement le poisson pêché",
+      "Le poisson d'élevage est totalement indemne de risque",
+      "Choisir du poisson ayant subi une congélation à -20 °C pour le cru"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Faux : le poisson cru non contrôlé est à risque.",
+      "L'éviscération rapide limite la migration des larves vers la chair.",
+      "Éviscérer vite son poisson de pêche limite le risque.",
+      "Faux : le risque est réduit en élevage mais pas nul.",
+      "La congélation réglementaire garantit la destruction des larves."
+    ]
+  },
+  {
+    "q": "Pourquoi faut-il éviscérer rapidement le poisson ?",
+    "options": [
+      "Les larves sont initialement dans les viscères",
+      "L'éviscération rapide limite la contamination de la chair",
+      "Les larves migrent des viscères vers la chair après la mort du poisson",
+      "L'éviscération tue les larves déjà dans la chair",
+      "Cela n'a aucun intérêt"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Les larves L3 sont initialement enkystées dans les viscères.",
+      "Éviscérer vite interrompt cette migration.",
+      "Après la mort du poisson, les larves migrent vers la chair.",
+      "Faux : l'éviscération n'atteint pas les larves déjà dans la chair.",
+      "Faux : c'est une mesure préventive reconnue."
+    ]
+  },
+  {
+    "q": "Quelles propositions rappellent la durée de migration sous-cutanée des larves d'ankylostomes ?",
+    "options": [
+      "Quelques heures seulement",
+      "La migration cesse avec la mort in situ de la larve",
+      "Parfois plusieurs mois",
+      "Plusieurs années",
+      "Plusieurs semaines"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Faux : la migration est prolongée, pas éclair.",
+      "La mort in situ de la larve non adaptée met fin à la migration.",
+      "Elle peut se prolonger plusieurs mois.",
+      "Faux : les larves ne survivent pas des années dans la peau.",
+      "La migration sous-cutanée dure plusieurs semaines."
+    ]
+  },
+  {
+    "q": "Pourquoi les larves d'ankylostomes animaux meurent-elles chez l'homme ?",
+    "options": [
+      "La réaction immunitaire et allergique les détruit",
+      "Elles sont en impasse parasitaire",
+      "L'homme n'est pas un hôte adapté",
+      "Elles deviennent adultes puis meurent de vieillesse",
+      "Elles manquent de signaux pour poursuivre leur cycle"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "La réaction inflammatoire et allergique participe à leur destruction.",
+      "L'impasse parasitaire bloque le développement.",
+      "L'homme est un hôte accidentel non adapté.",
+      "Faux : elles ne deviennent jamais adultes chez l'homme.",
+      "Les signaux du cycle (retour à l'intestin) font défaut."
+    ]
+  },
+  {
+    "q": "Récapitulatif des stades infestants : quelles propositions sont exactes ?",
+    "options": [
+      "Les trois : piqûre d'arthropode",
+      "Larva migrans cutané : larve L3 à pénétration transcutanée",
+      "Anisakiose : larve L3 ingérée avec le poisson",
+      "Les trois : œufs ingérés",
+      "Toxocarose : œuf embryonné ingéré"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Faux : aucun vecteur arthropode n'intervient.",
+      "La larve L3 d'ankylostome pénètre la peau.",
+      "La larve L3 d'Anisakidae est ingérée avec le poisson.",
+      "Faux : seuls les œufs de Toxocara sont en cause.",
+      "L'œuf embryonné de Toxocara est le stade infestant."
+    ]
+  },
+  {
+    "q": "Récapitulatif des traitements : quelles propositions sont exactes ?",
+    "options": [
+      "Les trois : exérèse chirurgicale large systématique",
+      "Anisakiose : extirpation chirurgicale ou endoscopique des larves",
+      "Toxocarose oculaire : corticothérapie pendant un mois",
+      "Toxocarose grave : albendazole 10-15 mg/kg/j pendant 15 j ou ivermectine",
+      "Larva migrans cutané : ivermectine dose unique ou albendazole 3 j"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : seule l'anisakiose peut relever de la chirurgie.",
+      "L'extirpation des larves traite l'anisakiose.",
+      "Les corticoïdes pendant un mois traitent la forme oculaire.",
+      "L'albendazole (ou l'ivermectine) traite les formes graves de toxocarose.",
+      "Ivermectine ou albendazole traitent le LM cutané."
+    ]
+  },
+  {
+    "q": "Récapitulatif des diagnostics : quelles propositions sont exactes ?",
+    "options": [
+      "Anisakiose : endoscopie et histologie",
+      "Les trois : diagnostic uniquement clinique",
+      "Les trois : coprologie positive",
+      "Toxocarose : sérologie (ELISA puis Western blot)",
+      "Larva migrans cutané : diagnostic clinique"
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ],
+    "explain": [
+      "Endoscopie et histologie diagnostiquent l'anisakiose.",
+      "Faux : toxocarose et anisakiose ont un diagnostic paraclinique.",
+      "Faux : la coprologie est négative (pas d'œufs émis).",
+      "La sérologie est l'outil diagnostique de la toxocarose.",
+      "Le LM cutané se diagnostique cliniquement."
+    ]
+  },
+  {
+    "q": "Récapitulatif des préventions : quelles propositions sont exactes ?",
+    "options": [
+      "Lutte contre le péril fécal animal (toxocarose et LM cutané)",
+      "Anisakiose : cuisson et congélation du poisson, éviter le cru",
+      "Vaccination systématique des voyageurs",
+      "Toxocarose : hygiène des mains, lavage des crudités, vermifugation des chiens",
+      "Larva migrans cutané : chaussures, éviter le contact au sol en zone d'endémie"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Le péril fécal animal entretient les deux parasitoses telluriques.",
+      "Cuisson et congélation préviennent l'anisakiose.",
+      "Faux : aucun vaccin n'existe.",
+      "Hygiène et vermifugation préviennent la toxocarose.",
+      "Chaussures et éviction du sol préviennent le LM cutané."
+    ]
+  },
+  {
+    "q": "Quels examens sont inutiles devant un larva migrans cutané typique ?",
+    "options": [
+      "La recherche de la larve",
+      "La coprologie",
+      "L'examen clinique du trajet",
+      "La sérologie anti-Toxocara",
+      "L'interrogatoire sur le séjour tropical"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explain": [
+      "La larve, en avant du sillon, n'est pas retrouvée : recherche inutile.",
+      "Aucun œuf n'est émis : la coprologie est inutile.",
+      "Faux : l'examen clinique fait le diagnostic.",
+      "La sérologie Toxocara n'a pas d'intérêt ici.",
+      "Faux : l'interrogatoire (plage tropicale) est au contraire essentiel."
+    ]
+  },
+  {
+    "q": "Un enfant avec un chien non vermifugé présente une hyperéosinophilie chronique inexpliquée : quel est l'examen de première intention ?",
+    "options": [
+      "Le dosage des IgE totales",
+      "La sérologie Toxocara par ELISA",
+      "La radiographie pulmonaire systématique",
+      "La coprologie",
+      "La NFS avec compte des éosinophiles"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "Les IgE totales accompagnent classiquement l'éosinophilie.",
+      "L'ELISA Toxocara est l'examen de confirmation de première intention.",
+      "Faux : la radiographie n'est pas un examen de première intention.",
+      "Faux : la coprologie est toujours négative dans la toxocarose.",
+      "La NFS quantifie l'hyperéosinophilie d'orientation."
+    ]
+  },
+  {
+    "q": "Quelle est la conduite diagnostique logique devant une suspicion de toxocarose viscérale ?",
+    "options": [
+      "Sérologie ELISA Toxocara en confirmation",
+      "Biopsie hépatique systématique",
+      "Western blot en cas de doute ou de réaction croisée",
+      "NFS et IgE en orientation",
+      "Coprologie en première intention"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "L'ELISA confirme l'exposition à Toxocara.",
+      "Faux : la biopsie hépatique n'est pas systématique.",
+      "Le Western blot tranche en cas de réaction croisée.",
+      "Hyperéosinophilie et IgE orientent vers une helminthiase tissulaire.",
+      "Faux : la coprologie est inutile (pas d'extériorisation)."
+    ]
+  },
+  {
+    "q": "Un enfant de 5 ans, chien à la maison, éosinophiles à 1 800/µL, sérologie Toxocara positive, asthénie persistante : quelle conduite ?",
+    "options": [
+      "Aucune mesure n'est nécessaire",
+      "La vermifugation du chien et l'hygiène sont à mettre en place",
+      "Le tableau est celui d'une toxocarose commune symptomatique",
+      "Un traitement par albendazole peut se discuter (forme non améliorée)",
+      "Une corticothérapie d'un mois s'impose"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Faux : la forme symptomatique persistante se traite.",
+      "Tarir la source (chien) et l'hygiène préviennent les réinfestations.",
+      "Asthénie + éosinophilie + sérologie positive = toxocarose commune.",
+      "La persistance des symptômes justifie l'albendazole.",
+      "Faux : les corticoïdes d'un mois concernent la forme oculaire."
+    ]
+  },
+  {
+    "q": "Quels conseils donner à un voyageur avant un séjour sur une plage tropicale ?",
+    "options": [
+      "Marcher pieds nus pour renforcer la peau",
+      "Porter des chaussures ou sandales fermées sur le sable",
+      "Savoir reconnaître un cordon rouge serpigineux prurigineux",
+      "Ne pas s'allonger à même le sable (préférer un transat)",
+      "Se renseigner sur la présence de chiens errants"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : la marche pieds nus est le mode de contamination.",
+      "Les chaussures protègent de la pénétration larvaire.",
+      "Reconnaître le tableau permet de consulter vite.",
+      "Le transat évite le contact prolongé avec le sable.",
+      "Les chiens errants signalent un sable à risque."
+    ]
+  },
+  {
+    "q": "Quelles idées reçues sont fausses à propos du syndrome de larva migrans ?",
+    "options": [
+      "« La toxocarose se transmet d'homme à homme »",
+      "« Le poisson bien cuit transmet l'anisakiose »",
+      "« Le larva migrans cutané est contagieux »",
+      "« La coprologie permet le diagnostic de la toxocarose »",
+      "« L'homme est un hôte en impasse pour ces larves »"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "Faux : la transmission passe par les œufs d'origine animale.",
+      "Faux : la cuisson détruit les larves d'Anisakidae.",
+      "Faux : aucune transmission interhumaine n'existe.",
+      "Faux : aucun œuf n'est émis, la coprologie est négative.",
+      "Cette proposition est vraie : l'homme est bien en impasse."
+    ]
+  },
+  {
+    "q": "Quelles erreurs thérapeutiques éviter dans le larva migrans cutané ?",
+    "options": [
+      "Multiplier les biopsies à la recherche de la larve",
+      "Réaliser une exérèse chirurgicale large",
+      "Oublier le traitement symptomatique du prurit",
+      "Prescrire une corticothérapie générale prolongée",
+      "Prescrire de l'ivermectine en dose unique"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "La larve, en avant du sillon, ne sera pas trouvée.",
+      "Aucune chirurgie n'est indiquée.",
+      "Le prurit intense justifie antihistaminiques et soins locaux.",
+      "La corticothérapie générale n'a pas d'indication.",
+      "Cette proposition est correcte : c'est le traitement de choix."
+    ]
+  },
+  {
+    "q": "Quelles erreurs éviter dans la suspicion d'anisakiose ?",
+    "options": [
+      "Négliger le risque allergique",
+      "Conclure à un ulcère banal sans interroger sur le poisson cru",
+      "Traiter une occlusion sur anisakiose uniquement par albendazole",
+      "Réaliser une endoscopie avec extraction des larves",
+      "Oublier l'endoscopie devant une douleur pseudo-ulcéreuse post-sushis"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Urticaire et choc anaphylactique sont possibles.",
+      "L'interrogatoire alimentaire est l'élément clé.",
+      "L'occlusion peut nécessiter la chirurgie, pas l'albendazole seul.",
+      "Cette proposition est correcte : c'est la conduite à tenir.",
+      "L'endoscopie fait le diagnostic de la forme gastrique."
+    ]
+  },
+  {
+    "q": "Concernant la place de la chirurgie dans ces parasitoses, quelles propositions sont exactes ?",
+    "options": [
+      "Larva migrans cutané : aucune indication chirurgicale",
+      "Toxocarose : aucune indication chirurgicale",
+      "Les trois relèvent systématiquement de la chirurgie",
+      "Anisakiose gastrique : l'extraction endoscopique suffit souvent",
+      "Anisakiose occlusive : la chirurgie peut être nécessaire"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "Le LM cutané est médical (ivermectine, albendazole).",
+      "La toxocarose est médicale (anthelminthiques, corticoïdes).",
+      "Faux : seule l'anisakiose peut relever de la chirurgie.",
+      "La forme gastrique se traite par extraction endoscopique.",
+      "L'occlusion sur anisakiose intestinale peut imposer la chirurgie."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur les hôtes définitifs des ankylostomes animaux ?",
+    "options": [
+      "Le chien et le chat hébergent Ankylostoma caninum",
+      "Les vers adultes vivent dans l'intestin grêle de l'animal",
+      "L'homme est l'hôte définitif de ces ankylostomes",
+      "Le chien est l'hôte définitif d'Ankylostoma braziliense",
+      "Les œufs sont émis avec les selles de l'animal"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "A. caninum parasite le chien et le chat.",
+      "Les adultes hématophages vivent dans l'intestin grêle.",
+      "Faux : chez l'homme, les larves sont en impasse.",
+      "A. braziliense est l'ankylostome du chien.",
+      "Les œufs sont émis avec les déjections."
+    ]
+  },
+  {
+    "q": "Quel est l'intérêt de la coprologie chez le chien dans ce contexte ?",
+    "options": [
+      "Elle détecte les œufs d'ankylostomes et de Toxocara",
+      "Elle est inutile en médecine vétérinaire",
+      "Elle guide la vermifugation du chien",
+      "Elle diagnostique la toxocarose humaine",
+      "Elle évalue le risque de contamination du sol"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "explain": [
+      "La coprologie canine retrouve les œufs des parasites.",
+      "Faux : elle est très utile en médecine vétérinaire.",
+      "Elle permet d'adapter la vermifugation.",
+      "Faux : la toxocarose humaine se diagnostique par sérologie.",
+      "Un chien positif signale un sol à risque."
+    ]
+  },
+  {
+    "q": "Quelles propositions rappellent la larva currens ?",
+    "options": [
+      "Elle est due à Strongyloides stercoralis (anguillule)",
+      "Le trajet serpigineux avance très vite (cm par heure)",
+      "Elle est due à des ankylostomes du chien",
+      "Elle avance lentement à 3 cm par jour",
+      "C'est une urticaire linéaire migratrice"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "La larva currens est due à l'anguillule Strongyloides.",
+      "Sa progression fulgurante la distingue du LM cutané.",
+      "Faux : les ankylostomes du chien donnent le LM cutané.",
+      "Faux : 3 cm/j, c'est la vitesse du LM cutané.",
+      "C'est une traînée urticarienne linéaire fugace."
+    ]
+  },
+  {
+    "q": "Synthèse finale : quelles propositions définissent le syndrome de larva migrans ?",
+    "options": [
+      "Un ensemble de symptômes dus à des larves de nématodes en impasse parasitaire",
+      "Des vers adultes se reproduisant dans l'intestin humain",
+      "Deux formes : viscérale (toxocarose, anisakiose) et cutanée (ankylostomes animaux)",
+      "Des zoonoses où l'homme est un hôte accidentel",
+      "Un diagnostic direct impossible (toxocarose) ou inutile (LM cutané)"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Le syndrome regroupe les symptômes des larves en impasse.",
+      "Faux : aucun ver adulte ne se développe chez l'homme.",
+      "Forme viscérale (Toxocara, Anisakidae) et cutanée (ankylostomes).",
+      "Ce sont des zoonoses à hôte accidentel humain.",
+      "Pas d'extériorisation dans la toxocarose ; larve introuvable dans le LM cutané."
+    ]
+  },
+  {
+    "q": "Le pelage du chien peut-il participer à la contamination toxocarienne ?",
+    "options": [
+      "Caresser un chien est le seul mode de contamination",
+      "Oui, des œufs embryonnés peuvent souiller le pelage",
+      "Le lavage des mains après contact avec le chien est recommandé",
+      "Le simple contact avec un chien vermifugé est sans risque majeur",
+      "Caresser un chien puis porter les mains à la bouche expose"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explain": [
+      "Faux : les légumes souillés et le sol sont des sources majeures.",
+      "Le pelage, souillé par l'environnement, peut porter des œufs.",
+      "D'où le lavage des mains après tout contact avec le chien.",
+      "Un chien régulièrement vermifugé présente un risque très réduit.",
+      "Le contact main-bouche après caresses est une voie d'infestation."
+    ]
+  },
+  {
+    "q": "Quelles habitudes de l'enfant augmentent le risque de toxocarose ?",
+    "options": [
+      "La géophagie (ingestion de terre)",
+      "Le port des mains sales à la bouche",
+      "Le lavage systématique des mains",
+      "Les jeux dans les bacs à sable non protégés",
+      "L'onychophagie (rongement des ongles)"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "La géophagie expose directement aux œufs du sol.",
+      "Les mains sales à la bouche sont la voie classique.",
+      "Cette proposition est protectrice, pas à risque.",
+      "Les bacs à sable souillés sont une source majeure.",
+      "Les ongles rongés portent les œufs des mains sales."
+    ]
+  },
+  {
+    "q": "La cryothérapie est-elle un traitement du larva migrans cutané ?",
+    "options": [
+      "Non, elle est inefficace",
+      "Le froid appliqué sur le cordon ne touche pas la larve",
+      "La larve se trouve en avant du sillon visible",
+      "Le traitement repose sur l'ivermectine ou l'albendazole",
+      "Oui, c'est le traitement de référence"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "La cryothérapie n'a pas d'efficacité démontrée.",
+      "Le froid appliqué sur le sillon rate donc sa cible.",
+      "La larve migre en avant du cordon visible.",
+      "Ivermectine ou albendazole sont les traitements efficaces.",
+      "Faux : ce n'est pas un traitement recommandé."
+    ]
+  },
+  {
+    "q": "Quelles séquelles cutanées peuvent suivre un larva migrans cutané ?",
+    "options": [
+      "Le plus souvent aucune séquelle",
+      "Des trajets définitifs tatoués dans la peau",
+      "Une dépigmentation définitive systématique",
+      "Une hyperpigmentation post-inflammatoire transitoire",
+      "Des cicatrices fibreuses étendues constantes"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "explain": [
+      "La guérison se fait habituellement sans séquelle.",
+      "Faux : les trajets régressent complètement.",
+      "Faux : la dépigmentation définitive n'est pas la règle.",
+      "Une pigmentation résiduelle transitoire est possible.",
+      "Faux : aucune cicatrice fibreuse n'est décrite."
+    ]
+  },
+  {
+    "q": "Comment distinguer l'érythème migrant de Lyme du cordon du larva migrans cutané ?",
+    "options": [
+      "Il s'étend de façon centrifuge en anneau, non serpigineux",
+      "Il est en général non prurigineux",
+      "Le LM cutané est un cordon serpigineux très prurigineux migrant de 3 cm/j",
+      "Les deux sont dus à des larves d'ankylostomes",
+      "L'érythème migrant suit une piqûre de tique"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "Son extension centrifuge en cocarde est caractéristique.",
+      "Il est habituellement indolore et non prurigineux.",
+      "Le cordon du LM cutané, prurigineux et migrant, s'en distingue.",
+      "Faux : l'érythème migrant est dû à Borrelia, une bactérie.",
+      "L'érythème migrant est la lésion de la borréliose après piqûre de tique."
+    ]
+  },
+  {
+    "q": "La sérologie Toxocara peut-elle être négative dans une toxocarose oculaire ancienne ?",
+    "options": [
+      "Le diagnostic repose alors sur la clinique ophtalmologique",
+      "Oui, dans les formes oculaires anciennes et localisées",
+      "La charge larvaire y est faible (souvent une seule larve)",
+      "La sérologie est toujours fortement positive dans tous les cas",
+      "La réponse humorale peut être modeste"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explain": [
+      "L'examen ophtalmologique prime alors.",
+      "Les formes oculaires anciennes peuvent être séronégatives.",
+      "Une seule larve intraoculaire induit peu d'anticorps.",
+      "Faux : la séronégativité est possible dans ces formes.",
+      "La réponse humorale systémique peut être faible."
+    ]
+  },
+  {
+    "q": "Parmi ces parasites, lesquels ne donnent pas de syndrome de larva migrans ?",
+    "options": [
+      "Trichuris trichiura (trichocéphale)",
+      "Enterobius vermicularis (oxyure)",
+      "Taenia solium (cysticerque excepté)",
+      "Toxocara canis",
+      "Ankylostoma braziliense"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "explain": [
+      "Le trichocéphale n'a pas de phase de migration larvaire.",
+      "L'oxyure a un cycle direct sans migration tissulaire.",
+      "Le ténia adulte n'a pas de migration larvaire (la cysticercose est une autre entité).",
+      "Faux : T. canis est l'agent du larva migrans viscéral.",
+      "Faux : A. braziliense donne le larva migrans cutané."
+    ]
+  },
+  {
+    "q": "Quelles propositions sont vraies sur Pseudoterranova decipiens ?",
+    "options": [
+      "Il donne des tableaux digestifs comme Anisakis simplex",
+      "C'est un ankylostome du chien",
+      "Il peut infester l'homme par le poisson cru",
+      "C'est un Anisakidae parasite des phoques",
+      "Il se transmet par les légumes souillés"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explain": [
+      "Les tableaux digestifs sont analogues à ceux d'Anisakis.",
+      "Faux : ce n'est pas un ankylostome.",
+      "Le poisson cru (morue notamment) le transmet à l'homme.",
+      "Pseudoterranova decipiens est l'anisakidé du phoque.",
+      "Faux : la transmission est par le poisson, pas les légumes."
+    ]
+  },
+  {
+    "q": "Quelle est la place des anthelminthiques dans l'anisakiose ?",
+    "options": [
+      "Aucun médicament n'a d'activité sur les larves",
+      "L'extirpation des larves prime",
+      "Ils ne sont pas le traitement de référence",
+      "L'albendazole seul ne suffit pas dans les formes occlusives",
+      "L'albendazole est le traitement de choix de la forme gastrique"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explain": [
+      "Faux : les anthelminthiques ont une activité, mais insuffisante ici.",
+      "Chirurgie ou endoscopie priment sur le médicament.",
+      "Le traitement de référence est l'extirpation des larves.",
+      "L'occlusion relève de la chirurgie, pas de l'albendazole seul.",
+      "Faux : l'extraction endoscopique est le traitement."
+    ]
+  },
+  {
+    "q": "Un enfant présente une éosinophilie à 2 500/µL avec prurit et un chiot non vermifugé à la maison :",
+    "options": [
+      "Vermifuger le chiot et renforcer l'hygiène",
+      "Évoquer une toxocarose en premier",
+      "Réaliser une coprologie pour confirmer",
+      "Conclure d'emblée à une leucémie",
+      "Demander une sérologie Toxocara"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "explain": [
+      "La vermifugation du chiot tarit la source.",
+      "Le contexte (chiot, prurit, éosinophilie) évoque la toxocarose.",
+      "Faux : la coprologie est toujours négative.",
+      "Faux : la leucémie est un diagnostic d'élimination, pas de première intention ici.",
+      "L'ELISA Toxocara confirmera."
+    ]
+  },
+  {
+    "q": "Question bilan : un QCM affirme « dans le syndrome de larva migrans, le diagnostic parasitologique direct est toujours possible » :",
+    "options": [
+      "Dans le LM cutané, la recherche de la larve est inutile",
+      "Dans la toxocarose, il n'y a pas d'extériorisation du parasite",
+      "Cette affirmation est vraie dans tous les cas",
+      "Cette affirmation est fausse",
+      "Seule l'anisakiose permet une visualisation directe (endoscopie)"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explain": [
+      "LM cutané : la larve, en avant du sillon, n'est pas recherchée.",
+      "Toxocarose : impasse, aucune émission parasitaire.",
+      "Faux : c'est inexact pour la toxocarose et le LM cutané.",
+      "L'affirmation est fausse : le direct n'est pas toujours possible.",
+      "Anisakiose : l'endoscopie visualise directement les larves."
+    ]
+  }
+]

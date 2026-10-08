@@ -1,0 +1,4457 @@
+[
+ {
+  "q": "Parmi les propositions suivantes concernant la lymphopoïèse, lesquelles sont exactes ?",
+  "options": [
+   "La lymphopoïèse est la production et la mise en circulation des lymphocytes circulants",
+   "Les lymphocytes forment une population d'apparent monomorphisme mais de fonctions et de structures différentes",
+   "Les lymphocytes B assurent l'immunité à médiation cellulaire",
+   "Les cellules NK assurent une réponse immunitaire non spécifique",
+   "La lymphopoïèse comporte une seule phase"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Définition du cours : production et mise en circulation des lymphocytes circulants.",
+   "Le cours insiste sur cet apparent monomorphisme contrastant avec la diversité fonctionnelle.",
+   "Faux : les LB assurent l'immunité à médiation humorale, ce sont les LT qui assurent l'immunité cellulaire.",
+   "Exact : les NK participent à la réponse immunitaire non spécifique.",
+   "Faux : elle comporte deux phases, primitive (basale) et secondaire."
+  ]
+ },
+ {
+  "q": "Concernant les deux phases de la lymphopoïèse, quelle(s) proposition(s) est/sont vraie(s) ?",
+  "options": [
+   "La lymphopoïèse primitive (basale) assure la production des cellules lymphoïdes nécessaires aux besoins de l'organisme",
+   "La lymphopoïèse secondaire est la multiplication des cellules matures soumises à l'activation au contact antigénique",
+   "La lymphopoïèse secondaire permet l'adaptation de la réponse immunitaire",
+   "La lymphopoïèse primitive dépend de l'activation antigénique",
+   "La lymphopoïèse secondaire produit les prothymocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : c'est la définition de la phase primitive ou basale.",
+   "Exact : c'est la définition de la phase secondaire.",
+   "Exact : l'adaptation de la réponse immunitaire est le but de la phase secondaire.",
+   "Faux : la phase primitive est indépendante de l'activation antigénique.",
+   "Faux : les prothymocytes colonisent le thymus ; la phase secondaire produit des effecteurs matures."
+  ]
+ },
+ {
+  "q": "À propos du progéniteur commun lymphoïde (PLC), quelles affirmations sont correctes ?",
+  "options": [
+   "Il est à l'origine des lymphocytes B",
+   "Il est à l'origine des lymphocytes T",
+   "Il est à l'origine des cellules NK",
+   "Il se différencie à partir des cellules souches lymphoïdes",
+   "Il ne produit que les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le PLC donne les lymphocytes B.",
+   "Exact : le PLC donne les lymphocytes T.",
+   "Exact : le PLC donne aussi les cellules NK.",
+   "Exact : la filiation est CSH → cellules souches lymphoïdes → PLC.",
+   "Faux : il produit les trois lignées : B, T et NK."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les lymphocytes de l'organisme, lesquelles sont exactes ?",
+  "options": [
+   "Le corps humain contient environ 10 puissance 12 lymphocytes",
+   "Cela représente environ 2 % du poids du corps",
+   "Les lymphocytes T sanguins représentent environ 1 % des lymphocytes totaux de l'organisme",
+   "Les lymphocytes sont répartis entre les tissus lymphoïdes et le sang circulant",
+   "La rate renferme à elle seule environ 25 % des lymphocytes totaux de l'organisme"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : environ 1×10¹² lymphocytes dans le corps humain.",
+   "Exact : soit environ 2 % du poids du corps.",
+   "Faux : les LT sanguins représentent ≈1 % des lymphocytes totaux, pas la majorité des lymphocytes circulants.",
+   "Exact : tissus et organes lymphoïdes individualisés plus sang circulant.",
+   "Exact : la rate renferme à elle seule ≈25 % des lymphocytes totaux."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les fonctions des lignées lymphoïdes, lesquelles sont exactes ?",
+  "options": [
+   "Les lymphocytes T assurent l'immunité à médiation cellulaire",
+   "Les lymphocytes B assurent l'immunité à médiation humorale",
+   "Les cellules NK assurent une réponse immunitaire non spécifique",
+   "Les lymphocytes B exercent la cytotoxicité naturelle",
+   "Les lymphocytes T produisent les immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : immunité à médiation cellulaire = LT.",
+   "Exact : immunité à médiation humorale = LB.",
+   "Exact : réponse non spécifique = NK.",
+   "Faux : la cytotoxicité naturelle est une fonction des NK.",
+   "Faux : les immunoglobulines sont produites par les LB (plasmocytes)."
+  ]
+ },
+ {
+  "q": "Concernant l'organisation du tissu lymphoïde dans l'organisme, quelles propositions sont exactes ?",
+  "options": [
+   "La moelle osseuse, le thymus, les ganglions et la rate sont des formations anatomiques individualisées",
+   "Le MALT regroupe les formations lymphoïdes annexées aux épithéliums digestifs et bronchiques",
+   "MALT signifie Mucosae Associated Lymphoid Tissue",
+   "Le thymus est un organe lymphoïde secondaire",
+   "Les lymphocytes circulent aussi dans le sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : ce sont des tissus et organes lymphoïdes individualisés.",
+   "Exact : définition du MALT selon le cours.",
+   "Exact : signification de l'acronyme MALT.",
+   "Faux : le thymus est un organe lymphoïde primaire, siège de la lymphopoïèse T.",
+   "Exact : les lymphocytes sont aussi présents dans le sang circulant."
+  ]
+ },
+ {
+  "q": "À propos de la lymphopoïèse secondaire, quelles affirmations sont correctes ?",
+  "options": [
+   "Elle fait suite à l'activation des cellules matures au contact antigénique",
+   "Elle aboutit à des lymphocytes effecteurs spécifiques de l'antigène",
+   "Elle se déroule dans les organes lymphoïdes secondaires",
+   "Elle produit des lymphocytes naïfs",
+   "Elle est indépendante de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : c'est la multiplication des cellules matures activées au contact de l'Ag.",
+   "Exact : elle produit le clone de cellules effectrices spécifiques de l'Ag.",
+   "Exact : la 2e étape se déroule dans les organes lymphoïdes secondaires.",
+   "Faux : les lymphocytes naïfs sont le produit de la 1ère étape (thymus/moelle).",
+   "Faux : elle est dépendante de la stimulation antigénique."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes effecteurs, quelles propositions sont exactes ?",
+  "options": [
+   "Ils forment un clone de cellules matures spécifiques de l'antigène",
+   "Ils sont identiques par leur TCR",
+   "Ils colonisent la peau, les muqueuses et les parenchymes",
+   "Ils restent confinés dans le thymus",
+   "Ils sont produits lors de la 1ère étape thymique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : conséquence de la 2e étape = clone de cellules matures spécifiques de l'Ag.",
+   "Exact : les cellules du clone sont identiques par leur TCR.",
+   "Exact : peau, muqueuses, parenchymes sont les territoires colonisés.",
+   "Faux : ils quittent les organes lymphoïdes secondaires vers les tissus.",
+   "Faux : la 1ère étape produit des lymphocytes naïfs, pas des effecteurs."
+  ]
+ },
+ {
+  "q": "Concernant la circulation des lymphocytes, quelles propositions sont exactes ?",
+  "options": [
+   "À la sortie du thymus, une partie des LT gagne les zones T-dépendantes des organes lymphoïdes secondaires",
+   "Les autres LT circulent de façon continue entre le sang et la lymphe",
+   "Les lymphocytes effecteurs colonisent les tissus comme la peau et les muqueuses",
+   "Tous les lymphocytes restent dans le thymus après maturation",
+   "Les LB mémoire restent uniquement dans la moelle osseuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : devenir des LT à la sortie du thymus.",
+   "Exact : circulation continue entre sang et lymphe.",
+   "Exact : les effecteurs assurent les réponses immunes dans les tissus.",
+   "Faux : ils rejoignent la circulation sanguine.",
+   "Faux : les LB mémoire gagnent la circulation sanguine et l'ensemble du système immunitaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives aux lignées lymphoïdes, lesquelles sont vraies ?",
+  "options": [
+   "Le PLC est à l'origine des LB, des LT et des cellules NK",
+   "La lymphopoïèse T a lieu dans le thymus",
+   "La lymphopoïèse B indépendante de l'antigène débute dans le foie fœtal puis la moelle osseuse",
+   "Les cellules NK possèdent un TCR réarrangé",
+   "Les plasmocytes expriment des immunoglobulines membranaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le progéniteur commun lymphoïde donne les trois lignées.",
+   "Exact : le thymus est le siège de la lymphopoïèse T.",
+   "Exact : foie fœtal puis moelle osseuse pour la phase indépendante de l'Ag.",
+   "Faux : les NK ne réalisent aucun réarrangement des gènes du TCR ni du BCR.",
+   "Faux : les plasmocytes ont perdu la capacité d'exprimer des Ig membranaires."
+  ]
+ },
+ {
+  "q": "Concernant le thymus dans la lymphopoïèse T, quelles propositions sont exactes ?",
+  "options": [
+   "C'est le lieu de multiplication, de différenciation et d'éducation des LT",
+   "Les prothymocytes le colonisent par voie sanguine",
+   "La colonisation du cortex débute vers la 9e-10e semaine de la vie embryonnaire",
+   "La colonisation se poursuit après la puberté",
+   "Le thymus est le siège de la différenciation des LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : triple rôle du thymus selon le cours.",
+   "Exact : colonisation par voie sanguine du cortex thymique.",
+   "Exact : vers la 9e-10e semaine de la vie embryonnaire.",
+   "Faux : la colonisation se fait jusqu'à la puberté.",
+   "Faux : la différenciation B a lieu dans le foie fœtal puis la moelle osseuse."
+  ]
+ },
+ {
+  "q": "À propos de la première étape thymique, indépendante de l'antigène, quelles affirmations sont correctes ?",
+  "options": [
+   "C'est une étape de multiplication, de différenciation et de sélection",
+   "Des réarrangements géniques y sont responsables de l'expression du TCR",
+   "Les marqueurs de surface y sont acquis",
+   "Elle aboutit à des lymphocytes naïfs",
+   "Elle nécessite la stimulation antigénique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : caractéristiques de la 1ère étape.",
+   "Exact : les réarrangements géniques permettent l'expression du TCR.",
+   "Exact : acquisition progressive des marqueurs de surface.",
+   "Exact : le produit de la 1ère étape est le lymphocyte naïf.",
+   "Faux : cette étape est indépendante de l'antigène."
+  ]
+ },
+ {
+  "q": "Concernant l'étape de multiplication thymique, quelles propositions sont exactes ?",
+  "options": [
+   "Elle a pour siège le cortex superficiel du thymus",
+   "Elle aboutit à des thymocytes corticaux doubles négatifs CD4- CD8-",
+   "Elle aboutit à des thymocytes doubles positifs CD4+ CD8+",
+   "Elle se déroule dans la médullaire du thymus",
+   "Elle précède l'acquisition du TCR"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : siège = cortex superficiel du thymus.",
+   "Exact : produit = thymocytes doubles négatifs CD4- CD8-.",
+   "Faux : les doubles positifs sont le produit de l'étape de maturation.",
+   "Faux : la médullaire accueille les LT matures simples positifs.",
+   "Exact : le TCR est acquis lors de l'étape suivante de maturation."
+  ]
+ },
+ {
+  "q": "Concernant l'étape de maturation et de différenciation thymique, quelles propositions sont exactes ?",
+  "options": [
+   "Il y a acquisition progressive du TCR",
+   "Les marqueurs CD2, CD5, CD7 puis CD3, CD4, CD8 sont acquis successivement",
+   "Elle aboutit à des thymocytes du cortex profond doubles positifs CD4+ CD8+",
+   "Elle aboutit directement à des LT simples positifs dans le cortex",
+   "Elle permet la tolérance au soi"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : acquisition progressive du TCR.",
+   "Exact : ordre d'acquisition des marqueurs de surface.",
+   "Exact : produit = thymocytes du cortex profond doubles positifs.",
+   "Faux : les simples positifs matures sont dans la médullaire.",
+   "Exact : sélections positive et négative = tolérance au soi."
+  ]
+ },
+ {
+  "q": "À propos de l'évolution du phénotype CD4/CD8 au cours de la maturation T, quelles affirmations sont correctes ?",
+  "options": [
+   "Les thymocytes corticaux sont doubles négatifs CD4- CD8-",
+   "Les thymocytes du cortex profond sont doubles positifs CD4+ CD8+",
+   "Au niveau de la médullaire, les LT sont matures et simples positifs CD4+ CD8- ou CD4- CD8+",
+   "Les thymocytes naissent simples positifs",
+   "Les doubles positifs se trouvent dans la médullaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : stade cortical après multiplication.",
+   "Exact : stade du cortex profond après maturation.",
+   "Exact : stade médullaire = LT fonctionnels matures simples positifs.",
+   "Faux : ils naissent doubles négatifs.",
+   "Faux : les doubles positifs sont dans le cortex profond."
+  ]
+ },
+ {
+  "q": "Concernant la sélection positive thymique, quelles propositions sont exactes ?",
+  "options": [
+   "Elle assure la survie des thymocytes qui reconnaissent le CMH",
+   "Elle détruit les thymocytes autoréactifs",
+   "Elle participe à la tolérance au soi",
+   "Elle a lieu pendant l'étape de maturation et de différenciation",
+   "Elle sélectionne les thymocytes reconnaissant très fortement le soi"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : définition de la sélection positive.",
+   "Faux : la destruction des thymocytes fortement autoréactifs = sélection négative.",
+   "Exact : les deux sélections assurent la tolérance au soi.",
+   "Exact : les sélections ont lieu pendant la maturation.",
+   "Faux : reconnaître très fortement le soi entraîne la destruction (sélection négative)."
+  ]
+ },
+ {
+  "q": "Concernant la sélection négative thymique, quelles propositions sont exactes ?",
+  "options": [
+   "Elle détruit les thymocytes reconnaissant très fortement le soi",
+   "Elle participe à la tolérance au soi",
+   "Elle assure la survie des thymocytes qui reconnaissent le CMH",
+   "Elle aboutit à des LT matures autoréactifs",
+   "Elle se déroule pendant la maturation thymique"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : définition de la sélection négative.",
+   "Exact : elle élimine les clones dangereux pour le soi.",
+   "Faux : c'est le rôle de la sélection positive.",
+   "Faux : les clones fortement autoréactifs sont détruits.",
+   "Exact : les sélections ont lieu pendant l'étape de maturation."
+  ]
+ },
+ {
+  "q": "Concernant les LT matures à la sortie du thymus, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des lymphocytes naïfs",
+   "Leur phénotype est simple positif CD4+ CD8- ou CD4- CD8+",
+   "Ce sont déjà des effecteurs spécifiques d'un antigène",
+   "Ils ont subi les sélections positive et négative",
+   "Ils expriment un TCR réarrangé"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Exact : la 1ère étape produit des lymphocytes naïfs.",
+   "Exact : simples positifs matures au niveau de la médullaire.",
+   "Faux : les effecteurs sont produits lors de la 2e étape, dans les organes secondaires.",
+   "Exact : ils ont été sélectionnés pour la tolérance au soi.",
+   "Exact : les réarrangements géniques ont permis l'expression du TCR."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes T CD4, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des lymphocytes helper (auxiliaires)",
+   "Ils représentent les 2/3 des LT périphériques",
+   "Ils interagissent avec les molécules du CMH-II",
+   "Ils sont cytotoxiques",
+   "Ils sont la cible du VIH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les LT CD4 sont les auxiliaires.",
+   "Exact : 2/3 des LT périphériques.",
+   "Exact : interaction avec le CMH de classe II.",
+   "Faux : la cytotoxicité est la fonction des LT CD8.",
+   "Exact : le VIH cible les LT CD4."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes T CD8, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des lymphocytes cytotoxiques (suppresseurs)",
+   "Ils représentent 1/3 des LT périphériques",
+   "Ils interagissent avec les molécules du CMH-I",
+   "Ils exercent une action lytique sur la cellule cible",
+   "Ils coopèrent avec les LB dans la réponse humorale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LT CD8 sont cytotoxiques/suppresseurs.",
+   "Exact : 1/3 des LT périphériques.",
+   "Exact : interaction avec le CMH de classe I.",
+   "Exact : fonction effectrice lytique.",
+   "Faux : la coopération avec les LB est le rôle des LT CD4."
+  ]
+ },
+ {
+  "q": "À propos de la deuxième étape de la lymphopoïèse T, dépendante de l'antigène, quelles affirmations sont correctes ?",
+  "options": [
+   "Elle se déroule dans les organes lymphoïdes secondaires",
+   "C'est une étape de prolifération spécifique en réponse à la stimulation antigénique",
+   "Elle produit un clone de cellules matures spécifiques de l'Ag, identiques par leur TCR",
+   "Elle produit des lymphocytes naïfs",
+   "Elle est indépendante de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : siège = organes lymphoïdes secondaires.",
+   "Exact : prolifération spécifique après stimulation Ag.",
+   "Exact : conséquence = clone de cellules matures spécifiques de l'Ag.",
+   "Faux : les naïfs sont produits lors de la 1ère étape.",
+   "Faux : c'est l'étape dépendante de l'antigène."
+  ]
+ },
+ {
+  "q": "Concernant la régulation de la lymphopoïèse T, quelles propositions sont exactes ?",
+  "options": [
+   "Elle fait intervenir l'IL-3 et le SCF",
+   "Elle fait intervenir les cellules épithéliales du microenvironnement thymique (nurse cells)",
+   "Elle dépend principalement de l'IL-7",
+   "Elle fait intervenir l'IL-4 et l'IL-5",
+   "Les nurse cells sont des cellules épithéliales thymiques"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : IL-3 et SCF régulent la lymphopoïèse T.",
+   "Exact : les nurse cells sont des facteurs cellulaires de régulation.",
+   "Faux : l'IL-7 est la cytokine majeure de la lymphopoïèse B.",
+   "Faux : IL-4 et IL-5 sont des cytokines des LT auxiliaires pour la régulation B.",
+   "Exact : les nurse cells sont les cellules épithéliales du microenvironnement thymique."
+  ]
+ },
+ {
+  "q": "Concernant l'éducation thymique, quelles propositions sont exactes ?",
+  "options": [
+   "Le thymus est le lieu d'éducation des lymphocytes T",
+   "La sélection positive retient les thymocytes qui reconnaissent le CMH",
+   "La sélection négative élimine les thymocytes fortement autoréactifs",
+   "L'éducation thymique concerne les lymphocytes B",
+   "L'absence de thymus (maladie de Di George) entraîne un déficit immunitaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le thymus est le lieu de multiplication, différenciation et éducation.",
+   "Exact : survie des thymocytes reconnaissant le CMH.",
+   "Exact : destruction des thymocytes reconnaissant très fortement le soi.",
+   "Faux : l'éducation thymique concerne les LT, pas les LB.",
+   "Exact : la maladie de Di George (absence de thymus) cause un déficit immunitaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les thymocytes, lesquelles sont vraies ?",
+  "options": [
+   "Les thymocytes du cortex superficiel sont doubles négatifs CD4- CD8-",
+   "Les thymocytes du cortex profond sont doubles positifs CD4+ CD8+",
+   "Les thymocytes médullaires sont des LT matures simples positifs",
+   "Tous les thymocytes produits survivent à la sélection",
+   "Les thymocytes expriment le TCR dès le stade double négatif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : produit de l'étape de multiplication.",
+   "Exact : produit de l'étape de maturation.",
+   "Exact : LT fonctionnels matures dans la médullaire.",
+   "Faux : la sélection élimine de nombreux thymocytes.",
+   "Faux : le TCR est acquis progressivement pendant la maturation."
+  ]
+ },
+ {
+  "q": "À propos de la colonisation du thymus, quelles affirmations sont correctes ?",
+  "options": [
+   "Elle se fait par voie sanguine",
+   "Elle débute vers la 9e-10e semaine de la vie embryonnaire",
+   "Elle se poursuit jusqu'à la puberté",
+   "Elle se fait par voie lymphatique",
+   "Les prothymocytes colonisent la médullaire du thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les prothymocytes colonisent par voie sanguine.",
+   "Exact : vers la 9e-10e semaine de la vie embryonnaire.",
+   "Exact : la colonisation dure jusqu'à la puberté.",
+   "Faux : la colonisation est sanguine, pas lymphatique.",
+   "Faux : ils colonisent le cortex du thymus."
+  ]
+ },
+ {
+  "q": "Lesquels des énoncés suivants concernant la maturation T sont exacts ?",
+  "options": [
+   "Le TCR est spécifique du lymphocyte T",
+   "L'acquisition des marqueurs suit l'ordre CD2, CD5, CD7 puis CD3, CD4, CD8",
+   "La 1ère étape aboutit à des lymphocytes naïfs",
+   "Les LT naïfs sont produits dans les organes lymphoïdes secondaires",
+   "La multiplication a lieu dans le cortex superficiel du thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le TCR est le récepteur spécifique du LT.",
+   "Exact : ordre d'acquisition des marqueurs de surface.",
+   "Exact : produit de la 1ère étape indépendante de l'Ag.",
+   "Faux : les organes secondaires produisent les effecteurs (2e étape).",
+   "Exact : siège de l'étape de multiplication."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes naïfs, quelles propositions sont exactes ?",
+  "options": [
+   "Ils sont produits lors de la 1ère étape thymique",
+   "Ils n'ont jamais rencontré l'antigène",
+   "Ils rejoignent la circulation après la sortie du thymus",
+   "Ce sont des lymphocytes effecteurs",
+   "Ils expriment un TCR réarrangé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la 1ère étape aboutit à des lymphocytes naïfs.",
+   "Exact : par définition, un lymphocyte naïf n'a pas rencontré l'Ag.",
+   "Exact : ils rejoignent la circulation sanguine à la sortie du thymus.",
+   "Faux : les effecteurs sont produits lors de la 2e étape.",
+   "Exact : les réarrangements géniques ont permis l'expression du TCR."
+  ]
+ },
+ {
+  "q": "Concernant la 1ère étape thymique, quelles propositions sont exactes ?",
+  "options": [
+   "C'est une étape de multiplication",
+   "Des réarrangements géniques du TCR y ont lieu",
+   "Les marqueurs de surface y sont acquis",
+   "Les lymphocytes y sont sélectionnés",
+   "Elle nécessite une stimulation antigénique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : multiplication dans le cortex superficiel.",
+   "Exact : réarrangements responsables de l'expression du TCR.",
+   "Exact : acquisitions des marqueurs de surface.",
+   "Exact : sélection des lymphocytes (tolérance au soi).",
+   "Faux : c'est l'étape indépendante de l'antigène."
+  ]
+ },
+ {
+  "q": "Parmi les marqueurs présents sur tous les lymphocytes T, lesquels sont exacts ?",
+  "options": [
+   "Le complexe TCR-CD3",
+   "CD2",
+   "CD5",
+   "CD7",
+   "CD4"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le complexe TCR-CD3 est présent sur tous les LT.",
+   "Exact : CD2 est un marqueur pan-T.",
+   "Exact : CD5 est présent sur tous les LT.",
+   "Exact : CD7 est présent sur tous les LT.",
+   "Faux : CD4 est un marqueur de sous-population (2/3 des LT)."
+  ]
+ },
+ {
+  "q": "Concernant le complexe TCR-CD3, quelles propositions sont exactes ?",
+  "options": [
+   "Le TCR reconnaît l'antigène",
+   "CD3 réalise la transduction du signal",
+   "Le TCR est un récepteur membranaire permettant au LT de repérer ses cibles",
+   "CD3 reconnaît directement l'antigène",
+   "Le complexe TCR-CD3 est spécifique des lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le TCR est le récepteur de reconnaissance de l'Ag.",
+   "Exact : CD3 assure la transduction du signal.",
+   "Exact : définition du TCR selon le cours.",
+   "Faux : c'est le TCR qui reconnaît l'Ag, CD3 transmet le signal.",
+   "Exact : le complexe est le marqueur constant des LT."
+  ]
+ },
+ {
+  "q": "À propos du CD2, quelles affirmations sont correctes ?",
+  "options": [
+   "Il est présent sur tous les lymphocytes T",
+   "C'est le récepteur de fixation des lymphocytes sur les globules rouges du mouton",
+   "C'est un marqueur d'activation des LT",
+   "Il est aussi présent sur les cellules NK (molécules d'adhésion)",
+   "Il est spécifique des lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : CD2 fait partie des marqueurs présents sur tous les LT.",
+   "Exact : définition du CD2 selon le cours.",
+   "Faux : les marqueurs d'activation des LT sont CD25, CD69 et le ligand du CD40.",
+   "Exact : CD2 figure parmi les molécules d'adhésion des NK.",
+   "Faux : CD2 est un marqueur T (et NK), pas B."
+  ]
+ },
+ {
+  "q": "Concernant le CD4, quelles propositions sont exactes ?",
+  "options": [
+   "Il est présent sur les 2/3 des LT périphériques",
+   "C'est la cible du VIH",
+   "Il interagit avec les molécules du CMH-II",
+   "Il est présent sur 1/3 des LT périphériques",
+   "C'est un marqueur des LT cytotoxiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 2/3 des LT périphériques sont CD4+.",
+   "Exact : le VIH cible les LT CD4.",
+   "Exact : le CD4 interagit avec le CMH de classe II.",
+   "Faux : 1/3 des LT périphériques sont CD8+.",
+   "Faux : les LT cytotoxiques sont les LT CD8."
+  ]
+ },
+ {
+  "q": "Concernant le CD8, quelles propositions sont exactes ?",
+  "options": [
+   "Il est présent sur 1/3 des LT périphériques",
+   "Il interagit avec les molécules du CMH-I",
+   "Il est présent sur les 2/3 des LT périphériques",
+   "C'est un marqueur des LT cytotoxiques",
+   "C'est la cible du VIH"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : 1/3 des LT périphériques sont CD8+.",
+   "Exact : le CD8 interagit avec le CMH de classe I.",
+   "Faux : les 2/3 des LT périphériques sont CD4+.",
+   "Exact : les LT CD8 sont les lymphocytes cytotoxiques.",
+   "Faux : le VIH cible les LT CD4."
+  ]
+ },
+ {
+  "q": "Concernant le CD28, quelles propositions sont exactes ?",
+  "options": [
+   "Il est présent sur tous les LT CD4",
+   "Il est présent sur 50 % des LT CD8",
+   "Il intervient dans la coopération cellulaire T-B",
+   "C'est un marqueur d'activation des LT",
+   "Il est présent sur tous les LT CD8"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : CD28 présent sur tous les LT CD4.",
+   "Exact : CD28 présent sur 50 % des LT CD8.",
+   "Exact : il intervient dans la coopération cellulaire T-B.",
+   "Faux : les marqueurs d'activation sont CD25, CD69 et le ligand du CD40.",
+   "Faux : seulement 50 % des LT CD8 l'expriment."
+  ]
+ },
+ {
+  "q": "Parmi les marqueurs d'activation des lymphocytes T, lesquels sont exacts ?",
+  "options": [
+   "CD25",
+   "CD69",
+   "Le ligand du CD40",
+   "CD28",
+   "CD2"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : CD25 est un marqueur d'activation des LT.",
+   "Exact : CD69 est un marqueur d'activation des LT.",
+   "Exact : le ligand du CD40 est un marqueur d'activation des LT.",
+   "Faux : CD28 est un marqueur de sous-population (coopération T-B).",
+   "Faux : CD2 est un marqueur présent sur tous les LT."
+  ]
+ },
+ {
+  "q": "À propos du TCR, quelles affirmations sont correctes ?",
+  "options": [
+   "C'est un hétérodimère de 2 chaînes polypeptidiques",
+   "Les chaînes alpha et bêta sont présentes sur 95 % des LT",
+   "Les chaînes gamma et delta sont exprimées par 5 % des LT",
+   "Le TCR est exprimé par les cellules NK",
+   "Le TCR est spécifique du lymphocyte T"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le TCR est un hétérodimère.",
+   "Exact : TCR αβ sur 95 % des LT.",
+   "Exact : TCR γδ sur 5 % des LT.",
+   "Faux : les NK ne réalisent aucun réarrangement des gènes du TCR.",
+   "Exact : le TCR est le récepteur spécifique du LT."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les marqueurs des LT, lesquelles sont vraies ?",
+  "options": [
+   "CD5 et CD7 sont présents sur tous les LT",
+   "CD4 et CD8 définissent les sous-populations de LT",
+   "CD25 est un marqueur d'activation des LT",
+   "CD20 est un marqueur des LT",
+   "CD79 transduit le signal du TCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : CD5 et CD7 sont des marqueurs pan-T.",
+   "Exact : CD4 et CD8 distinguent helper et cytotoxiques.",
+   "Exact : CD25 fait partie des marqueurs d'activation.",
+   "Faux : CD20 est un marqueur d'activation des LB.",
+   "Faux : CD79 transduit le signal du BCR, pas du TCR."
+  ]
+ },
+ {
+  "q": "Lesquels des énoncés suivants concernant les sous-populations T sont exacts ?",
+  "options": [
+   "Les LT CD4 sont majoritaires en périphérie (2/3)",
+   "Les LT CD8 représentent 1/3 des LT périphériques",
+   "Le CD28 est exprimé par tous les LT CD4",
+   "Le CD28 est exprimé par tous les LT CD8",
+   "Les marqueurs d'activation incluent CD25 et CD69"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : 2/3 des LT périphériques sont CD4+.",
+   "Exact : 1/3 des LT périphériques sont CD8+.",
+   "Exact : CD28 présent sur tous les LT CD4.",
+   "Faux : CD28 présent sur seulement 50 % des LT CD8.",
+   "Exact : CD25 et CD69 sont des marqueurs d'activation des LT."
+  ]
+ },
+ {
+  "q": "Concernant l'interaction des LT avec le CMH, quelles propositions sont exactes ?",
+  "options": [
+   "Le CD4 interagit avec les molécules du CMH-II",
+   "Le CD8 interagit avec les molécules du CMH-I",
+   "La sélection positive retient les thymocytes qui reconnaissent le CMH",
+   "Le CD4 interagit avec les molécules du CMH-I",
+   "Le CD8 interagit avec les molécules du CMH-II"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : interaction CD4 / CMH-II.",
+   "Exact : interaction CD8 / CMH-I.",
+   "Exact : définition de la sélection positive thymique.",
+   "Faux : le CD4 interagit avec le CMH-II.",
+   "Faux : le CD8 interagit avec le CMH-I."
+  ]
+ },
+ {
+  "q": "À propos des marqueurs des lymphocytes T, quelles affirmations sont correctes ?",
+  "options": [
+   "Le complexe TCR-CD3 est présent sur tous les LT",
+   "CD2, CD5 et CD7 sont des marqueurs pan-T",
+   "CD4 et CD8 sont des marqueurs de sous-populations",
+   "CD19 est un marqueur des LT",
+   "CD56 est un marqueur des LT"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : TCR-CD3 présent sur tous les LT.",
+   "Exact : CD2, CD5, CD7 présents sur tous les LT.",
+   "Exact : CD4 et CD8 définissent les sous-populations.",
+   "Faux : CD19 est un marqueur des LB.",
+   "Faux : CD56 est un marqueur des cellules NK."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives au TCR, lesquelles sont exactes ?",
+  "options": [
+   "Des réarrangements géniques sont responsables de son expression",
+   "Il est acquis pendant la maturation thymique",
+   "Les chaînes alpha-bêta sont majoritaires (95 %)",
+   "Les chaînes gamma-delta sont majoritaires",
+   "Il est présent sur les lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : réarrangements géniques responsables de l'expression du TCR.",
+   "Exact : acquisition progressive du TCR pendant la maturation.",
+   "Exact : TCR αβ sur 95 % des LT.",
+   "Faux : le TCR γδ n'est exprimé que par 5 % des LT.",
+   "Faux : les LB expriment le BCR, pas le TCR."
+  ]
+ },
+ {
+  "q": "Concernant la coopération cellulaire T-B, quelles propositions sont exactes ?",
+  "options": [
+   "Le CD28 intervient dans la coopération T-B",
+   "Le CD22 assure l'interaction lymphocyte B – lymphocyte T",
+   "Les LT CD4 coopèrent avec les LB dans la réponse humorale",
+   "Les Th2 agissent sur les lymphocytes B",
+   "Les LT CD8 coopèrent avec les LB dans la réponse humorale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CD28 intervient dans la coopération cellulaire T-B.",
+   "Exact : CD22 = interaction Ly B – Ly T.",
+   "Exact : les LT CD4 coopèrent avec les LB.",
+   "Exact : après activation, les Th2 agissent sur les LB.",
+   "Faux : les LT CD8 ont des fonctions effectrices et régulatrices négatives."
+  ]
+ },
+ {
+  "q": "Concernant l'immunité à médiation cellulaire, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est assurée par les lymphocytes T",
+   "Elle est impliquée dans le contrôle des infections",
+   "Elle intervient dans le rejet des allogreffes",
+   "Elle est responsable de l'hypersensibilité cutanée retardée",
+   "Elle produit les immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'immunité à médiation cellulaire = les LT.",
+   "Exact : contrôle des infections.",
+   "Exact : rejet des allogreffes.",
+   "Exact : hypersensibilité cutanée retardée.",
+   "Faux : les immunoglobulines sont produites par les LB."
+  ]
+ },
+ {
+  "q": "Concernant les fonctions des lymphocytes T, quelles propositions sont exactes ?",
+  "options": [
+   "Reconnaissance de l'antigène",
+   "Coopération de la réponse immune par les LT CD4",
+   "Fonctions effectrices par les LT CD8",
+   "Immunité antitumorale",
+   "Sécrétion d'immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : reconnaissance de l'Ag via le TCR.",
+   "Exact : coopération par les LT CD4.",
+   "Exact : fonctions effectrices par les LT CD8.",
+   "Exact : l'immunité antitumorale relève des LT.",
+   "Faux : la sécrétion d'Ig est une fonction des plasmocytes."
+  ]
+ },
+ {
+  "q": "Après activation par l'antigène, le LT CD4 subit une spécialisation. Quelles propositions sont exactes ?",
+  "options": [
+   "Les Th1 agissent sur les lymphocytes CD8, les NK et les macrophages",
+   "Les Th2 agissent sur les lymphocytes B",
+   "Le LT CD4 se différencie en plasmocyte",
+   "Certains LT se différencient en LT mémoire",
+   "Le LT CD4 exerce une action lytique directe sur la cellule cible"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : les Th1 agissent sur CD8, NK et macrophages.",
+   "Exact : les Th2 agissent sur les LB.",
+   "Faux : les plasmocytes dérivent des LB.",
+   "Exact : fonction de mémoire après activation.",
+   "Faux : l'action lytique est la fonction des LT CD8."
+  ]
+ },
+ {
+  "q": "Concernant le rôle régulateur des LT CD4, quelles propositions sont exactes ?",
+  "options": [
+   "Rôle central dans la coopération avec les LT CD8 dans la réponse cellulaire",
+   "Coopération avec les LB dans la réponse immunitaire humorale",
+   "Régulation négative sur les réponses immunitaires",
+   "Action lytique sur la cellule cible",
+   "Aide aux LB via les lymphocytes Th2"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : coopération centrale avec les LT CD8.",
+   "Exact : coopération avec les LB.",
+   "Faux : la régulation négative est le rôle des LT CD8.",
+   "Faux : l'action lytique est assurée par les LT CD8.",
+   "Exact : les Th2 agissent sur les LB."
+  ]
+ },
+ {
+  "q": "Concernant les LT CD8, quelles propositions sont exactes ?",
+  "options": [
+   "Ils exercent une régulation négative sur les réponses immunitaires",
+   "Ils ont une action lytique sur la cellule cible",
+   "La mort de la cellule cible se fait par nécrose ou apoptose",
+   "Ils produisent des immunoglobulines",
+   "Ce sont des auxiliaires de la réponse humorale"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : régulation négative par les LT CD8.",
+   "Exact : fonction effectrice lytique.",
+   "Exact : mort par nécrose ou apoptose.",
+   "Faux : les Ig sont produites par les plasmocytes.",
+   "Faux : les auxiliaires de la réponse humorale sont les LT CD4."
+  ]
+ },
+ {
+  "q": "Concernant la mémoire immunitaire, quelles propositions sont exactes ?",
+  "options": [
+   "Après activation, certains LT se différencient en LT mémoire",
+   "Les LB mémoire circulent dans le sang",
+   "Les LT mémoire sont produits dans le thymus",
+   "La mémoire immunitaire concerne aussi les LB",
+   "Les plasmocytes sont des cellules mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : fonction de mémoire des LT après activation.",
+   "Exact : les LB mémoire gagnent la circulation sanguine.",
+   "Faux : le thymus produit des lymphocytes naïfs.",
+   "Exact : les LB mémoire sont produits après différenciation dépendante de l'Ag.",
+   "Faux : les plasmocytes sont des cellules sécrétrices, pas des cellules mémoire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'immunité à médiation cellulaire, lesquelles sont vraies ?",
+  "options": [
+   "Les réactions du greffon contre l'hôte",
+   "Le rejet des allogreffes",
+   "L'hypersensibilité cutanée retardée",
+   "Le contrôle des infections",
+   "La production d'anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les réactions greffon contre l'hôte relèvent des LT.",
+   "Exact : le rejet des allogreffes est contrôlé par les LT.",
+   "Exact : l'hypersensibilité retardée est à médiation cellulaire.",
+   "Exact : le contrôle des infections implique les LT.",
+   "Faux : la production d'anticorps relève des LB."
+  ]
+ },
+ {
+  "q": "À propos des lymphocytes T helper, quelles affirmations sont correctes ?",
+  "options": [
+   "Ce sont les LT CD4",
+   "Ils ont un rôle central de coopération",
+   "Les Th1 stimulent les macrophages, les NK et les LT CD8",
+   "Les Th2 stimulent les LB",
+   "Ce sont les LT CD8"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : helper = auxiliaire = LT CD4.",
+   "Exact : rôle central dans la coopération immune.",
+   "Exact : les Th1 agissent sur CD8, NK et macrophages.",
+   "Exact : les Th2 agissent sur les LB.",
+   "Faux : les LT CD8 sont cytotoxiques/suppresseurs."
+  ]
+ },
+ {
+  "q": "Concernant les fonctions effectrices des LT, quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont assurées par les LT CD8",
+   "Elles aboutissent à la lyse de la cellule cible",
+   "La mort cellulaire peut se faire par apoptose",
+   "Elles sont assurées par les LT CD4",
+   "Elles nécessitent la production d'anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les responsables des fonctions effectrices sont les LT CD8.",
+   "Exact : action lytique sur la cellule cible.",
+   "Exact : mort par nécrose ou apoptose.",
+   "Faux : les LT CD4 ont un rôle de coopération.",
+   "Faux : les fonctions effectrices T sont indépendantes des anticorps."
+  ]
+ },
+ {
+  "q": "Concernant les LT cytotoxiques, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont les LT CD8",
+   "Ce sont aussi des lymphocytes suppresseurs",
+   "Ils ont une action lytique directe",
+   "Ils reconnaissent l'antigène via le TCR",
+   "Ils sécrètent des immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les LT cytotoxiques sont les LT CD8.",
+   "Exact : les LT CD8 sont cytotoxiques et suppresseurs.",
+   "Exact : action lytique sur la cellule cible.",
+   "Exact : la reconnaissance de l'Ag se fait via le TCR.",
+   "Faux : les Ig sont sécrétées par les plasmocytes."
+  ]
+ },
+ {
+  "q": "Au sujet des lymphocytes T, quelles propositions sont exactes ?",
+  "options": [
+   "80 % des lymphocytes circulants sont des LT",
+   "Les LT naïfs sortent du thymus",
+   "Les LT effecteurs forment des clones spécifiques de l'antigène",
+   "Les LT produisent des immunoglobulines",
+   "Les LT CD4 sont cytotoxiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : LT = 80 % des lymphocytes circulants.",
+   "Exact : la 1ère étape thymique produit des lymphocytes naïfs.",
+   "Exact : la 2e étape produit un clone de cellules spécifiques de l'Ag.",
+   "Faux : les Ig sont produites par les LB/plasmocytes.",
+   "Faux : les LT cytotoxiques sont les LT CD8."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives aux LT, lesquelles sont vraies ?",
+  "options": [
+   "Le TCR est spécifique du lymphocyte T",
+   "CD3 réalise la transduction du signal de reconnaissance",
+   "Les LT CD8 régulent négativement la réponse immune",
+   "Les LT CD4 exercent l'action lytique",
+   "La mémoire T existe après activation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le TCR est le récepteur spécifique du LT.",
+   "Exact : CD3 transduit le signal après reconnaissance par le TCR.",
+   "Exact : régulation négative par les LT CD8.",
+   "Faux : l'action lytique est exercée par les LT CD8.",
+   "Exact : certains LT se différencient en LT mémoire."
+  ]
+ },
+ {
+  "q": "Concernant l'hypersensibilité cutanée retardée, quelles propositions sont exactes ?",
+  "options": [
+   "Elle relève de l'immunité à médiation cellulaire",
+   "Elle implique les lymphocytes T",
+   "Elle est explorée par l'IDR à la tuberculine",
+   "Elle relève de l'immunité humorale",
+   "Elle implique les plasmocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'hypersensibilité retardée est à médiation cellulaire.",
+   "Exact : elle implique les LT.",
+   "Exact : l'IDR à la tuberculine explore l'immunité cellulaire.",
+   "Faux : l'immunité humorale concerne les anticorps.",
+   "Faux : les plasmocytes sécrètent les Ig (immunité humorale)."
+  ]
+ },
+ {
+  "q": "Concernant le rejet d'allogreffe, quelles propositions sont exactes ?",
+  "options": [
+   "Il est contrôlé par l'immunité à médiation cellulaire",
+   "Il implique les lymphocytes T",
+   "Les réactions du greffon contre l'hôte relèvent du même mécanisme",
+   "Il est prévenu par les lymphocytes B",
+   "Les LT CD8 y participent"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : le rejet des allogreffes relève des LT.",
+   "Exact : l'immunité à médiation cellulaire = les LT.",
+   "Exact : les réactions greffon contre l'hôte sont citées avec le rejet.",
+   "Faux : ce sont les LT, pas les LB, qui contrôlent le rejet.",
+   "Exact : les LT CD8 exercent les fonctions effectrices."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le siège de la différenciation B indépendante de l'antigène, lesquelles sont exactes ?",
+  "options": [
+   "Elle débute dans le foie fœtal",
+   "Elle se poursuit dans la moelle osseuse",
+   "Elle a lieu dans le thymus",
+   "Elle se déroule dans les ganglions",
+   "Elle a lieu dans les follicules lymphoïdes secondaires"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : la différenciation B indépendante de l'Ag débute dans le foie fœtal.",
+   "Exact : elle se poursuit ensuite dans la moelle osseuse.",
+   "Faux : le thymus est le siège de la lymphopoïèse T.",
+   "Faux : les ganglions sont des organes lymphoïdes secondaires (2e étape).",
+   "Faux : les follicules secondaires sont le siège de la phase dépendante de l'Ag."
+  ]
+ },
+ {
+  "q": "À propos de l'acquisition du BCR au cours de la lymphopoïèse B, quelles affirmations sont correctes ?",
+  "options": [
+   "Le BCR est une immunoglobuline de membrane",
+   "Son acquisition a lieu pendant la phase indépendante de l'antigène",
+   "Le BCR est un hétérodimère alpha-bêta",
+   "Le BCR est acquis dans les follicules secondaires",
+   "Le BCR permet la reconnaissance de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : le BCR est l'immunoglobuline de membrane du LB.",
+   "Exact : acquisition du BCR pendant la différenciation indépendante de l'Ag.",
+   "Faux : l'hétérodimère alpha-bêta décrit le TCR.",
+   "Faux : les follicules secondaires sont le siège de la phase dépendante de l'Ag.",
+   "Exact : la reconnaissance de l'Ag par le LB se fait via le BCR."
+  ]
+ },
+ {
+  "q": "Concernant le stade de lymphocyte B mature, quelles propositions sont exactes ?",
+  "options": [
+   "Le LB mature coexprime IgM et IgD",
+   "Il est produit à la fin de la différenciation indépendante de l'antigène",
+   "Il exprime uniquement des IgG membranaires",
+   "Il est produit dans les follicules lymphoïdes",
+   "Il migre vers les organes lymphoïdes périphériques"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : le LB mature coexprime IgM et IgD.",
+   "Exact : c'est l'aboutissement de la phase indépendante de l'Ag.",
+   "Faux : IgG, IgA, IgE apparaissent après commutation de classe.",
+   "Faux : les follicules sont le siège de la phase dépendante de l'Ag.",
+   "Exact : les LB matures naïfs migrent vers les OLP."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes relatives aux étapes précoces de la différenciation B sont vraies ?",
+  "options": [
+   "Des réarrangements de gènes ont lieu",
+   "Ils permettent la production des BCR et des autres marqueurs",
+   "Ils aboutissent à des cellules B immatures",
+   "Ils ont lieu dans les follicules secondaires",
+   "Ils aboutissent directement à des plasmocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : réarrangements des gènes au début de la différenciation B.",
+   "Exact : ils permettent la production des BCR et des autres marqueurs.",
+   "Exact : ils aboutissent aux cellules B immatures.",
+   "Faux : les follicules secondaires concernent la phase dépendante de l'Ag.",
+   "Faux : les plasmocytes sont produits après activation dépendante de l'Ag."
+  ]
+ },
+ {
+  "q": "Concernant la sélection négative dans la moelle osseuse, quelles propositions sont exactes ?",
+  "options": [
+   "Les cellules B immatures se liant aux Ag du soi sont éliminées du répertoire",
+   "Elle a lieu dans la moelle osseuse",
+   "Elle participe à la tolérance au soi",
+   "Elle produit des plasmocytes",
+   "Elle sélectionne les cellules de meilleure affinité pour un antigène étranger"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définition de la sélection négative B médullaire.",
+   "Exact : elle se déroule dans la moelle osseuse.",
+   "Exact : elle élimine les clones autoréactifs du répertoire.",
+   "Faux : les plasmocytes sont produits après la phase dépendante de l'Ag.",
+   "Faux : la sélection de meilleure affinité a lieu dans les follicules (centrocytes)."
+  ]
+ },
+ {
+  "q": "À propos des lymphocytes B matures naïfs, quelles affirmations sont correctes ?",
+  "options": [
+   "Ils migrent vers les organes lymphoïdes périphériques",
+   "Ils sont produits à l'issue de la différenciation indépendante de l'antigène",
+   "Ils ont déjà subi la commutation de classe",
+   "Ce sont des cellules effectrices",
+   "Ils expriment un BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : les LB matures naïfs migrent vers les OLP.",
+   "Exact : ils sont le produit de la phase indépendante de l'Ag.",
+   "Faux : la commutation de classe a lieu pendant la phase dépendante de l'Ag.",
+   "Faux : les effecteurs (plasmocytes) sont produits après activation.",
+   "Exact : ils expriment le BCR, Ig de membrane."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes comparant les lymphopoïèses T et B, lesquelles sont exactes ?",
+  "options": [
+   "La lymphopoïèse T a pour siège le thymus",
+   "La lymphopoïèse B indépendante de l'antigène a lieu dans le foie fœtal puis la moelle osseuse",
+   "Les deux ont lieu dans le thymus",
+   "La maturation B dépendante de l'antigène a lieu dans les organes lymphoïdes secondaires",
+   "Les plasmocytes dérivent des lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : le thymus est le siège de la lymphopoïèse T.",
+   "Exact : foie fœtal puis moelle osseuse pour la phase B indépendante de l'Ag.",
+   "Faux : la lymphopoïèse B ne passe pas par le thymus.",
+   "Exact : la phase B dépendante de l'Ag se déroule dans les OLS.",
+   "Faux : les plasmocytes dérivent des lymphocytes B."
+  ]
+ },
+ {
+  "q": "Concernant l'activation des lymphocytes B, quelles propositions sont exactes ?",
+  "options": [
+   "Elle nécessite la liaison à un antigène",
+   "Elle nécessite la collaboration des lymphocytes T",
+   "Elle aboutit à des plasmocytes et des LB mémoire",
+   "Elle a lieu dans le thymus",
+   "Elle est indépendante de tout contact cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'activation se fait en se liant à un Ag.",
+   "Exact : avec collaboration des LT (helper).",
+   "Exact : différenciation en plasmocytes et LB mémoire.",
+   "Faux : le thymus est le siège de la lymphopoïèse T.",
+   "Faux : elle implique des contacts Ag – cellules dendritiques – LT helper."
+  ]
+ },
+ {
+  "q": "Au sujet de la différenciation des LB en plasmocytes et LB mémoire, quelles propositions sont exactes ?",
+  "options": [
+   "Elle a lieu dans la moelle osseuse et les organes lymphoïdes périphériques",
+   "Elle fait suite à l'activation par l'antigène avec collaboration des LT",
+   "Elle produit des cellules sécrétrices d'immunoglobulines",
+   "Elle a lieu dans le thymus",
+   "Elle précède l'acquisition du BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : différenciation dans la MO et les OLP.",
+   "Exact : après activation par l'Ag avec collaboration des LT.",
+   "Exact : les plasmocytes sont les cellules sécrétrices d'Ig.",
+   "Faux : le thymus concerne la lignée T.",
+   "Faux : le BCR est acquis pendant la phase indépendante de l'Ag, bien avant."
+  ]
+ },
+ {
+  "q": "Concernant le BCR par rapport au TCR, quelles propositions sont exactes ?",
+  "options": [
+   "Le BCR est une immunoglobuline de membrane",
+   "Le TCR est un hétérodimère de chaînes polypeptidiques",
+   "Le signal du BCR est transduit par CD79",
+   "Le signal du TCR est transduit par CD3",
+   "Le BCR et le TCR sont exprimés par les cellules NK"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le BCR est l'Ig de membrane du LB.",
+   "Exact : le TCR est un hétérodimère (alpha-bêta ou gamma-delta).",
+   "Exact : CD79 transduit le signal BCR-Ag.",
+   "Exact : CD3 transduit le signal après reconnaissance par le TCR.",
+   "Faux : les NK ne réalisent aucun réarrangement des gènes du TCR ni du BCR."
+  ]
+ },
+ {
+  "q": "Dans le récapitulatif de la différenciation B, quelles étapes sont exactes ?",
+  "options": [
+   "Réarrangements des gènes dans la moelle osseuse",
+   "Production des BCR et des autres marqueurs",
+   "Élimination des cellules B immatures se liant aux Ag du soi",
+   "Migration des LB matures naïfs vers les organes lymphoïdes périphériques",
+   "Différenciation en plasmocytes dans le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les réarrangements de gènes ont lieu dans la moelle.",
+   "Exact : production des BCR et des autres marqueurs.",
+   "Exact : sélection négative médullaire des B immatures autoréactifs.",
+   "Exact : les LB matures naïfs migrent vers les OLP.",
+   "Faux : la différenciation en plasmocytes a lieu dans la MO et les OLP, pas le thymus."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet du foie fœtal dans la lymphopoïèse B ?",
+  "options": [
+   "La différenciation B indépendante de l'antigène y débute",
+   "Elle s'y poursuit chez l'adulte",
+   "Elle se poursuit ensuite dans la moelle osseuse",
+   "Le foie fœtal produit les centroblastes",
+   "Le foie fœtal est le siège de la commutation de classe"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Exact : la différenciation B débute dans le foie fœtal.",
+   "Faux : chez l'adulte, c'est la moelle osseuse qui prend le relais.",
+   "Exact : foie fœtal puis moelle osseuse.",
+   "Faux : les centroblastes sont dans la zone sombre des follicules.",
+   "Faux : la commutation de classe a lieu pendant la phase dépendante de l'Ag."
+  ]
+ },
+ {
+  "q": "À propos des immunoglobulines membranaires et sécrétées, quelles affirmations sont correctes ?",
+  "options": [
+   "Le BCR est une immunoglobuline de membrane",
+   "Le LB mature coexprime IgM et IgD membranaires",
+   "Les plasmocytes ont perdu la capacité d'exprimer des Ig membranaires",
+   "Les plasmocytes excrètent des Ig pouvant reconnaître l'antigène à distance",
+   "Les LB mémoire sécrètent massivement des Ig"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le BCR est l'Ig de membrane.",
+   "Exact : coexpression IgM et IgD au stade LB mature.",
+   "Exact : les plasmocytes ont perdu les Ig membranaires.",
+   "Exact : les Ig excrétées reconnaissent l'Ag à distance.",
+   "Faux : les cellules sécrétrices sont les plasmocytes, pas les LB mémoire."
+  ]
+ },
+ {
+  "q": "Concernant l'ordre des phases de la différenciation B dépendante de l'antigène, quelles propositions sont exactes ?",
+  "options": [
+   "Pénétration des LB dans les organes lymphoïdes secondaires avec formation de follicules",
+   "Contacts Ag – cellules dendritiques – lymphocytes T helper",
+   "Activation avec prolifération des LB",
+   "Sélection des cellules de meilleure affinité",
+   "La commutation de classe précède la pénétration dans les organes lymphoïdes secondaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 1ère phase = pénétration et formation des follicules.",
+   "Exact : 2e phase = contacts Ag – dendritiques – LT helper.",
+   "Exact : 3e phase = activation et prolifération.",
+   "Exact : sélection des centrocytes de meilleure affinité.",
+   "Faux : la commutation de classe a lieu pendant l'activation, après la pénétration."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les LB naïfs et mémoire, lesquelles sont vraies ?",
+  "options": [
+   "Les LB naïfs sont issus de la différenciation indépendante de l'antigène",
+   "Les LB mémoire sont produits après différenciation dépendante de l'antigène",
+   "Les LB mémoire gagnent la circulation sanguine",
+   "Les LB naïfs sont produits dans les follicules secondaires",
+   "Les LB mémoire sécrètent des immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les LB naïfs sont le produit de la phase indépendante de l'Ag.",
+   "Exact : les LB mémoire sont produits après la phase dépendante de l'Ag.",
+   "Exact : ils gagnent la circulation sanguine et l'ensemble du système immunitaire.",
+   "Faux : les follicules produisent plasmocytes et LB mémoire, pas les naïfs.",
+   "Faux : la sécrétion d'Ig est la fonction des plasmocytes."
+  ]
+ },
+ {
+  "q": "Concernant les sélections négatives T et B, quelles propositions sont exactes ?",
+  "options": [
+   "La sélection négative B a lieu dans la moelle osseuse",
+   "La sélection négative T a lieu dans le thymus",
+   "Les deux éliminent les lymphocytes reconnaissant fortement le soi",
+   "La sélection négative B a lieu dans les follicules secondaires",
+   "La sélection négative produit des lymphocytes effecteurs"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : sélection négative B dans la moelle osseuse.",
+   "Exact : sélection négative T dans le thymus.",
+   "Exact : les deux assurent la tolérance au soi.",
+   "Faux : les follicules sont le siège de la sélection de meilleure affinité.",
+   "Faux : les effecteurs sont produits lors des phases dépendantes de l'Ag."
+  ]
+ },
+ {
+  "q": "À propos de la structure du BCR, quelles affirmations sont correctes ?",
+  "options": [
+   "H désigne la chaîne lourde",
+   "L désigne la chaîne légère",
+   "V désigne la région variable",
+   "C désigne la région constante",
+   "Le BCR est un hétérodimère alpha-bêta"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : H = chaîne lourde (heavy).",
+   "Exact : L = chaîne légère (light).",
+   "Exact : V = région variable.",
+   "Exact : C = région constante.",
+   "Faux : l'hétérodimère alpha-bêta décrit le TCR."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes B, quelles propositions sont exactes ?",
+  "options": [
+   "Ils assurent l'immunité à médiation humorale",
+   "Ils expriment le BCR, membre de la superfamille des Ig",
+   "Ils peuvent présenter l'antigène (CPA)",
+   "Ils assurent l'immunité à médiation cellulaire",
+   "Ils exercent la cytotoxicité naturelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : immunité à médiation humorale = LB.",
+   "Exact : le BCR appartient à la superfamille des Ig.",
+   "Exact : la présentation de l'Ag est une fonction des LB.",
+   "Faux : l'immunité à médiation cellulaire est assurée par les LT.",
+   "Faux : la cytotoxicité naturelle est une fonction des NK."
+  ]
+ },
+ {
+  "q": "Lesquels des énoncés suivants concernant les cellules B immatures sont exacts ?",
+  "options": [
+   "Elles sont produites après les réarrangements de gènes",
+   "Celles qui se lient aux Ag du soi sont éliminées du répertoire",
+   "Elles expriment déjà un BCR",
+   "Elles sont produites dans les follicules lymphoïdes",
+   "Elles coexpriment IgM et IgD"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : elles résultent des réarrangements de gènes.",
+   "Exact : sélection négative médullaire des B immatures autoréactifs.",
+   "Exact : la production des BCR précède le stade B immature.",
+   "Faux : les follicules concernent la phase dépendante de l'Ag.",
+   "Faux : la coexpression IgM/IgD caractérise le LB mature."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les deux phases de la différenciation B, lesquelles sont exactes ?",
+  "options": [
+   "La phase indépendante de l'antigène aboutit au LB mature coexprimant IgM et IgD",
+   "La phase dépendante de l'antigène se déroule dans les organes lymphoïdes secondaires",
+   "La phase indépendante de l'antigène produit des plasmocytes",
+   "La phase dépendante de l'antigène produit des LB mémoire",
+   "La phase indépendante de l'antigène a lieu dans le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : aboutissement de la phase indépendante de l'Ag.",
+   "Exact : la phase dépendante de l'Ag se déroule dans les OLS.",
+   "Faux : les plasmocytes sont produits après la phase dépendante de l'Ag.",
+   "Exact : LB mémoire = produit de la phase dépendante de l'Ag.",
+   "Faux : le thymus est le siège de la lymphopoïèse T."
+  ]
+ },
+ {
+  "q": "Concernant les organes lymphoïdes périphériques (OLP) dans la différenciation B, quelles propositions sont exactes ?",
+  "options": [
+   "Les LB matures naïfs y migrent",
+   "La différenciation en plasmocytes et LB mémoire peut s'y dérouler",
+   "Les follicules lymphoïdes s'y forment après pénétration des LB",
+   "Les OLP sont le siège de la sélection négative B",
+   "Le thymus est un OLP"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les LB matures naïfs migrent vers les OLP.",
+   "Exact : différenciation en plasmocytes et LB mémoire dans la MO et les OLP.",
+   "Exact : formation de follicules primaires puis secondaires.",
+   "Faux : la sélection négative B a lieu dans la moelle osseuse.",
+   "Faux : le thymus est un organe lymphoïde primaire."
+  ]
+ },
+ {
+  "q": "Quelles propositions résument correctement la lymphopoïèse B ?",
+  "options": [
+   "Foie fœtal puis moelle osseuse pour la phase indépendante de l'antigène",
+   "Acquisition du BCR, Ig de membrane",
+   "Sélection négative éliminant les clones autoréactifs",
+   "Activation dépendante de l'antigène avec collaboration des LT dans les organes secondaires",
+   "La phase indépendante de l'antigène a lieu dans le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : sièges de la phase indépendante de l'Ag.",
+   "Exact : le BCR est l'Ig de membrane.",
+   "Exact : tolérance au soi dans la moelle.",
+   "Exact : la phase dépendante de l'Ag nécessite les LT.",
+   "Faux : le thymus est le siège de la lymphopoïèse T, pas B."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les follicules lymphoïdes, lesquelles sont exactes ?",
+  "options": [
+   "Ils se forment après pénétration des LB dans les organes lymphoïdes secondaires",
+   "On distingue des follicules primaires puis secondaires",
+   "Les centroblastes s'y trouvent dans la zone sombre",
+   "Les centrocytes s'y trouvent dans la zone claire",
+   "Ils se forment dans le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : formation des follicules après pénétration des LB dans les OLS.",
+   "Exact : follicules primaires puis secondaires.",
+   "Exact : les centroblastes sont dans la zone sombre.",
+   "Exact : les centrocytes sont dans la zone claire.",
+   "Faux : le thymus est le siège de la lymphopoïèse T."
+  ]
+ },
+ {
+  "q": "Concernant les contacts cellulaires lors de la différenciation B dépendante de l'antigène, quelles propositions sont exactes ?",
+  "options": [
+   "Ils impliquent l'antigène",
+   "Ils impliquent les cellules dendritiques",
+   "Ils impliquent les lymphocytes T helper",
+   "Ils ont lieu dans la moelle osseuse",
+   "Ils précèdent l'activation des LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : contacts Ag – cellules dendritiques – LT helper.",
+   "Exact : les cellules dendritiques participent aux contacts.",
+   "Exact : les LT helper participent aux contacts.",
+   "Faux : les contacts ont lieu dans les organes lymphoïdes secondaires.",
+   "Exact : les contacts précèdent l'activation des LB."
+  ]
+ },
+ {
+  "q": "À propos des centroblastes, quelles affirmations sont correctes ?",
+  "options": [
+   "Ce sont des LB en prolifération",
+   "Ils se trouvent dans la zone sombre du follicule",
+   "Leurs Ig accumulent des mutations somatiques dans les régions variables",
+   "Ce sont des cellules déjà sélectionnées de meilleure affinité",
+   "Ils se différencient directement en plasmocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les centroblastes sont les LB en prolifération.",
+   "Exact : ils sont dans la zone sombre.",
+   "Exact : accumulation de mutations somatiques dans les régions variables des Ig.",
+   "Faux : la sélection concerne les centrocytes de la zone claire.",
+   "Faux : la différenciation en plasmocytes suit la sélection des centrocytes."
+  ]
+ },
+ {
+  "q": "Concernant les mutations somatiques des Ig, quelles propositions sont exactes ?",
+  "options": [
+   "Elles surviennent dans les régions variables des Ig",
+   "Elles ont lieu dans les centroblastes de la zone sombre",
+   "Elles permettent la sélection de récepteurs de meilleure affinité",
+   "Elles concernent les régions constantes des Ig",
+   "Elles ont lieu dans la moelle osseuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : mutations somatiques dans les régions variables.",
+   "Exact : elles ont lieu dans les centroblastes de la zone sombre.",
+   "Exact : elles permettent la sélection des récepteurs de meilleure affinité.",
+   "Faux : ce sont les régions variables, pas constantes, qui mutent.",
+   "Faux : elles ont lieu dans les follicules des organes secondaires."
+  ]
+ },
+ {
+  "q": "Concernant les centrocytes, quelles propositions sont exactes ?",
+  "options": [
+   "Ils se trouvent dans la zone claire du follicule",
+   "Ils expriment des récepteurs de meilleure affinité",
+   "Ceux qui n'ont pas une bonne affinité meurent par apoptose",
+   "Ils sont éliminés par les macrophages après apoptose",
+   "Ce sont des cellules en prolifération intense"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les centrocytes sont dans la zone claire.",
+   "Exact : sélection des cellules exprimant des récepteurs de meilleure affinité.",
+   "Exact : les autres meurent par apoptose.",
+   "Exact : les cellules apoptotiques sont éliminées par les macrophages.",
+   "Faux : la prolifération intense concerne les centroblastes de la zone sombre."
+  ]
+ },
+ {
+  "q": "Au sujet du devenir des cellules B non sélectionnées dans le follicule, quelles propositions sont exactes ?",
+  "options": [
+   "Elles meurent par apoptose",
+   "Elles sont éliminées par les macrophages",
+   "Seules les cellules exprimant des récepteurs de meilleure affinité survivent",
+   "Elles se différencient en plasmocytes",
+   "Elles deviennent des LB mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les cellules non sélectionnées meurent par apoptose.",
+   "Exact : elles sont éliminées par les macrophages.",
+   "Exact : seules les cellules de meilleure affinité sont sélectionnées.",
+   "Faux : les plasmocytes dérivent des centrocytes sélectionnés.",
+   "Faux : les LB mémoire dérivent des centrocytes sélectionnés."
+  ]
+ },
+ {
+  "q": "Concernant la différenciation des centrocytes sélectionnés, quelles propositions sont exactes ?",
+  "options": [
+   "Ils se différencient en plasmocytes",
+   "Ils se différencient en LB mémoire",
+   "Les plasmocytes gagnent la moelle osseuse",
+   "Les LB mémoire gagnent la circulation sanguine",
+   "Ils retournent à l'état de centroblastes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les centrocytes sélectionnés se différencient en plasmocytes.",
+   "Exact : ils se différencient aussi en LB mémoire.",
+   "Exact : les plasmocytes gagnent la moelle osseuse.",
+   "Exact : les LB mémoire gagnent la circulation sanguine.",
+   "Faux : la différenciation est unidirectionnelle vers plasmocytes et LB mémoire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la commutation de classe, lesquelles sont exactes ?",
+  "options": [
+   "Elle a lieu pendant la différenciation B dépendante de l'antigène",
+   "Le LB passe d'IgM à IgG",
+   "Le LB peut produire des IgA",
+   "Le LB peut produire des IgE",
+   "Elle a lieu dans la moelle osseuse pendant la phase indépendante de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la commutation de classe a lieu pendant la phase dépendante de l'Ag.",
+   "Exact : commutation IgM vers IgG.",
+   "Exact : commutation vers IgA.",
+   "Exact : commutation vers IgE.",
+   "Faux : la moelle est le siège de la phase indépendante de l'Ag."
+  ]
+ },
+ {
+  "q": "À propos des lymphocytes B mémoire, quelles affirmations sont correctes ?",
+  "options": [
+   "Ils sont produits à la fin de la différenciation dépendante de l'antigène",
+   "Ils gagnent la circulation sanguine",
+   "Ils colonisent l'ensemble du système immunitaire",
+   "Ils sécrètent massivement des immunoglobulines",
+   "Ils sont produits dans le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les LB mémoire sont produits à la fin de la différenciation dépendante de l'Ag.",
+   "Exact : ils gagnent la circulation sanguine.",
+   "Exact : ils colonisent l'ensemble du système immunitaire.",
+   "Faux : la sécrétion massive d'Ig est la fonction des plasmocytes.",
+   "Faux : le thymus est le siège de la lymphopoïèse T."
+  ]
+ },
+ {
+  "q": "Concernant les plasmocytes, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des cellules sécrétrices d'immunoglobulines",
+   "Ils ont perdu la capacité d'exprimer des Ig membranaires",
+   "Ils excrètent des Ig pouvant reconnaître l'antigène à distance",
+   "Ils favorisent l'élimination de l'Ag à l'aide des protéines du complément",
+   "Ils se trouvent uniquement dans les ganglions"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les plasmocytes sont les cellules sécrétrices d'Ig.",
+   "Exact : ils ont perdu la capacité d'exprimer des Ig membranaires.",
+   "Exact : les Ig excrétées reconnaissent l'Ag à distance.",
+   "Exact : l'élimination de l'Ag est favorisée par les protéines du complément.",
+   "Faux : on les trouve dans la moelle osseuse et au site de la réponse anticorps."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant la localisation des plasmocytes ?",
+  "options": [
+   "La moelle osseuse",
+   "Le site de la réponse anticorps",
+   "La lamina propria de l'intestin pour les IgA",
+   "Le thymus",
+   "Exclusivement le sang circulant"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les plasmocytes gagnent la moelle osseuse.",
+   "Exact : ils se trouvent au site de la réponse anticorps.",
+   "Exact : les plasmocytes à IgA sont dans la lamina propria de l'intestin.",
+   "Faux : le thymus est le siège de la lymphopoïèse T.",
+   "Faux : ce sont les LB mémoire qui gagnent la circulation sanguine."
+  ]
+ },
+ {
+  "q": "Au sujet des IgA, quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont produites après commutation de classe à partir d'IgM",
+   "Les plasmocytes à IgA se trouvent dans la lamina propria de l'intestin",
+   "Elles participent à la réponse anticorps muqueuse",
+   "Elles sont coexprimées avec les IgD par le LB mature naïf",
+   "Elles sont sécrétées par les LB mémoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : commutation de classe IgM vers IgA.",
+   "Exact : les IgA sont produites dans la lamina propria de l'intestin.",
+   "Exact : les IgA participent à la réponse anticorps au niveau muqueux.",
+   "Faux : le LB mature naïf coexprime IgM et IgD.",
+   "Faux : la sécrétion d'Ig est la fonction des plasmocytes."
+  ]
+ },
+ {
+  "q": "Concernant le follicule lymphoïde secondaire, quelles propositions sont exactes ?",
+  "options": [
+   "Il comporte une zone sombre avec les centroblastes",
+   "Il comporte une zone claire avec les centrocytes",
+   "Il se forme après le follicule primaire",
+   "Il est le siège de la sélection des cellules de meilleure affinité",
+   "Il se trouve dans le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la zone sombre contient les centroblastes.",
+   "Exact : la zone claire contient les centrocytes.",
+   "Exact : les follicules sont primaires puis secondaires.",
+   "Exact : la sélection des récepteurs de meilleure affinité y a lieu.",
+   "Faux : le thymus est le siège de la lymphopoïèse T."
+  ]
+ },
+ {
+  "q": "Concernant la séquence des événements dans le follicule, quelles propositions sont exactes ?",
+  "options": [
+   "Prolifération des LB : centroblastes dans la zone sombre",
+   "Mutations somatiques dans les régions variables des Ig",
+   "Sélection des centrocytes de meilleure affinité dans la zone claire",
+   "Différenciation en plasmocytes et LB mémoire",
+   "La sélection précède la prolifération"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 1er temps = prolifération des centroblastes.",
+   "Exact : les mutations somatiques surviennent dans les centroblastes.",
+   "Exact : la sélection a lieu dans la zone claire.",
+   "Exact : les centrocytes sélectionnés se différencient en plasmocytes et LB mémoire.",
+   "Faux : la prolifération précède la sélection."
+  ]
+ },
+ {
+  "q": "Concernant le rôle des lymphocytes T helper dans la réponse B, quelles propositions sont exactes ?",
+  "options": [
+   "Ils participent aux contacts avec l'Ag et les cellules dendritiques",
+   "Leurs cytokines (IL-4, IL-6, IL-5, IL-10, TNF) régulent la lymphopoïèse B",
+   "Les Th2 agissent sur les lymphocytes B",
+   "Le CD28 intervient dans la coopération T-B",
+   "Les LT CD8 assurent la coopération avec les LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : contacts Ag – cellules dendritiques – LT helper.",
+   "Exact : les cytokines des LT auxiliaires régulent la lymphopoïèse B.",
+   "Exact : après activation, les Th2 agissent sur les LB.",
+   "Exact : le CD28 intervient dans la coopération cellulaire T-B.",
+   "Faux : les LT CD8 ont des fonctions effectrices et de régulation négative."
+  ]
+ },
+ {
+  "q": "À propos des cellules dendritiques dans la différenciation B, quelles affirmations sont correctes ?",
+  "options": [
+   "Elles participent aux contacts avec l'Ag et les LT helper",
+   "Elles interviennent avant l'activation des LB",
+   "Elles participent à la présentation de l'antigène",
+   "Elles sécrètent des immunoglobulines",
+   "Elles sont des centroblastes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : contacts Ag – cellules dendritiques – LT helper.",
+   "Exact : les contacts précèdent l'activation des LB.",
+   "Exact : les cellules dendritiques présentent l'antigène.",
+   "Faux : la sécrétion d'Ig est la fonction des plasmocytes.",
+   "Faux : les centroblastes sont des LB en prolifération."
+  ]
+ },
+ {
+  "q": "Quelles propositions distinguent correctement centroblastes et centrocytes ?",
+  "options": [
+   "Les centroblastes sont en prolifération dans la zone sombre",
+   "Les centrocytes sont sélectionnés dans la zone claire",
+   "Les centroblastes accumulent des mutations somatiques",
+   "Les centrocytes expriment des récepteurs de meilleure affinité",
+   "Les centrocytes sont en prolifération dans la zone sombre"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les centroblastes prolifèrent dans la zone sombre.",
+   "Exact : les centrocytes sont sélectionnés dans la zone claire.",
+   "Exact : les mutations somatiques ont lieu dans les centroblastes.",
+   "Exact : la sélection retient les récepteurs de meilleure affinité.",
+   "Faux : la prolifération dans la zone sombre concerne les centroblastes."
+  ]
+ },
+ {
+  "q": "Concernant la production d'anticorps, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est assurée par les plasmocytes",
+   "Les Ig sécrétées reconnaissent l'Ag à distance",
+   "Le complément aide à l'élimination de l'Ag",
+   "Elle est assurée par les LT CD8",
+   "Les LB mémoire sont les principales cellules sécrétrices"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les plasmocytes sont les cellules sécrétrices d'Ig.",
+   "Exact : les Ig excrétées reconnaissent l'Ag à distance.",
+   "Exact : l'élimination de l'Ag est favorisée par les protéines du complément.",
+   "Faux : les LT CD8 ont des fonctions effectrices lytiques.",
+   "Faux : les LB mémoire sont des cellules mémoire, pas sécrétrices."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes résument la différenciation B dépendante de l'antigène ?",
+  "options": [
+   "Formation de follicules lymphoïdes primaires puis secondaires",
+   "Prolifération des centroblastes avec mutations somatiques",
+   "Sélection des centrocytes de meilleure affinité",
+   "Commutation de classe : d'IgM vers IgG, IgA, IgE",
+   "La sélection négative médullaire a lieu dans les follicules"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les follicules sont primaires puis secondaires.",
+   "Exact : les centroblastes prolifèrent avec mutations somatiques.",
+   "Exact : les centrocytes de meilleure affinité sont sélectionnés.",
+   "Exact : commutation IgM vers IgG, IgA, IgE.",
+   "Faux : la sélection négative a lieu dans la moelle osseuse."
+  ]
+ },
+ {
+  "q": "Au sujet des zones du follicule secondaire, quelles propositions sont exactes ?",
+  "options": [
+   "La zone sombre contient les centroblastes en prolifération",
+   "La zone claire contient les centrocytes sélectionnés",
+   "Les mutations somatiques ont lieu dans la zone sombre",
+   "La sélection a lieu dans la zone claire",
+   "Les plasmocytes prolifèrent dans la zone sombre"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les centroblastes sont dans la zone sombre.",
+   "Exact : les centrocytes sont dans la zone claire.",
+   "Exact : les mutations somatiques ont lieu dans les centroblastes.",
+   "Exact : la sélection des centrocytes a lieu dans la zone claire.",
+   "Faux : les plasmocytes sont des cellules sécrétrices différenciées, pas proliférantes."
+  ]
+ },
+ {
+  "q": "Concernant l'antigène dans la différenciation B, quelles propositions sont exactes ?",
+  "options": [
+   "La phase indépendante aboutit à des LB exprimant un BCR sans rencontre de l'Ag",
+   "La 2e phase est déclenchée par la stimulation antigénique",
+   "L'Ag participe aux contacts avec les cellules dendritiques et les LT helper",
+   "Les Ig sécrétées reconnaissent l'Ag à distance",
+   "La commutation de classe a lieu avant toute rencontre avec l'Ag"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la phase indépendante de l'Ag produit des LB naïfs exprimant le BCR.",
+   "Exact : la phase dépendante est déclenchée par la stimulation Ag.",
+   "Exact : contacts Ag – cellules dendritiques – LT helper.",
+   "Exact : les Ig excrétées par les plasmocytes reconnaissent l'Ag à distance.",
+   "Faux : la commutation de classe a lieu pendant la phase dépendante de l'Ag."
+  ]
+ },
+ {
+  "q": "Quelles propositions distinguent correctement les follicules primaires et secondaires ?",
+  "options": [
+   "Les follicules primaires précèdent les follicules secondaires",
+   "Les follicules secondaires comportent une zone sombre et une zone claire",
+   "Les centroblastes en prolifération se trouvent dans les follicules secondaires",
+   "Les follicules lymphoïdes se forment dans le thymus",
+   "Les follicules secondaires produisent des lymphocytes naïfs"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : formation de follicules primaires puis secondaires.",
+   "Exact : zone sombre (centroblastes) et zone claire (centrocytes).",
+   "Exact : les centroblastes sont dans la zone sombre du follicule secondaire.",
+   "Faux : les follicules se forment dans les organes lymphoïdes secondaires.",
+   "Faux : les lymphocytes naïfs sont produits lors des phases indépendantes de l'Ag."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la régulation cytokinique de la lymphopoïèse B, lesquelles sont exactes ?",
+  "options": [
+   "Le SCF intervient",
+   "L'IL-3 intervient",
+   "L'IL-1 intervient",
+   "L'IL-7 joue un rôle majeur",
+   "L'IL-2 est la cytokine principale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le SCF régule la lymphopoïèse B.",
+   "Exact : l'IL-3 régule la lymphopoïèse B.",
+   "Exact : l'IL-1 régule la lymphopoïèse B.",
+   "Exact : l'IL-7 est la cytokine majeure (surtout IL-7).",
+   "Faux : la cytokine principale citée par le cours est l'IL-7."
+  ]
+ },
+ {
+  "q": "Concernant les cytokines des lymphocytes T auxiliaires régulant la lymphopoïèse B, quelles propositions sont exactes ?",
+  "options": [
+   "L'IL-4",
+   "L'IL-6",
+   "Le TNF",
+   "L'IL-10",
+   "L'IL-7, produite par les LT auxiliaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'IL-4 est une cytokine des LT auxiliaires.",
+   "Exact : l'IL-6 est une cytokine des LT auxiliaires.",
+   "Exact : le TNF est une cytokine des LT auxiliaires.",
+   "Exact : l'IL-10 est une cytokine des LT auxiliaires.",
+   "Faux : l'IL-7 régule la lymphopoïèse B mais n'est pas citée comme cytokine des LT auxiliaires."
+  ]
+ },
+ {
+  "q": "À propos de l'IL-7, quelles affirmations sont correctes ?",
+  "options": [
+   "C'est la cytokine majeure de la lymphopoïèse B",
+   "Elle est citée avec SCF, IL-3 et IL-1",
+   "Elle régule la lymphopoïèse T",
+   "Elle est produite par les LT auxiliaires",
+   "Elle intervient dans la différenciation B"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : le cours insiste sur surtout IL-7 pour la lymphopoïèse B.",
+   "Exact : SCF, IL-3, IL-1 et surtout IL-7.",
+   "Faux : la lymphopoïèse T est régulée par IL-3 et SCF.",
+   "Faux : les cytokines des LT auxiliaires sont IL-4, IL-6, TNF, IL-5, IL-10.",
+   "Exact : l'IL-7 régule la différenciation B."
+  ]
+ },
+ {
+  "q": "Quelles propositions comparent correctement la régulation des lymphopoïèses T et B ?",
+  "options": [
+   "IL-3 et SCF régulent la lymphopoïèse T",
+   "SCF, IL-3, IL-1 et surtout IL-7 régulent la lymphopoïèse B",
+   "Les nurse cells sont des cellules épithéliales du microenvironnement thymique",
+   "L'IL-7 est la cytokine majeure de la lymphopoïèse T",
+   "Les cytokines des LT auxiliaires (IL-4, IL-5, IL-6, IL-10, TNF) régulent la lymphopoïèse B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : IL-3 et SCF pour la lymphopoïèse T.",
+   "Exact : SCF, IL-3, IL-1 et surtout IL-7 pour la lymphopoïèse B.",
+   "Exact : les nurse cells sont les cellules épithéliales thymiques.",
+   "Faux : l'IL-7 est la cytokine majeure de la lymphopoïèse B.",
+   "Exact : les LT auxiliaires fournissent ces cytokines."
+  ]
+ },
+ {
+  "q": "Concernant le BCR, quelles propositions sont exactes ?",
+  "options": [
+   "Il appartient à la superfamille des immunoglobulines",
+   "C'est une Ig de membrane",
+   "Le signal BCR-Ag est transduit par CD79",
+   "C'est un marqueur phénotypique des LB",
+   "Il est exprimé par les LT"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le BCR appartient à la superfamille des Ig.",
+   "Exact : le BCR est l'immunoglobuline de membrane.",
+   "Exact : CD79 transduit le signal BCR-Ag.",
+   "Exact : le BCR est un marqueur phénotypique des LB.",
+   "Faux : les LT expriment le TCR, pas le BCR."
+  ]
+ },
+ {
+  "q": "À propos du CD79, quelles affirmations sont correctes ?",
+  "options": [
+   "Il assure la transduction du signal BCR-Ag",
+   "C'est un marqueur phénotypique des LB",
+   "Il reconnaît directement l'antigène",
+   "Il transduit le signal du TCR",
+   "Il est exprimé par les cellules NK"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : CD79 = transduction du signal BCR-Ag.",
+   "Exact : CD79 fait partie des marqueurs phénotypiques des LB.",
+   "Faux : c'est le BCR qui reconnaît l'Ag, CD79 transmet le signal.",
+   "Faux : le signal du TCR est transduit par CD3.",
+   "Faux : les NK n'expriment pas le complexe BCR-CD79."
+  ]
+ },
+ {
+  "q": "Concernant CD19, CD20 et CD21, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des marqueurs d'activation du LB",
+   "CD20 est un marqueur des LB",
+   "CD19 est un marqueur des LB",
+   "Ce sont des marqueurs des LT",
+   "CD21 est un marqueur des LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : CD19, CD20, CD21 = activation du LB.",
+   "Exact : CD20 est un marqueur des LB.",
+   "Exact : CD19 est un marqueur des LB.",
+   "Faux : ce sont des marqueurs de la lignée B.",
+   "Exact : CD21 est un marqueur des LB."
+  ]
+ },
+ {
+  "q": "Concernant le CD22, quelles propositions sont exactes ?",
+  "options": [
+   "Il assure l'interaction lymphocyte B – lymphocyte T",
+   "C'est un marqueur phénotypique des LB",
+   "Il transduit le signal du BCR",
+   "C'est un marqueur d'activation des LT",
+   "Il est exprimé par les cellules NK"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : CD22 = interaction Ly B – Ly T.",
+   "Exact : CD22 fait partie des marqueurs phénotypiques des LB.",
+   "Faux : la transduction du signal BCR-Ag est assurée par CD79.",
+   "Faux : les marqueurs d'activation des LT sont CD25, CD69 et le ligand du CD40.",
+   "Faux : CD22 est un marqueur de la lignée B."
+  ]
+ },
+ {
+  "q": "À propos du CD5, quelles affirmations sont correctes ?",
+  "options": [
+   "Il définit une sous-population B minoritaire",
+   "Il est aussi présent sur tous les LT",
+   "C'est un marqueur d'activation des LB",
+   "Il transduit le signal du BCR",
+   "Il est spécifique des plasmocytes"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : CD5 = sous-population B minoritaire.",
+   "Exact : CD5 est présent sur tous les LT.",
+   "Faux : les marqueurs d'activation des LB sont CD25, CD23, CD38.",
+   "Faux : la transduction du signal BCR-Ag est assurée par CD79.",
+   "Faux : les plasmocytes ont perdu les Ig membranaires."
+  ]
+ },
+ {
+  "q": "Parmi les marqueurs d'activation des lymphocytes B, lesquels sont exacts ?",
+  "options": [
+   "CD25",
+   "CD23",
+   "CD38",
+   "CD28",
+   "CD69"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : CD25 est un marqueur d'activation des LB.",
+   "Exact : CD23 est un marqueur d'activation des LB.",
+   "Exact : CD38 est un marqueur d'activation des LB.",
+   "Faux : CD28 est un marqueur de sous-population T (coopération T-B).",
+   "Faux : CD69 est un marqueur d'activation des LT."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes concernant les marqueurs phénotypiques des LB sont vraies ?",
+  "options": [
+   "BCR (superfamille des Ig)",
+   "CD79 : transduction du signal BCR-Ag",
+   "CD20, CD21, CD19 : activation du LB",
+   "CD22 : interaction Ly B – Ly T",
+   "CD3 : transduction du signal BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le BCR appartient à la superfamille des Ig.",
+   "Exact : CD79 transduit le signal BCR-Ag.",
+   "Exact : CD20, CD21, CD19 = activation du LB.",
+   "Exact : CD22 = interaction Ly B – Ly T.",
+   "Faux : CD3 transduit le signal du TCR, pas du BCR."
+  ]
+ },
+ {
+  "q": "Concernant les fonctions des lymphocytes B, quelles propositions sont exactes ?",
+  "options": [
+   "Production d'immunoglobulines",
+   "Fonction de mémoire",
+   "Reconnaissance de l'Ag via le BCR",
+   "Présentation de l'Ag (CPA)",
+   "Cytotoxicité naturelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la production d'Ig est une fonction des LB.",
+   "Exact : les LB mémoire assurent la fonction de mémoire.",
+   "Exact : la reconnaissance de l'Ag se fait via le BCR.",
+   "Exact : les LB peuvent présenter l'Ag (CPA).",
+   "Faux : la cytotoxicité naturelle est une fonction des NK."
+  ]
+ },
+ {
+  "q": "À propos du rôle de cellule présentatrice d'antigène (CPA) des LB, quelles affirmations sont correctes ?",
+  "options": [
+   "Les LB peuvent présenter l'antigène",
+   "Le BCR assure la reconnaissance de l'Ag",
+   "Les LB collaborent avec les LT helper",
+   "Les LB exercent une cytotoxicité directe",
+   "La présentation de l'Ag est une fonction des LB citée par le cours"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la présentation de l'Ag est une fonction des LB.",
+   "Exact : la reconnaissance de l'Ag se fait via le BCR.",
+   "Exact : l'activation des LB nécessite la collaboration des LT.",
+   "Faux : la cytotoxicité est une fonction des LT CD8 et des NK.",
+   "Exact : CPA figure parmi les fonctions des LB."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes au sujet du CD5 ?",
+  "options": [
+   "Il est présent sur tous les lymphocytes T",
+   "Il définit une sous-population B minoritaire",
+   "C'est un marqueur d'activation des LT",
+   "C'est un marqueur des cellules NK",
+   "Il est exprimé par les plasmocytes"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : CD5 est présent sur tous les LT.",
+   "Exact : CD5 définit une sous-population B minoritaire.",
+   "Faux : les marqueurs d'activation des LT sont CD25, CD69 et le ligand du CD40.",
+   "Faux : les marqueurs des NK sont CD16, CD56, CD57.",
+   "Faux : les plasmocytes sont des cellules sécrétrices différenciées."
+  ]
+ },
+ {
+  "q": "Concernant le CD25, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un marqueur d'activation des LT",
+   "C'est un marqueur d'activation des LB",
+   "Il est présent sur tous les LT au repos",
+   "C'est un marqueur de sous-population T",
+   "Il définit les LT CD4"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : CD25 est un marqueur d'activation des LT.",
+   "Exact : CD25 est un marqueur d'activation des LB.",
+   "Faux : c'est un marqueur d'activation, pas un marqueur constitutif.",
+   "Faux : les marqueurs de sous-populations T sont CD4, CD8, CD28.",
+   "Faux : les LT CD4 sont définis par le CD4."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes distinguant marqueurs B et T, lesquelles sont exactes ?",
+  "options": [
+   "CD79 transduit le signal du BCR, CD3 celui du TCR",
+   "CD19, CD20, CD21 sont des marqueurs B",
+   "CD2, CD5, CD7 sont présents sur tous les LT",
+   "CD22 assure l'interaction B-T",
+   "CD56 est un marqueur des LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : CD79/BCR et CD3/TCR sont les couples de transduction.",
+   "Exact : CD19, CD20, CD21 sont des marqueurs des LB.",
+   "Exact : CD2, CD5, CD7 sont des marqueurs pan-T.",
+   "Exact : CD22 = interaction lymphocyte B – lymphocyte T.",
+   "Faux : CD56 est un marqueur des cellules NK."
+  ]
+ },
+ {
+  "q": "Concernant la fonction de mémoire des LB, quelles propositions sont exactes ?",
+  "options": [
+   "Les LB mémoire sont produits après différenciation dépendante de l'Ag",
+   "Ils circulent dans le sang",
+   "Ils colonisent l'ensemble du système immunitaire",
+   "Ils sont produits dans le thymus",
+   "Ils sécrètent des Ig"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les LB mémoire sont le produit de la phase dépendante de l'Ag.",
+   "Exact : ils gagnent la circulation sanguine.",
+   "Exact : ils colonisent l'ensemble du système immunitaire.",
+   "Faux : le thymus produit les LT naïfs.",
+   "Faux : la sécrétion d'Ig est la fonction des plasmocytes."
+  ]
+ },
+ {
+  "q": "À propos de la production d'immunoglobulines, quelles affirmations sont correctes ?",
+  "options": [
+   "Elle est assurée par les plasmocytes",
+   "Elle fait suite à la différenciation B dépendante de l'Ag",
+   "La commutation de classe permet de produire IgG, IgA et IgE",
+   "Elle est assurée par les LT",
+   "Les Ig sécrétées agissent avec le complément"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : les plasmocytes sont les cellules sécrétrices d'Ig.",
+   "Exact : les plasmocytes dérivent de la phase dépendante de l'Ag.",
+   "Exact : commutation IgM vers IgG, IgA, IgE.",
+   "Faux : les LT assurent l'immunité à médiation cellulaire.",
+   "Exact : l'élimination de l'Ag est favorisée par les protéines du complément."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes concernant les cytokines de la lymphopoïèse B sont vraies ?",
+  "options": [
+   "SCF, IL-3, IL-1 et surtout IL-7 régulent la différenciation B",
+   "Les LT auxiliaires fournissent IL-4, IL-6, TNF, IL-5 et IL-10",
+   "L'IL-7 est la cytokine prédominante",
+   "L'IL-3 et le SCF régulent aussi la lymphopoïèse T",
+   "L'interféron gamma est la cytokine majeure de la lymphopoïèse B"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : SCF, IL-3, IL-1 et surtout IL-7.",
+   "Exact : les LT auxiliaires fournissent IL-4, IL-6, TNF, IL-5, IL-10.",
+   "Exact : le cours insiste sur surtout IL-7.",
+   "Exact : IL-3 et SCF régulent aussi la lymphopoïèse T.",
+   "Faux : l'IFNγ est une cytokine produite par les NK, pas la cytokine majeure B."
+  ]
+ },
+ {
+  "q": "Quelles propositions énumèrent correctement des marqueurs des lymphocytes B ?",
+  "options": [
+   "BCR et CD79",
+   "CD19, CD20, CD21",
+   "CD22",
+   "CD25, CD23, CD38",
+   "TCR et CD3"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : BCR et CD79 sont des marqueurs des LB.",
+   "Exact : CD19, CD20, CD21 sont des marqueurs des LB.",
+   "Exact : CD22 est un marqueur des LB.",
+   "Exact : CD25, CD23, CD38 sont des marqueurs d'activation des LB.",
+   "Faux : TCR et CD3 sont des marqueurs des LT."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'origine des cellules NK, lesquelles sont exactes ?",
+  "options": [
+   "Leur différenciation serait d'origine lymphocytaire T",
+   "Elles dérivent du progéniteur commun lymphoïde",
+   "Elles dérivent des cellules souches lymphoïdes",
+   "Elles sont d'origine myéloïde",
+   "Elles dérivent des prothymocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la différenciation des NK serait d'origine lymphocytaire T.",
+   "Exact : le PLC est à l'origine des cellules NK.",
+   "Exact : la filiation passe par les cellules souches lymphoïdes.",
+   "Faux : les NK appartiennent à la lignée lymphoïde.",
+   "Faux : les prothymocytes colonisent le thymus pour la lignée T."
+  ]
+ },
+ {
+  "q": "Concernant les réarrangements géniques des cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "Elles ne réalisent pas de réarrangement des gènes du TCR",
+   "Elles ne réalisent pas de réarrangement des gènes du BCR",
+   "Elles réarrangent les gènes du TCR comme les LT",
+   "Elles expriment un BCR réarrangé",
+   "Elles expriment le CD3 associé au TCR"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : pas de réarrangement des gènes du TCR chez les NK.",
+   "Exact : pas de réarrangement des gènes du BCR chez les NK.",
+   "Faux : les réarrangements du TCR sont propres aux LT.",
+   "Faux : les NK n'expriment pas de BCR.",
+   "Faux : le complexe TCR-CD3 est propre aux LT."
+  ]
+ },
+ {
+  "q": "Parmi les marqueurs de surface des cellules NK, lesquels sont exacts ?",
+  "options": [
+   "CD16",
+   "CD56",
+   "CD57",
+   "CD19",
+   "CD20"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : CD16 est un marqueur des NK.",
+   "Exact : CD56 est un marqueur des NK.",
+   "Exact : CD57 est un marqueur des NK.",
+   "Faux : CD19 est un marqueur des LB.",
+   "Faux : CD20 est un marqueur des LB."
+  ]
+ },
+ {
+  "q": "Concernant les molécules d'adhésion des cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "CD2",
+   "CD54",
+   "CD58",
+   "CD4",
+   "CD8"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : CD2 fait partie des molécules d'adhésion des NK.",
+   "Exact : CD54 fait partie des molécules d'adhésion des NK.",
+   "Exact : CD58 fait partie des molécules d'adhésion des NK.",
+   "Faux : CD4 est un marqueur des LT helper.",
+   "Faux : CD8 est un marqueur des LT cytotoxiques."
+  ]
+ },
+ {
+  "q": "À propos des cytokines produites par les cellules NK, quelles affirmations sont correctes ?",
+  "options": [
+   "L'interféron gamma (IFNγ)",
+   "L'IL-4",
+   "L'IL-5",
+   "L'IL-10 et l'IL-13",
+   "Le TNF seul"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les NK produisent de l'IFNγ.",
+   "Exact : les NK produisent de l'IL-4.",
+   "Exact : les NK produisent de l'IL-5.",
+   "Exact : les NK produisent IL-10 et IL-13.",
+   "Faux : le TNF est une cytokine des LT auxiliaires, pas une cytokine NK citée."
+  ]
+ },
+ {
+  "q": "Concernant la coopération cellulaire des NK, quelles propositions sont exactes ?",
+  "options": [
+   "Elles produisent des cytokines pour la coopération cellulaire",
+   "Les Th1 agissent sur les cellules NK",
+   "Elles produisent de l'IFNγ",
+   "Elles produisent des immunoglobulines",
+   "Elles présentent l'antigène comme CPA"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les NK produisent des cytokines pour la coopération cellulaire.",
+   "Exact : les Th1 agissent sur les NK.",
+   "Exact : l'IFNγ est une cytokine des NK.",
+   "Faux : les immunoglobulines sont produites par les plasmocytes.",
+   "Faux : la présentation de l'Ag est une fonction des LB."
+  ]
+ },
+ {
+  "q": "Concernant la cytotoxicité naturelle des cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "Elle s'exerce contre les cellules infectées par des virus",
+   "Elle s'exerce contre les cellules tumorales",
+   "Elle ne nécessite pas d'anticorps",
+   "Elle nécessite des anticorps",
+   "Elle est assurée par les plasmocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : cytotoxicité naturelle contre les cellules infectées par virus.",
+   "Exact : cytotoxicité naturelle contre les cellules tumorales.",
+   "Exact : la cytotoxicité naturelle est indépendante des anticorps.",
+   "Faux : la cytotoxicité dépendante des anticorps est une autre fonction des NK.",
+   "Faux : les plasmocytes sécrètent des Ig."
+  ]
+ },
+ {
+  "q": "À propos de la cytotoxicité dépendante des anticorps, quelles affirmations sont correctes ?",
+  "options": [
+   "C'est une fonction des cellules NK",
+   "Elle fait intervenir le CD16",
+   "Elle s'exerce contre des cellules cibles opsonisées par des anticorps",
+   "C'est une fonction des LB",
+   "Elle est indépendante des immunoglobulines"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la cytotoxicité dépendante d'Ac est une fonction des NK.",
+   "Exact : CD16 est le marqueur des NK impliqué dans cette fonction.",
+   "Exact : elle cible les cellules opsonisées par des anticorps.",
+   "Faux : les LB produisent les anticorps mais n'exercent pas cette cytotoxicité.",
+   "Faux : elle dépend des anticorps par définition."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes concernant les fonctions des cellules NK sont vraies ?",
+  "options": [
+   "Production de cytokines (IFNγ, IL-4, IL-5, IL-10, IL-13)",
+   "Cytotoxicité naturelle contre cellules infectées par virus ou tumorales",
+   "Cytotoxicité dépendante d'anticorps",
+   "Sécrétion d'immunoglobulines",
+   "Présentation de l'antigène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les NK produisent ces cytokines pour la coopération cellulaire.",
+   "Exact : la cytotoxicité naturelle est une fonction des NK.",
+   "Exact : la cytotoxicité dépendante d'Ac est une fonction des NK.",
+   "Faux : la sécrétion d'Ig est la fonction des plasmocytes.",
+   "Faux : la présentation de l'Ag est une fonction des LB."
+  ]
+ },
+ {
+  "q": "Quelles propositions distinguent correctement les cellules NK des lymphocytes T ?",
+  "options": [
+   "Les NK ne réarrangent pas les gènes du TCR",
+   "Les LT expriment le complexe TCR-CD3",
+   "Les NK expriment CD16 et CD56",
+   "Les LT CD8 exercent une cytotoxicité spécifique via le TCR",
+   "Les NK expriment un TCR alpha-bêta"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : pas de réarrangement du TCR chez les NK.",
+   "Exact : le complexe TCR-CD3 est le marqueur constant des LT.",
+   "Exact : CD16 et CD56 sont des marqueurs des NK.",
+   "Exact : les LT CD8 exercent une cytotoxicité spécifique de l'Ag.",
+   "Faux : les NK n'expriment aucun TCR."
+  ]
+ },
+ {
+  "q": "Concernant les différences entre cellules NK et lymphocytes B, quelles propositions sont exactes ?",
+  "options": [
+   "Les NK ne produisent pas d'immunoglobulines",
+   "Les LB expriment le BCR",
+   "Les NK expriment CD56",
+   "Les LB se différencient en plasmocytes",
+   "Les NK expriment le BCR"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les NK ne produisent pas d'Ig.",
+   "Exact : les LB expriment le BCR.",
+   "Exact : CD56 est un marqueur des NK.",
+   "Exact : les LB activés se différencient en plasmocytes.",
+   "Faux : les NK n'expriment pas de BCR."
+  ]
+ },
+ {
+  "q": "À propos du CD56, quelles affirmations sont correctes ?",
+  "options": [
+   "C'est un marqueur des cellules NK",
+   "Avec CD16 et CD57, il caractérise les NK",
+   "C'est un marqueur des lymphocytes T",
+   "C'est un marqueur des lymphocytes B",
+   "Il transduit le signal du BCR"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : CD56 est un marqueur des cellules NK.",
+   "Exact : CD16, CD56, CD57 sont les marqueurs des NK.",
+   "Faux : les marqueurs pan-T sont TCR-CD3, CD2, CD5, CD7.",
+   "Faux : les marqueurs B sont BCR, CD79, CD19, CD20, CD21.",
+   "Faux : la transduction du signal BCR-Ag est assurée par CD79."
+  ]
+ },
+ {
+  "q": "Concernant le CD2, quelles propositions sont exactes ?",
+  "options": [
+   "Il est présent sur tous les lymphocytes T",
+   "Il fait partie des molécules d'adhésion des NK",
+   "C'est le récepteur de fixation sur les globules rouges du mouton",
+   "Il est spécifique des lymphocytes B",
+   "C'est un marqueur d'activation des LT"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : CD2 est présent sur tous les LT.",
+   "Exact : CD2 figure parmi les molécules d'adhésion des NK.",
+   "Exact : définition du CD2 selon le cours.",
+   "Faux : CD2 est un marqueur T (et NK), pas B.",
+   "Faux : les marqueurs d'activation des LT sont CD25, CD69 et le ligand du CD40."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la place des NK dans l'immunité, lesquelles sont exactes ?",
+  "options": [
+   "Elles participent à la réponse immunitaire non spécifique",
+   "Elles exercent une cytotoxicité naturelle sans sensibilisation préalable",
+   "Elles appartiennent à la lignée lymphoïde",
+   "Elles assurent l'immunité à médiation humorale",
+   "Elles produisent des anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les NK assurent une réponse immunitaire non spécifique.",
+   "Exact : la cytotoxicité naturelle ne nécessite pas de sensibilisation.",
+   "Exact : les NK dérivent du progéniteur commun lymphoïde.",
+   "Faux : l'immunité humorale est assurée par les LB.",
+   "Faux : les anticorps sont produits par les plasmocytes."
+  ]
+ },
+ {
+  "q": "Concernant les relations entre lymphocytes T et cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "Les Th1 agissent sur les cellules NK",
+   "Les NK produisent des cytokines agissant sur les LT",
+   "La différenciation des NK serait d'origine lymphocytaire T",
+   "Les LT CD4 coopèrent avec les NK via les Th1",
+   "Les NK se différencient en LT CD8"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les Th1 agissent sur les NK.",
+   "Exact : les NK produisent des cytokines pour la coopération cellulaire.",
+   "Exact : la différenciation des NK serait d'origine lymphocytaire T.",
+   "Exact : les Th1, issus des LT CD4, agissent sur les NK.",
+   "Faux : les NK ne se différencient pas en LT CD8."
+  ]
+ },
+ {
+  "q": "Lesquels des énoncés suivants concernant le phénotype des cellules NK sont exacts ?",
+  "options": [
+   "CD16, CD56, CD57 sont des marqueurs des NK",
+   "CD2, CD54, CD58 sont des molécules d'adhésion des NK",
+   "Les NK n'expriment ni TCR ni BCR réarrangé",
+   "CD19 est un marqueur des NK",
+   "CD3 est exprimé par les NK"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : CD16, CD56, CD57 caractérisent les NK.",
+   "Exact : CD2, CD54, CD58 sont les molécules d'adhésion des NK.",
+   "Exact : pas de réarrangement des gènes du TCR ni du BCR.",
+   "Faux : CD19 est un marqueur des LB.",
+   "Faux : CD3 fait partie du complexe TCR-CD3 des LT."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'organisation du tissu lymphoïde, lesquelles sont exactes ?",
+  "options": [
+   "La moelle osseuse, le thymus, les ganglions et la rate sont des formations individualisées",
+   "Le MALT regroupe les formations lymphoïdes des épithéliums digestifs et bronchiques",
+   "Les lymphocytes sont aussi présents dans le sang circulant",
+   "Le thymus est un organe lymphoïde secondaire",
+   "La peau ne contient pas de lymphocytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : ce sont des tissus et organes lymphoïdes individualisés.",
+   "Exact : le MALT regroupe les formations annexées aux épithéliums digestifs et bronchiques.",
+   "Exact : les lymphocytes sont présents dans le sang circulant.",
+   "Faux : le thymus est un organe lymphoïde primaire.",
+   "Faux : la peau est un territoire colonisé par les lymphocytes effecteurs."
+  ]
+ },
+ {
+  "q": "Concernant la quantité de lymphocytes dans l'organisme, quelles propositions sont exactes ?",
+  "options": [
+   "Environ 10 puissance 12 lymphocytes",
+   "Environ 2 % du poids du corps",
+   "Les LT sanguins représentent environ 1 % des lymphocytes totaux",
+   "La rate renferme à elle seule environ 25 % des lymphocytes totaux",
+   "Les lymphocytes représentent 40 % du poids du corps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : environ 1×10¹² lymphocytes dans le corps humain.",
+   "Exact : soit environ 2 % du poids du corps.",
+   "Exact : les LT sanguins ≈ 1 % des lymphocytes totaux.",
+   "Exact : la rate renferme à elle seule ≈ 25 % des lymphocytes totaux.",
+   "Faux : les lymphocytes représentent environ 2 % du poids du corps."
+  ]
+ },
+ {
+  "q": "À propos du MALT, quelles affirmations sont correctes ?",
+  "options": [
+   "Il s'agit des formations lymphoïdes annexées aux épithéliums digestifs et bronchiques",
+   "MALT signifie Mucosae Associated Lymphoid Tissue",
+   "Les IgA de la lamina propria intestinale y participent",
+   "C'est un organe lymphoïde primaire",
+   "Il comprend le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : définition du MALT selon le cours.",
+   "Exact : signification de l'acronyme MALT.",
+   "Exact : les plasmocytes à IgA de la lamina propria participent à l'immunité muqueuse.",
+   "Faux : le MALT fait partie des tissus lymphoïdes périphériques.",
+   "Faux : le thymus est un organe lymphoïde primaire distinct."
+  ]
+ },
+ {
+  "q": "Concernant la répartition des lymphocytes dans la moelle osseuse, quelles propositions sont exactes ?",
+  "options": [
+   "80 à 90 % de lymphocytes B",
+   "5 à 10 % de lymphocytes T",
+   "5 à 10 % de cellules NK",
+   "99 % de lymphocytes T",
+   "Moins de 1 % de cellules NK"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 80-90 % de LB dans la moelle osseuse.",
+   "Exact : 5-10 % de LT dans la moelle osseuse.",
+   "Exact : 5-10 % de NK dans la moelle osseuse.",
+   "Faux : 99 % de LT correspond au thymus.",
+   "Faux : la moelle contient 5-10 % de NK."
+  ]
+ },
+ {
+  "q": "Concernant la répartition des lymphocytes dans le thymus, quelles propositions sont exactes ?",
+  "options": [
+   "99 % de lymphocytes T",
+   "Moins de 1 % de lymphocytes B",
+   "Moins de 1 % de cellules NK",
+   "50 à 60 % de lymphocytes B",
+   "20 à 30 % de lymphocytes B"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 99 % de LT dans le thymus.",
+   "Exact : moins de 1 % de LB dans le thymus.",
+   "Exact : moins de 1 % de NK dans le thymus.",
+   "Faux : 50-60 % de LB correspond à la rate.",
+   "Faux : 20-30 % de LB correspond aux ganglions."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant la répartition lymphocytaire dans les ganglions ?",
+  "options": [
+   "70 à 80 % de lymphocytes T",
+   "20 à 30 % de lymphocytes B",
+   "Moins de 1 % de cellules NK",
+   "50 à 60 % de lymphocytes B",
+   "5 à 10 % de cellules NK"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 70-80 % de LT dans les ganglions.",
+   "Exact : 20-30 % de LB dans les ganglions.",
+   "Exact : moins de 1 % de NK dans les ganglions.",
+   "Faux : 50-60 % de LB correspond à la rate.",
+   "Faux : 5-10 % de NK correspond à la moelle osseuse."
+  ]
+ },
+ {
+  "q": "Concernant la répartition des lymphocytes dans la rate, quelles propositions sont exactes ?",
+  "options": [
+   "50 à 60 % de lymphocytes B",
+   "30 à 40 % de lymphocytes T",
+   "1 à 5 % de cellules NK",
+   "99 % de lymphocytes T",
+   "70 à 80 % de lymphocytes T"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 50-60 % de LB dans la rate.",
+   "Exact : 30-40 % de LT dans la rate.",
+   "Exact : 1-5 % de NK dans la rate.",
+   "Faux : 99 % de LT correspond au thymus.",
+   "Faux : 70-80 % de LT correspond aux ganglions."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles sont exactes ?",
+  "options": [
+   "Le thymus est l'organe le plus riche en lymphocytes T (99 %)",
+   "Les ganglions contiennent 70 à 80 % de LT",
+   "La moelle osseuse ne contient que 5 à 10 % de LT",
+   "La rate contient 30 à 40 % de LT",
+   "Les ganglions sont l'organe le plus riche en LT"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le thymus contient 99 % de LT.",
+   "Exact : les ganglions contiennent 70-80 % de LT.",
+   "Exact : la moelle osseuse contient 5-10 % de LT.",
+   "Exact : la rate contient 30-40 % de LT.",
+   "Faux : l'organe le plus riche en LT est le thymus."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant les organes riches en lymphocytes B ?",
+  "options": [
+   "La moelle osseuse contient 80 à 90 % de LB",
+   "La rate contient 50 à 60 % de LB",
+   "Les ganglions contiennent 20 à 30 % de LB",
+   "Le thymus contient moins de 1 % de LB",
+   "Le thymus est l'organe le plus riche en LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la moelle osseuse contient 80-90 % de LB.",
+   "Exact : la rate contient 50-60 % de LB.",
+   "Exact : les ganglions contiennent 20-30 % de LB.",
+   "Exact : le thymus contient moins de 1 % de LB.",
+   "Faux : l'organe le plus riche en LB est la moelle osseuse."
+  ]
+ },
+ {
+  "q": "Concernant la répartition des cellules NK, quelles propositions sont exactes ?",
+  "options": [
+   "5 à 10 % dans la moelle osseuse",
+   "1 à 5 % dans la rate",
+   "Moins de 1 % dans le thymus",
+   "Moins de 1 % dans les ganglions",
+   "99 % dans le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 5-10 % de NK dans la moelle osseuse.",
+   "Exact : 1-5 % de NK dans la rate.",
+   "Exact : moins de 1 % de NK dans le thymus.",
+   "Exact : moins de 1 % de NK dans les ganglions.",
+   "Faux : le thymus contient 99 % de LT, pas de NK."
+  ]
+ },
+ {
+  "q": "Quelles propositions comparent correctement ganglions et rate ?",
+  "options": [
+   "Les ganglions sont plus riches en LT (70-80 %) que la rate (30-40 %)",
+   "La rate est plus riche en LB (50-60 %) que les ganglions (20-30 %)",
+   "Les deux contiennent très peu de cellules NK",
+   "Les ganglions contiennent 99 % de LT",
+   "La rate ne contient pas de LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : 70-80 % de LT dans les ganglions contre 30-40 % dans la rate.",
+   "Exact : 50-60 % de LB dans la rate contre 20-30 % dans les ganglions.",
+   "Exact : moins de 1 % de NK dans les ganglions, 1-5 % dans la rate.",
+   "Faux : 99 % de LT correspond au thymus.",
+   "Faux : la rate contient 50-60 % de LB."
+  ]
+ },
+ {
+  "q": "À propos des zones T-dépendantes des organes lymphoïdes secondaires, quelles affirmations sont correctes ?",
+  "options": [
+   "Une partie des LT s'y localise à la sortie du thymus",
+   "Les ganglions, riches en LT, en sont un exemple",
+   "La 2e étape de la lymphopoïèse T s'y déroule",
+   "Elles sont situées dans la moelle osseuse",
+   "Le thymus est un organe lymphoïde secondaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : une partie des LT gagne les zones T-dépendantes des OLS.",
+   "Exact : les ganglions contiennent 70-80 % de LT.",
+   "Exact : la prolifération spécifique a lieu dans les OLS.",
+   "Faux : la moelle osseuse est un organe lymphoïde primaire.",
+   "Faux : le thymus est un organe lymphoïde primaire."
+  ]
+ },
+ {
+  "q": "Concernant la circulation des lymphocytes, quelles propositions sont exactes ?",
+  "options": [
+   "Les LT circulent de façon continue entre le sang et la lymphe",
+   "Les LB mémoire gagnent la circulation sanguine",
+   "Les lymphocytes sont présents dans le sang circulant",
+   "Les lymphocytes restent confinés dans les organes lymphoïdes",
+   "Les plasmocytes circulent massivement dans le sang"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : circulation continue des LT entre sang et lymphe.",
+   "Exact : les LB mémoire gagnent la circulation sanguine.",
+   "Exact : les lymphocytes sont présents dans le sang circulant.",
+   "Faux : les lymphocytes circulent entre les organes et le sang.",
+   "Faux : les plasmocytes gagnent la moelle osseuse et les sites de réponse."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes concernant le tableau de répartition sont vraies ?",
+  "options": [
+   "Moelle osseuse : 80-90 % LB, 5-10 % LT, 5-10 % NK",
+   "Thymus : <1 % LB, 99 % LT, <1 % NK",
+   "Ganglions : 20-30 % LB, 70-80 % LT, <1 % NK",
+   "Rate : 50-60 % LB, 30-40 % LT, 1-5 % NK",
+   "Thymus : 50-60 % LB, 30-40 % LT"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : répartition médullaire selon le cours.",
+   "Exact : répartition thymique selon le cours.",
+   "Exact : répartition ganglionnaire selon le cours.",
+   "Exact : répartition splénique selon le cours.",
+   "Faux : le thymus contient 99 % de LT."
+  ]
+ },
+ {
+  "q": "Quelles propositions relient correctement le MALT et les IgA ?",
+  "options": [
+   "Le MALT comprend les formations lymphoïdes des épithéliums digestifs",
+   "Les plasmocytes à IgA se trouvent dans la lamina propria de l'intestin",
+   "Les IgA sont produites après commutation de classe",
+   "Le MALT est un organe lymphoïde primaire",
+   "Les IgA sont produites dans le thymus"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le MALT comprend les formations des épithéliums digestifs.",
+   "Exact : les IgA sont produites dans la lamina propria de l'intestin.",
+   "Exact : commutation de classe IgM vers IgA.",
+   "Faux : le MALT fait partie des tissus lymphoïdes périphériques.",
+   "Faux : le thymus est le siège de la lymphopoïèse T."
+  ]
+ },
+ {
+  "q": "Concernant les territoires colonisés par les lymphocytes effecteurs, quelles propositions sont exactes ?",
+  "options": [
+   "La peau",
+   "Les muqueuses",
+   "Les parenchymes",
+   "Le thymus",
+   "La moelle osseuse uniquement"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la peau est colonisée par les lymphocytes effecteurs.",
+   "Exact : les muqueuses sont colonisées par les lymphocytes effecteurs.",
+   "Exact : les parenchymes sont colonisés par les lymphocytes effecteurs.",
+   "Faux : le thymus produit les LT naïfs.",
+   "Faux : les effecteurs colonisent peau, muqueuses et parenchymes."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la numération des lymphocytes, lesquelles sont exactes ?",
+  "options": [
+   "1500 à 4000/mm3 chez l'adulte",
+   "Soit 1,5 à 4 Giga/L",
+   "Soit 25 à 40 % des leucocytes",
+   "La valeur de référence est fixe quel que soit l'âge",
+   "La valeur de référence varie en fonction de l'âge"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : 1500-4000/mm3 chez l'adulte.",
+   "Exact : soit 1,5 à 4 Giga/L.",
+   "Exact : soit 25 à 40 % des leucocytes.",
+   "Faux : la valeur de référence varie en fonction de l'âge.",
+   "Exact : la valeur de référence est variable selon l'âge."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes T circulants, quelles propositions sont exactes ?",
+  "options": [
+   "Les LT représentent 80 % des lymphocytes circulants",
+   "Les LT sanguins représentent environ 1 % des lymphocytes totaux de l'organisme",
+   "La rate renferme à elle seule environ 25 % des lymphocytes totaux",
+   "Les LT représentent 80 % des leucocytes",
+   "Les LB représentent 80 % des lymphocytes circulants"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : LT = 80 % des lymphocytes circulants.",
+   "Exact : les LT sanguins ≈ 1 % des lymphocytes totaux.",
+   "Exact : la rate renferme à elle seule ≈ 25 % des lymphocytes totaux.",
+   "Faux : les lymphocytes représentent 25-40 % des leucocytes.",
+   "Faux : ce sont les LT qui représentent 80 % des lymphocytes circulants."
+  ]
+ },
+ {
+  "q": "À propos du frottis sanguin coloré au MGG, quelles affirmations sont correctes ?",
+  "options": [
+   "On ne peut pas distinguer les LT des LB sur frottis",
+   "Il permet le contrôle des lymphocytoses fournies par l'automate",
+   "Il permet l'étude morphologique des lymphocytes",
+   "Il permet de distinguer LT et LB",
+   "Il remplace l'immunophénotypage"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : on ne peut pas distinguer LT et LB sur frottis sanguin.",
+   "Exact : le frottis contrôle les lymphocytoses fournies par l'automate.",
+   "Exact : le frottis permet l'étude morphologique.",
+   "Faux : LT et LB sont indistinguables sur frottis.",
+   "Faux : l'immunophénotypage reste indispensable pour typer les populations."
+  ]
+ },
+ {
+  "q": "Concernant le petit lymphocyte, quelles propositions sont exactes ?",
+  "options": [
+   "Taille de 8 à 10 µm",
+   "Rapport nucléo-cytoplasmique élevé",
+   "Noyau arrondi avec parfois une encoche",
+   "Chromatine dense",
+   "Cytoplasme abondant"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le petit lymphocyte mesure 8-10 µm.",
+   "Exact : le rapport N/C est élevé.",
+   "Exact : noyau arrondi avec parfois une encoche.",
+   "Exact : la chromatine est dense.",
+   "Faux : le cytoplasme est un fin liseré, pas abondant."
+  ]
+ },
+ {
+  "q": "Quelles propositions décrivent correctement le cytoplasme du petit lymphocyte ?",
+  "options": [
+   "Fin liseré",
+   "Très basophile",
+   "Abondant",
+   "Riche en granulations azurophiles",
+   "Hyperbasophile avec nucléoles"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : le cytoplasme est un fin liseré.",
+   "Exact : ce fin liseré est très basophile.",
+   "Faux : le cytoplasme du petit lymphocyte n'est pas abondant.",
+   "Faux : les granulations azurophiles caractérisent le grand lymphocyte granuleux.",
+   "Faux : le cytoplasme hyperbasophile avec nucléoles caractérise le lymphoblaste."
+  ]
+ },
+ {
+  "q": "Concernant le grand lymphocyte, quelles propositions sont exactes ?",
+  "options": [
+   "Taille de 12 à 15 µm",
+   "Noyau excentré et ovalaire",
+   "Chromatine dense et laquée",
+   "Cytoplasme plus abondant et basophile",
+   "Taille de 8 à 10 µm"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le grand lymphocyte mesure 12-15 µm.",
+   "Exact : le noyau est excentré et ovalaire.",
+   "Exact : la chromatine est dense et laquée.",
+   "Exact : le cytoplasme est plus abondant et basophile.",
+   "Faux : 8-10 µm correspond au petit lymphocyte."
+  ]
+ },
+ {
+  "q": "À propos du grand lymphocyte granuleux, quelles affirmations sont correctes ?",
+  "options": [
+   "Il présente des granulations azurophiles dans le cytoplasme",
+   "Sa taille est de 12 à 15 µm",
+   "Son noyau est excentré et ovalaire",
+   "Il s'agit d'un lymphoblaste",
+   "Ses granulations sont basophiles"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : granulations azurophiles dans le cytoplasme.",
+   "Exact : c'est un grand lymphocyte de 12-15 µm.",
+   "Exact : le noyau du grand lymphocyte est excentré et ovalaire.",
+   "Faux : le lymphoblaste a une chromatine fine nucléolée.",
+   "Faux : les granulations sont azurophiles."
+  ]
+ },
+ {
+  "q": "Concernant le lymphoblaste, quelles propositions sont exactes ?",
+  "options": [
+   "Taille variable",
+   "Rapport nucléo-cytoplasmique élevé",
+   "Chromatine fine et nucléolée",
+   "Cytoplasme hyperbasophile",
+   "Noyau arrondi à chromatine dense avec fin liseré basophile"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la taille du lymphoblaste est variable.",
+   "Exact : le rapport N/C est élevé.",
+   "Exact : la chromatine est fine avec des nucléoles.",
+   "Exact : le cytoplasme est hyperbasophile.",
+   "Faux : cette description correspond au petit lymphocyte."
+  ]
+ },
+ {
+  "q": "Quelles propositions distinguent correctement le petit et le grand lymphocyte ?",
+  "options": [
+   "Le petit lymphocyte mesure 8 à 10 µm, le grand 12 à 15 µm",
+   "Le noyau du grand lymphocyte est excentré et ovalaire",
+   "Le cytoplasme du grand lymphocyte est plus abondant",
+   "Le petit lymphocyte a un rapport N/C élevé",
+   "Le grand lymphocyte a un noyau arrondi à chromatine dense"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : 8-10 µm pour le petit, 12-15 µm pour le grand.",
+   "Exact : le noyau du grand lymphocyte est excentré et ovalaire.",
+   "Exact : le cytoplasme du grand lymphocyte est plus abondant et basophile.",
+   "Exact : le rapport N/C du petit lymphocyte est élevé.",
+   "Faux : le noyau arrondi à chromatine dense caractérise le petit lymphocyte."
+  ]
+ },
+ {
+  "q": "Concernant le rapport nucléo-cytoplasmique, quelles propositions sont exactes ?",
+  "options": [
+   "Il est élevé dans le petit lymphocyte",
+   "Il est élevé dans le lymphoblaste",
+   "Il est plus bas dans le grand lymphocyte du fait d'un cytoplasme plus abondant",
+   "Il est élevé dans le grand lymphocyte granuleux",
+   "Le rapport N/C n'a pas de valeur diagnostique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le rapport N/C est élevé dans le petit lymphocyte.",
+   "Exact : le rapport N/C est élevé dans le lymphoblaste.",
+   "Exact : le cytoplasme plus abondant du grand lymphocyte abaisse le rapport.",
+   "Faux : le grand lymphocyte granuleux a un cytoplasme plus abondant.",
+   "Faux : le rapport N/C est un critère morphologique important."
+  ]
+ },
+ {
+  "q": "À propos de la chromatine des lymphocytes, quelles affirmations sont correctes ?",
+  "options": [
+   "Dense dans le petit lymphocyte",
+   "Dense et laquée dans le grand lymphocyte",
+   "Fine et nucléolée dans le lymphoblaste",
+   "Dense dans le lymphoblaste",
+   "Fine dans le petit lymphocyte"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la chromatine du petit lymphocyte est dense.",
+   "Exact : la chromatine du grand lymphocyte est dense et laquée.",
+   "Exact : la chromatine du lymphoblaste est fine avec des nucléoles.",
+   "Faux : la chromatine du lymphoblaste est fine et nucléolée.",
+   "Faux : la chromatine du petit lymphocyte est dense."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant l'hémogramme dans l'exploration des lignées lymphoïdes, lesquelles sont exactes ?",
+  "options": [
+   "La numération lymphocytaire varie avec l'âge",
+   "1500 à 4000/mm3 chez l'adulte",
+   "Le frottis permet le contrôle des lymphocytoses de l'automate",
+   "L'hémogramme permet l'immunophénotypage",
+   "La numération est exprimée en Giga/L"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Exact : la valeur de référence varie en fonction de l'âge.",
+   "Exact : 1500-4000/mm3 chez l'adulte.",
+   "Exact : le frottis contrôle les lymphocytoses fournies par l'automate.",
+   "Faux : l'immunophénotypage est un examen séparé.",
+   "Exact : la numération s'exprime aussi en Giga/L (1,5-4 G/L)."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytoses fournies par l'automate, quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont contrôlées sur frottis sanguin",
+   "Le frottis est coloré au MGG",
+   "L'automate distingue les LT des LB",
+   "Une lymphocytose est définie par > 4 Giga/L chez l'adulte",
+   "Le frottis permet l'immunophénotypage"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Exact : le frottis contrôle les lymphocytoses de l'automate.",
+   "Exact : le frottis sanguin est coloré au MGG.",
+   "Faux : l'automate ne type pas les sous-populations lymphocytaires.",
+   "Exact : hyperlymphocytose si > 4 Giga/L chez l'adulte.",
+   "Faux : l'immunophénotypage est un examen à part."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes concernant la morphologie lymphocytaire sont vraies ?",
+  "options": [
+   "Petit lymphocyte : 8-10 µm, N/C élevé, chromatine dense",
+   "Grand lymphocyte : 12-15 µm, noyau excentré ovalaire",
+   "Grand lymphocyte granuleux : granulations azurophiles",
+   "Lymphoblaste : chromatine fine nucléolée, cytoplasme hyperbasophile",
+   "Le frottis permet de distinguer LT et LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : description du petit lymphocyte.",
+   "Exact : description du grand lymphocyte.",
+   "Exact : les granulations azurophiles caractérisent le grand lymphocyte granuleux.",
+   "Exact : description du lymphoblaste.",
+   "Faux : on ne peut pas distinguer LT et LB sur frottis."
+  ]
+ },
+ {
+  "q": "Quelles propositions sont exactes concernant le cytoplasme des lymphocytes ?",
+  "options": [
+   "Fin liseré très basophile dans le petit lymphocyte",
+   "Plus abondant et basophile dans le grand lymphocyte",
+   "Hyperbasophile dans le lymphoblaste",
+   "Abondant dans le petit lymphocyte",
+   "Éosinophile dans le lymphoblaste"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : fin liseré très basophile du petit lymphocyte.",
+   "Exact : cytoplasme plus abondant et basophile du grand lymphocyte.",
+   "Exact : cytoplasme hyperbasophile du lymphoblaste.",
+   "Faux : le cytoplasme du petit lymphocyte est un fin liseré.",
+   "Faux : le cytoplasme du lymphoblaste est hyperbasophile."
+  ]
+ },
+ {
+  "q": "Concernant le noyau des lymphocytes, quelles propositions sont exactes ?",
+  "options": [
+   "Arrondi avec parfois une encoche dans le petit lymphocyte",
+   "Excentré et ovalaire dans le grand lymphocyte",
+   "À chromatine fine et nucléolée dans le lymphoblaste",
+   "Rond à chromatine dense dans le lymphoblaste",
+   "Multilobé dans le petit lymphocyte"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : noyau arrondi parfois encoché du petit lymphocyte.",
+   "Exact : noyau excentré ovalaire du grand lymphocyte.",
+   "Exact : chromatine fine nucléolée du lymphoblaste.",
+   "Faux : la chromatine du lymphoblaste est fine et nucléolée.",
+   "Faux : le noyau du petit lymphocyte est arrondi, pas multilobé."
+  ]
+ },
+ {
+  "q": "À propos des valeurs seuils de la numération lymphocytaire, quelles affirmations sont correctes ?",
+  "options": [
+   "Lymphopénie si < 1,5 Giga/L",
+   "Hyperlymphocytose si > 4 Giga/L chez l'adulte",
+   "Valeurs normales : 1,5 à 4 Giga/L",
+   "Hyperlymphocytose si > 1,5 Giga/L",
+   "Lymphopénie si < 4 Giga/L"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : lymphopénie si < 1,5 Giga/L.",
+   "Exact : hyperlymphocytose si > 4 Giga/L chez l'adulte.",
+   "Exact : 1,5-4 Giga/L = valeurs normales de l'adulte.",
+   "Faux : 1,5 Giga/L est la limite basse de la normale.",
+   "Faux : la lymphopénie est définie par < 1,5 Giga/L."
+  ]
+ },
+ {
+  "q": "Concernant la coloration au MGG du frottis sanguin, quelles propositions sont exactes ?",
+  "options": [
+   "Elle permet l'étude morphologique des lymphocytes",
+   "Elle ne permet pas de distinguer LT et LB",
+   "Elle permet le contrôle des lymphocytoses de l'automate",
+   "Elle permet l'immunophénotypage",
+   "Elle remplace le myélogramme"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le frottis au MGG permet l'étude morphologique.",
+   "Exact : LT et LB sont indistinguables sur frottis.",
+   "Exact : le frottis contrôle les lymphocytoses fournies par l'automate.",
+   "Faux : l'immunophénotypage est un examen séparé.",
+   "Faux : le myélogramme explore la moelle osseuse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant le myélogramme, lesquelles sont exactes ?",
+  "options": [
+   "Chez l'adulte, le taux de lymphocytes est inférieur à 20 % des éléments médullaires",
+   "Il étudie les lymphocytes et les plasmocytes médullaires",
+   "Il permet de distinguer les LT des LB",
+   "Il remplace l'immunophénotypage",
+   "La BOM fait partie de l'exploration médullaire"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : moins de 20 % de lymphocytes parmi les éléments médullaires chez l'adulte.",
+   "Exact : le myélogramme étudie lymphocytes et plasmocytes.",
+   "Faux : le typage des sous-populations relève de l'immunophénotypage.",
+   "Faux : l'immunophénotypage reste indispensable.",
+   "Exact : myélogramme et BOM explorent la moelle osseuse."
+  ]
+ },
+ {
+  "q": "Concernant l'immunophénotypage des LT CD4, quelles propositions sont exactes ?",
+  "options": [
+   "0,6 à 1,2 x 10 puissance 9/L",
+   "Soit 37 à 50 %",
+   "0,3 à 0,7 x 10 puissance 9/L",
+   "Soit 19 à 29 %",
+   "Les LT CD4 sont minoritaires par rapport aux CD8"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : LT CD4 = 0,6-1,2 x 10⁹/L.",
+   "Exact : soit 37-50 %.",
+   "Faux : 0,3-0,7 x 10⁹/L correspond aux LT CD8.",
+   "Faux : 19-29 % correspond aux LT CD8.",
+   "Faux : les LT CD4 (2/3) sont majoritaires par rapport aux CD8 (1/3)."
+  ]
+ },
+ {
+  "q": "Concernant l'immunophénotypage des LT CD8, quelles propositions sont exactes ?",
+  "options": [
+   "0,3 à 0,7 x 10 puissance 9/L",
+   "Soit 19 à 29 %",
+   "0,6 à 1,2 x 10 puissance 9/L",
+   "Soit 37 à 50 %",
+   "Les LT CD8 sont majoritaires en périphérie"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : LT CD8 = 0,3-0,7 x 10⁹/L.",
+   "Exact : soit 19-29 %.",
+   "Faux : 0,6-1,2 x 10⁹/L correspond aux LT CD4.",
+   "Faux : 37-50 % correspond aux LT CD4.",
+   "Faux : les LT CD8 (1/3) sont minoritaires par rapport aux CD4 (2/3)."
+  ]
+ },
+ {
+  "q": "Quelles propositions comparent correctement les valeurs d'immunophénotypage ?",
+  "options": [
+   "LT CD4 : 0,6-1,2 x 10 puissance 9/L (37-50 %)",
+   "LT CD8 : 0,3-0,7 x 10 puissance 9/L (19-29 %)",
+   "Les CD4 sont plus nombreux que les CD8",
+   "Les CD8 sont plus nombreux que les CD4",
+   "LT CD4 : 0,3-0,7 x 10 puissance 9/L"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : valeurs des LT CD4.",
+   "Exact : valeurs des LT CD8.",
+   "Exact : les CD4 (2/3) sont plus nombreux que les CD8 (1/3).",
+   "Faux : les CD8 sont minoritaires.",
+   "Faux : 0,3-0,7 x 10⁹/L correspond aux LT CD8."
+  ]
+ },
+ {
+  "q": "À propos de la cytoponction et de la biopsie ganglionnaire, quelles affirmations sont correctes ?",
+  "options": [
+   "Elles font partie de l'exploration des lignées lymphoïdes",
+   "Elles étudient les ganglions",
+   "Elles permettent l'étude des plasmocytes",
+   "Elles remplacent l'hémogramme",
+   "Elles sont réservées aux désordres dysimmunitaires"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : cytoponction et biopsie ganglionnaire explorent les lignées lymphoïdes.",
+   "Exact : elles étudient le tissu ganglionnaire.",
+   "Exact : l'étude des plasmocytes en fait partie.",
+   "Faux : l'hémogramme reste l'examen de première intention.",
+   "Faux : les tests réservés aux désordres dysimmunitaires sont les tests fonctionnels."
+  ]
+ },
+ {
+  "q": "Concernant les tests fonctionnels, quelles propositions sont exactes ?",
+  "options": [
+   "Ils sont réservés à l'exploration des désordres dysimmunitaires",
+   "Ils comprennent la culture cellulaire",
+   "Ils comprennent l'IDR à la tuberculine",
+   "Ils sont réalisés en première intention",
+   "Ils explorent l'immunité humorale"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les tests fonctionnels sont réservés aux désordres dysimmunitaires.",
+   "Exact : la culture cellulaire explore l'immunité cellulaire.",
+   "Exact : l'IDR à la tuberculine explore l'immunité cellulaire.",
+   "Faux : l'hémogramme est l'examen de première intention.",
+   "Faux : l'immunité humorale est explorée par électrophorèse, immunofixation et dosage des Ig."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la recherche de clonalité, lesquelles sont exactes ?",
+  "options": [
+   "Elle repose sur l'analyse moléculaire des réarrangements des gènes du TCR",
+   "C'est un progrès actuel dans le diagnostic des lymphoproliférations malignes",
+   "Elle analyse les réarrangements du BCR uniquement",
+   "Elle est réservée à l'exploration des désordres dysimmunitaires",
+   "Elle remplace l'immunophénotypage"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : analyse moléculaire des réarrangements des gènes du TCR.",
+   "Exact : progrès actuel dans le diagnostic des lymphoproliférations malignes.",
+   "Faux : le cours cite les réarrangements des gènes du TCR.",
+   "Faux : les tests réservés aux désordres dysimmunitaires sont les tests fonctionnels.",
+   "Faux : elle complète l'immunophénotypage, ne le remplace pas."
+  ]
+ },
+ {
+  "q": "Concernant l'étude de l'immunité humorale, quelles propositions sont exactes ?",
+  "options": [
+   "Électrophorèse des protéines",
+   "Immunofixation",
+   "Dosage des immunoglobulines",
+   "IDR à la tuberculine",
+   "Culture cellulaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : l'électrophorèse des protéines explore l'immunité humorale.",
+   "Exact : l'immunofixation explore l'immunité humorale.",
+   "Exact : le dosage des Ig explore l'immunité humorale.",
+   "Faux : l'IDR à la tuberculine explore l'immunité cellulaire.",
+   "Faux : la culture cellulaire explore l'immunité cellulaire."
+  ]
+ },
+ {
+  "q": "Concernant l'étude de l'immunité cellulaire, quelles propositions sont exactes ?",
+  "options": [
+   "IDR à la tuberculine",
+   "Culture cellulaire",
+   "Électrophorèse des protéines",
+   "Dosage des immunoglobulines",
+   "Immunofixation"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : l'IDR à la tuberculine explore l'immunité cellulaire.",
+   "Exact : la culture cellulaire explore l'immunité cellulaire.",
+   "Faux : l'électrophorèse explore l'immunité humorale.",
+   "Faux : le dosage des Ig explore l'immunité humorale.",
+   "Faux : l'immunofixation explore l'immunité humorale."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes concernant l'exploration des lignées lymphoïdes sont vraies ?",
+  "options": [
+   "Hémogramme : numération et frottis sanguin au MGG",
+   "Myélogramme et BOM : lymphocytes < 20 % des éléments médullaires chez l'adulte",
+   "Immunophénotypage : quantification des LT CD4 et CD8",
+   "Recherche de clonalité par analyse des réarrangements du TCR",
+   "Le frottis sanguin permet de distinguer LT et LB"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : l'hémogramme comprend numération et frottis au MGG.",
+   "Exact : moins de 20 % de lymphocytes médullaires chez l'adulte.",
+   "Exact : l'immunophénotypage quantifie LT CD4 et CD8.",
+   "Exact : la clonalité repose sur l'analyse des réarrangements du TCR.",
+   "Faux : on ne peut pas distinguer LT et LB sur frottis."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant la lymphopénie, lesquelles sont exactes ?",
+  "options": [
+   "Elle est définie par un taux < 1,5 Giga/L",
+   "Elle s'accompagne d'immunodépression",
+   "Elle est définie par un taux > 4 Giga/L",
+   "Elle est toujours bénigne",
+   "Elle se définit chez l'enfant uniquement"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : lymphopénie si < 1,5 Giga/L.",
+   "Exact : la lymphopénie s'accompagne d'immunodépression.",
+   "Faux : > 4 Giga/L définit l'hyperlymphocytose.",
+   "Faux : elle traduit une immunodépression, potentiellement grave.",
+   "Faux : le seuil est donné sans restriction d'âge dans le cours."
+  ]
+ },
+ {
+  "q": "Concernant la maladie de Di George, quelles propositions sont exactes ?",
+  "options": [
+   "C'est une absence du thymus",
+   "C'est un déficit immunitaire congénital",
+   "Elle entraîne une lymphopénie",
+   "C'est une hyperlymphocytose",
+   "Elle touche la lymphopoïèse B"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la maladie de Di George est une absence du thymus.",
+   "Exact : c'est un déficit immunitaire congénital.",
+   "Exact : elle cause une lymphopénie avec immunodépression.",
+   "Faux : l'hyperlymphocytose est définie par > 4 Giga/L.",
+   "Faux : le thymus est le siège de la lymphopoïèse T."
+  ]
+ },
+ {
+  "q": "À propos de l'infection par le VIH, quelles affirmations sont correctes ?",
+  "options": [
+   "Le VIH cible les lymphocytes T CD4",
+   "Elle peut entraîner une lymphopénie",
+   "Elle s'accompagne d'immunodépression",
+   "Le VIH cible les lymphocytes B",
+   "Elle entraîne une hyperlymphocytose"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le VIH cible les LT CD4.",
+   "Exact : l'infection par le VIH cause une lymphopénie.",
+   "Exact : elle s'accompagne d'immunodépression.",
+   "Faux : le VIH cible les LT CD4, pas les LB.",
+   "Faux : l'hyperlymphocytose est définie par > 4 Giga/L."
+  ]
+ },
+ {
+  "q": "Concernant l'immunodépression des lymphopénies, quelles propositions sont exactes ?",
+  "options": [
+   "Déficit immunitaire congénital (ex : maladie de Di George)",
+   "Infection par le VIH",
+   "Définie par une lymphopénie < 1,5 Giga/L",
+   "Toujours d'origine médicamenteuse",
+   "Équivaut à une hyperlymphocytose"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le déficit congénital (Di George) cause une immunodépression.",
+   "Exact : l'infection par le VIH cause une immunodépression.",
+   "Exact : la lymphopénie est définie par < 1,5 Giga/L.",
+   "Faux : le cours cite des causes congénitales et infectieuses.",
+   "Faux : l'hyperlymphocytose est l'excès de lymphocytes."
+  ]
+ },
+ {
+  "q": "Concernant l'hyperlymphocytose, quelles propositions sont exactes ?",
+  "options": [
+   "Elle est définie par un taux > 4 Giga/L chez l'adulte",
+   "On distingue des lymphocytoses aiguës et chroniques",
+   "Elle est définie par un taux < 1,5 Giga/L",
+   "Elle est toujours maligne",
+   "Elle ne concerne que l'enfant"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : hyperlymphocytose si > 4 Giga/L chez l'adulte.",
+   "Exact : on distingue lymphocytoses aiguës et chroniques.",
+   "Faux : < 1,5 Giga/L définit la lymphopénie.",
+   "Faux : il existe des causes non malignes (auto-immunes, tuberculose).",
+   "Faux : le seuil est donné chez l'adulte."
+  ]
+ },
+ {
+  "q": "Parmi les causes de lymphocytoses aiguës, lesquelles sont exactes ?",
+  "options": [
+   "Les infections virales",
+   "Le syndrome mononucléosique",
+   "La tuberculose",
+   "Les lymphomes",
+   "Les maladies auto-immunes"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : les infections virales causent des lymphocytoses aiguës.",
+   "Exact : le syndrome mononucléosique est une cause aiguë.",
+   "Faux : la tuberculose est une cause de lymphocytose chronique non maligne.",
+   "Faux : les lymphomes sont des causes chroniques malignes.",
+   "Faux : les maladies auto-immunes sont des causes chroniques non malignes."
+  ]
+ },
+ {
+  "q": "Concernant les infections bactériennes responsables de lymphocytose, quelles propositions sont exactes ?",
+  "options": [
+   "La coqueluche",
+   "La brucellose",
+   "La tuberculose (lymphocytose chronique non maligne)",
+   "Le CMV",
+   "La mononucléose infectieuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la coqueluche cause une lymphocytose aiguë.",
+   "Exact : la brucellose cause une lymphocytose aiguë.",
+   "Exact : la tuberculose est une cause chronique non maligne.",
+   "Faux : le CMV est un virus (syndrome mononucléosique).",
+   "Faux : la mononucléose infectieuse est d'origine virale."
+  ]
+ },
+ {
+  "q": "À propos du syndrome mononucléosique, quelles affirmations sont correctes ?",
+  "options": [
+   "Le CMV (cytomégalovirus) en est une cause",
+   "La MNI (mononucléose infectieuse) en est une cause",
+   "C'est une cause de lymphocytose aiguë",
+   "C'est une cause de lymphocytose chronique maligne",
+   "C'est une infection bactérienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : le CMV cause un syndrome mononucléosique.",
+   "Exact : la MNI cause un syndrome mononucléosique.",
+   "Exact : le syndrome mononucléosique est une cause aiguë.",
+   "Faux : les causes chroniques malignes sont lymphomes et LLC.",
+   "Faux : CMV et MNI sont d'origine virale."
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytoses chroniques malignes, quelles propositions sont exactes ?",
+  "options": [
+   "Les lymphomes",
+   "Les syndromes lymphoprolifératifs comme la LLC",
+   "Les infections virales aiguës",
+   "La coqueluche",
+   "La brucellose"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : les lymphomes sont des causes chroniques malignes.",
+   "Exact : la LLC est un syndrome lymphoprolifératif chronique.",
+   "Faux : les infections virales causent des lymphocytoses aiguës.",
+   "Faux : la coqueluche est une cause aiguë bactérienne.",
+   "Faux : la brucellose est une cause aiguë bactérienne."
+  ]
+ },
+ {
+  "q": "Parmi les causes de lymphocytoses chroniques non malignes, lesquelles sont exactes ?",
+  "options": [
+   "Les maladies auto-immunes",
+   "La tuberculose",
+   "Les lymphomes",
+   "La LLC",
+   "Le syndrome mononucléosique"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : les maladies auto-immunes sont des causes chroniques non malignes.",
+   "Exact : la tuberculose est une cause chronique non maligne.",
+   "Faux : les lymphomes sont des causes chroniques malignes.",
+   "Faux : la LLC est un syndrome lymphoprolifératif malin.",
+   "Faux : le syndrome mononucléosique est une cause aiguë."
+  ]
+ },
+ {
+  "q": "Quelles propositions distinguent correctement lymphocytoses aiguës et chroniques ?",
+  "options": [
+   "Aiguës : infections virales, coqueluche, brucellose, syndrome mononucléosique",
+   "Chroniques : lymphomes, LLC, maladies auto-immunes, tuberculose",
+   "Aiguës : lymphomes et LLC",
+   "Chroniques : infections virales",
+   "Le seuil est > 4 Giga/L chez l'adulte dans les deux cas"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Exact : les causes aiguës citées par le cours.",
+   "Exact : les causes chroniques citées par le cours.",
+   "Faux : lymphomes et LLC sont des causes chroniques.",
+   "Faux : les infections virales sont des causes aiguës.",
+   "Exact : l'hyperlymphocytose est définie par > 4 Giga/L chez l'adulte."
+  ]
+ },
+ {
+  "q": "Concernant la LLC citée dans le cours, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un syndrome lymphoprolifératif",
+   "Elle est une cause de lymphocytose chronique",
+   "C'est une cause de lymphopénie",
+   "C'est une infection virale",
+   "C'est une maladie auto-immune"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : la LLC est un syndrome lymphoprolifératif.",
+   "Exact : elle est une cause de lymphocytose chronique maligne.",
+   "Faux : la lymphopénie est définie par < 1,5 Giga/L.",
+   "Faux : la LLC n'est pas une infection.",
+   "Faux : la LLC est une prolifération maligne, pas auto-immune."
+  ]
+ },
+ {
+  "q": "À propos de la tuberculose dans les pathologies lymphocytaires, quelles affirmations sont correctes ?",
+  "options": [
+   "Elle est une cause de lymphocytose chronique non maligne",
+   "L'IDR à la tuberculine explore l'immunité cellulaire",
+   "Elle est une cause de lymphocytose aiguë",
+   "Elle est un syndrome lymphoprolifératif",
+   "Elle entraîne une lymphopénie"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Exact : la tuberculose est une cause chronique non maligne.",
+   "Exact : l'IDR à la tuberculine explore l'immunité cellulaire.",
+   "Faux : les causes aiguës sont virales, coqueluche, brucellose, MNI.",
+   "Faux : les syndromes lymphoprolifératifs sont les lymphomes et la LLC.",
+   "Faux : la lymphopénie est définie par < 1,5 Giga/L."
+  ]
+ },
+ {
+  "q": "Concernant les maladies auto-immunes, quelles propositions sont exactes ?",
+  "options": [
+   "Elles sont une cause de lymphocytose chronique non maligne",
+   "Elles traduisent un défaut de tolérance au soi",
+   "La sélection négative élimine les lymphocytes fortement autoréactifs",
+   "Elles sont des syndromes lymphoprolifératifs malins",
+   "Elles entraînent toujours une lymphopénie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les maladies auto-immunes sont des causes chroniques non malignes.",
+   "Exact : l'auto-immunité traduit un défaut de tolérance au soi.",
+   "Exact : la sélection négative détruit les lymphocytes reconnaissant fortement le soi.",
+   "Faux : les syndromes lymphoprolifératifs malins sont lymphomes et LLC.",
+   "Faux : elles peuvent s'accompagner d'une lymphocytose chronique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes concernant les lymphomes, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des proliférations malignes lymphocytaires",
+   "Ils sont une cause de lymphocytose chronique",
+   "La recherche de clonalité aide à leur diagnostic",
+   "Ce sont des infections virales",
+   "Ils entraînent une lymphopénie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : les lymphomes sont des proliférations malignes lymphocytaires.",
+   "Exact : ils sont une cause de lymphocytose chronique.",
+   "Exact : l'analyse des réarrangements du TCR aide au diagnostic.",
+   "Faux : les lymphomes ne sont pas des infections.",
+   "Faux : ils s'accompagnent d'une lymphocytose, pas d'une lymphopénie."
+  ]
+ },
+ {
+  "q": "Concernant l'apport de la biologie au diagnostic des lymphoproliférations malignes, quelles propositions sont exactes ?",
+  "options": [
+   "L'analyse moléculaire des réarrangements des gènes du TCR",
+   "C'est un progrès actuel du diagnostic",
+   "L'immunophénotypage quantifie les sous-populations T",
+   "L'hémogramme objective la lymphocytose",
+   "Le frottis distingue les clones malins des LT normaux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : la recherche de clonalité analyse les réarrangements du TCR.",
+   "Exact : c'est un progrès actuel dans le diagnostic.",
+   "Exact : l'immunophénotypage quantifie LT CD4 et CD8.",
+   "Exact : l'hémogramme objective la lymphocytose (> 4 Giga/L).",
+   "Faux : on ne peut pas distinguer les populations sur frottis."
+  ]
+ },
+ {
+  "q": "Lesquelles des propositions suivantes concernant les seuils sont vraies ?",
+  "options": [
+   "Lymphopénie : < 1,5 Giga/L",
+   "Hyperlymphocytose : > 4 Giga/L chez l'adulte",
+   "Numération normale : 1500 à 4000/mm3",
+   "Lymphocytes médullaires normaux : < 20 % des éléments médullaires",
+   "Lymphopénie : < 4 Giga/L"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : lymphopénie si < 1,5 Giga/L.",
+   "Exact : hyperlymphocytose si > 4 Giga/L chez l'adulte.",
+   "Exact : 1500-4000/mm3 = valeurs normales de l'adulte.",
+   "Exact : moins de 20 % de lymphocytes médullaires chez l'adulte.",
+   "Faux : la lymphopénie est définie par < 1,5 Giga/L."
+  ]
+ },
+ {
+  "q": "Quelles propositions relient correctement la maladie de Di George et le thymus ?",
+  "options": [
+   "La maladie de Di George est une absence du thymus",
+   "Le thymus est le siège de la lymphopoïèse T",
+   "Son absence entraîne un déficit immunitaire",
+   "Elle entraîne une hyperlymphocytose",
+   "Le thymus est le siège de la lymphopoïèse B"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Exact : la maladie de Di George est une absence du thymus.",
+   "Exact : le thymus est le lieu de multiplication, différenciation et éducation des LT.",
+   "Exact : l'absence de thymus entraîne un déficit immunitaire.",
+   "Faux : elle entraîne une lymphopénie.",
+   "Faux : la lymphopoïèse B a lieu dans le foie fœtal puis la moelle osseuse."
+  ]
+ },
+ {
+  "q": "Concernant le VIH et les lymphocytes T CD4, quelles propositions sont exactes ?",
+  "options": [
+   "Le CD4 est la cible du VIH",
+   "Les LT CD4 représentent les 2/3 des LT périphériques",
+   "L'infection par le VIH peut entraîner une lymphopénie",
+   "Les LT CD4 interagissent avec le CMH-II",
+   "Le VIH cible les LT CD8"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : le VIH cible les LT CD4.",
+   "Exact : les LT CD4 représentent 2/3 des LT périphériques.",
+   "Exact : l'infection par le VIH cause une lymphopénie.",
+   "Exact : le CD4 interagit avec les molécules du CMH-II.",
+   "Faux : le VIH cible les LT CD4, pas les CD8."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes résumant les pathologies des lignées lymphoïdes, lesquelles sont exactes ?",
+  "options": [
+   "Lymphopénies (< 1,5 Giga/L) : immunodépression, Di George, VIH",
+   "Hyperlymphocytose (> 4 Giga/L) : aiguës (virales, coqueluche, brucellose, MNI) et chroniques",
+   "Chroniques malignes : lymphomes, LLC",
+   "Chroniques non malignes : maladies auto-immunes, tuberculose",
+   "Lymphopénies (> 4 Giga/L) : infections virales"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Exact : les lymphopénies s'accompagnent d'immunodépression (Di George, VIH).",
+   "Exact : l'hyperlymphocytose se divise en aiguës et chroniques.",
+   "Exact : lymphomes et LLC sont des causes chroniques malignes.",
+   "Exact : maladies auto-immunes et tuberculose sont des causes chroniques non malignes.",
+   "Faux : > 4 Giga/L définit l'hyperlymphocytose, pas la lymphopénie."
+  ]
+ }
+]

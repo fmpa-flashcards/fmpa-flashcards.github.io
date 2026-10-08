@@ -1,0 +1,4547 @@
+[
+ {
+  "q": "Quelles sont les propositions exactes concernant la classification des Herpesviridae ?",
+  "options": [
+   "Douze espèces d'herpèsvirus sont strictement humaines.",
+   "Le genre Simplexvirus comprend le HSV-1 (HHV-1) et le HSV-2 (HHV-2).",
+   "Le VZV (HHV-3) appartient au genre Simplexvirus de la sous-famille Alphaherpesvirinae.",
+   "Le CMV (HHV-5) appartient à la sous-famille des Gammaherpesvirinae.",
+   "La famille comprend trois sous-familles : Alphaherpesvirinae, Betaherpesvirinae et Gammaherpesvirinae."
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : 9 espèces d'herpèsvirus sont strictement humaines, pas 12.",
+   "Vrai : le genre Simplexvirus regroupe HSV-1 (HHV-1) et HSV-2 (HHV-2).",
+   "Faux : le VZV (HHV-3) appartient au genre Varicellovirus, pas au genre Simplexvirus.",
+   "Faux : le CMV (HHV-5) est un Cytomegalovirus de la sous-famille Betaherpesvirinae.",
+   "Vrai : la classification comporte 3 sous-familles, 6 genres et 9 espèces strictement humaines."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives à la taxonomie des Herpesviridae, lesquelles sont exactes ?",
+  "options": [
+   "L'EBV (HHV-4) appartient au genre Lymphocryptovirus.",
+   "Le HHV-8 est classé dans la sous-famille des Betaherpesvirinae.",
+   "Le HHV-8 appartient au genre Rhadinovirus.",
+   "Les HHV-6A, HHV-6B et HHV-7 appartiennent au genre Roseolovirus.",
+   "La sous-famille des Gammaherpesvirinae regroupe des virus à potentiel oncogène."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'EBV (HHV-4) est le Lymphocryptovirus, Gammaherpesvirinae.",
+   "Faux : le HHV-8 appartient aux Gammaherpesvirinae, pas aux Betaherpesvirinae.",
+   "Vrai : le HHV-8 est un Rhadinovirus, Gammaherpesvirinae.",
+   "Vrai : HHV-6A, HHV-6B et HHV-7 sont des Roseolovirus, Betaherpesvirinae.",
+   "Vrai : les Gammaherpesvirinae (EBV, HHV-8) sont des virus oncogènes."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet de la structure des Herpesviridae ?",
+  "options": [
+   "Ce sont des virus de 20 à 30 nm de diamètre.",
+   "Ils possèdent une enveloppe dérivée de la membrane nucléaire de la cellule hôte.",
+   "Leur capside est hélicoïdale, de 125 nm de diamètre.",
+   "Leur génome est un ARN simple brin segmenté.",
+   "Leur génome est un ADN double brin linéaire."
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : la taille des Herpesviridae est de 120 à 200 nm, pas 20 à 30 nm.",
+   "Vrai : l'enveloppe dérive de la membrane nucléaire de la cellule hôte et porte les glycoprotéines virales.",
+   "Faux : la capside est icosaédrique (162 capsomères), pas hélicoïdale.",
+   "Faux : le génome est un ADN double brin linéaire, jamais un ARN simple brin segmenté.",
+   "Vrai : le génome est un ADN bicaténaire linéaire de poids moléculaire élevé."
+  ]
+ },
+ {
+  "q": "Concernant l'enveloppe et le tégument des Herpesviridae, quelles sont les propositions exactes ?",
+  "options": [
+   "L'enveloppe porte les glycoprotéines virales de surface.",
+   "L'antigène de surface de l'HSV comprend 11 glycoprotéines (gB, gC, gD, gE, gG, gH, gI, gL, gM, gJ, gN…).",
+   "L'HSV possède une vingtaine de protéines de tégument.",
+   "Le tégument est une structure fibrillaire située entre l'enveloppe et la capside.",
+   "Le tégument est situé à l'intérieur de la capside, autour du génome."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les glycoprotéines virales (antigènes de surface) sont portées par l'enveloppe.",
+   "Vrai : l'HSV exprime 11 glycoprotéines de surface : gB, gC, gD, gE, gG, gH, gI, gL, gM, gJ, gN.",
+   "Vrai : on dénombre une vingtaine de protéines de tégument chez l'HSV.",
+   "Vrai : le tégument est la structure fibrillaire entre l'enveloppe et la capside.",
+   "Faux : le tégument est entre l'enveloppe et la capside, pas à l'intérieur de la capside."
+  ]
+ },
+ {
+  "q": "Au sujet du génome des Herpesviridae, quelles affirmations sont correctes ?",
+  "options": [
+   "Il s'agit d'un ADN bicaténaire linéaire de poids moléculaire élevé.",
+   "Le génome du VZV est d'environ 125 000 paires de bases.",
+   "Le génome est un ADN circulaire dès son encapsidation dans le virion.",
+   "Le génome du CMV est plus grand que celui du VZV.",
+   "Le génome du CMV est d'environ 250 000 paires de bases."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : c'est un ADN double brin linéaire de haut poids moléculaire.",
+   "Vrai : le génome du VZV fait environ 125 kb.",
+   "Faux : le génome est linéaire dans le virion ; il se circularise après pénétration nucléaire.",
+   "Vrai : 250 kb (CMV) > 125 kb (VZV).",
+   "Vrai : le génome du CMV fait environ 250 kb, le plus grand des Herpesviridae humains."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant les caractères virologiques communs des Herpesviridae sont exactes ?",
+  "options": [
+   "Le terme « herpes » vient du grec « herpein », ramper comme un serpent.",
+   "Les Herpesviridae sont des virus nus à capside hélicoïdale.",
+   "Ils partagent une communauté structurale : enveloppe + tégument + capside icosaédrique + ADN bicaténaire.",
+   "Plus de 100 herpèsvirus ont été isolés chez différents hôtes (mammifères, oiseaux…).",
+   "Tous les Herpesviridae humains sont des virus à ADN double brin."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'étymologie grecque « herpein » signifie ramper comme un serpent.",
+   "Faux : ce sont des virus enveloppés à capside icosaédrique, pas des virus nus hélicoïdaux.",
+   "Vrai : enveloppe, tégument, capside icosaédrique et ADN bicaténaire définissent la famille.",
+   "Vrai : plus de 100 herpèsvirus ont été isolés chez mammifères, oiseaux, etc.",
+   "Vrai : les 9 espèces humaines ont toutes un génome ADN double brin."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent à la sous-famille des Alphaherpesvirinae ?",
+  "options": [
+   "Leur site de latence est neuronal (ganglions sensitifs).",
+   "Le CMV et l'EBV appartiennent à cette sous-famille.",
+   "Elle comprend les genres Simplexvirus et Varicellovirus.",
+   "Ces virus sont dermo-neurotropes.",
+   "Le HSV-1, le HSV-2 et le VZV en font partie."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la latence des Alphaherpesvirinae s'établit dans les neurones des ganglions sensitifs.",
+   "Faux : le CMV est un Betaherpesvirinae et l'EBV un Gammaherpesvirinae.",
+   "Vrai : Alphaherpesvirinae = Simplexvirus (HSV-1, HSV-2) + Varicellovirus (VZV).",
+   "Vrai : HSV et VZV sont dermo-neurotropes.",
+   "Vrai : HSV-1 (HHV-1), HSV-2 (HHV-2) et VZV (HHV-3) sont des Alphaherpesvirinae."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur les Betaherpesvirinae, lesquels sont exacts ?",
+  "options": [
+   "Leur cycle de multiplication est plus lent que celui des Alphaherpesvirinae.",
+   "L'EBV appartient à cette sous-famille.",
+   "Les HHV-6 et HHV-7 appartiennent au genre Roseolovirus.",
+   "Leur tropisme est principalement lymphocytaire B.",
+   "Le CMV (HHV-5) appartient au genre Cytomegalovirus."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les Betaherpesvirinae ont un cycle lent, à la différence des Alphaherpesvirinae à cycle rapide.",
+   "Faux : l'EBV est un Gammaherpesvirinae (Lymphocryptovirus).",
+   "Vrai : HHV-6A, HHV-6B et HHV-7 sont des Roseolovirus, Betaherpesvirinae.",
+   "Faux : le tropisme lymphocytaire B caractérise l'EBV (Gammaherpesvirinae), pas les Betaherpesvirinae.",
+   "Vrai : le CMV (HHV-5) est le Cytomegalovirus, Betaherpesvirinae."
+  ]
+ },
+ {
+  "q": "Quels éléments exacts peut-on retenir à propos des Gammaherpesvirinae ?",
+  "options": [
+   "Ce sont des virus à potentiel oncogène.",
+   "Le HHV-8 est associé à la maladie de Kaposi.",
+   "Ils comprennent l'EBV (HHV-4) et le HHV-8.",
+   "Le VZV appartient à cette sous-famille.",
+   "L'EBV est lymphotrope et immortalise les lymphocytes B."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : cette sous-famille regroupe les herpèsvirus oncogènes.",
+   "Vrai : le HHV-8 est l'agent de la maladie de Kaposi.",
+   "Vrai : Gammaherpesvirinae = Lymphocryptovirus (EBV/HHV-4) + Rhadinovirus (HHV-8).",
+   "Faux : le VZV est un Alphaherpesvirinae (Varicellovirus).",
+   "Vrai : l'EBV, virus lymphotrope, immortalise les lymphocytes B."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions vraies concernant la taille et l'organisation du virion herpétique ?",
+  "options": [
+   "L'enveloppe dérive de la membrane plasmique de la cellule hôte.",
+   "La capside comporte 162 capsomères.",
+   "Le tégument contient une vingtaine de protéines chez l'HSV.",
+   "La capside icosaédrique a un diamètre de 125 nm.",
+   "Le virion mesure entre 120 et 200 nm."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'enveloppe dérive de la membrane nucléaire, pas de la membrane plasmique.",
+   "Vrai : la capside comprend 162 capsomères.",
+   "Vrai : l'HSV possède environ 20 protéines de tégument.",
+   "Vrai : la capside icosaédrique mesure 125 nm de diamètre.",
+   "Vrai : 120 à 200 nm est la taille du virion des Herpesviridae."
+  ]
+ },
+ {
+  "q": "À propos des glycoprotéines d'enveloppe de l'HSV, quelles sont les réponses exactes ?",
+  "options": [
+   "Elles interviennent dans l'attachement du virus au récepteur cellulaire.",
+   "Elles constituent les antigènes de surface du virus.",
+   "Elles sont codées par des gènes tardifs (gamma) du cycle viral.",
+   "Elles sont situées dans le tégument du virion.",
+   "On en dénombre 11 : gB, gC, gD, gE, gG, gH, gI, gL, gM, gJ et gN."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : elles assurent l'attachement aux récepteurs cellulaires puis la fusion.",
+   "Vrai : les glycoprotéines d'enveloppe sont les antigènes de surface de l'HSV.",
+   "Vrai : les glycoprotéines d'enveloppe sont des protéines tardives (gamma).",
+   "Faux : elles sont portées par l'enveloppe, pas localisées dans le tégument.",
+   "Vrai : 11 glycoprotéines sont décrites : gB, gC, gD, gE, gG, gH, gI, gL, gM, gJ, gN."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sur le génome des Herpesviridae sont correctes ?",
+  "options": [
+   "Le génome est un ADN simple brin circulaire.",
+   "Après pénétration dans le noyau, l'ADN viral se circularise.",
+   "Le génome code notamment la thymidine kinase et l'ADN polymérase virales.",
+   "C'est un ADN double brin linéaire dans le virion.",
+   "Le génome est encapsidé dans la capside après assemblage nucléaire."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le génome est un ADN double brin, pas simple brin.",
+   "Vrai : l'ADN libéré dans le noyau devient circulaire avant transcription.",
+   "Vrai : les gènes précoces codent la thymidine kinase et l'ADN polymérase virales.",
+   "Vrai : le génome est un ADN bicaténaire linéaire dans la particule virale.",
+   "Vrai : l'encapsidation de l'ADN a lieu dans le noyau après assemblage."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les herpèsvirus humains (HHV) ?",
+  "options": [
+   "Le HHV-7 correspond au virus de la roséole et le HHV-8 au VZV.",
+   "Le VZV correspond au HHV-3 et l'EBV au HHV-4.",
+   "Le HSV-1 correspond au HHV-1 et le HSV-2 au HHV-2.",
+   "Les HHV-6A et HHV-6B sont deux variants du HHV-6.",
+   "Le CMV correspond au HHV-5."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le HHV-7 est distinct du HHV-6 et le HHV-8 n'est pas le VZV (HHV-3).",
+   "Vrai : VZV = HHV-3, EBV = HHV-4.",
+   "Vrai : HSV-1 = HHV-1, HSV-2 = HHV-2.",
+   "Vrai : le HHV-6 comprend deux variants, HHV-6A et HHV-6B.",
+   "Vrai : CMV = HHV-5."
+  ]
+ },
+ {
+  "q": "Concernant la diversité des herpèsvirus, quelles sont les propositions exactes ?",
+  "options": [
+   "Tous les herpèsvirus animaux sont incapables d'infecter l'homme.",
+   "L'herpès B du singe est un herpèsvirus simien proche des HSV humains.",
+   "Neuf herpèsvirus sont strictement humains.",
+   "Les herpèsvirus humains partagent la même organisation structurale.",
+   "Plus de 100 herpèsvirus ont été isolés chez différents hôtes."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : certains herpèsvirus animaux peuvent infecter l'homme (ex. herpès B du singe).",
+   "Vrai : l'herpès B du singe est cité parmi les herpèsvirus proches des HSV.",
+   "Vrai : 9 espèces sont strictement humaines (HHV-1 à HHV-8).",
+   "Vrai : enveloppe, tégument, capside icosaédrique et ADN bicaténaire sont communs.",
+   "Vrai : plus de 100 herpèsvirus isolés chez mammifères, oiseaux, etc."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la capside des Herpesviridae, lesquelles sont exactes ?",
+  "options": [
+   "Elle est de symétrie icosaédrique.",
+   "Elle protège le génome ADN double brin.",
+   "Elle est entourée directement par l'enveloppe, sans tégument interposé.",
+   "Elle mesure 125 nm de diamètre.",
+   "Elle est composée de 162 capsomères."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la capside des Herpesviridae est icosaédrique.",
+   "Vrai : elle renferme le génome ADN bicaténaire linéaire.",
+   "Faux : le tégument fibrillaire s'interpose entre la capside et l'enveloppe.",
+   "Vrai : son diamètre est de 125 nm.",
+   "Vrai : elle compte 162 capsomères."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet du tégument ?",
+  "options": [
+   "Ses protéines sont libérées dans le cytoplasme lors de la pénétration virale.",
+   "C'est une structure fibrillaire entre l'enveloppe et la capside.",
+   "Il participe aux étapes précoces de l'infection cellulaire.",
+   "Il contient une vingtaine de protéines chez l'HSV.",
+   "Il est absent chez le VZV."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : lors de la pénétration, la nucléocapside entre et les protéines du tégument sont libérées dans le cytoplasme.",
+   "Vrai : le tégument est la couche fibrillaire entre enveloppe et capside.",
+   "Vrai : les protéines du tégument modulent les étapes précoces de l'infection.",
+   "Vrai : environ 20 protéines de tégument sont décrites chez l'HSV.",
+   "Faux : le tégument est un élément commun à tous les Herpesviridae, y compris le VZV."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant le pouvoir pathogène général des Herpesviridae sont exactes ?",
+  "options": [
+   "La symptomatologie clinique dépend de l'âge et du statut immunitaire.",
+   "Tous les Herpesviridae sont systématiquement responsables de tumeurs chez l'immunocompétent.",
+   "L'immunodépression expose à des formes graves.",
+   "Chez l'immunocompétent, les infections sont le plus souvent bénignes et peu symptomatiques.",
+   "Les Herpesviridae peuvent être responsables de méningo-encéphalites."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'expression clinique varie selon le virus, l'âge et les défenses immunitaires.",
+   "Faux : seuls l'EBV et le HHV-8 ont un potentiel oncogène, pas tous les Herpesviridae.",
+   "Vrai : l'immunodépression rend la symptomatologie plus bruyante et grave.",
+   "Vrai : chez l'immunocompétent, les infections sont le plus souvent bénignes.",
+   "Vrai : méningo-encéphalites (HSV), infections congénitales et tumeurs (EBV, HHV-8) sont décrites."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le diagnostic virologique des Herpesviridae en général ?",
+  "options": [
+   "Le diagnostic direct met en évidence la présence du virus.",
+   "Le traitement antiviral est efficace sur la symptomatologie mais n'éradique pas le virus latent.",
+   "Le diagnostic indirect apprécie le statut immunitaire.",
+   "L'éradication du virus latent est possible par les antiviraux actuels.",
+   "Le diagnostic direct repose sur la sérologie IgG."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le diagnostic direct recherche la présence du virus (culture, antigènes, PCR).",
+   "Vrai : les antiviraux traitent les symptômes sans éradiquer la latence.",
+   "Vrai : le diagnostic indirect (sérologie) détermine le statut immunitaire.",
+   "Faux : l'éradication de l'infection latente est impossible.",
+   "Faux : la sérologie IgG est un diagnostic indirect, pas direct."
+  ]
+ },
+ {
+  "q": "Concernant les Herpesviridae et l'hôte, quelles sont les propositions exactes ?",
+  "options": [
+   "La persistance est à vie avec latence et réactivations périodiques.",
+   "Les herpèsvirus bloquent et modulent la réponse immunitaire de l'hôte.",
+   "Des gènes viraux codent des protéines impliquées dans l'immuno-évasion.",
+   "Il existe une co-évolution herpèsvirus-homme avec adaptation virus-hôte.",
+   "L'infection herpétique confère une immunité stérilisante définitive."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la persistance à vie associe latence et réactivations périodiques.",
+   "Vrai : les herpèsvirus bloquent et modulent la réponse immunitaire.",
+   "Vrai : de nombreux gènes viraux codent des protéines d'immuno-évasion.",
+   "Vrai : la co-évolution herpèsvirus-homme illustre l'adaptation virus-hôte.",
+   "Faux : il n'y a pas d'immunité stérilisante ; le virus persiste à vie à l'état latent."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'ubiquité des Herpesviridae, lesquelles sont exactes ?",
+  "options": [
+   "Les anticorps anti-HSV-1 concernent 70 à 95 % des adultes.",
+   "Les anticorps anti-VZV concernent plus de 90 % des adultes.",
+   "Les herpèsvirus sont largement répandus dans la population générale.",
+   "Le HHV-8 est ubiquitaire comme les autres herpèsvirus humains.",
+   "La séroprévalence anti-HSV-1 varie selon le niveau socio-économique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : 70 à 95 % des adultes ont des Ac anti-HSV-1.",
+   "Vrai : plus de 90 % des adultes ont des Ac anti-VZV.",
+   "Vrai : les herpèsvirus sont largement répandus dans la population générale.",
+   "Faux : le HHV-8 fait exception, il n'est pas ubiquitaire.",
+   "Vrai : la séroprévalence HSV-1 dépend du niveau socio-économique."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les premières étapes du cycle lytique de l'HSV ?",
+  "options": [
+   "La nucléocapside pénètre par endocytose sans fusion de l'enveloppe virale.",
+   "Les protéines du tégument sont libérées dans le cytoplasme de la cellule hôte.",
+   "L'attachement se fait par les glycoprotéines d'enveloppe sur le récepteur cellulaire.",
+   "La réplication de l'ADN viral a lieu dans le cytoplasme.",
+   "La nucléocapside libère l'ADN viral dans le cytoplasme de la cellule."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : la pénétration fait suite à la fusion de l'enveloppe à la membrane cellulaire.",
+   "Vrai : le tégument libère ses protéines dans le cytoplasme lors de la pénétration.",
+   "Vrai : l'attachement implique les glycoprotéines d'enveloppe et le récepteur cellulaire.",
+   "Faux : le cycle des Herpesviridae est nucléaire, la réplication a lieu dans le noyau.",
+   "Faux : la nucléocapside migre vers le noyau et y libère l'ADN viral."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la réplication nucléaire de l'HSV, lesquelles sont exactes ?",
+  "options": [
+   "La transcription et la traduction se déroulent en 3 cascades successives régulées.",
+   "Les protéines gamma sont des protéines précoces codant les enzymes virales.",
+   "L'ADN viral libéré dans le noyau se circularise.",
+   "Les protéines bêta sont des protéines précoces incluant la thymidine kinase et l'ADN polymérase virales.",
+   "Les protéines alpha sont des protéines très précoces."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : 3 phases de transcription-traduction en cascades : alpha, bêta, gamma.",
+   "Faux : les protéines gamma sont tardives (capside, glycoprotéines), pas précoces.",
+   "Vrai : l'ADN viral devient circulaire dans le noyau avant transcription.",
+   "Vrai : les protéines bêta (précoces) comprennent la thymidine kinase et l'ADN polymérase virales.",
+   "Vrai : les protéines alpha sont les protéines très précoces."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet des protéines tardives (gamma) de l'HSV ?",
+  "options": [
+   "Elles comprennent les composants protéiques de la capside.",
+   "Elles sont synthétisées après la réplication de l'ADN viral.",
+   "Elles comprennent les glycoprotéines d'enveloppe.",
+   "Elles comprennent la thymidine kinase virale.",
+   "La réplication de l'ADN viral sépare les phases précoces et tardives."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les protéines tardives incluent les composants de la capside.",
+   "Vrai : les protéines gamma sont produites après la réplication de l'ADN.",
+   "Vrai : les glycoprotéines d'enveloppe sont des protéines tardives.",
+   "Faux : la thymidine kinase est une enzyme précoce (bêta), pas tardive.",
+   "Vrai : la réplication de l'ADN sépare les phases précoces (bêta) des phases tardives (gamma)."
+  ]
+ },
+ {
+  "q": "Concernant la réplication de l'ADN des Herpesviridae, quelles sont les propositions exactes ?",
+  "options": [
+   "Elle se déroule dans le noyau de la cellule hôte.",
+   "Elle est assurée par l'ADN polymérase virale.",
+   "Elle se déroule selon le mécanisme du cercle roulant.",
+   "Elle a lieu après la synthèse des enzymes virales précoces.",
+   "Elle est assurée par l'ADN polymérase cellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : tout le cycle est nucléaire, y compris la réplication.",
+   "Vrai : l'ADN polymérase virale réplique le génome.",
+   "Vrai : la réplication suit le mécanisme du cercle roulant.",
+   "Vrai : elle suit la synthèse des enzymes virales (phase bêta).",
+   "Faux : c'est l'ADN polymérase virale, pas cellulaire, qui réplique le génome."
+  ]
+ },
+ {
+  "q": "Au sujet des dernières étapes du cycle lytique de l'HSV, quelles affirmations sont correctes ?",
+  "options": [
+   "Les nucléocapsides s'enveloppent par bourgeonnement à partir de la membrane nucléaire.",
+   "L'enveloppe dérive de la membrane nucléaire lors du bourgeonnement.",
+   "Les virions sont libérés par lyse immédiate de la cellule sans enveloppe.",
+   "Les virions néoformés sont libérés par exocytose.",
+   "L'assemblage des protéines structurales et l'encapsidation ont lieu dans le noyau."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'enveloppement se fait par bourgeonnement à partir de la membrane nucléaire.",
+   "Vrai : l'enveloppe dérive de la membrane nucléaire de la cellule hôte.",
+   "Faux : les virions sont enveloppés et libérés par exocytose, pas par lyse nue.",
+   "Vrai : les virions néoformés sont libérés par exocytose.",
+   "Vrai : assemblage et encapsidation sont nucléaires."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant le cycle des Herpesviridae sont exactes ?",
+  "options": [
+   "Il comporte 3 cascades de transcription-traduction : alpha, bêta, gamma.",
+   "C'est un cycle nucléaire.",
+   "Les enzymes virales précoces sont nécessaires à la réplication de l'ADN.",
+   "Le cycle est exclusivement cytoplasmique.",
+   "L'aciclovir agit en inhibant l'ADN polymérase virale."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : 3 cascades successives : protéines très précoces (alpha), précoces (bêta), tardives (gamma).",
+   "Vrai : le cycle des Herpesviridae est nucléaire.",
+   "Vrai : la thymidine kinase et l'ADN polymérase (bêta) conditionnent la réplication.",
+   "Faux : le cycle est nucléaire, pas cytoplasmique.",
+   "Vrai : l'aciclovir triphosphate inhibe l'ADN polymérase virale."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent aux protéines alpha de l'HSV ?",
+  "options": [
+   "Elles sont synthétisées avant les protéines bêta.",
+   "Elles sont les composants majeurs de la capside.",
+   "Ce sont des protéines très précoces.",
+   "Elles régulent l'expression des gènes précoces et tardifs.",
+   "Elles sont synthétisées après la réplication de l'ADN viral."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : elles précèdent la phase bêta dans la cascade.",
+   "Faux : les composants de la capside sont des protéines tardives (gamma).",
+   "Vrai : les protéines alpha sont les protéines très précoces.",
+   "Vrai : elles régulent en cascade l'expression des gènes précoces puis tardifs.",
+   "Faux : elles sont synthétisées avant la réplication de l'ADN, pas après."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur les protéines bêta de l'HSV, lesquels sont exacts ?",
+  "options": [
+   "Elles comprennent les glycoprotéines d'enveloppe gB et gD.",
+   "Ce sont des protéines précoces.",
+   "Elles comprennent l'ADN polymérase virale.",
+   "Elles comprennent la thymidine kinase virale.",
+   "Leur synthèse précède la réplication de l'ADN viral."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : gB et gD sont des glycoprotéines tardives (gamma).",
+   "Vrai : les protéines bêta sont les protéines précoces.",
+   "Vrai : l'ADN polymérase virale est une enzyme précoce (bêta).",
+   "Vrai : la thymidine kinase virale est une enzyme précoce (bêta).",
+   "Vrai : les enzymes précoces sont synthétisées avant la réplication de l'ADN."
+  ]
+ },
+ {
+  "q": "Quels éléments exacts peut-on retenir à propos de l'attachement et de la pénétration de l'HSV ?",
+  "options": [
+   "Le tégument libère ses protéines dans le cytoplasme.",
+   "La fusion de l'enveloppe à la membrane cellulaire fait pénétrer la nucléocapside.",
+   "La nucléocapside nue pénètre dans le noyau pour y libérer l'ADN.",
+   "L'ADN viral est libéré directement dans le cytoplasme sans passage nucléaire.",
+   "Les glycoprotéines d'enveloppe se fixent au récepteur cellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les protéines du tégument sont libérées dans le cytoplasme.",
+   "Vrai : la fusion permet la pénétration de la nucléocapside.",
+   "Vrai : la nucléocapside migre vers le noyau et y libère l'ADN viral.",
+   "Faux : l'ADN est libéré dans le noyau, pas dans le cytoplasme.",
+   "Vrai : l'attachement met en jeu les glycoprotéines d'enveloppe et le récepteur cellulaire."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions vraies concernant la morphogenèse des Herpesviridae ?",
+  "options": [
+   "La libération des virions se fait par exocytose.",
+   "L'encapsidation de l'ADN viral est nucléaire.",
+   "L'assemblage des capsides a lieu dans le noyau.",
+   "L'enveloppement se fait par bourgeonnement à partir de la membrane nucléaire.",
+   "L'enveloppement a lieu au niveau de l'appareil de Golgi uniquement."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les virions néoformés sont libérés par exocytose.",
+   "Vrai : l'encapsidation de l'ADN se fait dans le noyau.",
+   "Vrai : l'assemblage des protéines structurales est nucléaire.",
+   "Vrai : les nucléocapsides bourgeonnent à partir de la membrane nucléaire.",
+   "Faux : l'enveloppement initial se fait à partir de la membrane nucléaire."
+  ]
+ },
+ {
+  "q": "À propos du cycle lytique des Herpesviridae, quelles sont les réponses exactes ?",
+  "options": [
+   "La primo-infection correspond à une réplication virale très intense.",
+   "La réplication intense de la primo-infection s'accompagne d'une contagiosité élevée.",
+   "Après la primo-infection, le virus peut établir une latence à vie.",
+   "La réponse immunitaire cellulaire et humorale permet la maîtrise de l'infection.",
+   "Le cycle lytique aboutit toujours à la mort de l'hôte infecté."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la primo-infection se caractérise par une réplication virale très intense.",
+   "Vrai : cette réplication intense rend la primo-infection très contagieuse.",
+   "Vrai : après la primo-infection, le virus migre vers son site de latence à vie.",
+   "Vrai : l'immunité cellulaire et humorale maîtrise l'infection.",
+   "Faux : le cycle lytique n'entraîne pas systématiquement la mort de l'hôte."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sur la cascade d'expression génique de l'HSV sont correctes ?",
+  "options": [
+   "Les gènes gamma codent la thymidine kinase virale.",
+   "Les gènes gamma s'expriment après la réplication de l'ADN.",
+   "La réplication de l'ADN sépare les phases précoces et tardives.",
+   "Les gènes alpha s'expriment en premier, sans synthèse protéique virale préalable.",
+   "Les gènes bêta codent les enzymes de la réplication (thymidine kinase, ADN polymérase)."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la thymidine kinase est codée par un gène précoce (bêta), pas tardif.",
+   "Vrai : les gènes tardifs (gamma) s'expriment après la réplication.",
+   "Vrai : la réplication de l'ADN marque la transition phases précoces/tardives.",
+   "Vrai : les gènes très précoces (alpha) s'expriment en premier.",
+   "Vrai : les gènes précoces (bêta) codent la thymidine kinase et l'ADN polymérase."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le réservoir et la répartition des Herpesviridae ?",
+  "options": [
+   "Les herpèsvirus sont ubiquitaires, sauf le HHV-8.",
+   "Le réservoir principal du CMV est le moustique.",
+   "Le HHV-8 est aussi ubiquitaire que le VZV.",
+   "Le réservoir des herpèsvirus humains est strictement humain.",
+   "Les herpèsvirus sont rares dans la population générale."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : virus ubiquitaires, à l'exception du HHV-8.",
+   "Faux : le réservoir du CMV est humain, pas le moustique.",
+   "Faux : le HHV-8 n'est pas ubiquitaire, contrairement au VZV.",
+   "Vrai : le réservoir des herpèsvirus humains est l'homme.",
+   "Faux : les herpèsvirus sont largement répandus dans la population générale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives à l'âge du premier contact, lesquelles sont exactes ?",
+  "options": [
+   "Le contact avec le CMV survient exclusivement à l'âge adulte.",
+   "La primo-infection à VZV survient typiquement à l'âge adulte.",
+   "Le contact avec les herpèsvirus survient le plus souvent dans l'enfance.",
+   "La primo-infection à EBV survient le plus souvent dans l'enfance et est asymptomatique.",
+   "Le HSV-2 fait exception : le contact survient après les contacts sexuels."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le contact avec le CMV peut survenir dès l'enfance (salive).",
+   "Faux : la varicelle (primo-infection VZV) est une maladie de l'enfance.",
+   "Vrai : le contact avec les herpèsvirus a lieu dans l'enfance dans la majorité des cas.",
+   "Vrai : la primo-infection EBV de l'enfance est le plus souvent asymptomatique.",
+   "Vrai : le HSV-2, transmis sexuellement, fait exception."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet de la séroprévalence des Herpesviridae ?",
+  "options": [
+   "La séroprévalence des herpèsvirus est faible dans la population générale.",
+   "Les anticorps anti-HSV-1 sont retrouvés chez 70 à 95 % des adultes.",
+   "La séroprévalence du VZV est inférieure à 10 % chez l'adulte.",
+   "Les anticorps anti-VZV sont retrouvés chez plus de 90 % des adultes.",
+   "La séroprévalence anti-HSV-1 varie en fonction du niveau socio-économique."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les herpèsvirus sont largement répandus, la séroprévalence est élevée.",
+   "Vrai : 70 à 95 % des adultes ont des Ac anti-HSV-1.",
+   "Faux : plus de 90 % des adultes sont séropositifs pour le VZV, pas moins de 10 %.",
+   "Vrai : plus de 90 % des adultes ont des Ac anti-VZV.",
+   "Vrai : la séroprévalence HSV-1 dépend du niveau socio-économique."
+  ]
+ },
+ {
+  "q": "Concernant la transmission salivaire des Herpesviridae, quelles sont les propositions exactes ?",
+  "options": [
+   "Le HSV-2 se transmet principalement par la salive.",
+   "Le HSV-1 se transmet par contacts oraux et la salive.",
+   "Le CMV peut se transmettre par la salive.",
+   "L'EBV se transmet par la salive (maladie du baiser).",
+   "Les HHV-6 et HHV-7 se transmettent par la salive."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le HSV-2 se transmet par voie sexuelle, pas principalement par la salive.",
+   "Vrai : le HSV-1 se transmet par contacts oraux/salive.",
+   "Vrai : le CMV se transmet par la salive.",
+   "Vrai : l'EBV se transmet par la salive (contacts oraux intimes).",
+   "Vrai : les HHV-6 et HHV-7 se transmettent par la salive."
+  ]
+ },
+ {
+  "q": "Au sujet de la transmission sexuelle des Herpesviridae, quelles affirmations sont correctes ?",
+  "options": [
+   "Le CMV peut se transmettre par voie sexuelle.",
+   "La transmission sexuelle concerne aussi le VZV en priorité.",
+   "Le HSV-2 est une infection sexuellement transmissible.",
+   "Le HSV-1 ne peut jamais être responsable d'herpès génital.",
+   "Le HSV-2 se transmet par les vésicules génitales lors des rapports."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le CMV se transmet aussi par voie sexuelle.",
+   "Faux : le VZV se transmet par voie aérienne et les vésicules, pas prioritairement sexuelle.",
+   "Vrai : le HSV-2 est une IST.",
+   "Faux : le HSV-1 peut être responsable d'herpès génital (primo-infection).",
+   "Vrai : les vésicules génitales à HSV-2 sont contagieuses lors des rapports."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant la transmission materno-fœtale sont exactes ?",
+  "options": [
+   "Le CMV est le principal agent d'infection virale congénitale.",
+   "Le VZV peut être responsable d'infection congénitale ou périnatale.",
+   "Le HSV peut se transmettre de la mère à l'enfant (herpès néonatal).",
+   "L'EBV est le principal agent d'infection congénitale.",
+   "La transmission materno-fœtale du CMV est plus grave en cas de primo-infection pendant la grossesse."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le CMV est le principal agent responsable d'infection virale congénitale.",
+   "Vrai : le VZV peut causer une varicelle congénitale ou périnatale.",
+   "Vrai : l'herpès néonatal résulte d'une transmission materno-fœtale du HSV.",
+   "Faux : c'est le CMV, pas l'EBV, le principal agent d'infection congénitale.",
+   "Vrai : la transmission du CMV est plus grave si la primo-infection survient pendant la grossesse."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent à la transmission transfusionnelle et liée aux greffes ?",
+  "options": [
+   "Le CMV peut se transmettre par transfusion sanguine.",
+   "Le VZV se transmet principalement par transfusion sanguine.",
+   "Le CMV peut se transmettre lors de greffe ou transplantation d'organes.",
+   "L'EBV peut se transmettre par transfusion ou greffe d'organes.",
+   "Les HHV-6 et HHV-8 peuvent se transmettre par greffe d'organes."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le CMV se transmet par transfusion sanguine.",
+   "Faux : le VZV se transmet par voie aérienne et les vésicules, pas par transfusion.",
+   "Vrai : le CMV se transmet lors de greffes et transplantations d'organes.",
+   "Vrai : l'EBV se transmet par transfusion sanguine et greffe d'organes.",
+   "Vrai : les HHV-6 et HHV-8 sont transmissibles par transplantation d'organes."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur la transmission du VZV, lesquels sont exacts ?",
+  "options": [
+   "Le VZV est très contagieux et peut provoquer des épidémies.",
+   "Le VZV se transmet exclusivement par voie sexuelle.",
+   "Le VZV se transmet par contact avec les vésicules.",
+   "La varicelle est une maladie très contagieuse par voie respiratoire.",
+   "Le VZV se transmet par voie aérienne."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : très contagieux, le VZV peut provoquer des épidémies.",
+   "Faux : la transmission du VZV est aérienne et vésiculaire, pas sexuelle.",
+   "Vrai : le contact avec les vésicules (HSV, VZV) transmet le virus.",
+   "Vrai : la varicelle est très contagieuse par voie respiratoire.",
+   "Vrai : le VZV se transmet par voie aérienne."
+  ]
+ },
+ {
+  "q": "Quels éléments exacts peut-on retenir à propos des modes de transmission des Herpesviridae ?",
+  "options": [
+   "Le VZV est le seul herpèsvirus à transmission aérienne.",
+   "L'EBV se transmet par les urines en priorité.",
+   "Le CMV se transmet par la salive, la voie sexuelle et la transfusion.",
+   "Les vésicules cutanéo-muqueuses transmettent le HSV et le VZV.",
+   "Les contacts interhumains intimes sont le mode principal de transmission."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le VZV est le seul herpèsvirus à transmission aérienne décrite.",
+   "Faux : l'EBV se transmet par la salive, pas prioritairement par les urines.",
+   "Vrai : le CMV se transmet par salive, voie sexuelle, transfusion, greffe.",
+   "Vrai : les vésicules transmettent le HSV et le VZV.",
+   "Vrai : les contacts interhumains intimes (oraux, sexuels…) transmettent les herpèsvirus."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions vraies concernant la contagiosité des Herpesviridae ?",
+  "options": [
+   "La primo-infection est très contagieuse du fait de la réplication virale intense.",
+   "La varicelle est presque toujours symptomatique et très contagieuse.",
+   "L'excrétion virale asymptomatique est une source de contamination.",
+   "Les réactivations sont souvent asymptomatiques mais contagieuses.",
+   "Seules les formes symptomatiques sont contagieuses."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la réplication très intense de la primo-infection la rend très contagieuse.",
+   "Vrai : la varicelle est presque toujours symptomatique et très contagieuse.",
+   "Vrai : l'excrétion virale asymptomatique est une source de contamination.",
+   "Vrai : les réactivations souvent asymptomatiques s'accompagnent d'excrétion virale.",
+   "Faux : les formes asymptomatiques (excrétion) sont aussi contagieuses."
+  ]
+ },
+ {
+  "q": "À propos de l'épidémiologie du HSV-1 et du HSV-2, quelles sont les réponses exactes ?",
+  "options": [
+   "Les anticorps anti-HSV-1 concernent 70 à 95 % des adultes.",
+   "Le HSV-2 est ubiquitaire chez l'enfant avant la puberté.",
+   "Le HSV-2 est principalement transmis par voie sexuelle.",
+   "Le HSV-1 infecte surtout la muqueuse oropharyngée et oculaire.",
+   "Le contact avec le HSV-1 survient le plus souvent dans l'enfance."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : 70 à 95 % des adultes ont des Ac anti-HSV-1.",
+   "Faux : le contact avec le HSV-2 survient après les contacts sexuels, pas dans l'enfance.",
+   "Vrai : le HSV-2 est une IST, transmis par voie sexuelle.",
+   "Vrai : le HSV-1 infecte surtout les muqueuses oropharyngée et oculaire.",
+   "Vrai : le contact avec le HSV-1 a lieu dans l'enfance."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sur l'épidémiologie du CMV et de l'EBV sont correctes ?",
+  "options": [
+   "L'EBV est un virus rare dans la population générale.",
+   "La primo-infection à EBV de l'enfance est le plus souvent asymptomatique.",
+   "Le CMV se transmet par la salive, la voie sexuelle et la transfusion sanguine.",
+   "Le CMV est le principal agent d'infection virale congénitale.",
+   "L'EBV se transmet par la salive lors de contacts oraux intimes."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'EBV est ubiquitaire et largement répandu.",
+   "Vrai : la primo-infection EBV survient dans l'enfance et est le plus souvent asymptomatique.",
+   "Vrai : le CMV se transmet par salive, voie sexuelle, transfusion, greffe, voie materno-fœtale.",
+   "Vrai : le CMV est le principal agent d'infection virale congénitale.",
+   "Vrai : l'EBV se transmet par la salive (contacts oraux intimes)."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la transmission du VZV par rapport aux autres Herpesviridae ?",
+  "options": [
+   "Le VZV est le seul herpèsvirus à transmission aérienne.",
+   "Le contact avec les vésicules transmet le VZV.",
+   "Le HSV se transmet aussi par voie aérienne comme le VZV.",
+   "Cette transmission aérienne rend le VZV très contagieux.",
+   "Le VZV peut provoquer des épidémies, contrairement aux autres herpèsvirus."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : seul le VZV a une transmission aérienne parmi les Herpesviridae.",
+   "Vrai : les vésicules (HSV, VZV) sont une voie de transmission.",
+   "Faux : le HSV se transmet par contacts intimes et vésicules, pas par voie aérienne.",
+   "Vrai : la transmission aérienne explique sa très grande contagiosité.",
+   "Vrai : le VZV peut provoquer des épidémies."
+  ]
+ },
+ {
+  "q": "Concernant les populations à risque d'infection herpétique grave, quelles sont les propositions exactes ?",
+  "options": [
+   "Les sujets immunocompétents ne peuvent jamais développer de forme grave.",
+   "La femme enceinte est à risque de varicelle grave.",
+   "L'immunodépression expose à des formes graves d'infection herpétique.",
+   "Les greffés sont à risque de réactivation à CMV avec perte du greffon.",
+   "Le nouveau-né est à risque d'herpès néonatal et d'infection congénitale à CMV."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : des formes graves (encéphalite herpétique, kératite) surviennent chez l'immunocompétent.",
+   "Vrai : la varicelle est grave chez la femme enceinte (congénitale, périnatale).",
+   "Vrai : l'immunodépression rend la symptomatologie plus bruyante et grave.",
+   "Vrai : chez le greffé, le CMV peut causer la perte du greffon.",
+   "Vrai : herpès néonatal et CMV congénital menacent le nouveau-né."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la diffusion des Herpesviridae, lesquelles sont exactes ?",
+  "options": [
+   "Le HSV-2 est le plus répandu des herpèsvirus chez l'enfant.",
+   "Les herpèsvirus sont largement répandus dans la population générale.",
+   "La séroprévalence anti-VZV dépasse 90 % chez les adultes.",
+   "Le contact avec le virus survient dans l'enfance pour la plupart des herpèsvirus.",
+   "Le HHV-8 est le seul herpèsvirus humain non ubiquitaire."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le HSV-2 se transmet après les contacts sexuels, pas dominant chez l'enfant.",
+   "Vrai : les herpèsvirus sont largement répandus dans la population générale.",
+   "Vrai : plus de 90 % des adultes ont des Ac anti-VZV.",
+   "Vrai : le contact a lieu dans l'enfance (sauf HSV-2).",
+   "Vrai : le HHV-8 fait exception à l'ubiquité."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet des voies de transmission du CMV ?",
+  "options": [
+   "La voie aérienne est la voie principale de transmission du CMV.",
+   "La voie materno-fœtale transmet le CMV.",
+   "La voie sexuelle transmet le CMV.",
+   "La transfusion sanguine transmet le CMV.",
+   "La salive transmet le CMV."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la voie aérienne est propre au VZV, pas au CMV.",
+   "Vrai : la transmission materno-fœtale du CMV est décrite.",
+   "Vrai : le CMV se transmet par voie sexuelle.",
+   "Vrai : la transfusion sanguine transmet le CMV.",
+   "Vrai : le CMV se transmet par la salive (contacts oraux)."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la primo-infection par les Herpesviridae ?",
+  "options": [
+   "Elle est très contagieuse.",
+   "Elle s'accompagne d'une réplication virale très intense.",
+   "Elle s'accompagne d'emblée d'une latence sans réplication.",
+   "Elle correspond au premier contact avec le virus.",
+   "Son expression clinique est plus importante que celle des réactivations."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : cette réplication intense rend la primo-infection très contagieuse.",
+   "Vrai : la réplication virale est très intense lors de la primo-infection.",
+   "Faux : la primo-infection est une phase de réplication intense, la latence vient après.",
+   "Vrai : la primo-infection est le premier contact avec le virus.",
+   "Vrai : l'expression clinique de la primo-infection dépasse celle des réactivations."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes relatives à la latence des Herpesviridae, lesquelles sont exactes ?",
+  "options": [
+   "L'infection latente persiste sous forme dormante.",
+   "L'ADN viral latent est intégré au génome de la cellule hôte.",
+   "Des ARN LAT (latency-associated transcripts) sont présents.",
+   "Des particules virales complètes sont produites en permanence pendant la latence.",
+   "Tous les herpèsvirus partagent exactement le même site de latence."
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : la latence est une persistance sous forme dormante.",
+   "Faux : l'ADN viral latent persiste sous forme épisomale et circulaire, non intégrée.",
+   "Vrai : les ARN LAT sont présents pendant la latence.",
+   "Faux : pendant la latence, il n'y a ni particules virales, ni ARNm, ni protéines.",
+   "Faux : le site de latence est variable en fonction du virus."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet de l'infection latente ?",
+  "options": [
+   "Il y a absence de protéines virales exprimées.",
+   "Il y a absence d'ARN messagers viraux.",
+   "Le virus latent reste sensible aux antiviraux usuels.",
+   "Le virus latent se soustrait au système immunitaire.",
+   "Il y a absence de particules virales."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : aucune protéine virale n'est exprimée pendant la latence.",
+   "Vrai : aucun ARNm viral n'est produit pendant la latence.",
+   "Faux : le virus latent est inaccessible aux antiviraux, qui n'agissent que sur le virus en réplication.",
+   "Vrai : le virus latent échappe au système immunitaire (sabotage, camouflage).",
+   "Vrai : aucune particule virale n'est produite pendant la latence."
+  ]
+ },
+ {
+  "q": "Concernant les mécanismes d'échappement immunitaire pendant la latence, quelles sont les propositions exactes ?",
+  "options": [
+   "Les antiviraux éradiquent le virus latent grâce à leur action sur l'ADN épisomal.",
+   "Les ARN LAT participent au camouflage du virus latent.",
+   "Il existe un mécanisme actif de sabotage du système immunitaire.",
+   "L'éradication de l'infection latente est impossible.",
+   "Il existe un mécanisme passif de camouflage grâce aux gènes de latence."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les antiviraux n'agissent que sur le virus en réplication, pas sur la latence.",
+   "Vrai : les LAT (latency-associated transcripts) assurent ce camouflage.",
+   "Vrai : le virus latent sabote activement le système immunitaire.",
+   "Vrai : l'éradication de l'infection latente est impossible.",
+   "Vrai : le camouflage passif repose sur les gènes de latence."
+  ]
+ },
+ {
+  "q": "Au sujet de la réactivation des Herpesviridae, quelles affirmations sont correctes ?",
+  "options": [
+   "La réplication et l'expression clinique sont moindres que lors de la primo-infection.",
+   "L'infection latente persiste à vie et peut se réactiver.",
+   "Les réactivations sont toujours plus graves que la primo-infection.",
+   "L'excrétion virale est souvent asymptomatique lors des réactivations.",
+   "La fièvre peut déclencher une réactivation."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : réplication et expression clinique sont atténuées par rapport à la primo-infection.",
+   "Vrai : la latence persiste à vie avec possibilité de réactivation.",
+   "Faux : les réactivations sont généralement moins sévères que la primo-infection.",
+   "Vrai : l'excrétion virale asymptomatique est fréquente lors des réactivations.",
+   "Vrai : fièvre, maladies infectieuses, stress et immunodépression déclenchent les réactivations."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant les facteurs déclenchants des réactivations sont exactes ?",
+  "options": [
+   "L'immunodépression est un facteur majeur de réactivation.",
+   "La fièvre peut déclencher une réactivation herpétique.",
+   "Les réactivations surviennent exclusivement chez l'immunodéprimé.",
+   "Le stress est un facteur déclenchant de réactivation.",
+   "Les maladies infectieuses intercurrentes favorisent les réactivations."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'immunodépression est le facteur déclenchant majeur.",
+   "Vrai : la fièvre est un stimulus de réactivation.",
+   "Faux : les réactivations surviennent aussi chez l'immunocompétent (ex. herpès labial).",
+   "Vrai : le stress favorise les réactivations herpétiques.",
+   "Vrai : les maladies infectieuses peuvent déclencher une réactivation."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent à la séquence primo-infection → latence → réactivation ?",
+  "options": [
+   "La latence confère une protection définitive contre toute réactivation.",
+   "La réinfection par une souche différente est possible.",
+   "La réponse immunitaire maîtrise l'infection mais n'élimine pas le virus latent.",
+   "La primo-infection met en place une réponse immunitaire cellulaire et humorale.",
+   "La réactivation s'accompagne d'une excrétion virale source de contamination."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la latence persiste à vie et peut se réactiver ; il n'y a pas de protection définitive.",
+   "Vrai : la séquence complète est primo-infection → latence → réactivation/réinfection.",
+   "Vrai : l'immunité maîtrise l'infection sans éradiquer la latence.",
+   "Vrai : la primo-infection induit une immunité cellulaire et humorale.",
+   "Vrai : la réactivation s'accompagne d'une excrétion virale contagieuse."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur les sites de latence, lesquels sont exacts ?",
+  "options": [
+   "Le HSV-1 établit sa latence dans le ganglion de Gasser.",
+   "Le HSV-1 et le HSV-2 partagent exactement le même site de latence.",
+   "La latence du HSV s'établit dans les corps cellulaires des neurones des ganglions sensitifs.",
+   "Le site de latence varie en fonction du virus.",
+   "Le HSV-2 établit sa latence dans les ganglions sacrés."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le HSV-1 est latent dans le ganglion de Gasser (trijumeau).",
+   "Faux : HSV-1 (Gasser) et HSV-2 (sacrés) ont des sites de latence distincts.",
+   "Vrai : la latence s'établit dans les corps cellulaires des neurones sensitifs.",
+   "Vrai : le site de latence est variable selon le virus.",
+   "Vrai : le HSV-2 est latent dans les ganglions sacrés."
+  ]
+ },
+ {
+  "q": "Quels éléments exacts peut-on retenir à propos du site de latence du VZV ?",
+  "options": [
+   "Le VZV est latent dans les lymphocytes B mémoires.",
+   "Les cellules gliales satellites participent au site de latence.",
+   "Les ganglions sensitifs rachidiens sont un site de latence du VZV.",
+   "Le VZV est latent dans les neurones des ganglions sensitifs.",
+   "Les ganglions des paires crâniennes hébergent le VZV latent."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la latence dans les lymphocytes B mémoires est propre à l'EBV.",
+   "Vrai : neurones et cellules gliales satellites constituent le site de latence du VZV.",
+   "Vrai : les ganglions sensitifs rachidiens hébergent le VZV latent.",
+   "Vrai : le VZV est latent dans les neurones des ganglions sensitifs.",
+   "Vrai : les ganglions des paires crâniennes sont aussi un site de latence."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions vraies concernant les sites de latence du CMV et de l'EBV ?",
+  "options": [
+   "Le CMV est latent dans les cellules endothéliales.",
+   "L'EBV est latent dans les neurones des ganglions sensitifs.",
+   "Le CMV est latent dans les cellules CD34 de la moelle osseuse.",
+   "Le CMV est latent dans les monocytes-macrophages.",
+   "L'EBV est latent dans les lymphocytes B mémoires."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les cellules endothéliales hébergent le CMV latent.",
+   "Faux : la latence neuronale est propre aux Alphaherpesvirinae (HSV, VZV).",
+   "Vrai : les cellules CD34 de la moelle osseuse hébergent le CMV latent.",
+   "Vrai : les monocytes-macrophages sont un site de latence du CMV.",
+   "Vrai : l'EBV, virus lymphotrope, est latent dans les lymphocytes B mémoires."
+  ]
+ },
+ {
+  "q": "À propos du site de latence des HHV-6, HHV-7 et HHV-8, quelles sont les réponses exactes ?",
+  "options": [
+   "Le HHV-6 est latent dans le ganglion de Gasser.",
+   "Le HHV-6 est latent dans les lymphocytes T CD4.",
+   "Le site de latence du HHV-7 reste mal caractérisé.",
+   "Le HHV-8, comme l'EBV, est un Gammaherpesvirinae à tropisme lymphocytaire.",
+   "Le HHV-6 est latent dans les monocytes-macrophages."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le ganglion de Gasser est le site de latence du HSV-1, pas du HHV-6.",
+   "Vrai : le HHV-6 est latent dans les lymphocytes T CD4.",
+   "Vrai : le site de latence du HHV-7 est noté « ? », mal caractérisé.",
+   "Vrai : le HHV-8 est un Gammaherpesvirinae comme l'EBV.",
+   "Vrai : les monocytes-macrophages hébergent aussi le HHV-6 latent."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sur l'immunodépression et les Herpesviridae sont correctes ?",
+  "options": [
+   "Chez l'immunodéprimé, le CMV est un virus opportuniste grave.",
+   "L'immunodépression favorise les réactivations herpétiques.",
+   "L'immunodépression protège contre les réactivations herpétiques.",
+   "L'immunodépression rend la symptomatologie plus bruyante et grave.",
+   "Chez l'immunodéprimé, le HSV peut donner un herpès extensif avec atteintes viscérales."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le CMV est un virus opportuniste chez l'immunodéprimé.",
+   "Vrai : l'immunodépression est un facteur majeur de réactivation.",
+   "Faux : l'immunodépression favorise les réactivations, elle ne protège pas.",
+   "Vrai : l'immunodépression aggrave la symptomatologie herpétique.",
+   "Vrai : l'herpès extensif avec atteintes viscérales touche l'immunodéprimé."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la différence primo-infection / réactivation ?",
+  "options": [
+   "La primo-infection est toujours asymptomatique et les réactivations toujours graves.",
+   "Les réactivations sont souvent asymptomatiques.",
+   "L'expression clinique de la primo-infection est plus importante.",
+   "Les réactivations s'accompagnent d'une excrétion virale souvent asymptomatique.",
+   "La contagiosité est maximale lors de la primo-infection."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : c'est l'inverse, la primo-infection est plus bruyante que les réactivations.",
+   "Vrai : les réactivations sont souvent asymptomatiques.",
+   "Vrai : la primo-infection a une expression clinique plus importante.",
+   "Vrai : l'excrétion virale asymptomatique accompagne les réactivations.",
+   "Vrai : la réplication très intense rend la primo-infection très contagieuse."
+  ]
+ },
+ {
+  "q": "Concernant la persistance des Herpesviridae chez l'hôte, quelles sont les propositions exactes ?",
+  "options": [
+   "Les réactivations périodiques sont asymptomatiques ou peu symptomatiques selon l'état immunitaire.",
+   "La latence est inaccessible au système immunitaire.",
+   "Le système immunitaire éradique totalement le virus après la primo-infection.",
+   "La latence est inaccessible aux antiviraux.",
+   "La persistance est à vie chez l'hôte infecté."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les réactivations sont asymptomatiques ou peu symptomatiques selon l'immunité.",
+   "Vrai : le virus latent se soustrait au système immunitaire.",
+   "Faux : le virus n'est jamais totalement éradiqué, il persiste à l'état latent.",
+   "Vrai : le virus latent est inaccessible aux antiviraux.",
+   "Vrai : l'infection herpétique persiste à vie."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'ARN LAT, lesquelles sont exactes ?",
+  "options": [
+   "Les ARN LAT codent les protéines de la capside.",
+   "Ils sont les seuls transcrits viraux détectés pendant la latence.",
+   "Les ARN LAT sont présents pendant la latence.",
+   "Ils participent au camouflage du virus vis-à-vis du système immunitaire.",
+   "LAT signifie « latency-associated transcript »."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les protéines de la capside sont codées par des gènes tardifs, pas par les LAT.",
+   "Vrai : pendant la latence, il y a absence d'ARNm ; seuls les ARN LAT sont présents.",
+   "Vrai : les ARN LAT sont présents pendant l'infection latente.",
+   "Vrai : ils assurent le camouflage passif du virus latent.",
+   "Vrai : LAT = latency-associated transcript, transcrit associé à la latence."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet de la physiopathologie de l'infection herpétique ?",
+  "options": [
+   "La latence se caractérise par l'ADN épisomal circulaire sans production virale.",
+   "Le virus migre ensuite vers son site de latence.",
+   "Des stimuli variés peuvent réactiver le virus latent.",
+   "La primo-infection induit une réponse immunitaire cellulaire et humorale.",
+   "La primo-infection survient après la phase de latence."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : latence = ADN épisomal circulaire + ARN LAT, sans ARNm ni virions.",
+   "Vrai : après la primo-infection, le virus migre vers son site de latence.",
+   "Vrai : fièvre, infections, stress, immunodépression réactivent le virus.",
+   "Vrai : la primo-infection met en place l'immunité cellulaire et humorale.",
+   "Faux : la primo-infection est le premier contact, elle précède la latence."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant la réinfection sont exactes ?",
+  "options": [
+   "L'interprétation des IgM est délicate en dehors d'une primo-infection.",
+   "La réinfection fait suite à un nouveau contact avec le virus.",
+   "La réinfection est impossible après une primo-infection herpétique.",
+   "La séquence évolutive est : primo-infection → latence → réactivation/réinfection.",
+   "La présence d'IgM peut s'observer lors d'une réinfection."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les IgM sont prises à défaut en dehors de la primo-infection.",
+   "Vrai : la réinfection correspond à un nouveau contact viral.",
+   "Faux : la réinfection est possible malgré l'infection latente.",
+   "Vrai : la séquence est primo-infection, latence à vie, réactivation ou réinfection.",
+   "Vrai : des IgM et une réplication virale peuvent exister lors des réinfections."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le rôle de l'âge et du terrain dans l'expression clinique ?",
+  "options": [
+   "L'expression clinique varie selon le type d'herpèsvirus.",
+   "L'expression clinique varie selon l'âge du patient.",
+   "L'expression clinique varie selon le stade de l'infection (primo-infection vs réactivation).",
+   "L'expression clinique varie selon l'état des défenses immunitaires.",
+   "L'expression clinique est identique quel que soit le terrain."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : chaque herpèsvirus a son tableau clinique propre.",
+   "Vrai : l'âge influence l'expression clinique.",
+   "Vrai : primo-infection et réactivation ont des expressions différentes.",
+   "Vrai : le statut immunitaire conditionne la gravité.",
+   "Faux : l'expression clinique dépend du virus, de l'âge, de l'immunité et du stade."
+  ]
+ },
+ {
+  "q": "À propos de l'excrétion virale asymptomatique, quelles sont les réponses exactes ?",
+  "options": [
+   "Elle explique la diffusion des herpèsvirus malgré des réactivations peu symptomatiques.",
+   "Elle n'a aucun rôle épidémiologique.",
+   "Elle est fréquente lors des réactivations herpétiques.",
+   "L'excrétion salivaire asymptomatique du HSV-1 est décrite.",
+   "Elle constitue une source de contamination."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : elle explique la diffusion virale malgré des réactivations inapparentes.",
+   "Faux : elle joue un rôle majeur dans la transmission.",
+   "Vrai : l'excrétion virale est souvent asymptomatique lors des réactivations.",
+   "Vrai : des excrétions salivaires asymptomatiques de HSV-1 sont décrites.",
+   "Vrai : cette excrétion est une source de contamination."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sur la co-évolution virus-hôte sont correctes ?",
+  "options": [
+   "Les herpèsvirus sont éliminés rapidement grâce à l'absence d'immuno-évasion.",
+   "Cette adaptation explique la persistance à vie.",
+   "De nombreux gènes viraux codent des protéines d'immuno-évasion.",
+   "Ils modulent la réponse immunitaire de l'hôte.",
+   "Les herpèsvirus ont co-évolué avec l'homme."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'immuno-évasion assure au contraire la persistance du virus.",
+   "Vrai : cette adaptation permet la persistance à vie avec latence.",
+   "Vrai : de nombreux gènes codent des protéines impliquées dans l'immuno-évasion.",
+   "Vrai : les herpèsvirus bloquent et modulent la réponse immunitaire.",
+   "Vrai : la co-évolution herpèsvirus-homme traduit l'adaptation virus-hôte."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la primo-infection à HSV-1 ?",
+  "options": [
+   "Elle se manifeste toujours par un herpès labial récidivant.",
+   "On observe des vésicules multiples sur la muqueuse buccale et les lèvres qui s'ulcèrent.",
+   "Elle est symptomatique chez 90 % des individus.",
+   "Les ulcérations sont indolores et n'empêchent pas l'alimentation.",
+   "Elle se manifeste le plus souvent par une gingivostomatite."
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : l'herpès labial récidivant est une réactivation, pas la primo-infection.",
+   "Vrai : vésicules multiples buccales et labiales qui s'ulcèrent.",
+   "Faux : elle n'est symptomatique que chez environ 10 % des individus.",
+   "Faux : les ulcérations sont douloureuses avec refus de s'alimenter.",
+   "Vrai : la primo-infection à HSV-1 donne une gingivostomatite."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la gingivostomatite herpétique, lesquelles sont exactes ?",
+  "options": [
+   "Une virémie est parfois observée.",
+   "Elle est la manifestation de réactivation la plus fréquente du HSV-1.",
+   "La guérison s'accompagne d'une séroconversion.",
+   "Des adénopathies cervicales sont fréquentes.",
+   "Elle s'accompagne habituellement de fièvre."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : une virémie est parfois observée.",
+   "Faux : la gingivostomatite est une primo-infection ; la réactivation typique est l'herpès labial.",
+   "Vrai : la réponse immunitaire aboutit à la séroconversion et à la guérison.",
+   "Vrai : des adénopathies cervicales sont habituelles.",
+   "Vrai : la fièvre accompagne habituellement la gingivostomatite."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet de l'herpès labial récidivant ?",
+  "options": [
+   "Il se présente comme un bouquet de vésicules à la jonction peau-muqueuse buccale.",
+   "L'infection est plus limitée que lors de la primo-infection.",
+   "Il s'agit d'une primo-infection à HSV-2.",
+   "C'est une réactivation du HSV-1.",
+   "Il siège sur le bord des lèvres."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : bouquet de vésicules à la jonction de la peau et de la muqueuse buccale.",
+   "Vrai : les récurrences sont des infections plus limitées.",
+   "Faux : c'est une réactivation à HSV-1, pas une primo-infection à HSV-2.",
+   "Vrai : l'herpès labial récidivant est une réactivation du HSV-1.",
+   "Vrai : il siège sur le bord des lèvres."
+  ]
+ },
+ {
+  "q": "Concernant les formes graves du HSV-1 chez l'immunocompétent, quelles sont les propositions exactes ?",
+  "options": [
+   "L'encéphalite à HSV-1 est nécrosante.",
+   "Le diagnostic de l'encéphalite herpétique repose sur la PCR dans le LCR.",
+   "L'encéphalite herpétique est une forme grave à HSV-1.",
+   "La kératite herpétique est une forme grave à HSV-1.",
+   "L'herpès labial bénin est la seule manifestation du HSV-1 chez l'immunocompétent."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'encéphalite à HSV-1 est nécrosante.",
+   "Vrai : la PCR du LCR est l'examen de choix devant une encéphalite herpétique.",
+   "Vrai : l'encéphalite herpétique est une forme grave du HSV-1.",
+   "Vrai : la kératite herpétique est une forme grave à HSV-1.",
+   "Faux : encéphalite et kératite sont des formes graves chez l'immunocompétent."
+  ]
+ },
+ {
+  "q": "Au sujet de l'herpès du nouveau-né, quelles affirmations sont correctes ?",
+  "options": [
+   "L'eczéma herpétisé est une forme d'herpès néonatal.",
+   "L'herpès néonatal est une forme grave d'infection à HSV.",
+   "L'herpès néonatal est toujours bénin et spontanément résolutif.",
+   "Il résulte d'une transmission materno-fœtale.",
+   "Le HSV-2 est le plus souvent en cause dans l'herpès génital maternel contaminant."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'eczéma herpétisé est décrit dans l'herpès néonatal.",
+   "Vrai : l'herpès néonatal est une forme sévère.",
+   "Faux : l'herpès néonatal est grave, potentiellement mortel.",
+   "Vrai : la contamination est materno-fœtale (filière génitale).",
+   "Vrai : l'herpès génital maternel à HSV-2 est la source habituelle."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant l'herpès de l'immunodéprimé sont exactes ?",
+  "options": [
+   "L'herpès progressif de l'immunodéprimé est une forme grave.",
+   "Le traitement repose sur l'aciclovir, actif sur le virus en réplication.",
+   "Des atteintes viscérales sont possibles.",
+   "Le HSV peut donner un herpès extensif chez l'immunodéprimé.",
+   "L'immunodéprimé ne développe que des formes bénignes d'herpès."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'herpès progressif de l'immunodéprimé est une forme grave.",
+   "Vrai : l'aciclovir, actif sur le virus en réplication, est le traitement de référence.",
+   "Vrai : des atteintes viscérales sont possibles chez l'immunodéprimé.",
+   "Vrai : l'herpès extensif touche l'immunodéprimé.",
+   "Faux : l'immunodéprimé développe des formes graves, pas seulement bénignes."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent au tropisme et à la latence du HSV-1 ?",
+  "options": [
+   "Le HSV-1 est un virus dermo-neurotrope.",
+   "Sa latence s'établit dans le ganglion de Gasser.",
+   "Le virus latent est inaccessible aux antiviraux.",
+   "Le HSV-1 est un virus exclusivement lymphotrope.",
+   "Le virus latent est inaccessible au système immunitaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le HSV-1 est dermo-neurotrope.",
+   "Vrai : le ganglion de Gasser (trijumeau) est son site de latence.",
+   "Vrai : le virus latent échappe aux antiviraux.",
+   "Faux : le tropisme lymphotrope est celui de l'EBV, pas du HSV-1.",
+   "Vrai : le virus latent échappe au système immunitaire."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur les récurrences à HSV-1, lesquels sont exacts ?",
+  "options": [
+   "L'herpès labial récidivant est la récurrence typique.",
+   "Des excrétions salivaires asymptomatiques sont décrites.",
+   "Des récurrences inapparentes cliniquement existent.",
+   "Chaque récurrence est plus étendue que la primo-infection.",
+   "Les récurrences sont des infections plus limitées que la primo-infection."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'herpès labial récidivant est la récurrence caractéristique du HSV-1.",
+   "Vrai : des excrétions salivaires asymptomatiques sont décrites.",
+   "Vrai : des récurrences inapparentes cliniquement existent.",
+   "Faux : les récurrences sont plus limitées, pas plus étendues.",
+   "Vrai : les récurrences sont plus limitées que la primo-infection."
+  ]
+ },
+ {
+  "q": "Quels éléments exacts peut-on retenir à propos de la kératite herpétique ?",
+  "options": [
+   "C'est une forme grave chez l'immunocompétent.",
+   "Elle est due au CMV.",
+   "Elle est due au HSV-1.",
+   "Elle relève d'un diagnostic virologique direct (PCR).",
+   "Le HSV-1 infecte la muqueuse oculaire."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : c'est une forme grave chez l'immunocompétent.",
+   "Faux : la kératite herpétique est due au HSV-1, pas au CMV.",
+   "Vrai : la kératite herpétique est due au HSV-1.",
+   "Vrai : les formes graves relèvent d'un diagnostic direct par PCR.",
+   "Vrai : le HSV-1 infecte la muqueuse oculaire."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions vraies concernant l'encéphalite herpétique ?",
+  "options": [
+   "La PCR dans le LCR en fait le diagnostic.",
+   "C'est une encéphalite nécrosante.",
+   "Elle est toujours bénigne chez l'immunocompétent.",
+   "C'est une indication majeure du diagnostic virologique.",
+   "Elle est le plus souvent due au HSV-1."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la PCR du LCR est l'examen diagnostique de référence.",
+   "Vrai : c'est une encéphalite nécrosante.",
+   "Faux : l'encéphalite herpétique est grave, potentiellement mortelle.",
+   "Vrai : les formes graves (méningo-encéphalite) sont une indication majeure du diagnostic.",
+   "Vrai : l'encéphalite herpétique est due au HSV-1."
+  ]
+ },
+ {
+  "q": "À propos de la transmission du HSV-1, quelles sont les réponses exactes ?",
+  "options": [
+   "Le HSV-1 se transmet par contacts oraux et la salive.",
+   "L'excrétion salivaire asymptomatique participe à la transmission.",
+   "Le contact avec les vésicules transmet le HSV-1.",
+   "Le contact avec le HSV-1 survient le plus souvent dans l'enfance.",
+   "La transmission est exclusivement sexuelle."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le HSV-1 se transmet par contacts oraux/salive.",
+   "Vrai : l'excrétion salivaire asymptomatique est une source de contamination.",
+   "Vrai : les vésicules sont une voie de transmission du HSV.",
+   "Vrai : le contact avec le HSV-1 a lieu dans l'enfance.",
+   "Faux : la transmission sexuelle concerne surtout le HSV-2."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sur le diagnostic de l'herpès à HSV sont correctes ?",
+  "options": [
+   "Le diagnostic direct repose sur la PCR, plus sensible que la culture.",
+   "La sérologie IgG signe une primo-infection en cours.",
+   "Les lésions vésiculaires sont un bon prélèvement pour le diagnostic direct.",
+   "Le diagnostic virologique est indiqué devant les formes graves.",
+   "Devant une encéphalite, la PCR est réalisée dans le LCR."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la PCR est plus sensible que la culture pour le diagnostic direct.",
+   "Faux : les IgG signent un contact ancien, pas une primo-infection en cours.",
+   "Vrai : les vésicules sont prélevées pour le diagnostic direct du HSV.",
+   "Vrai : les formes graves justifient le diagnostic virologique.",
+   "Vrai : l'encéphalite herpétique se diagnostique par PCR dans le LCR."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le traitement de l'herpès à HSV-1 ?",
+  "options": [
+   "L'aciclovir est l'antiviral de première intention.",
+   "Le valaciclovir a une meilleure biodisponibilité orale que l'aciclovir.",
+   "En cas de résistance à l'aciclovir, le foscarnet peut être utilisé.",
+   "Le traitement éradique le virus latent du ganglion de Gasser.",
+   "L'aciclovir n'agit que sur le virus en réplication."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'aciclovir est l'antiviral de 1ère intention contre HSV et VZV.",
+   "Vrai : le valaciclovir a une meilleure disponibilité orale que l'aciclovir.",
+   "Vrai : foscarnet et cidofovir sont actifs en cas de résistance à l'aciclovir.",
+   "Faux : aucun antiviral n'éradique le virus latent.",
+   "Vrai : l'aciclovir est actif sur les virus en réplication uniquement."
+  ]
+ },
+ {
+  "q": "Concernant l'herpès génital à HSV-1, quelles sont les propositions exactes ?",
+  "options": [
+   "Le diagnostic des formes récidivantes d'herpès génital est une indication du diagnostic virologique.",
+   "La primo-infection à HSV-1 peut être génitale.",
+   "Le HSV-1 peut être responsable d'herpès génital.",
+   "L'herpès génital récidivant à HSV-1 est possible.",
+   "L'herpès génital est exclusivement dû au HSV-2."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les formes récidivantes d'herpès génital justifient le diagnostic virologique.",
+   "Vrai : la primo-infection à HSV-1 peut siéger au niveau génital.",
+   "Vrai : le HSV-1 peut donner un herpès génital.",
+   "Vrai : l'herpès génital récidivant à HSV-1 existe.",
+   "Faux : le HSV-2 est le principal mais pas l'exclusif agent de l'herpès génital."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes comparant HSV-1 et HSV-2, lesquelles sont exactes ?",
+  "options": [
+   "Tous deux peuvent être responsables d'herpès néonatal.",
+   "Tous deux sont dermo-neurotropes.",
+   "Ce sont deux espèces virales différentes.",
+   "Le HSV-1 est latent dans le ganglion de Gasser, le HSV-2 dans les ganglions sacrés.",
+   "Le HSV-1 et le HSV-2 sont le même virus."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'herpès néonatal peut être dû au HSV-1 comme au HSV-2.",
+   "Vrai : les deux sont dermo-neurotropes.",
+   "Vrai : HSV-1 et HSV-2 sont deux espèces différentes.",
+   "Vrai : Gasser pour HSV-1, ganglions sacrés pour HSV-2.",
+   "Faux : ce sont deux espèces distinctes, pas le même virus."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la primo-infection à HSV-2 ?",
+  "options": [
+   "La primo-infection à HSV-2 se manifeste par une gingivostomatite.",
+   "La réplication virale est très intense lors de la primo-infection.",
+   "Le HSV-2 est une infection sexuellement transmissible.",
+   "Le contact avec le HSV-2 survient dans la petite enfance.",
+   "Elle se manifeste par une gingivostomatite."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : la gingivostomatite est la primo-infection à HSV-1.",
+   "Vrai : la primo-infection s'accompagne d'une réplication virale très intense.",
+   "Vrai : le HSV-2 est une IST.",
+   "Faux : le contact avec le HSV-2 survient après les contacts sexuels.",
+   "Faux : la primo-infection à HSV-2 donne un herpès génital, pas une gingivostomatite."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'herpès génital récidivant, lesquelles sont exactes ?",
+  "options": [
+   "Les formes récidivantes d'herpès génital sont une indication du diagnostic virologique.",
+   "C'est une réactivation du HSV-2.",
+   "L'excrétion virale asymptomatique est possible entre les récurrences.",
+   "L'herpès génital récidivant est toujours dû au HSV-1.",
+   "Les récurrences sont plus limitées que la primo-infection."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les formes récidivantes d'herpès génital justifient le diagnostic virologique.",
+   "Vrai : l'herpès génital récidivant est une réactivation du HSV-2.",
+   "Vrai : l'excrétion virale asymptomatique existe entre les poussées.",
+   "Faux : l'herpès génital récidivant est typiquement dû au HSV-2.",
+   "Vrai : les récurrences sont plus limitées que la primo-infection."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet de la méningite de Mollaret ?",
+  "options": [
+   "Elle est associée aux réactivations à HSV-2.",
+   "Elle complique l'herpès génital récidivant.",
+   "Elle est due au VZV.",
+   "Elle est une forme grave systématiquement mortelle.",
+   "C'est une méningite bénigne récidivante."
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : elle est liée aux réactivations à HSV-2.",
+   "Vrai : elle survient dans le cadre de l'herpès génital récidivant.",
+   "Faux : elle est associée au HSV-2, pas au VZV.",
+   "Faux : c'est une méningite bénigne, pas systématiquement mortelle.",
+   "Vrai : la méningite de Mollaret est une méningite bénigne récidivante."
+  ]
+ },
+ {
+  "q": "Concernant les formes graves du HSV-2, quelles sont les propositions exactes ?",
+  "options": [
+   "Chez l'immunodéprimé, le HSV-2 peut donner un herpès extensif.",
+   "Le HSV-2 ne donne jamais de forme grave.",
+   "Le HSV-2 peut être responsable d'herpès néonatal.",
+   "Des atteintes viscérales sont possibles chez l'immunodéprimé.",
+   "La méningite bénigne de Mollaret est une réactivation à HSV-2."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'herpès extensif à HSV-2 touche l'immunodéprimé.",
+   "Faux : le HSV-2 donne des formes graves (ID, nouveau-né).",
+   "Vrai : le HSV-2 est une cause d'herpès néonatal.",
+   "Vrai : des atteintes viscérales sont possibles chez l'immunodéprimé.",
+   "Vrai : la méningite de Mollaret complique les réactivations à HSV-2."
+  ]
+ },
+ {
+  "q": "Au sujet de la latence du HSV-2, quelles affirmations sont correctes ?",
+  "options": [
+   "Le HSV-2 est latent dans le ganglion de Gasser.",
+   "La latence s'établit dans les corps cellulaires des neurones sensitifs.",
+   "Le virus latent est inaccessible au système immunitaire.",
+   "Le HSV-2 est latent dans les ganglions sacrés.",
+   "Le virus latent est inaccessible aux antiviraux."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le ganglion de Gasser est le site de latence du HSV-1.",
+   "Vrai : la latence siège dans les neurones des ganglions sensitifs.",
+   "Vrai : le virus latent échappe au système immunitaire.",
+   "Vrai : les ganglions sacrés sont le site de latence du HSV-2.",
+   "Vrai : le virus latent échappe aux antiviraux."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant l'épidémiologie du HSV-2 sont exactes ?",
+  "options": [
+   "Les vésicules génitales sont contagieuses.",
+   "Le HSV-2 est une IST.",
+   "Le HSV-2 se transmet principalement par la salive dans l'enfance.",
+   "Le HSV-2 se transmet par voie sexuelle.",
+   "Le contact avec le HSV-2 survient après les contacts sexuels."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les vésicules (HSV, VZV) transmettent le virus.",
+   "Vrai : le HSV-2 est une infection sexuellement transmissible.",
+   "Faux : la transmission salivaire dans l'enfance concerne le HSV-1.",
+   "Vrai : la transmission du HSV-2 est sexuelle.",
+   "Vrai : le contact avec le HSV-2 suit les contacts sexuels."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent au diagnostic de l'herpès génital ?",
+  "options": [
+   "Les sécrétions génitales et les lésions sont de bons prélèvements.",
+   "La présence d'IgG signe un contact ancien avec le virus.",
+   "La sérologie IgM permet toujours de dater une primo-infection génitale.",
+   "Le diagnostic direct repose sur la PCR, plus sensible que la culture.",
+   "Les formes récidivantes d'herpès génital justifient un diagnostic virologique."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : lésions et sécrétions génitales sont prélevées pour le diagnostic direct.",
+   "Vrai : les IgG signent un contact ancien avec le virus.",
+   "Faux : les IgM sont prises à défaut en dehors de la primo-infection.",
+   "Vrai : la PCR est plus sensible que la culture.",
+   "Vrai : les formes récidivantes d'herpès génital (HSV-2) sont une indication diagnostique."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur le traitement de l'herpès génital, lesquels sont exacts ?",
+  "options": [
+   "L'aciclovir est l'antiviral de première intention.",
+   "Le traitement éradique la latence dans les ganglions sacrés.",
+   "Le traitement est indiqué dans les formes graves et/ou récidivantes.",
+   "En cas de résistance, le foscarnet ou le cidofovir sont des alternatives.",
+   "Le valaciclovir peut être utilisé par voie orale."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'aciclovir est l'antiviral de 1ère intention (HSV, VZV).",
+   "Faux : aucun traitement n'éradique le virus latent.",
+   "Vrai : les antiviraux sont réservés aux formes graves et/ou récidivantes.",
+   "Vrai : foscarnet et cidofovir sont actifs en cas de résistance à l'aciclovir.",
+   "Vrai : le valaciclovir, prodrogue orale, a une meilleure biodisponibilité."
+  ]
+ },
+ {
+  "q": "Quels éléments exacts peut-on retenir à propos de l'herpès néonatal ?",
+  "options": [
+   "Il peut être dû au HSV-1 comme au HSV-2.",
+   "Il s'agit toujours d'une infection bénigne spontanément résolutive.",
+   "La contamination a lieu par voie materno-fœtale.",
+   "C'est une forme grave d'infection à HSV du nouveau-né.",
+   "L'eczéma herpétisé en est une forme clinique."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : HSV-1 et HSV-2 peuvent être en cause.",
+   "Faux : l'herpès néonatal est grave et nécessite un traitement urgent.",
+   "Vrai : la transmission est materno-fœtale (filière génitale).",
+   "Vrai : l'herpès néonatal est une forme sévère.",
+   "Vrai : l'eczéma herpétisé est une forme d'herpès néonatal."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions vraies concernant le HSV-2 chez l'immunodéprimé ?",
+  "options": [
+   "L'aciclovir reste le traitement de première intention.",
+   "L'immunodéprimé ne peut pas être infecté par le HSV-2.",
+   "L'herpès extensif est une forme grave du HSV-2 chez l'immunodéprimé.",
+   "Des atteintes viscérales peuvent survenir.",
+   "La symptomatologie est plus bruyante et grave qu'en cas d'immunocompétence."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'aciclovir est l'antiviral de 1ère intention.",
+   "Faux : l'immunodéprimé est au contraire plus vulnérable au HSV-2.",
+   "Vrai : l'herpès extensif touche l'immunodéprimé.",
+   "Vrai : des atteintes viscérales sont décrites chez l'immunodéprimé.",
+   "Vrai : l'immunodépression aggrave la symptomatologie herpétique."
+  ]
+ },
+ {
+  "q": "À propos des différences entre primo-infection et réactivation à HSV-2, quelles sont les réponses exactes ?",
+  "options": [
+   "L'excrétion virale asymptomatique est possible lors des réactivations.",
+   "La réactivation peut s'accompagner d'une méningite bénigne de Mollaret.",
+   "La primo-infection est un herpès génital souvent bruyant.",
+   "La réactivation donne un herpès génital récidivant plus limité.",
+   "La primo-infection est toujours asymptomatique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'excrétion virale asymptomatique accompagne les réactivations.",
+   "Vrai : la méningite de Mollaret complique les réactivations à HSV-2.",
+   "Vrai : la primo-infection à HSV-2 est un herpès génital.",
+   "Vrai : l'herpès génital récidivant est une réactivation plus limitée.",
+   "Faux : la primo-infection a une expression clinique plus importante."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sur le HSV-2 sont correctes ?",
+  "options": [
+   "Le HSV-2 appartient au genre Simplexvirus.",
+   "Le HSV-2 est un Alphaherpesvirinae.",
+   "Le HSV-2 est dermo-neurotrope.",
+   "Le HSV-2 est un Betaherpesvirinae.",
+   "Le HSV-2 établit une latence à vie dans les ganglions sacrés."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le HSV-2 (HHV-2) appartient au genre Simplexvirus.",
+   "Vrai : les Simplexvirus sont des Alphaherpesvirinae.",
+   "Vrai : le HSV-2 est dermo-neurotrope.",
+   "Faux : les Betaherpesvirinae sont le CMV et les Roseolovirus.",
+   "Vrai : la latence du HSV-2 est à vie dans les ganglions sacrés."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la prévention de l'herpès génital ?",
+  "options": [
+   "Les antiviraux n'empêchent pas totalement la transmission.",
+   "Il n'existe pas de vaccin contre le HSV-2.",
+   "Il existe un vaccin vivant atténué contre le HSV-2.",
+   "L'éviction des contacts lors des poussées limite la transmission.",
+   "Le seul vaccin anti-herpétique disponible concerne le VZV."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les antiviraux réduisent l'excrétion virale mais n'abolissent pas totalement le risque de transmission.",
+   "Vrai : aucun vaccin n'existe contre le HSV-2.",
+   "Faux : il n'existe pas de vaccin contre le HSV-2.",
+   "Vrai : éviter les contacts pendant les poussées limite la transmission.",
+   "Vrai : le seul vaccin disponible est celui contre le VZV (souche Oka)."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le VZV ?",
+  "options": [
+   "Le VZV correspond au HHV-3.",
+   "La primo-infection par le VZV est la varicelle.",
+   "Le VZV est un Betaherpesvirinae.",
+   "C'est un Betaherpesvirinae lymphotrope.",
+   "Il appartient au genre Simplexvirus."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : le VZV est le HHV-3.",
+   "Vrai : la varicelle est la primo-infection par le VZV.",
+   "Faux : le VZV est un Alphaherpesvirinae, pas un Betaherpesvirinae.",
+   "Faux : le VZV est un Alphaherpesvirinae dermo-neurotrope, pas un Betaherpesvirinae lymphotrope.",
+   "Faux : le VZV appartient au genre Varicellovirus, pas Simplexvirus."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la varicelle, lesquelles sont exactes ?",
+  "options": [
+   "Elle est presque toujours symptomatique.",
+   "La varicelle correspond à une réactivation du VZV.",
+   "Elle s'accompagne d'une virémie.",
+   "La varicelle est la primo-infection par le VZV.",
+   "C'est une maladie très contagieuse par voie respiratoire."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la varicelle est presque toujours symptomatique.",
+   "Faux : la réactivation du VZV donne le zona, pas la varicelle.",
+   "Vrai : la primo-infection à VZV s'accompagne d'une virémie.",
+   "Vrai : la varicelle est la primo-infection par le VZV.",
+   "Vrai : maladie très contagieuse par voie respiratoire (aérienne)."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet du zona ?",
+  "options": [
+   "Le zona est dû au HSV-1.",
+   "L'infection est limitée à un dermatome.",
+   "Le zona survient préférentiellement chez le nourrisson.",
+   "Il n'y a pas de virémie lors du zona.",
+   "Le zona est la primo-infection par le VZV."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : le zona est une réactivation du VZV, pas une infection à HSV-1.",
+   "Vrai : l'infection zostérienne est limitée à un dermatome.",
+   "Faux : le zona est une pathologie de la personne de plus de 50 ans.",
+   "Vrai : contrairement à la varicelle, le zona ne s'accompagne pas de virémie.",
+   "Faux : la primo-infection est la varicelle, le zona est la réactivation."
+  ]
+ },
+ {
+  "q": "Concernant la transmission du VZV, quelles sont les propositions exactes ?",
+  "options": [
+   "Le VZV se transmet par voie aérienne.",
+   "La varicelle est très contagieuse par voie respiratoire.",
+   "Le VZV est très contagieux et peut provoquer des épidémies.",
+   "La transmission est exclusivement sexuelle.",
+   "Le contact avec les vésicules transmet le VZV."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le VZV a une transmission aérienne.",
+   "Vrai : la varicelle est très contagieuse par voie respiratoire.",
+   "Vrai : très contagieux, le VZV provoque des épidémies.",
+   "Faux : la transmission du VZV est aérienne et vésiculaire.",
+   "Vrai : les vésicules transmettent le VZV."
+  ]
+ },
+ {
+  "q": "Au sujet de la latence du VZV, quelles affirmations sont correctes ?",
+  "options": [
+   "Le VZV est latent dans les neurones des ganglions sensitifs.",
+   "Le VZV est latent dans les lymphocytes B mémoires.",
+   "Les cellules gliales satellites participent au site de latence.",
+   "Les ganglions sensitifs rachidiens hébergent le VZV latent.",
+   "Les ganglions des paires crâniennes hébergent le VZV latent."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le VZV est latent dans les neurones des ganglions sensitifs.",
+   "Faux : la latence lymphocytaire B est propre à l'EBV.",
+   "Vrai : neurones et cellules gliales satellites forment le site de latence.",
+   "Vrai : les ganglions sensitifs rachidiens sont un site de latence.",
+   "Vrai : les ganglions des paires crâniennes hébergent le VZV latent."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant la varicelle de la femme enceinte sont exactes ?",
+  "options": [
+   "Le statut sérologique de la femme enceinte exposée doit être déterminé.",
+   "Elle peut être responsable d'une varicelle périnatale.",
+   "Elle peut être responsable d'une varicelle congénitale.",
+   "La varicelle est toujours bénigne pendant la grossesse.",
+   "La varicelle est grave chez la femme enceinte."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le statut VZV de la femme enceinte exposée doit être déterminé.",
+   "Vrai : risque de varicelle périnatale.",
+   "Vrai : risque de varicelle congénitale en cas de primo-infection.",
+   "Faux : la varicelle gravidique peut être grave.",
+   "Vrai : la varicelle est grave chez la femme enceinte."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent à la varicelle de l'immunodéprimé ?",
+  "options": [
+   "La varicelle est une indication de diagnostic virologique chez le sujet à risque.",
+   "L'aciclovir est l'antiviral de première intention.",
+   "La varicelle peut être maligne chez l'immunodéprimé.",
+   "La varicelle est toujours bénigne chez l'immunodéprimé.",
+   "Des pneumopathies graves peuvent survenir."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les formes sévères et terrains à risque justifient le diagnostic direct.",
+   "Vrai : le (val)aciclovir est l'antiviral de première intention.",
+   "Vrai : la varicelle maligne touche l'immunodéprimé.",
+   "Faux : la varicelle peut être grave chez l'immunodéprimé.",
+   "Vrai : des pneumopathies graves sont décrites."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur le zona, lesquels sont exacts ?",
+  "options": [
+   "Le zona extensif peut survenir chez l'immunodéprimé.",
+   "Le zona s'accompagne toujours d'une virémie.",
+   "Le zona ophtalmique est une forme grave.",
+   "Il existe un risque d'algies post-zostériennes.",
+   "Le zona est une pathologie de la personne de plus de 50 ans."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le zona extensif survient chez l'immunodéprimé.",
+   "Faux : le zona ne s'accompagne pas de virémie, l'infection est limitée au dermatome.",
+   "Vrai : le zona ophtalmique est une forme grave.",
+   "Vrai : les algies post-zostériennes (APZ) sont une complication.",
+   "Vrai : le zona touche préférentiellement après 50 ans."
+  ]
+ },
+ {
+  "q": "Quels éléments exacts peut-on retenir à propos des algies post-zostériennes ?",
+  "options": [
+   "Elles surviennent exclusivement chez l'enfant.",
+   "Le risque augmente avec l'âge.",
+   "Le zona est une pathologie du sujet de plus de 50 ans.",
+   "Elles compliquent le zona.",
+   "Elles sont une indication du traitement antiviral précoce du zona."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les APZ concernent l'adulte, surtout âgé, pas exclusivement l'enfant.",
+   "Vrai : le risque d'APZ augmente avec l'âge.",
+   "Vrai : le zona touche surtout après 50 ans.",
+   "Vrai : les algies post-zostériennes (APZ) sont une complication du zona.",
+   "Vrai : le traitement antiviral précoce vise aussi à réduire le risque d'APZ."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions vraies concernant le diagnostic du VZV ?",
+  "options": [
+   "Le diagnostic direct repose sur la PCR.",
+   "La PCR est indiquée dans les formes graves et atypiques.",
+   "Le diagnostic du zona typique de l'adulte nécessite toujours une PCR.",
+   "Les terrains à risque justifient le diagnostic direct.",
+   "Le LCR, les lésions vésiculaires et le sang sont des prélèvements adaptés."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le diagnostic direct du VZV repose sur la PCR.",
+   "Vrai : formes graves, atypiques : PCR indiquée.",
+   "Faux : le zona typique est un diagnostic clinique, la PCR n'est pas systématique.",
+   "Vrai : terrains à risque (ID, femme enceinte) : diagnostic direct.",
+   "Vrai : LCR, vésicules, sang (et LA, LBA, oculaires) sont prélevés."
+  ]
+ },
+ {
+  "q": "À propos du traitement du VZV, quelles sont les réponses exactes ?",
+  "options": [
+   "Le ganciclovir est l'antiviral de première intention du VZV.",
+   "En cas de résistance, le foscarnet est une alternative.",
+   "Le (val)aciclovir est l'antiviral de première intention.",
+   "Le valaciclovir a une meilleure biodisponibilité orale que l'aciclovir.",
+   "L'aciclovir nécessite l'action de la thymidine kinase virale."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le ganciclovir est l'antiviral du CMV, pas du VZV en 1ère intention.",
+   "Vrai : foscarnet et cidofovir sont actifs en cas de résistance à l'aciclovir.",
+   "Vrai : le (val)aciclovir est l'antiviral de 1ère intention contre le VZV.",
+   "Vrai : le valaciclovir a une meilleure disponibilité orale.",
+   "Vrai : la 1ère étape nécessite la thymidine kinase virale."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sur la vaccination contre le VZV sont correctes ?",
+  "options": [
+   "Ce sont des vaccins vivants atténués.",
+   "Il existe un vaccin contre le zona.",
+   "Il existe un vaccin contre la varicelle.",
+   "La souche vaccinale est la souche Oka.",
+   "Il existe un vaccin contre le HSV-2."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ce sont des vaccins vivants atténués.",
+   "Vrai : un vaccin anti-zona existe.",
+   "Vrai : un vaccin anti-varicelle existe.",
+   "Vrai : la souche vaccinale est la souche Oka.",
+   "Faux : aucun vaccin n'existe contre le HSV-2 ; le VZV est le seul herpèsvirus vaccinable."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la sérologie VZV ?",
+  "options": [
+   "L'avidité des IgG permet de dater l'infection.",
+   "La présence d'IgM signe toujours à coup sûr une primo-infection.",
+   "La présence d'IgG signe un contact ancien avec le virus.",
+   "Elle est utile chez la femme enceinte en cas d'exposition.",
+   "Elle permet de déterminer le statut immunitaire avant un traitement immunosuppresseur."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'avidité des IgG permet de dater l'infection.",
+   "Faux : les IgM sont prises à défaut en dehors de la primo-infection.",
+   "Vrai : les IgG signent un contact ancien.",
+   "Vrai : le statut de la femme enceinte exposée doit être connu.",
+   "Vrai : le statut VZV est déterminé avant immunosuppression."
+  ]
+ },
+ {
+  "q": "Concernant la varicelle et le zona, quelles sont les propositions exactes ?",
+  "options": [
+   "Varicelle et zona sont dus au même virus.",
+   "La varicelle et le zona sont deux primo-infections distinctes.",
+   "La varicelle s'accompagne d'une virémie, pas le zona.",
+   "Le zona est limité à un dermatome.",
+   "La varicelle est presque toujours symptomatique."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le VZV est l'agent commun de la varicelle et du zona.",
+   "Faux : la varicelle est la primo-infection, le zona sa réactivation.",
+   "Vrai : virémie lors de la varicelle, pas lors du zona.",
+   "Vrai : le zona est limité à un dermatome.",
+   "Vrai : la varicelle est presque toujours symptomatique."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les complications du VZV, lesquelles sont exactes ?",
+  "options": [
+   "Les atteintes du système nerveux central sont possibles.",
+   "Le zona ophtalmique est une forme grave.",
+   "Les pneumopathies graves compliquent la varicelle.",
+   "Les algies post-zostériennes compliquent le zona.",
+   "Le VZV ne donne jamais de complication neurologique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : des atteintes du SNC sont décrites (zona).",
+   "Vrai : le zona ophtalmique est une forme grave.",
+   "Vrai : des pneumopathies graves compliquent la varicelle.",
+   "Vrai : les APZ sont une complication du zona.",
+   "Faux : le VZV peut donner des complications neurologiques."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet de l'épidémiologie du VZV ?",
+  "options": [
+   "Le VZV est très contagieux.",
+   "Plus de 90 % des adultes ont des anticorps anti-VZV.",
+   "Il peut provoquer des épidémies.",
+   "Le VZV est un virus rare dans la population générale.",
+   "Le contact avec le VZV survient le plus souvent dans l'enfance."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le VZV est très contagieux (transmission aérienne).",
+   "Vrai : plus de 90 % des adultes ont des Ac anti-VZV.",
+   "Vrai : il peut provoquer des épidémies.",
+   "Faux : le VZV est ubiquitaire et largement répandu.",
+   "Vrai : le contact avec le VZV a lieu dans l'enfance."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant le VZV chez l'immunodéprimé sont exactes ?",
+  "options": [
+   "L'immunodéprimé est protégé contre le VZV.",
+   "Le statut VZV doit être déterminé avant un traitement immunosuppresseur.",
+   "La varicelle peut être maligne.",
+   "Le diagnostic direct par PCR est indiqué dans les formes sévères.",
+   "Le zona peut être extensif."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : l'immunodéprimé est au contraire plus vulnérable.",
+   "Vrai : le statut immunitaire VZV est vérifié avant immunosuppression.",
+   "Vrai : la varicelle maligne touche l'immunodéprimé.",
+   "Vrai : formes sévères et atypiques : PCR indiquée.",
+   "Vrai : le zona extensif survient chez l'immunodéprimé."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent à la physiopathologie du VZV ?",
+  "options": [
+   "La latence du VZV est à vie.",
+   "Le VZV est éliminé définitivement après la varicelle.",
+   "La primo-infection (varicelle) s'accompagne d'une virémie.",
+   "La réactivation (zona) reste limitée à un dermatome sans virémie.",
+   "Le virus migre vers les ganglions sensitifs où il établit sa latence."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : comme tous les herpèsvirus, la latence du VZV est à vie.",
+   "Faux : le VZV persiste à vie à l'état latent.",
+   "Vrai : la varicelle s'accompagne d'une virémie.",
+   "Vrai : le zona est limité à un dermatome, sans virémie.",
+   "Vrai : le VZV devient latent dans les ganglions sensitifs."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants, lesquels sont exacts à propos du zona ophtalmique ?",
+  "options": [
+   "Il justifie un diagnostic virologique et un traitement antiviral.",
+   "C'est une forme grave du zona.",
+   "C'est une réactivation du VZV dans le territoire du trijumeau.",
+   "Il s'accompagne d'une virémie constante.",
+   "Il est dû au HSV-1."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : formes graves : diagnostic direct et (val)aciclovir.",
+   "Vrai : c'est une forme grave du zona.",
+   "Vrai : le zona ophtalmique est une réactivation dans le territoire du trijumeau (V1).",
+   "Faux : le zona ne s'accompagne pas de virémie.",
+   "Faux : le zona ophtalmique est dû au VZV, pas au HSV-1."
+  ]
+ },
+ {
+  "q": "Quels éléments exacts peut-on retenir à propos de la contagiosité de la varicelle ?",
+  "options": [
+   "La varicelle est très contagieuse.",
+   "La varicelle peut provoquer des épidémies.",
+   "Le contact avec les vésicules est contagieux.",
+   "La transmission est aérienne (respiratoire).",
+   "La varicelle n'est contagieuse qu'après la chute des croûtes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la varicelle est très contagieuse.",
+   "Vrai : le VZV peut provoquer des épidémies.",
+   "Vrai : les vésicules transmettent le VZV.",
+   "Vrai : la transmission aérienne explique cette contagiosité.",
+   "Faux : la contagiosité est maximale avant et pendant l'éruption, pas après les croûtes."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions vraies concernant la prévention de l'infection à VZV ?",
+  "options": [
+   "Le vaccin anti-varicelle est un vaccin vivant atténué (souche Oka).",
+   "Le VZV est le seul herpèsvirus contre lequel il existe un vaccin.",
+   "La vaccination des sujets à risque est recommandée selon le statut sérologique.",
+   "Il existe un vaccin anti-zona.",
+   "Il existe un vaccin inactivé contre le HSV-1."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le vaccin anti-varicelle est vivant atténué, souche Oka.",
+   "Vrai : le VZV est le seul herpèsvirus vaccinable.",
+   "Vrai : le statut sérologique guide la vaccination des sujets à risque.",
+   "Vrai : un vaccin anti-zona existe.",
+   "Faux : aucun vaccin n'existe contre le HSV-1."
+  ]
+ },
+ {
+  "q": "À propos du VZV et du système nerveux, quelles sont les réponses exactes ?",
+  "options": [
+   "Sa latence est neuronale (ganglions sensitifs).",
+   "Les algies post-zostériennes sont d'origine neuropathique.",
+   "Le VZV est un virus exclusivement cutané sans tropisme nerveux.",
+   "Le VZV est dermo-neurotrope.",
+   "Le zona traduit une réactivation neuronale."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la latence du VZV est neuronale.",
+   "Vrai : les APZ sont des douleurs neuropathiques post-zostériennes.",
+   "Faux : le VZV a un tropisme nerveux majeur (dermo-neurotrope).",
+   "Vrai : le VZV est dermo-neurotrope.",
+   "Vrai : le zona est la réactivation du virus latent ganglionnaire."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le CMV ?",
+  "options": [
+   "C'est un Betaherpesvirinae.",
+   "Le CMV est un Alphaherpesvirinae.",
+   "Il appartient au genre Roseolovirus.",
+   "Le CMV correspond au HHV-5.",
+   "Son génome est d'environ 125 000 paires de bases."
+  ],
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : le CMV est un Betaherpesvirinae.",
+   "Faux : le CMV est un Betaherpesvirinae, pas un Alphaherpesvirinae.",
+   "Faux : le CMV appartient au genre Cytomegalovirus, pas Roseolovirus.",
+   "Vrai : le CMV est le HHV-5.",
+   "Faux : le génome du CMV fait environ 250 kb (125 kb est la taille du VZV)."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'infection à CMV de l'adulte immunocompétent, lesquelles sont exactes ?",
+  "options": [
+   "Une hépatite aiguë est possible.",
+   "La primo-infection peut rarement donner une fièvre prolongée.",
+   "Un syndrome mononucléosique peut survenir.",
+   "Elle est presque toujours asymptomatique.",
+   "Elle donne constamment un tableau bruyant et grave."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : une hépatite aiguë peut survenir.",
+   "Vrai : rarement, la primo-infection donne une fièvre prolongée.",
+   "Vrai : un syndrome mononucléosique à CMV est possible.",
+   "Vrai : l'infection à CMV de l'adulte immunocompétent est presque toujours asymptomatique.",
+   "Faux : l'infection est le plus souvent asymptomatique, pas constamment grave."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet du CMV congénital ?",
+  "options": [
+   "Il peut être responsable de lourdes séquelles psychomotrices.",
+   "La transmission est plus grave en cas de réactivation ancienne.",
+   "Le CMV congénital est toujours asymptomatique et sans séquelle.",
+   "L'EBV est le principal agent d'infection virale congénitale.",
+   "Il peut être responsable de lourdes séquelles sensorielles."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Vrai : des séquelles psychomotrices lourdes sont décrites.",
+   "Faux : la transmission est plus grave en cas de primo-infection pendant la grossesse.",
+   "Faux : le CMV congénital peut laisser de lourdes séquelles.",
+   "Faux : c'est le CMV, pas l'EBV, le principal agent d'infection virale congénitale.",
+   "Vrai : des séquelles sensorielles lourdes sont décrites."
+  ]
+ },
+ {
+  "q": "Concernant le CMV chez l'immunodéprimé, quelles sont les propositions exactes ?",
+  "options": [
+   "Le CMV est un virus opportuniste chez l'immunodéprimé.",
+   "Il est sans danger chez le transplanté.",
+   "Il peut donner une encéphalite ou une colite.",
+   "Il peut donner une rétinite.",
+   "Il peut donner une pneumopathie."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le CMV est un virus opportuniste chez l'immunodéprimé.",
+   "Faux : le CMV peut causer la perte du greffon chez le transplanté.",
+   "Vrai : encéphalite et colite à CMV sont possibles.",
+   "Vrai : la rétinite à CMV touche l'immunodéprimé.",
+   "Vrai : la pneumopathie à CMV est décrite."
+  ]
+ },
+ {
+  "q": "Au sujet du diagnostic du CMV chez le transplanté, quelles affirmations sont correctes ?",
+  "options": [
+   "La détection/quantification de l'ADN par PCR quantitative a transformé le diagnostic.",
+   "Le sang, les urines, le LCR, le LBA et les biopsies sont des prélèvements adaptés.",
+   "La PCR quantitative permet le suivi des infections à CMV chez les greffés.",
+   "La sérologie est le seul examen utile chez le greffé.",
+   "Une surveillance systématique du transplanté est recommandée."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la PCR quantitative a transformé le diagnostic et le suivi du CMV.",
+   "Vrai : sang, urines, LCR, LBA, biopsies, humeur aqueuse sont prélevés.",
+   "Vrai : la charge virale guide le suivi chez les greffés/transplantés.",
+   "Faux : la sérologie ne sert qu'au statut immunitaire pré-greffe ; la PCR fait le suivi.",
+   "Vrai : une surveillance systématique du transplanté est indiquée."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant le traitement du CMV sont exactes ?",
+  "options": [
+   "Le ganciclovir est toxique pour la lignée spermatique.",
+   "Le valganciclovir est l'ester de valine du ganciclovir, administré par voie orale.",
+   "L'aciclovir est l'antiviral de première intention du CMV.",
+   "Le ganciclovir est toxique pour les cellules de la moelle osseuse.",
+   "Le ganciclovir est l'antiviral de référence du CMV."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : il est toxique pour la lignée spermatique.",
+   "Vrai : le valganciclovir est la prodrogue orale du ganciclovir.",
+   "Faux : l'aciclovir est l'antiviral du HSV/VZV, le ganciclovir celui du CMV.",
+   "Vrai : le ganciclovir est toxique pour la moelle osseuse.",
+   "Vrai : le ganciclovir est le traitement du CMV."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent à la transmission du CMV ?",
+  "options": [
+   "Le CMV se transmet par voie aérienne comme le VZV.",
+   "Le CMV se transmet par greffe d'organes.",
+   "Le CMV se transmet par voie sexuelle.",
+   "Le CMV se transmet par transfusion sanguine.",
+   "Le CMV se transmet par la salive."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la transmission aérienne est propre au VZV.",
+   "Vrai : la greffe/transplantation d'organes transmet le CMV.",
+   "Vrai : la voie sexuelle transmet le CMV.",
+   "Vrai : la transfusion sanguine transmet le CMV.",
+   "Vrai : la salive transmet le CMV (contacts oraux)."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur la latence du CMV, lesquels sont exacts ?",
+  "options": [
+   "Le virus latent est inaccessible aux antiviraux.",
+   "Le CMV est latent dans les cellules CD34 de la moelle osseuse.",
+   "Les cellules endothéliales hébergent le CMV latent.",
+   "Le CMV est latent dans le ganglion de Gasser.",
+   "Les monocytes-macrophages hébergent le CMV latent."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le virus latent échappe aux antiviraux.",
+   "Vrai : les cellules CD34 de la moelle sont un site de latence du CMV.",
+   "Vrai : les cellules endothéliales hébergent le CMV latent.",
+   "Faux : le ganglion de Gasser est le site de latence du HSV-1.",
+   "Vrai : les monocytes-macrophages hébergent le CMV latent."
+  ]
+ },
+ {
+  "q": "Quels éléments exacts peut-on retenir à propos de la primo-infection à CMV ?",
+  "options": [
+   "Elle peut donner un syndrome mononucléosique.",
+   "Elle est le plus souvent asymptomatique chez l'immunocompétent.",
+   "Elle donne systématiquement une éruption cutanée.",
+   "Elle peut donner une hépatite aiguë.",
+   "Elle peut donner une fièvre prolongée."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : un syndrome mononucléosique à CMV est possible.",
+   "Vrai : la primo-infection à CMV est presque toujours asymptomatique.",
+   "Faux : aucune éruption systématique n'est décrite dans la primo-infection à CMV.",
+   "Vrai : une hépatite aiguë peut survenir.",
+   "Vrai : rarement, une fièvre prolongée survient."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions vraies concernant le CMV et la grossesse ?",
+  "options": [
+   "Le statut sérologique CMV de la femme enceinte doit être déterminé.",
+   "Le CMV congénital peut laisser de lourdes séquelles.",
+   "La primo-infection pendant la grossesse expose au CMV congénital.",
+   "Le CMV ne se transmet jamais par voie materno-fœtale.",
+   "Le liquide amniotique est un prélèvement adapté au diagnostic."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : déterminer le statut sérologique CMV de la femme enceinte est indiqué.",
+   "Vrai : le CMV congénital laisse de lourdes séquelles sensorielles et psychomotrices.",
+   "Vrai : la primo-infection gravidique expose à la transmission congénitale.",
+   "Faux : la transmission materno-fœtale du CMV est bien décrite.",
+   "Vrai : le liquide amniotique est prélevé pour le diagnostic du CMV."
+  ]
+ },
+ {
+  "q": "À propos du syndrome mononucléosique à CMV, quelles sont les réponses exactes ?",
+  "options": [
+   "La PCR quantitative détecte l'ADN du CMV.",
+   "La sérologie CMV (IgM, séroconversion IgG) aide au diagnostic.",
+   "Le MNI test est spécifique du CMV.",
+   "Le CMV peut être responsable d'un syndrome mononucléosique.",
+   "Le syndrome mononucléosique est exclusivement dû à l'EBV."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : la PCR détecte et quantifie l'ADN du CMV.",
+   "Vrai : la sérologie (IgM, séroconversion) diagnostique la primo-infection à CMV.",
+   "Faux : le MNI test détecte des anticorps hétérophiles non spécifiques de l'EBV.",
+   "Vrai : le CMV peut donner un syndrome mononucléosique.",
+   "Faux : le syndrome mononucléosique peut être dû au CMV comme à l'EBV."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sur le CMV en transplantation sont correctes ?",
+  "options": [
+   "Le couple donneur/receveur doit être exploré sérologiquement.",
+   "La sérologie pré-greffe détermine le statut immunitaire.",
+   "La PCR quantitative surveille la réplication virale après la greffe.",
+   "Aucune surveillance du CMV n'est nécessaire après transplantation.",
+   "Le CMV peut être responsable de la perte du greffon."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le statut sérologique du couple donneur/receveur est exploré.",
+   "Vrai : la sérologie pré-greffe détermine le statut immunitaire.",
+   "Vrai : la PCR quantitative assure la surveillance post-greffe.",
+   "Faux : une surveillance systématique du transplanté est recommandée.",
+   "Vrai : le CMV peut causer la perte du greffon."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les indications du diagnostic CMV ?",
+  "options": [
+   "Surveillance systématique du transplanté.",
+   "Diagnostic d'une primo-infection chez l'immunocompétent.",
+   "Le diagnostic du CMV n'est jamais indiqué.",
+   "Détermination du statut sérologique de la femme enceinte.",
+   "Contexte évocateur chez le nouveau-né."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la surveillance systématique du transplanté est indiquée.",
+   "Vrai : la sérologie diagnostique la primo-infection chez l'immunocompétent.",
+   "Faux : le diagnostic du CMV a de nombreuses indications.",
+   "Vrai : le statut sérologique de la femme enceinte est déterminé.",
+   "Vrai : un contexte évocateur chez le nouveau-né justifie le diagnostic."
+  ]
+ },
+ {
+  "q": "Concernant la réactivation du CMV, quelles sont les propositions exactes ?",
+  "options": [
+   "L'immunodépression favorise la réactivation du CMV.",
+   "La réactivation peut donner fièvre et altération de l'état général.",
+   "Chez le greffé, la réactivation menace le greffon.",
+   "La PCR quantitative suit la charge virale lors des réactivations.",
+   "Les réactivations à CMV sont impossibles après la primo-infection."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'immunodépression est un facteur majeur de réactivation.",
+   "Vrai : fièvre et AEG traduisent la réactivation à CMV.",
+   "Vrai : la réactivation peut entraîner la perte du greffon.",
+   "Vrai : la PCR quantitative suit la réplication virale.",
+   "Faux : la latence du CMV persiste à vie et peut se réactiver."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le ganciclovir, lesquelles sont exactes ?",
+  "options": [
+   "Il est toxique pour les cellules de la moelle osseuse.",
+   "C'est l'antiviral de référence des infections à CMV.",
+   "Il est actif aussi sur le HSV.",
+   "Il est dénué de toute toxicité.",
+   "Il est toxique pour la lignée spermatique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : toxicité médullaire du ganciclovir.",
+   "Vrai : le ganciclovir est le traitement du CMV.",
+   "Vrai : il est actif sur le HSV, même si c'est le traitement du CMV.",
+   "Faux : le ganciclovir a une toxicité médullaire et gonadique.",
+   "Vrai : toxicité sur la lignée spermatique."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet du valganciclovir ?",
+  "options": [
+   "C'est l'ester de valine du ganciclovir.",
+   "Il est réservé au traitement du VZV.",
+   "C'est l'ester de valine de l'aciclovir.",
+   "Il est utilisé dans les infections à CMV.",
+   "Il est prescrit par voie orale."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le valganciclovir est l'ester de valine du ganciclovir.",
+   "Faux : le VZV se traite par (val)aciclovir, pas par valganciclovir.",
+   "Faux : l'ester de valine de l'aciclovir est le valaciclovir.",
+   "Vrai : il traite les infections à CMV.",
+   "Vrai : il est prescrit par voie orale."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant le CMV et le système immunitaire sont exactes ?",
+  "options": [
+   "Le CMV module la réponse immunitaire de l'hôte.",
+   "La latence du CMV persiste dans les cellules myéloïdes.",
+   "Le CMV est éliminé définitivement après la primo-infection.",
+   "Chez l'immunodéprimé, le CMV devient opportuniste.",
+   "Chez l'immunocompétent, l'infection est le plus souvent contrôlée."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le CMV, comme les herpèsvirus, module l'immunité de l'hôte.",
+   "Vrai : cellules CD34 et monocytes-macrophages hébergent la latence.",
+   "Faux : le CMV persiste à vie à l'état latent.",
+   "Vrai : l'immunodéprimé développe des formes opportunistes graves.",
+   "Vrai : l'immunocompétent contrôle l'infection (souvent asymptomatique)."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent aux prélèvements pour le diagnostic du CMV ?",
+  "options": [
+   "Les urines sont un prélèvement adapté.",
+   "Le LCR est un prélèvement adapté.",
+   "Le LBA et les biopsies sont des prélèvements adaptés.",
+   "Seule la salive permet le diagnostic du CMV.",
+   "Le sang est un prélèvement adapté."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les urines sont un prélèvement adapté.",
+   "Vrai : le LCR est prélevé (encéphalite).",
+   "Vrai : LBA, biopsies, humeur aqueuse, liquide amniotique sont adaptés.",
+   "Faux : de nombreux prélèvements sont adaptés, pas seulement la salive.",
+   "Vrai : le sang est prélevé pour le diagnostic du CMV."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant l'EBV ?",
+  "options": [
+   "L'EBV est un Alphaherpesvirinae.",
+   "C'est un virus lymphotrope.",
+   "C'est un Alphaherpesvirinae.",
+   "Il appartient au genre Lymphocryptovirus.",
+   "L'EBV correspond au HHV-6."
+  ],
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : l'EBV est un Gammaherpesvirinae, pas un Alphaherpesvirinae.",
+   "Vrai : l'EBV est un herpèsvirus lymphotrope.",
+   "Faux : l'EBV est un Gammaherpesvirinae, pas un Alphaherpesvirinae.",
+   "Vrai : il appartient au genre Lymphocryptovirus.",
+   "Faux : l'EBV correspond au HHV-4, pas au HHV-6."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la mononucléose infectieuse, lesquelles sont exactes ?",
+  "options": [
+   "L'angine est toujours ulcéro-nécrotique.",
+   "Elle touche préférentiellement le nouveau-né.",
+   "C'est une maladie bénigne de l'adulte jeune.",
+   "La fièvre et l'asthénie en sont des signes cliniques.",
+   "Elle associe 5 éléments cliniques et 1 seul élément biologique."
+  ],
+  "correct": [
+   2,
+   3
+  ],
+  "explain": [
+   "Faux : l'angine est le plus souvent simple et exsudative.",
+   "Faux : la MNI touche l'adulte jeune, pas préférentiellement le nouveau-né.",
+   "Vrai : la MNI est une maladie bénigne de l'adulte jeune.",
+   "Vrai : fièvre et asthénie sont des signes cliniques de la MNI.",
+   "Faux : la MNI associe 3 éléments cliniques et 3 éléments biologiques."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet des signes cliniques de la MNI ?",
+  "options": [
+   "La fièvre et l'asthénie sont habituelles.",
+   "Une splénomégalie est fréquemment associée.",
+   "L'angine peut être à fausses membranes.",
+   "L'ictère est le signe clinique constant de la MNI.",
+   "Les adénopathies cervicales postérieures sont quasi constantes."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : fièvre et asthénie font partie du tableau clinique.",
+   "Vrai : elles sont fréquemment associées à une splénomégalie.",
+   "Vrai : l'angine est parfois à fausses membranes.",
+   "Faux : l'ictère n'est pas un signe constant ; c'est la cytolyse hépatique biologique qui est décrite.",
+   "Vrai : les adénopathies, en particulier cervicales postérieures, sont quasi constantes."
+  ]
+ },
+ {
+  "q": "Concernant le syndrome mononucléosique, quelles sont les propositions exactes ?",
+  "options": [
+   "Ces lymphocytes atypiques représentent au moins 10 % des leucocytes.",
+   "Le syndrome mononucléosique se définit par une neutropénie isolée.",
+   "Des lymphocytes anormaux, de grande taille et hyperbasophiles, sont présents.",
+   "La NFS montre une hyperleucocytose.",
+   "On observe une hyperlymphocytose et une monocytose."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : ils représentent au moins 10 % des leucocytes.",
+   "Faux : c'est une hyperleucocytose à lymphocytes atypiques, pas une neutropénie.",
+   "Vrai : lymphocytes anormaux, grands et hyperbasophiles.",
+   "Vrai : hyperleucocytose à la NFS.",
+   "Vrai : hyperlymphocytose et monocytose associées."
+  ]
+ },
+ {
+  "q": "Au sujet des signes biologiques de la MNI, quelles affirmations sont correctes ?",
+  "options": [
+   "Ces anticorps sont dirigés contre les globules rouges de mouton, de bœuf ou de cheval.",
+   "Une cytolyse hépatique avec augmentation des transaminases est observée.",
+   "Des anticorps hétérophiles transitoires sont présents.",
+   "Le MNI test est une réaction d'agglutination sur lame.",
+   "La MNI s'accompagne constamment d'une anémie hémolytique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Ac anti-GR de mouton, de bœuf, de cheval.",
+   "Vrai : cytolyse hépatique avec élévation des transaminases.",
+   "Vrai : présence transitoire d'anticorps hétérophiles.",
+   "Vrai : le MNI test est une agglutination sur lame de GR formolés de cheval.",
+   "Faux : l'anémie hémolytique n'est pas un signe constant de la MNI."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant le MNI test sont exactes ?",
+  "options": [
+   "La réaction de Paul-Bunnell-Davidson est une réaction apparentée.",
+   "Elle utilise des globules rouges formolés de cheval.",
+   "C'est une réaction d'agglutination.",
+   "Elle détecte des anticorps hétérophiles.",
+   "Ces anticorps sont spécifiques de l'EBV."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la réaction de Paul-Bunnell-Davidson est une MEE apparentée.",
+   "Vrai : agglutination sur lame de globules rouges formolés de cheval.",
+   "Vrai : le MNI test est une réaction d'agglutination.",
+   "Vrai : il détecte les anticorps hétérophiles.",
+   "Faux : les Ac hétérophiles ne sont pas spécifiques de l'EBV."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent aux limites du MNI test ?",
+  "options": [
+   "Il détecte les IgG anti-EBNA.",
+   "Les anticorps hétérophiles ne sont pas spécifiques de l'EBV.",
+   "Il permet à lui seul d'affirmer une primo-infection à CMV.",
+   "Il est remplacé par les sérologies EBV spécifiques.",
+   "Il manque de sensibilité."
+  ],
+  "correct": [
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : il détecte des Ac hétérophiles, pas les IgG anti-EBNA.",
+   "Vrai : les Ac hétérophiles ne sont pas spécifiques de l'EBV.",
+   "Faux : il n'est ni spécifique de l'EBV ni adapté au CMV.",
+   "Vrai : les sérologies EBV spécifiques l'ont remplacé.",
+   "Vrai : le MNI test manque de sensibilité."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur la cinétique des anticorps EBV, lesquels sont exacts ?",
+  "options": [
+   "Un VCA IgG isolé impose un contrôle sur un nouveau prélèvement à 15 jours.",
+   "VCA IgM positif + VCA IgG positif + EBNA IgG négatif évoque une primo-infection.",
+   "VCA IgG positif + EBNA IgG positif signe un contact ancien.",
+   "VCA IgG positif isolé affirme à lui seul un contact ancien avec l'EBV.",
+   "L'absence des trois marqueurs signe une sérologie EBV négative."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : un contrôle à 15 jours est recommandé dans ce cas.",
+   "Vrai : VCA IgM+/VCA IgG+/EBNA- = profil de primo-infection.",
+   "Vrai : VCA IgG+/EBNA+ = contact ancien avec l'EBV.",
+   "Faux : un VCA IgG isolé peut correspondre à une primo-infection ou à une convalescence, d'où le contrôle à 15 jours.",
+   "Vrai : triple négativité = sérologie EBV négative."
+  ]
+ },
+ {
+  "q": "Quels éléments exacts peut-on retenir à propos du pouvoir oncogène de l'EBV ?",
+  "options": [
+   "Il immortalise les lymphocytes B.",
+   "L'EBV est un virus oncogène transformant.",
+   "Il est associé au lymphome de Burkitt.",
+   "Il est associé au carcinome du nasopharynx.",
+   "L'EBV n'a aucun potentiel oncogène."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : il immortalise les lymphocytes B.",
+   "Vrai : l'EBV est un virus oncogène transformant.",
+   "Vrai : le lymphome de Burkitt est associé à l'EBV.",
+   "Vrai : le carcinome nasopharyngé est associé à l'EBV.",
+   "Faux : l'EBV est un virus oncogène reconnu."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions vraies concernant les cancers associés à l'EBV ?",
+  "options": [
+   "Le lymphome de Hodgkin est associé à l'EBV.",
+   "Les lymphomes non hodgkiniens peuvent être associés à l'EBV.",
+   "Le cancer du col de l'utérus est le principal cancer associé à l'EBV.",
+   "Le carcinome du nasopharynx est associé à l'EBV.",
+   "Le lymphome de Burkitt est associé à l'EBV."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le lymphome de Hodgkin est associé à l'EBV.",
+   "Vrai : les LNH peuvent être associés à l'EBV.",
+   "Faux : le cancer du col est lié à HPV, pas à l'EBV.",
+   "Vrai : le carcinome nasopharyngé est associé à l'EBV.",
+   "Vrai : le lymphome de Burkitt est lié à l'EBV."
+  ]
+ },
+ {
+  "q": "À propos de l'EBV chez l'immunodéprimé, quelles sont les réponses exactes ?",
+  "options": [
+   "Le diagnostic d'un syndrome lymphoprolifératif justifie l'exploration EBV.",
+   "Elle peut aboutir à un lymphome B non hodgkinien.",
+   "En cas d'immunodépression T, la lymphoprolifération B induite par l'EBV est incontrôlée.",
+   "La surveillance du risque de lymphome est indiquée chez l'immunodéprimé.",
+   "L'immunodéprimé est protégé contre les lymphomes à EBV."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'exploration d'un processus tumoral est une indication du diagnostic EBV.",
+   "Vrai : elle peut aboutir à un lymphome B non hodgkinien.",
+   "Vrai : l'immunodépression T laisse incontrôlée la lymphoprolifération B.",
+   "Vrai : la surveillance du risque de lymphome est indiquée chez l'ID.",
+   "Faux : l'immunodéprimé est au contraire à risque de lymphome à EBV."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sur la latence de l'EBV sont correctes ?",
+  "options": [
+   "L'EBV est latent dans les neurones sensitifs.",
+   "La latence de l'EBV est à vie.",
+   "L'EBV est latent dans les lymphocytes B mémoires.",
+   "L'EBV est un virus lymphotrope.",
+   "Il existe 4 profils d'expression retrouvés dans les cancers liés à l'EBV."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la latence neuronale est propre aux Alphaherpesvirinae.",
+   "Vrai : la latence des herpèsvirus persiste à vie.",
+   "Vrai : les lymphocytes B mémoires hébergent l'EBV latent.",
+   "Vrai : l'EBV est lymphotrope.",
+   "Vrai : 4 profils d'expression de latence sont décrits dans les cancers à EBV."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la transmission de l'EBV ?",
+  "options": [
+   "L'EBV se transmet par voie aérienne comme le VZV.",
+   "La transfusion sanguine peut transmettre l'EBV.",
+   "L'EBV se transmet par la salive.",
+   "Les contacts oraux intimes transmettent l'EBV.",
+   "La greffe d'organes peut transmettre l'EBV."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la transmission aérienne est propre au VZV.",
+   "Vrai : la transfusion sanguine transmet l'EBV.",
+   "Vrai : la salive transmet l'EBV.",
+   "Vrai : les contacts oraux intimes (baiser) transmettent l'EBV.",
+   "Vrai : la greffe d'organes transmet l'EBV."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic de l'EBV, quelles sont les propositions exactes ?",
+  "options": [
+   "Le diagnostic de l'EBV repose sur la culture virale systématique.",
+   "L'exploration d'un processus tumoral est une indication.",
+   "Les sérologies EBV spécifiques ont remplacé le MNI test.",
+   "Le diagnostic de la MNI est une indication du diagnostic EBV.",
+   "Le MNI test détecte des anticorps hétérophiles."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le diagnostic repose sur la sérologie et la PCR, pas la culture systématique.",
+   "Vrai : l'exploration tumorale (ex. carcinome nasopharynx) est indiquée.",
+   "Vrai : les sérologies spécifiques ont remplacé le MNI test (manque de sensibilité).",
+   "Vrai : le diagnostic d'une MNI ou syndrome mononucléosique est indiqué.",
+   "Vrai : le MNI test met en évidence les Ac hétérophiles."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'expression des gènes de latence de l'EBV, lesquelles sont exactes ?",
+  "options": [
+   "Ces profils sont retrouvés dans les cancers liés à l'EBV.",
+   "La latence de l'EBV s'accompagne d'une production virale complète.",
+   "Tous les cancers humains expriment le même profil de latence EBV.",
+   "L'expression de gènes viraux anti-apoptotiques participe à l'oncogenèse.",
+   "Lors de la latence, il existe 4 profils d'expression."
+  ],
+  "correct": [
+   0,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : ils sont retrouvés dans les cancers liés à l'EBV.",
+   "Faux : la latence se fait sans production de particules virales.",
+   "Faux : les profils d'expression varient selon le type tumoral.",
+   "Vrai : les gènes viraux anti-apoptotiques participent à l'oncogenèse (EBV, HHV-8).",
+   "Vrai : 4 profils d'expression existent lors de la latence."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet de la primo-infection à EBV ?",
+  "options": [
+   "Elle survient le plus souvent dans l'enfance.",
+   "Elle donne systématiquement un zona.",
+   "Chez l'adulte jeune, elle peut donner une mononucléose infectieuse.",
+   "Elle est le plus souvent asymptomatique dans l'enfance.",
+   "La présence d'IgM et la séroconversion signent la primo-infection."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la primo-infection à EBV survient dans l'enfance.",
+   "Faux : le zona est la réactivation du VZV, pas de l'EBV.",
+   "Vrai : la MNI est la primo-infection symptomatique de l'adulte jeune.",
+   "Vrai : elle est le plus souvent asymptomatique dans l'enfance.",
+   "Vrai : IgM + séroconversion/ascension des IgG = primo-infection."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant l'EBV et les lymphocytes B sont exactes ?",
+  "options": [
+   "L'EBV infecte préférentiellement les lymphocytes T CD4.",
+   "L'EBV est lymphotrope B.",
+   "Il immortalise les lymphocytes B.",
+   "Sa latence s'établit dans les lymphocytes B mémoires.",
+   "L'immunodépression T favorise la lymphoprolifération B incontrôlée."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le tropisme T CD4 est celui du HHV-6, pas de l'EBV.",
+   "Vrai : l'EBV est un herpèsvirus lymphotrope B.",
+   "Vrai : virus transformant, il immortalise les LB.",
+   "Vrai : les LB mémoires sont le site de latence.",
+   "Vrai : sans contrôle T, la lymphoprolifération B aboutit au lymphome."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent aux indications du diagnostic EBV ?",
+  "options": [
+   "Diagnostic d'une MNI ou d'un syndrome mononucléosique.",
+   "Le diagnostic EBV n'a aucune indication clinique.",
+   "Exploration d'un processus tumoral.",
+   "Détermination du statut immunitaire pour les dons d'organes et de tissus.",
+   "Surveillance du risque de lymphome chez l'immunodéprimé."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la MNI/syndrome mononucléosique justifie le diagnostic EBV.",
+   "Faux : le diagnostic EBV a de nombreuses indications.",
+   "Vrai : l'exploration tumorale est une indication.",
+   "Vrai : le statut immunitaire est déterminé pour les dons d'organes/tissus.",
+   "Vrai : la surveillance du risque de lymphome chez l'ID est indiquée."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les HHV-6 et HHV-7 ?",
+  "options": [
+   "Ce sont des Betaherpesvirinae.",
+   "Ils appartiennent au genre Simplexvirus.",
+   "Ce sont des Gammaherpesvirinae oncogènes.",
+   "Ils se transmettent par voie aérienne.",
+   "Le HHV-6 comprend deux variants : HHV-6A et HHV-6B."
+  ],
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Vrai : les Roseolovirus sont des Betaherpesvirinae.",
+   "Faux : HHV-6 et HHV-7 sont des Roseolovirus, pas des Simplexvirus.",
+   "Faux : les Gammaherpesvirinae oncogènes sont l'EBV et le HHV-8.",
+   "Faux : les HHV-6 et HHV-7 se transmettent par la salive, pas par voie aérienne.",
+   "Vrai : le HHV-6 comprend les variants A et B."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la roséole infantile, lesquelles sont exactes ?",
+  "options": [
+   "Elle est due au VZV.",
+   "Elle est due au HHV-6.",
+   "Elle peut s'accompagner de fièvre.",
+   "C'est une infection de l'enfant.",
+   "Chez l'immunodéprimé, le HHV-6 peut donner encéphalite, hépatite ou aplasie médullaire."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le VZV donne la varicelle, pas la roséole.",
+   "Vrai : la roséole infantile (exanthème subit) est due au HHV-6.",
+   "Vrai : fièvre et altération de l'état général sont décrites.",
+   "Vrai : c'est une infection du nourrisson/enfant.",
+   "Vrai : encéphalite, hépatite, aplasie médullaire sont des formes graves à HHV-6."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet de la latence des HHV-6 et HHV-7 ?",
+  "options": [
+   "Le HHV-6 est latent dans le ganglion de Gasser.",
+   "Le HHV-6 est latent dans les monocytes-macrophages.",
+   "Le HHV-6 est latent dans les lymphocytes T CD4.",
+   "La latence des herpèsvirus est à vie.",
+   "Le site de latence du HHV-7 est mal caractérisé."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le ganglion de Gasser est le site du HSV-1.",
+   "Vrai : les monocytes-macrophages hébergent le HHV-6 latent.",
+   "Vrai : les lymphocytes T CD4 hébergent le HHV-6 latent.",
+   "Vrai : la latence herpétique persiste à vie.",
+   "Vrai : le site de latence du HHV-7 reste mal caractérisé (« ? »)."
+  ]
+ },
+ {
+  "q": "Concernant le HHV-8, quelles sont les propositions exactes ?",
+  "options": [
+   "Le HHV-8 est un virus ubiquitaire.",
+   "Le HHV-8 appartient au genre Rhadinovirus.",
+   "Il est associé à la maladie de Kaposi.",
+   "Il est responsable de la roséole infantile.",
+   "C'est un Betaherpesvirinae."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : le HHV-8 fait exception à l'ubiquité des herpèsvirus.",
+   "Vrai : le HHV-8 est un Rhadinovirus.",
+   "Vrai : la maladie de Kaposi est associée au HHV-8.",
+   "Faux : la roséole infantile est due au HHV-6, pas au HHV-8.",
+   "Faux : le HHV-8 est un Gammaherpesvirinae, pas un Betaherpesvirinae."
+  ]
+ },
+ {
+  "q": "Au sujet des pathologies associées au HHV-8, quelles affirmations sont correctes ?",
+  "options": [
+   "La maladie de Castleman est associée au HHV-8.",
+   "Le HHV-8 est responsable de la roséole infantile.",
+   "La maladie de Kaposi est associée au HHV-8.",
+   "Les lymphomes des séreuses sont associés au HHV-8.",
+   "Le HHV-8 a un potentiel oncogène."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la maladie de Castleman est liée au HHV-8.",
+   "Faux : la roséole infantile est due au HHV-6.",
+   "Vrai : la maladie de Kaposi est liée au HHV-8.",
+   "Vrai : les lymphomes des séreuses sont associés au HHV-8.",
+   "Vrai : le HHV-8 est un Gammaherpesvirinae oncogène."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant la transmission du HHV-8 sont exactes ?",
+  "options": [
+   "Le HHV-8 peut se transmettre par greffe d'organes.",
+   "Le HHV-8 peut se transmettre par transfusion sanguine.",
+   "Le réservoir du HHV-8 est humain.",
+   "Le HHV-8 n'est pas ubiquitaire.",
+   "Le HHV-8 est un virus ubiquitaire à transmission aérienne."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la greffe/transplantation d'organes transmet le HHV-8.",
+   "Vrai : la transfusion sanguine transmet le HHV-8.",
+   "Vrai : le réservoir des herpèsvirus humains est l'homme.",
+   "Vrai : le HHV-8 fait exception à l'ubiquité.",
+   "Faux : le HHV-8 n'est ni ubiquitaire ni à transmission aérienne."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent au pouvoir oncogène des Gammaherpesvirinae ?",
+  "options": [
+   "L'EBV est associé au lymphome de Burkitt et au carcinome nasopharyngé.",
+   "L'EBV et le HHV-8 sont des virus oncogènes.",
+   "Le HHV-8 est associé à la maladie de Kaposi.",
+   "Le CMV est le principal herpèsvirus oncogène.",
+   "Ils expriment des gènes viraux anti-apoptotiques."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : Burkitt et carcinome nasopharyngé sont liés à l'EBV.",
+   "Vrai : EBV et HHV-8 sont les Gammaherpesvirinae oncogènes.",
+   "Vrai : la maladie de Kaposi est liée au HHV-8.",
+   "Faux : le CMV n'est pas un virus oncogène reconnu ; ce sont EBV et HHV-8.",
+   "Vrai : l'expression de gènes anti-apoptotiques participe à l'oncogenèse."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur les Roseolovirus, lesquels sont exacts ?",
+  "options": [
+   "Le HHV-6 est responsable de la roséole infantile.",
+   "Leur transmission est salivaire.",
+   "Le genre Roseolovirus comprend les HHV-6 et HHV-7.",
+   "Le genre Roseolovirus comprend l'EBV.",
+   "Ce sont des Betaherpesvirinae."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le HHV-6 donne la roséole infantile.",
+   "Vrai : la salive transmet les HHV-6 et HHV-7.",
+   "Vrai : Roseolovirus = HHV-6A, HHV-6B, HHV-7.",
+   "Faux : l'EBV est un Lymphocryptovirus (Gammaherpesvirinae).",
+   "Vrai : les Roseolovirus sont des Betaherpesvirinae."
+  ]
+ },
+ {
+  "q": "Quels éléments exacts peut-on retenir à propos du HHV-6 chez l'immunodéprimé ?",
+  "options": [
+   "Le HHV-6 peut se réactiver chez l'immunodéprimé.",
+   "Il peut donner une hépatite.",
+   "Il peut donner une aplasie médullaire.",
+   "Il peut donner une encéphalite.",
+   "Le HHV-6 est sans danger chez l'immunodéprimé."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'immunodépression favorise la réactivation du HHV-6.",
+   "Vrai : l'hépatite à HHV-6 est décrite.",
+   "Vrai : l'aplasie médullaire à HHV-6 est décrite.",
+   "Vrai : l'encéphalite à HHV-6 touche l'immunodéprimé.",
+   "Faux : le HHV-6 peut être grave chez l'immunodéprimé."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions vraies concernant la classification des HHV-6, 7 et 8 ?",
+  "options": [
+   "HHV-6 et HHV-7 sont des Roseolovirus (Betaherpesvirinae).",
+   "Le HHV-8 est un Rhadinovirus (Gammaherpesvirinae).",
+   "Le HHV-8 appartient au genre Lymphocryptovirus.",
+   "L'EBV et le HHV-8 sont les deux Gammaherpesvirinae humains.",
+   "Le HHV-6 est un Alphaherpesvirinae."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : HHV-6/7 = Roseolovirus, Betaherpesvirinae.",
+   "Vrai : HHV-8 = Rhadinovirus, Gammaherpesvirinae.",
+   "Faux : le Lymphocryptovirus est le genre de l'EBV, pas du HHV-8.",
+   "Vrai : EBV et HHV-8 sont les Gammaherpesvirinae humains.",
+   "Faux : le HHV-6 est un Betaherpesvirinae."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant les indications du diagnostic virologique des Herpesviridae ?",
+  "options": [
+   "Le suivi des greffés et transplantés n'est jamais une indication.",
+   "La détermination du statut immunitaire en est une indication.",
+   "L'embryo-fœtopathie ou un contexte évocateur chez le nouveau-né en est une indication.",
+   "Les formes bénignes comme l'herpès labial en sont l'indication majeure.",
+   "Le diagnostic virologique est systématique devant tout herpès labial bénin."
+  ],
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : le suivi des greffés et transplantés est une indication du diagnostic.",
+   "Vrai : la détermination du statut immunitaire est une indication.",
+   "Vrai : l'embryo-fœtopathie et le contexte néonatal évocateur sont des indications.",
+   "Faux : ce sont les formes graves qui justifient le diagnostic, pas l'herpès labial bénin.",
+   "Faux : le diagnostic n'est pas systématique, il est justifié par la gravité ou le contexte."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les autres indications diagnostiques, lesquelles sont exactes ?",
+  "options": [
+   "L'exploration d'un processus tumoral est une indication (EBV).",
+   "Les formes résistantes aux antiviraux sont une indication.",
+   "Aucune indication diagnostique n'existe pour les Herpesviridae.",
+   "Le syndrome mononucléosique est une indication du diagnostic EBV/CMV.",
+   "Les formes récidivantes d'herpès génital (HSV-2) sont une indication."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'exploration tumorale (ex. carcinome nasopharynx) est indiquée.",
+   "Vrai : les formes résistantes aux antiviraux justifient le diagnostic.",
+   "Faux : de nombreuses indications diagnostiques existent.",
+   "Vrai : le syndrome mononucléosique justifie le diagnostic (EBV, CMV).",
+   "Vrai : l'herpès génital récidivant (HSV-2) est une indication."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet des prélèvements pour le HSV et le VZV ?",
+  "options": [
+   "Les lésions vésiculaires sont de bons prélèvements.",
+   "Les prélèvements peuvent être conservés à température ambiante pendant plusieurs jours.",
+   "L'humeur aqueuse, la salive et les sécrétions génitales sont des prélèvements possibles.",
+   "Le sang peut être prélevé.",
+   "Le LCR est un prélèvement adapté (encéphalite)."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les vésicules sont le prélèvement de choix du diagnostic direct.",
+   "Faux : transport rapide, conservation entre 2 et 6 °C ou à -20 °C, pas à température ambiante.",
+   "Vrai : humeur aqueuse, salive, sécrétions génitales sont possibles.",
+   "Vrai : le sang est un prélèvement adapté.",
+   "Vrai : le LCR est prélevé devant une encéphalite herpétique."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements pour le CMV et l'EBV, quelles sont les propositions exactes ?",
+  "options": [
+   "Le liquide amniotique est adapté au diagnostic du CMV congénital.",
+   "Pour l'EBV : sang, biopsies, LCR.",
+   "Les urines sont un prélèvement de choix pour le CMV du nouveau-né.",
+   "Le seul prélèvement possible pour l'EBV est le LCR.",
+   "Pour le CMV : sang, urines, LCR, LBA, biopsies, humeur aqueuse, liquide amniotique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le liquide amniotique sert au diagnostic anténatal du CMV.",
+   "Vrai : sang, biopsies et LCR sont prélevés pour l'EBV.",
+   "Vrai : les urines du nouveau-né sont classiquement prélevées pour le CMV.",
+   "Faux : sang, biopsies et LCR sont possibles pour l'EBV, pas seulement le LCR.",
+   "Vrai : ces prélèvements sont adaptés au diagnostic du CMV."
+  ]
+ },
+ {
+  "q": "Au sujet du diagnostic direct des Herpesviridae, quelles affirmations sont correctes ?",
+  "options": [
+   "L'isolement viral sur culture cellulaire en fait partie.",
+   "Il met en évidence la présence du virus.",
+   "La détection du génome viral par PCR en fait partie.",
+   "La sérologie IgG en est la technique de référence.",
+   "La détection immunologique des antigènes (ELISA, IF) en fait partie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'isolement sur culture cellulaire est un diagnostic direct.",
+   "Vrai : le diagnostic direct met en évidence l'agent infectieux.",
+   "Vrai : la PCR détecte le génome viral (diagnostic direct).",
+   "Faux : la sérologie IgG est un diagnostic indirect.",
+   "Vrai : la détection d'antigènes (ELISA, IF) est un diagnostic direct."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant la PCR dans le diagnostic des Herpesviridae sont exactes ?",
+  "options": [
+   "La PCR détecte les anticorps anti-herpétiques.",
+   "Le LCR en est une indication majeure.",
+   "Elle est moins sensible que la culture.",
+   "La PCR quantitative n'a aucun intérêt chez les greffés.",
+   "La PCR recherche l'ADN viral."
+  ],
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : la PCR détecte le génome, pas les anticorps (sérologie).",
+   "Vrai : le LCS/LCR est une indication majeure de la PCR.",
+   "Faux : la PCR est plus sensible que la culture.",
+   "Faux : la PCR quantitative a transformé le diagnostic et le suivi du CMV chez les greffés.",
+   "Vrai : la PCR recherche l'ADN viral (biologie moléculaire)."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent au diagnostic indirect des Herpesviridae ?",
+  "options": [
+   "Il apprécie le statut immunitaire.",
+   "Il explore le syndrome mononucléosique ou tumoral (EBV).",
+   "Il est utile pour le couple donneur/receveur en transplantation.",
+   "Il met en évidence le virus dans les vésicules.",
+   "Il a un intérêt dans la primo-infection."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le diagnostic indirect détermine le statut immunitaire.",
+   "Vrai : exploration du syndrome mononucléosique ou tumoral (EBV).",
+   "Vrai : le couple donneur/receveur est exploré avant don d'organes.",
+   "Faux : la mise en évidence du virus dans les vésicules est un diagnostic direct.",
+   "Vrai : il a un intérêt dans la primo-infection (IgM, séroconversion)."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur les techniques sérologiques, lesquels sont exacts ?",
+  "options": [
+   "L'ELISA et les techniques apparentées sont utilisées.",
+   "L'immunochromatographie est utilisée.",
+   "Le MNI test est une réaction d'agglutination.",
+   "L'immunofluorescence est utilisée.",
+   "La PCR est une technique sérologique."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'ELISA et apparentés servent au diagnostic indirect.",
+   "Vrai : l'immunochromatographie est utilisée.",
+   "Vrai : le MNI test est une agglutination (Ac hétérophiles).",
+   "Vrai : l'IF est une technique immunologique utilisée.",
+   "Faux : la PCR est de la biologie moléculaire, pas une sérologie."
+  ]
+ },
+ {
+  "q": "Quels éléments exacts peut-on retenir à propos des IgM anti-herpétiques ?",
+  "options": [
+   "Elles peuvent s'observer lors de réinfections.",
+   "Elles peuvent être présentes lors d'une réactivation endogène.",
+   "Leur présence affirme à coup sûr une primo-infection.",
+   "Leur présence peut signer une primo-infection.",
+   "Des réactions croisées sont possibles."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les réinfections peuvent s'accompagner d'IgM.",
+   "Vrai : IgM et réplication virale existent aussi dans les réactivations.",
+   "Faux : les IgM sont prises à défaut en dehors de la primo-infection.",
+   "Vrai : les IgM peuvent signer une primo-infection.",
+   "Vrai : des réactivités croisées sont possibles."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions vraies concernant les IgG anti-herpétiques ?",
+  "options": [
+   "Leur présence signe un contact ancien avec le virus.",
+   "Elles permettent de déterminer le statut immunitaire.",
+   "La séroconversion ou l'ascension de leur taux signe une primo-infection.",
+   "L'avidité des IgG permet de dater l'infection.",
+   "Leur présence exclut toute réactivation ultérieure."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les IgG signent un contact ancien avec le virus.",
+   "Vrai : les IgG déterminent le statut immunitaire (donneur, grossesse…).",
+   "Vrai : séroconversion ou ascension des IgG = primo-infection.",
+   "Vrai : l'avidité des IgG permet de dater l'infection.",
+   "Faux : le virus latent peut se réactiver malgré la présence d'IgG."
+  ]
+ },
+ {
+  "q": "À propos des limites du diagnostic sérologique, quelles sont les réponses exactes ?",
+  "options": [
+   "Le diagnostic sérologique est rétrospectif.",
+   "L'avidité des IgG aide à dater l'infection.",
+   "La sérologie permet toujours d'incriminer le virus dans la pathologie.",
+   "L'interprétation des IgM est délicate en dehors d'une primo-infection.",
+   "Les réactivations rendent difficile l'interprétation des résultats virologiques."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la sérologie est un diagnostic rétrospectif.",
+   "Vrai : l'avidité des IgG date l'infection.",
+   "Faux : l'incrimination du virus reste problématique lors des réactivations.",
+   "Vrai : les IgM sont prises à défaut hors primo-infection.",
+   "Vrai : la fréquence des réactivations complique l'interprétation."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sur le diagnostic de l'encéphalite herpétique sont correctes ?",
+  "options": [
+   "C'est une indication majeure du diagnostic virologique.",
+   "Le diagnostic repose sur la sérologie IgG sérique.",
+   "Le prélèvement de choix est le LCR.",
+   "La PCR est plus sensible que la culture.",
+   "La PCR peut être uniplex ou multiplex (HSV-1/2 et VZV)."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la méningo-encéphalite est une indication majeure (+++).",
+   "Faux : le diagnostic est direct (PCR du LCR), pas sérologique.",
+   "Vrai : le LCR est le prélèvement de l'encéphalite herpétique.",
+   "Vrai : la PCR est plus sensible que la culture.",
+   "Vrai : la PCR temps réel uniplex ou multiplex (HSV-1/2, VZV) est utilisée."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le diagnostic du CMV chez l'immunodéprimé ?",
+  "options": [
+   "Le sang est un prélèvement de suivi adapté.",
+   "La culture virale est plus sensible que la PCR.",
+   "La sérologie ne sert qu'à déterminer le statut immunitaire pré-greffe.",
+   "Elle permet le suivi des greffés et transplantés.",
+   "La PCR quantitative détecte et quantifie l'ADN viral."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le sang est le prélèvement de suivi.",
+   "Faux : la PCR est plus sensible que la culture.",
+   "Vrai : la sérologie n'a d'intérêt que pour le statut pré-greffe.",
+   "Vrai : elle a transformé le suivi des greffés/transplantés.",
+   "Vrai : la PCR quantitative détecte et quantifie l'ADN du CMV."
+  ]
+ },
+ {
+  "q": "Concernant la synthèse intrathécale d'anticorps, quelles sont les propositions exactes ?",
+  "options": [
+   "La synthèse intrathécale d'anticorps spécifiques a un intérêt diagnostique.",
+   "La synthèse intra-oculaire d'anticorps est aussi recherchée.",
+   "Elle est recherchée dans le LCR.",
+   "Elle concerne les infections neurologiques herpétiques.",
+   "Elle n'a aucun intérêt en virologie."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la synthèse intrathécale d'Ac spécifiques est un intérêt du diagnostic indirect.",
+   "Vrai : la synthèse intra-oculaire est également recherchée.",
+   "Vrai : elle est recherchée dans le LCR.",
+   "Vrai : elle concerne les atteintes neurologiques et oculaires.",
+   "Faux : c'est un apport reconnu du diagnostic indirect."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le diagnostic de la MNI, lesquelles sont exactes ?",
+  "options": [
+   "Le MNI test est très sensible et spécifique de l'EBV.",
+   "Le MNI test détecte des anticorps hétérophiles.",
+   "Les sérologies EBV spécifiques (VCA, EBNA) ont remplacé le MNI test.",
+   "La NFS montre un syndrome mononucléosique.",
+   "Le diagnostic d'une MNI est une indication du diagnostic EBV."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le MNI test manque de sensibilité et n'est pas spécifique.",
+   "Vrai : le MNI test détecte les Ac hétérophiles.",
+   "Vrai : les sérologies spécifiques ont remplacé le MNI test.",
+   "Vrai : hyperleucocytose, hyperlymphocytose, lymphocytes atypiques ≥10 %.",
+   "Vrai : le diagnostic de MNI/syndrome mononucléosique est une indication."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet des difficultés d'interprétation ?",
+  "options": [
+   "Des IgM peuvent exister en dehors d'une primo-infection.",
+   "La fréquence des réactivations complique l'interprétation.",
+   "L'interprétation virologique est toujours univoque.",
+   "Les réactivations peuvent être symptomatiques ou non.",
+   "L'incrimination du virus dans la pathologie peut être problématique."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : IgM et réplication existent aussi dans les réactivations.",
+   "Vrai : les réactivations fréquentes compliquent l'interprétation.",
+   "Faux : l'interprétation est souvent délicate, jamais toujours univoque.",
+   "Vrai : les réactivations sont symptomatiques ou asymptomatiques.",
+   "Vrai : l'incrimination du virus dans la pathologie pose problème."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant le diagnostic direct par culture sont exactes ?",
+  "options": [
+   "Elle est la technique de choix pour le LCR.",
+   "La culture est plus sensible que la PCR pour l'encéphalite herpétique.",
+   "Elle met en évidence la présence du virus.",
+   "L'isolement viral sur culture cellulaire est un diagnostic direct.",
+   "La culture est moins sensible que la PCR."
+  ],
+  "correct": [
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la PCR est la technique de choix pour le LCR.",
+   "Faux : la PCR est plus sensible que la culture.",
+   "Vrai : le diagnostic direct met en évidence le virus.",
+   "Vrai : l'isolement sur culture cellulaire est un diagnostic direct.",
+   "Vrai : la PCR est plus sensible que la culture."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le traitement symptomatique des infections herpétiques ?",
+  "options": [
+   "Les antipyrétiques peuvent être utilisés.",
+   "Les antiseptiques locaux peuvent être utilisés.",
+   "Les antibiotiques sont indiqués en cas de surinfection bactérienne.",
+   "Les antiviraux éradiquent le virus latent.",
+   "Les antalgiques peuvent être utilisés."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les antipyrétiques font partie du traitement symptomatique.",
+   "Vrai : les antiseptiques locaux sont utilisés.",
+   "Vrai : les antibiotiques traitent la surinfection bactérienne.",
+   "Faux : les antiviraux n'éradiquent pas le virus latent.",
+   "Vrai : le traitement symptomatique comprend les antalgiques."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les antiviraux anti-herpétiques, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des inhibiteurs de l'ADN polymérase virale.",
+   "L'aciclovir et le valaciclovir sont des analogues nucléosidiques de la guanosine.",
+   "Ils éradiquent l'infection latente.",
+   "Ils n'agissent que sur le virus en réplication.",
+   "Ils sont indiqués dans les formes graves et/ou récidivantes."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : les principales molécules inhibent l'ADN polymérase virale.",
+   "Vrai : analogues nucléosidiques (guanosine) pour HSV et VZV.",
+   "Faux : la latence est inaccessible aux antiviraux.",
+   "Vrai : actifs sur les virus en réplication uniquement.",
+   "Vrai : formes graves de primo-infection et/ou récidivantes."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet de l'aciclovir ?",
+  "options": [
+   "Il agit en inhibant la thymidine kinase cellulaire.",
+   "Il a été introduit en 1950.",
+   "Sa première étape d'activation nécessite la thymidine kinase cellulaire.",
+   "Il est ensuite phosphorylé par les kinases cellulaires.",
+   "C'est un analogue de la désoxyguanosine."
+  ],
+  "correct": [
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : il inhibe l'ADN polymérase virale après activation, pas la TK cellulaire.",
+   "Faux : l'aciclovir a été introduit en 1980, pas en 1950.",
+   "Faux : la 1ère étape nécessite la thymidine kinase virale, pas cellulaire.",
+   "Vrai : les kinases cellulaires le phosphorylent en bi- puis tri-phosphate.",
+   "Vrai : analogue de la désoxyguanosine (désoxyribose modifié)."
+  ]
+ },
+ {
+  "q": "Concernant le mode d'action de l'aciclovir triphosphate, quelles sont les propositions exactes ?",
+  "options": [
+   "Il s'intègre dans la chaîne d'ADN en extension.",
+   "Il est reconnu préférentiellement par l'ADN polymérase virale.",
+   "Les exonucléases sont incapables de l'exciser une fois intégré.",
+   "Il provoque l'arrêt de l'élongation de l'ADN.",
+   "Il stimule la réplication de l'ADN viral."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : intégré dans la chaîne en extension à la place d'une désoxyguanosine.",
+   "Vrai : reconnaissance préférentielle par l'ADN polymérase virale.",
+   "Vrai : nucléoside « sans main », les exonucléases ne peuvent l'exciser.",
+   "Vrai : l'arrêt de l'élongation bloque la réplication virale.",
+   "Faux : il bloque la réplication, il ne la stimule pas."
+  ]
+ },
+ {
+  "q": "Au sujet de la sélectivité de l'aciclovir, quelles affirmations sont correctes ?",
+  "options": [
+   "La thymidine kinase virale a une forte affinité pour l'aciclovir.",
+   "Il est pratiquement dénué de toxicité pour la cellule infectée.",
+   "Les kinases cellulaires ont une faible affinité pour l'aciclovir.",
+   "Il est très toxique pour les cellules non infectées.",
+   "Les ADN polymérases cellulaires ont une faible affinité pour l'aciclovir triphosphate."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : forte affinité de la TK virale pour l'aciclovir.",
+   "Vrai : pratiquement dénué de toxicité, utilisable à dose élevée et au long cours.",
+   "Vrai : faible affinité des kinases cellulaires.",
+   "Faux : sa sélectivité épargne les cellules non infectées.",
+   "Vrai : faible affinité des ADN polymérases cellulaires pour la forme triphosphate."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant le valaciclovir sont exactes ?",
+  "options": [
+   "C'est un ester de ganciclovir et de valine.",
+   "Il a une moins bonne biodisponibilité orale que l'aciclovir.",
+   "Il est administré par voie orale.",
+   "C'est l'antiviral de référence du CMV.",
+   "C'est un promédicament de l'aciclovir."
+  ],
+  "correct": [
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : le valaciclovir est un ester d'aciclovir et de valine.",
+   "Faux : le valaciclovir a une meilleure biodisponibilité orale que l'aciclovir.",
+   "Vrai : administré par voie orale.",
+   "Faux : l'antiviral du CMV est le ganciclovir, pas le valaciclovir.",
+   "Vrai : le valaciclovir est le promédicament de l'aciclovir."
+  ]
+ },
+ {
+  "q": "Quelles propositions exactes s'appliquent à la résistance à l'aciclovir ?",
+  "options": [
+   "On la suspecte devant l'absence d'amélioration clinique.",
+   "On la suspecte devant l'absence de diminution de la charge virale.",
+   "Elle est impossible car l'aciclovir n'induit jamais de résistance.",
+   "Elle est liée à des mutations, notamment de la thymidine kinase virale.",
+   "Elle est moins fréquente que pour les virus à ARN mais possible."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'absence d'amélioration clinique fait suspecter la résistance.",
+   "Vrai : l'absence de diminution de la charge virale fait suspecter la résistance.",
+   "Faux : la résistance à l'aciclovir est possible par mutation.",
+   "Vrai : les mutations (TK virale) causent la résistance.",
+   "Vrai : moins fréquente qu'avec les virus à ARN, mais possible."
+  ]
+ },
+ {
+  "q": "Parmi les énoncés suivants sur le foscarnet et le cidofovir, lesquels sont exacts ?",
+  "options": [
+   "Ils sont actifs sur le HSV.",
+   "Ils sont actifs sur le VZV.",
+   "Ils sont actifs sur le CMV.",
+   "Ils nécessitent l'action de la thymidine kinase virale.",
+   "Ils sont indiqués en cas de résistance à l'aciclovir."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : actifs sur le HSV.",
+   "Vrai : actifs sur le VZV.",
+   "Vrai : actifs sur le CMV.",
+   "Faux : ils n'ont pas besoin de la TK virale, d'où leur intérêt en cas de résistance.",
+   "Vrai : foscarnet et cidofovir sont les alternatives en cas de résistance à l'aciclovir."
+  ]
+ },
+ {
+  "q": "Quels éléments exacts peut-on retenir à propos du ganciclovir ?",
+  "options": [
+   "C'est le traitement des infections à CMV.",
+   "Il est toxique pour la lignée spermatique.",
+   "C'est l'antiviral de première intention du HSV.",
+   "Il est actif aussi sur le HSV.",
+   "Il est toxique pour les cellules de la moelle osseuse."
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : le ganciclovir est le traitement du CMV.",
+   "Vrai : toxicité sur la lignée spermatique.",
+   "Faux : l'antiviral de 1ère intention du HSV est l'aciclovir.",
+   "Vrai : il est actif sur le HSV, même s'il est le traitement du CMV.",
+   "Vrai : toxicité médullaire du ganciclovir."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions vraies concernant le valganciclovir ?",
+  "options": [
+   "Il est utilisé dans les infections à CMV.",
+   "Il est prescrit par voie orale.",
+   "C'est l'ester de valine du ganciclovir.",
+   "Il est dénué de toxicité médullaire.",
+   "C'est l'ester de valine de l'aciclovir."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : utilisé contre le CMV.",
+   "Vrai : prescrit par voie orale.",
+   "Vrai : le valganciclovir est l'ester de valine du ganciclovir.",
+   "Faux : comme le ganciclovir, il a une toxicité médullaire.",
+   "Faux : l'ester de valine de l'aciclovir est le valaciclovir."
+  ]
+ },
+ {
+  "q": "À propos de la vaccination anti-herpétique, quelles sont les réponses exactes ?",
+  "options": [
+   "Le vaccin anti-varicelle est un vaccin vivant atténué.",
+   "Il existe un vaccin anti-zona.",
+   "Le seul vaccin disponible concerne le HSV-2.",
+   "Il existe un vaccin contre le HSV-1 et le HSV-2.",
+   "La souche vaccinale est la souche Sabin."
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : vaccins vivants atténués anti-varicelle et anti-zona.",
+   "Vrai : un vaccin anti-zona existe.",
+   "Faux : le seul vaccin anti-herpétique disponible concerne le VZV.",
+   "Faux : aucun vaccin n'existe contre le HSV.",
+   "Faux : la souche vaccinale est la souche Oka (Sabin est la souche du vaccin polio oral)."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces affirmations sur la prise en charge globale des infections herpétiques sont correctes ?",
+  "options": [
+   "L'aciclovir est l'antiviral de première intention pour HSV et VZV.",
+   "Les antiviraux actuels permettent d'éradiquer le virus latent.",
+   "Le ganciclovir est l'antiviral de référence pour le CMV.",
+   "Le traitement est d'abord symptomatique selon la clinique.",
+   "Les antiviraux sont réservés aux formes graves et/ou récidivantes."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'aciclovir est la 1ère intention pour HSV et VZV.",
+   "Faux : aucun antiviral n'éradique la latence.",
+   "Vrai : le ganciclovir est la référence pour le CMV.",
+   "Vrai : traitement symptomatique (antalgiques, antipyrétiques, antiseptiques…).",
+   "Vrai : antiviraux pour les formes graves de primo-infection et/ou récidivantes."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant la séroconversion après primo-infection à HSV-1 ?",
+  "options": [
+   "La réponse immunitaire locale et générale aboutit à la guérison.",
+   "La séroconversion n'empêche pas l'établissement de la latence.",
+   "Des anticorps apparaissent (séroconversion).",
+   "La présence d'IgG anti-HSV-1 signe un contact ancien avec le virus.",
+   "Le virus est totalement éliminé après la séroconversion."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la réponse immunitaire locale et générale aboutit à la guérison.",
+   "Vrai : malgré l'immunité, le virus établit sa latence dans le ganglion de Gasser.",
+   "Vrai : l'apparition d'anticorps (séroconversion) suit la primo-infection.",
+   "Vrai : les IgG signent un contact ancien avec le virus.",
+   "Faux : le virus persiste à vie à l'état latent malgré la séroconversion."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'herpès labial, lesquelles sont exactes ?",
+  "options": [
+   "Les récurrences sont déclenchées par la fièvre, le stress ou l'immunodépression.",
+   "Chaque poussée est plus grave que la primo-infection.",
+   "L'excrétion virale asymptomatique est possible entre les poussées.",
+   "Le bouquet de vésicules siège à la jonction peau-muqueuse buccale.",
+   "C'est la récurrence typique du HSV-1."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : fièvre, stress, immunodépression déclenchent les réactivations.",
+   "Faux : les récurrences sont plus limitées que la primo-infection.",
+   "Vrai : des excrétions salivaires asymptomatiques sont décrites.",
+   "Vrai : bouquet de vésicules à la jonction peau-muqueuse, bord des lèvres.",
+   "Vrai : l'herpès labial récidivant est la récurrence caractéristique du HSV-1."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet du HSV-1 et de l'œil ?",
+  "options": [
+   "Le HSV-1 ne peut jamais atteindre l'œil.",
+   "Le HSV-1 infecte la muqueuse oculaire.",
+   "La synthèse intra-oculaire d'anticorps spécifiques a un intérêt diagnostique.",
+   "L'humeur aqueuse est un prélèvement adapté au diagnostic.",
+   "La kératite herpétique est une forme grave chez l'immunocompétent."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : la kératite herpétique est une atteinte oculaire classique du HSV-1.",
+   "Vrai : le HSV-1 infecte la muqueuse oculaire.",
+   "Vrai : la synthèse intra-oculaire d'Ac spécifiques est recherchée.",
+   "Vrai : l'humeur aqueuse est prélevée pour le diagnostic direct.",
+   "Vrai : la kératite herpétique est une forme grave chez l'immunocompétent."
+  ]
+ },
+ {
+  "q": "Quelles sont les propositions exactes concernant le diagnostic sérologique de l'herpès génital ?",
+  "options": [
+   "Les IgM affirment à coup sûr une primo-infection en toute circonstance.",
+   "La séroconversion ou l'ascension des IgG confirme une primo-infection.",
+   "Les IgM peuvent aussi s'observer lors des réactivations.",
+   "L'avidité des IgG aide à dater l'infection.",
+   "La présence d'IgM peut signer une primo-infection génitale."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : les IgM sont prises à défaut en dehors de la primo-infection.",
+   "Vrai : séroconversion ou ascension des IgG = primo-infection.",
+   "Vrai : IgM et réplication virale existent aussi dans les réactivations.",
+   "Vrai : l'avidité des IgG permet de dater l'infection.",
+   "Vrai : les IgM peuvent signer une primo-infection génitale."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la prise en charge de l'herpès génital récidivant, lesquelles sont exactes ?",
+  "options": [
+   "L'aciclovir ou le valaciclovir est le traitement de référence.",
+   "Le traitement n'éradique pas la latence ganglionnaire sacrée.",
+   "Le diagnostic virologique est indiqué devant les formes récidivantes.",
+   "En cas de résistance, le foscarnet est une alternative.",
+   "Un traitement antiviral bien conduit empêche toute récidive ultérieure."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : (val)aciclovir est l'antiviral de 1ère intention.",
+   "Vrai : aucun traitement n'éradique le virus latent des ganglions sacrés.",
+   "Vrai : les formes récidivantes d'herpès génital justifient le diagnostic.",
+   "Vrai : foscarnet et cidofovir sont actifs en cas de résistance.",
+   "Faux : les récidives restent possibles, la latence persiste à vie."
+  ]
+ },
+ {
+  "q": "Quelles sont les affirmations correctes au sujet du HSV-2 et du système nerveux ?",
+  "options": [
+   "Sa latence est neuronale dans les ganglions sacrés.",
+   "L'encéphalite nécrosante à HSV-2 est la forme neurologique la plus fréquente.",
+   "Le HSV-2 est dermo-neurotrope.",
+   "Le LCR est le prélèvement du diagnostic direct devant une atteinte neurologique.",
+   "La méningite bénigne de Mollaret complique ses réactivations."
+  ],
+  "correct": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la latence du HSV-2 est neuronale (ganglions sacrés).",
+   "Faux : l'encéphalite herpétique nécrosante est due au HSV-1, pas au HSV-2.",
+   "Vrai : le HSV-2 est dermo-neurotrope.",
+   "Vrai : la PCR du LCR fait le diagnostic des atteintes neurologiques.",
+   "Vrai : la méningite de Mollaret est liée aux réactivations à HSV-2."
+  ]
+ },
+ {
+  "q": "Lesquelles de ces propositions concernant le diagnostic anténatal des infections herpétiques sont exactes ?",
+  "options": [
+   "Le diagnostic anténatal n'a aucun intérêt en virologie.",
+   "Le statut sérologique de la femme enceinte guide la conduite à tenir.",
+   "L'avidité des IgG aide à dater une infection pendant la grossesse.",
+   "Le liquide amniotique est un prélèvement adapté pour le CMV et le VZV.",
+   "L'embryo-fœtopathie est une indication du diagnostic virologique."
+  ],
+  "correct": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": [
+   "Faux : le diagnostic anténatal a un intérêt majeur (CMV, VZV).",
+   "Vrai : le statut immunitaire de la femme enceinte est déterminé.",
+   "Vrai : l'avidité des IgG permet de dater l'infection.",
+   "Vrai : le liquide amniotique est prélevé pour le CMV et le VZV.",
+   "Vrai : l'embryo-fœtopathie est une indication diagnostique."
+  ]
+ }
+]

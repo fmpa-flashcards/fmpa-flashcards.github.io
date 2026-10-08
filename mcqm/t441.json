@@ -1,0 +1,4537 @@
+[
+ {
+  "q": "Concernant la taxonomie de Treponema pallidum, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il appartient à l'ordre des Spirochaetales",
+   "Il appartient à la famille des Spirochaetaceae",
+   "Il appartient à l'ordre des Spirillales",
+   "Il appartient à la famille des Treponemataceae",
+   "Le genre Treponema fait partie des spirochètes"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : l'ordre des Spirochaetales regroupe les spirochètes.",
+   "Vrai : la famille des Spirochaetaceae inclut le genre Treponema.",
+   "Faux : les Spirillales sont un autre ordre bactérien.",
+   "Faux : la famille est les Spirochaetaceae, pas les Treponemataceae.",
+   "Vrai : Treponema est l'un des trois genres de spirochètes d'intérêt médical."
+  ]
+ },
+ {
+  "q": "Parmi les genres de spirochètes d'intérêt médical, lesquels sont exacts ?",
+  "options": [
+   "Borrelia",
+   "Leptospira",
+   "Treponema",
+   "Bartonella",
+   "Rickettsia"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : Borrelia est un genre de spirochète d'intérêt médical.",
+   "Vrai : Leptospira est un genre de spirochète d'intérêt médical.",
+   "Vrai : Treponema est un genre de spirochète d'intérêt médical.",
+   "Faux : Bartonella n'est pas un spirochète.",
+   "Faux : Rickettsia n'est pas un spirochète."
+  ]
+ },
+ {
+  "q": "À propos de la morphologie de Treponema pallidum, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un bacille très fin spiralé à spires régulières et serrées",
+   "Les spires sont au nombre de 6 à 12",
+   "Ses dimensions sont de 6 à 15 µm de long sur 0,1 à 0,2 µm de large",
+   "Ses extrémités sont effilées",
+   "Il présente des spires irrégulières et lâches"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : bacille très fin spiralé, spires régulières serrées.",
+   "Vrai : 6 à 12 spires régulières.",
+   "Vrai : 6-15 µm de longueur pour 0,1-0,2 µm de largeur.",
+   "Vrai : extrémités effilées caractéristiques.",
+   "Faux : les spires sont régulières et serrées, non irrégulières."
+  ]
+ },
+ {
+  "q": "Concernant la coloration de Treponema pallidum, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il prend mal le Gram, d'où le nom de T. pallidum",
+   "Le nom « pallidum » traduit sa faible affinité tinctoriale",
+   "C'est un bacille à Gram positif franc",
+   "Il est observable au microscope à fond noir",
+   "La coloration de Fontana-Tribondeau est une imprégnation argentique utilisable pour sa mise en évidence"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : il prend mal le Gram, d'où « pallidum ».",
+   "Vrai : « pallidum » signifie pâle, lié à sa mauvaise coloration.",
+   "Faux : il prend mal le Gram, ce n'est pas un Gram positif franc.",
+   "Vrai : il est observable au microscope à fond noir.",
+   "Vrai : l'imprégnation argentique (Fontana-Tribondeau) fait partie des trois procédures de mise en évidence."
+  ]
+ },
+ {
+  "q": "Concernant la mobilité de Treponema pallidum, quelles propositions sont exactes ?",
+  "options": [
+   "Mobilité en pas de vis",
+   "Mobilité pendulaire",
+   "C'est une bactérie immobile",
+   "Mobilité par ondulations",
+   "Mobilité assurée par des flagelles externes en touffe polaire"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : mobilité caractéristique en pas de vis.",
+   "Vrai : mobilité pendulaire également décrite.",
+   "Faux : c'est une bactérie mobile.",
+   "Vrai : les spirochètes se déplacent par ondulations.",
+   "Faux : pas de flagelles externes en touffe ; la mobilité est hélicoïdale."
+  ]
+ },
+ {
+  "q": "Parmi les techniques suivantes, lesquelles permettent la mise en évidence des spirochètes ?",
+  "options": [
+   "L'examen au microscope à fond noir",
+   "La coloration par imprégnation argentique",
+   "La coloration cytologique de May-Grünwald-Giemsa",
+   "La coloration de Ziehl-Neelsen à chaud",
+   "La coloration à l'auramine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'examen à fond noir est l'une des trois procédures.",
+   "Vrai : l'imprégnation argentique est l'une des trois procédures.",
+   "Vrai : la coloration MGG est l'une des trois procédures.",
+   "Faux : le Ziehl-Neelsen sert aux mycobactéries, pas aux spirochètes.",
+   "Faux : l'auramine est utilisée pour les mycobactéries."
+  ]
+ },
+ {
+  "q": "Concernant la culture de Treponema pallidum, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle est non cultivable in vitro",
+   "Elle survit quelques heures dans le milieu de Nelson",
+   "Elle pousse facilement sur gélose au sang en 24 heures",
+   "Le milieu de Nelson permet sa conservation de courte durée",
+   "Elle est cultivable sur milieu de Löwenstein-Jensen"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : Treponema pallidum n'est pas cultivable in vitro.",
+   "Vrai : survie de quelques heures dans le milieu de Nelson.",
+   "Faux : aucune culture in vitro n'est possible.",
+   "Vrai : le milieu de Nelson assure une survie brève de quelques heures.",
+   "Faux : le Löwenstein-Jensen est un milieu pour mycobactéries."
+  ]
+ },
+ {
+  "q": "Concernant la fragilité de Treponema pallidum, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Il est sensible aux antiseptiques",
+   "Il est sensible à la chaleur (42 °C)",
+   "Il est sensible au froid",
+   "Il est sensible à la dessiccation",
+   "Il résiste plusieurs semaines dans le milieu extérieur"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : fragile, sensible aux antiseptiques.",
+   "Vrai : sensible à la chaleur (42 °C).",
+   "Vrai : sensible au froid.",
+   "Vrai : sensible à la dessiccation.",
+   "Faux : c'est une bactérie fragile qui ne survit pas dans le milieu extérieur."
+  ]
+ },
+ {
+  "q": "Concernant les sous-espèces de Treponema pallidum, quelles propositions sont exactes ?",
+  "options": [
+   "T. pallidum ssp. pallidum est l'agent de la syphilis vénérienne",
+   "T. pallidum ssp. endemicum est l'agent du bejel",
+   "T. pallidum ssp. pertenue est l'agent du pian",
+   "T. pallidum ssp. pallidum est l'agent du pian",
+   "T. pallidum ne comporte aucune sous-espèce pathogène"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la sous-espèce pallidum cause la syphilis vénérienne.",
+   "Vrai : la sous-espèce endemicum cause le bejel.",
+   "Vrai : la sous-espèce pertenue cause le pian.",
+   "Faux : le pian est dû à la sous-espèce pertenue, pas pallidum.",
+   "Faux : l'espèce se divise en trois sous-espèces pathogènes."
+  ]
+ },
+ {
+  "q": "Concernant Treponema carateum et les tréponématoses non vénériennes, lesquelles sont exactes ?",
+  "options": [
+   "Treponema carateum est l'agent de la pinta (caraté)",
+   "La pinta est une tréponématose non vénérienne",
+   "Treponema carateum est l'agent de la syphilis vénérienne",
+   "Le bejel est dû à Treponema carateum",
+   "Les agents du pian, de la pinta et du bejel sont morphologiquement indistinguables de T. pallidum ssp. pallidum"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : T. carateum est l'agent de la pinta (caraté).",
+   "Vrai : la pinta est une tréponématose non vénérienne.",
+   "Faux : la syphilis vénérienne est due à T. pallidum ssp. pallidum.",
+   "Faux : le bejel est dû à T. pallidum ssp. endemicum.",
+   "Vrai : pian, pinta et bejel sont morphologiquement indistinguables de T. pallidum ssp. pallidum."
+  ]
+ },
+ {
+  "q": "Concernant les tréponématoses non vénériennes (pian, pinta, bejel), quelles affirmations sont exactes ?",
+  "options": [
+   "Elles sont morphologiquement indistinguables de T. pallidum ssp. pallidum",
+   "Elles sont sérologiquement indistinguables de T. pallidum ssp. pallidum",
+   "La contamination se fait par contact direct à partir des lésions récentes",
+   "Leur transmission est exclusivement sexuelle",
+   "Une sérologie spécifique permet de les différencier de la syphilis vénérienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : morphologiquement indistinguables de T. pallidum ssp. pallidum.",
+   "Vrai : sérologiquement indistinguables de T. pallidum ssp. pallidum.",
+   "Vrai : contamination par contact direct à partir des lésions récentes.",
+   "Faux : ce sont des tréponématoses non vénériennes, à contact direct cutané.",
+   "Faux : elles sont sérologiquement indistinguables, donc non différenciables par sérologie."
+  ]
+ },
+ {
+  "q": "À propos du cardiolipide (haptène lipidique de Wassermann), lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est l'haptène lipidique de Wassermann",
+   "Il est commun à tous les tréponèmes",
+   "Il est présent dans le foie, le cœur et les tissus humains",
+   "Les anticorps correspondants sont les réagines",
+   "C'est un antigène protéique spécifique de T. pallidum"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le cardiolipide est l'haptène lipidique de Wassermann.",
+   "Vrai : commun aux tréponèmes.",
+   "Vrai : présent dans le foie, le cœur et les tissus humains.",
+   "Vrai : les anticorps anti-cardiolipide sont les réagines.",
+   "Faux : c'est un haptène lipidique, non un antigène protéique spécifique."
+  ]
+ },
+ {
+  "q": "Concernant l'antigène protéique spécifique du genre Treponema, quelles propositions sont exactes ?",
+  "options": [
+   "C'est un antigène protéique spécifique du genre tréponème",
+   "Il est porté par les fibrilles",
+   "Il est utilisé en réaction de fixation du complément",
+   "C'est l'haptène lipidique de Wassermann",
+   "Il est spécifique de l'espèce T. pallidum"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : antigène protéique spécifique du genre tréponème.",
+   "Vrai : porté par les fibrilles.",
+   "Vrai : utilisé en réaction de fixation du complément.",
+   "Faux : l'haptène de Wassermann est le cardiolipide, antigène lipidique.",
+   "Faux : il est spécifique du genre, pas de l'espèce."
+  ]
+ },
+ {
+  "q": "Concernant l'antigène polyosidique d'enveloppe, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est un antigène polyosidique d'enveloppe spécifique de T. pallidum",
+   "Il est mis en évidence par immunofluorescence",
+   "Il est commun à tous les tréponèmes",
+   "C'est un haptène lipidique",
+   "Il est spécifique du genre et non de l'espèce"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : antigène polyosidique d'enveloppe spécifique de T. pallidum.",
+   "Vrai : mis en évidence par immunofluorescence (IF).",
+   "Faux : il est spécifique de T. pallidum, pas commun aux tréponèmes.",
+   "Faux : c'est un antigène polyosidique, non lipidique.",
+   "Faux : il est spécifique de l'espèce T. pallidum, pas du genre."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes du corps tréponémique, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des antigènes du corps tréponémique spécifiques de T. pallidum",
+   "Ils sont mis en évidence par le test de Nelson",
+   "Leur nature est mal connue",
+   "Ils sont communs aux tréponèmes saprophytes",
+   "Ils sont utilisés dans le test VDRL"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : antigènes du corps tréponémique spécifiques de T. pallidum.",
+   "Vrai : mis en évidence par le test de Nelson (immobilisation des tréponèmes).",
+   "Vrai : leur nature est mal connue.",
+   "Faux : ils sont spécifiques de T. pallidum, pas communs aux saprophytes.",
+   "Faux : le VDRL utilise l'antigène cardiolipidique, pas les antigènes du corps."
+  ]
+ },
+ {
+  "q": "Concernant les spirochètes en général, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Ce sont des bactéries flexibles à paroi mince",
+   "Elles ont une forme hélicoïdale ou spiralée",
+   "Elles comprennent des espèces saprophytes et des espèces pathogènes",
+   "Le diagnostic biologique est de difficulté variable selon les espèces",
+   "Toutes sont facilement cultivables in vitro"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : flexibles à paroi mince, morphologie caractéristique.",
+   "Vrai : forme hélicoïdale ou spiralée.",
+   "Vrai : diverses espèces saprophytes et d'autres pathogènes.",
+   "Vrai : le diagnostic biologique est de difficultés variables.",
+   "Faux : la culture est impossible (Treponema) ou difficile et longue (Leptospira, Borrelia)."
+  ]
+ },
+ {
+  "q": "Concernant l'épidémiologie des infections à spirochètes, quelles propositions sont exactes ?",
+  "options": [
+   "L'habitat des spirochètes est très variable",
+   "Il existe une multiplicité des réservoirs",
+   "L'homme est le plus souvent un hôte accidentel",
+   "L'épidémiologie de ces infections est variable",
+   "Toutes les espèces de spirochètes ont un réservoir strictement humain"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'habitat des spirochètes est très variable.",
+   "Vrai : multiplicité des réservoirs.",
+   "Vrai : l'homme est le plus souvent un hôte accidentel.",
+   "Vrai : l'épidémiologie de ces infections est variable.",
+   "Faux : c'est le cas de T. pallidum, pas de tous les spirochètes."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic biologique des spirochétoses en général, lesquelles sont exactes ?",
+  "options": [
+   "Le diagnostic est souvent sérologique (agglutination, ELISA, IFI, Western blot)",
+   "On recherche des anticorps de type IgM et/ou IgG",
+   "La PCR est devenue possible dans quelques cas",
+   "Le diagnostic repose toujours sur la culture",
+   "L'examen direct n'a aucun intérêt dans les spirochétoses"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le diagnostic est souvent sérologique.",
+   "Vrai : recherche des anticorps IgM et/ou IgG.",
+   "Vrai : la PCR est devenue possible dans quelques cas.",
+   "Faux : la culture est impossible ou difficile et longue.",
+   "Faux : l'examen direct (fond noir) garde un intérêt, notamment pour la syphilis primaire."
+  ]
+ },
+ {
+  "q": "Parmi les antibiotiques suivants, lesquels sont efficaces contre les spirochètes ?",
+  "options": [
+   "La pénicilline G",
+   "L'amoxicilline",
+   "La ceftriaxone",
+   "Les tétracyclines",
+   "Les aminosides en monothérapie comme traitement de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la pénicilline G est efficace contre les spirochètes.",
+   "Vrai : l'amoxicilline est efficace.",
+   "Vrai : la ceftriaxone est efficace.",
+   "Vrai : les tétracyclines sont efficaces.",
+   "Faux : les aminosides ne sont pas le traitement de référence des spirochétoses."
+  ]
+ },
+ {
+  "q": "Au microscope à fond noir, on observe une bactérie mobile à spires régulières et réfringentes. Quelles propositions sont exactes ?",
+  "options": [
+   "Cette description est compatible avec un tréponème",
+   "L'examen à l'état frais doit être réalisé immédiatement",
+   "Cette observation permet de différencier les tréponèmes pathogènes des saprophytes",
+   "En localisation buccale, il existe un risque de faux positif lié à T. denticola ou T. refringens",
+   "La sensibilité de cet examen peut atteindre 80 %"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : bactérie mobile à spires régulières et réfringentes = aspect de tréponème.",
+   "Vrai : l'examen à l'état frais se fait immédiatement au microscope à fond noir.",
+   "Faux : il ne différencie pas les tréponèmes pathogènes des saprophytes.",
+   "Vrai : risque de faux positif en localisation buccale ou anale (T. denticola, T. refringens).",
+   "Vrai : sensibilité variable, jusqu'à 80 %."
+  ]
+ },
+ {
+  "q": "Concernant la correspondance entre sous-espèces de T. pallidum et maladies, lesquelles sont exactes ?",
+  "options": [
+   "T. pallidum ssp. pallidum → syphilis vénérienne",
+   "T. pallidum ssp. endemicum → bejel",
+   "T. pallidum ssp. pertenue → pian",
+   "T. pallidum ssp. pertenue → pinta",
+   "T. pallidum ssp. endemicum → syphilis vénérienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ssp. pallidum = syphilis vénérienne.",
+   "Vrai : ssp. endemicum = bejel.",
+   "Vrai : ssp. pertenue = pian.",
+   "Faux : la pinta est due à T. carateum, pas à la ssp. pertenue.",
+   "Faux : la ssp. endemicum cause le bejel, pas la syphilis vénérienne."
+  ]
+ },
+ {
+  "q": "Concernant le milieu de Nelson, quelles affirmations sont exactes ?",
+  "options": [
+   "Treponema pallidum y survit quelques heures",
+   "C'est un milieu de culture permettant la multiplication de T. pallidum",
+   "Il permet une conservation de courte durée du tréponème",
+   "Il est utilisé pour la culture des mycobactéries",
+   "La survie dans ce milieu confirme que T. pallidum est cultivable in vitro"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : survie de quelques heures dans le milieu de Nelson.",
+   "Faux : T. pallidum n'est pas cultivable in vitro, il ne s'y multiplie pas.",
+   "Vrai : le milieu de Nelson permet une survie brève, donc une conservation courte.",
+   "Faux : ce n'est pas un milieu pour mycobactéries.",
+   "Faux : une simple survie de quelques heures n'équivaut pas à une culture."
+  ]
+ },
+ {
+  "q": "Concernant l'origine du nom « Treponema pallidum », lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "« Pallidum » fait référence à sa faible affinité tinctoriale",
+   "Il prend mal le Gram",
+   "Il est invisible au microscope optique classique sans artifice",
+   "Il est mis en évidence au microscope à fond noir",
+   "« Pallidum » signifie qu'il est résistant à la dessiccation"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : « pallidum » (pâle) vient de sa mauvaise prise du Gram.",
+   "Vrai : il prend mal le Gram.",
+   "Faux : il est observable au fond noir et après imprégnation argentique ou MGG.",
+   "Vrai : observable au microscope à fond noir.",
+   "Faux : il est au contraire sensible à la dessiccation."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la mobilité des spirochètes, lesquelles sont exactes ?",
+  "options": [
+   "Les spirochètes se déplacent par ondulations",
+   "Treponema pallidum a une mobilité en pas de vis",
+   "Treponema pallidum a une mobilité pendulaire",
+   "Les spirochètes sont immobiles en milieu liquide",
+   "La mobilité s'observe à l'examen à l'état frais au fond noir"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les spirochètes se déplacent par ondulations.",
+   "Vrai : mobilité en pas de vis de T. pallidum.",
+   "Vrai : mobilité pendulaire de T. pallidum.",
+   "Faux : ce sont des bactéries mobiles.",
+   "Vrai : la mobilité (bactérie mobile à spires réfringentes) s'observe à l'état frais."
+  ]
+ },
+ {
+  "q": "Concernant les conséquences de la fragilité de T. pallidum, lesquelles sont exactes ?",
+  "options": [
+   "Le prélèvement pour examen direct doit être examiné immédiatement",
+   "La transmission nécessite un contact direct avec des lésions contagieuses",
+   "La bactérie survit longtemps sur les surfaces inertes",
+   "La dessiccation rapide limite la transmission indirecte",
+   "La chaleur à 42 °C détruit la bactérie"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : l'examen à l'état frais doit être immédiat car la bactérie est fragile.",
+   "Vrai : la fragilité impose un contact direct (lésions) pour la transmission.",
+   "Faux : sensible à la dessiccation, elle ne survit pas sur les surfaces.",
+   "Vrai : la sensibilité à la dessiccation limite la transmission indirecte.",
+   "Vrai : sensible à la chaleur (42 °C)."
+  ]
+ },
+ {
+  "q": "Parmi les affirmations suivantes sur la structure antigénique des tréponèmes, lesquelles sont exactes ?",
+  "options": [
+   "Le cardiolipide est un antigène lipidique commun aux tréponèmes",
+   "L'antigène protéique des fibrilles est spécifique du genre Treponema",
+   "L'antigène polyosidique d'enveloppe est spécifique de T. pallidum",
+   "Les antigènes du corps tréponémique sont spécifiques de T. pallidum",
+   "Tous les antigènes tréponémiques sont des haptènes lipidiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le cardiolipide (haptène lipidique) est commun aux tréponèmes.",
+   "Vrai : l'antigène protéique des fibrilles est spécifique du genre.",
+   "Vrai : l'antigène polyosidique d'enveloppe est spécifique de T. pallidum.",
+   "Vrai : les antigènes du corps tréponémique sont spécifiques de T. pallidum.",
+   "Faux : seuls le cardiolipide est lipidique ; les autres sont protéiques ou polyosidiques."
+  ]
+ },
+ {
+  "q": "Concernant les tréponèmes saprophytes, quelles propositions sont exactes ?",
+  "options": [
+   "T. denticola et T. refringens sont des tréponèmes saprophytes",
+   "Ils peuvent être à l'origine de faux positifs à l'examen à l'état frais en localisation buccale ou anale",
+   "L'immunofluorescence permet de les différencier des tréponèmes pathogènes",
+   "Ils sont responsables de la syphilis vénérienne",
+   "L'absorption du sérum par des tréponèmes saprophytes élimine des faux positifs en FTA-Abs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : T. denticola et T. refringens sont des tréponèmes saprophytes.",
+   "Vrai : l'état frais ne les différencie pas des pathogènes → faux positifs buccaux/anaux.",
+   "Vrai : l'immunofluorescence différencie pathogènes et saprophytes.",
+   "Faux : la syphilis vénérienne est due à T. pallidum ssp. pallidum.",
+   "Vrai : le FTA-Abs absorbe le sérum par des tréponèmes saprophytes pour éliminer les faux positifs."
+  ]
+ },
+ {
+  "q": "Concernant le réservoir et la transmission de la syphilis vénérienne, lesquelles sont exactes ?",
+  "options": [
+   "Le réservoir est strictement humain",
+   "La transmission sexuelle est le mode prédominant",
+   "La transmission maternofœtale est possible",
+   "La transmission sanguine est exceptionnelle",
+   "Le réservoir principal est animal avec l'homme comme hôte accidentel"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réservoir strictement humain.",
+   "Vrai : transmission sexuelle +++.",
+   "Vrai : transmission maternofœtale (vers le 4e mois).",
+   "Vrai : transmission sanguine ou par transplantation, exceptionnelle.",
+   "Faux : le réservoir est strictement humain, pas animal."
+  ]
+ },
+ {
+  "q": "Concernant la transmission maternofœtale de la syphilis, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle survient à partir du 2e trimestre de la grossesse",
+   "Le passage transplacentaire est possible dès le 2e trimestre",
+   "Elle concerne les mères présentant une syphilis active",
+   "Elle est impossible pendant la grossesse",
+   "Le dépistage prénatal systématique fait partie de la prévention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : transmission maternofœtale vers le 4e mois, donc au 2e trimestre.",
+   "Vrai : passage transplacentaire dès le 2e trimestre.",
+   "Vrai : la syphilis congénitale survient chez la mère présentant une syphilis active.",
+   "Faux : la transmission maternofœtale est bien décrite.",
+   "Vrai : le dépistage prénatal systématique est une mesure de prévention."
+  ]
+ },
+ {
+  "q": "Concernant la réceptivité à la syphilis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La réceptivité est totale",
+   "L'immunité acquise ne protège pas contre une réinfection",
+   "Une syphilis guérie confère une immunité durable",
+   "La réponse immunitaire est responsable de la disparition des symptômes",
+   "Il existe un vaccin efficace contre la syphilis"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : la réceptivité est totale.",
+   "Vrai : l'immunité acquise ne protège pas.",
+   "Faux : l'immunité acquise ne protège pas, une réinfection est possible.",
+   "Vrai : la réponse immunitaire est responsable de la disparition des symptômes.",
+   "Faux : il n'existe pas de vaccin contre la syphilis."
+  ]
+ },
+ {
+  "q": "Parmi les facteurs favorisant la recrudescence de la syphilis, lesquels sont exacts ?",
+  "options": [
+   "Les migrations",
+   "Le tourisme exotique",
+   "Les rapports non protégés",
+   "L'homosexualité (comportements à risque)",
+   "La vaccination de masse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les migrations sont un facteur favorisant cité.",
+   "Vrai : le tourisme exotique est un facteur favorisant cité.",
+   "Vrai : les rapports non protégés favorisent la recrudescence.",
+   "Vrai : facteur favorisant cité dans le cours.",
+   "Faux : il n'existe pas de vaccin contre la syphilis."
+  ]
+ },
+ {
+  "q": "Concernant les aspects épidémiologiques de la syphilis, quelles propositions sont exactes ?",
+  "options": [
+   "La syphilis reste un problème de santé publique",
+   "Elle évolue par vagues de recrudescence",
+   "Elle touche des groupes à risques",
+   "Elle a une répartition endémique",
+   "Son incidence a définitivement disparu depuis l'introduction de la pénicilline"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la syphilis reste d'actualité, problème de santé publique.",
+   "Vrai : elle évolue par vagues de recrudescence.",
+   "Vrai : groupes à risques décrits.",
+   "Vrai : aspects épidémiologiques endémiques.",
+   "Faux : l'incidence a chuté avec la pénicilline mais la maladie reste d'actualité."
+  ]
+ },
+ {
+  "q": "Concernant la physiopathologie de la syphilis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La pénétration se fait par voie muqueuse ou par effraction cutanée",
+   "Il y a multiplication locale puis diffusion sanguine et lymphatique",
+   "Les tissus cibles incluent les ganglions, la peau, les muqueuses, le foie et la rate",
+   "La multiplication est responsable des différentes phases cliniques",
+   "La bactérie reste strictement localisée au point d'inoculation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : pénétration muqueuse ou effraction cutanée.",
+   "Vrai : multiplication locale et diffusion sanguine et lymphatique.",
+   "Vrai : ganglions, peau, muqueuses, foie, rate sont des tissus cibles.",
+   "Vrai : la multiplication est responsable des différentes phases cliniques.",
+   "Faux : il y a diffusion sanguine et lymphatique, pas de localisation stricte."
+  ]
+ },
+ {
+  "q": "Concernant la gravité de la syphilis, quelles propositions sont exactes ?",
+  "options": [
+   "Elle peut entraîner des lésions cardiovasculaires",
+   "Elle peut entraîner des lésions neurologiques",
+   "La co-infection par le VIH est un facteur de gravité",
+   "La grossesse est une situation à risque (syphilis congénitale)",
+   "C'est une infection toujours bénigne et spontanément résolutive sans séquelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : lésions cardiovasculaires (aortite, anévrysme de l'aorte).",
+   "Vrai : lésions neurologiques (tabès, paralysie générale).",
+   "Vrai : la co-infection VIH est citée comme facteur de gravité.",
+   "Vrai : la grossesse expose au risque de syphilis congénitale.",
+   "Faux : la syphilis peut donner des complications viscérales graves."
+  ]
+ },
+ {
+  "q": "La syphilis vénérienne est qualifiée de « grande simulatrice ». Quelles propositions sont exactes ?",
+  "options": [
+   "Elle évolue en quatre phases successives",
+   "Les phases sont : primaire, secondaire, latente asymptomatique, tertiaire",
+   "La syphilis congénitale est une forme à part",
+   "Elle ne présente qu'une seule phase clinique",
+   "Le diagnostic est avant tout sérologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la syphilis vénérienne évolue en quatre phases successives.",
+   "Vrai : primaire, secondaire, latente asymptomatique, tertiaire.",
+   "Vrai : la syphilis congénitale est décrite à part.",
+   "Faux : quatre phases successives, pas une seule.",
+   "Vrai : le diagnostic de la syphilis est avant tout sérologique."
+  ]
+ },
+ {
+  "q": "Concernant la pénétration et la diffusion de T. pallidum, lesquelles sont exactes ?",
+  "options": [
+   "La pénétration muqueuse est une voie d'entrée",
+   "L'effraction cutanée est une voie d'entrée",
+   "La diffusion est sanguine et lymphatique",
+   "La diffusion est uniquement nerveuse",
+   "Les ganglions sont précocement atteints"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : pénétration par voie muqueuse.",
+   "Vrai : pénétration par effraction cutanée.",
+   "Vrai : diffusion sanguine et lymphatique.",
+   "Faux : la diffusion est sanguine et lymphatique, pas uniquement nerveuse.",
+   "Vrai : les ganglions font partie des tissus cibles précoces (adénopathie satellite)."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur l'histoire naturelle de la syphilis non traitée, lesquelles sont exactes ?",
+  "options": [
+   "L'incubation de la syphilis primaire est d'environ 3 semaines",
+   "La syphilis secondaire débute 2 mois à 2 ans après le contage",
+   "La syphilis latente peut durer de 2 à 20 ans",
+   "La syphilis tertiaire débute 2 à 10 ans après le début de la maladie",
+   "Toutes les phases sont systématiquement symptomatiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : incubation d'environ 3 semaines, silencieuse.",
+   "Vrai : début de la phase secondaire 2 mois à 2 ans après le contage.",
+   "Vrai : durée de la phase latente de 2 à 20 ans.",
+   "Vrai : début de la phase tertiaire 2 à 10 ans après le début de la maladie.",
+   "Faux : la phase latente est asymptomatique."
+  ]
+ },
+ {
+  "q": "Concernant la transmission sexuelle de la syphilis, quelles affirmations sont exactes ?",
+  "options": [
+   "C'est le mode de transmission prédominant",
+   "Le chancre d'inoculation est très contagieux",
+   "Les lésions cutanéo-muqueuses de la phase secondaire sont contagieuses",
+   "Le port du préservatif fait partie de la prévention",
+   "La phase latente est la phase la plus contagieuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : transmission sexuelle +++.",
+   "Vrai : le chancre est très contagieux.",
+   "Vrai : les lésions cutanéo-muqueuses secondaires sont contagieuses.",
+   "Vrai : le port du préservatif est une mesure de prévention.",
+   "Faux : la phase latente est non contagieuse."
+  ]
+ },
+ {
+  "q": "Un patient présente une syphilis primaire. Quelles propositions épidémiologiques sont exactes ?",
+  "options": [
+   "Le réservoir de l'infection est strictement humain",
+   "Une enquête autour du sujet contaminateur doit être menée",
+   "Le(s) partenaire(s) sexuel(s) doivent être dépistés et traités",
+   "L'immunité acquise après guérison protège d'une réinfection",
+   "Le traitement précoce fait partie de l'action sur le réservoir"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : réservoir strictement humain.",
+   "Vrai : traitement précoce et enquête autour du sujet contaminateur.",
+   "Vrai : l'enquête autour du sujet contaminateur implique le dépistage des partenaires.",
+   "Faux : l'immunité acquise ne protège pas, une réinfection est possible.",
+   "Vrai : le traitement précoce est une action sur le réservoir."
+  ]
+ },
+ {
+  "q": "Concernant les modes de transmission exceptionnels de la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "La transmission sanguine est exceptionnelle",
+   "La transmission par transplantation est exceptionnelle",
+   "La transmission maternofœtale est exceptionnelle",
+   "La transmission sexuelle est exceptionnelle",
+   "Le dépistage systématique des donneurs de sang fait partie de la prévention"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : transmission sanguine exceptionnelle.",
+   "Vrai : transmission par transplantation exceptionnelle.",
+   "Faux : la transmission maternofœtale est un mode reconnu (vers le 4e mois).",
+   "Faux : la transmission sexuelle est le mode prédominant, pas exceptionnel.",
+   "Vrai : dépistage systématique des donneurs de sang = mesure de prévention."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la syphilis et la grossesse, lesquelles sont exactes ?",
+  "options": [
+   "La grossesse est un facteur de gravité de la syphilis",
+   "Le passage transplacentaire est possible dès le 2e trimestre",
+   "Le dépistage prénatal systématique est recommandé",
+   "La syphilis congénitale résulte d'une syphilis maternelle active",
+   "La grossesse protège contre la transmission maternofœtale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la grossesse est citée comme facteur de gravité.",
+   "Vrai : passage transplacentaire dès le 2e trimestre.",
+   "Vrai : l'examen prénatal fait partie du dépistage systématique.",
+   "Vrai : syphilis congénitale = mère présentant une syphilis active.",
+   "Faux : la grossesse n'empêche pas la transmission maternofœtale."
+  ]
+ },
+ {
+  "q": "Concernant l'immunité dans la syphilis, quelles affirmations sont exactes ?",
+  "options": [
+   "La réceptivité est totale",
+   "L'immunité acquise ne protège pas",
+   "La réponse immunitaire est responsable de la disparition des symptômes",
+   "Les complications tertiaires sont de mécanisme immunitaire",
+   "Une infection antérieure immunise définitivement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réceptivité totale.",
+   "Vrai : l'immunité acquise ne protège pas.",
+   "Vrai : la réponse immunitaire fait disparaître les symptômes.",
+   "Vrai : les complications viscérales tertiaires sont de mécanisme immunitaire.",
+   "Faux : l'immunité acquise ne protège pas, pas d'immunité définitive."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles décrivent correctement la chaîne épidémiologique de la syphilis ?",
+  "options": [
+   "Réservoir : strictement humain",
+   "Transmission : sexuelle +++, maternofœtale, sanguine exceptionnelle",
+   "Réceptivité : totale",
+   "Vecteur : tique Ixodes obligatoire",
+   "Porte d'entrée : muqueuse ou effraction cutanée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : réservoir strictement humain.",
+   "Vrai : sexuelle +++, maternofœtale, sanguine exceptionnelle.",
+   "Vrai : réceptivité totale.",
+   "Faux : aucun vecteur tique ; la transmission est interhumaine directe.",
+   "Vrai : pénétration muqueuse ou effraction cutanée."
+  ]
+ },
+ {
+  "q": "Concernant la recrudescence actuelle de la syphilis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La syphilis reste d'actualité malgré la pénicilline",
+   "Elle évolue par vagues de recrudescence",
+   "C'est un problème de santé publique",
+   "Les rapports non protégés favorisent sa recrudescence",
+   "Elle a été éradiquée dans les pays développés"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la syphilis reste d'actualité.",
+   "Vrai : elle évolue par vagues de recrudescence.",
+   "Vrai : problème de santé publique.",
+   "Vrai : les rapports non protégés sont un facteur favorisant.",
+   "Faux : elle n'a pas été éradiquée, elle reste d'actualité."
+  ]
+ },
+ {
+  "q": "Concernant la syphilis primaire, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'incubation est d'environ 3 semaines",
+   "L'incubation est silencieuse",
+   "La durée de l'incubation dépend de la taille de l'inoculum et de l'immunité",
+   "L'incubation dure systématiquement 6 mois",
+   "La phase primaire dure 4 à 6 semaines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : incubation d'environ 3 semaines.",
+   "Vrai : incubation silencieuse.",
+   "Vrai : elle dépend de la taille de l'inoculum et de l'immunité.",
+   "Faux : l'incubation est d'environ 3 semaines, pas 6 mois.",
+   "Vrai : la phase primaire dure 4 à 6 semaines."
+  ]
+ },
+ {
+  "q": "Concernant le chancre d'inoculation syphilitique, quelles propositions sont exactes ?",
+  "options": [
+   "C'est une exulcération unique",
+   "Il est indolore",
+   "Sa base est indurée",
+   "Il est très contagieux",
+   "C'est une ulcération multiple et douloureuse à base molle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : exulcération unique.",
+   "Vrai : chancre indolore.",
+   "Vrai : base indurée caractéristique.",
+   "Vrai : le chancre est très contagieux.",
+   "Faux : unique, indolore, à base indurée (l'inverse décrit le chancre mou)."
+  ]
+ },
+ {
+  "q": "Concernant la localisation du chancre syphilitique, lesquelles sont exactes ?",
+  "options": [
+   "Localisation génitale possible",
+   "Localisation anale possible",
+   "Localisation buccale possible",
+   "Localisation exclusivement génitale",
+   "Le chancre siège au point d'inoculation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : localisation génitale décrite.",
+   "Vrai : localisation anale décrite.",
+   "Vrai : localisation buccale décrite.",
+   "Faux : les localisations sont multiples (génitale, anale, buccale…).",
+   "Vrai : le chancre d'inoculation siège au point d'inoculation."
+  ]
+ },
+ {
+  "q": "Concernant l'adénopathie satellite du chancre syphilitique, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle est unilatérale",
+   "Elle est multiple",
+   "Elle est indolore",
+   "Elle est dure",
+   "Elle est douloureuse et inflammatoire avec fistulisation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : adénopathie satellite unilatérale.",
+   "Vrai : adénopathie multiple.",
+   "Vrai : adénopathie indolore.",
+   "Vrai : adénopathie dure.",
+   "Faux : elle est indolore et dure, sans caractère inflammatoire aigu."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution du chancre syphilitique non traité, lesquelles sont exactes ?",
+  "options": [
+   "Guérison spontanée en 4 à 6 semaines",
+   "Guérison sans séquelles",
+   "La disparition du chancre signifie la guérison de l'infection",
+   "La maladie évolue ensuite vers la phase secondaire",
+   "Le chancre persiste indéfiniment sans traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : guérison spontanée du chancre en 4 à 6 semaines.",
+   "Vrai : guérison sans séquelles du chancre.",
+   "Faux : la disparition du chancre n'est pas la guérison de l'infection (évolution vers la phase secondaire).",
+   "Vrai : la maladie évolue ensuite vers la syphilis secondaire.",
+   "Faux : le chancre guérit spontanément en 4 à 6 semaines."
+  ]
+ },
+ {
+  "q": "Un patient présente une exulcération génitale unique, indolore, à base indurée avec adénopathie inguinale dure et indolore. Quelles propositions sont exactes ?",
+  "options": [
+   "Ce tableau évoque un chancre syphilitique",
+   "L'adénopathie satellite est un argument en faveur",
+   "Le caractère indolore oriente vers la syphilis plutôt que le chancre mou",
+   "Ce tableau évoque un chancre mou à Haemophilus ducreyi",
+   "Un examen direct à l'état frais au fond noir est indiqué avant tout traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : exulcération unique indolore à base indurée = chancre syphilitique.",
+   "Vrai : l'adénopathie satellite unilatérale, dure et indolore est typique.",
+   "Vrai : le chancre mou est douloureux à base molle, à l'inverse du chancre syphilitique.",
+   "Faux : le chancre mou est douloureux, à base molle, avec adénopathie inflammatoire.",
+   "Vrai : l'examen direct est indiqué en phase précoce pré-sérologique, avant ATB."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic de la syphilis primaire, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "L'examen direct a un intérêt en phase précoce pré-sérologique",
+   "La sérologie peut être négative dans les dix premiers jours du chancre",
+   "Le prélèvement se fait par raclage au vaccinostyle du centre du chancre",
+   "Les sérosités prélevées doivent être exemptes de sang",
+   "La sérologie est toujours positive dès l'apparition du chancre"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le diagnostic direct est utile en phase précoce pré-sérologique.",
+   "Vrai : phase sérologiquement muette en début d'infection (10 premiers jours).",
+   "Vrai : raclage/vaccinostyle du centre des lésions.",
+   "Vrai : prélèvement des sérosités exemptes du sang.",
+   "Faux : il existe une phase sérologiquement muette au début du chancre."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur le chancre syphilitique, lesquelles sont exactes ?",
+  "options": [
+   "Il est très contagieux",
+   "Il guérit spontanément sans séquelles en 4 à 6 semaines",
+   "Sa base indurée le distingue du chancre mou",
+   "Il s'accompagne d'une adénopathie satellite dure et indolore",
+   "Il est toujours multiple et douloureux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le chancre est très contagieux.",
+   "Vrai : guérison spontanée sans séquelles en 4 à 6 semaines.",
+   "Vrai : base indurée (vs base molle du chancre mou).",
+   "Vrai : adénopathie satellite unilatérale, multiple, indolore, dure.",
+   "Faux : il est unique et indolore."
+  ]
+ },
+ {
+  "q": "Concernant la phase sérologiquement muette du début de la syphilis, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle correspond aux dix premiers jours du chancre",
+   "Le couple VDRL/TPHA peut être négatif pendant cette période",
+   "L'examen direct est le seul argument diagnostique dans ce cas",
+   "Elle justifie la répétition de la sérologie à 15 jours d'intervalle",
+   "Elle n'existe pas, la sérologie est d'emblée positive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : phase sérologiquement muette en début d'infection (10 premiers jours du chancre).",
+   "Vrai : VDRL- et TPHA- possibles dans les dix premiers jours du chancre.",
+   "Vrai : l'examen direct est le seul argument si la sérologie est non contributive (chancre).",
+   "Vrai : deux sérums à 15 jours d'intervalle sont recommandés.",
+   "Faux : la phase sérologiquement muette existe en début d'infection."
+  ]
+ },
+ {
+  "q": "Un chancre buccal est observé chez un patient. Quelles propositions sont exactes ?",
+  "options": [
+   "La localisation buccale du chancre est possible",
+   "L'examen à l'état frais expose à un risque de faux positif (tréponèmes saprophytes)",
+   "L'immunofluorescence permet de différencier les tréponèmes pathogènes des saprophytes",
+   "L'examen à l'état frais suffit à affirmer le diagnostic sans réserve",
+   "La sérologie reste l'examen de référence pour le diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le chancre peut siéger en localisation buccale.",
+   "Vrai : en localisation buccale, risque de faux positif (T. denticola, T. refringens).",
+   "Vrai : l'immunofluorescence différencie pathogènes et saprophytes.",
+   "Faux : l'état frais ne différencie pas pathogènes et saprophytes.",
+   "Vrai : le diagnostic de la syphilis est avant tout sérologique."
+  ]
+ },
+ {
+  "q": "Concernant la contagiosité des différentes phases de la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "Le chancre de la phase primaire est très contagieux",
+   "Les lésions cutanéo-muqueuses de la phase secondaire sont contagieuses",
+   "La phase latente est non contagieuse",
+   "Les lésions viscérales tertiaires sont non contagieuses",
+   "La phase tertiaire est la plus contagieuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le chancre est très contagieux.",
+   "Vrai : les lésions cutanéo-muqueuses secondaires sont contagieuses.",
+   "Vrai : la phase latente est non contagieuse.",
+   "Vrai : les lésions viscérales tertiaires sont non contagieuses.",
+   "Faux : ce sont les phases primaire et secondaire qui sont contagieuses."
+  ]
+ },
+ {
+  "q": "Parmi les diagnostics différentiels du chancre syphilitique, lesquels sont exacts ?",
+  "options": [
+   "Le chancre mou à Haemophilus ducreyi : ulcération douloureuse à base molle",
+   "L'herpès génital : vésicules puis érosions douloureuses",
+   "Le chancre syphilitique : exulcération unique indolore à base indurée",
+   "Le diagnostic différentiel repose sur l'examen direct et la sérologie",
+   "Toutes les ulcérations génitales sont des chancres syphilitiques"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le chancre mou est douloureux à base molle (Haemophilus ducreyi).",
+   "Vrai : l'herpès génital donne des lésions vésiculeuses douloureuses.",
+   "Vrai : le chancre syphilitique est unique, indolore, à base indurée.",
+   "Vrai : examen direct (fond noir) et sérologie aident au diagnostic différentiel.",
+   "Faux : toute ulcération génitale n'est pas un chancre syphilitique."
+  ]
+ },
+ {
+  "q": "Concernant la syphilis secondaire, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle correspond à une dissémination septicémique",
+   "Elle débute 2 mois à 2 ans après le contage",
+   "Les lésions cutanéo-muqueuses sont contagieuses",
+   "Son évolution se fait vers la guérison spontanée en 1 à 3 ans",
+   "Elle survient avant la phase primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : dissémination septicémique.",
+   "Vrai : début 2 mois à 2 ans après le contage.",
+   "Vrai : lésions cutanéo-muqueuses contagieuses.",
+   "Vrai : guérison spontanée en 1 à 3 ans.",
+   "Faux : elle succède à la phase primaire."
+  ]
+ },
+ {
+  "q": "Concernant les manifestations générales de la syphilis secondaire, quelles propositions sont exactes ?",
+  "options": [
+   "Asthénie",
+   "Fébricule",
+   "Céphalées",
+   "Alopécie diffuse",
+   "Éruption vésiculeuse groupée en bouquet"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'asthénie fait partie des manifestations générales.",
+   "Vrai : la fébricule fait partie des manifestations générales.",
+   "Vrai : les céphalées font partie des manifestations générales.",
+   "Vrai : l'alopécie diffuse est décrite en phase secondaire.",
+   "Faux : l'éruption vésiculeuse en bouquet évoque l'herpès, pas la syphilis secondaire."
+  ]
+ },
+ {
+  "q": "Concernant les lésions cutanéo-muqueuses de la syphilis secondaire, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont contagieuses",
+   "Les syphilides cutanées peuvent être prélevées pour examen direct",
+   "Les plaques muqueuses peuvent être prélevées pour examen direct",
+   "Elles sont non contagieuses",
+   "Le prélèvement se fait par raclage au vaccinostyle du centre des lésions"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les lésions cutanéo-muqueuses secondaires sont contagieuses.",
+   "Vrai : les syphilides cutanées sont des sites de prélèvement pour diagnostic direct.",
+   "Vrai : les plaques muqueuses sont des sites de prélèvement pour diagnostic direct.",
+   "Faux : elles sont contagieuses.",
+   "Vrai : raclage/vaccinostyle du centre des lésions, sérosités exemptes du sang."
+  ]
+ },
+ {
+  "q": "Un patient présente, 6 mois après un rapport non protégé, une éruption cutanée diffuse, des plaques muqueuses buccales, une alopécie diffuse et des polyadénopathies. Quelles propositions sont exactes ?",
+  "options": [
+   "Ce tableau évoque une syphilis secondaire",
+   "Le délai de 6 mois est compatible avec la phase secondaire",
+   "Les lésions sont contagieuses",
+   "Un examen direct des plaques muqueuses peut être contributif",
+   "Ce tableau évoque une syphilis tertiaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : éruption diffuse + plaques muqueuses + alopécie + polyadénopathies = syphilis secondaire.",
+   "Vrai : la phase secondaire débute 2 mois à 2 ans après le contage.",
+   "Vrai : les lésions cutanéo-muqueuses secondaires sont contagieuses.",
+   "Vrai : le diagnostic direct (raclage des plaques muqueuses) est indiqué en phase II.",
+   "Faux : la syphilis tertiaire survient 2 à 10 ans après le début de la maladie."
+  ]
+ },
+ {
+  "q": "Concernant l'évolution de la syphilis secondaire non traitée, lesquelles sont exactes ?",
+  "options": [
+   "Guérison spontanée en 1 à 3 ans",
+   "La disparition des lésions signe la guérison définitive de l'infection",
+   "Évolution possible vers la phase latente",
+   "Évolution possible vers la phase tertiaire",
+   "Les lésions secondaires ne récidivent jamais"
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : guérison spontanée des manifestations en 1 à 3 ans.",
+   "Faux : la disparition des symptômes est liée à la réponse immunitaire, l'infection persiste.",
+   "Vrai : la maladie évolue vers la syphilis latente asymptomatique.",
+   "Vrai : puis éventuellement vers la syphilis tertiaire chez 20 à 30 %.",
+   "Faux : les manifestations secondaires peuvent récidiver avant la phase latente."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la syphilis secondaire, lesquelles sont exactes ?",
+  "options": [
+   "C'est une phase de dissémination septicémique",
+   "Les polyadénopathies font partie du tableau",
+   "L'alopécie diffuse est un signe évocateur",
+   "La sérologie est positive à ce stade",
+   "Le diagnostic direct n'a aucun intérêt à ce stade"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : dissémination septicémique.",
+   "Vrai : polyadénopathies décrites.",
+   "Vrai : alopécie diffuse en phase secondaire.",
+   "Vrai : à ce stade la sérologie est positive (phase sérologiquement muette dépassée).",
+   "Faux : le diagnostic direct (raclage des syphilides, plaques muqueuses) garde un intérêt en phase II."
+  ]
+ },
+ {
+  "q": "Concernant la syphilis latente (sérologique), lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle est asymptomatique",
+   "Elle est non contagieuse",
+   "Sa durée est de 2 à 20 ans",
+   "La sérologie est positive",
+   "Elle est la phase la plus contagieuse de la maladie"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : phase asymptomatique.",
+   "Vrai : phase non contagieuse.",
+   "Vrai : durée de 2 à 20 ans.",
+   "Vrai : sérologie positive (++).",
+   "Faux : elle est non contagieuse."
+  ]
+ },
+ {
+  "q": "Concernant la phase latente de la syphilis, quelles propositions sont exactes ?",
+  "options": [
+   "Aucun signe clinique n'est présent",
+   "Le diagnostic repose sur la sérologie",
+   "Elle fait suite à la phase secondaire",
+   "Elle peut durer plus de 10 ans",
+   "Le patient est très contagieux pendant cette phase"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : phase asymptomatique.",
+   "Vrai : syphilis latente ou sérologique, diagnostic sérologique.",
+   "Vrai : elle succède à la phase secondaire.",
+   "Vrai : durée 2 à 20 ans, donc pouvant dépasser 10 ans.",
+   "Faux : la phase latente est non contagieuse."
+  ]
+ },
+ {
+  "q": "Un patient asymptomatique présente une sérologie syphilitique positive (TPHA et VDRL positifs) sans antécédent de traitement. Quelles propositions sont exactes ?",
+  "options": [
+   "Ce tableau évoque une syphilis latente",
+   "Le patient n'est pas contagieux à ce stade",
+   "Un traitement s'impose",
+   "L'absence de symptômes exclut le diagnostic de syphilis",
+   "La quantification du VDRL aide à évaluer l'activité de l'infection"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : asymptomatique + sérologie positive = syphilis latente.",
+   "Vrai : la phase latente est non contagieuse.",
+   "Vrai : une syphilis latente non traitée justifie un traitement.",
+   "Faux : la phase latente est asymptomatique par définition.",
+   "Vrai : le VDRL doit être quantifié (titrage), meilleur critère d'activité/guérison."
+  ]
+ },
+ {
+  "q": "Concernant la syphilis tertiaire, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle débute 2 à 10 ans après le début de la maladie",
+   "Elle survient chez 20 à 30 % des patients non traités",
+   "Les complications viscérales sont de mécanisme immunitaire",
+   "Les lésions viscérales sont non contagieuses",
+   "Elle survient chez 100 % des patients non traités"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : début 2 à 10 ans après le début de la maladie.",
+   "Vrai : chez 20 à 30 % des patients.",
+   "Vrai : complications viscérales de mécanisme immunitaire.",
+   "Vrai : lésions viscérales non contagieuses.",
+   "Faux : elle ne survient que chez 20 à 30 % des patients."
+  ]
+ },
+ {
+  "q": "Concernant les gommes syphilitiques, quelles propositions sont exactes ?",
+  "options": [
+   "Ce sont des lésions de la syphilis tertiaire",
+   "Elles peuvent être osseuses",
+   "Elles peuvent être cutanéo-muqueuses",
+   "Ce sont des lésions très contagieuses",
+   "Elles surviennent en phase primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les gommes sont des lésions tertiaires.",
+   "Vrai : gommes osseuses décrites.",
+   "Vrai : gommes cutanéo-muqueuses décrites.",
+   "Faux : les lésions tertiaires sont non contagieuses.",
+   "Faux : elles surviennent en phase tertiaire, pas primaire."
+  ]
+ },
+ {
+  "q": "Concernant les complications cardiovasculaires de la syphilis tertiaire, lesquelles sont exactes ?",
+  "options": [
+   "L'aortite est une complication décrite",
+   "L'anévrysme de l'aorte est une complication décrite",
+   "Ce sont des lésions non contagieuses",
+   "Elles sont de mécanisme immunitaire",
+   "L'endocardite à végétations est la complication typique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'aortite est une complication cardiovasculaire tertiaire.",
+   "Vrai : l'anévrysme de l'aorte est décrit.",
+   "Vrai : les lésions viscérales tertiaires sont non contagieuses.",
+   "Vrai : complications viscérales de mécanisme immunitaire.",
+   "Faux : l'endocardite à végétations n'est pas la complication typique de la syphilis."
+  ]
+ },
+ {
+  "q": "Concernant les complications neurologiques de la syphilis tertiaire, lesquelles sont exactes ?",
+  "options": [
+   "Le tabès est une complication neurologique décrite",
+   "La paralysie générale est une complication neurologique décrite",
+   "La neurosyphilis peut être explorée par la PCR dans le LCR",
+   "Le LCR peut être prélevé en cas de notion de méningite",
+   "La méningite purulente à polynucléaires est la forme typique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le tabès est une complication neurologique tertiaire.",
+   "Vrai : la paralysie générale est une complication neurologique tertiaire.",
+   "Vrai : la PCR dans le LCR est indiquée dans la neurosyphilis.",
+   "Vrai : le LCR est prélevé si notion de méningite.",
+   "Faux : la neurosyphilis tertiaire (tabès, paralysie générale) n'est pas une méningite purulente."
+  ]
+ },
+ {
+  "q": "Un patient présente, 8 ans après une syphilis non traitée, une aortite et des troubles neurologiques à type de tabès. Quelles propositions sont exactes ?",
+  "options": [
+   "Ce tableau évoque une syphilis tertiaire",
+   "Le délai de 8 ans est compatible avec la phase tertiaire",
+   "Les lésions sont de mécanisme immunitaire",
+   "Le patient est très contagieux à ce stade",
+   "La sérologie peut montrer un profil VDRL négatif et TPHA positif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : aortite + tabès = complications viscérales tertiaires.",
+   "Vrai : la phase tertiaire débute 2 à 10 ans après le début de la maladie.",
+   "Vrai : complications viscérales de mécanisme immunitaire.",
+   "Faux : les lésions viscérales tertiaires sont non contagieuses.",
+   "Vrai : VDRL- et TPHA+ évoque une séquelle sérologique ou une syphilis tertiaire."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la syphilis tertiaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle est qualifiée de phase des complications viscérales",
+   "Les gommes sont des lésions osseuses ou cutanéo-muqueuses",
+   "L'aortite et l'anévrysme de l'aorte sont des complications cardiovasculaires",
+   "Le tabès et la paralysie générale sont des complications neurologiques",
+   "C'est la phase la plus contagieuse de la syphilis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : phase des complications viscérales.",
+   "Vrai : gommes osseuses ou cutanéo-muqueuses.",
+   "Vrai : aortite, anévrysme de l'aorte.",
+   "Vrai : tabès, paralysie générale.",
+   "Faux : les lésions tertiaires sont non contagieuses."
+  ]
+ },
+ {
+  "q": "Concernant le mécanisme des lésions tertiaires, quelles affirmations sont exactes ?",
+  "options": [
+   "Les complications viscérales sont de mécanisme immunitaire",
+   "La réponse immunitaire est responsable de la disparition des symptômes des phases précoces",
+   "Les lésions tertiaires sont directement liées à la multiplication bactérienne massive",
+   "Les lésions viscérales tertiaires sont non contagieuses",
+   "Le traitement de la phase tertiaire repose sur la pénicilline G"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : complications viscérales de mécanisme immunitaire.",
+   "Vrai : la réponse immunitaire fait disparaître les symptômes.",
+   "Faux : le mécanisme des complications tertiaires est immunitaire, non une multiplication massive.",
+   "Vrai : lésions viscérales non contagieuses.",
+   "Vrai : T. pallidum reste sensible à la pénicilline G à tous les stades."
+  ]
+ },
+ {
+  "q": "Parmi les phases de la syphilis, lesquelles sont contagieuses ?",
+  "options": [
+   "La phase primaire (chancre)",
+   "La phase secondaire (lésions cutanéo-muqueuses)",
+   "La phase latente",
+   "La phase tertiaire (lésions viscérales)",
+   "La syphilis congénitale précoce (lésions bulleuses du nouveau-né)"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : le chancre primaire est très contagieux.",
+   "Vrai : les lésions cutanéo-muqueuses secondaires sont contagieuses.",
+   "Faux : la phase latente est non contagieuse.",
+   "Faux : les lésions viscérales tertiaires sont non contagieuses.",
+   "Vrai : en syphilis congénitale précoce, les bulles sont des lésions riches en tréponèmes (prélèvement diagnostique)."
+  ]
+ },
+ {
+  "q": "Concernant l'ordre chronologique des phases de la syphilis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "La phase primaire précède la phase secondaire",
+   "La phase secondaire précède la phase latente",
+   "La phase latente précède la phase tertiaire",
+   "La phase tertiaire peut survenir 2 à 10 ans après le début de la maladie",
+   "La phase secondaire survient avant la phase primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : primaire puis secondaire.",
+   "Vrai : secondaire puis latente.",
+   "Vrai : latente puis tertiaire.",
+   "Vrai : début de la phase tertiaire 2 à 10 ans après le début de la maladie.",
+   "Faux : la phase primaire est la première phase."
+  ]
+ },
+ {
+  "q": "Concernant la syphilis congénitale, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Elle survient chez une mère présentant une syphilis active",
+   "Le passage transplacentaire est possible dès le 2e trimestre",
+   "La transmission maternofœtale a lieu vers le 4e mois",
+   "Elle est impossible si la mère a une syphilis active",
+   "Le dépistage prénatal systématique permet sa prévention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : mère présentant une syphilis active.",
+   "Vrai : passage transplacentaire dès le 2e trimestre.",
+   "Vrai : transmission maternofœtale vers le 4e mois.",
+   "Faux : c'est précisément la syphilis maternelle active qui l'entraîne.",
+   "Vrai : l'examen prénatal fait partie du dépistage systématique."
+  ]
+ },
+ {
+  "q": "Concernant les tableaux de la syphilis congénitale, quelles propositions sont exactes ?",
+  "options": [
+   "La syphilis fœtale est l'un des trois tableaux",
+   "La syphilis congénitale précoce est l'un des trois tableaux",
+   "La syphilis congénitale tardive est l'un des trois tableaux",
+   "Il n'existe qu'un seul tableau clinique",
+   "Ces tableaux s'observent si la grossesse est menée à terme"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : syphilis fœtale.",
+   "Vrai : syphilis congénitale précoce.",
+   "Vrai : syphilis congénitale tardive.",
+   "Faux : trois tableaux sont décrits.",
+   "Vrai : ces 3 tableaux s'observent si la grossesse est menée à terme."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic de la syphilis congénitale, lesquelles sont exactes ?",
+  "options": [
+   "Les bulles du nouveau-né peuvent être prélevées",
+   "Le coryza peut être prélevé",
+   "Le sang du cordon peut être prélevé",
+   "Le placenta peut être prélevé",
+   "Aucun prélèvement n'est possible chez le nouveau-né"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prélèvement des bulles.",
+   "Vrai : prélèvement du coryza (sécrétions).",
+   "Vrai : prélèvement du sang du cordon.",
+   "Vrai : prélèvement du placenta.",
+   "Faux : de nombreux prélèvements sont possibles (bulles, coryza, sang du cordon, placenta, sécrétions)."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements dans la syphilis congénitale, quelles affirmations sont exactes ?",
+  "options": [
+   "Les sécrétions du nouveau-né peuvent être prélevées",
+   "Le LCR peut parfois être prélevé",
+   "Le liquide amniotique peut être prélevé pendant la grossesse",
+   "Le sang du cordon est un prélèvement utile",
+   "Seul le sang maternel peut être prélevé"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : prélèvement des sécrétions.",
+   "Vrai : parfois le LCR.",
+   "Vrai : le liquide amniotique peut être prélevé pendant la grossesse.",
+   "Vrai : le sang du cordon est prélevé.",
+   "Faux : les prélèvements néonatals (bulles, coryza, sang du cordon, placenta) sont essentiels."
+  ]
+ },
+ {
+  "q": "Concernant la place des IgM dans la syphilis congénitale, lesquelles sont exactes ?",
+  "options": [
+   "La recherche des IgM est essentielle en cas de suspicion de syphilis congénitale",
+   "La présence d'IgM témoigne de l'atteinte du nouveau-né",
+   "Les IgM maternelles traversent le placenta",
+   "Le FTA-Abs détecte séparément les IgG et les IgM (intérêt chez le nouveau-né)",
+   "L'ELISA détecte les fractions IgG et IgM"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la détection des IgM est essentielle en cas de suspicion de syphilis congénitale.",
+   "Vrai : leur présence témoigne de l'atteinte du nouveau-né.",
+   "Faux : ce sont les IgG maternelles qui traversent le placenta ; les IgM détectées sont celles du nouveau-né.",
+   "Vrai : le FTA-Abs détecte séparément IgG et IgM, intérêt chez le nouveau-né.",
+   "Vrai : l'ELISA détecte les fractions IgG et IgM."
+  ]
+ },
+ {
+  "q": "Un nouveau-né de mère syphilitique non traitée présente des bulles cutanées et un coryza. Quelles propositions sont exactes ?",
+  "options": [
+   "Ce tableau évoque une syphilis congénitale précoce",
+   "L'examen direct des bulles est le seul argument si la sérologie est non contributive",
+   "La présence d'IgM spécifiques témoigne de l'atteinte du nouveau-né",
+   "Les anticorps IgG positifs traduisent toujours une infection du nouveau-né",
+   "Un traitement par pénicilline G s'impose"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : bulles + coryza chez un nouveau-né de mère syphilitique = syphilis congénitale précoce.",
+   "Vrai : l'examen direct est le seul argument si la sérologie est non contributive (syphilis congénitale précoce).",
+   "Vrai : les IgM témoignent de l'atteinte du nouveau-né.",
+   "Faux : les IgG peuvent être d'origine maternelle (cas particulier du nouveau-né).",
+   "Vrai : T. pallidum est toujours sensible à la pénicilline G."
+  ]
+ },
+ {
+  "q": "Concernant l'interprétation de la sérologie chez le nouveau-né, quelles affirmations sont exactes ?",
+  "options": [
+   "Les anticorps maternels (IgG) peuvent fausser l'interprétation",
+   "La détection d'IgM spécifiques témoigne de l'atteinte du nouveau-né",
+   "Le FTA-Abs et l'ELISA détectent séparément les IgG et les IgM",
+   "Toute sérologie positive chez le nouveau-né affirme l'infection congénitale",
+   "Le nouveau-né est un cas particulier d'interprétation sérologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les Ac maternels sont un cas particulier d'interprétation.",
+   "Vrai : les IgM témoignent de l'atteinte du nouveau-né.",
+   "Vrai : FTA-Abs, ELISA et Western blot détectent séparément IgG et IgM.",
+   "Faux : les IgG peuvent être d'origine maternelle.",
+   "Vrai : le nouveau-né (Ac maternels) est un cas particulier cité."
+  ]
+ },
+ {
+  "q": "Une femme enceinte présente une sérologie syphilitique positive (TPHA et VDRL fortement positifs). Quelles propositions sont exactes ?",
+  "options": [
+   "Un traitement s'impose d'emblée",
+   "Le traitement vise à prévenir la syphilis congénitale",
+   "La pénicilline G est le traitement de référence",
+   "Il faut attendre l'accouchement pour traiter",
+   "Le dépistage prénatal systématique aurait permis un diagnostic plus précoce"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : un traitement s'impose d'emblée en cas de TPHA et VDRL fortement positifs.",
+   "Vrai : le traitement de la mère prévient la transmission maternofœtale.",
+   "Vrai : T. pallidum est toujours sensible à la pénicilline G.",
+   "Faux : le traitement doit être immédiat, pas après l'accouchement.",
+   "Vrai : l'examen prénatal fait partie du dépistage systématique."
+  ]
+ },
+ {
+  "q": "Concernant la prévention de la syphilis congénitale, lesquelles sont exactes ?",
+  "options": [
+   "Le dépistage prénatal systématique",
+   "Le traitement précoce de la mère infectée",
+   "La pénicilline G reste efficace",
+   "L'abstention de traitement pendant la grossesse",
+   "L'enquête autour de la femme contaminée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : examen prénatal = dépistage systématique.",
+   "Vrai : le traitement précoce prévient la transmission.",
+   "Vrai : T. pallidum est toujours sensible à la pénicilline G.",
+   "Faux : un traitement s'impose d'emblée, pas d'abstention.",
+   "Vrai : traitement précoce et enquête autour du sujet contaminateur."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la syphilis fœtale, lesquelles sont exactes ?",
+  "options": [
+   "Elle fait suite au passage transplacentaire du tréponème",
+   "Le passage transplacentaire est possible dès le 2e trimestre",
+   "Le liquide amniotique peut être prélevé pour le diagnostic",
+   "Elle ne peut survenir que si la mère a une syphilis active",
+   "Elle est la forme la plus fréquente de syphilis de l'adulte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la syphilis fœtale résulte du passage transplacentaire.",
+   "Vrai : passage transplacentaire dès le 2e trimestre.",
+   "Vrai : le liquide amniotique peut être prélevé pendant la grossesse.",
+   "Vrai : mère présentant une syphilis active.",
+   "Faux : c'est un tableau de la syphilis congénitale, pas de l'adulte."
+  ]
+ },
+ {
+  "q": "Concernant les conditions du prélèvement pour diagnostic direct de la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "Le prélèvement doit être réalisé avant toute prise d'antibiotique",
+   "Le prélèvement doit être réalisé avant toute application d'antiseptique",
+   "Le diagnostic direct a un intérêt en phase précoce pré-sérologique de la syphilis primaire",
+   "Le prélèvement peut être réalisé après application d'antiseptique sans conséquence",
+   "L'antibiothérapie préalable n'affecte pas l'examen direct"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : prélèvement avant prise d'ATB.",
+   "Vrai : prélèvement avant application d'antiseptique.",
+   "Vrai : intérêt en phase précoce pré-sérologique de la syphilis primaire.",
+   "Faux : le prélèvement doit être fait avant toute application d'antiseptique.",
+   "Faux : l'antibiothérapie préalable fausse l'examen direct."
+  ]
+ },
+ {
+  "q": "Concernant les sites de prélèvement pour le diagnostic direct de la syphilis vénérienne, lesquels sont exacts ?",
+  "options": [
+   "Le chancre (raclage au vaccinostyle du centre de la lésion)",
+   "La ponction du ganglion lymphatique satellite",
+   "Les syphilides cutanées",
+   "Les plaques muqueuses",
+   "Le sang veineux sur tube sec"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : raclage/vaccinostyle du centre du chancre.",
+   "Vrai : ponction du ganglion lymphatique satellite.",
+   "Vrai : syphilides cutanées.",
+   "Vrai : plaques muqueuses.",
+   "Faux : le sang sur tube sec est le prélèvement du diagnostic indirect (sérologie)."
+  ]
+ },
+ {
+  "q": "Concernant l'examen à l'état frais au microscope à fond noir, quelles affirmations sont exactes ?",
+  "options": [
+   "Il doit être réalisé immédiatement",
+   "On observe une bactérie mobile à spires régulières et réfringentes",
+   "C'est une méthode rapide et moins coûteuse",
+   "Sa sensibilité peut atteindre 80 %",
+   "Il permet de différencier les tréponèmes pathogènes des saprophytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : examen immédiat au microscope à fond noir.",
+   "Vrai : bactérie mobile à spires régulières et réfringentes.",
+   "Vrai : méthode rapide et moins coûteuse.",
+   "Vrai : sensibilité variable jusqu'à 80 %.",
+   "Faux : il ne différencie pas les tréponèmes pathogènes des saprophytes."
+  ]
+ },
+ {
+  "q": "Concernant les limites de l'examen à l'état frais, lesquelles sont exactes ?",
+  "options": [
+   "Il ne différencie pas les tréponèmes pathogènes des saprophytes",
+   "Il expose à des faux positifs en localisation buccale (T. denticola, T. refringens)",
+   "Il expose à des faux positifs en localisation anale",
+   "Sa sensibilité est variable",
+   "Il différencie parfaitement les tréponèmes pathogènes des saprophytes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : ne différencie pas pathogènes et saprophytes.",
+   "Vrai : faux positifs buccaux (T. denticola, T. refringens).",
+   "Vrai : faux positifs en localisation anale.",
+   "Vrai : sensibilité variable (jusqu'à 80 %).",
+   "Faux : il ne permet pas cette différenciation."
+  ]
+ },
+ {
+  "q": "Concernant l'immunofluorescence directe dans la syphilis, quelles propositions sont exactes ?",
+  "options": [
+   "Elle utilise un anticorps antisyphilitique marqué par un colorant fluorescent",
+   "L'observation se fait au microscope à UV (tréponèmes fluorescents)",
+   "Elle différencie les tréponèmes pathogènes des saprophytes",
+   "Elle a une meilleure sensibilité que l'examen à l'état frais",
+   "C'est une technique rapide et peu coûteuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : AC antisyphilitique marqué par un colorant fluorescent.",
+   "Vrai : microscope à UV, tréponèmes fluorescents.",
+   "Vrai : différencie les tréponèmes pathogènes des saprophytes.",
+   "Vrai : meilleure sensibilité.",
+   "Faux : technique coûteuse et longue."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes comparant examen à l'état frais et immunofluorescence, lesquelles sont exactes ?",
+  "options": [
+   "L'examen à l'état frais est rapide et moins coûteux",
+   "L'immunofluorescence est coûteuse et longue",
+   "L'immunofluorescence différencie les tréponèmes pathogènes des saprophytes",
+   "L'examen à l'état frais ne différencie pas les tréponèmes pathogènes des saprophytes",
+   "Les deux techniques ont exactement la même sensibilité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'état frais est rapide et moins coûteux.",
+   "Vrai : l'immunofluorescence est coûteuse et longue.",
+   "Vrai : l'IF différencie pathogènes et saprophytes.",
+   "Vrai : l'état frais ne les différencie pas.",
+   "Faux : l'IF a une meilleure sensibilité."
+  ]
+ },
+ {
+  "q": "Concernant la PCR dans la syphilis, quelles affirmations sont exactes ?",
+  "options": [
+   "La PCR dans le LCR est utile dans la neurosyphilis",
+   "La PCR dans le LCR est utile en phase de latence",
+   "La culture reste la méthode de référence pour le diagnostic direct",
+   "L'examen après coloration a peu d'intérêt",
+   "La PCR est devenue possible dans quelques cas de spirochétoses"
+  ],
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : PCR dans le LCR pour la neurosyphilis.",
+   "Vrai : PCR dans le LCR en phase de latence.",
+   "Faux : la culture de T. pallidum n'est pas réalisable.",
+   "Vrai : l'examen après coloration a peu d'intérêt.",
+   "Vrai : la PCR est devenue possible dans quelques cas."
+  ]
+ },
+ {
+  "q": "Concernant le diagnostic indirect (sérologique) de la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "Le prélèvement est le sang sur tube sec",
+   "Le LCR est prélevé si notion de méningite",
+   "Il détermine et titre les anticorps dans le sang ou le LCR",
+   "Il existe une phase sérologiquement muette en début d'infection",
+   "Un seul sérum suffit toujours au diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sang sur tube sec.",
+   "Vrai : LCR si notion de méningite.",
+   "Vrai : détermination et titrage des AC dans le sang ou le LCR.",
+   "Vrai : phase sérologiquement muette en début d'infection.",
+   "Faux : deux sérums à 15 jours d'intervalle sont recommandés."
+  ]
+ },
+ {
+  "q": "Concernant les deux grands groupes de réactions sérologiques de la syphilis, quelles propositions sont exactes ?",
+  "options": [
+   "Les réactions à antigène non tréponémique détectent les anticorps anti-cardiolipide",
+   "Les réactions à antigène tréponémique utilisent des antigènes de T. pallidum",
+   "Le VDRL appartient au groupe des réactions non tréponémiques",
+   "Le TPHA appartient au groupe des réactions tréponémiques",
+   "Le VDRL et le TPHA appartiennent au même groupe sérologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les non tréponémiques détectent les Ac anti-antigène cardiolipidique.",
+   "Vrai : les tréponémiques utilisent des Ag de T. pallidum.",
+   "Vrai : le VDRL est une réaction à Ag non tréponémique.",
+   "Vrai : le TPHA est une réaction à Ag tréponémique.",
+   "Faux : ils appartiennent à deux groupes différents."
+  ]
+ },
+ {
+  "q": "Concernant le VDRL, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est un test de dépistage",
+   "Il détecte les anticorps dirigés contre l'antigène cardiolipidique",
+   "C'est une réaction d'agglutination passive (charbon, latex…)",
+   "Les résultats sont exprimés en croix (de 0 à 4)",
+   "C'est un test tréponémique spécifique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : test de dépistage.",
+   "Vrai : détecte les Ac anti-antigène cardiolipidique (réagines).",
+   "Vrai : réaction d'agglutination passive (VDRL charbon, latex…).",
+   "Vrai : résultats en croix de 0 à 4.",
+   "Faux : c'est un test non tréponémique, non spécifique."
+  ]
+ },
+ {
+  "q": "Concernant la cinétique du VDRL, quelles propositions sont exactes ?",
+  "options": [
+   "Il se positive 8 à 20 jours après le début du chancre",
+   "C'est le meilleur critère sérologique de guérison",
+   "Si le dépistage est positif, un titrage est effectué par dilutions du sérum",
+   "Il se positive avant l'apparition du chancre",
+   "Il reste toujours positif après guérison"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : positivité 8 à 20 jours après le début du chancre.",
+   "Vrai : meilleur critère sérologique de guérison.",
+   "Vrai : titrage par dilutions du sérum si dépistage positif.",
+   "Faux : il se positive 8 à 20 jours après le début du chancre.",
+   "Faux : c'est le meilleur critère de guérison car son titre diminue après traitement."
+  ]
+ },
+ {
+  "q": "Concernant les faux positifs du VDRL, lesquelles sont exactes ?",
+  "options": [
+   "La grossesse peut donner un faux positif",
+   "Les dysprotéinémies peuvent donner un faux positif",
+   "Les infections virales peuvent donner un faux positif",
+   "Le VDRL est peu spécifique mais sensible et simple",
+   "Le VDRL ne donne jamais de faux positif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la grossesse est une cause de faux positif.",
+   "Vrai : les dysprotéinémies sont une cause de faux positif.",
+   "Vrai : les infections virales sont une cause de faux positif.",
+   "Vrai : peu spécifique mais sensible et simple.",
+   "Faux : les faux positifs existent (grossesse, dysprotéinémies, infections virales)."
+  ]
+ },
+ {
+  "q": "Concernant le RPR (Rapide Plasma Reagin), quelles affirmations sont exactes ?",
+  "options": [
+   "C'est une réaction à antigène non tréponémique",
+   "Il détecte les anticorps anti-cardiolipide comme le VDRL",
+   "C'est un test de dépistage",
+   "C'est un test tréponémique de confirmation",
+   "Il appartient au même groupe sérologique que le VDRL"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le RPR est une réaction à Ag non tréponémique.",
+   "Vrai : il détecte les réagines anti-cardiolipide comme le VDRL.",
+   "Vrai : test de dépistage.",
+   "Faux : ce n'est pas un test tréponémique de confirmation.",
+   "Vrai : même groupe que le VDRL (réactions non tréponémiques)."
+  ]
+ },
+ {
+  "q": "Concernant le TPHA, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est un test de dépistage",
+   "C'est une hémagglutination sur microplaque",
+   "Il utilise un lysat de T. pallidum adsorbé sur hématies de mouton",
+   "Si le dépistage est positif, un titrage est effectué",
+   "C'est une réaction à antigène non tréponémique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : test de dépistage.",
+   "Vrai : hémagglutination sur microplaque.",
+   "Vrai : lysat de T. pallidum adsorbé sur hématies de mouton.",
+   "Vrai : titrage si dépistage positif.",
+   "Faux : c'est une réaction à antigène tréponémique."
+  ]
+ },
+ {
+  "q": "Concernant la cinétique du TPHA, quelles propositions sont exactes ?",
+  "options": [
+   "Il se positive environ 1 semaine après l'apparition du chancre",
+   "Il se positive plus précocement que le VDRL",
+   "Il reste le plus souvent positif chez un malade guéri",
+   "Il se négative rapidement après traitement",
+   "Il se positive 8 à 20 jours après le début du chancre"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : positivité environ 1 semaine après l'apparition du chancre.",
+   "Vrai : plus précoce que le VDRL (8 à 20 jours).",
+   "Vrai : reste le plus souvent positif chez un malade guéri.",
+   "Faux : il reste le plus souvent positif après guérison.",
+   "Faux : cette cinétique (8 à 20 jours) est celle du VDRL."
+  ]
+ },
+ {
+  "q": "Concernant les faux positifs et faux négatifs du TPHA, lesquelles sont exactes ?",
+  "options": [
+   "Les faux positifs sont rares",
+   "Des taux faibles peuvent s'observer chez la femme enceinte",
+   "Des taux faibles peuvent s'observer dans les maladies auto-immunes",
+   "Le phénomène de zone peut donner un faux négatif",
+   "Le phénomène de zone donne un faux positif"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : faux positifs rares.",
+   "Vrai : taux faibles possibles chez la femme enceinte.",
+   "Vrai : taux faibles possibles dans les maladies auto-immunes.",
+   "Vrai : le phénomène de zone est une cause de faux négatif.",
+   "Faux : le phénomène de zone donne un faux négatif, pas un faux positif."
+  ]
+ },
+ {
+  "q": "Concernant le TPPA, quelles affirmations sont exactes ?",
+  "options": [
+   "C'est le Treponema pallidum particle agglutination assay",
+   "Le TPHA et le TPPA ont la même utilité au niveau du diagnostic sérologique",
+   "Le TPPA donne des titres légèrement plus élevés que le TPHA",
+   "C'est une réaction à antigène non tréponémique",
+   "Le TPPA est moins sensible que le VDRL en dépistage"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : TPPA = Treponema pallidum particle agglutination assay.",
+   "Vrai : TPHA et TPPA ont la même utilité diagnostique.",
+   "Vrai : le TPPA donne des titres légèrement plus élevés.",
+   "Faux : c'est une réaction à antigène tréponémique.",
+   "Faux : le TPPA est un test tréponémique sensible, non comparable ainsi au VDRL."
+  ]
+ },
+ {
+  "q": "Concernant le FTA-Abs, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est une technique de confirmation d'un dépistage positif",
+   "Elle est indiquée si les résultats sont dissociés entre les deux tests de dépistage",
+   "Le sérum est déposé sur une lame sur laquelle des tréponèmes sont fixés",
+   "La révélation utilise une antiglobuline marquée par un fluorochrome",
+   "C'est un test de dépistage de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : technique de confirmation d'un dépistage positif.",
+   "Vrai : indiquée si résultats dissociés entre les deux tests de dépistage.",
+   "Vrai : sérum dilué déposé sur lame avec tréponèmes fixés.",
+   "Vrai : révélation par antiglobuline marquée par un fluorochrome.",
+   "Faux : c'est une technique de confirmation, pas de dépistage."
+  ]
+ },
+ {
+  "q": "Concernant les particularités du FTA-Abs, quelles propositions sont exactes ?",
+  "options": [
+   "Le sérum est préalablement absorbé par une suspension de tréponèmes saprophytes",
+   "Cette absorption élimine les faux positifs",
+   "Sa précocité est contemporaine au chancre",
+   "Sa cinétique est superposable à celle du TPHA mais il se négative après traitement",
+   "Il ne détecte que les IgM"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sérum préalablement absorbé par des tréponèmes saprophytes (FTA-Abs).",
+   "Vrai : cette absorption élimine les faux positifs.",
+   "Vrai : précocité contemporaine au chancre.",
+   "Vrai : cinétique superposable au TPHA, mais négativation après traitement.",
+   "Faux : il détecte séparément les fractions IgG et IgM."
+  ]
+ },
+ {
+  "q": "Concernant l'ELISA dans la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "Il utilise des antigènes purifiés ou recombinants de T. pallidum",
+   "Il détecte les anticorps plus précocement que les autres techniques",
+   "Il détecte les fractions IgG et IgM",
+   "Il est simple et automatisable",
+   "Il est peu sensible et peu spécifique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : antigènes purifiés ou recombinants de T. pallidum.",
+   "Vrai : détection plus précoce des anticorps.",
+   "Vrai : détecte les fractions IgG et IgM.",
+   "Vrai : simple, automatisable.",
+   "Faux : il est sensible et spécifique."
+  ]
+ },
+ {
+  "q": "Concernant la place de l'ELISA dans le diagnostic de la syphilis, quelles affirmations sont exactes ?",
+  "options": [
+   "Il est sensible et spécifique",
+   "Il peut se substituer au TPHA dans les réactions de dépistage",
+   "Il détecte les anticorps plus précocement que le TPHA",
+   "Il ne détecte que les IgG",
+   "C'est une technique de confirmation comme le FTA-Abs"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : sensible et spécifique.",
+   "Vrai : peut se substituer au TPHA en dépistage.",
+   "Vrai : détection plus précoce que les autres techniques.",
+   "Faux : il détecte les fractions IgG et IgM.",
+   "Faux : il peut être utilisé en dépistage, pas seulement en confirmation."
+  ]
+ },
+ {
+  "q": "Concernant le test de Nelson, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est un test d'immobilisation des tréponèmes",
+   "Il met en évidence les antigènes du corps tréponémique spécifiques de T. pallidum",
+   "C'est un test abandonné",
+   "C'est le test de dépistage de référence actuel",
+   "Il utilise l'antigène cardiolipidique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : test d'immobilisation des tréponèmes.",
+   "Vrai : il met en évidence les Ag du corps tréponémique spécifiques de T. pallidum.",
+   "Vrai : test abandonné.",
+   "Faux : il est abandonné, pas la référence actuelle.",
+   "Faux : il n'utilise pas l'antigène cardiolipidique."
+  ]
+ },
+ {
+  "q": "Concernant le Western blot (immunotransfert) dans la syphilis, quelles propositions sont exactes ?",
+  "options": [
+   "Il permet la détection séparée des IgG et des IgM",
+   "La détection des anticorps semble précoce",
+   "C'est une technique spécifique",
+   "C'est une technique coûteuse nécessitant un personnel entraîné",
+   "C'est un test de dépistage simple et automatisable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : détection séparée des IgG et IgM.",
+   "Vrai : détection précoce des anticorps.",
+   "Vrai : technique spécifique.",
+   "Vrai : coûteuse, personnel entraîné.",
+   "Faux : ce n'est pas un test de dépistage simple ; c'est une technique de confirmation."
+  ]
+ },
+ {
+  "q": "Concernant la recherche des IgM spécifiques dans la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "Elles sont en faveur d'une infection évolutive nécessitant une antibiothérapie",
+   "Elles sont détectées à toutes les phases de la maladie",
+   "Elles diminuent en moins de 6 mois après le début du traitement",
+   "Elles se négativent en moins de 2 ans après le début du traitement",
+   "Leur absence exclut une infection évolutive"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : en faveur d'une infection évolutive nécessitant une antibiothérapie.",
+   "Vrai : détectées à toutes les phases de la maladie.",
+   "Vrai : diminution en moins de 6 mois après le début du traitement.",
+   "Vrai : négativation en moins de 2 ans.",
+   "Faux : leur absence n'exclut pas une infection évolutive."
+  ]
+ },
+ {
+  "q": "Parmi les techniques détectant séparément les IgG et les IgM, lesquelles sont exactes ?",
+  "options": [
+   "Le FTA-Abs",
+   "L'ELISA",
+   "Le Western blot (immunotransfert)",
+   "Le VDRL",
+   "Le TPHA"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le FTA-Abs détecte séparément IgG et IgM.",
+   "Vrai : l'ELISA détecte les fractions IgG et IgM.",
+   "Vrai : le Western blot permet la détection séparée des IgG et IgM.",
+   "Faux : le VDRL détecte les réagines (Ac anti-cardiolipide), sans distinction IgG/IgM.",
+   "Faux : le TPHA ne distingue pas les fractions IgG et IgM."
+  ]
+ },
+ {
+  "q": "En pratique, concernant la stratégie de dépistage de la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "Le dépistage doit associer une réaction du groupe 1 et une réaction du groupe 2",
+   "L'association TPHA et VDRL est un exemple de cette stratégie",
+   "Le VDRL doit impérativement être quantifié",
+   "Un seul test suffit dans tous les cas",
+   "Un traitement s'impose d'emblée en cas de TPHA et VDRL fortement positifs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : associer une réaction non tréponémique et une tréponémique.",
+   "Vrai : TPHA (groupe 2) et VDRL (groupe 1).",
+   "Vrai : le second (VDRL) doit impérativement être quantifié.",
+   "Faux : le dépistage associe les deux groupes de réactions.",
+   "Vrai : traitement d'emblée si TPHA et VDRL fortement positifs."
+  ]
+ },
+ {
+  "q": "Devant une sérologie VDRL négatif et TPHA négatif, lesquelles de ces interprétations sont exactes ?",
+  "options": [
+   "Absence de syphilis",
+   "Syphilis guérie possible",
+   "Dix premiers jours du chancre possibles",
+   "Syphilis secondaire certaine",
+   "Faux positif du VDRL"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : VDRL- et TPHA- = absence de syphilis (entre autres).",
+   "Vrai : une syphilis guérie est possible.",
+   "Vrai : les dix premiers jours du chancre (phase sérologiquement muette).",
+   "Faux : la syphilis secondaire a une sérologie positive.",
+   "Faux : le VDRL est négatif, il n'y a pas de faux positif."
+  ]
+ },
+ {
+  "q": "Devant une sérologie VDRL positif et TPHA négatif, lesquelles de ces interprétations sont exactes ?",
+  "options": [
+   "Faux positif du VDRL",
+   "La grossesse est une cause possible",
+   "Les infections virales sont une cause possible",
+   "Syphilis évolutive certaine",
+   "Séquelle sérologique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : VDRL+ et TPHA- = faux positif.",
+   "Vrai : la grossesse donne des faux positifs du VDRL.",
+   "Vrai : les infections virales donnent des faux positifs.",
+   "Faux : le TPHA négatif n'est pas en faveur d'une syphilis.",
+   "Faux : la séquelle sérologique correspond à VDRL- et TPHA+."
+  ]
+ },
+ {
+  "q": "Devant une sérologie VDRL positif et TPHA positif, lesquelles de ces interprétations sont exactes ?",
+  "options": [
+   "Syphilis (tréponématose)",
+   "Maladie de Lyme possible",
+   "Paludisme possible",
+   "Faux positif double très rare possible",
+   "Absence de syphilis certaine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : VDRL+ et TPHA+ = syphilis.",
+   "Vrai : la maladie de Lyme peut donner ce profil.",
+   "Vrai : le paludisme peut donner ce profil.",
+   "Vrai : le faux positif double est possible mais très rare.",
+   "Faux : ce profil est en faveur d'une tréponématose."
+  ]
+ },
+ {
+  "q": "Devant une sérologie VDRL négatif et TPHA positif, lesquelles de ces interprétations sont exactes ?",
+  "options": [
+   "Séquelle sérologique",
+   "Syphilis tertiaire possible",
+   "Syphilis guérie possible",
+   "Faux positif du VDRL",
+   "Syphilis primaire en phase très précoce"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : VDRL- et TPHA+ = séquelle sérologique.",
+   "Vrai : la syphilis tertiaire peut donner ce profil.",
+   "Vrai : le TPHA reste le plus souvent positif chez un malade guéri.",
+   "Faux : le VDRL est négatif.",
+   "Faux : la syphilis primaire très précoce donne plutôt un profil TT-/TNT- ou TT+/TNT-."
+  ]
+ },
+ {
+  "q": "Concernant l'interprétation TT+/TNT+ (test tréponémique positif / test non tréponémique positif), lesquelles sont exactes ?",
+  "options": [
+   "Tréponématose évolutive ou guérie selon le contexte et les taux du VDRL",
+   "Le taux du VDRL aide à distinguer forme évolutive et guérie",
+   "Un faux positif double est possible mais très rare",
+   "C'est toujours une syphilis évolutive nécessitant traitement",
+   "Le contexte clinique n'a aucun intérêt dans l'interprétation"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : tréponématose évolutive ou guérie selon le contexte et les taux du VDRL.",
+   "Vrai : le titrage du VDRL (meilleur critère de guérison) aide à l'interprétation.",
+   "Vrai : faux positif double très rare.",
+   "Faux : cela peut être une tréponématose guérie.",
+   "Faux : l'interprétation se fait selon le contexte."
+  ]
+ },
+ {
+  "q": "Concernant l'interprétation TT+/TNT- (test tréponémique positif / test non tréponémique négatif), lesquelles sont exactes ?",
+  "options": [
+   "Tréponématose guérie possible",
+   "Syphilis primaire possible (demander un 2e sérum)",
+   "Faux positif du test tréponémique possible",
+   "Phénomène de zone du test non tréponémique possible",
+   "Syphilis secondaire évolutive certaine"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : tréponématose guérie possible.",
+   "Vrai : possible syphilis primaire, demander un 2e sérum.",
+   "Vrai : faux positif TT possible.",
+   "Vrai : phénomène de zone TNT possible.",
+   "Faux : la syphilis secondaire donne un profil TT+/TNT+."
+  ]
+ },
+ {
+  "q": "Concernant l'interprétation TT-/TNT+ (test tréponémique négatif / test non tréponémique positif), lesquelles sont exactes ?",
+  "options": [
+   "Faux positif du test non tréponémique",
+   "Syphilis primaire possible (demander un 2e sérum)",
+   "Séquelle sérologique certaine",
+   "Syphilis tertiaire certaine",
+   "Le phénomène de zone du TNT est une explication possible"
+  ],
+  "correct": [
+   0,
+   1,
+   4
+  ],
+  "explain": [
+   "Vrai : TT-/TNT+ = faux positif possible.",
+   "Vrai : syphilis primaire possible, demander un 2e sérum.",
+   "Faux : la séquelle sérologique correspond à TT+/TNT-.",
+   "Faux : la syphilis tertiaire donne plutôt TT+/TNT-.",
+   "Vrai : le phénomène de zone TNT peut expliquer ce profil dissocié."
+  ]
+ },
+ {
+  "q": "Concernant l'interprétation TT-/TNT- (les deux tests négatifs), lesquelles sont exactes ?",
+  "options": [
+   "Syphilis primaire possible si très précoce",
+   "Syphilis guérie possible",
+   "Syphilis maligne possible (rarissime)",
+   "Syphilis secondaire évolutive",
+   "Ce profil exclut formellement toute syphilis"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : syphilis primaire possible (très précoce, phase sérologiquement muette).",
+   "Vrai : syphilis guérie possible.",
+   "Vrai : syphilis maligne possible (rarissime).",
+   "Faux : la syphilis secondaire a une sérologie positive.",
+   "Faux : une syphilis primaire très précoce reste possible."
+  ]
+ },
+ {
+  "q": "Concernant les cas particuliers d'interprétation sérologique, lesquels sont exacts ?",
+  "options": [
+   "Chez l'Africain ou l'Antillais : penser au pian ou au bejel",
+   "Chez le nouveau-né : les anticorps maternels faussent l'interprétation",
+   "En cas de sida : l'interprétation peut être particulière",
+   "Le pian et le bejel sont sérologiquement indistinguables de la syphilis vénérienne",
+   "Il n'existe aucun cas particulier d'interprétation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Africain/Antillais : pian-bejel à évoquer.",
+   "Vrai : nouveau-né : Ac maternels.",
+   "Vrai : le sida est un cas particulier cité.",
+   "Vrai : pian, bejel et syphilis sont sérologiquement indistinguables.",
+   "Faux : trois cas particuliers sont cités (pian-bejel, nouveau-né, sida)."
+  ]
+ },
+ {
+  "q": "Un patient africain présente une sérologie syphilitique positive sans notion de rapport sexuel à risque. Quelles propositions sont exactes ?",
+  "options": [
+   "Le pian doit être évoqué",
+   "Le bejel doit être évoqué",
+   "Le pian et le bejel sont sérologiquement indistinguables de la syphilis vénérienne",
+   "La sérologie permet d'affirmer qu'il s'agit d'une syphilis vénérienne",
+   "La contamination se fait par contact direct à partir des lésions récentes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : cas particulier Africain/Antillais : pian.",
+   "Vrai : cas particulier Africain/Antillais : bejel.",
+   "Vrai : sérologiquement indistinguables de T. pallidum ssp. pallidum.",
+   "Faux : la sérologie ne permet pas de les différencier.",
+   "Vrai : contamination par contact direct à partir des lésions récentes."
+  ]
+ },
+ {
+  "q": "Concernant le suivi sérologique après traitement, lesquelles sont exactes ?",
+  "options": [
+   "Le VDRL est le meilleur critère sérologique de guérison",
+   "Le titre du VDRL diminue après un traitement efficace",
+   "Le TPHA reste le plus souvent positif après guérison",
+   "Le FTA-Abs se négative après traitement",
+   "Le TPHA est le meilleur critère sérologique de guérison"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le VDRL est le meilleur critère sérologique de guérison.",
+   "Vrai : le titre du VDRL diminue après traitement efficace.",
+   "Vrai : le TPHA reste le plus souvent positif chez un malade guéri.",
+   "Vrai : la cinétique du FTA-Abs est superposable au TPHA mais il se négative après traitement.",
+   "Faux : le meilleur critère sérologique de guérison est le VDRL, pas le TPHA."
+  ]
+ },
+ {
+  "q": "Concernant la cinétique comparée des anticorps dans la syphilis non traitée, lesquelles sont exactes ?",
+  "options": [
+   "Le TPHA se positive environ 1 semaine après l'apparition du chancre",
+   "Le VDRL se positive 8 à 20 jours après le début du chancre",
+   "Le FTA-Abs a une précocité contemporaine au chancre",
+   "L'ELISA détecte les anticorps plus précocement que les autres techniques",
+   "Le VDRL se positive avant le TPHA"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : TPHA positif environ 1 semaine après l'apparition du chancre.",
+   "Vrai : VDRL positif 8 à 20 jours après le début du chancre.",
+   "Vrai : précocité du FTA-Abs contemporaine au chancre.",
+   "Vrai : l'ELISA détecte les anticorps plus précocement.",
+   "Faux : le TPHA (1 semaine) se positive avant le VDRL (8 à 20 jours)."
+  ]
+ },
+ {
+  "q": "Un patient présente un TPHA positif et un VDRL négatif avec notion d'une syphilis traitée il y a 10 ans. Quelles propositions sont exactes ?",
+  "options": [
+   "Ce profil évoque une séquelle sérologique",
+   "Le TPHA reste le plus souvent positif chez un malade guéri",
+   "Le VDRL négatif est en faveur d'une guérison",
+   "Ce profil impose systématiquement un nouveau traitement",
+   "Un 2e sérum à 15 jours d'intervalle peut aider à l'interprétation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : VDRL- et TPHA+ = séquelle sérologique.",
+   "Vrai : le TPHA reste le plus souvent positif après guérison.",
+   "Vrai : le VDRL est le meilleur critère sérologique de guérison.",
+   "Faux : une séquelle sérologique après traitement ne justifie pas un retraitement systématique.",
+   "Vrai : deux sérums à 15 jours d'intervalle aident à l'interprétation."
+  ]
+ },
+ {
+  "q": "Concernant la conduite à tenir devant des résultats dissociés entre les deux tests de dépistage, lesquelles sont exactes ?",
+  "options": [
+   "Le FTA-Abs est indiqué en confirmation",
+   "Un 2e sérum à 15 jours d'intervalle est recommandé",
+   "Le phénomène de zone peut expliquer un faux négatif du TNT",
+   "Un faux positif du TT est possible",
+   "Les résultats dissociés n'ont aucune signification"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le FTA-Abs est la technique de confirmation si résultats dissociés.",
+   "Vrai : deux sérums à 15 jours d'intervalle.",
+   "Vrai : le phénomène de zone donne un faux négatif du test non tréponémique.",
+   "Vrai : un faux positif du test tréponémique est possible.",
+   "Faux : les résultats dissociés ont des interprétations codifiées."
+  ]
+ },
+ {
+  "q": "Concernant le titrage des anticorps, quelles affirmations sont exactes ?",
+  "options": [
+   "Si le dépistage VDRL est positif, un titrage est effectué par dilutions du sérum",
+   "Si le dépistage TPHA est positif, un titrage est effectué",
+   "Le VDRL doit impérativement être quantifié",
+   "Le taux du VDRL aide à distinguer tréponématose évolutive et guérie",
+   "Le titrage n'a aucun intérêt dans le suivi"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : titrage du VDRL par dilutions si dépistage positif.",
+   "Vrai : titrage du TPHA si dépistage positif.",
+   "Vrai : le VDRL doit impérativement être quantifié.",
+   "Vrai : l'interprétation TT+/TNT+ se fait selon le contexte et les taux du VDRL.",
+   "Faux : le titrage (VDRL) est le meilleur critère de guérison et de suivi."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur la sérologie du LCR, lesquelles sont exactes ?",
+  "options": [
+   "Le LCR est prélevé si notion de méningite",
+   "La sérologie détermine et titre les anticorps dans le LCR",
+   "La PCR dans le LCR est utile dans la neurosyphilis",
+   "Le LCR est systématiquement prélevé à tous les stades",
+   "La ponction lombaire est indiquée devant tout chancre"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : LCR prélevé si notion de méningite.",
+   "Vrai : détermination et titrage des AC dans le sang ou le LCR.",
+   "Vrai : PCR dans le LCR pour la neurosyphilis.",
+   "Faux : le LCR n'est prélevé qu'en cas de notion de méningite (ou neurosyphilis).",
+   "Faux : pas de ponction lombaire systématique devant un chancre."
+  ]
+ },
+ {
+  "q": "Concernant le traitement de la syphilis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "T. pallidum est toujours sensible à la pénicilline G",
+   "La benzathine pénicilline G est l'une des molécules les plus recommandées",
+   "La procaïne pénicilline G est l'une des molécules les plus recommandées",
+   "Il existe une résistance acquise fréquente à la pénicilline G",
+   "La pénicilline G est inefficace sur T. pallidum"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : T. pallidum est toujours sensible à la pénicilline G.",
+   "Vrai : la benzathine pénicilline G est recommandée.",
+   "Vrai : la procaïne pénicilline G est recommandée.",
+   "Faux : T. pallidum est toujours sensible à la pénicilline G, pas de résistance décrite.",
+   "Faux : la pénicilline G est le traitement de référence."
+  ]
+ },
+ {
+  "q": "En cas d'allergie à la pénicilline chez un patient syphilitique, lesquelles sont exactes ?",
+  "options": [
+   "Les cyclines peuvent être utilisées",
+   "Les macrolides peuvent être utilisés",
+   "Les tétracyclines sont efficaces contre les spirochètes",
+   "Aucune alternative thérapeutique n'existe",
+   "Les aminosides sont l'alternative de choix"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : en cas d'allergie à la pénicilline, les cyclines sont indiquées.",
+   "Vrai : en cas d'allergie à la pénicilline, les macrolides sont indiqués.",
+   "Vrai : les tétracyclines sont efficaces contre les spirochètes.",
+   "Faux : cyclines et macrolides sont des alternatives.",
+   "Faux : les aminosides ne sont pas l'alternative recommandée."
+  ]
+ },
+ {
+  "q": "Concernant les molécules actives sur Treponema pallidum, lesquelles sont exactes ?",
+  "options": [
+   "La pénicilline G",
+   "L'amoxicilline",
+   "La ceftriaxone",
+   "Les tétracyclines",
+   "La vancomycine comme molécule de référence"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la pénicilline G est le traitement de référence.",
+   "Vrai : l'amoxicilline est efficace contre les spirochètes.",
+   "Vrai : la ceftriaxone est efficace contre les spirochètes.",
+   "Vrai : les tétracyclines sont efficaces.",
+   "Faux : la vancomycine n'est pas la molécule de référence."
+  ]
+ },
+ {
+  "q": "Un patient présente un TPHA et un VDRL fortement positifs avec un chancre génital. Quelles propositions sont exactes ?",
+  "options": [
+   "Un traitement s'impose d'emblée",
+   "La pénicilline G (benzathine ou procaïne) est le traitement recommandé",
+   "Le prélèvement pour examen direct aurait dû précéder tout traitement",
+   "Il faut attendre la guérison spontanée du chancre avant de traiter",
+   "Une enquête autour du sujet contaminateur doit être menée"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : traitement d'emblée si TPHA et VDRL fortement positifs.",
+   "Vrai : benzathine ou procaïne pénicilline G recommandées.",
+   "Vrai : le prélèvement direct se fait avant toute prise d'ATB.",
+   "Faux : le traitement ne doit pas attendre la guérison spontanée.",
+   "Vrai : traitement précoce et enquête autour du sujet contaminateur."
+  ]
+ },
+ {
+  "q": "Concernant le traitement de la syphilis à ses différents stades, quelles affirmations sont exactes ?",
+  "options": [
+   "T. pallidum reste sensible à la pénicilline G à tous les stades",
+   "La présence d'IgM spécifiques est en faveur d'une infection évolutive nécessitant une antibiothérapie",
+   "Le traitement de la femme enceinte prévient la syphilis congénitale",
+   "La pénicilline G devient inefficace en phase tertiaire",
+   "Le traitement n'est indiqué qu'en phase primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : T. pallidum est toujours sensible à la pénicilline G.",
+   "Vrai : les IgM sont en faveur d'une infection évolutive nécessitant une antibiothérapie.",
+   "Vrai : le traitement maternel prévient la transmission maternofœtale.",
+   "Faux : la pénicilline G reste efficace à tous les stades.",
+   "Faux : le traitement est indiqué à tous les stades."
+  ]
+ },
+ {
+  "q": "Concernant la prévention de la syphilis (action sur le réservoir), lesquelles sont exactes ?",
+  "options": [
+   "Le dépistage systématique (examen prénuptial, prénatal, conduites à risque)",
+   "Le dépistage des groupes à risque",
+   "Le dépistage systématique des donneurs de sang",
+   "Le traitement précoce des sujets contaminés",
+   "La vaccination systématique de la population"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : dépistage systématique : prénuptial, prénatal, conduite à risque.",
+   "Vrai : dépistage des groupes à risque.",
+   "Vrai : dépistage des donneurs de sang.",
+   "Vrai : traitement précoce.",
+   "Faux : il n'existe pas de vaccin contre la syphilis."
+  ]
+ },
+ {
+  "q": "Concernant l'enquête autour du sujet contaminé, quelles propositions sont exactes ?",
+  "options": [
+   "Elle fait partie de l'action sur le réservoir",
+   "Elle vise le dépistage et le traitement des partenaires",
+   "Elle s'associe au traitement précoce",
+   "Elle est inutile car la syphilis n'est pas contagieuse",
+   "Elle remplace le port du préservatif"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : traitement précoce et enquête autour du sujet contaminateur.",
+   "Vrai : l'enquête vise à retrouver, dépister et traiter les partenaires.",
+   "Vrai : elle s'associe au traitement précoce dans l'action sur le réservoir.",
+   "Faux : la syphilis est contagieuse (phases primaire et secondaire).",
+   "Faux : elle ne remplace pas le port du préservatif."
+  ]
+ },
+ {
+  "q": "Concernant le port du préservatif dans la prévention de la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "Il fait partie des mesures de prévention",
+   "Il protège contre la transmission sexuelle, mode prédominant",
+   "Il est inutile car la transmission est uniquement maternofœtale",
+   "Il s'associe à l'éducation sanitaire",
+   "Il dispense du dépistage des partenaires"
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : le port du préservatif est une mesure de prévention.",
+   "Vrai : la transmission sexuelle est le mode prédominant (+++).",
+   "Faux : la transmission sexuelle est le mode prédominant, pas la transmission maternofœtale.",
+   "Vrai : l'éducation sanitaire fait partie de la prévention.",
+   "Faux : il ne dispense pas du dépistage et du traitement des partenaires."
+  ]
+ },
+ {
+  "q": "Concernant l'éducation sanitaire dans la prévention de la syphilis, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle fait partie des mesures de prévention",
+   "Elle vise les groupes à risque et les conduites à risque",
+   "Elle s'associe au dépistage systématique",
+   "Elle remplace le traitement antibiotique",
+   "Elle est la seule mesure de prévention efficace"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'éducation sanitaire est une mesure de prévention.",
+   "Vrai : elle cible les groupes et conduites à risque.",
+   "Vrai : elle complète le dépistage systématique.",
+   "Faux : elle ne remplace pas le traitement.",
+   "Faux : elle s'associe aux autres mesures (dépistage, traitement, préservatif)."
+  ]
+ },
+ {
+  "q": "Parmi les mesures suivantes, lesquelles font partie du dépistage systématique de la syphilis ?",
+  "options": [
+   "L'examen prénuptial",
+   "L'examen prénatal",
+   "Le dépistage des conduites à risque",
+   "Le dépistage des donneurs de sang",
+   "Le dépistage uniquement en cas de symptômes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : l'examen prénuptial fait partie du dépistage systématique.",
+   "Vrai : l'examen prénatal fait partie du dépistage systématique.",
+   "Vrai : le dépistage des conduites à risque.",
+   "Vrai : le dépistage des donneurs de sang.",
+   "Faux : le dépistage est systématique, pas seulement en cas de symptômes."
+  ]
+ },
+ {
+  "q": "Concernant la prévention de la transmission sanguine de la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "La transmission sanguine est exceptionnelle",
+   "Le dépistage systématique des donneurs de sang est recommandé",
+   "La fragilité du tréponème limite sa survie dans les produits sanguins",
+   "La transfusion est le mode principal de transmission",
+   "Aucune mesure de prévention n'est nécessaire pour la voie sanguine"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : transmission sanguine exceptionnelle.",
+   "Vrai : dépistage systématique des donneurs de sang.",
+   "Vrai : T. pallidum est fragile (froid, dessiccation), ce qui limite sa survie.",
+   "Faux : la transmission sexuelle est le mode prédominant.",
+   "Faux : le dépistage des donneurs de sang est la mesure préventive."
+  ]
+ },
+ {
+  "q": "Un patient traité pour une syphilis primaire demande comment éviter une réinfection. Quelles propositions sont exactes ?",
+  "options": [
+   "Le port du préservatif est recommandé",
+   "L'immunité acquise après guérison ne protège pas d'une réinfection",
+   "Le dépistage des partenaires sexuels est nécessaire",
+   "La guérison confère une immunité définitive",
+   "L'éducation sanitaire fait partie de la prévention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le port du préservatif fait partie de la prévention.",
+   "Vrai : l'immunité acquise ne protège pas, réinfection possible.",
+   "Vrai : enquête autour du sujet contaminateur = dépistage des partenaires.",
+   "Faux : l'immunité acquise ne protège pas.",
+   "Vrai : l'éducation sanitaire est une mesure de prévention."
+  ]
+ },
+ {
+  "q": "Concernant la conclusion du cours sur la syphilis, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "C'est une infection sexuellement transmissible toujours d'actualité",
+   "Le diagnostic est avant tout sérologique",
+   "La prévention repose notamment sur le préservatif",
+   "C'est une infection éradiquée",
+   "Le diagnostic repose avant tout sur la culture"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : IST toujours d'actualité.",
+   "Vrai : le diagnostic est avant tout sérologique.",
+   "Vrai : la prévention repose sur le préservatif.",
+   "Faux : elle reste d'actualité, problème de santé publique.",
+   "Faux : la culture de T. pallidum n'est pas réalisable."
+  ]
+ },
+ {
+  "q": "Concernant la culture des différents spirochètes, quelles affirmations sont exactes ?",
+  "options": [
+   "Treponema pallidum n'est pas cultivable in vitro",
+   "La culture de Leptospira est difficile et longue",
+   "La culture de Borrelia est difficile et longue",
+   "Tous les spirochètes sont facilement cultivables",
+   "Le milieu de Nelson permet la multiplication de T. pallidum"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la culture de Treponema est impossible in vitro.",
+   "Vrai : la culture de Leptospira est difficile et longue.",
+   "Vrai : la culture de Borrelia est difficile et longue.",
+   "Faux : culture impossible (Treponema) ou difficile et longue (Leptospira, Borrelia).",
+   "Faux : le milieu de Nelson n'assure qu'une survie de quelques heures, pas une multiplication."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes sur les dimensions de T. pallidum, lesquelles sont exactes ?",
+  "options": [
+   "Longueur de 6 à 15 µm",
+   "Largeur de 0,1 à 0,2 µm",
+   "Spires régulières au nombre de 6 à 12",
+   "Bacille très fin spiralé",
+   "Cocci de 1 µm de diamètre"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : 6 à 15 µm de longueur.",
+   "Vrai : 0,1 à 0,2 µm de largeur.",
+   "Vrai : 6 à 12 spires régulières.",
+   "Vrai : bacille très fin spiralé.",
+   "Faux : ce n'est pas un cocci, c'est un bacille spiralé fin."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes mis en évidence par le test de Nelson et l'immunofluorescence, lesquelles sont exactes ?",
+  "options": [
+   "Le test de Nelson met en évidence les antigènes du corps tréponémique",
+   "L'immunofluorescence met en évidence l'antigène polyosidique d'enveloppe",
+   "Les deux sont spécifiques de T. pallidum",
+   "Le test de Nelson est encore le test de référence actuel",
+   "L'immunofluorescence utilise l'antigène cardiolipidique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le test de Nelson révèle les Ag du corps tréponémique spécifiques de T. pallidum.",
+   "Vrai : l'IF révèle l'Ag polyosidique d'enveloppe spécifique de T. pallidum.",
+   "Vrai : les deux sont spécifiques de l'espèce T. pallidum.",
+   "Faux : le test de Nelson est abandonné.",
+   "Faux : l'IF utilise des Ag tréponémiques, pas le cardiolipide."
+  ]
+ },
+ {
+  "q": "Concernant les réagines, quelles affirmations sont exactes ?",
+  "options": [
+   "Ce sont les anticorps dirigés contre l'antigène cardiolipidique",
+   "Elles sont détectées par le VDRL",
+   "Elles sont détectées par le RPR",
+   "Ce sont des anticorps spécifiques de T. pallidum",
+   "Le cardiolipide est présent dans le foie, le cœur et les tissus humains"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les réagines sont les Ac anti-cardiolipide.",
+   "Vrai : le VDRL détecte les Ac anti-antigène cardiolipidique.",
+   "Vrai : le RPR détecte les mêmes anticorps.",
+   "Faux : le cardiolipide est commun aux tréponèmes et présent dans les tissus humains, donc non spécifique.",
+   "Vrai : le cardiolipide est présent dans le foie, le cœur et les tissus humains."
+  ]
+ },
+ {
+  "q": "Concernant la contamination des tréponématoses non vénériennes, lesquelles sont exactes ?",
+  "options": [
+   "Elle se fait par contact direct à partir des lésions récentes",
+   "Le pian se transmet par contact cutané direct",
+   "La pinta se transmet par contact cutané direct",
+   "Le bejel se transmet exclusivement par voie sexuelle",
+   "La sérologie permet de distinguer le pian de la syphilis vénérienne"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : contamination par contact direct à partir des lésions récentes.",
+   "Vrai : le pian est une tréponématose non vénérienne à contact direct.",
+   "Vrai : la pinta est une tréponématose non vénérienne à contact direct.",
+   "Faux : le bejel est une tréponématose non vénérienne.",
+   "Faux : elles sont sérologiquement indistinguables."
+  ]
+ },
+ {
+  "q": "Un écouvillon d'une lésion buccale montre au fond noir des tréponèmes mobiles. Quelles propositions sont exactes ?",
+  "options": [
+   "Il peut s'agir de tréponèmes saprophytes (T. denticola, T. refringens)",
+   "L'examen à l'état frais ne permet pas d'affirmer une syphilis",
+   "L'immunofluorescence permettrait de trancher",
+   "La sérologie est indispensable au diagnostic",
+   "L'examen à l'état frais suffit à affirmer la syphilis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : en localisation buccale, risque de faux positif (saprophytes).",
+   "Vrai : l'état frais ne différencie pas pathogènes et saprophytes.",
+   "Vrai : l'IF différencie les tréponèmes pathogènes des saprophytes.",
+   "Vrai : le diagnostic de la syphilis est avant tout sérologique.",
+   "Faux : l'état frais seul ne suffit pas en localisation buccale."
+  ]
+ },
+ {
+  "q": "Concernant les colorations utilisables pour les tréponèmes, lesquelles sont exactes ?",
+  "options": [
+   "L'imprégnation argentique (Fontana-Tribondeau)",
+   "La coloration de May-Grünwald-Giemsa",
+   "L'examen à l'état frais au fond noir n'est pas une coloration mais un examen direct",
+   "La coloration de Gram est la méthode de référence",
+   "L'examen après coloration a peu d'intérêt diagnostique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : l'imprégnation argentique est l'une des trois procédures.",
+   "Vrai : la coloration MGG est l'une des trois procédures.",
+   "Vrai : l'état frais au fond noir est un examen direct, pas une coloration.",
+   "Faux : T. pallidum prend mal le Gram.",
+   "Vrai : l'examen après coloration a peu d'intérêt."
+  ]
+ },
+ {
+  "q": "Concernant la mobilité en pas de vis de T. pallidum, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle est observable à l'examen à l'état frais",
+   "Elle s'associe à une mobilité pendulaire",
+   "Elle traduit le déplacement par ondulations des spirochètes",
+   "Elle est liée à des flagelles externes visibles au Gram",
+   "Elle disparaît après application d'antiseptique sur la lésion"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la mobilité s'observe à l'état frais au fond noir.",
+   "Vrai : mobilité en pas de vis et pendulaire.",
+   "Vrai : les spirochètes se déplacent par ondulations.",
+   "Faux : pas de flagelles externes visibles ; T. pallidum prend mal le Gram.",
+   "Vrai : la bactérie est sensible aux antiseptiques, le prélèvement se fait avant leur application."
+  ]
+ },
+ {
+  "q": "Concernant l'incubation de la syphilis primaire, lesquelles sont exactes ?",
+  "options": [
+   "Elle est d'environ 3 semaines",
+   "Elle est silencieuse",
+   "Elle dépend de la taille de l'inoculum",
+   "Elle dépend de l'immunité de l'hôte",
+   "Elle s'accompagne d'un chancre douloureux"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : incubation d'environ 3 semaines.",
+   "Vrai : incubation silencieuse.",
+   "Vrai : dépend de la taille de l'inoculum.",
+   "Vrai : dépend de l'immunité.",
+   "Faux : l'incubation est silencieuse et le chancre est indolore."
+  ]
+ },
+ {
+  "q": "Un patient présente une ulcération anale unique, indolore, à base indurée. Quelles propositions sont exactes ?",
+  "options": [
+   "La localisation anale du chancre est possible",
+   "Le caractère indolore et induré oriente vers la syphilis",
+   "Un examen direct au fond noir est indiqué avant traitement",
+   "Le risque de faux positif lié aux saprophytes existe en localisation anale",
+   "Le diagnostic de chancre mou est le plus probable"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le chancre peut siéger en localisation anale.",
+   "Vrai : unique, indolore, base indurée = chancre syphilitique.",
+   "Vrai : examen direct en phase précoce pré-sérologique, avant ATB.",
+   "Vrai : l'état frais ne différencie pas pathogènes et saprophytes en localisation anale.",
+   "Faux : le chancre mou est douloureux à base molle."
+  ]
+ },
+ {
+  "q": "Concernant la durée de la phase primaire, quelles affirmations sont exactes ?",
+  "options": [
+   "La phase primaire dure 4 à 6 semaines",
+   "Le chancre guérit spontanément en 4 à 6 semaines",
+   "La guérison du chancre se fait sans séquelles",
+   "La phase primaire dure 1 à 3 ans",
+   "Le chancre persiste toute la vie sans traitement"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : phase primaire de 4 à 6 semaines.",
+   "Vrai : guérison spontanée du chancre en 4 à 6 semaines.",
+   "Vrai : guérison sans séquelles.",
+   "Faux : 1 à 3 ans correspond à l'évolution de la phase secondaire.",
+   "Faux : le chancre guérit spontanément en 4 à 6 semaines."
+  ]
+ },
+ {
+  "q": "Un patient présente 4 mois après un contage une roséole diffuse et des plaques muqueuses génitales. Quelles propositions sont exactes ?",
+  "options": [
+   "Le délai est compatible avec une syphilis secondaire",
+   "Les plaques muqueuses sont contagieuses",
+   "Un raclage des plaques muqueuses peut mettre en évidence le tréponème",
+   "La sérologie est positive à ce stade",
+   "Ce tableau évoque une syphilis primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la phase secondaire débute 2 mois à 2 ans après le contage.",
+   "Vrai : les lésions cutanéo-muqueuses secondaires sont contagieuses.",
+   "Vrai : raclage/vaccinostyle des plaques muqueuses pour diagnostic direct.",
+   "Vrai : la phase sérologiquement muette est dépassée.",
+   "Faux : le chancre primaire a disparu ; c'est une phase secondaire."
+  ]
+ },
+ {
+  "q": "Concernant les signes généraux de la syphilis secondaire, lesquelles sont exactes ?",
+  "options": [
+   "La fébricule",
+   "Les céphalées",
+   "L'asthénie",
+   "Les polyadénopathies",
+   "La paralysie générale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la fébricule fait partie des manifestations générales.",
+   "Vrai : les céphalées font partie des manifestations générales.",
+   "Vrai : l'asthénie fait partie des manifestations générales.",
+   "Vrai : les polyadénopathies sont décrites.",
+   "Faux : la paralysie générale est une complication neurologique tertiaire."
+  ]
+ },
+ {
+  "q": "Concernant la phase latente, lesquelles de ces affirmations sont exactes ?",
+  "options": [
+   "Sa durée est de 2 à 20 ans",
+   "La sérologie y est positive",
+   "Elle est asymptomatique",
+   "Elle est non contagieuse",
+   "Elle précède la phase primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : durée de 2 à 20 ans.",
+   "Vrai : syphilis latente ou sérologique, sérologie ++.",
+   "Vrai : asymptomatique.",
+   "Vrai : non contagieuse.",
+   "Faux : elle succède à la phase secondaire."
+  ]
+ },
+ {
+  "q": "Une femme enceinte en phase latente de syphilis non traitée. Quelles propositions sont exactes ?",
+  "options": [
+   "La transmission maternofœtale reste possible",
+   "Le dépistage prénatal permet de détecter cette phase",
+   "Un traitement par pénicilline G s'impose",
+   "La phase latente étant non contagieuse, aucun traitement n'est nécessaire",
+   "Le VDRL quantifié aide à évaluer l'activité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la syphilis congénitale survient si la mère a une syphilis active, y compris latente.",
+   "Vrai : l'examen prénatal fait partie du dépistage systématique.",
+   "Vrai : un traitement s'impose pour prévenir la syphilis congénitale.",
+   "Faux : la non-contagiosité sexuelle n'exclut pas la transmission maternofœtale.",
+   "Vrai : le VDRL doit être quantifié."
+  ]
+ },
+ {
+  "q": "Concernant la fréquence de la syphilis tertiaire, quelles affirmations sont exactes ?",
+  "options": [
+   "Elle survient chez 20 à 30 % des patients",
+   "Elle débute 2 à 10 ans après le début de la maladie",
+   "Elle concerne les patients non ou insuffisamment traités",
+   "Elle survient chez tous les patients infectés",
+   "Elle débute 2 mois après le contage"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : chez 20 à 30 % des patients.",
+   "Vrai : début 2 à 10 ans après le début de la maladie.",
+   "Vrai : c'est l'évolution naturelle de l'infection non traitée.",
+   "Faux : seulement 20 à 30 % des patients.",
+   "Faux : 2 mois correspond au début de la phase secondaire."
+  ]
+ },
+ {
+  "q": "Concernant les gommes syphilitiques, lesquelles sont exactes ?",
+  "options": [
+   "Ce sont des lésions de la syphilis tertiaire",
+   "Elles peuvent siéger au niveau osseux",
+   "Elles peuvent siéger au niveau cutanéo-muqueux",
+   "Elles sont de mécanisme immunitaire comme les autres lésions tertiaires",
+   "Ce sont des lésions très contagieuses"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les gommes sont des lésions tertiaires.",
+   "Vrai : gommes osseuses.",
+   "Vrai : gommes cutanéo-muqueuses.",
+   "Vrai : les complications viscérales tertiaires sont de mécanisme immunitaire.",
+   "Faux : les lésions tertiaires sont non contagieuses."
+  ]
+ },
+ {
+  "q": "Un patient de 55 ans présente un anévrysme de l'aorte ascendante avec une sérologie TPHA positive et VDRL faiblement positif. Quelles propositions sont exactes ?",
+  "options": [
+   "Ce tableau évoque une syphilis tertiaire cardiovasculaire",
+   "L'aortite syphilitique peut se compliquer d'anévrysme de l'aorte",
+   "Le profil VDRL faiblement positif et TPHA positif est compatible",
+   "La pénicilline G reste le traitement de référence",
+   "Ce tableau évoque une syphilis primaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : anévrysme de l'aorte + sérologie positive = tertiaire cardiovasculaire.",
+   "Vrai : aortite et anévrysme de l'aorte décrits.",
+   "Vrai : en phase tertiaire, le VDRL peut être faiblement positif ou négatif avec TPHA positif.",
+   "Vrai : T. pallidum est toujours sensible à la pénicilline G.",
+   "Faux : la syphilis primaire est le chancre, pas une complication aortique."
+  ]
+ },
+ {
+  "q": "Un patient présente des douleurs fulgurantes des membres inférieurs et des troubles de la marche (tabès). Quelles propositions sont exactes ?",
+  "options": [
+   "Le tabès est une complication neurologique de la syphilis tertiaire",
+   "La paralysie générale est une autre complication neurologique tertiaire",
+   "La PCR dans le LCR peut aider au diagnostic de neurosyphilis",
+   "Ces troubles relèvent d'une syphilis secondaire",
+   "Les lésions neurologiques tertiaires sont non contagieuses"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le tabès est une complication neurologique tertiaire.",
+   "Vrai : la paralysie générale est une complication neurologique tertiaire.",
+   "Vrai : la PCR dans le LCR est indiquée dans la neurosyphilis.",
+   "Faux : ce sont des complications tertiaires, pas secondaires.",
+   "Vrai : les lésions viscérales tertiaires sont non contagieuses."
+  ]
+ },
+ {
+  "q": "Concernant les trois tableaux de la syphilis congénitale, lesquelles sont exactes ?",
+  "options": [
+   "La syphilis fœtale peut entraîner la mort in utero",
+   "La syphilis congénitale précoce se manifeste par des bulles et un coryza",
+   "La syphilis congénitale tardive apparaît plus tardivement",
+   "Ces tableaux s'observent si la grossesse est menée à terme",
+   "Il n'existe qu'un seul tableau de syphilis congénitale"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la syphilis fœtale est l'un des trois tableaux (atteinte fœtale).",
+   "Vrai : bulles et coryza sont les prélèvements/lésions de la forme précoce.",
+   "Vrai : la forme tardive est l'un des trois tableaux.",
+   "Vrai : ces 3 tableaux s'observent si la grossesse est menée à terme.",
+   "Faux : trois tableaux sont décrits."
+  ]
+ },
+ {
+  "q": "Concernant les prélèvements placentaires et funiculaires, quelles affirmations sont exactes ?",
+  "options": [
+   "Le placenta peut être prélevé dans la syphilis congénitale",
+   "Le sang du cordon peut être prélevé",
+   "Ces prélèvements s'ajoutent aux bulles, au coryza et aux sécrétions",
+   "Seul le sang maternel a un intérêt diagnostique",
+   "Le liquide amniotique peut être prélevé pendant la grossesse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : prélèvement du placenta.",
+   "Vrai : prélèvement du sang du cordon.",
+   "Vrai : bulles, coryza, sang du cordon, placenta, sécrétions.",
+   "Faux : les prélèvements néonatals sont essentiels au diagnostic direct.",
+   "Vrai : le liquide amniotique peut être prélevé pendant la grossesse."
+  ]
+ },
+ {
+  "q": "Concernant les anticorps maternels chez le nouveau-né, lesquelles sont exactes ?",
+  "options": [
+   "Les IgG maternelles traversent le placenta",
+   "Une sérologie positive chez le nouveau-né peut refléter les anticorps maternels",
+   "La détection d'IgM spécifiques témoigne de l'atteinte du nouveau-né",
+   "Le nouveau-né est un cas particulier d'interprétation sérologique",
+   "Les IgM maternelles traversent le placenta en grande quantité"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les IgG maternelles traversent le placenta.",
+   "Vrai : d'où le cas particulier d'interprétation chez le nouveau-né.",
+   "Vrai : les IgM témoignent de l'atteinte du nouveau-né.",
+   "Vrai : le nouveau-né (Ac maternels) est un cas particulier cité.",
+   "Faux : ce sont les IgM du nouveau-né qui témoignent de son atteinte, les IgM maternelles ne traversent pas."
+  ]
+ },
+ {
+  "q": "Concernant le recueil des sérosités pour examen direct, quelles affirmations sont exactes ?",
+  "options": [
+   "Les sérosités doivent être exemptes de sang",
+   "Le raclage se fait au vaccinostyle au centre de la lésion",
+   "Le prélèvement concerne le chancre, les syphilides et les plaques muqueuses",
+   "La ponction du ganglion satellite est un site possible",
+   "Le prélèvement doit être fait après application d'antiseptique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : sérosités exemptes du sang.",
+   "Vrai : raclage/vaccinostyle du centre des lésions.",
+   "Vrai : chancre, syphilides cutanées, plaques muqueuses.",
+   "Vrai : ponction du ganglion lymphatique satellite.",
+   "Faux : le prélèvement se fait avant toute application d'antiseptique."
+  ]
+ },
+ {
+  "q": "Concernant la ponction du ganglion satellite, lesquelles sont exactes ?",
+  "options": [
+   "C'est un site de prélèvement pour le diagnostic direct",
+   "L'adénopathie satellite est unilatérale, multiple, indolore et dure",
+   "Le produit de ponction peut être examiné au fond noir",
+   "La ponction ganglionnaire est inutile dans la syphilis",
+   "L'adénopathie satellite est douloureuse et inflammatoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : ponction du ganglion lymphatique satellite pour diagnostic direct.",
+   "Vrai : adénopathie satellite unilatérale, multiple, indolore, dure.",
+   "Vrai : examen à l'état frais au fond noir du produit de ponction.",
+   "Faux : c'est un site de prélèvement reconnu.",
+   "Faux : elle est indolore et dure, non inflammatoire."
+  ]
+ },
+ {
+  "q": "Concernant la sensibilité de l'examen à l'état frais, quelles propositions sont exactes ?",
+  "options": [
+   "Sa sensibilité est variable",
+   "Elle peut atteindre 80 %",
+   "Elle nécessite un lecteur expérimenté",
+   "Elle est de 100 % dans tous les cas",
+   "Un résultat négatif n'exclut pas le diagnostic"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : sensibilité variable.",
+   "Vrai : jusqu'à 80 %.",
+   "Vrai : nécessite un lecteur expérimenté.",
+   "Faux : la sensibilité est variable, pas de 100 %.",
+   "Vrai : la sensibilité variable impose de ne pas exclure le diagnostic sur un seul examen négatif."
+  ]
+ },
+ {
+  "q": "Concernant les inconvénients de l'immunofluorescence directe, lesquelles sont exactes ?",
+  "options": [
+   "C'est une technique coûteuse",
+   "C'est une technique longue",
+   "Elle nécessite un microscope à UV",
+   "Elle ne différencie pas les tréponèmes pathogènes des saprophytes",
+   "Elle a une moins bonne sensibilité que l'examen à l'état frais"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : technique coûteuse.",
+   "Vrai : technique longue.",
+   "Vrai : observation au microscope à UV.",
+   "Faux : elle différencie les tréponèmes pathogènes des saprophytes.",
+   "Faux : elle a une meilleure sensibilité."
+  ]
+ },
+ {
+  "q": "Concernant la place de la culture dans le diagnostic de la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "La culture de T. pallidum n'est pas réalisable",
+   "Le diagnostic direct repose sur l'examen à l'état frais et l'immunofluorescence",
+   "La PCR dans le LCR est utile dans la neurosyphilis",
+   "La culture sur milieu de Nelson permet le diagnostic",
+   "L'examen après coloration a peu d'intérêt"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : culture non réalisable.",
+   "Vrai : état frais et immunofluorescence pour le diagnostic direct.",
+   "Vrai : PCR dans le LCR (neurosyphilis, latence).",
+   "Faux : le milieu de Nelson n'assure qu'une survie de quelques heures.",
+   "Vrai : l'examen après coloration a peu d'intérêt."
+  ]
+ },
+ {
+  "q": "Concernant les deux sérums à 15 jours d'intervalle, quelles affirmations sont exactes ?",
+  "options": [
+   "Ils sont recommandés dans le diagnostic indirect",
+   "Ils aident à interpréter une syphilis primaire possible",
+   "Ils permettent de suivre la cinétique des anticorps",
+   "Un seul sérum suffit toujours",
+   "Ils sont inutiles en cas de résultats dissociés"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : deux sérums à 15 jours d'intervalle recommandés.",
+   "Vrai : TT+/TNT- ou TT-/TNT+ : possible syphilis primaire, demander un 2e sérum.",
+   "Vrai : ils permettent d'apprécier l'évolution des titres.",
+   "Faux : deux sérums sont recommandés.",
+   "Faux : ils sont utiles justement en cas de résultats dissociés."
+  ]
+ },
+ {
+  "q": "Concernant l'expression des résultats du VDRL, lesquelles sont exactes ?",
+  "options": [
+   "Les résultats sont exprimés en croix (de 0 à 4)",
+   "Si le dépistage est positif, un titrage est effectué par dilutions du sérum",
+   "Le VDRL doit impérativement être quantifié",
+   "Le résultat est uniquement qualitatif sans quantification possible",
+   "Le titrage n'a aucun intérêt"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : résultats en croix de 0 à 4.",
+   "Vrai : titrage par dilutions du sérum si positif.",
+   "Vrai : le VDRL doit impérativement être quantifié.",
+   "Faux : la quantification par titrage est impérative.",
+   "Faux : le titrage est le meilleur critère de guérison."
+  ]
+ },
+ {
+  "q": "Concernant le délai de positivité du VDRL, quelles propositions sont exactes ?",
+  "options": [
+   "Il se positive 8 à 20 jours après le début du chancre",
+   "Il est plus tardif que le TPHA",
+   "Il est le meilleur critère sérologique de guérison",
+   "Il se positive avant l'apparition du chancre",
+   "Il reste positif à vie après guérison"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : 8 à 20 jours après le début du chancre.",
+   "Vrai : le TPHA se positive environ 1 semaine après l'apparition du chancre.",
+   "Vrai : meilleur critère sérologique de guérison.",
+   "Faux : il se positive après le début du chancre.",
+   "Faux : son titre diminue après traitement, c'est le critère de guérison."
+  ]
+ },
+ {
+  "q": "Concernant la spécificité du VDRL, lesquelles sont exactes ?",
+  "options": [
+   "Il est peu spécifique",
+   "Il est sensible et simple",
+   "Les faux positifs sont possibles (grossesse, dysprotéinémies, infections virales)",
+   "Il est plus spécifique que le TPHA",
+   "Un VDRL positif isolé affirme la syphilis"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : peu spécifique.",
+   "Vrai : sensible et simple.",
+   "Vrai : faux positifs : grossesse, dysprotéinémies, infections virales.",
+   "Faux : le TPHA (tréponémique) est plus spécifique.",
+   "Faux : VDRL+ et TPHA- = faux positif."
+  ]
+ },
+ {
+  "q": "Concernant le principe du TPHA, quelles affirmations sont exactes ?",
+  "options": [
+   "C'est une hémagglutination sur microplaque",
+   "Le lysat de T. pallidum est adsorbé sur des hématies de mouton",
+   "Le sérum du malade est mis en contact avec ces hématies",
+   "C'est une réaction d'agglutination passive au latex",
+   "C'est une immunofluorescence sur lame"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : hémagglutination sur microplaque.",
+   "Vrai : lysat de T. pallidum adsorbé sur hématies de mouton.",
+   "Vrai : mise en contact du sérum du malade et des hématies.",
+   "Faux : l'agglutination au latex correspond au VDRL.",
+   "Faux : l'immunofluorescence sur lame correspond au FTA."
+  ]
+ },
+ {
+  "q": "Concernant la persistance du TPHA après traitement, lesquelles sont exactes ?",
+  "options": [
+   "Il reste le plus souvent positif chez un malade guéri",
+   "Il ne peut donc pas servir de critère de guérison",
+   "Le VDRL est le meilleur critère sérologique de guérison",
+   "Il se négative systématiquement après traitement",
+   "Un TPHA positif après traitement signe toujours un échec thérapeutique"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : reste le plus souvent positif après guérison.",
+   "Vrai : d'où l'utilisation du VDRL pour le suivi.",
+   "Vrai : le VDRL est le meilleur critère sérologique de guérison.",
+   "Faux : il reste le plus souvent positif.",
+   "Faux : la persistance du TPHA est habituelle après guérison."
+  ]
+ },
+ {
+  "q": "Concernant le phénomène de zone, quelles propositions sont exactes ?",
+  "options": [
+   "Il peut donner un faux négatif du TPHA",
+   "Il peut expliquer un profil TT+/TNT-",
+   "Il concerne les réactions d'agglutination",
+   "Il donne un faux positif du VDRL",
+   "Il est lié à un excès d'anticorps"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le phénomène de zone est une cause de faux négatif du TPHA.",
+   "Vrai : TT+/TNT- peut s'expliquer par un phénomène de zone du TNT.",
+   "Vrai : le phénomène de zone (prozone) concerne les réactions d'agglutination.",
+   "Faux : il donne un faux négatif, pas un faux positif.",
+   "Vrai : le phénomène de prozone est lié à un excès d'anticorps inhibant l'agglutination."
+  ]
+ },
+ {
+  "q": "Concernant la comparaison TPHA/TPPA, lesquelles sont exactes ?",
+  "options": [
+   "Les deux ont la même utilité au niveau du diagnostic sérologique",
+   "Le TPPA donne des titres légèrement plus élevés",
+   "Les deux sont des réactions à antigène tréponémique",
+   "Le TPPA est une réaction à antigène non tréponémique",
+   "Le TPHA est un test de confirmation et le TPPA un test de dépistage"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : TPHA et TPPA ont la même utilité diagnostique.",
+   "Vrai : le TPPA donne des titres légèrement plus élevés.",
+   "Vrai : les deux sont des réactions tréponémiques.",
+   "Faux : le TPPA est une réaction à Ag tréponémique.",
+   "Faux : les deux sont utilisables en dépistage."
+  ]
+ },
+ {
+  "q": "Concernant l'absorption du sérum en FTA-Abs, quelles affirmations sont exactes ?",
+  "options": [
+   "Le sérum est préalablement absorbé par une suspension de tréponèmes saprophytes",
+   "Cette absorption élimine les faux positifs",
+   "Elle améliore la spécificité du test",
+   "Elle consiste à ajouter de l'antigène cardiolipidique",
+   "Elle est inutile car le test est déjà parfait"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : absorption par des tréponèmes saprophytes (FTA-Abs).",
+   "Vrai : élimination des faux positifs.",
+   "Vrai : la spécificité du test est ainsi améliorée.",
+   "Faux : pas d'antigène cardiolipidique dans le FTA-Abs.",
+   "Faux : cette absorption est précisément ce qui fait la spécificité du FTA-Abs."
+  ]
+ },
+ {
+  "q": "Concernant la cinétique du FTA-Abs, lesquelles sont exactes ?",
+  "options": [
+   "Sa précocité est contemporaine au chancre",
+   "Sa cinétique est superposable à celle du TPHA",
+   "Il se négative après traitement",
+   "Il reste positif à vie comme le TPHA",
+   "Il se positive 8 à 20 jours après le début du chancre"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : précocité contemporaine au chancre.",
+   "Vrai : cinétique superposable à celle du TPHA.",
+   "Vrai : il se négative après traitement (différence avec le TPHA).",
+   "Faux : il se négative après traitement.",
+   "Faux : cette cinétique est celle du VDRL."
+  ]
+ },
+ {
+  "q": "Concernant les antigènes utilisés en ELISA, quelles propositions sont exactes ?",
+  "options": [
+   "Antigènes purifiés de T. pallidum",
+   "Antigènes recombinants de T. pallidum",
+   "Détection plus précoce des anticorps",
+   "Antigène cardiolipidique",
+   "Hématies de mouton sensibilisées"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : antigènes purifiés de T. pallidum.",
+   "Vrai : antigènes recombinants de T. pallidum.",
+   "Vrai : détection plus précoce que les autres techniques.",
+   "Faux : le cardiolipide est utilisé dans le VDRL/RPR.",
+   "Faux : les hématies de mouton sont utilisées dans le TPHA."
+  ]
+ },
+ {
+  "q": "Concernant les avantages de l'ELISA, lesquels sont exacts ?",
+  "options": [
+   "Technique simple",
+   "Technique automatisable",
+   "Sensible et spécifique",
+   "Détecte les fractions IgG et IgM",
+   "Technique coûteuse nécessitant un personnel très entraîné comme le FTA-Abs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : simple.",
+   "Vrai : automatisable.",
+   "Vrai : sensible et spécifique.",
+   "Vrai : détecte les fractions IgG et IgM.",
+   "Faux : ce sont le FTA-Abs et le Western blot qui sont coûteux et nécessitent un personnel entraîné."
+  ]
+ },
+ {
+  "q": "Concernant le Western blot dans la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "C'est un test d'immunotransfert",
+   "Il permet la détection séparée des IgG et des IgM",
+   "La détection des anticorps semble précoce",
+   "C'est une technique spécifique",
+   "C'est un test de dépistage de première intention"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : test d'immunotransfert (Western blot).",
+   "Vrai : détection séparée des IgG et IgM.",
+   "Vrai : détection précoce des anticorps.",
+   "Vrai : technique spécifique.",
+   "Faux : c'est une technique de confirmation, coûteuse, pas de dépistage."
+  ]
+ },
+ {
+  "q": "Parmi les tests suivants, lesquels sont abandonnés ou non utilisés en routine ?",
+  "options": [
+   "Le test de Nelson (immobilisation des tréponèmes)",
+   "L'examen après coloration (peu d'intérêt)",
+   "Le FTA-Abs",
+   "L'ELISA",
+   "Le TPHA"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : le test de Nelson est abandonné.",
+   "Vrai : l'examen après coloration a peu d'intérêt.",
+   "Faux : le FTA-Abs est la technique de confirmation.",
+   "Faux : l'ELISA peut se substituer au TPHA en dépistage.",
+   "Faux : le TPHA est un test de dépistage de référence."
+  ]
+ },
+ {
+  "q": "Un patient présente un VDRL positif et un TPHA positif avec notion de voyage en zone d'endémie palustre. Quelles propositions sont exactes ?",
+  "options": [
+   "Le paludisme peut donner un profil VDRL+/TPHA+",
+   "La maladie de Lyme peut donner ce profil",
+   "Le contexte clinique et épidémiologique aide à l'interprétation",
+   "Ce profil affirme à lui seul une syphilis évolutive",
+   "Le titrage du VDRL aide à l'interprétation"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le paludisme est cité parmi les diagnostics différentiels du profil VDRL+/TPHA+.",
+   "Vrai : la maladie de Lyme peut donner ce profil.",
+   "Vrai : l'interprétation se fait selon le contexte.",
+   "Faux : TT+/TNT+ peut être une tréponématose guérie ou un faux positif double très rare.",
+   "Vrai : l'interprétation tient compte des taux du VDRL."
+  ]
+ },
+ {
+  "q": "Devant un profil TT+/TNT- chez un patient avec un chancre récent, lesquelles sont exactes ?",
+  "options": [
+   "Une syphilis primaire est possible",
+   "Un 2e sérum à 15 jours d'intervalle est recommandé",
+   "Le phénomène de zone du TNT est une explication possible",
+   "Un faux positif du TT est possible",
+   "Ce profil exclut toute syphilis"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : TT+/TNT- = possible syphilis primaire.",
+   "Vrai : demander un 2e sérum.",
+   "Vrai : le phénomène de zone TNT est une explication.",
+   "Vrai : un faux positif TT est possible.",
+   "Faux : une syphilis primaire est possible."
+  ]
+ },
+ {
+  "q": "Devant un profil TT-/TNT+ chez un patient asymptomatique, lesquelles sont exactes ?",
+  "options": [
+   "Un faux positif du TNT est l'hypothèse la plus probable",
+   "La grossesse est une cause de faux positif du VDRL",
+   "Une syphilis primaire reste possible (2e sérum)",
+   "Ce profil affirme une syphilis tertiaire",
+   "Le phénomène de zone du TNT est une explication possible"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : TT-/TNT+ = faux positif probable.",
+   "Vrai : la grossesse donne des faux positifs du VDRL.",
+   "Vrai : syphilis primaire possible, demander un 2e sérum.",
+   "Faux : la syphilis tertiaire donne plutôt TT+/TNT-.",
+   "Vrai : le phénomène de zone peut expliquer ce profil."
+  ]
+ },
+ {
+  "q": "Concernant la pénicilline G dans la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "T. pallidum est toujours sensible à la pénicilline G",
+   "Aucune résistance acquise n'est décrite",
+   "La benzathine pénicilline G est recommandée",
+   "La procaïne pénicilline G est recommandée",
+   "La pénicilline G est inactive sur les spirochètes"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : T. pallidum est toujours sensible à la pénicilline G.",
+   "Vrai : aucune résistance décrite, toujours sensible.",
+   "Vrai : la benzathine pénicilline G est recommandée.",
+   "Vrai : la procaïne pénicilline G est recommandée.",
+   "Faux : la pénicilline G est le traitement de référence."
+  ]
+ },
+ {
+  "q": "En cas d'allergie à la pénicilline, quelles alternatives sont exactes dans la syphilis ?",
+  "options": [
+   "Les cyclines",
+   "Les macrolides",
+   "Les tétracyclines (famille des cyclines)",
+   "Les glycopeptides comme alternative de première intention",
+   "Il n'existe aucune alternative"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : les cyclines sont indiquées en cas d'allergie.",
+   "Vrai : les macrolides sont indiqués en cas d'allergie.",
+   "Vrai : les tétracyclines sont des cyclines efficaces sur les spirochètes.",
+   "Faux : les glycopeptides ne sont pas l'alternative recommandée.",
+   "Faux : cyclines et macrolides sont des alternatives."
+  ]
+ },
+ {
+  "q": "Concernant le dépistage des donneurs de sang, quelles affirmations sont exactes ?",
+  "options": [
+   "Il fait partie du dépistage systématique de la syphilis",
+   "Il vise à prévenir la transmission sanguine",
+   "La transmission sanguine de la syphilis est exceptionnelle",
+   "Il est inutile car T. pallidum ne survit pas dans le sang",
+   "Il fait partie de l'action sur le réservoir"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les donneurs de sang font partie du dépistage systématique.",
+   "Vrai : il prévient la transmission sanguine.",
+   "Vrai : la transmission sanguine est exceptionnelle.",
+   "Faux : la transmission sanguine, bien qu'exceptionnelle, justifie le dépistage.",
+   "Vrai : le dépistage systématique est une action sur le réservoir."
+  ]
+ },
+ {
+  "q": "Un partenaire sexuel d'un patient avec un chancre syphilitique est asymptomatique. Quelles propositions sont exactes ?",
+  "options": [
+   "Il doit être dépisté (enquête autour du sujet contaminateur)",
+   "Sa sérologie peut être négative s'il est en phase d'incubation",
+   "Deux sérums à 15 jours d'intervalle peuvent être utiles",
+   "L'absence de symptômes exclut l'infection",
+   "Un traitement précoce fait partie de la prise en charge"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : enquête autour du sujet contaminateur.",
+   "Vrai : la phase sérologiquement muette existe en début d'infection.",
+   "Vrai : deux sérums à 15 jours d'intervalle.",
+   "Faux : l'incubation est silencieuse et la phase latente asymptomatique.",
+   "Vrai : traitement précoce."
+  ]
+ },
+ {
+  "q": "Concernant la chaîne épidémiologique complète de la syphilis, lesquelles sont exactes ?",
+  "options": [
+   "Réservoir strictement humain",
+   "Transmission sexuelle prédominante",
+   "Porte d'entrée muqueuse ou effraction cutanée",
+   "Réceptivité totale sans protection par l'immunité acquise",
+   "Vecteur arthropode obligatoire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réservoir strictement humain.",
+   "Vrai : transmission sexuelle +++.",
+   "Vrai : pénétration muqueuse ou effraction cutanée.",
+   "Vrai : réceptivité totale, l'immunité acquise ne protège pas.",
+   "Faux : aucun vecteur, transmission interhumaine directe."
+  ]
+ },
+ {
+  "q": "Concernant les tissus cibles de T. pallidum, lesquels sont exacts ?",
+  "options": [
+   "Les ganglions",
+   "La peau",
+   "Les muqueuses",
+   "Le foie et la rate",
+   "Le tissu nerveux est épargné à tous les stades"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : les ganglions sont des tissus cibles.",
+   "Vrai : la peau est un tissu cible.",
+   "Vrai : les muqueuses sont des tissus cibles.",
+   "Vrai : le foie et la rate sont des tissus cibles.",
+   "Faux : il existe des complications neurologiques (tabès, paralysie générale)."
+  ]
+ },
+ {
+  "q": "La syphilis est dite « grande simulatrice ». Quelles propositions sont exactes ?",
+  "options": [
+   "Elle évolue en quatre phases successives",
+   "Ses manifestations sont polymorphes",
+   "Le diagnostic est avant tout sérologique",
+   "Elle ne comporte qu'une seule présentation clinique",
+   "La syphilis congénitale est une forme distincte"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : quatre phases successives.",
+   "Vrai : manifestations variées à chaque phase, d'où « grande simulatrice ».",
+   "Vrai : le diagnostic est avant tout sérologique.",
+   "Faux : les présentations cliniques sont multiples.",
+   "Vrai : la syphilis congénitale est décrite à part."
+  ]
+ },
+ {
+  "q": "Concernant l'absence de réservoir animal de la syphilis vénérienne, lesquelles sont exactes ?",
+  "options": [
+   "Le réservoir est strictement humain",
+   "L'homme n'est pas un hôte accidentel pour T. pallidum ssp. pallidum",
+   "La transmission est interhumaine directe",
+   "L'éradication théorique est possible par le traitement des cas humains",
+   "Le rat est le réservoir principal"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : réservoir strictement humain.",
+   "Vrai : l'homme est l'hôte naturel, pas accidentel, de T. pallidum ssp. pallidum.",
+   "Vrai : transmission sexuelle et contact direct, interhumaine.",
+   "Vrai : l'action sur le réservoir (dépistage, traitement) est la base de la prévention.",
+   "Faux : aucun réservoir animal, le réservoir est strictement humain."
+  ]
+ },
+ {
+  "q": "Concernant la syphilis et l'infection par le VIH, quelles affirmations sont exactes ?",
+  "options": [
+   "La co-infection VIH est un facteur de gravité",
+   "Le sida est un cas particulier d'interprétation sérologique",
+   "Les deux infections partagent la transmission sexuelle",
+   "Le dépistage des conduites à risque couvre les deux infections",
+   "La syphilis protège contre l'infection par le VIH"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : la co-infection VIH est citée comme facteur de gravité.",
+   "Vrai : le sida est un cas particulier d'interprétation.",
+   "Vrai : les deux sont des IST à transmission sexuelle.",
+   "Vrai : le dépistage des conduites à risque concerne les IST en général.",
+   "Faux : aucune protection croisée, au contraire la syphilis favorise la transmission du VIH."
+  ]
+ },
+ {
+  "q": "Concernant le pian et le bejel comme diagnostics différentiels sérologiques, lesquelles sont exactes ?",
+  "options": [
+   "Ils sont sérologiquement indistinguables de la syphilis vénérienne",
+   "Ils sont à évoquer chez un patient africain ou antillais",
+   "Leur contamination se fait par contact direct à partir des lésions récentes",
+   "La sérologie permet de les différencier de la syphilis vénérienne",
+   "Ils sont dus à des sous-espèces de T. pallidum"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : sérologiquement indistinguables de T. pallidum ssp. pallidum.",
+   "Vrai : cas particulier Africain/Antillais : pian-bejel.",
+   "Vrai : contamination par contact direct à partir des lésions récentes.",
+   "Faux : la sérologie ne permet pas de les différencier.",
+   "Vrai : dus à T. pallidum ssp. pertenue (pian) et ssp. endemicum (bejel)."
+  ]
+ },
+ {
+  "q": "Un nouveau-né de mère traitée pour syphilis en début de grossesse présente des IgG positives et des IgM négatives. Quelles propositions sont exactes ?",
+  "options": [
+   "Les IgG peuvent être d'origine maternelle",
+   "L'absence d'IgM est un argument contre l'atteinte du nouveau-né",
+   "Le nouveau-né est un cas particulier d'interprétation",
+   "Des IgG positives affirment à elles seules la syphilis congénitale",
+   "Un suivi sérologique est nécessaire"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : les IgG maternelles traversent le placenta.",
+   "Vrai : les IgM témoignent de l'atteinte du nouveau-né ; leur absence est rassurante.",
+   "Vrai : le nouveau-né (Ac maternels) est un cas particulier.",
+   "Faux : les IgG peuvent être d'origine maternelle.",
+   "Vrai : le suivi de la décroissance des Ac maternels est nécessaire."
+  ]
+ },
+ {
+  "q": "Un patient présente un chancre avec une sérologie négative (VDRL- et TPHA-). Quelles propositions sont exactes ?",
+  "options": [
+   "Il peut s'agir des dix premiers jours du chancre",
+   "L'examen direct au fond noir est le seul argument diagnostique",
+   "Un 2e sérum à 15 jours d'intervalle est recommandé",
+   "La sérologie négative exclut définitivement la syphilis",
+   "Le prélèvement doit être fait avant tout traitement antibiotique"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : phase sérologiquement muette des dix premiers jours du chancre.",
+   "Vrai : l'examen direct est le seul argument si la sérologie est non contributive.",
+   "Vrai : deux sérums à 15 jours d'intervalle.",
+   "Faux : la sérologie peut être négative en début de chancre.",
+   "Vrai : prélèvement avant toute prise d'ATB."
+  ]
+ },
+ {
+  "q": "Un patient présente un TPHA fortement positif et un VDRL à 1/64. Quelles propositions sont exactes ?",
+  "options": [
+   "Un traitement s'impose d'emblée",
+   "Le VDRL doit être quantifié pour le suivi",
+   "La pénicilline G est le traitement de référence",
+   "Le titre du VDRL servira de critère de guérison",
+   "La quantification du VDRL est inutile"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : traitement d'emblée si TPHA et VDRL fortement positifs.",
+   "Vrai : le VDRL doit impérativement être quantifié.",
+   "Vrai : T. pallidum est toujours sensible à la pénicilline G.",
+   "Vrai : le VDRL est le meilleur critère sérologique de guérison.",
+   "Faux : la quantification est impérative."
+  ]
+ },
+ {
+  "q": "Concernant le suivi d'une syphilis traitée précocement, lesquelles sont exactes ?",
+  "options": [
+   "Le titre du VDRL diminue après traitement efficace",
+   "Le VDRL est le meilleur critère sérologique de guérison",
+   "Le TPHA reste le plus souvent positif",
+   "Les IgM se négativent en moins de 2 ans",
+   "Le TPHA se négative en quelques semaines"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le titre du VDRL diminue après traitement.",
+   "Vrai : meilleur critère sérologique de guérison.",
+   "Vrai : le TPHA reste le plus souvent positif chez un malade guéri.",
+   "Vrai : les IgM se négativent en moins de 2 ans après le début du traitement.",
+   "Faux : le TPHA reste le plus souvent positif."
+  ]
+ },
+ {
+  "q": "Concernant le dépistage associé TPHA + VDRL, lesquelles sont exactes ?",
+  "options": [
+   "Le TPHA est la réaction du groupe tréponémique",
+   "Le VDRL est la réaction du groupe non tréponémique",
+   "Le VDRL doit impérativement être quantifié",
+   "Un seul des deux tests suffit au dépistage",
+   "Un traitement s'impose d'emblée si les deux sont fortement positifs"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : le TPHA est une réaction à Ag tréponémique (groupe 2).",
+   "Vrai : le VDRL est une réaction à Ag non tréponémique (groupe 1).",
+   "Vrai : le second (VDRL) doit impérativement être quantifié.",
+   "Faux : le dépistage associe une réaction de chaque groupe.",
+   "Vrai : traitement d'emblée si TPHA et VDRL fortement positifs."
+  ]
+ },
+ {
+  "q": "Concernant la contagiosité comparée des lésions syphilitiques, lesquelles sont exactes ?",
+  "options": [
+   "Le chancre primaire est très contagieux",
+   "Les syphilides et plaques muqueuses secondaires sont contagieuses",
+   "Les gommes tertiaires ne sont pas contagieuses",
+   "Les lésions viscérales tertiaires ne sont pas contagieuses",
+   "La phase latente est la plus contagieuse"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le chancre est très contagieux.",
+   "Vrai : les lésions cutanéo-muqueuses secondaires sont contagieuses.",
+   "Vrai : les gommes sont des lésions tertiaires non contagieuses.",
+   "Vrai : les lésions viscérales tertiaires sont non contagieuses.",
+   "Faux : la phase latente est non contagieuse."
+  ]
+ },
+ {
+  "q": "Parmi les propositions suivantes, lesquelles résument correctement la syphilis ?",
+  "options": [
+   "Maladie infectieuse strictement humaine sexuellement transmissible",
+   "Due à Treponema pallidum ssp. pallidum",
+   "Évoluant en quatre phases successives",
+   "De diagnostic avant tout sérologique",
+   "Due à un virus à transmission sexuelle"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : maladie infectieuse strictement humaine, sexuellement transmissible.",
+   "Vrai : due à Treponema pallidum subspecies pallidum.",
+   "Vrai : quatre phases successives.",
+   "Vrai : le diagnostic est avant tout sérologique.",
+   "Faux : c'est une bactérie (spirochète), pas un virus."
+  ]
+ }
+]
