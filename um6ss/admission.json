@@ -1,601 +1,847 @@
-{
- "medecine": [
-  {
-   "id": "adm-m1",
-   "title": "CAT devant une hémoptysie",
-   "n": 0
-  },
-  {
-   "id": "adm-m2",
-   "title": "CAT devant arrêt cardio-circulatoire",
-   "n": 0
-  },
-  {
-   "id": "adm-m3",
-   "title": "CAT devant un accident vasculaire cérébral",
-   "n": 0
-  },
-  {
-   "id": "adm-m4",
-   "title": "CAT devant une crise de tétanie",
-   "n": 0
-  },
-  {
-   "id": "adm-m5",
-   "title": "CAT devant un accident de la transfusion sanguine",
-   "n": 0
-  },
-  {
-   "id": "adm-m6",
-   "title": "CAT devant une Douleur thoracique aiguë",
-   "n": 0
-  },
-  {
-   "id": "adm-m7",
-   "title": "CAT devant des troubles de conscience chez le diabétique",
-   "n": 0
-  },
-  {
-   "id": "adm-m8",
-   "title": "CAT devant un ictère cholestatique",
-   "n": 0
-  },
-  {
-   "id": "adm-m9",
-   "title": "CAT devant un syndrome dysentérique",
-   "n": 0
-  },
-  {
-   "id": "adm-m10",
-   "title": "CAT devant une douleur épigastrique",
-   "n": 0
-  },
-  {
-   "id": "adm-m11",
-   "title": "CAT devant une proctalgie (hémorroïde, abcès, fissure)",
-   "n": 0
-  },
-  {
-   "id": "adm-m12",
-   "title": "CAT devant une ascite",
-   "n": 0
-  },
-  {
-   "id": "adm-m13",
-   "title": "CAT devant une hépatite fulminante",
-   "n": 0
-  },
-  {
-   "id": "adm-m14",
-   "title": "CAT devant une dysphagie",
-   "n": 0
-  },
-  {
-   "id": "adm-m15",
-   "title": "CAT devant une confusion mentale",
-   "n": 0
-  },
-  {
-   "id": "adm-m16",
-   "title": "CAT devant une méningite purulente de l'adulte",
-   "n": 0
-  },
-  {
-   "id": "adm-m17",
-   "title": "CAT devant une paraplégie flasque non traumatique",
-   "n": 0
-  },
-  {
-   "id": "adm-m18",
-   "title": "CAT devant une morsure, une griffure , une piqure de scorpion",
-   "n": 0
-  },
-  {
-   "id": "adm-m19",
-   "title": "CAT devant un syndrome grippal",
-   "n": 0
-  },
-  {
-   "id": "adm-m20",
-   "title": "CA devant œil rouge",
-   "n": 0
-  },
-  {
-   "id": "adm-m21",
-   "title": "CAT devant un ictère du nouveau-né",
-   "n": 0
-  },
-  {
-   "id": "adm-m22",
-   "title": "CAT devant une dyspnée laryngée du nourrisson",
-   "n": 0
-  },
-  {
-   "id": "adm-m23",
-   "title": "CAT devant une fièvre aiguë du nourrisson",
-   "n": 0
-  },
-  {
-   "id": "adm-m24",
-   "title": "CAT devant une convulsion du nourrisson",
-   "n": 0
-  },
-  {
-   "id": "adm-m25",
-   "title": "CAT devant une déshydratation aiguë du nourrisson",
-   "n": 0
-  },
-  {
-   "id": "adm-m26",
-   "title": "CAT devant une hémorragie digestive du nourrisson et de l'enfant",
-   "n": 0
-  },
-  {
-   "id": "adm-m27",
-   "title": "CAT devant un noyé",
-   "n": 0
-  },
-  {
-   "id": "adm-m28",
-   "title": "CAT devant une urticaire aiguë",
-   "n": 0
-  },
-  {
-   "id": "adm-m29",
-   "title": "CAT devant une jambe rouge aigue",
-   "n": 0
-  },
-  {
-   "id": "adm-m30",
-   "title": "CAT devant une colique néphritique",
-   "n": 0
-  },
-  {
-   "id": "adm-m31",
-   "title": "CAT devant une hypercalcémie",
-   "n": 0
-  },
-  {
-   "id": "adm-m32",
-   "title": "CAT devant une neutropénie fébrile",
-   "n": 0
-  },
-  {
-   "id": "adm-m33",
-   "title": "CAT devant une monoarthrite aiguë",
-   "n": 0
-  },
-  {
-   "id": "adm-m34",
-   "title": "CAT devant une crise de goutte articulaire",
-   "n": 0
-  },
-  {
-   "id": "adm-m35",
-   "title": "CAT devant un accès palustre",
-   "n": 0
-  },
-  {
-   "id": "adm-m36",
-   "title": "CAT devant une complication d’une chimiothérapie anticancéreuse",
-   "n": 0
-  },
-  {
-   "id": "adm-m37",
-   "title": "CAT devant un syndrome médiastinal",
-   "n": 0
-  },
-  {
-   "id": "adm-m38",
-   "title": "CAT devant une polyarthrite récente",
-   "n": 0
-  },
-  {
-   "id": "adm-m39",
-   "title": "CAT devant un coma non traumatique",
-   "n": 0
-  },
-  {
-   "id": "adm-m40",
-   "title": "CAT devant une crise d’épilepsie",
-   "n": 0
-  },
-  {
-   "id": "adm-m41",
-   "title": "CAT devant une perte de connaissance brève",
-   "n": 0
-  },
-  {
-   "id": "adm-m42",
-   "title": "L'éclampsie : Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m43",
-   "title": "L'asthme aigu grave Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m44",
-   "title": "Le choc septique Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m45",
-   "title": "Le choc anaphylactique Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m46",
-   "title": "Les troubles de l'équilibre hydro-électrolytique Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m47",
-   "title": "Le choc hypovolémique Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m48",
-   "title": "Le choc cardiogénique Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m49",
-   "title": "L'intoxication à oxyde de carbone Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m50",
-   "title": "L'intoxication aux barbituriques Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m51",
-   "title": "Le tétanos Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m52",
-   "title": "L'hypoglycémie grave Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m53",
-   "title": "L'acidocétose diabétique Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m54",
-   "title": "L'insuffisance surrénalienne aiguë Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m55",
-   "title": "L'embolie pulmonaire massive",
-   "n": 0
-  },
-  {
-   "id": "adm-m56",
-   "title": "L'œdème aigu du poumon Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m57",
-   "title": "Le pneumothorax spontané Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m58",
-   "title": "Les pleurésies purulentes",
-   "n": 0
-  },
-  {
-   "id": "adm-m59",
-   "title": "La colique hépatique Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m60",
-   "title": "Les syndromes coronariens aigus",
-   "n": 0
-  },
-  {
-   "id": "adm-m61",
-   "title": "La tamponnade Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m62",
-   "title": "L'insuffisance rénale aiguë Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m63",
-   "title": "Les conduites suicidaires Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m64",
-   "title": "Les bronchiolites aiguës du nourrisson Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m65",
-   "title": "La détresse respiratoire du nouveau-né Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m66",
-   "title": "Le syndrome hémorragique du nouveau-né Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-m67",
-   "title": "Les méningites purulentes du nourrisson",
-   "n": 0
-  }
- ],
- "chirurgie": [
-  {
-   "id": "adm-c1",
-   "title": "CAT devant une hernie inguinale étranglée",
-   "n": 0
-  },
-  {
-   "id": "adm-c2",
-   "title": "CAT devant une contusion de l'abdomen",
-   "n": 0
-  },
-  {
-   "id": "adm-c3",
-   "title": "CAT devant une plaie pénétrante de l'abdomen",
-   "n": 0
-  },
-  {
-   "id": "adm-c4",
-   "title": "CAT devant une plaie pénétrante thoracique",
-   "n": 0
-  },
-  {
-   "id": "adm-c5",
-   "title": "CAT devant une invagination intestinale aiguë du nourrisson",
-   "n": 0
-  },
-  {
-   "id": "adm-c6",
-   "title": "CAT devant un syndrome appendiculaire",
-   "n": 0
-  },
-  {
-   "id": "adm-c7",
-   "title": "CAT devant une hémorragie digestive haute",
-   "n": 0
-  },
-  {
-   "id": "adm-c8",
-   "title": "CAT devant une hémorragie digestive basse",
-   "n": 0
-  },
-  {
-   "id": "adm-c9",
-   "title": "CAT devant une hémorragie du post-partum",
-   "n": 0
-  },
-  {
-   "id": "adm-c10",
-   "title": "CAT devant une plaie de la main",
-   "n": 0
-  },
-  {
-   "id": "adm-c11",
-   "title": "CAT devant une Ischémie aiguë des membres inférieurs",
-   "n": 0
-  },
-  {
-   "id": "adm-c12",
-   "title": "CAT devant une rétention aiguë des urines",
-   "n": 0
-  },
-  {
-   "id": "adm-c13",
-   "title": "CAT devant une fasciite nécrosante",
-   "n": 0
-  },
-  {
-   "id": "adm-c14",
-   "title": "CAT devant une entorse de la cheville",
-   "n": 0
-  },
-  {
-   "id": "adm-c15",
-   "title": "CAT devant une fracture ouverte de jambe",
-   "n": 0
-  },
-  {
-   "id": "adm-c16",
-   "title": "CAT devant un syndrome de Volkmann",
-   "n": 0
-  },
-  {
-   "id": "adm-c17",
-   "title": "CAT devant une épistaxis",
-   "n": 0
-  },
-  {
-   "id": "adm-c18",
-   "title": "Les brulures cutanées",
-   "n": 0
-  },
-  {
-   "id": "adm-c19",
-   "title": "Les occlusions intestinales aiguës",
-   "n": 0
-  },
-  {
-   "id": "adm-c20",
-   "title": "Le volvulus du sigmoïde",
-   "n": 0
-  },
-  {
-   "id": "adm-c21",
-   "title": "Les brûlures caustiques oeso-gastriques Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c22",
-   "title": "Les complications des ulcères gastro-duodénaux",
-   "n": 0
-  },
-  {
-   "id": "adm-c23",
-   "title": "Les cholécystites et les angiocholites Diagnostic et traitement :",
-   "n": 0
-  },
-  {
-   "id": "adm-c24",
-   "title": "Les abcès du foie Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c25",
-   "title": "La pancréatite aiguë Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c26",
-   "title": "Les péritonites et les pelvi-péritonites",
-   "n": 0
-  },
-  {
-   "id": "adm-c27",
-   "title": "La grossesse extra-utérine Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c28",
-   "title": "Les ruptures utérines Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c29",
-   "title": "L'hématome rétro-placentaire Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c30",
-   "title": "Le placenta prævia Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c31",
-   "title": "La torsion du testicule et de ses annexes Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c32",
-   "title": "La rupture traumatique de l'urètre Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c33",
-   "title": "Le glaucome aigu à angle fermé Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c34",
-   "title": "Traumatismes crâniens",
-   "n": 0
-  },
-  {
-   "id": "adm-c35",
-   "title": "Traumatismes du rachis",
-   "n": 0
-  },
-  {
-   "id": "adm-c36",
-   "title": "Luxation de l'épaule",
-   "n": 0
-  },
-  {
-   "id": "adm-c37",
-   "title": "Luxation de la hanche",
-   "n": 0
-  },
-  {
-   "id": "adm-c38",
-   "title": "Dissection de l'aorte Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c39",
-   "title": "Les brulures cutanées",
-   "n": 0
-  },
-  {
-   "id": "adm-c40",
-   "title": "Le polytraumatisé",
-   "n": 0
-  },
-  {
-   "id": "adm-c41",
-   "title": "L'anévrysme de l'aorte abdominale sous-rénale Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c42",
-   "title": "Les hémorragies méningées",
-   "n": 0
-  },
-  {
-   "id": "adm-c43",
-   "title": "L'hématome extradural",
-   "n": 0
-  },
-  {
-   "id": "adm-c44",
-   "title": "Les Lésions ligamentaires récentes du genou",
-   "n": 0
-  },
-  {
-   "id": "adm-c45",
-   "title": "L'Ostéomyélite aiguë",
-   "n": 0
-  },
-  {
-   "id": "adm-c46",
-   "title": "Les fractures des deux os de l'avant-bras",
-   "n": 0
-  },
-  {
-   "id": "adm-c47",
-   "title": "La fracture supra-condylienne de l'enfant",
-   "n": 0
-  },
-  {
-   "id": "adm-c48",
-   "title": "Les fractures bimalléolaires Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c49",
-   "title": "Panaris et phlégmon de la main",
-   "n": 0
-  },
-  {
-   "id": "adm-c50",
-   "title": "Les luxations radio-carpiennes Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c51",
-   "title": "L'hypertension intra- crânienne Diagnostic et traitement",
-   "n": 0
-  },
-  {
-   "id": "adm-c52",
-   "title": "Les abcès cérébraux Diagnostic et traitement",
-   "n": 0
-  }
- ]
-}
+[
+ {
+  "id": "urg-med",
+  "questions": [
+   {
+    "correct": [
+     0,
+     1,
+     2
+    ],
+    "explain": [
+     "Fièvre + hypotension + confusion + marbrures : tableau de choc avec hypoperfusion tissulaire.",
+     "Le qSOFA (FR ≥ 22, PAS ≤ 100, Glasgow < 15) : 3/3 ici, très évocateur de sepsis.",
+     "Le sepsis = infection + dysfonction d'organe (ici : neurologique, circulatoire, respiratoire).",
+     "Le choc cardiogénique se discute, mais la fièvre et la porte d'entrée urinaire orientent vers le sepsis.",
+     "La bandelette positive (leucocytes + nitrites) désigne une infection urinaire comme porte d'entrée probable."
+    ],
+    "options": [
+     "Il s'agit d'un état de choc avec signes d'hypoperfusion tissulaire (marbrures, confusion)",
+     "Le score qSOFA est à 3/3 (FR ≥ 22, PAS ≤ 100, troubles de conscience)",
+     "Le diagnostic de sepsis est probable (infection + dysfonction d'organes)",
+     "Il s'agit certainement d'un choc cardiogénique, l'infection est accessoire",
+     "La bandelette urinaire positive oriente vers une porte d'entrée urinaire"
+    ],
+    "q": "Quelle(s) est(sont) la(les) proposition(s) correcte(s) concernant le diagnostic initial ?",
+    "reveal": "Le diagnostic de choc septique à porte d'entrée urinaire est retenu. La patiente est installée en salle de déchocage, monitorée."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "Les hémocultures (2 paires) doivent précéder toute antibiothérapie, sans la retarder.",
+     "L'hyperlactatémie (> 2 mmol/L) signe l'hypoperfusion et guide la réanimation.",
+     "NFS, CRP, ionogramme, fonction rénale, gaz du sang, coagulation : le bilan du sepsis.",
+     "ECBU : examen clé devant une porte d'entrée urinaire suspectée.",
+     "Attendre les résultats pour traiter serait une faute : chaque heure d'antibiothérapie retardée augmente la mortalité."
+    ],
+    "options": [
+     "Prélever 2 paires d'hémocultures AVANT l'antibiothérapie, sans retarder celle-ci",
+     "Doser les lactates artériels (marqueur d'hypoperfusion)",
+     "Réaliser NFS, CRP, ionogramme, créatinine, gaz du sang, bilan de coagulation",
+     "Réaliser un ECBU",
+     "Attendre les résultats des hémocultures avant de débuter l'antibiothérapie"
+    ],
+    "q": "Concernant le bilan initial en urgence, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Hémocultures prélevées, lactates à 4,8 mmol/L. Le remplissage vasculaire est débuté."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     3
+    ],
+    "explain": [
+     "30 mL/kg de cristalloïdes (sérum salé ou Ringer lactate) : la dose initiale recommandée.",
+     "Le remplissage restaure la volémie et la perfusion d'organes.",
+     "La réévaluation (PA, diurèse, marbrures, lactates) guide la poursuite.",
+     "Les colloïdes (HEA) ne sont pas recommandés en 1ère intention dans le sepsis.",
+     "Un remplissage excessif sans réévaluation expose à l'œdème pulmonaire."
+    ],
+    "options": [
+     "Administrer 30 mL/kg de cristalloïdes en bolus initial",
+     "Le remplissage vise à restaurer la perfusion tissulaire",
+     "Réévaluer après le remplissage (PA, diurèse, marbrures, lactates)",
+     "Les hydroxyéthylamidons (HEA) sont les solutés de premier choix",
+     "Poursuivre le remplissage sans réévaluation jusqu'à normalisation de la PA"
+    ],
+    "q": "Concernant le remplissage vasculaire, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Après 2 litres de cristalloïdes, la PA reste à 80/45 mmHg. Un catécholamine est indiquée."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "La noradrénaline est la catécholamine de 1ère intention du choc septique.",
+     "Objectif : PAM ≥ 65 mmHg pour perfuser les organes.",
+     "La voie veineuse centrale est recommandée pour la noradrénaline au long cours.",
+     "La dobutamine s'ajoute en cas de dysfonction myocardique associée.",
+     "L'adrénaline n'est pas la catécholamine de 1ère intention du choc septique."
+    ],
+    "options": [
+     "La noradrénaline est la catécholamine de première intention",
+     "L'objectif est une pression artérielle moyenne (PAM) ≥ 65 mmHg",
+     "Une voie veineuse centrale est recommandée pour sa perfusion prolongée",
+     "La dobutamine peut s'ajouter en cas de dysfonction cardiaque associée",
+     "L'adrénaline est la catécholamine de première intention du choc septique"
+    ],
+    "q": "L'hypotension persiste malgré le remplissage. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Noradrénaline débutée sur voie centrale, PAM à 68 mmHg. L'antibiothérapie probabiliste est administrée."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "Chaque heure de retard augmente la mortalité : l'antibiothérapie est une urgence.",
+     "Spectre large : entérobactéries (dont BLSE selon le terrain) + cocci Gram positif.",
+     "L'antibiogramme (hémocultures, ECBU) permettra la désescalade à 48-72 h.",
+     "La posologie doit être adaptée à la fonction rénale et au volume de distribution du sepsis.",
+     "La monothérapie par amoxicilline est insuffisante devant un choc septique."
+    ],
+    "options": [
+     "L'antibiothérapie doit être débutée dans l'heure suivant le diagnostic",
+     "Elle doit être à large spectre et active sur les entérobactéries urinaires",
+     "La désescalade se fera sur les résultats des prélèvements (antibiogramme)",
+     "La posologie doit tenir compte de la fonction rénale",
+     "Une monothérapie par amoxicilline suffit dans le choc septique"
+    ],
+    "q": "Concernant l'antibiothérapie probabiliste, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Pipéracilline-tazobactam + amikacine administrés. La patiente est transférée en réanimation."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "explain": [
+     "L'ECBU confirme l'infection urinaire et identifie le germe.",
+     "L'échographie recherche un obstacle (lithiase, rétention) qui imposerait un drainage.",
+     "Un obstacle urinaire infecté = urgence urologique (drainage en urgence).",
+     "Le scanner n'est pas systématique : il se discute si doute sur une autre porte d'entrée.",
+     "L'urètre et la vessie ne sont pas les seuls sites : un examen complet reste nécessaire."
+    ],
+    "options": [
+     "L'ECBU confirme la porte d'entrée et guide l'antibiothérapie",
+     "Une échographie rénale et vésicale recherche un obstacle (lithiase, globe vésical)",
+     "Un obstacle urinaire infecté impose un drainage urologique en urgence",
+     "Un scanner abdominal systématique est indispensable chez tout patient septique",
+     "L'examen clinique des autres portes d'entrée (pulmonaire, cutanée, digestive) est inutile"
+    ],
+    "q": "En réanimation, la porte d'entrée est explorée. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "ECBU positif à E. coli, pas d'obstacle à l'échographie. L'antibiothérapie est désescaladée. À J2, la diurèse chute."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     3,
+     4
+    ],
+    "explain": [
+     "Le sepsis est la 1ère cause d'insuffisance rénale aiguë en réanimation (nécrose tubulaire).",
+     "Créatinine, ionogramme, diurèse horaire : la surveillance du rein septique.",
+     "Les aminosides et les produits de contraste sont néphrotoxiques : à manier avec prudence.",
+     "L'oligurie (< 0,5 mL/kg/h) est un critère de gravité (KDIGO).",
+     "L'hyperhydratation sans indication expose au sur-remplissage : la balance hydrique est surveillée."
+    ],
+    "options": [
+     "L'insuffisance rénale aiguë est une complication fréquente du choc septique",
+     "La créatinine, l'ionogramme et la diurèse horaire sont surveillés étroitement",
+     "Les néphrotoxiques (aminosides, produits de contraste) sont à éviter ou adapter",
+     "Une diurèse < 0,5 mL/kg/h définit l'oligurie (critère KDIGO)",
+     "Une hyperhydratation systématique prévient l'insuffisance rénale"
+    ],
+    "q": "À J2, la créatinine passe de 90 à 220 µmol/L avec oligurie. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Insuffisance rénale KDIGO 2, d'allure fonctionnelle puis organique. Épuration extra-rénale discutée mais non nécessaire. À J3, les plaquettes chutent."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2
+    ],
+    "explain": [
+     "Thrombopénie + sepsis = suspecter une CIVD (coagulation intravasculaire disséminée).",
+     "Le score ISTH (plaquettes, TP, fibrinogène, D-dimères) aide au diagnostic.",
+     "Le traitement est celui de la cause (le sepsis) ; les transfusions se discutent selon le saignement.",
+     "L'héparine curative systématique n'est pas recommandée dans la CIVD du sepsis.",
+     "Une thrombopénie isolée sans contexte n'a pas la même signification."
+    ],
+    "options": [
+     "Une CIVD doit être évoquée devant thrombopénie + sepsis",
+     "Le score ISTH (plaquettes, TP, fibrinogène, D-dimères) aide au diagnostic",
+     "Le traitement repose d'abord sur le traitement de la cause (l'infection)",
+     "L'héparine curative systématique est recommandée dans la CIVD du sepsis",
+     "La thrombopénie du sepsis est toujours bénigne et transitoire"
+    ],
+    "q": "Les plaquettes chutent à 60 000/mm³. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "CIVD confirmée (score ISTH élevé), sans saignement actif. Prise en charge conservatrice. À J5, l'état s'améliore."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "explain": [
+     "La noradrénaline se sevre quand la PAM se maintient sans support.",
+     "Le relais per os n'est possible qu'après stabilisation et désescalade validée.",
+     "La durée est guidée par la clinique et la documentation (en général 7 jours pour une pyélonéphrite compliquée).",
+     "La rééducation précoce limite la faiblesse acquise en réanimation.",
+     "L'arrêt brutal de toute surveillance exposerait à une rechute non détectée."
+    ],
+    "options": [
+     "La noradrénaline est sevrée progressivement devant une PAM stable sans support",
+     "Le relais antibiotique per os est envisagé après stabilisation",
+     "La durée totale d'antibiothérapie est adaptée à la documentation et à la gravité",
+     "La rééducation précoce fait partie de la prise en charge",
+     "Toute surveillance peut être arrêtée dès l'apyrexie"
+    ],
+    "q": "À J7, la patiente est apyrétique, sevrée des catécholamines. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Sortie de réanimation à J10. Un suivi néphrologique et urologique est organisé. Fin du cas. 🎉"
+   }
+  ],
+  "scenario": "Mme Fassi, 68 ans, diabétique de type 2, est admise aux urgences pour fièvre à 39,5 °C, frissons et confusion débutée il y a 6 heures.\n\nConstantes : PA 85/50 mmHg, FC 125/min, FR 28/min, SpO2 93 % air ambiant, température 39,5 °C. Marbrures des genoux, extrémités froides. Glasgow 13 (confusion).\n\nLa bandelette urinaire est positive : leucocytes +++, nitrites positifs.",
+  "teaser": "Mme Fassi, 68 ans, fièvre, hypotension et confusion aux urgences. Suivez la réanimation : diagnostic, hémocultures, remplissage, catécholamines, antibiothérapie et complications.",
+  "title": "Choc septique à porte d'entrée urinaire"
+ },
+ {
+  "id": "urg-chir",
+  "questions": [
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "Douleur + vomissements + arrêt des matières et des gaz = triade occlusive.",
+     "L'antécédent de laparotomie est le 1er facteur de risque de brides (1ère cause d'occlusion du grêle).",
+     "Le météorisme avec tympanisme traduit la distension des anses en amont de l'obstacle.",
+     "La fièvre et la défense feraient craindre une souffrance intestinale ou une péritonite.",
+     "Un toucher rectal normal n'élimine pas l'occlusion : il recherche un obstacle bas (fécalome, tumeur)."
+    ],
+    "options": [
+     "La triade douleur abdominale + vomissements + arrêt des matières et des gaz évoque une occlusion",
+     "L'antécédent de laparotomie oriente vers une occlusion sur bride (1ère cause)",
+     "Le météorisme avec tympanisme traduit la distension d'amont",
+     "La présence d'une fièvre à 39 °C avec défense est rassurante",
+     "Le toucher rectal est systématique (recherche d'obstacle bas)"
+    ],
+    "q": "Quelle(s) est(sont) la(les) proposition(s) correcte(s) concernant le diagnostic ?",
+    "reveal": "Occlusion du grêle sur bride suspectée. Le patient est mis à jeun, perfusé, avec sonde naso-gastrique."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "explain": [
+     "L'ASP montre des niveaux hydro-aériques et la distension des anses grêles.",
+     "L'ionogramme dépiste l'hypokaliémie et l'insuffisance rénale fonctionnelle (déshydratation).",
+     "NFS (hyperleucocytose ?), CRP, lactates : signes de gravité et de souffrance intestinale.",
+     "La SNG décomprime l'estomac, soulage les vomissements et le risque d'inhalation.",
+     "Le lavement baryté n'a pas sa place dans l'occlusion du grêle sur bride."
+    ],
+    "options": [
+     "L'abdomen sans préparation (ASP) recherche niveaux hydro-aériques et distension",
+     "L'ionogramme sanguin dépiste hypokaliémie et insuffisance rénale fonctionnelle",
+     "NFS, CRP et lactates évaluent la souffrance intestinale",
+     "La sonde naso-gastrique en aspiration décomprime le tube digestif d'amont",
+     "Le lavement baryté est l'examen de première intention"
+    ],
+    "q": "Concernant le bilan initial, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "ASP : multiples niveaux hydro-aériques du grêle, cadre colique plat. Ionogramme : K+ 3,1 mmol/L. Un scanner est demandé."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "Le scanner injecté est l'examen de référence : siège, cause, signes de souffrance.",
+     "La zone de transition calibre/niveau localise l'obstacle.",
+     "Souffrance : défaut de rehaussement pariétal, pneumose, épanchement, signe du tourbillon (volvulus).",
+     "Le scanner élimine les diagnostics différentiels (tumeur, hernie, invagination).",
+     "L'échographie n'est pas l'examen de référence de l'occlusion de l'adulte."
+    ],
+    "options": [
+     "Le scanner abdomino-pelvien injecté est l'examen de référence",
+     "Il précise le siège (zone de transition) et la cause de l'occlusion",
+     "Il recherche des signes de souffrance intestinale (défaut de rehaussement, pneumose)",
+     "Il élimine les diagnostics différentiels (tumeur, hernie étranglée)",
+     "L'échographie abdominale est l'examen de référence de l'occlusion"
+    ],
+    "q": "Le scanner montre une occlusion du grêle sur bride sans signe de souffrance. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Occlusion sur bride sans souffrance : traitement médical premier avec surveillance rapprochée."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "Jeûne strict, SNG en aspiration, perfusion : la base du traitement médical.",
+     "La correction hydro-électrolytique (K+, fonction rénale) est indispensable.",
+     "La surveillance (douleur, vomissements, transit, constantes, biologie) dépiste l'échec.",
+     "Le Gastrografin a une valeur diagnostique et thérapeutique (test de résolution).",
+     "L'alimentation précoce est contre-indiquée tant que l'occlusion n'est pas levée."
+    ],
+    "options": [
+     "Jeûne strict, sonde naso-gastrique en aspiration, réhydratation IV",
+     "Correction des troubles hydro-électrolytiques (kaliémie, fonction rénale)",
+     "Surveillance clinique et biologique rapprochée (douleur, transit, lactates)",
+     "Le transit à la Gastrografin peut prédire la résolution sans chirurgie",
+     "Reprise immédiate de l'alimentation pour stimuler le transit"
+    ],
+    "q": "Concernant le traitement médical initial, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "À H24, les vomissements persistent, la douleur s'aggrave, les lactates montent à 3,5 mmol/L."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "explain": [
+     "L'aggravation clinique et les lactates traduisent une souffrance intestinale : il faut opérer.",
+     "Douleur rebelle, défense, fièvre, hyperleucocytose : signes d'ischémie pariétale.",
+     "Au-delà de 48-72 h sans résolution, la chirurgie s'impose.",
+     "La cœlioscopie est possible mais la laparotomie reste la voie de référence (adhérences).",
+     "Attendre la nécrose exposerait à la résection étendue et à la péritonite stercorale."
+    ],
+    "options": [
+     "L'aggravation (douleur, lactates) impose une indication opératoire en urgence",
+     "Douleur rebelle, défense, fièvre : signes de souffrance intestinale",
+     "L'absence de résolution à 48-72 h est une indication chirurgicale",
+     "La laparotomie est la voie d'abord de référence (la cœlioscopie est sélective)",
+     "On peut attendre sereinement la nécrose pour mieux voir les limites de résection"
+    ],
+    "q": "L'évolution impose la chirurgie. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Laparotomie en urgence : bride unique sectionnée, grêle viable après réchauffement. Pas de résection."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     3,
+     4
+    ],
+    "explain": [
+     "La section de la bride lève l'obstacle en préservant l'intestin.",
+     "Un grêle viable après levée de l'obstacle ne justifie pas de résection.",
+     "La nécrose impose la résection avec anastomose (ou stomie si conditions précaires).",
+     "L'exploration complète recherche d'autres brides et une tumeur méconnue.",
+     "La fermeture pariétale soigneuse prévient l'éventration."
+    ],
+    "options": [
+     "La section de la bride suffit si l'intestin est viable",
+     "Un grêle viable ne justifie pas de résection intestinale",
+     "Devant une nécrose, la résection-anastomose (ou stomie) s'impose",
+     "L'exploration complète de la cavité recherche d'autres lésions",
+     "La fermeture pariétale soigneuse limite le risque d'éventration"
+    ],
+    "q": "Concernant les gestes per-opératoires, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Suites simples initialement. À J4, fièvre à 38,8 °C et douleur de la cicatrice."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "L'abcès de paroi est la complication infectieuse la plus fréquente après laparotomie.",
+     "Rougeur, douleur, fluctuation, écoulement : signes d'infection du site opératoire.",
+     "L'ouverture et le drainage de la plaie sont le traitement de l'abcès de paroi collecté.",
+     "L'antibiothérapie seule ne suffit pas devant une collection : le drainage est nécessaire.",
+     "Toute fièvre post-opératoire n'est pas bénigne : elle impose un examen du site opératoire."
+    ],
+    "options": [
+     "L'abcès de paroi est la complication infectieuse la plus fréquente",
+     "Rougeur, tuméfaction et écoulement de la cicatrice évoquent l'infection",
+     "Le traitement repose sur l'ouverture et le drainage de la plaie",
+     "L'antibiothérapie seule suffit toujours devant une collection pariétale",
+     "Toute fièvre à J4 post-opératoire est physiologique"
+    ],
+    "q": "À J4, la cicatrice est rouge, douloureuse, avec un écoulement purulent. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Abcès de paroi drainé, antibiothérapie adaptée. Cicatrisation dirigée. À 6 mois, le patient va bien."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "Les brides récidivent : le risque d'occlusion itérative est réel (10-30 %).",
+     "Toute laparotomie expose à l'éventration, d'où l'importance de la fermeture.",
+     "L'occlusion sur brides est une urgence : vomissements + arrêt du transit = urgences.",
+     "La cœlioscopie première réduit les adhérences mais n'est pas toujours possible.",
+     "Il n'existe pas de traitement médical préventif efficace des brides."
+    ],
+    "options": [
+     "Le risque de récidive occlusive sur brides justifie d'alerter le patient",
+     "L'éventration est une complication tardive possible de la laparotomie",
+     "Devant des signes occlusifs, le patient doit consulter aux urgences sans délai",
+     "La cœlioscopie réduit le risque d'adhérences post-opératoires",
+     "Un traitement médical au long cours prévient la formation des brides"
+    ],
+    "q": "Concernant le suivi et la prévention, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "À 1 an, pas de récidive. Le patient est informé des signes d'alerte. Fin du cas. 🎉"
+   }
+  ],
+  "scenario": "M. El Amrani, 55 ans, opéré d'une appendicectomie par laparotomie il y a 10 ans, consulte aux urgences pour des douleurs abdominales diffuses en coliques, des vomissements et un arrêt des matières et des gaz depuis 24 heures.\n\nÀ l'examen : météorisme avec tympanisme diffus, cicatrice de Mac Burney, pas de défense, pas de fièvre. TR : ampoule rectale vide.",
+  "teaser": "M. El Amrani, 55 ans, occlusion du grêle sur bride suspectée. Suivez la prise en charge : diagnostic, scanner, traitement médical, indication opératoire et complications.",
+  "title": "Occlusion intestinale aiguë sur bride"
+ },
+ {
+  "id": "cat-med",
+  "questions": [
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "Glycémie à jeun ≥ 1,26 g/L à 2 reprises, ou ≥ 2 g/L à tout moment + symptômes, ou HbA1c ≥ 6,5 %.",
+     "L'HbA1c reflète l'équilibre glycémique des 3 derniers mois.",
+     "À 8,5 %, le diabète est déséquilibré (objectif ≤ 7 % pour la plupart).",
+     "Le diabète de type 2 associe insulinorésistance et insulinopénie relative.",
+     "Une glycémie capillaire isolée ne suffit pas : le diagnostic repose sur la veineuse ou l'HbA1c."
+    ],
+    "options": [
+     "Le diagnostic repose sur : glycémie veineuse à jeun ≥ 1,26 g/L (2 fois) ou HbA1c ≥ 6,5 %",
+     "L'HbA1c reflète l'équilibre glycémique des 3 derniers mois",
+     "Une HbA1c à 8,5 % traduit un diabète déséquilibré",
+     "Le diabète de type 2 associe insulinorésistance et déficit relatif en insuline",
+     "Une glycémie capillaire isolée à 1,40 g/L suffit à affirmer le diabète"
+    ],
+    "q": "Le bilan retrouve : glycémie à jeun 1,62 g/L (contrôlée), HbA1c 8,5 %. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Diabète de type 2 confirmé, déséquilibré. Un bilan de retentissement est réalisé."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "explain": [
+     "Microalbuminurie : dépistage annuel de la néphropathie diabétique.",
+     "Le fond d'œil dépiste la rétinopathie diabétique (1ère cause de cécité).",
+     "ECG + bilan lipidique : le diabétique est à très haut risque cardiovasculaire.",
+     "L'examen des pieds (monofilament) dépiste la neuropathie.",
+     "Le scanner cérébral n'a pas sa place dans le bilan initial sans point d'appel."
+    ],
+    "options": [
+     "Microalbuminurie et créatininémie (dépistage de la néphropathie)",
+     "Fond d'œil (dépistage de la rétinopathie diabétique)",
+     "ECG et bilan lipidique (risque cardiovasculaire)",
+     "Examen des pieds au monofilament (neuropathie)",
+     "Scanner cérébral systématique"
+    ],
+    "q": "Concernant le bilan initial de retentissement, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Bilan sans complication avérée. Les mesures hygiéno-diététiques sont instaurées."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "Perte de 5-10 % du poids : objectif réaliste et efficace sur l'HbA1c.",
+     "150 min/semaine d'activité d'endurance : recommandation validée.",
+     "L'alimentation équilibrée (index glycémique bas, fibres) est la base.",
+     "Le régime drastique sans suivi expose aux carences et à l'échec.",
+     "L'arrêt du tabac est indispensable (risque cardiovasculaire multiplié)."
+    ],
+    "options": [
+     "Objectif de perte de 5 à 10 % du poids corporel",
+     "150 minutes d'activité physique d'endurance par semaine",
+     "Alimentation équilibrée, riche en fibres, à index glycémique bas",
+     "Régime draconien sans suivi diététique",
+     "Arrêt du tabac"
+    ],
+    "q": "Les mesures hygiéno-diététiques sont expliquées. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "À 3 mois, malgré les efforts, l'HbA1c est à 8,1 %. Un traitement médicamenteux est débuté."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "La metformine est le traitement de 1ère intention du diabète de type 2.",
+     "Elle diminue la production hépatique de glucose sans provoquer d'hypoglycémie.",
+     "Contre-indications : insuffisance rénale sévère (DFG < 30), insuffisance cardiaque/hépatique sévère, acidose.",
+     "La titration progressive (500 mg → 2000 mg/j) limite l'intolérance digestive.",
+     "Les sulfamides en 1ère intention exposent aux hypoglycémies et à la prise de poids."
+    ],
+    "options": [
+     "La metformine est le traitement de première intention",
+     "Elle n'expose pas aux hypoglycémies en monothérapie",
+     "Elle est contre-indiquée si DFG < 30 mL/min (risque d'acidose lactique)",
+     "La posologie est augmentée progressivement jusqu'à 2000 mg/j selon la tolérance",
+     "Un sulfamide hypoglycémiant est préférable en première intention"
+    ],
+    "q": "Concernant la metformine, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Metformine 1000 mg × 2/j bien tolérée. À 6 mois, HbA1c à 7,6 % : l'objectif n'est pas atteint."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "explain": [
+     "Si l'HbA1c reste > 7 % sous metformine, une bithérapie est indiquée.",
+     "Les iDPP4 (gliptines) : pas d'hypoglycémie, neutres sur le poids.",
+     "Les analogues du GLP-1 : perte de poids, bénéfice cardiovasculaire (liraglutide, sémaglutide).",
+     "Les iSGLT2 : bénéfice cardio-rénal démontré (empagliflozine, dapagliflozine).",
+     "L'insuline d'emblée n'est pas indiquée à ce stade sans signe de gravité."
+    ],
+    "options": [
+     "Une bithérapie est indiquée (objectif HbA1c ≤ 7 % non atteint)",
+     "Les gliptines (iDPP4) : pas d'hypoglycémie, effet neutre sur le poids",
+     "Les analogues du GLP-1 : perte de poids et bénéfice cardiovasculaire",
+     "Les gliflozines (iSGLT2) : bénéfice cardio-rénal démontré",
+     "L'insuline basale est systématique dès l'échec de la metformine"
+    ],
+    "q": "L'HbA1c reste à 7,6 % sous metformine seule. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Bithérapie metformine + iSGLT2 instaurée (bénéfice cardio-rénal). À 1 an, HbA1c à 6,8 %. Le suivi des complications s'organise."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     3,
+     4
+    ],
+    "explain": [
+     "Microalbuminurie annuelle + DFG : le duo de surveillance rénale.",
+     "Le fond d'œil annuel dépiste la rétinopathie (laser si nécessaire).",
+     "L'HbA1c tous les 3-6 mois guide l'adaptation thérapeutique.",
+     "ECG, pression artérielle, LDL : le diabétique est à haut risque cardiovasculaire.",
+     "La coronarographie systématique sans point d'appel n'est pas recommandée."
+    ],
+    "options": [
+     "Microalbuminurie annuelle et estimation du DFG",
+     "Fond d'œil annuel",
+     "HbA1c tous les 3 à 6 mois",
+     "Surveillance cardiovasculaire (PA, LDL, ECG)",
+     "Coronarographie systématique annuelle"
+    ],
+    "q": "Concernant le suivi au long cours, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Suivi régulier sans complication. À 3 ans, la microalbuminurie devient positive (80 mg/g)."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "La microalbuminurie signe l'atteinte rénale débutante (néphropathie).",
+     "IEC ou ARA2 : néphroprotection (réduction de la protéinurie) + contrôle tensionnel.",
+     "Objectif tensionnel < 130/80 mmHg chez le diabétique avec néphropathie.",
+     "L'iSGLT2 déjà en place a un effet néphroprotecteur démontré.",
+     "Les AINS sont néphrotoxiques : à éviter chez le diabétique avec néphropathie."
+    ],
+    "options": [
+     "La microalbuminurie signe une néphropathie diabétique débutante",
+     "Un IEC (ou ARA2) est indiqué (néphroprotection)",
+     "L'objectif tensionnel est < 130/80 mmHg",
+     "L'iSGLT2 en cours participe à la néphroprotection",
+     "Les AINS sont sans danger chez ce patient"
+    ],
+    "q": "La microalbuminurie est à 80 mg/g de créatinine, PA à 145/88 mmHg. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "IEC instauré, PA contrôlée. À 5 ans, le patient présente une plaie du pied gauche."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "Le pied diabétique = neuropathie + artériopathie + infection : urgence.",
+     "La décharge de la plaie est la mesure n°1 (chaussure de décharge).",
+     "L'artériopathie (pouls, IPS) conditionne la cicatrisation.",
+     "L'antibiothérapie n'est indiquée qu'en cas d'infection (pas de plaie propre systématique).",
+     "L'amputation d'emblée n'est indiquée qu'en cas de gangrène extensive ou d'échec."
+    ],
+    "options": [
+     "Le pied diabétique (neuropathie + artériopathie) est une urgence",
+     "La décharge de la plaie est la mesure prioritaire",
+     "Le bilan artériel (pouls, index de pression systolique) est indispensable",
+     "Toute plaie du pied diabétique impose une antibiothérapie systématique",
+     "L'amputation est le traitement de première intention de toute plaie"
+    ],
+    "q": "Le patient présente un mal perforant plantaire du pied gauche. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Plaie prise en charge en centre du pied diabétique : décharge, soins, cicatrisation en 2 mois."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "explain": [
+     "L'autosurveillance (glycémies capillaires) guide l'adaptation du traitement.",
+     "L'HbA1c reste l'examen de référence du suivi glycémique.",
+     "L'hypoglycémie est le principal effet indésirable à craindre (surtout sous sulfamides/insuline).",
+     "L'éducation (diététique, pieds, signes d'alerte) est le pilier du suivi.",
+     "Le diabète de type 2 ne « guérit » pas : le suivi est à vie, même équilibré."
+    ],
+    "options": [
+     "L'autosurveillance glycémique aide à adapter le traitement",
+     "L'HbA1c reste l'examen de référence du suivi",
+     "L'hypoglycémie est l'effet indésirable à dépister (surtout sous insuline/sulfamides)",
+     "L'éducation thérapeutique (diététique, pieds, alertes) est essentielle",
+     "Un diabète équilibré ne nécessite plus aucun suivi"
+    ],
+    "q": "Concernant l'éducation et l'autosurveillance, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "À 10 ans, le diabète reste équilibré (HbA1c 6,9 %), sans complication évolutive. Fin du cas. 🎉"
+   }
+  ],
+  "scenario": "M. Berrada, 52 ans, en surpoids (IMC 31), sans antécédent notable, consulte pour une polyuro-polydipsie évoluant depuis 2 mois.\n\nLe bilan retrouve : glycémie veineuse à jeun 1,62 g/L (contrôlée à 1,58), HbA1c 8,5 %. Pas de signe de gravité (pas d'amaigrissement, pas de cétose).",
+  "teaser": "M. Berrada, 52 ans, diabète de type 2 nouvellement diagnostiqué. Suivez la prise en charge au long cours : diagnostic, traitement, objectifs, complications et suivi.",
+  "title": "Diabète de type 2 : conduite à tenir au long cours"
+ },
+ {
+  "id": "cat-chir",
+  "questions": [
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "Rectorragies + anémie ferriprive après 50 ans = cancer colorectal jusqu'à preuve du contraire.",
+     "La coloscopie totale avec biopsies est l'examen diagnostique de référence.",
+     "La NFS objective l'anémie ; la biologie pré-opératoire est systématique.",
+     "L'ACE (antigène carcino-embryonnaire) sert au suivi, pas au diagnostic.",
+     "Attribuer les rectorragies aux hémorroïdes sans exploration serait une erreur diagnostique."
+    ],
+    "options": [
+     "Des rectorragies avec anémie ferriprive après 50 ans évoquent un cancer colorectal",
+     "La coloscopie totale avec biopsies est l'examen de référence",
+     "NFS, ionogramme et bilan pré-opératoire sont réalisés",
+     "L'ACE est l'examen qui pose le diagnostic de cancer du côlon",
+     "Des hémorroïdes connues suffisent à expliquer les rectorragies sans autre exploration"
+    ],
+    "q": "La coloscopie retrouve une tumeur du côlon sigmoïde, biopsie : adénocarcinome. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Adénocarcinome du sigmoïde confirmé. Le bilan d'extension est réalisé."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "Le scanner TAP injecté recherche métastases hépatiques, pulmonaires et carcinose.",
+     "Le scanner précise l'extension locale (T) et ganglionnaire (N).",
+     "L'ACE de base sert de référence pour la surveillance post-thérapeutique.",
+     "Le bilan d'opérabilité (cardiaque, respiratoire, nutritionnel) conditionne la stratégie.",
+     "La scintigraphie osseuse n'est pas systématique sans point d'appel."
+    ],
+    "options": [
+     "Le scanner thoraco-abdomino-pelvien injecté recherche les métastases",
+     "Il précise l'extension tumorale locale et ganglionnaire (TNM)",
+     "L'ACE de base servira à la surveillance ultérieure",
+     "Le bilan d'opérabilité (cardiaque, nutritionnel) est indispensable",
+     "La scintigraphie osseuse est systématique"
+    ],
+    "q": "Concernant le bilan d'extension et d'opérabilité, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Tumeur T3N1M0, pas de métastase. Dossier présenté en RCP (réunion de concertation pluridisciplinaire)."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "La RCP (chirurgien, oncologue, radiologue, anatomopathologiste) valide la stratégie.",
+     "Sans métastase, la chirurgie première à visée curative est indiquée (sigmoïde non irradié en néoadjuvant).",
+     "L'information (bénéfices, risques, stomie éventuelle) et le consentement sont obligatoires.",
+     "La préparation colique et l'antibioprophylaxie font partie du protocole.",
+     "La chimiothérapie première n'est pas le standard d'un côlon non métastatique résécable."
+    ],
+    "options": [
+     "La RCP valide la stratégie thérapeutique",
+     "En l'absence de métastase, la chirurgie première à visée curative est indiquée",
+     "L'information du patient (risques, stomie éventuelle) et son consentement sont obligatoires",
+     "La préparation colique et l'antibioprophylaxie sont réalisées",
+     "La chimiothérapie néoadjuvante est le standard du cancer du côlon non métastatique"
+    ],
+    "q": "La RCP conclut à une chirurgie première. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Sigmoïdectomie programmée. Le choix de la voie d'abord est discuté."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "La cœlioscopie est la voie de référence (mêmes résultats carcinologiques, suites meilleures).",
+     "La laparotomie reste indiquée si tumeur volumineuse, occlusion ou contre-indication à la cœlioscopie.",
+     "La résection doit être carcinologique : marges saines + curage ganglionnaire (≥ 12 ganglions).",
+     "L'anastomose mécanique ou manuelle rétablit la continuité si conditions favorables.",
+     "La stomie systématique n'est pas indiquée : elle se discute selon le risque de fistule."
+    ],
+    "options": [
+     "La cœlioscopie est la voie d'abord de référence",
+     "La laparotomie reste indiquée (tumeur volumineuse, occlusion, adhérences)",
+     "La résection carcinologique impose des marges saines et un curage ganglionnaire (≥ 12 ganglions)",
+     "L'anastomose colo-rectale rétablit la continuité digestive",
+     "Une stomie de protection est systématique après toute colectomie"
+    ],
+    "q": "Concernant la technique opératoire, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Sigmoïdectomie par cœlioscopie avec anastomose mécanique, sans stomie. Suites simples initialement."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "explain": [
+     "La fistule anastomotique est la complication la plus redoutée (douleur, fièvre, péritonite).",
+     "Le scanner avec opacification recherche l'épanchement et la fistule.",
+     "Une fistule avérée impose le plus souvent la reprise chirurgicale (lavage, stomie).",
+     "L'iléus (arrêt transitoire du transit) est fréquent et le plus souvent résolutif.",
+     "Toute fièvre post-opératoire n'est pas une fistule, mais elle impose de l'éliminer."
+    ],
+    "options": [
+     "La fistule anastomotique est la complication la plus redoutée",
+     "Le scanner abdomino-pelvien avec opacification la recherche",
+     "Une fistule avérée impose le plus souvent une reprise chirurgicale",
+     "L'iléus post-opératoire est fréquent et habituellement résolutif",
+     "Toute fièvre à J3 signe une fistule anastomotique"
+    ],
+    "q": "À J5, le patient est fébrile à 38,9 °C avec douleurs abdominales. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Scanner normal, simple iléus : reprise du transit à J7. L'anatomopathologie arrive."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "Le pTNM pathologique (profondeur, ganglions, marges) est le principal facteur pronostique.",
+     "Un envahissement ganglionnaire (N+) indique une chimiothérapie adjuvante (FOLFOX).",
+     "Des marges saines (R0) sont la condition de la chirurgie curative.",
+     "Le grade, les emboles vasculaires et l'instabilité microsatellite affinent le pronostic.",
+     "Le nombre de ganglions n'a aucune valeur : un curage pauvre sous-stade la tumeur."
+    ],
+    "options": [
+     "Le stade pTNM est le principal facteur pronostique",
+     "Un envahissement ganglionnaire (N+) indique une chimiothérapie adjuvante",
+     "Des marges de résection saines (R0) définissent la chirurgie curative",
+     "Le statut microsatellite (MSI) et les emboles affinent le pronostic",
+     "Le nombre de ganglions examinés n'a aucune importance"
+    ],
+    "q": "L'anapath conclut : pT3N1bM0, R0, 18 ganglions examinés. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Stade III : chimiothérapie adjuvante par FOLFOX pendant 6 mois, bien tolérée."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     3,
+     4
+    ],
+    "explain": [
+     "La chimiothérapie adjuvante éradique la maladie micrométastatique et améliore la survie.",
+     "Le FOLFOX (5-FU + oxaliplatine) est le standard de l'adénocarcinome colique de stade III.",
+     "La neuropathie à l'oxaliplatine est l'effet indésirable à surveiller (arrêt si sévère).",
+     "La surveillance post-thérapeutique : clinique, ACE, scanner, coloscopie.",
+     "La radiothérapie n'a pas de place dans le cancer du côlon (contrairement au rectum)."
+    ],
+    "options": [
+     "La chimiothérapie adjuvante améliore la survie en stade III",
+     "Le protocole FOLFOX (5-FU + oxaliplatine) est le standard",
+     "La neuropathie périphérique à l'oxaliplatine est surveillée étroitement",
+     "La surveillance comprend clinique, ACE, imagerie et coloscopie",
+     "La radiothérapie adjuvante est systématique comme dans le cancer du rectum"
+    ],
+    "q": "Concernant le traitement adjuvant et la surveillance, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Fin de la chimiothérapie. À 1 an, l'ACE s'élève : un nodule hépatique est découvert."
+   },
+   {
+    "correct": [
+     0,
+     1,
+     2,
+     4
+    ],
+    "explain": [
+     "Une élévation de l'ACE doit faire rechercher une récidive (imagerie).",
+     "Le foie est le 1er site métastatique du cancer colorectal.",
+     "Une métastase hépatique unique résécable peut être opérée à visée curative.",
+     "La RCP réévalue la stratégie (chirurgie hépatique ± chimiothérapie).",
+     "L'ACE ne se normalise pas toujours : son interprétation est dynamique."
+    ],
+    "options": [
+     "Une élévation de l'ACE impose un bilan de récidive",
+     "Le foie est le premier site métastatique du cancer colorectal",
+     "Une métastase hépatique unique et résécable peut être opérée à visée curative",
+     "La RCP réévalue la stratégie thérapeutique",
+     "Un ACE qui ne se normalise pas totalement est toujours rassurant"
+    ],
+    "q": "À 18 mois, l'ACE augmente et le scanner montre un nodule hépatique unique de 2 cm. Quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+    "reveal": "Métastasectomie hépatique réalisée, marges saines. À 5 ans, le patient est en rémission complète. Fin du cas. 🎉"
+   }
+  ],
+  "scenario": "M. Tazi, 62 ans, sans antécédent notable, consulte pour des rectorragies évoluant depuis 3 mois et une fatigue.\n\nLe bilan retrouve : Hb 9,8 g/dL (anémie ferriprive), reste de la biologie normal. L'examen clinique est sans particularité (pas de masse palpable).",
+  "teaser": "M. Tazi, 62 ans, rectorragies et anémie. Suivez la prise en charge : diagnostic, bilan d'extension, RCP, technique opératoire, adjuvant et surveillance.",
+  "title": "Adénocarcinome du sigmoïde : stratégie chirurgicale"
+ }
+]

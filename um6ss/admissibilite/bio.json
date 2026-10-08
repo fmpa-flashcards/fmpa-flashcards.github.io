@@ -1,0 +1,2132 @@
+[
+ {
+  "q": "Concernant la production des anticorps, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Les plasmocytes sont les cellules productrices des immunoglobulines",
+   "La commutation isotypique des immunoglobulines dépend du TGF-bêta",
+   "L'IgM est le premier anticorps produit lors de la réponse immunitaire primaire",
+   "Les anticorps sont sécrétés par les lymphocytes B naïfs",
+   "L'IgG traverse la barrière placentaire"
+  ],
+  "explain": [
+   "Vrai : les lymphocytes B activés se différencient en plasmocytes, cellules sécrétrices d'anticorps.",
+   "Faux : la commutation de classe nécessite l'interaction CD40-CD40L et des cytokines (IL-4, IFN-gamma), pas le TGF-bêta.",
+   "Vrai : l'IgM pentamérique est l'isotype de la réponse primaire, avant la commutation vers l'IgG.",
+   "Faux : les lymphocytes B naïfs expriment l'Ig membranaire comme récepteur ; la sécrétion est le fait des plasmocytes.",
+   "Vrai : l'IgG est le seul isotype à traverser le placenta (immunité passive du nouveau-né)."
+  ],
+  "correct": [
+   0,
+   2,
+   4
+  ]
+ },
+ {
+  "q": "Concernant les différentes classes d'immunoglobulines, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "L'IgA sérique existe sous forme monomérique",
+   "L'IgE se fixe aux mastocytes via le récepteur FcεRI",
+   "L'IgD est sécrétée en grande quantité dans le plasma",
+   "L'IgM pentamérique active efficacement la voie classique du complément",
+   "Les anticorps détruisent les pathogènes grâce à une activité enzymatique propre"
+  ],
+  "explain": [
+   "Vrai : l'IgA sérique est monomérique ; la forme dimérique est sécrétoire (muqueuses).",
+   "Vrai : la fixation de l'IgE au FcεRI des mastocytes et basophiles déclenche la dégranulation.",
+   "Faux : l'IgD est surtout membranaire (co-récepteur du lymphocyte B) et présente à l'état de traces dans le sérum.",
+   "Vrai : une seule molécule d'IgM pentamérique suffit à initier la voie classique via C1q.",
+   "Faux : les anticorps n'ont pas d'activité enzymatique ; ils agissent par neutralisation, opsonisation et cytotoxicité cellulaire dépendante des anticorps (ADCC)."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ]
+ },
+ {
+  "q": "Concernant les lymphocytes T, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Les lymphocytes T CD8+ exercent une cytotoxicité directe contre les cellules infectées",
+   "Les lymphocytes Th1 sécrètent principalement de l'interleukine-4",
+   "La présentation antigénique aux lymphocytes T CD4+ se fait via le CMH de classe II",
+   "Les lymphocytes T régulateurs expriment le facteur de transcription Foxp3",
+   "La sélection positive des lymphocytes T a lieu dans la moelle osseuse"
+  ],
+  "explain": [
+   "Vrai : les LT CD8+ cytotoxiques lysent les cellules infectées ou tumorales (perforine/granzyme).",
+   "Faux : les Th1 sécrètent de l'interféron-gamma ; l'IL-4 est la cytokine signature des Th2.",
+   "Vrai : le CMH de classe II présente les peptides exogènes aux LT CD4+ auxiliaires.",
+   "Vrai : Foxp3 est le marqueur des Treg, essentiels à la tolérance et à la prévention de l'auto-immunité.",
+   "Faux : la maturation et la sélection (positive et négative) des lymphocytes T ont lieu dans le thymus."
+  ],
+  "correct": [
+   0,
+   2,
+   3
+  ]
+ },
+ {
+  "q": "Concernant les cytokines de l'immunité cellulaire, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "L'interleukine-2 est un facteur de croissance essentiel des lymphocytes T",
+   "Le TNF-alpha est une cytokine pro-inflammatoire majeure du choc septique",
+   "L'interféron-gamma inhibe l'activité microbicide des macrophages",
+   "L'interleukine-10 est une cytokine pro-inflammatoire",
+   "Les cytokines agissent uniquement de façon endocrine à distance"
+  ],
+  "explain": [
+   "Vrai : l'IL-2, produite par les LT activés, stimule leur prolifération clonale.",
+   "Vrai : le TNF-alpha, massivement libéré lors des infections graves, est un médiateur central du choc septique.",
+   "Faux : l'IFN-gamma est le principal activateur des macrophages.",
+   "Faux : l'IL-10 est anti-inflammatoire et immunosuppressive.",
+   "Faux : les cytokines agissent surtout de façon autocrine et paracrine, à courte distance."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant le complexe majeur d'histocompatibilité, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Les molécules du CMH de classe I ne sont exprimées que par les cellules du système immunitaire",
+   "Les molécules du CMH de classe II sont exprimées principalement par les cellules présentatrices d'antigène",
+   "Le CMH de classe I présente les antigènes aux lymphocytes T CD8+",
+   "Les gènes du CMH sont situés sur le bras court du chromosome 6 chez l'homme",
+   "Le CMH de classe II présente les peptides endogènes"
+  ],
+  "explain": [
+   "Faux : le CMH de classe I est exprimé par toutes les cellules nucléées de l'organisme.",
+   "Vrai : le CMH II est exprimé par les macrophages, les cellules dendritiques et les lymphocytes B.",
+   "Vrai : le CMH I présente les peptides endogènes (viraux, tumoraux) aux LT CD8+ cytotoxiques.",
+   "Vrai : le locus HLA est situé en 6p21, région la plus polymorphe du génome humain.",
+   "Faux : le CMH II présente les peptides exogènes captés par endocytose."
+  ],
+  "correct": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "q": "Concernant les propriétés du système HLA, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Le système HLA est le plus polymorphe du génome humain",
+   "La transmission des haplotypes HLA est codominante",
+   "Le typage HLA n'est utile qu'en transplantation rénale",
+   "L'allèle HLA-B27 est fortement associé à la spondylarthrite ankylosante",
+   "Deux frères et sœurs ont systématiquement le même haplotype HLA"
+  ],
+  "explain": [
+   "Vrai : des milliers d'allèles décrits, garantissant la diversité de présentation antigénique.",
+   "Vrai : les deux haplotypes parentaux s'expriment, d'où 25 % de fratrie HLA-identique.",
+   "Faux : le typage HLA est indispensable avant toute greffe, notamment de moelle osseuse.",
+   "Vrai : plus de 90 % des patients atteints de spondylarthrite ankylosante sont HLA-B27 positifs.",
+   "Faux : la probabilité d'identité HLA entre frères et sœurs n'est que de 25 %."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ]
+ },
+ {
+  "q": "Concernant l'immunité anti-virale, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Les interférons de type I (alpha/bêta) inhibent la réplication virale",
+   "Les cellules NK lysent les cellules infectées par un virus",
+   "Les anticorps neutralisants favorisent l'entrée du virus dans la cellule",
+   "La réponse anti-virale repose uniquement sur l'immunité humorale",
+   "Les lymphocytes T CD8+ protègent les cellules infectées de la lyse"
+  ],
+  "explain": [
+   "Vrai : les IFN alpha/bêta induisent un état antiviral dans les cellules voisines.",
+   "Vrai : les NK détectent la baisse d'expression du CMH I des cellules infectées et les lysent.",
+   "Faux : les anticorps neutralisants bloquent l'attachement et l'entrée du virus.",
+   "Faux : la clairance virale repose surtout sur l'immunité cellulaire (LT CD8+, NK).",
+   "Faux : les LT CD8+ cytotoxiques éliminent les cellules infectées."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant les défenses contre les bactéries extracellulaires, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "L'opsonisation par les IgG et le C3b facilite la phagocytose",
+   "Le complexe d'attaque membranaire peut lyser les bactéries à Gram négatif",
+   "Les neutrophiles tuent les bactéries par explosion oxydative",
+   "Les bactéries intracellulaires sont principalement contrôlées par l'immunité humorale",
+   "L'activation de la voie alterne du complément nécessite des anticorps"
+  ],
+  "explain": [
+   "Vrai : les opsonines IgG et C3b sont reconnues par les récepteurs Fc et CR des phagocytes.",
+   "Vrai : le complexe d'attaque membranaire (C5b-9) perfore la membrane externe des bactéries à Gram négatif.",
+   "Vrai : la NADPH oxydase produit des espèces réactives de l'oxygène microbicides.",
+   "Faux : les bactéries intracellulaires (mycobactéries, Listeria) sont contrôlées par l'immunité cellulaire Th1.",
+   "Faux : la voie alterne est activée spontanément par hydrolyse du C3, sans anticorps."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "q": "Concernant le système des phagocytes mononucléés, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Les monocytes circulants dérivent de progéniteurs médullaires",
+   "Les cellules de Kupffer sont les macrophages résidents du foie",
+   "Les macrophages présentent l'antigène uniquement via le CMH de classe I",
+   "La microglie est le macrophage résident du système nerveux central",
+   "Les macrophages ne participent pas à l'immunité adaptative"
+  ],
+  "explain": [
+   "Vrai : les monocytes sont produits dans la moelle osseuse puis migrent dans les tissus.",
+   "Vrai : les cellules de Kupffer tapissent les sinusoïdes hépatiques.",
+   "Faux : les macrophages présentent les antigènes exogènes via le CMH de classe II.",
+   "Vrai : la microglie dérive des précurseurs myéloïdes et surveille le parenchyme cérébral.",
+   "Faux : en tant que cellules présentatrices d'antigène, ils initient la réponse adaptative."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ]
+ },
+ {
+  "q": "Concernant la phagocytose, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La phagocytose est initiée par la reconnaissance de motifs microbiens via des récepteurs PRR",
+   "Le phagolysosome résulte de la fusion du phagosome avec l'appareil de Golgi",
+   "Les espèces réactives de l'oxygène n'ont aucun rôle microbicide",
+   "Les cellules dendritiques sont les principales cellules phagocytaires du sang",
+   "L'opsonisation inhibe la capture des micro-organismes"
+  ],
+  "explain": [
+   "Vrai : les PRR (dont les Toll-like récepteurs) reconnaissent les motifs microbiens (PAMP) des pathogènes.",
+   "Faux : le phagolysosome résulte de la fusion du phagosome avec le lysosome.",
+   "Faux : les espèces réactives de l'oxygène produites par la NADPH oxydase sont des agents microbicides majeurs.",
+   "Faux : les principaux phagocytes sanguins sont les neutrophiles et les monocytes.",
+   "Faux : l'opsonisation par IgG et C3b favorise au contraire la phagocytose."
+  ],
+  "correct": [
+   0
+  ]
+ },
+ {
+  "q": "Concernant la régulation de l'hématopoïèse, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "L'érythropoïétine est sécrétée par le rein en réponse à l'hypoxie",
+   "La thrombopoïétine est principalement produite par le foie",
+   "Le G-CSF stimule la production des plaquettes",
+   "La vitamine B12 inhibe la synthèse de l'ADN des précurseurs érythroblastiques",
+   "Le GM-CSF stimule exclusivement la lignée érythrocytaire"
+  ],
+  "explain": [
+   "Vrai : l'hypoxie rénale stimule la sécrétion d'EPO, facteur de croissance de la lignée rouge.",
+   "Vrai : la TPO hépatique régule la mégacaryopoïèse et la production plaquettaire.",
+   "Faux : le G-CSF (Granulocyte-Colony Stimulating Factor) stimule la lignée granulocytaire neutrophile.",
+   "Faux : la vitamine B12 est un cofacteur indispensable de la synthèse d'ADN (son déficit donne une anémie macrocytaire).",
+   "Faux : le GM-CSF stimule les lignées granuleuse et monocytaire, pas l'érythropoïèse."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant l'hématopoïèse médullaire, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La cellule souche hématopoïétique est multipotente",
+   "Le progéniteur myéloïde commun donne les lignées érythrocytaire, mégacaryocytaire et granulo-monocytaire",
+   "Les mégacaryocytes produisent les plaquettes par fragmentation cytoplasmique",
+   "L'hématopoïèse adulte a lieu principalement dans la rate",
+   "Les érythroblastes conservent leur noyau dans le sang circulant"
+  ],
+  "explain": [
+   "Vrai : elle peut se différencier vers toutes les lignées sanguines et s'auto-renouveler.",
+   "Vrai : le progéniteur myéloïde commun est à l'origine des lignées myéloïdes (le progéniteur lymphoïde donnant la lignée lymphoïde).",
+   "Vrai : chaque mégacaryocyte libère des milliers de plaquettes par émission de proplaquettes.",
+   "Faux : chez l'adulte, l'hématopoïèse est médullaire ; la rate n'intervient qu'en hématopoïèse extramédullaire pathologique.",
+   "Faux : les érythroblastes expulsent leur noyau au stade orthochromatique avant de passer dans le sang."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "q": "Concernant les hémolyses, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Une hémolyse intravasculaire s'accompagne d'hémoglobinémie et d'hémoglobinurie",
+   "L'haptoglobine diminue lors d'une hémolyse intravasculaire",
+   "Une hémolyse extravasculaire augmente la bilirubine libre (non conjuguée)",
+   "Le test de Coombs direct est positif dans les hémolyses mécaniques",
+   "Une hémolyse s'accompagne toujours d'une réticulocytose élevée"
+  ],
+  "explain": [
+   "Vrai : la lyse dans la circulation libère l'hémoglobine libre dans le plasma puis dans les urines.",
+   "Vrai : l'haptoglobine, qui capte l'hémoglobine libre, est consommée et s'effondre.",
+   "Vrai : la destruction splénique des globules rouges surcharge la conjugaison hépatique en bilirubine libre.",
+   "Faux : le test de Coombs direct est positif dans les anémies hémolytiques auto-immunes, pas dans les hémolyses mécaniques.",
+   "Faux : la réticulocytose peut manquer si la moelle est défaillante ou envahie (hémolyse arégénérative)."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "q": "Concernant l'exploration biologique d'une hémolyse, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Les LDH sont augmentées en cas d'hémolyse",
+   "Le frottis sanguin montre des drépanocytes en cas d'hémolyse mécanique",
+   "La bilirubine totale augmente avec prédominance de la fraction conjuguée",
+   "La numération des réticulocytes est diminuée dans les hémolyses régénératives",
+   "Le test à l'éosine-5-maléimide (EMA) est utile au diagnostic de la sphérocytose héréditaire"
+  ],
+  "explain": [
+   "Vrai : les LDH, enzymes intra-érythrocytaires, sont libérées lors de la lyse.",
+   "Faux : l'hémolyse mécanique (valves cardiaques, microangiopathie) donne des schizocytes, pas des drépanocytes.",
+   "Faux : c'est la bilirubine libre (non conjuguée) qui prédomine dans l'hémolyse.",
+   "Faux : les hémolyses régénératives s'accompagnent d'une réticulocytose élevée.",
+   "Vrai : le test EMA met en évidence le déficit en protéines membranaires de la sphérocytose héréditaire."
+  ],
+  "correct": [
+   0,
+   4
+  ]
+ },
+ {
+  "q": "Concernant le système ABO, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Les individus de groupe O possèdent des anticorps anti-A et anti-B naturels",
+   "Les antigènes A et B sont des oligosaccharides portés par les globules rouges",
+   "Un sujet de groupe O peut recevoir des concentrés de globules rouges de groupe A",
+   "Le groupe O est donneur universel de concentrés de globules rouges",
+   "Les anticorps anti-A et anti-B naturels sont des IgG"
+  ],
+  "explain": [
+   "Vrai : les agglutinines anti-A et anti-B sont présentes en l'absence des antigènes correspondants.",
+   "Vrai : les antigènes ABO sont des chaînes glucidiques fixées sur les glycolipides et glycoprotéines membranaires.",
+   "Faux : un receveur O possède des anti-A et anti-B qui hémolyseraient des globules rouges A.",
+   "Vrai : les globules rouges O, dépourvus d'antigènes A et B, sont compatibles avec tous les receveurs.",
+   "Faux : les anticorps naturels anti-A et anti-B sont des IgM (agglutinantes, activant le complément)."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ]
+ },
+ {
+  "q": "Concernant le système Rhésus et la transfusion sanguine, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "L'antigène D est le plus immunogène du système Rhésus",
+   "Une femme Rh négatif enceinte ne nécessite aucune prophylaxie anti-D",
+   "Le phénotype Rh nul est totalement asymptomatique",
+   "La recherche d'agglutinines irrégulières (RAI) est obligatoire avant toute transfusion",
+   "Le contrôle ultime au lit du malade peut être omis en urgence vitale"
+  ],
+  "explain": [
+   "Vrai : l'antigène D est responsable de la majorité des immunisations fœto-maternelles et transfusionnelles.",
+   "Faux : l'injection d'immunoglobulines anti-D est obligatoire pour prévenir l'allo-immunisation.",
+   "Faux : le phénotype Rh nul s'accompagne d'une anémie hémolytique chronique avec stomatocytose.",
+   "Vrai : la RAI dépiste les anticorps irréguliers dirigés contre les autres systèmes de groupes sanguins.",
+   "Faux : le contrôle ultime pré-transfusionnel au lit du malade est obligatoire, y compris en urgence."
+  ],
+  "correct": [
+   0,
+   3
+  ]
+ },
+ {
+  "q": "Concernant les hémoglobines humaines, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "L'hémoglobine A est constituée de deux chaînes alpha et deux chaînes bêta",
+   "L'hémoglobine F prédomine à la naissance",
+   "La drépanocytose résulte d'une délétion du gène de la chaîne bêta",
+   "Les chaînes alpha sont codées par des gènes situés sur le chromosome 11",
+   "La bêta-thalassémie homozygote s'accompagne d'une élévation de l'HbA"
+  ],
+  "explain": [
+   "Vrai : l'HbA adulte est un tétramère 2α/2β.",
+   "Vrai : l'HbF (2α/2γ) représente 70 à 90 % de l'hémoglobine à la naissance.",
+   "Faux : la drépanocytose est due à une mutation ponctuelle (Glu6Val) du gène bêta-globine.",
+   "Faux : les gènes alpha sont situés sur le chromosome 16 ; les gènes bêta sur le chromosome 11.",
+   "Faux : l'HbA est effondrée dans la bêta-thalassémie majeure, avec élévation compensatrice de l'HbF et de l'HbA2."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant la biochimie de l'hémoglobine, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Chaque molécule d'hémoglobine peut fixer quatre molécules d'oxygène",
+   "La courbe de dissociation de l'oxyhémoglobine est sigmoïde",
+   "L'effet Bohr favorise la libération d'oxygène en milieu acide",
+   "La 2,3-DPG augmente l'affinité de l'hémoglobine pour l'oxygène",
+   "L'HbA1c reflète l'équilibre glycémique des dernières 24 heures"
+  ],
+  "explain": [
+   "Vrai : le tétramère porte quatre hèmes, chacun fixant une molécule d'O2.",
+   "Vrai : la coopérativité entre sous-unités donne une courbe de dissociation sigmoïde.",
+   "Vrai : en acidose tissulaire, l'hémoglobine libère plus facilement l'O2 aux tissus.",
+   "Faux : la 2,3-DPG se fixe sur la désoxyhémoglobine et diminue son affinité pour l'O2.",
+   "Faux : l'HbA1c reflète la glycémie moyenne des 2 à 3 derniers mois (durée de vie des hématies)."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "q": "Concernant l'hémostase primaire, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "L'adhésion plaquettaire au sous-endothélium implique le facteur von Willebrand",
+   "L'ADP et le thromboxane A2 sont des agonistes de l'agrégation plaquettaire",
+   "Le temps de saignement explore la coagulation plasmatique",
+   "La thrombopénie s'accompagne d'un allongement du TCA",
+   "Le clou plaquettaire est définitif sans intervention de la fibrine"
+  ],
+  "explain": [
+   "Vrai : le facteur von Willebrand fait le pont entre le collagène sous-endothélial et la GPIb plaquettaire.",
+   "Vrai : l'ADP (récepteurs P2Y12) et le thromboxane A2 amplifient le recrutement plaquettaire.",
+   "Faux : le temps de saignement explore l'hémostase primaire (plaquettes et paroi vasculaire).",
+   "Faux : dans la thrombopénie, TP et TCA sont normaux ; seul le temps de saignement est allongé.",
+   "Faux : le clou plaquettaire, fragile, est consolidé par le réseau de fibrine issu de la coagulation."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant la coagulation plasmatique, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Le facteur X activé convertit la prothrombine en thrombine",
+   "La thrombine transforme le fibrinogène en fibrine",
+   "Le facteur XIII stabilise le caillot par des liaisons covalentes",
+   "Le TP explore la voie extrinsèque et la voie commune",
+   "L'héparine agit en inhibant directement la thrombine"
+  ],
+  "explain": [
+   "Vrai : le complexe prothrombinase (Xa-Va) clive la prothrombine (facteur II) en thrombine.",
+   "Vrai : la thrombine (IIa) clive le fibrinogène en monomères de fibrine.",
+   "Vrai : le facteur XIIIa crée des liaisons covalentes entre les brins de fibrine.",
+   "Vrai : le TP (taux de prothrombine) explore les facteurs VII, X, V, II et le fibrinogène.",
+   "Faux : l'héparine potentialise l'antithrombine, qui inhibe la thrombine et le facteur Xa."
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "q": "Concernant la fibrinolyse et les inhibiteurs de la coagulation, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Le plasminogène est activé en plasmine par le t-PA",
+   "Les D-dimères témoignent de la dégradation de la fibrine stabilisée",
+   "L'antithrombine active la thrombine",
+   "La protéine C activée stimule les facteurs Va et VIIIa",
+   "Un déficit en antithrombine protège contre la thrombose"
+  ],
+  "explain": [
+   "Vrai : l'activateur tissulaire du plasminogène (t-PA) convertit le plasminogène en plasmine.",
+   "Vrai : les D-dimères sont des produits de dégradation spécifiques de la fibrine réticulée par le facteur XIIIa.",
+   "Faux : l'antithrombine est le principal inhibiteur physiologique de la thrombine et du facteur Xa.",
+   "Faux : la protéine C activée (avec la protéine S) inactive les facteurs Va et VIIIa.",
+   "Faux : le déficit en antithrombine est une thrombophilie héréditaire majeure."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant les marqueurs biologiques de la nécrose myocardique, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La troponine I est le marqueur le plus spécifique de la nécrose myocardique",
+   "La troponine s'élève dès la première minute de l'infarctus",
+   "La myoglobine est un marqueur très spécifique du myocarde",
+   "Les LDH sont le marqueur de choix du diagnostic précoce",
+   "Les CPK-MB sont plus spécifiques que la troponine"
+  ],
+  "explain": [
+   "Vrai : la troponine I cardiaque n'est exprimée que par le myocarde.",
+   "Faux : la troponine ne s'élève qu'après 3 à 6 heures, avec un pic à 12-24 h.",
+   "Faux : la myoglobine est précoce mais présente aussi dans le muscle squelettique (peu spécifique).",
+   "Faux : les LDH sont ubiquitaires et tardives, sans intérêt diagnostique actuel.",
+   "Faux : les CPK-MB, d'origine cardiaque et squelettique, sont moins spécifiques que la troponine."
+  ],
+  "correct": [
+   0
+  ]
+ },
+ {
+  "q": "Concernant les enzymes musculaires et hépatiques, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Les CPK sont très élevées dans les rhabdomyolyses",
+   "Les ALAT sont plus spécifiques du foie que les ASAT",
+   "Une élévation isolée des phosphatases alcalines évoque une cytolyse hépatique",
+   "La gamma-GT est induite par la consommation d'alcool",
+   "L'amylasémie est le marqueur le plus spécifique de la pancréatite aiguë"
+  ],
+  "explain": [
+   "Vrai : la lyse musculaire massive libère des quantités considérables de CPK.",
+   "Vrai : les ALAT sont surtout hépatiques, tandis que les ASAT existent aussi dans le muscle et le cœur.",
+   "Faux : l'élévation isolée des PAL oriente vers une cholestase, pas une cytolyse.",
+   "Vrai : l'alcool est un inducteur enzymatique qui élève la gamma-GT.",
+   "Faux : la lipasémie est plus spécifique que l'amylasémie pour le diagnostic de pancréatite aiguë."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ]
+ },
+ {
+  "q": "Concernant la vitesse de sédimentation, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La VS est augmentée par le fibrinogène",
+   "La VS est diminuée en cas de polyglobulie",
+   "La VS est un marqueur spécifique de l'inflammation",
+   "La VS est normale au cours de la grossesse",
+   "La VS mesure directement la concentration de CRP"
+  ],
+  "explain": [
+   "Vrai : le fibrinogène favorise la formation de rouleaux d'hématies qui sédimentent plus vite.",
+   "Vrai : l'augmentation de l'hématocrite freine la sédimentation des globules rouges.",
+   "Faux : la VS est non spécifique, influencée par l'anémie, les immunoglobulines et l'âge.",
+   "Faux : la VS est physiologiquement augmentée pendant la grossesse.",
+   "Faux : la VS est un test global ; la CRP se dose séparément."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant les protéines de l'inflammation, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La CRP est synthétisée par le foie en réponse à l'IL-6",
+   "La CRP augmente dès la 6e heure d'une inflammation aiguë",
+   "La procalcitonine oriente vers une infection virale",
+   "L'albumine augmente au cours du syndrome inflammatoire",
+   "L'orosomucoïde est une protéine de l'inflammation à cinétique rapide"
+  ],
+  "explain": [
+   "Vrai : l'IL-6 stimule la synthèse hépatique de CRP, protéine majeure de la phase aiguë.",
+   "Vrai : la CRP est détectable dès 6 h, avec un pic à 48 h.",
+   "Faux : la procalcitonine s'élève surtout dans les infections bactériennes sévères.",
+   "Faux : l'albumine, protéine négative de l'inflammation, diminue lors du syndrome inflammatoire.",
+   "Faux : l'orosomucoïde (alpha-1 glycoprotéine acide) est une protéine à cinétique lente."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant le sodium et la natrémie, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Le sodium est le principal cation du secteur extracellulaire",
+   "Une hyponatrémie peut être due à un syndrome de sécrétion inappropriée d'ADH (SIADH)",
+   "L'hypernatrémie traduit le plus souvent un excès d'apport sodé",
+   "La natrémie reflète directement le capital sodé total de l'organisme",
+   "L'hypernatrémie aiguë se corrige par restriction hydrique"
+  ],
+  "explain": [
+   "Vrai : le Na+ (140 mmol/L) détermine l'osmolalité du secteur extracellulaire.",
+   "Vrai : le SIADH entraîne une rétention d'eau avec hyponatrémie de dilution euvolémique.",
+   "Faux : l'hypernatrémie traduit le plus souvent un déficit en eau libre, pas un excès de sel.",
+   "Faux : la natrémie reflète le rapport eau/sodium, c'est-à-dire l'état d'hydratation intracellulaire.",
+   "Faux : l'hypernatrémie se corrige par apport d'eau libre, jamais par restriction hydrique."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant le potassium, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Le potassium est le principal cation du secteur intracellulaire",
+   "L'hyperkaliémie donne des ondes T amples et pointues à l'ECG",
+   "L'alcalose favorise la survenue d'une hyperkaliémie",
+   "L'insuline fait sortir le potassium de la cellule",
+   "Les diurétiques thiazidiques provoquent une hyperkaliémie"
+  ],
+  "explain": [
+   "Vrai : le K+ intracellulaire (environ 140 mmol/L) est essentiel au potentiel de membrane.",
+   "Vrai : les ondes T amples et pointues sont le signe ECG le plus précoce de l'hyperkaliémie.",
+   "Faux : c'est l'acidose qui fait sortir le K+ de la cellule (échange H+/K+).",
+   "Faux : l'insuline stimule la Na+/K+ ATPase et fait entrer le K+ dans la cellule.",
+   "Faux : les thiazidiques augmentent l'élimination urinaire du potassium (hypokaliémie)."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant la régulation de l'équilibre hydrique, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "L'ADH (vasopressine) augmente la réabsorption d'eau au niveau du tube collecteur",
+   "La soif est régulée par l'osmolalité plasmatique",
+   "Le secteur intracellulaire représente environ deux tiers de l'eau totale",
+   "L'aldostérone augmente l'excrétion urinaire du sodium",
+   "L'eau libre se distribue uniquement dans le secteur extracellulaire"
+  ],
+  "explain": [
+   "Vrai : l'ADH insère l'aquaporine-2 dans le tube collecteur, concentrant les urines.",
+   "Vrai : les osmorécepteurs hypothalamiques déclenchent la soif en cas d'hyperosmolalité.",
+   "Vrai : sur 60 % du poids corporel d'eau, 40 % sont intracellulaires et 20 % extracellulaires.",
+   "Faux : l'aldostérone augmente la réabsorption du sodium (et l'excrétion du potassium).",
+   "Faux : l'eau libre diffuse dans tous les secteurs, y compris le secteur intracellulaire."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "q": "Concernant la régulation de la calcémie, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La PTH augmente la calcémie en stimulant la résorption osseuse",
+   "La calcitonine augmente la calcémie",
+   "La vitamine D diminue l'absorption intestinale du calcium",
+   "L'hypercalcémie se manifeste par le signe de Trousseau",
+   "La PTH diminue la réabsorption tubulaire du calcium"
+  ],
+  "explain": [
+   "Vrai : la parathormone stimule les ostéoclastes, la réabsorption rénale du calcium et la synthèse de calcitriol.",
+   "Faux : la calcitonine, sécrétée par les cellules C thyroïdiennes, diminue la calcémie.",
+   "Faux : le calcitriol augmente l'absorption intestinale du calcium et du phosphore.",
+   "Faux : le signe de Trousseau (comme celui de Chvostek) traduit l'hyperexcitabilité neuromusculaire de l'hypocalcémie.",
+   "Faux : la PTH augmente la réabsorption tubulaire distale du calcium."
+  ],
+  "correct": [
+   0
+  ]
+ },
+ {
+  "q": "Concernant le métabolisme du phosphore, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La PTH diminue la réabsorption tubulaire des phosphates",
+   "L'hyperphosphorémie est fréquente dans l'insuffisance rénale chronique",
+   "L'hypophosphorémie peut provoquer une faiblesse musculaire",
+   "Le phosphore est majoritairement extracellulaire",
+   "L'hypercalcémie s'accompagne toujours d'une hyperphosphorémie"
+  ],
+  "explain": [
+   "Vrai : la PTH est phosphaturiante (inhibition du cotransport Na/Pi proximal).",
+   "Vrai : la baisse du DFG réduit l'excrétion des phosphates dans l'insuffisance rénale chronique.",
+   "Vrai : l'hypophosphorémie sévère altère la production d'ATP musculaire.",
+   "Faux : 85 % du phosphore est stocké dans l'os sous forme d'hydroxyapatite.",
+   "Faux : dans l'hyperparathyroïdie primaire, l'hypercalcémie s'associe à une hypophosphorémie."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "q": "Concernant l'exploration du métabolisme phosphocalcique, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La calcémie totale doit être corrigée en fonction de l'albuminémie",
+   "Une hyperparathyroïdie primaire associe hypercalcémie et PTH élevée",
+   "Le dosage de la 1,25-(OH)2 vitamine D évalue les réserves en vitamine D",
+   "L'hypocalcémie raccourcit l'intervalle QT à l'ECG",
+   "La calciurie des 24 heures est diminuée dans l'hyperparathyroïdie primaire"
+  ],
+  "explain": [
+   "Vrai : 40 % du calcium est lié à l'albumine ; la calcémie corrigée = calcémie mesurée + 0,02 x (40 - albuminémie).",
+   "Vrai : l'adénome parathyroïdien sécrète de la PTH de façon autonome malgré l'hypercalcémie.",
+   "Faux : les réserves s'évaluent par la 25-OH vitamine D ; la 1,25-(OH)2 reflète l'activation rénale.",
+   "Faux : l'hypocalcémie allonge l'intervalle QT (risque de torsades de pointes).",
+   "Faux : l'hypercalcémie de l'hyperparathyroïdie augmente la charge calcique filtrée et donc la calciurie."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant les lipoprotéines plasmatiques, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Les chylomicrons transportent les triglycérides d'origine alimentaire",
+   "Les VLDL sont synthétisées par le foie",
+   "Les LDL sont captées via le récepteur à l'apoA-I",
+   "Les HDL transportent les triglycérides d'origine alimentaire",
+   "Les LDL sont les lipoprotéines les plus denses"
+  ],
+  "explain": [
+   "Vrai : les chylomicrons, formés dans l'entérocyte, véhiculent les lipides alimentaires vers les tissus.",
+   "Vrai : le foie sécrète les VLDL, riches en triglycérides endogènes.",
+   "Faux : les LDL sont captées via le récepteur à l'apoB100/apoE (récepteur LDL).",
+   "Faux : le transport des triglycérides alimentaires est assuré par les chylomicrons.",
+   "Faux : les HDL sont les lipoprotéines les plus denses et les plus petites."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant le métabolisme des lipoprotéines, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La lipoprotéine lipase hydrolyse les triglycérides des chylomicrons et des VLDL",
+   "L'apoA-I est l'apoprotéine majeure des HDL",
+   "L'apoB48 est synthétisée par l'intestin",
+   "La CETP transfère le cholestérol des LDL vers les HDL",
+   "Les IDL sont les précurseurs directs des HDL"
+  ],
+  "explain": [
+   "Vrai : la lipoprotéine lipase endothéliale libère les acides gras des lipoprotéines riches en triglycérides.",
+   "Vrai : l'apoA-I active la LCAT, enzyme clé de l'estérification du cholestérol des HDL.",
+   "Vrai : l'apoB48, forme tronquée intestinale de l'apoB, structure les chylomicrons.",
+   "Faux : la CETP transfère les esters de cholestérol des HDL vers les VLDL et LDL.",
+   "Faux : les IDL sont les remnants des VLDL et les précurseurs des LDL."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "q": "Concernant le métabolisme du cholestérol, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Le cholestérol endogène est synthétisé principalement dans le foie",
+   "L'HMG-CoA réductase est l'enzyme clé de la synthèse du cholestérol",
+   "Les statines activent l'HMG-CoA réductase",
+   "Le cholestérol est le précurseur des hormones thyroïdiennes",
+   "Le cholestérol alimentaire représente la majeure partie du cholestérol plasmatique"
+  ],
+  "explain": [
+   "Vrai : le foie assure l'essentiel de la synthèse endogène (environ deux tiers du pool).",
+   "Vrai : l'HMG-CoA réductase catalyse l'étape limitante de la voie du mévalonate.",
+   "Faux : les statines inhibent l'HMG-CoA réductase, d'où la baisse du LDL-cholestérol.",
+   "Faux : le cholestérol est le précurseur des hormones stéroïdes, de la vitamine D et des acides biliaires.",
+   "Faux : l'apport alimentaire ne représente qu'environ un tiers du cholestérol circulant."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant les implications pathologiques du cholestérol, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "L'hypercholestérolémie familiale est due à une mutation du récepteur des LDL",
+   "Les xanthomes tendineux orientent vers une hypercholestérolémie familiale",
+   "Le LDL-cholestérol est athérogène",
+   "Un HDL-cholestérol élevé est un facteur de risque cardiovasculaire",
+   "L'hypertriglycéridémie sévère est dépourvue de complication aiguë"
+  ],
+  "explain": [
+   "Vrai : la mutation du gène LDLR (transmission autosomique dominante) réduit la clairance des LDL.",
+   "Vrai : les xanthomes des tendons d'Achille et l'arc cornéen sont caractéristiques.",
+   "Vrai : les LDL oxydées s'accumulent dans la paroi artérielle et initient la plaque d'athérome.",
+   "Faux : le HDL-cholestérol élevé est protecteur (transport reverse du cholestérol).",
+   "Faux : l'hypertriglycéridémie majeure (supérieure à 10 g/L) expose au risque de pancréatite aiguë."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "q": "Concernant les fonctions du foie, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Le foie synthétise l'albumine et la plupart des facteurs de coagulation",
+   "L'ammoniac est éliminé par le foie sous forme d'acide urique",
+   "La néoglucogenèse hépatique est inhibée pendant le jeûne",
+   "Le foie stocke le glycogène et la vitamine C",
+   "Le foie produit l'érythropoïétine chez l'adulte"
+  ],
+  "explain": [
+   "Vrai : le foie est le site de synthèse de l'albumine et des facteurs II, V, VII, IX, X et XI.",
+   "Faux : l'ammoniac est détoxifié en urée par le cycle de l'ornithine (l'acide urique provient du catabolisme des purines).",
+   "Faux : la néoglucogenèse hépatique est stimulée à jeun pour maintenir la glycémie.",
+   "Faux : le foie stocke le glycogène, le fer, la vitamine B12 et la vitamine A, pas la vitamine C.",
+   "Faux : chez l'adulte, l'érythropoïétine est produite par le rein."
+  ],
+  "correct": [
+   0
+  ]
+ },
+ {
+  "q": "Concernant l'exploration biologique du foie, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Une cytolyse hépatique se traduit par une élévation des transaminases",
+   "Une cholestase associe une élévation des phosphatases alcalines et de la gamma-GT",
+   "Un TP augmenté traduit une insuffisance hépatocellulaire",
+   "Une albuminémie élevée est un marqueur d'insuffisance hépatique chronique",
+   "Une bilirubine conjuguée élevée signe une hémolyse"
+  ],
+  "explain": [
+   "Vrai : la nécrose des hépatocytes libère ASAT et ALAT dans le sang.",
+   "Vrai : l'obstacle biliaire élève les enzymes de la membrane canaliculaire (PAL, gamma-GT).",
+   "Faux : l'insuffisance hépatocellulaire diminue la synthèse des facteurs de coagulation, donc le TP baisse.",
+   "Faux : c'est l'hypoalbuminémie qui traduit le défaut de synthèse hépatique.",
+   "Faux : l'hémolyse élève la bilirubine libre (non conjuguée)."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant les pathologies hépatiques, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Le virus de l'hépatite B se transmet par voie sexuelle et sanguine",
+   "L'hépatite C évolue fréquemment vers la chronicité",
+   "L'hépatite A devient souvent chronique",
+   "La cirrhose peut se compliquer d'encéphalopathie hépatique",
+   "La présence de l'antigène HBs signe une hépatite B guérie"
+  ],
+  "explain": [
+   "Vrai : le VHB se transmet par le sang, les rapports sexuels et la voie materno-fœtale.",
+   "Vrai : environ 80 % des hépatites C aiguës deviennent chroniques.",
+   "Faux : l'hépatite A ne devient jamais chronique et confère une immunité durable.",
+   "Vrai : l'insuffisance hépatique et les shunts porto-systémiques favorisent l'encéphalopathie hépatique.",
+   "Faux : l'Ag HBs signe une infection en cours ; la guérison se traduit par l'anticorps anti-HBs."
+  ],
+  "correct": [
+   0,
+   1,
+   3
+  ]
+ },
+ {
+  "q": "Concernant la sécrétion biliaire, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La bile est sécrétée par les hépatocytes",
+   "Les sels biliaires favorisent l'émulsification des lipides alimentaires",
+   "La vésicule biliaire produit la bile",
+   "La sécrétine stimule la contraction de la vésicule biliaire",
+   "La sécrétine inhibe la sécrétion biliaire"
+  ],
+  "explain": [
+   "Vrai : les hépatocytes sécrètent la bile dans les canalicules biliaires.",
+   "Vrai : les sels biliaires, détergents naturels, fragmentent les gouttelettes lipidiques.",
+   "Faux : la vésicule biliaire concentre et stocke la bile, elle ne la produit pas.",
+   "Faux : c'est la cholécystokinine (CCK) qui provoque la contraction vésiculaire.",
+   "Faux : la sécrétine stimule au contraire une sécrétion biliaire riche en bicarbonates."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant l'excrétion biliaire de la bilirubine, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La bilirubine conjuguée est excrétée dans la bile",
+   "Le cycle entéro-hépatique recycle les sels biliaires",
+   "La stercobiline colore les selles en brun",
+   "L'urobilinogène est totalement éliminé dans les selles",
+   "L'ictère à bilirubine libre s'accompagne d'urines foncées"
+  ],
+  "explain": [
+   "Vrai : la bilirubine glucuronoconjuguée, hydrosoluble, est excrétée dans les canalicules biliaires.",
+   "Vrai : 95 % des sels biliaires sont réabsorbés dans l'iléon et retournent au foie.",
+   "Vrai : l'oxydation du stercobilinogène colique donne la stercobiline, pigment fécal.",
+   "Faux : une partie de l'urobilinogène est réabsorbée et éliminée dans les urines.",
+   "Faux : la bilirubine libre, liée à l'albumine, n'est pas filtrée par le rein (urines claires)."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "q": "Concernant la sécrétion gastrique acide, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "L'acide chlorhydrique est sécrété par les cellules pariétales",
+   "La gastrine stimule la sécrétion acide",
+   "L'histamine inhibe les récepteurs H2 des cellules pariétales",
+   "La somatostatine stimule la sécrétion gastrique",
+   "Le pepsinogène est sécrété par les cellules pariétales"
+  ],
+  "explain": [
+   "Vrai : les cellules pariétales (bordantes) du fundus sécrètent HCl via la pompe H+/K+ ATPase.",
+   "Vrai : la gastrine, libérée par les cellules G antrales, est le principal stimulant hormonal.",
+   "Faux : l'histamine stimule les récepteurs H2 des cellules pariétales (cible des anti-H2).",
+   "Faux : la somatostatine (cellules D) inhibe la sécrétion acide et la libération de gastrine.",
+   "Faux : le pepsinogène est sécrété par les cellules principales (zymogènes)."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant la régulation de la sécrétion gastrique, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La phase céphalique de la sécrétion est médiée par le nerf vague",
+   "La distension gastrique stimule la sécrétion acide",
+   "Les inhibiteurs de la pompe à protons bloquent l'H+/K+ ATPase",
+   "Helicobacter pylori protège contre l'ulcère gastro-duodénal",
+   "L'acidité duodénale stimule la sécrétion de gastrine"
+  ],
+  "explain": [
+   "Vrai : la vue et l'odeur des aliments activent le nerf vague (phase céphalique).",
+   "Vrai : la distension active des réflexes vago-vagaux et la libération de gastrine.",
+   "Vrai : les IPP se fixent de façon irréversible sur la pompe à protons de la cellule pariétale.",
+   "Faux : Helicobacter pylori est le principal facteur étiologique de l'ulcère gastro-duodénal.",
+   "Faux : l'acidité inhibe la gastrine par rétrocontrôle négatif (via la somatostatine)."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "q": "Concernant l'absorption intestinale des glucides, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Le glucose est absorbé au pôle apical par le cotransporteur SGLT1",
+   "Le fructose est absorbé par diffusion facilitée via GLUT5",
+   "La lactase hydrolyse le saccharose en glucose et fructose",
+   "Le glucose sort de l'entérocyte au pôle basal via SGLT1",
+   "L'amidon est digéré uniquement par l'amylase salivaire"
+  ],
+  "explain": [
+   "Vrai : SGLT1 couple l'entrée du glucose et du galactose au gradient sodique.",
+   "Vrai : le fructose traverse la bordure en brosse par le transporteur GLUT5.",
+   "Faux : la lactase hydrolyse le lactose en glucose et galactose (le saccharose est clivé par la sucrase).",
+   "Faux : la sortie basolatérale du glucose se fait par le transporteur GLUT2.",
+   "Faux : la digestion de l'amidon repose surtout sur l'amylase pancréatique et les disaccharidases."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant l'absorption des lipides et des protides, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Les acides gras à longue chaîne sont réestérifiés dans l'entérocyte",
+   "Les chylomicrons gagnent la circulation lymphatique",
+   "La lipase pancréatique agit en présence de colipase et de sels biliaires",
+   "Les peptides sont absorbés uniquement par pinocytose",
+   "La vitamine B12 est absorbée au niveau du duodénum"
+  ],
+  "explain": [
+   "Vrai : les acides gras à longue chaîne sont réestérifiés en triglycérides dans le réticulum endoplasmique.",
+   "Vrai : trop volumineux pour les capillaires, les chylomicrons empruntent les chylifères lymphatiques.",
+   "Vrai : la colipase ancre la lipase à l'interface lipidique en présence des sels biliaires.",
+   "Faux : les di- et tripeptides sont absorbés par le cotransporteur PEPT1 (H+-dépendant).",
+   "Faux : le complexe facteur intrinsèque-vitamine B12 est absorbé dans l'iléon terminal."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "q": "Concernant les fonctions du rein, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Le rein régule l'équilibre acido-basique en réabsorbant les bicarbonates",
+   "L'érythropoïétine est produite par le foie chez l'adulte",
+   "Le rein synthétise l'albumine plasmatique",
+   "Le rein réabsorbe la créatinine au niveau tubulaire",
+   "Le rein est le principal site de la néoglucogenèse pendant le jeûne"
+  ],
+  "explain": [
+   "Vrai : le tube proximal réabsorbe 80 à 90 % des bicarbonates filtrés.",
+   "Faux : chez l'adulte, l'érythropoïétine est produite par les cellules interstitielles rénales.",
+   "Faux : l'albumine est synthétisée par le foie, pas par le rein.",
+   "Faux : la créatinine est filtrée puis ni réabsorbée ni sécrétée de façon significative.",
+   "Faux : la néoglucogenèse à jeun est assurée principalement par le foie (le rein n'y contribue que marginalement)."
+  ],
+  "correct": [
+   0
+  ]
+ },
+ {
+  "q": "Concernant l'exploration biologique de la fonction rénale, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La créatininémie est le meilleur marqueur courant de la fonction glomérulaire",
+   "Le débit de filtration glomérulaire peut être estimé par la formule CKD-EPI",
+   "La protéinurie des 24 heures quantifie l'atteinte glomérulaire",
+   "L'hypokaliémie est fréquente dans l'insuffisance rénale avancée",
+   "L'urée est un marqueur plus fiable que la créatinine"
+  ],
+  "explain": [
+   "Vrai : la créatinine, produite à taux constant par le muscle, est filtrée librement par le glomérule.",
+   "Vrai : la formule CKD-EPI estime le DFG à partir de la créatininémie, de l'âge et du sexe.",
+   "Vrai : la protéinurie est le marqueur principal de l'atteinte de la barrière de filtration.",
+   "Faux : l'insuffisance rénale avancée s'accompagne d'hyperkaliémie par défaut d'excrétion.",
+   "Faux : l'urée varie avec l'alimentation protidique, l'hydratation et le catabolisme."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "q": "Concernant la filtration glomérulaire, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La filtration glomérulaire dépend de la pression hydrostatique capillaire",
+   "La membrane basale glomérulaire est chargée négativement",
+   "L'albumine est librement filtrée par le glomérule sain",
+   "Le DFG normal est d'environ 30 mL/min/1,73 m²",
+   "La constriction de l'artériole afférente augmente la filtration glomérulaire"
+  ],
+  "explain": [
+   "Vrai : la pression hydrostatique glomérulaire est la force motrice de la filtration.",
+   "Vrai : les charges négatives (héparane sulfate) repoussent les protéines anioniques.",
+   "Faux : l'albumine est retenue grâce à sa taille (69 kDa) et à sa charge négative.",
+   "Faux : le DFG normal est d'environ 120 mL/min/1,73 m².",
+   "Faux : la constriction afférente diminue le flux et la pression glomérulaire, donc le DFG."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant les fonctions tubulaires du rein, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "Le glucose est totalement réabsorbé au niveau du tube contourné proximal",
+   "L'anse de Henle établit le gradient osmotique cortico-papillaire",
+   "L'aldostérone augmente la réabsorption du sodium au tube collecteur",
+   "L'ADH diminue la perméabilité à l'eau du tube collecteur",
+   "Le bicarbonate est principalement réabsorbé au niveau du tube collecteur"
+  ],
+  "explain": [
+   "Vrai : en conditions physiologiques, tout le glucose filtré est réabsorbé par SGLT2 au tube proximal.",
+   "Vrai : le mécanisme de contre-courant de l'anse de Henle concentre l'interstitium médullaire.",
+   "Vrai : l'aldostérone stimule ENaC et la Na+/K+ ATPase du tube collecteur.",
+   "Faux : l'ADH augmente la perméabilité à l'eau via l'insertion de l'aquaporine-2.",
+   "Faux : 80 à 90 % des bicarbonates sont réabsorbés dans le tube contourné proximal."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "q": "Concernant le système rénine-angiotensine-aldostérone, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "La rénine est sécrétée par l'appareil juxtaglomérulaire",
+   "La rénine convertit l'angiotensinogène en angiotensine I",
+   "L'enzyme de conversion transforme l'angiotensine II en angiotensine I",
+   "L'angiotensine II inhibe la sécrétion d'aldostérone",
+   "L'angiotensine II est un puissant vasodilatateur"
+  ],
+  "explain": [
+   "Vrai : les cellules granuleuses de l'artériole afférente sécrètent la rénine.",
+   "Vrai : la rénine clive l'angiotensinogène hépatique en angiotensine I (décapeptide).",
+   "Faux : l'enzyme de conversion (ECA) transforme l'angiotensine I en angiotensine II.",
+   "Faux : l'angiotensine II stimule la sécrétion d'aldostérone par la zone glomérulée.",
+   "Faux : l'angiotensine II est l'un des plus puissants vasoconstricteurs de l'organisme."
+  ],
+  "correct": [
+   0,
+   1
+  ]
+ },
+ {
+  "q": "Concernant la régulation du système rénine-angiotensine-aldostérone, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?",
+  "options": [
+   "L'hypovolémie stimule la sécrétion de rénine",
+   "L'hyperkaliémie stimule la sécrétion d'aldostérone",
+   "Les inhibiteurs de l'enzyme de conversion bloquent la formation d'angiotensine II",
+   "Les sartans (ARA2) stimulent le récepteur AT1 de l'angiotensine II",
+   "La spironolactone est un agoniste du récepteur de l'aldostérone"
+  ],
+  "explain": [
+   "Vrai : la baisse de perfusion rénale active le SRAA via les barorécepteurs et la macula densa.",
+   "Vrai : le potassium stimule directement la zone glomérulée surrénalienne.",
+   "Vrai : les IEC empêchent la conversion de l'angiotensine I en angiotensine II.",
+   "Faux : les ARA2 bloquent sélectivement le récepteur AT1.",
+   "Faux : la spironolactone est un antagoniste du récepteur minéralocorticoïde."
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : la contraction du diaphragme assure l'essentiel de l'inspiration de repos.",
+   "Faux : les intercostaux externes sont inspiratoires ; l'expiration de repos est passive.",
+   "Vrai : au repos, l'expiration résulte du relâchement des muscles inspiratoires et de l'élasticité pulmonaire.",
+   "Faux : le surfactant diminue la tension superficielle et prévient le collapsus alvéolaire.",
+   "Faux : la pression pleurale est négative (subatmosphérique) au repos."
+  ],
+  "options": [
+   "Le diaphragme est le principal muscle de l'inspiration",
+   "Les muscles intercostaux externes participent à l'expiration",
+   "L'expiration de repos est un phénomène passif",
+   "Le surfactant pulmonaire augmente la tension superficielle alvéolaire",
+   "La pression pleurale est positive au repos"
+  ],
+  "q": "Concernant la mécanique ventilatoire, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : CV = VC + VRI + VRE.",
+   "Vrai : CPT = CV + volume résiduel.",
+   "Faux : le volume courant de repos est d'environ 500 mL.",
+   "Vrai : c'est la définition du VEMS (FEV1).",
+   "Faux : le Tiffeneau normal est supérieur à 70-80 % chez l'adulte jeune."
+  ],
+  "options": [
+   "La capacité vitale est la somme du volume courant, du volume de réserve inspiratoire et du volume de réserve expiratoire",
+   "La capacité pulmonaire totale inclut le volume résiduel",
+   "Le volume courant de repos est d'environ 1500 mL chez l'adulte",
+   "Le VEMS est le volume expiré pendant la première seconde d'une expiration forcée",
+   "Le rapport de Tiffeneau (VEMS/CV) normal est inférieur à 50 %"
+  ],
+  "q": "Concernant les volumes et capacités respiratoires, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : le CO2 diffuse dans le LCR et modifie son pH, détecté par les chémorécepteurs centraux.",
+   "Faux : c'est l'hypercapnie qui stimule la ventilation.",
+   "Vrai : les chémorécepteurs périphériques répondent principalement à la baisse de la PaO2.",
+   "Vrai : le groupe respiratoire dorsal du bulbe génère le rythme de base.",
+   "Faux : l'acidose stimule la ventilation (hyperventilation compensatrice)."
+  ],
+  "options": [
+   "Les chémorécepteurs centraux sont surtout sensibles aux variations du pH du liquide céphalorachidien, reflet de la PaCO2",
+   "L'hypocapnie stimule la commande ventilatoire",
+   "L'hypoxémie stimule la ventilation via les chémorécepteurs périphériques (corpuscules carotidiens)",
+   "Les centres respiratoires bulbaires contrôlent le rythme ventilatoire de base",
+   "L'acidose métabolique déprime la ventilation"
+  ],
+  "q": "Concernant la régulation de la ventilation, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : environ 97 % de l'oxygène est lié à l'hémoglobine, le reste est dissous.",
+   "Vrai : la forme en S traduit la coopérativité des 4 sous-unités.",
+   "Faux : c'est l'acidose qui déplace la courbe vers la droite (effet Bohr) ; l'alcalose la déplace vers la gauche.",
+   "Faux : le 2,3-DPG diminue l'affinité de l'hémoglobine pour l'oxygène et favorise sa libération tissulaire.",
+   "Faux : la myoglobine (un seul hème) a une courbe hyperbolique."
+  ],
+  "options": [
+   "L'essentiel de l'oxygène est transporté sous forme d'oxyhémoglobine",
+   "La courbe de dissociation de l'oxyhémoglobine est sigmoïde",
+   "L'alcalose déplace la courbe de dissociation vers la droite",
+   "Le 2,3-DPG augmente l'affinité de l'hémoglobine pour l'oxygène",
+   "La myoglobine présente une courbe de dissociation sigmoïde comme l'hémoglobine"
+  ],
+  "q": "Concernant le transport de l'oxygène dans le sang, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : environ 85 à 90 % du CO2 circule sous forme d'ions bicarbonates.",
+   "Vrai : CO2 + H2O sont convertis en H+ et HCO3- dans le globule rouge.",
+   "Vrai : la désoxyhémoglobine fixe mieux les protons, ce qui facilite le transport du CO2 au niveau tissulaire.",
+   "Faux : le CO2 dissous ne représente qu'environ 7 % ; 10 % sont sous forme carbaminée.",
+   "Faux : c'est l'inverse — le chlore entre dans l'hématie pendant que les bicarbonates en sortent."
+  ],
+  "options": [
+   "Le CO2 est transporté majoritairement sous forme de bicarbonates plasmatiques",
+   "L'anhydrase carbonique catalyse l'hydratation du CO2 dans l'hématie",
+   "L'effet Haldane correspond à l'augmentation du transport du CO2 lorsque l'hémoglobine est désoxygénée",
+   "Le CO2 dissous représente environ 25 % du CO2 transporté",
+   "Le chlore quitte l'hématie en échange des bicarbonates (effet Hamburger)"
+  ],
+  "q": "Concernant le transport du dioxyde de carbone dans le sang, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : c'est l'intervalle de référence du pH artériel.",
+   "Faux : le principal tampon sanguin est le couple HCO3-/CO2 ; les phosphates tamponnent surtout le milieu intracellulaire et urinaire.",
+   "Vrai : l'ammoniogenèse rénale est une voie majeure d'élimination des acides.",
+   "Faux : les poumons éliminent le CO2 (acide volatil), pas les bicarbonates.",
+   "Faux : la compensation rénale demande plusieurs heures à quelques jours, contre quelques minutes pour les poumons."
+  ],
+  "options": [
+   "Le pH artériel normal est compris entre 7,38 et 7,42",
+   "Le principal système tampon du sang est le système phosphate",
+   "L'excrétion rénale d'ammonium (NH4+) permet l'élimination des ions H+",
+   "Les poumons régulent l'équilibre acido-basique en éliminant les bicarbonates",
+   "La correction rénale des troubles acido-basiques est effective en quelques minutes"
+  ],
+  "q": "Concernant la physiologie de l'équilibre acido-basique, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": [
+   "Vrai : la baisse des HCO3- définit l'acidose métabolique.",
+   "Vrai : l'accumulation de corps cétoniques (anions indosés) augmente le trou anionique.",
+   "Faux : l'acidose respiratoire aiguë s'accompagne d'une hypercapnie (PaCO2 élevée).",
+   "Vrai : pH = pKa + log([HCO3-] / (0,03 × PaCO2)).",
+   "Vrai : l'hyperventilation fait chuter la PaCO2 et augmente le pH."
+  ],
+  "options": [
+   "Une acidose métabolique se caractérise par une diminution des bicarbonates plasmatiques",
+   "Le trou anionique est augmenté dans l'acidocétose diabétique",
+   "Dans l'acidose respiratoire aiguë, la PaCO2 est basse",
+   "L'équation d'Henderson-Hasselbalch relie le pH au rapport bicarbonates/PaCO2",
+   "L'hyperventilation alvéolaire est la cause de l'alcalose respiratoire"
+  ],
+  "q": "Concernant l'exploration et les pathologies de l'équilibre acido-basique, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0
+  ],
+  "explain": [
+   "Vrai : c'est la respiration de Kussmaul, qui fait baisser la PaCO2.",
+   "Faux : le rein compense l'alcalose métabolique en excrétant davantage de bicarbonates.",
+   "Faux : l'hyperventilation compensatrice fait baisser la PaCO2.",
+   "Faux : la compensation est presque toujours incomplète ; le pH reste légèrement dévié.",
+   "Faux : la PaCO2 diminue, elle n'augmente pas."
+  ],
+  "options": [
+   "Dans l'acidose métabolique, l'hyperventilation compensatrice diminue la PaCO2",
+   "La compensation rénale de l'alcalose métabolique repose sur une réabsorption accrue des bicarbonates",
+   "La compensation respiratoire de l'acidose métabolique augmente la PaCO2",
+   "Une compensation complète ramène toujours le pH strictement à la normale",
+   "Dans l'acidose métabolique, la PaCO2 augmente par compensation respiratoire"
+  ],
+  "q": "Concernant la compensation des troubles acido-basiques, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : environ 80 % d'adrénaline et 20 % de noradrénaline.",
+   "Vrai : tyrosine → DOPA → dopamine → noradrénaline → adrénaline.",
+   "Faux : elle est stimulée par le système nerveux sympathique (nerf splanchnique).",
+   "Faux : elles sont stockées dans des granules chromaffines et libérées par exocytose.",
+   "Faux : le cortisol est sécrété par la corticosurrénale (zone fasciculée)."
+  ],
+  "options": [
+   "La médullosurrénale sécrète principalement l'adrénaline et la noradrénaline",
+   "Les catécholamines sont synthétisées à partir de la tyrosine",
+   "La médullosurrénale est stimulée par le système nerveux parasympathique",
+   "Les catécholamines sont stockées libres dans le cytosol des cellules chromaffines",
+   "Le cortisol est sécrété par la médullosurrénale"
+  ],
+  "q": "Concernant la physiologie de la médullosurrénale, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : tumeur le plus souvent bénigne de la médullosurrénale.",
+   "Vrai : c'est la triade classique des crises catécholaminergiques.",
+   "Vrai : les métanéphrines libres plasmatiques ou urinaires sont les marqueurs de référence.",
+   "Vrai : les poussées hypertensives paroxystiques sont très évocatrices.",
+   "Faux : le traitement est chirurgical, après préparation par alpha-bloquants."
+  ],
+  "options": [
+   "Le phéochromocytome est une tumeur sécrétant des catécholamines",
+   "La triade de Ménard (céphalées, palpitations, sueurs) évoque un phéochromocytome",
+   "Le dosage des métanéphrines urinaires des 24 heures est un examen de dépistage du phéochromocytome",
+   "L'hypertension artérielle paroxystique est un signe évocateur de phéochromocytome",
+   "Le traitement du phéochromocytome repose sur les anticalciques en monothérapie"
+  ],
+  "q": "Concernant l'exploration et les pathologies de la médullosurrénale, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : la zone fasciculée produit les glucocorticoïdes.",
+   "Vrai : la zone glomérulée produit les minéralocorticoïdes.",
+   "Faux : le régulateur principal de l'aldostérone est le système rénine-angiotensine (et la kaliémie).",
+   "Faux : le cortisol suit un rythme nycthéméral avec un pic matinal (vers 8h).",
+   "Faux : l'aldostérone favorise la réabsorption du sodium (et l'excrétion du potassium)."
+  ],
+  "options": [
+   "Le cortisol est sécrété par la zone fasciculée du cortex surrénalien",
+   "L'aldostérone est sécrétée par la zone glomérulée",
+   "La sécrétion d'aldostérone est principalement contrôlée par l'ACTH",
+   "Le cortisol présente un pic de sécrétion vespéral",
+   "L'aldostérone favorise l'excrétion urinaire du sodium"
+  ],
+  "q": "Concernant la physiologie de la corticosurrénale, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   3
+  ],
+  "explain": [
+   "Vrai : l'insuffisance surrénalienne lente associe ces signes, liés au déficit en cortisol et en aldostérone et à l'excès d'ACTH.",
+   "Vrai : c'est le tableau classique de l'hypercorticisme.",
+   "Faux : le test au Synacthène évalue la réserve surrénalienne en cortisol, pas la sécrétion d'aldostérone.",
+   "Vrai : l'excès d'aldostérone retient le sodium et fait perdre le potassium.",
+   "Faux : le cortisol est hyperglycémiant ; le syndrome de Cushing s'accompagne d'hyperglycémie voire de diabète."
+  ],
+  "options": [
+   "La maladie d'Addison associe hypotension, hyperpigmentation cutanée et hyponatrémie",
+   "Le syndrome de Cushing associe obésité facio-tronculaire, vergetures pourpres et hypertension artérielle",
+   "Le test au Synacthène (ACTH) évalue la sécrétion d'aldostérone",
+   "L'hyperaldostéronisme primaire associe hypertension artérielle et hypokaliémie",
+   "Le syndrome de Cushing s'accompagne habituellement d'une hypoglycémie"
+  ],
+  "q": "Concernant l'exploration et les pathologies de la corticosurrénale, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : la thèque interne et la granulosa coopèrent à la synthèse des œstrogènes.",
+   "Faux : la progestérone est surtout sécrétée par le corps jaune après l'ovulation.",
+   "Vrai : le pic de LH en milieu de cycle provoque la rupture folliculaire.",
+   "Faux : la FSH stimule la croissance folliculaire chez la femme.",
+   "Faux : le corps jaune sécrète principalement de la progestérone."
+  ],
+  "options": [
+   "L'œstradiol est principalement sécrété par les cellules de la granulosa du follicule",
+   "La progestérone est sécrétée par le follicule de De Graaf avant l'ovulation",
+   "Le pic de LH déclenche l'ovulation",
+   "La FSH stimule la spermatogenèse chez la femme",
+   "Le corps jaune sécrète principalement de l'œstradiol"
+  ],
+  "q": "Concernant la physiologie de l'ovaire endocrine, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0
+  ],
+  "explain": [
+   "Vrai : les cellules de Leydig du tissu interstitiel produisent la testostérone sous l'effet de la LH.",
+   "Faux : les cellules de Sertoli sécrètent l'inhibine et l'AMH, pas la testostérone.",
+   "Faux : la FSH agit sur les cellules de Sertoli ; c'est la LH qui stimule les cellules de Leydig.",
+   "Faux : la spermatogenèse exige une température inférieure d'environ 2 à 3 °C (rôle du scrotum).",
+   "Faux : l'inhibine exerce un rétrocontrôle négatif sélectif sur la FSH."
+  ],
+  "options": [
+   "La testostérone est sécrétée par les cellules de Leydig",
+   "Les cellules de Sertoli sécrètent la testostérone",
+   "La FSH stimule directement les cellules de Leydig",
+   "La spermatogenèse nécessite une température égale à la température corporelle centrale",
+   "L'inhibine exerce un rétrocontrôle positif sur la sécrétion de FSH"
+  ],
+  "q": "Concernant la physiologie du testicule endocrine, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : la thyroïde sécrète surtout de la T4, convertie en T3 en périphérie.",
+   "Faux : la T3 est la forme la plus active ; la T4 est une prohormone.",
+   "Faux : ce sont des dérivés iodés de la tyrosine (iodothyronines), pas des protéines.",
+   "Vrai : la thyroglobuline est le précurseur iodé stocké dans le colloïde.",
+   "Faux : la calcitonine est sécrétée par les cellules C parafolliculaires et ne contient pas d'iode."
+  ],
+  "options": [
+   "La thyroxine (T4) est la principale hormone sécrétée par la thyroïde",
+   "La T4 est biologiquement plus active que la T3",
+   "Les hormones thyroïdiennes sont de nature protéique",
+   "La thyroglobuline est stockée dans le colloïde des follicules thyroïdiens",
+   "La calcitonine est une hormone thyroïdienne iodée"
+  ],
+  "q": "Concernant la nature et l'origine des hormones thyroïdiennes, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : elles stimulent la consommation d'oxygène et la production de chaleur.",
+   "Faux : elles ont un effet chronotrope et inotrope positif.",
+   "Vrai : l'hypothyroïdie néonatale non traitée cause le crétinisme.",
+   "Faux : elles augmentent la thermogenèse (thermophobie de l'hyperthyroïdie).",
+   "Faux : elles ont un effet hyperglycémiant (glycogénolyse, absorption intestinale du glucose)."
+  ],
+  "options": [
+   "Elles augmentent le métabolisme de base",
+   "Elles ralentissent la fréquence cardiaque",
+   "Elles sont indispensables au développement cérébral du nouveau-né",
+   "Elles diminuent la thermogenèse",
+   "Elles diminuent la glycémie"
+  ],
+  "q": "Concernant les actions physiologiques des hormones thyroïdiennes, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : la TSH stimule la captation d'iode, la synthèse et la libération hormonale.",
+   "Vrai : la TRH commande la sécrétion de TSH (et de prolactine).",
+   "Vrai : les hormones thyroïdiennes freinent l'hypophyse et l'hypothalamus.",
+   "Faux : dans l'hyperthyroïdie primaire, la TSH est effondrée par le rétrocontrôle.",
+   "Faux : l'excès d'iode inhibe transitoirement la synthèse (effet Wolff-Chaikoff)."
+  ],
+  "options": [
+   "La TSH hypophysaire stimule la thyroïde",
+   "La TRH hypothalamique stimule la sécrétion de TSH",
+   "La T3 exerce un rétrocontrôle négatif sur l'axe thyréotrope",
+   "Dans l'hyperthyroïdie primaire, la TSH est élevée",
+   "Un excès d'iode stimule durablement la synthèse des hormones thyroïdiennes"
+  ],
+  "q": "Concernant la régulation des hormones thyroïdiennes, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0
+  ],
+  "explain": [
+   "Vrai : elle est libérée par le motoneurone et agit sur les récepteurs nicotiniques de la plaque motrice.",
+   "Faux : le GABA est le principal neuromédiateur inhibiteur du SNC.",
+   "Faux : le glutamate est le principal neuromédiateur excitateur du SNC.",
+   "Faux : la sérotonine dérive du tryptophane ; la tyrosine donne les catécholamines.",
+   "Faux : c'est la noradrénaline (les glandes sudoripares et la médullosurrénale font exception)."
+  ],
+  "options": [
+   "L'acétylcholine est le neuromédiateur de la jonction neuromusculaire",
+   "Le GABA est le principal neuromédiateur excitateur du système nerveux central",
+   "Le glutamate est un neuromédiateur inhibiteur",
+   "La sérotonine est synthétisée à partir de la tyrosine",
+   "L'adrénaline est le neuromédiateur des fibres post-ganglionnaires sympathiques"
+  ],
+  "q": "Concernant les neuromédiateurs, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : ce sont des canaux cationiques à ouverture rapide.",
+   "Faux : les récepteurs muscariniques sont métabotropes (couplés aux protéines G).",
+   "Vrai : leur activation fait entrer du Cl- et hyperpolarise le neurone.",
+   "Faux : les récepteurs NMDA sont ionotropes (canaux cationiques voltage- et ligand-dépendants).",
+   "Faux : les récepteurs D2 sont inhibiteurs (diminuent l'AMPc)."
+  ],
+  "options": [
+   "Les récepteurs nicotiniques de l'acétylcholine sont des récepteurs ionotropes",
+   "Les récepteurs muscariniques de l'acétylcholine sont des récepteurs ionotropes",
+   "Les récepteurs GABA-A sont des canaux chlore",
+   "Les récepteurs NMDA du glutamate sont des récepteurs métabotropes",
+   "Tous les récepteurs dopaminergiques ont un effet excitateur"
+  ],
+  "q": "Concernant les récepteurs des neuromédiateurs, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : les cellules bêta sécrètent l'insuline en réponse à l'hyperglycémie.",
+   "Vrai : le glucagon (cellules alpha) mobilise le glycogène hépatique.",
+   "Faux : le cortisol est hyperglycémiant (hormone du stress).",
+   "Faux : l'insuline inhibe la néoglucogenèse et stimule la glycogénogenèse.",
+   "Faux : l'hormone de croissance a un effet diabétogène (hyperglycémiant)."
+  ],
+  "options": [
+   "L'insuline est sécrétée par les cellules bêta des îlots de Langerhans",
+   "Le glucagon stimule la glycogénolyse hépatique",
+   "Le cortisol diminue la glycémie",
+   "L'insuline stimule la néoglucogenèse hépatique",
+   "L'hormone de croissance diminue la glycémie"
+  ],
+  "q": "Concernant la régulation hormonale de la glycémie, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : c'est le seuil diagnostique admis (hors hyperglycémie symptomatique ≥ 2 g/L).",
+   "Vrai : elle reflète la glycation de l'hémoglobine sur la durée de vie du globule rouge.",
+   "Vrai : le seuil de 6,5 % est retenu par les sociétés savantes.",
+   "Vrai : l'HGPO standard utilise 75 g de glucose anhydre.",
+   "Faux : le diabète de type 1 est une insulinopénie par destruction auto-immune des cellules bêta."
+  ],
+  "options": [
+   "Le diagnostic de diabète peut reposer sur une glycémie à jeun ≥ 1,26 g/L confirmée à deux reprises",
+   "L'HbA1c reflète la glycémie moyenne des 2 à 3 derniers mois",
+   "Une HbA1c ≥ 6,5 % est un critère diagnostique du diabète",
+   "L'hyperglycémie provoquée par voie orale utilise une charge de 75 g de glucose",
+   "Le diabète de type 1 est caractérisé par une insulinorésistance prédominante"
+  ],
+  "q": "Concernant l'exploration de la régulation glycémique, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0
+  ],
+  "explain": [
+   "Vrai : via la translocation des transporteurs GLUT4.",
+   "Faux : elle stimule la glycogénogenèse et inhibe la glycogénolyse.",
+   "Faux : elle inhibe la lipolyse et favorise la lipogenèse (hormone de stockage).",
+   "Faux : elle est anabolisante et stimule la synthèse protéique.",
+   "Faux : elle fait entrer le potassium dans la cellule et diminue la kaliémie."
+  ],
+  "options": [
+   "L'insuline favorise la captation du glucose par le muscle et le tissu adipeux",
+   "L'insuline stimule la glycogénolyse hépatique",
+   "L'insuline stimule la lipolyse",
+   "L'insuline stimule la protéolyse musculaire",
+   "L'insuline augmente la kaliémie"
+  ],
+  "q": "Concernant les effets métaboliques de l'insuline, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   2,
+   4
+  ],
+  "explain": [
+   "Vrai : la GnRH commande l'axe gonadotrope.",
+   "Faux : la dopamine inhibe la sécrétion de prolactine (d'où l'hyperprolactinémie sous neuroleptiques).",
+   "Vrai : la GHRH stimule l'axe somatotrope, la somatostatine l'inhibe.",
+   "Faux : l'ocytocine est synthétisée par l'hypothalamus et stockée dans la posthypophyse.",
+   "Vrai : la posthypophyse stocke l'ADH et l'ocytocine d'origine hypothalamique."
+  ],
+  "options": [
+   "La GnRH hypothalamique stimule la sécrétion de LH et de FSH",
+   "La dopamine stimule la sécrétion de prolactine",
+   "La GHRH stimule la sécrétion de l'hormone de croissance",
+   "L'ocytocine est synthétisée par l'antéhypophyse",
+   "L'ADH (vasopressine) est stockée dans la posthypophyse"
+  ],
+  "q": "Concernant l'axe hypothalamo-hypophysaire, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le prolactinome est l'adénome hypophysaire le plus fréquent.",
+   "Vrai : l'excès de GH après la soudure des cartilages donne l'acromégalie (gigantisme avant).",
+   "Vrai : le déficit en vasopressine empêche la concentration des urines (polyurie hypotonique).",
+   "Faux : l'insuffisance antéhypophysaire diminue les hormones des glandes cibles.",
+   "Faux : c'est une nécrose hypophysaire ischémique du post-partum, responsable d'un hypopituitarisme."
+  ],
+  "options": [
+   "Un adénome hypophysaire à prolactine se traduit par une hyperprolactinémie",
+   "L'acromégalie est due à un excès d'hormone de croissance chez l'adulte",
+   "Le diabète insipide central est dû à un déficit en ADH",
+   "L'hypopituitarisme se traduit par une élévation des hormones périphériques",
+   "La maladie de Sheehan est un hyperpituitarisme du post-partum"
+  ],
+  "q": "Concernant l'exploration et la pathologie de l'axe hypothalamo-hypophysaire, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Vrai : c'est le marqueur recommandé par les définitions universelles de l'infarctus.",
+   "Faux : la myoglobine est précoce mais très peu spécifique (muscle squelettique).",
+   "Faux : la troponine (surtout ultrasensible) est le marqueur le plus précoce et le plus sensible.",
+   "Faux : la troponine reste élevée 7 à 10 jours, ce qui limite son intérêt pour le diagnostic de récidive précoce.",
+   "Vrai : la cinétique impose un second dosage en cas de présentation précoce."
+  ],
+  "options": [
+   "La troponine (I ou T) est le marqueur de référence de la nécrose myocardique",
+   "La myoglobine est le marqueur le plus spécifique de l'infarctus du myocarde",
+   "Les CPK-MB s'élèvent plus précocement que la troponine",
+   "La troponine se normalise en 24 heures après un infarctus",
+   "Un dosage de troponine initialement négatif doit être contrôlé à 3-6 heures"
+  ],
+  "q": "Concernant l'exploration biologique des syndromes coronariens aigus, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   1
+  ],
+  "explain": [
+   "Faux : le BNP/NT-proBNP est un marqueur de souffrance et de dysfonction ventriculaire, pas de nécrose.",
+   "Vrai : l'inflammation (CRPus) est associée à un moins bon pronostic.",
+   "Faux : l'hyperglycémie d'admission est un facteur de mauvais pronostic.",
+   "Faux : la troponine s'élève aussi dans la myocardite, l'embolie pulmonaire, l'insuffisance rénale ou le sepsis.",
+   "Faux : les D-dimères explorent la fibrinolyse (embolie pulmonaire), pas la nécrose coronaire."
+  ],
+  "options": [
+   "Le BNP est le marqueur de référence de la nécrose myocardique",
+   "La CRP ultrasensible a une valeur pronostique dans les syndromes coronariens aigus",
+   "L'hyperglycémie à l'admission est un facteur de bon pronostic",
+   "La troponine est spécifique à 100 % de l'infarctus du myocarde",
+   "Les D-dimères sont le marqueur de référence du syndrome coronarien aigu"
+  ],
+  "q": "Concernant les marqueurs biologiques pronostiques dans les syndromes coronariens aigus, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : Q = (π × ΔP × r^4) / (8 × η × L).",
+   "Faux : le débit serait multiplié par 16 (2^4).",
+   "Vrai : elle traduit la conservation de l'énergie le long d'une ligne de courant.",
+   "Vrai : la polyglobulie augmente la viscosité et la résistance à l'écoulement.",
+   "Faux : l'écoulement peut devenir turbulent (sténose, bifurcation), responsable des souffles."
+  ],
+  "options": [
+   "Selon la loi de Poiseuille, le débit sanguin est proportionnel à la quatrième puissance du rayon du vaisseau",
+   "Doubler le rayon d'un vaisseau multiplie son débit par deux",
+   "La loi de Bernoulli relie la pression, la vitesse et la hauteur dans un écoulement",
+   "La viscosité sanguine augmente avec l'hématocrite",
+   "L'écoulement sanguin est toujours laminaire dans les gros vaisseaux"
+  ],
+  "q": "Concernant les fondements physiques de la circulation sanguine, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   4
+  ],
+  "explain": [
+   "Vrai : le travail est d'autant plus grand que la pression à vaincre et le débit sont élevés.",
+   "Faux : une postcharge élevée augmente le travail du cœur (risque d'hypertrophie).",
+   "Faux : la polyglobulie augmente l'hématocrite donc la viscosité.",
+   "Faux : selon la loi de Laplace, la tension pariétale augmente avec la pression et le rayon.",
+   "Vrai : l'obstacle valvulaire impose une surcharge de pression au ventricule gauche."
+  ],
+  "options": [
+   "Le travail du cœur dépend de la pression artérielle et du débit cardiaque",
+   "L'augmentation de la postcharge diminue le travail cardiaque",
+   "La viscosité sanguine diminue dans la polyglobulie",
+   "La tension pariétale ventriculaire est indépendante du rayon de la cavité",
+   "La sténose aortique augmente la postcharge du ventricule gauche"
+  ],
+  "q": "Concernant le travail du cœur et la postcharge, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : DC = FC × VES.",
+   "Faux : il est d'environ 5 L/min au repos (jusqu'à 20-25 L/min à l'effort).",
+   "Vrai : l'étirement des fibres en diastole augmente la force de contraction.",
+   "Faux : le sympathique a un effet inotrope et chronotrope positif.",
+   "Faux : le vague ralentit la fréquence cardiaque et tend à diminuer le débit."
+  ],
+  "options": [
+   "Le débit cardiaque est égal à la fréquence cardiaque multipliée par le volume d'éjection systolique",
+   "Le débit cardiaque de repos est d'environ 15 L/min chez l'adulte",
+   "Selon la loi de Frank-Starling, l'augmentation du retour veineux augmente le volume d'éjection systolique",
+   "Le système nerveux sympathique diminue la contractilité myocardique",
+   "Le système nerveux parasympathique augmente le débit cardiaque"
+  ],
+  "q": "Concernant le débit cardiaque, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   4
+  ],
+  "explain": [
+   "Faux : l'adrénaline a un effet inotrope et chronotrope positif (récepteurs bêta-1).",
+   "Faux : une postcharge élevée diminue le volume éjecté.",
+   "Faux : les bêtabloquants sont inotropes et chronotropes négatifs.",
+   "Faux : l'hypoxie déprime la contractilité myocardique.",
+   "Vrai : la distension auriculaire stimule le sympathique et accélère le cœur."
+  ],
+  "options": [
+   "L'adrénaline a un effet inotrope négatif",
+   "L'augmentation de la postcharge augmente le volume d'éjection systolique",
+   "Les bêtabloquants augmentent la contractilité myocardique",
+   "L'hypoxie augmente la contractilité myocardique",
+   "Le réflexe de Bainbridge augmente la fréquence cardiaque lors de l'augmentation du retour veineux"
+  ],
+  "q": "Concernant la régulation du débit cardiaque, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1
+  ],
+  "explain": [
+   "Vrai : PAM = DC × RPT.",
+   "Vrai : le baroréflexe corrige les variations tensionnelles en quelques secondes.",
+   "Faux : le SRAA est un régulateur à moyen et long terme (volémie).",
+   "Faux : l'angiotensine II est l'un des plus puissants vasoconstricteurs.",
+   "Faux : la vasopressine augmente la pression artérielle (vasoconstriction et réabsorption d'eau)."
+  ],
+  "options": [
+   "La pression artérielle moyenne dépend du débit cardiaque et des résistances périphériques totales",
+   "Les barorécepteurs carotidiens et aortiques assurent la régulation à court terme",
+   "Le système rénine-angiotensine-aldostérone assure la régulation à court terme de la pression artérielle",
+   "L'angiotensine II est un puissant vasodilatateur",
+   "L'ADH (vasopressine) diminue la pression artérielle"
+  ],
+  "q": "Concernant la régulation de la pression artérielle, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   4
+  ],
+  "explain": [
+   "Faux : c'est la baisse de la pression (et de la perfusion rénale) qui stimule la rénine.",
+   "Faux : l'aldostérone favorise la réabsorption du sodium et l'excrétion du potassium.",
+   "Faux : le sympathique augmente les résistances périphériques par vasoconstriction.",
+   "Faux : les thiazidiques diminuent la volémie par natriurèse.",
+   "Vrai : le vague exerce un effet chronotrope négatif."
+  ],
+  "options": [
+   "Une élévation de la pression artérielle stimule la sécrétion de rénine",
+   "L'aldostérone favorise l'excrétion urinaire du sodium",
+   "Le système nerveux sympathique diminue les résistances périphériques",
+   "Les diurétiques thiazidiques augmentent la volémie",
+   "La stimulation parasympathique diminue la fréquence cardiaque"
+  ],
+  "q": "Concernant les mécanismes de régulation de la pression sanguine artérielle, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   1,
+   2,
+   4
+  ],
+  "explain": [
+   "Faux : il est d'environ -70 mV.",
+   "Vrai : la sortie de K+ selon son gradient et la pompe électrogène créent la négativité interne.",
+   "Vrai : c'est la définition de la polarisation de repos.",
+   "Faux : le Na+ est 10 fois plus concentré à l'extérieur.",
+   "Vrai : le K+ est environ 30 fois plus concentré à l'intérieur."
+  ],
+  "options": [
+   "Le potentiel de repos du neurone est d'environ +70 mV",
+   "Il est principalement dû à la perméabilité potassique et à l'activité de la pompe Na+/K+",
+   "L'intérieur de la cellule est négatif par rapport à l'extérieur au repos",
+   "Le sodium est plus concentré à l'intérieur de la cellule qu'à l'extérieur",
+   "Le potassium est plus concentré à l'intérieur de la cellule qu'à l'extérieur"
+  ],
+  "q": "Concernant le potentiel de membrane de repos, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : l'ouverture des canaux Na+ voltage-dépendants fait entrer le Na+.",
+   "Faux : la repolarisation est due à la sortie de potassium.",
+   "Vrai : une fois le seuil atteint, l'amplitude du potentiel d'action est constante.",
+   "Faux : pendant la période réfractaire absolue, aucun nouveau potentiel d'action ne peut être déclenché.",
+   "Faux : le seuil se situe vers -55 mV ; +30 mV est proche du pic du potentiel d'action."
+  ],
+  "options": [
+   "La phase de dépolarisation est due à l'entrée massive de sodium",
+   "La repolarisation est due à l'entrée de sodium",
+   "Le potentiel d'action obéit à la loi du tout ou rien",
+   "La période réfractaire absolue permet la sommation de deux potentiels d'action rapprochés",
+   "Le seuil d'excitation est d'environ +30 mV"
+  ],
+  "q": "Concernant le potentiel d'action du neurone, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : le potentiel d'action saute de nœud en nœud de Ranvier.",
+   "Faux : la myéline augmente considérablement la vitesse de conduction.",
+   "Vrai : la régénération du potentiel d'action se fait aux nœuds.",
+   "Faux : les fibres myélinisées conduisent jusqu'à 120 m/s contre environ 1 m/s pour les amyéliniques.",
+   "Faux : les oligodendrocytes myélinisent le SNC ; dans le SNP ce sont les cellules de Schwann."
+  ],
+  "options": [
+   "La conduction est saltatoire dans les fibres myélinisées",
+   "La myélinisation diminue la vitesse de conduction",
+   "Les nœuds de Ranvier sont riches en canaux sodiques voltage-dépendants",
+   "La conduction est plus rapide dans les fibres amyéliniques que dans les fibres myélinisées",
+   "Les oligodendrocytes myélinisent les axones du système nerveux périphérique"
+  ],
+  "q": "Concernant la conduction de l'influx nerveux, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : le récepteur (ex. fuseau neuromusculaire) transforme le stimulus en influx.",
+   "Vrai : la fibre sensitive conduit l'information vers la moelle.",
+   "Vrai : la synapse unique se fait dans la corne antérieure de la moelle.",
+   "Faux : le réflexe myotatique (ex. rotulien) est monosynaptique.",
+   "Faux : c'est un motoneurone alpha somatique, pas une fibre du système autonome."
+  ],
+  "options": [
+   "Le récepteur sensoriel initie l'arc réflexe",
+   "La fibre afférente conduit l'influx vers le centre nerveux",
+   "Le centre intégrateur d'un réflexe monosynaptique est la moelle épinière",
+   "Le réflexe myotatique est un réflexe polysynaptique",
+   "La fibre efférente d'un réflexe somatique est toujours une fibre sympathique"
+  ],
+  "q": "Concernant les composants de l'arc réflexe, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : percussion du tendon rotulien → contraction du quadriceps (L3-L4).",
+   "Faux : le réflexe de retrait à la douleur est polysynaptique.",
+   "Vrai : la réponse en extension est physiologique avant l'âge de la marche (immaturité pyramidale).",
+   "Faux : l'hyperréflexie signe une atteinte du motoneurone central (syndrome pyramidal).",
+   "Faux : le réflexe achilléen explore la racine S1."
+  ],
+  "options": [
+   "Le réflexe rotulien est un réflexe myotatique monosynaptique",
+   "Le réflexe de flexion (retrait) est un réflexe monosynaptique",
+   "Le signe de Babinski (extension de l'orteil) est normal chez le nourrisson",
+   "L'hyperréflexie évoque une atteinte du motoneurone périphérique",
+   "Le réflexe achilléen explore la racine L4"
+  ],
+  "q": "Concernant les réflexes ostéotendineux et cutanés, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0
+  ],
+  "explain": [
+   "Vrai : il mobilise l'énergie (tachycardie, bronchodilatation, glycogénolyse).",
+   "Faux : le parasympathique favorise le repos, la digestion et le stockage.",
+   "Faux : le neuromédiateur pré-ganglionnaire des deux systèmes est l'acétylcholine.",
+   "Faux : le sympathique accélère la fréquence cardiaque.",
+   "Faux : le parasympathique provoque un myosis ; la mydriase est sympathique."
+  ],
+  "options": [
+   "Le système sympathique prépare l'organisme à l'effort (fight or flight)",
+   "Le système parasympathique prépare l'organisme à l'effort",
+   "La noradrénaline est le neuromédiateur des fibres pré-ganglionnaires des deux systèmes",
+   "Le sympathique ralentit la fréquence cardiaque",
+   "Le parasympathique dilate la pupille (mydriase)"
+  ],
+  "q": "Concernant le système nerveux autonome, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : la bronchodilatation sympathique (bêta-2) facilite l'effort.",
+   "Faux : le parasympathique stimule la motilité et les sécrétions digestives.",
+   "Vrai : la dilatation pupillaire est sous contrôle sympathique.",
+   "Faux : le parasympathique ralentit le cœur (effet vagal).",
+   "Faux : le sympathique inhibe la sécrétion d'insuline (alpha-2) et stimule le glucagon."
+  ],
+  "options": [
+   "Le sympathique dilate les bronches",
+   "Le parasympathique diminue la motilité digestive",
+   "Le sympathique provoque une mydriase",
+   "Le parasympathique accélère la fréquence cardiaque",
+   "Le sympathique stimule la sécrétion d'insuline"
+  ],
+  "q": "Concernant les effets du système nerveux autonome sur les organes, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   2
+  ],
+  "explain": [
+   "Vrai : ce sont les trois modalités extéroceptives.",
+   "Faux : la sensibilité profonde regroupe la proprioception, la pallesthésie et la sensibilité vibratoire.",
+   "Vrai : les cordons postérieurs transmettent le tact épicritique et la proprioception.",
+   "Faux : la voie spinothalamique véhicule la douleur et la température.",
+   "Faux : la décussation sensitive de la voie lemniscale se fait au niveau du bulbe."
+  ],
+  "options": [
+   "La sensibilité superficielle comprend le tact, la douleur et la température",
+   "La sensibilité profonde comprend la sensibilité douloureuse",
+   "La voie lemniscale véhicule le tact fin et la proprioception consciente",
+   "La voie spinothalamique véhicule la proprioception consciente",
+   "La voie lemniscale croise la ligne médiane au niveau de la moelle épinière"
+  ],
+  "q": "Concernant la sensibilité superficielle et profonde, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'aggravation de l'instabilité yeux fermés signe l'atteinte proprioceptive.",
+   "Vrai : le diapason (128 Hz) appliqué sur les reliefs osseux teste la sensibilité vibratoire.",
+   "Vrai : la vision compense le déficit proprioceptif ; sa suppression démasque l'ataxie.",
+   "Faux : la syringomyélie donne une dissociation thermo-algique (atteinte des fibres de la douleur et de la température).",
+   "Faux : dans l'atteinte cérébelleuse, l'ataxie n'est pas aggravée par la fermeture des yeux (Romberg négatif)."
+  ],
+  "options": [
+   "Le signe de Romberg explore la sensibilité proprioceptive",
+   "La pallesthésie est explorée à l'aide d'un diapason",
+   "L'ataxie proprioceptive s'aggrave à la fermeture des yeux",
+   "La syringomyélie touche en premier la sensibilité proprioceptive",
+   "Le signe de Romberg est positif dans l'atteinte cérébelleuse pure"
+  ],
+  "q": "Concernant l'exploration clinique de la sensibilité, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   1,
+   4
+  ],
+  "explain": [
+   "Faux : elle expulse 3 Na+ vers l'extérieur et fait entrer 2 K+.",
+   "Vrai : c'est un transport actif primaire consommant de l'ATP.",
+   "Faux : en expulsant plus de charges positives qu'elle n'en fait entrer, elle contribue à la négativité interne.",
+   "Faux : elle est électrogène (3 charges positives sortent pour 2 qui entrent).",
+   "Vrai : les digitaliques inhibent la pompe, ce qui augmente le calcium intracellulaire (effet inotrope positif)."
+  ],
+  "options": [
+   "Elle fait entrer 3 ions Na+ et sortir 2 ions K+",
+   "Son fonctionnement consomme de l'ATP",
+   "Elle dépolarise la membrane au repos",
+   "Elle est électroneutre",
+   "Elle est inhibée par la digoxine (digitaliques)"
+  ],
+  "q": "Concernant la pompe Na+/K+ ATPase, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : l'expulsion du Na+ limite l'entrée osmotique d'eau.",
+   "Vrai : le symport Na+/glucose utilise le gradient électrochimique du sodium.",
+   "Vrai : sans les gradients ioniques, ni potentiel de repos ni potentiel d'action ne sont possibles.",
+   "Faux : l'ouabaïne est un inhibiteur de la pompe, comme les digitaliques.",
+   "Faux : c'est un transport actif primaire qui hydrolyse l'ATP."
+  ],
+  "options": [
+   "Elle participe au maintien de l'osmolarité et du volume cellulaires",
+   "Le gradient sodique qu'elle crée permet le co-transport du glucose (SGLT)",
+   "Elle est indispensable à la genèse et à la transmission de l'influx nerveux",
+   "L'ouabaïne stimule l'activité de la pompe Na+/K+",
+   "Son fonctionnement ne nécessite aucune dépense énergétique"
+  ],
+  "q": "Concernant les rôles physiologiques de la pompe Na+/K+, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   3
+  ],
+  "explain": [
+   "Vrai : ce sont des photons de haute énergie capables d'ioniser la matière.",
+   "Faux : les particules alpha sont peu pénétrantes (arrêtées par une feuille de papier).",
+   "Faux : la dose absorbée s'exprime en gray (Gy).",
+   "Vrai : le sievert (Sv) pondère la dose absorbée par la nocivité du rayonnement.",
+   "Faux : ils provoquent des cassures simple et double brin de l'ADN, base des effets biologiques."
+  ],
+  "options": [
+   "Les rayons X et les rayons gamma sont des rayonnements électromagnétiques ionisants",
+   "Les particules alpha sont très pénétrantes",
+   "L'unité de dose absorbée est le sievert",
+   "L'unité de dose équivalente (effet biologique) est le sievert",
+   "Les rayonnements ionisants ne provoquent aucune lésion de l'ADN"
+  ],
+  "q": "Concernant les rayonnements ionisants, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   2,
+   3
+  ],
+  "explain": [
+   "Vrai : leur gravité augmente avec la dose au-delà d'un seuil.",
+   "Faux : les effets stochastiques sont probabilistes et considérés comme sans seuil.",
+   "Vrai : c'est la loi de Bergonié et Tribondeau (moelle, gonades, tube digestif).",
+   "Vrai : As Low As Reasonably Achievable — justification, optimisation, limitation.",
+   "Faux : le plomb (tabliers, paravents) atténue efficacement les rayons X."
+  ],
+  "options": [
+   "Les effets déterministes (brûlure, aplasie) présentent un seuil de dose",
+   "Les effets stochastiques (cancers) présentent un seuil de dose",
+   "Les cellules en division active sont les plus radiosensibles",
+   "Le principe ALARA impose de maintenir l'exposition aussi basse que raisonnablement possible",
+   "Le plomb est inefficace pour se protéger des rayons X"
+  ],
+  "q": "Concernant les effets biologiques des rayonnements ionisants et la radioprotection, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : les deux brins sont antiparallèles (5'→3' et 3'→5').",
+   "Vrai : A-T (2 liaisons H) et G-C (3 liaisons H).",
+   "Vrai : ce sont elles qui unissent les bases complémentaires.",
+   "Faux : le squelette est formé de désoxyribose et de groupements phosphate.",
+   "Faux : l'uracile remplace la thymine dans l'ARN, pas dans l'ADN."
+  ],
+  "options": [
+   "Les deux brins de l'ADN sont parallèles",
+   "Les appariements complémentaires sont adénine-thymine et guanine-cytosine",
+   "La cohésion entre les deux brins est assurée par des liaisons hydrogène",
+   "Le squelette de l'ADN est formé d'acides aminés",
+   "L'uracile remplace la thymine dans l'ADN"
+  ],
+  "q": "Concernant la structure de l'ADN, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   2
+  ],
+  "explain": [
+   "Faux : c'est l'ARN de transfert qui apporte les acides aminés ; l'ARNm porte le message.",
+   "Faux : l'ARNt est l'adaptateur de la traduction ; l'information est portée par l'ARNm.",
+   "Vrai : l'ARNr, associé à des protéines, forme les sous-unités du ribosome.",
+   "Faux : l'ADN est double brin ; c'est l'ARN qui est généralement simple brin.",
+   "Faux : la transcription a lieu dans le noyau ; la traduction se fait dans le cytoplasme."
+  ],
+  "options": [
+   "L'ARN messager apporte les acides aminés au ribosome",
+   "L'ARN de transfert porte l'information génétique du gène",
+   "L'ARN ribosomique est un constituant du ribosome",
+   "L'ADN est généralement simple brin dans la cellule",
+   "La transcription a lieu dans le cytoplasme des cellules eucaryotes"
+  ],
+  "q": "Concernant l'ARN et ses rôles, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   1,
+   2
+  ],
+  "explain": [
+   "Faux : la mutation faux-sens substitue un acide aminé par un autre ; le codon stop caractérise la mutation non-sens.",
+   "Vrai : elle transforme un codon en codon stop et tronque la protéine.",
+   "Vrai : grâce à la redondance du code génétique, l'acide aminé reste inchangé.",
+   "Faux : c'est une anomalie du nombre (chromosome 21 surnuméraire), pas de structure.",
+   "Faux : elle provoque un décalage du cadre de lecture (frameshift)."
+  ],
+  "options": [
+   "Une mutation faux-sens introduit toujours un codon stop prématuré",
+   "Une mutation non-sens introduit un codon stop prématuré",
+   "Une mutation silencieuse ne modifie pas la séquence en acides aminés de la protéine",
+   "La trisomie 21 est une anomalie de structure des chromosomes",
+   "La délétion d'un seul nucléotide ne modifie jamais le cadre de lecture"
+  ],
+  "q": "Concernant les anomalies des acides nucléiques, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   1,
+   3
+  ],
+  "explain": [
+   "Faux : le caryotype analyse les chromosomes condensés en métaphase.",
+   "Vrai : les sondes fluorescentes ciblent des régions précises, y compris en interphase.",
+   "Faux : la CGH-array détecte les déséquilibres chromosomiques infra-microscopiques (microdélétions, microduplications).",
+   "Vrai : il faut obtenir des métaphases, d'où la culture (sang, liquide amniotique).",
+   "Faux : la FISH détecte aussi les microdélétions et certaines translocations."
+  ],
+  "options": [
+   "Le caryotype standard analyse les chromosomes en interphase",
+   "La FISH (hybridation in situ en fluorescence) permet de détecter des microdélétions",
+   "La CGH-array ne permet de détecter que les aneuploïdies",
+   "Le caryotype conventionnel nécessite une culture cellulaire",
+   "La FISH ne peut détecter que les anomalies du nombre de chromosomes"
+  ],
+  "q": "Concernant les techniques cytogénétiques, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ },
+ {
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explain": [
+   "Vrai : c'est une indication classique de recherche d'anomalie chromosomique.",
+   "Vrai : la FISH sur noyaux interphasiques donne un résultat en 24-48 h.",
+   "Vrai : elle a remplacé le caryotype en première intention dans cette indication.",
+   "Faux : la FISH peut se faire sur noyaux interphasiques sans culture prolongée.",
+   "Faux : la cytogénétique est essentielle au pronostic des leucémies (ex. chromosome Philadelphie)."
+  ],
+  "options": [
+   "Le caryotype est indiqué devant un retard mental associé à une dysmorphie",
+   "La FISH est indiquée pour le diagnostic rapide d'une trisomie 21",
+   "La CGH-array est indiquée en première intention devant un trouble du neurodéveloppement inexpliqué",
+   "La FISH nécessite une culture cellulaire de plusieurs semaines",
+   "La cytogénétique n'a aucun intérêt dans les hémopathies malignes"
+  ],
+  "q": "Concernant les indications des techniques cytogénétiques, quelle(s) est(sont) la(les) proposition(s) correcte(s) ?"
+ }
+]
