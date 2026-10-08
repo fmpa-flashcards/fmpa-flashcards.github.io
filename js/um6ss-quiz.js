@@ -1,5 +1,6 @@
-/* Quiz UM6SS : cas cliniques progressifs (admissibilité) et QCM par sujet (admission).
-   URL : um6ss-quiz.html?case=anat  ou  um6ss-quiz.html?adm=adm-m12
+/* Quiz UM6SS : cas cliniques progressifs (admission définitive) et banques de
+   100 QCM (admissibilité).
+   URL : um6ss-quiz.html?case=urg-med  ou  um6ss-quiz.html?bank=anat
    QCM multi-réponses comme à l'examen (cases à cocher, correction détaillée). */
 import {
   requireAuth, profile, guardFull, shuffle, esc, qp, tabbar,
@@ -11,12 +12,12 @@ if (!guardFull('UM6SS', 'um6ss')) throw new Error('locked');
 
 const app = document.getElementById('app');
 const caseId = qp('case', '');
-const admId = qp('adm', '');
+const bankId = qp('bank', '');
 
 let title = 'QCM UM6SS';
-let intro = null;       // scénario du cas (admissibilité)
+let intro = null;       // scénario du cas (admission : cas progressif)
 let questions = [];     // {q, options[5], explain[5], correct:Set, reveal?}
-let backHref = 'um6ss.html';
+let isCase = false;
 
 function prep(m) {
   const order = shuffle([0, 1, 2, 3, 4]);
@@ -33,16 +34,22 @@ function prep(m) {
 
 async function load() {
   if (caseId) {
-    const cases = await (await fetch('um6ss/admissibilite.json')).json();
+    /* Admission définitive : cas clinique progressif (ordre fixe, révélations). */
+    const cases = await (await fetch('um6ss/admission.json')).json();
     const c = cases.find(x => x.id === caseId);
     if (!c) throw new Error('no case');
-    title = c.subject + ' — ' + c.title;
+    isCase = true;
+    title = c.title;
     intro = c.scenario;
     questions = c.questions.map(prep).filter(q => q.options.length === 5 && q.correct.size >= 1);
-  } else if (admId) {
-    const t = await (await fetch('um6ss/adm/' + admId + '.json')).json();
-    title = t.title || 'QCM Admission';
-    questions = (t.questions || []).map(prep).filter(q => q.options.length === 5 && q.correct.size >= 1);
+  } else if (bankId) {
+    /* Admissibilité : banque de 100 QCM isolés (ordre mélangé). */
+    const idx = await (await fetch('um6ss/index.json')).json();
+    const s = (idx.admissibilite || []).find(x => x.id === bankId);
+    if (!s) throw new Error('no bank');
+    title = s.subject + ' — 100 QCM';
+    const bank = await (await fetch('um6ss/' + s.file)).json();
+    questions = shuffle(bank.map(prep)).filter(q => q.options.length === 5 && q.correct.size >= 1);
   } else {
     throw new Error('no target');
   }
@@ -74,7 +81,7 @@ function renderIntro() {
 
 /* ----------------------------- rendu ----------------------------- */
 function stepLabel() {
-  return caseId
+  return isCase
     ? `Question ${Q.pos + 1}/${questions.length} — ${esc(title)}`
     : `Question ${Q.pos + 1}/${questions.length}`;
 }
@@ -86,7 +93,7 @@ function renderQ() {
     <a class="back" href="um6ss.html" style="text-decoration:none;display:inline-block">← UM6SS</a>
     <div class="progress-line"><span>${stepLabel()}</span><span>⭐ ${Q.xp} XP</span></div>
     <div class="track" style="margin-bottom:14px"><div style="width:${Math.round(Q.pos / questions.length * 100)}%"></div></div>
-    ${caseId ? '<div class="q-step">CAS CLINIQUE PROGRESSIF</div>' : '<div class="q-step">QCM ADMISSION</div>'}
+    ${isCase ? '<div class="q-step">CAS CLINIQUE PROGRESSIF — ADMISSION</div>' : '<div class="q-step">QCM ADMISSIBILITÉ</div>'}
     <div class="mcq-q">${esc(q.q)}
       <div class="small" style="margin-top:8px;font-weight:400">Coche toutes les bonnes réponses.</div>
     </div>

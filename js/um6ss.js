@@ -1,8 +1,10 @@
-/* UM6SS — Préparation au concours d'internat.
-   Admissibilité : 4 cas cliniques progressifs (Anatomie, Biologie, Pathologie
-   médicale, Pathologie chirurgicale), chacun avec 5 à 10 QCM liés qui suivent
-   le parcours d'un patient.
-   Admission : QCM par sujet (Médecine / Chirurgie).
+/* UM6SS — Préparation au concours d'internat (Décembre 2026).
+   Admissibilité : 4 épreuves de 100 QCM (Anatomie, Biologie, Pathologie
+   médicale, Pathologie chirurgicale), 2 heures chacune — QCM isolés comme
+   à l'examen.
+   Admission définitive : 4 cas cliniques progressifs (Urgence médicale,
+   Urgence chirurgicale, CAT médicale, CAT chirurgicale), 5 à 15 QCM liés
+   par cas — session de 2 heures.
    Les quiz sont réservés à la formule Full, comme le mode QCM. */
 import {
   requireAuth, esc, tabbar, hasFull,
@@ -13,30 +15,29 @@ requireAuth();
 
 const app = document.getElementById('app');
 let tab = 'admissibilite';
-let cases = [];
-let admIndex = { medecine: [], chirurgie: [] };
+let index = { admissibilite: [], admission: [] };
 
 async function load() {
-  try { cases = await (await fetch('um6ss/admissibilite.json')).json(); }
-  catch (e) { cases = []; }
-  try { admIndex = await (await fetch('um6ss/admission.json')).json(); }
-  catch (e) { admIndex = { medecine: [], chirurgie: [] }; }
+  try { index = await (await fetch('um6ss/index.json')).json(); }
+  catch (e) { index = { admissibilite: [], admission: [] }; }
 }
 
 const lock = () => (hasFull() ? '' : ' 🔒');
+const EMOJI = { anat: '🦴', bio: '🧬', med: '🩺', chir: '🔪' };
 
-function caseCard(c, i) {
-  return `<a class="case-card" href="um6ss-quiz.html?case=${c.id}">
-    <h3>${['🦴', '🧬', '🩺', '🔪'][i] || '📋'} ${esc(c.subject)} — ${esc(c.title)}${lock()}</h3>
-    <p>${esc(c.teaser)}</p>
-    <div class="meta"><span>📋 Cas clinique progressif</span><span>❓ ${c.questions.length} QCM liés</span></div>
+function subjectCard(s) {
+  return `<a class="case-card" href="um6ss-quiz.html?bank=${s.id}">
+    <h3>${EMOJI[s.id] || '📝'} ${esc(s.subject)}${lock()}</h3>
+    <p>${esc(s.focus)}</p>
+    <div class="meta"><span>❓ ${s.n} QCM</span><span>⏱️ ${esc(s.time)}</span><span>⚖️ Coef ${s.coef}</span></div>
   </a>`;
 }
 
-function admTopic(t) {
-  return `<a class="topic" href="um6ss-quiz.html?adm=${t.id}" style="text-decoration:none;color:inherit">
-    <div><div class="t">${esc(t.title)}${lock()}</div><div class="c">${t.n} QCM</div></div>
-    <div class="pct">→</div>
+function caseCard(c, i) {
+  return `<a class="case-card" href="um6ss-quiz.html?case=${c.id}">
+    <h3>${['🚨', '🔪', '💊', '🏥'][i] || '📋'} ${esc(c.title)}${lock()}</h3>
+    <p>${esc(c.focus)}</p>
+    <div class="meta"><span>📋 Cas clinique progressif</span><span>⚖️ Coef ${c.coef}</span></div>
   </a>`;
 }
 
@@ -52,14 +53,11 @@ function render() {
     </div>`;
   let body = '';
   if (tab === 'admissibilite') {
-    body = `<p class="small">4 cas cliniques progressifs — chaque cas suit un patient en 8 à 10 QCM liés : diagnostic → examens → traitement → complications.</p>` +
-      (cases.length ? cases.map(caseCard).join('') : '<div class="empty">Chargement…</div>');
+    body = `<p class="small">4 épreuves de <b>100 QCM</b> en 2 heures, comme le jour J — QCM multi-réponses, coche toutes les bonnes réponses.</p>` +
+      (index.admissibilite.length ? index.admissibilite.map(subjectCard).join('') : '<div class="empty">Chargement…</div>');
   } else {
-    const med = admIndex.medecine || [], chir = admIndex.chirurgie || [];
-    body = `<div class="chapter">Médecine (${med.length} sujets)</div>` +
-      (med.length ? med.map(admTopic).join('') : '<div class="empty">Chargement…</div>') +
-      `<div class="chapter">Chirurgie (${chir.length} sujets)</div>` +
-      (chir.length ? chir.map(admTopic).join('') : '');
+    body = `<p class="small"><b>Épreuve d'admission définitive</b> — 2 heures : 4 grands cas cliniques progressifs (5 à 15 QCM liés par cas, ~30 à 45 au total). Chaque cas suit un patient : présentation aiguë → diagnostic → traitement → suivi.</p>` +
+      (index.admission.length ? index.admission.map(caseCard).join('') : '<div class="empty">Chargement…</div>');
   }
   app.innerHTML = head + body;
   document.getElementById('tabAdmissibilite').onclick = () => { tab = 'admissibilite'; render(); };
