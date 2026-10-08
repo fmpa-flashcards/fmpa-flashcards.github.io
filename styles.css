@@ -209,10 +209,29 @@ body{
   display:flex;flex-direction:column;align-items:center;gap:2px;font:inherit;text-decoration:none;}
 .tabbar a span{font-size:.62rem;font-weight:700;}
 .tabbar a.on{color:var(--teal);}
+.tabbar img.tablogo{width:26px;height:26px;object-fit:contain;}
 .toast{position:fixed;bottom:96px;left:50%;transform:translateX(-50%);background:#1c2733;color:#fff;
   padding:12px 20px;border-radius:999px;font-size:.88rem;z-index:99;box-shadow:0 6px 20px rgba(0,0,0,.25);
   max-width:90vw;text-align:center;}
 .empty{text-align:center;color:var(--muted);padding:40px 20px;font-size:.92rem;line-height:1.6;}
+/* ---------- UM6SS ---------- */
+.um6ss-head{display:flex;align-items:center;gap:12px;margin:6px 0 2px;}
+.um6ss-head img{width:52px;height:52px;object-fit:contain;}
+.um6ss-tabs{display:flex;gap:8px;margin:12px 0;}
+.um6ss-tabs button{flex:1;border:2px solid #e0f2f4;background:#fff;border-radius:12px;padding:12px 8px;
+  font:inherit;font-weight:700;font-size:.92rem;color:#0a5f66;cursor:pointer;}
+.um6ss-tabs button.on{background:#0e7c86;border-color:#0e7c86;color:#fff;}
+.case-card{display:block;background:#fff;border:2px solid #e0f2f4;border-radius:14px;padding:14px;margin:10px 0;
+  text-decoration:none;color:inherit;}
+.case-card h3{margin:0 0 6px;font-size:1rem;}
+.case-card p{margin:0;font-size:.85rem;color:#5b6b7c;line-height:1.5;}
+.case-card .meta{display:flex;gap:8px;margin-top:8px;font-size:.78rem;color:#0a5f66;font-weight:700;}
+.scenario{background:#eef7f8;border-left:4px solid #0e7c86;border-radius:0 12px 12px 0;padding:12px 14px;
+  font-size:.9rem;line-height:1.65;margin:12px 0;}
+.reveal{background:#fff8e6;border:1px solid #f0d98c;border-radius:12px;padding:12px 14px;
+  font-size:.88rem;line-height:1.6;margin:12px 0;}
+.reveal b{color:#8a6d1a;}
+.q-step{font-size:.78rem;font-weight:700;color:#0a5f66;letter-spacing:.4px;margin:14px 0 4px;}
 .small{font-size:.8rem;color:var(--muted);line-height:1.55;}
 .mt{margin-top:14px;}
 
