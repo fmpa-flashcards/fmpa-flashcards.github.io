@@ -7,7 +7,7 @@ import { getAuth, onAuthStateChanged, signOut } from '../vendor/firebase/firebas
 import {
   getFirestore, doc, getDoc, setDoc, updateDoc, collection,
   query, where, limit, orderBy, getDocs, runTransaction,
-  serverTimestamp, deleteDoc, enableIndexedDbPersistence
+  serverTimestamp, deleteDoc, enableIndexedDbPersistence, terminate
 } from '../vendor/firebase/firebase-firestore.js';
 import { firebaseConfig } from '../firebase-config.js';
 
@@ -94,16 +94,32 @@ export function isoWeekId() {
 export function levelFor(xp) { return Math.floor(xp / 500) + 1; }
 
 /* ------------------------------ firebase ------------------------------ */
-let _fb = null;
+let _app = null, _auth = null, _db = null;
 export function fb() {
-  if (!_fb) {
-    const app = initializeApp(firebaseConfig);
-    const auth = getAuth(app);
-    const db = getFirestore(app);
-    enableIndexedDbPersistence(db).catch(() => {});
-    _fb = { app, auth, db };
+  if (!_app) {
+    _app = initializeApp(firebaseConfig);
+    _auth = getAuth(_app);
   }
-  return _fb;
+  if (!_db) {
+    _db = getFirestore(_app);
+    enableIndexedDbPersistence(_db).catch(() => {});
+  }
+  return { app: _app, auth: _auth, db: _db };
+}
+
+/* Ferme l'instance Firestore pour forcer une reconnexion propre au prochain
+   appel. Utilisé entre deux tentatives quand le flux réseau semble bloqué
+   (requête qui ne répond ni n'échoue). Ne bloque jamais plus de 4 s. */
+async function resetDb() {
+  if (!_db) return;
+  const old = _db;
+  _db = null;
+  try {
+    await Promise.race([
+      terminate(old),
+      new Promise((r) => setTimeout(r, 4000)),
+    ]);
+  } catch (e) {}
 }
 
 /* --------------------------- session state ---------------------------- */
@@ -115,42 +131,92 @@ export const hasFull = () => proTier() === 'full';
 export const isPro = () => hasCards(); // compat : tout palier payant
 
 /* Redirige vers la page de connexion si non connecté.
-   Résout quand l'utilisateur + son profil sont prêts.
-   Timeout anti-blocage : au-delà de timeoutMs sans réponse, affiche un
-   écran d'erreur avec bouton réessayer au lieu de charger indéfiniment. */
-export function requireAuth({ timeoutMs = 15000 } = {}) {
+   Résout quand l'utilisateur + son profil sont prêts. Ne rejette jamais.
+   Anti-blocage : si le réseau est coupé, message immédiat ; sinon plusieurs
+   tentatives avec délai par essai, et l'instance Firestore est recréée entre
+   les essais quand le flux semble bloqué (requête qui ne répond ni n'échoue).
+   En cas d'échec final, écran d'erreur avec bouton réessayer intégré
+   (sans recharger toute la page). */
+export function requireAuth({ timeoutMs = 15000, attempts = 3 } = {}) {
   return new Promise((resolve) => {
-    let done = false;
-    const finish = () => { done = true; clearTimeout(timer); try { unsub(); } catch (e) {} };
-    const timer = setTimeout(() => {
-      if (done) return;
-      finish();
-      const app = document.getElementById('app');
-      if (app) {
-        app.innerHTML = `<div class="lock">
-          <div class="big">📡</div>
-          <h2>Connexion lente</h2>
-          <p>La vérification de ton compte prend trop de temps.<br>Vérifie ta connexion puis réessaie.</p>
-          <button class="btn btn-primary" onclick="location.reload()">🔄 Réessayer</button>
-        </div>`;
-      }
-    }, timeoutMs);
-    const { auth } = fb();
-    const unsub = onAuthStateChanged(auth, async (u) => {
-      if (!u) { finish(); location.replace('index.html'); return; }
-      user = u;
-      try {
-        profile = await ensureProfile(u);
-      } catch (e) {
-        console.error(e);
-        finish();
-        location.replace('index.html?err=db');
+    const appEl = document.getElementById('app');
+    if (!appEl) { resolve(); return; }
+
+    const showLoading = () => {
+      appEl.innerHTML = `<div class="lock">
+        <div class="big">⏳</div>
+        <h2>Vérification du compte…</h2>
+        <p>Connexion en cours, merci de patienter.</p>
+      </div>`;
+    };
+
+    const showError = (offline) => {
+      appEl.innerHTML = `<div class="lock">
+        <div class="big">${offline ? '📵' : '📡'}</div>
+        <h2>${offline ? 'Hors connexion' : 'Connexion lente'}</h2>
+        <p>${offline
+          ? 'Tu sembles hors ligne.<br>Vérifie ta connexion puis réessaie.'
+          : 'La vérification de ton compte prend trop de temps.<br>Vérifie ta connexion puis réessaie.'}</p>
+        <button class="btn btn-primary" id="authRetry">🔄 Réessayer</button>
+      </div>`;
+      const btn = document.getElementById('authRetry');
+      if (btn) btn.onclick = () => { showLoading(); attemptLoop(); };
+    };
+
+    /* Un essai = état d'auth + profil, le tout borné par timeoutMs. */
+    const tryOnce = () => new Promise((res, rej) => {
+      const { auth } = fb();
+      let unsub = null, done = false;
+      const timer = setTimeout(() => {
+        if (done) return; done = true;
+        try { unsub && unsub(); } catch (e) {}
+        rej(new Error('timeout'));
+      }, timeoutMs);
+      const finish = (fn) => {
+        if (done) return; done = true;
+        clearTimeout(timer);
+        try { unsub && unsub(); } catch (e) {}
+        fn();
+      };
+      unsub = onAuthStateChanged(auth, async (u) => {
+        if (!u) { finish(() => rej(new Error('no-user'))); return; }
+        user = u;
+        try {
+          profile = await ensureProfile(u);
+          finish(() => res());
+        } catch (e) {
+          finish(() => rej(e));
+        }
+      }, (err) => finish(() => rej(err)));
+    });
+
+    const attemptLoop = async () => {
+      if (typeof navigator !== 'undefined' && navigator.onLine === false) {
+        showError(true);
         return;
       }
-      finish();
-      registerSession();
-      resolve();
-    });
+      for (let i = 0; i < attempts; i++) {
+        if (i > 0) {
+          await resetDb();
+          await new Promise((r) => setTimeout(r, 700));
+        }
+        try {
+          await tryOnce();
+          registerSession();
+          resolve();
+          return;
+        } catch (e) {
+          if (e && e.message === 'no-user') {
+            location.replace('index.html');
+            return;
+          }
+          console.warn('requireAuth essai ' + (i + 1) + '/' + attempts + ' échoué', e);
+        }
+      }
+      showError(false);
+    };
+
+    attemptLoop();
   });
 }
 
