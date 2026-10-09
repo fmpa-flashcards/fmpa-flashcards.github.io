@@ -12,18 +12,24 @@ if (!guardFull('UM6SS', 'um6ss')) throw new Error('locked');
 
 const app = document.getElementById('app');
 const caseId = qp('case', '');
+const compId = qp('comp', '');
 const bankId = qp('bank', '');
+
+const SESSION_N = 100; // tirage de 100 QCM par session (format examen)
 
 let title = 'QCM UM6SS';
 let intro = null;       // scénario du cas (admission : cas progressif)
 let questions = [];     // {q, options[5], explain[5], correct:Set, reveal?}
 let isCase = false;
+let seenKey = null;     // clé um6ssSeen (bank id ou 'adm')
+let freshCycle = false; // pool épuisé : nouveau cycle
 
 function prep(m) {
   const order = shuffle([0, 1, 2, 3, 4]);
   const correct = new Set();
   order.forEach((orig, i) => { if (m.correct.includes(orig)) correct.add(i); });
   return {
+    id: m.id || null,
     q: m.q,
     options: order.map(i => m.options[i]),
     explain: order.map(i => m.explain[i]),
@@ -32,29 +38,60 @@ function prep(m) {
   };
 }
 
+/* Questions déjà vues par l'utilisateur (pas de répétition entre les sessions). */
+function getSeen(key) {
+  try { return new Set((profile.um6ssSeen && profile.um6ssSeen[key]) || []); }
+  catch (e) { return new Set(); }
+}
+
 async function load() {
-  if (caseId) {
-    /* Admission définitive : cas clinique progressif (ordre fixe, révélations). */
+  if (caseId || compId) {
+    /* Admission définitive : cas clinique progressif (ordre fixe, révélations).
+       ?comp= tire un cas au hasard parmi les non-vus ; ?case= force un cas. */
     const cases = await (await fetch('um6ss/admission.json')).json();
-    const c = cases.find(x => x.id === caseId);
+    let c = null;
+    if (caseId) c = cases.find(x => x.id === caseId);
+    else {
+      const comp = cases.filter(x => x.component === compId);
+      if (!comp.length) throw new Error('no comp');
+      seenKey = 'adm';
+      const seen = getSeen('adm');
+      let pool = comp.filter(x => !seen.has(x.id));
+      if (!pool.length) { pool = comp; freshCycle = true; }
+      c = pool[Math.floor(Math.random() * pool.length)];
+    }
     if (!c) throw new Error('no case');
     isCase = true;
+    seenKey = 'adm';
+    Q.caseId = c.id;
     title = c.title;
     intro = c.scenario;
     questions = c.questions.map(prep).filter(q => q.options.length === 5 && q.correct.size >= 1);
   } else if (bankId) {
-    /* Admissibilité : banque de 100 QCM isolés (ordre mélangé). */
+    /* Admissibilité : tirage de 100 QCM non-vus parmi le pool de 1000. */
     const idx = await (await fetch('um6ss/index.json')).json();
     const s = (idx.admissibilite || []).find(x => x.id === bankId);
     if (!s) throw new Error('no bank');
+    seenKey = bankId;
     title = s.subject + ' — 100 QCM';
-    const bank = await (await fetch('um6ss/' + s.file)).json();
-    questions = shuffle(bank.map(prep)).filter(q => q.options.length === 5 && q.correct.size >= 1);
+    const pool = await (await fetch('um6ss/' + s.file)).json();
+    const seen = getSeen(bankId);
+    let fresh = pool.filter(q => q.id && !seen.has(q.id));
+    if (!fresh.length) { fresh = pool.slice(); freshCycle = true; }
+    const drawn = shuffle(fresh).slice(0, SESSION_N);
+    if (drawn.length < SESSION_N) {
+      /* Pool presque épuisé : compléter avec des déjà-vus mélangés. */
+      const rest = shuffle(pool.filter(q => !drawn.includes(q))).slice(0, SESSION_N - drawn.length);
+      drawn.push(...rest);
+    }
+    questions = drawn.map(prep).filter(q => q.options.length === 5 && q.correct.size >= 1);
   } else {
     throw new Error('no target');
   }
   if (!questions.length) throw new Error('empty');
 }
+
+const Q = { pos: 0, xp: 0, perfect: 0, answered: 0, started: false, seenIds: [], caseId: null };
 
 try { await load(); }
 catch (e) {
@@ -64,8 +101,6 @@ catch (e) {
   throw e;
 }
 document.title = title + ' — Flashcards FMPR';
-
-const Q = { pos: 0, xp: 0, perfect: 0, answered: 0, started: false };
 
 /* --------------------------- scénario --------------------------- */
 function renderIntro() {
@@ -139,6 +174,7 @@ function doConfirm(sel, btns, confirmBtn) {
   Q.xp += gained;
   Q.answered++;
   if (perfect) Q.perfect++;
+  if (q.id) Q.seenIds.push(q.id); // pas de répétition entre les sessions
 
   const verdict = perfect
     ? `<div class="verdict perfect">🌟 Parfait ! +20 XP</div>`
@@ -173,6 +209,16 @@ async function renderResult() {
     saved = true;
     profile.mcqTotal = (profile.mcqTotal || 0) + nn;
     profile.mcqCorrect = (profile.mcqCorrect || 0) + Q.perfect;
+    /* Mémorise les questions/cas vus (tirage sans répétition). */
+    try {
+      const seenAll = Object.assign({}, profile.um6ssSeen);
+      if (isCase && Q.caseId) {
+        seenAll.adm = Array.from(new Set([...(seenAll.adm || []), Q.caseId]));
+      } else if (seenKey && Q.seenIds.length) {
+        seenAll[seenKey] = Array.from(new Set([...(seenAll[seenKey] || []), ...Q.seenIds]));
+      }
+      profile.um6ssSeen = seenAll;
+    } catch (e) {}
     addXp(Q.xp);
     saveProfile({});
     pushLeaderboard(true);

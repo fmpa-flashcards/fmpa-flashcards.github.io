@@ -1,1 +1,70 @@
-{"admissibilite":[{"coef":2,"file":"admissibilite/anat.json","focus":"Anatomie descriptive, fonctionnelle et topographique.","id":"anat","n":100,"subject":"Anatomie","time":"2 heures"},{"coef":2,"file":"admissibilite/bio.json","focus":"Physiologie, biochimie, immunologie, microbiologie et histologie.","id":"bio","n":100,"subject":"Biologie","time":"2 heures"},{"coef":3,"file":"admissibilite/med.json","focus":"Clinique, diagnostic et traitement médical des maladies de système.","id":"med","n":100,"subject":"Pathologie médicale","time":"2 heures"},{"coef":3,"file":"admissibilite/chir.json","focus":"Pathologies chirurgicales, indications opératoires, bilan pré-opératoire et complications.","id":"chir","n":100,"subject":"Pathologie chirurgicale","time":"2 heures"}],"admission":[{"coef":1,"focus":"Présentation aiguë, réflexe diagnostique initial et réanimation immédiate.","id":"urg-med","title":"Urgence médicale / Spécialité médicale"},{"coef":1,"focus":"Indications chirurgicales, triage abdomen aigu / traumatisme, bilan pré-opératoire.","id":"urg-chir","title":"Urgence chirurgicale / Spécialité chirurgicale"},{"coef":1,"focus":"Stratégie thérapeutique au long cours, posologies, contre-indications et suivi du patient.","id":"cat-med","title":"Conduite à tenir médicale"},{"coef":1,"focus":"Stratégies opératoires, choix de la technique chirurgicale et gestion des complications post-opératoires.","id":"cat-chir","title":"Conduite à tenir chirurgicale"}]}
+{
+ "admissibilite": [
+  {
+   "coef": 2,
+   "file": "admissibilite/anat.json",
+   "focus": "Anatomie descriptive, fonctionnelle et topographique.",
+   "id": "anat",
+   "n": 1000,
+   "subject": "Anatomie",
+   "time": "2 heures"
+  },
+  {
+   "coef": 2,
+   "file": "admissibilite/bio.json",
+   "focus": "Physiologie, biochimie, immunologie, microbiologie et histologie.",
+   "id": "bio",
+   "n": 1000,
+   "subject": "Biologie",
+   "time": "2 heures"
+  },
+  {
+   "coef": 3,
+   "file": "admissibilite/med.json",
+   "focus": "Clinique, diagnostic et traitement médical des maladies de système.",
+   "id": "med",
+   "n": 1000,
+   "subject": "Pathologie médicale",
+   "time": "2 heures"
+  },
+  {
+   "coef": 3,
+   "file": "admissibilite/chir.json",
+   "focus": "Pathologies chirurgicales, indications opératoires, bilan pré-opératoire et complications.",
+   "id": "chir",
+   "n": 1000,
+   "subject": "Pathologie chirurgicale",
+   "time": "2 heures"
+  }
+ ],
+ "admission": [
+  {
+   "coef": 1,
+   "focus": "Présentation aiguë, réflexe diagnostique initial et réanimation immédiate.",
+   "id": "urg-med",
+   "title": "Urgence médicale / Spécialité médicale",
+   "cases": 10
+  },
+  {
+   "coef": 1,
+   "focus": "Indications chirurgicales, triage abdomen aigu / traumatisme, bilan pré-opératoire.",
+   "id": "urg-chir",
+   "title": "Urgence chirurgicale / Spécialité chirurgicale",
+   "cases": 10
+  },
+  {
+   "coef": 1,
+   "focus": "Stratégie thérapeutique au long cours, posologies, contre-indications et suivi du patient.",
+   "id": "cat-med",
+   "title": "Conduite à tenir médicale",
+   "cases": 10
+  },
+  {
+   "coef": 1,
+   "focus": "Stratégies opératoires, choix de la technique chirurgicale et gestion des complications post-opératoires.",
+   "id": "cat-chir",
+   "title": "Conduite à tenir chirurgicale",
+   "cases": 10
+  }
+ ]
+}
