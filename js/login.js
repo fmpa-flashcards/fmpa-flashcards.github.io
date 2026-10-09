@@ -19,7 +19,7 @@ function vLogin(err) {
     <div class="login-wrap">
     <div class="login-card">
       <div class="login-logo">🩺</div>
-      <h1>Flashcards FMPR</h1>
+      <h1>Flashcards FMPA</h1>
       <p class="login-sub">8 260 flashcards · QCM · classement<br>Ta progression sauvegardée partout.</p>
       <button class="btn btn-google" id="gBtn">${G_LOGO}<span>Continuer avec Google</span></button>
       <div class="hr">ou par email</div>

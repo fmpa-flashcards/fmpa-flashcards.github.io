@@ -88,11 +88,7 @@ document.getElementById('app').innerHTML = `
   ${pillsHtml()}
   <div id="demoNote"></div>
   <div id="discBody"></div>
-  <div id="searchBody"></div>
-  <a class="patho-banner" href="pathologies.html?v=8">
-    <span>🩺 <b>Pathologies</b> <small>11 930 fiches · 20 spécialités · prix CNOPS</small></span>
-    <span class="go">Ouvrir →</span>
-  </a>`;
+  <div id="searchBody"></div>`;
 document.body.insertAdjacentHTML('beforeend', tabbar('home'));
 
 document.querySelectorAll('.pill').forEach(b => b.onclick = () => {
