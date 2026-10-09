@@ -84,12 +84,12 @@ service cloud.firestore {
         );
 
       // Crédit parrainage : un filleul (connecté) peut créditer SON parrain
-      // de +15 DH / +1 filleul, uniquement s'il a un doc referrals le liant
-      // à ce parrain (un seul parrainage par filleul, créé à l'activation).
+      // du montant de commission (10 DH FMPA / 15 DH FMPR) / +1 filleul,
+      // uniquement s'il a un doc referrals le liant à ce parrain.
       allow update: if signedIn()
         && request.auth.uid != uid
         && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['refBalance', 'refCount'])
-        && request.resource.data.refBalance == resource.data.get('refBalance', 0) + 15
+        && request.resource.data.refBalance == resource.data.get('refBalance', 0) + get(/databases/$(db)/documents/referrals/$(request.auth.uid)).data.commission
         && request.resource.data.refCount == resource.data.get('refCount', 0) + 1
         && exists(/databases/$(db)/documents/referrals/$(request.auth.uid))
         && get(/databases/$(db)/documents/referrals/$(request.auth.uid)).data.referrerUid == uid;
@@ -122,7 +122,7 @@ service cloud.firestore {
         && request.resource.data.referredUid == request.auth.uid
         && request.resource.data.referrerUid is string
         && request.resource.data.referrerUid != request.auth.uid
-        && request.resource.data.commission == 15;
+        && request.resource.data.commission == 10;
       allow read: if signedIn()
         && (request.auth.uid == uid || request.auth.uid == resource.data.referrerUid);
       allow update, delete: if false;
