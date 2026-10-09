@@ -5,7 +5,7 @@
      chargées à la demande par page, disponibles hors-ligne.
    Les appels Firebase / Google ne sont jamais mis en cache.
    IMPORTANT : incrémenter CACHE à chaque changement de stratégie/fichiers. */
-const CACHE = 'fmpa-v1';
+const CACHE = 'fmpa-v2';
 const CORE = [
   './', 'index.html', 'home.html', 'discipline.html', 'topic.html',
   'qcm.html', 'qcm-sujets.html', 'qcm-setup.html', 'quiz.html',
