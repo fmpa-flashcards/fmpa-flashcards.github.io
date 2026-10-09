@@ -8,7 +8,7 @@ const authP = requireAuth();
 
 const d = Math.max(0, parseInt(qp('d', '0'), 10) || 0);
 const [disc, idx] = await Promise.all([loadDisc(d), loadIndex()]);
-document.title = disc.name + ' — Flashcards FMPR';
+document.title = disc.name + ' — Flashcards FMPA';
 
 const isPrepa = idx[d] && idx[d].section === 'prepa';
 const backHref = isPrepa ? 'preparation.html' : 'home.html';

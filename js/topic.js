@@ -20,7 +20,7 @@ if (!entry) { location.replace('home.html'); }
 const discIdx = entry.discIdx;
 const topic = entry.topic;
 const isPrepa = idx[discIdx] && idx[discIdx].section === 'prepa';
-document.title = topic.topic + ' — Flashcards FMPR';
+document.title = topic.topic + ' — Flashcards FMPA';
 
 /* Coquille immédiate — aucun écran de chargement. */
 document.getElementById('app').innerHTML = `
