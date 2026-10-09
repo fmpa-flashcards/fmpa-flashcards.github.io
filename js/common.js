@@ -1,5 +1,5 @@
 /* ============================================================================
-   FMPR Flashcards — common.js : fondation partagée de toutes les pages.
+   FMPA Flashcards — common.js : fondation partagée de toutes les pages.
    Firebase, auth, profil/XP, progression, sessions, utilitaires, tabbar.
    ============================================================================ */
 import { initializeApp } from '../vendor/firebase/firebase-app.js';
@@ -13,7 +13,7 @@ import { firebaseConfig } from '../firebase-config.js';
 
 export const WA_NUMBER = '212605235053';
 export const DEMO_N = 5;                 // cartes visibles en démo (non-Pro)
-export const REF_COMMISSION = 15;        // DH par filleul parrainé
+export const REF_COMMISSION = 10;        // DH par filleul parrainé
 export const REF_MIN_WITHDRAW = 30;      // DH minimum pour retirer
 export const DISC_EMOJI = ['🫀', '🦴', '🧬', '🔪', '🚨', '💊', '🩸', '🪱', '🦠', '🛡️', '🧫'];
 
@@ -491,15 +491,13 @@ export async function loadTopicMcqm(topicId) {
 
 /* ------------------------------ UI shell ------------------------------- */
 export function waUnlockLink() {
-  const txt = encodeURIComponent('Salut ! Je veux débloquer Flashcards FMPR (🃏 Cartes 100 DH ou ⭐ Full 150 DH). Mon email de compte : ');
+  const txt = encodeURIComponent('Salut ! Je veux débloquer Flashcards FMPA (100 DH). Mon email de compte : ');
   return 'https://wa.me/' + WA_NUMBER + '?text=' + txt;
 }
 
 export function tabbar(active) {
   const tabs = [
     ['home.html', 'home', '📚', 'Cartes'],
-    ['qcm.html', 'mcq', '✅', 'QCM'],
-    ['um6ss.html', 'um6ss', '<img src="um6ss-logo.png" class="tablogo" alt="UM6SS">', 'UM6SS'],
     ['classement.html', 'leaderboard', '🏆', 'Classement'],
     ['plan.html', 'plan', '🗓️', 'Plan'],
     ['profil.html', 'profile', '👤', 'Profil'],
@@ -509,13 +507,11 @@ export function tabbar(active) {
   ).join('') + '</nav>';
 }
 
-export function lockHtml(feature, needFull) {
+export function lockHtml(feature) {
   return `<div class="lock">
     <div class="big">🔒</div>
-    <h2>${feature} — ${needFull ? 'Full uniquement' : 'Pro uniquement'}</h2>
-    <p>${needFull
-      ? 'Les QCM sont réservés à la formule <b>Full — 150 DH</b>.'
-      : 'Débloque les 8 260 cartes et le classement dès <b>100 DH</b>, ou tout + QCM pour <b>150 DH</b>.'}<br>Paiement unique, à vie.</p>
+    <h2>${feature} — Version complète</h2>
+    <p>Débloque toutes les cartes et le classement pour <b>100 DH</b>.<br>Paiement unique, à vie.</p>
     <a class="btn btn-primary" href="${waUnlockLink()}" target="_blank" rel="noopener"
        style="text-decoration:none">💬 Commander sur WhatsApp</a>
     <div class="hr">ou entre ton code d'activation</div>
@@ -529,10 +525,10 @@ export function bindRedeem() {
   const b = $('#redeemBtn');
   if (b) b.onclick = () => redeemCode($('#redeemInput').value);
 }
-/* Verrou formule Cartes+ (flashcards, classement, plan). */
+/* Verrou version complète (FMPA : une seule formule à 100 DH). */
 export function guardPro(feature, tab) {
   if (hasCards()) return true;
-  $('#app').innerHTML = lockHtml(feature, false);
+  $('#app').innerHTML = lockHtml(feature);
   document.body.insertAdjacentHTML('beforeend', tabbar(tab));
   bindRedeem();
   return false;

@@ -24,7 +24,7 @@ app.innerHTML = `
   <div class="kv">
     <div class="r"><span class="k">Compte</span><span class="v">${esc(p.displayName || '')}</span></div>
     <div class="r"><span class="k">Email</span><span class="v" style="font-size:.8rem">${esc(p.email || '')}</span></div>
-    <div class="r"><span class="k">Statut</span><span class="v">${p.proTier === 'full' ? '<span class="badge">⭐ FULL</span>' : p.proTier === 'cards' ? '<span class="badge">🃏 CARTES</span>' : 'Démo'}</span></div>
+    <div class="r"><span class="k">Statut</span><span class="v">${p.proTier ? '<span class="badge">⭐ COMPLET</span>' : 'Démo'}</span></div>
     <div class="r"><span class="k">Pseudo (classement)</span>
       <span class="v"><a href="classement.html" style="color:var(--teal)">${esc(p.nickname || 'définir →')}</a></span></div>
   </div>
@@ -37,20 +37,8 @@ app.innerHTML = `
   ${p.proTier ? '' : `
   <div class="lock" style="margin-top:0">
     <div class="big">🚀</div>
-    <h2>Choisis ta formule</h2>
-    <div style="display:flex;gap:10px;margin:12px 0">
-      <div style="flex:1;border:2px solid #e0f2f4;border-radius:12px;padding:12px;text-align:center">
-        <div style="font-size:1.4rem">🃏</div>
-        <b>Cartes — 100 DH</b>
-        <div class="small">8 260 cartes illimitées<br>classement · plan</div>
-      </div>
-      <div style="flex:1;border:2px solid #0e7c86;border-radius:12px;padding:12px;text-align:center">
-        <div style="font-size:1.4rem">⭐</div>
-        <b>Full — 150 DH</b>
-        <div class="small">Tout + 21 600 QCM<br>classement · plan</div>
-      </div>
-    </div>
-    <p class="small">Paiement unique, à vie.</p>
+    <h2>Version complète — 100 DH</h2>
+    <p>Toutes les cartes illimitées · classement · plan de révision.<br>Paiement unique, à vie.</p>
     <a class="btn btn-primary" href="${waUnlockLink()}" target="_blank" rel="noopener" style="text-decoration:none">💬 Commander sur WhatsApp</a>
     <div class="hr">ou entre ton code d'activation</div>
     <div class="code-row">

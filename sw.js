@@ -1,11 +1,11 @@
-/* FMPR Flashcards — service worker : application multi-pages.
+/* FMPA Flashcards — service worker : application multi-pages.
    - shell (pages HTML, js, css…) : NETWORK-FIRST → chaque déploiement
      est pris en compte dès la visite suivante, avec repli sur le cache hors-ligne.
    - données (disc-*.json, index.json, plan.json, mcqm/…) : CACHE-FIRST →
      chargées à la demande par page, disponibles hors-ligne.
    Les appels Firebase / Google ne sont jamais mis en cache.
    IMPORTANT : incrémenter CACHE à chaque changement de stratégie/fichiers. */
-const CACHE = 'fmpr-v25';
+const CACHE = 'fmpa-v1';
 const CORE = [
   './', 'index.html', 'home.html', 'discipline.html', 'topic.html',
   'qcm.html', 'qcm-sujets.html', 'qcm-setup.html', 'quiz.html',
