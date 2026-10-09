@@ -1,1 +1,37 @@
-[{"file": "disc-0.json", "name": "Pathologie médicale", "topics": 115, "cards": 2596}, {"file": "disc-1.json", "name": "Anatomie", "topics": 40, "cards": 899}, {"file": "disc-2.json", "name": "Biologie", "topics": 43, "cards": 1016}, {"file": "disc-3.json", "name": "Pathologie chirurgicale", "topics": 66, "cards": 1552}, {"file": "disc-4.json", "name": "Urgences", "topics": 94, "cards": 2197}, {"file": "disc-5.json", "name": "Pharmacologie", "topics": 30, "cards": 692, "section": "prepa", "qcm": 6000}, {"file": "disc-6.json", "name": "Hématologie", "topics": 14, "cards": 327, "section": "prepa", "qcm": 2800}, {"file": "disc-7.json", "name": "Parasitologie", "topics": 15, "cards": 333, "section": "prepa", "qcm": 3000}, {"file": "disc-8.json", "name": "Bactériologie", "topics": 21, "cards": 465, "section": "prepa", "qcm": 4200}, {"file": "disc-9.json", "name": "Immunologie", "topics": 15, "cards": 341, "section": "prepa", "qcm": 3000}, {"file": "disc-10.json", "name": "Virologie", "topics": 13, "cards": 299, "section": "prepa", "qcm": 2600}]
+[
+  {
+    "name": "Anatomie",
+    "topics": 23,
+    "cards": 690,
+    "section": "cartes",
+    "file": "disc-0.json"
+  },
+  {
+    "name": "Biologie",
+    "topics": 88,
+    "cards": 2640,
+    "section": "cartes",
+    "file": "disc-1.json"
+  },
+  {
+    "name": "Pathologie médicale",
+    "topics": 160,
+    "cards": 4800,
+    "section": "cartes",
+    "file": "disc-2.json"
+  },
+  {
+    "name": "Pathologie chirurgicale",
+    "topics": 94,
+    "cards": 2820,
+    "section": "cartes",
+    "file": "disc-3.json"
+  },
+  {
+    "name": "Urgences",
+    "topics": 78,
+    "cards": 2340,
+    "section": "cartes",
+    "file": "disc-4.json"
+  }
+]
