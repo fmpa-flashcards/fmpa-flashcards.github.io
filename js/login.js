@@ -31,7 +31,7 @@ function vLogin(err) {
       <button class="btn btn-primary" id="eLogin">Se connecter</button>
       <button class="btn btn-ghost" id="eSignup">Créer un compte</button>
       <div style="text-align:center"><button class="linklike" id="eForgot">Mot de passe oublié ?</button></div>
-      <div class="login-pro">🃏 <b>Cartes — 100 DH</b> · ⭐ <b>Full — 150 DH</b> · à vie.</div>
+      <div class="login-pro">⭐ <b>Version complète — 100 DH</b> · à vie.</div>
     </div>
     </div>`;
   const showErr = (m) => { const e = $('#lerr'); e.style.display = 'block'; e.textContent = m; };
