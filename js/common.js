@@ -235,6 +235,7 @@ export async function signOutAll() {
 /* --------------------------- auth & profile ---------------------------- */
 function defaultProfile(u) {
   return {
+    app: 'fmpa',
     email: u.email || '',
     displayName: u.displayName || (u.email ? u.email.split('@')[0] : 'Étudiant'),
     photoURL: u.photoURL || '',

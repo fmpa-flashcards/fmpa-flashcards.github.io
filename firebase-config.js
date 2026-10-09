@@ -1,14 +1,14 @@
 // ============================================================================
-//  FMPR Flashcards — configuration Firebase (projet réel)
-//  Projet : fmpr-flashcards | Compte : anzajewls@gmail.com
+//  FMPA Flashcards — configuration Firebase (projet dédié)
+//  Projet : fmpa-flashcards | Compte : anzajewls@gmail.com
 // ============================================================================
 export const firebaseConfig = {
-  apiKey: "AIzaSyA5nEYGxXgALKBDFAnvQFDCyaAcNcL9quA",
-  authDomain: "fmpr-flashcards.firebaseapp.com",
-  projectId: "fmpr-flashcards",
-  storageBucket: "fmpr-flashcards.firebasestorage.app",
-  messagingSenderId: "61524543799",
-  appId: "1:61524543799:web:1cfbc2d9a7afa8176d32b2"
+  apiKey: "AIzaSyDex6lZqD5GTG8Kod_GHEavF7xKsgjFrdY",
+  authDomain: "fmpa-flashcards.firebaseapp.com",
+  projectId: "fmpa-flashcards",
+  storageBucket: "fmpa-flashcards.firebasestorage.app",
+  messagingSenderId: "540562510232",
+  appId: "1:540562510232:web:0e016f3b09e92157791bed"
 };
 
 // Email de l'administrateur — seul cet email peut générer des codes.
