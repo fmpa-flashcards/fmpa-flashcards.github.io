@@ -61,7 +61,9 @@ function renderFlip() {
 }
 
 /* Dès que l'auth est prête : ordre des cartes, démo/Pro, boutons. */
+let authDone = false;
 authP.then(async () => {
+  authDone = true;
   const tp = await getTP(topicId);
   let order;
   if (isPro()) {
@@ -102,3 +104,14 @@ authP.then(async () => {
   };
   renderFlip();
 }).catch(() => {});
+
+/* Fallback: si l'auth traîne (réseau lent), afficher les cartes quand même. */
+setTimeout(() => {
+  if (!authDone && !F.order) {
+    F.order = topic.cards.map((_, i) => i);
+    $('#fcard').onclick = () => { F.flipped = !F.flipped; renderFlip(); };
+    $('#fPrev').onclick = () => { F.pos = (F.pos - 1 + F.order.length) % F.order.length; F.flipped = false; renderFlip(); };
+    $('#fNext').onclick = () => { F.pos = (F.pos + 1) % F.order.length; F.flipped = false; renderFlip(); };
+    renderFlip();
+  }
+}, 8000);
