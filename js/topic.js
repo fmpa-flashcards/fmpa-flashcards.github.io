@@ -3,7 +3,7 @@
    cache ; l'ordre des cartes (démo/Pro) suit dès que l'auth est prête. */
 import {
   requireAuth, user, profile, isPro, hasFull, loadDisc, loadIndex, loadAllDiscs, topicEntry,
-  getTP, saveTP, markSeen, hashStr, seededPick, shuffle, esc, qp, tabbar, toast, DEMO_N
+  getTP, saveTP, markSeen, shuffle, esc, qp, tabbar, toast, DEMO_N
 } from './common.js';
 
 /* L'auth démarre tout de suite mais ne bloque pas le premier affichage. */
@@ -69,8 +69,7 @@ authP.then(async () => {
   if (isPro()) {
     order = topic.cards.map((_, i) => i);
   } else {
-    const seed = hashStr(user.uid + ':' + topicId);
-    order = seededPick(topic.cards.map((_, i) => i), DEMO_N, seed).sort((a, b) => a - b);
+    order = topic.cards.map((_, i) => i).slice(0, DEMO_N);
   }
   F.order = order;
 
