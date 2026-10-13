@@ -13,7 +13,7 @@ import { firebaseConfig } from '../firebase-config.js';
 
 export const WA_NUMBER = '212605235053';
 export const DEMO_N = 5;                 // cartes visibles en démo (non-Pro)
-export const REF_COMMISSION = 10;        // DH par filleul parrainé
+export const REF_COMMISSION = 15;        // DH par filleul parrainé
 export const REF_MIN_WITHDRAW = 30;      // DH minimum pour retirer
 export const DISC_EMOJI = ['🫀', '🦴', '🧬', '🔪', '🚨', '💊', '🩸', '🪱', '🦠', '🛡️', '🧫'];
 
