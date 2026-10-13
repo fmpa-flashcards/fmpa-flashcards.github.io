@@ -84,7 +84,7 @@ service cloud.firestore {
         );
 
       // Crédit parrainage : un filleul (connecté) peut créditer SON parrain
-      // du montant de commission (10 DH FMPA / 15 DH FMPR) / +1 filleul,
+      // du montant de commission (15 DH) / +1 filleul,
       // uniquement s'il a un doc referrals le liant à ce parrain.
       allow update: if signedIn()
         && request.auth.uid != uid
