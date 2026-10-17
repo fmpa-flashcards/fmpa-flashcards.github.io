@@ -20,7 +20,7 @@ function vLogin(err, mode) {
   $('#app').innerHTML = `
     <div class="login-wrap">
     <div class="login-card">
-      <div class="login-logo">🩺</div>
+      <div class="login-logo"><img src="fmpa-logo-circle.jpg" alt="FMPA" style="width:96px;height:96px;border-radius:50%;object-fit:cover"></div>
       <h1>Flashcards FMPA</h1>
       <p class="login-sub">13 290 flashcards · classement<br>Ta progression sauvegardée partout.</p>
       <button class="btn btn-google" id="gBtn">${G_LOGO}<span>Continuer avec Google</span></button>
