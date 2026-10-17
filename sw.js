@@ -5,12 +5,13 @@
      toujours frais en ligne, repli sur le cache hors-ligne.
    Les appels Firebase / Google ne sont jamais mis en cache.
    IMPORTANT : incrémenter CACHE à chaque changement de stratégie/fichiers. */
-const CACHE = 'fmpa-v6';
+const CACHE = 'fmpa-v7';
 const CORE = [
   './', 'index.html', 'home.html', 'discipline.html', 'topic.html',
   'qcm.html', 'qcm-sujets.html', 'qcm-setup.html', 'quiz.html',
   'classement.html', 'plan.html', 'profil.html', 'pathologies.html',
   'um6ss.html', 'um6ss-quiz.html', 'um6ss-logo.png',
+  'fmpa-logo-circle.jpg', 'fmpa-logo-banner.jpg',
   'styles.css', 'firebase-config.js', 'manifest.json',
   'js/common.js', 'js/login.js', 'js/home.js', 'js/discipline.js',
   'js/topic.js', 'js/qcm.js', 'js/quiz.js', 'js/classement.js',
