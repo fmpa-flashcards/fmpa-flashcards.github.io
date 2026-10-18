@@ -22,7 +22,7 @@ function vLogin(err, mode) {
     <div class="login-card">
       <div class="login-logo"><img src="fmpa-logo-circle.jpg" alt="FMPA" style="width:96px;height:96px;border-radius:50%;object-fit:cover"></div>
       <h1>Flashcards FMPA</h1>
-      <p class="login-sub">7 816 flashcards · classement<br>Ta progression sauvegardée partout.</p>
+      <p class="login-sub">6 792 flashcards · classement<br>Ta progression sauvegardée partout.</p>
       <button class="btn btn-google" id="gBtn">${G_LOGO}<span>Continuer avec Google</span></button>
       <div class="hr">ou par email</div>
       <label class="fld"><span>Email</span>
