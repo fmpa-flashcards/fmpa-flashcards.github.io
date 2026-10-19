@@ -302,7 +302,41 @@ async function ensureProfile(u) {
   p.referralCode = codeFromUid(u.uid);
   await setDoc(ref, p);
   try { await setDoc(doc(db, 'refcodes', p.referralCode), { uid: u.uid }); } catch (e) {}
+  // Parrainage : enregistre la preuve dès l'inscription (sans crédit).
+  // Le crédit (+15 DH / +1 filleul) reste déclenché à l'activation Pro.
+  try { await recordReferralAtSignup(db, u); } catch (e) { console.warn('referral-signup', e); }
   return (await getDoc(ref)).data();
+}
+
+/* Enregistre le parrainage à l'inscription : crée referrals/{uid} (sans crédit).
+   Permet de compter les inscrits par parrain, même sans achat Pro. */
+async function recordReferralAtSignup(db, u) {
+  const LS_KEY = 'fmpr_ref';
+  let refCode = null;
+  try { refCode = localStorage.getItem(LS_KEY); } catch (e) {}
+  if (!refCode || !/^[A-Z0-9]{4,10}$/i.test(refCode)) return;
+  refCode = refCode.toUpperCase();
+  if (refCode === codeFromUid(u.uid)) return; // pas d'auto-parrainage
+  let referrerUid = null;
+  try {
+    const codeDoc = await getDoc(doc(db, 'refcodes', refCode));
+    if (codeDoc.exists()) referrerUid = codeDoc.data().uid;
+  } catch (e) { return; }
+  if (!referrerUid || referrerUid === u.uid) return;
+  const refDocRef = doc(db, 'referrals', u.uid);
+  try {
+    const existing = await getDoc(refDocRef);
+    if (existing.exists()) { try { localStorage.removeItem(LS_KEY); } catch (e) {} return; }
+    await setDoc(refDocRef, {
+      referrerUid,
+      referrerCode: refCode,
+      referredUid: u.uid,
+      referredEmail: u.email || '',
+      commission: REF_COMMISSION,
+      createdAt: serverTimestamp(),
+    });
+  } catch (e) { return; } // ex. règle non publiée : on réessaiera à l'activation
+  try { localStorage.removeItem(LS_KEY); } catch (e) {}
 }
 
 let flushTimer = null;
@@ -574,41 +608,56 @@ export async function redeemCode(raw) {
 }
 
 /* Crédite le parrain (15 DH) quand un filleul active son Pro. */
+/* Crédite le parrain (+15 DH / +1 filleul) quand un filleul active son Pro.
+   La preuve referrals/{uid} est créée à l'inscription (recordReferralAtSignup) ;
+   ce chemin gère aussi les comptes créés avant (preuve créée ici en migration). */
 async function creditReferrer(db) {
-  let refCode = null;
-  try { refCode = localStorage.getItem('fmpr_ref'); } catch (e) {}
-  if (!refCode) return;
-  try { localStorage.removeItem('fmpr_ref'); } catch (e) {}
-  if (refCode === profile.referralCode) return; // pas d'auto-parrainage
-  // Trouve le parrain via la table refcodes (lecture directe, sans requête).
-  let referrerUid = null;
-  try {
-    const codeDoc = await getDoc(doc(db, 'refcodes', refCode));
-    if (codeDoc.exists()) referrerUid = codeDoc.data().uid;
-  } catch (e) { return; }
+  if (profile.refCredited) return; // déjà crédité : un seul parrainage par filleul
+  const LS_KEY = 'fmpr_ref';
+  const refDocRef = doc(db, 'referrals', user.uid);
+  let refDoc = null;
+  try { refDoc = await getDoc(refDocRef); } catch (e) { return; }
+  if (!refDoc.exists()) {
+    // Migration : compte créé avant l'enregistrement à l'inscription.
+    let refCode = null;
+    try { refCode = localStorage.getItem(LS_KEY); } catch (e) {}
+    if (!refCode || !/^[A-Z0-9]{4,10}$/i.test(refCode)) return;
+    refCode = refCode.toUpperCase();
+    try { localStorage.removeItem(LS_KEY); } catch (e) {}
+    if (refCode === profile.referralCode) return; // pas d'auto-parrainage
+    let referrerUid = null;
+    try {
+      const codeDoc = await getDoc(doc(db, 'refcodes', refCode));
+      if (codeDoc.exists()) referrerUid = codeDoc.data().uid;
+    } catch (e) { return; }
+    if (!referrerUid || referrerUid === user.uid) return;
+    try {
+      await setDoc(refDocRef, {
+        referrerUid,
+        referrerCode: refCode,
+        referredUid: user.uid,
+        referredEmail: profile.email || '',
+        commission: REF_COMMISSION,
+        createdAt: serverTimestamp(),
+      });
+      refDoc = await getDoc(refDocRef);
+    } catch (e) { return; }
+  }
+  const referrerUid = refDoc.data().referrerUid;
   if (!referrerUid || referrerUid === user.uid) return;
   const referrerRef = doc(db, 'users', referrerUid);
-  // Évite le double-crédit : un seul parrainage par filleul.
-  const refDocRef = doc(db, 'referrals', user.uid);
-  const existing = await getDoc(refDocRef);
-  if (existing.exists()) return;
-  // 1) Crée la preuve de parrainage (règles : une seule fois, par le filleul).
-  await setDoc(refDocRef, {
-    referrerUid,
-    referrerCode: refCode,
-    referredUid: user.uid,
-    referredEmail: profile.email || '',
-    commission: REF_COMMISSION,
-    createdAt: serverTimestamp(),
-  });
-  // 2) Crédite le parrain (règles : +15/+1, avec preuve existante).
-  await runTransaction(db, async (tx) => {
-    const rsnap = await tx.get(referrerRef);
-    if (!rsnap.exists()) throw new Error('no-referrer');
-    const rd = rsnap.data();
-    tx.update(referrerRef, {
-      refBalance: (rd.refBalance || 0) + REF_COMMISSION,
-      refCount: (rd.refCount || 0) + 1,
+  try {
+    await runTransaction(db, async (tx) => {
+      const rsnap = await tx.get(referrerRef);
+      if (!rsnap.exists()) throw new Error('no-referrer');
+      const rd = rsnap.data();
+      tx.update(referrerRef, {
+        refBalance: (rd.refBalance || 0) + REF_COMMISSION,
+        refCount: (rd.refCount || 0) + 1,
+      });
     });
-  });
+    // Marque le crédit comme effectué (updateDoc direct : pas de debounce).
+    try { await updateDoc(doc(db, 'users', user.uid), { refCredited: true }); } catch (e) {}
+    profile.refCredited = true;
+  } catch (e) { console.warn('referral-credit', e); }
 }
