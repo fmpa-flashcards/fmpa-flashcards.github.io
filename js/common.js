@@ -15,7 +15,69 @@ export const WA_NUMBER = '212605235053';
 export const DEMO_N = 5;                 // cartes visibles en démo (non-Pro)
 export const REF_COMMISSION = 15;        // DH par filleul parrainé
 export const REF_MIN_WITHDRAW = 30;      // DH minimum pour retirer
-export const DISC_EMOJI = ['🫀', '🦴', '🧬', '🔪', '🚨', '💊', '🩸', '🪱', '🦠', '🛡️', '🧫'];
+export const DISC_ICONS = [
+  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-4.5-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 11c0 5.5-7 10-7 10z"/></svg>',
+  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>',
+  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="2.5"/><circle cx="18" cy="6" r="2.5"/><circle cx="12" cy="18" r="2.5"/><path d="M8 7.5 10.5 16M16 7.5 13.5 16M8.5 6h7"/></svg>',
+  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4.5 19.5 9.5 9 20H4v-5L14.5 4.5z"/><path d="M13 6l5 5"/></svg>',
+  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 2.5 20h19L12 3z"/><path d="M12 10v4M12 17.5v.5"/></svg>',
+  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 7h8M8 11h8M8 15h5"/></svg>',
+  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 3v18M3 12h18"/></svg>',
+  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19c4-1 5-8 8-8s4 7 8 8"/><path d="M12 11V5M10 7l2-2 2 2"/></svg>',
+  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M19.1 4.9 17 7M7 17l-2.1 2.1"/></svg>',
+  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 5-3.5 8-7 10-3.5-2-7-5-7-10V6l7-3z"/></svg>',
+  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="9" r="5"/><path d="M9 4v10M4 9h10"/></svg>',
+];
+
+/* Icônes SVG partagées pour les titres et puces (jamais de glyphes emoji). */
+export const ICONS = {
+  flame: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22c4-2 6-5.5 6-9.5 0-2.5-1-4.5-2.5-6C14 8 13 9 12.5 10 12 8 12.5 5.5 12 3c-3 2.5-5 6-5 10 0 1.5.3 3 1 4.5C8 16 7 14 7 12.5 5.5 14.5 6 19 12 22z"/></svg>',
+  trophy: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v6a5 5 0 0 1-10 0V4zM7 6H4a1 1 0 0 0-1 1c0 2 1.5 3 3 3M17 6h3a1 1 0 0 1 1 1c0 2-1.5 3-3 3"/></svg>',
+  calendar: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M8 3v4M16 3v4M3 10h18"/></svg>',
+  user: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-3.5 4.5-5 8-5s6.5 1.5 8 5"/></svg>',
+  check: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>',
+  lock: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="11" width="16" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>',
+  clock: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>',
+  search: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>',
+  book: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5v14z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/></svg>',
+  gift: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="8" width="18" height="4"/><path d="M5 12v8h14v-8M12 8v12M12 8s-4.5.3-4.5-2.2C7.5 3.5 12 4 12 8zm0 0s4.5.3 4.5-2.2C16.5 3.5 12 4 12 8z"/></svg>',
+  chat: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a8 8 0 0 1-8 8H4l2-3a8 8 0 1 1 15-5z"/></svg>',
+  phone: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="7" y="2" width="10" height="20" rx="2"/><path d="M11 18h2"/></svg>',
+  target: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.2" fill="currentColor"/></svg>',
+  med: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v16M4 12h16"/><circle cx="12" cy="12" r="9"/></svg>',
+  star: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 3.5 14.7 8.6 20.3 9.4 16.2 13.3 17.2 18.9 12 16.2 6.8 18.9 7.8 13.3 3.7 9.4 9.3 8.6Z"/></svg>',
+  refresh: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.6-6.4"/><path d="M21 3v6h-6"/></svg>',
+  wifiOff: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 2l20 20M8.5 16.5a5 5 0 0 1 7 0M5 12.9a10 10 0 0 1 3.6-2.3M12 20h.01M1.5 9a15 15 0 0 1 5-3.3M22.5 9a15 15 0 0 0-8.5-3.5"/></svg>',
+};
+export const icon = (name, cls) => `<span class="hic${cls ? ' ' + cls : ''}">${ICONS[name] || ''}</span>`;
+
+/* Anneau de progression SVG (Clean Premium) : pct 0-100. */
+export function ringSvg(pct) {
+  const p = Math.max(0, Math.min(100, Math.round(pct || 0)));
+  const c = 2 * Math.PI * 15.5;
+  const off = c - (p / 100) * c;
+  const col = p >= 100 ? 'var(--green)' : 'var(--teal)';
+  return `<svg class="ring" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="15.5" fill="none" stroke="var(--surface2)" stroke-width="4"/><circle cx="20" cy="20" r="15.5" fill="none" stroke="${col}" stroke-width="4" stroke-linecap="round" stroke-dasharray="${c.toFixed(1)}" stroke-dashoffset="${off.toFixed(1)}" transform="rotate(-90 20 20)"/><text x="20" y="24" text-anchor="middle" font-size="10" font-weight="800" fill="var(--ink)">${p}%</text></svg>`;
+}
+
+/* Profil mis en cache localement : l'accueil peut afficher « Salut {prénom} »,
+   la série et l'XP immédiatement, sans attendre Firestore (c'est pour ça que
+   l'accueil restait longtemps vide quand l'auth traînait). */
+export function cachedProfile() {
+  try { return JSON.parse(localStorage.getItem('fmpa_profile_cache') || 'null'); } catch (e) { return null; }
+}
+export function cacheProfile() {
+  if (!profile) return;
+  try {
+    localStorage.setItem('fmpa_profile_cache', JSON.stringify({
+      displayName: profile.displayName || '',
+      nickname: profile.nickname || '',
+      xp: profile.xp || 0,
+      streak: profile.streak || 0,
+      proTier: profile.proTier || null,
+    }));
+  } catch (e) {}
+}
 
 /* Capture le code de parrainage (?ref=CODE) dès le chargement. */
 try {
@@ -144,7 +206,7 @@ export function requireAuth({ timeoutMs = 15000, attempts = 3 } = {}) {
 
     const showLoading = () => {
       appEl.innerHTML = `<div class="lock">
-        <div class="big">⏳</div>
+        <div class="big">${ICONS.clock}</div>
         <h2>Vérification du compte…</h2>
         <p>Connexion en cours, merci de patienter.</p>
       </div>`;
@@ -152,12 +214,12 @@ export function requireAuth({ timeoutMs = 15000, attempts = 3 } = {}) {
 
     const showError = (offline) => {
       appEl.innerHTML = `<div class="lock">
-        <div class="big">${offline ? '📵' : '📡'}</div>
+        <div class="big">${offline ? ICONS.wifiOff : ICONS.clock}</div>
         <h2>${offline ? 'Hors connexion' : 'Connexion lente'}</h2>
         <p>${offline
           ? 'Tu sembles hors ligne.<br>Vérifie ta connexion puis réessaie.'
           : 'La vérification de ton compte prend trop de temps.<br>Vérifie ta connexion puis réessaie.'}</p>
-        <button class="btn btn-primary" id="authRetry">🔄 Réessayer</button>
+        <button class="btn btn-primary" id="authRetry">Réessayer</button>
       </div>`;
       const btn = document.getElementById('authRetry');
       if (btn) btn.onclick = () => { showLoading(); attemptLoop(); };
@@ -202,6 +264,7 @@ export function requireAuth({ timeoutMs = 15000, attempts = 3 } = {}) {
         }
         try {
           await tryOnce();
+          cacheProfile();
           registerSession();
           resolve();
           return;
@@ -530,25 +593,34 @@ export function waUnlockLink() {
   return 'https://wa.me/' + WA_NUMBER + '?text=' + txt;
 }
 
+/* Icônes SVG en ligne — jamais de glyphes de police (ils se coupent
+   sur téléphone). Chaque icône est centrée dans un conteneur .bic de 24 px. */
+const TAB_ICONS = {
+  home: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 8h10M7 12h10M7 16h6"/></svg>',
+  leaderboard: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v6a5 5 0 0 1-10 0V4zM7 6H4a1 1 0 0 0-1 1c0 2 1.5 3 3 3M17 6h3a1 1 0 0 1 1 1c0 2-1.5 3-3 3"/></svg>',
+  plan: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M8 3v4M16 3v4M3 10h18"/></svg>',
+  profile: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-3.5 4.5-5 8-5s6.5 1.5 8 5"/></svg>',
+};
+
 export function tabbar(active) {
   const tabs = [
-    ['home.html', 'home', '📚', 'Cartes'],
-    ['classement.html', 'leaderboard', '🏆', 'Classement'],
-    ['plan.html', 'plan', '🗓️', 'Plan'],
-    ['profil.html', 'profile', '👤', 'Profil'],
+    ['home.html', 'home', 'Cartes'],
+    ['classement.html', 'leaderboard', 'Classement'],
+    ['plan.html', 'plan', 'Plan'],
+    ['profil.html', 'profile', 'Profil'],
   ];
-  return '<nav class="tabbar">' + tabs.map(([href, key, emoji, label]) =>
-    `<a href="${href}" class="${key === active ? 'on' : ''}">${emoji}<span>${label}</span></a>`
+  return '<nav class="tabbar">' + tabs.map(([href, key, label]) =>
+    `<a href="${href}" class="${key === active ? 'on' : ''}"><span class="bic">${TAB_ICONS[key] || ''}</span><span>${label}</span></a>`
   ).join('') + '</nav>';
 }
 
 export function lockHtml(feature) {
   return `<div class="lock">
-    <div class="big">🔒</div>
+    <div class="big">${ICONS.lock}</div>
     <h2>${feature} — Version complète</h2>
-    <p>Débloque toutes les cartes et le classement pour <b>100 DH</b>.<br>Paiement unique, à vie.</p>
+    <p>Débloque les 6 861 cartes et le classement pour <b>100 DH</b>.<br>Paiement unique, à vie.</p>
     <a class="btn btn-primary" href="${waUnlockLink()}" target="_blank" rel="noopener"
-       style="text-decoration:none">💬 Commander sur WhatsApp</a>
+       style="text-decoration:none">Commander sur WhatsApp</a>
     <div class="hr">ou entre ton code d'activation</div>
     <div class="code-row">
       <input class="input" id="redeemInput" placeholder="XXXX-XXXX-XXXX-XXXX" autocomplete="off">
@@ -603,7 +675,7 @@ export async function redeemCode(raw) {
   profile.proTier = codeTier;
   // Parrainage : crédite le parrain si un code ?ref= a été capturé.
   try { await creditReferrer(db); } catch (e) { console.warn('referral', e); }
-  toast(codeTier === 'full' ? '🎉 Version Full activée ! Bonnes révisions !' : '🎉 Formule Cartes activée ! Bonnes révisions !');
+  toast(codeTier === 'full' ? 'Version Full activée ! Bonnes révisions !' : 'Formule Cartes activée ! Bonnes révisions !');
   setTimeout(() => location.reload(), 900);
 }
 

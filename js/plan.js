@@ -1,7 +1,7 @@
 /* Plan de révision 32 semaines. */
 import {
   requireAuth, user, guardPro, fb, loadPlan,
-  esc, $, $$, tabbar, toast, todayStr, touchStudy
+  esc, $, $$, tabbar, toast, todayStr, touchStudy, icon
 } from './common.js';
 import { doc, getDoc, setDoc } from '../vendor/firebase/firebase-firestore.js';
 
@@ -42,19 +42,46 @@ function weekDates(startDate, n) {
   return f(d) + ' → ' + f(e);
 }
 
+/* Semaine en cours d'après la date de début du plan (1 à 32). */
+function currentWeek(startDate) {
+  if (!startDate) return 1;
+  const start = new Date(startDate + 'T12:00:00');
+  const now = new Date();
+  const diff = Math.floor((now - start) / 86400000);
+  return Math.max(1, Math.min(32, Math.floor(diff / 7) + 1));
+}
+
 async function render() {
   const plan = await loadPlan();
   const st = await getPlanState();
   const totalTasks = plan.reduce((a, w) => a + w.tasks.length, 0);
   const doneTasks = Object.values(st.checks || {}).flat().filter(Boolean).length;
   const pct = totalTasks ? Math.round(doneTasks / totalTasks * 100) : 0;
+  const cw = currentWeek(st.startDate);
+  const cur = plan.find(w => w.n === cw) || plan[0];
+  const curChecks = (st.checks && st.checks[String(cur.n)]) || [];
+  const curDone = curChecks.filter(Boolean).length;
+  if (openWeek == null) openWeek = cur.n;
+  const phases = [...new Set(plan.map(w => w.phase))];
 
   let html = `
-    <div class="topbar"><h2>🗓️ Plan 32 semaines</h2></div>
+    <div class="topbar"><h2>${icon('calendar')} Plan 32 semaines</h2></div>
+    <div class="today-card">
+      <div class="eyebrow">Aujourd'hui — Semaine ${cur.n} / 32 · ${esc(cur.phase)}</div>
+      <h3>${esc(cur.title)}</h3>
+      <p>${curDone} / ${cur.tasks.length} tâches terminées</p>
+      <ul class="today-tasks">${cur.tasks.map((t, ti) => `
+        <li class="${curChecks[ti] ? 'done' : ''}">
+          <input type="checkbox" data-wn="${cur.n}" data-ti="${ti}" ${curChecks[ti] ? 'checked' : ''}>
+          <span>${esc(t)}</span>
+        </li>`).join('')}
+      </ul>
+    </div>
     <div class="xpbar">
       <div class="row"><b>${doneTasks}/${totalTasks} tâches</b><span>${pct}%</span></div>
       <div class="track"><div style="width:${pct}%"></div></div>
     </div>
+    <div class="phase-chips">${phases.map(p => `<button class="pill" data-phase="${esc(p)}">${esc(p)}</button>`).join('')}</div>
     <div class="kv"><div class="r"><span class="k">Début du plan</span>
       <span class="v"><input type="date" id="planStart" value="${esc(st.startDate || '')}" class="input" style="margin:0;padding:6px 8px;width:auto"></span></div>
     </div>`;
@@ -63,16 +90,16 @@ async function render() {
     const done = checks.filter(Boolean).length;
     const open = openWeek === w.n;
     html += `
-    <div class="week">
+    <div class="week${open ? ' open' : ''}">
       <button class="week-head" data-w="${w.n}">
         <div><span class="phase">${esc(w.phase)}</span>
           <h3>S${w.n} — ${esc(w.title)}</h3>
-          <small>${esc(weekDates(st.startDate, w.n))} · ${done}/${w.tasks.length} ✓</small></div>
-        <div style="font-size:1.2rem">${open ? '▾' : '▸'}</div>
+          <small>${esc(weekDates(st.startDate, w.n))} · ${done}/${w.tasks.length} faites</small></div>
+        <span class="chev"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg></span>
       </button>
       ${open ? `
         <p class="small" style="margin:10px 0 4px"><b>Focus :</b> ${esc(w.focus || '')}</p>
-        ${w.milestone ? `<p class="small" style="color:var(--teal);font-weight:700">🎯 ${esc(w.milestone)}</p>` : ''}
+        ${w.milestone ? `<p class="small" style="color:var(--teal);font-weight:700">${icon('target')} ${esc(w.milestone)}</p>` : ''}
         <div>${w.tasks.map((t, ti) => `
           <label class="task ${checks[ti] ? 'done' : ''}">
             <input type="checkbox" data-wn="${w.n}" data-ti="${ti}" ${checks[ti] ? 'checked' : ''}>
@@ -90,13 +117,21 @@ async function render() {
     openWeek = openWeek === +b.dataset.w ? null : +b.dataset.w;
     render();
   });
-  $$('.task input').forEach(cb => cb.onchange = async () => {
+  $$('.phase-chips .pill').forEach(b => b.onclick = () => {
+    const w = plan.find(x => x.phase === b.dataset.phase);
+    if (!w) return;
+    openWeek = w.n;
+    render();
+    const el = document.querySelector(`.week-head[data-w="${w.n}"]`);
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  });
+  $$('.task input, .today-tasks input').forEach(cb => cb.onchange = async () => {
     const st2 = await getPlanState();
     const wn = cb.dataset.wn;
     st2.checks[wn] = st2.checks[wn] || [];
     st2.checks[wn][+cb.dataset.ti] = cb.checked;
     savePlanState();
-    cb.closest('.task').classList.toggle('done', cb.checked);
+    cb.closest('.task, li').classList.toggle('done', cb.checked);
     touchStudy();
   });
   $('#planStart').onchange = async (e) => {
@@ -114,7 +149,7 @@ async function render() {
     } else {
       planState = { startDate: todayStr(), checks: {} };
       savePlanState();
-      toast('Plan réinitialisé 🗓️');
+      toast('Plan réinitialisé');
       render();
     }
   };

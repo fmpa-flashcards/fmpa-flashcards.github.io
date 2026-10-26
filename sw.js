@@ -1,21 +1,22 @@
 /* FMPA Flashcards — service worker : application multi-pages.
    - shell (pages HTML, js, css…) : NETWORK-FIRST → chaque déploiement
      est pris en compte dès la visite suivante, avec repli sur le cache hors-ligne.
-   - données (disc-*.json, index.json, plan.json, mcqm/…) : NETWORK-FIRST →
-     toujours frais en ligne, repli sur le cache hors-ligne.
+   - données (disc-*.json, index.json, plan.json, mcqm/…) : CACHE-FIRST →
+     chargées à la demande par page, disponibles hors-ligne.
    Les appels Firebase / Google ne sont jamais mis en cache.
-   IMPORTANT : incrémenter CACHE à chaque changement de stratégie/fichiers. */
-const CACHE = 'fmpa-v10';
+   IMPORTANT : incrémenter CACHE à chaque changement de stratégie/fichiers.
+   CORE ne liste QUE des fichiers qui existent (un 404 fait échouer tout
+   l'install : pas de qcm.html / um6ss*.html / pathologies.html ici). */
+const CACHE = 'fmpa-v11';
 const CORE = [
   './', 'index.html', 'home.html', 'discipline.html', 'topic.html',
-  'qcm.html', 'qcm-sujets.html', 'qcm-setup.html', 'quiz.html',
-  'classement.html', 'plan.html', 'profil.html', 'pathologies.html',
-  'um6ss.html', 'um6ss-quiz.html', 'um6ss-logo.png',
+  'classement.html', 'plan.html', 'profil.html',
   'fmpa-logo-circle.jpg', 'fmpa-logo-banner.jpg',
+  'icon-192.png', 'icon-512.png',
   'styles.css', 'firebase-config.js', 'manifest.json',
   'js/common.js', 'js/login.js', 'js/home.js', 'js/discipline.js',
-  'js/topic.js', 'js/qcm.js', 'js/quiz.js', 'js/classement.js',
-  'js/plan.js', 'js/profil.js', 'js/patho.js', 'js/um6ss.js', 'js/um6ss-quiz.js',
+  'js/topic.js', 'js/classement.js',
+  'js/plan.js', 'js/profil.js',
   'vendor/firebase/firebase-app.js', 'vendor/firebase/firebase-auth.js',
   'vendor/firebase/firebase-firestore.js',
 ];
@@ -30,13 +31,11 @@ const DATA_PATTERNS = [
   /\/um6ss\/.*\.json$/,
 ];
 
-
 self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open(CACHE).then((c) => c.addAll(CORE)).then(() => self.skipWaiting())
   );
 });
-
 
 self.addEventListener('activate', (e) => {
   e.waitUntil(
@@ -45,7 +44,6 @@ self.addEventListener('activate', (e) => {
       .then(() => self.clients.claim())
   );
 });
-
 
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
@@ -58,17 +56,19 @@ self.addEventListener('fetch', (e) => {
   const isData = DATA_PATTERNS.some((re) => re.test(url.pathname));
   if (!isCore && !isData) return;
 
-
   if (isData) {
-    // Données : réseau d'abord (toujours frais), repli cache hors-ligne.
+    // Données : cache d'abord (fichiers stables, chargés à la demande).
     e.respondWith(
-      fetch(e.request).then((res) => {
-        if (res.ok) {
-          const copy = res.clone();
-          caches.open(CACHE).then((c) => c.put(e.request, copy));
-        }
-        return res;
-      }).catch(() => caches.match(e.request))
+      caches.match(e.request).then((hit) => {
+        if (hit) return hit;
+        return fetch(e.request).then((res) => {
+          if (res.ok) {
+            const copy = res.clone();
+            caches.open(CACHE).then((c) => c.put(e.request, copy));
+          }
+          return res;
+        });
+      })
     );
     return;
   }

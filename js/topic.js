@@ -2,7 +2,7 @@
    La coquille (titre, carte, navigation) se peint immédiatement depuis le
    cache ; l'ordre des cartes (démo/Pro) suit dès que l'auth est prête. */
 import {
-  requireAuth, user, profile, isPro, hasFull, loadDisc, loadIndex, loadAllDiscs, topicEntry,
+  requireAuth, user, profile, isPro, loadDisc, loadIndex, loadAllDiscs, topicEntry,
   getTP, saveTP, markSeen, shuffle, esc, qp, tabbar, toast, DEMO_N
 } from './common.js';
 
@@ -11,6 +11,7 @@ const authP = requireAuth();
 
 const topicId = qp('id');
 const d = Math.max(0, parseInt(qp('d', '0'), 10) || 0);
+const startCard = Math.max(0, parseInt(qp('c', '0'), 10) || 0);
 const idx = await loadIndex();
 await loadDisc(d); // only the discipline from the URL — never all five
 let entry = topicEntry(topicId);
@@ -28,16 +29,18 @@ document.getElementById('app').innerHTML = `
   <div class="topbar"><h2 style="font-size:1.05rem">${esc(topic.topic)}</h2></div>
   <div id="demoSlot"></div>
   <div class="progress-line"><span id="fCount"></span><span id="fSeen"></span></div>
-  <div class="fcard" id="fcard"><div id="ftext"></div><div class="hint" id="fhint"></div></div>
+  <div class="fcard" id="fcard">
+    <div class="fcard-face" id="fFront"><div class="q" id="fQ"></div><div class="hint" id="fHintQ">Touche pour voir la réponse</div></div>
+    <div class="fcard-face" id="fBack" hidden><div class="a" id="fA"></div><div class="hint" id="fHintA">Touche pour revoir la question</div></div>
+  </div>
   <div class="star-row">
-    <button class="iconbtn" id="fStar" title="Marquer">⭐</button>
-    <button class="iconbtn" id="fShuffle" title="Mélanger">🔀</button>
+    <button class="iconbtn" id="fStar" title="Marquer" aria-label="Marquer cette carte"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 3.5 14.7 8.6 20.3 9.4 16.2 13.3 17.2 18.9 12 16.2 6.8 18.9 7.8 13.3 3.7 9.4 9.3 8.6Z"/></svg></button>
+    <button class="iconbtn" id="fShuffle" title="Mélanger" aria-label="Mélanger les cartes"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg></button>
   </div>
   <div class="fcard-nav">
     <button class="btn btn-ghost" id="fPrev">← Précédent</button>
     <button class="btn btn-primary" id="fNext">Suivant →</button>
-  </div>
-  <div id="qcmSlot"></div>`;
+  </div>`;
 document.body.insertAdjacentHTML('beforeend', tabbar(isPrepa ? 'prepa' : 'home'));
 
 const $ = (s) => document.querySelector(s);
@@ -49,11 +52,19 @@ function renderFlip() {
   const card = F.topic.cards[ci];
   const box = $('#fcard');
   box.classList.toggle('flipped', F.flipped);
-  $('#ftext').innerHTML = F.flipped
-    ? `<div class="a">${esc(card.a)}</div>`
-    : `<div class="q">${esc(card.q)}</div>`;
-  $('#fhint').textContent = F.flipped ? 'Touche pour revoir la question' : 'Touche pour voir la réponse';
+  $('#fQ').textContent = card.q;
+  $('#fA').textContent = card.a;
+  $('#fFront').hidden = F.flipped;
+  $('#fBack').hidden = !F.flipped;
   $('#fCount').textContent = `Carte ${F.pos + 1}/${F.order.length}`;
+  /* « Reprendre » sur l'accueil : mémorise le dernier sujet étudié. */
+  try {
+    localStorage.setItem('fmpa_resume', JSON.stringify({
+      d: F.discIdx, id: F.topicId, title: F.topic.topic,
+      discName: idx[F.discIdx] ? idx[F.discIdx].name : '',
+      pos: F.pos, total: F.order.length, ts: Date.now(),
+    }));
+  } catch (e) {}
   getTP(F.topicId).then(tp2 => {
     $('#fSeen').textContent = `${tp2.seen.length}/${F.topic.cards.length} vues`;
     $('#fStar').classList.toggle('on', tp2.starred.includes(ci));
@@ -72,12 +83,11 @@ authP.then(async () => {
     order = topic.cards.map((_, i) => i).slice(0, DEMO_N);
   }
   F.order = order;
+  F.pos = Math.min(startCard, Math.max(0, order.length - 1));
 
   if (!isPro()) {
-    $('#demoSlot').innerHTML = `<div class="demo-note">🎁 <b>Démo :</b> ${order.length} cartes sur ${topic.cards.length}.
+    $('#demoSlot').innerHTML = `<div class="demo-note"><b>Démo :</b> ${order.length} cartes sur ${topic.cards.length}.
       <a href="profil.html" style="color:#0a5f66;font-weight:700">Tout débloquer dès 100 DH →</a></div>`;
-  } else if (hasFull()) {
-    $('#qcmSlot').innerHTML = `<a class="btn btn-ghost" href="qcm-setup.html?kind=topic&d=${discIdx}&id=${encodeURIComponent(topicId)}" style="text-decoration:none;text-align:center">✅ QCM sur ce sujet</a>`;
   }
 
   $('#fcard').onclick = () => {
@@ -91,7 +101,7 @@ authP.then(async () => {
     F.order = shuffle(F.order);
     F.pos = 0; F.flipped = false;
     renderFlip();
-    toast('Mélangé 🔀');
+    toast('Mélangé');
   };
   $('#fStar').onclick = async () => {
     const ci = F.order[F.pos];
