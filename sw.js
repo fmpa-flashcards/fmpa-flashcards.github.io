@@ -7,14 +7,14 @@
    IMPORTANT : incrémenter CACHE à chaque changement de stratégie/fichiers.
    CORE ne liste QUE des fichiers qui existent (un 404 fait échouer tout
    l'install : pas de qcm.html / um6ss*.html / pathologies.html ici). */
-const CACHE = 'fmpa-v11';
+const CACHE = 'fmpa-v12';
 const CORE = [
   './', 'index.html', 'home.html', 'discipline.html', 'topic.html',
   'classement.html', 'plan.html', 'profil.html',
   'fmpa-logo-circle.jpg', 'fmpa-logo-banner.jpg',
   'icon-192.png', 'icon-512.png',
   'styles.css', 'firebase-config.js', 'manifest.json',
-  'js/common.js', 'js/login.js', 'js/home.js', 'js/discipline.js',
+  'js/common.js', 'js/login.js', 'js/home.js', 'js/atlas-promo.js', 'js/discipline.js',
   'js/topic.js', 'js/classement.js',
   'js/plan.js', 'js/profil.js',
   'vendor/firebase/firebase-app.js', 'vendor/firebase/firebase-auth.js',
