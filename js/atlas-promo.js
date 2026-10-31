@@ -53,7 +53,7 @@ function injectStyle() {
 }
 
 function chipsHtml() {
-  return `<div class="atlas-chips"><span>Scanner · 112 cas</span><span>Radio · 198 cas</span><span>Écho · 110 cas</span></div>`;
+  return `<div class="atlas-chips"><span>Scanner · 112 cas</span><span>Radio · 386 cas</span><span>Écho · 215 cas</span></div>`;
 }
 
 function insertPillAndCard() {
@@ -77,7 +77,7 @@ function insertPillAndCard() {
     card.rel = 'noopener';
     card.innerHTML = `<span class="a-tag">NOUVEAU</span>
       <h3>Atlas Imagerie</h3>
-      <p>420 cas réels de scanner, radiographie et échographie, avec les annotations des experts. Inclus pour les membres Pro — même compte que tes flashcards.</p>
+      <p>713 cas réels de scanner, radiographie et échographie, avec les annotations des experts. Inclus pour les membres Pro — même compte que tes flashcards.</p>
       ${chipsHtml()}
       <span class="a-btn">Ouvrir Atlas Imagerie</span>`;
     const anchor = document.getElementById('resumeSlot') || document.querySelector('.xpbar');
@@ -97,7 +97,7 @@ function showPopup() {
     <button class="a-x" type="button" aria-label="Fermer">✕</button>
     <span class="a-tag">INCLUS — MEMBRES PRO</span>
     <h3>Atlas Imagerie est arrivé</h3>
-    <p>420 cas réels — scanner, radiographie et échographie — avec les annotations des experts, déjà inclus dans ton abonnement Pro.</p>
+    <p>713 cas réels — scanner, radiographie et échographie — avec les annotations des experts, déjà inclus dans ton abonnement Pro.</p>
     ${chipsHtml()}
     <a class="a-cta" href="${SCAN_URL}" target="_blank" rel="noopener">Découvrir Atlas Imagerie</a>
     <button class="a-later" type="button">Plus tard</button>

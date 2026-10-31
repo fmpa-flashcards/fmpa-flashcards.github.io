@@ -7,7 +7,7 @@
    IMPORTANT : incrémenter CACHE à chaque changement de stratégie/fichiers.
    CORE ne liste QUE des fichiers qui existent (un 404 fait échouer tout
    l'install : pas de qcm.html / um6ss*.html / pathologies.html ici). */
-const CACHE = 'fmpa-v14';
+const CACHE = 'fmpa-v15';
 const CORE = [
   './', 'index.html', 'home.html', 'discipline.html', 'topic.html',
   'classement.html', 'plan.html', 'profil.html',
