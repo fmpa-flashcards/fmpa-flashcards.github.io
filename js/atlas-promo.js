@@ -13,7 +13,7 @@ const CSS = `
   font-weight:800;font-size:.78rem;text-decoration:none;border-radius:999px;padding:7px 12px;
   white-space:nowrap;box-shadow:0 4px 12px rgba(14,124,123,.35)}
 .atlas-pill .dot{width:7px;height:7px;border-radius:50%;background:#f5c542}
-.atlas-card{display:block;text-decoration:none;border-radius:18px;padding:18px;margin:0 0 14px;
+.atlas-card{display:block;position:relative;text-decoration:none;border-radius:18px;padding:18px;margin:0 0 14px;
   background:linear-gradient(135deg,#0e2a44,#0e7c7b);color:#fff;
   box-shadow:0 12px 26px rgba(14,42,68,.25)}
 .atlas-card .a-tag{display:inline-block;background:#c19a4b;color:#fff;font-size:.62rem;
@@ -25,6 +25,9 @@ const CSS = `
   font-size:.72rem;font-weight:700}
 .atlas-card .a-btn{display:inline-block;background:#fff;color:#0e2a44;font-weight:800;
   border-radius:11px;padding:10px 15px;font-size:.9rem}
+.atlas-card .a-close{position:absolute;top:10px;right:10px;width:28px;height:28px;border-radius:50%;
+  border:0;background:rgba(255,255,255,.16);color:#fff;font-size:15px;line-height:1;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;padding:0}
 .atlas-overlay{position:fixed;inset:0;background:rgba(8,18,30,.62);z-index:999;
   display:flex;align-items:flex-end;justify-content:center;padding:14px}
 .atlas-popup{background:#fff;border-radius:20px;max-width:430px;width:100%;padding:22px 20px;
@@ -53,7 +56,7 @@ function injectStyle() {
 }
 
 function chipsHtml() {
-  return `<div class="atlas-chips"><span>Scanner · 112 cas</span><span>Radio · 386 cas</span><span>Écho · 215 cas</span></div>`;
+  return `<div class="atlas-chips"><span>Scanner · 156 cas</span><span>Radio · 588 cas</span><span>Écho · 315 cas</span></div>`;
 }
 
 function insertPillAndCard() {
@@ -69,15 +72,17 @@ function insertPillAndCard() {
     if (streak) topbar.insertBefore(pill, streak);
     else topbar.appendChild(pill);
   }
-  if (!document.querySelector('.atlas-card')) {
+  let atlasDismissed = false;
+  try { atlasDismissed = localStorage.getItem('atlasCardDismissed') === '1'; } catch (e) {}
+  if (!atlasDismissed && !document.querySelector('.atlas-card')) {
     const card = document.createElement('a');
     card.className = 'atlas-card';
     card.href = SCAN_URL;
     card.target = '_blank';
     card.rel = 'noopener';
-    card.innerHTML = `<span class="a-tag">NOUVEAU</span>
+    card.innerHTML = `<button class="a-close" type="button" aria-label="Fermer">✕</button><span class="a-tag">NOUVEAU</span>
       <h3>Atlas Imagerie</h3>
-      <p>713 cas réels de scanner, radiographie et échographie, avec les annotations des experts. Inclus pour les membres Pro — même compte que tes flashcards.</p>
+      <p>1000+ cas réels de scanner, radiographie et échographie, avec les annotations des experts. Inclus pour les membres Pro — même compte que tes flashcards.</p>
       ${chipsHtml()}
       <span class="a-btn">Ouvrir Atlas Imagerie</span>`;
     const anchor = document.getElementById('resumeSlot') || document.querySelector('.xpbar');
@@ -86,6 +91,12 @@ function insertPillAndCard() {
       const app = document.getElementById('app');
       if (app) app.appendChild(card);
     }
+    const closeBtn = card.querySelector('.a-close');
+    if (closeBtn) closeBtn.addEventListener('click', (e) => {
+      e.preventDefault(); e.stopPropagation();
+      try { localStorage.setItem('atlasCardDismissed', '1'); } catch (err) {}
+      card.remove();
+    });
   }
 }
 
@@ -97,7 +108,7 @@ function showPopup() {
     <button class="a-x" type="button" aria-label="Fermer">✕</button>
     <span class="a-tag">INCLUS — MEMBRES PRO</span>
     <h3>Atlas Imagerie est arrivé</h3>
-    <p>713 cas réels — scanner, radiographie et échographie — avec les annotations des experts, déjà inclus dans ton abonnement Pro.</p>
+    <p>1000+ cas réels — scanner, radiographie et échographie — avec les annotations des experts, déjà inclus dans ton abonnement Pro.</p>
     ${chipsHtml()}
     <a class="a-cta" href="${SCAN_URL}" target="_blank" rel="noopener">Découvrir Atlas Imagerie</a>
     <button class="a-later" type="button">Plus tard</button>
