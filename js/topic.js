@@ -5,6 +5,8 @@ import {
   requireAuth, user, profile, isPro, loadDisc, loadIndex, loadAllDiscs, topicEntry,
   getTP, saveTP, markSeen, shuffle, esc, qp, tabbar, toast, DEMO_N
 } from './common.js';
+import { loadSR, saveSR } from './sr.js';
+import { makeKey } from './sr-scheduler.js';
 
 /* L'auth démarre tout de suite mais ne bloque pas le premier affichage. */
 const authP = requireAuth();
@@ -35,6 +37,7 @@ document.getElementById('app').innerHTML = `
   </div>
   <div class="star-row">
     <button class="iconbtn" id="fStar" title="Marquer" aria-label="Marquer cette carte"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 3.5 14.7 8.6 20.3 9.4 16.2 13.3 17.2 18.9 12 16.2 6.8 18.9 7.8 13.3 3.7 9.4 9.3 8.6Z"/></svg></button>
+    <button class="iconbtn" id="fSr" title="Ajouter à la révision espacée" aria-label="Ajouter à la révision espacée"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></button>
     <button class="iconbtn" id="fShuffle" title="Mélanger" aria-label="Mélanger les cartes"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg></button>
   </div>
   <div class="fcard-nav">
@@ -69,6 +72,16 @@ function renderFlip() {
     $('#fSeen').textContent = `${tp2.seen.length}/${F.topic.cards.length} vues`;
     $('#fStar').classList.toggle('on', tp2.starred.includes(ci));
   });
+  /* Bouton révision espacée : état de la carte courante. */
+  try {
+    const st = loadSR();
+    const enrolled = !!st.cards[makeKey(F.discIdx, F.topicId, ci)];
+    const srBtn = $('#fSr');
+    if (srBtn) {
+      srBtn.classList.toggle('on', enrolled);
+      srBtn.title = enrolled ? 'Dans la révision espacée — toucher pour retirer' : 'Ajouter à la révision espacée';
+    }
+  } catch (e) {}
 }
 
 /* Dès que l'auth est prête : ordre des cartes, démo/Pro, boutons. */
@@ -110,6 +123,30 @@ authP.then(async () => {
     if (ix >= 0) tp2.starred.splice(ix, 1); else tp2.starred.push(ci);
     saveTP(F.topicId);
     renderFlip();
+  };
+  /* Révision espacée : ajoute / retire la carte courante (ajout réservé
+     aux Pro ; le retrait reste possible même sans Pro). */
+  $('#fSr').onclick = () => {
+    const ci = F.order[F.pos];
+    const key = makeKey(F.discIdx, F.topicId, ci);
+    const st = loadSR();
+    if (st.cards[key]) {
+      delete st.cards[key];
+      st.stats.total = Object.keys(st.cards).length;
+      saveSR();
+      renderFlip();
+      toast('Retirée de la révision espacée');
+      return;
+    }
+    if (!isPro()) {
+      toast('La révision espacée est réservée aux membres Pro.');
+      return;
+    }
+    st.cards[key] = [Date.now(), 0, 2.5, 0];
+    st.stats.total = Object.keys(st.cards).length;
+    saveSR();
+    renderFlip();
+    toast('Ajoutée à la révision espacée');
   };
   renderFlip();
 }).catch(() => {});
