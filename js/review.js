@@ -105,6 +105,12 @@ function renderShell() {
     st.id = 'srReviewStyle';
     st.textContent = `
 /* Boutons de notation + méta-carte (variables du thème : clair/sombre). */
+/* [hidden] doit vraiment cacher : .grade{display:flex} et .btn{display:block}
+   de styles.css écrasent l'attribut hidden, donc la rangée de notes et le
+   bouton « Carte suivante » restaient visibles avant même de retourner la carte. */
+[hidden]{display:none!important}
+/* Carte moins vide sur cette page (min-height 300px de styles.css). */
+#srBody .fcard{min-height:220px}
 .grade{display:flex;gap:8px;margin:14px 0}
 .grade button{flex:1;border:none;border-radius:12px;padding:12px 4px;font-family:inherit;
   cursor:pointer;background:var(--surface);box-shadow:var(--shadow2)}
@@ -160,6 +166,8 @@ function renderCard() {
     $('#fFront').hidden = S.flipped;
     $('#fBack').hidden = !S.flipped;
     $('#gradeRow').hidden = !S.flipped;
+    const nx = $('#srNext');
+    if (nx) nx.hidden = !S.flipped;
   };
   document.querySelectorAll('#gradeRow button').forEach((b) => {
     b.onclick = () => onGrade(parseInt(b.dataset.g, 10));
@@ -173,7 +181,7 @@ function renderEmpty() {
   const remaining = getDueQueue().length;
   $('#srBody').innerHTML = `
   <div class="card" style="text-align:center;padding:28px 18px">
-    <h2 style="color:#0e2a44">${S.done ? 'Session terminée' : 'Rien à réviser'}</h2>
+    <h2 style="color:var(--ink)">${S.done ? 'Session terminée' : 'Rien à réviser'}</h2>
     <p class="small" style="margin-top:8px;line-height:1.6">
       ${S.done
         ? `${S.done} carte${S.done > 1 ? 's' : ''} révisée${S.done > 1 ? 's' : ''} · ${S.masteredNow} maîtrisée${S.masteredNow > 1 ? 's' : ''} maintenant.`
@@ -192,12 +200,12 @@ function renderNewPicker() {
     if (!el) return;
     el.innerHTML = `
     <div class="card" style="margin-top:14px">
-      <h2 style="color:#0e2a44;font-size:17px">Nouvelles cartes</h2>
+      <h2 style="color:var(--ink);font-size:17px">Nouvelles cartes</h2>
       <p class="small" style="margin:6px 0 10px;line-height:1.5">Ajoute jusqu'à ${NEW_PER_DAY} nouvelles cartes par jour à ta révision espacée.</p>
       <div style="display:flex;gap:8px">
-        <select id="newDisc" class="input" style="flex:1">${idx.map((d, i) =>
+        <select id="newDisc" class="input" style="flex:1;min-width:0;width:auto">${idx.map((d, i) =>
           `<option value="${i}">${esc(d.name)}</option>`).join('')}</select>
-        <button class="btn btn-primary" id="newGo" style="flex:none">Ajouter</button>
+        <button class="btn btn-primary" id="newGo" style="flex:none;width:auto">Ajouter</button>
       </div>
     </div>`;
     $('#newGo').onclick = pickNewCards;
