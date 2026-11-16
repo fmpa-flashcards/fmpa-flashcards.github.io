@@ -15,9 +15,13 @@ import {
   loadSR, saveSR, gradeCard, getDueQueue, SESSION_SIZE, NEW_PER_DAY,
 } from './sr.js';
 
+/* Verrou Pro APRÈS l'auth (comme plan.js) : guardPro lit proTier() en
+   synchrone, donc avant requireAuth() le profil est encore null et même un
+   compte Pro se fait verrouiller hors de la page. */
+await requireAuth();
 if (!guardPro('Révision espacée', 'home')) throw new Error('locked');
 
-const authP = requireAuth();
+const authP = Promise.resolve();
 const $ = (s) => document.querySelector(s);
 
 /* ------------------------------ état ------------------------------------ */

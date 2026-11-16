@@ -84,6 +84,7 @@ export async function syncFromCloud() {
       await pushToCloud();
     }
   } catch (e) { console.warn('sr sync', e); }
+  refreshHomeCard();
   return mem;
 }
 
@@ -204,9 +205,13 @@ export function refreshHomeCard() {
 let tries = 0;
 function boot() {
   if (mountHomeCard()) {
-    /* Chiffres à jour dès que l'auth + la synchro cloud sont passées. */
+    /* Re-rendre la carte une fois le profil chargé : isPro() lit proTier()
+       en synchrone, donc au premier rendu (avant requireAuth) le profil est
+       encore null et même un compte Pro voit « Débloquer avec Pro ».
+       Sans ce re-rendu, la carte restait fausse (syncFromCloud ne la
+       rafraîchit que si la copie cloud est plus récente). */
     try {
-      requireAuth().then(() => syncFromCloud()).catch(() => {});
+      requireAuth().then(() => { refreshHomeCard(); return syncFromCloud(); }).catch(() => {});
     } catch (e) {}
     return;
   }
