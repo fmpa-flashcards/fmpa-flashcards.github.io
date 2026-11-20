@@ -26,6 +26,12 @@ export const FAC = (() => {
   if (h.endsWith('.flashcartes.com')) return h.split('.')[0];
   const m = /^([a-z]+)-flashcards\.github\.io$/.exec(h);
   if (m) return m[1];
+  /* APK (app.local) : les 7 facultés partagent la même origine, la
+     faculté est le 1er segment du chemin (/fmpa/home.html). Sans ça,
+     les 7 facultés partageraient la clé fmpr_sr_v1 et leurs cartes de
+     révision se mélangeraient. */
+  const seg = (location.pathname || '').split('/').filter(Boolean)[0];
+  if (['fmpr', 'fmpa', 'fmpt', 'fmpc', 'fmpo', 'fmpf', 'fmpm'].includes(seg)) return seg;
   return 'fmpr';
 })();
 export const LS_KEY = `${FAC}_sr_v1`;

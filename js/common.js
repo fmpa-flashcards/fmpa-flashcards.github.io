@@ -194,9 +194,11 @@ export const isPro = () => hasCards(); // compat : tout palier payant
 
 /* Redirige vers la page de connexion si non connecté.
    Résout quand l'utilisateur + son profil sont prêts. Ne rejette jamais.
-   Anti-blocage : si le réseau est coupé, message immédiat ; sinon plusieurs
-   tentatives avec délai par essai, et l'instance Firestore est recréée entre
-   les essais quand le flux semble bloqué (requête qui ne répond ni n'échoue).
+   Hors-ligne : un compte déjà connecté continue (Auth + profil en cache
+   local) — un seul essai court, puis « Hors connexion » si rien n'est en
+   cache. Sinon plusieurs tentatives avec délai par essai, et l'instance
+   Firestore est recréée entre les essais quand le flux semble bloqué
+   (requête qui ne répond ni n'échoue).
    En cas d'échec final, écran d'erreur avec bouton réessayer intégré
    (sans recharger toute la page). */
 export function requireAuth({ timeoutMs = 15000, attempts = 3 } = {}) {
@@ -225,15 +227,15 @@ export function requireAuth({ timeoutMs = 15000, attempts = 3 } = {}) {
       if (btn) btn.onclick = () => { showLoading(); attemptLoop(); };
     };
 
-    /* Un essai = état d'auth + profil, le tout borné par timeoutMs. */
-    const tryOnce = () => new Promise((res, rej) => {
+    /* Un essai = état d'auth + profil, le tout borné par le délai donné. */
+    const tryOnce = (to) => new Promise((res, rej) => {
       const { auth } = fb();
       let unsub = null, done = false;
       const timer = setTimeout(() => {
         if (done) return; done = true;
         try { unsub && unsub(); } catch (e) {}
         rej(new Error('timeout'));
-      }, timeoutMs);
+      }, to);
       const finish = (fn) => {
         if (done) return; done = true;
         clearTimeout(timer);
@@ -253,17 +255,21 @@ export function requireAuth({ timeoutMs = 15000, attempts = 3 } = {}) {
     });
 
     const attemptLoop = async () => {
-      if (typeof navigator !== 'undefined' && navigator.onLine === false) {
-        showError(true);
-        return;
-      }
-      for (let i = 0; i < attempts; i++) {
+      /* Hors-ligne : on essaie quand même — Auth et Firestore gardent
+         l'utilisateur et le profil en cache local, donc un compte déjà
+         connecté continue de fonctionner sans réseau (cartes + révision
+         espacée). Un seul essai court hors-ligne (5 s) : si rien n'est
+         en cache, l'écran « Hors connexion » s'affiche vite. */
+      const offline = typeof navigator !== 'undefined' && navigator.onLine === false;
+      const maxTries = offline ? 1 : attempts;
+      const effTimeout = offline ? 5000 : timeoutMs;
+      for (let i = 0; i < maxTries; i++) {
         if (i > 0) {
           await resetDb();
           await new Promise((r) => setTimeout(r, 700));
         }
         try {
-          await tryOnce();
+          await tryOnce(effTimeout);
           cacheProfile();
           registerSession();
           resolve();
@@ -276,7 +282,7 @@ export function requireAuth({ timeoutMs = 15000, attempts = 3 } = {}) {
           console.warn('requireAuth essai ' + (i + 1) + '/' + attempts + ' échoué', e);
         }
       }
-      showError(false);
+      showError(offline);
     };
 
     attemptLoop();
