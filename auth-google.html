@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#0e2a44">
+<title>Connexion Google — Flashcartes FMPA · Agadir</title>
+<link rel="icon" href="icon-512.png">
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center;
+    padding: 24px; font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    background: #eef4f4; color: #1c2733; }
+  .card { width: 100%; max-width: 420px; background: #fff; border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(14,124,134,.15); padding: 28px 24px; text-align: center; }
+  .card img { width: 56px; height: 56px; }
+  h1 { margin: 12px 0 8px; font-size: 1.25rem; }
+  p { margin: 0 0 16px; font-size: .95rem; line-height: 1.6; color: #5b6b7c; }
+  .btn { display: flex; align-items: center; justify-content: center; gap: 10px; width: 100%;
+    padding: 13px 16px; border: 1px solid #dadce0; border-radius: 10px; background: #fff;
+    font-size: 1rem; font-weight: 600; color: #1c2733; cursor: pointer; }
+  .btn:disabled { opacity: .6; cursor: default; }
+  .err { display: none; margin: 14px 0 0; padding: 10px 12px; border-radius: 8px;
+    background: #fdecea; color: #b3261e; font-size: .9rem; text-align: left; }
+  .note { margin: 16px 0 0; font-size: .82rem; color: #8a9aa8; }
+  .fallback { display: none; margin-top: 16px; }
+  .fallback a { color: #0e7c86; font-weight: 600; }
+</style>
+</head>
+<body>
+<div class="card">
+  <img src="icon-512.png" alt="Flashcartes">
+  <h1>Connexion Google</h1>
+  <p>Connecte-toi avec ton compte Google, puis tu reviendras
+     automatiquement dans l'application Flashcards (FMPA · Agadir).</p>
+  <button class="btn" id="gBtn" type="button">
+    <svg viewBox="0 0 48 48" width="20" height="20" aria-hidden="true"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/></svg>
+    <span>Continuer avec Google</span>
+  </button>
+  <div class="err" id="err"></div>
+  <div class="fallback" id="fallback">
+    <p>Si l'application ne s'est pas ouverte toute seule,
+       <a id="backLink" href="#">touche ici pour y retourner</a>.</p>
+  </div>
+  <p class="note">Flashcartes · FMPA · Agadir</p>
+</div>
+<script type="module">
+import { initializeApp } from './vendor/firebase/firebase-app.js';
+import { getAuth, GoogleAuthProvider, signInWithPopup } from './vendor/firebase/firebase-auth.js';
+import { firebaseConfig } from './firebase-config.js';
+
+/* Page d'auth Google pour l'APPLICATION Android : elle tourne dans le
+   navigateur système (la WebView ne peut pas faire de OAuth Google).
+   Après la connexion, elle renvoie le token Google à l'app via le lien
+   flashcards://auth/google — MainActivity le transmet à la WebView. */
+const params = new URLSearchParams(location.search);
+const fac = params.get('fac') || 'fmpa';
+const app = initializeApp(firebaseConfig);
+const auth = getAuth(app);
+const showErr = (m) => { const e = document.getElementById('err'); e.style.display = 'block'; e.textContent = m; };
+const backToApp = (qs) => {
+  const url = 'flashcards://auth/google?fac=' + encodeURIComponent(fac) + qs;
+  document.getElementById('backLink').href = url;
+  document.getElementById('fallback').style.display = 'block';
+  location.href = url;
+};
+document.getElementById('gBtn').onclick = async () => {
+  const btn = document.getElementById('gBtn');
+  btn.disabled = true;
+  try {
+    const result = await signInWithPopup(auth, new GoogleAuthProvider());
+    const cred = GoogleAuthProvider.credentialFromResult(result);
+    const idToken = cred && cred.idToken;
+    if (!idToken) throw new Error('no-id-token');
+    backToApp('&token=' + encodeURIComponent(idToken));
+  } catch (e) {
+    const c = e.code || '';
+    if (c.includes('popup-closed-by-user') || c.includes('cancelled-popup-request')) {
+      backToApp('&error=cancelled');
+    } else if (c.includes('account-exists-with-different-credential')) {
+      backToApp('&error=account-exists');
+    } else if (c.includes('popup-blocked')) {
+      showErr('Le navigateur a bloqué la fenêtre Google — autorise les popups pour ce site puis réessaie.');
+    } else {
+      showErr('Connexion Google impossible : ' + (e.message || e));
+    }
+    btn.disabled = false;
+  }
+};
+</script>
+</body>
+</html>
