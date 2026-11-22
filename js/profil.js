@@ -1,7 +1,7 @@
 /* Profil : stats, Pro, appareils, déconnexion. */
 import {
   requireAuth, user, profile, fb, levelFor,
-  esc, $, $$, tabbar, toast, signOutAll,
+  esc, $, $$, tabbar, toast, signOutAll, saveProfile, pushLeaderboard,
   waUnlockLink, bindRedeem, listSessions,
   REF_COMMISSION, REF_MIN_WITHDRAW, WA_NUMBER, icon
 } from './common.js';
@@ -31,8 +31,8 @@ app.innerHTML = `
   </div>
   <div class="kv">
     <div class="r"><span class="k">Email</span><span class="v" style="font-size:.8rem">${esc(p.email || '')}</span></div>
-    <div class="r"><span class="k">Pseudo (classement)</span>
-      <span class="v"><a href="classement.html" style="color:var(--teal)">${esc(p.nickname || 'définir →')}</a></span></div>
+    <div class="r" id="nickRow"><span class="k">Pseudo (classement)</span>
+      <span class="v" id="nickCell"><a href="classement.html" style="color:var(--teal)">${esc(p.nickname || 'définir →')}</a> <button class="linklike" id="nickEditBtn" style="padding:0 0 0 6px">${p.nickname ? 'Modifier' : 'Définir'}</button></span></div>
   </div>
   <div class="kv">
     <div class="r"><span class="k">Niveau</span><span class="v">${lvl} (${(p.xp || 0).toLocaleString('fr-FR')} XP)</span></div>
@@ -81,6 +81,39 @@ app.innerHTML = `
   <button class="btn btn-ghost" id="signout">Se déconnecter</button>`;
 
 bindRedeem();
+
+/* Pseudo modifiable depuis le profil (classement) */
+function nickRowHTML() {
+  return `<span class="k">Pseudo (classement)</span>
+      <span class="v" id="nickCell"><a href="classement.html" style="color:var(--teal)">${esc(p.nickname || 'définir →')}</a> <button class="linklike" id="nickEditBtn" style="padding:0 0 0 6px">${p.nickname ? 'Modifier' : 'Définir'}</button></span>`;
+}
+function bindNickEdit() {
+  const b = $('#nickEditBtn');
+  if (!b) return;
+  b.onclick = () => {
+    const row = $('#nickRow');
+    row.style.display = 'block';
+    row.innerHTML = `<span class="k">Pseudo (classement)</span>
+      <div style="display:flex;gap:8px;margin-top:8px"><input class="input" id="nickInput" maxlength="30" value="${esc(p.nickname || '')}" placeholder="Pseudo" autocomplete="off" style="margin-top:0;flex:1;min-width:0;text-transform:none"><button class="btn btn-ghost" id="nickOkBtn" style="width:auto;margin-top:0;flex:none">OK</button></div>
+      <div style="text-align:right"><button class="linklike" id="nickCancelBtn">Annuler</button></div>`;
+    const inp = $('#nickInput');
+    inp.focus(); inp.select();
+    const done = () => { row.style.display = ''; row.innerHTML = nickRowHTML(); bindNickEdit(); };
+    const save = () => {
+      const v = inp.value.trim().slice(0, 30);
+      if (!v) { toast('Choisis un pseudo (1 à 30 caractères).'); inp.focus(); return; }
+      if (v === (p.nickname || '')) { done(); return; }
+      saveProfile({ nickname: v });
+      pushLeaderboard(true);
+      toast('Pseudo modifié !');
+      done();
+    };
+    $('#nickCancelBtn').onclick = done;
+    $('#nickOkBtn').onclick = save;
+    inp.onkeydown = e => { if (e.key === 'Enter') save(); if (e.key === 'Escape') done(); };
+  };
+}
+bindNickEdit();
 document.body.insertAdjacentHTML('beforeend', tabbar('profile'));
 
 $('#signout').onclick = () => signOutAll();
